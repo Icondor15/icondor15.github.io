@@ -36,9 +36,10 @@
     </head>
 
     <body>
-        <p style="margin: 10px auto; text-align: center;">
-            Made by <a href="https://x.com/CondorDraws" style="font-weight: bold;">Icondor</a> / <b>@icondor</b> on Discord.
-        </p>
+        <div style="margin: 10px auto; text-align: center;">
+            <p style="margin-bottom: 2px;">Made by <a href="https://x.com/CondorDraws" style="font-weight: bold;">Icondor</a> / <b>@icondor</b> on Discord.</p>
+            <sub id="Date"></sub>
+        </div>
         <table id="MainTable" style="margin: auto; width: 100%; text-align: center;">
             <tr>
                 <td colspan="9">    
@@ -85,6 +86,7 @@
 
         <script>
             document.getElementById("Count").innerHTML = "Free To Play Challenge Enthusiasts Games: " + data.length;
+            document.getElementById("Date").innerHTML = "Last checked on: <b>" + date["day"] + "/" + date["month"] + "/" + date["year"] + "</b>";
 
             orderPoints();
 
