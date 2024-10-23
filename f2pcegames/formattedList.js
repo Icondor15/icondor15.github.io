@@ -925,3 +925,9 @@ var data =
         "playersTotal": 107
     }
 ]
+var date =
+{
+    "day": 23,
+    "month": 10,
+    "year": 2024
+}
