@@ -1,0 +1,236 @@
+<html>
+    <head>
+        <style>
+        * {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        table {
+        border:1px solid black;
+        }
+
+        td {
+            border:2px solid black;
+        }
+
+        a {
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .button {
+            background-color: #dddddd;
+        }
+
+        .button:hover {
+            cursor:pointer;
+            background-color: #bbbbbb;
+        }
+
+        .button:active {
+            background-color: #888888;
+        }
+        </style>
+    </head>
+
+    <body>
+
+        <table id="MainTable" style="margin: auto; width: 100%; text-align: center;">
+            <tr>
+                <td colspan="9">    
+                    <p id="Count" style="margin: auto; padding: 15px; font-size: 30; font-weight: bold; text-align: center;"></p>
+                </td>
+            </tr>
+            <tr style="border:0px">
+                <td class="button" style="padding:0px" onclick="orderName()">Order By Name</td>
+                <td class="button" style="padding:0px" onclick="orderGenre()">Order By Genre</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="orderPoints()">Order By Points</td>
+                <td class="button" style="padding:0px" onclick="orderOwners()">Order By Owners</td>
+                <td class="button" style="padding:0px" onclick="orderCompletions()">Order By Completions</td>
+                <td class="button" style="padding:0px" onclick="orderCompletionPercentage()">%</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="orderSteam()">Order By Steam Id</td>
+            </tr>
+            <tr style="font-weight: bold;">
+                <td>Name</td>
+                <td>Genre</td>
+                <td colspan="2">Tier / Points</td>
+                <td colspan="3">Owners / Completions / Comp. %</td>
+                <td>IDs</td>
+                <td>Links</td>
+            </tr>
+            <tr style="font-weight: bold;">
+                <td>Name</td>
+                <td>Genre</td>
+                <td colspan="2">Tier / Points</td>
+                <td colspan="3">Owners / Completions / Comp. %</td>
+                <td>IDs</td>
+                <td>Links</td>
+            </tr>
+            <tr style="border:0px">
+                <td class="button" style="padding:0px" onclick="orderName()">Order By Name</td>
+                <td class="button" style="padding:0px" onclick="orderGenre()">Order By Genre</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="orderPoints()">Order By Points</td>
+                <td class="button" style="padding:0px" onclick="orderOwners()">Order By Owners</td>
+                <td class="button" style="padding:0px" onclick="orderCompletions()">Order By Completions</td>
+                <td class="button" style="padding:0px" onclick="orderCompletionPercentage()">%</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="orderSteam()">Order By Steam Id</td>
+            </tr>
+        </table>
+
+        <script src="formattedList.js"></script>
+
+        <script>
+            document.getElementById("Count").innerHTML = "Free To Play Challenge Enthusiasts Games: " + data.length;
+
+            orderPoints();
+
+            function orderName()
+            {
+                data.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0));
+                generateTable();
+            }
+            function orderGenre()
+            {
+                data.sort((a,b) => (a.genre > b.genre) ? 1 : ((b.genre > a.genre) ? -1 : 0));
+                generateTable();
+            }
+            function orderPoints()
+            {
+                data.sort((a,b) => a.points - b.points);
+                generateTable();
+            }
+            function orderOwners()
+            {
+                data.sort((a,b) => a.playersTotal - b.playersTotal);
+                generateTable();
+            }
+            function orderCompletions()
+            {
+                data.sort((a,b) => a.playersCompleted - b.playersCompleted);
+                generateTable();
+            }
+            function orderCompletionPercentage()
+            {
+                data.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
+                generateTable();
+            }
+            function orderSteam()
+            {
+                data.sort((a,b) => a.platformId - b.platformId);
+                generateTable();
+            }
+
+            function generateTable()
+            {
+                var table = document.getElementById("MainTable");
+                var replace = document.getElementsByClassName("replace");
+
+                document.querySelectorAll('.replace').forEach(e => e.remove());
+                
+                for(let i = 0; i < data.length; i++)
+                {
+                    var row1 = table.insertRow((i*2)+3);
+                    row1.classList.add("replace");
+                    var cellName = row1.insertCell(0);
+                    cellName.rowSpan = 2;
+                    var cellGenre = row1.insertCell(1);
+                    cellGenre.rowSpan = 2;
+                    var cellTier = row1.insertCell(2);
+                    cellTier.rowSpan = 2;
+                    var cellPoints = row1.insertCell(3);
+                    cellPoints.rowSpan = 2;
+                    var cellOwners = row1.insertCell(4);
+                    cellOwners.rowSpan = 2;
+                    var cellFullCompletion = row1.insertCell(5);
+                    cellFullCompletion.style.backgroundColor = "#00FF0055";
+                    var cellCompletionPercentage = row1.insertCell(6);
+                    cellCompletionPercentage.style.backgroundColor = "#00FF0055";
+                    var cellSteam = row1.insertCell(7);
+                    var cellLinkSteam = row1.insertCell(8);
+
+                    var row2 = table.insertRow(((i+1)*2)+2);
+                    row2.classList.add("replace");
+                    var cellPartialCompletion = row2.insertCell(0);
+                    cellPartialCompletion.style.backgroundColor = "#FFCC0055";
+                    var cellPartialPercentage = row2.insertCell(1);
+                    cellPartialPercentage.style.backgroundColor = "#FFCC0055";
+                    var cellCE = row2.insertCell(2);
+                    var cellLinkCE = row2.insertCell(3);
+                    
+
+
+                    cellName.innerHTML = data[i]["name"];
+                    cellGenre.innerHTML = data[i]["genre"];
+                    cellTier.innerHTML = "T" + data[i]["tier"];
+                    
+                    switch(data[i]["tier"]){
+                        case 0:
+                            cellTier.style.backgroundColor = "#C5CBD3";
+                            break;
+                        case 1:
+                            cellTier.style.backgroundColor = "#5DC118";
+                            break;
+                        case 2:
+                            cellTier.style.backgroundColor = "#F2CF24";
+                            break;
+                        case 3:
+                            cellTier.style.backgroundColor = "#FF6F21";
+                            break;
+                        case 4:
+                            cellTier.style.backgroundColor = "#FF2424";
+                            break;
+                        case 5:
+                            cellTier.style.backgroundColor = "#000000";
+                            cellTier.style.color = "#FFFFFF";
+                            break;
+
+                    }
+                    cellPoints.innerHTML = data[i]["points"];
+                    if(data[i]["points"] % 5 > 0)
+                    {
+                        cellPoints.style.backgroundColor = "#FFFF0055";
+                    }
+                    
+                    cellOwners.innerHTML = data[i]["playersTotal"];
+                    cellFullCompletion.innerHTML = data[i]["playersCompleted"];
+                    cellPartialCompletion.innerHTML = data[i]["playersStarted"];
+                    cellCompletionPercentage.innerHTML = toFixed(data[i]["playersCompleted"] / data[i]["playersTotal"] * 100, 1) + "%";
+                    cellPartialPercentage.innerHTML = toFixed(data[i]["playersStarted"] / data[i]["playersTotal"] * 100, 1) + "%";
+                   
+                    //Function specifically to truncate percentage
+                    function toFixed(num, fixed) {
+                        var re = new RegExp('^-?\\d+(?:\.\\d{0,' + (fixed || -1) + '})?');
+                        return num.toString().match(re)[0];
+                    }
+
+                    cellSteam.innerHTML = data[i]["platformId"];
+                    cellCE.innerHTML = data[i]["CEId"];
+
+                    cellLinkSteam.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#1D88C7'>Steam</a>";
+                    var a = document.getElementById("tmp");
+                    a.href = "https://store.steampowered.com/app/" + data[i]["platformId"];
+                    a.id = null;
+
+
+                    cellLinkCE.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#000000'>Challenge Enthusiasts</a>";
+                    var a = document.getElementById("tmp");
+                    a.href = "https://cedb.me/game/" + data[i]["CEId"];
+                    a.id = null;
+
+                    if(i%2 == 0)
+                    {
+                        row1.style.backgroundColor = "#dddddd";
+                        row2.style.backgroundColor = "#dddddd";
+                    }
+                    else
+                    {
+                        row1.style.backgroundColor = "#bbbbbb";
+                        row2.style.backgroundColor = "#bbbbbb";
+                    }
+                }
+            }
+        </script>
+    </body>
+</html>
