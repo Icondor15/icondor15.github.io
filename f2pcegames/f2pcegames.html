@@ -167,8 +167,28 @@
 
                     cellName.innerHTML = data[i]["name"];
                     cellGenre.innerHTML = data[i]["genre"];
+                    switch(data[i]["genre"]){
+                        case "Action":
+                            cellGenre.style.backgroundColor = "#FF000033";
+                            break;
+                        case "Arcade":
+                            cellGenre.style.backgroundColor = "#0000FF33";
+                            break;
+                        case "Bullet Hell":
+                            cellGenre.style.backgroundColor = "#FF00FF33";
+                            break;
+                        case "First-Person":
+                            cellGenre.style.backgroundColor = "#FF990033";
+                            break;
+                        case "Platformer":
+                            cellGenre.style.backgroundColor = "#00FF0033";
+                            break;
+                        case "Strategy":
+                            cellGenre.style.backgroundColor = "#FFFF0033";
+                            break;
+                    }
+
                     cellTier.innerHTML = "T" + data[i]["tier"];
-                    
                     switch(data[i]["tier"]){
                         case 0:
                             cellTier.style.backgroundColor = "#C5CBD3";
