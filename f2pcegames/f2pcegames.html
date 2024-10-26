@@ -4,7 +4,7 @@
         <link rel="icon" type="image/x-icon" href="favicon.ico">
         <style>
         * {
-            font-family: Arial, Helvetica, sans-serif;
+            font-family: 'Tahoma', Helvetica, sans-serif;
         }
 
         table {
@@ -45,19 +45,19 @@
         <table id="MainTable" style="margin: auto; width: 100%; text-align: center;">
             <tr>
                 <td colspan="9">    
-                    <p id="Count" style="margin: auto; padding: 15px; font-size: 30; font-weight: bold; text-align: center;"></p>
+                    <p id="Count" style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;"></p>
                 </td>
             </tr>
             <tr style="border:0px">
-                <td class="button" style="padding:0px" onclick="orderName()">Order By Name</td>
-                <td class="button" style="padding:0px" onclick="orderGenre()">Order By Genre</td>
-                <td class="button" style="padding:0px" colspan="2" onclick="orderPoints()">Order By Points</td>
-                <td class="button" style="padding:0px" onclick="orderOwners()">Order By Owners</td>
-                <td class="button" style="padding:0px" onclick="orderCompletions()">Order By Completions</td>
-                <td class="button" style="padding:0px" onclick="orderCompletionPercentage()">%</td>
-                <td class="button" style="padding:0px" colspan="2" onclick="orderSteam()">Order By Steam Id</td>
+                <td class="button" style="padding:0px" onclick="order('name')">Order By Name</td>
+                <td class="button" style="padding:0px" onclick="order('genre')">Order By Genre</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('points')">Order By Points</td>
+                <td class="button" style="padding:0px" onclick="order('playersTotal')">Order By Owners</td>
+                <td class="button" style="padding:0px" onclick="order('playersCompleted')">Order By Completions</td>
+                <td class="button" style="padding:0px" onclick="order('percentage')">%</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('platformId')">Order By Steam Id</td>
             </tr>
-            <tr style="font-weight: bold;">
+            <tr style="font-weight: bold; user-select: none;">
                 <td>Name</td>
                 <td>Genre</td>
                 <td colspan="2">Tier / Points</td>
@@ -74,13 +74,13 @@
                 <td>Links</td>
             </tr>
             <tr style="border:0px">
-                <td class="button" style="padding:0px" onclick="orderName()">Order By Name</td>
-                <td class="button" style="padding:0px" onclick="orderGenre()">Order By Genre</td>
-                <td class="button" style="padding:0px" colspan="2" onclick="orderPoints()">Order By Points</td>
-                <td class="button" style="padding:0px" onclick="orderOwners()">Order By Owners</td>
-                <td class="button" style="padding:0px" onclick="orderCompletions()">Order By Completions</td>
-                <td class="button" style="padding:0px" onclick="orderCompletionPercentage()">%</td>
-                <td class="button" style="padding:0px" colspan="2" onclick="orderSteam()">Order By Steam Id</td>
+                <td class="button" style="padding:0px" onclick="order('name')">Order By Name</td>
+                <td class="button" style="padding:0px" onclick="order('genre')">Order By Genre</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('points')">Order By Points</td>
+                <td class="button" style="padding:0px" onclick="order('playersTotal')">Order By Owners</td>
+                <td class="button" style="padding:0px" onclick="order('playersCompleted')">Order By Completions</td>
+                <td class="button" style="padding:0px" onclick="order('percentage')">%</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('platformId')">Order By Steam Id</td>
             </tr>
         </table>
 
@@ -90,41 +90,21 @@
             document.getElementById("Count").innerHTML = "Free To Play Challenge Enthusiasts Games: " + data.length;
             document.getElementById("Date").innerHTML = "Last checked on: <b>" + date["day"] + "/" + date["month"] + "/" + date["year"] + "</b> at <b>" + date["hour"] + ":" + date["minute"] + ":" + date["second"] + "</b>.";
 
-            orderPoints();
+            order('points');
 
-            function orderName()
+            function order(type)
             {
-                data.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0));
-                generateTable();
-            }
-            function orderGenre()
-            {
-                data.sort((a,b) => (a.genre > b.genre) ? 1 : ((b.genre > a.genre) ? -1 : 0));
-                generateTable();
-            }
-            function orderPoints()
-            {
-                data.sort((a,b) => a.points - b.points);
-                generateTable();
-            }
-            function orderOwners()
-            {
-                data.sort((a,b) => a.playersTotal - b.playersTotal);
-                generateTable();
-            }
-            function orderCompletions()
-            {
-                data.sort((a,b) => a.playersCompleted - b.playersCompleted);
-                generateTable();
-            }
-            function orderCompletionPercentage()
-            {
-                data.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
-                generateTable();
-            }
-            function orderSteam()
-            {
-                data.sort((a,b) => a.platformId - b.platformId);
+                data.sort((a,b) => (a["name"] > b["name"]) ? 1 : ((b["name"] > a["name"]) ? -1 : 0));
+
+                if(type != "percentage")
+                {
+                    data.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+                }
+                else
+                {
+                    data.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
+                }
+
                 generateTable();
             }
 
