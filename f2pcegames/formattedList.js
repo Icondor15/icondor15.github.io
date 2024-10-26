@@ -1,7 +1,7 @@
 var data =
 [
     {
-        "platformId": "613920",
+        "platformId": 613920,
         "CEId": "76574ec1-42df-4488-a511-b9f2d9290e5d",
         "name": "- Challenge Enthusiasts -",
         "genre": "Action",
@@ -12,7 +12,7 @@ var data =
         "playersTotal": 174
     },
     {
-        "platformId": "1485250",
+        "platformId": 1485250,
         "CEId": "27578157-10b2-4f29-acee-452c2dc59477",
         "name": "- Puzzle Games -",
         "genre": "Strategy",
@@ -23,7 +23,7 @@ var data =
         "playersTotal": 171
     },
     {
-        "platformId": "2679690",
+        "platformId": 2679690,
         "CEId": "ebe1cad0-4175-47b2-a80a-0d60acaa63db",
         "name": "Age of Advent",
         "genre": "Arcade",
@@ -34,7 +34,7 @@ var data =
         "playersTotal": 68
     },
     {
-        "platformId": "1768550",
+        "platformId": 1768550,
         "CEId": "225e20bf-2715-4cdc-9ed6-28d75efafd52",
         "name": "Alien Removal Division",
         "genre": "First-Person",
@@ -45,7 +45,7 @@ var data =
         "playersTotal": 144
     },
     {
-        "platformId": "1186160",
+        "platformId": 1186160,
         "CEId": "98b5a560-ecea-47c9-b9ae-1a1dd31e91ce",
         "name": "All Day Dying",
         "genre": "First-Person",
@@ -56,7 +56,7 @@ var data =
         "playersTotal": 178
     },
     {
-        "platformId": "1877190",
+        "platformId": 1877190,
         "CEId": "ec821a86-585f-4434-b135-7aaaf5e80d8e",
         "name": "Astrogon",
         "genre": "Platformer",
@@ -67,7 +67,7 @@ var data =
         "playersTotal": 82
     },
     {
-        "platformId": "459680",
+        "platformId": 459680,
         "CEId": "d388f449-1504-4b5b-a776-161f0bf2b2ef",
         "name": "Auro: A Monster-Bumping Adventure",
         "genre": "Strategy",
@@ -78,7 +78,7 @@ var data =
         "playersTotal": 63
     },
     {
-        "platformId": "1712830",
+        "platformId": 1712830,
         "CEId": "989b037e-7746-45a3-bf50-e86c190192a0",
         "name": "Baldi's Basics Classic Remastered",
         "genre": "First-Person",
@@ -89,7 +89,7 @@ var data =
         "playersTotal": 203
     },
     {
-        "platformId": "1961770",
+        "platformId": 1961770,
         "CEId": "66011c02-3adb-460b-b20b-98cc0bc6e55c",
         "name": "Ball Go Home",
         "genre": "Platformer",
@@ -100,7 +100,7 @@ var data =
         "playersTotal": 39
     },
     {
-        "platformId": "2099440",
+        "platformId": 2099440,
         "CEId": "19903188-b0cc-4dc0-855f-3d048d8a5845",
         "name": "Bananner Nababber",
         "genre": "Action",
@@ -111,7 +111,7 @@ var data =
         "playersTotal": 116
     },
     {
-        "platformId": "2232950",
+        "platformId": 2232950,
         "CEId": "d34ba346-d605-478a-8ff2-c0bf65ca38c1",
         "name": "Bobo The Cat",
         "genre": "Platformer",
@@ -119,10 +119,10 @@ var data =
         "points": 10,
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 7
+        "playersTotal": 8
     },
     {
-        "platformId": "1954100",
+        "platformId": 1954100,
         "CEId": "d8226935-eb6c-491f-aac2-d6db16691de7",
         "name": "Bunny Hop : Eggstreme",
         "genre": "First-Person",
@@ -133,7 +133,7 @@ var data =
         "playersTotal": 106
     },
     {
-        "platformId": "1992430",
+        "platformId": 1992430,
         "CEId": "38fe51b2-1a16-4ae6-a2df-42a89115b6b5",
         "name": "Cheese Game",
         "genre": "Bullet Hell",
@@ -144,7 +144,7 @@ var data =
         "playersTotal": 107
     },
     {
-        "platformId": "1602330",
+        "platformId": 1602330,
         "CEId": "09f100aa-caa7-4154-a224-1c3e9277eea4",
         "name": "Clown Town",
         "genre": "Action",
@@ -155,7 +155,7 @@ var data =
         "playersTotal": 58
     },
     {
-        "platformId": "711690",
+        "platformId": 711690,
         "CEId": "7304b139-2682-4cf8-b1e1-c773fff0fd73",
         "name": "Cognizer",
         "genre": "Arcade",
@@ -166,7 +166,7 @@ var data =
         "playersTotal": 88
     },
     {
-        "platformId": "1571120",
+        "platformId": 1571120,
         "CEId": "0ebb34ca-6415-4a12-9171-35d831a80c83",
         "name": "Crucible",
         "genre": "Bullet Hell",
@@ -177,7 +177,7 @@ var data =
         "playersTotal": 91
     },
     {
-        "platformId": "1194480",
+        "platformId": 1194480,
         "CEId": "47510d69-2091-4a61-a1cb-c9e88976fb54",
         "name": "Cursed Gem",
         "genre": "Platformer",
@@ -188,7 +188,7 @@ var data =
         "playersTotal": 57
     },
     {
-        "platformId": "404700",
+        "platformId": 404700,
         "CEId": "d3e01c28-5320-499c-a8df-57c41a0597be",
         "name": "Curvatron",
         "genre": "Arcade",
@@ -199,7 +199,7 @@ var data =
         "playersTotal": 233
     },
     {
-        "platformId": "1739800",
+        "platformId": 1739800,
         "CEId": "5ea55abb-cbf0-4051-b29b-87ba78bc85de",
         "name": "Damn Ropes",
         "genre": "Platformer",
@@ -210,7 +210,7 @@ var data =
         "playersTotal": 24
     },
     {
-        "platformId": "739290",
+        "platformId": 739290,
         "CEId": "cea0c0ab-a21a-4999-b3e0-1c8d3675be36",
         "name": "Dark Old Sun",
         "genre": "Bullet Hell",
@@ -221,7 +221,7 @@ var data =
         "playersTotal": 84
     },
     {
-        "platformId": "1647160",
+        "platformId": 1647160,
         "CEId": "d5b52d31-5dee-4f0b-9fa8-3c41c76c0063",
         "name": "Deepest Sword",
         "genre": "Platformer",
@@ -232,7 +232,7 @@ var data =
         "playersTotal": 527
     },
     {
-        "platformId": "563180",
+        "platformId": 563180,
         "CEId": "f9db2921-9f5b-445f-844a-ca03c0763c6b",
         "name": "Dispersio",
         "genre": "Platformer",
@@ -243,7 +243,7 @@ var data =
         "playersTotal": 152
     },
     {
-        "platformId": "1489850",
+        "platformId": 1489850,
         "CEId": "e835c13e-f294-4573-bfe3-d6c3cf904c2f",
         "name": "Dispersio 2",
         "genre": "Action",
@@ -254,7 +254,7 @@ var data =
         "playersTotal": 91
     },
     {
-        "platformId": "2472840",
+        "platformId": 2472840,
         "CEId": "47a3bdc4-7079-4546-816e-df12399a5ed4",
         "name": "Ducks Can Drive",
         "genre": "Arcade",
@@ -265,7 +265,7 @@ var data =
         "playersTotal": 91
     },
     {
-        "platformId": "1772180",
+        "platformId": 1772180,
         "CEId": "3cd9f686-132f-4c8e-953d-bde343bce90c",
         "name": "Eat Colors",
         "genre": "Platformer",
@@ -276,7 +276,7 @@ var data =
         "playersTotal": 43
     },
     {
-        "platformId": "1819570",
+        "platformId": 1819570,
         "CEId": "f41bff5d-ae5a-4338-bc19-a0a42939dcf2",
         "name": "Eraser",
         "genre": "Platformer",
@@ -287,7 +287,7 @@ var data =
         "playersTotal": 225
     },
     {
-        "platformId": "1533280",
+        "platformId": 1533280,
         "CEId": "4b07fa14-ef52-43ed-ae1e-2d10efd1f721",
         "name": "Eternal Cave Escape",
         "genre": "Platformer",
@@ -298,7 +298,7 @@ var data =
         "playersTotal": 126
     },
     {
-        "platformId": "1769510",
+        "platformId": 1769510,
         "CEId": "79030bec-fe1f-4367-8089-012de4c9602f",
         "name": "FEWAR-DVD",
         "genre": "Arcade",
@@ -309,7 +309,7 @@ var data =
         "playersTotal": 86
     },
     {
-        "platformId": "341760",
+        "platformId": 341760,
         "CEId": "1b6399d1-b078-4d4f-8e09-7257f43d165d",
         "name": "Flem",
         "genre": "Platformer",
@@ -320,7 +320,7 @@ var data =
         "playersTotal": 189
     },
     {
-        "platformId": "339120",
+        "platformId": 339120,
         "CEId": "6c804d77-119f-4e5d-abeb-e475dead3154",
         "name": "Fork Parker's Holiday Profit Hike",
         "genre": "Platformer",
@@ -331,7 +331,7 @@ var data =
         "playersTotal": 214
     },
     {
-        "platformId": "2593450",
+        "platformId": 2593450,
         "CEId": "9450e816-e85f-4b34-b8ec-993b9daa1ede",
         "name": "Furi Demake - The Chain",
         "genre": "Action",
@@ -342,7 +342,7 @@ var data =
         "playersTotal": 111
     },
     {
-        "platformId": "1333090",
+        "platformId": 1333090,
         "CEId": "ff73f8f0-e5c6-4c90-9702-add88b698e03",
         "name": "Gravity",
         "genre": "Arcade",
@@ -353,7 +353,7 @@ var data =
         "playersTotal": 128
     },
     {
-        "platformId": "2326420",
+        "platformId": 2326420,
         "CEId": "90c20576-3cbe-4326-9a86-edb26eef7184",
         "name": "Halfway Down",
         "genre": "Platformer",
@@ -364,18 +364,18 @@ var data =
         "playersTotal": 23
     },
     {
-        "platformId": "1114940",
+        "platformId": 1114940,
         "CEId": "56d0314e-a40a-4024-98d0-e05bb742ee6a",
         "name": "I Wanna Maker",
         "genre": "Platformer",
         "tier": 1,
         "points": 5,
-        "playersCompleted": 42,
+        "playersCompleted": 43,
         "playersStarted": 0,
-        "playersTotal": 348
+        "playersTotal": 350
     },
     {
-        "platformId": "2338220",
+        "platformId": 2338220,
         "CEId": "04977cb1-e931-4688-b102-fd74383a2dee",
         "name": "Irradiant",
         "genre": "Action",
@@ -383,10 +383,10 @@ var data =
         "points": 5,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 10
+        "playersTotal": 11
     },
     {
-        "platformId": "368950",
+        "platformId": 368950,
         "CEId": "fb7117dc-1648-43b5-9b91-37b9199edce5",
         "name": "Jigoku Kisetsukan: Sense of the Seasons",
         "genre": "Bullet Hell",
@@ -397,7 +397,7 @@ var data =
         "playersTotal": 243
     },
     {
-        "platformId": "467380",
+        "platformId": 467380,
         "CEId": "d6dcddca-3892-42b6-a4fe-b86f7ecab489",
         "name": "Khimera: Destroy All Monster Girls",
         "genre": "Action",
@@ -408,7 +408,7 @@ var data =
         "playersTotal": 185
     },
     {
-        "platformId": "626680",
+        "platformId": 626680,
         "CEId": "37e2dea6-b6ef-4799-86b0-a3906c17eb85",
         "name": "Kreedz Climbing",
         "genre": "First-Person",
@@ -419,7 +419,7 @@ var data =
         "playersTotal": 319
     },
     {
-        "platformId": "1309940",
+        "platformId": 1309940,
         "CEId": "651051b5-6878-49d8-afa9-8c23c63ee518",
         "name": "Lorera",
         "genre": "Platformer",
@@ -430,7 +430,7 @@ var data =
         "playersTotal": 121
     },
     {
-        "platformId": "2009720",
+        "platformId": 2009720,
         "CEId": "9afdf642-4ea4-4bca-9207-2d1b08b72c22",
         "name": "Mega Serval",
         "genre": "Action",
@@ -441,7 +441,7 @@ var data =
         "playersTotal": 126
     },
     {
-        "platformId": "1283130",
+        "platformId": 1283130,
         "CEId": "2105b7d4-3612-4e55-9fff-765a7c986854",
         "name": "Micro Platformer",
         "genre": "Platformer",
@@ -449,10 +449,10 @@ var data =
         "points": 15,
         "playersCompleted": 84,
         "playersStarted": 0,
-        "playersTotal": 438
+        "playersTotal": 439
     },
     {
-        "platformId": "1517830",
+        "platformId": 1517830,
         "CEId": "97c80c86-1a30-4ff8-9954-a2aad53af72f",
         "name": "Miska's Cave",
         "genre": "Action",
@@ -463,7 +463,7 @@ var data =
         "playersTotal": 59
     },
     {
-        "platformId": "1625450",
+        "platformId": 1625450,
         "CEId": "374d4bf9-c2f8-4032-aa54-5c11194287ab",
         "name": "Muck",
         "genre": "First-Person",
@@ -471,10 +471,10 @@ var data =
         "points": 15,
         "playersCompleted": 2,
         "playersStarted": 13,
-        "playersTotal": 461
+        "playersTotal": 462
     },
     {
-        "platformId": "1064610",
+        "platformId": 1064610,
         "CEId": "5ad1ad21-86eb-42fb-ab1d-f66f6ea62ab2",
         "name": "Neon Beats",
         "genre": "Platformer",
@@ -485,7 +485,7 @@ var data =
         "playersTotal": 96
     },
     {
-        "platformId": "1057850",
+        "platformId": 1057850,
         "CEId": "db21aec8-327f-45ba-bc59-579775c34092",
         "name": "Neon Boost",
         "genre": "First-Person",
@@ -496,7 +496,7 @@ var data =
         "playersTotal": 258
     },
     {
-        "platformId": "745560",
+        "platformId": 745560,
         "CEId": "54221c72-e85f-4d22-9110-0a7951157999",
         "name": "Overclocked",
         "genre": "Platformer",
@@ -507,7 +507,7 @@ var data =
         "playersTotal": 203
     },
     {
-        "platformId": "547540",
+        "platformId": 547540,
         "CEId": "2641ff76-b3c5-4a77-86d6-1fdec4c2b7b1",
         "name": "panGEMic",
         "genre": "Platformer",
@@ -518,7 +518,7 @@ var data =
         "playersTotal": 136
     },
     {
-        "platformId": "3483",
+        "platformId": 3483,
         "CEId": "5381856b-3256-4ff6-914b-6cfd1b6e3813",
         "name": "Peggle Extreme",
         "genre": "Strategy",
@@ -529,7 +529,7 @@ var data =
         "playersTotal": 251
     },
     {
-        "platformId": "701440",
+        "platformId": 701440,
         "CEId": "00731d5c-6db8-4f90-99a8-66d3871c9f35",
         "name": "Phantom Jump",
         "genre": "Platformer",
@@ -540,7 +540,7 @@ var data =
         "playersTotal": 304
     },
     {
-        "platformId": "1040490",
+        "platformId": 1040490,
         "CEId": "8a77237e-2293-4838-a297-5357e131fdde",
         "name": "Prologue for a Vacant Kingdom",
         "genre": "Bullet Hell",
@@ -551,7 +551,7 @@ var data =
         "playersTotal": 228
     },
     {
-        "platformId": "495750",
+        "platformId": 495750,
         "CEId": "2738de8f-948c-46e8-9234-f830cc032e12",
         "name": "Reckpunk",
         "genre": "Platformer",
@@ -562,7 +562,7 @@ var data =
         "playersTotal": 22
     },
     {
-        "platformId": "1058640",
+        "platformId": 1058640,
         "CEId": "6f60a578-2524-4d07-8db6-2f7a85d63f6d",
         "name": "RED HOT VENGEANCE",
         "genre": "Action",
@@ -573,7 +573,7 @@ var data =
         "playersTotal": 89
     },
     {
-        "platformId": "392020",
+        "platformId": 392020,
         "CEId": "3bcc3f66-4bfd-47c0-ab69-94c10ee0ca35",
         "name": "RFLEX",
         "genre": "Arcade",
@@ -584,7 +584,7 @@ var data =
         "playersTotal": 288
     },
     {
-        "platformId": "1993830",
+        "platformId": 1993830,
         "CEId": "91796946-6a46-41e5-930c-f607897e126d",
         "name": "ROTA",
         "genre": "Platformer",
@@ -595,7 +595,7 @@ var data =
         "playersTotal": 24
     },
     {
-        "platformId": "1782380",
+        "platformId": 1782380,
         "CEId": "a4687062-7145-4a6d-859c-f72a53f509c5",
         "name": "SCP: Containment Breach Multiplayer",
         "genre": "First-Person",
@@ -603,10 +603,10 @@ var data =
         "points": 80,
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 418
+        "playersTotal": 419
     },
     {
-        "platformId": "2088520",
+        "platformId": 2088520,
         "CEId": "44dfdb5f-82e3-4f7c-9241-c4b8013a6d94",
         "name": "Shooting Game KARI",
         "genre": "Bullet Hell",
@@ -617,7 +617,7 @@ var data =
         "playersTotal": 114
     },
     {
-        "platformId": "1568540",
+        "platformId": 1568540,
         "CEId": "06acefb2-00eb-41e0-9811-69fd41aafb29",
         "name": "Smithworks",
         "genre": "First-Person",
@@ -628,7 +628,7 @@ var data =
         "playersTotal": 61
     },
     {
-        "platformId": "994190",
+        "platformId": 994190,
         "CEId": "b03095b5-63e9-4b53-8070-f4d484066ea3",
         "name": "Sound Slide",
         "genre": "Arcade",
@@ -639,7 +639,7 @@ var data =
         "playersTotal": 208
     },
     {
-        "platformId": "1519690",
+        "platformId": 1519690,
         "CEId": "d7ed54f8-8dac-497d-ae7b-a0f27bf31873",
         "name": "STAY",
         "genre": "Arcade",
@@ -650,7 +650,7 @@ var data =
         "playersTotal": 268
     },
     {
-        "platformId": "212800",
+        "platformId": 212800,
         "CEId": "516a6e62-65a9-4722-847e-44e14b6b7a8a",
         "name": "Super Crate Box",
         "genre": "Action",
@@ -661,7 +661,7 @@ var data =
         "playersTotal": 193
     },
     {
-        "platformId": "1311640",
+        "platformId": 1311640,
         "CEId": "621420e5-2d70-422b-8187-a4049bbaf9ba",
         "name": "Swarm",
         "genre": "Action",
@@ -672,7 +672,7 @@ var data =
         "playersTotal": 59
     },
     {
-        "platformId": "2619210",
+        "platformId": 2619210,
         "CEId": "b6c466f3-8a57-47f5-b135-ac296a4d8b5f",
         "name": "Sympathia",
         "genre": "Arcade",
@@ -683,7 +683,7 @@ var data =
         "playersTotal": 71
     },
     {
-        "platformId": "1374410",
+        "platformId": 1374410,
         "CEId": "ffb0d45a-9b6c-44d1-a6a4-adcdc2da8b84",
         "name": "TCSTRIKERS2",
         "genre": "Bullet Hell",
@@ -694,7 +694,7 @@ var data =
         "playersTotal": 25
     },
     {
-        "platformId": "1294170",
+        "platformId": 1294170,
         "CEId": "ac61194a-354d-4cdd-abcc-5d1bcbefba2f",
         "name": "TCSTRIKERS3",
         "genre": "Bullet Hell",
@@ -705,7 +705,7 @@ var data =
         "playersTotal": 15
     },
     {
-        "platformId": "796380",
+        "platformId": 796380,
         "CEId": "9d36a781-72fa-4529-ae78-bc14b5ae2f9b",
         "name": "Terra Feminarum",
         "genre": "Bullet Hell",
@@ -716,7 +716,7 @@ var data =
         "playersTotal": 156
     },
     {
-        "platformId": "1986980",
+        "platformId": 1986980,
         "CEId": "9debbdd0-1134-472f-9379-776436e11c52",
         "name": "The Legend of Chibi Ninja",
         "genre": "Platformer",
@@ -727,7 +727,7 @@ var data =
         "playersTotal": 49
     },
     {
-        "platformId": "1732210",
+        "platformId": 1732210,
         "CEId": "e2dba6b8-4115-40dc-bf7f-ace5f2dafe44",
         "name": "Tile Runner",
         "genre": "First-Person",
@@ -738,7 +738,7 @@ var data =
         "playersTotal": 99
     },
     {
-        "platformId": "1010890",
+        "platformId": 1010890,
         "CEId": "d8ac0211-8275-4736-aa86-54a70956ddf3",
         "name": "Touhou Fantasia / \u4e1c\u65b9\u68a6\u60f3\u66f2",
         "genre": "Bullet Hell",
@@ -749,7 +749,7 @@ var data =
         "playersTotal": 211
     },
     {
-        "platformId": "1901490",
+        "platformId": 1901490,
         "CEId": "287e2162-94a9-4aa6-86a1-c77408bce434",
         "name": "Touhou Nemuri Sekai ~ Wonderful Waking World",
         "genre": "Bullet Hell",
@@ -760,7 +760,7 @@ var data =
         "playersTotal": 102
     },
     {
-        "platformId": "2225070",
+        "platformId": 2225070,
         "CEId": "71fdace3-e962-4725-bef3-c7534943ac1a",
         "name": "Trackmania",
         "genre": "Arcade",
@@ -771,7 +771,7 @@ var data =
         "playersTotal": 312
     },
     {
-        "platformId": "11020",
+        "platformId": 11020,
         "CEId": "66647036-1771-4f51-a233-ba6abf5aef32",
         "name": "TrackMania Nations Forever",
         "genre": "Arcade",
@@ -782,7 +782,7 @@ var data =
         "playersTotal": 381
     },
     {
-        "platformId": "2684930",
+        "platformId": 2684930,
         "CEId": "2bdc089e-1eec-4825-95c1-52a6ef6e9860",
         "name": "TRUFFLE",
         "genre": "Arcade",
@@ -793,7 +793,7 @@ var data =
         "playersTotal": 38
     },
     {
-        "platformId": "871720",
+        "platformId": 871720,
         "CEId": "bedaf17e-a054-4973-b2f6-71140fec4cbb",
         "name": "Ultimate Custom Night",
         "genre": "Arcade",
@@ -804,7 +804,7 @@ var data =
         "playersTotal": 449
     },
     {
-        "platformId": "1677570",
+        "platformId": 1677570,
         "CEId": "bd925beb-28de-4411-877e-78f95305540c",
         "name": "Vacuum Pilot",
         "genre": "Arcade",
@@ -815,7 +815,7 @@ var data =
         "playersTotal": 107
     },
     {
-        "platformId": "2093940",
+        "platformId": 2093940,
         "CEId": "493bdf6a-3596-4f16-ac67-de8372682370",
         "name": "vivid/stasis",
         "genre": "Arcade",
@@ -826,7 +826,7 @@ var data =
         "playersTotal": 220
     },
     {
-        "platformId": "727510",
+        "platformId": 727510,
         "CEId": "25802506-0659-4427-9b4b-3044262d4e0f",
         "name": "Void Memory",
         "genre": "Action",
@@ -837,7 +837,7 @@ var data =
         "playersTotal": 36
     },
     {
-        "platformId": "1305730",
+        "platformId": 1305730,
         "CEId": "f072c18c-3212-4551-a339-038a8f8ca2fb",
         "name": "Way To Yaatra",
         "genre": "Platformer",
@@ -848,7 +848,7 @@ var data =
         "playersTotal": 34
     },
     {
-        "platformId": "1763180",
+        "platformId": 1763180,
         "CEId": "549dd5b0-8583-41bd-b8f7-53a190c8e6ff",
         "name": "Wormatozoa",
         "genre": "Arcade",
@@ -859,7 +859,7 @@ var data =
         "playersTotal": 72
     },
     {
-        "platformId": "2390510",
+        "platformId": 2390510,
         "CEId": "6cadf0ed-5fe6-48bb-a290-afdc6b36774c",
         "name": "You Have 10 Seconds (2023)",
         "genre": "Platformer",
@@ -870,7 +870,7 @@ var data =
         "playersTotal": 105
     },
     {
-        "platformId": "286100",
+        "platformId": 286100,
         "CEId": "deee7db2-1d09-4af9-962a-fe70281f4241",
         "name": "You Have to Win the Game",
         "genre": "Platformer",
@@ -881,7 +881,7 @@ var data =
         "playersTotal": 505
     },
     {
-        "platformId": "1484800",
+        "platformId": 1484800,
         "CEId": "c571833c-d196-401c-b7b7-c09f384c8f20",
         "name": "Zardy's Maze",
         "genre": "First-Person",
@@ -892,7 +892,7 @@ var data =
         "playersTotal": 158
     },
     {
-        "platformId": "769560",
+        "platformId": 769560,
         "CEId": "6e505741-d18c-41ef-afc2-4135e74cfeab",
         "name": "\u6708\u5706\u4e4b\u591c (Night of Full Moon)",
         "genre": "Strategy",
@@ -903,18 +903,18 @@ var data =
         "playersTotal": 84
     },
     {
-        "platformId": "1351170",
+        "platformId": 1351170,
         "CEId": "81e9ab49-6e59-47d5-bc8e-036577c25a51",
         "name": "\u6771\u65b9\u50ac\u72d0\u8b5a \uff5e Servants of Harvest Wish",
         "genre": "Bullet Hell",
         "tier": 4,
         "points": 115,
         "playersCompleted": 2,
-        "playersStarted": 8,
-        "playersTotal": 119
+        "playersStarted": 9,
+        "playersTotal": 120
     },
     {
-        "platformId": "1664410",
+        "platformId": 1664410,
         "CEId": "f51f5319-dff5-4b08-a1d1-65fd8e8e4e82",
         "name": "\u6771\u65b9\u5b9f\u5728\u76f8 \uff5e Dream Logical World",
         "genre": "Bullet Hell",
@@ -930,7 +930,7 @@ var date =
     "day": 26,
     "month": 10,
     "year": 2024,
-    "hour": 11,
-    "minute": 29,
-    "second": 21
+    "hour": 19,
+    "minute": 20,
+    "second": 8
 }
