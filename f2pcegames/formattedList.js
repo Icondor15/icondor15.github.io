@@ -207,7 +207,7 @@ var data =
         "points": 10,
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 24
+        "playersTotal": 25
     },
     {
         "platformId": 739290,
@@ -361,7 +361,7 @@ var data =
         "points": 5,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 23
+        "playersTotal": 24
     },
     {
         "platformId": 1114940,
@@ -559,7 +559,7 @@ var data =
         "points": 6,
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 22
+        "playersTotal": 23
     },
     {
         "platformId": 1058640,
@@ -823,7 +823,7 @@ var data =
         "points": 250,
         "playersCompleted": 2,
         "playersStarted": 34,
-        "playersTotal": 220
+        "playersTotal": 221
     },
     {
         "platformId": 727510,
@@ -927,10 +927,10 @@ var data =
 ]
 var date =
 {
-    "day": 26,
+    "day": 27,
     "month": 10,
     "year": 2024,
-    "hour": 19,
-    "minute": 20,
-    "second": 8
+    "hour": 13,
+    "minute": 49,
+    "second": 15
 }
