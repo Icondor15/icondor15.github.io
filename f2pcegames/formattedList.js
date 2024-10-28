@@ -97,7 +97,7 @@ var data =
         "points": 5,
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 39
+        "playersTotal": 41
     },
     {
         "platformId": 2099440,
@@ -207,7 +207,7 @@ var data =
         "points": 10,
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 25
+        "playersTotal": 26
     },
     {
         "platformId": 739290,
@@ -229,7 +229,7 @@ var data =
         "points": 20,
         "playersCompleted": 136,
         "playersStarted": 0,
-        "playersTotal": 527
+        "playersTotal": 528
     },
     {
         "platformId": 563180,
@@ -315,7 +315,7 @@ var data =
         "genre": "Platformer",
         "tier": 1,
         "points": 5,
-        "playersCompleted": 83,
+        "playersCompleted": 84,
         "playersStarted": 0,
         "playersTotal": 189
     },
@@ -350,7 +350,7 @@ var data =
         "points": 30,
         "playersCompleted": 2,
         "playersStarted": 9,
-        "playersTotal": 128
+        "playersTotal": 129
     },
     {
         "platformId": 2326420,
@@ -383,7 +383,7 @@ var data =
         "points": 5,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 11
+        "playersTotal": 12
     },
     {
         "platformId": 368950,
@@ -447,7 +447,7 @@ var data =
         "genre": "Platformer",
         "tier": 1,
         "points": 15,
-        "playersCompleted": 84,
+        "playersCompleted": 86,
         "playersStarted": 0,
         "playersTotal": 439
     },
@@ -480,9 +480,9 @@ var data =
         "genre": "Platformer",
         "tier": 1,
         "points": 5,
-        "playersCompleted": 17,
+        "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 96
+        "playersTotal": 98
     },
     {
         "platformId": 1057850,
@@ -603,7 +603,7 @@ var data =
         "points": 80,
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 419
+        "playersTotal": 421
     },
     {
         "platformId": 2088520,
@@ -625,7 +625,7 @@ var data =
         "points": 25,
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 61
+        "playersTotal": 62
     },
     {
         "platformId": 994190,
@@ -647,7 +647,7 @@ var data =
         "points": 10,
         "playersCompleted": 60,
         "playersStarted": 0,
-        "playersTotal": 268
+        "playersTotal": 269
     },
     {
         "platformId": 212800,
@@ -658,7 +658,7 @@ var data =
         "points": 10,
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 193
+        "playersTotal": 194
     },
     {
         "platformId": 1311640,
@@ -766,7 +766,7 @@ var data =
         "genre": "Arcade",
         "tier": 1,
         "points": 15,
-        "playersCompleted": 40,
+        "playersCompleted": 41,
         "playersStarted": 0,
         "playersTotal": 312
     },
@@ -790,7 +790,7 @@ var data =
         "points": 5,
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 38
+        "playersTotal": 39
     },
     {
         "platformId": 871720,
@@ -834,7 +834,7 @@ var data =
         "points": 15,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 36
+        "playersTotal": 37
     },
     {
         "platformId": 1305730,
@@ -845,7 +845,7 @@ var data =
         "points": 40,
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 34
+        "playersTotal": 35
     },
     {
         "platformId": 1763180,
@@ -927,10 +927,10 @@ var data =
 ]
 var date =
 {
-    "day": 27,
+    "day": 28,
     "month": 10,
     "year": 2024,
-    "hour": 13,
-    "minute": 49,
-    "second": 15
+    "hour": 21,
+    "minute": 22,
+    "second": 46
 }
