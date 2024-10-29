@@ -383,7 +383,7 @@ var data =
         "points": 5,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 12
+        "playersTotal": 13
     },
     {
         "platformId": 368950,
@@ -416,7 +416,7 @@ var data =
         "points": 600,
         "playersCompleted": 5,
         "playersStarted": 46,
-        "playersTotal": 319
+        "playersTotal": 320
     },
     {
         "platformId": 1309940,
@@ -524,9 +524,9 @@ var data =
         "genre": "Strategy",
         "tier": 1,
         "points": 5,
-        "playersCompleted": 51,
+        "playersCompleted": 52,
         "playersStarted": 0,
-        "playersTotal": 251
+        "playersTotal": 252
     },
     {
         "platformId": 701440,
@@ -581,7 +581,7 @@ var data =
         "points": 40,
         "playersCompleted": 28,
         "playersStarted": 0,
-        "playersTotal": 288
+        "playersTotal": 289
     },
     {
         "platformId": 1993830,
@@ -927,10 +927,10 @@ var data =
 ]
 var date =
 {
-    "day": 28,
+    "day": 29,
     "month": 10,
     "year": 2024,
-    "hour": 21,
-    "minute": 22,
+    "hour": 23,
+    "minute": 23,
     "second": 46
 }
