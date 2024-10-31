@@ -284,7 +284,7 @@ var data =
         "points": 5,
         "playersCompleted": 22,
         "playersStarted": 0,
-        "playersTotal": 225
+        "playersTotal": 226
     },
     {
         "platformId": 1533280,
@@ -306,7 +306,7 @@ var data =
         "points": 10,
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 86
+        "playersTotal": 87
     },
     {
         "platformId": 341760,
@@ -317,7 +317,7 @@ var data =
         "points": 5,
         "playersCompleted": 84,
         "playersStarted": 0,
-        "playersTotal": 189
+        "playersTotal": 190
     },
     {
         "platformId": 339120,
@@ -339,7 +339,7 @@ var data =
         "points": 5,
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 111
+        "playersTotal": 112
     },
     {
         "platformId": 1333090,
@@ -581,7 +581,7 @@ var data =
         "points": 40,
         "playersCompleted": 28,
         "playersStarted": 0,
-        "playersTotal": 289
+        "playersTotal": 290
     },
     {
         "platformId": 1993830,
@@ -603,7 +603,7 @@ var data =
         "points": 80,
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 421
+        "playersTotal": 423
     },
     {
         "platformId": 2088520,
@@ -768,7 +768,7 @@ var data =
         "points": 15,
         "playersCompleted": 41,
         "playersStarted": 0,
-        "playersTotal": 312
+        "playersTotal": 313
     },
     {
         "platformId": 11020,
@@ -790,7 +790,7 @@ var data =
         "points": 5,
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 39
+        "playersTotal": 40
     },
     {
         "platformId": 871720,
@@ -823,7 +823,7 @@ var data =
         "points": 250,
         "playersCompleted": 2,
         "playersStarted": 34,
-        "playersTotal": 221
+        "playersTotal": 222
     },
     {
         "platformId": 727510,
@@ -878,7 +878,7 @@ var data =
         "points": 15,
         "playersCompleted": 22,
         "playersStarted": 125,
-        "playersTotal": 505
+        "playersTotal": 506
     },
     {
         "platformId": 1484800,
@@ -900,7 +900,7 @@ var data =
         "points": 12,
         "playersCompleted": 0,
         "playersStarted": 4,
-        "playersTotal": 84
+        "playersTotal": 85
     },
     {
         "platformId": 1351170,
@@ -927,10 +927,10 @@ var data =
 ]
 var date =
 {
-    "day": 30,
+    "day": 31,
     "month": 10,
     "year": 2024,
-    "hour": 0,
-    "minute": 35,
-    "second": 50
+    "hour": 13,
+    "minute": 52,
+    "second": 44
 }
