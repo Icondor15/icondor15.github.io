@@ -109,12 +109,18 @@
             {
                 data.sort((a,b) => (a["name"] > b["name"]) ? 1 : ((b["name"] > a["name"]) ? -1 : 0));
 
-                if(type != "percentage")
+                if(type == "playersCompleted")
+                {
+                    data.sort((a,b) => (a["playersStarted"] > b["playersStarted"]) ? 1 : ((b["playersStarted"] > a["playersStarted"]) ? -1 : 0));
+                    data.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+                }
+                else if(type != "percentage")
                 {
                     data.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
                 }
                 else
                 {
+                    data.sort((a,b) => a.playersStarted / a.playersTotal * 100 - (b.playersStarted / b.playersTotal * 100));
                     data.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
                 }
 
