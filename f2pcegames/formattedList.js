@@ -64,7 +64,7 @@ var data =
         "points": 200,
         "playersCompleted": 0,
         "playersStarted": 5,
-        "playersTotal": 86
+        "playersTotal": 87
     },
     {
         "platformId": 459680,
@@ -86,7 +86,7 @@ var data =
         "points": 30,
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 208
+        "playersTotal": 209
     },
     {
         "platformId": 1961770,
@@ -97,7 +97,7 @@ var data =
         "points": 5,
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 42
+        "playersTotal": 43
     },
     {
         "platformId": 2099440,
@@ -108,7 +108,7 @@ var data =
         "points": 5,
         "playersCompleted": 25,
         "playersStarted": 0,
-        "playersTotal": 117
+        "playersTotal": 118
     },
     {
         "platformId": 2232950,
@@ -119,7 +119,7 @@ var data =
         "points": 10,
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 10
+        "playersTotal": 11
     },
     {
         "platformId": 1954100,
@@ -183,9 +183,9 @@ var data =
         "genre": "Platformer",
         "tier": 1,
         "points": 5,
-        "playersCompleted": 2,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 58
+        "playersTotal": 59
     },
     {
         "platformId": 404700,
@@ -251,7 +251,7 @@ var data =
         "points": 5,
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 91
+        "playersTotal": 92
     },
     {
         "platformId": 2472840,
@@ -293,9 +293,9 @@ var data =
         "genre": "Platformer",
         "tier": 2,
         "points": 25,
-        "playersCompleted": 7,
+        "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 126
+        "playersTotal": 127
     },
     {
         "platformId": 1769510,
@@ -339,7 +339,7 @@ var data =
         "points": 5,
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 112
+        "playersTotal": 113
     },
     {
         "platformId": 1333090,
@@ -350,7 +350,7 @@ var data =
         "points": 30,
         "playersCompleted": 2,
         "playersStarted": 9,
-        "playersTotal": 129
+        "playersTotal": 130
     },
     {
         "platformId": 2326420,
@@ -361,7 +361,7 @@ var data =
         "points": 5,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 24
+        "playersTotal": 25
     },
     {
         "platformId": 1114940,
@@ -372,7 +372,7 @@ var data =
         "points": 5,
         "playersCompleted": 44,
         "playersStarted": 0,
-        "playersTotal": 354
+        "playersTotal": 355
     },
     {
         "platformId": 2338220,
@@ -413,9 +413,9 @@ var data =
         "name": "Kreedz Climbing",
         "genre": "First-Person",
         "tier": 5,
-        "points": 600,
-        "playersCompleted": 5,
-        "playersStarted": 46,
+        "points": 602,
+        "playersCompleted": 0,
+        "playersStarted": 51,
         "playersTotal": 322
     },
     {
@@ -447,9 +447,9 @@ var data =
         "genre": "Platformer",
         "tier": 1,
         "points": 15,
-        "playersCompleted": 86,
+        "playersCompleted": 87,
         "playersStarted": 0,
-        "playersTotal": 441
+        "playersTotal": 442
     },
     {
         "platformId": 1517830,
@@ -471,7 +471,7 @@ var data =
         "points": 15,
         "playersCompleted": 2,
         "playersStarted": 13,
-        "playersTotal": 464
+        "playersTotal": 465
     },
     {
         "platformId": 1064610,
@@ -513,9 +513,9 @@ var data =
         "genre": "Platformer",
         "tier": 1,
         "points": 5,
-        "playersCompleted": 23,
+        "playersCompleted": 24,
         "playersStarted": 0,
-        "playersTotal": 136
+        "playersTotal": 137
     },
     {
         "platformId": 3483,
@@ -568,7 +568,7 @@ var data =
         "genre": "Action",
         "tier": 1,
         "points": 10,
-        "playersCompleted": 10,
+        "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 89
     },
@@ -592,7 +592,7 @@ var data =
         "points": 10,
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 25
+        "playersTotal": 26
     },
     {
         "platformId": 1782380,
@@ -603,7 +603,7 @@ var data =
         "points": 80,
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 428
+        "playersTotal": 430
     },
     {
         "platformId": 2088520,
@@ -625,7 +625,7 @@ var data =
         "points": 25,
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 63
+        "playersTotal": 64
     },
     {
         "platformId": 994190,
@@ -744,9 +744,9 @@ var data =
         "genre": "Bullet Hell",
         "tier": 3,
         "points": 60,
-        "playersCompleted": 18,
+        "playersCompleted": 19,
         "playersStarted": 0,
-        "playersTotal": 211
+        "playersTotal": 212
     },
     {
         "platformId": 1901490,
@@ -755,9 +755,9 @@ var data =
         "genre": "Bullet Hell",
         "tier": 3,
         "points": 50,
-        "playersCompleted": 6,
+        "playersCompleted": 7,
         "playersStarted": 9,
-        "playersTotal": 102
+        "playersTotal": 103
     },
     {
         "platformId": 2225070,
@@ -768,7 +768,7 @@ var data =
         "points": 15,
         "playersCompleted": 41,
         "playersStarted": 0,
-        "playersTotal": 319
+        "playersTotal": 320
     },
     {
         "platformId": 11020,
@@ -790,7 +790,7 @@ var data =
         "points": 5,
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 42
+        "playersTotal": 43
     },
     {
         "platformId": 871720,
@@ -801,7 +801,7 @@ var data =
         "points": 90,
         "playersCompleted": 7,
         "playersStarted": 7,
-        "playersTotal": 452
+        "playersTotal": 453
     },
     {
         "platformId": 1677570,
@@ -822,7 +822,7 @@ var data =
         "tier": 5,
         "points": 250,
         "playersCompleted": 2,
-        "playersStarted": 35,
+        "playersStarted": 36,
         "playersTotal": 224
     },
     {
@@ -856,7 +856,7 @@ var data =
         "points": 56,
         "playersCompleted": 0,
         "playersStarted": 4,
-        "playersTotal": 73
+        "playersTotal": 74
     },
     {
         "platformId": 2390510,
@@ -867,7 +867,7 @@ var data =
         "points": 20,
         "playersCompleted": 2,
         "playersStarted": 12,
-        "playersTotal": 105
+        "playersTotal": 106
     },
     {
         "platformId": 286100,
@@ -909,8 +909,8 @@ var data =
         "genre": "Bullet Hell",
         "tier": 4,
         "points": 115,
-        "playersCompleted": 2,
-        "playersStarted": 9,
+        "playersCompleted": 3,
+        "playersStarted": 8,
         "playersTotal": 120
     },
     {
@@ -922,15 +922,15 @@ var data =
         "points": 130,
         "playersCompleted": 1,
         "playersStarted": 5,
-        "playersTotal": 107
+        "playersTotal": 109
     }
 ]
 var date =
 {
-    "day": 8,
+    "day": 10,
     "month": 11,
     "year": 2024,
-    "hour": 19,
-    "minute": 49,
-    "second": 44
+    "hour": 10,
+    "minute": 22,
+    "second": 58
 }
