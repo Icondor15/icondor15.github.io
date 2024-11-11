@@ -111,11 +111,15 @@
 
         <script src="formattedList.js"></script>
 
+        <!-- less important stats-->
         <script>
-            document.getElementById("Count").innerHTML = "Free To Play Challenge Enthusiasts Games: " + data.length;
             document.getElementById("Date").innerHTML = "Last checked database on: <b>" + date["day"] + "/" + date["month"] + "/" + date["year"] + "</b> at <b>" + date["hour"] + ":" + date["minute"] + ":" + date["second"] + "</b>.";
             document.getElementById("StatsDate").innerHTML = "Last updated stats on: <b>" + statsDate["day"] + "/" + statsDate["month"] + "/" + statsDate["year"] + "</b> at <b>" + statsDate["hour"] + ":" + statsDate["minute"] + ":" + statsDate["second"] + "</b>.";
+        </script>
 
+        <!-- more important stats-->
+        <script>
+            document.getElementById("Count").innerHTML = "Free To Play Challenge Enthusiasts Games: " + data.length;
             order('points');
 
             function order(type)
