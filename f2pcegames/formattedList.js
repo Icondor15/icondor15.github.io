@@ -930,7 +930,16 @@ var date =
     "day": 11,
     "month": 11,
     "year": 2024,
-    "hour": 15,
-    "minute": 43,
-    "second": 7
+    "hour": 16,
+    "minute": 40,
+    "second": 15
+}
+var statsDate =
+{
+    "day": 11,
+    "month": 11,
+    "year": 2024,
+    "hour": 16,
+    "minute": 40,
+    "second": 15
 }
