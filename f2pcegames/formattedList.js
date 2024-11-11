@@ -383,7 +383,7 @@ var data =
         "points": 5,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 19
+        "playersTotal": 20
     },
     {
         "platformId": 368950,
@@ -413,7 +413,7 @@ var data =
         "name": "Kreedz Climbing",
         "genre": "First-Person",
         "tier": 5,
-        "points": 602,
+        "points": 721,
         "playersCompleted": 0,
         "playersStarted": 51,
         "playersTotal": 322
@@ -471,7 +471,7 @@ var data =
         "points": 15,
         "playersCompleted": 2,
         "playersStarted": 13,
-        "playersTotal": 465
+        "playersTotal": 466
     },
     {
         "platformId": 1064610,
@@ -636,7 +636,7 @@ var data =
         "points": 5,
         "playersCompleted": 63,
         "playersStarted": 0,
-        "playersTotal": 209
+        "playersTotal": 210
     },
     {
         "platformId": 1519690,
@@ -645,7 +645,7 @@ var data =
         "genre": "Arcade",
         "tier": 1,
         "points": 10,
-        "playersCompleted": 60,
+        "playersCompleted": 61,
         "playersStarted": 0,
         "playersTotal": 270
     },
@@ -779,7 +779,7 @@ var data =
         "points": 40,
         "playersCompleted": 14,
         "playersStarted": 5,
-        "playersTotal": 382
+        "playersTotal": 383
     },
     {
         "platformId": 2684930,
@@ -927,10 +927,10 @@ var data =
 ]
 var date =
 {
-    "day": 10,
+    "day": 11,
     "month": 11,
     "year": 2024,
-    "hour": 10,
-    "minute": 22,
-    "second": 58
+    "hour": 15,
+    "minute": 28,
+    "second": 45
 }
