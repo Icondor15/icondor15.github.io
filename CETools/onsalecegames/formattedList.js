@@ -324,40 +324,6 @@ var data =
         }
     },
     {
-        "platformId": 601150,
-        "CEId": "bacd841e-3086-4d92-a355-67cf515ddeb5",
-        "name": "Devil May Cry 5",
-        "genre": "Action",
-        "tier": 3,
-        "points": 75,
-        "playersCompleted": 9,
-        "playersStarted": 0,
-        "playersTotal": 310,
-        "priceData": {
-            "currency": "USD",
-            "initial": 2999,
-            "final": 989,
-            "discount_percent": 67
-        }
-    },
-    {
-        "platformId": 631510,
-        "CEId": "656aaa64-33bb-43f2-a9f6-cdadb678249a",
-        "name": "Devil May Cry HD Collection",
-        "genre": "Action",
-        "tier": 1,
-        "points": 16,
-        "playersCompleted": 0,
-        "playersStarted": 11,
-        "playersTotal": 196,
-        "priceData": {
-            "currency": "USD",
-            "initial": 2999,
-            "final": 989,
-            "discount_percent": 67
-        }
-    },
-    {
         "platformId": 237630,
         "CEId": "15c76d0d-8105-4610-88f7-6aba244a386c",
         "name": "DuckTales: Remastered",
@@ -474,23 +440,6 @@ var data =
             "initial": 1499,
             "final": 104,
             "discount_percent": 93
-        }
-    },
-    {
-        "platformId": 1375400,
-        "CEId": "a5785166-0669-4dbf-adc7-72ca73a91449",
-        "name": "Ghosts 'n Goblins Resurrection",
-        "genre": "Action",
-        "tier": 1,
-        "points": 10,
-        "playersCompleted": 5,
-        "playersStarted": 0,
-        "playersTotal": 32,
-        "priceData": {
-            "currency": "USD",
-            "initial": 2999,
-            "final": 989,
-            "discount_percent": 67
         }
     },
     {
@@ -780,125 +729,6 @@ var data =
             "initial": 2499,
             "final": 624,
             "discount_percent": 75
-        }
-    },
-    {
-        "platformId": 791200,
-        "CEId": "bd8772bd-8508-402f-b77c-debfca28a48b",
-        "name": "Planet Cube: Edge",
-        "genre": "Platformer",
-        "tier": 1,
-        "points": 12,
-        "playersCompleted": 0,
-        "playersStarted": 3,
-        "playersTotal": 19,
-        "priceData": {
-            "currency": "USD",
-            "initial": 1499,
-            "final": 494,
-            "discount_percent": 67
-        }
-    },
-    {
-        "platformId": 304240,
-        "CEId": "01206a9d-7c9d-4b43-ab2d-ccf1822b7b17",
-        "name": "Resident Evil",
-        "genre": "Action",
-        "tier": 2,
-        "points": 25,
-        "playersCompleted": 27,
-        "playersStarted": 0,
-        "playersTotal": 313,
-        "priceData": {
-            "currency": "USD",
-            "initial": 1999,
-            "final": 499,
-            "discount_percent": 75
-        }
-    },
-    {
-        "platformId": 883710,
-        "CEId": "2282102c-cca7-46bd-b3b3-07c850bda822",
-        "name": "Resident Evil 2",
-        "genre": "Action",
-        "tier": 1,
-        "points": 15,
-        "playersCompleted": 6,
-        "playersStarted": 55,
-        "playersTotal": 298,
-        "priceData": {
-            "currency": "USD",
-            "initial": 3999,
-            "final": 999,
-            "discount_percent": 75
-        }
-    },
-    {
-        "platformId": 952060,
-        "CEId": "970ecb86-18be-45c2-85be-15bdc7cfc358",
-        "name": "Resident Evil 3",
-        "genre": "Action",
-        "tier": 1,
-        "points": 5,
-        "playersCompleted": 57,
-        "playersStarted": 0,
-        "playersTotal": 259,
-        "priceData": {
-            "currency": "USD",
-            "initial": 3999,
-            "final": 999,
-            "discount_percent": 75
-        }
-    },
-    {
-        "platformId": 2050650,
-        "CEId": "adad0535-2c3a-413f-a2b3-fb67f0ad7728",
-        "name": "Resident Evil 4",
-        "genre": "Action",
-        "tier": 1,
-        "points": 6,
-        "playersCompleted": 4,
-        "playersStarted": 6,
-        "playersTotal": 66,
-        "priceData": {
-            "currency": "USD",
-            "initial": 3999,
-            "final": 1999,
-            "discount_percent": 50
-        }
-    },
-    {
-        "platformId": 254700,
-        "CEId": "3aa4a76f-2c49-436a-89df-20151640da8a",
-        "name": "Resident Evil 4 (2005)",
-        "genre": "Action",
-        "tier": 2,
-        "points": 25,
-        "playersCompleted": 8,
-        "playersStarted": 80,
-        "playersTotal": 386,
-        "priceData": {
-            "currency": "USD",
-            "initial": 1999,
-            "final": 499,
-            "discount_percent": 75
-        }
-    },
-    {
-        "platformId": 418370,
-        "CEId": "9a457867-09f2-4fc7-9258-91359f3a74f5",
-        "name": "Resident Evil 7 Biohazard",
-        "genre": "First-Person",
-        "tier": 2,
-        "points": 35,
-        "playersCompleted": 10,
-        "playersStarted": 41,
-        "playersTotal": 305,
-        "priceData": {
-            "currency": "USD",
-            "initial": 1999,
-            "final": 799,
-            "discount_percent": 60
         }
     },
     {
@@ -1299,6 +1129,6 @@ var date =
     "month": 11,
     "year": 2024,
     "hour": 18,
-    "minute": 11,
-    "second": 29
+    "minute": 19,
+    "second": 14
 }
