@@ -381,9 +381,9 @@ var data =
         "genre": "Action",
         "tier": 1,
         "points": 5,
-        "playersCompleted": 2,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 20
+        "playersTotal": 21
     },
     {
         "platformId": 368950,
@@ -537,7 +537,7 @@ var data =
         "points": 80,
         "playersCompleted": 40,
         "playersStarted": 5,
-        "playersTotal": 304
+        "playersTotal": 305
     },
     {
         "platformId": 1040490,
@@ -603,7 +603,7 @@ var data =
         "points": 80,
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 430
+        "playersTotal": 431
     },
     {
         "platformId": 2088520,
@@ -823,7 +823,7 @@ var data =
         "points": 250,
         "playersCompleted": 2,
         "playersStarted": 36,
-        "playersTotal": 224
+        "playersTotal": 225
     },
     {
         "platformId": 727510,
@@ -936,10 +936,10 @@ var date =
 }
 var statsDate =
 {
-    "day": 11,
+    "day": 12,
     "month": 11,
     "year": 2024,
-    "hour": 16,
-    "minute": 53,
-    "second": 6
+    "hour": 11,
+    "minute": 0,
+    "second": 13
 }
