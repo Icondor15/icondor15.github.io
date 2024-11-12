@@ -242,9 +242,16 @@
                     cellOwners.innerHTML = data[i]["playersTotal"];
                     cellFullCompletion.innerHTML = data[i]["playersCompleted"];
                     cellPartialCompletion.innerHTML = data[i]["playersStarted"];
-                    cellCompletionPercentage.innerHTML = toFixed(data[i]["playersCompleted"] / data[i]["playersTotal"] * 100, 1) + "%";
-                    cellPartialPercentage.innerHTML = toFixed(data[i]["playersStarted"] / data[i]["playersTotal"] * 100, 1) + "%";
-                   
+                    if(data[i]["playersTotal"] > 0)
+                    {
+                        cellCompletionPercentage.innerHTML = toFixed(data[i]["playersCompleted"] / data[i]["playersTotal"] * 100, 1) + "%";
+                        cellPartialPercentage.innerHTML = toFixed(data[i]["playersStarted"] / data[i]["playersTotal"] * 100, 1) + "%";
+                    }
+                    else
+                    {
+                        cellCompletionPercentage.innerHTML = "0%";
+                        cellPartialPercentage.innerHTML = "0%";
+                    }
                     //Function specifically to truncate percentage
                     function toFixed(num, fixed) {
                         var re = new RegExp('^-?\\d+(?:\.\\d{0,' + (fixed || -1) + '})?');
