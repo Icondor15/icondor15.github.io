@@ -1,0 +1,321 @@
+<html>
+    <head>
+        <meta property="og:title" content="On Sale CE Games" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://icondor15.github.io/CETools/onsalecegames/onsalecegames.html" />
+        <meta property="og:image" content="https://icondor15.github.io/CETools/onsalecegames/favicon.png" />
+        <meta property="og:description" content="A website to quickly check currently discounted games available in the Challenge Enthusiasts website! - Made by Icondor." />
+        <meta name="theme-color" content="#232224">
+        
+        <title>On Sale CE Games</title>
+        <link rel="icon" type="image/x-icon" href="favicon.png">
+        <style>
+        * {
+            font-family: 'Tahoma', Helvetica, sans-serif;
+        }
+
+        table {
+        border:1px solid black;
+        }
+
+        td {
+            border:2px solid black;
+        }
+
+        a {
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .button {
+            background-color: #dddddd;
+        }
+
+        .button:hover {
+            cursor:pointer;
+            background-color: #bbbbbb;
+        }
+
+        .button:active {
+            background-color: #888888;
+        }
+        #secretLink {
+            user-select: none;
+            color:#d3ebe2;
+        }
+        #secretLink:hover {
+            color:#00de8c;
+        }
+        #secretLink:active {
+            color:#008a58;
+        }
+        </style>
+    </head>
+
+    <body style="background-color:#d3ebe2">
+        <div style="margin: 10px auto; text-align: center;">
+            <p style="font-size: 10px; font-weight:bold; margin-bottom:-10px;"><a href="../CETools.html"><<< Go back to CETools</a></p>
+            <p style="margin-bottom: 2px;">Made by <a href="https://x.com/CondorDraws" target=”_blank” style="font-weight: bold;">𝕏 CondorDraws <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
+                <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
+            </svg></a> / <a href="https://bsky.app/profile/icondor.bsky.social" target=”_blank” style="font-weight: bold;"> <svg fill="currentColor" height="14" icon-name="external-outline" viewBox="0 0 24 20" width="14" xmlns="http://www.w3.org/2000/svg">
+                <path id="shape0" transform="translate(0.429157225453458, 1.91122062657742)" fill-rule="evenodd" d="M11.0909 8.2934C6.86685 1.86682 3.50684 -0.81472 1.01084 0.248779C-1.40716 8.46128 0.51285 12.103 6.77086 11.1738C1.0687 11.7506 0.108703 13.9106 3.89086 17.6538C7.67302 21.3971 10.073 20.1969 11.0909 14.0534C12.1087 20.1966 14.5087 21.3961 18.2908 17.6529C22.073 13.9097 21.113 11.7497 15.4108 11.1729C21.6688 11.7054 23.5888 8.46128 21.1708 0.248779C18.6748 -0.814721 15.3148 1.4699 11.0909 8.2934Z" sodipodi:nodetypes="ccczczccc"/>
+            </svg> icondor.bsky.social <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
+                <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
+            </svg></a> / <b>@icondor</b> on Discord.</p>
+            <sub id="Date"></sub>
+        </div>
+        <table id="MainTable" style="margin: auto; width: 100%; text-align: center; background-color:#ffffff;">
+            <tr>
+                <td colspan="12">    
+                    <p id="Count" style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;"></p>
+                </td>
+            </tr>
+            <tr style="border:0px">
+                <td class="button" style="padding:0px" onclick="order('name')">Order By Name</td>
+                <td class="button" style="padding:0px" onclick="order('genre')">Order By Genre</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('points')">Order By Points</td>
+                <td class="button" style="padding:0px" onclick="order('playersTotal')">Order By Owners</td>
+                <td class="button" style="padding:0px" onclick="order('playersCompleted')">Order By Completions</td>
+                <td class="button" style="padding:0px" onclick="order('percentage')">%</td>
+                <td class="button" style="padding:0px" onclick="order('initial')">Order By Base Price</td>
+                <td class="button" style="padding:0px" onclick="order('final')">Order By Sale Price</td>
+                <td class="button" style="padding:0px" onclick="order('discount_percent')">%</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('platformId')">Order By Steam Id</td>
+            </tr>
+            <tr style="font-weight: bold; user-select: none;">
+                <td>Name</td>
+                <td>Genre</td>
+                <td colspan="2">Tier / Points</td>
+                <td colspan="3">Owners / Completions / Comp. %</td>
+                <td colspan="3">Base / Sale / Sale %</td>
+                <td>IDs</td>
+                <td>Links</td>
+            </tr>
+            <tr style="font-weight: bold;">
+                <td>Name</td>
+                <td>Genre</td>
+                <td colspan="2">Tier / Points</td>
+                <td colspan="3">Owners / Completions / Comp. %</td>
+                <td colspan="3">Base / Sale / Sale %</td>
+                <td>IDs</td>
+                <td>Links</td>
+            </tr>
+            <tr style="border:0px">
+                <td class="button" style="padding:0px" onclick="order('name')">Order By Name</td>
+                <td class="button" style="padding:0px" onclick="order('genre')">Order By Genre</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('points')">Order By Points</td>
+                <td class="button" style="padding:0px" onclick="order('playersTotal')">Order By Owners</td>
+                <td class="button" style="padding:0px" onclick="order('playersCompleted')">Order By Completions</td>
+                <td class="button" style="padding:0px" onclick="order('percentage')">%</td>
+                <td class="button" style="padding:0px" onclick="order('initial')">Order By Base Price</td>
+                <td class="button" style="padding:0px" onclick="order('final')">Order By Sale Price</td>
+                <td class="button" style="padding:0px" onclick="order('discount_percent')">%</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('platformId')">Order By Steam Id</td>
+            </tr>
+        </table>
+        <p style="font-size:7px; text-align:center; "><a id="secretLink" target="_blank" href="https://github.com/Icondor15/icondor15.github.io">Secret link to Github page!</a></p>
+
+        <script src="formattedList.js"></script>
+
+        <!-- less important stats-->
+        <script>
+            document.getElementById("Date").innerHTML = "Last checked database on: <b>" + date["day"] + "/" + date["month"] + "/" + date["year"] + "</b> at <b>" + date["hour"] + ":" + date["minute"] + ":" + date["second"] + "</b>.";
+        </script>
+
+        <!-- more important stats-->
+        <script>
+            document.getElementById("Count").innerHTML = "Challenge Enthusiasts Games On Sale: " + data.length;
+            order('final');
+
+            function order(type)
+            {
+                data.sort((a,b) => (a["name"].toUpperCase() > b["name"].toUpperCase()) ? 1 : ((b["name"].toUpperCase() > a["name"].toUpperCase()) ? -1 : 0));
+
+                if(type != "name")
+                {
+                    if(type == "playersCompleted")
+                    {
+                        data.sort((a,b) => (a["playersStarted"] > b["playersStarted"]) ? 1 : ((b["playersStarted"] > a["playersStarted"]) ? -1 : 0));
+                        data.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+                    }
+                    else if(type == "initial" || type == "final" || type == "discount_percent")
+                    {
+                        data.sort((a,b) => (a["priceData"][type] > b["priceData"][type]) ? 1 : ((b["priceData"][type] > a["priceData"][type]) ? -1 : 0));
+                    }
+                    else if(type != "percentage")
+                    {
+                        data.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+                    }
+                    else
+                    {
+                        data.sort((a,b) => a.playersStarted / a.playersTotal * 100 - (b.playersStarted / b.playersTotal * 100));
+                        data.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
+                    }
+                }
+                
+                generateTable();
+            }
+
+            function generateTable()
+            {
+                var table = document.getElementById("MainTable");
+                var replace = document.getElementsByClassName("replace");
+
+                document.querySelectorAll('.replace').forEach(e => e.remove());
+                
+                for(let i = 0; i < data.length; i++)
+                {
+                    var row1 = table.insertRow((i*2)+3);
+                    row1.classList.add("replace");
+                    var cellName = row1.insertCell(0);
+                    cellName.rowSpan = 2;
+                    var cellGenre = row1.insertCell(1);
+                    cellGenre.rowSpan = 2;
+                    var cellTier = row1.insertCell(2);
+                    cellTier.rowSpan = 2;
+                    var cellPoints = row1.insertCell(3);
+                    cellPoints.rowSpan = 2;
+                    var cellOwners = row1.insertCell(4);
+                    cellOwners.rowSpan = 2;
+                    var cellFullCompletion = row1.insertCell(5);
+                    cellFullCompletion.style.backgroundColor = "#00FF0055";
+                    var cellCompletionPercentage = row1.insertCell(6);
+                    cellCompletionPercentage.style.backgroundColor = "#00FF0055";
+                    var cellBasePrice = row1.insertCell(7);
+                    cellBasePrice.rowSpan = 2;
+                    var cellDiscountPrice = row1.insertCell(8);
+                    cellDiscountPrice.rowSpan = 2;
+                    cellDiscountPrice.style.color = "#006600";
+                    cellDiscountPrice.style.backgroundColor = "#00FF0055";
+                    cellDiscountPrice.style.fontWeight = "600";
+                    var cellDiscountPercentage = row1.insertCell(9);
+                    cellDiscountPercentage.rowSpan = 2;
+                    cellDiscountPercentage.style.color = "#006600";
+                    cellDiscountPercentage.style.backgroundColor = "#00FF0055";
+                    cellDiscountPercentage.style.fontWeight = "600";
+                    var cellSteam = row1.insertCell(10);
+                    var cellLinkSteam = row1.insertCell(11);
+
+                    var row2 = table.insertRow(((i+1)*2)+2);
+                    row2.classList.add("replace");
+                    var cellPartialCompletion = row2.insertCell(0);
+                    cellPartialCompletion.style.backgroundColor = "#FFCC0055";
+                    var cellPartialPercentage = row2.insertCell(1);
+                    cellPartialPercentage.style.backgroundColor = "#FFCC0055";
+                    var cellCE = row2.insertCell(2);
+                    var cellLinkCE = row2.insertCell(3);
+                    
+
+
+                    cellName.innerHTML = data[i]["name"];
+                    cellGenre.innerHTML = data[i]["genre"];
+                    switch(data[i]["genre"]){
+                        case "Action":
+                            cellGenre.style.backgroundColor = "#FF000033";
+                            break;
+                        case "Arcade":
+                            cellGenre.style.backgroundColor = "#0000FF33";
+                            break;
+                        case "Bullet Hell":
+                            cellGenre.style.backgroundColor = "#FF00FF33";
+                            break;
+                        case "First-Person":
+                            cellGenre.style.backgroundColor = "#FF990033";
+                            break;
+                        case "Platformer":
+                            cellGenre.style.backgroundColor = "#00FF0033";
+                            break;
+                        case "Strategy":
+                            cellGenre.style.backgroundColor = "#FFFF0033";
+                            break;
+                    }
+
+                    cellTier.innerHTML = "T" + data[i]["tier"];
+                    switch(data[i]["tier"]){
+                        case 0:
+                            cellTier.style.backgroundColor = "#C5CBD388";
+                            break;
+                        case 1:
+                            cellTier.style.backgroundColor = "#5DC11888";
+                            break;
+                        case 2:
+                            cellTier.style.backgroundColor = "#F2CF2488";
+                            break;
+                        case 3:
+                            cellTier.style.backgroundColor = "#FF6F2188";
+                            break;
+                        case 4:
+                            cellTier.style.backgroundColor = "#FF242488";
+                            break;
+                        case 5:
+                            cellTier.style.backgroundColor = "#00000088";
+                            cellTier.style.color = "#FFFFFF";
+                            break;
+
+                    }
+                    cellPoints.innerHTML = data[i]["points"];
+                    if(data[i]["points"] % 5 > 0)
+                    {
+                        cellPoints.style.backgroundColor = "#FFFF0055";
+                    }
+                    
+                    cellOwners.innerHTML = data[i]["playersTotal"];
+                    cellFullCompletion.innerHTML = data[i]["playersCompleted"];
+                    cellPartialCompletion.innerHTML = data[i]["playersStarted"];
+                    
+                    if(data[i]["playersTotal"] > 0)
+                    {
+                        cellCompletionPercentage.innerHTML = toFixed(data[i]["playersCompleted"] / data[i]["playersTotal"] * 100, 1) + "%";
+                        cellPartialPercentage.innerHTML = toFixed(data[i]["playersStarted"] / data[i]["playersTotal"] * 100, 1) + "%";
+                    }
+                    else
+                    {
+                        cellCompletionPercentage.innerHTML = "0%";
+                        cellPartialPercentage.innerHTML = "0%";
+                    }
+
+                    if(data[i]["priceData"]["currency"] == "USD")
+                    {
+                        cellBasePrice.innerHTML = "$" + data[i]["priceData"]["initial"]/100
+                        cellDiscountPrice.innerHTML = "$" + data[i]["priceData"]["final"]/100;
+                    }
+
+                    cellDiscountPercentage.innerHTML = data[i]["priceData"]["discount_percent"] + "%";
+
+                    //Function specifically to truncate percentage
+                    function toFixed(num, fixed) {
+                        var re = new RegExp('^-?\\d+(?:\.\\d{0,' + (fixed || -1) + '})?');
+                        return num.toString().match(re)[0];
+                    }
+
+                    cellSteam.innerHTML = data[i]["platformId"];
+                    cellCE.innerHTML = data[i]["CEId"];
+
+                    cellLinkSteam.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#1D88C7'>Steam</a>";
+                    var a = document.getElementById("tmp");
+                    a.href = "https://store.steampowered.com/app/" + data[i]["platformId"];
+                    a.id = null;
+
+
+                    cellLinkCE.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#000000'>Challenge Enthusiasts</a>";
+                    var a = document.getElementById("tmp");
+                    a.href = "https://cedb.me/game/" + data[i]["CEId"];
+                    a.id = null;
+
+                    if(i%2 == 0)
+                    {
+                        row1.style.backgroundColor = "#dddddd";
+                        row2.style.backgroundColor = "#dddddd";
+                    }
+                    else
+                    {
+                        row1.style.backgroundColor = "#c3c3c3";
+                        row2.style.backgroundColor = "#c3c3c3";
+                    }
+                }
+            }
+        </script>
+    </body>
+</html>
