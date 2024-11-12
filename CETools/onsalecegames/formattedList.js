@@ -324,6 +324,40 @@ var data =
         }
     },
     {
+        "platformId": 601150,
+        "CEId": "bacd841e-3086-4d92-a355-67cf515ddeb5",
+        "name": "Devil May Cry 5",
+        "genre": "Action",
+        "tier": 3,
+        "points": 75,
+        "playersCompleted": 9,
+        "playersStarted": 0,
+        "playersTotal": 310,
+        "priceData": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 989,
+            "discount_percent": 67
+        }
+    },
+    {
+        "platformId": 631510,
+        "CEId": "656aaa64-33bb-43f2-a9f6-cdadb678249a",
+        "name": "Devil May Cry HD Collection",
+        "genre": "Action",
+        "tier": 1,
+        "points": 16,
+        "playersCompleted": 0,
+        "playersStarted": 11,
+        "playersTotal": 196,
+        "priceData": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 989,
+            "discount_percent": 67
+        }
+    },
+    {
         "platformId": 237630,
         "CEId": "15c76d0d-8105-4610-88f7-6aba244a386c",
         "name": "DuckTales: Remastered",
@@ -443,6 +477,23 @@ var data =
         }
     },
     {
+        "platformId": 1375400,
+        "CEId": "a5785166-0669-4dbf-adc7-72ca73a91449",
+        "name": "Ghosts 'n Goblins Resurrection",
+        "genre": "Action",
+        "tier": 1,
+        "points": 10,
+        "playersCompleted": 5,
+        "playersStarted": 0,
+        "playersTotal": 32,
+        "priceData": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 989,
+            "discount_percent": 67
+        }
+    },
+    {
         "platformId": 454970,
         "CEId": "3d9bbf65-b6f2-47e9-a552-952661ded96f",
         "name": "Gravity Den",
@@ -528,23 +579,6 @@ var data =
         }
     },
     {
-        "platformId": 2441270,
-        "CEId": "fa3112dd-e6ec-4406-8cbd-9c2bc9f1221d",
-        "name": "Kill The Crows",
-        "genre": "Action",
-        "tier": 1,
-        "points": 15,
-        "playersCompleted": 5,
-        "playersStarted": 0,
-        "playersTotal": 8,
-        "priceData": {
-            "currency": "USD",
-            "initial": 499,
-            "final": 299,
-            "discount_percent": 40
-        }
-    },
-    {
         "platformId": 1604300,
         "CEId": "d3b7e30c-cbe5-4404-8013-d79ef7b624ff",
         "name": "LOVE 3",
@@ -593,74 +627,6 @@ var data =
             "initial": 1999,
             "final": 199,
             "discount_percent": 90
-        }
-    },
-    {
-        "platformId": 742300,
-        "CEId": "e28f6d20-4d96-4e90-8b18-5bb49d369370",
-        "name": "Mega Man 11",
-        "genre": "Action",
-        "tier": 2,
-        "points": 20,
-        "playersCompleted": 13,
-        "playersStarted": 0,
-        "playersTotal": 142,
-        "priceData": {
-            "currency": "USD",
-            "initial": 2999,
-            "final": 989,
-            "discount_percent": 67
-        }
-    },
-    {
-        "platformId": 363440,
-        "CEId": "419fc861-8c46-456b-8936-f5916a31d462",
-        "name": "Mega Man Legacy Collection / \u30ed\u30c3\u30af\u30de\u30f3 \u30af\u30e9\u30b7\u30c3\u30af\u30b9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
-        "genre": "Action",
-        "tier": 2,
-        "points": 25,
-        "playersCompleted": 29,
-        "playersStarted": 0,
-        "playersTotal": 354,
-        "priceData": {
-            "currency": "USD",
-            "initial": 1499,
-            "final": 599,
-            "discount_percent": 60
-        }
-    },
-    {
-        "platformId": 495050,
-        "CEId": "f8517c43-8de2-4e71-89d2-f0065dee36fa",
-        "name": "Mega Man Legacy Collection 2",
-        "genre": "Action",
-        "tier": 4,
-        "points": 80,
-        "playersCompleted": 2,
-        "playersStarted": 10,
-        "playersTotal": 128,
-        "priceData": {
-            "currency": "USD",
-            "initial": 1999,
-            "final": 799,
-            "discount_percent": 60
-        }
-    },
-    {
-        "platformId": 999020,
-        "CEId": "a27109df-3c27-410e-9947-915d2634a866",
-        "name": "Mega Man Zero/ZX Legacy Collection",
-        "genre": "Action",
-        "tier": 2,
-        "points": 27,
-        "playersCompleted": 0,
-        "playersStarted": 4,
-        "playersTotal": 76,
-        "priceData": {
-            "currency": "USD",
-            "initial": 2999,
-            "final": 989,
-            "discount_percent": 67
         }
     },
     {
@@ -1129,6 +1095,6 @@ var date =
     "month": 11,
     "year": 2024,
     "hour": 18,
-    "minute": 19,
-    "second": 14
+    "minute": 26,
+    "second": 27
 }
