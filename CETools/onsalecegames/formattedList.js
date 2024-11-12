@@ -791,7 +791,7 @@ var data =
         "points": 25,
         "playersCompleted": 27,
         "playersStarted": 0,
-        "playersTotal": 312,
+        "playersTotal": 313,
         "priceData": {
             "currency": "USD",
             "initial": 1999,
@@ -1298,7 +1298,7 @@ var date =
     "day": 12,
     "month": 11,
     "year": 2024,
-    "hour": 13,
-    "minute": 51,
-    "second": 53
+    "hour": 16,
+    "minute": 9,
+    "second": 23
 }
