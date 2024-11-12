@@ -1,6 +1,23 @@
 var data =
 [
     {
+        "platformId": 1402120,
+        "CEId": "b8d32f16-c5f9-4cc7-a902-2adab70b65ec",
+        "name": "9 Years of Shadows",
+        "genre": "Action",
+        "tier": 1,
+        "points": 5,
+        "playersCompleted": 11,
+        "playersStarted": 0,
+        "playersTotal": 57,
+        "priceData": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 999,
+            "discount_percent": 50
+        }
+    },
+    {
         "platformId": 1968790,
         "CEId": "daf8eb87-7696-4502-8c58-2cdd0c841839",
         "name": "Alkali",
@@ -100,6 +117,23 @@ var data =
             "initial": 1299,
             "final": 454,
             "discount_percent": 65
+        }
+    },
+    {
+        "platformId": 2622220,
+        "CEId": "30fad515-6312-4fae-a3d0-5c8e97df64b3",
+        "name": "AVOID",
+        "genre": "Arcade",
+        "tier": 4,
+        "points": 130,
+        "playersCompleted": 1,
+        "playersStarted": 2,
+        "playersTotal": 6,
+        "priceData": {
+            "currency": "USD",
+            "initial": 999,
+            "final": 749,
+            "discount_percent": 25
         }
     },
     {
@@ -307,57 +341,6 @@ var data =
         }
     },
     {
-        "platformId": 681280,
-        "CEId": "f4d85a0a-b909-4df1-9b32-7f95c2d826f7",
-        "name": "Descenders",
-        "genre": "Arcade",
-        "tier": 3,
-        "points": 55,
-        "playersCompleted": 4,
-        "playersStarted": 8,
-        "playersTotal": 190,
-        "priceData": {
-            "currency": "USD",
-            "initial": 2499,
-            "final": 624,
-            "discount_percent": 75
-        }
-    },
-    {
-        "platformId": 601150,
-        "CEId": "bacd841e-3086-4d92-a355-67cf515ddeb5",
-        "name": "Devil May Cry 5",
-        "genre": "Action",
-        "tier": 3,
-        "points": 75,
-        "playersCompleted": 9,
-        "playersStarted": 0,
-        "playersTotal": 310,
-        "priceData": {
-            "currency": "USD",
-            "initial": 2999,
-            "final": 989,
-            "discount_percent": 67
-        }
-    },
-    {
-        "platformId": 631510,
-        "CEId": "656aaa64-33bb-43f2-a9f6-cdadb678249a",
-        "name": "Devil May Cry HD Collection",
-        "genre": "Action",
-        "tier": 1,
-        "points": 16,
-        "playersCompleted": 0,
-        "playersStarted": 11,
-        "playersTotal": 196,
-        "priceData": {
-            "currency": "USD",
-            "initial": 2999,
-            "final": 989,
-            "discount_percent": 67
-        }
-    },
-    {
         "platformId": 237630,
         "CEId": "15c76d0d-8105-4610-88f7-6aba244a386c",
         "name": "DuckTales: Remastered",
@@ -426,23 +409,6 @@ var data =
         }
     },
     {
-        "platformId": 1319460,
-        "CEId": "633ec626-b1a3-4564-a270-2678e627db59",
-        "name": "Fashion Police Squad",
-        "genre": "First-Person",
-        "tier": 1,
-        "points": 5,
-        "playersCompleted": 4,
-        "playersStarted": 0,
-        "playersTotal": 49,
-        "priceData": {
-            "currency": "USD",
-            "initial": 1999,
-            "final": 999,
-            "discount_percent": 50
-        }
-    },
-    {
         "platformId": 1285020,
         "CEId": "f7952e04-0c79-4b94-9586-3e617dad45fb",
         "name": "Flipon",
@@ -460,36 +426,19 @@ var data =
         }
     },
     {
-        "platformId": 1085510,
-        "CEId": "1e2b4f12-228a-4786-8876-f04faba55134",
-        "name": "Garfield Kart - Furious Racing",
-        "genre": "Arcade",
-        "tier": 2,
-        "points": 30,
-        "playersCompleted": 3,
-        "playersStarted": 41,
-        "playersTotal": 314,
+        "platformId": 1476170,
+        "CEId": "1609f25e-60bf-4d3e-8fdc-9daf19b367e3",
+        "name": "Godstrike",
+        "genre": "Bullet Hell",
+        "tier": 1,
+        "points": 5,
+        "playersCompleted": 7,
+        "playersStarted": 0,
+        "playersTotal": 57,
         "priceData": {
             "currency": "USD",
             "initial": 1499,
-            "final": 104,
-            "discount_percent": 93
-        }
-    },
-    {
-        "platformId": 1375400,
-        "CEId": "a5785166-0669-4dbf-adc7-72ca73a91449",
-        "name": "Ghosts 'n Goblins Resurrection",
-        "genre": "Action",
-        "tier": 1,
-        "points": 10,
-        "playersCompleted": 5,
-        "playersStarted": 0,
-        "playersTotal": 32,
-        "priceData": {
-            "currency": "USD",
-            "initial": 2999,
-            "final": 989,
+            "final": 494,
             "discount_percent": 67
         }
     },
@@ -613,23 +562,6 @@ var data =
         }
     },
     {
-        "platformId": 1586700,
-        "CEId": "d0406ec0-8b86-4516-8a09-deb9c6ab055b",
-        "name": "MARSUPILAMI - HOOBADVENTURE",
-        "genre": "Platformer",
-        "tier": 1,
-        "points": 5,
-        "playersCompleted": 3,
-        "playersStarted": 0,
-        "playersTotal": 54,
-        "priceData": {
-            "currency": "USD",
-            "initial": 1999,
-            "final": 199,
-            "discount_percent": 90
-        }
-    },
-    {
         "platformId": 366250,
         "CEId": "1be7132e-148b-4a74-bd2f-e0d3f407246e",
         "name": "METAL SLUG",
@@ -661,23 +593,6 @@ var data =
             "initial": 799,
             "final": 159,
             "discount_percent": 80
-        }
-    },
-    {
-        "platformId": 417430,
-        "CEId": "53700cfe-ad67-41e8-bd3e-e60add91693d",
-        "name": "Moto Racer  4",
-        "genre": "Arcade",
-        "tier": 2,
-        "points": 30,
-        "playersCompleted": 0,
-        "playersStarted": 1,
-        "playersTotal": 29,
-        "priceData": {
-            "currency": "USD",
-            "initial": 1499,
-            "final": 149,
-            "discount_percent": 90
         }
     },
     {
@@ -800,23 +715,6 @@ var data =
         }
     },
     {
-        "platformId": 1058320,
-        "CEId": "6407b83d-e8b9-4257-ad3d-c2e183fbb91b",
-        "name": "Toki",
-        "genre": "Action",
-        "tier": 1,
-        "points": 10,
-        "playersCompleted": 8,
-        "playersStarted": 0,
-        "playersTotal": 89,
-        "priceData": {
-            "currency": "USD",
-            "initial": 1999,
-            "final": 199,
-            "discount_percent": 90
-        }
-    },
-    {
         "platformId": 7200,
         "CEId": "5337f128-8ca1-4cf8-9032-73ab63616c24",
         "name": "Trackmania United Forever",
@@ -909,7 +807,7 @@ var data =
         "tier": 5,
         "points": 200,
         "playersCompleted": 19,
-        "playersStarted": 23,
+        "playersStarted": 24,
         "playersTotal": 138,
         "priceData": {
             "currency": "USD",
@@ -950,6 +848,23 @@ var data =
             "initial": 1999,
             "final": 399,
             "discount_percent": 80
+        }
+    },
+    {
+        "platformId": 552500,
+        "CEId": "13ed1e64-45a2-4022-b780-4d7535a6c2ba",
+        "name": "Warhammer: Vermintide 2",
+        "genre": "First-Person",
+        "tier": 1,
+        "points": 16,
+        "playersCompleted": 0,
+        "playersStarted": 2,
+        "playersTotal": 102,
+        "priceData": {
+            "currency": "USD",
+            "initial": 2999,
+            "final": 149,
+            "discount_percent": 95
         }
     },
     {
@@ -1094,7 +1009,7 @@ var date =
     "day": 12,
     "month": 11,
     "year": 2024,
-    "hour": 18,
-    "minute": 26,
-    "second": 27
+    "hour": 20,
+    "minute": 9,
+    "second": 32
 }
