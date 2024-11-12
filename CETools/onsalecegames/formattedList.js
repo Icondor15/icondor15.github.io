@@ -579,23 +579,6 @@ var data =
         }
     },
     {
-        "platformId": 2441270,
-        "CEId": "fa3112dd-e6ec-4406-8cbd-9c2bc9f1221d",
-        "name": "Kill The Crows",
-        "genre": "Action",
-        "tier": 1,
-        "points": 15,
-        "playersCompleted": 5,
-        "playersStarted": 0,
-        "playersTotal": 8,
-        "priceData": {
-            "currency": "USD",
-            "initial": 499,
-            "final": 299,
-            "discount_percent": 40
-        }
-    },
-    {
         "platformId": 1604300,
         "CEId": "d3b7e30c-cbe5-4404-8013-d79ef7b624ff",
         "name": "LOVE 3",
@@ -1315,7 +1298,7 @@ var date =
     "day": 12,
     "month": 11,
     "year": 2024,
-    "hour": 17,
-    "minute": 56,
-    "second": 51
+    "hour": 18,
+    "minute": 7,
+    "second": 55
 }
