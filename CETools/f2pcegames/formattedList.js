@@ -53,7 +53,7 @@ var data =
         "points": 65,
         "playersCompleted": 5,
         "playersStarted": 14,
-        "playersTotal": 178
+        "playersTotal": 179
     },
     {
         "platformId": 1877190,
@@ -86,7 +86,7 @@ var data =
         "points": 30,
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 209
+        "playersTotal": 210
     },
     {
         "platformId": 1961770,
@@ -97,7 +97,7 @@ var data =
         "points": 5,
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 43
+        "playersTotal": 44
     },
     {
         "platformId": 2099440,
@@ -108,7 +108,7 @@ var data =
         "points": 5,
         "playersCompleted": 25,
         "playersStarted": 0,
-        "playersTotal": 118
+        "playersTotal": 119
     },
     {
         "platformId": 2232950,
@@ -119,7 +119,7 @@ var data =
         "points": 10,
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 11
+        "playersTotal": 12
     },
     {
         "platformId": 1954100,
@@ -141,7 +141,7 @@ var data =
         "points": 20,
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 107
+        "playersTotal": 108
     },
     {
         "platformId": 1602330,
@@ -273,7 +273,7 @@ var data =
         "points": 15,
         "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 45
+        "playersTotal": 46
     },
     {
         "platformId": 1819570,
@@ -361,7 +361,7 @@ var data =
         "points": 5,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 25
+        "playersTotal": 27
     },
     {
         "platformId": 1114940,
@@ -383,7 +383,7 @@ var data =
         "points": 5,
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 21
+        "playersTotal": 22
     },
     {
         "platformId": 368950,
@@ -405,7 +405,7 @@ var data =
         "points": 20,
         "playersCompleted": 9,
         "playersStarted": 12,
-        "playersTotal": 185
+        "playersTotal": 186
     },
     {
         "platformId": 626680,
@@ -460,7 +460,7 @@ var data =
         "points": 50,
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 59
+        "playersTotal": 60
     },
     {
         "platformId": 1625450,
@@ -482,7 +482,7 @@ var data =
         "points": 5,
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 101
+        "playersTotal": 102
     },
     {
         "platformId": 1057850,
@@ -493,7 +493,7 @@ var data =
         "points": 5,
         "playersCompleted": 71,
         "playersStarted": 0,
-        "playersTotal": 258
+        "playersTotal": 259
     },
     {
         "platformId": 745560,
@@ -526,7 +526,7 @@ var data =
         "points": 5,
         "playersCompleted": 54,
         "playersStarted": 0,
-        "playersTotal": 255
+        "playersTotal": 256
     },
     {
         "platformId": 701440,
@@ -548,7 +548,7 @@ var data =
         "points": 5,
         "playersCompleted": 75,
         "playersStarted": 0,
-        "playersTotal": 230
+        "playersTotal": 231
     },
     {
         "platformId": 495750,
@@ -581,7 +581,7 @@ var data =
         "points": 40,
         "playersCompleted": 28,
         "playersStarted": 0,
-        "playersTotal": 290
+        "playersTotal": 291
     },
     {
         "platformId": 1993830,
@@ -625,7 +625,7 @@ var data =
         "points": 25,
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 65
+        "playersTotal": 66
     },
     {
         "platformId": 994190,
@@ -636,7 +636,7 @@ var data =
         "points": 5,
         "playersCompleted": 63,
         "playersStarted": 0,
-        "playersTotal": 210
+        "playersTotal": 211
     },
     {
         "platformId": 1519690,
@@ -669,7 +669,7 @@ var data =
         "points": 5,
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 59
+        "playersTotal": 60
     },
     {
         "platformId": 2619210,
@@ -680,7 +680,7 @@ var data =
         "points": 180,
         "playersCompleted": 1,
         "playersStarted": 4,
-        "playersTotal": 71
+        "playersTotal": 72
     },
     {
         "platformId": 1374410,
@@ -700,9 +700,9 @@ var data =
         "genre": "Bullet Hell",
         "tier": 1,
         "points": 5,
-        "playersCompleted": 1,
+        "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 16
+        "playersTotal": 17
     },
     {
         "platformId": 796380,
@@ -735,7 +735,7 @@ var data =
         "points": 20,
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 99
+        "playersTotal": 100
     },
     {
         "platformId": 1010890,
@@ -790,7 +790,7 @@ var data =
         "points": 5,
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 44
+        "playersTotal": 45
     },
     {
         "platformId": 871720,
@@ -821,8 +821,8 @@ var data =
         "genre": "Arcade",
         "tier": 5,
         "points": 250,
-        "playersCompleted": 2,
-        "playersStarted": 36,
+        "playersCompleted": 3,
+        "playersStarted": 35,
         "playersTotal": 225
     },
     {
@@ -834,7 +834,7 @@ var data =
         "points": 15,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 37
+        "playersTotal": 38
     },
     {
         "platformId": 1305730,
@@ -921,7 +921,7 @@ var data =
         "tier": 4,
         "points": 130,
         "playersCompleted": 1,
-        "playersStarted": 5,
+        "playersStarted": 6,
         "playersTotal": 109
     }
 ]
@@ -939,7 +939,7 @@ var statsDate =
     "day": 12,
     "month": 11,
     "year": 2024,
-    "hour": 18,
-    "minute": 26,
-    "second": 23
+    "hour": 20,
+    "minute": 9,
+    "second": 28
 }
