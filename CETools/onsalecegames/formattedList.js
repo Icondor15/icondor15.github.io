@@ -579,6 +579,23 @@ var data =
         }
     },
     {
+        "platformId": 2441270,
+        "CEId": "fa3112dd-e6ec-4406-8cbd-9c2bc9f1221d",
+        "name": "Kill The Crows",
+        "genre": "Action",
+        "tier": 1,
+        "points": 15,
+        "playersCompleted": 5,
+        "playersStarted": 0,
+        "playersTotal": 8,
+        "priceData": {
+            "currency": "USD",
+            "initial": 499,
+            "final": 299,
+            "discount_percent": 40
+        }
+    },
+    {
         "platformId": 1604300,
         "CEId": "d3b7e30c-cbe5-4404-8013-d79ef7b624ff",
         "name": "LOVE 3",
@@ -1140,23 +1157,6 @@ var data =
         }
     },
     {
-        "platformId": 45760,
-        "CEId": "c2b7c9a4-95cf-49ff-90df-be85c8f9f682",
-        "name": "Ultra Street Fighter\u00ae IV",
-        "genre": "Action",
-        "tier": 1,
-        "points": 15,
-        "playersCompleted": 1,
-        "playersStarted": 0,
-        "playersTotal": 53,
-        "priceData": {
-            "currency": "USD",
-            "initial": 2999,
-            "final": 389,
-            "discount_percent": 87
-        }
-    },
-    {
         "platformId": 2727650,
         "CEId": "818fc063-ff18-424f-a137-aba61c12ef18",
         "name": "WHAT THE CAR?",
@@ -1299,6 +1299,6 @@ var date =
     "month": 11,
     "year": 2024,
     "hour": 18,
-    "minute": 7,
-    "second": 55
+    "minute": 11,
+    "second": 29
 }
