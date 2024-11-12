@@ -290,6 +290,23 @@ var data =
         }
     },
     {
+        "platformId": 1282210,
+        "CEId": "071209da-f9f9-4cfa-aae3-0d7f9811ba9f",
+        "name": "DEEMO -Reborn-",
+        "genre": "Arcade",
+        "tier": 4,
+        "points": 150,
+        "playersCompleted": 6,
+        "playersStarted": 23,
+        "playersTotal": 105,
+        "priceData": {
+            "currency": "USD",
+            "initial": 2499,
+            "final": 1499,
+            "discount_percent": 40
+        }
+    },
+    {
         "platformId": 681280,
         "CEId": "f4d85a0a-b909-4df1-9b32-7f95c2d826f7",
         "name": "Descenders",
@@ -1298,7 +1315,7 @@ var date =
     "day": 12,
     "month": 11,
     "year": 2024,
-    "hour": 16,
-    "minute": 9,
-    "second": 23
+    "hour": 17,
+    "minute": 50,
+    "second": 4
 }
