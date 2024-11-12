@@ -84,7 +84,7 @@ var data =
         "genre": "First-Person",
         "tier": 2,
         "points": 30,
-        "playersCompleted": 7,
+        "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 209
     },
@@ -713,7 +713,7 @@ var data =
         "points": 120,
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 156
+        "playersTotal": 157
     },
     {
         "platformId": 1986980,
@@ -927,19 +927,19 @@ var data =
 ]
 var date =
 {
-    "day": 11,
+    "day": 12,
     "month": 11,
     "year": 2024,
-    "hour": 16,
-    "minute": 40,
-    "second": 15
+    "hour": 15,
+    "minute": 42,
+    "second": 49
 }
 var statsDate =
 {
     "day": 12,
     "month": 11,
     "year": 2024,
-    "hour": 11,
-    "minute": 0,
-    "second": 13
+    "hour": 15,
+    "minute": 42,
+    "second": 49
 }
