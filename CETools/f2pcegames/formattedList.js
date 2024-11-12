@@ -95,9 +95,9 @@ var data =
         "genre": "Platformer",
         "tier": 1,
         "points": 5,
-        "playersCompleted": 6,
+        "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 44
+        "playersTotal": 45
     },
     {
         "platformId": 2099440,
@@ -185,7 +185,7 @@ var data =
         "points": 5,
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 59
+        "playersTotal": 60
     },
     {
         "platformId": 404700,
@@ -284,7 +284,7 @@ var data =
         "points": 5,
         "playersCompleted": 23,
         "playersStarted": 0,
-        "playersTotal": 229
+        "playersTotal": 230
     },
     {
         "platformId": 1533280,
@@ -317,7 +317,7 @@ var data =
         "points": 5,
         "playersCompleted": 85,
         "playersStarted": 0,
-        "playersTotal": 191
+        "playersTotal": 192
     },
     {
         "platformId": 339120,
@@ -361,7 +361,7 @@ var data =
         "points": 5,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 27
+        "playersTotal": 28
     },
     {
         "platformId": 1114940,
@@ -416,7 +416,7 @@ var data =
         "points": 721,
         "playersCompleted": 0,
         "playersStarted": 51,
-        "playersTotal": 322
+        "playersTotal": 323
     },
     {
         "platformId": 1309940,
@@ -482,7 +482,7 @@ var data =
         "points": 5,
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 102
+        "playersTotal": 103
     },
     {
         "platformId": 1057850,
@@ -515,7 +515,7 @@ var data =
         "points": 5,
         "playersCompleted": 24,
         "playersStarted": 0,
-        "playersTotal": 137
+        "playersTotal": 138
     },
     {
         "platformId": 3483,
@@ -559,7 +559,7 @@ var data =
         "points": 6,
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 23
+        "playersTotal": 24
     },
     {
         "platformId": 1058640,
@@ -939,7 +939,7 @@ var statsDate =
     "day": 12,
     "month": 11,
     "year": 2024,
-    "hour": 20,
-    "minute": 9,
-    "second": 28
+    "hour": 23,
+    "minute": 43,
+    "second": 24
 }
