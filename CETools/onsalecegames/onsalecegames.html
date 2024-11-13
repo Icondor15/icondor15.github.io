@@ -116,6 +116,92 @@
                 <td class="button" style="padding:0px" colspan="2" onclick="order('platformId')">Order By Steam Id</td>
             </tr>
         </table>
+        <table style="margin: 10px auto 0px; width: 40%; text-align: center; background-color:#ffffff;">
+            <tr>
+                <td style="font-size: 12px; font-weight: bold; text-align: center;" colspan="4">
+                    How the sales are color coded<br><sub style="font-size: 10px; font-weight:normal;">(if you're curious)</sub>
+                </td>
+            </tr>
+            <tr>
+                <td style="width:50%; margin: auto; padding: 5px; font-size: 20px; font-weight: bold; text-align: center;" colspan="2">
+                    Sale Price
+                </td>
+                <td style="width:50%; margin: auto; padding: 5px; font-size: 20px; font-weight: bold; text-align: center;" colspan="2">
+                    Sale Percentage
+                </td>
+            </tr>
+            <tr>
+                <td style="width:25%;">
+                    ≤ $1
+                </td>
+                <td style="width:25%; font-weight: 600; color: rgb(0, 102, 0); background-color: rgba(0, 255, 0, 0.333);">
+                    $0.99
+                </td>
+                <td style="width:25%; font-weight: 600; color: rgb(0, 102, 0); background-color: rgba(0, 255, 0, 0.333);">
+                    95%
+                </td>
+                <td style="width:25%;">
+                    ≥ 90%
+                </td>
+            </tr>
+            <tr>
+                <td style="width:25%;">
+                    ≤ $5
+                </td>
+                <td style="color: rgb(0, 102, 0); background-color: rgba(0, 255, 0, 0.333);">
+                    $4.99
+                </td>
+                <td style="color: rgb(0, 102, 0); background-color: rgba(0, 255, 0, 0.333);">
+                    75%
+                </td>
+                <td style="width:25%;">
+                    ≥ 66%
+                </td>
+            </tr>
+            <tr>
+                <td style="width:25%;">
+                    ≤ $10
+                </td>
+                <td style="color: rgb(51, 102, 0); background-color: rgba(136, 255, 0, 0.333);">
+                    $9.99
+                </td>
+                <td style="color: rgb(51, 102, 0); background-color: rgba(136, 255, 0, 0.333);">
+                    50%
+                </td>
+                <td style="width:25%;">
+                    ≥ 33%
+                </td>
+            </tr>
+            <tr>
+                <td style="width:25%;">
+                    ≤ $20
+                </td>
+                <td style="color: rgb(102, 102, 0); background-color: rgba(255, 255, 0, 0.333);">
+                    $19.99
+                </td>
+                <td style="color: rgb(102, 102, 0); background-color: rgba(255, 255, 0, 0.333);">
+                    20%
+                </td>
+                <td style="width:25%;">
+                    ≥ 15%
+                </td>
+            </tr>
+            <tr>
+                <td style="width:25%;">
+                    > $20
+                </td>
+                <td style="color: rgb(102, 51, 0); background-color: rgba(255, 136, 0, 0.333);">
+                    $24.99
+                </td>
+                <td style="color: rgb(102, 51, 0); background-color: rgba(255, 136, 0, 0.333);">
+                    5%
+                </td>
+                <td style="width:25%;">
+                    < 15%
+                </td>
+            </tr>
+        </table>
+
         <p style="font-size:7px; text-align:center; "><a id="secretLink" target="_blank" href="https://github.com/Icondor15/icondor15.github.io">Secret link to Github page!</a></p>
 
         <script src="formattedList.js"></script>
@@ -141,9 +227,13 @@
                         data.sort((a,b) => (a["playersStarted"] > b["playersStarted"]) ? 1 : ((b["playersStarted"] > a["playersStarted"]) ? -1 : 0));
                         data.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
                     }
-                    else if(type == "initial" || type == "final" || type == "discount_percent")
+                    else if(type == "initial" || type == "final")
                     {
                         data.sort((a,b) => (a["priceData"][type] > b["priceData"][type]) ? 1 : ((b["priceData"][type] > a["priceData"][type]) ? -1 : 0));
+                    }
+                    else if(type == "discount_percent")
+                    {
+                        data.sort((a,b) => (a["priceData"][type] < b["priceData"][type]) ? 1 : ((b["priceData"][type] < a["priceData"][type]) ? -1 : 0));
                     }
                     else if(type != "percentage")
                     {
@@ -188,14 +278,8 @@
                     cellBasePrice.rowSpan = 2;
                     var cellDiscountPrice = row1.insertCell(8);
                     cellDiscountPrice.rowSpan = 2;
-                    cellDiscountPrice.style.color = "#006600";
-                    cellDiscountPrice.style.backgroundColor = "#00FF0055";
-                    cellDiscountPrice.style.fontWeight = "600";
                     var cellDiscountPercentage = row1.insertCell(9);
                     cellDiscountPercentage.rowSpan = 2;
-                    cellDiscountPercentage.style.color = "#006600";
-                    cellDiscountPercentage.style.backgroundColor = "#00FF0055";
-                    cellDiscountPercentage.style.fontWeight = "600";
                     var cellSteam = row1.insertCell(10);
                     var cellLinkSteam = row1.insertCell(11);
 
@@ -281,9 +365,55 @@
                     {
                         cellBasePrice.innerHTML = "$" + data[i]["priceData"]["initial"]/100
                         cellDiscountPrice.innerHTML = "$" + data[i]["priceData"]["final"]/100;
+                        
+                        if(data[i]["priceData"]["final"] <= 100) {cellDiscountPrice.style.fontWeight = "600";} 
+
+                        if(data[i]["priceData"]["final"] <= 500)
+                        {
+                            cellDiscountPrice.style.color = "#006600";
+                            cellDiscountPrice.style.backgroundColor = "#00FF0055";
+                        }
+                        else if(data[i]["priceData"]["final"] <= 1000)
+                        {
+                            cellDiscountPrice.style.color = "#336600";
+                            cellDiscountPrice.style.backgroundColor = "#88FF0055";
+                        }
+                        else if(data[i]["priceData"]["final"] <= 2000)
+                        {
+                            cellDiscountPrice.style.color = "#666600";
+                            cellDiscountPrice.style.backgroundColor = "#FFFF0055";
+                        }
+                        else
+                        {
+                            cellDiscountPrice.style.color = "#663300";
+                            cellDiscountPrice.style.backgroundColor = "#FF880055";
+                        }
                     }
 
                     cellDiscountPercentage.innerHTML = data[i]["priceData"]["discount_percent"] + "%";
+
+                    if(data[i]["priceData"]["discount_percent"] >= 90) {cellDiscountPercentage.style.fontWeight = "600";} 
+
+                    if(data[i]["priceData"]["discount_percent"] >= 66)
+                    {
+                        cellDiscountPercentage.style.color = "#006600";
+                        cellDiscountPercentage.style.backgroundColor = "#00FF0055";
+                    }
+                    else if(data[i]["priceData"]["discount_percent"] >= 33)
+                    {
+                        cellDiscountPercentage.style.color = "#336600";
+                        cellDiscountPercentage.style.backgroundColor = "#88FF0055";
+                    }
+                    else if(data[i]["priceData"]["discount_percent"] >= 15)
+                    {
+                        cellDiscountPercentage.style.color = "#666600";
+                        cellDiscountPercentage.style.backgroundColor = "#FFFF0055";
+                    }
+                    else
+                    {
+                        cellDiscountPercentage.style.color = "#663300";
+                        cellDiscountPercentage.style.backgroundColor = "#FF880055";
+                    }
 
                     //Function specifically to truncate percentage
                     function toFixed(num, fixed) {
