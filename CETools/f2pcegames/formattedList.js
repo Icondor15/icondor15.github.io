@@ -471,7 +471,7 @@ var data =
         "points": 15,
         "playersCompleted": 2,
         "playersStarted": 13,
-        "playersTotal": 466
+        "playersTotal": 467
     },
     {
         "platformId": 1064610,
@@ -482,7 +482,7 @@ var data =
         "points": 5,
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 103
+        "playersTotal": 104
     },
     {
         "platformId": 1057850,
@@ -493,7 +493,7 @@ var data =
         "points": 5,
         "playersCompleted": 71,
         "playersStarted": 0,
-        "playersTotal": 259
+        "playersTotal": 260
     },
     {
         "platformId": 745560,
@@ -603,7 +603,7 @@ var data =
         "points": 80,
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 431
+        "playersTotal": 432
     },
     {
         "platformId": 2088520,
@@ -768,7 +768,7 @@ var data =
         "points": 15,
         "playersCompleted": 41,
         "playersStarted": 0,
-        "playersTotal": 320
+        "playersTotal": 321
     },
     {
         "platformId": 11020,
@@ -779,7 +779,7 @@ var data =
         "points": 40,
         "playersCompleted": 14,
         "playersStarted": 5,
-        "playersTotal": 383
+        "playersTotal": 384
     },
     {
         "platformId": 2684930,
@@ -936,10 +936,10 @@ var date =
 }
 var statsDate =
 {
-    "day": 12,
+    "day": 13,
     "month": 11,
     "year": 2024,
-    "hour": 23,
-    "minute": 43,
-    "second": 24
+    "hour": 8,
+    "minute": 32,
+    "second": 22
 }
