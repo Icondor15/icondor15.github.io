@@ -128,7 +128,7 @@ var data =
         "points": 130,
         "playersCompleted": 1,
         "playersStarted": 2,
-        "playersTotal": 6,
+        "playersTotal": 7,
         "priceData": {
             "currency": "USD",
             "initial": 999,
@@ -383,7 +383,7 @@ var data =
         "points": 105,
         "playersCompleted": 4,
         "playersStarted": 4,
-        "playersTotal": 92,
+        "playersTotal": 93,
         "priceData": {
             "currency": "USD",
             "initial": 999,
@@ -570,7 +570,7 @@ var data =
         "points": 10,
         "playersCompleted": 34,
         "playersStarted": 0,
-        "playersTotal": 126,
+        "playersTotal": 127,
         "priceData": {
             "currency": "USD",
             "initial": 799,
@@ -587,7 +587,7 @@ var data =
         "points": 15,
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 160,
+        "playersTotal": 161,
         "priceData": {
             "currency": "USD",
             "initial": 799,
@@ -689,7 +689,7 @@ var data =
         "points": 30,
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 77,
+        "playersTotal": 78,
         "priceData": {
             "currency": "USD",
             "initial": 199,
@@ -1006,10 +1006,10 @@ var data =
 ]
 var date =
 {
-    "day": 12,
+    "day": 13,
     "month": 11,
     "year": 2024,
-    "hour": 23,
-    "minute": 43,
-    "second": 27
+    "hour": 8,
+    "minute": 32,
+    "second": 25
 }
