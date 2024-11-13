@@ -18,23 +18,6 @@ var data =
         }
     },
     {
-        "platformId": 1968790,
-        "CEId": "daf8eb87-7696-4502-8c58-2cdd0c841839",
-        "name": "Alkali",
-        "genre": "Platformer",
-        "tier": 2,
-        "points": 20,
-        "playersCompleted": 2,
-        "playersStarted": 0,
-        "playersTotal": 7,
-        "priceData": {
-            "currency": "USD",
-            "initial": 1199,
-            "final": 239,
-            "discount_percent": 80
-        }
-    },
-    {
         "platformId": 1978590,
         "CEId": "2929c6cc-6f31-47e9-9ebd-f8e1e428ec12",
         "name": "Anger Foot",
@@ -417,7 +400,7 @@ var data =
         "points": 5,
         "playersCompleted": 45,
         "playersStarted": 0,
-        "playersTotal": 79,
+        "playersTotal": 80,
         "priceData": {
             "currency": "USD",
             "initial": 399,
@@ -1009,7 +992,7 @@ var date =
     "day": 13,
     "month": 11,
     "year": 2024,
-    "hour": 8,
-    "minute": 32,
-    "second": 25
+    "hour": 15,
+    "minute": 9,
+    "second": 18
 }
