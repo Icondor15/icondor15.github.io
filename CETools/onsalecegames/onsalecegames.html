@@ -229,10 +229,13 @@
                     }
                     else if(type == "initial" || type == "final")
                     {
+                        data.sort((a,b) => (a["priceData"]["discount_percent"] < b["priceData"]["discount_percent"]) ? 1 : ((b["priceData"]["discount_percent"] < a["priceData"]["discount_percent"]) ? -1 : 0));
                         data.sort((a,b) => (a["priceData"][type] > b["priceData"][type]) ? 1 : ((b["priceData"][type] > a["priceData"][type]) ? -1 : 0));
                     }
                     else if(type == "discount_percent")
                     {
+                        data.sort((a,b) => (a["priceData"]["initial"] > b["priceData"]["initial"]) ? 1 : ((b["priceData"]["initial"] > a["priceData"]["initial"]) ? -1 : 0));
+                        data.sort((a,b) => (a["priceData"]["final"] > b["priceData"]["final"]) ? 1 : ((b["priceData"]["final"] > a["priceData"]["final"]) ? -1 : 0));
                         data.sort((a,b) => (a["priceData"][type] < b["priceData"][type]) ? 1 : ((b["priceData"][type] < a["priceData"][type]) ? -1 : 0));
                     }
                     else if(type != "percentage")
