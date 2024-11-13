@@ -103,6 +103,23 @@ var data =
         }
     },
     {
+        "platformId": 621930,
+        "CEId": "8ee114fb-b5d7-4897-ab15-334d00f283a4",
+        "name": "Attack of the Earthlings",
+        "genre": "Strategy",
+        "tier": 1,
+        "points": 5,
+        "playersCompleted": 3,
+        "playersStarted": 0,
+        "playersTotal": 45,
+        "priceData": {
+            "currency": "USD",
+            "initial": 1499,
+            "final": 299,
+            "discount_percent": 80
+        }
+    },
+    {
         "platformId": 2622220,
         "CEId": "30fad515-6312-4fae-a3d0-5c8e97df64b3",
         "name": "AVOID",
@@ -270,6 +287,23 @@ var data =
             "initial": 1999,
             "final": 399,
             "discount_percent": 80
+        }
+    },
+    {
+        "platformId": 1218210,
+        "CEId": "1cb060d9-d088-4ce3-b7f9-d7f29d589faf",
+        "name": "Coromon",
+        "genre": "Strategy",
+        "tier": 1,
+        "points": 10,
+        "playersCompleted": 1,
+        "playersStarted": 3,
+        "playersTotal": 55,
+        "priceData": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 499,
+            "discount_percent": 75
         }
     },
     {
@@ -451,7 +485,7 @@ var data =
         "points": 30,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 39,
+        "playersTotal": 40,
         "priceData": {
             "currency": "USD",
             "initial": 1999,
@@ -511,6 +545,23 @@ var data =
         }
     },
     {
+        "platformId": 711540,
+        "CEId": "13a9fa4e-a31e-40f7-a12c-e0311f8f209d",
+        "name": "Lonely Mountains: Downhill",
+        "genre": "Arcade",
+        "tier": 2,
+        "points": 25,
+        "playersCompleted": 1,
+        "playersStarted": 2,
+        "playersTotal": 77,
+        "priceData": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 499,
+            "discount_percent": 75
+        }
+    },
+    {
         "platformId": 1604300,
         "CEId": "d3b7e30c-cbe5-4404-8013-d79ef7b624ff",
         "name": "LOVE 3",
@@ -542,6 +593,23 @@ var data =
             "initial": 1499,
             "final": 449,
             "discount_percent": 70
+        }
+    },
+    {
+        "platformId": 656970,
+        "CEId": "1d009b6d-1d85-41d1-b9ee-aeb5338581b1",
+        "name": "MagiCat",
+        "genre": "Platformer",
+        "tier": 2,
+        "points": 20,
+        "playersCompleted": 30,
+        "playersStarted": 28,
+        "playersTotal": 214,
+        "priceData": {
+            "currency": "USD",
+            "initial": 499,
+            "final": 249,
+            "discount_percent": 50
         }
     },
     {
@@ -579,6 +647,57 @@ var data =
         }
     },
     {
+        "platformId": 1102190,
+        "CEId": "6abf7a67-82ad-4843-95e1-38f51fda347c",
+        "name": "Monster Train",
+        "genre": "Strategy",
+        "tier": 4,
+        "points": 80,
+        "playersCompleted": 11,
+        "playersStarted": 17,
+        "playersTotal": 220,
+        "priceData": {
+            "currency": "USD",
+            "initial": 2499,
+            "final": 749,
+            "discount_percent": 70
+        }
+    },
+    {
+        "platformId": 1325200,
+        "CEId": "629e1cf8-eb2e-482e-a933-2a45a1ba4306",
+        "name": "Nioh 2 \u2013 The Complete Edition",
+        "genre": "Action",
+        "tier": 2,
+        "points": 25,
+        "playersCompleted": 23,
+        "playersStarted": 0,
+        "playersTotal": 153,
+        "priceData": {
+            "currency": "USD",
+            "initial": 4999,
+            "final": 2749,
+            "discount_percent": 45
+        }
+    },
+    {
+        "platformId": 485510,
+        "CEId": "ceeb091a-405b-40b0-a436-3337d90859a2",
+        "name": "Nioh: Complete Edition / \u4ec1\u738b Complete Edition",
+        "genre": "Action",
+        "tier": 2,
+        "points": 35,
+        "playersCompleted": 1,
+        "playersStarted": 28,
+        "playersTotal": 211,
+        "priceData": {
+            "currency": "USD",
+            "initial": 4999,
+            "final": 1149,
+            "discount_percent": 77
+        }
+    },
+    {
         "platformId": 728880,
         "CEId": "535d2f2f-ed84-4d60-92e6-1059440eee17",
         "name": "Overcooked! 2",
@@ -593,6 +712,40 @@ var data =
             "initial": 2499,
             "final": 624,
             "discount_percent": 75
+        }
+    },
+    {
+        "platformId": 658690,
+        "CEId": "2ef84e31-28e2-4b2e-8c97-e4a613d3389a",
+        "name": "Rage in Peace",
+        "genre": "Platformer",
+        "tier": 4,
+        "points": 80,
+        "playersCompleted": 11,
+        "playersStarted": 0,
+        "playersTotal": 107,
+        "priceData": {
+            "currency": "USD",
+            "initial": 1299,
+            "final": 259,
+            "discount_percent": 80
+        }
+    },
+    {
+        "platformId": 657000,
+        "CEId": "6a514ba5-8c76-4eb2-8034-8d9915a56e7c",
+        "name": "Rising Hell",
+        "genre": "Action",
+        "tier": 1,
+        "points": 14,
+        "playersCompleted": 0,
+        "playersStarted": 2,
+        "playersTotal": 24,
+        "priceData": {
+            "currency": "USD",
+            "initial": 999,
+            "final": 499,
+            "discount_percent": 50
         }
     },
     {
@@ -834,6 +987,40 @@ var data =
         }
     },
     {
+        "platformId": 437920,
+        "CEId": "1007daa0-7424-4c8f-88b5-15e06693b842",
+        "name": "Tricky Towers",
+        "genre": "Arcade",
+        "tier": 2,
+        "points": 20,
+        "playersCompleted": 41,
+        "playersStarted": 0,
+        "playersTotal": 301,
+        "priceData": {
+            "currency": "USD",
+            "initial": 1499,
+            "final": 494,
+            "discount_percent": 67
+        }
+    },
+    {
+        "platformId": 613190,
+        "CEId": "ddf046b5-50ac-4af6-9e96-ac07b26ebfb6",
+        "name": "Unworthy",
+        "genre": "Action",
+        "tier": 1,
+        "points": 10,
+        "playersCompleted": 18,
+        "playersStarted": 0,
+        "playersTotal": 72,
+        "priceData": {
+            "currency": "USD",
+            "initial": 1499,
+            "final": 299,
+            "discount_percent": 80
+        }
+    },
+    {
         "platformId": 552500,
         "CEId": "13ed1e64-45a2-4022-b780-4d7535a6c2ba",
         "name": "Warhammer: Vermintide 2",
@@ -842,7 +1029,7 @@ var data =
         "points": 16,
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 104,
+        "playersTotal": 105,
         "priceData": {
             "currency": "USD",
             "initial": 2999,
@@ -992,7 +1179,7 @@ var date =
     "day": 13,
     "month": 11,
     "year": 2024,
-    "hour": 16,
-    "minute": 47,
-    "second": 50
+    "hour": 23,
+    "minute": 39,
+    "second": 41
 }
