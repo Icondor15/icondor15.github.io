@@ -621,7 +621,7 @@ var data =
         "points": 10,
         "playersCompleted": 34,
         "playersStarted": 0,
-        "playersTotal": 127,
+        "playersTotal": 128,
         "priceData": {
             "currency": "USD",
             "initial": 799,
@@ -638,7 +638,7 @@ var data =
         "points": 15,
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 161,
+        "playersTotal": 162,
         "priceData": {
             "currency": "USD",
             "initial": 799,
@@ -712,6 +712,23 @@ var data =
             "initial": 2499,
             "final": 624,
             "discount_percent": 75
+        }
+    },
+    {
+        "platformId": 2236070,
+        "CEId": "511d2ddd-c6b1-48ec-9ec2-f5597b3f131c",
+        "name": "Peaks of Yore",
+        "genre": "First-Person",
+        "tier": 5,
+        "points": 360,
+        "playersCompleted": 3,
+        "playersStarted": 20,
+        "playersTotal": 71,
+        "priceData": {
+            "currency": "USD",
+            "initial": 1899,
+            "final": 1139,
+            "discount_percent": 40
         }
     },
     {
@@ -1029,7 +1046,7 @@ var data =
         "points": 16,
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 105,
+        "playersTotal": 106,
         "priceData": {
             "currency": "USD",
             "initial": 2999,
@@ -1179,7 +1196,7 @@ var date =
     "day": 14,
     "month": 11,
     "year": 2024,
-    "hour": 9,
-    "minute": 1,
-    "second": 46
+    "hour": 17,
+    "minute": 11,
+    "second": 7
 }
