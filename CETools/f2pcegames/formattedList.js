@@ -260,7 +260,7 @@ var data =
         "genre": "Arcade",
         "tier": 1,
         "points": 10,
-        "playersCompleted": 14,
+        "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 91
     },
@@ -939,7 +939,7 @@ var statsDate =
     "day": 14,
     "month": 11,
     "year": 2024,
-    "hour": 13,
-    "minute": 24,
-    "second": 39
+    "hour": 17,
+    "minute": 11,
+    "second": 4
 }
