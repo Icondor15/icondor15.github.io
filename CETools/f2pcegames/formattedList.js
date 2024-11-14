@@ -449,7 +449,7 @@ var data =
         "points": 15,
         "playersCompleted": 87,
         "playersStarted": 0,
-        "playersTotal": 443
+        "playersTotal": 444
     },
     {
         "platformId": 1517830,
@@ -812,7 +812,7 @@ var data =
         "points": 20,
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 107
+        "playersTotal": 108
     },
     {
         "platformId": 2093940,
@@ -927,19 +927,19 @@ var data =
 ]
 var date =
 {
-    "day": 12,
+    "day": 14,
     "month": 11,
     "year": 2024,
-    "hour": 17,
-    "minute": 57,
-    "second": 27
+    "hour": 13,
+    "minute": 24,
+    "second": 39
 }
 var statsDate =
 {
     "day": 14,
     "month": 11,
     "year": 2024,
-    "hour": 9,
-    "minute": 1,
-    "second": 44
+    "hour": 13,
+    "minute": 24,
+    "second": 39
 }
