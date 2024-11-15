@@ -1,0 +1,829 @@
+<html>
+    <head>
+        <meta property="og:title" content="Filtered CE Games" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://icondor15.github.io/CETools/filteredcegames/filteredcegames.html" />
+        <meta property="og:image" content="https://icondor15.github.io/CETools/filteredcegames/favicon.png" />
+        <meta property="og:description" content="A website to quickly filter games available in the Challenge Enthusiasts website! - Made by Icondor." />
+        <meta name="theme-color" content="#232224">
+        
+        <title>Filtered CE Games</title>
+        <link rel="icon" type="image/x-icon" href="favicon.png">
+        <style>
+        * {
+            font-family: 'Tahoma', Helvetica, sans-serif;
+        }
+
+        table {
+            border:1px solid black;
+            font-size: 14px;
+        }
+
+        td {
+            border:2px solid black;
+        }
+
+        a {
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .button {
+            background-color: #dddddd;
+        }
+
+        .button:hover {
+            cursor:pointer;
+            background-color: #bbbbbb;
+        }
+
+        .button:active {
+            background-color: #888888;
+        }
+        .scrollLink {
+            font-size:16px;
+            text-align: center;
+            margin: 5px auto;
+        }
+        .scrollLink:hover {
+            cursor:pointer;
+            text-decoration: underline;
+        }
+        #secretLink {
+            user-select: none;
+            color:#d3ebe2;
+        }
+        #secretLink:hover {
+            color:#00de8c;
+        }
+        #secretLink:active {
+            color:#008a58;
+        }
+        </style>
+    </head>
+
+    <body style="background-color:#d3ebe2">
+        <div style="margin: 10px auto; text-align: center;">
+            <p style="font-size: 10px; font-weight:bold; margin-bottom:-10px;"><a href="../CETools.html"><<< Go back to CETools</a></p>
+            <p style="margin-bottom: 2px;">Made by <a href="https://x.com/CondorDraws" target=”_blank” style="font-weight: bold;">𝕏 CondorDraws <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
+                <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
+            </svg></a> / <a href="https://bsky.app/profile/icondor.bsky.social" target=”_blank” style="font-weight: bold;"> <svg fill="currentColor" height="14" icon-name="external-outline" viewBox="0 0 24 20" width="14" xmlns="http://www.w3.org/2000/svg">
+                <path id="shape0" transform="translate(0.429157225453458, 1.91122062657742)" fill-rule="evenodd" d="M11.0909 8.2934C6.86685 1.86682 3.50684 -0.81472 1.01084 0.248779C-1.40716 8.46128 0.51285 12.103 6.77086 11.1738C1.0687 11.7506 0.108703 13.9106 3.89086 17.6538C7.67302 21.3971 10.073 20.1969 11.0909 14.0534C12.1087 20.1966 14.5087 21.3961 18.2908 17.6529C22.073 13.9097 21.113 11.7497 15.4108 11.1729C21.6688 11.7054 23.5888 8.46128 21.1708 0.248779C18.6748 -0.814721 15.3148 1.4699 11.0909 8.2934Z" sodipodi:nodetypes="ccczczccc"/>
+            </svg> icondor.bsky.social <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
+                <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
+            </svg></a> / <b>@icondor</b> on Discord.</p>
+            <sub id="Date">Last checked database on: <b>Loading...</b> at <b>Loading...</b> and took <b>Loading...</b> seconds.</sub><br>
+            <sub style="font-size: 10px;">(If any data changed while the search was ongoing (Unlikely but not impossible) it may be slightly inaccurate.)</sub>
+        </div>
+            <p class="scrollLink" onclick="window.scrollTo(0, document.body.scrollHeight);"><b>vvv Move to bottom vvv</b></p>
+        <table id="MainTable" style="margin: auto; width: 100%; text-align: center; background-color:#ffffff;">
+            <tr>
+                <td colspan="12">    
+                    <p id="Count" style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Games: Loading...</p>
+                </td>
+            </tr>
+            <tr colspan="12">
+                <td colspan="12">
+                    <table style="margin: auto; width: 100%; text-align: center;">
+                        <tr>
+                            <td colspan="12">
+                                <p style="margin: auto; padding-top: 15px; padding-bottom: 3px; font-size: 25px; font-weight: bold; text-align: center;">Filters</p>
+                                <sub style="font-size: 10px; color:#bbbbbb">(When many results apply it might freeze a little while loading!)</sub><br>
+                                    <input style="margin: 10px auto 0px;" id="resetButton" type="button" onclick="location = location" value="Reset All Filters"></input><br>
+                                    <sub style="font-size: 7px; color:#bbbbbb">(Pls ignore that it just reloads the page)</sub>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="platformFilter">
+                                <b>Platform:</b><br>
+                                <input type="radio" id="platformAll" onclick="changePlatform()" name="platform" value="0" checked="true">All</input><br>
+                                <input type="radio" id="platformSteam" onclick="changePlatform()" name="platform" value="1">Steam</input><br>
+                                <input type="radio" id="platformRA" onclick="changePlatform()" name="platform" value="2">RetroAchievements</input>
+                            </td>
+                            <td id="nameFilter">
+                                <b>Name Contains:</b><br>
+                                <input type="text" id="nameFilterBox" autocomplete="off" onchange onpropertychange onkeyuponpaste oninput="searchName()" name="name"></input><br>
+                                <input type="checkbox" id="nameFilterCase" onclick="caseSensitive()">Case Sensitive</input><br>
+                                <sub style="font-size: 10px; color:#bbbbbb">(It searches on every character input so it might feel choppy!)</sub>
+                            </td>
+                            <td id="genreFilter">
+                                <b>Genre:</b><br>
+                                <input type="checkbox" id="genreAll" onclick="changeGenre(-1)" checked="true">All</input><br>
+                                <input type="checkbox" id="genreAction" onclick="changeGenre(0)">Action</input>
+                                <input type="checkbox" id="genreArcade" onclick="changeGenre(1)">Arcade</input><br>
+                                <input type="checkbox" id="genreBHell" onclick="changeGenre(2)">Bullet Hell</input>
+                                <input type="checkbox" id="genreFPerson" onclick="changeGenre(3)">First-Person</input><br>
+                                <input type="checkbox" id="genrePlatformer" onclick="changeGenre(4)">Platformer</input>
+                                <input type="checkbox" id="genreStrategy" onclick="changeGenre(5)">Strategy</input>
+                            </td>
+                            <td id="tierFilter">
+                                <b>Tier:</b><br>
+                                <input type="checkbox" id="tierAll" onclick="changeTier(-1)" checked="true">All</input><br>
+                                <input type="checkbox" id="tier0" onclick="changeTier(0)">T0</input>
+                                <input type="checkbox" id="tier1" onclick="changeTier(1)">T1</input>
+                                <input type="checkbox" id="tier2" onclick="changeTier(2)">T2</input><br>
+                                <input type="checkbox" id="tier3" onclick="changeTier(3)">T3</input>
+                                <input type="checkbox" id="tier4" onclick="changeTier(4)">T4</input>
+                                <input type="checkbox" id="tier5" onclick="changeTier(5)">T5</input>
+                            </td>
+                            <td id="priceFilter">
+                                <b>Cost:</b><br>
+                                <input type="radio" id="priceAll" onclick="changePrice()" name="price" value="0" checked="true">All</input><br>
+                                <input type="radio" id="pricePaid" onclick="changePrice()" name="price" value="3">Paid</input>
+                                <sub style="margin: 0px;" id="priceSale"><input type="checkbox" onclick="onSale()">Only On Sale</input></sub><br>
+                                <input type="radio" id="priceF2P" onclick="changePrice()" name="price" value="1">Free To Play</input><br>
+                                <input type="radio" id="priceNA" onclick="changePrice()" name="price" value="2">N/A</input>
+                            </td>
+                            <td id="currencyFilter">
+                                <b>Currency:</b><br>
+                                <input type="radio" id="currencyUSD" onclick="changeCurrency()" name="currency" value="USD" checked="true">USD ($)</input>
+                                <input type="radio" id="currencyEUR" onclick="changeCurrency()" name="currency" value="EUR">EUR (€)</input><br>
+                                <input type="radio" id="currencyGBP" onclick="changeCurrency()" name="currency" value="GBP">GBP (£)</input>
+                                <input type="radio" id="currencyAUD" onclick="changeCurrency()" name="currency" value="AUD">AUD (A$)</input><br>
+                                <input type="radio" id="currencyJPY" onclick="changeCurrency()" name="currency" value="JPY">JPY (¥)</input>
+                                <input type="radio" id="currencyCAD" onclick="changeCurrency()" name="currency" value="CAD">CAD (C$)</input><br>
+                                <sub style="font-size: 10px; color:#bbbbbb">(Not all games are available to buy with all currencies!)</sub>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr style="border:0px">
+                <td class="button" style="padding:0px" onclick="order('gameType')">Order By Platform</td>
+                <td class="button" style="padding:0px" onclick="order('name')">Order By Name</td>
+                <td class="button" style="padding:0px" onclick="order('genre')">Order By Genre</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('points')">Order By Points</td>
+                <td class="button" style="padding:0px" onclick="order('playersTotal')">Order By Owners</td>
+                <td class="button" style="padding:0px" onclick="order('playersCompleted')">Order By Completions</td>
+                <td class="button" style="padding:0px" onclick="order('percentage')">%</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('final')">Order By Current Price</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('platformId')">Order By Id</td>
+            </tr>
+            <tr style="font-weight: bold; user-select: none;">
+                <td>Platform</td>
+                <td>Name</td>
+                <td>Genre</td>
+                <td colspan="2">Tier / Points</td>
+                <td colspan="3">Owners / Completions / Comp. %</td>
+                <td colspan="2">Current Price</td>
+                <td>IDs</td>
+                <td>Links</td>
+            </tr>
+            <tr id="loading">
+                <td colspan="12">    
+                    <p style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Loading...</p>
+                </td>
+            </tr>
+            <tr style="font-weight: bold; user-select: none;">
+                <td>Platform</td>
+                <td>Name</td>
+                <td>Genre</td>
+                <td colspan="2">Tier / Points</td>
+                <td colspan="3">Owners / Completions / Comp. %</td>
+                <td colspan="2">Current Price</td>
+                <td>IDs</td>
+                <td>Links</td>
+            </tr>
+            <tr style="border:0px">
+                <td class="button" style="padding:0px" onclick="order('gameType')">Order By Platform</td>
+                <td class="button" style="padding:0px" onclick="order('name')">Order By Name</td>
+                <td class="button" style="padding:0px" onclick="order('genre')">Order By Genre</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('points')">Order By Points</td>
+                <td class="button" style="padding:0px" onclick="order('playersTotal')">Order By Owners</td>
+                <td class="button" style="padding:0px" onclick="order('playersCompleted')">Order By Completions</td>
+                <td class="button" style="padding:0px" onclick="order('percentage')">%</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('final')">Order By Current Price</td>
+                <td class="button" style="padding:0px" colspan="2" onclick="order('platformId')">Order By Id</td>
+            </tr>
+        </table>
+        <p class="scrollLink" onclick="window.scrollTo(0, 0);"><b>^^^ Move to top ^^^</b></p>
+        
+        <p style="font-size:7px; text-align:center; "><a id="secretLink" target="_blank" href="https://github.com/Icondor15/icondor15.github.io">Secret link to Github page!</a></p>
+
+        <script src="../formattedList.js"></script>
+
+        <script>
+            //Date and time (less important)
+            document.getElementById("Date").innerHTML = "Last checked database on: <b>" + date["day"] + "/" + date["month"] + "/" + date["year"] + "</b> at <b>" + date["hour"] + ":" + date["minute"] + ":" + date["second"] + "</b> and took <b> " + toFixed(date["searchTime"], 2) + "</b> seconds.";
+
+            //Literally everything else (More Important)
+            let lastOrder = "points";
+            let filteredData = [];
+            //filter variables
+            let activeCurrency = "USD";
+            let activePlatform = 0; //0: All, 1: steam, 2: RA
+            let filterText = "";
+            let caseSensitivity = false;
+            let activeGenre = [true, true, true, true, true, true]; //1:Action, 2:Arcade, 3:Bullet Hell, 4:First-Person, 5:Platformer, 6:Strategy
+            let activeTier = [true, true, true, true, true, true]; //T0-T5
+            let activePrice = 0; //0: All, 1: F2P, 2: NA, 3: Paid
+            let isOnSale = false;
+            
+            order("points");
+
+            function changePlatform()
+            {
+                activePlatform = document.querySelector('input[name="platform"]:checked').value;
+                order(lastOrder);
+            }
+
+            function changeCurrency()
+            {
+                activeCurrency = document.querySelector('input[name="currency"]:checked').value;
+                order(lastOrder);
+            }
+
+            function caseSensitive()
+            {
+                if(caseSensitivity == true) {caseSensitivity = false;}
+                else if(caseSensitivity == false) {caseSensitivity = true;}
+
+                if(document.getElementById("nameFilterBox").value != "") {searchName();}
+            }
+            function searchName()
+            {   
+                if(caseSensitivity)
+                {
+                    filterText = document.getElementById("nameFilterBox").value;
+                }
+                else
+                {
+                   filterText = document.getElementById("nameFilterBox").value.toUpperCase();
+                }
+                order(lastOrder);
+            }
+
+            function changeGenre(genre)
+            {
+                if(genre == -1)
+                {
+                    if(!activeGenre.every(Boolean))
+                    {
+                        document.getElementById("genreAction").checked = false;
+                        document.getElementById("genreArcade").checked = false;
+                        document.getElementById("genreBHell").checked = false;
+                        document.getElementById("genreFPerson").checked = false;
+                        document.getElementById("genrePlatformer").checked = false;
+                        document.getElementById("genreStrategy").checked = false;
+                        activeGenre = [true, true, true, true, true, true]; //1:Action; 2:Arcade; 3:Bullet Hell; 4:First-Person; 5:Platformer; 6:Strategy
+                    }
+                    else {document.getElementById("genreAll").checked = true;}
+                }
+                else
+                {
+                    document.getElementById("genreAll").checked = false;
+                    if(activeGenre.every(x => x))
+                    {
+                        activeGenre = [false, false, false, false, false, false];
+                        activeGenre[genre] = true;
+                    }
+                    else
+                    {
+                        if(activeGenre[genre] == true) {activeGenre[genre] = false;}
+                        else {activeGenre[genre] = true;}
+                        
+                        if(activeGenre.every(x => !x))
+                        {
+                            document.getElementById("genreAll").checked = true;
+                            activeGenre = [true, true, true, true, true, true];
+                        }
+                        else if(activeGenre.every(x => x))
+                        {
+                            document.getElementById("genreAll").checked = true;
+                            document.getElementById("genreAction").checked = false;
+                            document.getElementById("genreArcade").checked = false;
+                            document.getElementById("genreBHell").checked = false;
+                            document.getElementById("genreFPerson").checked = false;
+                            document.getElementById("genrePlatformer").checked = false;
+                            document.getElementById("genreStrategy").checked = false;
+                        }
+                    }
+                }
+                
+                order(lastOrder);
+            }
+
+            function changeTier(tier)
+            {
+                if(tier == -1)
+                {
+                    if(!activeTier.every(Boolean))
+                    {
+                        document.getElementById("tier0").checked = false;
+                        document.getElementById("tier1").checked = false;
+                        document.getElementById("tier2").checked = false;
+                        document.getElementById("tier3").checked = false;
+                        document.getElementById("tier4").checked = false;
+                        document.getElementById("tier5").checked = false;
+                        activeTier = [true, true, true, true, true, true]; //T0-T5
+                    }
+                    else {document.getElementById("tierAll").checked = true;}
+                }
+                else if (tier < 6)
+                {
+                    document.getElementById("tierAll").checked = false;
+                    if(activeTier.every(x => x))
+                    {
+                        activeTier = [false, false, false, false, false, false];
+                        activeTier[tier] = true;
+                    }
+                    else
+                    {
+                        if(activeTier[tier] == true) {activeTier[tier] = false;}
+                        else {activeTier[tier] = true;}
+                        
+                        if(activeTier.every(x => !x))
+                        {
+                            document.getElementById("tierAll").checked = true;
+                            activeTier = [true, true, true, true, true, true];
+                        }
+                        else if(activeTier.every(x => x))
+                        {
+                            document.getElementById("tierAll").checked = true;
+                            document.getElementById("tier0").checked = false;
+                            document.getElementById("tier1").checked = false;
+                            document.getElementById("tier2").checked = false;
+                            document.getElementById("tier3").checked = false;
+                            document.getElementById("tier4").checked = false;
+                            document.getElementById("tier5").checked = false;
+                        }
+                    }
+                }
+                
+                order(lastOrder);
+            }
+
+            function onSale()
+            {
+                if(isOnSale == true) {isOnSale = false;}
+                else if(isOnSale == false) {isOnSale = true;}
+
+                if(activePrice == 0 || activePrice == 3) {changePrice();}
+            }
+            function changePrice()
+            {
+                activePrice = document.querySelector('input[name="price"]:checked').value;
+                order(lastOrder);
+            }
+
+            function filterData()
+            {
+                //filter by platform to make sure non-present platforms get removed
+                var steamGames = data.filter(obj => {return obj.gameType < 3})
+                var RAGames = data.filter(obj => {return obj.gameType == 3})
+                var BrokenGames = data.filter(obj => {return obj.gameType == 4})
+
+                if(activePlatform == 0)
+                {
+                    filteredData = steamGames.concat(BrokenGames, RAGames);
+                }
+                else if (activePlatform == 1) 
+                {
+                    filteredData = steamGames.concat(BrokenGames);
+                }
+                else 
+                {
+                    filteredData = RAGames;
+                }
+
+                //filter by text
+                if(caseSensitivity)
+                {
+                    filteredData = filteredData.filter(obj => {return obj.name.includes(filterText)})
+                }
+                else
+                {
+                    filteredData = filteredData.filter(obj => {return obj.name.toUpperCase().includes(filterText)})
+                }
+
+                //filter by genre
+                var filteredGenre = [[],[],[],[],[],[]]; 
+                for(let i = 0; i < activeGenre.length; i++)
+                {
+                    if(activeGenre[i] == true)
+                    {
+                        switch(i){
+                            case 0:
+                                filteredGenre[i] = filteredData.filter(obj => {return obj.genre == "Action"})
+                                break;
+                            case 1:
+                                filteredGenre[i] = filteredData.filter(obj => {return obj.genre == "Arcade"})
+                                break;
+                            case 2:
+                                filteredGenre[i] = filteredData.filter(obj => {return obj.genre == "Bullet Hell"})
+                                break;
+                            case 3:
+                                filteredGenre[i] = filteredData.filter(obj => {return obj.genre == "First-Person"})
+                                break;
+                            case 4:
+                                filteredGenre[i] = filteredData.filter(obj => {return obj.genre == "Platformer"})
+                                break;
+                            case 5:
+                                filteredGenre[i] = filteredData.filter(obj => {return obj.genre == "Strategy"})
+                                break;
+                        }
+                    }
+                }
+                filteredData = filteredGenre.flat(1);
+            
+                //Filter by pier
+                var filteredTier = [[],[],[],[],[],[]]; 
+                for(let i = 0; i < activeTier.length; i++)
+                {
+                    if(activeTier[i] == true)
+                    {
+                        filteredTier[i] = filteredData.filter(obj => {return obj.tier == i})
+                    }
+                }
+                filteredData = filteredTier.flat(1);
+
+                //filter by currency so that non-present currencies get removed
+                var paid = filteredData.filter(obj => {return obj.gameType == 0})
+                var nonPaid = filteredData.filter(obj => {return (obj.gameType > 0 && obj.gameType < 3) || obj.gameType == 4})
+                var RA = filteredData.filter(obj => {return obj.gameType == 3})
+                var functional = paid.filter(obj => {return activeCurrency in obj.priceData})
+
+                filteredData = nonPaid.concat(RA, functional);
+
+                //Filter by price
+                if(activePlatform != 2)
+                {
+                    var paidGames = filteredData.filter(obj => {return obj.gameType == 0})
+                    var F2PGames = filteredData.filter(obj => {return obj.gameType == 1})
+                    var NAGames = filteredData.filter(obj => {return obj.gameType > 1})
+
+                    if(isOnSale) {paidGames = paidGames.filter(obj => {return obj["priceData"][activeCurrency]["discountPercent"] != 0})}
+
+                    if(activePrice == 0)
+                    {
+                        filteredData = paidGames.concat(F2PGames, NAGames);
+                    }
+                    else if (activePrice == 1) 
+                    {
+                        filteredData = F2PGames;
+                    }
+                    else if (activePrice == 2) 
+                    {
+                        filteredData = NAGames;
+                    }
+                    else 
+                    {
+                        filteredData = paidGames;
+                    }
+                }
+
+                //hide price and currency if unavailable
+                if(activePlatform == 2)
+                {
+                    document.getElementById("currencyFilter").style.opacity = 1/3;
+                    document.getElementById("priceFilter").style.opacity = 1/3;
+                }
+                else if(activePrice == 1 || activePrice == 2)
+                {
+                    document.getElementById("currencyFilter").style.opacity = 1/3;
+                    document.getElementById("priceSale").style.opacity = 1/3;
+                }
+                else
+                {
+                    document.getElementById("currencyFilter").style.opacity = 1;
+                    document.getElementById("priceFilter").style.opacity = 1;
+                    document.getElementById("priceSale").style.opacity = 1;
+                }
+
+            }
+
+            function order(type)
+            {
+                filterData();
+
+                //change last order
+                lastOrder = type;
+
+                //filter by name
+                filteredData.sort((a,b) => (a["name"].toUpperCase() > b["name"].toUpperCase()) ? 1 : ((b["name"].toUpperCase() > a["name"].toUpperCase()) ? -1 : 0));
+
+                if(type != "name")
+                {
+                    if(type == "playersCompleted")
+                    {
+                        filteredData.sort((a,b) => (a["playersStarted"] > b["playersStarted"]) ? 1 : ((b["playersStarted"] > a["playersStarted"]) ? -1 : 0));
+                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+                    }
+                    else if(type == "final")
+                    {
+                        var paid = filteredData.filter(obj => {return obj.gameType == 0})
+                        var nonPaid = filteredData.filter(obj => {return (obj.gameType > 0 && obj.gameType < 3) || obj.gameType == 4})
+                        var RA = filteredData.filter(obj => {return obj.gameType == 3})
+                        var functional = paid.filter(obj => {return activeCurrency in obj.priceData})
+                        functional.sort((a,b) => (a["priceData"][activeCurrency][type] > b["priceData"][activeCurrency][type]) ? 1 : ((b["priceData"][activeCurrency][type] > a["priceData"][activeCurrency][type]) ? -1 : 0));
+
+                        nonPaid.sort((a,b) => (a["gameType"] > b["gameType"]) ? 1 : ((b["gameType"] > a["gameType"]) ? -1 : 0));
+
+                        filteredData = nonPaid.concat(RA, functional);
+                    }
+                    else if(type == "platformId")
+                    {
+                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+
+                        var steamGames = filteredData.filter(obj => {return obj.gameType < 3})
+                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+                        var BrokenGames = filteredData.filter(obj => {return obj.gameType == 4})
+
+                        filteredData = steamGames.concat(RAGames, BrokenGames);
+                    }
+                    else if(type != "percentage")
+                    {
+                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+                    }
+                    else
+                    {
+                        filteredData.sort((a,b) => a.playersStarted / a.playersTotal * 100 - (b.playersStarted / b.playersTotal * 100));
+                        filteredData.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
+                    }
+                }
+                
+                generateTable();
+            }
+
+            function generateTable()
+            {
+                if(document.getElementById("loading") != null) {document.getElementById("loading").remove()}
+                var table = document.getElementById("MainTable");
+                var replace = document.getElementsByClassName("replace");
+
+                document.querySelectorAll('.replace').forEach(e => e.remove());
+
+                document.getElementById("Count").innerHTML = "Filtered Challenge Enthusiasts Games: " + filteredData.length;
+
+                for(let i = 0; i < filteredData.length; i++)
+                {
+                    var row1 = table.insertRow((i*2)+4);
+                    row1.classList.add("replace");
+                    var cellPlatform = row1.insertCell(0);
+                    cellPlatform.rowSpan = 2;
+                    var cellName = row1.insertCell(1);
+                    cellName.rowSpan = 2;
+                    var cellGenre = row1.insertCell(2);
+                    cellGenre.rowSpan = 2;
+                    var cellTier = row1.insertCell(3);
+                    if(filteredData[i]["points"] < 500) {cellTier.rowSpan = 2;}
+                    var cellPoints = row1.insertCell(4);
+                    cellPoints.rowSpan = 2;
+                    var cellOwners = row1.insertCell(5);
+                    cellOwners.rowSpan = 2;
+                    var cellFullCompletion = row1.insertCell(6);
+                    cellFullCompletion.style.backgroundColor = "#00FF0055";
+                    var cellCompletionPercentage = row1.insertCell(7);
+                    cellCompletionPercentage.style.backgroundColor = "#00FF0055";
+                    var cellBasePrice = row1.insertCell(8);
+                    cellBasePrice.rowSpan = 2;
+                    
+                    if(filteredData[i]["gameType"] == 0 && activeCurrency in filteredData[i]["priceData"] && filteredData[i]["priceData"][activeCurrency]["discountPercent"] != 0)
+                    {
+                        var cellDiscountPercentage = row1.insertCell(9);
+                        cellDiscountPercentage.rowSpan = 2;
+                        cellDiscountPercentage.innerHTML = "<b>" + filteredData[i]["priceData"][activeCurrency]["discountPercent"] + "%</b>";
+                        cellDiscountPercentage.style.backgroundColor = "#32A852";
+                        cellDiscountPercentage.style.color = "#014A14";
+                        var cellSteam = row1.insertCell(10);
+                        var cellLinkSteam = row1.insertCell(11);
+                    }
+                    else
+                    {
+                        cellBasePrice.colSpan = 2;
+                        var cellSteam = row1.insertCell(9);
+                        var cellLinkSteam = row1.insertCell(10);
+                    }
+
+                    var row2 = table.insertRow(((i+1)*2)+3);
+                    row2.classList.add("replace");
+                    if(filteredData[i]["points"] < 500)
+                    {
+                        var cellPartialCompletion = row2.insertCell(0);
+                        var cellPartialPercentage = row2.insertCell(1);
+                        var cellCE = row2.insertCell(2);
+                        var cellLinkCE = row2.insertCell(3);
+                    }
+                    else
+                    {
+                        var cellTierExtra = row2.insertCell(0)
+                        cellTierExtra.innerHTML = "T6";
+                        cellTierExtra.style.backgroundColor = "#FC0390";
+                        cellTierExtra.style.fontWeight = "bold";
+                        if(filteredData[i]["points"] >= 1000)
+                        {
+                            cellTierExtra.innerHTML = "T7";
+                            cellTierExtra.style.backgroundColor = "#D6D6D6";
+                            cellTierExtra.style.color = "#787878";
+                        }
+                        var cellPartialCompletion = row2.insertCell(1);
+                        var cellPartialPercentage = row2.insertCell(2);
+                        var cellCE = row2.insertCell(3);
+                        var cellLinkCE = row2.insertCell(4);
+                    }
+
+                    cellPartialCompletion.style.backgroundColor = "#FFCC0055";
+                    cellPartialPercentage.style.backgroundColor = "#FFCC0055";
+
+                    if(filteredData[i]["gameType"] != 3)
+                    {
+                        cellPlatform.innerHTML = "<b>Steam</b>";
+                        cellPlatform.style.color = "#DDDDDD";
+                        cellPlatform.style.backgroundColor = "#0F6EB888";
+                    }
+                    else
+                    {
+                        cellPlatform.innerHTML = "<b style='color:#187DF0'>Retro</b><b style='color:#FFC50F'>Achievements</b>";
+                        cellPlatform.style.backgroundColor = "#00000088";
+                    }
+
+                    cellName.innerHTML = filteredData[i]["name"];
+                    cellGenre.innerHTML = filteredData[i]["genre"];
+                    switch(filteredData[i]["genre"]){
+                        case "Action":
+                            cellGenre.style.backgroundColor = "#FF000033";
+                            break;
+                        case "Arcade":
+                            cellGenre.style.backgroundColor = "#0000FF33";
+                            break;
+                        case "Bullet Hell":
+                            cellGenre.style.backgroundColor = "#FF00FF33";
+                            break;
+                        case "First-Person":
+                            cellGenre.style.backgroundColor = "#FF990033";
+                            break;
+                        case "Platformer":
+                            cellGenre.style.backgroundColor = "#00FF0033";
+                            break;
+                        case "Strategy":
+                            cellGenre.style.backgroundColor = "#FFFF0033";
+                            break;
+                    }
+
+                    cellTier.innerHTML = "T" + filteredData[i]["tier"];
+                    switch(filteredData[i]["tier"]){
+                        case 0:
+                            cellTier.style.backgroundColor = "#C5CBD388";
+                            break;
+                        case 1:
+                            cellTier.style.backgroundColor = "#5DC11888";
+                            break;
+                        case 2:
+                            cellTier.style.backgroundColor = "#F2CF2488";
+                            break;
+                        case 3:
+                            cellTier.style.backgroundColor = "#FF6F2188";
+                            break;
+                        case 4:
+                            cellTier.style.backgroundColor = "#FF242488";
+                            break;
+                        case 5:
+                            cellTier.style.backgroundColor = "#00000088";
+                            cellTier.style.color = "#FFFFFF";
+                            break;
+
+                    }
+                    cellPoints.innerHTML = filteredData[i]["points"];
+                    if(filteredData[i]["points"] % 5 > 0)
+                    {
+                        cellPoints.style.backgroundColor = "#FFFF0055";
+                    }
+                    
+                    cellOwners.innerHTML = filteredData[i]["playersTotal"];
+                    cellFullCompletion.innerHTML = filteredData[i]["playersCompleted"];
+                    cellPartialCompletion.innerHTML = filteredData[i]["playersStarted"];
+                    
+                    if(filteredData[i]["playersTotal"] > 0)
+                    {
+                        cellCompletionPercentage.innerHTML = toFixed(filteredData[i]["playersCompleted"] / filteredData[i]["playersTotal"] * 100, 1) + "%";
+                        cellPartialPercentage.innerHTML = toFixed(filteredData[i]["playersStarted"] / filteredData[i]["playersTotal"] * 100, 1) + "%";
+                    }
+                    else
+                    {
+                        cellCompletionPercentage.innerHTML = "0%";
+                        cellPartialPercentage.innerHTML = "0%";
+                    }
+                    if(filteredData[i]["gameType"] == 0)
+                    {
+                        var basePrice = "";
+                        var salePrice = "";
+                        if(activeCurrency == "USD")
+                        {
+                            basePrice = "$" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
+                            salePrice = "$" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
+                        }
+                        else if(activeCurrency == "EUR")
+                        {
+                            basePrice = filteredData[i]["priceData"][activeCurrency]["initial"]/100 + "€";
+                            salePrice = filteredData[i]["priceData"][activeCurrency]["final"]/100 + "€";
+                        }
+                        else if(activeCurrency == "GBP")
+                        {
+                            basePrice = "£" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
+                            salePrice = "£" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
+                        }
+                        else if(activeCurrency == "AUD")
+                        {
+                            basePrice = "A$" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
+                            salePrice = "A$" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
+                        }
+                        else if(activeCurrency == "JPY")
+                        {
+                            basePrice = "¥" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
+                            salePrice = "¥" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
+                        }
+                        else if(activeCurrency == "CAD")
+                        {
+                            basePrice = "C$" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
+                            salePrice = "C$" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
+                        }
+                        
+                        if(filteredData[i]["priceData"][activeCurrency]["discountPercent"] != 0)
+                        {
+                            cellBasePrice.innerHTML = "<p style='text-decoration: line-through 1.5px; margin-bottom: 3px;'>" + basePrice + "</p><b>" + salePrice + "</b>";
+                            cellBasePrice.style.backgroundColor = "#32A85266";
+                            cellBasePrice.style.color = "#014A14";
+                        }
+                        else
+                        {
+                            cellBasePrice.innerHTML = basePrice;
+                        }
+                    }
+                    else if(filteredData[i]["gameType"] == 1)
+                    {
+                        cellBasePrice.innerHTML = "Free To Play";
+                        cellBasePrice.style.backgroundColor = "#00FF0033";
+                    }
+                    else if(filteredData[i]["gameType"] == 2)
+                    {
+                        cellBasePrice.innerHTML = "N/A (Unavailable?)";
+                        cellBasePrice.style.backgroundColor = "#FF00FF33";
+                    }
+                    else if(filteredData[i]["gameType"] == 3)
+                    {
+                        cellBasePrice.innerHTML = "N/A (RetroAchievements)";
+                        cellBasePrice.style.backgroundColor = "#33333366";
+                    }
+                    else if(filteredData[i]["gameType"] == 4)
+                    {
+                        cellBasePrice.innerHTML = "N/A (Broken)";
+                        cellBasePrice.style.backgroundColor = "#6B194D77";
+                    }
+                    
+                    cellSteam.innerHTML = filteredData[i]["platformId"];
+                    if(filteredData[i]["gameType"] == 4) {cellSteam.style.textDecoration = "line-through 1.5px"}
+                    cellCE.innerHTML = filteredData[i]["CEId"];
+
+                    if(filteredData[i]["gameType"] < 2)
+                    {
+                        cellLinkSteam.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#1D88C7'>Steam</a>";
+                        var a = document.getElementById("tmp");
+                        a.href = "https://store.steampowered.com/app/" + filteredData[i]["platformId"];
+                    }
+                    else if(filteredData[i]["gameType"] == 2)
+                    {
+                        cellLinkSteam.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#A31BB3'>Steam (Unavailable?)</a>";
+                        var a = document.getElementById("tmp");
+                        a.href = "https://store.steampowered.com/app/" + filteredData[i]["platformId"];
+                    }
+                    else if(filteredData[i]["gameType"] == 3)
+                    {
+                        cellLinkSteam.innerHTML = "<a id='tmp' target='_blank'><b style='color:#0F66DB'>Retro</b><b style='color:#eDB507'>Achievements</b></a>";
+                        var a = document.getElementById("tmp");
+                        a.href = "https://retroachievements.org/game/" + filteredData[i]["platformId"];
+                    }
+                    else if(filteredData[i]["gameType"] == 4)
+                    {
+                        cellLinkSteam.innerHTML = "<p style='font-weight: bold; color:#6B194D; user-select: none; text-decoration:line-through 1.5px;'>Steam (Broken)</p>";
+                    }
+                    a.id = null;
+
+                    cellLinkCE.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#000000'>Challenge Enthusiasts</a>";
+                    var a = document.getElementById("tmp");
+                    a.href = "https://cedb.me/game/" + filteredData[i]["CEId"];
+                    a.id = null;
+
+                    if(i%2 == 0)
+                    {
+                        row1.style.backgroundColor = "#dddddd";
+                        row2.style.backgroundColor = "#dddddd";
+                    }
+                    else
+                    {
+                        row1.style.backgroundColor = "#c3c3c3";
+                        row2.style.backgroundColor = "#c3c3c3";
+                    }
+                }
+            }
+            
+        //Function to truncate numbers
+        function toFixed(num, fixed) {
+            var re = new RegExp('^-?\\d+(?:\.\\d{0,' + (fixed || -1) + '})?');
+            return num.toString().match(re)[0];
+        }
+        </script>
+    </body>
+</html>
