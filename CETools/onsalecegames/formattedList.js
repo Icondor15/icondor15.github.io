@@ -57,7 +57,7 @@ var data =
         "name": "Angry Video Game Nerd I & II Deluxe",
         "genre": "Platformer",
         "tier": 2,
-        "points": 31,
+        "points": 33,
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 24,
@@ -154,23 +154,6 @@ var data =
         }
     },
     {
-        "platformId": 8870,
-        "CEId": "bf95781c-7d08-4afb-b3c1-8d1791832b97",
-        "name": "BioShock Infinite",
-        "genre": "First-Person",
-        "tier": 2,
-        "points": 25,
-        "playersCompleted": 12,
-        "playersStarted": 29,
-        "playersTotal": 540,
-        "priceData": {
-            "currency": "USD",
-            "initial": 2999,
-            "final": 749,
-            "discount_percent": 75
-        }
-    },
-    {
         "platformId": 322680,
         "CEId": "649bff75-da8d-47cb-8741-2cc11701b608",
         "name": "BLACKHOLE",
@@ -185,6 +168,23 @@ var data =
             "initial": 899,
             "final": 89,
             "discount_percent": 90
+        }
+    },
+    {
+        "platformId": 439490,
+        "CEId": "17c144fc-978d-460b-8cb0-76fac57034f1",
+        "name": "BLUE REVOLVER",
+        "genre": "Bullet Hell",
+        "tier": 4,
+        "points": 91,
+        "playersCompleted": 0,
+        "playersStarted": 30,
+        "playersTotal": 156,
+        "priceData": {
+            "currency": "USD",
+            "initial": 1499,
+            "final": 734,
+            "discount_percent": 51
         }
     },
     {
@@ -315,7 +315,7 @@ var data =
         "points": 5,
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 0,
+        "playersTotal": 1,
         "priceData": {
             "currency": "USD",
             "initial": 999,
@@ -494,6 +494,23 @@ var data =
         }
     },
     {
+        "platformId": 1123050,
+        "CEId": "7d6e2143-b1e6-47f8-8cf6-bdc83d761325",
+        "name": "GRIME",
+        "genre": "Action",
+        "tier": 1,
+        "points": 5,
+        "playersCompleted": 6,
+        "playersStarted": 0,
+        "playersTotal": 103,
+        "priceData": {
+            "currency": "USD",
+            "initial": 2499,
+            "final": 1374,
+            "discount_percent": 45
+        }
+    },
+    {
         "platformId": 1640890,
         "CEId": "9f0dc07a-4134-4645-b931-5e11490caab7",
         "name": "Hell of an Office",
@@ -579,23 +596,6 @@ var data =
         }
     },
     {
-        "platformId": 851670,
-        "CEId": "34adb440-4ae5-4e56-8266-0d376b0cc042",
-        "name": "LUMINES REMASTERED",
-        "genre": "Arcade",
-        "tier": 3,
-        "points": 50,
-        "playersCompleted": 24,
-        "playersStarted": 6,
-        "playersTotal": 117,
-        "priceData": {
-            "currency": "USD",
-            "initial": 1499,
-            "final": 449,
-            "discount_percent": 70
-        }
-    },
-    {
         "platformId": 656970,
         "CEId": "1d009b6d-1d85-41d1-b9ee-aeb5338581b1",
         "name": "MagiCat",
@@ -655,7 +655,7 @@ var data =
         "points": 80,
         "playersCompleted": 11,
         "playersStarted": 17,
-        "playersTotal": 220,
+        "playersTotal": 221,
         "priceData": {
             "currency": "USD",
             "initial": 2499,
@@ -722,8 +722,8 @@ var data =
         "tier": 5,
         "points": 360,
         "playersCompleted": 3,
-        "playersStarted": 20,
-        "playersTotal": 71,
+        "playersStarted": 21,
+        "playersTotal": 72,
         "priceData": {
             "currency": "USD",
             "initial": 1899,
@@ -740,12 +740,29 @@ var data =
         "points": 80,
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 107,
+        "playersTotal": 108,
         "priceData": {
             "currency": "USD",
             "initial": 1299,
             "final": 259,
             "discount_percent": 80
+        }
+    },
+    {
+        "platformId": 312520,
+        "CEId": "71e93a1b-1e24-484c-8aaa-1685908ea0b4",
+        "name": "Rain World",
+        "genre": "Action",
+        "tier": 4,
+        "points": 116,
+        "playersCompleted": 2,
+        "playersStarted": 78,
+        "playersTotal": 509,
+        "priceData": {
+            "currency": "USD",
+            "initial": 2499,
+            "final": 1124,
+            "discount_percent": 55
         }
     },
     {
@@ -800,6 +817,23 @@ var data =
         }
     },
     {
+        "platformId": 544330,
+        "CEId": "2eb68ba5-37b4-447e-b015-1ffaaa64efb8",
+        "name": "Snake Pass",
+        "genre": "Platformer",
+        "tier": 1,
+        "points": 10,
+        "playersCompleted": 47,
+        "playersStarted": 0,
+        "playersTotal": 432,
+        "priceData": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 299,
+            "discount_percent": 85
+        }
+    },
+    {
         "platformId": 1944060,
         "CEId": "2344f80a-d718-4300-ac4c-797e126f097c",
         "name": "Super Alloy Ranger",
@@ -851,20 +885,20 @@ var data =
         }
     },
     {
-        "platformId": 1003590,
-        "CEId": "d28e20d0-b092-45c6-8c5b-25e448b09215",
-        "name": "Tetris\u00ae Effect: Connected",
+        "platformId": 416790,
+        "CEId": "733d1a04-444b-41b7-8ad6-2bd71e297704",
+        "name": "The Metronomicon: Slay The Dance Floor",
         "genre": "Arcade",
-        "tier": 5,
-        "points": 600,
-        "playersCompleted": 11,
-        "playersStarted": 69,
-        "playersTotal": 229,
+        "tier": 2,
+        "points": 20,
+        "playersCompleted": 9,
+        "playersStarted": 0,
+        "playersTotal": 85,
         "priceData": {
             "currency": "USD",
-            "initial": 3999,
-            "final": 1999,
-            "discount_percent": 50
+            "initial": 1999,
+            "final": 599,
+            "discount_percent": 70
         }
     },
     {
@@ -1046,7 +1080,7 @@ var data =
         "points": 16,
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 106,
+        "playersTotal": 108,
         "priceData": {
             "currency": "USD",
             "initial": 2999,
@@ -1193,10 +1227,10 @@ var data =
 ]
 var date =
 {
-    "day": 14,
+    "day": 15,
     "month": 11,
     "year": 2024,
-    "hour": 17,
-    "minute": 11,
-    "second": 7
+    "hour": 8,
+    "minute": 13,
+    "second": 5
 }
