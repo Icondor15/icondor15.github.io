@@ -75,7 +75,7 @@ var data =
         "points": 40,
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 64
+        "playersTotal": 65
     },
     {
         "platformId": 1712830,
@@ -370,7 +370,7 @@ var data =
         "genre": "Platformer",
         "tier": 1,
         "points": 5,
-        "playersCompleted": 44,
+        "playersCompleted": 45,
         "playersStarted": 0,
         "playersTotal": 355
     },
@@ -471,7 +471,7 @@ var data =
         "points": 15,
         "playersCompleted": 2,
         "playersStarted": 13,
-        "playersTotal": 468
+        "playersTotal": 469
     },
     {
         "platformId": 1064610,
@@ -768,7 +768,7 @@ var data =
         "points": 15,
         "playersCompleted": 41,
         "playersStarted": 0,
-        "playersTotal": 321
+        "playersTotal": 322
     },
     {
         "platformId": 11020,
@@ -936,10 +936,10 @@ var date =
 }
 var statsDate =
 {
-    "day": 14,
+    "day": 15,
     "month": 11,
     "year": 2024,
-    "hour": 17,
-    "minute": 11,
-    "second": 4
+    "hour": 8,
+    "minute": 13,
+    "second": 2
 }
