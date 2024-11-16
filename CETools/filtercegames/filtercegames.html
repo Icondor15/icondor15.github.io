@@ -19,7 +19,6 @@
                 border:1px solid black;
                 font-size: 14px;
             }
-
             td {
                 border:2px solid black;
             }
@@ -33,16 +32,21 @@
 
             .button {
                 background-color: #dddddd;
+                padding: 0px;
             }
-
             .button:hover {
                 cursor:pointer;
                 background-color: #bbbbbb;
             }
-
             .button:active {
                 background-color: #888888;
             }
+
+            .subtitle {
+                font-size: 10px;
+                color:#bbbbbb;
+            }
+
             .scrollLink {
                 font-size:16px;
                 text-align: center;
@@ -62,6 +66,7 @@
                 cursor:pointer;
                 text-decoration: underline 1.66px;
             }
+
             #secretLink {
                 user-select: none;
                 color:#d3ebe2;
@@ -72,12 +77,12 @@
             #secretLink:active {
                 color:#008a58;
             }
+
             input::-webkit-outer-spin-button,
             input::-webkit-inner-spin-button {
                 -webkit-appearance: none;
                 margin: 0;
             }
-
             input[type=number] {
                 width: 50px;
                 appearance: textfield;
@@ -96,10 +101,11 @@
             </svg> icondor.bsky.social <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
                 <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
             </svg></a> / <b>@icondor</b> on Discord.</p>
-            <sub id="Date">Last checked database on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
+            <sub id="Date">Last checked game database on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
+            <sub id="userDate">Last checked user database on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
             <sub style="font-size: 10px;">(If any data changed while the search was ongoing (Unlikely but not impossible) it may be slightly inaccurate.)</sub>
         </div>
-            <p class="scrollLink" onclick="window.scrollTo(0, document.body.scrollHeight);"><b>vvv Move to bottom vvv</b></p>
+        <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, document.body.scrollHeight);"><b>vvv Move to bottom vvv</b></span></div>
         <table id="MainTable" style="margin: auto; width: 100%; text-align: center; background-color:#ffffff;">
             <tr>
                 <td colspan="12">    
@@ -112,26 +118,27 @@
                         <tr>
                             <td colspan="12">
                                 <p style="margin: auto; padding-top: 15px; padding-bottom: 3px; font-size: 25px; font-weight: bold; text-align: center;">Filters</p>
-                                <sub style="font-size: 10px; color:#bbbbbb">(When many results apply it might freeze a little while changing settings!)</sub><br>
-                                    <input style="margin: 5px auto 0px;" id="resetButton" type="button" onclick="location = location" value="Reset All Filters"></input><br>
-                                    <sub style="font-size: 7px; color:#bbbbbb">(Pls ignore that it just reloads the page)</sub>
+                                <sub class="subtitle">(When many results apply it might freeze a little while changing settings!)</sub><br>
+                                <sub class="subtitle">(All textboxes (Except the User Filter) search on every input so it might feel choppy!)</sub>
+                                <div style="margin: 10px auto 3px;">
+                                    <span class="button" style="width:125px; padding: 0px 10px; border:2px solid black;" onclick="location = location" >Reset All Filters</span><br>
                                 </div>
+                                <sub class="subtitle">(Pls ignore that it just reloads the page)</sub>
                             </td>
                         </tr>
                         <tr>
-                            <td rowspan="2" id="platformFilter">
+                            <td id="platformFilter">
                                 <b>Platform:</b><br>
                                 <input type="radio" id="platformAll" onclick="changePlatform()" name="platform" value="0" checked="true">All</input><br>
                                 <input type="radio" id="platformSteam" onclick="changePlatform()" name="platform" value="1">Steam</input><br>
                                 <input type="radio" id="platformRA" onclick="changePlatform()" name="platform" value="2">RetroAchievements</input>
                             </td>
-                            <td rowspan="2" id="nameFilter">
+                            <td id="nameFilter">
                                 <b>Name Contains:</b><br>
                                 <input type="text" id="nameFilterBox" autocomplete="off" onchange onpropertychange onkeyuponpaste oninput="searchName()" name="name"></input><br>
-                                <input type="checkbox" id="nameFilterCase" onclick="caseSensitive()">Case Sensitive</input><br>
-                                <sub style="font-size: 10px; color:#bbbbbb">(Searches on every character input so it might feel choppy!)</sub>
+                                <input type="checkbox" id="nameFilterCase" onclick="caseSensitive()">Case Sensitive</input>
                             </td>
-                            <td rowspan="2" id="genreFilter">
+                            <td id="genreFilter">
                                 <b>Genre:</b><br>
                                 <input type="checkbox" id="genreAll" onclick="changeGenre(-1)" checked="true">All</input><br>
                                 <input type="checkbox" id="genreAction" onclick="changeGenre(0)">Action</input>
@@ -153,7 +160,7 @@
                                     <input type="checkbox" id="tier5" onclick="changeTier(5)">T5</input>
                                 </div>
                             </td>
-                            <td rowspan="2" id="priceFilter">
+                            <td id="priceFilter">
                                 <b>Cost:</b><br>
                                 <input type="radio" id="priceAll" onclick="changePrice()" name="price" value="0" checked="true">All</input><br>
                                 <input type="radio" id="pricePaid" onclick="changePrice()" name="price" value="3">Paid</input>
@@ -161,7 +168,43 @@
                                 <input type="radio" id="priceF2P" onclick="changePrice()" name="price" value="1">Free To Play</input><br>
                                 <input type="radio" id="priceNA" onclick="changePrice()" name="price" value="2">N/A</input>
                             </td>
-                            <td rowspan="2" id="currencyFilter">
+                            <td rowspan="3" id="extraFilter">
+                                <b>Extra:</b><br>
+                                <sub><input id="pointMultiple" type="checkbox" onclick="nonMultiples()">(Points) Only non-multiples of 5</input></sub><br>
+                                <sub class="subtitle">(Useful to find most Uncleared/Unvalued games)</sub><br>
+                                <sub><input  id="idToLink" type="checkbox" onchange="idToLink()">(IDs) Copy ID > Copy Link</input></sub><br>
+                                <sub class="subtitle">(Useful to copy many links quickly)</sub><br>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2" colspan="3" id="userSearch">
+                                <b>User:</b><br>
+                                <sub class="subtitle">(Shows only games owned by a user)</sub><br>
+                                <sub class="subtitle">(Only works with users visible in the leaderboard!)</sub><br>
+                                <sub class="subtitle">(May be inaccurate due to some games not being present in the API!)</sub><br>
+                                <div style="margin:5px">
+                                    <input type="radio" id="linkSelection" name="link-id" onclick="linkIdFilterSwitch(false)" checked="true">Link</input>
+                                    <input type="text" id="linkTextbox"  autocomplete="off" style="width:300px; font-size:10px;"></input><br>
+                                    <sub class="subtitle" style="padding-right: 1px;">(Example: "https://cedb.me/user/00000000-0000-0000-0000-000000000000")</sub><br>
+                                    <input type="radio" id="idSelection" name="link-id" onclick="linkIdFilterSwitch(true)">ID</input>
+                                    <input type="text" id="idTextbox" autocomplete="off" style="width:200px; font-size:10px;"></input><br>
+                                    <sub class="subtitle" style="padding-right: 8px;">(Example: "00000000-0000-0000-0000-000000000000")</sub><br>
+                                    <div style="margin: 10px auto 0px;">
+                                        <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="userSearch(true)">Load User Filter</span>
+                                        <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="userSearch(false)">Unload</span>
+                                    </div>
+                                    <p style="margin-top: 5px;" id="userSearchResults">Selected User: <b>None</b>.</p>
+                                </div>
+                            </td>
+                            <td id="pointsFilter">
+                                <input type="radio" id="pointSelection" name="tier-point" onclick="tierPointsFilterSwitch(true)"><b>Points:</b></input><br>
+                                <div id="pointsFilterHide">
+                                    <input type="number" id="pointLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
+                                    ≤ <b>x</b> ≤
+                                    <input type="number" id="pointHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
+                                </div>
+                            </td>
+                            <td id="currencyFilter">
                                 <b>Currency:</b><br>
                                 <input type="radio" id="currencyUSD" onclick="changeCurrency()" name="currency" value="USD" checked="true">USD ($)</input>
                                 <input type="radio" id="currencyEUR" onclick="changeCurrency()" name="currency" value="EUR">EUR (€)</input><br>
@@ -169,24 +212,22 @@
                                 <input type="radio" id="currencyAUD" onclick="changeCurrency()" name="currency" value="AUD">AUD (A$)</input><br>
                                 <input type="radio" id="currencyCAD" onclick="changeCurrency()" name="currency" value="CAD">CAD (C$)</input>
                                 <input type="radio" id="currencyJPY" onclick="changeCurrency()" name="currency" value="JPY">JPY (¥)</input><br>
-                                <sub style="font-size: 10px; color:#bbbbbb">(Not all games are available to buy with all currencies!)</sub>
-                            </td>
-                            <td rowspan="2">
-                                <b>Extra:</b><br>
-                                <sub><input id="pointMultiple" type="checkbox" onclick="nonMultiples()">(Points) Only non-multiples of 5</input></sub><br>
-                                <sub style="font-size: 10px; color:#bbbbbb">(Useful to find most Uncleared/Unvalued games)</sub><br>
-                                <sub><input  id="idToLink" type="checkbox" onchange="idToLink()">(IDs) Copy ID > Copy Link</input></sub><br>
-                                <sub style="font-size: 10px; color:#bbbbbb">(Useful to copy many links quickly)</sub><br>
+                                <sub class="subtitle">(Not all games are available to buy with all currencies!)</sub>
                             </td>
                         </tr>
                         <tr>
-                            <td id="pointsFilter">
-                                <input type="radio" id="pointSelection" name="tier-point" onclick="tierPointsFilterSwitch(true)"><b>Points:</b></input><br>
-                                <div id="pointsFilterHide">
-                                    <input type="number" id="pointLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
+                            <td colspan="2" id="ownerFilter">
+                                <input type="radio" id="ownerSelection" name="ownership" onclick="ownerFilterSwitch(0)" checked="true"><b>Owners:</b></input>
+                                <input type="radio" id="completeSelection" name="ownership" onclick="ownerFilterSwitch(1)"><b>Completed:</b></input>
+                                <input type="radio" id="unfinishedSelection" name="ownership" onclick="ownerFilterSwitch(2)"><b>Unfinished:</b></input><br>
+                                <div id="ownerFilterHide">
+                                    <input type="radio" id="completionNumber" name="completionType" onclick="completionFilterSwitch(false)" checked="true"><b>Number</b></input>
+                                    <input type="radio" id="completionPercentage" name="completionType" onclick="completionFilterSwitch(true)"><b>Percentage</b></input><br>
+                                </div>
+                                <div>
+                                    <input type="number" id="ownershipLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changeOwnership()"></input>
                                     ≤ <b>x</b> ≤
-                                    <input type="number" id="pointHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input><br>
-                                    <sub style="font-size: 10px; color:#bbbbbb">(Searches on every character input so it might feel choppy!)</sub>
+                                    <input type="number" id="ownershipHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changeOwnership()"></input>
                                 </div>
                             </td>
                         </tr>
@@ -194,21 +235,21 @@
                 </td>
             </tr>
             <tr style="border:0px">
-                <td class="button" style="padding:0px" onclick="order('gameType')">Order By Platform</td>
-                <td class="button" style="padding:0px" onclick="order('name')">Order By Name</td>
-                <td class="button" style="padding:0px" onclick="order('genre')">Order By Genre</td>
-                <td class="button" style="padding:0px" colspan="2" onclick="order('points')">Order By Points</td>
-                <td class="button" style="padding:0px" onclick="order('playersTotal')">Order By Owners</td>
-                <td class="button" style="padding:0px" onclick="order('playersCompleted')">Order By Completions</td>
-                <td class="button" style="padding:0px" onclick="order('percentage')">%</td>
-                <td class="button" style="padding:0px" colspan="2" onclick="order('final')">Order By Current Price</td>
-                <td class="button" style="padding:0px" colspan="2" onclick="order('platformId')">Order By Id</td>
+                <td class="button" onclick="order('gameType')">Order By Platform</td>
+                <td class="button" onclick="order('name')">Order By Name</td>
+                <td class="button" onclick="order('genre')">Order By Genre</td>
+                <td class="button" colspan="2" onclick="order('points')">Order By Points</td>
+                <td class="button" onclick="order('playersTotal')">Order By Owners</td>
+                <td class="button" onclick="order('playersCompleted')">Order By Completions</td>
+                <td class="button" onclick="order('percentage')">%</td>
+                <td class="button" colspan="2" onclick="order('final')">Order By Current Price</td>
+                <td class="button" colspan="2" onclick="order('platformId')">Order By Id</td>
             </tr>
             <tr style="font-weight: bold; user-select: none;">
                 <td>Platform</td>
                 <td>
                     Name<br>
-                    <sub style="font-size: 10px; color:#bbbbbb">(Click to copy the name to clipboard!)</sub>
+                    <sub class="subtitle">(Click to copy the name to clipboard!)</sub>
                 </td>
                 <td>Genre</td>
                 <td colspan="2">Tier / Points</td>
@@ -216,7 +257,7 @@
                 <td colspan="2">Current Price</td>
                 <td>
                     IDs<br>
-                    <sub id="idStringTop" style="font-size: 10px; color:#bbbbbb">(Click to copy the ID to clipboard!)</sub>
+                    <sub id="idStringTop" class="subtitle">(Click to copy the ID to clipboard!)</sub>
                 </td>
                 <td>Links</td>
             </tr>
@@ -229,7 +270,7 @@
                 <td>Platform</td>
                 <td>
                     Name<br>
-                    <sub style="font-size: 10px; color:#bbbbbb">(Click to copy the name to clipboard!)</sub>
+                    <sub class="subtitle">(Click to copy the name to clipboard!)</sub>
                 </td>
                 <td>Genre</td>
                 <td colspan="2">Tier / Points</td>
@@ -237,31 +278,33 @@
                 <td colspan="2">Current Price</td>
                 <td>
                     IDs<br>
-                    <sub id="idStringBottom" style="font-size: 10px; color:#bbbbbb">(Click to copy the ID to clipboard!)</sub>
+                    <sub id="idStringBottom" class="subtitle">(Click to copy the ID to clipboard!)</sub>
                 </td>
                 <td>Links</td>
             </tr>
             <tr style="border:0px">
-                <td class="button" style="padding:0px" onclick="order('gameType')">Order By Platform</td>
-                <td class="button" style="padding:0px" onclick="order('name')">Order By Name</td>
-                <td class="button" style="padding:0px" onclick="order('genre')">Order By Genre</td>
-                <td class="button" style="padding:0px" colspan="2" onclick="order('points')">Order By Points</td>
-                <td class="button" style="padding:0px" onclick="order('playersTotal')">Order By Owners</td>
-                <td class="button" style="padding:0px" onclick="order('playersCompleted')">Order By Completions</td>
-                <td class="button" style="padding:0px" onclick="order('percentage')">%</td>
-                <td class="button" style="padding:0px" colspan="2" onclick="order('final')">Order By Current Price</td>
-                <td class="button" style="padding:0px" colspan="2" onclick="order('platformId')">Order By Id</td>
+                <td class="button" onclick="order('gameType')">Order By Platform</td>
+                <td class="button" onclick="order('name')">Order By Name</td>
+                <td class="button" onclick="order('genre')">Order By Genre</td>
+                <td class="button" colspan="2" onclick="order('points')">Order By Points</td>
+                <td class="button" onclick="order('playersTotal')">Order By Owners</td>
+                <td class="button" onclick="order('playersCompleted')">Order By Completions</td>
+                <td class="button" onclick="order('percentage')">%</td>
+                <td class="button" colspan="2" onclick="order('final')">Order By Current Price</td>
+                <td class="button" colspan="2" onclick="order('platformId')">Order By Id</td>
             </tr>
         </table>
-        <p class="scrollLink" onclick="window.scrollTo(0, 0);"><b>^^^ Move to top ^^^</b></p>
+        <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, 0);"><b>^^^ Move to top ^^^</b></span></div>
         
-        <p style="font-size:7px; text-align:center; "><a id="secretLink" target="_blank" href="https://github.com/Icondor15/icondor15.github.io">Secret link to Github page!</a></p>
+        <p style="font-size:7px; text-align:center;"><a id="secretLink" target="_blank" href="https://github.com/Icondor15/icondor15.github.io">Secret link to Github page!</a></p>
 
         <script src="../formattedList.js"></script>
+        <script src="../formattedUserList.js"></script>
 
         <script>
             //Date and time (less important)
-            document.getElementById("Date").innerHTML = "Last checked database on: <b>" + date["day"] + "/" + date["month"] + "/" + date["year"] + "</b> at <b>" + date["hour"] + ":" + date["minute"] + ":" + date["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(date["searchTime"], 2) + "</b> seconds.";
+            document.getElementById("Date").innerHTML = "Last checked game database on: <b>" + date["day"] + "/" + date["month"] + "/" + date["year"] + "</b> at <b>" + date["hour"] + ":" + date["minute"] + ":" + date["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(date["searchTime"], 2) + "</b> seconds.";
+            document.getElementById("userDate").innerHTML = "Last checked user database on: <b>" + userDate["day"] + "/" + userDate["month"] + "/" + userDate["year"] + "</b> at <b>" + userDate["hour"] + ":" + userDate["minute"] + ":" + userDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(userDate["searchTime"], 2) + "</b> seconds.";
 
             //Literally everything else (More Important)
             let lastOrder = "points";
@@ -278,6 +321,10 @@
             let usePointsFilter = false;
             let useNonMultiples = false;
             let linkReplaceId = false;
+            let ownerFilterType = 0;
+            let usePercentage = false;
+            let useUserId = false;
+            let searchableUserId = "";
             
             order("points");
 
@@ -363,6 +410,67 @@
                 order(lastOrder);
             }
 
+            function linkIdFilterSwitch(type) {useUserId = type;}
+
+            function userSearch(value)
+            {
+                if(value == false)
+                {
+                    searchableUserId = "";
+                    document.getElementById("userSearchResults").innerHTML = "Selected User: <b>None</b>.";
+                    order(lastOrder);
+                }
+                else if(!useUserId)
+                {
+                    if(document.getElementById("linkTextbox").value != "")
+                    {
+                        var check = document.getElementById("linkTextbox").value.indexOf("cedb.me/user/");
+                        check = document.getElementById("linkTextbox").value.substring(check + 13, check + 12 + 37);
+
+                        if(check in userData)
+                        {
+                            searchableUserId = check;
+                            var str = "Selected User: ";
+
+                            str += "<b>" + userData[check]["name"] + "</b>";
+                            if(userData[check]["isAdmin"] == true) {str += "<b> (Moderator)</b>"}
+                            
+                            str += ". <img height='16px' style='border: solid 1px black;' src='" + userData[check]["avatar"] + "'>";
+                            document.getElementById("userSearchResults").innerHTML = str;
+                            order(lastOrder);
+                        }
+                        else
+                        {
+                            searchableUserId = "";
+                            document.getElementById("userSearchResults").innerHTML = "Selected User: <b>None (User not found)</b>.";
+                        }
+                    }
+                }
+                else
+                {
+                    if(document.getElementById("idTextbox").value != "")
+                    {
+                        if(document.getElementById("idTextbox").value in userData)
+                        {
+                            searchableUserId = document.getElementById("idTextbox").value;
+                            var str = "Selected User: ";
+
+                            str += "<b>" + userData[document.getElementById("idTextbox").value]["name"] + "</b>";
+                            if(userData[document.getElementById("idTextbox").value]["isAdmin"] == true) {str += "<b> (Moderator)</b>"}
+                            
+                            str += ". <img height='16px' style='border: solid 1px black;' src='" + userData[document.getElementById("idTextbox").value]["avatar"] + "'>";
+                            document.getElementById("userSearchResults").innerHTML = str;
+                            order(lastOrder);
+                        }
+                        else
+                        {
+                            searchableUserId = "";
+                            document.getElementById("userSearchResults").innerHTML = "Selected User: <b>None (User not found)</b>.";
+                        }
+                    }
+                }
+            }
+
             function tierPointsFilterSwitch(value)
             {
                 usePointsFilter = value;
@@ -432,6 +540,18 @@
                 activePrice = document.querySelector('input[name="price"]:checked').value;
                 order(lastOrder);
             }
+
+            function ownerFilterSwitch(type) 
+            {
+                ownerFilterType = type;
+                order(lastOrder);
+            }
+            function completionFilterSwitch(value)
+            {
+                usePercentage = value;
+                if(ownerFilterType != 0) {order(lastOrder);}
+            }
+            function changeOwnership() {order(lastOrder)};
 
             function nonMultiples()
             {
@@ -508,6 +628,23 @@
                 }
                 filteredData = filteredGenre.flat(1);
             
+                if(searchableUserId != "")
+                {
+                    var filteredIds = [];
+                    var preFilteredData = [];
+                    
+                    filteredIds = filteredIds.concat(Object.keys(userData[searchableUserId]["gamesPoints"]));
+
+                    for(let j = 0; j < userData[searchableUserId]["gamesNoPoints"].length; j++)
+                    {
+                        filteredIds.push(userData[searchableUserId]["gamesNoPoints"][j]);
+                    }
+                    for(let k = 0; k < filteredIds.length; k++)
+                    {
+                        preFilteredData.push(filteredData.filter(obj => {return filteredIds[k] == obj["CEId"]}));
+                    }
+                    filteredData = preFilteredData.flat(1);
+                }
                 
                 if(!usePointsFilter)
                 {
@@ -524,6 +661,7 @@
                 }
                 else
                 {
+                    //Filter by points
                     var lowBound = 0;
                     var highBound = 10000;
                     
@@ -595,6 +733,83 @@
                     }
                 }
 
+                //Filter by ownership
+                var ownershipLowBound = 0;
+                var ownershipHighBound = 10000;
+                
+                var ownershipMin = document.getElementById("ownershipLower").valueAsNumber;
+                var ownershipMax = document.getElementById("ownershipHigher").valueAsNumber;
+
+                if(document.getElementById("ownershipLower").value != "")
+                {
+                    if(ownershipMin >= 0)
+                    {
+                        ownershipLowBound = ownershipMin;
+                        if(!usePercentage)
+                        {
+                            if(ownershipLowBound > 10000) {ownershipMin == 9999}
+                        }
+                        else
+                        {
+                            if(ownershipLowBound > 100) {ownershipMin == 99.9}
+                        }
+                    }
+                    else {document.getElementById("ownershipLower").value = ownershipLowBound.toString();}
+                }
+
+                if(document.getElementById("ownershipHigher").value != "")
+                {
+                    if(ownershipMax <= 10000)
+                    {
+                        ownershipHighBound = ownershipMax;
+                        if(!usePercentage)
+                        {
+                            if(ownershipHighBound < 0) {ownershipMax == 1}
+                        }
+                        else
+                        {
+                            if(ownershipHighBound < 0) {ownershipMax == 0.1}
+                        }
+                    }
+                    else {document.getElementById("ownershipHigher").value = ownershipHighBound.toString();}
+                }
+
+                if(ownerFilterType == 0) {filteredData = filteredData.filter(obj => {return obj.playersTotal >= ownershipLowBound})}
+                else
+                {
+                    if(!usePercentage)
+                    {
+                        if(ownerFilterType == 1) {filteredData = filteredData.filter(obj => {return obj.playersCompleted >= ownershipLowBound})}
+                        else {filteredData = filteredData.filter(obj => {return obj.playersStarted >= ownershipLowBound})}
+                    }
+                    else
+                    {
+                        if(ownerFilterType == 1) {filteredData = filteredData.filter(obj => {return obj.playersCompleted / obj.playersTotal * 100 >= ownershipLowBound})}
+                        else {filteredData = filteredData.filter(obj => {return obj.playersStarted / obj.playersTotal * 100 >= ownershipLowBound})}
+                    }
+                }
+
+                if(ownershipLowBound <= ownershipHighBound)
+                {
+                    document.getElementById("ownershipHigher").style.textDecoration = "none";
+                    if(ownerFilterType == 0) {filteredData = filteredData.filter(obj => {return obj.playersTotal <= ownershipHighBound})}
+                    else
+                    {
+                        if(!usePercentage)
+                        {
+                            if(ownerFilterType == 1) {filteredData = filteredData.filter(obj => {return obj.playersCompleted <= ownershipHighBound})}
+                            else {filteredData = filteredData.filter(obj => {return obj.playersStarted <= ownershipHighBound})}
+                        }
+                        else
+                        {
+                            if(ownerFilterType == 1) {filteredData = filteredData.filter(obj => {return obj.playersCompleted / obj.playersTotal * 100 <= ownershipHighBound})}
+                            else {filteredData = filteredData.filter(obj => {return obj.playersStarted / obj.playersTotal * 100 <= ownershipHighBound})}
+                        }
+                    }
+                }
+                else {document.getElementById("ownershipHigher").style.textDecoration = "line-through";}
+
+
                 //Filter by non-multiples of 5
                 if(useNonMultiples) {filteredData = filteredData.filter(obj => {return obj.points % 5 != 0})}
 
@@ -627,6 +842,10 @@
                     document.getElementById("tierFilterHide").style.opacity = 1/3;
                     document.getElementById("pointsFilterHide").style.opacity = 1;
                 }
+
+                //alternate ownership filter
+                if(ownerFilterType == 0) {document.getElementById("ownerFilterHide").style.opacity = 1/3;}
+                else {document.getElementById("ownerFilterHide").style.opacity = 1;}
 
             }
 
@@ -775,7 +994,7 @@
                         cellPlatform.style.backgroundColor = "#00000088";
                     }
 
-                    cellName.innerHTML = "<p id='tmp'>" + filteredData[i]["name"] + "</p>";
+                    cellName.innerHTML = "<span id='tmp'>" + filteredData[i]["name"] + "</span>";
                     var p = document.getElementById("tmp");
                     p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i]["name"] + "')");
                     p.classList.add('textCopyable');
@@ -923,7 +1142,7 @@
                         if(filteredData[i]["gameType"] == 4) {cellSteam.style.textDecoration = "line-through 1.5px"}
                         else
                         {
-                            cellSteam.innerHTML = "<p id='tmp'>" + filteredData[i]["platformId"] + "</p>";
+                            cellSteam.innerHTML = "<span id='tmp'>" + filteredData[i]["platformId"] + "</span>";
                             var p = document.getElementById("tmp");
                             p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i]["platformId"] + "')");
                             p.classList.add('textCopyable');
@@ -932,7 +1151,7 @@
                             p.id = null;
                         }
 
-                        cellCE.innerHTML = "<p id='tmp'>" + filteredData[i]["CEId"] + "</p>";
+                        cellCE.innerHTML = "<span id='tmp'>" + filteredData[i]["CEId"] + "</span>";
                         var p = document.getElementById("tmp");
                         p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i]["CEId"] + "')");
                         p.classList.add('textCopyable');
@@ -946,7 +1165,7 @@
                         if(filteredData[i]["gameType"] == 4) {cellSteam.style.textDecoration = "line-through 1.5px"}
                         else
                         {
-                            cellSteam.innerHTML = "<p id='tmp'>" + filteredData[i]["platformId"] + "</p>";
+                            cellSteam.innerHTML = "<span id='tmp'>" + filteredData[i]["platformId"] + "</span>";
                             var p = document.getElementById("tmp");
                             if(filteredData[i]["gameType"] != 3)
                             {
@@ -962,7 +1181,7 @@
                             p.id = null;
                         }
 
-                        cellCE.innerHTML = "<p id='tmp'>" + filteredData[i]["CEId"] + "</p>";
+                        cellCE.innerHTML = "<span id='tmp'>" + filteredData[i]["CEId"] + "</span>";
                         var p = document.getElementById("tmp");
                         p.setAttribute("onClick", "navigator.clipboard.writeText('https://cedb.me/game/" + filteredData[i]["CEId"] + "')");
                         p.classList.add('textCopyable');
