@@ -26,7 +26,7 @@ var data =
         "points": 5,
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 4,
+        "playersTotal": 5,
         "priceData": {
             "currency": "USD",
             "initial": 2499,
@@ -519,7 +519,7 @@ var data =
         "points": 25,
         "playersCompleted": 2,
         "playersStarted": 2,
-        "playersTotal": 5,
+        "playersTotal": 6,
         "priceData": {
             "currency": "USD",
             "initial": 1499,
@@ -723,7 +723,7 @@ var data =
         "points": 360,
         "playersCompleted": 3,
         "playersStarted": 21,
-        "playersTotal": 72,
+        "playersTotal": 73,
         "priceData": {
             "currency": "USD",
             "initial": 1899,
@@ -757,7 +757,7 @@ var data =
         "points": 116,
         "playersCompleted": 2,
         "playersStarted": 78,
-        "playersTotal": 509,
+        "playersTotal": 510,
         "priceData": {
             "currency": "USD",
             "initial": 2499,
@@ -902,6 +902,23 @@ var data =
         }
     },
     {
+        "platformId": 1190400,
+        "CEId": "98e500cb-119d-458d-beb8-1f4901d32f29",
+        "name": "The Wonderful 101: Remastered",
+        "genre": "Action",
+        "tier": 3,
+        "points": 50,
+        "playersCompleted": 4,
+        "playersStarted": 0,
+        "playersTotal": 24,
+        "priceData": {
+            "currency": "USD",
+            "initial": 3000,
+            "final": 1680,
+            "discount_percent": 44
+        }
+    },
+    {
         "platformId": 7200,
         "CEId": "5337f128-8ca1-4cf8-9032-73ab63616c24",
         "name": "Trackmania United Forever",
@@ -1010,8 +1027,8 @@ var data =
         "genre": "Arcade",
         "tier": 5,
         "points": 500,
-        "playersCompleted": 10,
-        "playersStarted": 23,
+        "playersCompleted": 11,
+        "playersStarted": 22,
         "playersTotal": 158,
         "priceData": {
             "currency": "USD",
@@ -1080,7 +1097,7 @@ var data =
         "points": 16,
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 109,
+        "playersTotal": 110,
         "priceData": {
             "currency": "USD",
             "initial": 2999,
@@ -1097,7 +1114,7 @@ var data =
         "points": 5,
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 6,
+        "playersTotal": 7,
         "priceData": {
             "currency": "USD",
             "initial": 1999,
@@ -1114,7 +1131,7 @@ var data =
         "points": 30,
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 345,
+        "playersTotal": 346,
         "priceData": {
             "currency": "USD",
             "initial": 2999,
@@ -1131,7 +1148,7 @@ var data =
         "points": 45,
         "playersCompleted": 1,
         "playersStarted": 6,
-        "playersTotal": 342,
+        "playersTotal": 343,
         "priceData": {
             "currency": "USD",
             "initial": 5999,
@@ -1227,10 +1244,10 @@ var data =
 ]
 var date =
 {
-    "day": 15,
+    "day": 16,
     "month": 11,
     "year": 2024,
-    "hour": 13,
-    "minute": 15,
-    "second": 23
+    "hour": 9,
+    "minute": 26,
+    "second": 33
 }
