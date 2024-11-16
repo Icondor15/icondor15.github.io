@@ -213,7 +213,7 @@ var data =
         "points": 5,
         "playersCompleted": 44,
         "playersStarted": 0,
-        "playersTotal": 90,
+        "playersTotal": 91,
         "priceData": {
             "currency": "USD",
             "initial": 599,
@@ -468,7 +468,7 @@ var data =
         "points": 25,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 68,
+        "playersTotal": 69,
         "priceData": {
             "currency": "USD",
             "initial": 499,
@@ -621,7 +621,7 @@ var data =
         "points": 10,
         "playersCompleted": 34,
         "playersStarted": 0,
-        "playersTotal": 128,
+        "playersTotal": 129,
         "priceData": {
             "currency": "USD",
             "initial": 799,
@@ -638,7 +638,7 @@ var data =
         "points": 15,
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 162,
+        "playersTotal": 163,
         "priceData": {
             "currency": "USD",
             "initial": 799,
@@ -876,12 +876,29 @@ var data =
         "points": 30,
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 78,
+        "playersTotal": 79,
         "priceData": {
             "currency": "USD",
             "initial": 199,
             "final": 59,
             "discount_percent": 70
+        }
+    },
+    {
+        "platformId": 1830970,
+        "CEId": "a0d3a472-f4df-41c2-a3a2-2e96a60f68e3",
+        "name": "The Last Flame",
+        "genre": "Strategy",
+        "tier": 1,
+        "points": 15,
+        "playersCompleted": 1,
+        "playersStarted": 0,
+        "playersTotal": 2,
+        "priceData": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 1499,
+            "discount_percent": 25
         }
     },
     {
@@ -1072,6 +1089,23 @@ var data =
         }
     },
     {
+        "platformId": 837470,
+        "CEId": "a5252cda-034d-4ec4-8ccc-029817aef04a",
+        "name": "Untitled Goose Game",
+        "genre": "Arcade",
+        "tier": 1,
+        "points": 5,
+        "playersCompleted": 48,
+        "playersStarted": 0,
+        "playersTotal": 173,
+        "priceData": {
+            "currency": "USD",
+            "initial": 1999,
+            "final": 899,
+            "discount_percent": 55
+        }
+    },
+    {
         "platformId": 613190,
         "CEId": "ddf046b5-50ac-4af6-9e96-ac07b26ebfb6",
         "name": "Unworthy",
@@ -1247,7 +1281,7 @@ var date =
     "day": 16,
     "month": 11,
     "year": 2024,
-    "hour": 9,
-    "minute": 26,
-    "second": 33
+    "hour": 19,
+    "minute": 17,
+    "second": 19
 }
