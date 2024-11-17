@@ -110,6 +110,7 @@
             <tr>
                 <td colspan="12">    
                     <p id="Count" style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Games: Loading...</p>
+                    <p id="loadingText" style="margin: -10px auto auto; font-size: 16px; font-weight: bold; text-align: center;">Loading Table...</p>
                 </td>
             </tr>
             <tr colspan="12">
@@ -118,7 +119,6 @@
                         <tr>
                             <td colspan="12">
                                 <p style="margin: auto; padding-top: 15px; padding-bottom: 3px; font-size: 25px; font-weight: bold; text-align: center;">Filters</p>
-                                <sub class="subtitle">(When many results apply it might freeze a little while changing settings!)</sub><br>
                                 <sub class="subtitle">(All textboxes (Except the User Filter) search on every input so it might feel choppy!)</sub>
                                 <div style="margin: 10px auto 3px;">
                                     <span class="button" style="width:125px; padding: 0px 10px; border:2px solid black;" onclick="location = location" >Reset All Filters</span><br>
@@ -169,11 +169,15 @@
                                 <input type="radio" id="priceNA" onclick="changePrice()" name="price" value="2">N/A</input>
                             </td>
                             <td rowspan="3" id="extraFilter">
-                                <b>Extra:</b><br>
-                                <sub><input id="pointMultiple" type="checkbox" onclick="nonMultiples()">(Points) Only non-multiples of 5</input></sub><br>
+                                <b>Extras & Non-Filters:</b><br>
+                                <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br><br>
+                                <input id="pointMultiple" type="checkbox" onclick="nonMultiples()">(Points) Only non-multiples of 5</input><br>
                                 <sub class="subtitle">(Useful to find most Uncleared/Unvalued games)</sub><br>
-                                <sub><input  id="idToLink" type="checkbox" onchange="idToLink()">(IDs) Copy ID > Copy Link</input></sub><br>
+                                <input  id="idToLink" type="checkbox" onchange="idToLink()">(IDs) Copy ID > Copy Link</input><br>
                                 <sub class="subtitle">(Useful to copy many links quickly)</sub><br>
+                                <input  id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
+                                <sub class="subtitle">(Yup, I finally added it.)</sub><br>
+                                <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub><br>
                             </td>
                         </tr>
                         <tr>
@@ -189,7 +193,7 @@
                                     <input type="radio" id="idSelection" name="link-id" onclick="linkIdFilterSwitch(true)">ID</input>
                                     <input type="text" id="idTextbox" autocomplete="off" style="width:200px; font-size:10px;"></input><br>
                                     <sub class="subtitle" style="padding-right: 8px;">(Example: "00000000-0000-0000-0000-000000000000")</sub><br>
-                                    <div style="margin: 10px auto 0px;">
+                                    <div style="margin: 5px auto 10px;">
                                         <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="userSearch(true)">Load User Filter</span>
                                         <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="userSearch(false)">Unload</span>
                                     </div>
@@ -216,7 +220,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td colspan="2" id="ownerFilter">
+                            <td id="ownerFilter">
                                 <input type="radio" id="ownerSelection" name="ownership" onclick="ownerFilterSwitch(0)" checked="true"><b>Owners:</b></input>
                                 <input type="radio" id="completeSelection" name="ownership" onclick="ownerFilterSwitch(1)"><b>Completed:</b></input>
                                 <input type="radio" id="unfinishedSelection" name="ownership" onclick="ownerFilterSwitch(2)"><b>Unfinished:</b></input><br>
@@ -230,20 +234,35 @@
                                     <input type="number" id="ownershipHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changeOwnership()"></input>
                                 </div>
                             </td>
+                            <td id="costFilter">
+                                <b>Cost:</b><br>
+                                <input type="number" id="costLower" min="0" max="100000" onchange onpropertychange onkeyuponpaste oninput="changeCost()"></input>
+                                ≤ <b>x</b> ≤
+                                <input type="number" id="costHigher" min="0" max="100000" onchange onpropertychange onkeyuponpaste oninput="changeCost()"></input>
+                            </td>
                         </tr>
                     </table>
                 </td>
             </tr>
-            <tr style="border:0px">
-                <td class="button" onclick="order('gameType')">Order By Platform</td>
-                <td class="button" onclick="order('name')">Order By Name</td>
-                <td class="button" onclick="order('genre')">Order By Genre</td>
-                <td class="button" colspan="2" onclick="order('points')">Order By Points</td>
-                <td class="button" onclick="order('playersTotal')">Order By Owners</td>
-                <td class="button" onclick="order('playersCompleted')">Order By Completions</td>
-                <td class="button" onclick="order('percentage')">%</td>
-                <td class="button" colspan="2" onclick="order('final')">Order By Current Price</td>
-                <td class="button" colspan="2" onclick="order('platformId')">Order By Id</td>
+            <tr>
+                <td rowspan="2" class="button" onclick="order('gameType')">Order By Platform</td>
+                <td rowspan="2" class="button" onclick="order('name')">Order By Name</td>
+                <td rowspan="2" class="button" onclick="order('genre')">Order By Genre</td>
+                <td rowspan="2" class="button" colspan="2" onclick="order('points')">Order By Points</td>
+                <td rowspan="2" class="button" onclick="order('playersTotal')">Order By Owners</td>
+                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div class="button" style="width:69.3%; float:left;" onclick="order('playersCompleted')">Completed</div>
+                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('completedPercentage')">%</div>
+                </td>
+                <td class="button" colspan="2" onclick="order('final')">Order By Price</td>
+                <td rowspan="2" class="button" colspan="2" onclick="order('platformId')">Order By Id</td>
+            </tr>
+            <tr>
+                <td colspan="2" style="padding:0%; background-color: #dddddd;">
+                    <div class="button" style="width:69.3%; float:left;" onclick="order('playersStarted')">Unfinished</div>
+                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('StartedPercentage')">%</div>
+                </td>
+                <td class="button" colspan="2" onclick="order('discountPercent')">Order By Sale %</td>
             </tr>
             <tr style="font-weight: bold; user-select: none;">
                 <td>Platform</td>
@@ -282,16 +301,25 @@
                 </td>
                 <td>Links</td>
             </tr>
-            <tr style="border:0px">
-                <td class="button" onclick="order('gameType')">Order By Platform</td>
-                <td class="button" onclick="order('name')">Order By Name</td>
-                <td class="button" onclick="order('genre')">Order By Genre</td>
-                <td class="button" colspan="2" onclick="order('points')">Order By Points</td>
-                <td class="button" onclick="order('playersTotal')">Order By Owners</td>
-                <td class="button" onclick="order('playersCompleted')">Order By Completions</td>
-                <td class="button" onclick="order('percentage')">%</td>
-                <td class="button" colspan="2" onclick="order('final')">Order By Current Price</td>
-                <td class="button" colspan="2" onclick="order('platformId')">Order By Id</td>
+            <tr>
+                <td rowspan="2" class="button" onclick="order('gameType')">Order By Platform</td>
+                <td rowspan="2" class="button" onclick="order('name')">Order By Name</td>
+                <td rowspan="2" class="button" onclick="order('genre')">Order By Genre</td>
+                <td rowspan="2" class="button" colspan="2" onclick="order('points')">Order By Points</td>
+                <td rowspan="2" class="button" onclick="order('playersTotal')">Order By Owners</td>
+                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div class="button" style="width:69.3%; float:left;" onclick="order('playersStarted')">Unfinished</div>
+                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('StartedPercentage')">%</div>
+                </td>
+                <td class="button" colspan="2" onclick="order('discountPercent')">Order By Sale %</td>
+                <td rowspan="2" class="button" colspan="2" onclick="order('platformId')">Order By Id</td>
+            </tr>
+            <tr>
+                <td colspan="2" style="padding:0%; background-color: #dddddd;">
+                    <div class="button" style="width:69.3%; float:left;" onclick="order('playersCompleted')">Completed</div>
+                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('completedPercentage')">%</div>
+                </td>
+                <td class="button" colspan="2" onclick="order('final')">Order By Price</td>
             </tr>
         </table>
         <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, 0);"><b>^^^ Move to top ^^^</b></span></div>
@@ -302,6 +330,11 @@
         <script src="../formattedUserList.js"></script>
 
         <script>
+            //upscroll on reload
+            window.onbeforeunload = function () {
+                window.scrollTo(0, 0);
+            }
+
             //Date and time (less important)
             document.getElementById("Date").innerHTML = "Last checked game database on: <b>" + date["day"] + "/" + date["month"] + "/" + date["year"] + "</b> at <b>" + date["hour"] + ":" + date["minute"] + ":" + date["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(date["searchTime"], 2) + "</b> seconds.";
             document.getElementById("userDate").innerHTML = "Last checked user database on: <b>" + userDate["day"] + "/" + userDate["month"] + "/" + userDate["year"] + "</b> at <b>" + userDate["hour"] + ":" + userDate["minute"] + ":" + userDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(userDate["searchTime"], 2) + "</b> seconds.";
@@ -325,6 +358,13 @@
             let usePercentage = false;
             let useUserId = false;
             let searchableUserId = "";
+            let useReverseOrder = false;
+
+            let reloadMax = 0;
+            let reloadCounter = 0;
+            let reloadUnit = 250;
+            var generateLoop;
+            
             
             order("points");
 
@@ -434,8 +474,21 @@
 
                             str += "<b>" + userData[check]["name"] + "</b>";
                             if(userData[check]["isAdmin"] == true) {str += "<b> (Moderator)</b>"}
+
+                            str += " <img height='16px' style='border: solid 1px black;' src='" + userData[check]["avatar"] + "'>. ";
+
+                            var gainedPoints = 0;
+                            var keys = Object.keys(userData[check]["gamesPoints"]);
+
+                            for(var k = 0; k < keys.length; k++)
+                            {
+                                gainedPoints += userData[check]["gamesPoints"][keys[k]]["points"];
+                            }
+
+                            str += "Points: <b>" + gainedPoints + "</b>.";
                             
-                            str += ". <img height='16px' style='border: solid 1px black;' src='" + userData[check]["avatar"] + "'>";
+                            str += "<span class='button' style='padding: 0px 10px; position:relative; left: 5px;  bottom: 3.5px; border:2px solid black;'' onclick='order(\"userPoints\")'>Order By Gained Points</span>";
+
                             document.getElementById("userSearchResults").innerHTML = str;
                             order(lastOrder);
                         }
@@ -458,7 +511,8 @@
                             str += "<b>" + userData[document.getElementById("idTextbox").value]["name"] + "</b>";
                             if(userData[document.getElementById("idTextbox").value]["isAdmin"] == true) {str += "<b> (Moderator)</b>"}
                             
-                            str += ". <img height='16px' style='border: solid 1px black;' src='" + userData[document.getElementById("idTextbox").value]["avatar"] + "'>";
+                            str += ". <img height='16px' style='border: solid 1px black;' src='" + userData[document.getElementById("idTextbox").value]["avatar"] + "'> ";
+                            str += "<span class='button' style='padding: 0px 10px; position:relative; left: 5px; bottom: 3.5px; border:2px solid black;'' onclick='order(\"userPoints\")'>Order By Gained Points</span>";
                             document.getElementById("userSearchResults").innerHTML = str;
                             order(lastOrder);
                         }
@@ -540,6 +594,7 @@
                 activePrice = document.querySelector('input[name="price"]:checked').value;
                 order(lastOrder);
             }
+            function changeCost() {order(lastOrder);}
 
             function ownerFilterSwitch(type) 
             {
@@ -563,6 +618,12 @@
             {
                 if(linkReplaceId == true) {linkReplaceId = false;}
                 else if(linkReplaceId == false) {linkReplaceId = true;}
+                order(lastOrder);
+            }
+            function reverseOrder()
+            {
+                if(useReverseOrder == true) {useReverseOrder = false;}
+                else if(useReverseOrder == false) {useReverseOrder = true;}
                 order(lastOrder);
             }
 
@@ -713,6 +774,44 @@
                     var F2PGames = filteredData.filter(obj => {return obj.gameType == 1})
                     var NAGames = filteredData.filter(obj => {return obj.gameType > 1})
 
+                    //Filter by cost
+                    var costLowBound = 0;
+                    var costHighBound = 10000000;
+                    
+                    var costMin = document.getElementById("costLower").valueAsNumber;
+                    var costMax = document.getElementById("costHigher").valueAsNumber;
+
+                    if(document.getElementById("costLower").value != "")
+                    {
+                        costMin = costMin*100;
+                        if(costMin >= 0)
+                        {
+                            costLowBound = costMin;
+                            if(costLowBound > 10000000) {costMin == 9999999}
+                        }
+                        else {document.getElementById("costLower").value = costLowBound.toString();}
+                    }
+
+                    if(document.getElementById("costHigher").value != "")
+                    {
+                        costMax = costMax*100;
+                        if(costMax <= 10000000)
+                        {
+                            costHighBound = costMax;
+                            if(costHighBound < 0) {costMax == 1}
+                        }
+                        else {document.getElementById("costHigher").value = costHighBound.toString();}
+                    }
+
+                    paidGames = paidGames.filter(obj => {return obj["priceData"][activeCurrency]["final"] >= costLowBound})
+
+                    if(costLowBound <= costHighBound)
+                    {
+                        document.getElementById("costHigher").style.textDecoration = "none";
+                        paidGames = paidGames.filter(obj => {return obj["priceData"][activeCurrency]["final"] <= costHighBound})
+                    }
+                    else {document.getElementById("costHigher").style.textDecoration = "line-through";}
+
                     if(isOnSale) {paidGames = paidGames.filter(obj => {return obj["priceData"][activeCurrency]["discountPercent"] != 0})}
 
                     if(activePrice == 0)
@@ -818,16 +917,35 @@
                 {
                     document.getElementById("currencyFilter").style.opacity = 1/3;
                     document.getElementById("priceFilter").style.opacity = 1/3;
-                }
-                else if(activePrice == 1 || activePrice == 2)
-                {
-                    document.getElementById("currencyFilter").style.opacity = 1/3;
-                    document.getElementById("priceSale").style.opacity = 1/3;
+                    document.getElementById("costFilter").style.opacity = 1/3;
                 }
                 else
                 {
                     document.getElementById("currencyFilter").style.opacity = 1;
                     document.getElementById("priceFilter").style.opacity = 1;
+                    document.getElementById("costFilter").style.opacity = 1;
+
+                    if(activePrice == 1 || activePrice == 2)
+                    {
+                        document.getElementById("currencyFilter").style.opacity = 1/3;
+                        document.getElementById("priceSale").style.opacity = 1/3;
+                        document.getElementById("costFilter").style.opacity = 1/3;
+                    }
+                    else
+                    {
+                        document.getElementById("currencyFilter").style.opacity = 1;
+                        document.getElementById("priceFilter").style.opacity = 1;
+                        document.getElementById("priceSale").style.opacity = 1;
+                        document.getElementById("costFilter").style.opacity = 1;
+                    }
+                }
+
+                if(activePrice == 1 || activePrice == 2)
+                {
+                    document.getElementById("priceSale").style.opacity = 1/3;
+                }
+                else
+                {
                     document.getElementById("priceSale").style.opacity = 1;
                 }
 
@@ -861,9 +979,24 @@
 
                 if(type != "name")
                 {
-                    if(type == "playersCompleted")
+                    if(type == "gameType")
+                    {
+                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+
+                        var steamGames = filteredData.filter(obj => {return obj.gameType < 3})
+                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+                        var BrokenGames = filteredData.filter(obj => {return obj.gameType == 4})
+
+                        filteredData = steamGames.concat(BrokenGames, RAGames);
+                    }
+                    else if(type == "playersCompleted")
                     {
                         filteredData.sort((a,b) => (a["playersStarted"] > b["playersStarted"]) ? 1 : ((b["playersStarted"] > a["playersStarted"]) ? -1 : 0));
+                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+                    }
+                    else if(type == "playersStarted")
+                    {
+                        filteredData.sort((a,b) => (a["playersCompleted"] > b["playersCompleted"]) ? 1 : ((b["playersCompleted"] > a["playersCompleted"]) ? -1 : 0));
                         filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
                     }
                     else if(type == "final")
@@ -877,6 +1010,25 @@
                         nonPaid.sort((a,b) => (a["gameType"] > b["gameType"]) ? 1 : ((b["gameType"] > a["gameType"]) ? -1 : 0));
 
                         filteredData = nonPaid.concat(RA, functional);
+
+                    }
+                    else if(type == "discountPercent")
+                    {
+                        var paid = filteredData.filter(obj => {return obj.gameType == 0})
+                        var nonPaid = filteredData.filter(obj => {return (obj.gameType > 0 && obj.gameType < 3) || obj.gameType == 4})
+                        var RA = filteredData.filter(obj => {return obj.gameType == 3})
+                        var functional = paid.filter(obj => {return activeCurrency in obj.priceData})
+
+                        functional.sort((a,b) => (a["priceData"][activeCurrency]["final"] < b["priceData"][activeCurrency]["final"]) ? 1 : ((b["priceData"][activeCurrency]["final"] < a["priceData"][activeCurrency]["final"]) ? -1 : 0));
+
+                        functional.sort((a,b) => (a["priceData"][activeCurrency][type] > b["priceData"][activeCurrency][type]) ? 1 : ((b["priceData"][activeCurrency][type] > a["priceData"][activeCurrency][type]) ? -1 : 0));
+
+                        functional.reverse();
+
+                        nonPaid.sort((a,b) => (a["gameType"] > b["gameType"]) ? 1 : ((b["gameType"] > a["gameType"]) ? -1 : 0));
+
+                        filteredData = nonPaid.concat(RA, functional);
+
                     }
                     else if(type == "platformId")
                     {
@@ -888,33 +1040,94 @@
 
                         filteredData = steamGames.concat(RAGames, BrokenGames);
                     }
-                    else if(type != "percentage")
-                    {
-                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
-                    }
-                    else
+                    else if(type == "completedPercentage")
                     {
                         filteredData.sort((a,b) => a.playersStarted / a.playersTotal * 100 - (b.playersStarted / b.playersTotal * 100));
                         filteredData.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
                     }
+                    else if(type == "startedPercentage")
+                    {
+                        filteredData.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
+                        filteredData.sort((a,b) => a.playersStarted / a.playersTotal * 100 - (b.playersStarted / b.playersTotal * 100));
+                    }
+                    else if(type == "userPoints" && searchableUserId != "")
+                    {
+                        var searchIds = Object.keys(userData[searchableUserId]["gamesPoints"]);
+
+                        filteredData.sort(compare);
+
+                        function compare(a, b) {
+                            var val1 = 0;
+                            var val2 = 0;
+
+                            for(let j = 0; j < searchIds.length; j++)
+                            {
+                                if(a["CEId"] == searchIds[j])
+                                {
+                                    val1 = userData[searchableUserId]["gamesPoints"][searchIds[j]]["points"];
+                                    break;
+                                }
+                            }
+
+                            for(let k = 0; k < searchIds.length; k++)
+                            {
+                                if(b["CEId"] == searchIds[k])
+                                {
+                                    val2 = userData[searchableUserId]["gamesPoints"][searchIds[k]]["points"];
+                                    break;
+                                }
+                            }
+                            if ( val1 < val2 ){
+                                return -1;
+                            }
+                            if (val1 > val2){
+                                return 1;
+                            }
+                            return 0;
+                            }
+                            
+                        filteredData.reverse();
+                    }
+                    else
+                    {
+                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+                    }
                 }
+
+                if(useReverseOrder == true) {filteredData.reverse()}
+
+                reloadCounter = 0;
+                reloadMax = (filteredData.length - (filteredData.length % reloadUnit))/ reloadUnit + 1;
+                document.getElementById("loadingText").innerHTML = "Loading Table...";
                 
-                generateTable();
+                generateLoop = setInterval(generateTable, 1);
             }
 
             function generateTable()
             {
                 if(document.getElementById("loading") != null) {document.getElementById("loading").remove()}
                 var table = document.getElementById("MainTable");
-                var replace = document.getElementsByClassName("replace");
 
-                document.querySelectorAll('.replace').forEach(e => e.remove());
+                if(reloadCounter == 0)
+                {
+                    var replace = document.getElementsByClassName("replace");
+                    document.querySelectorAll('.replace').forEach(e => e.remove());
+                }
 
                 document.getElementById("Count").innerHTML = "Filtered Challenge Enthusiasts Games: " + filteredData.length;
 
-                for(let i = 0; i < filteredData.length; i++)
+                var check = reloadUnit + (reloadUnit * reloadCounter);
+
+                if(reloadCounter == reloadMax -1)
                 {
-                    var row1 = table.insertRow((i*2)+4);
+                    check = (filteredData.length % reloadUnit) + reloadUnit * reloadCounter;
+                    document.getElementById("loadingText").innerHTML = "Table Loaded!";
+                    clearInterval(generateLoop);
+                }
+
+                for(let i = reloadUnit*reloadCounter; i < check; i++)
+                {
+                    var row1 = table.insertRow((i*2)+5);
                     row1.classList.add("replace");
                     var cellPlatform = row1.insertCell(0);
                     cellPlatform.rowSpan = 2;
@@ -952,7 +1165,7 @@
                         var cellLinkSteam = row1.insertCell(10);
                     }
 
-                    var row2 = table.insertRow(((i+1)*2)+3);
+                    var row2 = table.insertRow(((i+1)*2)+4);
                     row2.classList.add("replace");
                     if(filteredData[i]["points"] < 500)
                     {
@@ -1047,10 +1260,40 @@
                             break;
 
                     }
-                    cellPoints.innerHTML = filteredData[i]["points"];
-                    if(filteredData[i]["points"] % 5 > 0)
+
+                    if(filteredData[i]["points"] % 5 > 0) {cellPoints.style.backgroundColor = "#FF000044";}
+                    if(searchableUserId == "")
                     {
-                        cellPoints.style.backgroundColor = "#FFFF0055";
+                        cellPoints.innerHTML = filteredData[i]["points"];
+                    }
+                    else
+                    {
+                        cellPoints.innerHTML = "<b>0</b>/" + filteredData[i]["points"];
+                        if(filteredData[i]["points"] == 0) {cellPoints.style.backgroundColor = "#00FF0044";}
+                        else
+                        {
+                            var searchIds = Object.keys(userData[searchableUserId]["gamesPoints"]);
+
+                            for(let j = 0; j < searchIds.length; j++)
+                            {
+                                if(filteredData[i]["CEId"] == searchIds[j])
+                                {
+                                    cellPoints.innerHTML = "<b>" + userData[searchableUserId]["gamesPoints"][searchIds[j]]["points"] + "</b>/" + filteredData[i]["points"];
+
+                                    if((userData[searchableUserId]["gamesPoints"][searchIds[j]]["points"] == filteredData[i]["points"]))
+                                    {
+                                        if(filteredData[i]["points"] % 5 > 0) {cellPoints.style.backgroundColor = "#88FF0044";}
+                                        else {cellPoints.style.backgroundColor = "#00FF0044";}
+                                    }
+                                    else
+                                    {
+                                        if(filteredData[i]["points"] % 5 > 0) {cellPoints.style.backgroundColor = "#FF880044";}
+                                        else {cellPoints.style.backgroundColor = "#FFFF0044";}
+                                    }
+                                    break;
+                                }
+                            }
+                        }
                     }
                     
                     cellOwners.innerHTML = filteredData[i]["playersTotal"];
@@ -1210,7 +1453,8 @@
                     }
                     else if(filteredData[i]["gameType"] == 4)
                     {
-                        cellLinkSteam.innerHTML = "<p style='font-weight: bold; color:#6B194D; user-select: none; text-decoration:line-through 1.5px;'>Steam (Broken)</p>";
+                        cellLinkSteam.innerHTML = "<p id='tmp' style='font-weight: bold; color:#6B194D; user-select: none; text-decoration:line-through 1.5px;'>Steam (Broken)</p>";
+                        var a = document.getElementById("tmp");
                     }
                     a.id = null;
 
@@ -1230,6 +1474,8 @@
                         row2.style.backgroundColor = "#c3c3c3";
                     }
                 }
+
+                reloadCounter += 1;
             }
             
         //Function to truncate numbers
