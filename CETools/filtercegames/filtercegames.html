@@ -1054,6 +1054,8 @@
                     {
                         var searchIds = Object.keys(userData[searchableUserId]["gamesPoints"]);
 
+                        filteredData.reverse();
+
                         filteredData.sort(compare);
 
                         function compare(a, b) {
