@@ -1680,7 +1680,7 @@ var data =
         "genre": "Action",
         "tier": 1,
         "points": 10,
-        "playersCompleted": 21,
+        "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 102,
         "priceData": {
@@ -34014,7 +34014,7 @@ var data =
         "points": 10,
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 69,
+        "playersTotal": 70,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -45155,7 +45155,7 @@ var data =
         "points": 20,
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 3,
+        "playersTotal": 4,
         "priceData": {
             "USD": {
                 "initial": 899,
@@ -47218,7 +47218,7 @@ var data =
         "points": 11,
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 4,
+        "playersTotal": 5,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -50865,7 +50865,7 @@ var data =
         "points": 11,
         "playersCompleted": 0,
         "playersStarted": 8,
-        "playersTotal": 83,
+        "playersTotal": 84,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -52348,6 +52348,50 @@ var data =
     },
     {
         "gameType": 0,
+        "platformId": 1370050,
+        "CEId": "e3f715a2-b645-4e6f-8d3c-df8c92d4672d",
+        "name": "Trek to Yomi",
+        "genre": "Action",
+        "tier": 1,
+        "points": 5,
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 0,
+        "priceData": {
+            "USD": {
+                "initial": 1999,
+                "final": 1999,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1950,
+                "final": 1950,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1675,
+                "final": 1675,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 230000,
+                "final": 230000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 2950,
+                "final": 2950,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 2599,
+                "final": 2599,
+                "discountPercent": 0
+            }
+        }
+    },
+    {
+        "gameType": 0,
         "platformId": 16600,
         "CEId": "563aa504-e33c-44e0-89d2-b354286a6bb3",
         "name": "Trials 2: Second Edition",
@@ -52571,7 +52615,7 @@ var data =
         "points": 1000,
         "playersCompleted": 5,
         "playersStarted": 39,
-        "playersTotal": 222,
+        "playersTotal": 223,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -53710,7 +53754,7 @@ var data =
         "points": 5,
         "playersCompleted": 48,
         "playersStarted": 0,
-        "playersTotal": 173,
+        "playersTotal": 174,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -55074,7 +55118,7 @@ var data =
         "points": 16,
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 111,
+        "playersTotal": 112,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -60646,8 +60690,8 @@ var date =
     "day": 17,
     "month": 11,
     "year": 2024,
-    "hour": 9,
-    "minute": 38,
-    "second": 36,
-    "searchTime": 387.96360898017883
+    "hour": 13,
+    "minute": 59,
+    "second": 7,
+    "searchTime": 387.07759618759155
 }
