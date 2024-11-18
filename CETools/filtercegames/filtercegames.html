@@ -260,7 +260,7 @@
             <tr>
                 <td colspan="2" style="padding:0%; background-color: #dddddd;">
                     <div class="button" style="width:69.3%; float:left;" onclick="order('playersStarted')">Unfinished</div>
-                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('StartedPercentage')">%</div>
+                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('startedPercentage')">%</div>
                 </td>
                 <td class="button" colspan="2" onclick="order('discountPercent')">Order By Sale %</td>
             </tr>
@@ -309,7 +309,7 @@
                 <td rowspan="2" class="button" onclick="order('playersTotal')">Order By Owners</td>
                 <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
                     <div class="button" style="width:69.3%; float:left;" onclick="order('playersStarted')">Unfinished</div>
-                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('StartedPercentage')">%</div>
+                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('startedPercentage')">%</div>
                 </td>
                 <td class="button" colspan="2" onclick="order('discountPercent')">Order By Sale %</td>
                 <td rowspan="2" class="button" colspan="2" onclick="order('platformId')">Order By Id</td>
@@ -1042,13 +1042,23 @@
                     }
                     else if(type == "completedPercentage")
                     {
-                        filteredData.sort((a,b) => a.playersStarted / a.playersTotal * 100 - (b.playersStarted / b.playersTotal * 100));
-                        filteredData.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
+                        var ownerless = filteredData.filter(obj => {return obj.playersTotal == 0})
+                        var owned = filteredData.filter(obj => {return obj.playersTotal != 0})
+
+                        owned.sort((a,b) => a.playersStarted / a.playersTotal * 100 - (b.playersStarted / b.playersTotal * 100));
+                        owned.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
+
+                        filteredData = ownerless.concat(owned);
                     }
                     else if(type == "startedPercentage")
                     {
-                        filteredData.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
-                        filteredData.sort((a,b) => a.playersStarted / a.playersTotal * 100 - (b.playersStarted / b.playersTotal * 100));
+                        var ownerless = filteredData.filter(obj => {return obj.playersTotal == 0})
+                        var owned = filteredData.filter(obj => {return obj.playersTotal != 0})
+
+                        owned.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));   
+                        owned.sort((a,b) => a.playersStarted / a.playersTotal * 100 - (b.playersStarted / b.playersTotal * 100));
+
+                        filteredData = ownerless.concat(owned);
                     }
                     else if(type == "userPoints" && searchableUserId != "")
                     {
