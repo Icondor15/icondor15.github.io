@@ -506,6 +506,7 @@
                     cellPosition.innerHTML = "#" + (keys.indexOf(filteredData[i]) + 1);
                     cellName.innerHTML = "<img style='height:50px; float:left;' src='" + userData[filteredData[i]]["avatar"] + "'> <span style='position:relative; top:17.5px;' id='tmp'>" + userData[filteredData[i]]["name"] + "</span>";
                     var p = document.getElementById("tmp");
+                    if(userData[filteredData[i]]["isAdmin"] == true) {p.innerHTML += " <b>(Moderator)</b>"}
                     p.setAttribute("onClick", "navigator.clipboard.writeText('" + userData[filteredData[i]]["name"] + "')");
                     p.classList.add('textCopyable');
                     p.title = "Click to copy the name to clipboard!";
