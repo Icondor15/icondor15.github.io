@@ -121,9 +121,9 @@
                                 <p style="margin: auto; padding-top: 15px; padding-bottom: 3px; font-size: 25px; font-weight: bold; text-align: center;">Filters</p>
                                 <sub class="subtitle">(All textboxes (Except the User Filter) search on every input so it might feel choppy!)</sub>
                                 <div style="margin: 10px auto 3px;">
-                                    <span class="button" style="width:125px; padding: 0px 10px; border:2px solid black;" onclick="location = location" >Reset All Filters</span><br>
+                                    <span class="button" style="width:125px; padding: 0px 10px; border:2px solid black;" onclick="window.location.href = 'filtercegames.html';" >Reset All Filters</span><br>
                                 </div>
-                                <sub class="subtitle">(Pls ignore that it just reloads the page)</sub>
+                                <sub class="subtitle">(Necessary to remove any User Filter from the User List!)</sub>
                             </td>
                         </tr>
                         <tr>
@@ -176,7 +176,6 @@
                                 <input  id="idToLink" type="checkbox" onchange="idToLink()">(IDs) Copy ID > Copy Link</input><br>
                                 <sub class="subtitle">(Useful to copy many links quickly)</sub><br>
                                 <input  id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
-                                <sub class="subtitle">(Yup, I finally added it.)</sub><br>
                                 <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub><br>
                             </td>
                         </tr>
@@ -235,7 +234,7 @@
                                 </div>
                             </td>
                             <td id="costFilter">
-                                <b>Cost:</b><br>
+                                <b>Price:</b><br>
                                 <input type="number" id="costLower" min="0" max="100000" onchange onpropertychange onkeyuponpaste oninput="changeCost()"></input>
                                 ≤ <b>x</b> ≤
                                 <input type="number" id="costHigher" min="0" max="100000" onchange onpropertychange onkeyuponpaste oninput="changeCost()"></input>
@@ -278,7 +277,8 @@
                     IDs<br>
                     <sub id="idStringTop" class="subtitle">(Click to copy the ID to clipboard!)</sub>
                 </td>
-                <td>Links</td>
+                <td>Links<br>
+                    <sub class="subtitle">(Opens in new tab!)</sub></td>
             </tr>
             <tr id="loading">
                 <td colspan="12">    
@@ -299,7 +299,8 @@
                     IDs<br>
                     <sub id="idStringBottom" class="subtitle">(Click to copy the ID to clipboard!)</sub>
                 </td>
-                <td>Links</td>
+                <td>Links<br>
+                    <sub class="subtitle">(Opens in new tab!)</sub></td>
             </tr>
             <tr>
                 <td rowspan="2" class="button" onclick="order('gameType')">Order By Platform</td>
@@ -360,12 +361,21 @@
             let searchableUserId = "";
             let useReverseOrder = false;
 
+            let reloadUnit = 250;
             let reloadMax = 0;
             let reloadCounter = 0;
-            let reloadUnit = 250;
             var generateLoop;
             
-            
+            if(window.location.href.includes("userFilter="))
+            {
+                useUserId = true;
+                document.getElementById("linkSelection").checked = false;
+                document.getElementById("idSelection").checked = true;
+                var idfk = window.location.href.indexOf("userFilter=");
+                document.getElementById("idTextbox").value = window.location.href.substring(idfk + 11, idfk + 10 + 37);
+                userSearch(true);
+            }
+
             order("points");
 
             function changePlatform()
@@ -1130,7 +1140,7 @@
 
                 var check = reloadUnit + (reloadUnit * reloadCounter);
 
-                if(reloadCounter == reloadMax -1)
+                if(reloadCounter >= reloadMax -1)
                 {
                     check = (filteredData.length % reloadUnit) + reloadUnit * reloadCounter;
                     document.getElementById("loadingText").innerHTML = "Table Loaded!";
@@ -1139,7 +1149,11 @@
 
                 for(let i = reloadUnit*reloadCounter; i < check; i++)
                 {
-                    var row1 = table.insertRow((i*2)+5);
+                    try
+                    {
+                        var row1 = table.insertRow((i*2)+5);
+                    }
+                    catch {break;}
                     row1.classList.add("replace");
                     var cellPlatform = row1.insertCell(0);
                     cellPlatform.rowSpan = 2;
