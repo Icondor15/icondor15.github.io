@@ -1,0 +1,652 @@
+<html>
+    <head>
+        <meta property="og:title" content="CE Users List" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://icondor15.github.io/CETools/filterceusers/filterceusers.html" />
+        <meta property="og:image" content="https://icondor15.github.io/CETools/filterceusers/favicon.png" />
+        <meta property="og:description" content="A website to quickly view and filter all the leaderboard users in the Challenge Enthusiasts website! - Made by Icondor." />
+        <meta name="theme-color" content="#232224">
+        
+        <title>CE Users List</title>
+        <link rel="icon" type="image/x-icon" href="favicon.png">
+        <style>
+            * {
+                font-family: 'Tahoma', Helvetica, sans-serif;
+                user-select:none;
+            }
+
+            table {
+                border:1px solid black;
+                font-size: 14px;
+            }
+            td {
+                border:2px solid black;
+            }
+
+            a {
+                text-decoration: none;
+            }
+            a:hover {
+                text-decoration: underline;
+            }
+
+            .button {
+                background-color: #dddddd;
+                padding: 0px;
+            }
+            .button:hover {
+                cursor:pointer;
+                background-color: #bbbbbb;
+            }
+            .button:active {
+                background-color: #888888;
+            }
+
+            .subtitle {
+                font-size: 10px;
+                color:#bbbbbb;
+            }
+
+            .scrollLink {
+                font-size:16px;
+                text-align: center;
+                margin: 5px auto;
+                width: 20%;
+            }
+            .scrollLink:hover {
+                cursor:pointer;
+                text-decoration: underline;
+            }
+
+            .textCopyable:hover {
+                cursor:pointer;
+                text-decoration: underline;
+            }
+            .textCopyable:active {
+                cursor:pointer;
+                text-decoration: underline 1.66px;
+            }
+
+            #secretLink {
+                user-select: none;
+                color:#d3ebe2;
+            }
+            #secretLink:hover {
+                color:#00de8c;
+            }
+            #secretLink:active {
+                color:#008a58;
+            }
+
+            input::-webkit-outer-spin-button,
+            input::-webkit-inner-spin-button {
+                -webkit-appearance: none;
+                margin: 0;
+            }
+            input[type=number] {
+                width: 50px;
+                appearance: textfield;
+                -moz-appearance: textfield;
+            }
+        </style>
+    </head>
+
+    <body style="background-color:#d3ebe2">
+        <div style="margin: 10px auto; text-align: center;">
+            <p style="font-size: 10px; font-weight:bold; margin-bottom:-10px;"><a href="../CETools.html"><<< Go back to CETools</a></p>
+            <p style="margin-bottom: 2px;">Made by <a href="https://x.com/CondorDraws" target=”_blank” style="font-weight: bold;">𝕏 CondorDraws <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
+                <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
+            </svg></a> / <a href="https://bsky.app/profile/icondor.bsky.social" target=”_blank” style="font-weight: bold;"> <svg fill="currentColor" height="14" icon-name="external-outline" viewBox="0 0 24 20" width="14" xmlns="http://www.w3.org/2000/svg">
+                <path id="shape0" transform="translate(0.429157225453458, 1.91122062657742)" fill-rule="evenodd" d="M11.0909 8.2934C6.86685 1.86682 3.50684 -0.81472 1.01084 0.248779C-1.40716 8.46128 0.51285 12.103 6.77086 11.1738C1.0687 11.7506 0.108703 13.9106 3.89086 17.6538C7.67302 21.3971 10.073 20.1969 11.0909 14.0534C12.1087 20.1966 14.5087 21.3961 18.2908 17.6529C22.073 13.9097 21.113 11.7497 15.4108 11.1729C21.6688 11.7054 23.5888 8.46128 21.1708 0.248779C18.6748 -0.814721 15.3148 1.4699 11.0909 8.2934Z" sodipodi:nodetypes="ccczczccc"/>
+            </svg> icondor.bsky.social <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
+                <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
+            </svg></a> / <b>@icondor</b> on Discord.</p>
+            <sub id="userDate">Last checked user database on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
+            <sub style="font-size: 10px;">(If any data changed while the search was ongoing (Unlikely but not impossible) it may be slightly inaccurate.)</sub>
+        </div>
+        <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, document.body.scrollHeight);"><b>vvv Move to bottom vvv</b></span></div>
+        <table id="MainTable" style="margin: auto; width: 100%; text-align: center; background-color:#ffffff;">
+            <tr>
+                <td colspan="12">    
+                    <p id="Count" style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Users: Loading...</p>
+                    <p id="loadingText" style="margin: -10px auto auto; font-size: 16px; font-weight: bold; text-align: center;">Loading Table...</p>
+                </td>
+            </tr>
+            <tr colspan="12">
+                <td colspan="12">
+                    <table style="margin: auto; width: 100%; text-align: center;">
+                        <tr>
+                            <td colspan="12">
+                                <p style="margin: auto; padding-top: 15px; padding-bottom: 3px; font-size: 25px; font-weight: bold; text-align: center;">Filters</p>
+                                <sub class="subtitle">(All textboxes search on every input so it might feel choppy!)</sub>
+                                <div style="margin: 10px auto 3px;">
+                                    <span class="button" style="width:125px; padding: 0px 10px; border:2px solid black;" onclick="location = location" >Reset All Filters</span><br>
+                                </div>
+                                <sub class="subtitle">(Pls ignore that it just reloads the page)</sub>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="nameFilter">
+                                <b>Name Contains:</b><br>
+                                <input type="text" id="nameFilterBox" autocomplete="off" onchange onpropertychange onkeyuponpaste oninput="searchName()" name="name"></input><br>
+                                <input type="checkbox" id="nameFilterCase" onclick="caseSensitive()">Case Sensitive</input>
+                            </td>
+                            <td id="extraFilter">
+                                <b>Extras & Non-Filters:</b><br>
+                                <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br><br>
+                                <input id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
+                                <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub><br>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td class="button" onclick="order('leader')">Order By Leaderboard</td>
+                <td class="button" onclick="order('name')">Order By Name</td>
+                <td class="button" onclick="order('rank')">Order By Rank</td>
+                <td class="button" onclick="order('points')">Order By Points</td>
+                <td class="button" onclick="order('games')">Order By Games</td>
+                <td colspan="4"></td>
+            </tr>
+            <tr style="font-weight: bold; user-select: none;">
+                <td>Position</td>
+                <td>
+                    Name<br>
+                    <sub class="subtitle">(Click to copy the name to clipboard!)</sub>
+                </td>
+                <td>Rank</td>
+                <td>Points</td>
+                <td>Games Owned</td>
+                <td>CE Info<br>
+                    <sub class="subtitle">(Click id to copy it to clipboard!)</sub></td>
+                <td>Steam Info<br>
+                    <sub class="subtitle">(Click id to copy it to clipboard!)</sub></td>
+                <td>RA Info<br>
+                    <sub class="subtitle">(Click name to copy it to clipboard!)</sub></td>
+                <td>'Filter By User' in Game List<br>
+                    <sub class="subtitle">(Opens in new tab!)</sub></td>
+            </tr>
+            <tr id="loading">
+                <td colspan="12">    
+                    <p style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Loading...</p>
+                </td>
+            </tr>
+            <tr style="font-weight: bold; user-select: none;">
+                <td>Position</td>
+                <td>
+                    Name<br>
+                    <sub class="subtitle">(Click to copy the name to clipboard!)</sub>
+                </td>
+                <td>Rank</td>
+                <td>Points</td>
+                <td>Games Owned</td>
+                <td>CE Info<br>
+                    <sub class="subtitle">(Click id to copy it to clipboard!)</sub></td>
+                <td>Steam Info<br>
+                    <sub class="subtitle">(Click id to copy it to clipboard!)</sub></td>
+                <td>RA Info<br>
+                    <sub class="subtitle">(Click name to copy it to clipboard!)</sub></td>
+                <td>'Filter By User' in Game List<br>
+                    <sub class="subtitle">(Opens in new tab!)</sub></td>
+            </tr>
+            <tr>
+                <td class="button" onclick="order('leader')">Order By Leaderboard</td>
+                <td class="button" onclick="order('name')">Order By Name</td>
+                <td class="button" onclick="order('rank')">Order By Rank</td>
+                <td class="button" onclick="order('points')">Order By Points</td>
+                <td class="button" onclick="order('games')">Order By Games</td>
+                <td colspan="4"></td>
+            </tr>
+        </table>
+        <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, 0);"><b>^^^ Move to top ^^^</b></span></div>
+        
+        <p style="font-size:7px; text-align:center;"><a id="secretLink" target="_blank" href="https://github.com/Icondor15/icondor15.github.io">Secret link to Github page!</a></p>
+
+        <script src="../formattedList.js"></script>
+        <script src="../formattedUserList.js"></script>
+
+        <script>
+            //upscroll on reload
+            window.onbeforeunload = function () {
+                window.scrollTo(0, 0);
+            }
+
+            //Date and time (less important)
+            document.getElementById("userDate").innerHTML = "Last checked user database on: <b>" + userDate["day"] + "/" + userDate["month"] + "/" + userDate["year"] + "</b> at <b>" + userDate["hour"] + ":" + userDate["minute"] + ":" + userDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(userDate["searchTime"], 2) + "</b> seconds.";
+
+            //Literally everything else (More Important)
+            let lastOrder = "points";
+            let keys = Object.keys(userData);
+            let filteredData = keys;
+
+            let exPlusList = ["992f86df-6327-47f7-ba0c-0212126c0aaf"];
+            //filter variables
+            let filterText = "";
+            let caseSensitivity = false;
+            let linkReplaceId = false;
+            let useReverseOrder = false;
+
+            let reloadMax = 0;
+            let reloadCounter = 0;
+            let reloadUnit = 250;
+            var generateLoop;
+            
+            order("leader");
+
+            function caseSensitive()
+            {
+                if(caseSensitivity == true) {caseSensitivity = false;}
+                else if(caseSensitivity == false) {caseSensitivity = true;}
+
+                if(document.getElementById("nameFilterBox").value != "") {searchName();}
+            }
+
+            function searchName()
+            {   
+                if(caseSensitivity)
+                {
+                    filterText = document.getElementById("nameFilterBox").value;
+                }
+                else
+                {
+                   filterText = document.getElementById("nameFilterBox").value.toUpperCase();
+                }
+                order(lastOrder);
+            }
+            
+            function idToLink()
+            {
+                if(linkReplaceId == true) {linkReplaceId = false;}
+                else if(linkReplaceId == false) {linkReplaceId = true;}
+                order(lastOrder);
+            }
+            function reverseOrder()
+            {
+                if(useReverseOrder == true) {useReverseOrder = false;}
+                else if(useReverseOrder == false) {useReverseOrder = true;}
+                order(lastOrder);
+            }
+
+            function filterData()
+            {
+                if(caseSensitivity)
+                {
+                    filteredData = keys.filter((val) => {return userData[val]["name"].includes(filterText)})
+                }
+                else
+                {
+                    filteredData = keys.filter((val) => {return userData[val]["name"].toUpperCase().includes(filterText)})
+                }
+            }
+
+            function order(type)
+            {
+                filteredData = keys;
+                filterData();
+                
+                //change last order
+                lastOrder = type;
+
+                if(type != "leader" || type != "points")
+                {
+                    if(type == "name")
+                    {
+                        filteredData.sort((a,b) => (userData[a]["name"].toUpperCase() > userData[b]["name"].toUpperCase()) ? 1 : ((userData[b]["name"].toUpperCase() > userData[a]["name"].toUpperCase()) ? -1 : 0));
+                    }
+                    else if(type == "rank")
+                    {
+                        for(let j = 0; j < exPlusList.length; j++)
+                        {
+                            if(filteredData.includes(exPlusList[j]))
+                            {
+                                filteredData.splice(filteredData.indexOf(exPlusList[j]), 1);
+                                filteredData.unshift(exPlusList[j]);
+                            }
+                        }
+                    }
+                    else if(type == "games")
+                    {
+                        filteredData.sort(compare);
+                        function compare(a, b)
+                        {
+                            var searchIds = Object.keys(userData[a]["gamesPoints"]);
+                            var gamesOwned = searchIds.length + userData[a]["gamesNoPoints"].length;
+
+                            a = gamesOwned;
+
+                            searchIds = Object.keys(userData[b]["gamesPoints"]);
+                            gamesOwned = searchIds.length + userData[b]["gamesNoPoints"].length;
+
+                            b = gamesOwned;
+
+                            if(a > b) {return 1}
+                            if(b > a) {return -1}
+                            return 0;
+                        }
+                    }
+                }
+                /*
+                if(type != "name")
+                {
+                    if(type == "gameType")
+                    {
+                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+
+                        var steamGames = filteredData.filter(obj => {return obj.gameType < 3})
+                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+                        var BrokenGames = filteredData.filter(obj => {return obj.gameType == 4})
+
+                        filteredData = steamGames.concat(BrokenGames, RAGames);
+                    }
+                    else if(type == "playersCompleted")
+                    {
+                        filteredData.sort((a,b) => (a["playersStarted"] > b["playersStarted"]) ? 1 : ((b["playersStarted"] > a["playersStarted"]) ? -1 : 0));
+                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+                    }
+                    else if(type == "playersStarted")
+                    {
+                        filteredData.sort((a,b) => (a["playersCompleted"] > b["playersCompleted"]) ? 1 : ((b["playersCompleted"] > a["playersCompleted"]) ? -1 : 0));
+                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+                    }
+                    else if(type == "final")
+                    {
+                        var paid = filteredData.filter(obj => {return obj.gameType == 0})
+                        var nonPaid = filteredData.filter(obj => {return (obj.gameType > 0 && obj.gameType < 3) || obj.gameType == 4})
+                        var RA = filteredData.filter(obj => {return obj.gameType == 3})
+                        var functional = paid.filter(obj => {return activeCurrency in obj.priceData})
+                        functional.sort((a,b) => (a["priceData"][activeCurrency][type] > b["priceData"][activeCurrency][type]) ? 1 : ((b["priceData"][activeCurrency][type] > a["priceData"][activeCurrency][type]) ? -1 : 0));
+
+                        nonPaid.sort((a,b) => (a["gameType"] > b["gameType"]) ? 1 : ((b["gameType"] > a["gameType"]) ? -1 : 0));
+
+                        filteredData = nonPaid.concat(RA, functional);
+
+                    }
+                    else if(type == "discountPercent")
+                    {
+                        var paid = filteredData.filter(obj => {return obj.gameType == 0})
+                        var nonPaid = filteredData.filter(obj => {return (obj.gameType > 0 && obj.gameType < 3) || obj.gameType == 4})
+                        var RA = filteredData.filter(obj => {return obj.gameType == 3})
+                        var functional = paid.filter(obj => {return activeCurrency in obj.priceData})
+
+                        functional.sort((a,b) => (a["priceData"][activeCurrency]["final"] < b["priceData"][activeCurrency]["final"]) ? 1 : ((b["priceData"][activeCurrency]["final"] < a["priceData"][activeCurrency]["final"]) ? -1 : 0));
+
+                        functional.sort((a,b) => (a["priceData"][activeCurrency][type] > b["priceData"][activeCurrency][type]) ? 1 : ((b["priceData"][activeCurrency][type] > a["priceData"][activeCurrency][type]) ? -1 : 0));
+
+                        functional.reverse();
+
+                        nonPaid.sort((a,b) => (a["gameType"] > b["gameType"]) ? 1 : ((b["gameType"] > a["gameType"]) ? -1 : 0));
+
+                        filteredData = nonPaid.concat(RA, functional);
+
+                    }
+                    else if(type == "platformId")
+                    {
+                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+
+                        var steamGames = filteredData.filter(obj => {return obj.gameType < 3})
+                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+                        var BrokenGames = filteredData.filter(obj => {return obj.gameType == 4})
+
+                        filteredData = steamGames.concat(RAGames, BrokenGames);
+                    }
+                    else if(type == "completedPercentage")
+                    {
+                        filteredData.sort((a,b) => a.playersStarted / a.playersTotal * 100 - (b.playersStarted / b.playersTotal * 100));
+                        filteredData.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
+                    }
+                    else if(type == "startedPercentage")
+                    {
+                        filteredData.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
+                        filteredData.sort((a,b) => a.playersStarted / a.playersTotal * 100 - (b.playersStarted / b.playersTotal * 100));
+                    }
+                    else if(type == "userPoints" && searchableUserId != "")
+                    {
+                        var searchIds = Object.keys(userData[searchableUserId]["gamesPoints"]);
+
+                        filteredData.reverse();
+
+                        filteredData.sort(compare);
+
+                        function compare(a, b) {
+                            var val1 = 0;
+                            var val2 = 0;
+
+                            for(let j = 0; j < searchIds.length; j++)
+                            {
+                                if(a["CEId"] == searchIds[j])
+                                {
+                                    val1 = userData[searchableUserId]["gamesPoints"][searchIds[j]]["points"];
+                                    break;
+                                }
+                            }
+
+                            for(let k = 0; k < searchIds.length; k++)
+                            {
+                                if(b["CEId"] == searchIds[k])
+                                {
+                                    val2 = userData[searchableUserId]["gamesPoints"][searchIds[k]]["points"];
+                                    break;
+                                }
+                            }
+                            if ( val1 < val2 ){
+                                return -1;
+                            }
+                            if (val1 > val2){
+                                return 1;
+                            }
+                            return 0;
+                            }
+                            
+                        filteredData.reverse();
+                    }
+                    else
+                    {
+                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
+                    }
+                }*/
+
+                if(useReverseOrder == true) {filteredData.reverse()}
+
+                reloadCounter = 0;
+                reloadMax = (filteredData.length - (filteredData.length % reloadUnit))/ reloadUnit + 1;
+                document.getElementById("loadingText").innerHTML = "Loading Table...";
+                
+                generateLoop = setInterval(generateTable, 1);
+            }
+
+            function generateTable()
+            {
+                if(document.getElementById("loading") != null) {document.getElementById("loading").remove()}
+                var table = document.getElementById("MainTable");
+
+                if(reloadCounter == 0)
+                {
+                    var replace = document.getElementsByClassName("replace");
+                    document.querySelectorAll('.replace').forEach(e => e.remove());
+                }
+
+                document.getElementById("Count").innerHTML = "Filtered Challenge Enthusiasts Users: " + filteredData.length;
+
+                var check = reloadUnit + (reloadUnit * reloadCounter);
+
+                if(reloadCounter == reloadMax -1)
+                {
+                    check = (filteredData.length % reloadUnit) + reloadUnit * reloadCounter;
+                    document.getElementById("loadingText").innerHTML = "Table Loaded!";
+                    clearInterval(generateLoop);
+                }
+
+                for(let i = reloadUnit*reloadCounter; i < check; i++)
+                {
+                    var row1 = table.insertRow((i*2)+4);
+                    row1.classList.add("replace");
+                    var cellPosition = row1.insertCell(0);
+                    cellPosition.rowSpan = 2;
+                    var cellName = row1.insertCell(1);
+                    cellName.rowSpan = 2;
+                    var cellRank = row1.insertCell(2);
+                    cellRank.rowSpan = 2;
+                    var cellPoints = row1.insertCell(3);
+                    cellPoints.rowSpan = 2;
+                    var cellGames = row1.insertCell(4);
+                    cellGames.rowSpan = 2;
+                    var cellCEID = row1.insertCell(5);
+                    var cellSteamID = row1.insertCell(6);
+                    var cellRAID = row1.insertCell(7);
+                    var cellFilter = row1.insertCell(8);
+                    cellFilter.rowSpan = 2;
+
+                    var row2 = table.insertRow(((i+1)*2)+3);
+                    row2.classList.add("replace");
+                    var cellCELink = row2.insertCell(0);
+                    var cellSteamLink = row2.insertCell(1);
+                    var cellRALink = row2.insertCell(2);
+
+                    cellPosition.innerHTML = "#" + (keys.indexOf(filteredData[i]) + 1);
+                    cellName.innerHTML = "<img style='height:50px; float:left;' src='" + userData[filteredData[i]]["avatar"] + "'> <span style='position:relative; top:17.5px;' id='tmp'>" + userData[filteredData[i]]["name"] + "</span>";
+                    var p = document.getElementById("tmp");
+                    p.setAttribute("onClick", "navigator.clipboard.writeText('" + userData[filteredData[i]]["name"] + "')");
+                    p.classList.add('textCopyable');
+                    p.title = "Click to copy the name to clipboard!";
+                    p.id = null;
+
+                    var searchIds = Object.keys(userData[filteredData[i]]["gamesPoints"]);
+
+                    var gamesOwned = searchIds.length + userData[filteredData[i]]["gamesNoPoints"].length;
+                    var pointSum = 0;
+
+                    for(let j = 0; j < searchIds.length; j++)
+                    {
+                        pointSum += userData[filteredData[i]]["gamesPoints"][searchIds[j]]["points"];
+                    }
+
+                    cellRank.innerHTML = "E";
+                    cellRank.style.backgroundColor = "#979C9F99";
+                    if(pointSum >= 50)
+                    {
+                        cellRank.innerHTML = "D";
+                        cellRank.style.backgroundColor = "#905F0099";
+                    }
+                    if(pointSum >= 250)
+                    {
+                        cellRank.innerHTML = "C";
+                        cellRank.style.backgroundColor = "#2ecc7199";
+                    }
+                    if(pointSum >= 500)
+                    {
+                        cellRank.innerHTML = "B";
+                        cellRank.style.backgroundColor = "#3498db99";
+                        cellRank.style.color = "#FFFFFF";
+                    }
+                    if(pointSum >= 1000)
+                    {
+                        cellRank.innerHTML = "A";
+                        cellRank.style.backgroundColor = "#9b59b699";
+                    }
+                    if(pointSum >= 2500)
+                    {
+                        cellRank.innerHTML = "<b>S</b>";
+                        cellRank.style.backgroundColor = "#e67e2299";
+                        cellRank.style.color = "#000000";
+                    }
+                    if(pointSum >= 5000)
+                    {
+                        cellRank.innerHTML = "<b>SS</b>";
+                        cellRank.style.backgroundColor = "#f1c40f99";
+                    }
+                    if(pointSum >= 7500)
+                    {
+                        cellRank.innerHTML = "<b>SSS</b>";
+                        cellRank.style.backgroundColor = "#e74c3c99";
+                        cellRank.style.color = "#FFFFFF";
+                    }
+                    if(pointSum >= 10000)
+                    {
+                        cellRank.innerHTML = "<b>EX</b>";
+                        cellRank.style.backgroundColor = "#44444499";
+                    }
+                    if(exPlusList.includes(filteredData[i]))
+                    {
+                        cellRank.innerHTML = "<b>EX+</b>";
+                        cellRank.style.backgroundColor = "#FFFFFF99";
+                        cellRank.style.color = "#000000";
+                    }
+                    
+                    cellPoints.innerHTML = pointSum;
+                    cellGames.innerHTML = gamesOwned;
+
+                    cellCEID.innerHTML = "<span id='tmpCEID'>" + filteredData[i] + "</span>";
+                    var p = document.getElementById("tmpCEID");
+                    p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i] + "')");
+                    p.classList.add('textCopyable');
+                    p.title = "Click to copy the Challenge Enthusiasts ID to clipboard!";
+                    p.id = null;
+                    cellCELink.innerHTML = "<a id='tmpCELink' target='_blank' style='font-weight: bold; color:#000000'>Challenge Enthusiasts Profile</a>";
+                    var a = document.getElementById("tmpCELink");
+                    a.href = "https://cedb.me/user/" + filteredData[i];
+                    a.id = null;
+
+                    cellSteamID.innerHTML = "<span id='tmpSteamID'>" + userData[filteredData[i]]["steamId"] + "</span>";
+                    var p = document.getElementById("tmpSteamID");
+                    if(userData[filteredData[i]]["steamId"] != "N/A")
+                    {
+                        p.setAttribute("onClick", "navigator.clipboard.writeText('" + userData[filteredData[i]]["steamId"] + "')");
+                        p.classList.add('textCopyable');
+                        p.title = "Click to copy the Steam ID to clipboard!";
+                        cellSteamLink.innerHTML = "<a id='tmpSteamLink' target='_blank' style='font-weight: bold; color:#1D88C7'>Steam Profile</a>";
+                        var a = document.getElementById("tmpSteamLink");
+                        a.href = "https://steamcommunity.com/profiles/" + userData[filteredData[i]]["steamId"];
+                        a.id = null;
+                    }
+                    else {
+                        cellSteamID.style.backgroundColor = "#00000044";
+                        cellSteamLink.innerHTML = "<b>N/A</b>";
+                        cellSteamLink.style.backgroundColor = "#00000044";
+                    }
+                    p.id = null;
+
+                    cellRAID.innerHTML = "<span id='tmpRAID'>" + userData[filteredData[i]]["retroId"] + "</span>";
+                    var p = document.getElementById("tmpRAID");
+                    if(userData[filteredData[i]]["retroId"] != "N/A")
+                    {
+                        p.setAttribute("onClick", "navigator.clipboard.writeText('" + userData[filteredData[i]]["retroId"] + "')");
+                        p.classList.add('textCopyable');
+                        p.title = "Click to copy the Retro Achievements name to clipboard!";
+                        cellRALink.innerHTML = "<a id='tmpRALink' target='_blank' style='color: #444444'><b style='color:#0F66DB'>Retro</b><b style='color:#eDB507'>Achievements</b> <b>Profile</b></a>";
+                        var a = document.getElementById("tmpRALink");
+                        a.href = "https://retroachievements.org/user/" + userData[filteredData[i]]["retroId"];
+                        a.id = null;
+                    }
+                    else {
+                        cellRAID.style.backgroundColor = "#00000044";
+                        cellRALink.innerHTML = "<b>N/A</b>";
+                        cellRALink.style.backgroundColor = "#00000044";
+                    }
+                    p.id = null;
+
+                    cellFilter.innerHTML = "<a style='color:#000000;' target='_blank' href='../filtercegames/filtercegames.html?userFilter=" + filteredData[i] + "'><b>View Games</b></a>";
+
+                    if(i%2 == 0)
+                    {
+                        row1.style.backgroundColor = "#dddddd";
+                        row2.style.backgroundColor = "#dddddd";
+                    }
+                    else
+                    {
+                        row1.style.backgroundColor = "#c3c3c3";
+                        row2.style.backgroundColor = "#c3c3c3";
+                    }
+                }
+
+                reloadCounter += 1;
+            }
+            
+        //Function to truncate numbers
+        function toFixed(num, fixed) {
+            var re = new RegExp('^-?\\d+(?:\.\\d{0,' + (fixed || -1) + '})?');
+            return num.toString().match(re)[0];
+        }
+        </script>
+    </body>
+</html>
