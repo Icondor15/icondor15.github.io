@@ -3309,33 +3309,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1299,
-                "final": 454,
-                "discountPercent": 65
+                "final": 1299,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1079,
-                "final": 377,
-                "discountPercent": 65
+                "final": 1079,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1029,
-                "final": 360,
-                "discountPercent": 65
+                "final": 1029,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 132000,
-                "final": 46200,
-                "discountPercent": 65
+                "final": 132000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1850,
-                "final": 647,
-                "discountPercent": 65
+                "final": 1850,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1449,
-                "final": 507,
-                "discountPercent": 65
+                "final": 1449,
+                "discountPercent": 0
             }
         }
     },
@@ -7845,7 +7845,7 @@ var data =
         "tier": 5,
         "points": 250,
         "playersCompleted": 66,
-        "playersStarted": 554,
+        "playersStarted": 555,
         "playersTotal": 1451,
         "priceData": {
             "USD": {
@@ -13409,7 +13409,7 @@ var data =
         "points": 15,
         "playersCompleted": 161,
         "playersStarted": 0,
-        "playersTotal": 621,
+        "playersTotal": 622,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -32966,34 +32966,34 @@ var data =
         "playersTotal": 363,
         "priceData": {
             "USD": {
-                "initial": 2499,
-                "final": 624,
-                "discountPercent": 75
+                "initial": 4849,
+                "final": 969,
+                "discountPercent": 80
             },
             "EUR": {
-                "initial": 2299,
-                "final": 574,
-                "discountPercent": 75
+                "initial": 4249,
+                "final": 849,
+                "discountPercent": 80
             },
             "GBP": {
-                "initial": 1999,
-                "final": 499,
-                "discountPercent": 75
+                "initial": 3699,
+                "final": 739,
+                "discountPercent": 80
             },
             "JPY": {
-                "initial": 257000,
-                "final": 64200,
-                "discountPercent": 75
+                "initial": 499500,
+                "final": 99900,
+                "discountPercent": 80
             },
             "AUD": {
-                "initial": 3595,
-                "final": 898,
-                "discountPercent": 75
+                "initial": 6999,
+                "final": 1399,
+                "discountPercent": 80
             },
             "CAD": {
-                "initial": 2899,
-                "final": 724,
-                "discountPercent": 75
+                "initial": 5499,
+                "final": 1099,
+                "discountPercent": 80
             }
         }
     },
@@ -34489,8 +34489,8 @@ var data =
         "CEId": "bd8772bd-8508-402f-b77c-debfca28a48b",
         "name": "Planet Cube: Edge",
         "genre": "Platformer",
-        "tier": 1,
-        "points": 12,
+        "tier": 4,
+        "points": 95,
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 19,
@@ -42089,7 +42089,7 @@ var data =
         "tier": 4,
         "points": 80,
         "playersCompleted": 40,
-        "playersStarted": 145,
+        "playersStarted": 146,
         "playersTotal": 784,
         "priceData": {
             "USD": {
@@ -59710,8 +59710,8 @@ var data =
         "CEId": "77b612a2-6123-4ada-9709-6bc6edda468f",
         "name": "Battle Kid: Fortress of Peril",
         "genre": "Platformer",
-        "tier": 2,
-        "points": 36,
+        "tier": 5,
+        "points": 210,
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 3
@@ -60790,8 +60790,8 @@ var date =
     "day": 18,
     "month": 11,
     "year": 2024,
-    "hour": 14,
-    "minute": 20,
-    "second": 16,
-    "searchTime": 400.1521816253662
+    "hour": 18,
+    "minute": 31,
+    "second": 46,
+    "searchTime": 405.8958978652954
 }
