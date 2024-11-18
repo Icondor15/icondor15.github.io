@@ -10602,8 +10602,8 @@ var data =
         "tier": 2,
         "points": 30,
         "playersCompleted": 4,
-        "playersStarted": 185,
-        "playersTotal": 422,
+        "playersStarted": 186,
+        "playersTotal": 423,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -43706,7 +43706,7 @@ var data =
         "genre": "Platformer",
         "tier": 3,
         "points": 40,
-        "playersCompleted": 84,
+        "playersCompleted": 85,
         "playersStarted": 0,
         "playersTotal": 581,
         "priceData": {
@@ -46429,7 +46429,7 @@ var data =
         "genre": "Arcade",
         "tier": 2,
         "points": 20,
-        "playersCompleted": 394,
+        "playersCompleted": 395,
         "playersStarted": 0,
         "playersTotal": 901,
         "priceData": {
@@ -52224,7 +52224,7 @@ var data =
         "points": 40,
         "playersCompleted": 8,
         "playersStarted": 2,
-        "playersTotal": 25,
+        "playersTotal": 26,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -59006,7 +59006,7 @@ var data =
         "points": 15,
         "playersCompleted": 89,
         "playersStarted": 0,
-        "playersTotal": 445
+        "playersTotal": 446
     },
     {
         "gameType": 1,
@@ -60790,8 +60790,8 @@ var date =
     "day": 18,
     "month": 11,
     "year": 2024,
-    "hour": 9,
-    "minute": 1,
-    "second": 40,
-    "searchTime": 395.9962430000305
+    "hour": 14,
+    "minute": 20,
+    "second": 16,
+    "searchTime": 400.1521816253662
 }
