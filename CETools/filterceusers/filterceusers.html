@@ -479,7 +479,11 @@
 
                 for(let i = reloadUnit*reloadCounter; i < check; i++)
                 {
-                    var row1 = table.insertRow((i*2)+4);
+                    try
+                    {
+                        var row1 = table.insertRow((i*2)+4);
+                    }
+                    catch {break;}
                     row1.classList.add("replace");
                     var cellPosition = row1.insertCell(0);
                     cellPosition.rowSpan = 2;
