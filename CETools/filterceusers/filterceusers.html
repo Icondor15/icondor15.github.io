@@ -110,6 +110,7 @@
                 <td colspan="12">    
                     <p id="Count" style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Users: Loading...</p>
                     <p id="loadingText" style="margin: -10px auto auto; font-size: 16px; font-weight: bold; text-align: center;">Loading Table...</p>
+                    <sub style="margin-top: -10px;" class="subtitle">(Only shows leaderboard members!)</sub>
                 </td>
             </tr>
             <tr colspan="12">
@@ -134,6 +135,8 @@
                             <td id="extraFilter">
                                 <b>Extras & Non-Filters:</b><br>
                                 <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br><br>
+                                <input id="staffOnly" type="checkbox" onchange="staffOnly()">Staff Only</input><br>
+                                <sub class="subtitle">(Show only members of staff)</sub><br>
                                 <input id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
                                 <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub><br>
                             </td>
@@ -226,6 +229,7 @@
             let caseSensitivity = false;
             let linkReplaceId = false;
             let useReverseOrder = false;
+            let useStaffOnly = false;
 
             let reloadMax = 0;
             let reloadCounter = 0;
@@ -267,6 +271,12 @@
                 else if(useReverseOrder == false) {useReverseOrder = true;}
                 order(lastOrder);
             }
+            function staffOnly()
+            {
+                if(useStaffOnly == true) {useStaffOnly = false;}
+                else if(useStaffOnly == false) {useStaffOnly = true;}
+                order(lastOrder);
+            }
 
             function filterData()
             {
@@ -277,6 +287,11 @@
                 else
                 {
                     filteredData = keys.filter((val) => {return userData[val]["name"].toUpperCase().includes(filterText)})
+                }
+
+                if(useStaffOnly)
+                {
+                    filteredData = filteredData.filter((val) => {return Object.keys(userData[val]).includes("userGroups")})
                 }
             }
 
@@ -510,7 +525,13 @@
                     cellPosition.innerHTML = "#" + (keys.indexOf(filteredData[i]) + 1);
                     cellName.innerHTML = "<img style='height:50px; float:left;' src='" + userData[filteredData[i]]["avatar"] + "'> <span style='position:relative; top:17.5px;' id='tmp'>" + userData[filteredData[i]]["name"] + "</span>";
                     var p = document.getElementById("tmp");
-                    if(userData[filteredData[i]]["isAdmin"] == true) {p.innerHTML += " <b>(Moderator)</b>"}
+                    if(Object.keys(userData[filteredData[i]]).includes("userGroups"))
+                    {
+                        for(let k = 0; k < Object.keys(userData[filteredData[i]]["userGroups"]).length; k++)
+                        {
+                            p.innerHTML += " <b style='color: " + userData[filteredData[i]]["userGroups"][Object.keys(userData[filteredData[i]]["userGroups"])[k]]["color"] + "'>(" + Object.keys(userData[filteredData[i]]["userGroups"])[k] + ")</b>";
+                        }
+                    }
                     p.setAttribute("onClick", "navigator.clipboard.writeText('" + userData[filteredData[i]]["name"] + "')");
                     p.classList.add('textCopyable');
                     p.title = "Click to copy the name to clipboard!";
