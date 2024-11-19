@@ -107,17 +107,17 @@
         <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, document.body.scrollHeight);"><b>vvv Move to bottom vvv</b></span></div>
         <table id="MainTable" style="margin: auto; width: 100%; text-align: center; background-color:#ffffff;">
             <tr>
-                <td colspan="12">    
+                <td colspan="14">    
                     <p id="Count" style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Users: Loading...</p>
                     <p id="loadingText" style="margin: -10px auto auto; font-size: 16px; font-weight: bold; text-align: center;">Loading Table...</p>
                     <sub style="margin-top: -10px;" class="subtitle">(Only shows leaderboard members!)</sub>
                 </td>
             </tr>
-            <tr colspan="12">
-                <td colspan="12">
+            <tr colspan="14">
+                <td colspan="14">
                     <table style="margin: auto; width: 100%; text-align: center;">
                         <tr>
-                            <td colspan="12">
+                            <td colspan="14">
                                 <p style="margin: auto; padding-top: 15px; padding-bottom: 3px; font-size: 25px; font-weight: bold; text-align: center;">Filters</p>
                                 <sub class="subtitle">(All textboxes search on every input so it might feel choppy!)</sub>
                                 <div style="margin: 10px auto 3px;">
@@ -145,61 +145,83 @@
                 </td>
             </tr>
             <tr>
-                <td class="button" onclick="order('leader')">Order By Leaderboard</td>
+                <td></td>
                 <td class="button" onclick="order('name')">Order By Name</td>
                 <td class="button" onclick="order('rank')">Order By Rank</td>
-                <td class="button" onclick="order('points')">Order By Points</td>
+                <td colspan="2" class="button" onclick="order('points')">Order By Points</td>
+                <td colspan="2" class="button" onclick="order('skill')">Order By CE Rating</td>
+                <td colspan="2" class="button" onclick="order('completions')">Order By Completions</td>
                 <td class="button" onclick="order('games')">Order By Games</td>
-                <td colspan="4"></td>
+                <td colspan="4">
+                    <sub class="subtitle">(Click any of the IDs or names to copy them to the clipboard!)</sub><br>
+                    <sub class="subtitle">(All of the links open in a new tab!)</sub>
+                </td>
             </tr>
-            <tr style="font-weight: bold; user-select: none;">
-                <td>Position</td>
-                <td>
+            <tr style="font-weight: bold;">
+                <td rowspan="2">PFP</td>
+                <td rowspan="2">
                     Name<br>
                     <sub class="subtitle">(Click to copy the name to clipboard!)</sub>
                 </td>
-                <td>Rank</td>
-                <td>Points</td>
-                <td>Games Owned</td>
-                <td>CE Info<br>
-                    <sub class="subtitle">(Click id to copy it to clipboard!)</sub></td>
-                <td>Steam Info<br>
-                    <sub class="subtitle">(Click id to copy it to clipboard!)</sub></td>
-                <td>RA Info<br>
-                    <sub class="subtitle">(Click name to copy it to clipboard!)</sub></td>
-                <td>'Filter By User' in Game List<br>
-                    <sub class="subtitle">(Opens in new tab!)</sub></td>
+                <td rowspan="2">Rank</td>
+                <td colspan="2">Points</td>
+                <td colspan="2">CE Rating</td>
+                <td colspan="2">Completions</td>
+                <td rowspan="2">Games Owned</td>
+                <td rowspan="2">CE Info</td>
+                <td rowspan="2">Steam Info</td>
+                <td rowspan="2">RA Info</td>
+                <td rowspan="2">'Filter By User' in Game List</td>
+            </tr>
+            <tr style="font-weight: bold;">
+                <td>LB</td>
+                <td>Score</td>
+                <td>LB</td>
+                <td>Score</td>
+                <td>LB</td>
+                <td>Count</td>
             </tr>
             <tr id="loading">
-                <td colspan="12">    
+                <td colspan="14">    
                     <p style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Loading...</p>
                 </td>
             </tr>
-            <tr style="font-weight: bold; user-select: none;">
-                <td>Position</td>
-                <td>
+            <tr style="font-weight: bold;">
+                <td rowspan="2">PFP</td>
+                <td rowspan="2">
                     Name<br>
                     <sub class="subtitle">(Click to copy the name to clipboard!)</sub>
                 </td>
-                <td>Rank</td>
-                <td>Points</td>
-                <td>Games Owned</td>
-                <td>CE Info<br>
-                    <sub class="subtitle">(Click id to copy it to clipboard!)</sub></td>
-                <td>Steam Info<br>
-                    <sub class="subtitle">(Click id to copy it to clipboard!)</sub></td>
-                <td>RA Info<br>
-                    <sub class="subtitle">(Click name to copy it to clipboard!)</sub></td>
-                <td>'Filter By User' in Game List<br>
-                    <sub class="subtitle">(Opens in new tab!)</sub></td>
+                <td rowspan="2">Rank</td>
+                <td>LB</td>
+                <td>Score</td>
+                <td>LB</td>
+                <td>Score</td>
+                <td>LB</td>
+                <td>Count</td>
+                <td rowspan="2">Games Owned</td>
+                <td rowspan="2">CE Info</td>
+                <td rowspan="2">Steam Info</td>
+                <td rowspan="2">RA Info</td>
+                <td rowspan="2">'Filter By User' in Game List</td>
+            </tr>
+            <tr style="font-weight: bold;">
+                <td colspan="2">Points</td>
+                <td colspan="2">CE Rating</td>
+                <td colspan="2">Completions</td>
             </tr>
             <tr>
-                <td class="button" onclick="order('leader')">Order By Leaderboard</td>
+                <td></td>
                 <td class="button" onclick="order('name')">Order By Name</td>
                 <td class="button" onclick="order('rank')">Order By Rank</td>
-                <td class="button" onclick="order('points')">Order By Points</td>
+                <td colspan="2" class="button" onclick="order('points')">Order By Points</td>
+                <td colspan="2" class="button" onclick="order('skill')">Order By CE Rating</td>
+                <td colspan="2" class="button" onclick="order('completions')">Order By Completions</td>
                 <td class="button" onclick="order('games')">Order By Games</td>
-                <td colspan="4"></td>
+                <td colspan="4">
+                    <sub class="subtitle">(Click any of the IDs or names to copy them to the clipboard!)</sub><br>
+                    <sub class="subtitle">(All of the links open in a new tab!)</sub>
+                </td>
             </tr>
         </table>
         <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, 0);"><b>^^^ Move to top ^^^</b></span></div>
@@ -220,7 +242,7 @@
 
             //Literally everything else (More Important)
             let lastOrder = "points";
-            let keys = Object.keys(userData);
+            let keys = Object.keys(userData); //also acts as point leaderboard order
             let filteredData = keys;
 
             let exPlusList = ["992f86df-6327-47f7-ba0c-0212126c0aaf"];
@@ -236,7 +258,7 @@
             let reloadUnit = 250;
             var generateLoop;
             
-            order("leader");
+            order("points");
 
             function caseSensitive()
             {
@@ -282,16 +304,16 @@
             {
                 if(caseSensitivity)
                 {
-                    filteredData = keys.filter((val) => {return userData[val]["name"].includes(filterText)})
+                    filteredData = keys.filter(val => {return userData[val]["name"].includes(filterText)})
                 }
                 else
                 {
-                    filteredData = keys.filter((val) => {return userData[val]["name"].toUpperCase().includes(filterText)})
+                    filteredData = keys.filter(val => {return userData[val]["name"].toUpperCase().includes(filterText)})
                 }
 
                 if(useStaffOnly)
                 {
-                    filteredData = filteredData.filter((val) => {return Object.keys(userData[val]).includes("userGroups")})
+                    filteredData = filteredData.filter(val => {return Object.keys(userData[val]).includes("userGroups")})
                 }
             }
 
@@ -303,7 +325,7 @@
                 //change last order
                 lastOrder = type;
 
-                if(type != "leader" || type != "points")
+                if(type != "points")
                 {
                     if(type == "name")
                     {
@@ -319,6 +341,22 @@
                                 filteredData.unshift(exPlusList[j]);
                             }
                         }
+                    }
+                    else if(type == "skill")
+                    {
+                        filteredData.sort((a,b) => (userData[a]["skill"]["rank"] > userData[b]["skill"]["rank"]) ? 1 : ((userData[b]["skill"]["rank"] > userData[a]["skill"]["rank"]) ? -1 : 0));
+                    }
+                    else if(type == "completions")
+                    {
+                        hasCompletions = filteredData.filter(val => {return "completions" in userData[val]})
+                        noCompletions = filteredData.filter(val => {return !("completions" in userData[val])})
+
+                        hasCompletions.sort((a,b) => (userData[a]["completions"]["rank"] < userData[b]["completions"]["rank"]) ? 1 : ((userData[b]["completions"]["rank"] < userData[a]["completions"]["rank"]) ? -1 : 0));
+
+                        noCompletions.sort((a,b) => (userData[a]["points"] > userData[b]["points"]) ? 1 : ((userData[b]["points"] > userData[a]["points"]) ? -1 : 0));
+
+                        filteredData = noCompletions.concat(hasCompletions);
+                        filteredData.reverse();
                     }
                     else if(type == "games")
                     {
@@ -339,127 +377,9 @@
                             if(b > a) {return -1}
                             return 0;
                         }
+                        filteredData.reverse();
                     }
                 }
-                /*
-                if(type != "name")
-                {
-                    if(type == "gameType")
-                    {
-                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
-
-                        var steamGames = filteredData.filter(obj => {return obj.gameType < 3})
-                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
-                        var BrokenGames = filteredData.filter(obj => {return obj.gameType == 4})
-
-                        filteredData = steamGames.concat(BrokenGames, RAGames);
-                    }
-                    else if(type == "playersCompleted")
-                    {
-                        filteredData.sort((a,b) => (a["playersStarted"] > b["playersStarted"]) ? 1 : ((b["playersStarted"] > a["playersStarted"]) ? -1 : 0));
-                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
-                    }
-                    else if(type == "playersStarted")
-                    {
-                        filteredData.sort((a,b) => (a["playersCompleted"] > b["playersCompleted"]) ? 1 : ((b["playersCompleted"] > a["playersCompleted"]) ? -1 : 0));
-                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
-                    }
-                    else if(type == "final")
-                    {
-                        var paid = filteredData.filter(obj => {return obj.gameType == 0})
-                        var nonPaid = filteredData.filter(obj => {return (obj.gameType > 0 && obj.gameType < 3) || obj.gameType == 4})
-                        var RA = filteredData.filter(obj => {return obj.gameType == 3})
-                        var functional = paid.filter(obj => {return activeCurrency in obj.priceData})
-                        functional.sort((a,b) => (a["priceData"][activeCurrency][type] > b["priceData"][activeCurrency][type]) ? 1 : ((b["priceData"][activeCurrency][type] > a["priceData"][activeCurrency][type]) ? -1 : 0));
-
-                        nonPaid.sort((a,b) => (a["gameType"] > b["gameType"]) ? 1 : ((b["gameType"] > a["gameType"]) ? -1 : 0));
-
-                        filteredData = nonPaid.concat(RA, functional);
-
-                    }
-                    else if(type == "discountPercent")
-                    {
-                        var paid = filteredData.filter(obj => {return obj.gameType == 0})
-                        var nonPaid = filteredData.filter(obj => {return (obj.gameType > 0 && obj.gameType < 3) || obj.gameType == 4})
-                        var RA = filteredData.filter(obj => {return obj.gameType == 3})
-                        var functional = paid.filter(obj => {return activeCurrency in obj.priceData})
-
-                        functional.sort((a,b) => (a["priceData"][activeCurrency]["final"] < b["priceData"][activeCurrency]["final"]) ? 1 : ((b["priceData"][activeCurrency]["final"] < a["priceData"][activeCurrency]["final"]) ? -1 : 0));
-
-                        functional.sort((a,b) => (a["priceData"][activeCurrency][type] > b["priceData"][activeCurrency][type]) ? 1 : ((b["priceData"][activeCurrency][type] > a["priceData"][activeCurrency][type]) ? -1 : 0));
-
-                        functional.reverse();
-
-                        nonPaid.sort((a,b) => (a["gameType"] > b["gameType"]) ? 1 : ((b["gameType"] > a["gameType"]) ? -1 : 0));
-
-                        filteredData = nonPaid.concat(RA, functional);
-
-                    }
-                    else if(type == "platformId")
-                    {
-                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
-
-                        var steamGames = filteredData.filter(obj => {return obj.gameType < 3})
-                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
-                        var BrokenGames = filteredData.filter(obj => {return obj.gameType == 4})
-
-                        filteredData = steamGames.concat(RAGames, BrokenGames);
-                    }
-                    else if(type == "completedPercentage")
-                    {
-                        filteredData.sort((a,b) => a.playersStarted / a.playersTotal * 100 - (b.playersStarted / b.playersTotal * 100));
-                        filteredData.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
-                    }
-                    else if(type == "startedPercentage")
-                    {
-                        filteredData.sort((a,b) => a.playersCompleted / a.playersTotal * 100 - (b.playersCompleted / b.playersTotal * 100));
-                        filteredData.sort((a,b) => a.playersStarted / a.playersTotal * 100 - (b.playersStarted / b.playersTotal * 100));
-                    }
-                    else if(type == "userPoints" && searchableUserId != "")
-                    {
-                        var searchIds = Object.keys(userData[searchableUserId]["gamesPoints"]);
-
-                        filteredData.reverse();
-
-                        filteredData.sort(compare);
-
-                        function compare(a, b) {
-                            var val1 = 0;
-                            var val2 = 0;
-
-                            for(let j = 0; j < searchIds.length; j++)
-                            {
-                                if(a["CEId"] == searchIds[j])
-                                {
-                                    val1 = userData[searchableUserId]["gamesPoints"][searchIds[j]]["points"];
-                                    break;
-                                }
-                            }
-
-                            for(let k = 0; k < searchIds.length; k++)
-                            {
-                                if(b["CEId"] == searchIds[k])
-                                {
-                                    val2 = userData[searchableUserId]["gamesPoints"][searchIds[k]]["points"];
-                                    break;
-                                }
-                            }
-                            if ( val1 < val2 ){
-                                return -1;
-                            }
-                            if (val1 > val2){
-                                return 1;
-                            }
-                            return 0;
-                            }
-                            
-                        filteredData.reverse();
-                    }
-                    else
-                    {
-                        filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
-                    }
-                }*/
 
                 if(useReverseOrder == true) {filteredData.reverse()}
 
@@ -496,34 +416,45 @@
                 {
                     try
                     {
-                        var row1 = table.insertRow((i*2)+4);
+                        var row1 = table.insertRow((i*2)+5);
                     }
                     catch {break;}
                     row1.classList.add("replace");
-                    var cellPosition = row1.insertCell(0);
-                    cellPosition.rowSpan = 2;
+                    var cellPFP = row1.insertCell(0);
+                    cellPFP.rowSpan = 2;
                     var cellName = row1.insertCell(1);
                     cellName.rowSpan = 2;
                     var cellRank = row1.insertCell(2);
                     cellRank.rowSpan = 2;
-                    var cellPoints = row1.insertCell(3);
+                    var cellPointsLB = row1.insertCell(3);
+                    cellPointsLB.rowSpan = 2;
+                    var cellPoints = row1.insertCell(4);
                     cellPoints.rowSpan = 2;
-                    var cellGames = row1.insertCell(4);
+                    var cellSkillLB = row1.insertCell(5);
+                    cellSkillLB.rowSpan = 2;
+                    var cellSkill = row1.insertCell(6);
+                    cellSkill.rowSpan = 2;
+                    var cellCompletionsLB = row1.insertCell(7);
+                    cellCompletionsLB.rowSpan = 2;
+                    var cellCompletions = row1.insertCell(8);
+                    cellCompletions.rowSpan = 2;
+                    var cellGames = row1.insertCell(9);
                     cellGames.rowSpan = 2;
-                    var cellCEID = row1.insertCell(5);
-                    var cellSteamID = row1.insertCell(6);
-                    var cellRAID = row1.insertCell(7);
-                    var cellFilter = row1.insertCell(8);
+                    var cellCEID = row1.insertCell(10);
+                    var cellSteamID = row1.insertCell(11);
+                    var cellRAID = row1.insertCell(12);
+                    var cellFilter = row1.insertCell(13);
                     cellFilter.rowSpan = 2;
 
-                    var row2 = table.insertRow(((i+1)*2)+3);
+                    var row2 = table.insertRow(((i+1)*2)+4);
                     row2.classList.add("replace");
                     var cellCELink = row2.insertCell(0);
                     var cellSteamLink = row2.insertCell(1);
                     var cellRALink = row2.insertCell(2);
 
-                    cellPosition.innerHTML = "#" + (keys.indexOf(filteredData[i]) + 1);
-                    cellName.innerHTML = "<img style='height:50px; float:left;' src='" + userData[filteredData[i]]["avatar"] + "'> <span style='position:relative; top:17.5px;' id='tmp'>" + userData[filteredData[i]]["name"] + "</span>";
+                    cellPFP.innerHTML = "<img style='height:80px; float:left;' src='" + userData[filteredData[i]]["avatar"] + "'>";
+                    cellPFP.style.padding = "0px";
+                    cellName.innerHTML = "<span id='tmp'>" + userData[filteredData[i]]["name"] + "</span>";
                     var p = document.getElementById("tmp");
                     if(Object.keys(userData[filteredData[i]]).includes("userGroups"))
                     {
@@ -537,57 +468,47 @@
                     p.title = "Click to copy the name to clipboard!";
                     p.id = null;
 
-                    var searchIds = Object.keys(userData[filteredData[i]]["gamesPoints"]);
-
-                    var gamesOwned = searchIds.length + userData[filteredData[i]]["gamesNoPoints"].length;
-                    var pointSum = 0;
-
-                    for(let j = 0; j < searchIds.length; j++)
-                    {
-                        pointSum += userData[filteredData[i]]["gamesPoints"][searchIds[j]]["points"];
-                    }
-
                     cellRank.innerHTML = "E";
                     cellRank.style.backgroundColor = "#979C9F99";
-                    if(pointSum >= 50)
+                    if(userData[filteredData[i]]["points"] >= 50)
                     {
                         cellRank.innerHTML = "D";
                         cellRank.style.backgroundColor = "#905F0099";
                     }
-                    if(pointSum >= 250)
+                    if(userData[filteredData[i]]["points"] >= 250)
                     {
                         cellRank.innerHTML = "C";
                         cellRank.style.backgroundColor = "#2ecc7199";
                     }
-                    if(pointSum >= 500)
+                    if(userData[filteredData[i]]["points"] >= 500)
                     {
                         cellRank.innerHTML = "B";
                         cellRank.style.backgroundColor = "#3498db99";
                         cellRank.style.color = "#FFFFFF";
                     }
-                    if(pointSum >= 1000)
+                    if(userData[filteredData[i]]["points"] >= 1000)
                     {
                         cellRank.innerHTML = "A";
                         cellRank.style.backgroundColor = "#9b59b699";
                     }
-                    if(pointSum >= 2500)
+                    if(userData[filteredData[i]]["points"] >= 2500)
                     {
                         cellRank.innerHTML = "<b>S</b>";
                         cellRank.style.backgroundColor = "#e67e2299";
                         cellRank.style.color = "#000000";
                     }
-                    if(pointSum >= 5000)
+                    if(userData[filteredData[i]]["points"] >= 5000)
                     {
                         cellRank.innerHTML = "<b>SS</b>";
                         cellRank.style.backgroundColor = "#f1c40f99";
                     }
-                    if(pointSum >= 7500)
+                    if(userData[filteredData[i]]["points"] >= 7500)
                     {
                         cellRank.innerHTML = "<b>SSS</b>";
                         cellRank.style.backgroundColor = "#e74c3c99";
                         cellRank.style.color = "#FFFFFF";
                     }
-                    if(pointSum >= 10000)
+                    if(userData[filteredData[i]]["points"] >= 10000)
                     {
                         cellRank.innerHTML = "<b>EX</b>";
                         cellRank.style.backgroundColor = "#44444499";
@@ -599,7 +520,40 @@
                         cellRank.style.color = "#000000";
                     }
                     
-                    cellPoints.innerHTML = pointSum;
+                    cellPointsLB.innerHTML = "#" + (keys.indexOf(filteredData[i]) + 1);
+                    if((keys.indexOf(filteredData[i]) + 1) <= 10) {cellPointsLB.style.fontWeight = "bold";}
+                    if((keys.indexOf(filteredData[i]) + 1) <= 3) {cellPointsLB.style.textDecoration = "underline";}
+                    if((keys.indexOf(filteredData[i]) + 1) == 1) {cellPointsLB.innerHTML += "!";}
+                    cellPointsLB.style.backgroundColor = "#FF000044";
+                    cellPoints.innerHTML = userData[filteredData[i]]["points"];
+                    cellPoints.style.backgroundColor = "#FF000044";
+
+                    cellSkillLB.innerHTML = "#" + userData[filteredData[i]]["skill"]["rank"];
+                    if(userData[filteredData[i]]["skill"]["rank"] <= 10) {cellSkillLB.style.fontWeight = "bold";}
+                    if(userData[filteredData[i]]["skill"]["rank"] <= 3) {cellSkillLB.style.textDecoration = "underline";}
+                    if(userData[filteredData[i]]["skill"]["rank"] == 1) {cellSkillLB.innerHTML += "!";}
+                    cellSkillLB.style.backgroundColor = "#00FF0044";
+                    cellSkill.innerHTML = userData[filteredData[i]]["skill"]["rating"] + "<sup>CR</sup>";
+                    cellSkill.style.backgroundColor = "#00FF0044";
+
+                    if("completions" in userData[filteredData[i]])
+                    {
+                        cellCompletionsLB.innerHTML = "#" + userData[filteredData[i]]["completions"]["rank"];
+                        if(userData[filteredData[i]]["completions"]["rank"] <= 10) {cellCompletionsLB.style.fontWeight = "bold";}
+                        if(userData[filteredData[i]]["completions"]["rank"] <= 3) {cellCompletionsLB.style.textDecoration = "underline";}
+                        if(userData[filteredData[i]]["completions"]["rank"] == 1) {cellCompletionsLB.innerHTML += "!";}
+                        cellCompletions.innerHTML = userData[filteredData[i]]["completions"]["count"] + "✔";
+                    }
+                    else
+                    {
+                        cellCompletionsLB.innerHTML = "#N/A";
+                        cellCompletions.innerHTML = "0🗸";
+                    }
+                    cellCompletionsLB.style.backgroundColor = "#0000FF44";
+                    cellCompletions.style.backgroundColor = "#0000FF44";
+                    
+                    var searchIds = Object.keys(userData[filteredData[i]]["gamesPoints"]);
+                    var gamesOwned = searchIds.length + userData[filteredData[i]]["gamesNoPoints"].length;
                     cellGames.innerHTML = gamesOwned;
 
                     cellCEID.innerHTML = "<span id='tmpCEID'>" + filteredData[i] + "</span>";
