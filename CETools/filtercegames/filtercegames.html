@@ -44,7 +44,7 @@
 
             .subtitle {
                 font-size: 10px;
-                color:#bbbbbb;
+                color:#00000066;
             }
 
             .scrollLink {
@@ -76,6 +76,19 @@
             }
             #secretLink:active {
                 color:#008a58;
+            }
+
+            .filterTitle {
+                width: 50%;
+            }
+            .filterTitle:hover {
+                width: 100%;
+            }
+            .filterPage {
+                display:none;
+            }
+            .filterTitle:hover > .filterPage {
+                display:table-row-group;
             }
 
             input::-webkit-outer-spin-button,
@@ -111,135 +124,178 @@
                 <td colspan="12">    
                     <p id="Count" style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Games: Loading...</p>
                     <p id="loadingText" style="margin: -10px auto auto; font-size: 16px; font-weight: bold; text-align: center;">Loading Table...</p>
+                    <div style="margin: 10px auto 3px;">
+                        <span class="button" style="width:125px; padding: 0px 10px; border:2px solid black;" onclick="window.location.href = 'filtercegames.html';" >Reset</span><br>
+                    </div>
+                    <sub class="subtitle">(Necessary to remove any User Filter from the User List, or List from a link!)</sub>
                 </td>
             </tr>
-            <tr colspan="12">
+            <tr>
                 <td colspan="12">
-                    <table style="margin: auto; width: 100%; text-align: center;">
+                    <table class="filterTitle" style="margin: auto; text-align: center; background-color: #ededed;">
                         <tr>
-                            <td colspan="12">
-                                <p style="margin: auto; padding-top: 15px; padding-bottom: 3px; font-size: 25px; font-weight: bold; text-align: center;">Filters</p>
+                            <td colspan="6">
+                                <p id="filterActivity" style="margin: auto; padding-top: 15px; padding-bottom: 3px; font-size: 25px; font-weight: bold; text-align: center;">Filters</p>
+                                <sub class="subtitle">(Hover over me to see all filters!)</sub><br>
                                 <sub class="subtitle">(All textboxes (Except the User Filter) search on every input so it might feel choppy!)</sub>
-                                <div style="margin: 10px auto 3px;">
-                                    <span class="button" style="width:125px; padding: 0px 10px; border:2px solid black;" onclick="window.location.href = 'filtercegames.html';" >Reset All Filters</span><br>
-                                </div>
-                                <sub class="subtitle">(Necessary to remove any User Filter from the User List!)</sub>
                             </td>
                         </tr>
-                        <tr>
-                            <td id="platformFilter">
-                                <b>Platform:</b><br>
-                                <input type="radio" id="platformAll" onclick="changePlatform()" name="platform" value="0" checked="true">All</input><br>
-                                <input type="radio" id="platformSteam" onclick="changePlatform()" name="platform" value="1">Steam</input><br>
-                                <input type="radio" id="platformRA" onclick="changePlatform()" name="platform" value="2">RetroAchievements</input>
-                            </td>
-                            <td id="nameFilter">
-                                <b>Name Contains:</b><br>
-                                <input type="text" id="nameFilterBox" autocomplete="off" onchange onpropertychange onkeyuponpaste oninput="searchName()" name="name"></input><br>
-                                <input type="checkbox" id="nameFilterCase" onclick="caseSensitive()">Case Sensitive</input>
-                            </td>
-                            <td id="genreFilter">
-                                <b>Genre:</b><br>
-                                <input type="checkbox" id="genreAll" onclick="changeGenre(-1)" checked="true">All</input><br>
-                                <input type="checkbox" id="genreAction" onclick="changeGenre(0)">Action</input>
-                                <input type="checkbox" id="genreArcade" onclick="changeGenre(1)">Arcade</input><br>
-                                <input type="checkbox" id="genreBHell" onclick="changeGenre(2)">Bullet Hell</input>
-                                <input type="checkbox" id="genreFPerson" onclick="changeGenre(3)">First-Person</input><br>
-                                <input type="checkbox" id="genrePlatformer" onclick="changeGenre(4)">Platformer</input>
-                                <input type="checkbox" id="genreStrategy" onclick="changeGenre(5)">Strategy</input>
-                            </td>
-                            <td id="tierFilter">
-                                <input type="radio" id="tierSelection" name="tier-point" checked="true" onclick="tierPointsFilterSwitch(false)"><b>Tier:</b></input>
-                                <div id="tierFilterHide">
-                                    <input type="checkbox" id="tierAll" onclick="changeTier(-1)" checked="true">All</input><br>
-                                    <input type="checkbox" id="tier0" onclick="changeTier(0)">T0</input>
-                                    <input type="checkbox" id="tier1" onclick="changeTier(1)">T1</input>
-                                    <input type="checkbox" id="tier2" onclick="changeTier(2)">T2</input><br>
-                                    <input type="checkbox" id="tier3" onclick="changeTier(3)">T3</input>
-                                    <input type="checkbox" id="tier4" onclick="changeTier(4)">T4</input>
-                                    <input type="checkbox" id="tier5" onclick="changeTier(5)">T5</input>
-                                </div>
-                            </td>
-                            <td id="priceFilter">
-                                <b>Cost:</b><br>
-                                <input type="radio" id="priceAll" onclick="changePrice()" name="price" value="0" checked="true">All</input><br>
-                                <input type="radio" id="pricePaid" onclick="changePrice()" name="price" value="3">Paid</input>
-                                <sub style="margin: 0px;" id="priceSale"><input type="checkbox" onclick="onSale()">Only On Sale</input></sub><br>
-                                <input type="radio" id="priceF2P" onclick="changePrice()" name="price" value="1">Free To Play</input><br>
-                                <input type="radio" id="priceNA" onclick="changePrice()" name="price" value="2">N/A</input>
-                            </td>
-                            <td rowspan="3" id="extraFilter">
-                                <b>Extras & Non-Filters:</b><br>
-                                <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br><br>
-                                <input id="pointMultiple" type="checkbox" onclick="nonMultiples()">(Points) Only non-multiples of 5</input><br>
-                                <sub class="subtitle">(Useful to find most Uncleared/Unvalued games)</sub><br>
-                                <input  id="idToLink" type="checkbox" onchange="idToLink()">(IDs) Copy ID > Copy Link</input><br>
-                                <sub class="subtitle">(Useful to copy many links quickly)</sub><br>
-                                <input  id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
-                                <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub><br>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td rowspan="2" colspan="3" id="userSearch">
-                                <b>User:</b><br>
-                                <sub class="subtitle">(Shows only games owned by a user)</sub><br>
-                                <sub class="subtitle">(Only works with users visible in the leaderboard!)</sub><br>
-                                <sub class="subtitle">(May be inaccurate due to some games not being present in the API!)</sub><br>
-                                <div style="margin:5px">
-                                    <input type="radio" id="linkSelection" name="link-id" onclick="linkIdFilterSwitch(false)" checked="true">Link</input>
-                                    <input type="text" id="linkTextbox"  autocomplete="off" style="width:300px; font-size:10px;"></input><br>
-                                    <sub class="subtitle" style="padding-right: 1px;">(Example: "https://cedb.me/user/00000000-0000-0000-0000-000000000000")</sub><br>
-                                    <input type="radio" id="idSelection" name="link-id" onclick="linkIdFilterSwitch(true)">ID</input>
-                                    <input type="text" id="idTextbox" autocomplete="off" style="width:200px; font-size:10px;"></input><br>
-                                    <sub class="subtitle" style="padding-right: 8px;">(Example: "00000000-0000-0000-0000-000000000000")</sub><br>
-                                    <div style="margin: 5px auto 10px;">
-                                        <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="userSearch(true)">Load User Filter</span>
-                                        <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="userSearch(false)">Unload</span>
+                        <tbody class="filterPage">
+                            <tr>
+                                <td id="platformFilter">
+                                    <b>Platform:</b><br>
+                                    <input type="radio" id="platformAll" onclick="changePlatform()" name="platform" value="0" checked="true">All</input><br>
+                                    <input type="radio" id="platformSteam" onclick="changePlatform()" name="platform" value="1">Steam</input><br>
+                                    <input type="radio" id="platformRA" onclick="changePlatform()" name="platform" value="2">RetroAchievements</input>
+                                </td>
+                                <td id="nameFilter">
+                                    <b>Name Contains:</b><br>
+                                    <input type="text" id="nameFilterBox" autocomplete="off" onchange onpropertychange onkeyuponpaste oninput="searchName()" name="name"></input><br>
+                                    <input type="checkbox" id="nameFilterCase" onclick="caseSensitive()">Case Sensitive</input>
+                                </td>
+                                <td id="genreFilter">
+                                    <b>Genre:</b><br>
+                                    <input type="checkbox" id="genreAll" onclick="changeGenre(-1)" checked="true">All</input><br>
+                                    <input type="checkbox" id="genreAction" onclick="changeGenre(0)">Action</input>
+                                    <input type="checkbox" id="genreArcade" onclick="changeGenre(1)">Arcade</input><br>
+                                    <input type="checkbox" id="genreBHell" onclick="changeGenre(2)">Bullet Hell</input>
+                                    <input type="checkbox" id="genreFPerson" onclick="changeGenre(3)">First-Person</input><br>
+                                    <input type="checkbox" id="genrePlatformer" onclick="changeGenre(4)">Platformer</input>
+                                    <input type="checkbox" id="genreStrategy" onclick="changeGenre(5)">Strategy</input>
+                                </td>
+                                <td id="tierFilter">
+                                    <input type="radio" id="tierSelection" name="tier-point" checked="true" onclick="tierPointsFilterSwitch(false)"><b>Tier:</b></input>
+                                    <div id="tierFilterHide">
+                                        <input type="checkbox" id="tierAll" onclick="changeTier(-1)" checked="true">All</input><br>
+                                        <input type="checkbox" id="tier0" onclick="changeTier(0)">T0</input>
+                                        <input type="checkbox" id="tier1" onclick="changeTier(1)">T1</input>
+                                        <input type="checkbox" id="tier2" onclick="changeTier(2)">T2</input><br>
+                                        <input type="checkbox" id="tier3" onclick="changeTier(3)">T3</input>
+                                        <input type="checkbox" id="tier4" onclick="changeTier(4)">T4</input>
+                                        <input type="checkbox" id="tier5" onclick="changeTier(5)">T5</input>
                                     </div>
-                                    <p style="margin-top: 5px;" id="userSearchResults">Selected User: <b>None</b>.</p>
-                                </div>
-                            </td>
-                            <td id="pointsFilter">
-                                <input type="radio" id="pointSelection" name="tier-point" onclick="tierPointsFilterSwitch(true)"><b>Points:</b></input><br>
-                                <div id="pointsFilterHide">
-                                    <input type="number" id="pointLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
+                                </td>
+                                <td id="priceFilter">
+                                    <b>Cost:</b><br>
+                                    <input type="radio" id="priceAll" onclick="changePrice()" name="price" value="0" checked="true">All</input><br>
+                                    <input type="radio" id="pricePaid" onclick="changePrice()" name="price" value="3">Paid</input>
+                                    <sub style="margin: 0px;" id="priceSale"><input type="checkbox" onclick="onSale()">Only On Sale</input></sub><br>
+                                    <input type="radio" id="priceF2P" onclick="changePrice()" name="price" value="1">Free To Play</input><br>
+                                    <input type="radio" id="priceNA" onclick="changePrice()" name="price" value="2">N/A</input>
+                                </td>
+                                <td rowspan="3" id="extraFilter">
+                                    <b>Extras & Non-Filters:</b><br>
+                                    <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br><br>
+                                    <input id="pointMultiple" type="checkbox" onclick="nonMultiples()">(Points) Only non-multiples of 5</input><br>
+                                    <sub class="subtitle">(Useful to find most Uncleared/Unvalued games)</sub><br>
+                                    <input  id="idToLink" type="checkbox" onchange="idToLink()">(IDs) Copy ID > Copy Link</input><br>
+                                    <sub class="subtitle">(Useful to copy many links quickly)</sub><br>
+                                    <input  id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
+                                    <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub><br>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" colspan="3" id="userSearch">
+                                    <b>User:</b><br>
+                                    <sub class="subtitle">(Shows only games owned by a user)</sub><br>
+                                    <sub class="subtitle">(Only works with users visible in the leaderboard!)</sub><br>
+                                    <sub class="subtitle">(May be inaccurate due to some games not being present in the API!)</sub><br>
+                                    <div style="margin:5px">
+                                        <b>Link/ID: </b>
+                                        <input type="text" id="idTextbox" autocomplete="off" style="width:300px; font-size:10px;"></input><br>
+                                        <sub class="subtitle">(Example: "https://cedb.me/user/00000000-0000-0000-0000-000000000000")</sub><br>
+                                        <sub class="subtitle">(Example: "00000000-0000-0000-0000-000000000000")</sub><br>
+                                        <div style="margin: 5px auto 10px;">
+                                            <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="userSearch(true)">Load User Filter</span>
+                                            <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="userSearch(false)">Unload</span>
+                                        </div>
+                                        <p style="margin-top: 5px;" id="userSearchResults">Selected User: <b>None</b>.</p>
+                                    </div>
+                                </td>
+                                <td id="pointsFilter">
+                                    <input type="radio" id="pointSelection" name="tier-point" onclick="tierPointsFilterSwitch(true)"><b>Points:</b></input><br>
+                                    <div id="pointsFilterHide">
+                                        <input type="number" id="pointLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
+                                        ≤ <b>x</b> ≤
+                                        <input type="number" id="pointHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
+                                    </div>
+                                </td>
+                                <td id="currencyFilter">
+                                    <b>Currency:</b><br>
+                                    <input type="radio" id="currencyUSD" onclick="changeCurrency()" name="currency" value="USD" checked="true">USD ($)</input>
+                                    <input type="radio" id="currencyEUR" onclick="changeCurrency()" name="currency" value="EUR">EUR (€)</input><br>
+                                    <input type="radio" id="currencyGBP" onclick="changeCurrency()" name="currency" value="GBP">GBP (£)</input>
+                                    <input type="radio" id="currencyAUD" onclick="changeCurrency()" name="currency" value="AUD">AUD (A$)</input><br>
+                                    <input type="radio" id="currencyCAD" onclick="changeCurrency()" name="currency" value="CAD">CAD (C$)</input>
+                                    <input type="radio" id="currencyJPY" onclick="changeCurrency()" name="currency" value="JPY">JPY (¥)</input><br>
+                                    <sub class="subtitle">(Not all games are available to buy with all currencies!)</sub>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td id="ownerFilter">
+                                    <input type="radio" id="ownerSelection" name="ownership" onclick="ownerFilterSwitch(0)" checked="true"><b>Owners:</b></input>
+                                    <input type="radio" id="completeSelection" name="ownership" onclick="ownerFilterSwitch(1)"><b>Completed:</b></input>
+                                    <input type="radio" id="unfinishedSelection" name="ownership" onclick="ownerFilterSwitch(2)"><b>Unfinished:</b></input><br>
+                                    <div id="ownerFilterHide">
+                                        <input type="radio" id="completionNumber" name="completionType" onclick="completionFilterSwitch(false)" checked="true"><b>Number</b></input>
+                                        <input type="radio" id="completionPercentage" name="completionType" onclick="completionFilterSwitch(true)"><b>Percentage</b></input><br>
+                                    </div>
+                                    <div>
+                                        <input type="number" id="ownershipLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changeOwnership()"></input>
+                                        ≤ <b>x</b> ≤
+                                        <input type="number" id="ownershipHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changeOwnership()"></input>
+                                    </div>
+                                </td>
+                                <td id="costFilter">
+                                    <b>Price:</b><br>
+                                    <input type="number" id="costLower" min="0" max="100000" onchange onpropertychange onkeyuponpaste oninput="changeCost()"></input>
                                     ≤ <b>x</b> ≤
-                                    <input type="number" id="pointHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
-                                </div>
-                            </td>
-                            <td id="currencyFilter">
-                                <b>Currency:</b><br>
-                                <input type="radio" id="currencyUSD" onclick="changeCurrency()" name="currency" value="USD" checked="true">USD ($)</input>
-                                <input type="radio" id="currencyEUR" onclick="changeCurrency()" name="currency" value="EUR">EUR (€)</input><br>
-                                <input type="radio" id="currencyGBP" onclick="changeCurrency()" name="currency" value="GBP">GBP (£)</input>
-                                <input type="radio" id="currencyAUD" onclick="changeCurrency()" name="currency" value="AUD">AUD (A$)</input><br>
-                                <input type="radio" id="currencyCAD" onclick="changeCurrency()" name="currency" value="CAD">CAD (C$)</input>
-                                <input type="radio" id="currencyJPY" onclick="changeCurrency()" name="currency" value="JPY">JPY (¥)</input><br>
-                                <sub class="subtitle">(Not all games are available to buy with all currencies!)</sub>
-                            </td>
-                        </tr>
+                                    <input type="number" id="costHigher" min="0" max="100000" onchange onpropertychange onkeyuponpaste oninput="changeCost()"></input>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="12">
+                    <table class="filterTitle" style="margin: auto; text-align: center;">
                         <tr>
-                            <td id="ownerFilter">
-                                <input type="radio" id="ownerSelection" name="ownership" onclick="ownerFilterSwitch(0)" checked="true"><b>Owners:</b></input>
-                                <input type="radio" id="completeSelection" name="ownership" onclick="ownerFilterSwitch(1)"><b>Completed:</b></input>
-                                <input type="radio" id="unfinishedSelection" name="ownership" onclick="ownerFilterSwitch(2)"><b>Unfinished:</b></input><br>
-                                <div id="ownerFilterHide">
-                                    <input type="radio" id="completionNumber" name="completionType" onclick="completionFilterSwitch(false)" checked="true"><b>Number</b></input>
-                                    <input type="radio" id="completionPercentage" name="completionType" onclick="completionFilterSwitch(true)"><b>Percentage</b></input><br>
-                                </div>
-                                <div>
-                                    <input type="number" id="ownershipLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changeOwnership()"></input>
-                                    ≤ <b>x</b> ≤
-                                    <input type="number" id="ownershipHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changeOwnership()"></input>
-                                </div>
-                            </td>
-                            <td id="costFilter">
-                                <b>Price:</b><br>
-                                <input type="number" id="costLower" min="0" max="100000" onchange onpropertychange onkeyuponpaste oninput="changeCost()"></input>
-                                ≤ <b>x</b> ≤
-                                <input type="number" id="costHigher" min="0" max="100000" onchange onpropertychange onkeyuponpaste oninput="changeCost()"></input>
+                            <td colspan="2">
+                                <p id="listActivity" style="margin: auto; padding-top: 15px; padding-bottom: 3px; font-size: 25px; font-weight: bold; text-align: center;">Lists</p>
+                                <sub>Lists are a new element of the CETools Game List which allow you to select games to put them in 'Lists' which can be easily shared via link!</sub><br>
+                                <sub class="subtitle">(Hover over me to see all list info!)</sub>
                             </td>
                         </tr>
+                        <tbody class="filterPage">
+                            <tr>
+                                <td colspan="2" style="font-size: 16px;">
+                                    <input id="activateLists" type="checkbox" onclick="activateLists()">Activate List Controls</input><br>
+                                    <sub class="subtitle">(When list controls are active, checkboxes will appear next to each game's name. Selecting/deselecting these boxes will add/remove games from the list)</sub>
+                                </td>
+                            </tr>
+                        </tbody>
+                        <tbody id="listSettings" class="filterPage" style="display: none;">
+                            <tr>
+                                <td style="padding:10px">
+                                    <sub><b>Creating a List:</b> Click the checkboxes next to the games' names down below. The compressed ID and the games will update here for each game that gets added/removed.</sub><br>
+                                    <sub><b>Loading a List:</b> Insert an ID in the '<b>Compressed ID</b>' textbox below and click '<b>Load List</b>' to load its contents! (Should happen automatically from a link.)</sub><br>
+                                    <sub><b>Sharing a List:</b> Copy the link found at the bottom of this '<b>Lists</b>' section, or copy the ID directly from above.</sub><br><br>
+                                    <b>Compressed ID:</b><br>
+                                    <input id="listCompressed" type="text" autocomplete="off" style="width:75%; text-align: center;"><br>
+                                    <sub class="subtitle">(If any bad words show up in the ID I'm sorry but I can't do anything about it! :C)</sub><br>
+                                    <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="listLoad()">Load List</span>
+                                    <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="listClear()">Clear List</span>
+                                    <input type="checkbox" id="listOnly" onclick="listOnlySwitch()">Show List Only</input><br><br>
+                                    <b>Games included:</b><br>
+                                    <textarea id="listGames" readonly style="resize: none;width: 75%; height: 100px; text-align: center;"></textarea><br>
+                                    <sub class="subtitle">(The games as written here are in an unordered fashion!)</sub>
+                                    <p style="margin: 0px auto 10px; max-width: 75%;"><b>Link (Click to copy!):</b><br>
+                                        <span id="listLink" class="textCopyable" title="Click to copy!" style="word-break:break-all;" onclick="navigator.clipboard.writeText('https://icondor15.github.io/CETools/filtercegames/filtercegames.html?list=')">https://icondor15.github.io/CETools/filtercegames/filtercegames.html?list=</span><br>
+                                    </p>
+                                </td>
+                            </tr>
+                        </tbody>
                     </table>
                 </td>
             </tr>
@@ -329,6 +385,7 @@
 
         <script src="../formattedList.js"></script>
         <script src="../formattedUserList.js"></script>
+        <script src="../compressionValues.js"></script>
 
         <script>
             //upscroll on reload
@@ -357,9 +414,12 @@
             let linkReplaceId = false;
             let ownerFilterType = 0;
             let usePercentage = false;
-            let useUserId = false;
             let searchableUserId = "";
             let useReverseOrder = false;
+
+            let listControls = false;
+            let listData = [];
+            let useListOnly = false;
 
             let reloadUnit = 250;
             let reloadMax = 0;
@@ -368,12 +428,17 @@
             
             if(window.location.href.includes("userFilter="))
             {
-                useUserId = true;
-                document.getElementById("linkSelection").checked = false;
-                document.getElementById("idSelection").checked = true;
-                var idfk = window.location.href.indexOf("userFilter=");
-                document.getElementById("idTextbox").value = window.location.href.substring(idfk + 11, idfk + 10 + 37);
+                var x = window.location.href.indexOf("userFilter=");
+                document.getElementById("idTextbox").value = window.location.href.substring(x + 11, x + 10 + 37);
                 userSearch(true);
+            }
+            else if(window.location.href.includes("list="))
+            {
+                activateLists();
+                document.getElementById("activateLists").checked = true;
+                var x = window.location.href.indexOf("list=");
+                document.getElementById("listCompressed").value = window.location.href.substring(x + 5);
+                listLoad();
             }
 
             order("points");
@@ -470,67 +535,40 @@
                     document.getElementById("userSearchResults").innerHTML = "Selected User: <b>None</b>.";
                     order(lastOrder);
                 }
-                else if(!useUserId)
+                else if(document.getElementById("idTextbox").value != "")
                 {
-                    if(document.getElementById("linkTextbox").value != "")
+                    var check = document.getElementById("idTextbox").value;
+                    
+                    if(check.length > 36)
                     {
-                        var check = document.getElementById("linkTextbox").value.indexOf("cedb.me/user/");
-                        check = document.getElementById("linkTextbox").value.substring(check + 13, check + 12 + 37);
-
-                        if(check in userData)
-                        {
-                            searchableUserId = check;
-                            var str = "Selected User: ";
-
-                            str += "<b>" + userData[check]["name"] + "</b>";
-                            if(userData[check]["isAdmin"] == true) {str += "<b> (Moderator)</b>"}
-
-                            str += " <img height='16px' style='border: solid 1px black;' src='" + userData[check]["avatar"] + "'>. ";
-
-                            var gainedPoints = 0;
-                            var keys = Object.keys(userData[check]["gamesPoints"]);
-
-                            for(var k = 0; k < keys.length; k++)
-                            {
-                                gainedPoints += userData[check]["gamesPoints"][keys[k]]["points"];
-                            }
-
-                            str += "Points: <b>" + gainedPoints + "</b>.";
-                            
-                            str += "<span class='button' style='padding: 0px 10px; position:relative; left: 5px;  bottom: 3.5px; border:2px solid black;'' onclick='order(\"userPoints\")'>Order By Gained Points</span>";
-
-                            document.getElementById("userSearchResults").innerHTML = str;
-                            order(lastOrder);
-                        }
-                        else
-                        {
-                            searchableUserId = "";
-                            document.getElementById("userSearchResults").innerHTML = "Selected User: <b>None (User not found)</b>.";
-                        }
+                        var idStart = check.indexOf("cedb.me/user/");
+                        check = check.substring(idStart + 13, idStart + 12 + 37);
                     }
-                }
-                else
-                {
-                    if(document.getElementById("idTextbox").value != "")
-                    {
-                        if(document.getElementById("idTextbox").value in userData)
-                        {
-                            searchableUserId = document.getElementById("idTextbox").value;
-                            var str = "Selected User: ";
 
-                            str += "<b>" + userData[document.getElementById("idTextbox").value]["name"] + "</b>";
-                            if(userData[document.getElementById("idTextbox").value]["isAdmin"] == true) {str += "<b> (Moderator)</b>"}
-                            
-                            str += ". <img height='16px' style='border: solid 1px black;' src='" + userData[document.getElementById("idTextbox").value]["avatar"] + "'> ";
-                            str += "<span class='button' style='padding: 0px 10px; position:relative; left: 5px; bottom: 3.5px; border:2px solid black;'' onclick='order(\"userPoints\")'>Order By Gained Points</span>";
-                            document.getElementById("userSearchResults").innerHTML = str;
-                            order(lastOrder);
-                        }
-                        else
+                    if(check in userData)
+                    {
+                        searchableUserId = check;
+                        var str = "Selected User: ";
+
+                        str += "<b>" + userData[check]["name"] + "</b>";
+                        
+                        if(Object.keys(userData[check]).includes("userGroups"))
                         {
-                            searchableUserId = "";
-                            document.getElementById("userSearchResults").innerHTML = "Selected User: <b>None (User not found)</b>.";
+                            for(let k = 0; k < Object.keys(userData[check]["userGroups"]).length; k++)
+                            {
+                                str += " <b style='color: " + userData[check]["userGroups"][Object.keys(userData[check]["userGroups"])[k]]["color"] + "'>(" + Object.keys(userData[check]["userGroups"])[k] + ")</b>";
+                            }
                         }
+                        
+                        str += ". <img height='16px' style='border: solid 1px black;' src='" + userData[check]["avatar"] + "'> ";
+                        str += "<span class='button' style='padding: 0px 10px; position:relative; left: 5px; bottom: 3.5px; border:2px solid black;'' onclick='order(\"userPoints\")'>Order By Gained Points</span>";
+                        document.getElementById("userSearchResults").innerHTML = str;
+                        order(lastOrder);
+                    }
+                    else
+                    {
+                        searchableUserId = "";
+                        document.getElementById("userSearchResults").innerHTML = "Selected User: <b>None (User not found)</b>.";
                     }
                 }
             }
@@ -636,6 +674,190 @@
                 else if(useReverseOrder == false) {useReverseOrder = true;}
                 order(lastOrder);
             }
+
+
+
+
+            function activateLists()
+            {
+                if(listControls == true)
+                {
+                    listControls = false;
+                    useListOnly = false;
+                    document.getElementById("listSettings").style = "display:none";
+                    listData = [];
+                    document.getElementById("listGames").innerHTML = "";
+                    document.getElementById("listCompressed").value = "";
+                    document.getElementById("listOnly").checked = false;
+                    document.getElementById("listActivity").innerHTML = "Lists";
+                    var p = document.getElementById("listLink");
+                    p.innerHTML = "https://icondor15.github.io/CETools/filtercegames/filtercegames.html?list=";
+                    p.setAttribute("onClick", "navigator.clipboard.writeText('https://icondor15.github.io/CETools/filtercegames/filtercegames.html?list=')");
+                }
+                else if(listControls == false)
+                {
+                    listControls = true;
+                    document.getElementById("listSettings").style = "";
+                }
+                
+                order(lastOrder);
+            }
+
+            function listDataModify(ceID)
+            {
+                if(listData.includes(ceID)) {listData.splice(listData.indexOf(ceID),1);}
+                else {listData.push(ceID)}
+
+                var gameList = data.filter(game => {return listData.includes(game["CEId"])})
+
+                var str = [];
+
+                for(let x = 0; x < gameList.length; x++)
+                {
+                    var currentStr = "S";
+                    if(gameList[x]["gameType"] == 3) {currentStr = "R"}
+
+                    currentStr += gameList[x]["platformId"];
+                    str[x] = currentStr;
+                }
+
+                str = str.join(",");
+                var tempStr = "";
+
+                if(str.length % 3 != 0)
+                {
+                    tempStr = str.substr(-(str.length % 3));
+                    str = str.substr(0, str.length -(str.length % 3));
+                }
+
+                var bin = "";
+                var result = "";
+
+                for(let x = 0; x < str.length; x++)
+                {
+                    bin += fromFourBit[str[x]];
+                }
+
+                for(let x = 0; x < bin.length/6; x++)
+                {
+                    result += toSixBit[bin.slice(x*6, (x+1)*6)];
+                }
+
+                if(tempStr != "") {result += "." + tempStr}
+
+                document.getElementById("listCompressed").value = result;
+
+                var p = document.getElementById("listLink");
+                p.innerHTML = "https://icondor15.github.io/CETools/filtercegames/filtercegames.html?list=" + result;
+                p.setAttribute("onClick", "navigator.clipboard.writeText('https://icondor15.github.io/CETools/filtercegames/filtercegames.html?list=" + result + "')");
+
+                var names = [];
+
+                for(let x = 0; x < gameList.length; x++)
+                {
+                    names[x] = gameList[x]["name"];
+                }
+
+                document.getElementById("listGames").innerHTML = names.join(", ");
+            }
+
+            function listDataCheck(ceID)
+            {
+                if(listData.includes(ceID)) {return true;}
+                return false;
+            }
+
+            function listLoad()
+            {
+                if(document.getElementById("listCompressed").value != "")
+                {
+                    listData = [];
+                    var str = document.getElementById("listCompressed").value;
+                    var tempStr = "";
+
+                    if(str.includes("."))
+                    {
+                        tempStr = str.substr(str.indexOf(".")+1)
+                        str = str.substr(0, str.indexOf("."));
+                    }
+
+                    var bin = "";
+                    var result = "";
+                    
+                    for(let x = 0; x < str.length; x++)
+                    {
+                        bin += fromSixBit[str[x]];
+                    }
+
+                    for(let x = 0; x < bin.length/4; x++)
+                    {
+                        result += toFourBit[bin.slice(x*4, (x+1)*4)];
+                    }
+
+                    result = result + tempStr;
+                    result = result.split(/\s*,\s*/);
+
+                    var foundGames = [];
+
+                    result.forEach(findCEId);
+
+                    function findCEId(gameCode)
+                    {
+
+                        if(gameCode[0] == "S")
+                        {
+                            var steamGames = data.filter(game => {return game["gameType"] != 3;})
+                            var currentGame = steamGames.filter(game => {return game["platformId"] == Number(gameCode.substr(1))})
+                            foundGames.push(currentGame[0]["CEId"]);
+                        }
+                        else if(gameCode[0] == "R")
+                        {
+                            var RAGames = data.filter(game => {return game["gameType"] == 3;})
+                            var currentGame = RAGames.filter(game => {return game["platformId"] == Number(gameCode.substr(1))})
+                            foundGames.push(currentGame[0]["CEId"]);
+                        }
+                    }
+
+                    foundGames.forEach(listDataModify);
+
+                    order(lastOrder);
+
+                    if(!useListOnly) {listOnlySwitch()}
+                }
+            }
+
+            function listClear()
+            {
+                listData = [];
+
+                document.getElementById("listCompressed").value = "";
+                document.getElementById("listGames").innerHTML = "";
+                var p = document.getElementById("listLink");
+                p.innerHTML = "https://icondor15.github.io/CETools/filtercegames/filtercegames.html?list=";
+                p.setAttribute("onClick", "navigator.clipboard.writeText('https://icondor15.github.io/CETools/filtercegames/filtercegames.html?list=')");
+
+                if(useListOnly) {listOnlySwitch()}
+                order(lastOrder);
+            }
+
+            function listOnlySwitch()
+            {
+                if(useListOnly == true)
+                {
+                    useListOnly = false;
+                    document.getElementById("listOnly").checked = false;
+                    document.getElementById("listActivity").innerHTML = "Lists";
+                    
+                }
+                else
+                {
+                    useListOnly = true;
+                    document.getElementById("listOnly").checked = true;
+                    document.getElementById("listActivity").innerHTML = "Lists (Filter Active!)";
+                }
+                order(lastOrder);
+            }
+
 
 
 
@@ -922,6 +1144,8 @@
                 //Filter by non-multiples of 5
                 if(useNonMultiples) {filteredData = filteredData.filter(obj => {return obj.points % 5 != 0})}
 
+                if(useListOnly) {filteredData = filteredData.filter(obj => {return listData.includes(obj["CEId"])})}
+
                 //hide price and currency if unavailable
                 if(activePlatform == 2)
                 {
@@ -974,6 +1198,9 @@
                 //alternate ownership filter
                 if(ownerFilterType == 0) {document.getElementById("ownerFilterHide").style.opacity = 1/3;}
                 else {document.getElementById("ownerFilterHide").style.opacity = 1;}
+
+                if(filteredData.length != data.length || activeCurrency != "USD") {document.getElementById("filterActivity").innerHTML = "Filters (Active!)"}
+                else {document.getElementById("filterActivity").innerHTML = "Filters"}
 
             }
 
@@ -1151,7 +1378,7 @@
                 {
                     try
                     {
-                        var row1 = table.insertRow((i*2)+5);
+                        var row1 = table.insertRow((i*2)+6);
                     }
                     catch {break;}
                     row1.classList.add("replace");
@@ -1191,7 +1418,7 @@
                         var cellLinkSteam = row1.insertCell(10);
                     }
 
-                    var row2 = table.insertRow(((i+1)*2)+4);
+                    var row2 = table.insertRow(((i+1)*2)+5);
                     row2.classList.add("replace");
                     if(filteredData[i]["points"] < 500)
                     {
@@ -1238,7 +1465,16 @@
                     p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i]["name"] + "')");
                     p.classList.add('textCopyable');
                     p.title = "Click to copy the name to clipboard!";
-                    p.id = null;
+                    p.removeAttribute("id");
+
+                    if(listControls)
+                    {
+                        cellName.innerHTML = "<input id='tmp' type='checkbox'> " + cellName.innerHTML;
+                        var n = document.getElementById("tmp");
+                        n.setAttribute("onClick", "listDataModify('" + filteredData[i]["CEId"] + "')");
+                        if(listDataCheck(filteredData[i]["CEId"])) {n.checked = true;}
+                        n.removeAttribute("id");
+                    }
 
                     cellGenre.innerHTML = filteredData[i]["genre"];
 
@@ -1417,7 +1653,7 @@
                             p.classList.add('textCopyable');
                             if(filteredData[i]["gameType"] != 3) {p.title = "Click to copy the Steam ID to clipboard!";}
                             else {p.title = "Click to copy the RetroAchievements ID to clipboard!";}
-                            p.id = null;
+                            p.removeAttribute("id");
                         }
 
                         cellCE.innerHTML = "<span id='tmp'>" + filteredData[i]["CEId"] + "</span>";
@@ -1425,7 +1661,7 @@
                         p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i]["CEId"] + "')");
                         p.classList.add('textCopyable');
                         p.title = "Click to copy the Challenge Enthusiasts ID to clipboard!";
-                        p.id = null;
+                        p.removeAttribute("id");
                     }
                     else
                     {
@@ -1447,7 +1683,7 @@
                                 p.title = "Click to copy the RetroAchievements Link to clipboard!";
                             }
                             p.classList.add('textCopyable');
-                            p.id = null;
+                            p.removeAttribute("id");
                         }
 
                         cellCE.innerHTML = "<span id='tmp'>" + filteredData[i]["CEId"] + "</span>";
@@ -1455,7 +1691,7 @@
                         p.setAttribute("onClick", "navigator.clipboard.writeText('https://cedb.me/game/" + filteredData[i]["CEId"] + "')");
                         p.classList.add('textCopyable');
                         p.title = "Click to copy the Challenge Enthusiasts link to clipboard!";
-                        p.id = null;
+                        p.removeAttribute("id");
 
                     }
 
@@ -1482,12 +1718,12 @@
                         cellLinkSteam.innerHTML = "<p id='tmp' style='font-weight: bold; color:#6B194D; user-select: none; text-decoration:line-through 1.5px;'>Steam (Broken)</p>";
                         var a = document.getElementById("tmp");
                     }
-                    a.id = null;
+                    a.removeAttribute("id");
 
                     cellLinkCE.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#000000'>Challenge Enthusiasts</a>";
                     var a = document.getElementById("tmp");
                     a.href = "https://cedb.me/game/" + filteredData[i]["CEId"];
-                    a.id = null;
+                    a.removeAttribute("id");
 
                     if(i%2 == 0)
                     {
