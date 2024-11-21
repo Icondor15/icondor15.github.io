@@ -122,7 +122,8 @@
         <table id="MainTable" style="margin: auto; width: 100%; text-align: center; background-color:#ffffff;">
             <tr>
                 <td colspan="12">    
-                    <p id="Count" style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Games: Loading...</p>
+                    <p id="Count" style="margin: auto; padding: 15px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Games: Loading...</p>
+                    <p id="CountCost" style="margin: auto; padding: 0px 15px 15px; font-size: 22px; font-weight: bold; text-align: center;">Cost of Filtered: Loading...</p>
                     <p id="loadingText" style="margin: -10px auto auto; font-size: 16px; font-weight: bold; text-align: center;">Loading Table...</p>
                     <div style="margin: 10px auto 3px;">
                         <span class="button" style="width:125px; padding: 0px 10px; border:2px solid black;" onclick="window.location.href = 'filtercegames.html';" >Reset</span><br>
@@ -1194,6 +1195,25 @@
                     document.getElementById("tierFilterHide").style.opacity = 1/3;
                     document.getElementById("pointsFilterHide").style.opacity = 1;
                 }
+
+                //Write down total cost
+                if(filteredData.filter(obj => {return obj["gameType"] == 0}).length > 0)
+                {
+                    var paidGames = filteredData.filter(obj => {return obj["gameType"] == 0});
+                    var totalCost = 0;
+
+                    paidGames.forEach(obj => {totalCost += obj["priceData"][activeCurrency]["final"]})
+
+                    totalCost = totalCost/100;
+
+                    if(activeCurrency == "USD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: $" + totalCost}
+                    else if(activeCurrency == "EUR") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: " + totalCost + "€"}
+                    else if(activeCurrency == "GBP") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: £" + totalCost}
+                    else if(activeCurrency == "AUD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: A$" + totalCost}
+                    else if(activeCurrency == "CAD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: C$" + totalCost}
+                    else if(activeCurrency == "JPY") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: ¥" + totalCost}
+                }
+                else {document.getElementById("CountCost").innerHTML = "Cost of Filtered: N/A"}
 
                 //alternate ownership filter
                 if(ownerFilterType == 0) {document.getElementById("ownerFilterHide").style.opacity = 1/3;}
