@@ -1941,7 +1941,7 @@ var data =
         "points": 5,
         "playersCompleted": 50,
         "playersStarted": 0,
-        "playersTotal": 182,
+        "playersTotal": 183,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -4229,7 +4229,7 @@ var data =
         "points": 15,
         "playersCompleted": 12,
         "playersStarted": 12,
-        "playersTotal": 160,
+        "playersTotal": 161,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -11038,7 +11038,7 @@ var data =
         "points": 90,
         "playersCompleted": 10,
         "playersStarted": 20,
-        "playersTotal": 232,
+        "playersTotal": 233,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -42484,7 +42484,7 @@ var data =
         "genre": "Platformer",
         "tier": 1,
         "points": 5,
-        "playersCompleted": 5,
+        "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 21,
         "priceData": {
@@ -59593,8 +59593,8 @@ var data =
         "tier": 2,
         "points": 20,
         "playersCompleted": 2,
-        "playersStarted": 12,
-        "playersTotal": 107
+        "playersStarted": 13,
+        "playersTotal": 108
     },
     {
         "gameType": 1,
@@ -60157,7 +60157,7 @@ var data =
         "tier": 2,
         "points": 25,
         "playersCompleted": 9,
-        "playersStarted": 1,
+        "playersStarted": 2,
         "playersTotal": 18
     },
     {
@@ -60170,7 +60170,7 @@ var data =
         "points": 40,
         "playersCompleted": 7,
         "playersStarted": 1,
-        "playersTotal": 12
+        "playersTotal": 13
     },
     {
         "gameType": 3,
@@ -60790,8 +60790,8 @@ var date =
     "day": 21,
     "month": 11,
     "year": 2024,
-    "hour": 0,
-    "minute": 31,
-    "second": 11,
-    "searchTime": 403.36039447784424
+    "hour": 8,
+    "minute": 24,
+    "second": 40,
+    "searchTime": 402.93366599082947
 }
