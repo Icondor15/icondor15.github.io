@@ -580,7 +580,7 @@ var data =
         "genre": "Platformer",
         "tier": 1,
         "points": 10,
-        "playersCompleted": 37,
+        "playersCompleted": 38,
         "playersStarted": 0,
         "playersTotal": 53,
         "priceData": {
@@ -16747,33 +16747,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 374,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 374,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 319,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 42500,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 548,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 487,
+                "discountPercent": 75
             }
         }
     },
@@ -30910,7 +30910,7 @@ var data =
         "points": 10,
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 3,
+        "playersTotal": 4,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -33886,33 +33886,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1899,
-                "final": 1139,
-                "discountPercent": 40
+                "final": 1899,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1849,
-                "final": 1109,
-                "discountPercent": 40
+                "final": 1849,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1575,
-                "final": 945,
-                "discountPercent": 40
+                "final": 1575,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 210000,
-                "final": 126000,
-                "discountPercent": 40
+                "final": 210000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2795,
-                "final": 1677,
-                "discountPercent": 40
+                "final": 2795,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 2479,
-                "final": 1487,
-                "discountPercent": 40
+                "final": 2479,
+                "discountPercent": 0
             }
         }
     },
@@ -52444,7 +52444,7 @@ var data =
         "points": 5,
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 2,
+        "playersTotal": 3,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -60156,8 +60156,8 @@ var data =
         "genre": "Arcade",
         "tier": 2,
         "points": 25,
-        "playersCompleted": 9,
-        "playersStarted": 2,
+        "playersCompleted": 10,
+        "playersStarted": 1,
         "playersTotal": 18
     },
     {
@@ -60170,7 +60170,7 @@ var data =
         "points": 40,
         "playersCompleted": 7,
         "playersStarted": 1,
-        "playersTotal": 13
+        "playersTotal": 14
     },
     {
         "gameType": 3,
@@ -60790,8 +60790,8 @@ var date =
     "day": 21,
     "month": 11,
     "year": 2024,
-    "hour": 8,
-    "minute": 24,
-    "second": 40,
-    "searchTime": 402.93366599082947
+    "hour": 15,
+    "minute": 59,
+    "second": 36,
+    "searchTime": 390.82648944854736
 }
