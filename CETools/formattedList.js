@@ -15953,7 +15953,7 @@ var data =
         "name": "Fallen Angel",
         "genre": "Action",
         "tier": 1,
-        "points": 7,
+        "points": 11,
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 4,
@@ -19331,7 +19331,7 @@ var data =
         "name": "Grindstone",
         "genre": "Strategy",
         "tier": 1,
-        "points": 8,
+        "points": 12,
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 12,
@@ -36381,6 +36381,50 @@ var data =
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 23,
+        "priceData": {
+            "USD": {
+                "initial": 499,
+                "final": 499,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 499,
+                "final": 499,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 429,
+                "final": 429,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 58000,
+                "final": 58000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 750,
+                "final": 750,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 649,
+                "final": 649,
+                "discountPercent": 0
+            }
+        }
+    },
+    {
+        "gameType": 0,
+        "platformId": 845690,
+        "CEId": "cbc028e0-e27e-4b82-9aef-66f820f72041",
+        "name": "Rats, Bats, and Bones",
+        "genre": "Strategy",
+        "tier": 1,
+        "points": 11,
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 0,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -60779,7 +60823,7 @@ var date =
     "month": 11,
     "year": 2024,
     "hour": 9,
-    "minute": 3,
-    "second": 8,
-    "searchTime": 398.3565077781677
+    "minute": 35,
+    "second": 17,
+    "searchTime": 392.4748089313507
 }
