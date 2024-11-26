@@ -123,7 +123,8 @@
             <tr>
                 <td colspan="12">    
                     <p id="Count" style="margin: auto; padding: 15px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Games: Loading...</p>
-                    <p id="CountCost" style="margin: auto; padding: 0px 15px 15px; font-size: 22px; font-weight: bold; text-align: center;">Cost of Filtered: Loading...</p>
+                    <p id="CountCost" style="margin: auto; padding: 0px 15px 0px; font-size: 22px; font-weight: bold; text-align: center;">Cost of Filtered: Loading...</p>
+                    <p id="CountPoints" style="margin: auto; padding: 0px 15px 15px; font-size: 22px; font-weight: bold; text-align: center;">Points of Filtered: Loading...</p>
                     <p id="loadingText" style="margin: -10px auto auto; font-size: 16px; font-weight: bold; text-align: center;">Loading Table...</p>
                     <div style="margin: 10px auto 3px;">
                         <span class="button" style="width:125px; padding: 0px 10px; border:2px solid black;" onclick="window.location.href = 'filtercegames.html';" >Reset</span><br>
@@ -1214,6 +1215,11 @@
                     else if(activeCurrency == "JPY") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: ¥" + totalCost}
                 }
                 else {document.getElementById("CountCost").innerHTML = "Cost of Filtered: N/A"}
+
+                var totalPoints = 0;
+
+                filteredData.forEach(obj => {totalPoints += obj["points"]});
+                document.getElementById("CountPoints").innerHTML = "Points of filtered: " + totalPoints + ".";
 
                 //alternate ownership filter
                 if(ownerFilterType == 0) {document.getElementById("ownerFilterHide").style.opacity = 1/3;}
