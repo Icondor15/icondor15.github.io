@@ -110,7 +110,10 @@
                 <td colspan="14">    
                     <p id="Count" style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Users: Loading...</p>
                     <p id="loadingText" style="margin: -10px auto auto; font-size: 16px; font-weight: bold; text-align: center;">Loading Table...</p>
-                    <sub style="margin-top: -10px;" class="subtitle">(Only shows leaderboard members!)</sub>
+                    <sub style="margin-top: -10px;" class="subtitle">(Only shows leaderboard members and some manually added Excluded members!)</sub><br>
+                    <sub style="margin-top: -10px;" class="subtitle">(Excluded members have placeholder stats so they may get ordered weird! Without clicking any ordering button they should appear at the bottom of the list!)</sub><br>
+                    <sub style="margin-top: -10px;" class="subtitle">(If you're Excluded from the leaderboard and want to be added here, just ask me with a link to your CE Profile!)</sub><br>
+                    <sub style="margin-top: -10px; font-size: 8px;" class="subtitle">(Please be nice!)</sub>
                 </td>
             </tr>
             <tr colspan="14">
@@ -137,6 +140,8 @@
                                 <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br><br>
                                 <input id="staffOnly" type="checkbox" onchange="staffOnly()">Staff Only</input><br>
                                 <sub class="subtitle">(Show only members of staff)</sub><br>
+                                <input  id="idToLink" type="checkbox" onchange="idToLink()">(Infos) Copy ID/Name > Copy Link</input><br>
+                                <sub class="subtitle">(Useful to copy many links quickly)</sub><br>
                                 <input id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
                                 <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub><br>
                             </td>
@@ -153,7 +158,7 @@
                 <td colspan="2" class="button" onclick="order('completions')">Order By Completions</td>
                 <td class="button" onclick="order('games')">Order By Games</td>
                 <td colspan="4">
-                    <sub class="subtitle">(Click any of the IDs or names to copy them to the clipboard!)</sub><br>
+                    <sub id="idStringTop" class="subtitle">(Click any of the IDs or names to copy them to the clipboard!)</sub><br>
                     <sub class="subtitle">(All of the links open in a new tab!)</sub>
                 </td>
             </tr>
@@ -219,7 +224,7 @@
                 <td colspan="2" class="button" onclick="order('completions')">Order By Completions</td>
                 <td class="button" onclick="order('games')">Order By Games</td>
                 <td colspan="4">
-                    <sub class="subtitle">(Click any of the IDs or names to copy them to the clipboard!)</sub><br>
+                    <sub id="idStringBottom" class="subtitle">(Click any of the IDs or names to copy them to the clipboard!)</sub><br>
                     <sub class="subtitle">(All of the links open in a new tab!)</sub>
                 </td>
             </tr>
@@ -283,20 +288,30 @@
             
             function idToLink()
             {
-                if(linkReplaceId == true) {linkReplaceId = false;}
-                else if(linkReplaceId == false) {linkReplaceId = true;}
-                order(lastOrder);
-            }
-            function reverseOrder()
-            {
-                if(useReverseOrder == true) {useReverseOrder = false;}
-                else if(useReverseOrder == false) {useReverseOrder = true;}
+                if(linkReplaceId == true)
+                {
+                    linkReplaceId = false;
+                    document.getElementById("idStringTop").innerHTML = "(Click any of the IDs or names to copy them to the clipboard!)";
+                    document.getElementById("idStringBottom").innerHTML = "(Click any of the IDs or names to copy them to the clipboard!)";
+                }
+                else if(linkReplaceId == false)
+                {
+                    linkReplaceId = true;
+                    document.getElementById("idStringTop").innerHTML = "(Click any of the IDs or names to copy their link to the clipboard!)";
+                    document.getElementById("idStringBottom").innerHTML = "(Click any of the IDs or names to copy their link to the clipboard!)";
+                }
                 order(lastOrder);
             }
             function staffOnly()
             {
                 if(useStaffOnly == true) {useStaffOnly = false;}
                 else if(useStaffOnly == false) {useStaffOnly = true;}
+                order(lastOrder);
+            }
+            function reverseOrder()
+            {
+                if(useReverseOrder == true) {useReverseOrder = false;}
+                else if(useReverseOrder == false) {useReverseOrder = true;}
                 order(lastOrder);
             }
 
@@ -313,7 +328,11 @@
 
                 if(useStaffOnly)
                 {
-                    filteredData = filteredData.filter(val => {return Object.keys(userData[val]).includes("userGroups")})
+                    filteredData = filteredData.filter(val => {return Object.keys(userData[val]).includes("userGroups")});
+                    var mods = filteredData.filter(val => {return Object.keys(userData[val]["userGroups"]).includes("Moderator") || Object.keys(userData[val]["userGroups"]).includes("Administrator")});
+                    var me = filteredData.filter(val => {return userData[val]["name"] == "Icondor"})
+
+                    filteredData = mods.concat(me);
                 }
             }
 
@@ -452,8 +471,9 @@
                     var cellSteamLink = row2.insertCell(1);
                     var cellRALink = row2.insertCell(2);
 
-                    cellPFP.innerHTML = "<img style='height:80px; float:left;' src='" + userData[filteredData[i]]["avatar"] + "'>";
+                    cellPFP.innerHTML = "<a href='" + userData[filteredData[i]]["avatar"] + "' target='_blank'><img style='height:80px; float:left;' src='" + userData[filteredData[i]]["avatar"] + "'></a>";
                     cellPFP.style.padding = "0px";
+                    cellPFP.title = "Click to open the image in another tab!";
                     cellName.innerHTML = "<span id='tmp'>" + userData[filteredData[i]]["name"] + "</span>";
                     var p = document.getElementById("tmp");
                     if(Object.keys(userData[filteredData[i]]).includes("userGroups"))
@@ -558,10 +578,20 @@
 
                     cellCEID.innerHTML = "<span id='tmpCEID'>" + filteredData[i] + "</span>";
                     var p = document.getElementById("tmpCEID");
-                    p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i] + "')");
-                    p.classList.add('textCopyable');
-                    p.title = "Click to copy the Challenge Enthusiasts ID to clipboard!";
+                    if(!linkReplaceId)
+                    {
+                        p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i] + "')");
+                        p.classList.add('textCopyable');
+                        p.title = "Click to copy the Challenge Enthusiasts ID to clipboard!";
+                    }
+                    else
+                    {
+                        p.setAttribute("onClick", "navigator.clipboard.writeText('https://cedb.me/user/" + filteredData[i] + "')");
+                        p.classList.add('textCopyable');
+                        p.title = "Click to copy the Challenge Enthusiasts Link to clipboard!";
+                    }
                     p.id = null;
+
                     cellCELink.innerHTML = "<a id='tmpCELink' target='_blank' style='font-weight: bold; color:#000000'>Challenge Enthusiasts Profile</a>";
                     var a = document.getElementById("tmpCELink");
                     a.href = "https://cedb.me/user/" + filteredData[i];
@@ -571,9 +601,18 @@
                     var p = document.getElementById("tmpSteamID");
                     if(userData[filteredData[i]]["steamId"] != "N/A")
                     {
-                        p.setAttribute("onClick", "navigator.clipboard.writeText('" + userData[filteredData[i]]["steamId"] + "')");
-                        p.classList.add('textCopyable');
-                        p.title = "Click to copy the Steam ID to clipboard!";
+                        if(!linkReplaceId)
+                        {
+                            p.setAttribute("onClick", "navigator.clipboard.writeText('" + userData[filteredData[i]]["steamId"] + "')");
+                            p.classList.add('textCopyable');
+                            p.title = "Click to copy the Steam ID to clipboard!";
+                        }
+                        else
+                        {
+                            p.setAttribute("onClick", "navigator.clipboard.writeText('https://steamcommunity.com/profiles/" + userData[filteredData[i]]["steamId"] + "')");
+                            p.classList.add('textCopyable');
+                            p.title = "Click to copy the Steam Link to clipboard!";
+                        }
                         cellSteamLink.innerHTML = "<a id='tmpSteamLink' target='_blank' style='font-weight: bold; color:#1D88C7'>Steam Profile</a>";
                         var a = document.getElementById("tmpSteamLink");
                         a.href = "https://steamcommunity.com/profiles/" + userData[filteredData[i]]["steamId"];
@@ -590,9 +629,18 @@
                     var p = document.getElementById("tmpRAID");
                     if(userData[filteredData[i]]["retroId"] != "N/A")
                     {
-                        p.setAttribute("onClick", "navigator.clipboard.writeText('" + userData[filteredData[i]]["retroId"] + "')");
-                        p.classList.add('textCopyable');
-                        p.title = "Click to copy the Retro Achievements name to clipboard!";
+                        if(!linkReplaceId)
+                        {
+                            p.setAttribute("onClick", "navigator.clipboard.writeText('" + userData[filteredData[i]]["retroId"] + "')");
+                            p.classList.add('textCopyable');
+                            p.title = "Click to copy the Retro Achievements Name to clipboard!";
+                        }
+                        else
+                        {
+                            p.setAttribute("onClick", "navigator.clipboard.writeText('https://retroachievements.org/user/" + userData[filteredData[i]]["retroId"] + "')");
+                            p.classList.add('textCopyable');
+                            p.title = "Click to copy the Retro Achievements Link to clipboard!";
+                        }
                         cellRALink.innerHTML = "<a id='tmpRALink' target='_blank' style='color: #444444'><b style='color:#0F66DB'>Retro</b><b style='color:#eDB507'>Achievements</b> <b>Profile</b></a>";
                         var a = document.getElementById("tmpRALink");
                         a.href = "https://retroachievements.org/user/" + userData[filteredData[i]]["retroId"];
