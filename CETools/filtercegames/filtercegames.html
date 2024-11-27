@@ -188,6 +188,9 @@
                                 <td rowspan="3" id="extraFilter">
                                     <b>Extras & Non-Filters:</b><br>
                                     <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br><br>
+                                    <input  id="invertFilters" type="checkbox" onchange="invertFilters()">Invert Filters</input><br>
+                                    <sub class="subtitle">(Check for all games that DON'T apply to the active filters.)</sub><br>
+                                    <sub class="subtitle">(May seem funky with many filters active, especially the user filter!)</sub><br>
                                     <input id="pointMultiple" type="checkbox" onclick="nonMultiples()">(Points) Only non-multiples of 5</input><br>
                                     <sub class="subtitle">(Useful to find most Uncleared/Unvalued games)</sub><br>
                                     <input  id="idToLink" type="checkbox" onchange="idToLink()">(IDs) Copy ID > Copy Link</input><br>
@@ -418,6 +421,7 @@
             let usePercentage = false;
             let searchableUserId = "";
             let useReverseOrder = false;
+            let useInverseFilters = false;
 
             let listControls = false;
             let listData = [];
@@ -676,6 +680,12 @@
                 else if(useReverseOrder == false) {useReverseOrder = true;}
                 order(lastOrder);
             }
+            function invertFilters()
+            {
+                if(useInverseFilters == true) {useInverseFilters = false;}
+                else if(useInverseFilters == false) {useInverseFilters = true;}
+                order(lastOrder);
+            }
 
 
 
@@ -893,6 +903,24 @@
                     filteredData = filteredData.filter(obj => {return obj.name.toUpperCase().includes(filterText)})
                 }
 
+                if(searchableUserId != "")
+                {
+                    var filteredIds = [];
+                    var preFilteredData = [];
+                    
+                    filteredIds = filteredIds.concat(Object.keys(userData[searchableUserId]["gamesPoints"]));
+
+                    for(let j = 0; j < userData[searchableUserId]["gamesNoPoints"].length; j++)
+                    {
+                        filteredIds.push(userData[searchableUserId]["gamesNoPoints"][j]);
+                    }
+                    for(let k = 0; k < filteredIds.length; k++)
+                    {
+                        preFilteredData.push(filteredData.filter(obj => {return filteredIds[k] == obj["CEId"]}));
+                    }
+                    filteredData = preFilteredData.flat(1);
+                }
+
                 //filter by genre
                 var filteredGenre = [[],[],[],[],[],[]]; 
                 for(let i = 0; i < activeGenre.length; i++)
@@ -922,25 +950,7 @@
                     }
                 }
                 filteredData = filteredGenre.flat(1);
-            
-                if(searchableUserId != "")
-                {
-                    var filteredIds = [];
-                    var preFilteredData = [];
-                    
-                    filteredIds = filteredIds.concat(Object.keys(userData[searchableUserId]["gamesPoints"]));
 
-                    for(let j = 0; j < userData[searchableUserId]["gamesNoPoints"].length; j++)
-                    {
-                        filteredIds.push(userData[searchableUserId]["gamesNoPoints"][j]);
-                    }
-                    for(let k = 0; k < filteredIds.length; k++)
-                    {
-                        preFilteredData.push(filteredData.filter(obj => {return filteredIds[k] == obj["CEId"]}));
-                    }
-                    filteredData = preFilteredData.flat(1);
-                }
-                
                 if(!usePointsFilter)
                 {
                     //Filter by tier
@@ -1147,6 +1157,20 @@
                 if(useNonMultiples) {filteredData = filteredData.filter(obj => {return obj.points % 5 != 0})}
 
                 if(useListOnly) {filteredData = filteredData.filter(obj => {return listData.includes(obj["CEId"])})}
+                
+                if(useInverseFilters)
+                {
+                    filteredData = data.filter(invalidSearch);
+
+                    function invalidSearch(total)
+                    {
+                        for(let j = 0; j < filteredData.length; j++)
+                        {
+                            if(filteredData[j]["CEId"] == total["CEId"]) {console.log("removing " + filteredData[j]["name"]); return false;}
+                        }
+                        return true;
+                    }
+                }
 
                 //hide price and currency if unavailable
                 if(activePlatform == 2)
@@ -1227,7 +1251,6 @@
 
                 if(filteredData.length != data.length || activeCurrency != "USD") {document.getElementById("filterActivity").innerHTML = "Filters (Active!)"}
                 else {document.getElementById("filterActivity").innerHTML = "Filters"}
-
             }
 
             function order(type)
@@ -1495,7 +1518,6 @@
                     cellName.style.height = "86px";
                     var p = document.getElementById("tmp");
                     p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i]["name"] + "')");
-                    console.log(filteredData[i]["header"]);
                     p.classList.add('textCopyable');
                     p.title = "Click to copy the name to clipboard!";
                     p.removeAttribute("id");
