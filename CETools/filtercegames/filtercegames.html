@@ -1487,8 +1487,13 @@
                     }
 
                     cellName.innerHTML = "<span id='tmp'>" + filteredData[i]["name"] + "</span>";
+                    cellName.style.backgroundImage = "url(" + filteredData[i]["header"] + ")";
+                    cellName.style.backgroundSize = "100% 100%";
+                    cellName.style.backgroundBlendMode = "lighten";
+                    cellName.style.backgroundColor = "#ffffffd4";
                     var p = document.getElementById("tmp");
                     p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i]["name"] + "')");
+                    console.log(filteredData[i]["header"]);
                     p.classList.add('textCopyable');
                     p.title = "Click to copy the name to clipboard!";
                     p.removeAttribute("id");
