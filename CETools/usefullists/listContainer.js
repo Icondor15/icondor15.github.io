@@ -420,8 +420,8 @@ var listInfo = [
         "icon" : "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1466860/3c96a502dae11a84e18b82b4325297fc8b957a53.jpg",
         "description": "Complete all primary objectives in one game featured on the steam curator for each of the 6 categories on CE.",
         "notes": "Use the 'Genre' filter to divide by... \"Category\".",
-        "count" : 87,
-        "link" : "../filtercegames/filtercegames.html?list=feX23A8p1G3AGvIGoX5m1Wob12CCeb4J3ASnIGoXG22GoXE8TmoYQ94CeH8tSCeJY2CCetGo3AEKbmoY9c8Cf2AN3AHaHGoX1MQGocKm3A5JL93ACHQGoXA50WoY4cWCf2CZ3ACGUGoYG78CeHEP0CeHHJOCfPLv3A46To3ADdKWoaDpaCeJS6aCeNGuKCeq9X3A4ITe3A93bmoXD91WoaO9KCebKaCCeOPtGCeM17WCev833A8m9moXKpGWocWLCCg84G3AbXPWoX6G5moZXoaCeI4H4CeYCKKCfeWJ3AA1XWoZ4q0CftGO7AOoDWocaeaCeIKoSCeHU7aCfaPN3A502H3AGOKmoZ8XaCeOA90CeY5a3ASPamoX855mobWMOCeo9G3A9PQ0oX03MGobWqSCeo5M3A61XN3A8oaGocGGWCeGMPaCgO283A89av3AWHXmoXC4Q0oY054Cg4Q73AW90WoaMMWCfYPe.0"
+        "count" : 88,
+        "link" : "../filtercegames/filtercegames.html?list=feX23A8p1G3AXNK0oaEKaCeHS0OCfGGZ3A9H4modCKaCeK0WaCeJY7SCecYH3A4IDt3A4uWZ3ADqCWoZb9SCeYPY3AGYbmoaP4KCeGLcaCfbC0oXKrIGoZ4MaCeIXG8CeX9e3AGZ8moZ47aCea1o3A4JcG3A4KKs3AMLUGoX1dSWoZPr8Cf3Sv3A4t1f3A5qE53AD2OGoX4dQ0oYGvSCeJIGOCf62L3A9L933A66Tq3A5WHu3AEI0moYC2SCeLCq8Cfe5J3AY140ofOMOCeHa1SCeuSf3A4X4H3A8Z553AQ84moYWOOCenD03ATq61ocCZOCffA93A4bCd3A4NXv3AP6LmoXG0aGoa65CCeo8P3A62YG3A8XP0od6PCCeI1HSCfO5c3ACYK0oYMMWCeG0raCfOD73ACXLWoXWOLmoYCf4Cfa483A45cP3Ac0Y0oY2PEGoe4OSCeJ16WCeW1H3AX6Xmoe2G8Cf5be3AOcQ0"
     },
     {
         "name" : "	Zookeeper",
