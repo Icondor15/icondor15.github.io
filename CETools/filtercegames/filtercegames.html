@@ -1480,13 +1480,18 @@
                     {
                         var cellTierExtra = row2.insertCell(0)
                         cellTierExtra.innerHTML = "T6";
-                        cellTierExtra.style.backgroundColor = "#FC0390";
                         cellTierExtra.style.fontWeight = "bold";
                         if(filteredData[i]["points"] >= 1000)
                         {
                             cellTierExtra.innerHTML = "T7";
                             cellTierExtra.style.backgroundColor = "#D6D6D6";
                             cellTierExtra.style.color = "#787878";
+                        }
+                        else
+                        {
+                            cellTierExtra.style.backgroundImage = "url('T6 gradient.png')";
+                            cellTierExtra.style.backgroundSize = "100% 100%";
+                            cellTierExtra.style.color = "#00000077";
                         }
                         var cellPartialCompletion = row2.insertCell(1);
                         var cellPartialPercentage = row2.insertCell(2);
