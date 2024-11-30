@@ -188,15 +188,15 @@
                                 <td rowspan="3" id="extraFilter">
                                     <b>Extras & Non-Filters:</b><br>
                                     <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br><br>
+                                    <input id="pointMultiple" type="checkbox" onclick="nonMultiples()">(Points) Only non-multiples of 5</input><br>
+                                    <sub class="subtitle">(Useful to find most Uncleared/Unvalued games)</sub><br>
+                                    <input  id="idToLink" type="checkbox" onchange="idToLink()">(Links) Copy Link > Copy ID</input><br>
+                                    <sub class="subtitle">(Useful to copy many IDs quickly)</sub><br>
+                                    <input  id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
+                                    <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub><br>
                                     <input  id="invertFilters" type="checkbox" onchange="invertFilters()">Invert Filters</input><br>
                                     <sub class="subtitle">(Check for all games that DON'T apply to the active filters.)</sub><br>
                                     <sub class="subtitle">(May seem funky with many filters active, especially the user filter!)</sub><br>
-                                    <input id="pointMultiple" type="checkbox" onclick="nonMultiples()">(Points) Only non-multiples of 5</input><br>
-                                    <sub class="subtitle">(Useful to find most Uncleared/Unvalued games)</sub><br>
-                                    <input  id="idToLink" type="checkbox" onchange="idToLink()">(IDs) Copy ID > Copy Link</input><br>
-                                    <sub class="subtitle">(Useful to copy many links quickly)</sub><br>
-                                    <input  id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
-                                    <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub><br>
                                 </td>
                             </tr>
                             <tr>
@@ -315,7 +315,8 @@
                     <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('completedPercentage')">%</div>
                 </td>
                 <td class="button" colspan="2" onclick="order('final')">Order By Price</td>
-                <td rowspan="2" class="button" colspan="2" onclick="order('platformId')">Order By Id</td>
+                <td rowspan="2" class="button" onclick="order('createdAt')">Order By Date Added</td>
+                <td rowspan="2" class="button" onclick="order('platformId')">Order By Id</td>
             </tr>
             <tr>
                 <td colspan="2" style="padding:0%; background-color: #dddddd;">
@@ -334,12 +335,12 @@
                 <td colspan="2">Tier / Points</td>
                 <td colspan="3">Owners / Completions / Comp. %</td>
                 <td colspan="2">Current Price</td>
-                <td>
-                    IDs<br>
-                    <sub id="idStringTop" class="subtitle">(Click to copy the ID to clipboard!)</sub>
-                </td>
+                <td>Date Added</td>
                 <td>Links<br>
-                    <sub class="subtitle">(Opens in new tab!)</sub></td>
+                    <sub class="subtitle">(Opens in new tab!)</sub><br>
+                    <sub class="subtitle">(Hover to view the ID!)</sub><br>
+                    <sub id="idStringTop" class="subtitle">(Right Click to copy the ID!)</sub>
+                </td>
             </tr>
             <tr id="loading">
                 <td colspan="12">    
@@ -356,12 +357,12 @@
                 <td colspan="2">Tier / Points</td>
                 <td colspan="3">Owners / Completions / Comp. %</td>
                 <td colspan="2">Current Price</td>
-                <td>
-                    IDs<br>
-                    <sub id="idStringBottom" class="subtitle">(Click to copy the ID to clipboard!)</sub>
-                </td>
+                <td>Date Added</td>
                 <td>Links<br>
-                    <sub class="subtitle">(Opens in new tab!)</sub></td>
+                    <sub class="subtitle">(Opens in new tab!)</sub><br>
+                    <sub class="subtitle">(Hover to view the ID!)</sub><br>
+                    <sub id="idStringBottom" class="subtitle">(Right Click to copy the ID!)</sub>
+                </td>
             </tr>
             <tr>
                 <td rowspan="2" class="button" onclick="order('gameType')">Order By Platform</td>
@@ -374,7 +375,8 @@
                     <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('startedPercentage')">%</div>
                 </td>
                 <td class="button" colspan="2" onclick="order('discountPercent')">Order By Sale %</td>
-                <td rowspan="2" class="button" colspan="2" onclick="order('platformId')">Order By Id</td>
+                <td rowspan="2" class="button" onclick="order('createdAt')">Order By Date Added</td>
+                <td rowspan="2" class="button" onclick="order('platformId')">Order By Id</td>
             </tr>
             <tr>
                 <td colspan="2" style="padding:0%; background-color: #dddddd;">
@@ -416,7 +418,7 @@
             let isOnSale = false;
             let usePointsFilter = false;
             let useNonMultiples = false;
-            let linkReplaceId = false;
+            let linkReplaceId = true;
             let ownerFilterType = 0;
             let usePercentage = false;
             let searchableUserId = "";
@@ -1457,13 +1459,15 @@
                         cellDiscountPercentage.innerHTML = "<b>" + filteredData[i]["priceData"][activeCurrency]["discountPercent"] + "%</b>";
                         cellDiscountPercentage.style.backgroundColor = "#32A852";
                         cellDiscountPercentage.style.color = "#014A14";
-                        var cellSteam = row1.insertCell(10);
+                        var cellAddedOn = row1.insertCell(10);
+                        cellAddedOn.rowSpan = 2;
                         var cellLinkSteam = row1.insertCell(11);
                     }
                     else
                     {
                         cellBasePrice.colSpan = 2;
-                        var cellSteam = row1.insertCell(9);
+                        var cellAddedOn = row1.insertCell(9);
+                        cellAddedOn.rowSpan = 2;
                         var cellLinkSteam = row1.insertCell(10);
                     }
 
@@ -1473,8 +1477,8 @@
                     {
                         var cellPartialCompletion = row2.insertCell(0);
                         var cellPartialPercentage = row2.insertCell(1);
-                        var cellCE = row2.insertCell(2);
-                        var cellLinkCE = row2.insertCell(3);
+                        //var cellUpdatedOn = row2.insertCell(2);
+                        var cellLinkCE = row2.insertCell(2);
                     }
                     else
                     {
@@ -1495,8 +1499,8 @@
                         }
                         var cellPartialCompletion = row2.insertCell(1);
                         var cellPartialPercentage = row2.insertCell(2);
-                        var cellCE = row2.insertCell(3);
-                        var cellLinkCE = row2.insertCell(4);
+                        //var cellUpdatedOn = row2.insertCell(3);
+                        var cellLinkCE = row2.insertCell(3);
                     }
 
                     cellPartialCompletion.style.backgroundColor = "#FFCC0055";
@@ -1699,90 +1703,75 @@
                         cellBasePrice.style.backgroundColor = "#6B194D77";
                     }
                     
-                    cellSteam.innerHTML = filteredData[i]["platformId"];
+                        
+                    var createdDate = new Date(filteredData[i]["createdAt"])
+                    cellAddedOn.innerHTML = "<b>" + createdDate.getDate() + "/" + (createdDate.getMonth()+1) + "/" + createdDate.getFullYear() + "</b>";
+                    cellAddedOn.innerHTML += " - <b>" + createdDate.getHours() + ":" + createdDate.getMinutes() + ":" + createdDate.getSeconds() + "</b>";
+                    cellAddedOn.innerHTML += " (<b>GMT+" + createdDate.getTimezoneOffset()/60*-1 + "</b>)";
+
+                    /*
+                    var updatedDate = new Date(filteredData[i]["updatedAt"])
+                    cellUpdatedOn.innerHTML = "<b>" + updatedDate.getDate() + "/" + (updatedDate.getMonth()+1) + "/" + updatedDate.getFullYear() + "</b>";
+                    cellUpdatedOn.innerHTML += " - <b>" + updatedDate.getHours() + ":" + updatedDate.getMinutes() + ":" + updatedDate.getSeconds() + "</b>";
+                    cellUpdatedOn.innerHTML += " (<b>GMT+" + updatedDate.getTimezoneOffset()/60*-1 + "</b>)";
+                    */
+
                     if(!linkReplaceId)
                     {
-                        document.getElementById("idStringTop").innerHTML = "(Click to copy the ID to clipboard!)";
-                        document.getElementById("idStringBottom").innerHTML = "(Click to copy the ID to clipboard!)";
-                        if(filteredData[i]["gameType"] == 4) {cellSteam.style.textDecoration = "line-through 1.5px"}
-                        else
-                        {
-                            cellSteam.innerHTML = "<span id='tmp'>" + filteredData[i]["platformId"] + "</span>";
-                            var p = document.getElementById("tmp");
-                            p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i]["platformId"] + "')");
-                            p.classList.add('textCopyable');
-                            if(filteredData[i]["gameType"] != 3) {p.title = "Click to copy the Steam ID to clipboard!";}
-                            else {p.title = "Click to copy the RetroAchievements ID to clipboard!";}
-                            p.removeAttribute("id");
-                        }
-
-                        cellCE.innerHTML = "<span id='tmp'>" + filteredData[i]["CEId"] + "</span>";
-                        var p = document.getElementById("tmp");
-                        p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i]["CEId"] + "')");
-                        p.classList.add('textCopyable');
-                        p.title = "Click to copy the Challenge Enthusiasts ID to clipboard!";
-                        p.removeAttribute("id");
+                        document.getElementById("idStringTop").innerHTML = "(Right Click to copy the ID!)";
+                        document.getElementById("idStringBottom").innerHTML = "(Right Click to copy the ID!)";
                     }
                     else
                     {
-                        document.getElementById("idStringTop").innerHTML = "(Click to copy the link to clipboard!)";
-                        document.getElementById("idStringBottom").innerHTML = "(Click to copy the link to clipboard!)";
-                        if(filteredData[i]["gameType"] == 4) {cellSteam.style.textDecoration = "line-through 1.5px"}
-                        else
-                        {
-                            cellSteam.innerHTML = "<span id='tmp'>" + filteredData[i]["platformId"] + "</span>";
-                            var p = document.getElementById("tmp");
-                            if(filteredData[i]["gameType"] != 3)
-                            {
-                                p.setAttribute("onClick", "navigator.clipboard.writeText('https://store.steampowered.com/app/" + filteredData[i]["platformId"] + "')");
-                                p.title = "Click to copy the Steam Link to clipboard!";
-                            }
-                            else
-                            {
-                                p.setAttribute("onClick", "navigator.clipboard.writeText('https://retroachievements.org/game/" + filteredData[i]["platformId"] + "')");
-                                p.title = "Click to copy the RetroAchievements Link to clipboard!";
-                            }
-                            p.classList.add('textCopyable');
-                            p.removeAttribute("id");
-                        }
-
-                        cellCE.innerHTML = "<span id='tmp'>" + filteredData[i]["CEId"] + "</span>";
-                        var p = document.getElementById("tmp");
-                        p.setAttribute("onClick", "navigator.clipboard.writeText('https://cedb.me/game/" + filteredData[i]["CEId"] + "')");
-                        p.classList.add('textCopyable');
-                        p.title = "Click to copy the Challenge Enthusiasts link to clipboard!";
-                        p.removeAttribute("id");
-
+                        document.getElementById("idStringTop").innerHTML = "(Right Click to copy the link!)";
+                        document.getElementById("idStringBottom").innerHTML = "(Right Click to copy the link!)";
                     }
 
                     if(filteredData[i]["gameType"] < 2)
                     {
                         cellLinkSteam.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#1D88C7'>Steam</a>";
                         var a = document.getElementById("tmp");
+                        a.title = "Steam ID: " + filteredData[i]["platformId"];
                         a.href = "https://store.steampowered.com/app/" + filteredData[i]["platformId"];
                     }
                     else if(filteredData[i]["gameType"] == 2)
                     {
                         cellLinkSteam.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#A31BB3'>Steam (Unavailable?)</a>";
                         var a = document.getElementById("tmp");
+                        a.title = "Steam ID: " + filteredData[i]["platformId"];
                         a.href = "https://store.steampowered.com/app/" + filteredData[i]["platformId"];
                     }
                     else if(filteredData[i]["gameType"] == 3)
                     {
                         cellLinkSteam.innerHTML = "<a id='tmp' target='_blank'><b style='color:#0F66DB'>Retro</b><b style='color:#eDB507'>Achievements</b></a>";
                         var a = document.getElementById("tmp");
+                        a.title = "Retro Achievements ID: " + filteredData[i]["platformId"];
                         a.href = "https://retroachievements.org/game/" + filteredData[i]["platformId"];
                     }
                     else if(filteredData[i]["gameType"] == 4)
                     {
                         cellLinkSteam.innerHTML = "<p id='tmp' style='font-weight: bold; color:#6B194D; user-select: none; text-decoration:line-through 1.5px;'>Steam (Broken)</p>";
                         var a = document.getElementById("tmp");
+                        a.title = "Steam ID (Broken): " + filteredData[i]["platformId"];
+                        a.href = "";
                     }
+
+                    if(!linkReplaceId) {a.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + filteredData[i]["platformId"] + "')");}
+                    else {a.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + a.href + "')");}
+                    a.addEventListener("contextmenu", (e) => {e.preventDefault()});
+                    a.classList.add('textCopyable');
                     a.removeAttribute("id");
 
                     cellLinkCE.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#000000'>Challenge Enthusiasts</a>";
                     var a = document.getElementById("tmp");
                     a.href = "https://cedb.me/game/" + filteredData[i]["CEId"];
+                    
+                    if(!linkReplaceId) {a.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + filteredData[i]["CEId"] + "')");}
+                    else {a.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + a.href + "')");}
+
+                    a.addEventListener("contextmenu", (e) => {e.preventDefault()});
+                    a.title = "Challenge Enthusiasts ID: " + filteredData[i]["CEId"];
+                    a.classList.add('textCopyable');
                     a.removeAttribute("id");
 
                     if(i%2 == 0)
