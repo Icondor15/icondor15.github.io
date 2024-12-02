@@ -10,7 +10,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-11T23:48:35.000Z",
-        "updatedAt": "2024-04-02T15:45:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -45,6 +45,11 @@ var data =
                 "final": 229,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -57,10 +62,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-27T02:35:31.000Z",
-        "updatedAt": "2024-05-31T14:44:55.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 41,
+        "playersTotal": 42,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -92,6 +97,11 @@ var data =
                 "final": 64,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 41
         }
     },
     {
@@ -104,7 +114,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-12-28T16:02:56.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 70,
         "playersStarted": 0,
         "playersTotal": 121,
@@ -139,6 +149,11 @@ var data =
                 "final": 669,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -151,7 +166,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:08:44.000Z",
-        "updatedAt": "2022-06-20T22:39:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 68,
         "playersStarted": 0,
         "playersTotal": 503,
@@ -186,6 +201,11 @@ var data =
                 "final": 109,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -198,7 +218,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:12:02.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 40,
         "playersStarted": 0,
         "playersTotal": 186,
@@ -233,6 +253,11 @@ var data =
                 "final": 1121,
                 "discountPercent": 34
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -245,7 +270,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-07T02:19:33.000Z",
-        "updatedAt": "2024-05-08T08:46:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -280,6 +305,11 @@ var data =
                 "final": 249,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 7
         }
     },
     {
@@ -292,7 +322,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:06:16.000Z",
-        "updatedAt": "2022-06-07T03:44:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 101,
         "playersStarted": 0,
         "playersTotal": 394,
@@ -327,6 +357,11 @@ var data =
                 "final": 129,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 8
         }
     },
     {
@@ -339,7 +374,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2024-06-09T23:35:11.000Z",
-        "updatedAt": "2024-06-10T00:08:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 79,
@@ -374,6 +409,11 @@ var data =
                 "final": 339,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -386,7 +426,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-12-04T04:50:44.000Z",
-        "updatedAt": "2024-06-09T21:26:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 3,
         "playersTotal": 57,
@@ -421,6 +461,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -468,6 +513,11 @@ var data =
                 "final": 558,
                 "discountPercent": 14
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -480,7 +530,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:56:27.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 44,
         "playersStarted": 0,
         "playersTotal": 229,
@@ -515,6 +565,11 @@ var data =
                 "final": 197,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -527,7 +582,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-18T22:08:58.000Z",
-        "updatedAt": "2024-04-02T15:45:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -562,6 +617,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -574,7 +634,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-20T15:35:33.000Z",
-        "updatedAt": "2023-01-05T09:15:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -609,6 +669,11 @@ var data =
                 "final": 131,
                 "discountPercent": 76
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -621,7 +686,7 @@ var data =
         "tier": 5,
         "points": 270,
         "createdAt": "2020-01-28T09:40:51.000Z",
-        "updatedAt": "2023-01-08T02:37:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 239,
         "playersTotal": 756,
@@ -656,6 +721,11 @@ var data =
                 "final": 535,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 2,
+            "achievements": 44
         }
     },
     {
@@ -668,7 +738,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-03-08T15:10:02.000Z",
-        "updatedAt": "2024-03-09T06:34:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 40,
         "playersStarted": 0,
         "playersTotal": 56,
@@ -703,6 +773,11 @@ var data =
                 "final": 909,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 2
         }
     },
     {
@@ -750,7 +825,13 @@ var data =
                 "final": 1949,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 2,
+            "achievements": 46
+        },
+        "information": "For \"Timeless End\", you may only complete the original 114 Death Wish stamps. Seasonal event challenges (Winter and Summer) and the Nyakuza Metro secret sticker (commonly deemed as a \"secret\" Death Wish) are not required.\n\nBonus objectives are not required for \"Your Contract Has Expired\". Beating the level will do. This does not apply to the Primary Objective proof.\n\n----\n\n_Levels that can be ignored for the Emblem POs:_\n__Jumpless:__ Queen Vanessa's Manor (impossible due to level design), Award Ceremony (emblems per se are bugged, level is possible), spaceship time rifts (no reward)\n__Speedrun:__ Rush Hour and Award Ceremony (emblems are bugged and not awarded for whatever reason), spaceship time rifts (no reward)"
     },
     {
         "gameType": 0,
@@ -762,7 +843,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-16T02:22:50.000Z",
-        "updatedAt": "2024-04-02T15:45:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -797,7 +878,13 @@ var data =
                 "final": 274,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 13
+        },
+        "information": "You can reset your upgrades by selecting \"DELETE PROFILE\" in the options."
     },
     {
         "gameType": 0,
@@ -809,7 +896,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:32:35.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -844,6 +931,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 38
         }
     },
     {
@@ -856,7 +948,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-17T13:23:58.000Z",
-        "updatedAt": "2022-12-18T16:06:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -891,6 +983,11 @@ var data =
                 "final": 334,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -903,7 +1000,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:20:44.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 52,
@@ -938,6 +1035,11 @@ var data =
                 "final": 129,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -950,7 +1052,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-22T02:25:43.000Z",
-        "updatedAt": "2022-04-22T02:32:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -985,6 +1087,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -997,7 +1104,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-01-04T08:59:22.000Z",
-        "updatedAt": "2023-01-04T11:03:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 63,
@@ -1032,6 +1139,11 @@ var data =
                 "final": 1699,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 84
         }
     },
     {
@@ -1044,7 +1156,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:07:31.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 71,
         "playersStarted": 0,
         "playersTotal": 607,
@@ -1079,6 +1191,11 @@ var data =
                 "final": 292,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -1091,7 +1208,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-11T18:08:17.000Z",
-        "updatedAt": "2024-09-07T17:21:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -1126,6 +1243,11 @@ var data =
                 "final": 224,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -1138,7 +1260,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-03T05:58:50.000Z",
-        "updatedAt": "2024-04-03T06:05:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -1173,7 +1295,13 @@ var data =
                 "final": 245,
                 "discountPercent": 70
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
+        },
+        "information": "Follow the order specified by the game for achievements!"
     },
     {
         "gameType": 0,
@@ -1185,7 +1313,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-17T13:23:08.000Z",
-        "updatedAt": "2022-12-17T13:33:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -1220,6 +1348,11 @@ var data =
                 "final": 779,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -1232,7 +1365,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-18T16:22:54.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 151,
@@ -1267,6 +1400,11 @@ var data =
                 "final": 424,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 92
         }
     },
     {
@@ -1279,7 +1417,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:46:57.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
         "playersTotal": 211,
@@ -1314,6 +1452,11 @@ var data =
                 "final": 774,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -1326,7 +1469,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-04T16:31:17.000Z",
-        "updatedAt": "2024-05-04T17:08:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 72,
@@ -1361,6 +1504,11 @@ var data =
                 "final": 779,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 67
         }
     },
     {
@@ -1373,7 +1521,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:30:11.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 180,
@@ -1408,6 +1556,11 @@ var data =
                 "final": 1699,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -1420,7 +1573,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-21T04:06:30.000Z",
-        "updatedAt": "2024-09-09T23:52:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -1455,7 +1608,13 @@ var data =
                 "final": 154,
                 "discountPercent": 90
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
+        },
+        "information": "In need of more opinions on difficulty."
     },
     {
         "gameType": 0,
@@ -1467,7 +1626,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-10-24T11:18:52.000Z",
-        "updatedAt": "2023-06-21T01:21:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 2,
         "playersTotal": 65,
@@ -1502,6 +1661,11 @@ var data =
                 "final": 779,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 101
         }
     },
     {
@@ -1514,7 +1678,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-03-11T14:34:04.000Z",
-        "updatedAt": "2024-03-12T18:13:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 19,
@@ -1549,6 +1713,11 @@ var data =
                 "final": 389,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -1561,7 +1730,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2023-07-26T23:57:01.000Z",
-        "updatedAt": "2024-06-09T21:27:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 111,
@@ -1596,6 +1765,11 @@ var data =
                 "final": 1349,
                 "discountPercent": 55
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 46
         }
     },
     {
@@ -1608,7 +1782,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-06-09T11:19:33.000Z",
-        "updatedAt": "2022-06-09T11:24:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -1643,6 +1817,11 @@ var data =
                 "final": 487,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -1655,7 +1834,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2022-11-10T03:27:10.000Z",
-        "updatedAt": "2023-05-15T04:09:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 6,
         "playersTotal": 122,
@@ -1690,6 +1869,11 @@ var data =
                 "final": 479,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 4
         }
     },
     {
@@ -1702,7 +1886,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-12-30T19:53:54.000Z",
-        "updatedAt": "2023-05-28T00:27:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 17,
         "playersTotal": 207,
@@ -1737,6 +1921,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -1749,7 +1938,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-04T09:28:41.000Z",
-        "updatedAt": "2024-02-13T10:44:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -1784,6 +1973,11 @@ var data =
                 "final": 519,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -1796,7 +1990,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:52:38.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 58,
         "playersStarted": 0,
         "playersTotal": 149,
@@ -1831,6 +2025,11 @@ var data =
                 "final": 142,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -1843,7 +2042,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-13T06:21:48.000Z",
-        "updatedAt": "2023-01-13T06:46:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 102,
@@ -1878,6 +2077,11 @@ var data =
                 "final": 194,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -1890,7 +2094,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-05-05T04:29:49.000Z",
-        "updatedAt": "2022-05-05T04:37:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 32,
         "playersTotal": 285,
@@ -1925,6 +2129,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -1937,7 +2146,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T18:38:31.000Z",
-        "updatedAt": "2024-05-31T14:29:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -1972,6 +2181,11 @@ var data =
                 "final": 449,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -1984,7 +2198,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-11T16:07:17.000Z",
-        "updatedAt": "2024-09-07T17:22:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 42,
@@ -2014,6 +2228,11 @@ var data =
                 "final": 424,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -2026,7 +2245,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-03-20T15:56:40.000Z",
-        "updatedAt": "2024-03-27T05:46:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -2061,6 +2280,11 @@ var data =
                 "final": 309,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -2073,7 +2297,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-07-26T15:59:37.000Z",
-        "updatedAt": "2022-12-18T00:51:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 5,
         "playersTotal": 76,
@@ -2108,6 +2332,11 @@ var data =
                 "final": 524,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -2120,7 +2349,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-04-14T18:41:02.000Z",
-        "updatedAt": "2024-04-02T15:45:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 50,
         "playersStarted": 0,
         "playersTotal": 183,
@@ -2155,6 +2384,11 @@ var data =
                 "final": 114,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -2167,7 +2401,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-15T17:58:35.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 240,
@@ -2202,6 +2436,11 @@ var data =
                 "final": 116,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 22
         }
     },
     {
@@ -2214,7 +2453,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T18:54:52.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 116,
@@ -2249,6 +2488,11 @@ var data =
                 "final": 233,
                 "discountPercent": 82
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -2296,7 +2540,13 @@ var data =
                 "final": 471,
                 "discountPercent": 60
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 19
+        },
+        "information": "__Par times for reference__\n\nParalysis Garden: 29.50\nA Tower of Nightmares: 51.04\nNot Alone: 2:00.00\nShowtime: 35.00\nEvening Star: 40.00\n\n-------\n\nContainment: 1:00.00\nImplacable Ball: 30.00\nHall of Danger: 30.00\nInversion Chambers: 2:10.00\nDuality: 1:05.00\nParalyzing Decay: 0:55.00\nDepths of Despair: 7:00.00"
     },
     {
         "gameType": 0,
@@ -2308,7 +2558,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-02-29T21:34:50.000Z",
-        "updatedAt": "2024-02-29T22:12:45.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 132,
@@ -2343,6 +2593,11 @@ var data =
                 "final": 779,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 41
         }
     },
     {
@@ -2355,7 +2610,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-02-03T04:21:18.000Z",
-        "updatedAt": "2024-01-09T03:05:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -2390,6 +2645,11 @@ var data =
                 "final": 119,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -2402,7 +2662,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-08T19:30:39.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 120,
@@ -2437,6 +2697,11 @@ var data =
                 "final": 169,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -2449,7 +2714,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-08-19T16:48:52.000Z",
-        "updatedAt": "2023-08-30T19:59:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 109,
@@ -2484,6 +2749,11 @@ var data =
                 "final": 129,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -2496,7 +2766,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-22T00:45:05.000Z",
-        "updatedAt": "2023-09-22T02:21:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -2531,6 +2801,11 @@ var data =
                 "final": 204,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -2543,7 +2818,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-08-26T01:54:15.000Z",
-        "updatedAt": "2024-09-07T17:17:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 10,
@@ -2578,7 +2853,13 @@ var data =
                 "final": 1364,
                 "discountPercent": 30
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 19
+        },
+        "information": "If you plan on submitting verification, enable \"No Nipple Mode\""
     },
     {
         "gameType": 0,
@@ -2625,6 +2906,11 @@ var data =
                 "final": 2309,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -2637,7 +2923,7 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2020-01-28T09:35:03.000Z",
-        "updatedAt": "2022-07-24T06:30:25.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 3,
         "playersTotal": 176,
@@ -2672,6 +2958,11 @@ var data =
                 "final": 454,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 19
         }
     },
     {
@@ -2684,7 +2975,7 @@ var data =
         "tier": 2,
         "points": 33,
         "createdAt": "2022-09-02T05:36:49.000Z",
-        "updatedAt": "2024-11-14T16:33:14.000Z",
+        "updatedAt": "2024-11-14T16:36:19.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 24,
@@ -2719,6 +3010,11 @@ var data =
                 "final": 909,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 1,
+            "achievements": 20
         }
     },
     {
@@ -2731,7 +3027,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T18:52:28.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 103,
@@ -2766,6 +3062,11 @@ var data =
                 "final": 454,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -2778,7 +3079,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-01-10T21:02:39.000Z",
-        "updatedAt": "2024-04-02T15:45:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -2813,6 +3114,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 8
         }
     },
     {
@@ -2825,7 +3131,7 @@ var data =
         "tier": 5,
         "points": 225,
         "createdAt": "2020-01-28T10:03:40.000Z",
-        "updatedAt": "2023-02-20T01:46:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 17,
         "playersTotal": 215,
@@ -2860,6 +3166,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 4,
+            "achievements": 23
         }
     },
     {
@@ -2872,7 +3183,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:49:01.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 78,
@@ -2907,6 +3218,11 @@ var data =
                 "final": 329,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 81
         }
     },
     {
@@ -2919,7 +3235,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:43:48.000Z",
-        "updatedAt": "2024-04-02T15:45:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 67,
@@ -2954,6 +3270,11 @@ var data =
                 "final": 194,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 36
         }
     },
     {
@@ -2966,7 +3287,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-07T20:02:16.000Z",
-        "updatedAt": "2024-06-07T20:16:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -3001,7 +3322,13 @@ var data =
                 "final": 549,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
+        },
+        "information": "Crystal = 5:30\nJungle = 5:45\nUnderground = 16:00"
     },
     {
         "gameType": 0,
@@ -3013,7 +3340,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-06-10T09:16:28.000Z",
-        "updatedAt": "2024-06-11T02:22:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -3048,6 +3375,11 @@ var data =
                 "final": 874,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 40
         }
     },
     {
@@ -3060,7 +3392,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-30T18:42:21.000Z",
-        "updatedAt": "2023-01-29T21:23:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 33,
@@ -3095,6 +3427,11 @@ var data =
                 "final": 339,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -3107,7 +3444,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-09-02T23:03:49.000Z",
-        "updatedAt": "2024-09-07T17:16:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 24,
@@ -3142,6 +3479,11 @@ var data =
                 "final": 2799,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 48
         }
     },
     {
@@ -3154,7 +3496,7 @@ var data =
         "tier": 3,
         "points": 51,
         "createdAt": "2023-05-10T17:04:40.000Z",
-        "updatedAt": "2023-07-12T16:56:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 22,
@@ -3189,6 +3531,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 41
         }
     },
     {
@@ -3201,7 +3548,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-09-17T06:06:23.000Z",
-        "updatedAt": "2023-09-17T06:46:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 32,
         "playersStarted": 0,
         "playersTotal": 112,
@@ -3236,6 +3583,11 @@ var data =
                 "final": 7999,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -3248,7 +3600,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-15T22:52:28.000Z",
-        "updatedAt": "2024-04-02T15:46:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -3283,6 +3635,11 @@ var data =
                 "final": 426,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 17
         }
     },
     {
@@ -3295,7 +3652,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-17T00:51:53.000Z",
-        "updatedAt": "2024-05-20T02:29:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -3330,6 +3687,11 @@ var data =
                 "final": 1249,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -3342,7 +3704,7 @@ var data =
         "tier": 3,
         "points": 52,
         "createdAt": "2021-01-21T21:04:35.000Z",
-        "updatedAt": "2024-04-19T23:34:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 11,
         "playersTotal": 129,
@@ -3377,6 +3739,11 @@ var data =
                 "final": 569,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -3389,7 +3756,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-01-23T17:17:37.000Z",
-        "updatedAt": "2023-01-23T18:09:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 13,
@@ -3424,6 +3791,11 @@ var data =
                 "final": 574,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -3436,7 +3808,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-08-11T01:07:26.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -3471,6 +3843,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -3483,7 +3860,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-05-18T14:48:51.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 120,
@@ -3518,6 +3895,11 @@ var data =
                 "final": 2279,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 40
         }
     },
     {
@@ -3530,7 +3912,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-18T02:52:02.000Z",
-        "updatedAt": "2024-09-07T17:29:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -3565,6 +3947,11 @@ var data =
                 "final": 116,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 32
         }
     },
     {
@@ -3577,7 +3964,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-08-14T02:49:48.000Z",
-        "updatedAt": "2022-08-14T03:51:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -3612,6 +3999,11 @@ var data =
                 "final": 507,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -3624,7 +4016,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-09T17:07:48.000Z",
-        "updatedAt": "2022-07-09T17:11:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -3659,6 +4051,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -3671,7 +4068,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-11T16:26:32.000Z",
-        "updatedAt": "2024-09-07T17:21:45.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -3706,6 +4103,11 @@ var data =
                 "final": 194,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -3718,7 +4120,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-11-10T05:17:46.000Z",
-        "updatedAt": "2024-06-10T00:54:25.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 37,
@@ -3753,6 +4155,11 @@ var data =
                 "final": 1224,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 86
         }
     },
     {
@@ -3765,7 +4172,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2021-05-14T06:58:16.000Z",
-        "updatedAt": "2023-01-24T05:41:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 230,
@@ -3800,6 +4207,11 @@ var data =
                 "final": 487,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -3812,10 +4224,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:54:18.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
-        "playersTotal": 170,
+        "playersTotal": 171,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -3847,6 +4259,11 @@ var data =
                 "final": 104,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -3859,7 +4276,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-08-02T05:16:30.000Z",
-        "updatedAt": "2024-04-02T15:46:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -3894,6 +4311,11 @@ var data =
                 "final": 509,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -3941,6 +4363,11 @@ var data =
                 "final": 389,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -3953,7 +4380,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-03-30T20:15:28.000Z",
-        "updatedAt": "2024-07-29T15:21:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 16,
@@ -3988,7 +4415,13 @@ var data =
                 "final": 3969,
                 "discountPercent": 0
             }
-        }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 30
+        },
+        "information": "This game requires a VR headset in order to play."
     },
     {
         "gameType": 0,
@@ -4000,7 +4433,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-12T13:50:29.000Z",
-        "updatedAt": "2024-04-02T15:46:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -4035,6 +4468,11 @@ var data =
                 "final": 449,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 56
         }
     },
     {
@@ -4047,10 +4485,10 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2024-08-03T22:14:19.000Z",
-        "updatedAt": "2024-09-27T17:21:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
-        "playersTotal": 10,
+        "playersTotal": 11,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -4082,7 +4520,13 @@ var data =
                 "final": 324,
                 "discountPercent": 75
             }
-        }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 45
+        },
+        "information": "Note: if you're attempting the \"T\u039eMP\u00d8R\u0394L \u0394N\u00d8M\u0394LY\" PO, you might want to return to menu every time you fail a run instead of restarting. There are reported issues with earning its achievement otherwise."
     },
     {
         "gameType": 0,
@@ -4094,7 +4538,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T10:01:34.000Z",
-        "updatedAt": "2023-07-23T00:56:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 2,
         "playersTotal": 137,
@@ -4129,6 +4573,11 @@ var data =
                 "final": 109,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 52
         }
     },
     {
@@ -4141,7 +4590,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T19:12:02.000Z",
-        "updatedAt": "2024-05-31T14:25:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
         "playersTotal": 209,
@@ -4176,6 +4625,11 @@ var data =
                 "final": 549,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -4188,7 +4642,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-10T15:57:22.000Z",
-        "updatedAt": "2022-05-10T16:00:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -4223,6 +4677,11 @@ var data =
                 "final": 344,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 6
         }
     },
     {
@@ -4235,7 +4694,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-06-25T18:47:35.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -4270,6 +4729,11 @@ var data =
                 "final": 1674,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 39
         }
     },
     {
@@ -4282,7 +4746,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-23T12:06:54.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -4317,6 +4781,11 @@ var data =
                 "final": 679,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -4364,6 +4833,11 @@ var data =
                 "final": 229,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -4376,7 +4850,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-07T14:18:47.000Z",
-        "updatedAt": "2024-04-02T15:46:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -4411,6 +4885,11 @@ var data =
                 "final": 574,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -4423,7 +4902,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-18T02:32:44.000Z",
-        "updatedAt": "2023-06-24T06:28:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 6,
         "playersTotal": 117,
@@ -4458,6 +4937,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -4470,7 +4954,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2022-06-12T10:24:42.000Z",
-        "updatedAt": "2022-09-04T01:48:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 177,
@@ -4505,6 +4989,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 78
         }
     },
     {
@@ -4517,7 +5006,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:57:05.000Z",
-        "updatedAt": "2024-01-01T18:35:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 91,
@@ -4552,6 +5041,11 @@ var data =
                 "final": 224,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -4564,7 +5058,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-16T22:40:35.000Z",
-        "updatedAt": "2024-05-17T02:26:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 13,
         "playersTotal": 170,
@@ -4599,6 +5093,11 @@ var data =
                 "final": 1614,
                 "discountPercent": 15
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 3,
+            "achievements": 31
         }
     },
     {
@@ -4611,7 +5110,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-09-07T08:46:53.000Z",
-        "updatedAt": "2024-06-29T11:04:25.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 4,
         "playersTotal": 23,
@@ -4646,7 +5145,13 @@ var data =
                 "final": 287,
                 "discountPercent": 75
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 17
+        },
+        "information": "SSS rank is acquired at ~7,680,000 BR."
     },
     {
         "gameType": 0,
@@ -4693,6 +5198,11 @@ var data =
                 "final": 274,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -4705,7 +5215,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:41:15.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 41,
         "playersStarted": 0,
         "playersTotal": 242,
@@ -4740,6 +5250,11 @@ var data =
                 "final": 98,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 7
         }
     },
     {
@@ -4752,7 +5267,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-01T18:07:42.000Z",
-        "updatedAt": "2024-04-02T15:46:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 90,
         "playersStarted": 0,
         "playersTotal": 467,
@@ -4787,6 +5302,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -4799,7 +5319,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2024-09-07T22:24:11.000Z",
-        "updatedAt": "2024-09-09T19:03:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -4834,6 +5354,11 @@ var data =
                 "final": 849,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -4846,7 +5371,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:48:01.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -4881,6 +5406,11 @@ var data =
                 "final": 519,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -4893,7 +5423,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-10-24T16:00:37.000Z",
-        "updatedAt": "2024-02-12T15:31:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 96,
         "playersTotal": 773,
@@ -4928,6 +5458,11 @@ var data =
                 "final": 509,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -4940,7 +5475,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2023-11-26T21:21:39.000Z",
-        "updatedAt": "2023-11-26T22:30:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 14,
         "playersTotal": 258,
@@ -4975,6 +5510,11 @@ var data =
                 "final": 899,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -4987,7 +5527,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-11-30T20:24:11.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -5022,6 +5562,11 @@ var data =
                 "final": 1399,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -5034,7 +5579,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-17T15:21:42.000Z",
-        "updatedAt": "2024-04-02T15:46:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -5069,6 +5614,11 @@ var data =
                 "final": 219,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -5081,7 +5631,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-08-25T17:35:19.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 47,
         "playersStarted": 0,
         "playersTotal": 258,
@@ -5116,6 +5666,11 @@ var data =
                 "final": 99,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 65
         }
     },
     {
@@ -5128,7 +5683,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-03-06T04:53:01.000Z",
-        "updatedAt": "2024-04-02T15:46:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -5163,6 +5718,11 @@ var data =
                 "final": 524,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -5175,7 +5735,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2023-04-11T14:42:15.000Z",
-        "updatedAt": "2024-04-16T00:44:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 25,
         "playersStarted": 45,
         "playersTotal": 132,
@@ -5210,6 +5770,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 7
         }
     },
     {
@@ -5222,7 +5787,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-02-14T22:57:40.000Z",
-        "updatedAt": "2023-06-24T06:33:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -5247,6 +5812,11 @@ var data =
                 "final": 439,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -5259,7 +5829,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-11-27T05:15:52.000Z",
-        "updatedAt": "2023-11-27T09:42:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -5294,6 +5864,11 @@ var data =
                 "final": 798,
                 "discountPercent": 66
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 53
         }
     },
     {
@@ -5306,7 +5881,7 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2022-09-19T08:44:29.000Z",
-        "updatedAt": "2023-04-27T02:38:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 44,
@@ -5341,6 +5916,11 @@ var data =
                 "final": 399,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -5353,7 +5933,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-20T00:18:58.000Z",
-        "updatedAt": "2024-04-02T15:46:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 50,
@@ -5388,6 +5968,11 @@ var data =
                 "final": 154,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -5435,6 +6020,11 @@ var data =
                 "final": 1874,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -5447,7 +6037,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-01-29T19:16:53.000Z",
-        "updatedAt": "2023-01-29T19:35:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 29,
         "playersTotal": 543,
@@ -5482,6 +6072,11 @@ var data =
                 "final": 824,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 80
         }
     },
     {
@@ -5494,7 +6089,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-19T01:23:52.000Z",
-        "updatedAt": "2024-01-19T01:30:08.000Z",
+        "updatedAt": "2024-12-01T19:24:50.000Z",
         "playersCompleted": 1,
         "playersStarted": 16,
         "playersTotal": 86,
@@ -5529,6 +6124,11 @@ var data =
                 "final": 472,
                 "discountPercent": 73
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -5541,7 +6141,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T10:04:42.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 6,
         "playersTotal": 203,
@@ -5576,6 +6176,11 @@ var data =
                 "final": 549,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 26
         }
     },
     {
@@ -5588,7 +6193,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-20T21:51:35.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 101,
@@ -5623,6 +6228,11 @@ var data =
                 "final": 549,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -5635,7 +6245,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-20T21:52:20.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 106,
@@ -5670,6 +6280,11 @@ var data =
                 "final": 549,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -5682,7 +6297,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-10-10T23:37:43.000Z",
-        "updatedAt": "2023-10-10T23:40:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -5717,6 +6332,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 36
         }
     },
     {
@@ -5729,7 +6349,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:29:45.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 45,
         "playersStarted": 0,
         "playersTotal": 342,
@@ -5764,6 +6384,11 @@ var data =
                 "final": 549,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 26
         }
     },
     {
@@ -5776,7 +6401,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-01-25T02:14:26.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -5811,6 +6436,11 @@ var data =
                 "final": 1525,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -5823,7 +6453,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:24:11.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 140,
@@ -5858,6 +6488,11 @@ var data =
                 "final": 117,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 45
         }
     },
     {
@@ -5870,7 +6505,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-10-09T00:41:31.000Z",
-        "updatedAt": "2023-10-09T10:35:55.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -5905,6 +6540,11 @@ var data =
                 "final": 699,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 56
         }
     },
     {
@@ -5917,7 +6557,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:31:58.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -5952,6 +6592,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -5964,10 +6609,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:25:02.000Z",
-        "updatedAt": "2023-12-13T05:30:44.000Z",
-        "playersCompleted": 89,
+        "updatedAt": "2024-09-28T16:51:24.000Z",
+        "playersCompleted": 90,
         "playersStarted": 0,
-        "playersTotal": 571,
+        "playersTotal": 572,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -5999,6 +6644,11 @@ var data =
                 "final": 579,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 45
         }
     },
     {
@@ -6011,7 +6661,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-11-29T06:52:14.000Z",
-        "updatedAt": "2024-04-02T15:46:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -6046,6 +6696,11 @@ var data =
                 "final": 129,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -6058,7 +6713,7 @@ var data =
         "tier": 3,
         "points": 66,
         "createdAt": "2024-04-09T00:01:43.000Z",
-        "updatedAt": "2024-04-13T05:03:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 8,
         "playersTotal": 64,
@@ -6093,6 +6748,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 48
         }
     },
     {
@@ -6105,7 +6765,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-09T11:13:36.000Z",
-        "updatedAt": "2023-09-01T12:46:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -6140,6 +6800,11 @@ var data =
                 "final": 224,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -6152,7 +6817,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-04-16T22:44:26.000Z",
-        "updatedAt": "2023-01-29T20:51:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 20,
         "playersTotal": 163,
@@ -6187,6 +6852,11 @@ var data =
                 "final": 437,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -6199,7 +6869,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:19:07.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 126,
@@ -6234,6 +6904,11 @@ var data =
                 "final": 487,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 39
         }
     },
     {
@@ -6246,7 +6921,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T08:31:33.000Z",
-        "updatedAt": "2022-07-19T17:08:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 200,
@@ -6281,6 +6956,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -6293,7 +6973,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2020-06-23T11:03:21.000Z",
-        "updatedAt": "2023-01-15T21:36:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 7,
         "playersTotal": 170,
@@ -6328,6 +7008,11 @@ var data =
                 "final": 441,
                 "discountPercent": 66
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 33
         }
     },
     {
@@ -6340,7 +7025,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-12-14T00:31:21.000Z",
-        "updatedAt": "2022-06-07T03:35:45.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -6375,6 +7060,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -6387,7 +7077,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:49:49.000Z",
-        "updatedAt": "2024-01-01T18:36:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 109,
@@ -6422,6 +7112,11 @@ var data =
                 "final": 194,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 13
         }
     },
     {
@@ -6434,7 +7129,7 @@ var data =
         "tier": 3,
         "points": 41,
         "createdAt": "2024-01-26T11:24:12.000Z",
-        "updatedAt": "2024-01-26T18:15:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 19,
@@ -6469,6 +7164,11 @@ var data =
                 "final": 77,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -6481,7 +7181,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-05-18T15:54:26.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 3,
         "playersTotal": 19,
@@ -6516,6 +7216,11 @@ var data =
                 "final": 797,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -6528,7 +7233,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-18T19:39:15.000Z",
-        "updatedAt": "2024-04-02T15:46:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
         "playersTotal": 92,
@@ -6563,6 +7268,11 @@ var data =
                 "final": 624,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -6575,7 +7285,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-02T19:13:54.000Z",
-        "updatedAt": "2023-05-30T00:44:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 224,
@@ -6610,6 +7320,11 @@ var data =
                 "final": 162,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -6657,6 +7372,11 @@ var data =
                 "final": 849,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 41
         }
     },
     {
@@ -6669,10 +7389,10 @@ var data =
         "tier": 5,
         "points": 375,
         "createdAt": "2021-01-18T19:00:25.000Z",
-        "updatedAt": "2024-04-13T16:07:48.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 53,
-        "playersTotal": 220,
+        "playersTotal": 221,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -6704,6 +7424,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 2,
+            "achievements": 38
         }
     },
     {
@@ -6716,7 +7441,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-02-27T22:53:25.000Z",
-        "updatedAt": "2024-04-02T15:46:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 35,
@@ -6751,6 +7476,11 @@ var data =
                 "final": 779,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -6763,7 +7493,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2021-07-26T20:19:23.000Z",
-        "updatedAt": "2023-03-03T05:15:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 26,
         "playersStarted": 5,
         "playersTotal": 131,
@@ -6798,6 +7528,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 60
         }
     },
     {
@@ -6810,7 +7545,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-07-13T06:37:34.000Z",
-        "updatedAt": "2024-09-07T17:30:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 7,
@@ -6845,6 +7580,11 @@ var data =
                 "final": 129,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -6857,7 +7597,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:42:02.000Z",
-        "updatedAt": "2024-04-02T15:47:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 120,
         "playersStarted": 0,
         "playersTotal": 210,
@@ -6892,6 +7632,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -6904,7 +7649,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:44:42.000Z",
-        "updatedAt": "2024-04-02T15:47:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 50,
         "playersStarted": 0,
         "playersTotal": 180,
@@ -6939,6 +7684,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -6951,7 +7701,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-04-21T01:40:50.000Z",
-        "updatedAt": "2023-04-19T22:57:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 8,
         "playersTotal": 47,
@@ -6986,6 +7736,11 @@ var data =
                 "final": 129,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -6998,7 +7753,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T17:32:23.000Z",
-        "updatedAt": "2024-01-01T18:37:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 84,
@@ -7033,6 +7788,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 16
         }
     },
     {
@@ -7045,7 +7805,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-11-21T15:13:11.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 25,
         "playersTotal": 365,
@@ -7080,6 +7840,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 28
         }
     },
     {
@@ -7092,7 +7857,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-26T18:59:11.000Z",
-        "updatedAt": "2024-08-01T07:26:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -7127,6 +7892,11 @@ var data =
                 "final": 1169,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -7139,7 +7909,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-09-02T06:56:59.000Z",
-        "updatedAt": "2023-10-21T16:32:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 4,
@@ -7174,6 +7944,11 @@ var data =
                 "final": 124,
                 "discountPercent": 84
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -7186,7 +7961,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-04-08T12:49:40.000Z",
-        "updatedAt": "2023-12-29T17:39:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 1,
         "playersTotal": 41,
@@ -7221,6 +7996,11 @@ var data =
                 "final": 1839,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 135
         }
     },
     {
@@ -7233,7 +8013,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-01-24T09:45:03.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -7268,6 +8048,11 @@ var data =
                 "final": 620,
                 "discountPercent": 31
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -7280,7 +8065,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-23T11:37:19.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 110,
@@ -7315,6 +8100,11 @@ var data =
                 "final": 479,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 75
         }
     },
     {
@@ -7327,7 +8117,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2022-09-27T16:59:56.000Z",
-        "updatedAt": "2022-11-16T12:55:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 20,
@@ -7362,6 +8152,11 @@ var data =
                 "final": 1079,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 52
         }
     },
     {
@@ -7374,7 +8169,7 @@ var data =
         "tier": 1,
         "points": 13,
         "createdAt": "2024-03-08T04:07:02.000Z",
-        "updatedAt": "2024-03-09T18:14:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 8,
@@ -7409,6 +8204,11 @@ var data =
                 "final": 943,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -7421,7 +8221,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-01T16:41:33.000Z",
-        "updatedAt": "2024-04-02T15:47:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -7456,6 +8256,11 @@ var data =
                 "final": 1699,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 69
         }
     },
     {
@@ -7468,7 +8273,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-03-22T15:13:21.000Z",
-        "updatedAt": "2023-06-20T00:06:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 30,
         "playersStarted": 8,
         "playersTotal": 104,
@@ -7503,6 +8308,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 57
         }
     },
     {
@@ -7515,7 +8325,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-04-14T19:06:42.000Z",
-        "updatedAt": "2023-02-19T18:51:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 39,
@@ -7550,6 +8360,11 @@ var data =
                 "final": 109,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -7562,7 +8377,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:33:08.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 127,
@@ -7597,6 +8412,11 @@ var data =
                 "final": 329,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -7609,7 +8429,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-23T18:30:27.000Z",
-        "updatedAt": "2024-04-24T19:53:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -7644,6 +8464,11 @@ var data =
                 "final": 619,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 25
         }
     },
     {
@@ -7656,7 +8481,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-03T18:55:33.000Z",
-        "updatedAt": "2024-08-03T22:15:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 36,
@@ -7686,6 +8511,11 @@ var data =
                 "final": 2679,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -7698,7 +8528,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-14T22:07:16.000Z",
-        "updatedAt": "2024-09-07T17:21:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 23,
         "playersStarted": 6,
         "playersTotal": 48,
@@ -7728,7 +8558,13 @@ var data =
                 "final": 2679,
                 "discountPercent": 0
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 50
+        },
+        "information": "CO-OP REQUIRED FOR SPECIAL OPS PO. There are two missions that require co-op, all other missions can be completed either solo or with a partner."
     },
     {
         "gameType": 0,
@@ -7740,7 +8576,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T20:29:03.000Z",
-        "updatedAt": "2024-09-08T21:09:55.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 2,
         "playersTotal": 34,
@@ -7775,6 +8611,11 @@ var data =
                 "final": 5399,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 76
         }
     },
     {
@@ -7787,7 +8628,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2023-05-19T00:36:34.000Z",
-        "updatedAt": "2023-07-12T15:11:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 31,
         "playersTotal": 55,
@@ -7822,6 +8663,11 @@ var data =
                 "final": 4999,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -7834,7 +8680,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-01T19:02:40.000Z",
-        "updatedAt": "2024-04-02T15:47:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 66,
         "playersStarted": 0,
         "playersTotal": 558,
@@ -7869,6 +8715,11 @@ var data =
                 "final": 379,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -7881,7 +8732,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-09-24T06:17:40.000Z",
-        "updatedAt": "2024-01-01T18:37:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 87,
@@ -7916,6 +8767,11 @@ var data =
                 "final": 116,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 31
         }
     },
     {
@@ -7928,7 +8784,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-04-02T15:14:55.000Z",
-        "updatedAt": "2024-04-02T20:19:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -7963,6 +8819,11 @@ var data =
                 "final": 311,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 43
         }
     },
     {
@@ -7975,7 +8836,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-03-02T21:35:01.000Z",
-        "updatedAt": "2024-03-04T23:33:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 10,
@@ -8010,6 +8871,11 @@ var data =
                 "final": 329,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -8022,7 +8888,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-22T19:30:28.000Z",
-        "updatedAt": "2022-04-22T19:46:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 129,
         "playersTotal": 831,
@@ -8057,6 +8923,11 @@ var data =
                 "final": 169,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -8104,6 +8975,11 @@ var data =
                 "final": 619,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 80
         }
     },
     {
@@ -8116,7 +8992,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-05T13:12:15.000Z",
-        "updatedAt": "2024-09-23T09:59:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 104,
@@ -8146,7 +9022,13 @@ var data =
                 "final": 254,
                 "discountPercent": 85
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 23
+        },
+        "information": "To earn the hardcore achievement, DO NOT turn on navigation aids."
     },
     {
         "gameType": 0,
@@ -8158,7 +9040,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-02T20:03:47.000Z",
-        "updatedAt": "2022-05-02T20:14:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 116,
@@ -8188,6 +9070,11 @@ var data =
                 "final": 659,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 47
         }
     },
     {
@@ -8200,7 +9087,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:31:11.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 79,
@@ -8235,6 +9122,11 @@ var data =
                 "final": 779,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 39
         }
     },
     {
@@ -8247,7 +9139,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-06-06T01:10:16.000Z",
-        "updatedAt": "2022-04-17T15:48:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 2,
         "playersTotal": 231,
@@ -8277,6 +9169,11 @@ var data =
                 "final": 749,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -8289,7 +9186,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-01-28T09:31:36.000Z",
-        "updatedAt": "2023-07-18T20:53:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
         "playersTotal": 397,
@@ -8324,6 +9221,11 @@ var data =
                 "final": 1121,
                 "discountPercent": 34
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 76
         }
     },
     {
@@ -8371,6 +9273,11 @@ var data =
                 "final": 103,
                 "discountPercent": 92
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 1,
+            "achievements": 21
         }
     },
     {
@@ -8383,7 +9290,7 @@ var data =
         "tier": 2,
         "points": 32,
         "createdAt": "2024-03-18T11:20:14.000Z",
-        "updatedAt": "2024-03-18T13:55:46.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 19,
@@ -8418,6 +9325,11 @@ var data =
                 "final": 367,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 48
         }
     },
     {
@@ -8430,7 +9342,7 @@ var data =
         "tier": 5,
         "points": 250,
         "createdAt": "2020-01-28T06:52:42.000Z",
-        "updatedAt": "2023-09-24T01:22:25.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 67,
         "playersStarted": 559,
         "playersTotal": 1465,
@@ -8465,6 +9377,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 9,
+            "achievements": 32
         }
     },
     {
@@ -8477,7 +9394,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:02:16.000Z",
-        "updatedAt": "2024-04-02T15:47:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 44,
         "playersStarted": 0,
         "playersTotal": 91,
@@ -8512,6 +9429,11 @@ var data =
                 "final": 155,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -8524,7 +9446,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-06T16:37:09.000Z",
-        "updatedAt": "2022-04-06T21:17:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -8559,6 +9481,11 @@ var data =
                 "final": 229,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -8571,7 +9498,7 @@ var data =
         "tier": 2,
         "points": 37,
         "createdAt": "2022-07-22T10:21:49.000Z",
-        "updatedAt": "2024-05-31T03:02:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 14,
         "playersTotal": 45,
@@ -8606,6 +9533,11 @@ var data =
                 "final": 774,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -8618,7 +9550,7 @@ var data =
         "tier": 5,
         "points": 350,
         "createdAt": "2020-01-28T08:58:33.000Z",
-        "updatedAt": "2023-09-22T00:02:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 23,
         "playersTotal": 141,
@@ -8653,6 +9585,11 @@ var data =
                 "final": 1049,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 7,
+            "community": 1,
+            "achievements": 22
         }
     },
     {
@@ -8665,7 +9602,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-02-11T07:18:13.000Z",
-        "updatedAt": "2024-02-11T14:22:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -8700,6 +9637,11 @@ var data =
                 "final": 545,
                 "discountPercent": 79
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -8712,7 +9654,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-08-01T17:42:22.000Z",
-        "updatedAt": "2024-04-02T15:47:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 195,
@@ -8742,7 +9684,13 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 43
+        },
+        "information": "Curated on Steam: https://store.steampowered.com/app/251130/Chroma_Squad/?curator_clanid=36185934"
     },
     {
         "gameType": 0,
@@ -8754,7 +9702,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2024-05-26T04:49:41.000Z",
-        "updatedAt": "2024-05-26T09:35:02.000Z",
+        "updatedAt": "2024-12-02T03:15:12.000Z",
         "playersCompleted": 6,
         "playersStarted": 1,
         "playersTotal": 39,
@@ -8789,6 +9737,11 @@ var data =
                 "final": 1950,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 40
         }
     },
     {
@@ -8801,7 +9754,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:57:31.000Z",
-        "updatedAt": "2024-01-01T18:35:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 122,
@@ -8836,6 +9789,11 @@ var data =
                 "final": 539,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 75
         }
     },
     {
@@ -8848,7 +9806,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-20T03:07:17.000Z",
-        "updatedAt": "2024-05-20T21:25:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -8883,6 +9841,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 11
         }
     },
     {
@@ -8895,7 +9858,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-04-16T13:49:29.000Z",
-        "updatedAt": "2024-04-16T18:41:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -8930,6 +9893,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -8977,6 +9945,11 @@ var data =
                 "final": 259,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 60
         }
     },
     {
@@ -8989,7 +9962,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-02-17T17:05:48.000Z",
-        "updatedAt": "2023-10-28T03:12:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 1,
         "playersTotal": 83,
@@ -9024,6 +9997,11 @@ var data =
                 "final": 797,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 61
         }
     },
     {
@@ -9036,7 +10014,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-29T19:06:18.000Z",
-        "updatedAt": "2023-12-01T13:06:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 10,
@@ -9071,6 +10049,11 @@ var data =
                 "final": 284,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -9083,7 +10066,7 @@ var data =
         "tier": 5,
         "points": 280,
         "createdAt": "2020-01-28T09:35:26.000Z",
-        "updatedAt": "2022-07-24T06:20:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 7,
         "playersTotal": 154,
@@ -9118,6 +10101,11 @@ var data =
                 "final": 879,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -9130,7 +10118,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-03-08T04:07:16.000Z",
-        "updatedAt": "2024-03-09T18:14:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -9165,6 +10153,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -9177,7 +10170,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:06:31.000Z",
-        "updatedAt": "2024-04-02T15:47:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 261,
         "playersStarted": 0,
         "playersTotal": 533,
@@ -9212,6 +10205,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -9224,7 +10222,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-06-30T19:04:07.000Z",
-        "updatedAt": "2024-09-07T17:33:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -9259,6 +10257,11 @@ var data =
                 "final": 465,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -9271,7 +10274,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T05:58:04.000Z",
-        "updatedAt": "2024-04-02T15:47:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 40,
         "playersStarted": 0,
         "playersTotal": 254,
@@ -9306,6 +10309,11 @@ var data =
                 "final": 1199,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 43
         }
     },
     {
@@ -9318,7 +10326,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-12-22T21:05:25.000Z",
-        "updatedAt": "2023-12-23T09:16:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -9353,6 +10361,11 @@ var data =
                 "final": 64,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -9365,7 +10378,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-06-25T19:03:58.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 1,
         "playersTotal": 192,
@@ -9400,6 +10413,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 40
         }
     },
     {
@@ -9412,7 +10430,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-07-31T00:46:39.000Z",
-        "updatedAt": "2024-09-03T11:26:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 2,
         "playersTotal": 28,
@@ -9447,6 +10465,11 @@ var data =
                 "final": 974,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 120
         }
     },
     {
@@ -9459,7 +10482,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-04-24T20:02:02.000Z",
-        "updatedAt": "2022-05-15T07:37:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 3,
         "playersTotal": 19,
@@ -9494,6 +10517,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 3
         }
     },
     {
@@ -9541,6 +10569,11 @@ var data =
                 "final": 119,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -9553,7 +10586,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:58:49.000Z",
-        "updatedAt": "2022-08-06T19:37:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 13,
         "playersTotal": 265,
@@ -9588,6 +10621,11 @@ var data =
                 "final": 349,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 45
         }
     },
     {
@@ -9600,7 +10638,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-19T20:00:09.000Z",
-        "updatedAt": "2022-12-19T22:53:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 217,
@@ -9635,6 +10673,11 @@ var data =
                 "final": 569,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 57
         }
     },
     {
@@ -9682,6 +10725,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 80
         }
     },
     {
@@ -9694,7 +10742,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-06T17:54:27.000Z",
-        "updatedAt": "2024-04-02T15:47:55.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -9729,7 +10777,13 @@ var data =
                 "final": 1311,
                 "discountPercent": 25
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
+        },
+        "information": "This game requires a VR headset in order to play."
     },
     {
         "gameType": 0,
@@ -9741,7 +10795,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-08-08T22:40:21.000Z",
-        "updatedAt": "2024-09-10T18:58:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 19,
         "playersTotal": 59,
@@ -9776,6 +10830,11 @@ var data =
                 "final": 629,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 2,
+            "achievements": 40
         }
     },
     {
@@ -9788,7 +10847,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-04T13:19:56.000Z",
-        "updatedAt": "2023-11-26T19:02:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -9823,6 +10882,11 @@ var data =
                 "final": 96,
                 "discountPercent": 83
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 5
         }
     },
     {
@@ -9870,7 +10934,13 @@ var data =
                 "final": 974,
                 "discountPercent": 25
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 100
+        },
+        "information": "NOTICE:\nGame is still currently in early access, so values and PO structure highly likely to change as updates come out and when the full game releases."
     },
     {
         "gameType": 0,
@@ -9882,7 +10952,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-27T02:41:27.000Z",
-        "updatedAt": "2024-01-01T18:38:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 10,
@@ -9917,6 +10987,11 @@ var data =
                 "final": 402,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 46
         }
     },
     {
@@ -9929,7 +11004,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-08-10T17:12:19.000Z",
-        "updatedAt": "2024-01-01T18:30:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 46,
@@ -9964,6 +11039,11 @@ var data =
                 "final": 194,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 3
         }
     },
     {
@@ -9976,7 +11056,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-11-10T22:07:34.000Z",
-        "updatedAt": "2024-01-23T15:54:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 11,
         "playersTotal": 82,
@@ -10006,6 +11086,11 @@ var data =
                 "final": 2749,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 51
         }
     },
     {
@@ -10018,7 +11103,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T07:16:35.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 29,
         "playersStarted": 71,
         "playersTotal": 401,
@@ -10053,6 +11138,11 @@ var data =
                 "final": 1999,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 74
         }
     },
     {
@@ -10065,7 +11155,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2021-01-17T18:56:44.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 143,
@@ -10100,6 +11190,11 @@ var data =
                 "final": 349,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 36
         }
     },
     {
@@ -10112,7 +11207,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-29T17:51:28.000Z",
-        "updatedAt": "2023-01-29T18:12:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 185,
@@ -10142,6 +11237,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -10189,7 +11289,13 @@ var data =
                 "final": 1559,
                 "discountPercent": 40
             }
-        }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 34
+        },
+        "information": "Balanced around Type Z."
     },
     {
         "gameType": 0,
@@ -10201,7 +11307,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-10-18T19:51:04.000Z",
-        "updatedAt": "2023-10-18T20:03:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -10236,6 +11342,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -10248,7 +11359,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2024-04-23T14:33:49.000Z",
-        "updatedAt": "2024-09-08T00:17:48.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 151,
@@ -10283,7 +11394,13 @@ var data =
                 "final": 659,
                 "discountPercent": 70
             }
-        }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 2,
+            "achievements": 86
+        },
+        "information": "This is an extremely long game, expect to spend at least 70 hours before being able to do objectives. It's possible to skip the entire game and go straight for the objectives if you wish (check the any% speedrun). DLC is required for all objectives.\n\nUse of assist mode in any form is banned for all objectives. Assist mode time is tracked in statistics and saved to the file permanently. \n\nRegarding the exclusion of Custom Cup Rushes: there are scoring exploits in the Vermillion and Platform Cups that allow you to farm points in specific rounds and thus get platinum medals in the Rush Modes without much effort (since they are based on an overall score and not per round), and the Platform Cup is known to consistently crash after a certain point, making any medal impossible to obtain. For all other Custom Cups, there's either no Rush Mode or the Rush Mode is too easy to be considered as worthwhile PO content."
     },
     {
         "gameType": 0,
@@ -10295,7 +11412,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-13T01:15:30.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -10330,6 +11447,11 @@ var data =
                 "final": 389,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -10342,7 +11464,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-02-17T17:16:34.000Z",
-        "updatedAt": "2023-08-14T18:00:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 4,
         "playersTotal": 150,
@@ -10377,6 +11499,11 @@ var data =
                 "final": 911,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -10389,7 +11516,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-18T14:27:52.000Z",
-        "updatedAt": "2023-07-05T14:38:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 18,
         "playersTotal": 198,
@@ -10424,6 +11551,11 @@ var data =
                 "final": 539,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -10436,7 +11568,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-05-12T09:47:22.000Z",
-        "updatedAt": "2023-06-24T06:32:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 168,
@@ -10471,6 +11603,11 @@ var data =
                 "final": 869,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 65
         }
     },
     {
@@ -10483,7 +11620,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-08T18:16:45.000Z",
-        "updatedAt": "2024-09-09T13:45:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -10518,6 +11655,11 @@ var data =
                 "final": 2079,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 48
         }
     },
     {
@@ -10530,7 +11672,7 @@ var data =
         "tier": 5,
         "points": 700,
         "createdAt": "2020-01-28T10:05:19.000Z",
-        "updatedAt": "2024-08-26T19:45:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 202,
         "playersTotal": 985,
@@ -10565,6 +11707,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 7,
+            "community": 2,
+            "achievements": 53
         }
     },
     {
@@ -10612,6 +11759,11 @@ var data =
                 "final": 689,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 108
         }
     },
     {
@@ -10624,7 +11776,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T06:23:50.000Z",
-        "updatedAt": "2024-02-05T14:27:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 51,
         "playersStarted": 214,
         "playersTotal": 913,
@@ -10659,7 +11811,13 @@ var data =
                 "final": 1539,
                 "discountPercent": 30
             }
-        }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 2,
+            "achievements": 42
+        },
+        "information": "DLC Required:\n-The Delicious Last Course"
     },
     {
         "gameType": 0,
@@ -10671,7 +11829,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2021-12-14T00:29:12.000Z",
-        "updatedAt": "2023-01-29T21:01:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 12,
         "playersTotal": 213,
@@ -10706,6 +11864,11 @@ var data =
                 "final": 699,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 30
         }
     },
     {
@@ -10718,7 +11881,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:29:00.000Z",
-        "updatedAt": "2022-04-23T18:06:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 124,
@@ -10753,6 +11916,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 16
         }
     },
     {
@@ -10765,7 +11933,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T06:14:05.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 76,
@@ -10800,6 +11968,11 @@ var data =
                 "final": 90,
                 "discountPercent": 86
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -10812,7 +11985,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-09-29T09:21:53.000Z",
-        "updatedAt": "2023-04-10T03:37:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 130,
         "playersStarted": 0,
         "playersTotal": 359,
@@ -10847,6 +12020,11 @@ var data =
                 "final": 437,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 22
         }
     },
     {
@@ -10859,7 +12037,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-18T14:36:44.000Z",
-        "updatedAt": "2022-09-01T09:21:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -10894,6 +12072,11 @@ var data =
                 "final": 1499,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 40
         }
     },
     {
@@ -10906,7 +12089,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-06-16T23:42:55.000Z",
-        "updatedAt": "2024-05-31T14:27:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 1,
         "playersTotal": 16,
@@ -10941,6 +12124,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 36
         }
     },
     {
@@ -10953,7 +12141,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:16:38.000Z",
-        "updatedAt": "2024-04-30T02:07:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 203,
@@ -10988,6 +12176,11 @@ var data =
                 "final": 584,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -11000,7 +12193,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-05-17T18:28:36.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -11035,6 +12228,11 @@ var data =
                 "final": 569,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -11047,7 +12245,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-04-13T18:05:51.000Z",
-        "updatedAt": "2024-04-13T20:59:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -11082,6 +12280,11 @@ var data =
                 "final": 1024,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 66
         }
     },
     {
@@ -11094,7 +12297,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-03-28T07:38:58.000Z",
-        "updatedAt": "2023-07-19T18:24:42.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 52,
@@ -11129,6 +12332,11 @@ var data =
                 "final": 844,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -11141,7 +12349,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2023-04-09T01:55:02.000Z",
-        "updatedAt": "2024-06-02T05:19:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 10,
         "playersTotal": 37,
@@ -11176,6 +12384,11 @@ var data =
                 "final": 1249,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -11188,7 +12401,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:53:09.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 11,
         "playersTotal": 139,
@@ -11223,6 +12436,11 @@ var data =
                 "final": 164,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 25
         }
     },
     {
@@ -11235,7 +12453,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-04-14T12:46:42.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 69,
@@ -11270,6 +12488,11 @@ var data =
                 "final": 329,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -11282,7 +12505,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-12T00:17:10.000Z",
-        "updatedAt": "2024-04-02T19:18:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -11317,6 +12540,11 @@ var data =
                 "final": 1549,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -11329,7 +12557,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2023-10-29T17:56:10.000Z",
-        "updatedAt": "2023-10-31T01:22:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -11364,6 +12592,11 @@ var data =
                 "final": 1949,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 32
         }
     },
     {
@@ -11376,7 +12609,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:27:58.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 100,
@@ -11411,6 +12644,11 @@ var data =
                 "final": 569,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 45
         }
     },
     {
@@ -11423,7 +12661,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-01-05T08:39:03.000Z",
-        "updatedAt": "2023-10-18T22:50:48.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 186,
         "playersTotal": 425,
@@ -11458,6 +12696,11 @@ var data =
                 "final": 2674,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 4,
+            "achievements": 38
         }
     },
     {
@@ -11470,7 +12713,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T06:29:26.000Z",
-        "updatedAt": "2024-03-24T10:40:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 44,
         "playersStarted": 320,
         "playersTotal": 799,
@@ -11505,7 +12748,13 @@ var data =
                 "final": 3999,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 4,
+            "achievements": 43
+        },
+        "information": "Doesn't have cloud save, careful!"
     },
     {
         "gameType": 0,
@@ -11517,7 +12766,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-01-05T08:24:09.000Z",
-        "updatedAt": "2024-05-31T15:15:08.000Z",
+        "updatedAt": "2024-10-09T05:56:39.000Z",
         "playersCompleted": 30,
         "playersStarted": 149,
         "playersTotal": 402,
@@ -11552,6 +12801,11 @@ var data =
                 "final": 2674,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 4,
+            "achievements": 41
         }
     },
     {
@@ -11564,7 +12818,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-09-07T08:57:58.000Z",
-        "updatedAt": "2023-09-20T01:13:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -11599,6 +12853,11 @@ var data =
                 "final": 2999,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 65
         }
     },
     {
@@ -11611,7 +12870,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-29T17:48:35.000Z",
-        "updatedAt": "2022-11-29T17:52:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -11646,6 +12905,11 @@ var data =
                 "final": 119,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -11658,7 +12922,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-09-22T08:52:09.000Z",
-        "updatedAt": "2023-10-06T11:15:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 8,
         "playersTotal": 178,
@@ -11693,6 +12957,11 @@ var data =
                 "final": 487,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -11705,7 +12974,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-11-27T03:10:26.000Z",
-        "updatedAt": "2023-11-27T05:12:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 50,
@@ -11735,6 +13004,11 @@ var data =
                 "final": 339,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 124
         }
     },
     {
@@ -11782,7 +13056,13 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 5,
+            "achievements": 40
+        },
+        "information": "The in-game option \"LMB Toggle Fire\" is banned for ALL objectives that require video proof. This is due to an unintended exploit where it can be used to recover dodge at a much faster rate than normal, thus making the game easier. There is no need to show the option being disabled when submitting proof, since it's very easy to tell whether it's been used in a run or not."
     },
     {
         "gameType": 0,
@@ -11794,7 +13074,7 @@ var data =
         "tier": 4,
         "points": 135,
         "createdAt": "2020-01-28T08:42:38.000Z",
-        "updatedAt": "2024-10-17T20:50:25.000Z",
+        "updatedAt": "2024-10-17T20:57:48.000Z",
         "playersCompleted": 5,
         "playersStarted": 32,
         "playersTotal": 684,
@@ -11829,7 +13109,13 @@ var data =
                 "final": 1499,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 121
+        },
+        "information": "For the Boss Rush primary objectives, use of custom mode is only allowed to relock weapons and mutations that aren't the default ones. In other words, you must keep the items on this list enabled: [https://pastebin.com/H8G7D5sD](https://pastebin.com/H8G7D5sD)"
     },
     {
         "gameType": 0,
@@ -11841,7 +13127,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-28T21:57:57.000Z",
-        "updatedAt": "2024-10-24T09:21:48.000Z",
+        "updatedAt": "2024-10-24T09:21:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 140,
@@ -11876,6 +13162,11 @@ var data =
                 "final": 1136,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 144
         }
     },
     {
@@ -11888,7 +13179,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2020-01-28T10:03:16.000Z",
-        "updatedAt": "2024-02-06T05:09:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 20,
         "playersTotal": 235,
@@ -11923,7 +13214,13 @@ var data =
                 "final": 274,
                 "discountPercent": 75
             }
-        }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 2,
+            "achievements": 24
+        },
+        "information": "\"Fear the Reaper\" can be done in a Normal mode savefile.\n\nIn order to complete all of the Primary Objectives, you'll need to use at least two savefiles, one in Normal mode (for \"Fear the Reaper\") and one in Hard mode (for \"Warbringer\" and \"Through Rain and Ash\").\n"
     },
     {
         "gameType": 0,
@@ -11935,7 +13232,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T08:08:43.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 176,
@@ -11970,6 +13267,11 @@ var data =
                 "final": 274,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -11982,7 +13284,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-10T06:37:41.000Z",
-        "updatedAt": "2024-04-02T15:48:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -12012,6 +13314,11 @@ var data =
                 "final": 449,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -12024,7 +13331,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-08-07T16:32:04.000Z",
-        "updatedAt": "2024-08-13T16:42:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
         "playersTotal": 68,
@@ -12059,6 +13366,11 @@ var data =
                 "final": 2112,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 74
         }
     },
     {
@@ -12071,7 +13383,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-07T20:23:36.000Z",
-        "updatedAt": "2024-09-07T21:02:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -12106,6 +13418,11 @@ var data =
                 "final": 129,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -12118,7 +13435,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-08T18:44:13.000Z",
-        "updatedAt": "2024-09-09T01:00:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -12153,6 +13470,11 @@ var data =
                 "final": 1949,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -12165,7 +13487,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-10-20T21:21:50.000Z",
-        "updatedAt": "2023-10-20T22:08:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -12200,6 +13522,11 @@ var data =
                 "final": 389,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -12212,7 +13539,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T17:51:51.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 78,
         "playersStarted": 0,
         "playersTotal": 228,
@@ -12247,6 +13574,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -12259,7 +13591,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:36:31.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 207,
@@ -12294,6 +13626,11 @@ var data =
                 "final": 1484,
                 "discountPercent": 45
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -12306,7 +13643,7 @@ var data =
         "tier": 2,
         "points": 36,
         "createdAt": "2023-04-08T12:28:15.000Z",
-        "updatedAt": "2024-07-30T08:40:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
         "playersTotal": 19,
@@ -12341,6 +13678,11 @@ var data =
                 "final": 199,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -12353,7 +13695,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-08T22:05:01.000Z",
-        "updatedAt": "2024-04-02T15:48:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -12388,6 +13730,11 @@ var data =
                 "final": 349,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -12400,7 +13747,7 @@ var data =
         "tier": 4,
         "points": 131,
         "createdAt": "2020-06-21T08:52:59.000Z",
-        "updatedAt": "2023-07-12T16:57:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 15,
         "playersTotal": 125,
@@ -12435,6 +13782,11 @@ var data =
                 "final": 909,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 48
         }
     },
     {
@@ -12447,7 +13799,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2023-09-01T03:32:53.000Z",
-        "updatedAt": "2024-04-27T17:37:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 17,
@@ -12482,6 +13834,11 @@ var data =
                 "final": 4549,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 43
         }
     },
     {
@@ -12494,7 +13851,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-10-18T21:39:35.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -12529,6 +13886,11 @@ var data =
                 "final": 769,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 38
         }
     },
     {
@@ -12541,7 +13903,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2020-12-14T19:50:20.000Z",
-        "updatedAt": "2024-08-04T13:18:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 23,
         "playersTotal": 106,
@@ -12576,6 +13938,11 @@ var data =
                 "final": 2899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 45
         }
     },
     {
@@ -12588,7 +13955,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-02-08T16:32:20.000Z",
-        "updatedAt": "2024-06-30T18:51:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 76,
         "playersStarted": 0,
         "playersTotal": 710,
@@ -12623,7 +13990,13 @@ var data =
                 "final": 1154,
                 "discountPercent": 67
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 69
+        },
+        "information": "Not using any mods at all for the \"Lone Digger\" objective makes the verification easier, but for those who do use mods, the list of the ones you've used must be shown prior or after finishing the run. Anything that modifies the gameplay in a relevant way is banned, whether that is a better visual/sound cue, or straight up modifying the gameplay.\n"
     },
     {
         "gameType": 0,
@@ -12635,7 +14008,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-10T19:47:41.000Z",
-        "updatedAt": "2024-05-12T18:20:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -12670,6 +14043,11 @@ var data =
                 "final": 129,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -12682,7 +14060,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-02T13:41:54.000Z",
-        "updatedAt": "2024-08-10T15:46:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -12717,7 +14095,13 @@ var data =
                 "final": 101,
                 "discountPercent": 70
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 50
+        },
+        "information": "The \"One Coin\" achievement is not possible to obtain. See this document for details: https://drive.google.com/file/d/1z_53ApiI6DQPhrPMhYaT_O3e-LiY-4z-/view?usp=sharing"
     },
     {
         "gameType": 0,
@@ -12729,7 +14113,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-20T04:20:33.000Z",
-        "updatedAt": "2024-05-20T02:54:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 163,
@@ -12764,6 +14148,11 @@ var data =
                 "final": 1754,
                 "discountPercent": 55
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 40
         }
     },
     {
@@ -12776,7 +14165,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-08T21:43:27.000Z",
-        "updatedAt": "2024-05-20T02:41:25.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -12811,6 +14200,11 @@ var data =
                 "final": 1139,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -12823,7 +14217,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-11-18T14:00:35.000Z",
-        "updatedAt": "2023-02-06T21:39:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -12858,6 +14252,11 @@ var data =
                 "final": 319,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -12870,7 +14269,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-07-02T23:15:22.000Z",
-        "updatedAt": "2023-05-18T07:05:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 8,
         "playersTotal": 191,
@@ -12905,6 +14304,11 @@ var data =
                 "final": 724,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 3,
+            "achievements": 42
         }
     },
     {
@@ -12917,7 +14321,7 @@ var data =
         "tier": 5,
         "points": 460,
         "createdAt": "2022-09-26T08:04:52.000Z",
-        "updatedAt": "2024-07-18T16:45:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 7,
         "playersTotal": 443,
@@ -12952,7 +14356,13 @@ var data =
                 "final": 799,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 8,
+            "community": 1,
+            "achievements": 35
+        },
+        "information": "Curated on Steam: https://store.steampowered.com/app/226620/Desktop_Dungeons/?curator_clanid=36185934"
     },
     {
         "gameType": 0,
@@ -12964,7 +14374,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-20T04:06:16.000Z",
-        "updatedAt": "2024-05-20T02:48:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 406,
@@ -12999,6 +14409,11 @@ var data =
                 "final": 359,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -13011,7 +14426,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-17T15:25:37.000Z",
-        "updatedAt": "2022-12-17T18:57:25.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -13046,6 +14461,11 @@ var data =
                 "final": 669,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -13058,7 +14478,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2020-04-14T19:45:24.000Z",
-        "updatedAt": "2024-01-14T17:13:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 9,
         "playersTotal": 81,
@@ -13093,6 +14513,11 @@ var data =
                 "final": 1699,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 179
         }
     },
     {
@@ -13105,7 +14530,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-09-18T22:32:00.000Z",
-        "updatedAt": "2022-09-18T23:43:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 304,
@@ -13140,6 +14565,11 @@ var data =
                 "final": 389,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 59
         }
     },
     {
@@ -13152,7 +14582,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-09-19T14:16:02.000Z",
-        "updatedAt": "2022-09-19T14:26:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 1,
         "playersTotal": 258,
@@ -13187,6 +14617,11 @@ var data =
                 "final": 584,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 81
         }
     },
     {
@@ -13199,7 +14634,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-31T21:23:09.000Z",
-        "updatedAt": "2023-06-01T01:28:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -13234,6 +14669,11 @@ var data =
                 "final": 351,
                 "discountPercent": 56
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -13246,7 +14686,7 @@ var data =
         "tier": 5,
         "points": 375,
         "createdAt": "2020-01-28T00:45:31.000Z",
-        "updatedAt": "2022-07-23T18:21:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 95,
         "playersTotal": 614,
@@ -13281,6 +14721,11 @@ var data =
                 "final": 399,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 7,
+            "achievements": 1
         }
     },
     {
@@ -13293,7 +14738,7 @@ var data =
         "tier": 3,
         "points": 73,
         "createdAt": "2023-12-29T18:14:42.000Z",
-        "updatedAt": "2024-03-17T17:58:25.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 16,
@@ -13328,7 +14773,13 @@ var data =
                 "final": 1689,
                 "discountPercent": 35
             }
-        }
+        },
+        "milestones": {
+            "primary": 7,
+            "community": 0,
+            "achievements": 29
+        },
+        "information": "DLC required for all POs except \"Bootcamp\"."
     },
     {
         "gameType": 0,
@@ -13340,7 +14791,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2020-06-25T19:35:48.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 313,
@@ -13375,6 +14826,11 @@ var data =
                 "final": 1319,
                 "discountPercent": 67
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 55
         }
     },
     {
@@ -13387,7 +14843,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-09-27T06:48:02.000Z",
-        "updatedAt": "2024-10-09T08:40:00.000Z",
+        "updatedAt": "2024-10-09T08:58:21.000Z",
         "playersCompleted": 0,
         "playersStarted": 11,
         "playersTotal": 196,
@@ -13422,6 +14878,11 @@ var data =
                 "final": 1319,
                 "discountPercent": 67
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 99
         }
     },
     {
@@ -13434,7 +14895,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-05-24T15:08:59.000Z",
-        "updatedAt": "2023-05-24T15:13:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -13469,6 +14930,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 111
         }
     },
     {
@@ -13481,7 +14947,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2024-04-02T23:51:54.000Z",
-        "updatedAt": "2024-04-19T23:38:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 84,
@@ -13516,6 +14982,11 @@ var data =
                 "final": 909,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 107
         }
     },
     {
@@ -13563,7 +15034,13 @@ var data =
                 "final": 487,
                 "discountPercent": 75
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 53
+        },
+        "information": "For optimal experience, avoid using Relaxed Mode and in-game save editor."
     },
     {
         "gameType": 0,
@@ -13575,7 +15052,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-10-28T03:12:16.000Z",
-        "updatedAt": "2024-04-02T15:48:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -13610,6 +15087,11 @@ var data =
                 "final": 89,
                 "discountPercent": 61
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 69
         }
     },
     {
@@ -13622,7 +15104,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:53:01.000Z",
-        "updatedAt": "2024-01-01T18:33:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 76,
@@ -13657,6 +15139,11 @@ var data =
                 "final": 99,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -13669,7 +15156,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-03-02T21:17:03.000Z",
-        "updatedAt": "2024-03-03T00:12:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 25,
@@ -13704,6 +15191,11 @@ var data =
                 "final": 419,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -13716,7 +15208,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-11-17T22:48:19.000Z",
-        "updatedAt": "2022-11-17T23:21:28.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -13751,6 +15243,11 @@ var data =
                 "final": 194,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -13763,7 +15260,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-10-25T00:06:23.000Z",
-        "updatedAt": "2024-05-31T14:45:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 199,
@@ -13798,6 +15295,11 @@ var data =
                 "final": 311,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 49
         }
     },
     {
@@ -13810,7 +15312,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-10-26T19:34:10.000Z",
-        "updatedAt": "2023-08-25T23:20:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 118,
         "playersTotal": 255,
@@ -13845,6 +15347,11 @@ var data =
                 "final": 487,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 35
         }
     },
     {
@@ -13857,7 +15364,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T08:11:18.000Z",
-        "updatedAt": "2022-04-28T22:42:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 49,
         "playersStarted": 0,
         "playersTotal": 502,
@@ -13892,6 +15399,11 @@ var data =
                 "final": 374,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 80
         }
     },
     {
@@ -13904,7 +15416,7 @@ var data =
         "tier": 1,
         "points": 12,
         "createdAt": "2020-01-28T09:51:05.000Z",
-        "updatedAt": "2023-07-12T09:51:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 12,
         "playersTotal": 191,
@@ -13939,6 +15451,11 @@ var data =
                 "final": 724,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 31
         }
     },
     {
@@ -13951,7 +15468,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-13T21:36:29.000Z",
-        "updatedAt": "2024-04-02T15:48:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -13986,6 +15503,11 @@ var data =
                 "final": 374,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -13998,7 +15520,7 @@ var data =
         "tier": 5,
         "points": 690,
         "createdAt": "2020-03-14T12:55:44.000Z",
-        "updatedAt": "2024-03-09T08:45:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 14,
         "playersTotal": 172,
@@ -14033,7 +15555,13 @@ var data =
                 "final": 1364,
                 "discountPercent": 65
             }
-        }
+        },
+        "milestones": {
+            "primary": 9,
+            "community": 0,
+            "achievements": 100
+        },
+        "information": "Can have some replay desync issues, more noticeable on second loops. It's recommended to record videos of live runs.\n"
     },
     {
         "gameType": 0,
@@ -14045,7 +15573,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-02T16:36:50.000Z",
-        "updatedAt": "2024-04-02T15:48:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 49,
@@ -14080,6 +15608,11 @@ var data =
                 "final": 623,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -14092,7 +15625,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2024-07-15T18:38:41.000Z",
-        "updatedAt": "2024-08-15T02:17:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 198,
@@ -14127,6 +15660,11 @@ var data =
                 "final": 499,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 54
         }
     },
     {
@@ -14139,7 +15677,7 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2021-09-24T05:16:09.000Z",
-        "updatedAt": "2022-07-23T19:10:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 2,
         "playersTotal": 520,
@@ -14174,6 +15712,11 @@ var data =
                 "final": 1337,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 47
         }
     },
     {
@@ -14186,7 +15729,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-04-12T14:36:14.000Z",
-        "updatedAt": "2023-06-24T06:26:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 134,
@@ -14221,6 +15764,11 @@ var data =
                 "final": 929,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 85
         }
     },
     {
@@ -14233,7 +15781,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2024-01-18T20:41:51.000Z",
-        "updatedAt": "2024-01-19T01:19:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 11,
         "playersTotal": 38,
@@ -14268,6 +15816,11 @@ var data =
                 "final": 132,
                 "discountPercent": 66
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -14280,7 +15833,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-11-10T22:07:10.000Z",
-        "updatedAt": "2022-11-10T22:11:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -14315,6 +15868,11 @@ var data =
                 "final": 1139,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 38
         }
     },
     {
@@ -14327,7 +15885,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-06-15T00:47:01.000Z",
-        "updatedAt": "2024-06-15T01:02:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -14362,6 +15920,11 @@ var data =
                 "final": 129,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -14374,7 +15937,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-21T05:09:15.000Z",
-        "updatedAt": "2024-09-07T17:27:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -14409,6 +15972,11 @@ var data =
                 "final": 1039,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -14421,7 +15989,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:48:13.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 161,
         "playersStarted": 0,
         "playersTotal": 628,
@@ -14456,6 +16024,11 @@ var data =
                 "final": 97,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 20
         }
     },
     {
@@ -14468,7 +16041,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-06-30T02:17:38.000Z",
-        "updatedAt": "2023-06-30T02:29:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -14503,6 +16076,11 @@ var data =
                 "final": 324,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -14515,7 +16093,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-09-01T15:41:44.000Z",
-        "updatedAt": "2023-07-12T16:57:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 11,
@@ -14550,6 +16128,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -14562,7 +16145,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-23T04:36:28.000Z",
-        "updatedAt": "2022-05-23T04:43:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -14597,6 +16180,11 @@ var data =
                 "final": 649,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -14609,7 +16197,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-09-08T17:25:09.000Z",
-        "updatedAt": "2024-09-09T19:03:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -14644,6 +16232,11 @@ var data =
                 "final": 1159,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -14656,10 +16249,10 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2024-01-13T20:56:43.000Z",
-        "updatedAt": "2024-01-13T22:20:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 13,
-        "playersTotal": 64,
+        "playersTotal": 65,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -14691,6 +16284,11 @@ var data =
                 "final": 97,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 40
         }
     },
     {
@@ -14703,7 +16301,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:00:37.000Z",
-        "updatedAt": "2024-03-09T17:14:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -14738,6 +16336,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -14750,7 +16353,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-05-15T17:51:19.000Z",
-        "updatedAt": "2024-03-24T04:54:55.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 231,
@@ -14785,6 +16388,11 @@ var data =
                 "final": 103,
                 "discountPercent": 92
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -14797,7 +16405,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-22T20:28:44.000Z",
-        "updatedAt": "2022-04-22T20:31:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -14832,6 +16440,11 @@ var data =
                 "final": 574,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -14844,7 +16457,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T08:17:28.000Z",
-        "updatedAt": "2024-05-20T02:32:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -14879,6 +16492,11 @@ var data =
                 "final": 489,
                 "discountPercent": 72
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -14891,7 +16509,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-04-13T18:46:29.000Z",
-        "updatedAt": "2024-03-13T22:50:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 32,
         "playersStarted": 43,
         "playersTotal": 460,
@@ -14926,6 +16544,11 @@ var data =
                 "final": 699,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -14973,7 +16596,13 @@ var data =
                 "final": 629,
                 "discountPercent": 30
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 19
+        },
+        "information": "Video Guide + Medal requirements in description.\nhttps://www.youtube.com/watch?v=3Evnc0pMZC4"
     },
     {
         "gameType": 0,
@@ -14985,7 +16614,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-19T17:03:17.000Z",
-        "updatedAt": "2023-08-19T17:57:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 153,
@@ -15015,6 +16644,11 @@ var data =
                 "final": 374,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -15027,7 +16661,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-06-06T02:53:29.000Z",
-        "updatedAt": "2023-11-11T00:47:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 13,
         "playersTotal": 116,
@@ -15062,6 +16696,11 @@ var data =
                 "final": 284,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 76
         }
     },
     {
@@ -15074,7 +16713,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:43:25.000Z",
-        "updatedAt": "2024-04-02T15:49:28.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 31,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -15109,6 +16748,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 17
         }
     },
     {
@@ -15156,6 +16800,11 @@ var data =
                 "final": 229,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -15168,7 +16817,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-01T06:24:05.000Z",
-        "updatedAt": "2023-06-24T06:34:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -15203,6 +16852,11 @@ var data =
                 "final": 542,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 84
         }
     },
     {
@@ -15215,7 +16869,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2023-12-05T06:36:15.000Z",
-        "updatedAt": "2023-12-09T06:14:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 8,
         "playersTotal": 386,
@@ -15250,6 +16904,11 @@ var data =
                 "final": 324,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -15262,7 +16921,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2024-01-16T07:47:55.000Z",
-        "updatedAt": "2024-02-05T04:37:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 45,
@@ -15297,6 +16956,11 @@ var data =
                 "final": 804,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 1,
+            "achievements": 24
         }
     },
     {
@@ -15309,7 +16973,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:51:40.000Z",
-        "updatedAt": "2023-02-02T22:46:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 3,
         "playersTotal": 15,
@@ -15344,6 +17008,11 @@ var data =
                 "final": 799,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -15356,7 +17025,7 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2020-01-28T09:25:05.000Z",
-        "updatedAt": "2023-02-02T21:01:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 86,
         "playersTotal": 494,
@@ -15391,6 +17060,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 5,
+            "achievements": 1
         }
     },
     {
@@ -15403,7 +17077,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:21:10.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 141,
@@ -15438,6 +17112,11 @@ var data =
                 "final": 113,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 41
         }
     },
     {
@@ -15450,7 +17129,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-18T18:02:13.000Z",
-        "updatedAt": "2022-05-04T23:24:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 71,
@@ -15485,6 +17164,11 @@ var data =
                 "final": 103,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 129
         }
     },
     {
@@ -15497,7 +17181,7 @@ var data =
         "tier": 4,
         "points": 105,
         "createdAt": "2020-01-28T08:40:11.000Z",
-        "updatedAt": "2022-05-01T00:29:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 4,
         "playersTotal": 94,
@@ -15532,6 +17216,11 @@ var data =
                 "final": 909,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 34
         }
     },
     {
@@ -15544,10 +17233,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-03T22:32:37.000Z",
-        "updatedAt": "2024-08-04T21:33:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 19,
-        "playersTotal": 247,
+        "playersTotal": 248,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -15579,6 +17268,11 @@ var data =
                 "final": 116,
                 "discountPercent": 87
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 47
         }
     },
     {
@@ -15591,7 +17285,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2021-08-08T16:52:49.000Z",
-        "updatedAt": "2024-07-06T04:50:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 1,
         "playersTotal": 40,
@@ -15626,6 +17320,11 @@ var data =
                 "final": 974,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 98
         }
     },
     {
@@ -15638,7 +17337,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-01-06T12:15:23.000Z",
-        "updatedAt": "2023-01-06T12:36:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 1,
         "playersTotal": 17,
@@ -15673,6 +17372,11 @@ var data =
                 "final": 974,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 71
         }
     },
     {
@@ -15685,7 +17389,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-04-12T22:45:29.000Z",
-        "updatedAt": "2023-04-12T22:58:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -15720,6 +17424,11 @@ var data =
                 "final": 1161,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 75
         }
     },
     {
@@ -15732,7 +17441,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-08T17:46:02.000Z",
-        "updatedAt": "2024-01-01T18:38:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -15767,6 +17476,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -15779,7 +17493,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-04T06:12:43.000Z",
-        "updatedAt": "2024-10-04T07:10:12.000Z",
+        "updatedAt": "2024-10-04T17:28:32.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -15814,6 +17528,11 @@ var data =
                 "final": 274,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -15826,7 +17545,7 @@ var data =
         "tier": 5,
         "points": 325,
         "createdAt": "2020-09-04T15:14:31.000Z",
-        "updatedAt": "2023-10-04T19:39:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 8,
         "playersTotal": 19,
@@ -15861,6 +17580,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 9
         }
     },
     {
@@ -15873,7 +17597,7 @@ var data =
         "tier": 5,
         "points": 1150,
         "createdAt": "2020-05-27T15:30:09.000Z",
-        "updatedAt": "2024-04-16T00:59:55.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 25,
         "playersTotal": 73,
@@ -15908,6 +17632,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 7,
+            "community": 7,
+            "achievements": 17
         }
     },
     {
@@ -15920,7 +17649,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-05T05:42:40.000Z",
-        "updatedAt": "2024-07-20T12:59:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 32,
         "playersStarted": 298,
         "playersTotal": 704,
@@ -15955,6 +17684,11 @@ var data =
                 "final": 7999,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 4,
+            "achievements": 42
         }
     },
     {
@@ -15967,7 +17701,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-17T21:22:27.000Z",
-        "updatedAt": "2024-09-07T17:20:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -16002,6 +17736,11 @@ var data =
                 "final": 349,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -16014,7 +17753,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2021-08-08T17:15:51.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 1,
         "playersTotal": 196,
@@ -16049,6 +17788,11 @@ var data =
                 "final": 455,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -16061,7 +17805,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-18T07:33:34.000Z",
-        "updatedAt": "2024-01-18T23:01:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -16096,6 +17840,11 @@ var data =
                 "final": 159,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -16108,7 +17857,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:21:36.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 46,
         "playersStarted": 0,
         "playersTotal": 280,
@@ -16143,6 +17892,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -16155,7 +17909,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-11T14:33:00.000Z",
-        "updatedAt": "2022-07-11T14:54:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 4,
         "playersTotal": 63,
@@ -16190,6 +17944,11 @@ var data =
                 "final": 549,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -16202,7 +17961,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:47:20.000Z",
-        "updatedAt": "2024-04-02T15:49:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 52,
         "playersStarted": 0,
         "playersTotal": 119,
@@ -16237,6 +17996,11 @@ var data =
                 "final": 389,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -16249,7 +18013,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-07-25T22:21:02.000Z",
-        "updatedAt": "2023-07-25T23:41:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -16284,6 +18048,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 44
         }
     },
     {
@@ -16296,7 +18065,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-02-08T07:37:44.000Z",
-        "updatedAt": "2024-02-09T16:49:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -16331,6 +18100,11 @@ var data =
                 "final": 1039,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -16343,7 +18117,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-08-10T16:22:54.000Z",
-        "updatedAt": "2023-01-29T18:21:03.000Z",
+        "updatedAt": "2024-11-09T05:35:51.000Z",
         "playersCompleted": 12,
         "playersStarted": 110,
         "playersTotal": 273,
@@ -16378,6 +18152,11 @@ var data =
                 "final": 1239,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 38
         }
     },
     {
@@ -16390,7 +18169,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-04-14T18:46:16.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 205,
         "playersStarted": 0,
         "playersTotal": 931,
@@ -16425,6 +18204,11 @@ var data =
                 "final": 584,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 54
         }
     },
     {
@@ -16437,10 +18221,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2022-09-06T17:37:06.000Z",
-        "updatedAt": "2023-04-13T01:07:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 40,
         "playersStarted": 0,
-        "playersTotal": 106,
+        "playersTotal": 107,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -16472,6 +18256,11 @@ var data =
                 "final": 1079,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 3,
+            "achievements": 24
         }
     },
     {
@@ -16484,7 +18273,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:18:51.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 61,
@@ -16519,6 +18308,11 @@ var data =
                 "final": 259,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -16531,7 +18325,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:27:49.000Z",
-        "updatedAt": "2022-12-18T20:54:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
         "playersTotal": 145,
@@ -16566,6 +18360,11 @@ var data =
                 "final": 274,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -16578,7 +18377,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-05T11:51:22.000Z",
-        "updatedAt": "2024-04-02T15:50:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -16613,6 +18412,11 @@ var data =
                 "final": 519,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 7
         }
     },
     {
@@ -16625,7 +18429,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-18T18:46:06.000Z",
-        "updatedAt": "2024-04-02T15:50:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 63,
@@ -16660,6 +18464,11 @@ var data =
                 "final": 274,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -16672,7 +18481,7 @@ var data =
         "tier": 3,
         "points": 52,
         "createdAt": "2022-12-18T00:02:55.000Z",
-        "updatedAt": "2023-07-12T16:57:48.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 50,
@@ -16707,6 +18516,11 @@ var data =
                 "final": 974,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 1,
+            "achievements": 29
         }
     },
     {
@@ -16719,7 +18533,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-13T21:34:59.000Z",
-        "updatedAt": "2024-04-02T15:50:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 191,
@@ -16754,6 +18568,11 @@ var data =
                 "final": 324,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 21
         }
     },
     {
@@ -16766,7 +18585,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-08-10T18:30:54.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -16801,6 +18620,11 @@ var data =
                 "final": 324,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -16813,7 +18637,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2021-05-24T14:43:01.000Z",
-        "updatedAt": "2022-06-07T03:45:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 17,
         "playersTotal": 528,
@@ -16848,6 +18672,11 @@ var data =
                 "final": 659,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 78
         }
     },
     {
@@ -16860,7 +18689,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-23T19:38:38.000Z",
-        "updatedAt": "2022-04-25T09:30:48.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 85,
@@ -16895,6 +18724,11 @@ var data =
                 "final": 249,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -16942,6 +18776,11 @@ var data =
                 "final": 1461,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 8
         }
     },
     {
@@ -16954,7 +18793,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-03-27T06:01:04.000Z",
-        "updatedAt": "2023-03-27T07:14:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -16989,6 +18828,11 @@ var data =
                 "final": 669,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -17001,7 +18845,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-11T00:17:54.000Z",
-        "updatedAt": "2022-05-11T11:52:04.000Z",
+        "updatedAt": "2024-11-22T20:44:06.000Z",
         "playersCompleted": 12,
         "playersStarted": 15,
         "playersTotal": 168,
@@ -17036,6 +18880,11 @@ var data =
                 "final": 324,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 47
         }
     },
     {
@@ -17048,7 +18897,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-17T03:35:34.000Z",
-        "updatedAt": "2024-04-02T15:50:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -17083,6 +18932,11 @@ var data =
                 "final": 659,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -17095,7 +18949,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2020-01-28T08:12:57.000Z",
-        "updatedAt": "2023-11-08T17:10:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 45,
         "playersStarted": 9,
         "playersTotal": 187,
@@ -17130,6 +18984,11 @@ var data =
                 "final": 499,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 26
         }
     },
     {
@@ -17177,6 +19036,11 @@ var data =
                 "final": 699,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 51
         }
     },
     {
@@ -17189,7 +19053,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-06-21T21:13:09.000Z",
-        "updatedAt": "2024-06-22T17:59:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 52,
@@ -17224,6 +19088,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -17236,7 +19105,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-04-23T03:47:52.000Z",
-        "updatedAt": "2024-05-31T14:44:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 55,
@@ -17271,6 +19140,11 @@ var data =
                 "final": 1699,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -17283,7 +19157,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-20T22:00:44.000Z",
-        "updatedAt": "2023-06-24T06:27:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 67,
@@ -17318,6 +19192,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -17330,7 +19209,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-10-08T03:23:56.000Z",
-        "updatedAt": "2024-04-19T21:28:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -17365,6 +19244,11 @@ var data =
                 "final": 1449,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 40
         }
     },
     {
@@ -17377,7 +19261,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-08-08T04:25:13.000Z",
-        "updatedAt": "2023-08-08T09:46:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -17412,6 +19296,11 @@ var data =
                 "final": 4674,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 63
         }
     },
     {
@@ -17424,7 +19313,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-29T12:18:20.000Z",
-        "updatedAt": "2024-04-02T15:50:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 131,
@@ -17459,6 +19348,11 @@ var data =
                 "final": 244,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -17471,7 +19365,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-09-07T18:44:02.000Z",
-        "updatedAt": "2024-09-07T21:12:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 3,
@@ -17506,6 +19400,11 @@ var data =
                 "final": 884,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 7,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -17518,7 +19417,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T18:32:02.000Z",
-        "updatedAt": "2024-09-09T01:00:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -17553,6 +19452,11 @@ var data =
                 "final": 519,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -17565,7 +19469,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:16:06.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 56,
@@ -17600,6 +19504,11 @@ var data =
                 "final": 549,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -17612,7 +19521,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-08-01T21:15:33.000Z",
-        "updatedAt": "2024-04-02T15:50:28.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 125,
@@ -17647,6 +19556,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -17659,7 +19573,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-07T17:00:55.000Z",
-        "updatedAt": "2024-09-07T19:07:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 44,
@@ -17694,6 +19608,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -17706,7 +19625,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T19:54:00.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 120,
@@ -17741,6 +19660,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 44
         }
     },
     {
@@ -17753,7 +19677,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-10T05:39:02.000Z",
-        "updatedAt": "2023-04-10T06:06:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 9,
@@ -17788,6 +19712,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -17800,7 +19729,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-12-28T16:03:27.000Z",
-        "updatedAt": "2024-05-31T14:33:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 45,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -17835,6 +19764,11 @@ var data =
                 "final": 149,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -17847,7 +19781,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-12-29T18:57:51.000Z",
-        "updatedAt": "2023-07-12T16:58:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 28,
@@ -17882,6 +19816,11 @@ var data =
                 "final": 870,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -17894,7 +19833,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T12:18:33.000Z",
-        "updatedAt": "2023-03-19T20:44:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 47,
         "playersStarted": 0,
         "playersTotal": 114,
@@ -17929,6 +19868,11 @@ var data =
                 "final": 311,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 46
         }
     },
     {
@@ -17941,7 +19885,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-29T19:21:16.000Z",
-        "updatedAt": "2023-03-15T16:18:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 24,
         "playersTotal": 67,
@@ -17971,6 +19915,11 @@ var data =
                 "final": 109,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -17983,7 +19932,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-14T20:21:24.000Z",
-        "updatedAt": "2024-08-06T01:41:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 142,
@@ -18018,6 +19967,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 20
         }
     },
     {
@@ -18030,7 +19984,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-02-22T19:16:12.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -18065,6 +20019,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -18077,7 +20036,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T19:28:15.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 194,
@@ -18112,6 +20071,11 @@ var data =
                 "final": 849,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 56
         }
     },
     {
@@ -18124,7 +20088,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-03-29T05:07:41.000Z",
-        "updatedAt": "2024-03-29T05:52:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -18159,7 +20123,13 @@ var data =
                 "final": 519,
                 "discountPercent": 20
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 24
+        },
+        "information": "The achievements require a depot to a previous version. "
     },
     {
         "gameType": 0,
@@ -18171,7 +20141,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-15T21:51:50.000Z",
-        "updatedAt": "2024-04-02T15:50:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 40,
@@ -18206,6 +20176,11 @@ var data =
                 "final": 181,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -18218,7 +20193,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-08-03T18:11:31.000Z",
-        "updatedAt": "2023-09-13T05:13:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -18253,6 +20228,11 @@ var data =
                 "final": 719,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -18265,7 +20245,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-10-18T20:22:17.000Z",
-        "updatedAt": "2024-09-13T22:54:45.000Z",
+        "updatedAt": "2024-10-22T22:57:36.000Z",
         "playersCompleted": 3,
         "playersStarted": 4,
         "playersTotal": 195,
@@ -18300,7 +20280,13 @@ var data =
                 "final": 584,
                 "discountPercent": 85
             }
-        }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 115
+        },
+        "information": "The Last Autumn, On The Edge, and The Rifts DLCs are required. All are included in the season pass."
     },
     {
         "gameType": 0,
@@ -18312,7 +20298,7 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2022-08-09T21:59:30.000Z",
-        "updatedAt": "2024-03-10T02:01:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 33,
         "playersTotal": 548,
@@ -18347,7 +20333,13 @@ var data =
                 "final": 274,
                 "discountPercent": 75
             }
-        }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 2,
+            "achievements": 51
+        },
+        "information": "Curated on Steam: https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/?curator_clanid=36185934"
     },
     {
         "gameType": 0,
@@ -18359,7 +20351,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:35:10.000Z",
-        "updatedAt": "2023-06-28T11:02:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 41,
         "playersTotal": 406,
@@ -18394,6 +20386,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -18406,7 +20403,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-01-01T20:04:43.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 280,
@@ -18441,6 +20438,11 @@ var data =
                 "final": 259,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 47
         }
     },
     {
@@ -18453,7 +20455,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:40:00.000Z",
-        "updatedAt": "2024-05-31T14:30:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -18488,6 +20490,11 @@ var data =
                 "final": 569,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -18500,7 +20507,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:38:18.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 56,
         "playersStarted": 0,
         "playersTotal": 104,
@@ -18535,6 +20542,11 @@ var data =
                 "final": 196,
                 "discountPercent": 42
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 13
         }
     },
     {
@@ -18547,7 +20559,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-06-11T05:18:28.000Z",
-        "updatedAt": "2024-06-25T19:04:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 12,
@@ -18582,7 +20594,13 @@ var data =
                 "final": 1364,
                 "discountPercent": 65
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 17
+        },
+        "information": "Play on \"usertest\" branch to avoid freezes."
     },
     {
         "gameType": 0,
@@ -18594,7 +20612,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-07T01:26:17.000Z",
-        "updatedAt": "2023-08-09T01:24:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -18629,6 +20647,11 @@ var data =
                 "final": 307,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -18676,6 +20699,11 @@ var data =
                 "final": 1319,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -18723,6 +20751,11 @@ var data =
                 "final": 220,
                 "discountPercent": 87
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -18770,6 +20803,11 @@ var data =
                 "final": 974,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -18782,7 +20820,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-28T21:50:38.000Z",
-        "updatedAt": "2022-04-29T01:25:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -18812,6 +20850,11 @@ var data =
                 "final": 449,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -18824,7 +20867,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-03T10:39:05.000Z",
-        "updatedAt": "2024-05-31T14:37:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -18859,6 +20902,11 @@ var data =
                 "final": 106,
                 "discountPercent": 77
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -18871,7 +20919,7 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2020-04-09T12:05:39.000Z",
-        "updatedAt": "2023-12-20T01:38:11.000Z",
+        "updatedAt": "2024-11-28T21:05:05.000Z",
         "playersCompleted": 97,
         "playersStarted": 452,
         "playersTotal": 1268,
@@ -18906,6 +20954,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 3,
+            "achievements": 120
         }
     },
     {
@@ -18918,7 +20971,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T05:00:08.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 8,
         "playersTotal": 110,
@@ -18953,6 +21006,11 @@ var data =
                 "final": 1009,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -18965,7 +21023,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-08-02T17:56:32.000Z",
-        "updatedAt": "2024-04-11T16:50:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 2,
         "playersTotal": 13,
@@ -19000,6 +21058,11 @@ var data =
                 "final": 1171,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 40
         }
     },
     {
@@ -19012,7 +21075,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-08-05T23:24:12.000Z",
-        "updatedAt": "2024-05-31T14:46:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -19047,6 +21110,11 @@ var data =
                 "final": 649,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 46
         }
     },
     {
@@ -19059,7 +21127,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:50:39.000Z",
-        "updatedAt": "2024-06-30T05:23:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 506,
         "playersStarted": 0,
         "playersTotal": 1057,
@@ -19094,7 +21162,13 @@ var data =
                 "final": 224,
                 "discountPercent": 75
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 3
+        },
+        "information": "**Do not use the CO as a reference or justification for arguments.**"
     },
     {
         "gameType": 0,
@@ -19106,7 +21180,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-03-09T18:58:21.000Z",
-        "updatedAt": "2024-04-02T15:50:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 46,
@@ -19141,6 +21215,11 @@ var data =
                 "final": 1619,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 42
         }
     },
     {
@@ -19153,7 +21232,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-09-12T01:11:52.000Z",
-        "updatedAt": "2024-09-10T15:48:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -19188,6 +21267,11 @@ var data =
                 "final": 769,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 7
         }
     },
     {
@@ -19200,7 +21284,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-08-10T17:42:05.000Z",
-        "updatedAt": "2024-02-06T05:58:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 43,
         "playersTotal": 355,
@@ -19235,7 +21319,13 @@ var data =
                 "final": 1199,
                 "discountPercent": 70
             }
-        }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 45
+        },
+        "information": "\"Project_Hel\" DLC is required for the \"Ghost in the Shell\" Primary Objective. "
     },
     {
         "gameType": 0,
@@ -19247,7 +21337,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-03-26T02:25:37.000Z",
-        "updatedAt": "2024-03-26T08:51:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 5,
         "playersTotal": 70,
@@ -19282,6 +21372,11 @@ var data =
                 "final": 1349,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -19294,7 +21389,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T23:46:04.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -19329,6 +21424,11 @@ var data =
                 "final": 1319,
                 "discountPercent": 67
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 31
         }
     },
     {
@@ -19376,6 +21476,11 @@ var data =
                 "final": 486,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -19388,7 +21493,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:33:42.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 288,
@@ -19423,6 +21528,11 @@ var data =
                 "final": 419,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -19435,7 +21545,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-17T22:48:25.000Z",
-        "updatedAt": "2022-11-17T23:21:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 128,
@@ -19470,6 +21580,11 @@ var data =
                 "final": 153,
                 "discountPercent": 78
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -19517,6 +21632,11 @@ var data =
                 "final": 974,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -19529,7 +21649,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-11T15:34:07.000Z",
-        "updatedAt": "2024-09-07T17:22:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 3,
@@ -19564,6 +21684,11 @@ var data =
                 "final": 990,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -19576,7 +21701,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-08-07T16:34:34.000Z",
-        "updatedAt": "2023-08-07T18:57:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 25,
         "playersStarted": 20,
         "playersTotal": 87,
@@ -19611,6 +21736,11 @@ var data =
                 "final": 97,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 16
         }
     },
     {
@@ -19623,7 +21753,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-06-07T19:18:22.000Z",
-        "updatedAt": "2024-05-04T20:32:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -19658,6 +21788,11 @@ var data =
                 "final": 551,
                 "discountPercent": 52
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -19670,7 +21805,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-05T02:34:28.000Z",
-        "updatedAt": "2024-04-02T15:50:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 36,
@@ -19705,6 +21840,11 @@ var data =
                 "final": 259,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -19717,7 +21857,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-06-12T10:24:10.000Z",
-        "updatedAt": "2022-09-14T13:23:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 1,
         "playersTotal": 181,
@@ -19752,6 +21892,11 @@ var data =
                 "final": 2599,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -19764,7 +21909,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-11T12:22:38.000Z",
-        "updatedAt": "2023-08-11T15:25:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 91,
@@ -19799,6 +21944,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -19811,7 +21961,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-22T22:32:42.000Z",
-        "updatedAt": "2024-04-02T15:50:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 57,
@@ -19846,6 +21996,11 @@ var data =
                 "final": 643,
                 "discountPercent": 67
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -19858,7 +22013,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2021-05-15T17:16:46.000Z",
-        "updatedAt": "2023-03-13T15:49:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 40,
         "playersTotal": 388,
@@ -19893,6 +22048,11 @@ var data =
                 "final": 592,
                 "discountPercent": 74
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -19905,7 +22065,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-08-26T23:57:35.000Z",
-        "updatedAt": "2024-09-07T17:17:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 40,
@@ -19940,6 +22100,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -19952,7 +22117,7 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2022-06-11T10:03:14.000Z",
-        "updatedAt": "2023-07-12T09:52:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 205,
@@ -19987,6 +22152,11 @@ var data =
                 "final": 359,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 48
         }
     },
     {
@@ -19999,7 +22169,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:40:26.000Z",
-        "updatedAt": "2024-01-01T19:01:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 36,
         "playersTotal": 140,
@@ -20034,6 +22204,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -20046,7 +22221,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:18:41.000Z",
-        "updatedAt": "2024-04-02T15:50:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 39,
         "playersStarted": 0,
         "playersTotal": 286,
@@ -20081,6 +22256,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -20093,7 +22273,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-04-25T20:13:15.000Z",
-        "updatedAt": "2023-09-05T16:46:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 2,
         "playersTotal": 44,
@@ -20128,6 +22308,11 @@ var data =
                 "final": 779,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -20140,7 +22325,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-10-14T23:18:16.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -20175,6 +22360,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -20187,7 +22377,7 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2021-11-23T14:55:28.000Z",
-        "updatedAt": "2023-07-12T16:58:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
         "playersTotal": 29,
@@ -20222,6 +22412,11 @@ var data =
                 "final": 339,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -20234,7 +22429,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-29T20:57:35.000Z",
-        "updatedAt": "2023-05-29T21:18:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 30,
         "playersStarted": 2,
         "playersTotal": 291,
@@ -20269,6 +22464,11 @@ var data =
                 "final": 899,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 55
         }
     },
     {
@@ -20316,6 +22516,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -20363,6 +22568,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -20410,6 +22620,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -20422,7 +22637,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:17:31.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 89,
@@ -20457,6 +22672,11 @@ var data =
                 "final": 399,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -20469,7 +22689,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-31T10:01:27.000Z",
-        "updatedAt": "2023-09-07T23:36:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 56,
@@ -20504,6 +22724,11 @@ var data =
                 "final": 437,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -20516,7 +22741,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-05-02T14:15:04.000Z",
-        "updatedAt": "2024-08-01T14:35:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -20551,6 +22776,11 @@ var data =
                 "final": 437,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 41
         }
     },
     {
@@ -20563,7 +22793,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-10-11T20:36:30.000Z",
-        "updatedAt": "2022-10-12T17:22:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -20598,6 +22828,11 @@ var data =
                 "final": 119,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -20610,7 +22845,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-08T20:02:04.000Z",
-        "updatedAt": "2022-04-09T12:35:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 69,
@@ -20645,6 +22880,11 @@ var data =
                 "final": 64,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -20657,7 +22897,7 @@ var data =
         "tier": 4,
         "points": 160,
         "createdAt": "2023-12-18T16:31:12.000Z",
-        "updatedAt": "2024-04-12T14:43:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 5,
         "playersTotal": 21,
@@ -20692,6 +22932,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 6,
+            "community": 0,
+            "achievements": 82
         }
     },
     {
@@ -20704,7 +22949,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-09-08T20:55:14.000Z",
-        "updatedAt": "2024-09-09T01:00:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -20739,6 +22984,11 @@ var data =
                 "final": 749,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 100
         }
     },
     {
@@ -20751,7 +23001,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-07-17T07:34:08.000Z",
-        "updatedAt": "2024-09-07T17:29:42.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -20786,7 +23036,13 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 17
+        },
+        "information": "Reaching the alternate ending requires unlocking and beating the secret level, which requires finding all collectibles and then using the soul attack ability on the Goddess of Ichor.\n\nIn regards to CO proof, the bunny jump ability automatically recharges on Punished difficulty exclusively."
     },
     {
         "gameType": 0,
@@ -20798,7 +23054,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-27T22:15:33.000Z",
-        "updatedAt": "2024-04-02T15:50:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -20833,6 +23089,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 1
         }
     },
     {
@@ -20845,7 +23106,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-16T19:09:45.000Z",
-        "updatedAt": "2024-04-02T15:51:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 105,
@@ -20880,6 +23141,11 @@ var data =
                 "final": 1594,
                 "discountPercent": 45
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 47
         }
     },
     {
@@ -20927,6 +23193,11 @@ var data =
                 "final": 911,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 1,
+            "achievements": 49
         }
     },
     {
@@ -20939,7 +23210,7 @@ var data =
         "tier": 5,
         "points": 550,
         "createdAt": "2020-03-20T20:43:58.000Z",
-        "updatedAt": "2023-05-19T21:48:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 10,
         "playersTotal": 133,
@@ -20974,6 +23245,11 @@ var data =
                 "final": 1039,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 8,
+            "community": 3,
+            "achievements": 1176
         }
     },
     {
@@ -20986,7 +23262,7 @@ var data =
         "tier": 4,
         "points": 140,
         "createdAt": "2023-01-16T08:05:16.000Z",
-        "updatedAt": "2024-02-14T00:43:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 136,
@@ -21021,6 +23297,11 @@ var data =
                 "final": 2249,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 57
         }
     },
     {
@@ -21033,7 +23314,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:20:36.000Z",
-        "updatedAt": "2022-05-02T19:44:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 38,
         "playersStarted": 6,
         "playersTotal": 229,
@@ -21068,6 +23349,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 49
         }
     },
     {
@@ -21080,7 +23366,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-28T21:59:03.000Z",
-        "updatedAt": "2024-04-02T15:51:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 67,
         "playersStarted": 0,
         "playersTotal": 507,
@@ -21115,6 +23401,11 @@ var data =
                 "final": 487,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -21127,7 +23418,7 @@ var data =
         "tier": 3,
         "points": 71,
         "createdAt": "2024-04-28T19:52:18.000Z",
-        "updatedAt": "2024-05-07T14:02:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 6,
         "playersTotal": 77,
@@ -21162,6 +23453,11 @@ var data =
                 "final": 390,
                 "discountPercent": 77
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -21209,6 +23505,11 @@ var data =
                 "final": 90,
                 "discountPercent": 86
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -21221,7 +23522,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2022-09-09T19:55:55.000Z",
-        "updatedAt": "2023-07-12T16:58:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 10,
         "playersTotal": 24,
@@ -21256,6 +23557,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 27
         }
     },
     {
@@ -21268,7 +23574,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2022-09-01T17:18:16.000Z",
-        "updatedAt": "2023-07-12T17:00:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 17,
@@ -21303,6 +23609,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -21315,7 +23626,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-29T05:14:01.000Z",
-        "updatedAt": "2024-04-02T15:51:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -21350,6 +23661,11 @@ var data =
                 "final": 389,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -21397,7 +23713,13 @@ var data =
                 "final": 1481,
                 "discountPercent": 35
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 128
+        },
+        "information": "\"Conquerors of the Spirit Realm\" requires \"Realm of Frost and Inkwash\" and \"Artisan and Magician\" DLCs in order to be completed."
     },
     {
         "gameType": 0,
@@ -21409,7 +23731,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-12-24T14:54:37.000Z",
-        "updatedAt": "2024-04-02T15:51:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -21444,6 +23766,11 @@ var data =
                 "final": 194,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 55
         }
     },
     {
@@ -21456,7 +23783,7 @@ var data =
         "tier": 2,
         "points": 36,
         "createdAt": "2023-03-01T07:33:58.000Z",
-        "updatedAt": "2023-07-12T17:00:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
         "playersTotal": 19,
@@ -21491,6 +23818,11 @@ var data =
                 "final": 2249,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -21503,7 +23835,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2021-05-17T18:27:50.000Z",
-        "updatedAt": "2024-07-04T00:07:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
         "playersTotal": 135,
@@ -21538,6 +23870,11 @@ var data =
                 "final": 219,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 53
         }
     },
     {
@@ -21550,7 +23887,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-11T00:45:44.000Z",
-        "updatedAt": "2023-01-28T01:06:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -21585,6 +23922,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -21597,7 +23939,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T09:04:19.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 9,
         "playersTotal": 156,
@@ -21632,6 +23974,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -21644,7 +23991,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-06-09T19:39:47.000Z",
-        "updatedAt": "2023-11-26T22:17:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 81,
         "playersStarted": 149,
         "playersTotal": 840,
@@ -21679,6 +24026,11 @@ var data =
                 "final": 1300,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 5,
+            "achievements": 49
         }
     },
     {
@@ -21691,7 +24043,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-01-04T09:59:42.000Z",
-        "updatedAt": "2024-10-18T05:45:42.000Z",
+        "updatedAt": "2024-10-18T05:45:58.000Z",
         "playersCompleted": 0,
         "playersStarted": 8,
         "playersTotal": 165,
@@ -21726,6 +24078,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 42
         }
     },
     {
@@ -21738,7 +24095,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2022-05-03T02:51:50.000Z",
-        "updatedAt": "2022-05-03T03:48:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 19,
         "playersTotal": 467,
@@ -21773,6 +24130,11 @@ var data =
                 "final": 1249,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 3,
+            "achievements": 700
         }
     },
     {
@@ -21785,7 +24147,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-04-09T20:26:35.000Z",
-        "updatedAt": "2023-04-10T00:16:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 1,
         "playersTotal": 138,
@@ -21820,6 +24182,11 @@ var data =
                 "final": 399,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 53
         }
     },
     {
@@ -21832,7 +24199,7 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2024-01-26T15:04:15.000Z",
-        "updatedAt": "2024-01-31T16:16:43.000Z",
+        "updatedAt": "2024-11-25T18:14:42.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 62,
@@ -21867,6 +24234,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 1,
+            "achievements": 22
         }
     },
     {
@@ -21879,7 +24251,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-11-01T19:19:04.000Z",
-        "updatedAt": "2024-01-01T18:39:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -21914,6 +24286,11 @@ var data =
                 "final": 2599,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 39
         }
     },
     {
@@ -21926,7 +24303,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-12T23:18:47.000Z",
-        "updatedAt": "2023-07-22T21:45:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 1,
         "playersTotal": 35,
@@ -21961,6 +24338,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -21973,7 +24355,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-05-02T19:32:31.000Z",
-        "updatedAt": "2022-05-02T20:14:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 219,
@@ -22008,6 +24390,11 @@ var data =
                 "final": 194,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 115
         }
     },
     {
@@ -22020,7 +24407,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-09-07T21:45:36.000Z",
-        "updatedAt": "2024-09-07T23:14:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -22055,6 +24442,11 @@ var data =
                 "final": 64,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -22067,7 +24459,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-06-09T19:05:54.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 146,
@@ -22097,6 +24489,11 @@ var data =
                 "final": 267,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 74
         }
     },
     {
@@ -22109,7 +24506,7 @@ var data =
         "tier": 5,
         "points": 600,
         "createdAt": "2022-08-20T17:53:13.000Z",
-        "updatedAt": "2024-02-13T09:48:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 11,
         "playersTotal": 178,
@@ -22144,7 +24541,13 @@ var data =
                 "final": 2139,
                 "discountPercent": 60
             }
-        }
+        },
+        "milestones": {
+            "primary": 8,
+            "community": 0,
+            "achievements": 54
+        },
+        "information": "The DLC \"Extra Song Pack\" is required for the POs. Total number of songs should be 251."
     },
     {
         "gameType": 0,
@@ -22156,7 +24559,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-05-18T03:29:56.000Z",
-        "updatedAt": "2023-05-18T06:15:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 77,
@@ -22191,6 +24594,11 @@ var data =
                 "final": 1499,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -22203,7 +24611,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T19:30:19.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 44,
@@ -22238,6 +24646,11 @@ var data =
                 "final": 174,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -22250,7 +24663,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-06-30T16:14:35.000Z",
-        "updatedAt": "2024-08-10T08:04:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -22285,6 +24698,11 @@ var data =
                 "final": 499,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -22297,7 +24715,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-12-14T00:30:01.000Z",
-        "updatedAt": "2024-04-02T15:51:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 82,
         "playersStarted": 0,
         "playersTotal": 124,
@@ -22332,6 +24750,11 @@ var data =
                 "final": 99,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -22344,7 +24767,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-08-11T12:44:31.000Z",
-        "updatedAt": "2024-04-02T15:51:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -22379,6 +24802,11 @@ var data =
                 "final": 1139,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -22391,7 +24819,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-01-17T02:42:36.000Z",
-        "updatedAt": "2024-05-31T14:39:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 171,
@@ -22426,6 +24854,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -22438,7 +24871,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-06-29T01:36:21.000Z",
-        "updatedAt": "2024-02-04T15:47:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 28,
@@ -22473,6 +24906,11 @@ var data =
                 "final": 139,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -22485,7 +24923,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:46:01.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 13,
         "playersTotal": 90,
@@ -22520,6 +24958,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 5
         }
     },
     {
@@ -22532,7 +24975,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-10-14T13:33:51.000Z",
-        "updatedAt": "2024-10-15T14:46:16.000Z",
+        "updatedAt": "2024-11-09T19:43:40.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 7,
@@ -22567,6 +25010,11 @@ var data =
                 "final": 1266,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 56
         }
     },
     {
@@ -22579,7 +25027,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-09T06:18:21.000Z",
-        "updatedAt": "2023-01-09T06:25:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 152,
@@ -22614,6 +25062,11 @@ var data =
                 "final": 899,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 42
         }
     },
     {
@@ -22626,7 +25079,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2021-02-19T03:44:28.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 103,
@@ -22661,6 +25114,11 @@ var data =
                 "final": 649,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 58
         }
     },
     {
@@ -22673,7 +25131,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-23T20:57:07.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 39,
         "playersStarted": 0,
         "playersTotal": 66,
@@ -22708,6 +25166,11 @@ var data =
                 "final": 459,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -22720,7 +25183,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-29T04:55:17.000Z",
-        "updatedAt": "2024-04-29T07:04:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -22755,6 +25218,11 @@ var data =
                 "final": 849,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -22767,7 +25235,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-02-27T23:01:23.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 49,
@@ -22802,6 +25270,11 @@ var data =
                 "final": 519,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -22814,7 +25287,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-02-26T17:07:27.000Z",
-        "updatedAt": "2023-04-03T04:24:31.000Z",
+        "updatedAt": "2024-10-15T15:59:04.000Z",
         "playersCompleted": 7,
         "playersStarted": 7,
         "playersTotal": 205,
@@ -22849,6 +25322,11 @@ var data =
                 "final": 3899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 61
         }
     },
     {
@@ -22861,7 +25339,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-27T01:27:30.000Z",
-        "updatedAt": "2024-05-20T02:44:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -22896,6 +25374,11 @@ var data =
                 "final": 1249,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -22908,7 +25391,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:02:01.000Z",
-        "updatedAt": "2024-04-02T15:51:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 83,
         "playersStarted": 0,
         "playersTotal": 174,
@@ -22943,6 +25426,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -22955,7 +25443,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-11T00:32:51.000Z",
-        "updatedAt": "2022-04-11T00:37:45.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 173,
@@ -22990,6 +25478,11 @@ var data =
                 "final": 439,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -23002,7 +25495,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-06T04:27:20.000Z",
-        "updatedAt": "2024-04-02T15:51:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -23037,6 +25530,11 @@ var data =
                 "final": 674,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -23049,7 +25547,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-18T07:42:08.000Z",
-        "updatedAt": "2024-04-02T15:51:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -23084,6 +25582,11 @@ var data =
                 "final": 1305,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -23131,6 +25634,11 @@ var data =
                 "final": 260,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -23143,7 +25651,7 @@ var data =
         "tier": 5,
         "points": 275,
         "createdAt": "2020-01-28T08:26:42.000Z",
-        "updatedAt": "2024-10-04T07:23:05.000Z",
+        "updatedAt": "2024-10-04T16:56:00.000Z",
         "playersCompleted": 9,
         "playersStarted": 524,
         "playersTotal": 1405,
@@ -23178,7 +25686,13 @@ var data =
                 "final": 974,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 4,
+            "achievements": 63
+        },
+        "information": "It is highly recommended for the \"Champion of Hallownest\" objective to be done on a save file where the Pantheon was not cleared with all bindings in order to show the reward for completing the challenge."
     },
     {
         "gameType": 0,
@@ -23190,7 +25704,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2020-01-28T06:42:49.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 201,
@@ -23220,6 +25734,11 @@ var data =
                 "final": 155,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 53
         }
     },
     {
@@ -23232,7 +25751,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-23T20:55:29.000Z",
-        "updatedAt": "2022-04-23T21:03:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 34,
@@ -23267,6 +25786,11 @@ var data =
                 "final": 1024,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -23279,7 +25803,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-12-02T08:14:00.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 23,
         "playersStarted": 6,
         "playersTotal": 135,
@@ -23314,6 +25838,11 @@ var data =
                 "final": 194,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -23326,7 +25855,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-06-29T16:17:08.000Z",
-        "updatedAt": "2023-06-29T18:35:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 154,
@@ -23361,6 +25890,11 @@ var data =
                 "final": 683,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 41
         }
     },
     {
@@ -23373,7 +25907,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-06-09T17:51:02.000Z",
-        "updatedAt": "2024-04-02T15:51:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 239,
         "playersStarted": 0,
         "playersTotal": 805,
@@ -23408,6 +25942,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -23450,6 +25989,11 @@ var data =
                 "final": 292,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -23462,7 +26006,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-06-19T23:11:21.000Z",
-        "updatedAt": "2024-06-19T23:30:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 99,
@@ -23497,6 +26041,11 @@ var data =
                 "final": 455,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 53
         }
     },
     {
@@ -23509,7 +26058,7 @@ var data =
         "tier": 5,
         "points": 210,
         "createdAt": "2022-08-10T12:59:53.000Z",
-        "updatedAt": "2022-09-18T21:36:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 9,
         "playersTotal": 70,
@@ -23544,6 +26093,11 @@ var data =
                 "final": 359,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 1,
+            "achievements": 13
         }
     },
     {
@@ -23556,7 +26110,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2021-08-10T22:20:51.000Z",
-        "updatedAt": "2022-10-28T12:24:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 85,
@@ -23591,6 +26145,11 @@ var data =
                 "final": 519,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -23603,7 +26162,7 @@ var data =
         "tier": 2,
         "points": 29,
         "createdAt": "2024-06-23T05:21:30.000Z",
-        "updatedAt": "2024-11-23T12:18:57.000Z",
+        "updatedAt": "2024-11-23T20:54:07.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 31,
@@ -23638,7 +26197,13 @@ var data =
                 "final": 389,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 6,
+            "community": 0,
+            "achievements": 57
+        },
+        "information": "Regarding the gold medal achievements: when reaching the Ancient Dragon, you will always have no more than two potions of life."
     },
     {
         "gameType": 0,
@@ -23650,7 +26215,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-04-28T08:09:10.000Z",
-        "updatedAt": "2024-05-05T05:07:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 14,
@@ -23685,7 +26250,13 @@ var data =
                 "final": 137,
                 "discountPercent": 75
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 12
+        },
+        "information": "100%ing levels sometimes doesn't trigger, in that case either try again or try playing at different speeds."
     },
     {
         "gameType": 0,
@@ -23697,7 +26268,7 @@ var data =
         "tier": 5,
         "points": 530,
         "createdAt": "2022-09-28T19:44:24.000Z",
-        "updatedAt": "2022-12-02T15:14:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 46,
         "playersTotal": 241,
@@ -23732,6 +26303,11 @@ var data =
                 "final": 679,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 2,
+            "achievements": 1
         }
     },
     {
@@ -23744,7 +26320,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:36:09.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 38,
         "playersStarted": 0,
         "playersTotal": 430,
@@ -23779,6 +26355,11 @@ var data =
                 "final": 2199,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -23791,10 +26372,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-06-09T19:41:56.000Z",
-        "updatedAt": "2024-04-02T15:51:39.000Z",
-        "playersCompleted": 10,
+        "updatedAt": "2024-09-28T16:51:24.000Z",
+        "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 14,
+        "playersTotal": 15,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -23826,6 +26407,11 @@ var data =
                 "final": 683,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -23838,7 +26424,7 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2022-04-05T13:54:06.000Z",
-        "updatedAt": "2024-07-22T10:06:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 40,
         "playersTotal": 194,
@@ -23873,7 +26459,13 @@ var data =
                 "final": 649,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 8,
+            "achievements": 304
+        },
+        "information": "Curated on Steam: https://store.steampowered.com/app/342610/HyperRogue/?curator_clanid=36185934\n\nThe game that birthed the Strategy category.\n\nBear in mind that the objective order only serves as a general guide, as there is no prescribed order for doing in-game achievements. It's encouraged to start with completing \"Tessellated Trifecta\", then familiarizing yourself with the various lands present within \"Curvature Conquistador\" before actively pursuing other objectives."
     },
     {
         "gameType": 0,
@@ -23885,7 +26477,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-01-28T10:00:34.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 23,
         "playersStarted": 6,
         "playersTotal": 76,
@@ -23920,6 +26512,11 @@ var data =
                 "final": 623,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 4,
+            "achievements": 14
         }
     },
     {
@@ -23932,7 +26529,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T10:00:10.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 83,
@@ -23967,6 +26564,11 @@ var data =
                 "final": 149,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 30
         }
     },
     {
@@ -23979,7 +26581,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:03:45.000Z",
-        "updatedAt": "2024-05-31T14:47:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -24014,6 +26616,11 @@ var data =
                 "final": 155,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -24026,7 +26633,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:58:21.000Z",
-        "updatedAt": "2024-01-01T18:33:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 281,
@@ -24061,6 +26668,11 @@ var data =
                 "final": 339,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -24073,7 +26685,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2022-04-06T20:52:11.000Z",
-        "updatedAt": "2024-01-01T18:28:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 5,
         "playersTotal": 211,
@@ -24108,6 +26720,11 @@ var data =
                 "final": 683,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -24120,7 +26737,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-05T20:18:18.000Z",
-        "updatedAt": "2024-11-30T06:58:16.000Z",
+        "updatedAt": "2024-11-30T06:58:40.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -24155,6 +26772,11 @@ var data =
                 "final": 2079,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -24167,7 +26789,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-10-16T01:15:18.000Z",
-        "updatedAt": "2024-10-17T15:12:17.000Z",
+        "updatedAt": "2024-10-17T19:42:34.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 6,
@@ -24202,6 +26824,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 40
         }
     },
     {
@@ -24214,7 +26841,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:32:27.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 3,
         "playersTotal": 113,
@@ -24249,6 +26876,11 @@ var data =
                 "final": 799,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 31
         }
     },
     {
@@ -24261,7 +26893,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-10-24T15:54:12.000Z",
-        "updatedAt": "2022-06-20T22:40:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 277,
@@ -24296,6 +26928,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -24308,7 +26945,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-01-24T22:03:10.000Z",
-        "updatedAt": "2023-01-25T01:58:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -24343,6 +26980,11 @@ var data =
                 "final": 459,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -24355,7 +26997,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T04:46:01.000Z",
-        "updatedAt": "2022-11-15T15:46:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 26,
         "playersTotal": 222,
@@ -24390,6 +27032,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -24402,7 +27049,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-07-10T04:47:03.000Z",
-        "updatedAt": "2023-07-10T05:49:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -24437,6 +27084,11 @@ var data =
                 "final": 779,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 0
         }
     },
     {
@@ -24449,7 +27101,7 @@ var data =
         "tier": 4,
         "points": 115,
         "createdAt": "2020-06-21T09:13:08.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 10,
         "playersTotal": 239,
@@ -24484,6 +27136,11 @@ var data =
                 "final": 549,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 25
         }
     },
     {
@@ -24496,7 +27153,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-04-14T20:01:47.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 192,
@@ -24531,6 +27188,11 @@ var data =
                 "final": 615,
                 "discountPercent": 72
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 44
         }
     },
     {
@@ -24578,6 +27240,11 @@ var data =
                 "final": 421,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -24590,7 +27257,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-07-18T04:48:55.000Z",
-        "updatedAt": "2024-09-07T17:28:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -24625,6 +27292,11 @@ var data =
                 "final": 129,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 9
         }
     },
     {
@@ -24637,7 +27309,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-04-09T05:54:18.000Z",
-        "updatedAt": "2023-04-12T23:26:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -24672,6 +27344,11 @@ var data =
                 "final": 64,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 99
         }
     },
     {
@@ -24684,7 +27361,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-11T14:36:57.000Z",
-        "updatedAt": "2023-04-12T13:59:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 121,
@@ -24719,6 +27396,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -24731,7 +27413,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-09-24T06:24:00.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 78,
@@ -24766,6 +27448,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 40
         }
     },
     {
@@ -24778,7 +27465,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:28:14.000Z",
-        "updatedAt": "2022-03-29T03:46:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 198,
@@ -24808,6 +27495,11 @@ var data =
                 "final": 549,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -24820,7 +27512,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-15T00:12:26.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -24855,6 +27547,11 @@ var data =
                 "final": 64,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 40
         }
     },
     {
@@ -24867,7 +27564,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-06-21T01:16:32.000Z",
-        "updatedAt": "2022-06-21T01:32:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 130,
@@ -24902,6 +27599,11 @@ var data =
                 "final": 424,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -24914,7 +27616,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-01-17T18:57:15.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -24949,6 +27651,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -24961,7 +27668,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-15T18:06:36.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
         "playersTotal": 105,
@@ -24996,6 +27703,11 @@ var data =
                 "final": 350,
                 "discountPercent": 82
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -25043,6 +27755,11 @@ var data =
                 "final": 599,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -25055,7 +27772,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-09-09T00:44:53.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 291,
@@ -25090,6 +27807,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 45
         }
     },
     {
@@ -25102,7 +27824,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T17:37:12.000Z",
-        "updatedAt": "2024-09-09T19:03:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -25137,6 +27859,11 @@ var data =
                 "final": 509,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -25149,7 +27876,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-08-02T05:02:13.000Z",
-        "updatedAt": "2024-03-10T02:01:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 163,
@@ -25184,7 +27911,13 @@ var data =
                 "final": 549,
                 "discountPercent": 75
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 23
+        },
+        "information": "Curated on Steam: https://store.steampowered.com/app/243970/Invisible_Inc/?curator_clanid=36185934"
     },
     {
         "gameType": 0,
@@ -25196,7 +27929,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-10-19T02:14:10.000Z",
-        "updatedAt": "2024-05-31T14:40:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 7,
         "playersTotal": 114,
@@ -25231,6 +27964,11 @@ var data =
                 "final": 162,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 39
         }
     },
     {
@@ -25278,6 +28016,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -25290,7 +28033,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-04-13T17:11:04.000Z",
-        "updatedAt": "2024-04-13T20:16:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -25325,6 +28068,11 @@ var data =
                 "final": 167,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 38
         }
     },
     {
@@ -25337,7 +28085,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-01T12:43:41.000Z",
-        "updatedAt": "2024-04-02T15:51:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -25372,6 +28120,11 @@ var data =
                 "final": 426,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -25384,7 +28137,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T19:43:06.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -25419,6 +28172,11 @@ var data =
                 "final": 292,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -25431,7 +28189,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-23T14:18:47.000Z",
-        "updatedAt": "2024-04-02T15:52:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 74,
@@ -25466,6 +28224,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -25478,7 +28241,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-10-24T17:14:02.000Z",
-        "updatedAt": "2024-04-02T15:52:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -25513,6 +28276,11 @@ var data =
                 "final": 1349,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 7
         }
     },
     {
@@ -25525,7 +28293,7 @@ var data =
         "tier": 5,
         "points": 340,
         "createdAt": "2020-01-28T09:01:05.000Z",
-        "updatedAt": "2024-03-17T05:22:48.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 9,
         "playersTotal": 192,
@@ -25560,6 +28328,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 1,
+            "achievements": 42
         }
     },
     {
@@ -25572,7 +28345,7 @@ var data =
         "tier": 4,
         "points": 140,
         "createdAt": "2022-11-23T00:50:36.000Z",
-        "updatedAt": "2023-10-18T19:37:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 35,
@@ -25607,6 +28380,11 @@ var data =
                 "final": 2049,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 28
         }
     },
     {
@@ -25619,7 +28397,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-05-30T00:52:36.000Z",
-        "updatedAt": "2024-09-08T22:15:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 55,
@@ -25654,7 +28432,13 @@ var data =
                 "final": 449,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 18
+        },
+        "information": "There are other campaigns that will be PO in the future, but we are waiting until the new content coming out slows down until they are added as official objectives."
     },
     {
         "gameType": 0,
@@ -25666,7 +28450,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-11-15T16:56:43.000Z",
-        "updatedAt": "2023-10-14T13:54:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 4,
         "playersTotal": 42,
@@ -25701,6 +28485,11 @@ var data =
                 "final": 219,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -25713,7 +28502,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-06-09T19:31:33.000Z",
-        "updatedAt": "2023-07-23T23:55:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 42,
@@ -25748,6 +28537,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 42
         }
     },
     {
@@ -25760,7 +28554,7 @@ var data =
         "tier": 4,
         "points": 105,
         "createdAt": "2022-09-24T05:33:25.000Z",
-        "updatedAt": "2024-07-22T14:08:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 11,
@@ -25795,6 +28589,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -25807,7 +28606,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-01-28T08:39:16.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 442,
@@ -25842,6 +28641,11 @@ var data =
                 "final": 292,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 36
         }
     },
     {
@@ -25854,7 +28658,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-02-23T14:17:06.000Z",
-        "updatedAt": "2024-03-07T14:51:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -25889,6 +28693,11 @@ var data =
                 "final": 879,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 42
         }
     },
     {
@@ -25901,7 +28710,7 @@ var data =
         "tier": 5,
         "points": 210,
         "createdAt": "2020-01-28T09:35:52.000Z",
-        "updatedAt": "2022-12-13T03:15:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 46,
         "playersStarted": 127,
         "playersTotal": 606,
@@ -25936,6 +28745,11 @@ var data =
                 "final": 849,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 6,
+            "achievements": 48
         }
     },
     {
@@ -25948,7 +28762,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:52:06.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 68,
@@ -25983,6 +28797,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -25995,7 +28814,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-01-29T20:22:22.000Z",
-        "updatedAt": "2023-01-29T21:35:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -26030,6 +28849,11 @@ var data =
                 "final": 259,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -26042,7 +28866,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-23T19:07:01.000Z",
-        "updatedAt": "2022-04-23T21:03:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 146,
@@ -26077,6 +28901,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 51
         }
     },
     {
@@ -26089,7 +28918,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T17:35:12.000Z",
-        "updatedAt": "2024-01-01T18:41:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -26124,6 +28953,11 @@ var data =
                 "final": 129,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -26171,6 +29005,11 @@ var data =
                 "final": 419,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 21
         }
     },
     {
@@ -26183,7 +29022,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T11:46:02.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 91,
@@ -26218,6 +29057,11 @@ var data =
                 "final": 194,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 38
         }
     },
     {
@@ -26230,7 +29074,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-01-03T21:24:11.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 115,
         "playersTotal": 376,
@@ -26265,6 +29109,11 @@ var data =
                 "final": 1689,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 26
         }
     },
     {
@@ -26277,7 +29126,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-09-24T06:12:11.000Z",
-        "updatedAt": "2022-09-24T06:41:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -26312,6 +29161,11 @@ var data =
                 "final": 519,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -26324,7 +29178,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-12-22T20:37:57.000Z",
-        "updatedAt": "2023-12-23T09:16:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -26359,6 +29213,11 @@ var data =
                 "final": 274,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 41
         }
     },
     {
@@ -26406,6 +29265,11 @@ var data =
                 "final": 399,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -26418,7 +29282,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-08-01T23:05:57.000Z",
-        "updatedAt": "2023-01-25T01:56:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 12,
         "playersTotal": 92,
@@ -26453,6 +29317,11 @@ var data =
                 "final": 524,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -26465,7 +29334,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-10T19:38:19.000Z",
-        "updatedAt": "2023-06-13T10:37:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 39,
@@ -26500,6 +29369,11 @@ var data =
                 "final": 93,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -26547,7 +29421,13 @@ var data =
                 "final": 999,
                 "discountPercent": 75
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
+        },
+        "information": "To obtain a Super Clear on a Constellation level, you need to reach a specific score for that level, and if successful, all the stars within the related Constellation will brighten up and shine (You can see what that specific score is for every level on this page: [https://katamari.fandom.com/wiki/Super_Clear](https://katamari.fandom.com/wiki/Super_Clear)).\n\nTo obtain all Shooting Stars, or Meteors (also called Comets), you need to complete the main levels (Make a Star 1 to Make a Star 9, and Make a Moon) within a specific time limit (You can see what the time is for every level on this page: [https://katamari.fandom.com/wiki/Shooting_Stars](https://katamari.fandom.com/wiki/Shooting_Stars)).\n\nWARNING: When you finish a level, you'll have to choose between \"Make a Star\" or \"Make a Stardust\" (If you are playing a Constellation level, the options will be \"Make a Constellation\" and \"Make a Stardust\").\nMaking a Star/Constellation will rewrite your previous score, and save your current one, no matter if it's worse or better. Making a Stardust will not save your current score. When going for the PO, be sure to pick the \"Make a Star/Constellation\" option, otherwise your score won't be saved. Be aware that when Making a Star/Constellation your previous score will be deleted and you may lose progress for the PO. For example, if you obtained a Super Clear on the Cancer Constellation, and then you replay the level and finish it with a worse score, if you pick \"Make a Constellation\" then your current score will be saved, and you'll lose the Super Clear on that Constellation, forcing you to replay the level again for the Super Clear."
     },
     {
         "gameType": 0,
@@ -26559,7 +29439,7 @@ var data =
         "tier": 5,
         "points": 215,
         "createdAt": "2020-01-28T08:33:36.000Z",
-        "updatedAt": "2024-05-20T02:14:45.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 107,
         "playersTotal": 560,
@@ -26594,6 +29474,11 @@ var data =
                 "final": 1169,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 4,
+            "achievements": 22
         }
     },
     {
@@ -26606,7 +29491,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-15T03:57:51.000Z",
-        "updatedAt": "2023-05-15T04:39:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 64,
         "playersStarted": 0,
         "playersTotal": 381,
@@ -26641,6 +29526,11 @@ var data =
                 "final": 584,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 10
         }
     },
     {
@@ -26653,7 +29543,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-27T03:58:43.000Z",
-        "updatedAt": "2024-04-02T15:52:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -26688,6 +29578,11 @@ var data =
                 "final": 1679,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 41
         }
     },
     {
@@ -26700,7 +29595,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:19:49.000Z",
-        "updatedAt": "2023-03-01T17:07:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 229,
@@ -26735,6 +29630,11 @@ var data =
                 "final": 329,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -26747,7 +29647,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-27T06:24:37.000Z",
-        "updatedAt": "2024-04-02T15:52:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 50,
@@ -26782,7 +29682,13 @@ var data =
                 "final": 579,
                 "discountPercent": 80
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
+        },
+        "information": "Coop Required (2 Players)\n---\nDLC Required:\n-The 100th Grand Ol' Telepost Tournament"
     },
     {
         "gameType": 0,
@@ -26794,7 +29700,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-01-18T07:30:23.000Z",
-        "updatedAt": "2024-01-19T14:11:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -26829,6 +29735,11 @@ var data =
                 "final": 825,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -26876,6 +29787,11 @@ var data =
                 "final": 1461,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 48
         }
     },
     {
@@ -26888,7 +29804,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-07-18T03:40:48.000Z",
-        "updatedAt": "2024-09-07T17:28:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -26923,6 +29839,11 @@ var data =
                 "final": 389,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -26935,7 +29856,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-16T22:32:14.000Z",
-        "updatedAt": "2022-09-25T09:06:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 18,
@@ -26965,6 +29886,11 @@ var data =
                 "final": 549,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -26977,7 +29903,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-26T16:02:47.000Z",
-        "updatedAt": "2024-04-02T15:52:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
         "playersTotal": 46,
@@ -27012,6 +29938,11 @@ var data =
                 "final": 449,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -27024,7 +29955,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:05:49.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -27059,6 +29990,11 @@ var data =
                 "final": 486,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -27071,7 +30007,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-10-02T10:22:54.000Z",
-        "updatedAt": "2024-03-19T09:04:55.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 11,
         "playersTotal": 92,
@@ -27106,7 +30042,13 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
-        }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 22
+        },
+        "information": "For Pacifist Adept:\nhttps://upload.cedb.me/hElePV.png"
     },
     {
         "gameType": 0,
@@ -27118,7 +30060,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-12T05:16:21.000Z",
-        "updatedAt": "2024-09-07T17:30:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -27153,6 +30095,11 @@ var data =
                 "final": 4224,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 197
         }
     },
     {
@@ -27165,7 +30112,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-06-10T00:08:32.000Z",
-        "updatedAt": "2024-06-10T00:28:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 18,
@@ -27200,6 +30147,11 @@ var data =
                 "final": 499,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -27212,7 +30164,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-19T17:19:44.000Z",
-        "updatedAt": "2024-05-21T05:47:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -27247,6 +30199,11 @@ var data =
                 "final": 249,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 33
         }
     },
     {
@@ -27259,7 +30216,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-15T23:02:50.000Z",
-        "updatedAt": "2022-07-25T17:13:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -27294,6 +30251,11 @@ var data =
                 "final": 574,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -27306,7 +30268,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-05T22:57:45.000Z",
-        "updatedAt": "2024-09-07T17:16:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -27341,6 +30303,11 @@ var data =
                 "final": 1949,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -27353,7 +30320,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-06T04:19:59.000Z",
-        "updatedAt": "2024-09-07T17:16:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -27388,7 +30355,13 @@ var data =
                 "final": 524,
                 "discountPercent": 70
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
+        },
+        "information": "Par times will not display above 300/325 regardless of progress."
     },
     {
         "gameType": 0,
@@ -27400,7 +30373,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-12-27T00:11:34.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -27435,6 +30408,11 @@ var data =
                 "final": 64,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -27447,7 +30425,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2023-09-22T04:30:01.000Z",
-        "updatedAt": "2024-07-01T16:54:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 18,
         "playersTotal": 170,
@@ -27482,7 +30460,13 @@ var data =
                 "final": 976,
                 "discountPercent": 15
             }
-        }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 0
+        },
+        "information": "To play without subscription: Download the benchmarks playlist with the code \"KovaaKsRocketingVermilionCt\", play its scenarios. Upload scores.\nMeet the requisites on [this image](https://i.imgur.com/doyjhRr.png)."
     },
     {
         "gameType": 0,
@@ -27494,7 +30478,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-09T10:05:33.000Z",
-        "updatedAt": "2023-05-09T10:19:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 22,
@@ -27529,6 +30513,11 @@ var data =
                 "final": 674,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 40
         }
     },
     {
@@ -27541,7 +30530,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:26:16.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 268,
@@ -27576,6 +30565,11 @@ var data =
                 "final": 424,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 64
         }
     },
     {
@@ -27588,7 +30582,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:26:38.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 69,
@@ -27623,6 +30617,11 @@ var data =
                 "final": 1159,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 46
         }
     },
     {
@@ -27635,7 +30634,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-26T21:21:56.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 67,
         "playersStarted": 0,
         "playersTotal": 113,
@@ -27670,6 +30669,11 @@ var data =
                 "final": 324,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 5
         }
     },
     {
@@ -27682,7 +30686,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-11-20T04:20:12.000Z",
-        "updatedAt": "2022-11-20T22:42:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 82,
@@ -27717,6 +30721,11 @@ var data =
                 "final": 1224,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 66
         }
     },
     {
@@ -27729,7 +30738,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-11T00:12:25.000Z",
-        "updatedAt": "2023-08-11T04:26:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 119,
@@ -27764,6 +30773,11 @@ var data =
                 "final": 779,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 54
         }
     },
     {
@@ -27776,7 +30790,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2023-09-16T21:22:04.000Z",
-        "updatedAt": "2023-09-16T21:52:46.000Z",
+        "updatedAt": "2024-10-26T16:37:58.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 4,
@@ -27811,6 +30825,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -27858,6 +30877,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 54
         }
     },
     {
@@ -27870,7 +30894,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-02-17T04:42:31.000Z",
-        "updatedAt": "2023-05-19T17:47:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 33,
@@ -27905,6 +30929,11 @@ var data =
                 "final": 699,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -27917,7 +30946,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-30T22:07:29.000Z",
-        "updatedAt": "2022-03-31T09:05:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 41,
         "playersStarted": 0,
         "playersTotal": 310,
@@ -27952,6 +30981,11 @@ var data =
                 "final": 749,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -27964,7 +30998,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-30T22:16:28.000Z",
-        "updatedAt": "2024-04-02T15:52:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 61,
         "playersStarted": 0,
         "playersTotal": 256,
@@ -27999,6 +31033,11 @@ var data =
                 "final": 1139,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -28011,7 +31050,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-10-26T19:07:09.000Z",
-        "updatedAt": "2023-10-26T20:20:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 136,
@@ -28046,6 +31085,11 @@ var data =
                 "final": 455,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 44
         }
     },
     {
@@ -28058,7 +31102,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-10-03T23:02:23.000Z",
-        "updatedAt": "2023-10-06T16:28:45.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -28093,6 +31137,11 @@ var data =
                 "final": 799,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -28105,7 +31154,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-05-14T06:57:51.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -28140,6 +31189,11 @@ var data =
                 "final": 239,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -28152,7 +31206,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-10-03T23:01:37.000Z",
-        "updatedAt": "2023-10-06T12:02:28.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 54,
@@ -28187,6 +31241,11 @@ var data =
                 "final": 4799,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 42
         }
     },
     {
@@ -28199,7 +31258,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-17T01:43:32.000Z",
-        "updatedAt": "2022-04-17T01:54:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -28234,6 +31293,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -28246,7 +31310,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-08-09T00:57:17.000Z",
-        "updatedAt": "2024-09-07T17:23:42.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -28281,6 +31345,11 @@ var data =
                 "final": 349,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 45
         }
     },
     {
@@ -28328,6 +31397,11 @@ var data =
                 "final": 539,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -28340,7 +31414,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-20T00:06:41.000Z",
-        "updatedAt": "2024-05-20T02:38:45.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -28375,6 +31449,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 31
         }
     },
     {
@@ -28387,7 +31466,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T18:58:12.000Z",
-        "updatedAt": "2024-05-31T14:45:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 54,
@@ -28422,6 +31501,11 @@ var data =
                 "final": 339,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -28434,7 +31518,7 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2023-01-09T03:22:16.000Z",
-        "updatedAt": "2023-05-20T00:38:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 6,
         "playersTotal": 41,
@@ -28469,6 +31553,11 @@ var data =
                 "final": 1079,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -28481,7 +31570,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T12:54:37.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 165,
         "playersStarted": 0,
         "playersTotal": 756,
@@ -28516,6 +31605,11 @@ var data =
                 "final": 129,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -28528,7 +31622,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-15T09:04:34.000Z",
-        "updatedAt": "2022-04-15T16:51:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -28563,6 +31657,11 @@ var data =
                 "final": 339,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -28610,6 +31709,11 @@ var data =
                 "final": 909,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 42
         }
     },
     {
@@ -28622,7 +31726,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-01T19:48:44.000Z",
-        "updatedAt": "2022-04-01T19:52:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 55,
         "playersStarted": 0,
         "playersTotal": 1053,
@@ -28657,6 +31761,11 @@ var data =
                 "final": 674,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -28669,7 +31778,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2023-01-25T15:30:24.000Z",
-        "updatedAt": "2023-08-06T19:16:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 2,
         "playersTotal": 55,
@@ -28704,6 +31813,11 @@ var data =
                 "final": 1949,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 39
         }
     },
     {
@@ -28716,7 +31830,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-09-17T05:51:29.000Z",
-        "updatedAt": "2023-09-17T06:46:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 7,
         "playersTotal": 100,
@@ -28751,6 +31865,11 @@ var data =
                 "final": 1499,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 42
         }
     },
     {
@@ -28763,7 +31882,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-05-18T22:33:56.000Z",
-        "updatedAt": "2023-06-09T22:44:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 6,
         "playersTotal": 106,
@@ -28798,6 +31917,11 @@ var data =
                 "final": 1025,
                 "discountPercent": 55
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 52
         }
     },
     {
@@ -28810,7 +31934,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-12T02:03:27.000Z",
-        "updatedAt": "2023-11-27T03:10:18.000Z",
+        "updatedAt": "2024-11-12T19:29:40.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 78,
@@ -28845,6 +31969,11 @@ var data =
                 "final": 549,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 84
         }
     },
     {
@@ -28857,7 +31986,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-11-10T06:33:29.000Z",
-        "updatedAt": "2023-11-18T17:44:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -28892,6 +32021,11 @@ var data =
                 "final": 3599,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 63
         }
     },
     {
@@ -28904,7 +32038,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-06-06T17:23:33.000Z",
-        "updatedAt": "2024-06-10T00:18:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -28939,6 +32073,11 @@ var data =
                 "final": 2474,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -28951,7 +32090,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2022-10-22T13:42:21.000Z",
-        "updatedAt": "2024-01-01T18:28:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 3,
         "playersTotal": 79,
@@ -28986,6 +32125,11 @@ var data =
                 "final": 311,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -28998,7 +32142,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-08T13:13:31.000Z",
-        "updatedAt": "2024-04-02T15:52:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -29033,6 +32177,11 @@ var data =
                 "final": 311,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 16
         }
     },
     {
@@ -29045,7 +32194,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-03-23T02:07:01.000Z",
-        "updatedAt": "2024-07-22T22:00:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 37,
         "playersStarted": 23,
         "playersTotal": 143,
@@ -29080,6 +32229,11 @@ var data =
                 "final": 311,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -29092,7 +32246,7 @@ var data =
         "tier": 4,
         "points": 95,
         "createdAt": "2024-04-14T00:15:21.000Z",
-        "updatedAt": "2024-05-07T02:13:42.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 9,
         "playersTotal": 43,
@@ -29127,6 +32281,11 @@ var data =
                 "final": 311,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -29139,7 +32298,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2024-06-10T03:58:48.000Z",
-        "updatedAt": "2024-07-22T22:00:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 1,
         "playersTotal": 21,
@@ -29174,6 +32333,11 @@ var data =
                 "final": 399,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 14
         }
     },
     {
@@ -29186,7 +32350,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-08T18:26:21.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -29221,6 +32385,11 @@ var data =
                 "final": 194,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 18
         }
     },
     {
@@ -29233,7 +32402,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-03-09T00:07:02.000Z",
-        "updatedAt": "2024-03-09T00:22:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 29,
@@ -29268,7 +32437,13 @@ var data =
                 "final": 519,
                 "discountPercent": 60
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 27
+        },
+        "information": "Requires DLC: My Trip To Japan for both objectives."
     },
     {
         "gameType": 0,
@@ -29280,10 +32455,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:14:01.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 130,
         "playersStarted": 0,
-        "playersTotal": 304,
+        "playersTotal": 305,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -29315,6 +32490,11 @@ var data =
                 "final": 91,
                 "discountPercent": 72
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -29327,7 +32507,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:07:03.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 48,
         "playersStarted": 22,
         "playersTotal": 196,
@@ -29362,6 +32542,11 @@ var data =
                 "final": 162,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 26
         }
     },
     {
@@ -29374,7 +32559,7 @@ var data =
         "tier": 4,
         "points": 175,
         "createdAt": "2021-12-08T00:05:01.000Z",
-        "updatedAt": "2024-09-12T14:05:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 25,
         "playersTotal": 103,
@@ -29409,6 +32594,11 @@ var data =
                 "final": 909,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -29421,7 +32611,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T08:08:05.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 151,
         "playersStarted": 0,
         "playersTotal": 397,
@@ -29456,6 +32646,11 @@ var data =
                 "final": 155,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 14
         }
     },
     {
@@ -29468,7 +32663,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-06-09T19:52:37.000Z",
-        "updatedAt": "2023-02-18T00:21:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 17,
         "playersTotal": 179,
@@ -29503,6 +32698,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -29515,7 +32715,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:07:04.000Z",
-        "updatedAt": "2024-04-02T15:52:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 72,
         "playersStarted": 0,
         "playersTotal": 186,
@@ -29550,6 +32750,11 @@ var data =
                 "final": 155,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 9
         }
     },
     {
@@ -29562,7 +32767,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-11-15T20:39:11.000Z",
-        "updatedAt": "2023-06-17T23:17:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 20,
         "playersStarted": 4,
         "playersTotal": 63,
@@ -29597,6 +32802,11 @@ var data =
                 "final": 799,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 44
         }
     },
     {
@@ -29609,7 +32819,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-01T20:52:18.000Z",
-        "updatedAt": "2022-07-01T20:56:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 172,
@@ -29644,6 +32854,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -29656,7 +32871,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-12-28T16:03:57.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 24,
         "playersStarted": 7,
         "playersTotal": 120,
@@ -29691,6 +32906,11 @@ var data =
                 "final": 524,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -29703,7 +32923,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-29T17:52:09.000Z",
-        "updatedAt": "2024-05-12T18:10:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -29738,6 +32958,11 @@ var data =
                 "final": 1349,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -29785,7 +33010,13 @@ var data =
                 "final": 454,
                 "discountPercent": 30
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 87
+        },
+        "information": "Use the following for map layouts, tips, and general information: \n\nhttps://docs.google.com/document/d/1zKVlaPvk8Y4Z1KyalNkBUxYxsbF6MU9ouM4Oul-VYGc/edit?tab=t.0"
     },
     {
         "gameType": 0,
@@ -29797,7 +33028,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-05T00:22:05.000Z",
-        "updatedAt": "2024-09-07T17:32:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -29832,6 +33063,11 @@ var data =
                 "final": 172,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -29844,7 +33080,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-04-13T21:44:14.000Z",
-        "updatedAt": "2024-04-14T03:24:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -29879,6 +33115,11 @@ var data =
                 "final": 974,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -29891,7 +33132,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:11:11.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 30,
         "playersStarted": 28,
         "playersTotal": 217,
@@ -29926,6 +33167,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -29938,7 +33184,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-10T05:13:34.000Z",
-        "updatedAt": "2024-04-02T15:52:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -29973,6 +33219,11 @@ var data =
                 "final": 549,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 82
         }
     },
     {
@@ -29985,7 +33236,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-13T20:40:14.000Z",
-        "updatedAt": "2023-05-14T18:13:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -30020,6 +33271,11 @@ var data =
                 "final": 699,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 36
         }
     },
     {
@@ -30032,7 +33288,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-06-09T19:27:12.000Z",
-        "updatedAt": "2024-05-04T03:24:45.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 25,
         "playersTotal": 182,
@@ -30067,6 +33323,11 @@ var data =
                 "final": 434,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -30079,7 +33340,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-15T18:01:27.000Z",
-        "updatedAt": "2023-01-23T12:21:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 11,
         "playersTotal": 29,
@@ -30114,6 +33375,11 @@ var data =
                 "final": 874,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 31
         }
     },
     {
@@ -30126,7 +33392,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-08-30T20:40:56.000Z",
-        "updatedAt": "2023-08-30T21:10:45.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 50,
@@ -30161,6 +33427,11 @@ var data =
                 "final": 1286,
                 "discountPercent": 67
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 85
         }
     },
     {
@@ -30173,7 +33444,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-26T15:59:53.000Z",
-        "updatedAt": "2024-04-02T15:52:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 35,
@@ -30208,6 +33479,11 @@ var data =
                 "final": 160,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 6
         }
     },
     {
@@ -30220,7 +33496,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-24T00:25:06.000Z",
-        "updatedAt": "2024-04-02T15:52:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 56,
@@ -30255,6 +33531,11 @@ var data =
                 "final": 183,
                 "discountPercent": 92
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 72
         }
     },
     {
@@ -30267,7 +33548,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-07-04T00:36:02.000Z",
-        "updatedAt": "2024-06-05T00:54:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 76,
@@ -30302,7 +33583,13 @@ var data =
                 "final": 109,
                 "discountPercent": 90
             }
-        }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 0
+        },
+        "information": "The game only shows Master ranks upon completing a chapter in the campaign, which is highly inconvenient. So, you're allowed to simulate them through level select. For Master ranks, you are not allowed to get caught or use resets. For Mission 1, the sum of level times must be 1:30 or less. For Missions 2 through 5 individually, 8:00 or less."
     },
     {
         "gameType": 0,
@@ -30314,7 +33601,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-06-03T14:14:46.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 221,
@@ -30349,6 +33636,11 @@ var data =
                 "final": 899,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 67
         }
     },
     {
@@ -30361,7 +33653,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-12-28T03:10:04.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 144,
@@ -30396,6 +33688,11 @@ var data =
                 "final": 1319,
                 "discountPercent": 67
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -30408,7 +33705,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-14T18:28:04.000Z",
-        "updatedAt": "2023-01-20T11:16:25.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 357,
@@ -30443,6 +33740,11 @@ var data =
                 "final": 759,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 24
         }
     },
     {
@@ -30455,7 +33757,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2023-10-19T06:22:43.000Z",
-        "updatedAt": "2023-10-19T22:17:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 10,
         "playersTotal": 130,
@@ -30490,6 +33792,11 @@ var data =
                 "final": 959,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 2,
+            "achievements": 21
         }
     },
     {
@@ -30502,7 +33809,7 @@ var data =
         "tier": 2,
         "points": 27,
         "createdAt": "2023-10-19T05:50:28.000Z",
-        "updatedAt": "2023-10-19T18:48:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 76,
@@ -30537,6 +33844,11 @@ var data =
                 "final": 1319,
                 "discountPercent": 67
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 2,
+            "achievements": 37
         }
     },
     {
@@ -30552,7 +33864,7 @@ var data =
         "updatedAt": "2024-10-08T09:28:24.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
-        "playersTotal": 102,
+        "playersTotal": 103,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -30584,6 +33896,11 @@ var data =
                 "final": 1499,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -30596,7 +33913,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-03T17:49:45.000Z",
-        "updatedAt": "2024-01-03T18:26:25.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -30631,6 +33948,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -30643,7 +33965,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2020-01-28T08:41:24.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 432,
@@ -30673,6 +33995,11 @@ var data =
                 "final": 1979,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 60
         }
     },
     {
@@ -30720,6 +34047,11 @@ var data =
                 "final": 2159,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 51
         }
     },
     {
@@ -30732,7 +34064,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-10-19T22:54:00.000Z",
-        "updatedAt": "2024-05-20T02:33:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
         "playersTotal": 129,
@@ -30767,6 +34099,11 @@ var data =
                 "final": 879,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -30779,7 +34116,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-12T21:54:22.000Z",
-        "updatedAt": "2023-04-12T22:52:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 163,
@@ -30814,6 +34151,11 @@ var data =
                 "final": 879,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -30826,7 +34168,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-04T20:39:34.000Z",
-        "updatedAt": "2024-05-06T16:42:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 103,
@@ -30861,6 +34203,11 @@ var data =
                 "final": 972,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -30873,7 +34220,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-10-14T20:09:10.000Z",
-        "updatedAt": "2023-06-24T06:24:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 4,
         "playersTotal": 37,
@@ -30908,6 +34255,11 @@ var data =
                 "final": 699,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 34
         }
     },
     {
@@ -30920,7 +34272,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-26T07:57:31.000Z",
-        "updatedAt": "2024-04-02T15:53:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 70,
@@ -30955,6 +34307,11 @@ var data =
                 "final": 1499,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -30967,7 +34324,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-09-19T14:05:31.000Z",
-        "updatedAt": "2023-07-18T17:57:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -31002,6 +34359,11 @@ var data =
                 "final": 1619,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 40
         }
     },
     {
@@ -31014,7 +34376,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-09-10T18:47:32.000Z",
-        "updatedAt": "2024-09-10T21:26:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -31049,6 +34411,11 @@ var data =
                 "final": 274,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 70
         }
     },
     {
@@ -31061,7 +34428,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T05:24:42.000Z",
-        "updatedAt": "2022-06-20T22:12:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 37,
         "playersStarted": 0,
         "playersTotal": 97,
@@ -31096,6 +34463,11 @@ var data =
                 "final": 134,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 20
         }
     },
     {
@@ -31108,8 +34480,8 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-22T19:55:26.000Z",
-        "updatedAt": "2024-04-02T15:53:05.000Z",
-        "playersCompleted": 40,
+        "updatedAt": "2024-09-28T16:51:24.000Z",
+        "playersCompleted": 41,
         "playersStarted": 0,
         "playersTotal": 61,
         "priceData": {
@@ -31143,6 +34515,11 @@ var data =
                 "final": 341,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -31155,7 +34532,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-04-28T22:30:11.000Z",
-        "updatedAt": "2024-04-29T02:36:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -31190,6 +34567,11 @@ var data =
                 "final": 449,
                 "discountPercent": 10
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -31202,7 +34584,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2021-04-29T10:54:42.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -31237,6 +34619,11 @@ var data =
                 "final": 584,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -31249,7 +34636,7 @@ var data =
         "tier": 5,
         "points": 350,
         "createdAt": "2022-02-28T01:41:31.000Z",
-        "updatedAt": "2023-09-04T07:35:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 5,
         "playersTotal": 51,
@@ -31284,6 +34671,11 @@ var data =
                 "final": 519,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 3,
+            "achievements": 49
         }
     },
     {
@@ -31296,7 +34688,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-10-06T12:17:00.000Z",
-        "updatedAt": "2023-10-06T13:32:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -31331,6 +34723,11 @@ var data =
                 "final": 465,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 20
         }
     },
     {
@@ -31343,7 +34740,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-01-17T18:57:55.000Z",
-        "updatedAt": "2022-11-10T03:24:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -31378,6 +34775,11 @@ var data =
                 "final": 109,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -31390,7 +34792,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-26T06:08:08.000Z",
-        "updatedAt": "2024-04-02T15:53:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 283,
@@ -31425,6 +34827,11 @@ var data =
                 "final": 549,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 67
         }
     },
     {
@@ -31437,7 +34844,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-26T06:14:01.000Z",
-        "updatedAt": "2024-04-02T15:53:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 126,
@@ -31472,6 +34879,11 @@ var data =
                 "final": 919,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 94
         }
     },
     {
@@ -31484,7 +34896,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-24T20:26:59.000Z",
-        "updatedAt": "2024-04-02T15:53:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -31519,6 +34931,11 @@ var data =
                 "final": 129,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -31531,7 +34948,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2024-07-22T17:27:56.000Z",
-        "updatedAt": "2024-09-07T17:26:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 8,
         "playersTotal": 30,
@@ -31566,6 +34983,11 @@ var data =
                 "final": 399,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 59
         }
     },
     {
@@ -31578,7 +35000,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-23T17:20:12.000Z",
-        "updatedAt": "2023-01-23T18:18:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 2,
         "playersTotal": 12,
@@ -31613,6 +35035,11 @@ var data =
                 "final": 2039,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 51
         }
     },
     {
@@ -31625,7 +35052,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-04-15T00:33:52.000Z",
-        "updatedAt": "2023-04-13T01:06:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 58,
@@ -31660,6 +35087,11 @@ var data =
                 "final": 287,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -31672,7 +35104,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:09:09.000Z",
-        "updatedAt": "2024-04-02T15:53:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 54,
         "playersStarted": 0,
         "playersTotal": 267,
@@ -31707,6 +35139,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -31719,7 +35156,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-16T23:37:36.000Z",
-        "updatedAt": "2024-01-18T01:09:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -31754,6 +35191,11 @@ var data =
                 "final": 1539,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -31766,7 +35208,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T12:01:35.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 73,
         "playersStarted": 0,
         "playersTotal": 393,
@@ -31801,6 +35243,11 @@ var data =
                 "final": 549,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 9
         }
     },
     {
@@ -31813,7 +35260,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-08-03T22:01:02.000Z",
-        "updatedAt": "2023-06-24T06:25:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 17,
         "playersTotal": 223,
@@ -31848,6 +35295,11 @@ var data =
                 "final": 975,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 53
         }
     },
     {
@@ -31860,7 +35312,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-18T14:12:13.000Z",
-        "updatedAt": "2022-11-18T14:30:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -31895,6 +35347,11 @@ var data =
                 "final": 799,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -31907,7 +35364,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-08-26T17:12:54.000Z",
-        "updatedAt": "2024-02-05T14:23:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 2,
         "playersTotal": 122,
@@ -31942,7 +35399,13 @@ var data =
                 "final": 1649,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 37
+        },
+        "information": "DLC Required:\n-The Virtuous Cycle"
     },
     {
         "gameType": 0,
@@ -31954,7 +35417,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-02-29T18:30:45.000Z",
-        "updatedAt": "2024-03-01T11:49:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 29,
@@ -31989,7 +35452,13 @@ var data =
                 "final": 227,
                 "discountPercent": 87
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 50
+        },
+        "information": "Requires Antique Antics and Sliced Peak DLC for the Developer Times PO."
     },
     {
         "gameType": 0,
@@ -32001,7 +35470,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-27T06:24:27.000Z",
-        "updatedAt": "2022-09-27T08:14:48.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 149,
@@ -32036,6 +35505,11 @@ var data =
                 "final": 579,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 38
         }
     },
     {
@@ -32048,7 +35522,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-16T04:53:51.000Z",
-        "updatedAt": "2024-05-20T02:47:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -32078,6 +35552,11 @@ var data =
                 "final": 329,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 43
         }
     },
     {
@@ -32090,7 +35569,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2023-10-24T23:11:24.000Z",
-        "updatedAt": "2023-11-20T08:10:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
         "playersTotal": 43,
@@ -32125,6 +35604,11 @@ var data =
                 "final": 1625,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -32137,7 +35621,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:53:30.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 190,
@@ -32172,6 +35656,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -32184,7 +35673,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-12-27T00:08:30.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -32219,6 +35708,11 @@ var data =
                 "final": 274,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 12
         }
     },
     {
@@ -32231,7 +35725,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-02-16T20:58:15.000Z",
-        "updatedAt": "2023-05-11T02:09:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 4,
         "playersTotal": 81,
@@ -32266,6 +35760,11 @@ var data =
                 "final": 109,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 48
         }
     },
     {
@@ -32278,7 +35777,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-03-16T02:24:39.000Z",
-        "updatedAt": "2023-08-03T08:37:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
         "playersTotal": 41,
@@ -32313,6 +35812,11 @@ var data =
                 "final": 227,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 48
         }
     },
     {
@@ -32325,7 +35829,7 @@ var data =
         "tier": 5,
         "points": 585,
         "createdAt": "2021-10-25T15:11:46.000Z",
-        "updatedAt": "2023-07-04T18:43:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 31,
         "playersTotal": 917,
@@ -32360,6 +35864,11 @@ var data =
                 "final": 389,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -32372,7 +35881,7 @@ var data =
         "tier": 5,
         "points": 425,
         "createdAt": "2020-01-28T08:58:03.000Z",
-        "updatedAt": "2023-11-09T20:12:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 28,
         "playersTotal": 190,
@@ -32407,6 +35916,11 @@ var data =
                 "final": 909,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -32419,7 +35933,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-11T17:09:21.000Z",
-        "updatedAt": "2024-03-14T03:48:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 108,
@@ -32454,6 +35968,11 @@ var data =
                 "final": 1019,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -32466,7 +35985,7 @@ var data =
         "tier": 4,
         "points": 83,
         "createdAt": "2022-09-26T19:55:59.000Z",
-        "updatedAt": "2024-08-04T13:17:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 44,
         "playersTotal": 255,
@@ -32501,6 +36020,11 @@ var data =
                 "final": 124,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 6,
+            "community": 1,
+            "achievements": 27
         }
     },
     {
@@ -32513,7 +36037,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-24T15:31:56.000Z",
-        "updatedAt": "2024-04-02T15:53:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -32548,6 +36072,11 @@ var data =
                 "final": 129,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -32560,8 +36089,8 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-24T15:32:08.000Z",
-        "updatedAt": "2024-04-02T15:53:30.000Z",
-        "playersCompleted": 3,
+        "updatedAt": "2024-09-28T16:51:24.000Z",
+        "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 14,
         "priceData": {
@@ -32595,6 +36124,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -32607,7 +36141,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:28:36.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -32642,6 +36176,11 @@ var data =
                 "final": 1461,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -32654,7 +36193,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:19:37.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 24,
         "playersTotal": 292,
@@ -32689,6 +36228,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -32701,7 +36245,7 @@ var data =
         "tier": 5,
         "points": 565,
         "createdAt": "2020-01-28T09:37:10.000Z",
-        "updatedAt": "2024-09-04T10:12:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 24,
         "playersStarted": 53,
         "playersTotal": 513,
@@ -32736,7 +36280,13 @@ var data =
                 "final": 849,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 6,
+            "community": 6,
+            "achievements": 33
+        },
+        "information": "[Curated on Steam](https://store.steampowered.com/app/230270/N_NPLUSPLUS/?curator_clanid=36185934)\n\nDue to the game having issues with save file corruption, it is VERY STRONGLY recommended to disable Steam Cloud for this game and to make manual backups when significant progress is made. If you don't do this, you run the risk of losing all progress and starting all over again.\n\nMore info found here: [https://steamcommunity.com/sharedfiles/filedetails/?id=1821198112](https://steamcommunity.com/sharedfiles/filedetails/?id=1821198112)\n\n\nFor the Community Objectives, the \"N++ Custom Tab Completions\" spreadsheet can be found below. It contains a completions tracker, and links to all released map packs (\"Map links\" sheet).\n\n[N++ Custom Tab Completions Spreadsheet](https://docs.google.com/spreadsheets/d/19sPxQ8SdHc_ksA9Z3ye3iAI-8c1w-jjur8PLZyK1zfs)"
     },
     {
         "gameType": 0,
@@ -32748,7 +36298,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2022-10-28T22:16:53.000Z",
-        "updatedAt": "2023-07-12T17:00:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 16,
@@ -32783,6 +36333,11 @@ var data =
                 "final": 116,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -32795,7 +36350,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:20:17.000Z",
-        "updatedAt": "2023-03-18T16:52:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 7,
         "playersTotal": 40,
@@ -32830,6 +36385,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -32842,7 +36402,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2024-09-07T20:11:40.000Z",
-        "updatedAt": "2024-09-07T20:58:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -32877,6 +36437,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -32889,7 +36454,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2023-04-27T23:35:51.000Z",
-        "updatedAt": "2024-02-08T16:46:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 17,
@@ -32924,6 +36489,11 @@ var data =
                 "final": 164,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -32936,7 +36506,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:47:21.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 72,
@@ -32971,6 +36541,11 @@ var data =
                 "final": 119,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -32983,7 +36558,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-24T01:44:49.000Z",
-        "updatedAt": "2024-04-02T15:53:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -33018,6 +36593,11 @@ var data =
                 "final": 924,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -33030,7 +36610,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-09-01T21:56:43.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 259,
@@ -33065,6 +36645,11 @@ var data =
                 "final": 569,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -33077,7 +36662,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2022-06-24T23:32:39.000Z",
-        "updatedAt": "2024-03-22T06:16:42.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 67,
         "playersStarted": 67,
         "playersTotal": 320,
@@ -33112,7 +36697,13 @@ var data =
                 "final": 1649,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 4,
+            "achievements": 63
+        },
+        "information": " For Community Objectives, the NeonLite mod can be downloaded from: <https://github.com/Faustas156/NeonLite/releases>"
     },
     {
         "gameType": 0,
@@ -33124,7 +36715,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-02-04T20:29:18.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 115,
@@ -33159,6 +36750,11 @@ var data =
                 "final": 284,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -33171,7 +36767,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-26T19:04:49.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -33206,6 +36802,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -33218,7 +36819,7 @@ var data =
         "tier": 5,
         "points": 330,
         "createdAt": "2020-01-28T09:36:16.000Z",
-        "updatedAt": "2023-07-20T22:21:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 28,
         "playersTotal": 152,
@@ -33253,6 +36854,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 49
         }
     },
     {
@@ -33265,7 +36871,7 @@ var data =
         "tier": 4,
         "points": 165,
         "createdAt": "2020-06-25T18:54:29.000Z",
-        "updatedAt": "2024-04-09T05:05:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 10,
         "playersTotal": 241,
@@ -33300,6 +36906,11 @@ var data =
                 "final": 2199,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 39
         }
     },
     {
@@ -33312,7 +36923,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-29T19:52:59.000Z",
-        "updatedAt": "2024-04-02T15:53:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 307,
@@ -33342,6 +36953,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -33354,7 +36970,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T18:57:02.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 38,
         "playersStarted": 0,
         "playersTotal": 179,
@@ -33389,6 +37005,11 @@ var data =
                 "final": 351,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -33436,6 +37057,11 @@ var data =
                 "final": 329,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -33448,7 +37074,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:14:50.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 75,
@@ -33483,6 +37109,11 @@ var data =
                 "final": 219,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -33495,7 +37126,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-26T21:59:33.000Z",
-        "updatedAt": "2023-03-07T12:09:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 49,
@@ -33530,6 +37161,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -33542,7 +37178,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-02-14T11:04:46.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 154,
@@ -33577,6 +37213,11 @@ var data =
                 "final": 3574,
                 "discountPercent": 45
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 88
         }
     },
     {
@@ -33589,7 +37230,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T08:37:35.000Z",
-        "updatedAt": "2024-10-18T06:07:16.000Z",
+        "updatedAt": "2024-10-18T06:07:23.000Z",
         "playersCompleted": 1,
         "playersStarted": 28,
         "playersTotal": 211,
@@ -33624,6 +37265,11 @@ var data =
                 "final": 1494,
                 "discountPercent": 77
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 79
         }
     },
     {
@@ -33636,7 +37282,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-05-18T15:32:29.000Z",
-        "updatedAt": "2024-05-31T14:32:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 55,
         "playersStarted": 0,
         "playersTotal": 92,
@@ -33671,6 +37317,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -33683,7 +37334,7 @@ var data =
         "tier": 5,
         "points": 470,
         "createdAt": "2021-10-10T16:32:22.000Z",
-        "updatedAt": "2024-06-24T14:36:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 6,
         "playersTotal": 69,
@@ -33718,6 +37369,11 @@ var data =
                 "final": 1367,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 3,
+            "achievements": 94
         }
     },
     {
@@ -33730,7 +37386,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-01-17T02:29:53.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 21,
         "playersStarted": 155,
         "playersTotal": 665,
@@ -33765,6 +37421,11 @@ var data =
                 "final": 911,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 3,
+            "achievements": 14
         }
     },
     {
@@ -33777,7 +37438,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-11-19T14:30:18.000Z",
-        "updatedAt": "2024-04-01T14:32:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -33812,6 +37473,11 @@ var data =
                 "final": 116,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 2
         }
     },
     {
@@ -33824,7 +37490,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2021-05-14T14:39:52.000Z",
-        "updatedAt": "2023-02-27T19:52:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -33859,6 +37525,11 @@ var data =
                 "final": 1230,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -33871,7 +37542,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:30:47.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 44,
@@ -33906,6 +37577,11 @@ var data =
                 "final": 398,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -33918,7 +37594,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-04-13T19:34:57.000Z",
-        "updatedAt": "2023-01-29T23:56:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 42,
         "playersStarted": 20,
         "playersTotal": 553,
@@ -33953,6 +37629,11 @@ var data =
                 "final": 1349,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 44
         }
     },
     {
@@ -33965,7 +37646,7 @@ var data =
         "tier": 4,
         "points": 135,
         "createdAt": "2023-09-26T04:07:09.000Z",
-        "updatedAt": "2024-07-22T17:44:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 27,
@@ -34000,6 +37681,11 @@ var data =
                 "final": 629,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -34047,6 +37733,11 @@ var data =
                 "final": 109,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -34059,7 +37750,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2023-11-18T19:06:50.000Z",
-        "updatedAt": "2023-11-19T18:27:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 32,
@@ -34094,6 +37785,11 @@ var data =
                 "final": 284,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 46
         }
     },
     {
@@ -34106,7 +37802,7 @@ var data =
         "tier": 5,
         "points": 230,
         "createdAt": "2022-06-19T07:16:16.000Z",
-        "updatedAt": "2024-08-19T19:33:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 90,
@@ -34141,6 +37837,11 @@ var data =
                 "final": 362,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -34153,7 +37854,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:22:26.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 127,
@@ -34188,6 +37889,11 @@ var data =
                 "final": 324,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -34200,7 +37906,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-01T19:55:00.000Z",
-        "updatedAt": "2022-04-01T19:57:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 159,
@@ -34235,6 +37941,11 @@ var data =
                 "final": 549,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -34247,7 +37958,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T10:02:46.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -34282,6 +37993,11 @@ var data =
                 "final": 284,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 39
         }
     },
     {
@@ -34294,7 +38010,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:18:25.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 142,
@@ -34324,6 +38040,11 @@ var data =
                 "final": 879,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -34336,7 +38057,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2024-09-07T18:17:44.000Z",
-        "updatedAt": "2024-09-16T17:42:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -34371,6 +38092,11 @@ var data =
                 "final": 1029,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -34383,7 +38109,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-18T03:31:27.000Z",
-        "updatedAt": "2024-09-07T17:28:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -34418,6 +38144,11 @@ var data =
                 "final": 181,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -34430,7 +38161,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-20T22:19:45.000Z",
-        "updatedAt": "2024-09-07T17:27:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -34465,6 +38196,11 @@ var data =
                 "final": 72,
                 "discountPercent": 72
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -34477,10 +38213,10 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2020-01-28T09:46:29.000Z",
-        "updatedAt": "2023-02-26T18:10:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 33,
-        "playersTotal": 180,
+        "playersTotal": 181,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -34512,6 +38248,11 @@ var data =
                 "final": 217,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 13
         }
     },
     {
@@ -34524,7 +38265,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-06T11:33:49.000Z",
-        "updatedAt": "2024-05-20T02:37:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 163,
@@ -34559,6 +38300,11 @@ var data =
                 "final": 339,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 12
         }
     },
     {
@@ -34571,7 +38317,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-02-28T23:50:45.000Z",
-        "updatedAt": "2024-06-29T03:49:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 162,
@@ -34606,6 +38352,11 @@ var data =
                 "final": 857,
                 "discountPercent": 67
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 54
         }
     },
     {
@@ -34618,7 +38369,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:55:09.000Z",
-        "updatedAt": "2024-03-22T06:13:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 152,
@@ -34653,6 +38404,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -34665,7 +38421,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:57:57.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 133,
@@ -34700,6 +38456,11 @@ var data =
                 "final": 129,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -34712,7 +38473,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T10:04:10.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 474,
@@ -34747,6 +38508,11 @@ var data =
                 "final": 124,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 152
         }
     },
     {
@@ -34759,7 +38525,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-28T19:34:44.000Z",
-        "updatedAt": "2024-04-02T15:53:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -34794,6 +38560,11 @@ var data =
                 "final": 90,
                 "discountPercent": 86
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -34806,7 +38577,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-29T18:07:23.000Z",
-        "updatedAt": "2024-04-02T15:53:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -34841,6 +38612,11 @@ var data =
                 "final": 779,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -34888,6 +38664,11 @@ var data =
                 "final": 116,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -34900,7 +38681,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-06-09T18:03:09.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 41,
         "playersStarted": 0,
         "playersTotal": 424,
@@ -34935,6 +38716,11 @@ var data =
                 "final": 911,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -34947,7 +38733,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-27T19:07:43.000Z",
-        "updatedAt": "2024-01-01T18:35:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -34982,6 +38768,11 @@ var data =
                 "final": 539,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -34994,7 +38785,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:09:37.000Z",
-        "updatedAt": "2022-05-14T20:12:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 149,
@@ -35029,6 +38820,11 @@ var data =
                 "final": 162,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -35041,7 +38837,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:39:29.000Z",
-        "updatedAt": "2024-04-02T15:53:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 100,
         "playersStarted": 0,
         "playersTotal": 211,
@@ -35076,6 +38872,11 @@ var data =
                 "final": 64,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 6
         }
     },
     {
@@ -35088,7 +38889,7 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2021-06-28T08:58:16.000Z",
-        "updatedAt": "2024-05-23T05:16:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 36,
         "playersStarted": 17,
         "playersTotal": 268,
@@ -35123,7 +38924,13 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 4,
+            "achievements": 48
+        },
+        "information": "Replay files can be found through <Program Files (x86)\\Steam\\steamapps\\common\\Open Hexagon\\Replays>. Make sure to select the game executable as the default application for opening the replay files."
     },
     {
         "gameType": 0,
@@ -35135,7 +38942,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-10-28T22:17:40.000Z",
-        "updatedAt": "2022-10-29T00:13:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 1,
         "playersTotal": 17,
@@ -35170,6 +38977,11 @@ var data =
                 "final": 649,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 52
         }
     },
     {
@@ -35182,7 +38994,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-02T00:44:28.000Z",
-        "updatedAt": "2023-09-05T20:15:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -35217,6 +39029,11 @@ var data =
                 "final": 449,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -35229,7 +39046,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T06:49:32.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 85,
         "playersStarted": 0,
         "playersTotal": 785,
@@ -35264,6 +39081,11 @@ var data =
                 "final": 624,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 57
         }
     },
     {
@@ -35276,7 +39098,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2022-06-07T02:48:54.000Z",
-        "updatedAt": "2023-03-21T21:04:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 95,
         "playersTotal": 501,
@@ -35311,6 +39133,11 @@ var data =
                 "final": 1319,
                 "discountPercent": 67
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -35323,7 +39150,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-06-10T01:11:35.000Z",
-        "updatedAt": "2023-06-10T18:53:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 95,
@@ -35358,6 +39185,11 @@ var data =
                 "final": 874,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -35370,7 +39202,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2021-10-24T16:29:31.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 54,
@@ -35400,6 +39232,11 @@ var data =
                 "final": 1699,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 64
         }
     },
     {
@@ -35412,7 +39249,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-24T01:16:40.000Z",
-        "updatedAt": "2024-05-20T02:30:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -35447,6 +39284,11 @@ var data =
                 "final": 187,
                 "discountPercent": 92
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 38
         }
     },
     {
@@ -35459,7 +39301,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-10T16:59:58.000Z",
-        "updatedAt": "2022-04-19T20:45:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 50,
         "playersStarted": 0,
         "playersTotal": 608,
@@ -35494,6 +39336,11 @@ var data =
                 "final": 389,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -35506,7 +39353,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-10T17:28:25.000Z",
-        "updatedAt": "2022-04-10T17:49:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 283,
@@ -35541,6 +39388,11 @@ var data =
                 "final": 584,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -35553,7 +39405,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:49:52.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -35583,6 +39435,11 @@ var data =
                 "final": 879,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -35595,7 +39452,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-05-13T18:41:47.000Z",
-        "updatedAt": "2023-07-13T03:14:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 25,
         "playersTotal": 366,
@@ -35630,6 +39487,11 @@ var data =
                 "final": 724,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 54
         }
     },
     {
@@ -35677,6 +39539,11 @@ var data =
                 "final": 389,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 5
         }
     },
     {
@@ -35689,7 +39556,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-21T23:01:45.000Z",
-        "updatedAt": "2024-05-07T02:09:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -35724,6 +39591,11 @@ var data =
                 "final": 479,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -35771,7 +39643,13 @@ var data =
                 "final": 779,
                 "discountPercent": 60
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 5,
+            "achievements": 28
+        },
+        "information": "To access \"A Glowing Light, A Promise\", type the following in the main menu: whereitallstarted\n\nDue to errors in the game's code, it is very strongly recommended not to play the secret level until completing the PO, otherwise you will prevent yourself from getting the required achievement.\n\nUse of assist options or challenge modifiers will show a dedicated icon at the top left of the HUD while playing and on the completion screen."
     },
     {
         "gameType": 0,
@@ -35783,7 +39661,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T08:38:02.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 17,
         "playersTotal": 240,
@@ -35813,6 +39691,11 @@ var data =
                 "final": 113,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 4
         }
     },
     {
@@ -35825,7 +39708,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:30:10.000Z",
-        "updatedAt": "2022-08-09T12:22:55.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 15,
         "playersTotal": 49,
@@ -35860,6 +39743,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -35907,7 +39795,13 @@ var data =
                 "final": 486,
                 "discountPercent": 25
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
+        },
+        "information": "There is currently a bug with the hit counter. It will not reset unless you gameover, if you quit to menu instead of naturally finishing a level or dying then hits between runs will persist, making S rank impossible. so dont quit to menu k thx.\n\nAlso pro tip, dash in and out of bosses with the fully upgraded explody upgrade to get S ranks."
     },
     {
         "gameType": 0,
@@ -35919,7 +39813,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-05-08T14:45:10.000Z",
-        "updatedAt": "2022-05-08T16:48:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 12,
         "playersTotal": 400,
@@ -35954,6 +39848,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -35966,7 +39865,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-27T02:35:22.000Z",
-        "updatedAt": "2022-03-31T07:51:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 167,
@@ -36001,6 +39900,11 @@ var data =
                 "final": 454,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 41
         }
     },
     {
@@ -36013,7 +39917,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-10-02T10:23:21.000Z",
-        "updatedAt": "2022-10-02T11:03:46.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -36048,6 +39952,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -36060,7 +39969,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-04-10T08:26:18.000Z",
-        "updatedAt": "2023-04-14T04:32:34.000Z",
+        "updatedAt": "2024-11-26T02:39:00.000Z",
         "playersCompleted": 5,
         "playersStarted": 2,
         "playersTotal": 69,
@@ -36095,6 +40004,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -36107,7 +40021,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-11T23:49:38.000Z",
-        "updatedAt": "2024-04-02T15:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -36142,6 +40056,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -36154,7 +40073,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-10-31T04:44:59.000Z",
-        "updatedAt": "2022-10-31T05:02:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -36189,6 +40108,11 @@ var data =
                 "final": 419,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -36201,7 +40125,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-04-03T18:24:18.000Z",
-        "updatedAt": "2024-01-01T18:29:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 10,
         "playersTotal": 107,
@@ -36236,6 +40160,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 44
         }
     },
     {
@@ -36248,7 +40177,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-07-12T04:07:18.000Z",
-        "updatedAt": "2024-09-07T17:30:45.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 50,
@@ -36283,6 +40212,11 @@ var data =
                 "final": 164,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 45
         }
     },
     {
@@ -36295,7 +40229,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-18T13:59:06.000Z",
-        "updatedAt": "2024-04-02T15:54:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 105,
@@ -36330,6 +40264,11 @@ var data =
                 "final": 449,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -36342,7 +40281,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-02-13T14:29:43.000Z",
-        "updatedAt": "2023-02-13T17:26:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 36,
@@ -36377,6 +40316,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 51
         }
     },
     {
@@ -36389,7 +40333,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:00:09.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -36424,6 +40368,11 @@ var data =
                 "final": 472,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -36436,7 +40385,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-06-14T18:09:46.000Z",
-        "updatedAt": "2024-01-15T20:14:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 1,
         "playersTotal": 180,
@@ -36471,6 +40420,11 @@ var data =
                 "final": 574,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 18
         }
     },
     {
@@ -36483,7 +40437,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2023-07-11T05:53:30.000Z",
-        "updatedAt": "2023-07-16T20:12:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 12,
         "playersTotal": 883,
@@ -36518,6 +40472,11 @@ var data =
                 "final": 519,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 1328
         }
     },
     {
@@ -36530,7 +40489,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-07-02T20:55:10.000Z",
-        "updatedAt": "2022-07-02T23:15:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 41,
         "playersStarted": 7,
         "playersTotal": 389,
@@ -36565,6 +40524,11 @@ var data =
                 "final": 1949,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 56
         }
     },
     {
@@ -36577,7 +40541,7 @@ var data =
         "tier": 5,
         "points": 360,
         "createdAt": "2023-11-26T22:22:38.000Z",
-        "updatedAt": "2024-05-20T02:23:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 26,
         "playersTotal": 80,
@@ -36612,6 +40576,11 @@ var data =
                 "final": 2479,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 53
         }
     },
     {
@@ -36659,6 +40628,11 @@ var data =
                 "final": 139,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 0
         }
     },
     {
@@ -36671,7 +40645,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2023-01-15T08:15:55.000Z",
-        "updatedAt": "2023-11-26T21:19:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 1,
         "playersTotal": 211,
@@ -36706,6 +40680,11 @@ var data =
                 "final": 139,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -36718,7 +40697,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-04T20:14:12.000Z",
-        "updatedAt": "2024-05-05T18:21:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -36753,6 +40732,11 @@ var data =
                 "final": 1169,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -36765,7 +40749,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-11-10T03:31:31.000Z",
-        "updatedAt": "2023-06-06T11:42:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 14,
@@ -36800,6 +40784,11 @@ var data =
                 "final": 269,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -36812,7 +40801,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-11-10T05:18:10.000Z",
-        "updatedAt": "2023-11-10T08:02:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 74,
@@ -36847,6 +40836,11 @@ var data =
                 "final": 2399,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 47
         }
     },
     {
@@ -36859,7 +40853,7 @@ var data =
         "tier": 5,
         "points": 300,
         "createdAt": "2021-10-24T16:58:08.000Z",
-        "updatedAt": "2024-05-20T01:57:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 10,
         "playersTotal": 104,
@@ -36894,6 +40888,11 @@ var data =
                 "final": 574,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 1,
+            "achievements": 27
         }
     },
     {
@@ -36906,7 +40905,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-09-24T06:10:21.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 93,
@@ -36941,6 +40940,11 @@ var data =
                 "final": 175,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 58
         }
     },
     {
@@ -36953,7 +40957,7 @@ var data =
         "tier": 3,
         "points": 51,
         "createdAt": "2023-09-16T20:59:57.000Z",
-        "updatedAt": "2024-03-25T17:44:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 60,
@@ -36988,6 +40992,11 @@ var data =
                 "final": 129,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 1,
+            "achievements": 27
         }
     },
     {
@@ -37000,7 +41009,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-04T03:30:57.000Z",
-        "updatedAt": "2024-04-02T15:54:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 83,
         "playersStarted": 0,
         "playersTotal": 143,
@@ -37035,6 +41044,11 @@ var data =
                 "final": 545,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -37047,7 +41061,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-23T19:49:43.000Z",
-        "updatedAt": "2024-04-02T15:54:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 58,
@@ -37082,6 +41096,11 @@ var data =
                 "final": 549,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -37094,7 +41113,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:45:04.000Z",
-        "updatedAt": "2024-05-20T02:40:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 69,
@@ -37124,6 +41143,11 @@ var data =
                 "final": 549,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 8
         }
     },
     {
@@ -37136,7 +41160,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-03T20:37:25.000Z",
-        "updatedAt": "2022-07-11T14:55:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 86,
@@ -37171,6 +41195,11 @@ var data =
                 "final": 104,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 11
         }
     },
     {
@@ -37183,7 +41212,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-02-19T08:17:11.000Z",
-        "updatedAt": "2023-02-19T14:07:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 74,
         "playersStarted": 18,
         "playersTotal": 314,
@@ -37218,6 +41247,11 @@ var data =
                 "final": 1473,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 72
         }
     },
     {
@@ -37265,6 +41299,11 @@ var data =
                 "final": 643,
                 "discountPercent": 67
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 40
         }
     },
     {
@@ -37277,7 +41316,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-07T23:59:48.000Z",
-        "updatedAt": "2022-12-08T10:50:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -37312,6 +41351,11 @@ var data =
                 "final": 339,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 36
         }
     },
     {
@@ -37324,7 +41368,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-01-28T09:29:23.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -37354,6 +41398,11 @@ var data =
                 "final": 237,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -37366,10 +41415,10 @@ var data =
         "tier": 5,
         "points": 350,
         "createdAt": "2023-06-28T03:59:57.000Z",
-        "updatedAt": "2024-11-05T05:58:36.000Z",
+        "updatedAt": "2024-11-26T02:44:39.000Z",
         "playersCompleted": 2,
         "playersStarted": 29,
-        "playersTotal": 96,
+        "playersTotal": 97,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -37401,7 +41450,13 @@ var data =
                 "final": 101,
                 "discountPercent": 70
             }
-        }
+        },
+        "milestones": {
+            "primary": 9,
+            "community": 3,
+            "achievements": 40
+        },
+        "information": "The roadmap and time benchmarks for the game can be found here: [https://docs.google.com/spreadsheets/d/1MMbgCwD2VCGqO_HtMyEx4YjPHDmoSwxSA9SfFnHvKtM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MMbgCwD2VCGqO_HtMyEx4YjPHDmoSwxSA9SfFnHvKtM/edit?usp=sharing)\n\nLook on the tab called \"Suggested Roadmap\" for details on the steps you should take at each skill interval."
     },
     {
         "gameType": 0,
@@ -37413,7 +41468,7 @@ var data =
         "tier": 5,
         "points": 375,
         "createdAt": "2021-06-24T21:07:06.000Z",
-        "updatedAt": "2024-01-01T18:27:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 95,
         "playersStarted": 208,
         "playersTotal": 610,
@@ -37448,6 +41503,11 @@ var data =
                 "final": 479,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 6,
+            "community": 5,
+            "achievements": 68
         }
     },
     {
@@ -37460,7 +41520,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:47:46.000Z",
-        "updatedAt": "2024-05-25T19:40:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 10,
         "playersTotal": 110,
@@ -37495,6 +41555,11 @@ var data =
                 "final": 93,
                 "discountPercent": 83
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -37507,7 +41572,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-07-17T22:32:42.000Z",
-        "updatedAt": "2023-07-12T09:53:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 121,
@@ -37542,6 +41607,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -37554,7 +41624,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-24T00:09:56.000Z",
-        "updatedAt": "2024-04-02T15:54:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 348,
         "playersStarted": 0,
         "playersTotal": 1292,
@@ -37589,6 +41659,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -37601,7 +41676,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-02-14T18:44:59.000Z",
-        "updatedAt": "2024-02-05T14:38:28.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
         "playersTotal": 426,
@@ -37636,7 +41711,13 @@ var data =
                 "final": 129,
                 "discountPercent": 90
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 89
+        },
+        "information": "DLC Required:\n-Paradise Lost"
     },
     {
         "gameType": 0,
@@ -37648,10 +41729,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T21:52:00.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 213,
+        "playersTotal": 214,
         "priceData": {
             "USD": {
                 "initial": 899,
@@ -37683,6 +41764,11 @@ var data =
                 "final": 141,
                 "discountPercent": 88
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -37695,7 +41781,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-06-04T14:32:20.000Z",
-        "updatedAt": "2022-06-04T14:40:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -37730,6 +41816,11 @@ var data =
                 "final": 349,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -37742,7 +41833,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-05-19T00:29:33.000Z",
-        "updatedAt": "2023-05-19T04:23:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -37777,6 +41868,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 3
         }
     },
     {
@@ -37789,7 +41885,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:37:52.000Z",
-        "updatedAt": "2024-04-02T15:54:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 187,
         "playersStarted": 0,
         "playersTotal": 302,
@@ -37824,6 +41920,11 @@ var data =
                 "final": 96,
                 "discountPercent": 26
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 4
         }
     },
     {
@@ -37836,7 +41937,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-06-25T19:04:50.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 36,
@@ -37871,6 +41972,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 39
         }
     },
     {
@@ -37883,7 +41989,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-06T16:54:54.000Z",
-        "updatedAt": "2022-04-06T21:17:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -37918,6 +42024,11 @@ var data =
                 "final": 114,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -37930,7 +42041,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2024-03-29T03:12:52.000Z",
-        "updatedAt": "2024-04-07T17:45:17.000Z",
+        "updatedAt": "2024-10-01T03:38:42.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 28,
@@ -37965,6 +42076,11 @@ var data =
                 "final": 199,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 30
         }
     },
     {
@@ -38012,6 +42128,11 @@ var data =
                 "final": 1699,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -38024,7 +42145,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-11T04:56:33.000Z",
-        "updatedAt": "2023-05-12T00:56:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -38059,6 +42180,11 @@ var data =
                 "final": 974,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -38071,7 +42197,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T19:44:19.000Z",
-        "updatedAt": "2024-05-31T14:35:28.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 10,
         "playersTotal": 22,
@@ -38106,6 +42232,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 22
         }
     },
     {
@@ -38118,7 +42249,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-11-01T01:01:33.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 56,
         "playersStarted": 0,
         "playersTotal": 144,
@@ -38153,6 +42284,11 @@ var data =
                 "final": 389,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 9
         }
     },
     {
@@ -38165,7 +42301,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-17T22:47:58.000Z",
-        "updatedAt": "2024-04-02T15:54:46.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -38200,6 +42336,11 @@ var data =
                 "final": 549,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 9
         }
     },
     {
@@ -38212,7 +42353,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-17T23:27:35.000Z",
-        "updatedAt": "2024-04-02T15:54:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 56,
         "playersStarted": 0,
         "playersTotal": 197,
@@ -38247,6 +42388,11 @@ var data =
                 "final": 599,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -38259,7 +42405,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-01-28T01:48:11.000Z",
-        "updatedAt": "2023-04-13T00:58:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 35,
         "playersStarted": 16,
         "playersTotal": 188,
@@ -38294,6 +42440,11 @@ var data =
                 "final": 874,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 43
         }
     },
     {
@@ -38306,7 +42457,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-01-28T01:47:51.000Z",
-        "updatedAt": "2023-02-17T16:23:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 25,
         "playersStarted": 22,
         "playersTotal": 161,
@@ -38341,6 +42492,11 @@ var data =
                 "final": 624,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 42
         }
     },
     {
@@ -38353,7 +42509,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-03-27T20:42:56.000Z",
-        "updatedAt": "2022-03-28T00:25:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 5,
         "playersTotal": 27,
@@ -38388,6 +42544,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -38400,7 +42561,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-07-24T20:59:37.000Z",
-        "updatedAt": "2023-07-24T23:32:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -38435,6 +42596,11 @@ var data =
                 "final": 825,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 52
         }
     },
     {
@@ -38447,7 +42613,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2020-06-13T14:34:45.000Z",
-        "updatedAt": "2022-10-21T01:31:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 7,
         "playersTotal": 130,
@@ -38482,6 +42648,11 @@ var data =
                 "final": 524,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 36
         }
     },
     {
@@ -38494,7 +42665,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-09-26T07:41:50.000Z",
-        "updatedAt": "2022-09-26T07:52:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 1,
         "playersTotal": 124,
@@ -38529,6 +42700,11 @@ var data =
                 "final": 109,
                 "discountPercent": 89
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -38541,7 +42717,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-21T04:29:04.000Z",
-        "updatedAt": "2024-09-07T17:27:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -38576,6 +42752,11 @@ var data =
                 "final": 1189,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -38588,7 +42769,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-02-06T00:06:23.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -38623,6 +42804,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -38635,10 +42821,10 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2024-07-28T23:38:00.000Z",
-        "updatedAt": "2024-08-09T21:58:33.000Z",
+        "updatedAt": "2024-10-25T01:19:10.000Z",
         "playersCompleted": 9,
-        "playersStarted": 28,
-        "playersTotal": 86,
+        "playersStarted": 29,
+        "playersTotal": 87,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -38670,7 +42856,13 @@ var data =
                 "final": 1559,
                 "discountPercent": 20
             }
-        }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 3,
+            "achievements": 32
+        },
+        "information": "Mods can be downloaded through RNSReloaded. [Link](https://github.com/NotNite/RNSReloaded)"
     },
     {
         "gameType": 0,
@@ -38682,7 +42874,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-21T04:18:32.000Z",
-        "updatedAt": "2024-09-07T17:27:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -38717,6 +42909,11 @@ var data =
                 "final": 389,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -38729,7 +42926,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2020-01-28T08:44:39.000Z",
-        "updatedAt": "2024-07-02T21:58:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 41,
         "playersTotal": 380,
@@ -38764,7 +42961,13 @@ var data =
                 "final": 704,
                 "discountPercent": 70
             }
-        }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 2,
+            "achievements": 220
+        },
+        "information": "DLC Required:\n-Before Next Adventure (For \"Not Another Visual Novel\" and \"Fan Service\" POs)\n-Is the order a DLC? (For \"Fan Service\", \"Bunnylicious\" and \"Master of Rabi Rabi Island\" POs)\n-Artbook (For \"Master of Rabi Rabi Island\" PO)"
     },
     {
         "gameType": 0,
@@ -38776,7 +42979,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:56:01.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 302,
@@ -38811,6 +43014,11 @@ var data =
                 "final": 324,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -38823,7 +43031,7 @@ var data =
         "tier": 5,
         "points": 270,
         "createdAt": "2022-11-20T13:04:52.000Z",
-        "updatedAt": "2023-03-22T10:02:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 10,
         "playersTotal": 56,
@@ -38858,6 +43066,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -38870,7 +43083,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-12-28T16:02:34.000Z",
-        "updatedAt": "2022-12-14T18:50:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 8,
         "playersTotal": 66,
@@ -38905,6 +43118,11 @@ var data =
                 "final": 184,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 23
         }
     },
     {
@@ -38917,7 +43135,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-08-17T18:02:31.000Z",
-        "updatedAt": "2024-05-20T02:39:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -38952,6 +43170,11 @@ var data =
                 "final": 220,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -38964,7 +43187,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-09-24T06:00:01.000Z",
-        "updatedAt": "2023-07-26T16:40:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -38999,6 +43222,11 @@ var data =
                 "final": 367,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 71
         }
     },
     {
@@ -39011,7 +43239,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:32:01.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 109,
@@ -39046,6 +43274,11 @@ var data =
                 "final": 339,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 51
         }
     },
     {
@@ -39058,7 +43291,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2023-11-19T17:40:31.000Z",
-        "updatedAt": "2024-08-09T17:55:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 4,
@@ -39093,6 +43326,11 @@ var data =
                 "final": 2599,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 47
         }
     },
     {
@@ -39105,7 +43343,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-04-27T17:53:37.000Z",
-        "updatedAt": "2024-04-02T15:55:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -39140,6 +43378,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 4
         }
     },
     {
@@ -39152,7 +43395,7 @@ var data =
         "tier": 4,
         "points": 116,
         "createdAt": "2022-10-04T23:30:01.000Z",
-        "updatedAt": "2024-02-08T05:07:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 79,
         "playersTotal": 517,
@@ -39187,7 +43430,13 @@ var data =
                 "final": 1300,
                 "discountPercent": 60
             }
-        }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 5,
+            "achievements": 34
+        },
+        "information": "Please note that Rain World is a highly atmospheric game best experienced blind - playing the game for extrinsic reasons runs the risk of subverting the game's ethos and your experience with it.\n\nAll objectives other than Karmic Reunion require the Downpour DLC.\n\nNoblest Sacrifice requires that you have Speedrun Validation enabled, and the following disabled, for the entirety of your run: Visual Breath Meter, Increased Stun Times, Pull Spears from Walls, Vanilla Exploits, Wiggle out of Grasps, No Randomized Cycle Durations, All Major Assists, All MSC Gameplay-Affecting Cheats, and Developer Commentary."
     },
     {
         "gameType": 0,
@@ -39199,7 +43448,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-08T15:14:33.000Z",
-        "updatedAt": "2024-01-08T15:33:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -39234,6 +43483,11 @@ var data =
                 "final": 214,
                 "discountPercent": 67
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 42
         }
     },
     {
@@ -39281,6 +43535,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -39293,7 +43552,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-30T20:35:09.000Z",
-        "updatedAt": "2024-04-02T15:55:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -39328,6 +43587,11 @@ var data =
                 "final": 194,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -39340,7 +43604,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-06T18:40:49.000Z",
-        "updatedAt": "2024-02-06T22:41:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -39375,7 +43639,13 @@ var data =
                 "final": 659,
                 "discountPercent": 85
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 46
+        },
+        "information": "This game requires a VR headset in order to play."
     },
     {
         "gameType": 0,
@@ -39387,7 +43657,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-10-26T16:39:03.000Z",
-        "updatedAt": "2022-04-30T19:43:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 38,
         "playersStarted": 0,
         "playersTotal": 105,
@@ -39422,6 +43692,11 @@ var data =
                 "final": 269,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -39434,7 +43709,7 @@ var data =
         "tier": 3,
         "points": 51,
         "createdAt": "2023-07-11T06:06:20.000Z",
-        "updatedAt": "2024-10-28T15:22:39.000Z",
+        "updatedAt": "2024-11-25T06:46:12.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 94,
@@ -39469,6 +43744,11 @@ var data =
                 "final": 974,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 2,
+            "achievements": 99
         }
     },
     {
@@ -39481,7 +43761,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2024-06-30T20:14:32.000Z",
-        "updatedAt": "2024-08-29T00:54:56.000Z",
+        "updatedAt": "2024-11-21T07:11:04.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 13,
@@ -39516,6 +43796,11 @@ var data =
                 "final": 1119,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -39528,7 +43813,7 @@ var data =
         "tier": 3,
         "points": 46,
         "createdAt": "2024-03-29T05:09:20.000Z",
-        "updatedAt": "2024-04-16T11:41:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -39563,6 +43848,11 @@ var data =
                 "final": 1274,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 52
         }
     },
     {
@@ -39575,7 +43865,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-10-13T06:46:52.000Z",
-        "updatedAt": "2023-10-15T13:24:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 1,
         "playersTotal": 14,
@@ -39610,6 +43900,11 @@ var data =
                 "final": 499,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -39622,7 +43917,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-24T15:06:51.000Z",
-        "updatedAt": "2024-03-22T06:10:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 83,
@@ -39657,7 +43952,13 @@ var data =
                 "final": 524,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
+        },
+        "information": "The Zodiac Master title is missable - it appears only briefly on the results screen, which appears after \"Game Over\" text after the credits. It also only appears for the first 1CC (though if it's also the first game clear it won't pop up). See the following video for an example (in Japanese): https://youtu.be/Mw2qKK2OBpg?t=2529\n\nYou're better off recording the run."
     },
     {
         "gameType": 0,
@@ -39669,7 +43970,7 @@ var data =
         "tier": 1,
         "points": 19,
         "createdAt": "2024-08-31T07:45:43.000Z",
-        "updatedAt": "2024-09-23T03:29:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 21,
@@ -39704,6 +44005,11 @@ var data =
                 "final": 974,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 44
         }
     },
     {
@@ -39716,7 +44022,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-02-17T18:22:08.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 254,
@@ -39751,6 +44057,11 @@ var data =
                 "final": 1137,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -39763,7 +44074,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:22:30.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 273,
@@ -39798,6 +44109,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 22
         }
     },
     {
@@ -39810,7 +44126,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-07-26T16:46:43.000Z",
-        "updatedAt": "2022-07-26T22:20:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 315,
@@ -39845,6 +44161,11 @@ var data =
                 "final": 499,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 44
         }
     },
     {
@@ -39857,7 +44178,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-18T03:01:07.000Z",
-        "updatedAt": "2023-05-18T06:31:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 55,
         "playersTotal": 303,
@@ -39892,6 +44213,11 @@ var data =
                 "final": 1374,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 44
         }
     },
     {
@@ -39904,7 +44230,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-03T10:28:27.000Z",
-        "updatedAt": "2024-04-02T15:55:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 57,
         "playersStarted": 0,
         "playersTotal": 261,
@@ -39939,6 +44265,11 @@ var data =
                 "final": 1249,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 32
         }
     },
     {
@@ -39951,7 +44282,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-05-11T00:18:31.000Z",
-        "updatedAt": "2024-06-22T06:55:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 6,
         "playersTotal": 67,
@@ -39986,6 +44317,11 @@ var data =
                 "final": 2649,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 46
         }
     },
     {
@@ -39998,7 +44334,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-03T10:29:45.000Z",
-        "updatedAt": "2024-05-17T19:27:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 79,
         "playersTotal": 390,
@@ -40033,6 +44369,11 @@ var data =
                 "final": 499,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -40045,7 +44386,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-03-03T10:53:37.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 41,
         "playersTotal": 307,
@@ -40080,6 +44421,11 @@ var data =
                 "final": 1199,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 58
         }
     },
     {
@@ -40092,7 +44438,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-03-08T23:10:29.000Z",
-        "updatedAt": "2023-03-08T23:38:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -40127,6 +44473,11 @@ var data =
                 "final": 3999,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 38
         }
     },
     {
@@ -40139,7 +44490,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T09:22:54.000Z",
-        "updatedAt": "2023-07-23T01:33:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 9,
         "playersTotal": 59,
@@ -40174,6 +44525,11 @@ var data =
                 "final": 649,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 34
         }
     },
     {
@@ -40186,7 +44542,7 @@ var data =
         "tier": 2,
         "points": 29,
         "createdAt": "2024-09-29T19:12:53.000Z",
-        "updatedAt": "2024-10-15T23:06:45.000Z",
+        "updatedAt": "2024-10-15T23:08:50.000Z",
         "playersCompleted": 0,
         "playersStarted": 6,
         "playersTotal": 45,
@@ -40221,7 +44577,13 @@ var data =
                 "final": 877,
                 "discountPercent": 55
             }
-        }
+        },
+        "milestones": {
+            "primary": 6,
+            "community": 0,
+            "achievements": 127
+        },
+        "information": "Balanced around stable version. Uncleared objectives should be done there instead of beta."
     },
     {
         "gameType": 0,
@@ -40233,7 +44595,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:49:08.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 163,
@@ -40268,6 +44630,11 @@ var data =
                 "final": 219,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 60
         }
     },
     {
@@ -40280,7 +44647,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-26T23:49:35.000Z",
-        "updatedAt": "2022-05-27T19:11:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 52,
@@ -40315,6 +44682,11 @@ var data =
                 "final": 77,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -40327,7 +44699,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-02T21:17:05.000Z",
-        "updatedAt": "2024-05-20T02:34:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 35,
         "playersStarted": 0,
         "playersTotal": 252,
@@ -40362,6 +44734,11 @@ var data =
                 "final": 1871,
                 "discountPercent": 10
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -40374,7 +44751,7 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2022-04-23T16:24:01.000Z",
-        "updatedAt": "2023-06-11T03:08:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 13,
         "playersTotal": 56,
@@ -40409,6 +44786,11 @@ var data =
                 "final": 623,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -40421,7 +44803,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-24T23:43:33.000Z",
-        "updatedAt": "2024-09-07T17:25:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -40456,6 +44838,11 @@ var data =
                 "final": 339,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -40468,10 +44855,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-02-05T14:23:12.000Z",
-        "updatedAt": "2023-02-06T01:45:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 22,
         "playersStarted": 12,
-        "playersTotal": 93,
+        "playersTotal": 94,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -40503,6 +44890,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 31
         }
     },
     {
@@ -40515,7 +44907,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-04-12T23:46:53.000Z",
-        "updatedAt": "2024-03-20T03:32:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -40550,7 +44942,13 @@ var data =
                 "final": 1029,
                 "discountPercent": 0
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 60
+        },
+        "information": "Game is balanced around its last update from 2021, while still on Early Access."
     },
     {
         "gameType": 0,
@@ -40562,7 +44960,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-12T05:50:10.000Z",
-        "updatedAt": "2023-06-24T06:33:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -40597,6 +44995,11 @@ var data =
                 "final": 874,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -40644,7 +45047,13 @@ var data =
                 "final": 269,
                 "discountPercent": 80
             }
-        }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 14
+        },
+        "information": "For the \"Outrunner\" objective, it is currently unknown whether obtaining S rank on the Worm boss level is possible."
     },
     {
         "gameType": 0,
@@ -40656,7 +45065,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-10-06T08:56:16.000Z",
-        "updatedAt": "2023-06-24T06:33:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 6,
         "playersTotal": 253,
@@ -40691,6 +45100,11 @@ var data =
                 "final": 683,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 122
         }
     },
     {
@@ -40703,7 +45117,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2020-01-28T08:44:13.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -40738,6 +45152,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -40750,7 +45169,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:17:45.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 106,
@@ -40785,6 +45204,11 @@ var data =
                 "final": 779,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -40797,7 +45221,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-06T21:49:05.000Z",
-        "updatedAt": "2022-04-22T19:50:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 32,
         "playersStarted": 13,
         "playersTotal": 341,
@@ -40832,6 +45256,11 @@ var data =
                 "final": 584,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 143
         }
     },
     {
@@ -40844,7 +45273,7 @@ var data =
         "tier": 1,
         "points": 14,
         "createdAt": "2024-08-21T21:37:46.000Z",
-        "updatedAt": "2024-09-07T22:39:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 25,
@@ -40879,6 +45308,11 @@ var data =
                 "final": 649,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -40891,7 +45325,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:25:30.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 30,
         "playersStarted": 163,
         "playersTotal": 679,
@@ -40926,6 +45360,11 @@ var data =
                 "final": 219,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 15
         }
     },
     {
@@ -40938,7 +45377,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-08-25T13:13:02.000Z",
-        "updatedAt": "2024-02-29T18:45:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 141,
         "playersTotal": 971,
@@ -40973,7 +45412,13 @@ var data =
                 "final": 956,
                 "discountPercent": 67
             }
-        }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 3,
+            "achievements": 118
+        },
+        "information": "\"Survivors of the Void\" DLC is required for \"Hailstorm\" and \"Cosmic Odyssey\"."
     },
     {
         "gameType": 0,
@@ -40985,7 +45430,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2023-11-26T22:54:20.000Z",
-        "updatedAt": "2023-12-04T21:57:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 34,
         "playersTotal": 198,
@@ -41020,6 +45465,11 @@ var data =
                 "final": 1499,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 3,
+            "achievements": 155
         }
     },
     {
@@ -41032,7 +45482,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:55:32.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -41067,6 +45517,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -41079,7 +45534,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-25T19:06:18.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 122,
         "playersStarted": 0,
         "playersTotal": 204,
@@ -41114,6 +45569,11 @@ var data =
                 "final": 162,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 7
         }
     },
     {
@@ -41126,7 +45586,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:53:36.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -41161,6 +45621,11 @@ var data =
                 "final": 877,
                 "discountPercent": 55
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -41173,7 +45638,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:39:41.000Z",
-        "updatedAt": "2024-04-10T11:22:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 190,
@@ -41208,6 +45673,11 @@ var data =
                 "final": 136,
                 "discountPercent": 93
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 44
         }
     },
     {
@@ -41220,7 +45690,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-02-20T22:15:49.000Z",
-        "updatedAt": "2023-06-24T06:30:46.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -41255,6 +45725,11 @@ var data =
                 "final": 487,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -41267,7 +45742,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T08:41:46.000Z",
-        "updatedAt": "2024-05-20T03:04:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -41302,6 +45777,11 @@ var data =
                 "final": 2309,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 60
         }
     },
     {
@@ -41314,7 +45794,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-10-10T15:37:52.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -41349,6 +45829,11 @@ var data =
                 "final": 1399,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 19
         }
     },
     {
@@ -41361,7 +45846,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-11-23T18:17:19.000Z",
-        "updatedAt": "2024-05-20T02:45:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 142,
@@ -41396,6 +45881,11 @@ var data =
                 "final": 2449,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 76
         }
     },
     {
@@ -41408,7 +45898,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-01T19:41:51.000Z",
-        "updatedAt": "2024-04-02T15:55:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 139,
@@ -41443,6 +45933,11 @@ var data =
                 "final": 219,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -41455,7 +45950,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-10T15:06:24.000Z",
-        "updatedAt": "2024-04-10T19:39:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -41490,6 +45985,11 @@ var data =
                 "final": 229,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -41502,7 +46002,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-04T17:10:02.000Z",
-        "updatedAt": "2024-04-02T15:55:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -41537,6 +46037,11 @@ var data =
                 "final": 389,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 3
         }
     },
     {
@@ -41584,6 +46089,11 @@ var data =
                 "final": 589,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -41596,7 +46106,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:23:43.000Z",
-        "updatedAt": "2023-12-13T05:17:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 82,
         "playersStarted": 26,
         "playersTotal": 472,
@@ -41631,6 +46141,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -41643,7 +46158,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-05-22T19:29:52.000Z",
-        "updatedAt": "2024-09-10T16:32:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 31,
         "playersTotal": 176,
@@ -41678,6 +46193,11 @@ var data =
                 "final": 1625,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 39
         }
     },
     {
@@ -41690,7 +46210,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-10-06T12:29:29.000Z",
-        "updatedAt": "2023-10-06T19:24:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 77,
@@ -41725,6 +46245,11 @@ var data =
                 "final": 579,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 61
         }
     },
     {
@@ -41737,7 +46262,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-09-02T01:44:43.000Z",
-        "updatedAt": "2022-09-02T04:36:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 8,
         "playersTotal": 148,
@@ -41772,6 +46297,11 @@ var data =
                 "final": 3999,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -41784,7 +46314,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-13T19:53:50.000Z",
-        "updatedAt": "2023-06-09T16:07:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 72,
@@ -41819,6 +46349,11 @@ var data =
                 "final": 219,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -41831,7 +46366,7 @@ var data =
         "tier": 4,
         "points": 101,
         "createdAt": "2024-07-13T01:39:52.000Z",
-        "updatedAt": "2024-11-16T04:04:58.000Z",
+        "updatedAt": "2024-11-16T19:23:41.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 15,
@@ -41866,7 +46401,13 @@ var data =
                 "final": 524,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 6,
+            "community": 0,
+            "achievements": 50
+        },
+        "information": "You can find information about the achievement requirements and time stars here: [https://docs.google.com/spreadsheets/d/19Rx-eCpsetRiSG7K2th3AtpD3Ntm5p7Z4h6p8RqmP0E](https://docs.google.com/spreadsheets/d/19Rx-eCpsetRiSG7K2th3AtpD3Ntm5p7Z4h6p8RqmP0E)"
     },
     {
         "gameType": 0,
@@ -41878,7 +46419,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2023-02-15T02:44:28.000Z",
-        "updatedAt": "2023-07-20T22:19:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -41913,6 +46454,11 @@ var data =
                 "final": 2279,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -41925,7 +46471,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-09-11T07:18:05.000Z",
-        "updatedAt": "2022-09-24T05:44:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -41960,6 +46506,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 18
         }
     },
     {
@@ -42007,6 +46558,11 @@ var data =
                 "final": 229,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -42019,7 +46575,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-22T14:46:40.000Z",
-        "updatedAt": "2022-04-22T20:31:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -42054,6 +46610,11 @@ var data =
                 "final": 329,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 40
         }
     },
     {
@@ -42066,7 +46627,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-09-05T21:38:50.000Z",
-        "updatedAt": "2023-09-06T17:47:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -42101,6 +46662,11 @@ var data =
                 "final": 153,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -42113,7 +46679,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-05-18T14:33:41.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 220,
@@ -42148,6 +46714,11 @@ var data =
                 "final": 519,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -42195,7 +46766,13 @@ var data =
                 "final": 129,
                 "discountPercent": 0
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 15
+        },
+        "information": "For the CO, the relevant App ID / Depot ID / Manifest information is:\n325150 / 325151 / 4473576891853451301"
     },
     {
         "gameType": 0,
@@ -42207,7 +46784,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-05-03T19:29:08.000Z",
-        "updatedAt": "2023-11-01T14:53:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 2,
         "playersTotal": 22,
@@ -42242,6 +46819,11 @@ var data =
                 "final": 329,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -42254,7 +46836,7 @@ var data =
         "tier": 5,
         "points": 230,
         "createdAt": "2022-09-11T06:15:57.000Z",
-        "updatedAt": "2024-02-12T15:22:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 22,
         "playersTotal": 97,
@@ -42289,6 +46871,11 @@ var data =
                 "final": 344,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 1,
+            "achievements": 57
         }
     },
     {
@@ -42301,7 +46888,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:19:17.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 98,
@@ -42336,6 +46923,11 @@ var data =
                 "final": 1139,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -42348,7 +46940,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-03-25T14:50:26.000Z",
-        "updatedAt": "2024-07-18T04:35:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -42383,6 +46975,11 @@ var data =
                 "final": 489,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -42395,7 +46992,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-12-31T18:22:54.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -42430,6 +47027,11 @@ var data =
                 "final": 779,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -42442,7 +47044,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-05-02T16:43:13.000Z",
-        "updatedAt": "2023-05-02T16:54:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 3,
         "playersTotal": 41,
@@ -42477,6 +47079,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 46
         }
     },
     {
@@ -42489,7 +47096,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-29T19:10:29.000Z",
-        "updatedAt": "2024-05-20T02:42:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 123,
@@ -42524,6 +47131,11 @@ var data =
                 "final": 116,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -42536,7 +47148,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-10-15T03:34:19.000Z",
-        "updatedAt": "2022-12-27T19:05:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -42571,6 +47183,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -42583,7 +47200,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:03:06.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -42613,6 +47230,11 @@ var data =
                 "final": 999,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -42625,7 +47247,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T06:03:39.000Z",
-        "updatedAt": "2024-04-02T15:55:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 53,
         "playersStarted": 0,
         "playersTotal": 258,
@@ -42660,6 +47282,11 @@ var data =
                 "final": 499,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -42672,7 +47299,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-09-26T14:17:55.000Z",
-        "updatedAt": "2024-05-30T14:41:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 12,
@@ -42707,6 +47334,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -42719,7 +47351,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-11-26T21:43:36.000Z",
-        "updatedAt": "2023-12-28T23:14:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 37,
         "playersStarted": 0,
         "playersTotal": 135,
@@ -42754,6 +47386,11 @@ var data =
                 "final": 1136,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -42766,7 +47403,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-10T10:21:24.000Z",
-        "updatedAt": "2023-04-13T10:57:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -42801,6 +47438,11 @@ var data =
                 "final": 287,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -42813,7 +47455,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-07-25T04:12:01.000Z",
-        "updatedAt": "2024-04-02T15:55:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -42848,7 +47490,13 @@ var data =
                 "final": 389,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 40
+        },
+        "information": "The game has two broken achievements and it's not possible to earn them. They are unrelated to any Primary Objective but you should be aware."
     },
     {
         "gameType": 0,
@@ -42860,7 +47508,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-09T17:20:03.000Z",
-        "updatedAt": "2024-02-10T04:29:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -42895,7 +47543,13 @@ var data =
                 "final": 480,
                 "discountPercent": 40
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 54
+        },
+        "information": "This game has been valued before recent updates and might be undervalued."
     },
     {
         "gameType": 0,
@@ -42907,7 +47561,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:41:39.000Z",
-        "updatedAt": "2024-04-02T15:55:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 53,
         "playersStarted": 0,
         "playersTotal": 209,
@@ -42942,6 +47596,11 @@ var data =
                 "final": 129,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -42954,7 +47613,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-07-03T23:33:03.000Z",
-        "updatedAt": "2023-07-04T19:48:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -42989,6 +47648,11 @@ var data =
                 "final": 874,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 55
         }
     },
     {
@@ -43001,10 +47665,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-06-26T10:32:40.000Z",
-        "updatedAt": "2022-07-05T07:53:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
-        "playersStarted": 9,
-        "playersTotal": 48,
+        "playersStarted": 10,
+        "playersTotal": 49,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -43036,6 +47700,11 @@ var data =
                 "final": 162,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -43048,7 +47717,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-03-20T09:48:51.000Z",
-        "updatedAt": "2023-09-15T15:50:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 119,
@@ -43083,6 +47752,11 @@ var data =
                 "final": 487,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -43095,7 +47769,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-14T02:34:35.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 28,
         "playersTotal": 116,
@@ -43130,6 +47804,11 @@ var data =
                 "final": 1049,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -43142,7 +47821,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-07-22T14:49:02.000Z",
-        "updatedAt": "2024-09-07T17:26:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -43177,6 +47856,11 @@ var data =
                 "final": 1950,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 24
         }
     },
     {
@@ -43189,7 +47873,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2022-01-05T18:19:39.000Z",
-        "updatedAt": "2023-03-27T11:12:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -43224,6 +47908,11 @@ var data =
                 "final": 337,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 37
         }
     },
     {
@@ -43236,7 +47925,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2021-05-15T17:14:17.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 10,
         "playersTotal": 228,
@@ -43271,6 +47960,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 42
         }
     },
     {
@@ -43283,7 +47977,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-07-24T17:09:57.000Z",
-        "updatedAt": "2023-07-24T20:10:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -43318,6 +48012,11 @@ var data =
                 "final": 399,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -43330,7 +48029,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2023-04-11T01:11:45.000Z",
-        "updatedAt": "2023-07-12T09:53:25.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 10,
@@ -43365,6 +48064,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -43377,7 +48081,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-01T18:58:31.000Z",
-        "updatedAt": "2024-05-31T14:31:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -43412,6 +48116,11 @@ var data =
                 "final": 167,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -43424,7 +48133,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:36:51.000Z",
-        "updatedAt": "2022-09-04T17:43:28.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 193,
         "playersTotal": 558,
@@ -43459,6 +48168,11 @@ var data =
                 "final": 3999,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 3,
+            "achievements": 34
         }
     },
     {
@@ -43471,7 +48185,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-20T17:12:58.000Z",
-        "updatedAt": "2024-08-04T04:33:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -43506,7 +48220,13 @@ var data =
                 "final": 364,
                 "discountPercent": 30
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 40
+        },
+        "information": "__Note__: your amount of arms is directly tied to the amount of secrets you complete ingame, but sometimes it glitches out and shows one more than your actual amount. This can cause a softlock at the moment of unlocking the last two levels if you have 11/10, being forced to reset your save."
     },
     {
         "gameType": 0,
@@ -43518,7 +48238,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-05-19T21:14:45.000Z",
-        "updatedAt": "2023-05-19T21:57:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 13,
         "playersTotal": 255,
@@ -43553,6 +48273,11 @@ var data =
                 "final": 389,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 62
         }
     },
     {
@@ -43565,7 +48290,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-24T15:04:44.000Z",
-        "updatedAt": "2024-07-28T20:48:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 67,
@@ -43600,6 +48325,11 @@ var data =
                 "final": 1039,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 54
         }
     },
     {
@@ -43612,7 +48342,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-08-28T17:19:37.000Z",
-        "updatedAt": "2023-05-11T04:49:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 20,
         "playersTotal": 301,
@@ -43647,6 +48377,11 @@ var data =
                 "final": 169,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 35
         }
     },
     {
@@ -43659,7 +48394,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-06T11:45:12.000Z",
-        "updatedAt": "2023-06-06T12:28:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 7,
         "playersTotal": 49,
@@ -43694,6 +48429,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 51
         }
     },
     {
@@ -43706,7 +48446,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-11-30T01:54:01.000Z",
-        "updatedAt": "2022-11-30T02:50:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 3,
         "playersTotal": 33,
@@ -43741,6 +48481,11 @@ var data =
                 "final": 619,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 49
         }
     },
     {
@@ -43753,7 +48498,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-11T00:56:10.000Z",
-        "updatedAt": "2024-04-11T03:22:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -43788,6 +48533,11 @@ var data =
                 "final": 229,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -43800,7 +48550,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T04:25:34.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 74,
         "playersStarted": 13,
         "playersTotal": 337,
@@ -43835,6 +48585,11 @@ var data =
                 "final": 799,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 30
         }
     },
     {
@@ -43847,7 +48602,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-02-07T22:27:55.000Z",
-        "updatedAt": "2024-04-12T18:09:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -43882,6 +48637,11 @@ var data =
                 "final": 719,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -43894,7 +48654,7 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2024-04-23T14:25:01.000Z",
-        "updatedAt": "2024-06-20T14:31:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 17,
@@ -43929,6 +48689,11 @@ var data =
                 "final": 1983,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 1,
+            "achievements": 50
         }
     },
     {
@@ -43941,7 +48706,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2024-06-11T04:25:13.000Z",
-        "updatedAt": "2024-06-13T15:41:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 8,
         "playersTotal": 154,
@@ -43976,6 +48741,11 @@ var data =
                 "final": 389,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 92
         }
     },
     {
@@ -43988,7 +48758,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-28T06:13:16.000Z",
-        "updatedAt": "2024-04-02T15:55:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
         "playersTotal": 201,
@@ -44023,6 +48793,11 @@ var data =
                 "final": 2199,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 44
         }
     },
     {
@@ -44035,7 +48810,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-03-08T22:41:55.000Z",
-        "updatedAt": "2024-04-02T15:55:46.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -44070,6 +48845,11 @@ var data =
                 "final": 399,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -44082,7 +48862,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-11-10T06:23:02.000Z",
-        "updatedAt": "2023-11-11T00:48:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -44117,6 +48897,11 @@ var data =
                 "final": 779,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 89
         }
     },
     {
@@ -44129,7 +48914,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-09T19:43:53.000Z",
-        "updatedAt": "2024-09-07T17:23:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -44164,6 +48949,11 @@ var data =
                 "final": 786,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -44176,7 +48966,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-26T01:53:58.000Z",
-        "updatedAt": "2024-05-26T09:34:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -44211,6 +49001,11 @@ var data =
                 "final": 334,
                 "discountPercent": 39
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -44223,7 +49018,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T17:49:03.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -44258,6 +49053,11 @@ var data =
                 "final": 454,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 41
         }
     },
     {
@@ -44270,7 +49070,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-30T01:53:48.000Z",
-        "updatedAt": "2024-04-02T15:55:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -44305,6 +49105,11 @@ var data =
                 "final": 649,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -44317,7 +49122,7 @@ var data =
         "tier": 5,
         "points": 260,
         "createdAt": "2023-04-12T14:35:52.000Z",
-        "updatedAt": "2024-03-10T01:57:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 14,
         "playersTotal": 83,
@@ -44352,7 +49157,13 @@ var data =
                 "final": 503,
                 "discountPercent": 80
             }
-        }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 1,
+            "achievements": 55
+        },
+        "information": "Curated on Steam: https://store.steampowered.com/app/1178790/Shiren_the_Wanderer_The_Tower_of_Fortune_and_the_Dice_of_Fate/?curator_clanid=36185934"
     },
     {
         "gameType": 0,
@@ -44364,7 +49175,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T17:47:15.000Z",
-        "updatedAt": "2022-07-20T06:23:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 52,
@@ -44399,6 +49210,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -44411,7 +49227,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-04-13T00:01:54.000Z",
-        "updatedAt": "2022-08-12T23:21:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 8,
@@ -44446,6 +49262,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -44458,7 +49279,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-23T21:12:14.000Z",
-        "updatedAt": "2023-06-24T06:33:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 203,
@@ -44493,6 +49314,11 @@ var data =
                 "final": 909,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 84
         }
     },
     {
@@ -44505,7 +49331,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-07T19:03:23.000Z",
-        "updatedAt": "2024-09-11T23:05:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -44540,6 +49366,11 @@ var data =
                 "final": 269,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 9
         }
     },
     {
@@ -44552,7 +49383,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:27:23.000Z",
-        "updatedAt": "2022-12-07T23:42:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 22,
         "playersStarted": 45,
         "playersTotal": 375,
@@ -44587,6 +49418,11 @@ var data =
                 "final": 2274,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 1,
+            "achievements": 138
         }
     },
     {
@@ -44599,10 +49435,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-07-29T19:17:29.000Z",
-        "updatedAt": "2022-07-29T22:46:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 94,
+        "playersTotal": 95,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -44634,6 +49470,11 @@ var data =
                 "final": 103,
                 "discountPercent": 91
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 42
         }
     },
     {
@@ -44681,7 +49522,13 @@ var data =
                 "final": 2199,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 61
+        },
+        "information": "[Gold stamp thresholds](https://steamcommunity.com/sharedfiles/filedetails/?id=2950984289\")"
     },
     {
         "gameType": 0,
@@ -44728,6 +49575,11 @@ var data =
                 "final": 535,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 5
         }
     },
     {
@@ -44740,7 +49592,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-01T06:24:09.000Z",
-        "updatedAt": "2024-07-18T21:45:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 136,
@@ -44775,7 +49627,13 @@ var data =
                 "final": 209,
                 "discountPercent": 85
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
+        },
+        "information": "If you experience crashes and are on Windows 11, try switching to Windows 10 instead."
     },
     {
         "gameType": 0,
@@ -44787,7 +49645,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-01-26T18:31:16.000Z",
-        "updatedAt": "2024-04-02T15:55:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 39,
@@ -44822,6 +49680,11 @@ var data =
                 "final": 199,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -44834,7 +49697,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T05:16:11.000Z",
-        "updatedAt": "2024-04-02T15:55:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -44869,6 +49732,11 @@ var data =
                 "final": 435,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 60
         }
     },
     {
@@ -44881,7 +49749,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-09-17T15:05:31.000Z",
-        "updatedAt": "2024-04-02T15:56:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -44916,6 +49784,11 @@ var data =
                 "final": 389,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -44928,7 +49801,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T09:06:39.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 9,
         "playersTotal": 40,
@@ -44963,6 +49836,11 @@ var data =
                 "final": 736,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 31
         }
     },
     {
@@ -44975,7 +49853,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2024-11-29T23:18:32.000Z",
-        "updatedAt": "2024-12-01T03:35:55.000Z",
+        "updatedAt": "2024-12-01T03:35:56.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 5,
@@ -45010,6 +49888,11 @@ var data =
                 "final": 944,
                 "discountPercent": 10
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -45022,7 +49905,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-05-14T14:39:37.000Z",
-        "updatedAt": "2023-04-13T01:16:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 214,
@@ -45057,6 +49940,11 @@ var data =
                 "final": 1139,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 86
         }
     },
     {
@@ -45069,7 +49957,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-10-28T03:18:43.000Z",
-        "updatedAt": "2024-04-02T15:56:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -45104,6 +49992,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -45116,7 +50009,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-02-12T14:25:47.000Z",
-        "updatedAt": "2024-02-12T16:10:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -45146,6 +50039,11 @@ var data =
                 "final": 339,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -45158,7 +50056,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-27T10:56:37.000Z",
-        "updatedAt": "2024-08-31T09:00:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -45193,6 +50091,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -45205,7 +50108,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T19:33:04.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 49,
@@ -45240,6 +50143,11 @@ var data =
                 "final": 699,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 65
         }
     },
     {
@@ -45252,7 +50160,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:59:20.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 3,
         "playersTotal": 39,
@@ -45287,6 +50195,11 @@ var data =
                 "final": 924,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -45299,7 +50212,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-20T20:00:46.000Z",
-        "updatedAt": "2022-10-20T21:44:48.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -45334,6 +50247,11 @@ var data =
                 "final": 227,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -45381,6 +50299,11 @@ var data =
                 "final": 1699,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -45393,7 +50316,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-07-28T00:07:42.000Z",
-        "updatedAt": "2024-08-09T05:43:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 41,
         "playersStarted": 146,
         "playersTotal": 787,
@@ -45428,6 +50351,11 @@ var data =
                 "final": 1087,
                 "discountPercent": 66
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 46
         }
     },
     {
@@ -45440,7 +50368,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-25T20:07:34.000Z",
-        "updatedAt": "2024-04-02T15:56:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 160,
@@ -45475,6 +50403,11 @@ var data =
                 "final": 1429,
                 "discountPercent": 45
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -45487,7 +50420,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:24:44.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 172,
@@ -45522,6 +50455,11 @@ var data =
                 "final": 194,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 3,
+            "achievements": 85
         }
     },
     {
@@ -45534,7 +50472,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-05-07T01:54:22.000Z",
-        "updatedAt": "2024-07-18T04:39:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -45569,6 +50507,11 @@ var data =
                 "final": 389,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 39
         }
     },
     {
@@ -45581,7 +50524,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:53:52.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 39,
@@ -45616,6 +50559,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -45628,7 +50576,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-18T15:43:56.000Z",
-        "updatedAt": "2024-01-01T18:42:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 47,
         "playersStarted": 0,
         "playersTotal": 433,
@@ -45663,6 +50611,11 @@ var data =
                 "final": 344,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -45675,7 +50628,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-07-19T05:54:53.000Z",
-        "updatedAt": "2023-07-23T02:42:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 12,
@@ -45710,6 +50663,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -45722,7 +50680,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-06-24T21:07:44.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -45757,6 +50715,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 60
         }
     },
     {
@@ -45769,7 +50732,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:50:12.000Z",
-        "updatedAt": "2023-09-29T22:58:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -45804,6 +50767,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 8
         }
     },
     {
@@ -45816,7 +50784,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-12-31T23:38:47.000Z",
-        "updatedAt": "2024-04-02T15:56:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -45851,6 +50819,11 @@ var data =
                 "final": 1999,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -45863,7 +50836,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:38:40.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -45898,6 +50871,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -45910,7 +50888,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-04-14T16:40:15.000Z",
-        "updatedAt": "2022-04-14T17:39:46.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 31,
         "playersStarted": 6,
         "playersTotal": 281,
@@ -45940,6 +50918,11 @@ var data =
                 "final": 674,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -45952,7 +50935,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T09:25:50.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
         "playersTotal": 408,
@@ -45987,6 +50970,11 @@ var data =
                 "final": 674,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -45999,7 +50987,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-18T22:46:03.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 387,
@@ -46034,6 +51022,11 @@ var data =
                 "final": 549,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 15
         }
     },
     {
@@ -46046,7 +51039,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-20T03:44:31.000Z",
-        "updatedAt": "2024-05-20T04:09:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 56,
@@ -46081,7 +51074,13 @@ var data =
                 "final": 1337,
                 "discountPercent": 75
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 48
+        },
+        "information": "Should show stages 3,5,6,8,9,10,11,13,15,18,21,22,23,26,27,28,30,EX1,EX4,EX6,EX7"
     },
     {
         "gameType": 0,
@@ -46093,7 +51092,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-18T02:08:32.000Z",
-        "updatedAt": "2023-05-18T06:31:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 124,
@@ -46128,6 +51127,11 @@ var data =
                 "final": 999,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 100
         }
     },
     {
@@ -46140,7 +51144,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-21T15:00:34.000Z",
-        "updatedAt": "2024-05-31T14:34:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 39,
         "playersStarted": 0,
         "playersTotal": 325,
@@ -46175,6 +51179,11 @@ var data =
                 "final": 674,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -46187,7 +51196,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-10T06:38:29.000Z",
-        "updatedAt": "2024-04-02T15:56:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 138,
@@ -46217,6 +51226,11 @@ var data =
                 "final": 674,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -46229,7 +51243,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:54:20.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 87,
@@ -46264,6 +51278,11 @@ var data =
                 "final": 589,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -46276,7 +51295,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-09-07T22:20:53.000Z",
-        "updatedAt": "2024-09-09T00:58:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -46311,6 +51330,11 @@ var data =
                 "final": 129,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -46323,7 +51347,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-10-11T10:44:25.000Z",
-        "updatedAt": "2023-10-11T13:01:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -46358,6 +51382,11 @@ var data =
                 "final": 779,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 45
         }
     },
     {
@@ -46370,7 +51399,7 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2023-07-31T21:52:38.000Z",
-        "updatedAt": "2024-07-07T05:34:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 74,
@@ -46405,7 +51434,13 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 27
+        },
+        "information": "Curated on Steam: https://store.steampowered.com/app/1400910/Soundodger_2/?curator_clanid=36185934\n\nHero of the March 18th Massacre."
     },
     {
         "gameType": 0,
@@ -46417,7 +51452,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:55:05.000Z",
-        "updatedAt": "2024-05-20T07:35:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 44,
         "playersStarted": 0,
         "playersTotal": 344,
@@ -46452,6 +51487,11 @@ var data =
                 "final": 175,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 4,
+            "achievements": 19
         }
     },
     {
@@ -46464,7 +51504,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-27T00:34:21.000Z",
-        "updatedAt": "2024-01-01T18:39:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -46499,6 +51539,11 @@ var data =
                 "final": 437,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -46511,7 +51556,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-05-13T20:53:39.000Z",
-        "updatedAt": "2024-04-03T17:23:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -46546,6 +51591,11 @@ var data =
                 "final": 874,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 110
         }
     },
     {
@@ -46558,7 +51608,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-11-15T20:33:26.000Z",
-        "updatedAt": "2022-11-16T10:06:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 33,
@@ -46593,6 +51643,11 @@ var data =
                 "final": 1039,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 70
         }
     },
     {
@@ -46640,6 +51695,11 @@ var data =
                 "final": 929,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 58
         }
     },
     {
@@ -46652,7 +51712,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-21T04:54:16.000Z",
-        "updatedAt": "2024-09-07T17:26:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 15,
@@ -46687,6 +51747,11 @@ var data =
                 "final": 449,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 4
         }
     },
     {
@@ -46699,7 +51764,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-03-06T16:02:31.000Z",
-        "updatedAt": "2024-04-02T15:56:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -46734,6 +51799,11 @@ var data =
                 "final": 1249,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 6
         }
     },
     {
@@ -46746,7 +51816,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-04T04:02:11.000Z",
-        "updatedAt": "2024-04-02T15:56:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 84,
@@ -46781,6 +51851,11 @@ var data =
                 "final": 129,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 14
         }
     },
     {
@@ -46793,7 +51868,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-09T00:35:33.000Z",
-        "updatedAt": "2023-11-08T19:38:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 15,
@@ -46828,6 +51903,11 @@ var data =
                 "final": 512,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -46840,7 +51920,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-04-20T15:38:24.000Z",
-        "updatedAt": "2023-07-12T09:48:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 68,
@@ -46875,6 +51955,11 @@ var data =
                 "final": 569,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 59
         }
     },
     {
@@ -46887,7 +51972,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-05-18T16:13:41.000Z",
-        "updatedAt": "2024-05-31T14:34:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 44,
@@ -46922,6 +52007,11 @@ var data =
                 "final": 289,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -46934,7 +52024,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-15T17:55:02.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -46969,6 +52059,11 @@ var data =
                 "final": 669,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -46981,7 +52076,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-22T01:28:22.000Z",
-        "updatedAt": "2024-01-23T16:18:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -47016,6 +52111,11 @@ var data =
                 "final": 389,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -47028,7 +52128,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-03-30T01:33:52.000Z",
-        "updatedAt": "2022-03-30T05:45:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 57,
         "playersStarted": 0,
         "playersTotal": 507,
@@ -47063,6 +52163,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 29
         }
     },
     {
@@ -47075,7 +52180,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-18T14:12:28.000Z",
-        "updatedAt": "2023-04-09T16:30:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -47110,6 +52215,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -47122,7 +52232,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:27:01.000Z",
-        "updatedAt": "2024-01-01T18:29:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 85,
         "playersStarted": 0,
         "playersTotal": 584,
@@ -47157,6 +52267,11 @@ var data =
                 "final": 339,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -47169,7 +52284,7 @@ var data =
         "tier": 5,
         "points": 335,
         "createdAt": "2020-12-04T14:05:13.000Z",
-        "updatedAt": "2024-08-23T11:39:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 29,
         "playersStarted": 121,
         "playersTotal": 357,
@@ -47204,6 +52319,11 @@ var data =
                 "final": 911,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 3,
+            "achievements": 32
         }
     },
     {
@@ -47216,7 +52336,7 @@ var data =
         "tier": 1,
         "points": 17,
         "createdAt": "2022-12-04T04:44:33.000Z",
-        "updatedAt": "2024-01-17T21:31:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 30,
@@ -47251,6 +52371,11 @@ var data =
                 "final": 899,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -47263,7 +52388,7 @@ var data =
         "tier": 5,
         "points": 420,
         "createdAt": "2021-12-27T00:19:53.000Z",
-        "updatedAt": "2024-06-11T06:04:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 36,
         "playersTotal": 193,
@@ -47298,6 +52423,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 6,
+            "community": 2,
+            "achievements": 48
         }
     },
     {
@@ -47310,7 +52440,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-25T01:02:40.000Z",
-        "updatedAt": "2024-04-02T15:56:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 63,
@@ -47345,6 +52475,11 @@ var data =
                 "final": 90,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 26
         }
     },
     {
@@ -47392,7 +52527,13 @@ var data =
                 "final": 499,
                 "discountPercent": 0
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
+        },
+        "information": "Has broken achievements."
     },
     {
         "gameType": 0,
@@ -47404,7 +52545,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-08-10T23:17:39.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 40,
@@ -47439,6 +52580,11 @@ var data =
                 "final": 648,
                 "discountPercent": 45
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 77
         }
     },
     {
@@ -47451,10 +52597,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-09-29T02:35:49.000Z",
-        "updatedAt": "2024-01-01T18:34:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 111,
+        "playersTotal": 112,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -47486,6 +52632,11 @@ var data =
                 "final": 91,
                 "discountPercent": 73
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 1
         }
     },
     {
@@ -47498,7 +52649,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:34:38.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 1,
         "playersTotal": 290,
@@ -47533,6 +52684,11 @@ var data =
                 "final": 169,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 47
         }
     },
     {
@@ -47545,7 +52701,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-06-13T10:42:47.000Z",
-        "updatedAt": "2024-06-13T13:33:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -47580,6 +52736,11 @@ var data =
                 "final": 974,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -47592,7 +52753,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-01-17T21:06:49.000Z",
-        "updatedAt": "2024-04-02T15:56:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -47627,6 +52788,11 @@ var data =
                 "final": 99,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -47639,7 +52805,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-06-05T16:53:23.000Z",
-        "updatedAt": "2024-06-25T03:01:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 3,
         "playersTotal": 39,
@@ -47674,6 +52840,11 @@ var data =
                 "final": 1019,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 27
         }
     },
     {
@@ -47686,7 +52857,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-16T05:54:54.000Z",
-        "updatedAt": "2022-05-16T09:34:25.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -47716,6 +52887,11 @@ var data =
                 "final": 449,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -47728,7 +52904,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:29:17.000Z",
-        "updatedAt": "2022-10-30T03:26:42.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 118,
@@ -47763,6 +52939,11 @@ var data =
                 "final": 229,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -47775,7 +52956,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-27T21:19:45.000Z",
-        "updatedAt": "2024-05-27T21:28:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -47810,6 +52991,11 @@ var data =
                 "final": 401,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 25
         }
     },
     {
@@ -47822,7 +53008,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:04:53.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
         "playersTotal": 152,
@@ -47857,6 +53043,11 @@ var data =
                 "final": 101,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -47869,7 +53060,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-02T19:21:22.000Z",
-        "updatedAt": "2022-04-02T23:49:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -47904,6 +53095,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 7
         }
     },
     {
@@ -47916,7 +53112,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2020-01-28T08:57:40.000Z",
-        "updatedAt": "2024-03-17T20:08:46.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 23,
         "playersTotal": 204,
@@ -47951,6 +53147,11 @@ var data =
                 "final": 974,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 42
         }
     },
     {
@@ -47963,7 +53164,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-07T01:09:41.000Z",
-        "updatedAt": "2024-04-02T15:56:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 33,
@@ -47998,6 +53199,11 @@ var data =
                 "final": 344,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -48010,7 +53216,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-12T20:20:15.000Z",
-        "updatedAt": "2024-04-02T15:56:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 70,
         "playersStarted": 0,
         "playersTotal": 845,
@@ -48045,6 +53251,11 @@ var data =
                 "final": 1189,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 40
         }
     },
     {
@@ -48057,7 +53268,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-07-27T02:02:51.000Z",
-        "updatedAt": "2023-08-10T07:29:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -48092,6 +53303,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 49
         }
     },
     {
@@ -48104,7 +53320,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-07T21:09:00.000Z",
-        "updatedAt": "2022-05-09T07:32:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -48139,6 +53355,11 @@ var data =
                 "final": 299,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -48151,7 +53372,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2023-04-13T11:20:57.000Z",
-        "updatedAt": "2023-07-12T09:53:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 9,
@@ -48186,6 +53407,11 @@ var data =
                 "final": 669,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -48198,7 +53424,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-12-28T21:50:31.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 198,
@@ -48233,6 +53459,11 @@ var data =
                 "final": 120,
                 "discountPercent": 89
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -48245,7 +53476,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-07T21:57:18.000Z",
-        "updatedAt": "2024-09-07T22:32:20.000Z",
+        "updatedAt": "2024-10-16T00:47:02.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 63,
@@ -48280,6 +53511,11 @@ var data =
                 "final": 169,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -48292,7 +53528,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-14T17:50:53.000Z",
-        "updatedAt": "2024-01-01T18:36:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
         "playersTotal": 457,
@@ -48327,6 +53563,11 @@ var data =
                 "final": 227,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 34
         }
     },
     {
@@ -48339,7 +53580,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-12T05:49:51.000Z",
-        "updatedAt": "2024-06-08T12:03:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 207,
@@ -48374,7 +53615,13 @@ var data =
                 "final": 122,
                 "discountPercent": 93
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 47
+        },
+        "information": "Curated on Steam: https://store.steampowered.com/app/322190/SteamWorld_Heist/?curator_clanid=36185934"
     },
     {
         "gameType": 0,
@@ -48386,7 +53633,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2023-02-05T17:48:40.000Z",
-        "updatedAt": "2024-03-09T08:44:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 6,
         "playersTotal": 55,
@@ -48421,7 +53668,13 @@ var data =
                 "final": 649,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 0
+        },
+        "information": "Has some replay desync issues. It's recommended to record videos of live runs."
     },
     {
         "gameType": 0,
@@ -48433,7 +53686,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2023-10-13T02:54:03.000Z",
-        "updatedAt": "2023-11-18T20:18:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 6,
         "playersTotal": 15,
@@ -48468,6 +53721,11 @@ var data =
                 "final": 1399,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -48480,7 +53738,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-13T06:32:03.000Z",
-        "updatedAt": "2023-01-13T08:34:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 75,
@@ -48515,6 +53773,11 @@ var data =
                 "final": 679,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 37
         }
     },
     {
@@ -48527,7 +53790,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-03-04T23:12:13.000Z",
-        "updatedAt": "2023-02-19T09:10:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 2,
         "playersTotal": 74,
@@ -48562,6 +53825,11 @@ var data =
                 "final": 339,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -48574,7 +53842,7 @@ var data =
         "tier": 5,
         "points": 230,
         "createdAt": "2021-08-08T18:48:24.000Z",
-        "updatedAt": "2024-01-01T18:58:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 95,
         "playersTotal": 174,
@@ -48609,6 +53877,11 @@ var data =
                 "final": 1019,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 1,
+            "achievements": 18
         }
     },
     {
@@ -48621,7 +53894,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:08:06.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 56,
@@ -48656,6 +53929,11 @@ var data =
                 "final": 421,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -48668,7 +53946,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T18:51:31.000Z",
-        "updatedAt": "2023-07-11T03:17:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -48703,6 +53981,11 @@ var data =
                 "final": 494,
                 "discountPercent": 45
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 55
         }
     },
     {
@@ -48715,7 +53998,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-09T19:42:26.000Z",
-        "updatedAt": "2024-04-02T15:56:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 218,
@@ -48750,6 +54033,11 @@ var data =
                 "final": 569,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 60
         }
     },
     {
@@ -48762,7 +54050,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-09-08T20:26:36.000Z",
-        "updatedAt": "2024-09-10T17:33:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -48797,6 +54085,11 @@ var data =
                 "final": 825,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 2
         }
     },
     {
@@ -48809,7 +54102,7 @@ var data =
         "tier": 4,
         "points": 105,
         "createdAt": "2022-09-03T03:39:46.000Z",
-        "updatedAt": "2022-09-04T06:22:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 17,
@@ -48844,6 +54137,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -48856,7 +54154,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-18T21:19:34.000Z",
-        "updatedAt": "2023-08-19T01:37:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 86,
@@ -48891,6 +54189,11 @@ var data =
                 "final": 259,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -48903,7 +54206,7 @@ var data =
         "tier": 4,
         "points": 135,
         "createdAt": "2024-07-30T01:18:59.000Z",
-        "updatedAt": "2024-09-07T17:24:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -48938,6 +54241,11 @@ var data =
                 "final": 612,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -48950,7 +54258,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-01T21:28:30.000Z",
-        "updatedAt": "2024-05-31T14:40:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -48985,6 +54293,11 @@ var data =
                 "final": 194,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -48997,7 +54310,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-23T09:10:45.000Z",
-        "updatedAt": "2024-09-07T17:18:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -49032,6 +54345,11 @@ var data =
                 "final": 284,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -49044,10 +54362,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:45:30.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 65,
+        "playersTotal": 66,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -49079,6 +54397,11 @@ var data =
                 "final": 77,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 62
         }
     },
     {
@@ -49091,7 +54414,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-11-26T01:18:50.000Z",
-        "updatedAt": "2023-11-26T09:24:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -49126,6 +54449,11 @@ var data =
                 "final": 679,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -49138,7 +54466,7 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2021-06-26T20:48:56.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 24,
         "playersTotal": 244,
@@ -49173,6 +54501,11 @@ var data =
                 "final": 174,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 33
         }
     },
     {
@@ -49185,7 +54518,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-18T14:54:56.000Z",
-        "updatedAt": "2022-05-02T19:25:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 22,
         "playersTotal": 251,
@@ -49220,6 +54553,11 @@ var data =
                 "final": 389,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 20
         }
     },
     {
@@ -49232,7 +54570,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-27T17:54:16.000Z",
-        "updatedAt": "2023-02-10T02:02:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -49267,6 +54605,11 @@ var data =
                 "final": 269,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -49279,7 +54622,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-10T16:36:09.000Z",
-        "updatedAt": "2024-04-02T15:56:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -49314,6 +54657,11 @@ var data =
                 "final": 269,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -49326,7 +54674,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-08T13:32:27.000Z",
-        "updatedAt": "2024-01-08T13:42:46.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -49361,6 +54709,11 @@ var data =
                 "final": 454,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -49373,7 +54726,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2023-05-13T20:45:05.000Z",
-        "updatedAt": "2024-06-10T05:00:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 18,
@@ -49408,6 +54761,11 @@ var data =
                 "final": 631,
                 "discountPercent": 45
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -49420,7 +54778,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-21T04:00:46.000Z",
-        "updatedAt": "2024-09-07T17:26:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -49455,6 +54813,11 @@ var data =
                 "final": 169,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 36
         }
     },
     {
@@ -49467,7 +54830,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-10T21:22:05.000Z",
-        "updatedAt": "2024-09-07T17:23:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -49502,6 +54865,11 @@ var data =
                 "final": 97,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -49514,7 +54882,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-06-21T17:25:22.000Z",
-        "updatedAt": "2023-08-30T20:36:46.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 87,
@@ -49549,6 +54917,11 @@ var data =
                 "final": 1169,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -49561,7 +54934,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-14T11:55:22.000Z",
-        "updatedAt": "2022-07-19T00:12:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 55,
@@ -49596,6 +54969,11 @@ var data =
                 "final": 1109,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 41
         }
     },
     {
@@ -49608,7 +54986,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-28T21:06:10.000Z",
-        "updatedAt": "2022-08-28T21:30:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -49643,6 +55021,11 @@ var data =
                 "final": 97,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 72
         }
     },
     {
@@ -49655,7 +55038,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-11-15T20:34:39.000Z",
-        "updatedAt": "2022-04-01T02:37:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 44,
         "playersStarted": 0,
         "playersTotal": 128,
@@ -49690,6 +55073,11 @@ var data =
                 "final": 142,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -49702,7 +55090,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-08-27T00:02:18.000Z",
-        "updatedAt": "2024-09-07T17:17:48.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 20,
@@ -49737,7 +55125,13 @@ var data =
                 "final": 1349,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 27
+        },
+        "information": "To 3 star the last level see: [https://youtu.be/piuJBn5NrVQ](https://youtu.be/piuJBn5NrVQ)"
     },
     {
         "gameType": 0,
@@ -49749,7 +55143,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-16T06:34:28.000Z",
-        "updatedAt": "2024-05-04T18:42:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 18,
@@ -49784,6 +55178,11 @@ var data =
                 "final": 779,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -49796,7 +55195,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-03-29T02:49:28.000Z",
-        "updatedAt": "2024-03-30T10:45:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -49831,6 +55230,11 @@ var data =
                 "final": 144,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -49843,7 +55247,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-10T22:07:21.000Z",
-        "updatedAt": "2022-11-10T22:18:25.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -49878,6 +55282,11 @@ var data =
                 "final": 870,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -49890,7 +55299,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-26T01:52:04.000Z",
-        "updatedAt": "2024-04-02T15:57:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 100,
@@ -49925,6 +55334,11 @@ var data =
                 "final": 86,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -49937,7 +55351,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2024-04-26T02:36:35.000Z",
-        "updatedAt": "2024-05-04T17:04:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -49972,6 +55386,11 @@ var data =
                 "final": 389,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -49984,7 +55403,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-07T22:16:21.000Z",
-        "updatedAt": "2022-12-07T22:33:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -50019,6 +55438,11 @@ var data =
                 "final": 299,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -50031,7 +55455,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:23:01.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-10-24T00:10:30.000Z",
         "playersCompleted": 397,
         "playersStarted": 0,
         "playersTotal": 908,
@@ -50066,6 +55490,11 @@ var data =
                 "final": 194,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 6
         }
     },
     {
@@ -50078,7 +55507,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2021-09-24T06:36:49.000Z",
-        "updatedAt": "2024-09-16T20:32:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 68,
@@ -50113,6 +55542,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 64
         }
     },
     {
@@ -50125,7 +55559,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-07-22T01:18:06.000Z",
-        "updatedAt": "2024-07-10T11:14:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 58,
@@ -50160,6 +55594,11 @@ var data =
                 "final": 399,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 26
         }
     },
     {
@@ -50172,7 +55611,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-08-09T16:47:02.000Z",
-        "updatedAt": "2023-07-21T04:18:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 17,
@@ -50207,6 +55646,11 @@ var data =
                 "final": 437,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 18
         }
     },
     {
@@ -50219,7 +55663,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-24T02:38:09.000Z",
-        "updatedAt": "2024-04-02T15:57:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -50254,6 +55698,11 @@ var data =
                 "final": 97,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 9
         }
     },
     {
@@ -50266,7 +55715,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:07:27.000Z",
-        "updatedAt": "2023-07-04T18:35:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 20,
         "playersTotal": 91,
@@ -50301,6 +55750,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 4
         }
     },
     {
@@ -50313,7 +55767,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2021-10-25T00:33:10.000Z",
-        "updatedAt": "2023-05-24T14:35:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -50348,6 +55802,11 @@ var data =
                 "final": 259,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -50360,7 +55819,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2021-08-08T17:42:22.000Z",
-        "updatedAt": "2023-05-28T12:37:01.000Z",
+        "updatedAt": "2024-10-15T23:21:08.000Z",
         "playersCompleted": 26,
         "playersStarted": 14,
         "playersTotal": 224,
@@ -50395,6 +55854,11 @@ var data =
                 "final": 239,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 32
         }
     },
     {
@@ -50407,7 +55871,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T06:33:36.000Z",
-        "updatedAt": "2024-03-07T01:35:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 60,
         "playersStarted": 210,
         "playersTotal": 1174,
@@ -50442,6 +55906,11 @@ var data =
                 "final": 322,
                 "discountPercent": 81
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 2,
+            "achievements": 48
         }
     },
     {
@@ -50454,7 +55923,7 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2022-01-13T21:35:23.000Z",
-        "updatedAt": "2023-03-01T16:33:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 9,
         "playersTotal": 275,
@@ -50489,6 +55958,11 @@ var data =
                 "final": 410,
                 "discountPercent": 82
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 36
         }
     },
     {
@@ -50501,7 +55975,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-07-21T02:08:32.000Z",
-        "updatedAt": "2023-07-03T20:08:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 3,
         "playersTotal": 27,
@@ -50536,6 +56010,11 @@ var data =
                 "final": 287,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -50548,7 +56027,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-02-24T00:24:35.000Z",
-        "updatedAt": "2024-01-01T18:30:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 102,
@@ -50583,6 +56062,11 @@ var data =
                 "final": 824,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -50595,7 +56079,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-07-07T11:20:09.000Z",
-        "updatedAt": "2022-07-07T11:50:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 35,
@@ -50630,6 +56114,11 @@ var data =
                 "final": 519,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -50642,7 +56131,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-07-28T12:26:50.000Z",
-        "updatedAt": "2023-09-05T03:24:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 14,
@@ -50677,6 +56166,11 @@ var data =
                 "final": 377,
                 "discountPercent": 72
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 38
         }
     },
     {
@@ -50689,7 +56183,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-12T20:20:08.000Z",
-        "updatedAt": "2023-09-21T17:03:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -50724,6 +56218,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 46
         }
     },
     {
@@ -50736,7 +56235,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-22T04:45:05.000Z",
-        "updatedAt": "2024-04-02T15:57:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -50771,6 +56270,11 @@ var data =
                 "final": 133,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -50783,7 +56287,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:17:57.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 37,
         "playersStarted": 0,
         "playersTotal": 164,
@@ -50818,6 +56322,11 @@ var data =
                 "final": 175,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 44
         }
     },
     {
@@ -50830,7 +56339,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-08-19T16:48:52.000Z",
-        "updatedAt": "2024-09-15T17:28:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 4,
@@ -50865,6 +56374,11 @@ var data =
                 "final": 974,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -50877,7 +56391,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-08-01T16:37:35.000Z",
-        "updatedAt": "2022-08-01T16:48:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -50907,6 +56421,11 @@ var data =
                 "final": 549,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 31
         }
     },
     {
@@ -50954,7 +56473,13 @@ var data =
                 "final": 1119,
                 "discountPercent": 20
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
+        },
+        "information": "Hero times require enabling Hard Mode in options."
     },
     {
         "gameType": 0,
@@ -50966,7 +56491,7 @@ var data =
         "tier": 5,
         "points": 600,
         "createdAt": "2020-01-28T09:30:35.000Z",
-        "updatedAt": "2024-02-28T15:27:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 11,
         "playersTotal": 112,
@@ -51001,6 +56526,11 @@ var data =
                 "final": 1699,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 57
         }
     },
     {
@@ -51048,6 +56578,11 @@ var data =
                 "final": 699,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -51060,7 +56595,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-07-21T05:25:46.000Z",
-        "updatedAt": "2024-09-07T17:26:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -51095,6 +56630,11 @@ var data =
                 "final": 389,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -51107,7 +56647,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-28T19:39:40.000Z",
-        "updatedAt": "2024-09-07T17:24:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -51142,6 +56682,11 @@ var data =
                 "final": 584,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -51154,7 +56699,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-07-09T11:13:26.000Z",
-        "updatedAt": "2022-07-09T12:12:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -51189,6 +56734,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -51201,7 +56751,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T08:09:44.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 144,
         "playersStarted": 27,
         "playersTotal": 587,
@@ -51236,6 +56786,11 @@ var data =
                 "final": 900,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 26
         }
     },
     {
@@ -51248,7 +56803,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-08-11T19:19:12.000Z",
-        "updatedAt": "2024-02-06T22:41:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 157,
@@ -51283,7 +56838,13 @@ var data =
                 "final": 1359,
                 "discountPercent": 60
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
+        },
+        "information": "This game requires a VR headset in order to play."
     },
     {
         "gameType": 0,
@@ -51295,7 +56856,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-02-29T21:42:46.000Z",
-        "updatedAt": "2024-03-16T02:04:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 50,
         "playersTotal": 194,
@@ -51330,6 +56891,11 @@ var data =
                 "final": 1200,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 14
         }
     },
     {
@@ -51342,7 +56908,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-01-10T20:57:46.000Z",
-        "updatedAt": "2024-04-02T15:57:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 93,
         "playersStarted": 0,
         "playersTotal": 443,
@@ -51377,6 +56943,11 @@ var data =
                 "final": 1139,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -51389,7 +56960,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-19T20:53:20.000Z",
-        "updatedAt": "2024-06-23T06:12:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -51424,7 +56995,13 @@ var data =
                 "final": 389,
                 "discountPercent": 0
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 10
+        },
+        "information": "Surviving 120 seconds on each normal level will unlock all of their respective themes. Unlocking the secret level requires surviving on every level for more than 90 seconds."
     },
     {
         "gameType": 0,
@@ -51436,7 +57013,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-01T19:16:58.000Z",
-        "updatedAt": "2022-04-01T19:37:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 393,
@@ -51471,6 +57048,11 @@ var data =
                 "final": 389,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 123
         }
     },
     {
@@ -51483,7 +57065,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:15:13.000Z",
-        "updatedAt": "2024-02-14T15:49:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 67,
@@ -51518,6 +57100,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -51530,7 +57117,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-18T20:29:42.000Z",
-        "updatedAt": "2024-09-07T17:20:31.000Z",
+        "updatedAt": "2024-11-27T20:17:20.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 3,
@@ -51565,7 +57152,13 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 17
+        },
+        "information": "For the \"Gentleman-Burglar\" achievement, you need to complete a run on Expert where you kill the boss and collect every single container, even during the levels where you die and restart using extra lives."
     },
     {
         "gameType": 0,
@@ -51577,7 +57170,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2023-11-10T05:17:17.000Z",
-        "updatedAt": "2023-12-18T13:19:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 183,
@@ -51612,6 +57205,11 @@ var data =
                 "final": 574,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 27
         }
     },
     {
@@ -51624,7 +57222,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-05T11:39:33.000Z",
-        "updatedAt": "2022-08-05T13:00:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -51659,6 +57257,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -51671,7 +57274,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-10-24T23:47:08.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 57,
@@ -51706,6 +57309,11 @@ var data =
                 "final": 549,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -51718,7 +57326,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2023-10-30T00:49:45.000Z",
-        "updatedAt": "2023-11-27T02:19:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -51753,6 +57361,11 @@ var data =
                 "final": 899,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -51800,7 +57413,13 @@ var data =
                 "final": 6699,
                 "discountPercent": 0
             }
-        }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 33
+        },
+        "information": "Subscription/DLC songs currently not required for CE objectives."
     },
     {
         "gameType": 0,
@@ -51812,7 +57431,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-21T01:35:05.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 58,
@@ -51847,6 +57466,11 @@ var data =
                 "final": 599,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -51859,7 +57483,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-06-09T18:29:37.000Z",
-        "updatedAt": "2024-04-02T15:57:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 98,
@@ -51894,6 +57518,11 @@ var data =
                 "final": 149,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -51906,7 +57535,7 @@ var data =
         "tier": 5,
         "points": 389,
         "createdAt": "2023-07-24T01:15:01.000Z",
-        "updatedAt": "2024-09-08T21:36:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 15,
         "playersTotal": 161,
@@ -51941,7 +57570,13 @@ var data =
                 "final": 389,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 14,
+            "community": 1,
+            "achievements": 1782
+        },
+        "information": "[Curated on Steam](https://store.steampowered.com/app/259680/Tales_of_MajEyal/?curator_clanid=36185934)\n\nPrimary objectives are retroactive: higher difficulty awards all objectives below, and Roguelike Mode awards its respective Adventure Mode counterpart.\n\nThe game can be downloaded for free on the game's official website.\n\nDownload link: [https://te4.org/download](https://te4.org/download)\n\nSee doc for further information: [https://docs.google.com/document/d/1bWCoBS8H8cSq-DLz9H1cY5HAgxppzOHCjSDQzjJK_Mc](https://docs.google.com/document/d/1bWCoBS8H8cSq-DLz9H1cY5HAgxppzOHCjSDQzjJK_Mc)\n\nWARNING - Use adventurer at your own peril, it is undecided if it will be banned, allowed or awarded partial points.\nItem vault is also undecided but will likely be banned."
     },
     {
         "gameType": 0,
@@ -51953,7 +57588,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-08-11T19:19:40.000Z",
-        "updatedAt": "2023-08-12T09:17:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 7,
         "playersTotal": 49,
@@ -51988,6 +57623,11 @@ var data =
                 "final": 350,
                 "discountPercent": 55
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 45
         }
     },
     {
@@ -52000,10 +57640,10 @@ var data =
         "tier": 5,
         "points": 325,
         "createdAt": "2022-04-22T03:29:15.000Z",
-        "updatedAt": "2023-01-13T03:42:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
-        "playersTotal": 47,
+        "playersTotal": 48,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -52035,6 +57675,11 @@ var data =
                 "final": 524,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -52047,7 +57692,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-03-24T04:57:42.000Z",
-        "updatedAt": "2024-03-24T08:26:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -52082,6 +57727,11 @@ var data =
                 "final": 584,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -52094,7 +57744,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-12T12:39:36.000Z",
-        "updatedAt": "2024-01-26T20:46:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -52129,6 +57779,11 @@ var data =
                 "final": 434,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 24
         }
     },
     {
@@ -52141,7 +57796,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-01-22T11:02:37.000Z",
-        "updatedAt": "2024-01-22T12:29:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -52176,6 +57831,11 @@ var data =
                 "final": 941,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -52188,7 +57848,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-20T15:55:46.000Z",
-        "updatedAt": "2024-02-21T18:50:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 9,
         "playersTotal": 26,
@@ -52223,6 +57883,11 @@ var data =
                 "final": 584,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -52235,7 +57900,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-05-13T18:46:33.000Z",
-        "updatedAt": "2023-05-13T19:15:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 10,
         "playersTotal": 79,
@@ -52270,6 +57935,11 @@ var data =
                 "final": 1337,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 51
         }
     },
     {
@@ -52282,7 +57952,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-09-25T21:35:44.000Z",
-        "updatedAt": "2022-07-12T20:07:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 79,
@@ -52317,6 +57987,11 @@ var data =
                 "final": 77,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 55
         }
     },
     {
@@ -52329,7 +58004,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-04-09T20:06:32.000Z",
-        "updatedAt": "2024-04-28T21:04:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
         "playersTotal": 34,
@@ -52364,6 +58039,11 @@ var data =
                 "final": 1884,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -52376,7 +58056,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-07-24T01:59:05.000Z",
-        "updatedAt": "2022-07-24T02:03:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 35,
@@ -52411,6 +58091,11 @@ var data =
                 "final": 284,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 64
         }
     },
     {
@@ -52423,7 +58108,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:43:13.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -52458,6 +58143,11 @@ var data =
                 "final": 1549,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -52470,7 +58160,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-18T13:49:25.000Z",
-        "updatedAt": "2024-04-02T15:57:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -52505,6 +58195,11 @@ var data =
                 "final": 1239,
                 "discountPercent": 20
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -52552,6 +58247,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 58
         }
     },
     {
@@ -52564,7 +58264,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:44:13.000Z",
-        "updatedAt": "2024-04-02T15:57:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -52594,6 +58294,11 @@ var data =
                 "final": 549,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -52606,7 +58311,7 @@ var data =
         "tier": 5,
         "points": 600,
         "createdAt": "2021-09-02T00:55:07.000Z",
-        "updatedAt": "2024-05-20T02:01:28.000Z",
+        "updatedAt": "2024-12-01T15:57:03.000Z",
         "playersCompleted": 11,
         "playersStarted": 69,
         "playersTotal": 231,
@@ -52641,6 +58346,11 @@ var data =
                 "final": 2274,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 8,
+            "achievements": 43
         }
     },
     {
@@ -52653,7 +58363,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-12-27T00:34:41.000Z",
-        "updatedAt": "2024-01-01T18:34:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 63,
@@ -52688,6 +58398,11 @@ var data =
                 "final": 799,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -52700,7 +58415,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-02-11T05:52:08.000Z",
-        "updatedAt": "2024-04-02T15:57:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -52735,6 +58450,11 @@ var data =
                 "final": 1349,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -52747,7 +58467,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-08-01T19:59:15.000Z",
-        "updatedAt": "2024-05-20T02:47:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 125,
@@ -52782,6 +58502,11 @@ var data =
                 "final": 549,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 39
         }
     },
     {
@@ -52794,7 +58519,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-11-30T20:42:56.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 63,
         "playersStarted": 0,
         "playersTotal": 354,
@@ -52829,6 +58554,11 @@ var data =
                 "final": 124,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 53
         }
     },
     {
@@ -52841,7 +58571,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-10-25T00:02:48.000Z",
-        "updatedAt": "2024-04-02T15:57:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -52876,6 +58606,11 @@ var data =
                 "final": 129,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -52888,7 +58623,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-04-12T21:23:46.000Z",
-        "updatedAt": "2024-02-06T05:16:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 109,
         "playersStarted": 31,
         "playersTotal": 595,
@@ -52923,7 +58658,13 @@ var data =
                 "final": 120,
                 "discountPercent": 78
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 99
+        },
+        "information": "\"Wrath of the Lamb\" DLC is needed both for the \"Eternal Crybaby\" objective and 100% of the Steam achievements. "
     },
     {
         "gameType": 0,
@@ -52935,7 +58676,7 @@ var data =
         "tier": 4,
         "points": 125,
         "createdAt": "2023-12-26T14:43:12.000Z",
-        "updatedAt": "2024-09-07T18:03:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 22,
@@ -52970,6 +58711,11 @@ var data =
                 "final": 499,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 100
         }
     },
     {
@@ -52982,7 +58728,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-03T19:14:30.000Z",
-        "updatedAt": "2024-01-03T20:22:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -53017,6 +58763,11 @@ var data =
                 "final": 187,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -53029,7 +58780,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-09T21:48:16.000Z",
-        "updatedAt": "2024-06-09T23:16:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -53064,6 +58815,11 @@ var data =
                 "final": 274,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -53076,7 +58832,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2024-09-07T22:11:50.000Z",
-        "updatedAt": "2024-09-09T01:01:28.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 36,
@@ -53111,6 +58867,11 @@ var data =
                 "final": 999,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 88
         }
     },
     {
@@ -53123,7 +58884,7 @@ var data =
         "tier": 5,
         "points": 350,
         "createdAt": "2020-01-28T09:36:45.000Z",
-        "updatedAt": "2023-09-24T19:58:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 117,
         "playersTotal": 604,
@@ -53158,6 +58919,11 @@ var data =
                 "final": 487,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 6,
+            "achievements": 106
         }
     },
     {
@@ -53170,7 +58936,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2024-06-15T00:19:51.000Z",
-        "updatedAt": "2024-06-15T01:06:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 19,
@@ -53205,6 +58971,11 @@ var data =
                 "final": 689,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -53217,7 +58988,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-05-13T21:09:55.000Z",
-        "updatedAt": "2023-05-13T21:28:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 2,
         "playersTotal": 162,
@@ -53252,6 +59023,11 @@ var data =
                 "final": 624,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 71
         }
     },
     {
@@ -53264,7 +59040,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-11-10T05:19:49.000Z",
-        "updatedAt": "2023-11-10T08:02:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 94,
@@ -53299,6 +59075,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 51
         }
     },
     {
@@ -53311,7 +59092,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-27T04:42:37.000Z",
-        "updatedAt": "2024-08-05T10:46:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -53346,6 +59127,11 @@ var data =
                 "final": 769,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -53393,6 +59179,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -53405,7 +59196,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:05:20.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 32,
         "playersStarted": 0,
         "playersTotal": 244,
@@ -53440,6 +59231,11 @@ var data =
                 "final": 455,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -53452,7 +59248,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-02-29T22:17:36.000Z",
-        "updatedAt": "2024-03-01T02:32:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -53487,6 +59283,11 @@ var data =
                 "final": 1949,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 40
         }
     },
     {
@@ -53499,7 +59300,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-02-07T22:27:44.000Z",
-        "updatedAt": "2023-02-08T00:38:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 57,
@@ -53534,6 +59335,11 @@ var data =
                 "final": 179,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -53546,7 +59352,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-07-18T02:37:11.000Z",
-        "updatedAt": "2024-09-07T17:29:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -53581,6 +59387,11 @@ var data =
                 "final": 132,
                 "discountPercent": 66
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -53593,7 +59404,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:11:37.000Z",
-        "updatedAt": "2024-02-05T14:39:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 91,
         "playersStarted": 0,
         "playersTotal": 379,
@@ -53628,7 +59439,13 @@ var data =
                 "final": 519,
                 "discountPercent": 80
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 48
+        },
+        "information": "DLC Required:\n-Picnic Panic "
     },
     {
         "gameType": 0,
@@ -53640,7 +59457,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-02-22T20:15:54.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 85,
@@ -53675,6 +59492,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -53687,7 +59509,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-10-24T23:53:50.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 95,
@@ -53722,6 +59544,11 @@ var data =
                 "final": 139,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -53734,7 +59561,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-03-30T00:23:56.000Z",
-        "updatedAt": "2023-06-24T06:33:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -53769,6 +59596,11 @@ var data =
                 "final": 779,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 6
         }
     },
     {
@@ -53781,7 +59613,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-20T02:18:05.000Z",
-        "updatedAt": "2024-04-02T15:57:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -53816,6 +59648,11 @@ var data =
                 "final": 499,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 46
         }
     },
     {
@@ -53828,7 +59665,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-12-24T14:43:54.000Z",
-        "updatedAt": "2022-12-24T15:06:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -53863,6 +59700,11 @@ var data =
                 "final": 155,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -53875,7 +59717,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:22:02.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 25,
         "playersStarted": 13,
         "playersTotal": 189,
@@ -53910,6 +59752,11 @@ var data =
                 "final": 584,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -53922,7 +59769,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-17T01:51:54.000Z",
-        "updatedAt": "2022-04-17T01:59:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 211,
@@ -53957,6 +59804,11 @@ var data =
                 "final": 259,
                 "discountPercent": 87
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 67
         }
     },
     {
@@ -53969,7 +59821,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T05:37:27.000Z",
-        "updatedAt": "2024-04-02T15:57:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 155,
@@ -54004,6 +59856,11 @@ var data =
                 "final": 599,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 57
         }
     },
     {
@@ -54016,7 +59873,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:51:20.000Z",
-        "updatedAt": "2022-03-30T04:31:55.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 47,
         "playersStarted": 0,
         "playersTotal": 334,
@@ -54051,6 +59908,11 @@ var data =
                 "final": 194,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 40
         }
     },
     {
@@ -54063,7 +59925,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-04T10:18:52.000Z",
-        "updatedAt": "2024-04-02T15:57:45.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 39,
@@ -54098,6 +59960,11 @@ var data =
                 "final": 324,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -54110,7 +59977,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-30T05:58:04.000Z",
-        "updatedAt": "2024-04-02T15:57:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 164,
         "playersStarted": 0,
         "playersTotal": 556,
@@ -54145,6 +60012,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 2
         }
     },
     {
@@ -54157,7 +60029,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-06-09T19:47:29.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -54192,6 +60064,11 @@ var data =
                 "final": 2352,
                 "discountPercent": 44
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 100
         }
     },
     {
@@ -54204,7 +60081,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-03T23:55:40.000Z",
-        "updatedAt": "2024-05-31T14:42:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 21,
         "playersStarted": 2,
         "playersTotal": 41,
@@ -54239,6 +60116,11 @@ var data =
                 "final": 649,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 24
         }
     },
     {
@@ -54251,7 +60133,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:40:33.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 23,
         "playersStarted": 3,
         "playersTotal": 384,
@@ -54286,6 +60168,11 @@ var data =
                 "final": 324,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 150
         }
     },
     {
@@ -54298,7 +60185,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T11:36:16.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 255,
@@ -54333,6 +60220,11 @@ var data =
                 "final": 389,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -54345,7 +60237,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:50:39.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 37,
         "playersStarted": 0,
         "playersTotal": 242,
@@ -54380,6 +60272,11 @@ var data =
                 "final": 129,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 14
         }
     },
     {
@@ -54395,7 +60292,7 @@ var data =
         "updatedAt": "2024-10-07T06:32:26.000Z",
         "playersCompleted": 1,
         "playersStarted": 36,
-        "playersTotal": 67,
+        "playersTotal": 68,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -54427,7 +60324,13 @@ var data =
                 "final": 521,
                 "discountPercent": 33
             }
-        }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 3,
+            "achievements": 16
+        },
+        "information": "Objectives for this game are retroactive: completing an objective will award all subsequent objectives below.\n\nDue to the game being available on other platforms (primarily mobile) before Steam for up to a decade, achievements are not required for objective completion.\n\nUse of the boost tile is allowed for video proof since it acts as more of a time saver rather than a significant advantage. The latest point where proof is accepted for primary objectives is specified within their respective requirements.\n\nDue to save-scumming, unsegmented videos are required for any objectives beyond \"Threelease the Kraken\" (iOS is currently exempt from this rule as there are no known methods of exploiting that version).\n\nThe stats page is only accessible when actively playing a game, and can be found by pressing the button located at the top right. If done correctly, you should see a graph displaying your score history."
     },
     {
         "gameType": 0,
@@ -54439,7 +60342,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-09T19:29:51.000Z",
-        "updatedAt": "2022-07-26T02:59:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -54474,6 +60377,11 @@ var data =
                 "final": 465,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -54486,7 +60394,7 @@ var data =
         "tier": 4,
         "points": 170,
         "createdAt": "2020-01-28T09:54:43.000Z",
-        "updatedAt": "2022-07-24T06:27:42.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 38,
         "playersTotal": 230,
@@ -54521,6 +60429,11 @@ var data =
                 "final": 499,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 19
         }
     },
     {
@@ -54568,6 +60481,11 @@ var data =
                 "final": 349,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -54580,7 +60498,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:13:27.000Z",
-        "updatedAt": "2022-06-20T22:10:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 35,
@@ -54615,6 +60533,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -54627,7 +60550,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-05T09:09:55.000Z",
-        "updatedAt": "2024-04-02T15:57:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -54662,6 +60585,11 @@ var data =
                 "final": 1199,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 38
         }
     },
     {
@@ -54674,7 +60602,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-19T17:02:10.000Z",
-        "updatedAt": "2024-04-02T15:57:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -54709,6 +60637,11 @@ var data =
                 "final": 499,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -54721,7 +60654,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-11T22:03:44.000Z",
-        "updatedAt": "2024-04-02T15:58:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -54756,6 +60689,11 @@ var data =
                 "final": 341,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 7
         }
     },
     {
@@ -54768,7 +60706,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-04-14T16:35:48.000Z",
-        "updatedAt": "2024-11-25T09:45:51.000Z",
+        "updatedAt": "2024-11-25T09:46:17.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 120,
@@ -54803,6 +60741,11 @@ var data =
                 "final": 65,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -54815,7 +60758,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-06-07T03:11:15.000Z",
-        "updatedAt": "2022-06-07T03:31:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -54850,6 +60793,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -54862,7 +60810,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-06-09T19:37:01.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -54897,6 +60845,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
         }
     },
     {
@@ -54909,7 +60862,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2020-01-28T09:23:17.000Z",
-        "updatedAt": "2024-07-20T23:10:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 45,
@@ -54944,6 +60897,11 @@ var data =
                 "final": 2177,
                 "discountPercent": 34
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 53
         }
     },
     {
@@ -54956,7 +60914,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-25T22:10:57.000Z",
-        "updatedAt": "2024-09-07T17:18:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -54991,6 +60949,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 45
         }
     },
     {
@@ -55003,7 +60966,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:38:30.000Z",
-        "updatedAt": "2022-04-09T16:58:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 56,
         "playersStarted": 12,
         "playersTotal": 821,
@@ -55038,6 +61001,11 @@ var data =
                 "final": 194,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 27
         }
     },
     {
@@ -55050,7 +61018,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2021-10-24T18:05:54.000Z",
-        "updatedAt": "2023-07-12T09:53:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 8,
         "playersTotal": 84,
@@ -55085,6 +61053,11 @@ var data =
                 "final": 549,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 9
         }
     },
     {
@@ -55097,7 +61070,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2021-09-11T08:05:07.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 16,
@@ -55132,6 +61105,11 @@ var data =
                 "final": 449,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 40
         }
     },
     {
@@ -55144,7 +61122,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-06-21T07:54:03.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -55179,6 +61157,11 @@ var data =
                 "final": 649,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 48
         }
     },
     {
@@ -55191,7 +61174,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-09-24T06:14:15.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 89,
@@ -55226,6 +61209,11 @@ var data =
                 "final": 2279,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -55238,7 +61226,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-06-08T20:50:26.000Z",
-        "updatedAt": "2024-06-08T22:22:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -55273,6 +61261,11 @@ var data =
                 "final": 325,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -55285,7 +61278,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-08T00:23:24.000Z",
-        "updatedAt": "2024-04-02T15:58:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -55320,6 +61313,11 @@ var data =
                 "final": 349,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -55332,7 +61330,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-12-18T15:45:47.000Z",
-        "updatedAt": "2023-12-19T13:40:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 93,
@@ -55367,6 +61365,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -55379,7 +61382,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T10:02:21.000Z",
-        "updatedAt": "2023-09-17T04:30:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 6,
         "playersTotal": 170,
@@ -55414,6 +61417,11 @@ var data =
                 "final": 524,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -55426,7 +61434,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-04-29T17:50:40.000Z",
-        "updatedAt": "2024-04-30T02:51:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -55461,6 +61469,11 @@ var data =
                 "final": 202,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -55473,7 +61486,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-07-30T00:56:02.000Z",
-        "updatedAt": "2024-05-20T02:43:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -55508,6 +61521,11 @@ var data =
                 "final": 1249,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 0
         }
     },
     {
@@ -55520,7 +61538,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-07-23T05:09:28.000Z",
-        "updatedAt": "2022-07-23T05:27:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -55555,6 +61573,11 @@ var data =
                 "final": 1249,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -55567,7 +61590,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-12-08T01:16:46.000Z",
-        "updatedAt": "2023-12-18T05:02:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 7,
         "playersTotal": 42,
@@ -55602,6 +61625,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 2,
+            "achievements": 0
         }
     },
     {
@@ -55614,7 +61642,7 @@ var data =
         "tier": 2,
         "points": 33,
         "createdAt": "2024-10-09T07:37:45.000Z",
-        "updatedAt": "2024-10-09T08:24:23.000Z",
+        "updatedAt": "2024-11-25T19:06:43.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 20,
@@ -55649,6 +61677,11 @@ var data =
                 "final": 2534,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 57
         }
     },
     {
@@ -55661,7 +61694,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-08-19T01:38:09.000Z",
-        "updatedAt": "2023-12-18T04:59:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 9,
         "playersTotal": 67,
@@ -55696,6 +61729,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 3,
+            "achievements": 0
         }
     },
     {
@@ -55708,7 +61746,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-18T05:59:07.000Z",
-        "updatedAt": "2024-07-13T23:26:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 12,
@@ -55743,7 +61781,13 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 0
+        },
+        "information": "[Example of screenshot requirements](https://upload.cedb.me/IHcpmy.png)\nYour run's score should show up on the scores screen."
     },
     {
         "gameType": 0,
@@ -55755,7 +61799,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2023-01-12T07:04:06.000Z",
-        "updatedAt": "2024-03-08T04:56:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
         "playersTotal": 45,
@@ -55790,6 +61834,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 2,
+            "achievements": 0
         }
     },
     {
@@ -55802,7 +61851,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-02-14T00:13:52.000Z",
-        "updatedAt": "2023-02-21T17:49:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 3,
         "playersTotal": 16,
@@ -55837,6 +61886,11 @@ var data =
                 "final": 929,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -55849,7 +61903,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2023-04-14T22:43:12.000Z",
-        "updatedAt": "2024-02-24T08:35:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
         "playersTotal": 31,
@@ -55884,6 +61938,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 2,
+            "achievements": 0
         }
     },
     {
@@ -55896,7 +61955,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-01-08T21:57:02.000Z",
-        "updatedAt": "2023-01-09T06:47:15.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 6,
         "playersTotal": 40,
@@ -55931,6 +61990,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 2,
+            "achievements": 0
         }
     },
     {
@@ -55943,7 +62007,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2023-06-27T00:26:39.000Z",
-        "updatedAt": "2023-07-13T11:44:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 8,
         "playersTotal": 56,
@@ -55978,6 +62042,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 2,
+            "achievements": 0
         }
     },
     {
@@ -55990,7 +62059,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2023-11-20T03:51:47.000Z",
-        "updatedAt": "2023-12-18T05:30:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 2,
         "playersTotal": 25,
@@ -56025,6 +62094,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 2,
+            "achievements": 0
         }
     },
     {
@@ -56037,7 +62111,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-12-17T23:53:59.000Z",
-        "updatedAt": "2023-12-18T05:09:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 6,
         "playersTotal": 36,
@@ -56072,6 +62146,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 2,
+            "achievements": 0
         }
     },
     {
@@ -56084,7 +62163,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-04-01T08:05:48.000Z",
-        "updatedAt": "2023-04-01T10:02:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 2,
         "playersTotal": 41,
@@ -56119,6 +62198,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 0
         }
     },
     {
@@ -56131,7 +62215,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-05T01:14:56.000Z",
-        "updatedAt": "2024-04-02T15:58:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -56166,6 +62250,11 @@ var data =
                 "final": 629,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -56178,7 +62267,7 @@ var data =
         "tier": 4,
         "points": 175,
         "createdAt": "2020-06-09T19:24:58.000Z",
-        "updatedAt": "2023-03-22T17:54:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 15,
         "playersTotal": 211,
@@ -56213,6 +62302,11 @@ var data =
                 "final": 389,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -56225,7 +62319,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-09-24T06:03:20.000Z",
-        "updatedAt": "2024-06-09T21:14:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 2,
         "playersTotal": 42,
@@ -56255,7 +62349,13 @@ var data =
                 "final": 799,
                 "discountPercent": 0
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 37
+        },
+        "information": "Note to self: buff to 400 points"
     },
     {
         "gameType": 0,
@@ -56267,7 +62367,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-03-13T23:27:52.000Z",
-        "updatedAt": "2024-09-18T00:55:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
         "playersTotal": 49,
@@ -56302,7 +62402,13 @@ var data =
                 "final": 1499,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 5,
+            "achievements": 0
+        },
+        "information": "[Direct link to download the old TrackMania campaigns For Old Enthusiast COs (53 MB)](https://upload.cedb.me/TMUnitedF_Old_Campaings.zip), install steps inside or [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2134162935)."
     },
     {
         "gameType": 0,
@@ -56349,6 +62455,11 @@ var data =
                 "final": 1999,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 5,
+            "community": 2,
+            "achievements": 0
         }
     },
     {
@@ -56361,7 +62472,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-03-05T19:56:28.000Z",
-        "updatedAt": "2023-07-02T17:04:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 1,
         "playersTotal": 56,
@@ -56396,6 +62507,11 @@ var data =
                 "final": 999,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 0
         }
     },
     {
@@ -56408,7 +62524,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-03-08T00:55:52.000Z",
-        "updatedAt": "2023-04-07T12:54:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 2,
         "playersTotal": 28,
@@ -56443,6 +62559,11 @@ var data =
                 "final": 1349,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 0
         }
     },
     {
@@ -56455,7 +62576,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-07-13T21:32:23.000Z",
-        "updatedAt": "2024-05-18T21:04:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 7,
         "playersTotal": 127,
@@ -56490,6 +62611,11 @@ var data =
                 "final": 499,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 0
         }
     },
     {
@@ -56502,7 +62628,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-08-29T07:21:24.000Z",
-        "updatedAt": "2023-04-07T12:45:42.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 2,
         "playersTotal": 63,
@@ -56537,6 +62663,11 @@ var data =
                 "final": 999,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 3,
+            "achievements": 0
         }
     },
     {
@@ -56549,7 +62680,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-26T22:50:03.000Z",
-        "updatedAt": "2024-04-02T15:58:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 31,
         "playersStarted": 0,
         "playersTotal": 55,
@@ -56584,6 +62715,11 @@ var data =
                 "final": 129,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -56596,7 +62732,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-26T11:04:46.000Z",
-        "updatedAt": "2022-08-08T10:10:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 27,
@@ -56631,6 +62767,11 @@ var data =
                 "final": 339,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -56646,7 +62787,7 @@ var data =
         "updatedAt": "2024-11-17T21:08:52.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 10,
+        "playersTotal": 11,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -56678,6 +62819,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -56690,7 +62836,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-05-18T16:54:58.000Z",
-        "updatedAt": "2022-05-20T04:22:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 2,
         "playersTotal": 50,
@@ -56720,6 +62866,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 3,
+            "achievements": 25
         }
     },
     {
@@ -56732,7 +62883,7 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2022-02-05T23:51:02.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 21,
         "playersStarted": 22,
         "playersTotal": 138,
@@ -56767,6 +62918,11 @@ var data =
                 "final": 499,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 3,
+            "achievements": 0
         }
     },
     {
@@ -56779,7 +62935,7 @@ var data =
         "tier": 5,
         "points": 500,
         "createdAt": "2022-02-05T23:47:27.000Z",
-        "updatedAt": "2024-06-24T20:49:20.000Z",
+        "updatedAt": "2024-11-10T12:59:43.000Z",
         "playersCompleted": 11,
         "playersStarted": 23,
         "playersTotal": 160,
@@ -56814,7 +62970,13 @@ var data =
                 "final": 499,
                 "discountPercent": 75
             }
-        }
+        },
+        "milestones": {
+            "primary": 6,
+            "community": 3,
+            "achievements": 0
+        },
+        "information": "The tracks for the \"Event Veteran\" CO can be found pinned in the Trials forum, as well as the instructions needed to play them through the editor."
     },
     {
         "gameType": 0,
@@ -56826,7 +62988,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:41:00.000Z",
-        "updatedAt": "2023-07-23T17:37:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -56861,6 +63023,11 @@ var data =
                 "final": 1049,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -56873,7 +63040,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-02-14T06:48:00.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 35,
@@ -56908,6 +63075,11 @@ var data =
                 "final": 374,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -56920,7 +63092,7 @@ var data =
         "tier": 5,
         "points": 1000,
         "createdAt": "2022-03-24T18:58:29.000Z",
-        "updatedAt": "2023-12-31T02:39:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 39,
         "playersTotal": 227,
@@ -56955,6 +63127,11 @@ var data =
                 "final": 539,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 9,
+            "community": 8,
+            "achievements": 0
         }
     },
     {
@@ -56967,7 +63144,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-10-24T17:28:54.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 41,
         "playersStarted": 0,
         "playersTotal": 307,
@@ -57002,6 +63179,11 @@ var data =
                 "final": 643,
                 "discountPercent": 67
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -57014,7 +63196,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-13T18:00:44.000Z",
-        "updatedAt": "2023-12-22T04:03:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 191,
@@ -57049,6 +63231,11 @@ var data =
                 "final": 612,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 23
         }
     },
     {
@@ -57061,7 +63248,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-07-22T22:52:37.000Z",
-        "updatedAt": "2024-09-07T17:25:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -57096,6 +63283,11 @@ var data =
                 "final": 179,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -57108,7 +63300,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-09-25T21:48:26.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 92,
@@ -57143,6 +63335,11 @@ var data =
                 "final": 1699,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
         }
     },
     {
@@ -57155,7 +63352,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-04-14T03:13:47.000Z",
-        "updatedAt": "2024-04-02T15:58:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 85,
         "playersStarted": 0,
         "playersTotal": 163,
@@ -57190,6 +63387,11 @@ var data =
                 "final": 1949,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 36
         }
     },
     {
@@ -57202,7 +63404,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-20T03:36:58.000Z",
-        "updatedAt": "2024-05-20T12:34:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -57237,6 +63439,11 @@ var data =
                 "final": 2275,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 67
         }
     },
     {
@@ -57249,7 +63456,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-01-08T13:03:00.000Z",
-        "updatedAt": "2024-09-23T13:12:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -57284,6 +63491,11 @@ var data =
                 "final": 511,
                 "discountPercent": 67
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 21
         }
     },
     {
@@ -57296,7 +63508,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2024-01-23T14:24:58.000Z",
-        "updatedAt": "2024-02-03T09:26:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 16,
@@ -57331,6 +63543,11 @@ var data =
                 "final": 324,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -57343,7 +63560,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-09-13T22:47:23.000Z",
-        "updatedAt": "2024-05-31T14:43:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 33,
@@ -57378,7 +63595,13 @@ var data =
                 "final": 267,
                 "discountPercent": 60
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 7
+        },
+        "information": "Curated on Steam: https://store.steampowered.com/app/980880/Twinfold/?curator_clanid=36185934"
     },
     {
         "gameType": 0,
@@ -57390,7 +63613,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-10T15:49:57.000Z",
-        "updatedAt": "2022-06-07T04:18:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 7,
         "playersTotal": 31,
@@ -57425,6 +63648,11 @@ var data =
                 "final": 465,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -57437,7 +63665,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-04-13T17:58:23.000Z",
-        "updatedAt": "2024-04-13T20:16:38.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -57472,6 +63700,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -57484,7 +63717,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-06-09T18:59:47.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 16,
         "playersTotal": 115,
@@ -57514,6 +63747,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -57526,7 +63764,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T18:56:07.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 79,
@@ -57561,6 +63799,11 @@ var data =
                 "final": 287,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -57573,7 +63816,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-06-01T09:51:24.000Z",
-        "updatedAt": "2022-06-05T22:50:48.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -57608,6 +63851,11 @@ var data =
                 "final": 426,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -57620,7 +63868,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-11-10T05:14:13.000Z",
-        "updatedAt": "2023-11-10T09:21:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -57655,6 +63903,11 @@ var data =
                 "final": 487,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -57667,7 +63920,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-08T22:04:12.000Z",
-        "updatedAt": "2024-09-09T00:58:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -57702,6 +63955,11 @@ var data =
                 "final": 428,
                 "discountPercent": 87
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 67
         }
     },
     {
@@ -57714,7 +63972,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-05-06T14:41:08.000Z",
-        "updatedAt": "2024-03-10T02:01:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -57749,7 +64007,13 @@ var data =
                 "final": 524,
                 "discountPercent": 50
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
+        },
+        "information": "Curated on Steam: https://store.steampowered.com/app/2099390/Umbral_Omen/?curator_clanid=36185934"
     },
     {
         "gameType": 0,
@@ -57761,7 +64025,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-03-20T09:48:34.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 138,
@@ -57796,6 +64060,11 @@ var data =
                 "final": 324,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 13
         }
     },
     {
@@ -57808,7 +64077,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2023-03-23T09:53:21.000Z",
-        "updatedAt": "2024-05-17T10:38:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -57843,6 +64112,11 @@ var data =
                 "final": 551,
                 "discountPercent": 92
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 36
         }
     },
     {
@@ -57855,7 +64129,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T09:31:02.000Z",
-        "updatedAt": "2024-05-10T04:13:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 126,
@@ -57890,6 +64164,11 @@ var data =
                 "final": 387,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -57902,7 +64181,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T20:23:12.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 176,
@@ -57937,6 +64216,11 @@ var data =
                 "final": 279,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 57
         }
     },
     {
@@ -57949,7 +64233,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-25T20:19:28.000Z",
-        "updatedAt": "2022-04-25T20:52:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 380,
@@ -57984,6 +64268,11 @@ var data =
                 "final": 674,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 48
         }
     },
     {
@@ -57996,7 +64285,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-26T23:52:11.000Z",
-        "updatedAt": "2024-04-02T15:58:24.000Z",
+        "updatedAt": "2024-09-28T16:53:08.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 123,
@@ -58031,6 +64320,11 @@ var data =
                 "final": 749,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -58043,7 +64337,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-12-02T02:30:24.000Z",
-        "updatedAt": "2024-05-20T02:46:28.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 176,
@@ -58078,6 +64372,11 @@ var data =
                 "final": 749,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -58090,7 +64389,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-10-19T00:56:04.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 75,
@@ -58125,6 +64424,11 @@ var data =
                 "final": 911,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 42
         }
     },
     {
@@ -58137,7 +64441,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-19T20:15:55.000Z",
-        "updatedAt": "2024-04-02T15:58:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 48,
         "playersStarted": 0,
         "playersTotal": 175,
@@ -58172,6 +64476,11 @@ var data =
                 "final": 1169,
                 "discountPercent": 55
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -58184,7 +64493,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:19:49.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -58219,6 +64528,11 @@ var data =
                 "final": 349,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -58231,7 +64545,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-28T19:58:58.000Z",
-        "updatedAt": "2024-09-07T17:24:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 46,
@@ -58266,6 +64580,11 @@ var data =
                 "final": 94,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 12
         }
     },
     {
@@ -58278,7 +64597,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-07T17:37:09.000Z",
-        "updatedAt": "2024-09-07T22:32:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -58313,6 +64632,11 @@ var data =
                 "final": 142,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -58325,7 +64649,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-19T02:41:28.000Z",
-        "updatedAt": "2024-09-07T17:20:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -58360,6 +64684,11 @@ var data =
                 "final": 404,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -58372,7 +64701,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-11T03:03:52.000Z",
-        "updatedAt": "2022-10-11T06:47:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -58407,6 +64736,11 @@ var data =
                 "final": 670,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 16
         }
     },
     {
@@ -58419,7 +64753,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-01-17T22:24:06.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 111,
@@ -58454,6 +64788,11 @@ var data =
                 "final": 1699,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 77
         }
     },
     {
@@ -58466,7 +64805,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:32:23.000Z",
-        "updatedAt": "2023-08-06T23:19:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 260,
@@ -58501,6 +64840,11 @@ var data =
                 "final": 289,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -58513,7 +64857,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-31T07:23:10.000Z",
-        "updatedAt": "2024-08-31T08:39:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -58548,6 +64892,11 @@ var data =
                 "final": 1462,
                 "discountPercent": 55
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 44
         }
     },
     {
@@ -58560,7 +64909,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-01T19:45:15.000Z",
-        "updatedAt": "2024-04-02T15:58:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 152,
@@ -58595,6 +64944,11 @@ var data =
                 "final": 1099,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -58607,7 +64961,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:34:44.000Z",
-        "updatedAt": "2022-09-01T03:22:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 21,
         "playersTotal": 181,
@@ -58642,6 +64996,11 @@ var data =
                 "final": 899,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 50
         }
     },
     {
@@ -58654,7 +65013,7 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2022-10-05T00:26:03.000Z",
-        "updatedAt": "2024-10-16T01:07:00.000Z",
+        "updatedAt": "2024-10-16T01:07:46.000Z",
         "playersCompleted": 2,
         "playersStarted": 5,
         "playersTotal": 61,
@@ -58689,6 +65048,11 @@ var data =
                 "final": 1331,
                 "discountPercent": 35
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 237
         }
     },
     {
@@ -58701,7 +65065,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-18T23:33:12.000Z",
-        "updatedAt": "2024-04-02T15:58:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -58736,6 +65100,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -58748,7 +65117,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-06-09T19:45:51.000Z",
-        "updatedAt": "2024-04-02T15:58:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 48,
         "playersStarted": 0,
         "playersTotal": 120,
@@ -58783,6 +65152,11 @@ var data =
                 "final": 287,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -58795,7 +65169,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T09:55:34.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 180,
@@ -58830,6 +65204,11 @@ var data =
                 "final": 779,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -58842,7 +65221,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-02-05T04:46:36.000Z",
-        "updatedAt": "2024-05-31T14:41:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -58877,6 +65256,11 @@ var data =
                 "final": 424,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -58889,7 +65273,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-14T23:59:45.000Z",
-        "updatedAt": "2022-04-15T02:05:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 113,
@@ -58924,6 +65308,11 @@ var data =
                 "final": 120,
                 "discountPercent": 89
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 31
         }
     },
     {
@@ -58936,7 +65325,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2020-01-28T07:36:54.000Z",
-        "updatedAt": "2024-01-08T15:34:49.000Z",
+        "updatedAt": "2024-11-24T02:10:07.000Z",
         "playersCompleted": 46,
         "playersStarted": 17,
         "playersTotal": 330,
@@ -58971,6 +65360,11 @@ var data =
                 "final": 349,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 2,
+            "achievements": 28
         }
     },
     {
@@ -59018,6 +65412,11 @@ var data =
                 "final": 1574,
                 "discountPercent": 10
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 62
         }
     },
     {
@@ -59030,7 +65429,7 @@ var data =
         "tier": 1,
         "points": 18,
         "createdAt": "2024-06-26T00:44:04.000Z",
-        "updatedAt": "2024-06-30T18:57:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 11,
@@ -59065,6 +65464,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 2,
+            "achievements": 32
         }
     },
     {
@@ -59077,10 +65481,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-23T04:12:28.000Z",
-        "updatedAt": "2023-04-11T00:36:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 31,
         "playersStarted": 7,
-        "playersTotal": 102,
+        "playersTotal": 103,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -59112,6 +65516,11 @@ var data =
                 "final": 77,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -59124,7 +65533,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2024-03-08T04:06:30.000Z",
-        "updatedAt": "2024-03-08T10:21:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -59159,7 +65568,13 @@ var data =
                 "final": 1549,
                 "discountPercent": 0
             }
-        }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 1
+        },
+        "information": "Please note that while the challenge is easily accessible from the start, Void Stranger is best experienced blind - playing the game for extrinsic reasons runs the risk of tainting your experience with it."
     },
     {
         "gameType": 0,
@@ -59171,7 +65586,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2023-07-14T23:40:42.000Z",
-        "updatedAt": "2023-10-13T06:33:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 14,
         "playersTotal": 174,
@@ -59206,6 +65621,11 @@ var data =
                 "final": 991,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 107
         }
     },
     {
@@ -59218,7 +65638,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:32:44.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 189,
@@ -59253,6 +65673,11 @@ var data =
                 "final": 219,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
         }
     },
     {
@@ -59265,7 +65690,7 @@ var data =
         "tier": 4,
         "points": 115,
         "createdAt": "2024-03-24T01:18:32.000Z",
-        "updatedAt": "2024-08-10T16:16:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 6,
@@ -59300,7 +65725,13 @@ var data =
                 "final": 259,
                 "discountPercent": 60
             }
-        }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 17
+        },
+        "information": "Pressing spacebar during level select will delete all of your achievements. "
     },
     {
         "gameType": 0,
@@ -59312,10 +65743,10 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2022-10-11T23:50:08.000Z",
-        "updatedAt": "2024-08-29T14:35:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
-        "playersTotal": 28,
+        "playersTotal": 29,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -59347,6 +65778,11 @@ var data =
                 "final": 114,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 37
         }
     },
     {
@@ -59359,7 +65795,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:32:50.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-10-28T02:02:30.000Z",
         "playersCompleted": 55,
         "playersStarted": 90,
         "playersTotal": 903,
@@ -59394,6 +65830,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 3,
+            "achievements": 19
         }
     },
     {
@@ -59406,7 +65847,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-05-05T00:17:48.000Z",
-        "updatedAt": "2024-05-05T14:14:46.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -59441,6 +65882,11 @@ var data =
                 "final": 874,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -59453,7 +65899,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-18T22:05:51.000Z",
-        "updatedAt": "2024-09-07T17:20:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -59488,6 +65934,11 @@ var data =
                 "final": 519,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
         }
     },
     {
@@ -59500,7 +65951,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-27T20:35:31.000Z",
-        "updatedAt": "2024-01-27T21:31:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -59535,6 +65986,11 @@ var data =
                 "final": 1169,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 55
         }
     },
     {
@@ -59582,6 +66038,11 @@ var data =
                 "final": 2499,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 36
         }
     },
     {
@@ -59597,7 +66058,7 @@ var data =
         "updatedAt": "2024-11-25T09:10:33.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 135,
+        "playersTotal": 137,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -59629,6 +66090,11 @@ var data =
                 "final": 779,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -59641,7 +66107,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-11-10T05:18:27.000Z",
-        "updatedAt": "2023-11-27T02:36:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 5,
         "playersTotal": 27,
@@ -59676,6 +66142,11 @@ var data =
                 "final": 1399,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -59688,7 +66159,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T10:01:58.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 251,
@@ -59723,6 +66194,11 @@ var data =
                 "final": 100,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 65
         }
     },
     {
@@ -59735,7 +66211,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:17:06.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -59770,6 +66246,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 5
         }
     },
     {
@@ -59782,7 +66263,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-05T14:36:10.000Z",
-        "updatedAt": "2024-05-05T20:27:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 18,
@@ -59817,6 +66298,11 @@ var data =
                 "final": 262,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 36
         }
     },
     {
@@ -59864,6 +66350,11 @@ var data =
                 "final": 129,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
         }
     },
     {
@@ -59876,7 +66367,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-12-22T20:58:50.000Z",
-        "updatedAt": "2023-12-23T05:48:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -59911,6 +66402,11 @@ var data =
                 "final": 999,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
         }
     },
     {
@@ -59923,7 +66419,7 @@ var data =
         "tier": 4,
         "points": 185,
         "createdAt": "2023-07-16T20:24:38.000Z",
-        "updatedAt": "2024-04-28T07:30:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
         "playersTotal": 55,
@@ -59958,6 +66454,11 @@ var data =
                 "final": 689,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 51
         }
     },
     {
@@ -59970,7 +66471,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-04-11T01:10:59.000Z",
-        "updatedAt": "2023-04-13T16:21:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -60005,6 +66506,11 @@ var data =
                 "final": 649,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
         }
     },
     {
@@ -60017,7 +66523,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-04-11T01:11:27.000Z",
-        "updatedAt": "2023-04-11T04:32:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 33,
@@ -60052,6 +66558,11 @@ var data =
                 "final": 1299,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
         }
     },
     {
@@ -60064,7 +66575,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-19T00:43:28.000Z",
-        "updatedAt": "2024-05-31T14:38:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -60099,6 +66610,11 @@ var data =
                 "final": 499,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -60111,7 +66627,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-04T02:03:09.000Z",
-        "updatedAt": "2024-04-02T15:58:42.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -60146,6 +66662,11 @@ var data =
                 "final": 299,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
         }
     },
     {
@@ -60193,6 +66714,11 @@ var data =
                 "final": 1819,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -60205,7 +66731,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-12T03:38:12.000Z",
-        "updatedAt": "2024-09-07T17:31:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -60240,6 +66766,11 @@ var data =
                 "final": 133,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -60252,7 +66783,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-05-26T01:38:07.000Z",
-        "updatedAt": "2024-06-11T16:31:45.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 18,
@@ -60287,7 +66818,13 @@ var data =
                 "final": 1819,
                 "discountPercent": 30
             }
-        }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 16
+        },
+        "information": "To unlock Overcranked Mode, beat the Heart of the Storm with each Storm Bell active at least once (can be done in separate runs)."
     },
     {
         "gameType": 0,
@@ -60299,7 +66836,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-03-17T00:17:51.000Z",
-        "updatedAt": "2023-05-28T12:28:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 20,
         "playersStarted": 1,
         "playersTotal": 140,
@@ -60334,6 +66871,11 @@ var data =
                 "final": 937,
                 "discountPercent": 33
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 3,
+            "achievements": 30
         }
     },
     {
@@ -60346,7 +66888,7 @@ var data =
         "tier": 4,
         "points": 145,
         "createdAt": "2020-01-28T09:25:26.000Z",
-        "updatedAt": "2024-01-19T00:15:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 32,
         "playersTotal": 269,
@@ -60381,6 +66923,11 @@ var data =
                 "final": 1189,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 40
         }
     },
     {
@@ -60393,7 +66940,7 @@ var data =
         "tier": 2,
         "points": 36,
         "createdAt": "2022-09-13T17:43:49.000Z",
-        "updatedAt": "2023-07-12T17:01:30.000Z",
+        "updatedAt": "2024-11-10T07:57:15.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 24,
@@ -60428,6 +66975,11 @@ var data =
                 "final": 109,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 21
         }
     },
     {
@@ -60440,7 +66992,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-03-21T05:20:10.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -60475,6 +67027,11 @@ var data =
                 "final": 389,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 31
         }
     },
     {
@@ -60487,7 +67044,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-04-15T13:47:54.000Z",
-        "updatedAt": "2023-11-14T05:02:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 52,
@@ -60522,6 +67079,11 @@ var data =
                 "final": 129,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -60534,7 +67096,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:34:16.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -60569,6 +67131,11 @@ var data =
                 "final": 599,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 78
         }
     },
     {
@@ -60581,7 +67148,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:21:03.000Z",
-        "updatedAt": "2022-04-03T01:21:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 72,
         "playersStarted": 0,
         "playersTotal": 460,
@@ -60616,6 +67183,11 @@ var data =
                 "final": 554,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 19
         }
     },
     {
@@ -60628,7 +67200,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2020-01-28T08:12:21.000Z",
-        "updatedAt": "2023-01-09T06:33:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 4,
         "playersTotal": 234,
@@ -60663,6 +67235,11 @@ var data =
                 "final": 824,
                 "discountPercent": 85
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 80
         }
     },
     {
@@ -60675,7 +67252,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2023-10-02T14:32:40.000Z",
-        "updatedAt": "2023-10-02T14:48:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 26,
@@ -60710,6 +67287,11 @@ var data =
                 "final": 649,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 3,
+            "achievements": 25
         }
     },
     {
@@ -60722,7 +67304,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-18T05:40:28.000Z",
-        "updatedAt": "2023-05-18T06:31:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 36,
         "playersStarted": 0,
         "playersTotal": 263,
@@ -60757,6 +67339,11 @@ var data =
                 "final": 1749,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 8
         }
     },
     {
@@ -60769,7 +67356,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-04T21:19:42.000Z",
-        "updatedAt": "2024-05-08T03:44:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -60804,6 +67391,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -60816,7 +67408,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2022-08-20T20:06:10.000Z",
-        "updatedAt": "2024-01-01T18:28:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 3,
         "playersTotal": 40,
@@ -60851,6 +67443,11 @@ var data =
                 "final": 569,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -60863,7 +67460,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T08:10:47.000Z",
-        "updatedAt": "2024-04-28T07:54:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 85,
@@ -60898,7 +67495,13 @@ var data =
                 "final": 219,
                 "discountPercent": 80
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 69
+        },
+        "information": "The full game is called Episode 1."
     },
     {
         "gameType": 0,
@@ -60910,7 +67513,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-25T20:01:09.000Z",
-        "updatedAt": "2023-02-10T16:56:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 6,
         "playersTotal": 31,
@@ -60945,6 +67548,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -60957,7 +67565,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-08T18:12:43.000Z",
-        "updatedAt": "2023-07-08T17:35:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 86,
@@ -60992,6 +67600,11 @@ var data =
                 "final": 174,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 41
         }
     },
     {
@@ -61004,7 +67617,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:35:42.000Z",
-        "updatedAt": "2022-12-18T16:27:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 272,
@@ -61039,6 +67652,11 @@ var data =
                 "final": 169,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -61051,7 +67669,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-09T14:11:59.000Z",
-        "updatedAt": "2023-06-24T06:32:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -61086,6 +67704,11 @@ var data =
                 "final": 232,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -61098,7 +67721,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-20T20:39:29.000Z",
-        "updatedAt": "2024-09-07T17:28:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -61133,6 +67756,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
         }
     },
     {
@@ -61145,7 +67773,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-07-26T16:58:06.000Z",
-        "updatedAt": "2023-06-24T06:32:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 348,
@@ -61180,6 +67808,11 @@ var data =
                 "final": 659,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 85
         }
     },
     {
@@ -61192,7 +67825,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-07-25T16:16:32.000Z",
-        "updatedAt": "2024-04-29T23:27:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
         "playersTotal": 345,
@@ -61227,6 +67860,11 @@ var data =
                 "final": 399,
                 "discountPercent": 95
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 88
         }
     },
     {
@@ -61239,7 +67877,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2023-01-23T15:32:30.000Z",
-        "updatedAt": "2023-07-12T09:49:48.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 18,
@@ -61274,6 +67912,11 @@ var data =
                 "final": 1139,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 32
         }
     },
     {
@@ -61286,7 +67929,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-06-09T18:39:45.000Z",
-        "updatedAt": "2022-10-21T18:18:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 8,
         "playersTotal": 75,
@@ -61321,6 +67964,11 @@ var data =
                 "final": 324,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -61333,7 +67981,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-01-15T08:33:08.000Z",
-        "updatedAt": "2023-11-10T16:21:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 4,
         "playersTotal": 59,
@@ -61368,6 +68016,11 @@ var data =
                 "final": 869,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 48
         }
     },
     {
@@ -61380,7 +68033,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-06-21T22:04:27.000Z",
-        "updatedAt": "2023-06-24T06:48:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 2,
         "playersTotal": 36,
@@ -61415,6 +68068,11 @@ var data =
                 "final": 459,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 15
         }
     },
     {
@@ -61427,7 +68085,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2022-11-22T05:21:44.000Z",
-        "updatedAt": "2024-08-13T16:01:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 47,
@@ -61462,6 +68120,11 @@ var data =
                 "final": 861,
                 "discountPercent": 25
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 25
         }
     },
     {
@@ -61474,7 +68137,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-01-28T09:10:38.000Z",
-        "updatedAt": "2023-02-24T03:00:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 24,
         "playersStarted": 32,
         "playersTotal": 331,
@@ -61509,6 +68172,11 @@ var data =
                 "final": 339,
                 "discountPercent": 90
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 47
         }
     },
     {
@@ -61521,7 +68189,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:48:35.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -61556,6 +68224,11 @@ var data =
                 "final": 1029,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -61568,7 +68241,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-10-13T06:36:40.000Z",
-        "updatedAt": "2024-03-24T02:50:45.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 16,
@@ -61603,6 +68276,11 @@ var data =
                 "final": 339,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -61615,7 +68293,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-24T06:06:39.000Z",
-        "updatedAt": "2023-08-04T19:26:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 98,
@@ -61650,6 +68328,11 @@ var data =
                 "final": 649,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 25
         }
     },
     {
@@ -61662,7 +68345,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-05-07T23:33:31.000Z",
-        "updatedAt": "2022-05-08T02:35:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 52,
@@ -61697,6 +68380,11 @@ var data =
                 "final": 259,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 8
         }
     },
     {
@@ -61709,7 +68397,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-01-12T07:03:18.000Z",
-        "updatedAt": "2023-02-09T06:12:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 2,
         "playersTotal": 19,
@@ -61744,6 +68432,11 @@ var data =
                 "final": 1249,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 3,
+            "achievements": 0
         }
     },
     {
@@ -61756,7 +68449,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-25T19:48:15.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 39,
         "playersStarted": 0,
         "playersTotal": 129,
@@ -61791,6 +68484,11 @@ var data =
                 "final": 509,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 17
         }
     },
     {
@@ -61803,7 +68501,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-25T20:11:20.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 128,
@@ -61838,6 +68536,11 @@ var data =
                 "final": 509,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -61850,7 +68553,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T08:42:11.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 164,
@@ -61885,6 +68588,11 @@ var data =
                 "final": 549,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 46
         }
     },
     {
@@ -61897,7 +68605,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-22T19:11:21.000Z",
-        "updatedAt": "2022-04-22T20:31:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 69,
@@ -61932,6 +68640,11 @@ var data =
                 "final": 574,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
         }
     },
     {
@@ -61944,7 +68657,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T15:34:13.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -61979,6 +68692,11 @@ var data =
                 "final": 1924,
                 "discountPercent": 65
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 54
         }
     },
     {
@@ -61991,7 +68709,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2020-01-28T08:40:58.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 121,
@@ -62026,6 +68744,11 @@ var data =
                 "final": 509,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 33
         }
     },
     {
@@ -62038,7 +68761,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-08T20:54:24.000Z",
-        "updatedAt": "2024-02-06T22:41:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -62073,7 +68796,13 @@ var data =
                 "final": 1253,
                 "discountPercent": 45
             }
-        }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 20
+        },
+        "information": "This game requires a VR headset in order to play."
     },
     {
         "gameType": 0,
@@ -62085,7 +68814,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-10-09T20:54:27.000Z",
-        "updatedAt": "2022-10-09T21:05:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 3,
         "playersTotal": 20,
@@ -62120,6 +68849,11 @@ var data =
                 "final": 465,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 21
         }
     },
     {
@@ -62132,7 +68866,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-07-08T22:22:25.000Z",
-        "updatedAt": "2024-04-02T15:58:46.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 112,
@@ -62167,6 +68901,11 @@ var data =
                 "final": 879,
                 "discountPercent": 60
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 48
         }
     },
     {
@@ -62179,7 +68918,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-10-13T06:47:11.000Z",
-        "updatedAt": "2023-10-14T14:09:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -62214,6 +68953,11 @@ var data =
                 "final": 229,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
         }
     },
     {
@@ -62226,7 +68970,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-10T21:04:08.000Z",
-        "updatedAt": "2022-11-10T21:51:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -62261,6 +69005,11 @@ var data =
                 "final": 219,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
         }
     },
     {
@@ -62273,7 +69022,7 @@ var data =
         "tier": 3,
         "points": 41,
         "createdAt": "2022-12-06T06:06:32.000Z",
-        "updatedAt": "2023-07-12T17:05:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 47,
@@ -62308,6 +69057,11 @@ var data =
                 "final": 219,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 23
         }
     },
     {
@@ -62320,7 +69074,7 @@ var data =
         "tier": 1,
         "points": 17,
         "createdAt": "2024-08-18T16:20:54.000Z",
-        "updatedAt": "2024-09-22T07:06:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -62355,6 +69109,11 @@ var data =
                 "final": 649,
                 "discountPercent": 50
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 29
         }
     },
     {
@@ -62367,7 +69126,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:48:19.000Z",
-        "updatedAt": "2023-07-16T22:24:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 42,
         "playersTotal": 115,
@@ -62402,6 +69161,11 @@ var data =
                 "final": 1349,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 1
         }
     },
     {
@@ -62414,7 +69178,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-10-15T03:55:24.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 191,
@@ -62449,6 +69213,11 @@ var data =
                 "final": 487,
                 "discountPercent": 75
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 38
         }
     },
     {
@@ -62461,7 +69230,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-08-04T21:34:44.000Z",
-        "updatedAt": "2024-09-07T17:24:04.000Z",
+        "updatedAt": "2024-10-21T00:37:14.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -62496,6 +69265,11 @@ var data =
                 "final": 899,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 0
         }
     },
     {
@@ -62508,7 +69282,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-05-14T17:35:17.000Z",
-        "updatedAt": "2023-05-15T04:39:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 54,
@@ -62543,6 +69317,11 @@ var data =
                 "final": 379,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 73
         }
     },
     {
@@ -62555,7 +69334,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-04-01T20:05:08.000Z",
-        "updatedAt": "2023-05-27T01:54:55.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 21,
         "playersStarted": 4,
         "playersTotal": 172,
@@ -62590,6 +69369,11 @@ var data =
                 "final": 99,
                 "discountPercent": 80
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 14
         }
     },
     {
@@ -62602,7 +69386,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2021-07-05T21:47:19.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -62637,6 +69421,11 @@ var data =
                 "final": 5199,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 51
         }
     },
     {
@@ -62649,7 +69438,7 @@ var data =
         "tier": 1,
         "points": 7,
         "createdAt": "2023-11-30T20:56:29.000Z",
-        "updatedAt": "2024-02-17T02:52:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 17,
@@ -62684,6 +69473,11 @@ var data =
                 "final": 155,
                 "discountPercent": 40
             }
+        },
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 8
         }
     },
     {
@@ -62696,7 +69490,7 @@ var data =
         "tier": 4,
         "points": 155,
         "createdAt": "2021-12-14T00:31:01.000Z",
-        "updatedAt": "2023-07-25T03:57:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 29,
@@ -62731,6 +69525,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 44
         }
     },
     {
@@ -62743,7 +69542,7 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2024-08-09T22:58:47.000Z",
-        "updatedAt": "2024-08-12T05:39:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 11,
@@ -62778,6 +69577,11 @@ var data =
                 "final": 804,
                 "discountPercent": 30
             }
+        },
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 65
         }
     },
     {
@@ -62825,6 +69629,11 @@ var data =
                 "final": 448,
                 "discountPercent": 61
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 24
         }
     },
     {
@@ -62837,7 +69646,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-07-28T23:25:11.000Z",
-        "updatedAt": "2024-08-01T07:23:31.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -62872,6 +69681,11 @@ var data =
                 "final": 1149,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -62884,7 +69698,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-14T12:26:35.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 108,
@@ -62919,6 +69733,11 @@ var data =
                 "final": 308,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
         }
     },
     {
@@ -62931,7 +69750,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2020-01-28T08:59:33.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 112,
@@ -62966,6 +69785,11 @@ var data =
                 "final": 434,
                 "discountPercent": 70
             }
+        },
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 28
         }
     },
     {
@@ -62978,7 +69802,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-28T23:25:29.000Z",
-        "updatedAt": "2024-08-01T07:23:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -63013,6 +69837,11 @@ var data =
                 "final": 1349,
                 "discountPercent": 0
             }
+        },
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 0
         }
     },
     {
@@ -63028,7 +69857,13 @@ var data =
         "updatedAt": "2024-11-27T02:57:25.000Z",
         "playersCompleted": 176,
         "playersStarted": 0,
-        "playersTotal": 176
+        "playersTotal": 176,
+        "milestones": {
+            "primary": 0,
+            "community": 90,
+            "achievements": 0
+        },
+        "information": "This is the current page for site-listed achievements. \n\n__To be eligible for these achievements,__ please download the associated game \"A CHALLENGE\", (you might need to download Steam 360 Video Player, it's already in your library under \"Tools\" section and run that first), then launch A CHALLENGE for a few minutes, close the game, and then update your profile. You should then show up in the full completions after a while and can post your proof.\n\n*Please remember that objectives on this game do not count toward CO-related roles.*"
     },
     {
         "gameType": 1,
@@ -63040,10 +69875,16 @@ var data =
         "tier": 0,
         "points": 0,
         "createdAt": "2023-05-03T11:07:02.000Z",
-        "updatedAt": "2024-04-01T14:41:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 174,
         "playersStarted": 0,
-        "playersTotal": 174
+        "playersTotal": 174,
+        "milestones": {
+            "primary": 0,
+            "community": 39,
+            "achievements": 0
+        },
+        "information": "This page serves as a list of puzzle games on Steam curated by CE. Each game listed will require you to either complete all/specific achievements in the game, or complete all in-game puzzles offered. The difficulty of these games are ranked on a three-tier system, ranging from Moderate (\ud83d\udfe8), to Challenging (\ud83d\udfe5), to Extreme (\u2b1b). A specialized potentials list for puzzle games can be found on <https://tinyurl.com/Puzzle-Games>. Games are added to this list through a voting system within the CE Discord server\u2014if you wish to participate in that, ask any of the Discord mods for the \"@Puzzle Enthusiast\" role.\n\nGuidelines for proof submission: Steam profile link for achievements, screenshot/video for everything else.\n\nTo be eligible for these achievements, please add the associated game \"Frame of Mind\" to your library, and then update your profile. You should show up in the full completions after a while, and can then post your proof. Please remember that the objectives on this page do not count toward CO-related roles."
     },
     {
         "gameType": 1,
@@ -63055,10 +69896,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-08T15:24:53.000Z",
-        "updatedAt": "2024-07-21T05:59:32.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 70
+        "playersTotal": 70,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
+        }
     },
     {
         "gameType": 1,
@@ -63070,10 +69916,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-26T18:49:31.000Z",
-        "updatedAt": "2022-09-01T03:16:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
-        "playersTotal": 145
+        "playersTotal": 145,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
+        }
     },
     {
         "gameType": 1,
@@ -63085,10 +69936,15 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-01-28T08:11:40.000Z",
-        "updatedAt": "2022-10-24T02:00:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 14,
-        "playersTotal": 179
+        "playersTotal": 179,
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 95
+        }
     },
     {
         "gameType": 1,
@@ -63100,10 +69956,16 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2023-02-01T12:59:00.000Z",
-        "updatedAt": "2024-09-11T18:34:28.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 6,
-        "playersTotal": 89
+        "playersTotal": 89,
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 0
+        },
+        "information": "Point value will be re-evaluated with a second clear."
     },
     {
         "gameType": 1,
@@ -63115,10 +69977,16 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-09-07T08:59:09.000Z",
-        "updatedAt": "2024-07-18T16:44:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 65
+        "playersTotal": 65,
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 22
+        },
+        "information": "Curated on Steam: https://store.steampowered.com/app/459680/Auro_A_MonsterBumping_Adventure/?curator_clanid=36185934\n\nNote to self: Check beta mode updates frequently. Game will likely be revalued from the ground up."
     },
     {
         "gameType": 1,
@@ -63130,10 +69998,16 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-01-23T21:28:56.000Z",
-        "updatedAt": "2024-07-11T17:20:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 217
+        "playersTotal": 217,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
+        },
+        "information": "Contrary to the achievement description, \"Glitches Galore!\" is unlocked by beating NULL Style instead of the expected Glitch Style."
     },
     {
         "gameType": 1,
@@ -63145,10 +70019,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-06T17:48:26.000Z",
-        "updatedAt": "2024-09-07T17:31:36.000Z",
-        "playersCompleted": 7,
+        "updatedAt": "2024-09-28T16:51:24.000Z",
+        "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 46
+        "playersTotal": 47,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -63160,10 +70039,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-12-28T23:42:41.000Z",
-        "updatedAt": "2024-04-02T15:46:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
-        "playersTotal": 120
+        "playersTotal": 120,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -63178,7 +70062,12 @@ var data =
         "updatedAt": "2024-10-22T00:11:07.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 16
+        "playersTotal": 16,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 0
+        }
     },
     {
         "gameType": 2,
@@ -63190,10 +70079,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-01-10T20:54:55.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 68,
         "playersStarted": 0,
-        "playersTotal": 385
+        "playersTotal": 385,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
+        }
     },
     {
         "gameType": 1,
@@ -63205,10 +70099,15 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2022-11-28T01:59:15.000Z",
-        "updatedAt": "2023-06-24T22:53:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 7,
-        "playersTotal": 108
+        "playersTotal": 108,
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 83
+        }
     },
     {
         "gameType": 2,
@@ -63220,10 +70119,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-31T03:50:54.000Z",
-        "updatedAt": "2024-04-02T15:47:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 32,
         "playersStarted": 0,
-        "playersTotal": 365
+        "playersTotal": 365,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
+        }
     },
     {
         "gameType": 1,
@@ -63235,10 +70139,16 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-12-06T06:06:01.000Z",
-        "updatedAt": "2024-03-17T19:39:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 111
+        "playersTotal": 111,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
+        },
+        "information": "\n"
     },
     {
         "gameType": 2,
@@ -63250,10 +70160,16 @@ var data =
         "tier": 5,
         "points": 500,
         "createdAt": "2020-01-28T03:10:44.000Z",
-        "updatedAt": "2024-02-04T22:54:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 26,
-        "playersTotal": 129
+        "playersTotal": 129,
+        "milestones": {
+            "primary": 4,
+            "community": 2,
+            "achievements": 16
+        },
+        "information": "Delisted from Steam.\n"
     },
     {
         "gameType": 1,
@@ -63265,10 +70181,15 @@ var data =
         "tier": 0,
         "points": 0,
         "createdAt": "2022-07-23T23:19:08.000Z",
-        "updatedAt": "2024-08-10T16:28:35.000Z",
+        "updatedAt": "2024-10-10T01:14:26.000Z",
         "playersCompleted": 59,
         "playersStarted": 0,
-        "playersTotal": 59
+        "playersTotal": 59,
+        "milestones": {
+            "primary": 25,
+            "community": 1,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -63280,10 +70201,15 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-12-22T21:22:25.000Z",
-        "updatedAt": "2023-12-23T03:32:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 88
+        "playersTotal": 88,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
+        }
     },
     {
         "gameType": 2,
@@ -63295,10 +70221,16 @@ var data =
         "tier": 5,
         "points": 230,
         "createdAt": "2020-03-14T13:25:13.000Z",
-        "updatedAt": "2024-08-03T18:31:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 5,
-        "playersTotal": 165
+        "playersTotal": 165,
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 35
+        },
+        "information": "# GAME DISCONTINUED\n\nObjectives are not awarded automatically anymore. Play World EXplosion instead.\n\nIf you earned objectives on this game and do it again in World EXplosion, they will be removed from here. If you really need to play this version, contact Folkius to award objectives manually."
     },
     {
         "gameType": 1,
@@ -63310,10 +70242,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-04-27T01:27:11.000Z",
-        "updatedAt": "2024-04-02T15:47:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
-        "playersTotal": 94
+        "playersTotal": 94,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -63325,10 +70262,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-25T01:22:32.000Z",
-        "updatedAt": "2024-04-02T15:48:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 60
+        "playersTotal": 60,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 55
+        }
     },
     {
         "gameType": 1,
@@ -63340,10 +70282,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:42:54.000Z",
-        "updatedAt": "2022-03-27T23:54:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 77,
         "playersStarted": 0,
-        "playersTotal": 234
+        "playersTotal": 234,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 8
+        }
     },
     {
         "gameType": 1,
@@ -63355,10 +70302,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-26T15:15:57.000Z",
-        "updatedAt": "2024-09-07T17:18:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 28
+        "playersTotal": 28,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
+        }
     },
     {
         "gameType": 1,
@@ -63370,10 +70322,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-04-08T08:40:52.000Z",
-        "updatedAt": "2023-04-09T16:29:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 85
+        "playersTotal": 85,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 44
+        }
     },
     {
         "gameType": 1,
@@ -63385,10 +70342,15 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-06-14T15:07:35.000Z",
-        "updatedAt": "2024-01-01T18:33:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 137,
         "playersStarted": 0,
-        "playersTotal": 534
+        "playersTotal": 534,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 12
+        }
     },
     {
         "gameType": 1,
@@ -63400,10 +70362,15 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:15:43.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
-        "playersTotal": 152
+        "playersTotal": 152,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 24
+        }
     },
     {
         "gameType": 1,
@@ -63415,10 +70382,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T22:11:56.000Z",
-        "updatedAt": "2024-04-02T15:48:36.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 92
+        "playersTotal": 92,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 35
+        }
     },
     {
         "gameType": 2,
@@ -63430,10 +70402,15 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-12-11T01:08:48.000Z",
-        "updatedAt": "2022-12-13T02:37:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 23
+        "playersTotal": 23,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 18
+        }
     },
     {
         "gameType": 1,
@@ -63445,10 +70422,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-10-02T04:47:41.000Z",
-        "updatedAt": "2023-10-02T05:29:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 91
+        "playersTotal": 91,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
+        }
     },
     {
         "gameType": 1,
@@ -63460,10 +70442,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-02T10:11:35.000Z",
-        "updatedAt": "2024-04-02T15:49:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
-        "playersTotal": 231
+        "playersTotal": 231,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -63475,10 +70462,15 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-19T13:12:52.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 129
+        "playersTotal": 129,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 10
+        }
     },
     {
         "gameType": 2,
@@ -63490,10 +70482,16 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2024-08-01T03:53:34.000Z",
-        "updatedAt": "2024-08-27T17:27:46.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 3,
-        "playersTotal": 56
+        "playersTotal": 57,
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 0
+        },
+        "information": "Delisted from Steam.\nIt is recommended to record your live gameplay due to replay desync issues, unless you [patch in a fix.](https://steamcommunity.com/app/207400/discussions/0/4356743665188653822/)"
     },
     {
         "gameType": 1,
@@ -63505,10 +70503,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-02-23T17:17:00.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 87
+        "playersTotal": 87,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
+        }
     },
     {
         "gameType": 1,
@@ -63520,10 +70523,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-02T03:53:16.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 85,
         "playersStarted": 0,
-        "playersTotal": 192
+        "playersTotal": 192,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
+        }
     },
     {
         "gameType": 1,
@@ -63535,10 +70543,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:36:35.000Z",
-        "updatedAt": "2022-03-27T23:54:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
-        "playersTotal": 214
+        "playersTotal": 214,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
+        }
     },
     {
         "gameType": 1,
@@ -63550,10 +70563,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-14T01:59:29.000Z",
-        "updatedAt": "2024-04-02T15:50:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 113
+        "playersTotal": 113,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -63565,10 +70583,15 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-08-20T20:02:48.000Z",
-        "updatedAt": "2023-08-15T15:13:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 9,
-        "playersTotal": 133
+        "playersTotal": 133,
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 23
+        }
     },
     {
         "gameType": 2,
@@ -63580,10 +70603,16 @@ var data =
         "tier": 5,
         "points": 260,
         "createdAt": "2022-02-28T01:41:04.000Z",
-        "updatedAt": "2024-08-03T22:18:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 6,
-        "playersTotal": 123
+        "playersTotal": 123,
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 33
+        },
+        "information": "Delisted from Steam."
     },
     {
         "gameType": 1,
@@ -63595,10 +70624,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-09T18:46:06.000Z",
-        "updatedAt": "2024-09-12T04:37:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 28
+        "playersTotal": 28,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
+        }
     },
     {
         "gameType": 2,
@@ -63610,10 +70644,16 @@ var data =
         "tier": 4,
         "points": 145,
         "createdAt": "2022-06-27T02:28:05.000Z",
-        "updatedAt": "2024-08-03T22:18:09.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 10,
-        "playersTotal": 107
+        "playersTotal": 107,
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 14
+        },
+        "information": "Delisted from Steam."
     },
     {
         "gameType": 1,
@@ -63625,10 +70665,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-25T16:32:06.000Z",
-        "updatedAt": "2024-04-02T15:51:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 46,
         "playersStarted": 0,
-        "playersTotal": 361
+        "playersTotal": 361,
+        "milestones": {
+            "primary": 1,
+            "community": 8,
+            "achievements": 46
+        }
     },
     {
         "gameType": 2,
@@ -63640,10 +70685,15 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-06-01T23:22:58.000Z",
-        "updatedAt": "2022-06-02T00:25:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 32
+        "playersTotal": 32,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 41
+        }
     },
     {
         "gameType": 1,
@@ -63655,10 +70705,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-18T01:25:39.000Z",
-        "updatedAt": "2024-10-18T03:03:15.000Z",
+        "updatedAt": "2024-11-25T19:09:39.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 27
+        "playersTotal": 27,
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 19
+        }
     },
     {
         "gameType": 1,
@@ -63670,10 +70725,15 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2021-10-04T04:52:37.000Z",
-        "updatedAt": "2022-03-27T23:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 244
+        "playersTotal": 244,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
+        }
     },
     {
         "gameType": 1,
@@ -63685,10 +70745,15 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T18:44:32.000Z",
-        "updatedAt": "2022-07-05T01:04:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 12,
-        "playersTotal": 187
+        "playersTotal": 187,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 28
+        }
     },
     {
         "gameType": 1,
@@ -63703,7 +70768,13 @@ var data =
         "updatedAt": "2024-11-10T16:58:34.000Z",
         "playersCompleted": 0,
         "playersStarted": 51,
-        "playersTotal": 325
+        "playersTotal": 325,
+        "milestones": {
+            "primary": 10,
+            "community": 3,
+            "achievements": 40
+        },
+        "information": "All relevant Kreedz information can be found here: [Link](https://docs.google.com/document/d/1h_Pq00T5nlf8aFABE1ln-HtGcewx-zOgMBEcyZRLEto)"
     },
     {
         "gameType": 1,
@@ -63715,10 +70786,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-04T15:54:39.000Z",
-        "updatedAt": "2022-11-27T14:40:04.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 1,
-        "playersTotal": 122
+        "playersTotal": 122,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 12
+        }
     },
     {
         "gameType": 1,
@@ -63730,10 +70806,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-16T23:07:37.000Z",
-        "updatedAt": "2022-12-17T00:59:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 126
+        "playersTotal": 126,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 16
+        }
     },
     {
         "gameType": 1,
@@ -63745,10 +70826,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-05-25T21:21:33.000Z",
-        "updatedAt": "2022-10-28T01:55:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 91,
         "playersStarted": 0,
-        "playersTotal": 449
+        "playersTotal": 449,
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 9
+        }
     },
     {
         "gameType": 1,
@@ -63760,10 +70846,15 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2024-03-28T21:15:24.000Z",
-        "updatedAt": "2024-04-23T17:37:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 62
+        "playersTotal": 62,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 40
+        }
     },
     {
         "gameType": 1,
@@ -63775,10 +70866,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-06-18T17:22:03.000Z",
-        "updatedAt": "2024-02-29T21:19:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 13,
-        "playersTotal": 472
+        "playersTotal": 472,
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 49
+        }
     },
     {
         "gameType": 1,
@@ -63790,10 +70886,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-12T16:38:56.000Z",
-        "updatedAt": "2024-09-07T17:30:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 110
+        "playersTotal": 111,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
+        }
     },
     {
         "gameType": 1,
@@ -63805,10 +70906,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:04:05.000Z",
-        "updatedAt": "2024-04-02T15:53:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 71,
         "playersStarted": 0,
-        "playersTotal": 261
+        "playersTotal": 261,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
+        }
     },
     {
         "gameType": 1,
@@ -63820,10 +70926,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:14:23.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 35,
         "playersStarted": 0,
-        "playersTotal": 204
+        "playersTotal": 204,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 36
+        }
     },
     {
         "gameType": 1,
@@ -63835,10 +70946,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-22T20:14:24.000Z",
-        "updatedAt": "2024-04-02T15:54:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
-        "playersTotal": 139
+        "playersTotal": 139,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 9
+        }
     },
     {
         "gameType": 1,
@@ -63850,10 +70966,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-12T17:36:24.000Z",
-        "updatedAt": "2024-04-02T15:54:12.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 54,
         "playersStarted": 0,
-        "playersTotal": 259
+        "playersTotal": 259,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -63865,10 +70986,15 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:33:15.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 40,
         "playersStarted": 5,
-        "playersTotal": 308
+        "playersTotal": 308,
+        "milestones": {
+            "primary": 3,
+            "community": 1,
+            "achievements": 37
+        }
     },
     {
         "gameType": 1,
@@ -63880,10 +71006,16 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T03:59:52.000Z",
-        "updatedAt": "2024-04-02T15:54:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 75,
         "playersStarted": 0,
-        "playersTotal": 232
+        "playersTotal": 233,
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 4
+        },
+        "information": "Baseline game.\nYou're better off playing on the second difficulty before attempting Masochism if you have low experience on bullet hell games. The game is short anyways."
     },
     {
         "gameType": 2,
@@ -63895,10 +71027,16 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2022-04-30T14:20:59.000Z",
-        "updatedAt": "2024-08-09T17:58:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
-        "playersTotal": 94
+        "playersTotal": 94,
+        "milestones": {
+            "primary": 4,
+            "community": 0,
+            "achievements": 47
+        },
+        "information": "# GAME DISCONTINUED\n\nPlay Mikado REMIX instead.\n\nIf you earned objectives on this game and do it again in Mikado REMIX, they will be removed from here. If you really need to play this version, contact Folkius to award objectives manually."
     },
     {
         "gameType": 1,
@@ -63913,7 +71051,12 @@ var data =
         "updatedAt": "2024-10-16T00:42:39.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 29
+        "playersTotal": 29,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 8
+        }
     },
     {
         "gameType": 1,
@@ -63925,10 +71068,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-12-02T01:12:46.000Z",
-        "updatedAt": "2023-12-02T02:02:26.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 90
+        "playersTotal": 90,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
+        }
     },
     {
         "gameType": 1,
@@ -63940,10 +71088,15 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:59:45.000Z",
-        "updatedAt": "2022-03-27T23:54:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
-        "playersTotal": 292
+        "playersTotal": 292,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 12
+        }
     },
     {
         "gameType": 1,
@@ -63955,10 +71108,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-09T18:48:49.000Z",
-        "updatedAt": "2024-09-09T19:03:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 27
+        "playersTotal": 27,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
+        }
     },
     {
         "gameType": 2,
@@ -63970,10 +71128,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:15:02.000Z",
-        "updatedAt": "2022-03-27T23:54:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 9
+        "playersTotal": 9,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 50
+        }
     },
     {
         "gameType": 1,
@@ -63985,10 +71148,16 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2021-10-25T22:02:40.000Z",
-        "updatedAt": "2024-08-24T21:04:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 439
+        "playersTotal": 439,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 41
+        },
+        "information": "Runs with special/easter egg seeds are deemed as a form of seeded run, hence, their use is strictly prohibited. The list of these seeds is the following:\n\u2022 NIL\n\u2022 NO\n\u2022 d9341\n\u2022 5CP_I73\n\u2022 DONTBLINK\n\u2022 CRUNCH\n\u2022 die\n\u2022 HTAED\n\u2022 rustledjim\n\u2022 larry\n\u2022 JORGE\n\u2022 dirtymetal\n\u2022 whatpumpkin"
     },
     {
         "gameType": 2,
@@ -64000,10 +71169,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-02T23:22:11.000Z",
-        "updatedAt": "2024-04-02T15:55:39.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
-        "playersTotal": 271
+        "playersTotal": 271,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 99
+        }
     },
     {
         "gameType": 1,
@@ -64015,10 +71189,15 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-08-06T16:08:40.000Z",
-        "updatedAt": "2022-10-01T00:24:18.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
-        "playersTotal": 114
+        "playersTotal": 114,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 8
+        }
     },
     {
         "gameType": 1,
@@ -64030,10 +71209,15 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-07-09T03:30:51.000Z",
-        "updatedAt": "2024-09-07T17:31:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 68
+        "playersTotal": 68,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 50
+        }
     },
     {
         "gameType": 2,
@@ -64045,10 +71229,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-11-10T05:20:15.000Z",
-        "updatedAt": "2024-05-22T05:02:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 30,
-        "playersTotal": 279
+        "playersTotal": 279,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 49
+        }
     },
     {
         "gameType": 1,
@@ -64060,10 +71249,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:39:02.000Z",
-        "updatedAt": "2024-05-31T14:33:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 63,
         "playersStarted": 0,
-        "playersTotal": 214
+        "playersTotal": 214,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 33
+        }
     },
     {
         "gameType": 2,
@@ -64075,10 +71269,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-03T20:55:33.000Z",
-        "updatedAt": "2024-05-31T14:27:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 77,
         "playersStarted": 0,
-        "playersTotal": 448
+        "playersTotal": 448,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 50
+        }
     },
     {
         "gameType": 2,
@@ -64090,10 +71289,15 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-01-29T17:23:08.000Z",
-        "updatedAt": "2023-04-22T16:07:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 10
+        "playersTotal": 10,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 32
+        }
     },
     {
         "gameType": 2,
@@ -64105,10 +71309,16 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-11-15T16:33:27.000Z",
-        "updatedAt": "2024-09-08T06:39:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 15,
-        "playersTotal": 134
+        "playersTotal": 134,
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 12
+        },
+        "information": "Delisted from Steam."
     },
     {
         "gameType": 1,
@@ -64120,10 +71330,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-01-03T21:11:06.000Z",
-        "updatedAt": "2024-05-31T14:29:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 62,
         "playersStarted": 0,
-        "playersTotal": 272
+        "playersTotal": 272,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
+        }
     },
     {
         "gameType": 2,
@@ -64135,10 +71350,16 @@ var data =
         "tier": 4,
         "points": 190,
         "createdAt": "2020-02-06T03:13:43.000Z",
-        "updatedAt": "2024-03-11T08:49:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 7,
-        "playersTotal": 120
+        "playersTotal": 120,
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 38
+        },
+        "information": "Delisted from Steam."
     },
     {
         "gameType": 1,
@@ -64150,10 +71371,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-07T21:59:32.000Z",
-        "updatedAt": "2023-08-08T05:16:56.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 195
+        "playersTotal": 195,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
+        }
     },
     {
         "gameType": 2,
@@ -64165,10 +71391,16 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:34:07.000Z",
-        "updatedAt": "2024-09-08T00:32:58.000Z",
+        "updatedAt": "2024-11-21T22:52:16.000Z",
         "playersCompleted": 33,
         "playersStarted": 1,
-        "playersTotal": 313
+        "playersTotal": 313,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 46
+        },
+        "information": "DLC required for completion.\nDelisted from Steam."
     },
     {
         "gameType": 1,
@@ -64180,10 +71412,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-10T16:16:13.000Z",
-        "updatedAt": "2024-04-12T16:44:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 61
+        "playersTotal": 62,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
+        }
     },
     {
         "gameType": 1,
@@ -64198,7 +71435,13 @@ var data =
         "updatedAt": "2024-10-05T01:44:17.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
-        "playersTotal": 74
+        "playersTotal": 74,
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 47
+        },
+        "information": "\"Stage Turk\" can be unlocked by entering a secret command after reaching the ending once. Go to the \"How to Play\" screen and  enter Up 7, Down 8, Up 1, Right 2, Tap 1, Right 2, Tap 1, Right 1, Left 3, Tap 1, Left 2, Tap 1, Left 1, Right 1, Tap 8."
     },
     {
         "gameType": 1,
@@ -64210,10 +71453,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-18T16:08:09.000Z",
-        "updatedAt": "2024-09-22T07:06:19.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 28
+        "playersTotal": 28,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -64228,7 +71476,12 @@ var data =
         "updatedAt": "2024-10-16T02:25:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 19
+        "playersTotal": 19,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -64240,10 +71493,15 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2021-09-07T20:19:56.000Z",
-        "updatedAt": "2024-05-05T04:28:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 158
+        "playersTotal": 158,
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 30
+        }
     },
     {
         "gameType": 1,
@@ -64255,10 +71513,15 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-01-24T14:17:51.000Z",
-        "updatedAt": "2024-03-08T17:52:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 50
+        "playersTotal": 50,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
+        }
     },
     {
         "gameType": 1,
@@ -64270,10 +71533,15 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-08T15:27:00.000Z",
-        "updatedAt": "2023-06-08T16:16:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 101
+        "playersTotal": 101,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -64285,10 +71553,15 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-08-23T22:25:31.000Z",
-        "updatedAt": "2023-02-09T20:10:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
-        "playersTotal": 214
+        "playersTotal": 214,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 9
+        }
     },
     {
         "gameType": 1,
@@ -64300,10 +71573,15 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-02-09T04:23:25.000Z",
-        "updatedAt": "2023-02-09T07:31:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 9,
-        "playersTotal": 103
+        "playersTotal": 103,
+        "milestones": {
+            "primary": 3,
+            "community": 3,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -64315,10 +71593,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-02-03T22:26:08.000Z",
-        "updatedAt": "2024-05-18T21:05:41.000Z",
+        "updatedAt": "2024-10-23T02:14:07.000Z",
         "playersCompleted": 41,
         "playersStarted": 0,
-        "playersTotal": 325
+        "playersTotal": 325,
+        "milestones": {
+            "primary": 1,
+            "community": 4,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -64330,10 +71613,16 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-02-20T00:40:11.000Z",
-        "updatedAt": "2024-06-30T04:02:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 14,
         "playersStarted": 5,
-        "playersTotal": 386
+        "playersTotal": 386,
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 0
+        },
+        "information": "How to fix white screen issues:\n[https://steamcommunity.com/sharedfiles/filedetails/?id=448953593](https://steamcommunity.com/sharedfiles/filedetails/?id=448953593)\n"
     },
     {
         "gameType": 1,
@@ -64345,10 +71634,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-05T02:50:19.000Z",
-        "updatedAt": "2024-09-07T17:23:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 48
+        "playersTotal": 48,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 47
+        }
     },
     {
         "gameType": 1,
@@ -64360,10 +71654,15 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-09-08T21:07:10.000Z",
-        "updatedAt": "2023-09-17T20:28:27.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 7,
-        "playersTotal": 456
+        "playersTotal": 456,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -64375,10 +71674,15 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-01-03T14:47:59.000Z",
-        "updatedAt": "2024-04-25T16:38:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 108
+        "playersTotal": 108,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 28
+        }
     },
     {
         "gameType": 2,
@@ -64390,10 +71694,15 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-08-11T00:32:16.000Z",
-        "updatedAt": "2022-03-27T23:54:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 58
+        "playersTotal": 58,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 50
+        }
     },
     {
         "gameType": 1,
@@ -64405,10 +71714,16 @@ var data =
         "tier": 5,
         "points": 250,
         "createdAt": "2024-03-19T18:22:07.000Z",
-        "updatedAt": "2024-08-04T14:25:42.000Z",
+        "updatedAt": "2024-10-22T11:32:51.000Z",
         "playersCompleted": 3,
         "playersStarted": 35,
-        "playersTotal": 230
+        "playersTotal": 230,
+        "milestones": {
+            "primary": 10,
+            "community": 2,
+            "achievements": 32
+        },
+        "information": "Please see the spreadsheet for the tracks required for the PO (EN/JP)\n<https://docs.google.com/spreadsheets/d/1bdCzfoEi3_eJ5JkCSZu2xn4_flb0tzlLpamKB3B3pDk/edit?gid=0#gid=0>"
     },
     {
         "gameType": 1,
@@ -64420,10 +71735,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-10T01:14:11.000Z",
-        "updatedAt": "2024-06-10T02:18:33.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 38
+        "playersTotal": 38,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 64
+        }
     },
     {
         "gameType": 1,
@@ -64435,10 +71755,15 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-07-18T02:02:21.000Z",
-        "updatedAt": "2024-09-07T17:29:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 38
+        "playersTotal": 38,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 29
+        }
     },
     {
         "gameType": 1,
@@ -64450,10 +71775,16 @@ var data =
         "tier": 3,
         "points": 56,
         "createdAt": "2022-12-22T04:12:48.000Z",
-        "updatedAt": "2024-06-08T06:20:47.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
-        "playersTotal": 76
+        "playersTotal": 76,
+        "milestones": {
+            "primary": 5,
+            "community": 0,
+            "achievements": 16
+        },
+        "information": "TBD: skips/exiting cheese for yolo objective"
     },
     {
         "gameType": 1,
@@ -64465,10 +71796,15 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-28T21:30:17.000Z",
-        "updatedAt": "2023-07-03T19:09:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 13,
-        "playersTotal": 110
+        "playersTotal": 110,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 43
+        }
     },
     {
         "gameType": 1,
@@ -64480,10 +71816,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:02:43.000Z",
-        "updatedAt": "2022-12-07T04:33:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 22,
         "playersStarted": 125,
-        "playersTotal": 510
+        "playersTotal": 510,
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 14
+        }
     },
     {
         "gameType": 1,
@@ -64495,10 +71836,15 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-12-01T04:39:42.000Z",
-        "updatedAt": "2024-02-06T19:14:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 159
+        "playersTotal": 159,
+        "milestones": {
+            "primary": 1,
+            "community": 3,
+            "achievements": 25
+        }
     },
     {
         "gameType": 2,
@@ -64510,10 +71856,16 @@ var data =
         "tier": 2,
         "points": 34,
         "createdAt": "2024-06-07T21:10:27.000Z",
-        "updatedAt": "2024-10-12T02:52:27.000Z",
+        "updatedAt": "2024-10-12T03:51:42.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 64
+        "playersTotal": 64,
+        "milestones": {
+            "primary": 6,
+            "community": 0,
+            "achievements": 210
+        },
+        "information": "Delisted from Steam.\n\nVery hard bonus 1 is broken and can only be entered in practice and gauntlet. Very hard bonus 3 is also broken, when entered from the regular stage it doesn't work correctly (its free).\n\nNo one has any idea how the \"Encounter all enemies\" achievements work. If you have information or know how they work, notify a mod. Maybe they can be added to a PO. Though it is likely they are more of a puzzle than a challenge, and/or simply broken."
     },
     {
         "gameType": 1,
@@ -64525,10 +71877,15 @@ var data =
         "tier": 1,
         "points": 12,
         "createdAt": "2024-01-21T16:43:20.000Z",
-        "updatedAt": "2024-01-21T17:18:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
-        "playersTotal": 86
+        "playersTotal": 86,
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 152
+        }
     },
     {
         "gameType": 1,
@@ -64540,10 +71897,15 @@ var data =
         "tier": 4,
         "points": 115,
         "createdAt": "2023-05-10T17:20:14.000Z",
-        "updatedAt": "2023-06-09T08:47:50.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 8,
-        "playersTotal": 120
+        "playersTotal": 120,
+        "milestones": {
+            "primary": 4,
+            "community": 2,
+            "achievements": 0
+        }
     },
     {
         "gameType": 1,
@@ -64555,10 +71917,16 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2023-03-23T16:40:58.000Z",
-        "updatedAt": "2024-03-08T04:09:28.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 5,
-        "playersTotal": 110
+        "playersTotal": 110,
+        "milestones": {
+            "primary": 4,
+            "community": 2,
+            "achievements": 0
+        },
+        "information": "Balanced around Youmu&Koishi."
     },
     {
         "gameType": 3,
@@ -64570,10 +71938,15 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-13T22:05:45.000Z",
-        "updatedAt": "2024-07-25T21:00:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 3
+        "playersTotal": 3,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 40
+        }
     },
     {
         "gameType": 3,
@@ -64585,10 +71958,16 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-08T20:34:36.000Z",
-        "updatedAt": "2024-08-24T21:21:51.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 126
+        },
+        "information": "Both the Monkey Soccer and Monkey Climber are unlocked by rolling them in the game's Gotcha Box, it is completely random to roll the games in the box.\nIt is recommended to collect all the monkeys or at least all of the later stage monkeys as they provide better player stats in Monkey Soccer"
     },
     {
         "gameType": 3,
@@ -64600,10 +71979,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-11T18:05:20.000Z",
-        "updatedAt": "2024-07-25T20:36:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 4
+        "playersTotal": 4,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
+        }
     },
     {
         "gameType": 3,
@@ -64618,7 +72002,13 @@ var data =
         "updatedAt": "2024-11-18T14:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
-        "playersTotal": 3
+        "playersTotal": 3,
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 26
+        },
+        "information": "Passwords:\nSecret Challenge Area: PETUNIAX\nBoss Rush Mode: CHAMPION"
     },
     {
         "gameType": 3,
@@ -64630,10 +72020,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-08T20:30:13.000Z",
-        "updatedAt": "2024-07-25T20:22:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 7
+        "playersTotal": 7,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 20
+        }
     },
     {
         "gameType": 3,
@@ -64648,7 +72043,12 @@ var data =
         "updatedAt": "2024-10-18T19:35:43.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 4
+        "playersTotal": 4,
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 55
+        }
     },
     {
         "gameType": 3,
@@ -64663,7 +72063,12 @@ var data =
         "updatedAt": "2024-11-25T06:42:50.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 4
+        "playersTotal": 4,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 66
+        }
     },
     {
         "gameType": 3,
@@ -64675,10 +72080,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-21T20:57:55.000Z",
-        "updatedAt": "2024-08-22T19:45:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 94
+        }
     },
     {
         "gameType": 3,
@@ -64693,7 +72103,12 @@ var data =
         "updatedAt": "2024-10-05T21:15:18.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 45
+        }
     },
     {
         "gameType": 3,
@@ -64708,7 +72123,12 @@ var data =
         "updatedAt": "2024-10-17T00:04:32.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 47
+        }
     },
     {
         "gameType": 3,
@@ -64723,7 +72143,12 @@ var data =
         "updatedAt": "2024-10-01T02:06:47.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 64
+        }
     },
     {
         "gameType": 3,
@@ -64735,10 +72160,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-29T04:06:06.000Z",
-        "updatedAt": "2024-07-25T19:59:46.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 4
+        "playersTotal": 4,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 74
+        }
     },
     {
         "gameType": 3,
@@ -64750,10 +72180,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-25T02:42:00.000Z",
-        "updatedAt": "2024-07-25T19:21:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 5
+        "playersTotal": 5,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 88
+        }
     },
     {
         "gameType": 3,
@@ -64765,10 +72200,15 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2024-05-31T20:33:58.000Z",
-        "updatedAt": "2024-07-25T19:30:00.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 7
+        "playersTotal": 7,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 48
+        }
     },
     {
         "gameType": 3,
@@ -64780,10 +72220,15 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-06-08T22:02:01.000Z",
-        "updatedAt": "2024-07-25T19:48:24.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 5
+        "playersTotal": 5,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 117
+        }
     },
     {
         "gameType": 3,
@@ -64795,10 +72240,15 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-05-08T20:43:04.000Z",
-        "updatedAt": "2024-07-25T21:04:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 3
+        "playersTotal": 3,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 48
+        }
     },
     {
         "gameType": 3,
@@ -64810,10 +72260,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-23T17:33:38.000Z",
-        "updatedAt": "2024-07-25T21:11:02.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 19
+        }
     },
     {
         "gameType": 3,
@@ -64825,10 +72280,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-18T21:43:25.000Z",
-        "updatedAt": "2024-08-26T08:05:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 52
+        }
     },
     {
         "gameType": 3,
@@ -64840,10 +72300,16 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T18:21:29.000Z",
-        "updatedAt": "2024-07-25T19:08:44.000Z",
+        "updatedAt": "2024-10-15T16:14:44.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 8
+        "playersTotal": 8,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 80
+        },
+        "information": "https://www.mariowiki.com/DK_Attack"
     },
     {
         "gameType": 3,
@@ -64855,10 +72321,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-06-27T12:37:39.000Z",
-        "updatedAt": "2024-07-25T19:15:11.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
+        }
     },
     {
         "gameType": 3,
@@ -64870,10 +72341,15 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-05-08T21:00:37.000Z",
-        "updatedAt": "2024-07-25T21:16:58.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 3
+        "playersTotal": 3,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 43
+        }
     },
     {
         "gameType": 3,
@@ -64888,7 +72364,12 @@ var data =
         "updatedAt": "2024-10-17T00:05:42.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 75
+        }
     },
     {
         "gameType": 3,
@@ -64900,10 +72381,15 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-09-07T21:49:39.000Z",
-        "updatedAt": "2024-09-08T01:44:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 41
+        }
     },
     {
         "gameType": 3,
@@ -64915,10 +72401,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-07T22:01:54.000Z",
-        "updatedAt": "2024-09-08T01:49:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
+        }
     },
     {
         "gameType": 3,
@@ -64930,10 +72421,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T20:27:09.000Z",
-        "updatedAt": "2024-07-25T19:00:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 9
+        "playersTotal": 9,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 13
+        }
     },
     {
         "gameType": 3,
@@ -64948,7 +72444,13 @@ var data =
         "updatedAt": "2024-10-28T11:24:30.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
-        "playersTotal": 5
+        "playersTotal": 5,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 27
+        },
+        "information": "\"Octopus\" and \"Fire\" games are contained in the 4th release of this franchise. Which is why they are not included in any objectives for this game."
     },
     {
         "gameType": 3,
@@ -64960,10 +72462,16 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-21T22:48:13.000Z",
-        "updatedAt": "2024-07-25T21:22:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 3
+        "playersTotal": 3,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
+        },
+        "information": "The minigames missing from this PO can be found in the 4th edition of this franchise."
     },
     {
         "gameType": 3,
@@ -64975,10 +72483,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T21:21:16.000Z",
-        "updatedAt": "2024-07-25T21:26:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 3
+        "playersTotal": 3,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 21
+        }
     },
     {
         "gameType": 3,
@@ -64990,10 +72503,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-14T19:14:19.000Z",
-        "updatedAt": "2024-07-25T21:31:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 5
+        "playersTotal": 5,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 68
+        }
     },
     {
         "gameType": 3,
@@ -65005,10 +72523,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-19T23:31:31.000Z",
-        "updatedAt": "2024-07-25T21:41:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 124
+        }
     },
     {
         "gameType": 3,
@@ -65020,10 +72543,15 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-06-19T23:38:34.000Z",
-        "updatedAt": "2024-08-14T17:43:40.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 5
+        "playersTotal": 5,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 611
+        }
     },
     {
         "gameType": 3,
@@ -65035,10 +72563,15 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-07-10T21:49:35.000Z",
-        "updatedAt": "2024-07-17T00:10:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 6
+        "playersTotal": 6,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 79
+        }
     },
     {
         "gameType": 3,
@@ -65050,10 +72583,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-11T18:00:34.000Z",
-        "updatedAt": "2024-07-26T03:38:29.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 5
+        "playersTotal": 5,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 54
+        }
     },
     {
         "gameType": 3,
@@ -65065,10 +72603,16 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-09-08T21:27:08.000Z",
-        "updatedAt": "2024-09-17T05:05:48.000Z",
+        "updatedAt": "2024-10-27T05:30:29.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 96
+        },
+        "information": "(Unconfirmed) HSG Man rank requires the following:\n- Get birdies or better on every hole of every course, front/back tee\n- Defeat all Vs Mode characters on normal/hard mode\n- Complete all stage trials\n\nThen, play a round after completing all of the above"
     },
     {
         "gameType": 3,
@@ -65080,10 +72624,16 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-08T20:49:34.000Z",
-        "updatedAt": "2024-07-25T21:47:05.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 72
+        },
+        "information": "When playing in Hard mode, DO NOT TRY OUT A NEWLY UNLOCKED MOVE. It will change the game difficulty to Normal and there is no way to change it back to hard. Do not save over your file and reload save if you accidently try out a move"
     },
     {
         "gameType": 3,
@@ -65095,10 +72645,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-19T03:32:19.000Z",
-        "updatedAt": "2024-08-19T22:04:41.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 6
+        }
     },
     {
         "gameType": 3,
@@ -65110,10 +72665,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-05T00:29:26.000Z",
-        "updatedAt": "2024-09-07T22:32:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 40
+        }
     },
     {
         "gameType": 3,
@@ -65128,7 +72688,12 @@ var data =
         "updatedAt": "2024-11-18T22:47:20.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
+        }
     },
     {
         "gameType": 3,
@@ -65140,10 +72705,15 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-08T21:05:30.000Z",
-        "updatedAt": "2024-07-26T03:40:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 6
+        "playersTotal": 6,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 50
+        }
     },
     {
         "gameType": 3,
@@ -65158,7 +72728,12 @@ var data =
         "updatedAt": "2024-10-17T00:03:28.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 3
+        "playersTotal": 3,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 56
+        }
     },
     {
         "gameType": 3,
@@ -65170,10 +72745,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-09T14:33:16.000Z",
-        "updatedAt": "2024-07-26T03:42:44.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 3
+        "playersTotal": 3,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
+        }
     },
     {
         "gameType": 3,
@@ -65185,10 +72765,16 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-07-20T21:04:15.000Z",
-        "updatedAt": "2024-08-21T10:44:03.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 1,
-        "playersTotal": 18
+        "playersTotal": 18,
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 64
+        },
+        "information": "Copter Captain - The final 3x levels in Adventure Mode, and 5x levels in Challenge Mode unlock when all previous levels in that mode have a perfect (no hit) rating.\n\nHelirin Hero - Master times become visible in game after beating all \"P\" times. The achievement will not unlock if there are tied times, even if the leaderboard shows your name first.\n\nAll master times can be found here:\nhttps://docs.google.com/spreadsheets/d/1Znf-trw9suYPw295mvdcTGaCSGX-bZTSM26ITp1z02g/"
     },
     {
         "gameType": 3,
@@ -65200,10 +72786,16 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-07-21T04:59:30.000Z",
-        "updatedAt": "2024-08-29T10:01:54.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 1,
-        "playersTotal": 14
+        "playersTotal": 14,
+        "milestones": {
+            "primary": 3,
+            "community": 0,
+            "achievements": 69
+        },
+        "information": "The final 4x levels in Adventure Mode (the \"One Helirin of a Show\" PO), and Challenge Lvl 11 levels in Challenge Mode unlock when all previous levels in that mode have a perfect (no hit) rating.\n\nLike Father, Like Son - Totorin's times become visible in game after beating all of the Baron's times (\"B\" on the leaderboard). The achievement will not unlock if there are tied times, even if the leaderboard shows your name first.\n\nAll dad/Totorin times can be found here:\nhttps://docs.google.com/spreadsheets/d/1qRX1DIkDDytZr3c3M5zpcHooht9SwxkXODjNqy1h1nI"
     },
     {
         "gameType": 3,
@@ -65215,10 +72807,15 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-07-29T14:33:28.000Z",
-        "updatedAt": "2024-07-30T04:28:57.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 12
+        "playersTotal": 12,
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 66
+        }
     },
     {
         "gameType": 3,
@@ -65233,7 +72830,12 @@ var data =
         "updatedAt": "2024-10-18T19:37:21.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 17
+        }
     },
     {
         "gameType": 3,
@@ -65248,7 +72850,12 @@ var data =
         "updatedAt": "2024-10-13T06:52:40.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 65
+        }
     },
     {
         "gameType": 3,
@@ -65263,7 +72870,12 @@ var data =
         "updatedAt": "2024-10-17T00:00:44.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 43
+        }
     },
     {
         "gameType": 3,
@@ -65278,7 +72890,12 @@ var data =
         "updatedAt": "2024-10-17T00:01:33.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 51
+        }
     },
     {
         "gameType": 3,
@@ -65290,10 +72907,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-11T16:42:09.000Z",
-        "updatedAt": "2024-08-20T20:42:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 18
+        }
     },
     {
         "gameType": 3,
@@ -65305,10 +72927,15 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-09-08T22:19:25.000Z",
-        "updatedAt": "2024-09-09T04:29:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 5
+        "playersTotal": 5,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 44
+        }
     },
     {
         "gameType": 3,
@@ -65320,10 +72947,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-08T20:52:36.000Z",
-        "updatedAt": "2024-07-26T03:48:08.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 13
+        "playersTotal": 13,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 55
+        }
     },
     {
         "gameType": 3,
@@ -65338,7 +72970,13 @@ var data =
         "updatedAt": "2024-10-22T01:19:47.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 3
+        "playersTotal": 3,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 31
+        },
+        "information": "Cheat for Switcharoo mode:\nX, B, A, Y, Up, Left, Down, Right, Down - At the start game screen"
     },
     {
         "gameType": 3,
@@ -65350,10 +72988,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-18T02:13:18.000Z",
-        "updatedAt": "2024-07-27T13:57:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 7
+        "playersTotal": 7,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 14
+        }
     },
     {
         "gameType": 3,
@@ -65365,10 +73008,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-04T06:59:43.000Z",
-        "updatedAt": "2024-09-09T18:32:53.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 14
+        "playersTotal": 14,
+        "milestones": {
+            "primary": 1,
+            "community": 2,
+            "achievements": 255
+        }
     },
     {
         "gameType": 3,
@@ -65380,10 +73028,16 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-18T03:54:53.000Z",
-        "updatedAt": "2024-09-07T17:25:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 15
+        "playersTotal": 15,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 109
+        },
+        "information": "To unlock episodes 45 to 49, enter the Unlockables menu, then hold L+R and enter XOXOXXO. These 5 episodes will appear above episode 00."
     },
     {
         "gameType": 3,
@@ -65395,10 +73049,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-07T05:05:32.000Z",
-        "updatedAt": "2024-07-26T04:00:48.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 4
+        "playersTotal": 4,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 9
+        }
     },
     {
         "gameType": 3,
@@ -65410,10 +73069,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-11T17:56:13.000Z",
-        "updatedAt": "2024-07-26T03:54:59.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 4
+        "playersTotal": 4,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 26
+        }
     },
     {
         "gameType": 3,
@@ -65425,10 +73089,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-09T15:07:14.000Z",
-        "updatedAt": "2024-07-26T04:04:30.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 4
+        "playersTotal": 4,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 40
+        }
     },
     {
         "gameType": 3,
@@ -65443,7 +73112,12 @@ var data =
         "updatedAt": "2024-10-04T17:13:31.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 68
+        }
     },
     {
         "gameType": 3,
@@ -65455,10 +73129,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-21T05:31:03.000Z",
-        "updatedAt": "2024-07-31T06:29:21.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 114
+        }
     },
     {
         "gameType": 3,
@@ -65470,10 +73149,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-07T19:23:33.000Z",
-        "updatedAt": "2024-09-17T06:20:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 10
+        "playersTotal": 10,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 64
+        }
     },
     {
         "gameType": 3,
@@ -65485,10 +73169,16 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-08-12T16:29:35.000Z",
-        "updatedAt": "2024-09-26T01:44:10.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
-        "playersTotal": 12
+        "playersTotal": 12,
+        "milestones": {
+            "primary": 4,
+            "community": 1,
+            "achievements": 130
+        },
+        "information": "For those interested in RA mastery: there are 5 missable achievements."
     },
     {
         "gameType": 3,
@@ -65500,10 +73190,15 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-05-10T15:42:43.000Z",
-        "updatedAt": "2024-07-26T04:07:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 3
+        "playersTotal": 3,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 39
+        }
     },
     {
         "gameType": 3,
@@ -65515,10 +73210,15 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2024-05-20T03:57:37.000Z",
-        "updatedAt": "2024-07-26T04:10:17.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 52
+        }
     },
     {
         "gameType": 3,
@@ -65530,10 +73230,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-07T19:31:40.000Z",
-        "updatedAt": "2024-09-07T21:12:23.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 5
+        "playersTotal": 5,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 114
+        }
     },
     {
         "gameType": 3,
@@ -65548,7 +73253,12 @@ var data =
         "updatedAt": "2024-11-09T20:05:21.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 4
+        "playersTotal": 4,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 28
+        }
     },
     {
         "gameType": 3,
@@ -65563,7 +73273,12 @@ var data =
         "updatedAt": "2024-10-17T14:02:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 27
+        }
     },
     {
         "gameType": 3,
@@ -65578,7 +73293,13 @@ var data =
         "updatedAt": "2024-11-11T17:38:13.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 11
+        },
+        "information": "Note: \"Expert mode\", as teased by achievements, is simply unlocking the hidden loop with a cheat code, thus not really applicable."
     },
     {
         "gameType": 3,
@@ -65593,7 +73314,12 @@ var data =
         "updatedAt": "2024-10-21T19:59:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
+        }
     },
     {
         "gameType": 3,
@@ -65608,7 +73334,12 @@ var data =
         "updatedAt": "2024-10-18T19:33:32.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 15
+        }
     },
     {
         "gameType": 3,
@@ -65620,10 +73351,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-28T20:08:42.000Z",
-        "updatedAt": "2024-07-31T06:26:35.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
+        }
     },
     {
         "gameType": 3,
@@ -65638,7 +73374,12 @@ var data =
         "updatedAt": "2024-11-13T07:50:14.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 118
+        }
     },
     {
         "gameType": 3,
@@ -65650,10 +73391,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-09T14:40:16.000Z",
-        "updatedAt": "2024-07-25T20:14:55.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 73
+        }
     },
     {
         "gameType": 3,
@@ -65665,10 +73411,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-10T21:12:31.000Z",
-        "updatedAt": "2024-08-21T21:23:20.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 30
+        }
     },
     {
         "gameType": 3,
@@ -65680,10 +73431,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T20:39:43.000Z",
-        "updatedAt": "2024-07-26T04:27:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 11
+        "playersTotal": 11,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 106
+        }
     },
     {
         "gameType": 3,
@@ -65698,7 +73454,13 @@ var data =
         "updatedAt": "2024-11-26T03:12:08.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 9
+        "playersTotal": 9,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 34
+        },
+        "information": "[https://gamefaqs.gamespot.com/gbc/198850-super-mario-bros-deluxe/faqs/7415](https://gamefaqs.gamespot.com/gbc/198850-super-mario-bros-deluxe/faqs/7415)"
     },
     {
         "gameType": 3,
@@ -65710,10 +73472,15 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-06-08T19:53:54.000Z",
-        "updatedAt": "2024-07-28T02:29:49.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 3
+        "playersTotal": 3,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 98
+        }
     },
     {
         "gameType": 3,
@@ -65725,10 +73492,15 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2024-07-30T12:59:04.000Z",
-        "updatedAt": "2024-09-07T22:36:34.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 4,
-        "playersTotal": 25
+        "playersTotal": 25,
+        "milestones": {
+            "primary": 2,
+            "community": 1,
+            "achievements": 37
+        }
     },
     {
         "gameType": 3,
@@ -65740,10 +73512,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-31T14:01:36.000Z",
-        "updatedAt": "2024-07-27T16:19:43.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 8
+        "playersTotal": 8,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 23
+        }
     },
     {
         "gameType": 3,
@@ -65755,10 +73532,15 @@ var data =
         "tier": 2,
         "points": 29,
         "createdAt": "2024-07-22T16:48:24.000Z",
-        "updatedAt": "2024-07-27T08:41:06.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
-        "playersTotal": 8
+        "playersTotal": 8,
+        "milestones": {
+            "primary": 11,
+            "community": 0,
+            "achievements": 84
+        }
     },
     {
         "gameType": 3,
@@ -65770,10 +73552,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-05T20:12:26.000Z",
-        "updatedAt": "2024-10-05T22:09:08.000Z",
+        "updatedAt": "2024-10-09T05:17:48.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 1,
+            "achievements": 18
+        }
     },
     {
         "gameType": 3,
@@ -65785,10 +73572,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-07T17:21:50.000Z",
-        "updatedAt": "2024-09-07T22:15:14.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 22
+        }
     },
     {
         "gameType": 3,
@@ -65800,10 +73592,15 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-05-09T14:24:02.000Z",
-        "updatedAt": "2024-07-27T16:20:07.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 5
+        "playersTotal": 5,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 36
+        }
     },
     {
         "gameType": 3,
@@ -65818,7 +73615,12 @@ var data =
         "updatedAt": "2024-10-17T00:08:58.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 73
+        }
     },
     {
         "gameType": 3,
@@ -65830,10 +73632,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-28T19:53:10.000Z",
-        "updatedAt": "2024-08-19T01:21:16.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 6
+        "playersTotal": 6,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
+        }
     },
     {
         "gameType": 3,
@@ -65848,7 +73655,12 @@ var data =
         "updatedAt": "2024-10-18T19:40:25.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 11
+        }
     },
     {
         "gameType": 3,
@@ -65863,7 +73675,12 @@ var data =
         "updatedAt": "2024-11-01T05:27:58.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 3
+        "playersTotal": 3,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 230
+        }
     },
     {
         "gameType": 3,
@@ -65878,7 +73695,13 @@ var data =
         "updatedAt": "2024-10-15T03:00:44.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 39
+        },
+        "information": "The achievements listed are from the subset on RA found here: https://retroachievements.org/game/18716"
     },
     {
         "gameType": 3,
@@ -65890,10 +73713,15 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-05-11T18:08:45.000Z",
-        "updatedAt": "2024-07-27T16:20:22.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 70
+        }
     },
     {
         "gameType": 3,
@@ -65908,7 +73736,12 @@ var data =
         "updatedAt": "2024-10-18T19:41:27.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 37
+        }
     },
     {
         "gameType": 3,
@@ -65920,10 +73753,15 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-01T20:50:33.000Z",
-        "updatedAt": "2024-08-12T03:03:13.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 2
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 2,
+            "community": 0,
+            "achievements": 62
+        }
     },
     {
         "gameType": 3,
@@ -65935,10 +73773,15 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T21:15:55.000Z",
-        "updatedAt": "2024-07-27T16:20:37.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 5
+        "playersTotal": 5,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 29
+        }
     },
     {
         "gameType": 4,
@@ -65950,10 +73793,15 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-06-08T20:00:51.000Z",
-        "updatedAt": "2024-08-09T01:00:52.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1
+        "playersTotal": 1,
+        "milestones": {
+            "primary": 1,
+            "community": 0,
+            "achievements": 45
+        }
     },
     {
         "gameType": 4,
@@ -65965,10 +73813,16 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2020-08-28T17:22:24.000Z",
-        "updatedAt": "2024-03-02T17:33:01.000Z",
+        "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 10,
-        "playersTotal": 270
+        "playersTotal": 270,
+        "milestones": {
+            "primary": 2,
+            "community": 2,
+            "achievements": 70
+        },
+        "information": "The actual store page is located here: https://store.steampowered.com/app/41014"
     }
 ]
 var date =
@@ -65976,8 +73830,8 @@ var date =
     "day": 2,
     "month": 12,
     "year": 2024,
-    "hour": 9,
-    "minute": 2,
-    "second": 21,
-    "searchTime": 378.73465728759766
+    "hour": 14,
+    "minute": 39,
+    "second": 52,
+    "searchTime": 599.1376667022705
 }
