@@ -121,7 +121,7 @@
         <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, document.body.scrollHeight);"><b>vvv Move to bottom vvv</b></span></div>
         <table id="MainTable" style="margin: auto; width: 100%; text-align: center; background-color:#ffffff;">
             <tr>
-                <td colspan="12">    
+                <td colspan="14">    
                     <p id="Count" style="margin: auto; padding: 15px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Games: Loading...</p>
                     <p id="CountCost" style="margin: auto; padding: 0px 15px 0px; font-size: 22px; font-weight: bold; text-align: center;">Cost of Filtered: Loading...</p>
                     <p id="CountPoints" style="margin: auto; padding: 0px 15px 15px; font-size: 22px; font-weight: bold; text-align: center;">Points of Filtered: Loading...</p>
@@ -133,7 +133,7 @@
                 </td>
             </tr>
             <tr>
-                <td colspan="12">
+                <td colspan="14">
                     <table class="filterTitle" style="margin: auto; text-align: center; background-color: #ededed;">
                         <tr>
                             <td colspan="6">
@@ -185,7 +185,7 @@
                                     <input type="radio" id="priceF2P" onclick="changePrice()" name="price" value="1">Free To Play</input><br>
                                     <input type="radio" id="priceNA" onclick="changePrice()" name="price" value="2">N/A</input>
                                 </td>
-                                <td rowspan="3" id="extraFilter">
+                                <td rowspan="4" id="extraFilter">
                                     <b>Extras & Non-Filters:</b><br>
                                     <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br><br>
                                     <input id="pointMultiple" type="checkbox" onclick="nonMultiples()">(Points) Only non-multiples of 5</input><br>
@@ -200,7 +200,7 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td rowspan="2" colspan="3" id="userSearch">
+                                <td rowspan="3" colspan="3" id="userSearch">
                                     <b>User:</b><br>
                                     <sub class="subtitle">(Shows only games owned by a user)</sub><br>
                                     <sub class="subtitle">(Only works with users visible in the leaderboard!)</sub><br>
@@ -225,7 +225,7 @@
                                         <input type="number" id="pointHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
                                     </div>
                                 </td>
-                                <td id="currencyFilter">
+                                <td rowspan="2" id="currencyFilter">
                                     <b>Currency:</b><br>
                                     <input type="radio" id="currencyUSD" onclick="changeCurrency()" name="currency" value="USD" checked="true">USD ($)</input>
                                     <input type="radio" id="currencyEUR" onclick="changeCurrency()" name="currency" value="EUR">EUR (€)</input><br>
@@ -234,6 +234,14 @@
                                     <input type="radio" id="currencyCAD" onclick="changeCurrency()" name="currency" value="CAD">CAD (C$)</input>
                                     <input type="radio" id="currencyJPY" onclick="changeCurrency()" name="currency" value="JPY">JPY (¥)</input><br>
                                     <sub class="subtitle">(Not all games are available to buy with all currencies!)</sub>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td id="achievementFilter">
+                                    <b>Achievements:</b><br>
+                                    <input type="number" id="achievementsLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changeAchievements()"></input>
+                                    ≤ <b>x</b> ≤
+                                    <input type="number" id="achievementsHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changeAchievements()"></input>
                                 </td>
                             </tr>
                             <tr>
@@ -263,7 +271,7 @@
                 </td>
             </tr>
             <tr>
-                <td colspan="12">
+                <td colspan="14">
                     <table class="filterTitle" style="margin: auto; text-align: center;">
                         <tr>
                             <td colspan="2">
@@ -309,33 +317,44 @@
                 <td rowspan="2" class="button" onclick="order('name')">Order By Name</td>
                 <td rowspan="2" class="button" onclick="order('genre')">Order By Genre</td>
                 <td rowspan="2" class="button" colspan="2" onclick="order('points')">Order By Points</td>
+                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div class="button" style="width:49.3%; float:left;" onclick="order('primary')">POs</div>
+                    <div class="button" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('community')">COs</div>
+                </td>
                 <td rowspan="2" class="button" onclick="order('playersTotal')">Order By Owners</td>
                 <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
                     <div class="button" style="width:69.3%; float:left;" onclick="order('playersCompleted')">Completed</div>
                     <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('completedPercentage')">%</div>
                 </td>
                 <td class="button" colspan="2" onclick="order('final')">Order By Price</td>
-                <td rowspan="2" class="button" onclick="order('createdAt')">Order By Date Added</td>
+                <td class="button" onclick="order('createdAt')">Order By Date Added</td>
                 <td rowspan="2" class="button" onclick="order('platformId')">Order By Id</td>
             </tr>
             <tr>
+                <td class="button" colspan="2" onclick="order('achievements')">Achievements</td>
                 <td colspan="2" style="padding:0%; background-color: #dddddd;">
                     <div class="button" style="width:69.3%; float:left;" onclick="order('playersStarted')">Unfinished</div>
                     <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('startedPercentage')">%</div>
                 </td>
                 <td class="button" colspan="2" onclick="order('discountPercent')">Order By Sale %</td>
+                <td class="button" onclick="order('updatedAt')">Order By Date Updated</td>
             </tr>
             <tr style="font-weight: bold; user-select: none;">
                 <td>Platform</td>
                 <td>
                     Name<br>
-                    <sub class="subtitle">(Click to copy the name to clipboard!)</sub>
+                    <sub class="subtitle">(Click to copy the name!)</sub><br>
+                    <sub class="subtitle">(Hover over the '𝓲' to view that game's information!)</sub>
                 </td>
                 <td>Genre</td>
                 <td colspan="2">Tier / Points</td>
+                <td colspan="2">Objectives / Achievements</td>
                 <td colspan="3">Owners / Completions / Comp. %</td>
                 <td colspan="2">Current Price</td>
-                <td>Date Added</td>
+                <td>
+                    Date Added / Date Updated<br>
+                    <sub class="subtitle">(Date Updated refers to internal CE stats, so it may refer to stat changes not visible here!)</sub>
+                </td>
                 <td>Links<br>
                     <sub class="subtitle">(Opens in new tab!)</sub><br>
                     <sub class="subtitle">(Hover to view the ID!)</sub><br>
@@ -351,13 +370,18 @@
                 <td>Platform</td>
                 <td>
                     Name<br>
-                    <sub class="subtitle">(Click to copy the name to clipboard!)</sub>
+                    <sub class="subtitle">(Click to copy the name!)</sub><br>
+                    <sub class="subtitle">(Hover over the '𝓲' to view that game's information!)</sub>
                 </td>
                 <td>Genre</td>
                 <td colspan="2">Tier / Points</td>
+                <td colspan="2">Objectives / Achievements</td>
                 <td colspan="3">Owners / Completions / Comp. %</td>
                 <td colspan="2">Current Price</td>
-                <td>Date Added</td>
+                <td>
+                    Date Added / Date Updated<br>
+                    <sub class="subtitle">(Date Updated refers to internal CE stats, so it may refer to stat changes not visible here!)</sub>
+                </td>
                 <td>Links<br>
                     <sub class="subtitle">(Opens in new tab!)</sub><br>
                     <sub class="subtitle">(Hover to view the ID!)</sub><br>
@@ -369,21 +393,27 @@
                 <td rowspan="2" class="button" onclick="order('name')">Order By Name</td>
                 <td rowspan="2" class="button" onclick="order('genre')">Order By Genre</td>
                 <td rowspan="2" class="button" colspan="2" onclick="order('points')">Order By Points</td>
+                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div class="button" style="width:49.3%; float:left;" onclick="order('primary')">POs</div>
+                    <div class="button" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('community')">COs</div>
+                </td>
                 <td rowspan="2" class="button" onclick="order('playersTotal')">Order By Owners</td>
                 <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button" style="width:69.3%; float:left;" onclick="order('playersStarted')">Unfinished</div>
-                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('startedPercentage')">%</div>
-                </td>
-                <td class="button" colspan="2" onclick="order('discountPercent')">Order By Sale %</td>
-                <td rowspan="2" class="button" onclick="order('createdAt')">Order By Date Added</td>
-                <td rowspan="2" class="button" onclick="order('platformId')">Order By Id</td>
-            </tr>
-            <tr>
-                <td colspan="2" style="padding:0%; background-color: #dddddd;">
                     <div class="button" style="width:69.3%; float:left;" onclick="order('playersCompleted')">Completed</div>
                     <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('completedPercentage')">%</div>
                 </td>
                 <td class="button" colspan="2" onclick="order('final')">Order By Price</td>
+                <td class="button" onclick="order('createdAt')">Order By Date Added</td>
+                <td rowspan="2" class="button" onclick="order('platformId')">Order By Id</td>
+            </tr>
+            <tr>
+                <td class="button" colspan="2" onclick="order('achievements')">Achievements</td>
+                <td colspan="2" style="padding:0%; background-color: #dddddd;">
+                    <div class="button" style="width:69.3%; float:left;" onclick="order('playersStarted')">Unfinished</div>
+                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('startedPercentage')">%</div>
+                </td>
+                <td class="button" colspan="2" onclick="order('discountPercent')">Order By Sale %</td>
+                <td class="button" onclick="order('updatedAt')">Order By Date Updated</td>
             </tr>
         </table>
         <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, 0);"><b>^^^ Move to top ^^^</b></span></div>
@@ -637,6 +667,7 @@
                 if(!usePointsFilter) {order(lastOrder)};
             }
             function changePoints() {if(usePointsFilter) {order(lastOrder)};}
+            function changeAchievements() {order(lastOrder);}
 
             function onSale()
             {
@@ -1004,6 +1035,43 @@
                     }
                     else {document.getElementById("pointHigher").style.textDecoration = "line-through";}
                 }
+
+                //filter by achievements
+                var achievementsLowBound = 0;
+                var achievementsHighBound = 10000;
+                
+                var achievementsMin = document.getElementById("achievementsLower").valueAsNumber;
+                var achievementsMax = document.getElementById("achievementsHigher").valueAsNumber;
+
+                if(document.getElementById("achievementsLower").value != "")
+                {
+                    if(achievementsMin >= 0)
+                    {
+                        achievementsLowBound = achievementsMin;
+                        if(achievementsLowBound > 10000) {achievementsMin == 9999}
+                    }
+                    else {document.getElementById("achievementsLower").value = achievementsLowBound.toString();}
+                }
+
+                if(document.getElementById("achievementsHigher").value != "")
+                {
+                    if(achievementsMax <= 10000)
+                    {
+                        achievementsHighBound = achievementsMax;
+                        if(achievementsHighBound < 0) {achievementsMax == 1}
+                    }
+                    else {document.getElementById("achievementsHigher").value = achievementsHighBound.toString();}
+                }
+
+                filteredData = filteredData.filter(obj => {return obj["milestones"].achievements >= achievementsLowBound})
+
+                if(achievementsLowBound <= achievementsHighBound)
+                {
+                    document.getElementById("achievementsHigher").style.textDecoration = "none";
+                    filteredData = filteredData.filter(obj => {return obj["milestones"].achievements <= achievementsHighBound})
+                }
+                else {document.getElementById("achievementsHigher").style.textDecoration = "line-through";}
+
 
                 //filter by currency so that non-present currencies get removed
                 var paid = filteredData.filter(obj => {return obj.gameType == 0})
@@ -1388,6 +1456,11 @@
                             
                         filteredData.reverse();
                     }
+                    else if(type == "primary" || type == "community" || type == "achievements")
+                    {
+                        filteredData.sort((a,b) => (a["points"] > b["points"]) ? 1 : ((b["points"] > a["points"]) ? -1 : 0));
+                        filteredData.sort((a,b) => (a["milestones"][type] > b["milestones"][type]) ? 1 : ((b["milestones"][type] > a["milestones"][type]) ? -1 : 0));
+                    }
                     else
                     {
                         filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
@@ -1443,42 +1516,44 @@
                     if(filteredData[i]["points"] < 500) {cellTier.rowSpan = 2;}
                     var cellPoints = row1.insertCell(4);
                     cellPoints.rowSpan = 2;
-                    var cellOwners = row1.insertCell(5);
+                    var cellPrimary = row1.insertCell(5);
+                    var cellAchievements = row1.insertCell(6);
+                    cellAchievements.rowSpan = 2;
+                    var cellOwners = row1.insertCell(7);
                     cellOwners.rowSpan = 2;
-                    var cellFullCompletion = row1.insertCell(6);
+                    var cellFullCompletion = row1.insertCell(8);
                     cellFullCompletion.style.backgroundColor = "#00FF0055";
-                    var cellCompletionPercentage = row1.insertCell(7);
+                    var cellCompletionPercentage = row1.insertCell(9);
                     cellCompletionPercentage.style.backgroundColor = "#00FF0055";
-                    var cellBasePrice = row1.insertCell(8);
+                    var cellBasePrice = row1.insertCell(10);
                     cellBasePrice.rowSpan = 2;
                     
                     if(filteredData[i]["gameType"] == 0 && activeCurrency in filteredData[i]["priceData"] && filteredData[i]["priceData"][activeCurrency]["discountPercent"] != 0)
                     {
-                        var cellDiscountPercentage = row1.insertCell(9);
+                        var cellDiscountPercentage = row1.insertCell(11);
                         cellDiscountPercentage.rowSpan = 2;
                         cellDiscountPercentage.innerHTML = "<b>" + filteredData[i]["priceData"][activeCurrency]["discountPercent"] + "%</b>";
                         cellDiscountPercentage.style.backgroundColor = "#32A852";
                         cellDiscountPercentage.style.color = "#014A14";
-                        var cellAddedOn = row1.insertCell(10);
-                        cellAddedOn.rowSpan = 2;
-                        var cellLinkSteam = row1.insertCell(11);
+                        var cellAddedOn = row1.insertCell(12);
+                        var cellLinkSteam = row1.insertCell(13);
                     }
                     else
                     {
                         cellBasePrice.colSpan = 2;
-                        var cellAddedOn = row1.insertCell(9);
-                        cellAddedOn.rowSpan = 2;
-                        var cellLinkSteam = row1.insertCell(10);
+                        var cellAddedOn = row1.insertCell(11);
+                        var cellLinkSteam = row1.insertCell(12);
                     }
 
                     var row2 = table.insertRow(((i+1)*2)+5);
                     row2.classList.add("replace");
                     if(filteredData[i]["points"] < 500)
                     {
-                        var cellPartialCompletion = row2.insertCell(0);
-                        var cellPartialPercentage = row2.insertCell(1);
-                        //var cellUpdatedOn = row2.insertCell(2);
-                        var cellLinkCE = row2.insertCell(2);
+                        var cellCommunity = row2.insertCell(0);
+                        var cellPartialCompletion = row2.insertCell(1);
+                        var cellPartialPercentage = row2.insertCell(2);
+                        var cellUpdatedOn = row2.insertCell(3);
+                        var cellLinkCE = row2.insertCell(4);
                     }
                     else
                     {
@@ -1497,10 +1572,11 @@
                             cellTierExtra.style.backgroundSize = "100% 100%";
                             cellTierExtra.style.color = "#00000077";
                         }
-                        var cellPartialCompletion = row2.insertCell(1);
-                        var cellPartialPercentage = row2.insertCell(2);
-                        //var cellUpdatedOn = row2.insertCell(3);
-                        var cellLinkCE = row2.insertCell(3);
+                        var cellCommunity = row2.insertCell(1);
+                        var cellPartialCompletion = row2.insertCell(2);
+                        var cellPartialPercentage = row2.insertCell(3);
+                        var cellUpdatedOn = row2.insertCell(4);
+                        var cellLinkCE = row2.insertCell(5);
                     }
 
                     cellPartialCompletion.style.backgroundColor = "#FFCC0055";
@@ -1519,6 +1595,12 @@
                     }
 
                     cellName.innerHTML = "<span id='tmp'>" + filteredData[i]["name"] + "</span>";
+                    if(Object.keys(filteredData[i]).includes("information")) {
+                        cellName.innerHTML += "<sup style='font-size: 18px;' id='tmp2'> 𝓲</sup>";
+                        var inf = document.getElementById("tmp2");
+                        inf.setAttribute("title", filteredData[i]["information"])
+                        inf.removeAttribute("id")
+                    }
                     cellName.style.backgroundImage = "url(" + filteredData[i]["header"] + ")";
                     cellName.style.backgroundSize = "100% 100%";
                     cellName.style.backgroundBlendMode = "lighten";
@@ -1621,6 +1703,21 @@
                             }
                         }
                     }
+
+                    cellPrimary.innerHTML = filteredData[i]["milestones"]["primary"] + " PO";
+                    if(filteredData[i]["milestones"]["primary"] != 1) {cellPrimary.innerHTML = cellPrimary.innerHTML + "s"}
+                    if(filteredData[i]["milestones"]["primary"] != 0) {cellPrimary.style.backgroundColor = "#0000FF44"}
+                    else {cellPrimary.style.backgroundColor = "#00004433"}
+
+                    cellCommunity.innerHTML = filteredData[i]["milestones"]["community"] + " CO";
+                    if(filteredData[i]["milestones"]["community"] != 1) {cellCommunity.innerHTML = cellCommunity.innerHTML + "s"}
+                    if(filteredData[i]["milestones"]["community"] != 0) {cellCommunity.style.backgroundColor = "#9900FF44"}
+                    else {cellCommunity.style.backgroundColor = "#44004433"}
+
+                    cellAchievements.innerHTML = filteredData[i]["milestones"]["achievements"];
+                    if(filteredData[i]["milestones"]["achievements"] != 0) {cellAchievements.style.backgroundColor= "#FF00FF44";}
+                    else {cellAchievements.style = "font-weight: bold; background-color: #66006644";}
+
                     
                     cellOwners.innerHTML = filteredData[i]["playersTotal"];
                     cellFullCompletion.innerHTML = filteredData[i]["playersCompleted"];
@@ -1705,16 +1802,14 @@
                     
                         
                     var createdDate = new Date(filteredData[i]["createdAt"])
-                    cellAddedOn.innerHTML = "<b>" + createdDate.getDate() + "/" + (createdDate.getMonth()+1) + "/" + createdDate.getFullYear() + "</b>";
-                    cellAddedOn.innerHTML += " - <b>" + createdDate.getHours() + ":" + createdDate.getMinutes() + ":" + createdDate.getSeconds() + "</b>";
-                    cellAddedOn.innerHTML += " (<b>GMT+" + createdDate.getTimezoneOffset()/60*-1 + "</b>)";
+                    cellAddedOn.innerHTML = createdDate.getDate() + "/" + (createdDate.getMonth()+1) + "/" + createdDate.getFullYear();
+                    cellAddedOn.innerHTML += " - " + createdDate.getHours() + ":" + createdDate.getMinutes() + ":" + createdDate.getSeconds();
+                    cellAddedOn.innerHTML += " (GMT+" + createdDate.getTimezoneOffset()/60*-1 + ")";
 
-                    /*
                     var updatedDate = new Date(filteredData[i]["updatedAt"])
                     cellUpdatedOn.innerHTML = "<b>" + updatedDate.getDate() + "/" + (updatedDate.getMonth()+1) + "/" + updatedDate.getFullYear() + "</b>";
                     cellUpdatedOn.innerHTML += " - <b>" + updatedDate.getHours() + ":" + updatedDate.getMinutes() + ":" + updatedDate.getSeconds() + "</b>";
                     cellUpdatedOn.innerHTML += " (<b>GMT+" + updatedDate.getTimezoneOffset()/60*-1 + "</b>)";
-                    */
 
                     if(!linkReplaceId)
                     {
