@@ -348,7 +348,10 @@
                 </td>
                 <td>Genre</td>
                 <td colspan="2">Tier / Points</td>
-                <td colspan="2">Objectives / Achievements</td>
+                <td colspan="2">
+                    Objectives / Achievements<br>
+                    <sub class="subtitle">(Hover over the POs/COs to view their info!)</sub>
+                </td>
                 <td colspan="3">Owners / Completions / Comp. %</td>
                 <td colspan="2">Current Price</td>
                 <td>
@@ -375,7 +378,10 @@
                 </td>
                 <td>Genre</td>
                 <td colspan="2">Tier / Points</td>
-                <td colspan="2">Objectives / Achievements</td>
+                <td colspan="2">
+                    Objectives / Achievements<br>
+                    <sub class="subtitle">(Hover over the POs/COs to view their info!)</sub>
+                </td>
                 <td colspan="3">Owners / Completions / Comp. %</td>
                 <td colspan="2">Current Price</td>
                 <td>
@@ -1707,11 +1713,13 @@
                     cellPrimary.innerHTML = filteredData[i]["milestones"]["primary"] + " PO";
                     if(filteredData[i]["milestones"]["primary"] != 1) {cellPrimary.innerHTML = cellPrimary.innerHTML + "s"}
                     if(filteredData[i]["milestones"]["primary"] != 0) {cellPrimary.style.backgroundColor = "#0000FF44"}
+                    if(filteredData[i]["milestones"]["primaryText"] != "") {cellPrimary.title = filteredData[i]["milestones"]["primaryText"]}
                     else {cellPrimary.style.backgroundColor = "#00004433"}
 
                     cellCommunity.innerHTML = filteredData[i]["milestones"]["community"] + " CO";
                     if(filteredData[i]["milestones"]["community"] != 1) {cellCommunity.innerHTML = cellCommunity.innerHTML + "s"}
                     if(filteredData[i]["milestones"]["community"] != 0) {cellCommunity.style.backgroundColor = "#9900FF44"}
+                    if(filteredData[i]["milestones"]["communityText"] != "") {cellCommunity.title = filteredData[i]["milestones"]["communityText"]}
                     else {cellCommunity.style.backgroundColor = "#44004433"}
 
                     cellAchievements.innerHTML = filteredData[i]["milestones"]["achievements"];
