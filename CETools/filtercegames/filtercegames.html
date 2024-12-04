@@ -123,7 +123,10 @@
             <tr>
                 <td colspan="14">    
                     <p id="Count" style="margin: auto; padding: 15px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Games: Loading...</p>
-                    <p id="CountCost" style="margin: auto; padding: 0px 15px 0px; font-size: 22px; font-weight: bold; text-align: center;">Cost of Filtered: Loading...</p>
+                    <p id="CountCost" style="margin: auto; padding: 0px 15px 0px; font-size: 22px; font-weight: bold; text-align: center;">
+                        Cost of Filtered: Loading...<br>
+                        <span style='font-size:12px'>(No discount: Loading... - Difference: Loading...)</span>
+                    </p>
                     <p id="CountPoints" style="margin: auto; padding: 0px 15px 15px; font-size: 22px; font-weight: bold; text-align: center;">Points of Filtered: Loading...</p>
                     <p id="loadingText" style="margin: -10px auto auto; font-size: 16px; font-weight: bold; text-align: center;">Loading Table...</p>
                     <div style="margin: 10px auto 3px;">
@@ -1302,19 +1305,35 @@
                 {
                     var paidGames = filteredData.filter(obj => {return obj["gameType"] == 0});
                     var totalCost = 0;
+                    var initialCost = 0;
 
-                    paidGames.forEach(obj => {totalCost += obj["priceData"][activeCurrency]["final"]})
+                    paidGames.forEach(obj => {try{totalCost += obj["priceData"][activeCurrency]["final"]} catch{}})
+                    paidGames.forEach(obj => {try{initialCost += obj["priceData"][activeCurrency]["initial"]} catch{}})
 
                     totalCost = totalCost/100;
+                    initialCost = initialCost/100;
+                    var priceDifference = toFixed(initialCost - totalCost, 2)
 
-                    if(activeCurrency == "USD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: $" + totalCost}
-                    else if(activeCurrency == "EUR") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: " + totalCost + "€"}
-                    else if(activeCurrency == "GBP") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: £" + totalCost}
-                    else if(activeCurrency == "AUD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: A$" + totalCost}
-                    else if(activeCurrency == "CAD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: C$" + totalCost}
-                    else if(activeCurrency == "JPY") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: ¥" + totalCost}
+                    if(activeCurrency == "USD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: $" + totalCost + "<br><span style='font-size:12px'>(No discount: $" + initialCost + " - Difference: $" + priceDifference + ")</span>"}
+                    else if(activeCurrency == "EUR") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: " + totalCost + "€" + " <br><span style='font-size:12px'>(No discount: " + initialCost + "€ - Difference: " + priceDifference + "€)</span>"}
+                    else if(activeCurrency == "GBP") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: £" + totalCost + " <br><span style='font-size:12px'>(No discount: £" + initialCost + " - Difference: £" + priceDifference + ")</span>"}
+                    else if(activeCurrency == "AUD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: A$" + totalCost + " <br><span style='font-size:12px'>(No discount: A$" + initialCost + " - Difference: A$" + priceDifference + ")</span>"}
+                    else if(activeCurrency == "CAD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: C$" + totalCost + " <br><span style='font-size:12px'>(No discount: C$" + initialCost + " - Difference: C$" + priceDifference + ")</span>"}
+                    else if(activeCurrency == "JPY") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: ¥" + totalCost + " <br><span style='font-size:12px'>(No discount: ¥" + initialCost + " - Difference: ¥" + priceDifference + ")</span>"}
                 }
                 else {document.getElementById("CountCost").innerHTML = "Cost of Filtered: N/A"}
+
+                //Check for major discount
+                var discountCount = 0;
+                var paidGames = data.filter(obj => {return obj["gameType"] == 0});
+                paidGames.forEach(obj => {try{if(obj["priceData"][activeCurrency]["discountPercent"] > 0) {discountCount++}} catch{}})
+
+                if(discountCount > data.filter(obj => {return obj["gameType"] == 0}).length/4*3) {document.getElementById("CountCost").innerHTML += "<br><sub class='subtitle'>(<u>Major Sales Ongoing!</u> - >75% of paid games on sale!)</sub>"}
+                else if(discountCount > data.filter(obj => {return obj["gameType"] == 0}).length/3*2) {document.getElementById("CountCost").innerHTML += "<br><sub class='subtitle'>(<u>Major Sales Ongoing!</u> - >66% of paid games on sale!)</sub>"}
+                else if(discountCount > data.filter(obj => {return obj["gameType"] == 0}).length/2) {document.getElementById("CountCost").innerHTML += "<br><sub class='subtitle'>(<u>Medium Sales Ongoing!</u> - >50% of paid games on sale!)</sub>"}
+                else if(discountCount > data.filter(obj => {return obj["gameType"] == 0}).length/3) {document.getElementById("CountCost").innerHTML += "<br><sub class='subtitle'>(<u>Medium Sales Ongoing!</u> - >33% of paid games on sale!)</sub>"}
+                else if(discountCount > data.filter(obj => {return obj["gameType"] == 0}).length/4) {document.getElementById("CountCost").innerHTML += "<br><sub class='subtitle'>(<u>Minor Sales Ongoing!</u> - >25% of paid games on sale!)</sub>"}
+                else if(discountCount > data.filter(obj => {return obj["gameType"] == 0}).length/5) {document.getElementById("CountCost").innerHTML += "<br><sub class='subtitle'>(<u>Minor Sales Ongoing!</u> - >20% of paid games on sale!)</sub>"}
 
                 var totalPoints = 0;
 
@@ -1743,48 +1762,56 @@
                     }
                     if(filteredData[i]["gameType"] == 0)
                     {
-                        var basePrice = "";
-                        var salePrice = "";
-                        if(activeCurrency == "USD")
-                        {
-                            basePrice = "$" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
-                            salePrice = "$" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
+                        try{
+                            var basePrice = "";
+                            var salePrice = "";
+                            if(activeCurrency == "USD")
+                            {
+                                basePrice = "$" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
+                                salePrice = "$" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
+                            }
+                            else if(activeCurrency == "EUR")
+                            {
+                                basePrice = filteredData[i]["priceData"][activeCurrency]["initial"]/100 + "€";
+                                salePrice = filteredData[i]["priceData"][activeCurrency]["final"]/100 + "€";
+                            }
+                            else if(activeCurrency == "GBP")
+                            {
+                                basePrice = "£" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
+                                salePrice = "£" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
+                            }
+                            else if(activeCurrency == "AUD")
+                            {
+                                basePrice = "A$" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
+                                salePrice = "A$" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
+                            }
+                            else if(activeCurrency == "JPY")
+                            {
+                                basePrice = "¥" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
+                                salePrice = "¥" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
+                            }
+                            else if(activeCurrency == "CAD")
+                            {
+                                basePrice = "C$" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
+                                salePrice = "C$" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
+                            }
+                            
+                            if(filteredData[i]["priceData"][activeCurrency]["discountPercent"] != 0)
+                            {
+                                cellBasePrice.innerHTML = "<p style='text-decoration: line-through 1.5px; margin-bottom: 3px;'>" + basePrice + "</p><b>" + salePrice + "</b>";
+                                cellBasePrice.style.backgroundColor = "#32A85266";
+                                cellBasePrice.style.color = "#014A14";
+                            }
+                            else
+                            {
+                                cellBasePrice.innerHTML = basePrice;
+                            }
                         }
-                        else if(activeCurrency == "EUR")
+                        catch
                         {
-                            basePrice = filteredData[i]["priceData"][activeCurrency]["initial"]/100 + "€";
-                            salePrice = filteredData[i]["priceData"][activeCurrency]["final"]/100 + "€";
-                        }
-                        else if(activeCurrency == "GBP")
-                        {
-                            basePrice = "£" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
-                            salePrice = "£" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
-                        }
-                        else if(activeCurrency == "AUD")
-                        {
-                            basePrice = "A$" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
-                            salePrice = "A$" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
-                        }
-                        else if(activeCurrency == "JPY")
-                        {
-                            basePrice = "¥" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
-                            salePrice = "¥" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
-                        }
-                        else if(activeCurrency == "CAD")
-                        {
-                            basePrice = "C$" + filteredData[i]["priceData"][activeCurrency]["initial"]/100;
-                            salePrice = "C$" + filteredData[i]["priceData"][activeCurrency]["final"]/100;
-                        }
-                        
-                        if(filteredData[i]["priceData"][activeCurrency]["discountPercent"] != 0)
-                        {
-                            cellBasePrice.innerHTML = "<p style='text-decoration: line-through 1.5px; margin-bottom: 3px;'>" + basePrice + "</p><b>" + salePrice + "</b>";
-                            cellBasePrice.style.backgroundColor = "#32A85266";
-                            cellBasePrice.style.color = "#014A14";
-                        }
-                        else
-                        {
-                            cellBasePrice.innerHTML = basePrice;
+                            cellBasePrice.innerHTML = "N/A (Unavailable For " + activeCurrency + ")";
+                            cellBasePrice.style.color = "#ffffff";
+                            cellBasePrice.style.backgroundColor = "#000000aa";
                         }
                     }
                     else if(filteredData[i]["gameType"] == 1)
