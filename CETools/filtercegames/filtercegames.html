@@ -1245,7 +1245,7 @@
                     {
                         for(let j = 0; j < filteredData.length; j++)
                         {
-                            if(filteredData[j]["CEId"] == total["CEId"]) {console.log("removing " + filteredData[j]["name"]); return false;}
+                            if(filteredData[j]["CEId"] == total["CEId"]) {return false;}
                         }
                         return true;
                     }
