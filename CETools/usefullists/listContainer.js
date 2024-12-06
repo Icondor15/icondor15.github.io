@@ -155,7 +155,7 @@ var listInfo = [
         "name" : "Number One Fan (BIT.TRIP)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'BIT.TRIP' franchise. The CO is attached to 'BIT.TRIP BEAT'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'BIT.TRIP' franchise. The CO is attached to 'BIT.TRIP BEAT'.",
         "count" : 6,
         "link" : "../filtercegames/filtercegames.html?list=fZS0oY1GOCeWK83A8Y9K3AOt4CfHOJ.0"
     },
@@ -163,7 +163,7 @@ var listInfo = [
         "name" : "Number One Fan (FromSoft Soulslikes)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'FromSoft Soulslikes' franchise. The CO is attached to 'ELDEN RING'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'FromSoft Soulslikes' franchise. The CO is attached to 'ELDEN RING'.",
         "count" : 5,
         "link" : "../filtercegames/filtercegames.html?list=epKm3ADqCWobS9GCeIHM8Cg1Gu.0"
     },
@@ -171,7 +171,7 @@ var listInfo = [
         "name" : "Number One Fan (Devil May Cry)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Devil May Cry' franchise. The CO is attached to 'Devil May Cry HD Collection'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Devil May Cry' franchise. The CO is attached to 'Devil May Cry HD Collection'.",
         "count" : 2,
         "link" : "../filtercegames/filtercegames.html?list=fW4L3AOnKG"
     },
@@ -179,7 +179,7 @@ var listInfo = [
         "name" : "Number One Fan (Lovely Planet)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Lovely Planet' franchise. The CO is attached to 'Lovely Planet'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Lovely Planet' franchise. The CO is attached to 'Lovely Planet'.",
         "count" : 5,
         "link" : "../filtercegames/filtercegames.html?list=efXW3A41bP3AGs00oXO4U0obY5.40"
     },
@@ -187,7 +187,7 @@ var listInfo = [
         "name" : "Number One Fan (Mega Man)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Lovely Planet' franchise. The CO is attached to 'Mega Man Legacy Collection / ロックマン クラシックス コレクション'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Lovely Planet' franchise. The CO is attached to 'Mega Man Legacy Collection / ロックマン クラシックス コレクション'.",
         "count" : 4,
         "link" : "../filtercegames/filtercegames.html?list=fq8m3ADZH0oabGKCgPa2.0"
     },
@@ -195,7 +195,7 @@ var listInfo = [
         "name" : "Number One Fan (OlliOlli)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'OlliOlli' franchise. The CO is attached to 'OlliOlli'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'OlliOlli' franchise. The CO is attached to 'OlliOlli'.",
         "count" : 3,
         "link" : "../filtercegames/filtercegames.html?list=edGb3A4P0N3ADbPW"
     },
@@ -203,7 +203,7 @@ var listInfo = [
         "name" : "Number One Fan (Resident Evil)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Resident Evil' franchise. The CO is attached to 'Resident Evil'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Resident Evil' franchise. The CO is attached to 'Resident Evil'.",
         "count" : 6,
         "link" : "../filtercegames/filtercegames.html?list=emGa3AY3SGofKWOCeWK6KCebHm3AGODm"
     },
@@ -211,7 +211,7 @@ var listInfo = [
         "name" : "Number One Fan (Sonic the Hedgehog)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Sonic the Hedgehog' franchise. The CO is attached to 'Sonic Adventure DX'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Sonic the Hedgehog' franchise. The CO is attached to 'Sonic Adventure DX'.",
         "count" : 9,
         "link" : "../filtercegames/filtercegames.html?list=eX983A8JOGod4b3AOt40oZAKGCfOH03A82KmodXIOCfnD0"
     },
@@ -219,7 +219,7 @@ var listInfo = [
         "name" : "Number One Fan (Meat Boy)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Meat Boy' franchise. The CO is attached to 'The Basement Collection'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Meat Boy' franchise. The CO is attached to 'The Basement Collection'.",
         "count" : 3,
         "link" : "../filtercegames/filtercegames.html?list=f0W0obWMOCeXHv.0"
     },
@@ -227,7 +227,7 @@ var listInfo = [
         "name" : "Number One Fan (Trials)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Trials' franchise. The CO is attached to 'Trials 2: Second Edition'. Not all POs are required; Read the details of the CO for information on the required POs.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Trials' franchise. The CO is attached to 'Trials 2: Second Edition'. Not all POs are required; Read the details of the CO for information on the required POs.",
         "count" : 5,
         "link" : "../filtercegames/filtercegames.html?list=eMO0oY81OCeaL93AGrI0ocGG.80"
     },
@@ -235,7 +235,7 @@ var listInfo = [
         "name" : "Number One Fan (Trackmania)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Trackmania' franchise. The CO is attached to 'Trackmania'. Not all POs are required; Read the details of the CO for information on the required POs. (Also Trackmania DS Isn't in this list cause it's not in the franchises Google Sheets page. It may be required.)",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Trackmania' franchise. The CO is attached to 'Trackmania'. Not all POs are required; Read the details of the CO for information on the required POs. (Also Trackmania DS Isn't in this list cause it's not in the franchises Google Sheets page. It may be required.)",
         "count" : 8,
         "link" : "../filtercegames/filtercegames.html?list=fo0CetMG3A8eTWoc078CeZAH3A93DWoY8b1moX42.0"
     },
@@ -243,7 +243,7 @@ var listInfo = [
         "name" : "Number One Fan (Ys)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Ys' franchise. The CO is attached to 'Ys I'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Ys' franchise. The CO is attached to 'Ys I'.",
         "count" : 6,
         "link" : "../filtercegames/filtercegames.html?list=eYE13A8ZXmoY1pKCen9K3ALv60oY1p.20"
     },
@@ -251,7 +251,7 @@ var listInfo = [
         "name" : "Number One Fan (Rotund Rabbit)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Rotund Rabbit' franchise. The CO is attached to 'Rotund Takeoff'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Rotund Rabbit' franchise. The CO is attached to 'Rotund Takeoff'.",
         "count" : 3,
         "link" : "../filtercegames/filtercegames.html?list=eG07KCeK10WCeOY5.90"
     },
@@ -259,7 +259,7 @@ var listInfo = [
         "name" : "Number One Fan (Umihara Kawase)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Umihara Kawase' franchise. The CO is attached to 'Umihara Kawase'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Umihara Kawase' franchise. The CO is attached to 'Umihara Kawase'.",
         "count" : 4,
         "link" : "../filtercegames/filtercegames.html?list=etXr3AE4QGoX9oQ0oZX7.00"
     },
@@ -267,7 +267,7 @@ var listInfo = [
         "name" : "Number One Fan (Peggle)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Peggle' franchise. The CO is attached to 'Peggle Extreme'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Peggle' franchise. The CO is attached to 'Peggle Extreme'.",
         "count" : 3,
         "link" : "../filtercegames/filtercegames.html?list=eqWCerGCeq.83"
     },
@@ -275,7 +275,7 @@ var listInfo = [
         "name" : "Number One Fan (Touhou)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Touhou' franchise. The CO is attached to 'Touhou Fuujinroku ~ Mountain of Faith.'. Not all POs are required; Read the details of the CO for information on the required POs.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Touhou' franchise. The CO is attached to 'Touhou Fuujinroku ~ Mountain of Faith.'. Not all POs are required; Read the details of the CO for information on the required POs.",
         "count" : 10,
         "link" : "../filtercegames/filtercegames.html?list=eH01KCeH01GCeK884CgJTO3A47aM3A44Ca3A5MP13A4G0M3A44CZ3AT5Y0"
     },
@@ -283,7 +283,7 @@ var listInfo = [
         "name" : "Number One Fan (Eggcelerate!)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Eggcelerate!' franchise. The CO is attached to 'Eggcelerate!'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Eggcelerate!' franchise. The CO is attached to 'Eggcelerate!'.",
         "count" : 3,
         "link" : "../filtercegames/filtercegames.html?list=eLDKaCeY5Z8CeM8J.20"
     },
@@ -291,7 +291,7 @@ var listInfo = [
         "name" : "Number One Fan (LOST series)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'LOST series' franchise. The CO is attached to 'LOST EGG'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'LOST series' franchise. The CO is attached to 'LOST EGG'.",
         "count" : 5,
         "link" : "../filtercegames/filtercegames.html?list=eNb9KCeGc54CeLbq0CeYE7KCefWG.80"
     },
@@ -299,7 +299,7 @@ var listInfo = [
         "name" : "Number One Fan (Serious Sam)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Serious Sam' franchise. The CO is attached to 'Serious Sam HD: The First Encounter'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Serious Sam' franchise. The CO is attached to 'Serious Sam HD: The First Encounter'.",
         "count" : 6,
         "link" : "../filtercegames/filtercegames.html?list=f11moYLq8Cf100oXUI9GocG3GCf10G"
     },
@@ -307,7 +307,7 @@ var listInfo = [
         "name" : "Number One Fan (SUPERHOT)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'SUPERHOT' franchise. The CO is attached to 'SUPERHOT'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'SUPERHOT' franchise. The CO is attached to 'SUPERHOT'.",
         "count" : 3,
         "link" : "../filtercegames/filtercegames.html?list=eo9G3AONWmoca0.40"
     },
@@ -315,7 +315,7 @@ var listInfo = [
         "name" : "Number One Fan (Tasty Planet)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Tasty Planet' franchise. The CO is attached to 'Tasty Planet'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Tasty Planet' franchise. The CO is attached to 'Tasty Planet'.",
         "count" : 3,
         "link" : "../filtercegames/filtercegames.html?list=feTK3Ab60GoaHH.10"
     },
@@ -323,7 +323,7 @@ var listInfo = [
         "name" : "Number One Fan (Risk of Rain)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Risk of Rain' franchise. The CO is attached to 'Risk of Rain'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Risk of Rain' franchise. The CO is attached to 'Risk of Rain'.",
         "count" : 3,
         "link" : "../filtercegames/filtercegames.html?list=eaY23AOoDWoXCtKW"
     },
@@ -331,7 +331,7 @@ var listInfo = [
         "name" : "Number One Fan (Gran Turismo)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Gran Turismo' franchise. The CO is attached to 'Gran Turismo'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Gran Turismo' franchise. The CO is attached to 'Gran Turismo'.",
         "count" : 3,
         "link" : "../filtercegames/filtercegames.html?list=iHCWon4dZB85.80"
     },
@@ -339,7 +339,7 @@ var listInfo = [
         "name" : "Number One Fan (Crash Bandicoot)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Crash Bandicoot' franchise. The CO is attached to 'Crash Bandicoot™ N. Sane Trilogy'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Crash Bandicoot' franchise. The CO is attached to 'Crash Bandicoot™ N. Sane Trilogy'.",
         "count" : 6,
         "link" : "../filtercegames/filtercegames.html?list=eJU9aCfp593BKcona4FB491yiGGu"
     },
@@ -347,7 +347,7 @@ var listInfo = [
         "name" : "Number One Fan (Pokemon)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Pokemon' franchise. The CO is attached to 'Pokemon Puzzle Challenge'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Pokemon' franchise. The CO is attached to 'Pokemon Puzzle Challenge'.",
         "count" : 6,
         "link" : "../filtercegames/filtercegames.html?list=jcZB58KyjoRB42SCiKSNonHm.1"
     },
@@ -355,7 +355,7 @@ var listInfo = [
         "name" : "Number One Fan (Tetris)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Tetris' franchise. The CO is attached to 'Tetris'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Tetris' franchise. The CO is attached to 'Tetris'.",
         "count" : 7,
         "link" : "../filtercegames/filtercegames.html?list=eIMNaCfKO53A40DP3B575yiW8ijmGCiLY2"
     },
@@ -363,7 +363,7 @@ var listInfo = [
         "name" : "Number One Fan (Kururin)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Kururin' franchise. The CO is attached to 'Kuru Kuru Kururin'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Kururin' franchise. The CO is attached to 'Kuru Kuru Kururin'.",
         "count" : 3,
         "link" : "../filtercegames/filtercegames.html?list=jJTyiJToooL9.3"
     },
@@ -371,7 +371,7 @@ var listInfo = [
         "name" : "Number One Fan (N)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'N' franchise. The CO is attached to 'N++'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'N' franchise. The CO is attached to 'N++'.",
         "count" : 3,
         "link" : "../filtercegames/filtercegames.html?list=eZ0d3B5o5iit.33"
     },
@@ -379,9 +379,41 @@ var listInfo = [
         "name" : "Number One Fan (Urban Trial)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 29 franchises. Here they're all displayed separately. This is the 'Urban Trial' franchise. The CO is attached to 'Urban Trial Freestyle'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Urban Trial' franchise. The CO is attached to 'Urban Trial Freestyle'.",
         "count" : 3,
         "link" : "../filtercegames/filtercegames.html?list=eaD53Ac890oXE01W"
+    },
+    {
+        "name" : "Number One Fan (Mario)",
+        "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
+        "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Mario' franchise. The CO is attached to 'Super Mario Bros. Deluxe'.",
+        "count" : 5,
+        "link" : "../filtercegames/filtercegames.html?list=iKWKonI1NB8ZSyibFBSo"
+    },
+    {
+        "name" : "Number One Fan (Donkey Kong)",
+        "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
+        "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Donkey Kong' franchise. The CO is attached to 'Donkey Kong Country'.",
+        "count" : 5,
+        "link" : "../filtercegames/filtercegames.html?list=jr3BTIonI1JB585SiYDp"
+    },
+    {
+        "name" : "Number One Fan (Granny)",
+        "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
+        "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Granny' franchise. The CO is attached to 'Granny'.",
+        "count" : 3,
+        "link" : "../filtercegames/filtercegames.html?list=gM903A5mTL3A4WK4.0"
+    },
+    {
+        "name" : "Number One Fan (Kirby)",
+        "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
+        "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Kirby' franchise. The CO is attached to 'Kirby: Power Paintbrush | Kirby: Canvas Curse'.",
+        "count" : 3,
+        "link" : "../filtercegames/filtercegames.html?list=kORBS8os42"
     },
     {
         "name" : "Super Super Super Super Super Super Super Super Super Super Super Super Super Super Super Star",
@@ -420,8 +452,8 @@ var listInfo = [
         "icon" : "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1466860/3c96a502dae11a84e18b82b4325297fc8b957a53.jpg",
         "description": "Complete all primary objectives in one game featured on the steam curator for each of the 6 categories on CE.",
         "notes": "Use the 'Genre' filter to divide by... \"Category\".",
-        "count" : 88,
-        "link" : "../filtercegames/filtercegames.html?list=feX23A8p1G3AXNK0oaEKaCeHS0OCfGGZ3A9H4modCKaCeK0WaCeJY7SCecYH3A4IDt3A4uWZ3ADqCWoZb9SCeYPY3AGYbmoaP4KCeGLcaCfbC0oXKrIGoZ4MaCeIXG8CeX9e3AGZ8moZ47aCea1o3A4JcG3A4KKs3AMLUGoX1dSWoZPr8Cf3Sv3A4t1f3A5qE53AD2OGoX4dQ0oYGvSCeJIGOCf62L3A9L933A66Tq3A5WHu3AEI0moYC2SCeLCq8Cfe5J3AY140ofOMOCeHa1SCeuSf3A4X4H3A8Z553AQ84moYWOOCenD03ATq61ocCZOCffA93A4bCd3A4NXv3AP6LmoXG0aGoa65CCeo8P3A62YG3A8XP0od6PCCeI1HSCfO5c3ACYK0oYMMWCeG0raCfOD73ACXLWoXWOLmoYCf4Cfa483A45cP3Ac0Y0oY2PEGoe4OSCeJ16WCeW1H3AX6Xmoe2G8Cf5be3AOcQ0"
+        "count" : 87,
+        "link" : "../filtercegames/filtercegames.html?list=feX23A8p1G3AGvIGoX5m1Wob12CCeb4J3ASnIGoXG22GoXE8TmoYQ94CeH8tSCeJY2CCetGo3AEKbmoY9c8Cf2AN3AHaHGoX1MQGocKm3A5JL93ACHQGoXA50WoY4cWCf2CZ3ACGUGoYG78CeHEP0CeHHJOCfPLv3A46To3ADdKWoaDpaCeJS6aCeNGuKCeq9X3A4ITe3A93bmoXD91WoaO9KCebKaCCeOPtGCeM17WCev833A8m9moXKpGWocWLCCg84G3AbXPWoX6G5moZXoaCeI4H4CeYCKKCfeWJ3AA1XWoZ4q0CftGO7AOoDWocaeaCeIKoSCeHU7aCfaPN3A502H3AGOKmoZ8XaCeOA90CeY5a3ASPamoX855mobWMOCeo9G3A9PQ0oX03MGobWqSCeo5M3A61XN3A8oaGocGGWCeGMPaCgO283A89av3AWHXmoXC4Q0oY054Cg4Q73AW90WoaMMWCfYPe.0"
     },
     {
         "name" : "	Zookeeper",
