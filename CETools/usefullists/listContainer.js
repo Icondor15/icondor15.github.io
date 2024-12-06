@@ -235,7 +235,7 @@ var listInfo = [
         "name" : "Number One Fan (Trackmania)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Trackmania' franchise. The CO is attached to 'Trackmania'. Not all POs are required; Read the details of the CO for information on the required POs. (Also Trackmania DS Isn't in this list cause it's not in the franchises Google Sheets page. It may be required.)",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Trackmania' franchise. The CO is attached to 'Trackmania'. Not all POs are required; Read the details of the CO for information on the required POs. (Also Trackmania DS isn't in this list cause it's not in the franchises Google Sheets page. It may be required.)",
         "count" : 8,
         "link" : "../filtercegames/filtercegames.html?list=fo0CetMG3A8eTWoc078CeZAH3A93DWoY8b1moX42.0"
     },
@@ -387,7 +387,7 @@ var listInfo = [
         "name" : "Number One Fan (Mario)",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/20badd24a7a786763c332055d0cef3af844f2f51.jpg",
         "description": "Obtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.",
-        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Mario' franchise. The CO is attached to 'Super Mario Bros. Deluxe'.",
+        "notes": "Currently there's 33 franchises. Here they're all displayed separately. This is the 'Mario' franchise. The CO is attached to 'Super Mario Bros. Deluxe'. (Also Mario Kart: Double Dash isn't in this list cause it's not in the franchises Google Sheets page. It may be required.)",
         "count" : 5,
         "link" : "../filtercegames/filtercegames.html?list=iKWKonI1NB8ZSyibFBSo"
     },
