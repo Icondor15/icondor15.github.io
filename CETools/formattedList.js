@@ -71684,9 +71684,9 @@ var data =
         "points": 50,
         "createdAt": "2024-12-07T09:38:18.000Z",
         "updatedAt": "2024-12-07T11:47:50.000Z",
-        "playersCompleted": 0,
+        "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 1,
+        "playersTotal": 2,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -77155,7 +77155,7 @@ var date =
     "month": 12,
     "year": 2024,
     "hour": 17,
-    "minute": 1,
-    "second": 58,
-    "searchTime": 596.2109270095825
+    "minute": 12,
+    "second": 56,
+    "searchTime": 619.3017816543579
 }
