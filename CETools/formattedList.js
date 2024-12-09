@@ -48,7 +48,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Long-Awaited Sequel \u2605 5\nProve yourself.",
+            "primaryText": "Long-Awaited Sequel [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -102,7 +102,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "CEO of Awesome \u2605 10\nObtain all achievements.",
+            "primaryText": "CEO of Awesome [10\u2605]\nObtain all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 41
@@ -156,7 +156,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Microdasher \u2605 10\nComplete each world in under 2 minutes. / Complete each world without dying.",
+            "primaryText": "Microdasher [10\u2605]\nComplete each world in under 2 minutes. / Complete each world without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -210,7 +210,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Routing Ninja \u2605 15\nEarn 300 stars. / Get an X rank on all marathon modes.",
+            "primaryText": "Routing Ninja [15\u2605]\nEarn 300 stars. / Get an X rank on all marathon modes.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -264,7 +264,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "1001 Yikes \u2605 10\nProve yourself.",
+            "primaryText": "1001 Yikes [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -318,7 +318,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "v13 Bots \u2605 10\nObtain an item 11 times in a row without missing it. / Reach level 13.",
+            "primaryText": "v13 Bots [10\u2605]\nObtain an item 11 times in a row without missing it. / Reach level 13.",
             "community": 0,
             "communityText": "",
             "achievements": 7
@@ -372,7 +372,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "041 \u2605 15\nComplete all the mirror stages.",
+            "primaryText": "041 [15\u2605]\nComplete all the mirror stages.",
             "community": 0,
             "communityText": "",
             "achievements": 8
@@ -426,7 +426,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Manufactured Fragility \u2605 50\nClear level 3 with several modifiers toggled.\n\nMegalike \u2605 20\nComplete various challenge runs.\n\nBring the Heat \u2605 10\nProve yourself.",
+            "primaryText": "Manufactured Fragility [50\u2605]\nClear level 3 with several modifiers toggled.\n\nMegalike [20\u2605]\nComplete various challenge runs.\n\nBring the Heat [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -480,7 +480,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Where we're going, we don't need snow \u2605 25\nRecord a score of 1080 seconds in Infinite mode\n\nGridlocked \u2605 10\nClear all stages with one life.",
+            "primaryText": "Where we're going, we don't need snow [25\u2605]\nRecord a score of 1080 seconds in Infinite mode\n\nGridlocked [10\u2605]\nClear all stages with one life.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -534,7 +534,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "In a Pinch \u2605 10\nBeat the game in under 30 minutes.",
+            "primaryText": "In a Pinch [10\u2605]\nBeat the game in under 30 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -588,7 +588,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Square Dancer \u2605 20\nProve yourself.",
+            "primaryText": "Square Dancer [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -642,7 +642,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "9 Hours of Quality \u2605 5\nComplete the bestiary and beat the game.",
+            "primaryText": "9 Hours of Quality [5\u2605]\nComplete the bestiary and beat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -696,7 +696,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Oddly Specific \u2605 10\nDefeat 107 enemies in Endless Fighter Mode.",
+            "primaryText": "Oddly Specific [10\u2605]\nDefeat 107 enemies in Endless Fighter Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -750,7 +750,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Melody Master \u2605 130\nComplete every world with a Pure Perfect rating.\n\nTempo Artisan \u2605 70\nComplete every world in the Neo Cosmos DLC with a Pure Perfect rating.\n\nA Dance of Trial and Error \u2605 40\nObtain the speed trial lantern for every world in the Xtra, Crown and Muse Dash islands.\n\nHigh Guardian \u2605 20\nObtain the speed trial lantern for every world in the Neo Cosmos DLC.\n\nOrbitals on the Double \u2605 10\nObtain the speed trial lantern for Worlds 1 through 12 and beat World B.",
+            "primaryText": "Melody Master [130\u2605]\nComplete every world with a Pure Perfect rating.\n\nTempo Artisan [70\u2605]\nComplete every world in the Neo Cosmos DLC with a Pure Perfect rating.\n\nA Dance of Trial and Error [40\u2605]\nObtain the speed trial lantern for every world in the Xtra, Crown and Muse Dash islands.\n\nHigh Guardian [20\u2605]\nObtain the speed trial lantern for every world in the Neo Cosmos DLC.\n\nOrbitals on the Double [10\u2605]\nObtain the speed trial lantern for Worlds 1 through 12 and beat World B.",
             "community": 2,
             "communityText": "Hardcore Orbiter\nComplete every song on the Featured page with a Pure Perfect rating.\n\nHeavy Rotation\nObtain the speed trial lantern for every song on the Featured page on 1.0x speed.",
             "achievements": 44
@@ -804,7 +804,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Starting Over \u2605 10\nObtain the true ending.",
+            "primaryText": "Starting Over [10\u2605]\nObtain the true ending.",
             "community": 0,
             "communityText": "",
             "achievements": 2
@@ -858,7 +858,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Barely in Time \u2605 10\nObtain the Speedrun emblems for all possible levels.\n\nZero Jumps 2: Electric Boogaloo \u2605 10\nObtain the Zero Jumps emblems for all possible levels.\n\nTimeless End \u2605 55 (Partial: \u2605 5)\nObtain all 114 Death Wish stamps without using \"Peace and Tranquility\" mode or any mods.",
+            "primaryText": "Barely in Time [10\u2605]\nObtain the Speedrun emblems for all possible levels.\n\nZero Jumps 2: Electric Boogaloo [10\u2605]\nObtain the Zero Jumps emblems for all possible levels.\n\nTimeless End[55\u2605  (Partial: 5\u2605)]\nObtain all 114 Death Wish stamps without using \"Peace and Tranquility\" mode or any mods.",
             "community": 2,
             "communityText": "To End All Contracts\nObtain all 114 Death Wish stamps without dying.\n\nYour Contract Has Expired\nBeat \"Seal the Deal\" with the One-Hit Hero badge equipped or without taking damage.",
             "achievements": 46
@@ -913,7 +913,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Live Twice, Die Thrice \u2605 5\nComplete the TRIAL and EX MAIN modes.",
+            "primaryText": "Live Twice, Die Thrice [5\u2605]\nComplete the TRIAL and EX MAIN modes.",
             "community": 1,
             "communityText": "Trials of Mana\nComplete TRIAL mode without any upgrades.",
             "achievements": 13
@@ -968,7 +968,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "My Strongest Potions \u2605 15\nUnlock all achievements.",
+            "primaryText": "My Strongest Potions [15\u2605]\nUnlock all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 38
@@ -1022,7 +1022,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Last Protector \u2605 10\nSeperately, beat each boss in anvil mode, in under 2 minutes, and in a row without taking damage.",
+            "primaryText": "Last Protector [10\u2605]\nSeperately, beat each boss in anvil mode, in under 2 minutes, and in a row without taking damage.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -1076,7 +1076,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Nathan Pay Denbts \u2605 35\nProve yourself.",
+            "primaryText": "Nathan Pay Denbts [35\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -1130,7 +1130,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "No Mere Mortal \u2605 20\nComplete the \"Challenge Room\" challenge.",
+            "primaryText": "No Mere Mortal [20\u2605]\nComplete the \"Challenge Room\" challenge.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -1184,7 +1184,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Super Meatroid \u2605 15\nComplete the game with a completion rate of less than 15%. / Defeat the MegaBeast Core with a completion rate of 100% in under 60 minutes.\n\nSuper Fighting Robot \u2605 5\nComplete Mega Map. / Complete the boss rush. / Complete Exterminator.",
+            "primaryText": "Super Meatroid [15\u2605]\nComplete the game with a completion rate of less than 15%. / Defeat the MegaBeast Core with a completion rate of 100% in under 60 minutes.\n\nSuper Fighting Robot [5\u2605]\nComplete Mega Map. / Complete the boss rush. / Complete Exterminator.",
             "community": 2,
             "communityText": "Hoover Flags\nComplete the game with a completion rate of 0% without using The Thief.\n\nPoorly Prepared\nComplete the game with a completion rate of less than 15%, without using The Thief.",
             "achievements": 84
@@ -1203,7 +1203,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 71,
         "playersStarted": 0,
-        "playersTotal": 608,
+        "playersTotal": 609,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -1238,7 +1238,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mr. Beam \u2605 10\nEarn a gold medal on all Time Trial levels. / Complete all areas without failing.",
+            "primaryText": "Mr. Beam [10\u2605]\nEarn a gold medal on all Time Trial levels. / Complete all areas without failing.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -1292,7 +1292,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fearless Feline \u2605 15\nProve yourself.",
+            "primaryText": "Fearless Feline [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -1346,7 +1346,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "N\u00b0 751: 2-Week-Old Unrefrigerated Pie \u2605 5\nWin with the cancer character in under 45 minutes.",
+            "primaryText": "N\u00b0 751: 2-Week-Old Unrefrigerated Pie [5\u2605]\nWin with the cancer character in under 45 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -1401,7 +1401,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Minerva \u2605 15\nComplete all challenge levels.\n\nVodaigon \u2605 15\nClear all story mode levels. / Beat story mode with 50,000 gold in stash. / Finish the memory game. / Reach Osilis without any upgrades during the easy route.",
+            "primaryText": "Minerva [15\u2605]\nComplete all challenge levels.\n\nVodaigon [15\u2605]\nClear all story mode levels. / Beat story mode with 50,000 gold in stash. / Finish the memory game. / Reach Osilis without any upgrades during the easy route.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -1455,7 +1455,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Master Star Tracer \u2605 10\nEarn 105 stars on Master.",
+            "primaryText": "Master Star Tracer [10\u2605]\nEarn 105 stars on Master.",
             "community": 0,
             "communityText": "",
             "achievements": 92
@@ -1509,7 +1509,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Skid Marks \u2605 20\nComplete all event challenges in the game.",
+            "primaryText": "Skid Marks [20\u2605]\nComplete all event challenges in the game.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -1563,7 +1563,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Savior of the Life Tree \u2605 15\nComplete \"War of the Branches\" on Invernal difficulty. / Complete \"Invernal Spiral\" on Invernal difficulty without accepting Cardrasil's Gift. / Obtain an S rank or higher on all adventures in \"Winter\".",
+            "primaryText": "Savior of the Life Tree [15\u2605]\nComplete \"War of the Branches\" on Invernal difficulty. / Complete \"Invernal Spiral\" on Invernal difficulty without accepting Cardrasil's Gift. / Obtain an S rank or higher on all adventures in \"Winter\".",
             "community": 0,
             "communityText": "",
             "achievements": 67
@@ -1582,7 +1582,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
-        "playersTotal": 180,
+        "playersTotal": 181,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -1617,7 +1617,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Henky-Dory \u2605 35\nBeat Action Henk in The City. / Beat all bonus levels. / Earn a rainbow medal on all levels.",
+            "primaryText": "Henky-Dory [35\u2605]\nBeat Action Henk in The City. / Beat all bonus levels. / Earn a rainbow medal on all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -1671,7 +1671,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Unyielding (BORDERLINE) \u2605 5\nReach the end of the endless mode mix song.",
+            "primaryText": "Unyielding (BORDERLINE) [5\u2605]\nReach the end of the endless mode mix song.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -1726,7 +1726,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "The Show Must Go On \u2605 25\nDefeat all bosses without taking any damage during the fight. / Beat the game in under 5 hours.\n\nAeternal King \u2605 15\nDefeat all bosses and complete the Temple of the Kings.\n\nEncore \u2605 10\nObtain the platinum medal on all time trials and Defeat Garibaldi (Final).",
+            "primaryText": "The Show Must Go On [25\u2605]\nDefeat all bosses without taking any damage during the fight. / Beat the game in under 5 hours.\n\nAeternal King [15\u2605]\nDefeat all bosses and complete the Temple of the Kings.\n\nEncore [10\u2605]\nObtain the platinum medal on all time trials and Defeat Garibaldi (Final).",
             "community": 0,
             "communityText": "",
             "achievements": 101
@@ -1780,7 +1780,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Vincible Lunatic \u2605 5\nComplete Story mode on Lunatic difficulty without continues and clear the extra stage on Lunatic difficulty.\n\nInvincible Lunatic (UNCLEARED) \u2605 1\nComplete Story mode on Lunatic difficulty without getting hit and without using bombs.",
+            "primaryText": "Vincible Lunatic [5\u2605]\nComplete Story mode on Lunatic difficulty without continues and clear the extra stage on Lunatic difficulty.\n\nInvincible Lunatic (UNCLEARED) [1\u2605]\nComplete Story mode on Lunatic difficulty without getting hit and without using bombs.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -1834,7 +1834,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Pantheon of Engardin \u2605 30\nDefeat the All Bosses Tag Match in Trial of Soul with a \"Perfect\" hit score.\n\nTitan Vanquisher \u2605 15\nDefeat all bosses individually in Trial of Soul with \"Perfect\" hit scores.\n\nTrials of the Ancient \u2605 10\nDefeat all boss Combinations in Trial of Soul with \"Perfect\" hit scores.",
+            "primaryText": "Pantheon of Engardin [30\u2605]\nDefeat the All Bosses Tag Match in Trial of Soul with a \"Perfect\" hit score.\n\nTitan Vanquisher [15\u2605]\nDefeat all bosses individually in Trial of Soul with \"Perfect\" hit scores.\n\nTrials of the Ancient [10\u2605]\nDefeat all boss Combinations in Trial of Soul with \"Perfect\" hit scores.",
             "community": 0,
             "communityText": "",
             "achievements": 46
@@ -1888,7 +1888,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Downpour \u2605 10\nFinish the game on Hard mode.",
+            "primaryText": "The Downpour [10\u2605]\nFinish the game on Hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -1942,7 +1942,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Aim God \u2605 40\nBeat TRUE AIM.\n\nAim Expert \u2605 35\nBeat PRO AIM.",
+            "primaryText": "Aim God [40\u2605]\nBeat TRUE AIM.\n\nAim Expert [35\u2605]\nBeat PRO AIM.",
             "community": 0,
             "communityText": "",
             "achievements": 4
@@ -1996,7 +1996,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Clocktopus \u2605 10\nBeat the game in 60 minutes or less.\n\nCephaloGod \u2605 10\nReach 101% in-game completion.",
+            "primaryText": "Clocktopus [10\u2605]\nBeat the game in 60 minutes or less.\n\nCephaloGod [10\u2605]\nReach 101% in-game completion.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -2050,7 +2050,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bathroom Break \u2605 10\nObtain both endings.",
+            "primaryText": "Bathroom Break [10\u2605]\nObtain both endings.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -2104,7 +2104,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mega-Tokyo Slasher \u2605 15\nComplete all achievements.",
+            "primaryText": "Mega-Tokyo Slasher [15\u2605]\nComplete all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -2158,7 +2158,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Martian Mass Slaughter \u2605 10\nScore one million points in survival mode.",
+            "primaryText": "Martian Mass Slaughter [10\u2605]\nScore one million points in survival mode.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -2176,8 +2176,8 @@ var data =
         "createdAt": "2022-05-05T04:29:49.000Z",
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
-        "playersStarted": 32,
-        "playersTotal": 285,
+        "playersStarted": 33,
+        "playersTotal": 286,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -2212,7 +2212,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Survival In a Nightmare \u2605 15\nComplete the game on \"Nightmare\" difficulty.\n\nNatural Born Survivor \u2605 5\nComplete the game on at least \"Hard\" difficulty. ",
+            "primaryText": "Survival In a Nightmare [15\u2605]\nComplete the game on \"Nightmare\" difficulty.\n\nNatural Born Survivor [5\u2605]\nComplete the game on at least \"Hard\" difficulty. ",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -2266,7 +2266,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Genres Go Alien Run \u2605 10\nBeat all of Worlds. / Beat all of Boss Rush Mode.",
+            "primaryText": "Genres Go Alien Run [10\u2605]\nBeat all of Worlds. / Beat all of Boss Rush Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -2285,7 +2285,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 42,
+        "playersTotal": 43,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -2315,7 +2315,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Campaigning for War \u2605 10\nComplete all campaigns on Nightmare difficulty.",
+            "primaryText": "Campaigning for War [10\u2605]\nComplete all campaigns on Nightmare difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -2369,7 +2369,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sodium Soliloquy \u2605 20 (Partial: \u2605 15)\nBeat the game in under 1 hour; Complete Ending C; 100% the \"Gauntlet\" custom levels",
+            "primaryText": "Sodium Soliloquy[20\u2605  (Partial: 15\u2605)]\nBeat the game in under 1 hour; Complete Ending C; 100% the \"Gauntlet\" custom levels",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -2423,7 +2423,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Outside Calculations \u2605 15\nDo a 1 Credit Clear on Hard.\n\nSatariel Theory \u2605 40\nDo 1 Credit Clears under special circumstances.",
+            "primaryText": "Outside Calculations [15\u2605]\nDo a 1 Credit Clear on Hard.\n\nSatariel Theory [40\u2605]\nDo 1 Credit Clears under special circumstances.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -2477,7 +2477,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Super Tofu Boy \u2605 5\nEarn all stars.",
+            "primaryText": "Super Tofu Boy [5\u2605]\nEarn all stars.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -2531,7 +2531,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Knightly Avoidance \u2605 10\nProve yourself.",
+            "primaryText": "Knightly Avoidance [10\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "You Have Chosen Death\nComplete \"WTF_HELL\" without skipping the map.",
             "achievements": 22
@@ -2585,7 +2585,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Zoe in the Zone \u2605 20\nFinish the game in less than 120 minutes and with less than 5 deaths.",
+            "primaryText": "Zoe in the Zone [20\u2605]\nFinish the game in less than 120 minutes and with less than 5 deaths.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -2639,7 +2639,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Spiral into Madness \u2605 65\nCollect all moons and beat every par time in the Spire of Trials without assist options.\n\nAmber's Slumber \u2605 20 (Partial: \u2605 5)\nCollect all moons and beat every par time in Amber\u2019s Descent and Community Pioneers without assist options.  ",
+            "primaryText": "Spiral into Madness [65\u2605]\nCollect all moons and beat every par time in the Spire of Trials without assist options.\n\nAmber's Slumber[20\u2605  (Partial: 5\u2605)]\nCollect all moons and beat every par time in Amber\u2019s Descent and Community Pioneers without assist options.  ",
             "community": 1,
             "communityText": "Peak Despair\nFinish Depths of Despair without dying and with no assist options active.",
             "achievements": 19
@@ -2659,7 +2659,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 133,
+        "playersTotal": 134,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -2694,7 +2694,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Remembrance \u2605 10\nComplete the game in under 2 hours and 15 minutes.",
+            "primaryText": "Remembrance [10\u2605]\nComplete the game in under 2 hours and 15 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 41
@@ -2748,7 +2748,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Octopus Prime \u2605 10\nComplete the game without dying.\n\nI'm Trippin' Balls \u2605 5\nComplete Impossible Mode.",
+            "primaryText": "Octopus Prime [10\u2605]\nComplete the game without dying.\n\nI'm Trippin' Balls [5\u2605]\nComplete Impossible Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -2802,7 +2802,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Master Rioter \u2605 10\nObtain all S ranks.",
+            "primaryText": "Master Rioter [10\u2605]\nObtain all S ranks.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -2856,7 +2856,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Crazy Little Thing Called Move \u2605 30 (Partial: \u2605 10)\nEarn all gold stamps.",
+            "primaryText": "Crazy Little Thing Called Move[30\u2605  (Partial: 10\u2605)]\nEarn all gold stamps.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -2910,7 +2910,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "From 1992 with Love \u2605 10\nBeat the game in \"Android\" difficulty without using continues.",
+            "primaryText": "From 1992 with Love [10\u2605]\nBeat the game in \"Android\" difficulty without using continues.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -2964,7 +2964,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Angel at Dawn \u2605 20\nGet all relevant Flawless medals on Original mode.\n\nBare Bones \u2605 10\nDestroy the Angel of Eternity on Original mode.",
+            "primaryText": "Angel at Dawn [20\u2605]\nGet all relevant Flawless medals on Original mode.\n\nBare Bones [10\u2605]\nDestroy the Angel of Eternity on Original mode.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -3019,7 +3019,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Angry Feet \u2605 5\nEarn every star.",
+            "primaryText": "Angry Feet [5\u2605]\nEarn every star.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -3073,7 +3073,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Anger Management \u2605 130\nBeat the game on YOLO difficulty.\n\nComplete Badass \u2605 50\nBeat the game on Impossible difficulty.",
+            "primaryText": "Anger Management [130\u2605]\nBeat the game on YOLO difficulty.\n\nComplete Badass [50\u2605]\nBeat the game on Impossible difficulty.",
             "community": 1,
             "communityText": "Made of Anger\nBeat the game on YOLO difficulty without using quit to menu.",
             "achievements": 19
@@ -3127,7 +3127,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Lord of the Nerds (UNCLEARED) \u2605 1\nBeat Tower of Torment on One Credit Champ difficulty.\n\nTurbo Ass (UNCLEARED) \u2605 1\nBeat Angry Video Game Nerd II: Assimilation on One Credit Champ difficulty.\n\nAngry Video Game Champ (UNCLEARED) \u2605 1\nBeat Angry Video Game Nerd Adventures on One Credit Champ difficulty.\n\nWreck-It Rolfe \u2605 30\nObtain a Perfect rank on all levels on Fucking Insane difficulty.",
+            "primaryText": "Lord of the Nerds (UNCLEARED) [1\u2605]\nBeat Tower of Torment on One Credit Champ difficulty.\n\nTurbo Ass (UNCLEARED) [1\u2605]\nBeat Angry Video Game Nerd II: Assimilation on One Credit Champ difficulty.\n\nAngry Video Game Champ (UNCLEARED) [1\u2605]\nBeat Angry Video Game Nerd Adventures on One Credit Champ difficulty.\n\nWreck-It Rolfe [30\u2605]\nObtain a Perfect rank on all levels on Fucking Insane difficulty.",
             "community": 1,
             "communityText": "Angriest Video Game Nerd\nReach 100% in-game completion on One Credit Champ difficulty.",
             "achievements": 20
@@ -3181,7 +3181,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Diarrhea Dump in His Ear \u2605 20\nBeat the game on F***ing Impossible difficulty.",
+            "primaryText": "Diarrhea Dump in His Ear [20\u2605]\nBeat the game on F***ing Impossible difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -3235,7 +3235,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Another Puzzle Platformer Speedrun \u2605 5\nComplete the game in under 12 minutes.",
+            "primaryText": "Another Puzzle Platformer Speedrun [5\u2605]\nComplete the game in under 12 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 8
@@ -3289,7 +3289,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Prime Ape \u2605 110\nObtain the Perfect and Pacifist badges on all hard discs.\n\nDiscs Out for Harambe \u2605 25\nObtain the Perfect and Pacifist badges on all normal discs.\n\nApe Escape \u2605 90\nComplete Arcade mode on all hard discs.",
+            "primaryText": "Prime Ape [110\u2605]\nObtain the Perfect and Pacifist badges on all hard discs.\n\nDiscs Out for Harambe [25\u2605]\nObtain the Perfect and Pacifist badges on all normal discs.\n\nApe Escape [90\u2605]\nComplete Arcade mode on all hard discs.",
             "community": 4,
             "communityText": "Escape Artist\nComplete Arcade mode on all normal discs in disc order without restarting, quitting or using glitches at any point.\n\nMade of Apes\nComplete Arcade mode on all hard discs in disc order without restarting, quitting or using glitches at any point.\n\nOh Banana!\nCollect the banana on all normal and hard discs, and beat the secret minigame.\n\nSmash Hitless\nComplete the single on both normal and hard mode without getting hit and without using glitches.",
             "achievements": 23
@@ -3343,7 +3343,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Juanito Go Pang Pang! \u2605 10\nBeat all the levels in Hardcore Mode.",
+            "primaryText": "Juanito Go Pang Pang! [10\u2605]\nBeat all the levels in Hardcore Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 81
@@ -3397,7 +3397,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Wizard on the Links \u2605 5\nObtain all achievements.",
+            "primaryText": "Wizard on the Links [5\u2605]\nObtain all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -3451,7 +3451,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Kali Ma \u2605 15\nGet all of the speedrun and deathless medals.",
+            "primaryText": "Kali Ma [15\u2605]\nGet all of the speedrun and deathless medals.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -3506,7 +3506,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Arch of Valor \u2605 5\nSeparately, complete every trial and beat the game on Hard.",
+            "primaryText": "Arch of Valor [5\u2605]\nSeparately, complete every trial and beat the game on Hard.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -3560,7 +3560,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Humanity Lost \u2605 20\nComplete the game without dying.\n\nInto the Deep \u2605 5\nClear the game and finish the hidden level.",
+            "primaryText": "Humanity Lost [20\u2605]\nComplete the game without dying.\n\nInto the Deep [5\u2605]\nClear the game and finish the hidden level.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -3579,7 +3579,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
-        "playersTotal": 24,
+        "playersTotal": 25,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -3614,7 +3614,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Don't Dead, Open Inside \u2605 15\nComplete the main game on Apocalyptic difficulty.\n\nDamn It \u2605 10\nComplete The Damned DLC on Apocalyptic difficulty.\n\nDead Man Walking \u2605 5\nComplete Dead Man DLC on Apocalyptic difficulty.",
+            "primaryText": "Don't Dead, Open Inside [15\u2605]\nComplete the main game on Apocalyptic difficulty.\n\nDamn It [10\u2605]\nComplete The Damned DLC on Apocalyptic difficulty.\n\nDead Man Walking [5\u2605]\nComplete Dead Man DLC on Apocalyptic difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -3668,7 +3668,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Silver Chariot \u2605 35\nBeat the game on Hard or higher with a maximum of 5 hits taken.\n\nCopper Machine \u2605 15\nBeat the game on Normal or higher with a maximum of 5 hits taken.\n\nNeo Roland Turmoil (UNCLEARED) \u2605 1\nBeat the game on Insane with a maximum of 5 hits taken.",
+            "primaryText": "Silver Chariot [35\u2605]\nBeat the game on Hard or higher with a maximum of 5 hits taken.\n\nCopper Machine [15\u2605]\nBeat the game on Normal or higher with a maximum of 5 hits taken.\n\nNeo Roland Turmoil (UNCLEARED) [1\u2605]\nBeat the game on Insane with a maximum of 5 hits taken.",
             "community": 0,
             "communityText": "",
             "achievements": 41
@@ -3722,7 +3722,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Alea Iacta Est \u2605 15\nObtain an S rank on every mission.",
+            "primaryText": "Alea Iacta Est [15\u2605]\nObtain an S rank on every mission.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -3776,7 +3776,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Snowy Mountain King \u2605 5\nBeat the game in 15 minutes or less.",
+            "primaryText": "Snowy Mountain King [5\u2605]\nBeat the game in 15 minutes or less.",
             "community": 1,
             "communityText": "You Really Couldn't Find Any Better Way to Spend Your Time?\nSeriously, go outside or something.",
             "achievements": 17
@@ -3830,7 +3830,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Child of Ash \u2605 20\nDefeat Riak and Sissna in Children of Sissna Mode.",
+            "primaryText": "Child of Ash [20\u2605]\nDefeat Riak and Sissna in Children of Sissna Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -3884,7 +3884,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Assault Android Awesome+ \u2605 20\nEarn an S+ ranking on all Campaign+ levels.\n\nAssault Battery Charge \u2605 20\nComplete Boss Rush mode. / Reach layer 25 in Infinity Drive mode. / Earn an S+ ranking on all campaign levels.\n\nOppenheimer \u2605 10\nEarn an S+ rank on Boss Rush.\n\nDuracell Delver (UNCLEARED) \u2605 1\nComplete Infinity Drive Mode.\n\nOvercharge/Overkill (UNCLEARED) \u2605 1\nEarn an S+ ranking on all Campaign+ levels with all characters.",
+            "primaryText": "Assault Android Awesome+ [20\u2605]\nEarn an S+ ranking on all Campaign+ levels.\n\nAssault Battery Charge [20\u2605]\nComplete Boss Rush mode. / Reach layer 25 in Infinity Drive mode. / Earn an S+ ranking on all campaign levels.\n\nOppenheimer [10\u2605]\nEarn an S+ rank on Boss Rush.\n\nDuracell Delver (UNCLEARED) [1\u2605]\nComplete Infinity Drive Mode.\n\nOvercharge/Overkill (UNCLEARED) [1\u2605]\nEarn an S+ ranking on all Campaign+ levels with all characters.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -3938,7 +3938,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Ultimate Ace \u2605 15\nClear the game without taking a hit.\n\nFull Impact \u2605 5\nClear Original Full.",
+            "primaryText": "Ultimate Ace [15\u2605]\nClear the game without taking a hit.\n\nFull Impact [5\u2605]\nClear Original Full.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -3992,7 +3992,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "True Titan \u2605 15\nUnlock everything and beat all modes.",
+            "primaryText": "True Titan [15\u2605]\nUnlock everything and beat all modes.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -4046,7 +4046,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Lucis Force \u2605 35\nClear HARD with less than 50k damage taken total.",
+            "primaryText": "Lucis Force [35\u2605]\nClear HARD with less than 50k damage taken total.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -4100,7 +4100,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fasteroid \u2605 5\nAchieve a Divine time on all levels.",
+            "primaryText": "Fasteroid [5\u2605]\nAchieve a Divine time on all levels.",
             "community": 1,
             "communityText": "In the Nick of Time\nBeat Nick's Time of 7:21:64.",
             "achievements": 32
@@ -4154,7 +4154,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Star Doge \u2605 20\nGet all S ranks.",
+            "primaryText": "Star Doge [20\u2605]\nGet all S ranks.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -4208,7 +4208,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Uroboros \u2605 10\nDefeat \"MANTLEWYRM\".",
+            "primaryText": "Uroboros [10\u2605]\nDefeat \"MANTLEWYRM\".",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -4262,7 +4262,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Unit 300-21 is Warming \u2605 10\nSeparately; beat the game without increasing your max health and beat the game with the initial stick.",
+            "primaryText": "Unit 300-21 is Warming [10\u2605]\nSeparately; beat the game without increasing your max health and beat the game with the initial stick.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -4316,7 +4316,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Glass World \u2605 15\nBeat the game on One Hit difficulty.\n\nTaken Back \u2605 15\nBeat the game on Hell difficulty.",
+            "primaryText": "Glass World [15\u2605]\nBeat the game on One Hit difficulty.\n\nTaken Back [15\u2605]\nBeat the game on Hell difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 86
@@ -4370,7 +4370,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Nuclear Harvest \u2605 60\nBeat year 10 with Robusta.",
+            "primaryText": "Nuclear Harvest [60\u2605]\nBeat year 10 with Robusta.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -4424,7 +4424,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Atomik Scavenger \u2605 25\nProve yourself.",
+            "primaryText": "Atomik Scavenger [25\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -4478,7 +4478,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Certified Misanthrope \u2605 5\nProve yourself.",
+            "primaryText": "Certified Misanthrope [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -4532,7 +4532,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "I AM the Manager \u2605 5\nComplete the game with at least five Kurses and no Kushions active.",
+            "primaryText": "I AM the Manager [5\u2605]\nComplete the game with at least five Kurses and no Kushions active.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -4586,7 +4586,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "No Shot Missed \u2605 30\nObtain gold stars on all songs on \"Expert\" difficulty.\n\nRhythmic Expert \u2605 20\nObtain 5 stars on all main songs on \"Expert\" difficulty.\n\nJust Beat It \u2605 10\nClear the campaign on \"Expert\" difficulty.",
+            "primaryText": "No Shot Missed [30\u2605]\nObtain gold stars on all songs on \"Expert\" difficulty.\n\nRhythmic Expert [20\u2605]\nObtain 5 stars on all main songs on \"Expert\" difficulty.\n\nJust Beat It [10\u2605]\nClear the campaign on \"Expert\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -4641,7 +4641,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Who's That Automon? \u2605 5\nClear difficulty 10.",
+            "primaryText": "Who's That Automon? [5\u2605]\nClear difficulty 10.",
             "community": 0,
             "communityText": "",
             "achievements": 56
@@ -4695,7 +4695,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "T\u039eMP\u00d8R\u0394L \u0394N\u00d8M\u0394LY \u2605 45\nPlay through each tempo in a row without dying.\n\nD\u0394NCING IN TH\u039e V\u00d8ID \u2605 45\nComplete all sectors in Hardcore mode at x2.00 tempo\n\nG\u00d8 TH\u039e DIST\u0394NC\u039e \u2605 30\nProve yourself.\n\nPRIM\u0394RY \u00d8BJ\u039eCTIV\u039e \u2605 10\nComplete all sectors in normal mode at x2.00 tempo",
+            "primaryText": "T\u039eMP\u00d8R\u0394L \u0394N\u00d8M\u0394LY [45\u2605]\nPlay through each tempo in a row without dying.\n\nD\u0394NCING IN TH\u039e V\u00d8ID [45\u2605]\nComplete all sectors in Hardcore mode at x2.00 tempo\n\nG\u00d8 TH\u039e DIST\u0394NC\u039e [30\u2605]\nProve yourself.\n\nPRIM\u0394RY \u00d8BJ\u039eCTIV\u039e [10\u2605]\nComplete all sectors in normal mode at x2.00 tempo",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -4750,7 +4750,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Avoid This Objective \u2605 50\nScore 100,000 on all endless levels.\n\nAvoided Everything \u2605 30\nGet the maximum score in all levels. ",
+            "primaryText": "Avoid This Objective [50\u2605]\nScore 100,000 on all endless levels.\n\nAvoided Everything [30\u2605]\nGet the maximum score in all levels. ",
             "community": 0,
             "communityText": "",
             "achievements": 52
@@ -4804,7 +4804,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Biomechanoid Glitch \u2605 10\nComplete the game without dying more than once. / Complete the game with under 40% of all items. / Complete the entire game in under 4 hours.",
+            "primaryText": "Biomechanoid Glitch [10\u2605]\nComplete the game without dying more than once. / Complete the game with under 40% of all items. / Complete the entire game in under 4 hours.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -4858,7 +4858,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Wet Behind the Ears \u2605 10\nComplete all levels without dying.",
+            "primaryText": "Wet Behind the Ears [10\u2605]\nComplete all levels without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 6
@@ -4912,7 +4912,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Azure Lunatic \u2605 25\nProve yourself.",
+            "primaryText": "Azure Lunatic [25\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -4966,7 +4966,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gunvoltage \u2605 15\nObtain S+ rank in all stages. / Complete all the Challenges in the game.",
+            "primaryText": "Gunvoltage [15\u2605]\nObtain S+ rank in all stages. / Complete all the Challenges in the game.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -5020,7 +5020,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Darkest Tide \u2605 5\nClear Stage 7 on Insane.",
+            "primaryText": "Darkest Tide [5\u2605]\nClear Stage 7 on Insane.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -5074,7 +5074,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Raider \u2605 5\nComplete Time Attack without dying.",
+            "primaryText": "Raider [5\u2605]\nComplete Time Attack without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -5128,7 +5128,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Impenetrable Army \u2605 10\nBeat the game on Hard or higher without losing a commander.\n\nCataclysm \u2605 5\nBeat the game on Very Hard.",
+            "primaryText": "Impenetrable Army [10\u2605]\nBeat the game on Hard or higher without losing a commander.\n\nCataclysm [5\u2605]\nBeat the game on Very Hard.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -5182,7 +5182,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "We Are The Saviours \u2605 60\nSave 3000 clones in total in co-op. / Complete 300 missions in co-op.\n\nMission Possible \u2605 40\nComplete all 300 Missions (excluding \"Eternal Day\").",
+            "primaryText": "We Are The Saviours [60\u2605]\nSave 3000 clones in total in co-op. / Complete 300 missions in co-op.\n\nMission Possible [40\u2605]\nComplete all 300 Missions (excluding \"Eternal Day\").",
             "community": 1,
             "communityText": "An Everlasting Day\nComplete all \"Eternal Day\" missions.",
             "achievements": 78
@@ -5236,7 +5236,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ye Olde Wheeler \u2605 25 (Partial: \u2605 15)\nBeat all levels in Hardcore mode. / Find all Collectables. / Beat all levels without dying.",
+            "primaryText": "Ye Olde Wheeler[25\u2605  (Partial: 15\u2605)]\nBeat all levels in Hardcore mode. / Find all Collectables. / Beat all levels without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -5290,7 +5290,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Card Shark \u2605 10\nComplete every challenge.\n\nRunning Good \u2605 5\nComplete Black Deck on Gold Stake difficulty.",
+            "primaryText": "Card Shark [10\u2605]\nComplete every challenge.\n\nRunning Good [5\u2605]\nComplete Black Deck on Gold Stake difficulty.",
             "community": 3,
             "communityText": "Gambling Addict\nEarn a Gold Sticker on every Joker.\n\nFull House\nWin with every deck on Gold Stake difficulty.\n\nUp The AntE\nAchieve a highscore containing the letter E in an unseeded run.",
             "achievements": 31
@@ -5344,7 +5344,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Super Speed Sphere \u2605 5\nReach a BALLYGON rank of SSS.\n\nBallbot \u2605 10\nComplete the Grandmaster course.",
+            "primaryText": "Super Speed Sphere [5\u2605]\nReach a BALLYGON rank of SSS.\n\nBallbot [10\u2605]\nComplete the Grandmaster course.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -5399,7 +5399,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Blazing Musician \u2605 35\nGet the true ending on Ultra difficulty without continues.\n\nPut Out \u2605 20 (Partial: \u2605 5)\nClear the game on Ultra difficulty without continues. (Any ending)\n\nIgnition \u2605 10\nClear the game on Lunatic difficulty or higher without continues. / Clear the game with 2 million coins.",
+            "primaryText": "Blazing Musician [35\u2605]\nGet the true ending on Ultra difficulty without continues.\n\nPut Out[20\u2605  (Partial: 5\u2605)]\nClear the game on Ultra difficulty without continues. (Any ending)\n\nIgnition [10\u2605]\nClear the game on Lunatic difficulty or higher without continues. / Clear the game with 2 million coins.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -5453,7 +5453,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Life in the Fast Lane \u2605 10\nBeat each level.",
+            "primaryText": "Life in the Fast Lane [10\u2605]\nBeat each level.",
             "community": 0,
             "communityText": "",
             "achievements": 7
@@ -5472,7 +5472,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 90,
         "playersStarted": 0,
-        "playersTotal": 467,
+        "playersTotal": 468,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -5507,7 +5507,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Introspection \u2605 5\nProve yourself.",
+            "primaryText": "Introspection [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -5561,7 +5561,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Battle Hardened \u2605 15\nSeparately; clear NG+ and obtain an S rank on each stage.\n\nBattle Cry \u2605 5\nProve yourself.\n\nAxe to Grind (UNCLEARED) \u2605 1\nClear NG+ with an overall rank of S.",
+            "primaryText": "Battle Hardened [15\u2605]\nSeparately; clear NG+ and obtain an S rank on each stage.\n\nBattle Cry [5\u2605]\nProve yourself.\n\nAxe to Grind (UNCLEARED) [1\u2605]\nClear NG+ with an overall rank of S.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -5615,7 +5615,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Spheres of Madness \u2605 15\nKill the Planet Destructor.",
+            "primaryText": "Spheres of Madness [15\u2605]\nKill the Planet Destructor.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -5634,7 +5634,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 96,
-        "playersTotal": 776,
+        "playersTotal": 777,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -5669,7 +5669,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Battleblock Insanity \u2605 20 (Partial: \u2605 10)\nGet an A++ on all levels (including Encores) on insane co-op story mode. *Partial points are awarded as a progress milestone.\n\nCubical Thespianism \u2605 15 (Partial: \u2605 5)\nGet an A++ on all levels (including Encores) on insane solo story mode. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Battleblock Insanity[20\u2605  (Partial: 10\u2605)]\nGet an A++ on all levels (including Encores) on insane co-op story mode. *Partial points are awarded as a progress milestone.\n\nCubical Thespianism[15\u2605  (Partial: 5\u2605)]\nGet an A++ on all levels (including Encores) on insane solo story mode. *Partial points are awarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -5723,7 +5723,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Angel Slayer \u2605 50\n Earn a Pure Platinum medal on \"Lost Chapter: Angel Slayer\".\n\nLegendary Dark Witch \u2605 30 (Partial: \u2605 5)\nEarn a Pure Platinum medal on all main chapters on \u221e Climax difficulty.",
+            "primaryText": "Angel Slayer [50\u2605]\n Earn a Pure Platinum medal on \"Lost Chapter: Angel Slayer\".\n\nLegendary Dark Witch[30\u2605  (Partial: 5\u2605)]\nEarn a Pure Platinum medal on all main chapters on \u221e Climax difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -5777,7 +5777,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gotta Blast \u2605 30\nDefeat every enraged boss. / Defeat the Seed with a difficulty rating of 1.0 or higher. / Clear all four levels in a row without getting hit.",
+            "primaryText": "Gotta Blast [30\u2605]\nDefeat every enraged boss. / Defeat the Seed with a difficulty rating of 1.0 or higher. / Clear all four levels in a row without getting hit.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -5831,7 +5831,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Beat Beater \u2605 5\nBeat the game on Normal without getting hit.",
+            "primaryText": "Beat Beater [5\u2605]\nBeat the game on Normal without getting hit.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -5885,7 +5885,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bedazzling \u2605 15\nProve yourself.",
+            "primaryText": "Bedazzling [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 65
@@ -5939,7 +5939,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Every Rose Has Its Thorn \u2605 5\nBeat the game on \"Retro\" difficulty.",
+            "primaryText": "Every Rose Has Its Thorn [5\u2605]\nBeat the game on \"Retro\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -5993,7 +5993,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Anniversary \u2605 25\nReach the top of BETON BIRTHDAY.\n\nBrutal Runner \u2605 25\nReach the top of BETON BRUTAL in under 15 minutes.\n\nWater Park \u2605 20\nReach the top of BETON BATH.\n\nBeton Climber \u2605 15\nReach the top of BETON BRUTAL.",
+            "primaryText": "Anniversary [25\u2605]\nReach the top of BETON BIRTHDAY.\n\nBrutal Runner [25\u2605]\nReach the top of BETON BRUTAL in under 15 minutes.\n\nWater Park [20\u2605]\nReach the top of BETON BATH.\n\nBeton Climber [15\u2605]\nReach the top of BETON BRUTAL.",
             "community": 0,
             "communityText": "",
             "achievements": 7
@@ -6037,7 +6037,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Aliens. \u2605 10\nSave all the cows in every level on \"Veteran\" difficulty.",
+            "primaryText": "Aliens. [10\u2605]\nSave all the cows in every level on \"Veteran\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -6091,7 +6091,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Helium Powered Hero \u2605 25 (Partial: \u2605 10)\nIndividually, complete a run with each hat, complete a run with each challenge, and defeat Sara on the default Hard difficulty.",
+            "primaryText": "Helium Powered Hero[25\u2605  (Partial: 10\u2605)]\nIndividually, complete a run with each hat, complete a run with each challenge, and defeat Sara on the default Hard difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 53
@@ -6145,7 +6145,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Hopping Mad \u2605 170\nGet a diamond trophy on every map in the \"Extremely difficult\" section.\n\nLeaps and Bounds \u2605 50\nGet a diamond trophy on every map in all other sections.",
+            "primaryText": "Hopping Mad [170\u2605]\nGet a diamond trophy on every map in the \"Extremely difficult\" section.\n\nLeaps and Bounds [50\u2605]\nGet a diamond trophy on every map in all other sections.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -6199,7 +6199,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fireball and Waterball \u2605 5\nObtain an S rank on every level. / Have a total completion time of under 38 minutes.",
+            "primaryText": "Fireball and Waterball [5\u2605]\nObtain an S rank on every level. / Have a total completion time of under 38 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -6253,7 +6253,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Flu Fighter \u2605 10\nComplete \"I'm the Boss\" & \"High Risk Surgery\" achievements simultaneously.",
+            "primaryText": "Flu Fighter [10\u2605]\nComplete \"I'm the Boss\" & \"High Risk Surgery\" achievements simultaneously.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -6272,7 +6272,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 29,
-        "playersTotal": 545,
+        "playersTotal": 546,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -6307,7 +6307,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Blue Ribbon Champ \u2605 25 (Partial: \u2605 5)\nComplete all Clash in the Clouds blue ribbon challenges.",
+            "primaryText": "Blue Ribbon Champ[25\u2605  (Partial: 5\u2605)]\nComplete all Clash in the Clouds blue ribbon challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 80
@@ -6361,7 +6361,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "In Tandem \u2605 5\nAchieve all harmony/death/time/star stamps in every solo and co-op level.\n\nHokey Cokey Kings \u2605 5\nAchieve all stars in solo and co-op.",
+            "primaryText": "In Tandem [5\u2605]\nAchieve all harmony/death/time/star stamps in every solo and co-op level.\n\nHokey Cokey Kings [5\u2605]\nAchieve all stars in solo and co-op.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -6415,7 +6415,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Pong Maestro \u2605 50\nGet a \"PERFECT\" score in Growth.\n\nBreakout Beat Out \u2605 30\nGet a \"PERFECT\" score in Descent.\n\nBIT.TRIP BEATER \u2605 20\nGet a \"PERFECT\" score in Transition. / Get a \"PERFECT\" score in <TEST>.",
+            "primaryText": "Pong Maestro [50\u2605]\nGet a \"PERFECT\" score in Growth.\n\nBreakout Beat Out [30\u2605]\nGet a \"PERFECT\" score in Descent.\n\nBIT.TRIP BEATER [20\u2605]\nGet a \"PERFECT\" score in Transition. / Get a \"PERFECT\" score in <TEST>.",
             "community": 1,
             "communityText": "BIT.TRIP CONQUEROR\nComplete all primary objectives from all site-listed games in the BIT.TRIP franchise. See verification requirements for complete list.",
             "achievements": 26
@@ -6469,7 +6469,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Core Control \u2605 25\nGet a \"PERFECT\" score in all levels.",
+            "primaryText": "Core Control [25\u2605]\nGet a \"PERFECT\" score in all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -6523,7 +6523,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fateful Trips \u2605 25\nGet a \"PERFECT\" score in all levels.",
+            "primaryText": "Fateful Trips [25\u2605]\nGet a \"PERFECT\" score in all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -6577,7 +6577,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "RUNRUNRUN \u2605 10\nComplete all challenges with obstacle density set to high and stair assist off.",
+            "primaryText": "RUNRUNRUN [10\u2605]\nComplete all challenges with obstacle density set to high and stair assist off.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -6631,7 +6631,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rainbow Trails \u2605 35\nGet a \"PERFECT\" in all challenges.",
+            "primaryText": "Rainbow Trails [35\u2605]\nGet a \"PERFECT\" in all challenges.",
             "community": 1,
             "communityText": "The Perfect Run\nGet the maximum score in all challenges.",
             "achievements": 26
@@ -6685,7 +6685,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Dark Omen \u2605 20\nProve yourself.",
+            "primaryText": "Dark Omen [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -6739,7 +6739,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gravitational Pull \u2605 25\nFinish the \"Crazy Avalanche\" without any restarts or deaths. / Collect Coffee Time mark in all levels.",
+            "primaryText": "Gravitational Pull [25\u2605]\nFinish the \"Crazy Avalanche\" without any restarts or deaths. / Collect Coffee Time mark in all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -6793,7 +6793,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Edge of the Blade \u2605 15\nComplete the game in one run, in 8 hours or less without using saves a single time.",
+            "primaryText": "Edge of the Blade [15\u2605]\nComplete the game in one run, in 8 hours or less without using saves a single time.",
             "community": 0,
             "communityText": "",
             "achievements": 56
@@ -6847,7 +6847,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Oriental Fury \u2605 20\nComplete the game on \"Hard\" difficulty. / Clear the game in 2 hours. / Complete \"Challenge Mode\" in 10 minutes.",
+            "primaryText": "Oriental Fury [20\u2605]\nComplete the game on \"Hard\" difficulty. / Clear the game in 2 hours. / Complete \"Challenge Mode\" in 10 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -6901,7 +6901,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Miracle of Penance \u2605 10\nBeat all bosses without flask consumption.",
+            "primaryText": "Miracle of Penance [10\u2605]\nBeat all bosses without flask consumption.",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -6955,7 +6955,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Endurance Emperor \u2605 5\nComplete 200 waves in \"Endurance\" mode. / Clear \"Standard\" mode without restarts.",
+            "primaryText": "Endurance Emperor [5\u2605]\nComplete 200 waves in \"Endurance\" mode. / Clear \"Standard\" mode without restarts.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -7009,7 +7009,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Stronger! \u2605 60\nComplete all courses on Speedstar mode.\n\nBlue Flamed Champion (PARTIALLY UNCLEARED) \u2605 6 (Partial: \u2605 5)\nComplete all challenges for all characters. (Partial points awarded for fully clearing one character)",
+            "primaryText": "Stronger! [60\u2605]\nComplete all courses on Speedstar mode.\n\nBlue Flamed Champion (PARTIALLY UNCLEARED)[6\u2605  (Partial: 5\u2605)]\nComplete all challenges for all characters. (Partial points awarded for fully clearing one character)",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -7063,7 +7063,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Blaze It \u2605 15\nComplete the game on one credit. / Complete the game on Hard difficulty. / Complete the final level and boss without dying or using powerups.",
+            "primaryText": "Blaze It [15\u2605]\nComplete the game on one credit. / Complete the game on Hard difficulty. / Complete the final level and boss without dying or using powerups.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -7117,7 +7117,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Eggcellent \u2605 15\nComplete all challenges with the Egg.\n\nArmed to the Beak \u2605 10\nLoop twice. / Complete the game with the Egg. / Complete the game without collecting any artefacts.\n\nBloody Beaks \u2605 10\nComplete all challenges with any character.",
+            "primaryText": "Eggcellent [15\u2605]\nComplete all challenges with the Egg.\n\nArmed to the Beak [10\u2605]\nLoop twice. / Complete the game with the Egg. / Complete the game without collecting any artefacts.\n\nBloody Beaks [10\u2605]\nComplete all challenges with any character.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -7171,7 +7171,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rebel Force \u2605 10\nComplete the game in less than 40 minutes on at least Normal difficulty. / Complete Mission V with the orange mech. / Complete the game on Hardcore difficulty.",
+            "primaryText": "Rebel Force [10\u2605]\nComplete the game in less than 40 minutes on at least Normal difficulty. / Complete Mission V with the orange mech. / Complete the game on Hardcore difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -7225,7 +7225,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "New Greatest Hero \u2605 40\nClear Arcade Mode on V. Hard.",
+            "primaryText": "New Greatest Hero [40\u2605]\nClear Arcade Mode on V. Hard.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -7279,7 +7279,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Greatest Hero In The Universe \u2605 120\nObtain a SSS Rank in New Game Arcade Mode on Very Hard.\n\nGreatest Hero In The World \u2605 30\nClear Arcade Mode on Very Hard.",
+            "primaryText": "Greatest Hero In The Universe [120\u2605]\nObtain a SSS Rank in New Game Arcade Mode on Very Hard.\n\nGreatest Hero In The World [30\u2605]\nClear Arcade Mode on Very Hard.",
             "community": 1,
             "communityText": "Greatest Hero In The Multiverse\nObtain a SSS Rank in New Game Arcade Mode on Very Hard with the Too Hard mutator enabled.",
             "achievements": 33
@@ -7333,7 +7333,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Blinded by the Light \u2605 40\nBeat the game in a single session without getting hit. / Obtain 1000 points.",
+            "primaryText": "Blinded by the Light [40\u2605]\nBeat the game in a single session without getting hit. / Obtain 1000 points.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -7387,7 +7387,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Crazy Collider \u2605 10\nProve yourself.",
+            "primaryText": "Crazy Collider [10\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Undying Blitz\nClear the game with no deaths.",
             "achievements": 13
@@ -7441,7 +7441,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Blocked and Loaded \u2605 40\nBeat all dev times except Classic and Advanced speedrun.\n\nBlock Gunner (UNCLEARED) \u2605 1\nFinish the advanced speedrun without retrying. /Finish the advanced speedrun in less than 15 minutes 17 seconds. /Finish the classic speedrun in less than 12 minutes 55 seconds.",
+            "primaryText": "Blocked and Loaded [40\u2605]\nBeat all dev times except Classic and Advanced speedrun.\n\nBlock Gunner (UNCLEARED) [1\u2605]\nFinish the advanced speedrun without retrying. /Finish the advanced speedrun in less than 15 minutes 17 seconds. /Finish the classic speedrun in less than 12 minutes 55 seconds.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -7495,7 +7495,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Back to Your Roots \u2605 25\nObtain all S ranks.\n\nHaberdash-em-up \u2605 5\nObtain all hats.",
+            "primaryText": "Back to Your Roots [25\u2605]\nObtain all S ranks.\n\nHaberdash-em-up [5\u2605]\nObtain all hats.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -7549,7 +7549,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cleavers of the Moon \u2605 5\nBeat Nightmare mode. / Beat Boss Rush mode.",
+            "primaryText": "Cleavers of the Moon [5\u2605]\nBeat Nightmare mode. / Beat Boss Rush mode.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -7603,7 +7603,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Happy Tree Friends \u2605 15\nFinish Adventure Mode and collect all stars in Race Mode.",
+            "primaryText": "Happy Tree Friends [15\u2605]\nFinish Adventure Mode and collect all stars in Race Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -7657,7 +7657,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "The World \u2605 30\nGet every possible medal.\n\nSummit Chaser \u2605 45\nClear the true last boss without bombing or dying. / Score over 125 million points in a single run. / Clear Parallel Mode.\n\nA+ Student \u2605 15\nGet a 100% mission completion rate.\n\nUnderachiever \u2605 10\nGet a 50% mission completion rate, clear Hyper Mode, and score over 60 million in a run.",
+            "primaryText": "The World [30\u2605]\nGet every possible medal.\n\nSummit Chaser [45\u2605]\nClear the true last boss without bombing or dying. / Score over 125 million points in a single run. / Clear Parallel Mode.\n\nA+ Student [15\u2605]\nGet a 100% mission completion rate.\n\nUnderachiever [10\u2605]\nGet a 50% mission completion rate, clear Hyper Mode, and score over 60 million in a run.",
             "community": 1,
             "communityText": "Living in the Present\nClear Parallel Mode without using the classic ruleset.",
             "achievements": 41
@@ -7711,7 +7711,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Glutton for Punishment \u2605 330 (Partial: \u2605 50)\nComplete each chapter on Hard difficulty without dying or restarting.\n\nFirst Course \u2605 20 (Partial: \u2605 10)\nComplete each chapter on Normal difficulty without dying or restarting.\n\nTaste Test \u2605 10\nObtain at least one collectible from every Hard side level in the game.\n\nEat Your Hard Out \u2605 10\nComplete all chapters on Hard difficulty.\n\nWhet Your Appetite \u2605 5\nComplete all chapters on Normal difficulty.",
+            "primaryText": "Glutton for Punishment[330\u2605  (Partial: 50\u2605)]\nComplete each chapter on Hard difficulty without dying or restarting.\n\nFirst Course[20\u2605  (Partial: 10\u2605)]\nComplete each chapter on Normal difficulty without dying or restarting.\n\nTaste Test [10\u2605]\nObtain at least one collectible from every Hard side level in the game.\n\nEat Your Hard Out [10\u2605]\nComplete all chapters on Hard difficulty.\n\nWhet Your Appetite [5\u2605]\nComplete all chapters on Normal difficulty.",
             "community": 2,
             "communityText": "Insatiable Appetite\nBeat the game without dying.\n\nOvereater\nObtain all food combinations.",
             "achievements": 38
@@ -7765,7 +7765,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Arise, Chicken \u2605 5\nProve yourself.",
+            "primaryText": "Arise, Chicken [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -7819,7 +7819,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "X Machina \u2605 55\nBeat the game without taking damage.\n\nEternal Return \u2605 10\nReach wave 60 in Endless mode then survive for 2 minutes. / Score 1,500 in Hardcore Endless mode.",
+            "primaryText": "X Machina [55\u2605]\nBeat the game without taking damage.\n\nEternal Return [10\u2605]\nReach wave 60 in Endless mode then survive for 2 minutes. / Score 1,500 in Hardcore Endless mode.",
             "community": 0,
             "communityText": "",
             "achievements": 60
@@ -7873,7 +7873,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "It Axes and Comes Backses \u2605 5\nBeat the game.\n\nReturn to Sender (UNCLEARED) \u2605 1\nWin a run without taking any powerups.",
+            "primaryText": "It Axes and Comes Backses [5\u2605]\nBeat the game.\n\nReturn to Sender (UNCLEARED) [1\u2605]\nWin a run without taking any powerups.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -7927,7 +7927,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Particle Accelerator \u2605 5\nObtain all achievements.",
+            "primaryText": "Particle Accelerator [5\u2605]\nObtain all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -7981,7 +7981,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gun Girl \u2605 5\nBeat the Extra Missions mode. / Beat all stages with 4 life hearts.",
+            "primaryText": "Gun Girl [5\u2605]\nBeat the Extra Missions mode. / Beat all stages with 4 life hearts.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -8035,7 +8035,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Boss Rush Hero \u2605 25\nClear challenge mode.\n\nBonus Bouncer \u2605 10\nPerfect all bonus stages.\n\nPerpetual Motion Machine \u2605 10\nClear all main stages with perfect playing.",
+            "primaryText": "Boss Rush Hero [25\u2605]\nClear challenge mode.\n\nBonus Bouncer [10\u2605]\nPerfect all bonus stages.\n\nPerpetual Motion Machine [10\u2605]\nClear all main stages with perfect playing.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -8089,7 +8089,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Out of the Box \u2605 10\nBeat the game in under 15 minutes.",
+            "primaryText": "Out of the Box [10\u2605]\nBeat the game in under 15 minutes.",
             "community": 1,
             "communityText": "So Over It\nGet to the top 50 times.",
             "achievements": 16
@@ -8143,7 +8143,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Hellish QuakeDancer \u2605 35\nBeat Hellish with Sanngri\u00f0r.\n\nBosses Per Minute \u2605 15\nComplete Mega Boss Rush.\n\nGetting Odr it \u2605 10\nBeat Hard with Odr.",
+            "primaryText": "Hellish QuakeDancer [35\u2605]\nBeat Hellish with Sanngri\u00f0r.\n\nBosses Per Minute [15\u2605]\nComplete Mega Boss Rush.\n\nGetting Odr it [10\u2605]\nBeat Hard with Odr.",
             "community": 1,
             "communityText": "Yggdrasil\nComplete every challenge.",
             "achievements": 28
@@ -8197,7 +8197,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Folk Legend \u2605 10\nComplete the game without dying.",
+            "primaryText": "Folk Legend [10\u2605]\nComplete the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -8251,7 +8251,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Flipping Phenomenal \u2605 25\nObtain 5 stars on all special worlds.\n\nNon-Newtonian Ninja \u2605 5\nObtain 5 stars and all collectibles on all other worlds.",
+            "primaryText": "Flipping Phenomenal [25\u2605]\nObtain 5 stars on all special worlds.\n\nNon-Newtonian Ninja [5\u2605]\nObtain 5 stars and all collectibles on all other worlds.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -8305,7 +8305,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "The Garden of Earthly Delights \u2605 20\nBeat the game in under 45 minutes. / Beat the game 5 times in a row. / Beat Osman Sinnoks and Heaven with Mung, Gospel and Arnold.\n\nThe Last Judgment \u2605 20\nEarn specific difficult achievements.\n\nAscent of the Blessed \u2605 10\nComplete all areas with no casualties on Hard mode. / Defeat all mini-bosses and bosses found in the main campaign.",
+            "primaryText": "The Garden of Earthly Delights [20\u2605]\nBeat the game in under 45 minutes. / Beat the game 5 times in a row. / Beat Osman Sinnoks and Heaven with Mung, Gospel and Arnold.\n\nThe Last Judgment [20\u2605]\nEarn specific difficult achievements.\n\nAscent of the Blessed [10\u2605]\nComplete all areas with no casualties on Hard mode. / Defeat all mini-bosses and bosses found in the main campaign.",
             "community": 1,
             "communityText": "The Field Has Eyes, The Forest Has Ears\nEarn every achievement in the game.",
             "achievements": 135
@@ -8359,7 +8359,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "GODDAMN RUSH HOUR \u2605 40\nBeat 25 stages in one run. / Reach the maximum road length.\n\nyoutube.com/watch?v=A41UYTcP_jc \u2605 20\nGet a score of 250k or more.",
+            "primaryText": "GODDAMN RUSH HOUR [40\u2605]\nBeat 25 stages in one run. / Reach the maximum road length.\n\nyoutube.com/watch?v=A41UYTcP_jc [20\u2605]\nGet a score of 250k or more.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -8413,7 +8413,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Heavenly Bullets \u2605 15\nGet a star rank in all levels on \"Heavenly\" difficulty.",
+            "primaryText": "Heavenly Bullets [15\u2605]\nGet a star rank in all levels on \"Heavenly\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 75
@@ -8467,7 +8467,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "End of the Simulation \u2605 45\nClear Challenge ALL on Heaven with U++ rank.\n\nStress Test \u2605 35\nClear Challenge ALL on Heaven without dying and bombing (get the Perfect medal).\n\nNew Week, New Game \u2605 30\nClear Challenge ALL on Heaven without continues. / Clear Challenge ALL (any difficulty) with U++ rank.",
+            "primaryText": "End of the Simulation [45\u2605]\nClear Challenge ALL on Heaven with U++ rank.\n\nStress Test [35\u2605]\nClear Challenge ALL on Heaven without dying and bombing (get the Perfect medal).\n\nNew Week, New Game [30\u2605]\nClear Challenge ALL on Heaven without continues. / Clear Challenge ALL (any difficulty) with U++ rank.",
             "community": 0,
             "communityText": "",
             "achievements": 52
@@ -8521,7 +8521,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Bad Day Tour \u2605 10\nProve yourself.\n\nBack in Black (UNCLEARED) \u2605 1\nClear BLACK IF ALL on Heaven difficulty with U++ rank.\n\nHeaven or Hell (UNCLEARED) \u2605 1\nSeparately, clear BLACK IF ALL on Heaven without continues and achieve U++ rank in BLACK ALL.\n\nWorst Day of the Week (UNCLEARED) \u2605 1\nClear BLACK IF ALL on Heaven difficulty without dying and bombing (get the Perfect medal).",
+            "primaryText": "Bad Day Tour [10\u2605]\nProve yourself.\n\nBack in Black (UNCLEARED) [1\u2605]\nClear BLACK IF ALL on Heaven difficulty with U++ rank.\n\nHeaven or Hell (UNCLEARED) [1\u2605]\nSeparately, clear BLACK IF ALL on Heaven without continues and achieve U++ rank in BLACK ALL.\n\nWorst Day of the Week (UNCLEARED) [1\u2605]\nClear BLACK IF ALL on Heaven difficulty without dying and bombing (get the Perfect medal).",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -8575,7 +8575,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Soul Dish \u2605 5\nProve yourself.",
+            "primaryText": "Soul Dish [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 69
@@ -8629,7 +8629,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "League of Legends \u2605 40\nFinish the hardest bunnyhop and slide maps.\n\nSnowboarding Enthusiast \u2605 30\nFinish the hardest surf maps.\n\nRamping it Up \u2605 20\nFinish the hardest ramp maps.",
+            "primaryText": "League of Legends [40\u2605]\nFinish the hardest bunnyhop and slide maps.\n\nSnowboarding Enthusiast [30\u2605]\nFinish the hardest surf maps.\n\nRamping it Up [20\u2605]\nFinish the hardest ramp maps.",
             "community": 1,
             "communityText": "Hop to It\nComplete all maps (including DLC).",
             "achievements": 57
@@ -8683,7 +8683,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Murder Mansion \u2605 15\nSeparately, complete the game without a single death, and beat the game in under 10 minutes.",
+            "primaryText": "Murder Mansion [15\u2605]\nSeparately, complete the game without a single death, and beat the game in under 10 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -8737,7 +8737,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ahh, Fresh Meat! \u2605 25\nComplete the game on \"Impossible\" difficulty. / Complete the game in 45 minutes on at least \"Hard\" difficulty.",
+            "primaryText": "Ahh, Fresh Meat! [25\u2605]\nComplete the game on \"Impossible\" difficulty. / Complete the game in 45 minutes on at least \"Hard\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -8791,7 +8791,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Machine Learning \u2605 5\nSeparately; Finish the game on Insane difficulty and perform a golden flawless run on all story mode stages.",
+            "primaryText": "Machine Learning [5\u2605]\nSeparately; Finish the game on Insane difficulty and perform a golden flawless run on all story mode stages.",
             "community": 1,
             "communityText": "Mr. Robot\nFinish the game on Insane difficulty without losing a life.",
             "achievements": 25
@@ -8840,7 +8840,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "To the Bitter End \u2605 10\nBeat all levels on Veteran. (Singleplayer only)",
+            "primaryText": "To the Bitter End [10\u2605]\nBeat all levels on Veteran. (Singleplayer only)",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -8889,7 +8889,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Modern Warfare, Too \u2605 5\nComplete all levels on veteran difficulty and complete \"The Pit\" in under 30 seconds.\n\nSpec's Number \u2605 5\nEarn all 69 stars in Special Ops",
+            "primaryText": "Modern Warfare, Too [5\u2605]\nComplete all levels on veteran difficulty and complete \"The Pit\" in under 30 seconds.\n\nSpec's Number [5\u2605]\nEarn all 69 stars in Special Ops",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -8944,7 +8944,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "All Warfare is Based on Deception \u2605 5\nEarn 48 stars in Special Ops Mission Mode and reach wave 15 in each mission of Special Ops Survival Mode.\n\nGoodbye, Captain Price \u2605 5\nComplete all Special Ops (DLC) missions on Veteran difficulty.",
+            "primaryText": "All Warfare is Based on Deception [5\u2605]\nEarn 48 stars in Special Ops Mission Mode and reach wave 15 in each mission of Special Ops Survival Mode.\n\nGoodbye, Captain Price [5\u2605]\nComplete all Special Ops (DLC) missions on Veteran difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 76
@@ -8998,7 +8998,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Task Force 141 \u2605 10\nComplete all levels on \"Veteran\" difficulty. / Complete the ship training course in the first level within 15.1 seconds.\n\nJust Another Day at the Office (UNCLEARED) \u2605 1\nComplete the Full Challenge in Arcade Mode on \"Veteran\" difficulty.",
+            "primaryText": "Task Force 141 [10\u2605]\nComplete all levels on \"Veteran\" difficulty. / Complete the ship training course in the first level within 15.1 seconds.\n\nJust Another Day at the Office (UNCLEARED) [1\u2605]\nComplete the Full Challenge in Arcade Mode on \"Veteran\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -9017,7 +9017,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 66,
         "playersStarted": 0,
-        "playersTotal": 561,
+        "playersTotal": 562,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -9052,7 +9052,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gunslinging Slasher \u2605 5\nComplete the duel challenge with all duels won honorably. / Complete the Story on True West difficulty. / Get all Arcade Mode stars.",
+            "primaryText": "Gunslinging Slasher [5\u2605]\nComplete the duel challenge with all duels won honorably. / Complete the Story on True West difficulty. / Get all Arcade Mode stars.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -9106,7 +9106,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Three-Legged Race \u2605 10\nRun 42195 combined meters without dying in 2P mode.",
+            "primaryText": "Three-Legged Race [10\u2605]\nRun 42195 combined meters without dying in 2P mode.",
             "community": 0,
             "communityText": "",
             "achievements": 31
@@ -9160,7 +9160,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "High on the Hog \u2605 15\nDefeat the final boss after maxing out your challenge loops in Dungeon Loops Mode.",
+            "primaryText": "High on the Hog [15\u2605]\nDefeat the final boss after maxing out your challenge loops in Dungeon Loops Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 43
@@ -9214,7 +9214,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Hardshelled \u2605 15\nClear all challenges.\n\nCooked to Perfection (UNCLEARED) \u2605 1\nBeat every round in Arcade Mode without getting hit.",
+            "primaryText": "Hardshelled [15\u2605]\nClear all challenges.\n\nCooked to Perfection (UNCLEARED) [1\u2605]\nBeat every round in Arcade Mode without getting hit.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -9233,7 +9233,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 129,
-        "playersTotal": 837,
+        "playersTotal": 838,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -9268,7 +9268,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Crashing the Party \u2605 20\nComplete the game on Insane mode.\n\nUntouchable Knight \u2605 5\nSurvive until 2:30 in a Back Off Barbarian match.",
+            "primaryText": "Crashing the Party [20\u2605]\nComplete the game on Insane mode.\n\nUntouchable Knight [5\u2605]\nSurvive until 2:30 in a Back Off Barbarian match.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -9322,7 +9322,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "EVO Survivor \u2605 35\nClear the EVO! DLC on Very Hard.\n\nVanilla Survivor \u2605 30\nClear Castle of Shikigami on Hard and Very Hard.\n\nVanilla Clearer \u2605 15\nClear Castle of Shikigami on Normal.",
+            "primaryText": "EVO Survivor [35\u2605]\nClear the EVO! DLC on Very Hard.\n\nVanilla Survivor [30\u2605]\nClear Castle of Shikigami on Hard and Very Hard.\n\nVanilla Clearer [15\u2605]\nClear Castle of Shikigami on Normal.",
             "community": 0,
             "communityText": "",
             "achievements": 80
@@ -9371,7 +9371,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Castle Crusher \u2605 20\nBeat the boss rush on Hardcore mode.\n\nCastle Crasher \u2605 5\nSeparately; finish Hardcore and beat the game in under 3 hours and 30 minutes.",
+            "primaryText": "Castle Crusher [20\u2605]\nBeat the boss rush on Hardcore mode.\n\nCastle Crasher [5\u2605]\nSeparately; finish Hardcore and beat the game in under 3 hours and 30 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -9421,7 +9421,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Die Monster! \u2605 10\nFinish all levels in Paladin difficulty.",
+            "primaryText": "Die Monster! [10\u2605]\nFinish all levels in Paladin difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -9475,7 +9475,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Knight in Shining Armor \u2605 25\nComplete the game without upgrading the armor.",
+            "primaryText": "Knight in Shining Armor [25\u2605]\nComplete the game without upgrading the armor.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -9524,7 +9524,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Babes of Babel \u2605 35 (Partial: \u2605 20)\nConquer the final stage of Babel (in single player). *Partial points are awarded for co-op mode.",
+            "primaryText": "Babes of Babel[35\u2605  (Partial: 20\u2605)]\nConquer the final stage of Babel (in single player). *Partial points are awarded for co-op mode.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -9578,7 +9578,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Pixel Legend \u2605 65\nProve yourself.",
+            "primaryText": "Pixel Legend [65\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Pixel Legend+\nObtain the \"best ending\" on Hard mode without saving.",
             "achievements": 76
@@ -9632,7 +9632,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Hero Beneath the Earth \u2605 60\nClear a 5 relic run with the Cleric, Dashy Joe, Heavy Hitter, Nimrod, Vampire and Vortex perks. \n\nPurpose Completed \u2605 30\nComplete the game with all 5 relics active.\n\nPunisher of the Horde \u2605 10\nComplete wave 20 in the Arena Mode DLC.\n\nCave-Blazed! \u2605 10\nComplete the game.",
+            "primaryText": "Hero Beneath the Earth [60\u2605]\nClear a 5 relic run with the Cleric, Dashy Joe, Heavy Hitter, Nimrod, Vampire and Vortex perks. \n\nPurpose Completed [30\u2605]\nComplete the game with all 5 relics active.\n\nPunisher of the Horde [10\u2605]\nComplete wave 20 in the Arena Mode DLC.\n\nCave-Blazed! [10\u2605]\nComplete the game.",
             "community": 1,
             "communityText": "The Resident Caveblazer\nObtain the Eyeball hat by completing a 5 relic run with every perk.",
             "achievements": 21
@@ -9686,7 +9686,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Mirrored Edge \u2605 30\nSeparately; Obtain all Platinum medals on singleplayer maps, collect all Spheres in singleplayer.\n\nKing of the Skyline (UNCLEARED) \u2605 1\nObtain the Platinum medal for any% speedrun mode.\n\nUltimate Ninja Warrior (UNCLEARED) \u2605 1\nObtain the Platinum medal on AllSpheres speedrun mode.",
+            "primaryText": "Mirrored Edge [30\u2605]\nSeparately; Obtain all Platinum medals on singleplayer maps, collect all Spheres in singleplayer.\n\nKing of the Skyline (UNCLEARED) [1\u2605]\nObtain the Platinum medal for any% speedrun mode.\n\nUltimate Ninja Warrior (UNCLEARED) [1\u2605]\nObtain the Platinum medal on AllSpheres speedrun mode.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -9740,7 +9740,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Strawberry Lunatic \u2605 150\nCollect the golden strawberry for Chapter 9.\n\nStrawberry Enthusiast \u2605 80\nCollect the golden strawberry for all other chapters.\n\nMountain Climber \u2605 20 (Partial: \u2605 10)\nProve yourself.",
+            "primaryText": "Strawberry Lunatic [150\u2605]\nCollect the golden strawberry for Chapter 9.\n\nStrawberry Enthusiast [80\u2605]\nCollect the golden strawberry for all other chapters.\n\nMountain Climber[20\u2605  (Partial: 10\u2605)]\nProve yourself.",
             "community": 9,
             "communityText": "Olympic Stargazer\nComplete all maps and obtain all red berries in the Grandmaster Lobbies of Spring Collab and Strawberry Jam.\n\nAbove and Beyond\nObtain any T3 or harder golden berry other than Farewell golden. (Without assist mode)\n\nSpace Jam\nComplete all maps and obtain all red berries in Monika's D-Sides and the Expert Lobbies of Spring Collab and Strawberry Jam.\n\nIntrepid Explorer\nComplete all maps and obtain all red berries in Glyph and the Beginner, Intermediate, and Advanced Lobbies of Spring Collab and Strawberry Jam.\n\nOver the Top\nObtain 100% completion in game in a single run without dying. (Without assist mode)\n\nSpeed Berry\nComplete an any% Speedrun of the game in under 30 minutes. (Without assist mode)\n\nLunar Inconvenience\nObtain the Moon & Golden Berries in a single run. (Without Assist mode)\n\nSolid Gold\nComplete all \"Full Clear\" A sides without dying. (Without Assist mode)\n\nDouble Golden\nObtain both golden berries in chapter 1-A in the same run. (Without assist mode)",
             "achievements": 32
@@ -9794,7 +9794,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "I Has Feets \u2605 5\nGet all stars in all levels.",
+            "primaryText": "I Has Feets [5\u2605]\nGet all stars in all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -9848,7 +9848,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Turing Approved \u2605 10\nComplete the Secret% speedrun in under 12 minutes.\n\n\"I'm in.\" \u2605 5\nBeat the secret level without dying. / Beat the 17th level without dying.",
+            "primaryText": "Turing Approved [10\u2605]\nComplete the Secret% speedrun in under 12 minutes.\n\n\"I'm in.\" [5\u2605]\nBeat the secret level without dying. / Beat the 17th level without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -9902,7 +9902,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "The Mechanical Turk \u2605 15\nClear the EX Boss Rush.\n\nDeep Blue \u2605 10\nGet all non-dungeon related achievements.\n\nStockfish \u2605 10\nIn Dungeon Mode: Defeat the True Last Boss, have a 25 minute speedrun, and clear Difficulty 5.\n\nAlphaZero (UNCLEARED) \u2605 1\nKill the True Last Boss and collect the rainbow crown in Dungeon Mode on Difficulty 10.\n\nEl Ajedrecista (UNCLEARED) \u2605 1\nClear dungeon mode on difficulty 8.",
+            "primaryText": "The Mechanical Turk [15\u2605]\nClear the EX Boss Rush.\n\nDeep Blue [10\u2605]\nGet all non-dungeon related achievements.\n\nStockfish [10\u2605]\nIn Dungeon Mode: Defeat the True Last Boss, have a 25 minute speedrun, and clear Difficulty 5.\n\nAlphaZero (UNCLEARED) [1\u2605]\nKill the True Last Boss and collect the rainbow crown in Dungeon Mode on Difficulty 10.\n\nEl Ajedrecista (UNCLEARED) [1\u2605]\nClear dungeon mode on difficulty 8.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -9956,7 +9956,7 @@ var data =
         },
         "milestones": {
             "primary": 7,
-            "primaryText": "Space Invader \u2605 50\nObtain a gold medal on the Nightmare Gauntlet.\n\nCreeping Disaster \u2605 100\nObtain a gold medal on the Nightmare Crusade and Nightmare Invasion Speedruns.\n\nNightmare Vanquisher \u2605 120 (Partial: \u2605 90)\nObtain a gold medal on all Nightmare Invasion bosses. *Partial points are rewarded as a progress milestone.\n\nNightmare Conqueror \u2605 30\nObtain a gold medal on all Nightmare Crusade bosses.\n\nByte Buster \u2605 10\nObtain a gold medal on all Bonus bosses (except Ball Pit).\n\nBit Burner \u2605 20\nObtain a gold medal on all Normal Crusade and Invasion bosses.\n\nChipping Away \u2605 20\nProve yourself.",
+            "primaryText": "Space Invader [50\u2605]\nObtain a gold medal on the Nightmare Gauntlet.\n\nCreeping Disaster [100\u2605]\nObtain a gold medal on the Nightmare Crusade and Nightmare Invasion Speedruns.\n\nNightmare Vanquisher[120\u2605  (Partial: 90\u2605)]\nObtain a gold medal on all Nightmare Invasion bosses. *Partial points are rewarded as a progress milestone.\n\nNightmare Conqueror [30\u2605]\nObtain a gold medal on all Nightmare Crusade bosses.\n\nByte Buster [10\u2605]\nObtain a gold medal on all Bonus bosses (except Ball Pit).\n\nBit Burner [20\u2605]\nObtain a gold medal on all Normal Crusade and Invasion bosses.\n\nChipping Away [20\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Nothing Left Behind\nObtain a gold medal everywhere possible.",
             "achievements": 22
@@ -10010,7 +10010,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Crazy Train \u2605 10\nDefeat Charles on Nightmare Mode.",
+            "primaryText": "Crazy Train [10\u2605]\nDefeat Charles on Nightmare Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -10059,7 +10059,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mighty Morphin' Power Rainbow \u2605 5\nComplete the game on \"Challenging\" difficulty.",
+            "primaryText": "Mighty Morphin' Power Rainbow [5\u2605]\nComplete the game on \"Challenging\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 43
@@ -10114,7 +10114,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Raining Blood \u2605 10\nClear Blood Mist 4. / Clear the game on Expert difficulty.\n\nTwisted Challenger \u2605 10\nClear all challenges on expert.\n\nStacked Deck \u2605 15\nClear Hard Mode with all characters.",
+            "primaryText": "Raining Blood [10\u2605]\nClear Blood Mist 4. / Clear the game on Expert difficulty.\n\nTwisted Challenger [10\u2605]\nClear all challenges on expert.\n\nStacked Deck [15\u2605]\nClear Hard Mode with all characters.",
             "community": 1,
             "communityText": "End of Time\nReach End of Project ending with Expert mode, Blood Mist 4 and Crimson Wilderness.",
             "achievements": 40
@@ -10168,7 +10168,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hypnotic Loops \u2605 35\nProve yourself.",
+            "primaryText": "Hypnotic Loops [35\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 75
@@ -10222,7 +10222,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Spin Right Round \u2605 5\nProve Yourself.",
+            "primaryText": "Spin Right Round [5\u2605]\nProve Yourself.",
             "community": 1,
             "communityText": "Out of Bounds\nClear all levels in the \"Challenging\" user level pack.",
             "achievements": 11
@@ -10276,7 +10276,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Lost Vikings \u2605 30\nBeat all bosses without taking damage.",
+            "primaryText": "The Lost Vikings [30\u2605]\nBeat all bosses without taking damage.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -10330,7 +10330,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Master Infultaker \u2605 30\nCollect every gem in each Endurance Mode marathon without dying.\n\nIn and Out \u2605 20\nObtain the diamond medal on every level.\n\nDash and Grab \u2605 5\nCollect every gem in each level on Hard Mode, and complete all in-level challenges",
+            "primaryText": "Master Infultaker [30\u2605]\nCollect every gem in each Endurance Mode marathon without dying.\n\nIn and Out [20\u2605]\nObtain the diamond medal on every level.\n\nDash and Grab [5\u2605]\nCollect every gem in each level on Hard Mode, and complete all in-level challenges",
             "community": 0,
             "communityText": "",
             "achievements": 60
@@ -10384,7 +10384,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "This Human is a Beast \u2605 15\nComplete all solo challenges. / Reach Insanium in Endless Mode.\n\nClone Drone in the Danger Arena \u2605 10\nComplete Story Mode on \"Insane\" difficulty.",
+            "primaryText": "This Human is a Beast [15\u2605]\nComplete all solo challenges. / Reach Insanium in Endless Mode.\n\nClone Drone in the Danger Arena [10\u2605]\nComplete Story Mode on \"Insane\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 61
@@ -10438,7 +10438,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Cloud Nine \u2605 10\nReach the goal within 6 minutes on Hard Mode without dying.\n\nTower Escape \u2605 5\nSeparately; Reach the top of the tower within 6 minutes, and without accumulating more than 850 meters of altitude.",
+            "primaryText": "Cloud Nine [10\u2605]\nReach the goal within 6 minutes on Hard Mode without dying.\n\nTower Escape [5\u2605]\nSeparately; Reach the top of the tower within 6 minutes, and without accumulating more than 850 meters of altitude.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -10492,7 +10492,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Demi-God \u2605 150 (Partial: \u2605 70)\nComplete Full Game Defiance Rush mode without dying or restarting.\n\nFlying Nimbus \u2605 100\nObtain an S rank in all modes for all levels including the Defiance DLC.\n\nCloudbuilding Your Skills \u2605 30\nComplete the Defiance DLC. / Clear the Original 22 Rush Mode in 22:22 or less.",
+            "primaryText": "Demi-God[150\u2605  (Partial: 70\u2605)]\nComplete Full Game Defiance Rush mode without dying or restarting.\n\nFlying Nimbus [100\u2605]\nObtain an S rank in all modes for all levels including the Defiance DLC.\n\nCloudbuilding Your Skills [30\u2605]\nComplete the Defiance DLC. / Clear the Original 22 Rush Mode in 22:22 or less.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -10546,7 +10546,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Exposure Therapy \u2605 15\nComplete Hard mode.",
+            "primaryText": "Exposure Therapy [15\u2605]\nComplete Hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -10600,7 +10600,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mothertrucker \u2605 5\nComplete the game without using abilities.",
+            "primaryText": "Mothertrucker [5\u2605]\nComplete the game without using abilities.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -10654,7 +10654,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Code Breaker \u2605 20\nComplete all levels in NERFED mode.",
+            "primaryText": "Code Breaker [20\u2605]\nComplete all levels in NERFED mode.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -10708,7 +10708,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Anime Souls \u2605 5\nBeat the game with the True Ending.",
+            "primaryText": "Anime Souls [5\u2605]\nBeat the game with the True Ending.",
             "community": 0,
             "communityText": "",
             "achievements": 43
@@ -10762,7 +10762,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Chroma Champion \u2605 20\nFind all collectibles. / Earn all medals.\n\nRapid Radiance \u2605 15\nComplete a speedrun by rotating less than 225,000 degrees. / Complete a speedrun in under 35 minutes",
+            "primaryText": "Chroma Champion [20\u2605]\nFind all collectibles. / Earn all medals.\n\nRapid Radiance [15\u2605]\nComplete a speedrun by rotating less than 225,000 degrees. / Complete a speedrun in under 35 minutes",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -10816,7 +10816,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Wildest of the West \u2605 65 (Partial: \u2605 10)\nProve yourself.",
+            "primaryText": "Wildest of the West[65\u2605  (Partial: 10\u2605)]\nProve yourself.",
             "community": 2,
             "communityText": "Lone Star\nComplete a Loop Run in an unseeded single player run.\n\nMaverick\nComplete an unseeded single player run without having any upgrades applied.",
             "achievements": 40
@@ -10870,7 +10870,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Falling Star \u2605 20\nBeat Arcade on Very Hard (including the TLB) with an overall S rank.\n\nTerminal Velocity \u2605 10\nBeat Arcade on Very Hard without dying.\n\nCometSSSSStriker \u2605 20\nS rank every Planet. / Beat Arcade on Very Hard, without using any continues. / Defeat the Omega Parasite with Lt. Striker. / Complete boss rush with every character.",
+            "primaryText": "Falling Star [20\u2605]\nBeat Arcade on Very Hard (including the TLB) with an overall S rank.\n\nTerminal Velocity [10\u2605]\nBeat Arcade on Very Hard without dying.\n\nCometSSSSStriker [20\u2605]\nS rank every Planet. / Beat Arcade on Very Hard, without using any continues. / Defeat the Omega Parasite with Lt. Striker. / Complete boss rush with every character.",
             "community": 0,
             "communityText": "",
             "achievements": 120
@@ -10924,7 +10924,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Conc Master \u2605 30\nComplete the conc jumping campaign.\n\nMeet the Soldier \u2605 30\nComplete the rocket jumping campaign.",
+            "primaryText": "Conc Master [30\u2605]\nComplete the conc jumping campaign.\n\nMeet the Soldier [30\u2605]\nComplete the rocket jumping campaign.",
             "community": 0,
             "communityText": "",
             "achievements": 3
@@ -10978,7 +10978,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rock Out With Your Conc Out \u2605 20\nComplete all time- and medal-related achievements",
+            "primaryText": "Rock Out With Your Conc Out [20\u2605]\nComplete all time- and medal-related achievements",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -11032,7 +11032,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Michelin Star Chef \u2605 20\nGet a gold medal on the last 3 shifts of every restaurant.\n\nCan I Take Your Order? \u2605 20\nProve yourself.",
+            "primaryText": "Michelin Star Chef [20\u2605]\nGet a gold medal on the last 3 shifts of every restaurant.\n\nCan I Take Your Order? [20\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Salt Bae\nGet a gold medal everywhere possible.",
             "achievements": 45
@@ -11086,7 +11086,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Golden Roadtrip \u2605 15\nObtain all gold on every route.\n\nMake Gordon Proud \u2605 15\nObtain all \"perfect day using n-point menu\" achievements.",
+            "primaryText": "Golden Roadtrip [15\u2605]\nObtain all gold on every route.\n\nMake Gordon Proud [15\u2605]\nObtain all \"perfect day using n-point menu\" achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 57
@@ -11140,7 +11140,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "On a Cororoll \u2605 5\nGet 3 stars on all Battle Dome Challenges on Insane difficulty.\n\nCoromaster \u2605 5\nProve yourself.",
+            "primaryText": "On a Cororoll [5\u2605]\nGet 3 stars on all Battle Dome Challenges on Insane difficulty.\n\nCoromaster [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 80
@@ -11194,7 +11194,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Astrophobia \u2605 5\nEscape the spaceship and beat the game.",
+            "primaryText": "Astrophobia [5\u2605]\nEscape the spaceship and beat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -11249,7 +11249,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Your Own Nightmare \u2605 70\nBeat a Trial on Nightmare including the TLB.\n\nDream Adventurer \u2605 15\nBeat a Trial on Expert.\n\nDream Explorer \u2605 5\nBeat a Trial on Maniac.",
+            "primaryText": "Your Own Nightmare [70\u2605]\nBeat a Trial on Nightmare including the TLB.\n\nDream Adventurer [15\u2605]\nBeat a Trial on Expert.\n\nDream Explorer [5\u2605]\nBeat a Trial on Maniac.",
             "community": 2,
             "communityText": "Inner Peace\nClear each stage with a Pacifist rank (including Stage 9).\n\nThis might be a dream, but it's not something you sleep through\nGet a counterstop.",
             "achievements": 40
@@ -11303,7 +11303,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Tunnel Vision \u2605 10\nComplete level 5.",
+            "primaryText": "Tunnel Vision [10\u2605]\nComplete level 5.",
             "community": 0,
             "communityText": "",
             "achievements": 5
@@ -11357,7 +11357,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "May the Best Crab Win \u2605 15\nComplete the game on \"True Ultra Chaos\" Difficulty\n\nBattle of the Bays \u2605 35\nSeperately; Reach diamond account rank and complete the game on \"Ultra Chaos\" difficulty.",
+            "primaryText": "May the Best Crab Win [15\u2605]\nComplete the game on \"True Ultra Chaos\" Difficulty\n\nBattle of the Bays [35\u2605]\nSeperately; Reach diamond account rank and complete the game on \"Ultra Chaos\" difficulty.",
             "community": 1,
             "communityText": "Shell-ebrate your success\nComplete all challenges.",
             "achievements": 100
@@ -11412,7 +11412,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "True Golden Challenger \u2605 10\nGet all gold medals in challenge mode.\n\nGilded Doughnut \u2605 5\nGet all gold time medals and finish all levels in challenge mode.",
+            "primaryText": "True Golden Challenger [10\u2605]\nGet all gold medals in challenge mode.\n\nGilded Doughnut [5\u2605]\nGet all gold time medals and finish all levels in challenge mode.",
             "community": 0,
             "communityText": "",
             "achievements": 46
@@ -11466,7 +11466,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Steaming Pile \u2605 30\nSeparately, reach the end with no face plants, and without having your shit interrupted.",
+            "primaryText": "Steaming Pile [30\u2605]\nSeparately, reach the end with no face plants, and without having your shit interrupted.",
             "community": 0,
             "communityText": "",
             "achievements": 3
@@ -11515,7 +11515,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Spin to Win \u2605 45\nEarn all purple dev time trial relics.\n\nIt's About Time \u2605 20\nEarn all platinum time trial relics.\n\nN.Sanely Perfect \u2605 15\nEarn all N.Sanely perfect relics & platinum flashback relics.",
+            "primaryText": "Spin to Win [45\u2605]\nEarn all purple dev time trial relics.\n\nIt's About Time [20\u2605]\nEarn all platinum time trial relics.\n\nN.Sanely Perfect [15\u2605]\nEarn all N.Sanely perfect relics & platinum flashback relics.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -11569,7 +11569,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "WOAH! \u2605 25\nObtain all platinum relics.\n\nSolid Gold Bandicoot \u2605 10\nObtain all gold relics and all gems from all three games.",
+            "primaryText": "WOAH! [25\u2605]\nObtain all platinum relics.\n\nSolid Gold Bandicoot [10\u2605]\nObtain all gold relics and all gems from all three games.",
             "community": 2,
             "communityText": "Crash Course\nBeat all dev times (except \"Hog Ride\" and \"Bye Bye Blimps\").\n\nCrashn't\nComplete all primary objectives from all site-listed games in the Crash Bandicoot franchise. See verification requirements for complete list.",
             "achievements": 74
@@ -11623,7 +11623,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Long Haul Ironman \u2605 80 (Partial: \u2605 40)\nBeat Hardcore mode on Insane difficulty.",
+            "primaryText": "Long Haul Ironman[80\u2605  (Partial: 40\u2605)]\nBeat Hardcore mode on Insane difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -11672,7 +11672,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Crrrrrazy Taxi! \u2605 10\nProve yourself.",
+            "primaryText": "Crrrrrazy Taxi! [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -11726,7 +11726,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "UNLIMITED Clear \u2605 130\nClear UNLIMITED mode (no stage restarts or continues).\n\nBOOST Clear \u2605 40\nClear the BOOST mode in ARCADE difficulty (no stage restarts or continues).\n\nORIGINAL Clear \u2605 40\nClear the ORIGINAL mode in ARCADE difficulty (no stage restarts or continues). \n\nTime Attack Master \u2605 20\nReach the highest ranking in TIME ATTACK.",
+            "primaryText": "UNLIMITED Clear [130\u2605]\nClear UNLIMITED mode (no stage restarts or continues).\n\nBOOST Clear [40\u2605]\nClear the BOOST mode in ARCADE difficulty (no stage restarts or continues).\n\nORIGINAL Clear [40\u2605]\nClear the ORIGINAL mode in ARCADE difficulty (no stage restarts or continues). \n\nTime Attack Master [20\u2605]\nReach the highest ranking in TIME ATTACK.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -11781,7 +11781,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Genesis Wing \u2605 25\nProve yourself on the different modes.",
+            "primaryText": "Genesis Wing [25\u2605]\nProve yourself on the different modes.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -11835,7 +11835,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "The Fifth Element \u2605 15\nObtain an overall rank of platinum on all non-Custom Cup Rush Modes in the Arena.\n\nMaster of Spheromancy \u2605 25\nObtain a platinum medal on every individual round across all cups in the Arena.\n\nWarrior of the Playground \u2605 5\nObtain an overall rank of gold on all non-Custom Cup Rush Modes in the Arena.\n\nLea! \u2605 15\nObtain a gold medal on every individual round across all cups in the Arena.",
+            "primaryText": "The Fifth Element [15\u2605]\nObtain an overall rank of platinum on all non-Custom Cup Rush Modes in the Arena.\n\nMaster of Spheromancy [25\u2605]\nObtain a platinum medal on every individual round across all cups in the Arena.\n\nWarrior of the Playground [5\u2605]\nObtain an overall rank of gold on all non-Custom Cup Rush Modes in the Arena.\n\nLea! [15\u2605]\nObtain a gold medal on every individual round across all cups in the Arena.",
             "community": 2,
             "communityText": "Virtue of Perfection\nComplete all Rush Modes with a platinum medal in every round.\n\nHow?\nFinish all 127 quests with only the \"Prepare to Hi!\" modifier enabled in New Game Plus.",
             "achievements": 86
@@ -11890,7 +11890,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Crossing Fella \u2605 10\nObtain all stars.",
+            "primaryText": "Crossing Fella [10\u2605]\nObtain all stars.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -11944,7 +11944,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "CEO Mindset \u2605 15\nSeparately, get an S rank everywhere obtainable and complete every mission with Punishment modifier.\n\nDeath Bringer \u2605 10\nComplete all levels.",
+            "primaryText": "CEO Mindset [15\u2605]\nSeparately, get an S rank everywhere obtainable and complete every mission with Punishment modifier.\n\nDeath Bringer [10\u2605]\nComplete all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -11998,7 +11998,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sanicball \u2605 10 (Partial: \u2605 5)\nGet all 40 stars in the game. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Sanicball[10\u2605  (Partial: 5\u2605)]\nGet all 40 stars in the game. *Partial points are awarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -12052,7 +12052,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "OMNIscient Admiral \u2605 25\nComplete every chapter with the Void ship. / Complete Chapters 3 and 6 with every ship on Hard difficulty.",
+            "primaryText": "OMNIscient Admiral [25\u2605]\nComplete every chapter with the Void ship. / Complete Chapters 3 and 6 with every ship on Hard difficulty.",
             "community": 1,
             "communityText": "Class Act\nComplete every chapter with every battleship on Hard difficulty.",
             "achievements": 65
@@ -12106,7 +12106,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Respect the Dead \u2605 15\nAchieve an S+ rank on every boss for every difficulty in Boss Rush mode.",
+            "primaryText": "Respect the Dead [15\u2605]\nAchieve an S+ rank on every boss for every difficulty in Boss Rush mode.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -12160,7 +12160,7 @@ var data =
         },
         "milestones": {
             "primary": 7,
-            "primaryText": "Night of the Dancing Dead \u2605 300\nComplete an \"All Chars\" run without picking up any items or using any shrines (DLC not required).\n\nDeath Waltz \u2605 250\nComplete \"All Zones Mode\" with solo Coda (DLC not required).\n\nNecromantic Flash Mob \u2605 50\nComplete an \"All Chars AMP\" run (AMPLIFIED DLC required).\n\nAve Aria \u2605 40\nComplete \"All Zones Mode\" with solo Aria without picking up any items or using any shrines (DLC not required).\n\nGrave Party \u2605 30\nComplete \"All Zones Mode\" with Bolt, Tempo, Monk, and Mary (AMPLIFIED DLC Required).\n\nPolyphonic \u2605 20\nProve yourself (AMPLIFIED DLC Required).\n\nPrelude in Crypt Major \u2605 10\nComplete \"All Zones Mode\" with solo Cadence (DLC not required).",
+            "primaryText": "Night of the Dancing Dead [300\u2605]\nComplete an \"All Chars\" run without picking up any items or using any shrines (DLC not required).\n\nDeath Waltz [250\u2605]\nComplete \"All Zones Mode\" with solo Coda (DLC not required).\n\nNecromantic Flash Mob [50\u2605]\nComplete an \"All Chars AMP\" run (AMPLIFIED DLC required).\n\nAve Aria [40\u2605]\nComplete \"All Zones Mode\" with solo Aria without picking up any items or using any shrines (DLC not required).\n\nGrave Party [30\u2605]\nComplete \"All Zones Mode\" with Bolt, Tempo, Monk, and Mary (AMPLIFIED DLC Required).\n\nPolyphonic [20\u2605]\nProve yourself (AMPLIFIED DLC Required).\n\nPrelude in Crypt Major [10\u2605]\nComplete \"All Zones Mode\" with solo Cadence (DLC not required).",
             "community": 2,
             "communityText": "Codafied\nComplete \"All Zones Mode\" with solo Coda without picking up any items or using any shrines.\n\nHow Low Can You Go?\nComplete \"All Zones Mode\" with every DLC character separately without picking up any items or using any shrines.",
             "achievements": 53
@@ -12214,7 +12214,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Time is Power \u2605 5\nBeat the boss rush (Challenge Mode).",
+            "primaryText": "Time is Power [5\u2605]\nBeat the boss rush (Challenge Mode).",
             "community": 0,
             "communityText": "",
             "achievements": 108
@@ -12231,8 +12231,8 @@ var data =
         "points": 25,
         "createdAt": "2020-01-28T06:23:50.000Z",
         "updatedAt": "2024-09-28T16:51:24.000Z",
-        "playersCompleted": 51,
-        "playersStarted": 214,
+        "playersCompleted": 52,
+        "playersStarted": 213,
         "playersTotal": 917,
         "priceData": {
             "USD": {
@@ -12268,7 +12268,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "A Great Slam And Then Some \u2605 10\nObtain all DLC S ranks.\n\nCeramic Warrior \u2605 10\nObtain all non-DLC S ranks.\n\nBRAVO!!! \u2605 5\nProve yourself.",
+            "primaryText": "A Great Slam And Then Some [10\u2605]\nObtain all DLC S ranks.\n\nCeramic Warrior [10\u2605]\nObtain all non-DLC S ranks.\n\nBRAVO!!! [5\u2605]\nProve yourself.",
             "community": 2,
             "communityText": "Knee Slapper\nBeat all possible bosses on Expert without using a super art or firing a shot.\n\nRubber Hose\nObtain all S ranks without using either Ms. Chalice or the Divine Charm.",
             "achievements": 42
@@ -12323,7 +12323,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Remembrance \u2605 50\nDefeat all bosses without taking damage.\n\nRevelation \u2605 30\nClear all Hard mode explorations.\n\nAwakening \u2605 10\nClear all Normal mode explorations.",
+            "primaryText": "Remembrance [50\u2605]\nDefeat all bosses without taking damage.\n\nRevelation [30\u2605]\nClear all Hard mode explorations.\n\nAwakening [10\u2605]\nClear all Normal mode explorations.",
             "community": 1,
             "communityText": "Cursed Journal\nWrite all Bestiary entries with their complete sketches.",
             "achievements": 30
@@ -12377,7 +12377,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Erradicador del Mal \u2605 40\nFinish the game with the fire sword equipped. / Eradicate the evil in less than 50 minutes.",
+            "primaryText": "Erradicador del Mal [40\u2605]\nFinish the game with the fire sword equipped. / Eradicate the evil in less than 50 minutes.",
             "community": 1,
             "communityText": "Blessed Castilla\nFinish the game without dying. ",
             "achievements": 16
@@ -12431,7 +12431,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Barbaric Strength \u2605 15\nBeat the game without messing up a combo. / Beat the game without taking any damage.",
+            "primaryText": "Barbaric Strength [15\u2605]\nBeat the game without messing up a combo. / Beat the game without taking any damage.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -12485,7 +12485,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Retrowave Traceur \u2605 10\nBeat the 3-crystal time on every level.",
+            "primaryText": "Retrowave Traceur [10\u2605]\nBeat the 3-crystal time on every level.",
             "community": 2,
             "communityText": "Cyber Contortionist\nComplete each chapter in the DLC campaign in level order without dying or quitting/resetting any levels, while also getting at least a 1-crystal time per level.\n\nSynthwave Acrobat\nComplete each chapter in the main campaign in level order without dying or quitting/resetting any levels, while also getting at least a 1-crystal time per level.",
             "achievements": 22
@@ -12539,7 +12539,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cyber Ninja \u2605 20\nProve yourself.",
+            "primaryText": "Cyber Ninja [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -12593,7 +12593,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Next Gen Ninja \u2605 5\nProve yourself.\n\nRobo-Cat Rescuer \u2605 5\nRescue all 60 cats.",
+            "primaryText": "Next Gen Ninja [5\u2605]\nProve yourself.\n\nRobo-Cat Rescuer [5\u2605]\nRescue all 60 cats.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -12647,7 +12647,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Salt Survivor \u2605 20\nFinish the game in less than 1h 17m. / Finish the game without opening more than 35% of the chests. / Finish the game again (any ending) with 2 challenges or more. / Beat Tormenta.",
+            "primaryText": "Salt Survivor [20\u2605]\nFinish the game in less than 1h 17m. / Finish the game without opening more than 35% of the chests. / Finish the game again (any ending) with 2 challenges or more. / Beat Tormenta.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -12701,7 +12701,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "A True Magician \u2605 30\nDefeat Lele on Nightmare difficulty.",
+            "primaryText": "A True Magician [30\u2605]\nDefeat Lele on Nightmare difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -12755,7 +12755,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Ghost Buster \u2605 20\nProve yourself.\n\nSpiritual Experience \u2605 5\nProve yourself.",
+            "primaryText": "Ghost Buster [20\u2605]\nProve yourself.\n\nSpiritual Experience [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 66
@@ -12809,7 +12809,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Danmakainya \u2605 55\nClear Lunatic and Extra. Clear all spell cards with all characters.",
+            "primaryText": "Danmakainya [55\u2605]\nClear Lunatic and Extra. Clear all spell cards with all characters.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -12863,7 +12863,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Ultimate Cheating Lifeform \u2605 140\nClear all scenes without using items.\n\nPeak Amanojaku \u2605 10\nClear all scenes.",
+            "primaryText": "Ultimate Cheating Lifeform [140\u2605]\nClear all scenes without using items.\n\nPeak Amanojaku [10\u2605]\nClear all scenes.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -12917,7 +12917,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Trillionare \u2605 25\nCollect one trillion points.\n\nTrue Boss \u2605 5\nDefeat the True Boss.",
+            "primaryText": "Trillionare [25\u2605]\nCollect one trillion points.\n\nTrue Boss [5\u2605]\nDefeat the True Boss.",
             "community": 1,
             "communityText": "Abyss\nDefeat the True Boss on Extreme without continues.",
             "achievements": 25
@@ -12971,7 +12971,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Spirit of Graze \u2605 20\nGraze 10,000 bullets in one chain. / Defeat the True Last Boss in Spirit Mode and Graze Mode.",
+            "primaryText": "Spirit of Graze [20\u2605]\nGraze 10,000 bullets in one chain. / Defeat the True Last Boss in Spirit Mode and Graze Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -13025,7 +13025,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Depressing Alternative of Pikmin \u2605 15 (Partial: \u2605 5)\nBeat the game without dying.",
+            "primaryText": "Depressing Alternative of Pikmin[15\u2605  (Partial: 5\u2605)]\nBeat the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -13079,7 +13079,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Flawless Space Sailor \u2605 45\nComplete the QUZ route in Original EX Mode without getting hit.",
+            "primaryText": "Flawless Space Sailor [45\u2605]\nComplete the QUZ route in Original EX Mode without getting hit.",
             "community": 2,
             "communityText": "Chronicle Specialist\nComplete CS mode using the default ship on every mission.\n\nSaviour of the Cosmos\nGet all achievements.",
             "achievements": 32
@@ -13133,7 +13133,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Faithful Templar \u2605 20\nReach the end of the Temple while wearing the Redeemer\u2019s curse. Be an example, show the path.",
+            "primaryText": "Faithful Templar [20\u2605]\nReach the end of the Temple while wearing the Redeemer\u2019s curse. Be an example, show the path.",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -13187,7 +13187,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Dark Conqueror \u2605 10\nBeat the game without dying.\n\nExalted Soul \u2605 5\nBeat the game without resting at a bonfire.\n\nCrown of the Fallen \u2605 5\nDefeat all bosses in all of the three DLCs.\n\nBearer of the Curse \u2605 10\nBeat the game.",
+            "primaryText": "Dark Conqueror [10\u2605]\nBeat the game without dying.\n\nExalted Soul [5\u2605]\nBeat the game without resting at a bonfire.\n\nCrown of the Fallen [5\u2605]\nDefeat all bosses in all of the three DLCs.\n\nBearer of the Curse [10\u2605]\nBeat the game.",
             "community": 4,
             "communityText": "Dark Child of the Outlands\nBeat the game on NG+7.\n\nDeprived For Life\nBeat the game at soul level 1.\n\nPop No Hits, Vol. 2\nBeat the game without getting hit (see the proof requirement below).\n\nRestless Soul \nBeat the game without dying or resting at a bonfire on a solo NG savefile.",
             "achievements": 38
@@ -13241,7 +13241,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "The Ringed Soul \u2605 5\nDefeat all bosses in both DLCs.\n\nPraise the Sun \u2605 10\nDefeat the required bosses listed below.",
+            "primaryText": "The Ringed Soul [5\u2605]\nDefeat all bosses in both DLCs.\n\nPraise the Sun [10\u2605]\nDefeat the required bosses listed below.",
             "community": 4,
             "communityText": "Fading Light\nBeat the game on NG+7.\n\nFrom Soft to Insane\nBeat the game without getting hit (see the proof requirement below).\n\nGot Good\nBeat the game without dying. \n\nIron Soul\nBeat the game at soul level 1.",
             "achievements": 43
@@ -13296,7 +13296,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "The True Abysswalker \u2605 5\nBeat all bosses in the Artorias of the Abyss DLC.\n\nChosen Undead \u2605 10\nDefeat the required bosses listed below.",
+            "primaryText": "The True Abysswalker [5\u2605]\nBeat all bosses in the Artorias of the Abyss DLC.\n\nChosen Undead [10\u2605]\nDefeat the required bosses listed below.",
             "community": 4,
             "communityText": "Let There Be Fire\nBeat the game on NG+6.\n\nPyromancy Run\nBeat the game at soul level 1.\n\nUndying Champion\nBeat the game without dying.\n\nUntouchable Hero\nBeat the game without getting hit (see the proof requirement below).",
             "achievements": 41
@@ -13350,7 +13350,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Confession Conqueror \u2605 20\nKill the Shambler with the Shambler pet equipped. / Defeat all 5 Confessions with the same four heroes without any of them dying. / Beat the final boss with the Stygian Blaze equipped.",
+            "primaryText": "Confession Conqueror [20\u2605]\nKill the Shambler with the Shambler pet equipped. / Defeat all 5 Confessions with the same four heroes without any of them dying. / Beat the final boss with the Stygian Blaze equipped.",
             "community": 0,
             "communityText": "",
             "achievements": 65
@@ -13404,7 +13404,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Swift Shifts \u2605 10\nGet an A+ rank in every level. / Collect all lightbulbs.",
+            "primaryText": "Swift Shifts [10\u2605]\nGet an A+ rank in every level. / Collect all lightbulbs.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -13458,7 +13458,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "The Abyss in the Woods \u2605 15\nBeat chapter 1 on \"Nightmare\" mode.\n\nNightful Bliss \u2605 5\nBeat the game.",
+            "primaryText": "The Abyss in the Woods [15\u2605]\nBeat chapter 1 on \"Nightmare\" mode.\n\nNightful Bliss [5\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -13507,7 +13507,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ghost Demon \u2605 15\nBeat all levels. / Reach Wave 15 on all endless levels.",
+            "primaryText": "Ghost Demon [15\u2605]\nBeat all levels. / Reach Wave 15 on all endless levels.",
             "community": 0,
             "communityText": "",
             "achievements": 124
@@ -13561,7 +13561,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Universe Ender \u2605 80\nSeparately, complete Boss Rush Mode with One Hit Mode and Easy Mode enabled.\n\nDeadly \u2605 20\nKill each boss under special conditions. / Complete the game with Easy Mode enabled.",
+            "primaryText": "Universe Ender [80\u2605]\nSeparately, complete Boss Rush Mode with One Hit Mode and Easy Mode enabled.\n\nDeadly [20\u2605]\nKill each boss under special conditions. / Complete the game with Easy Mode enabled.",
             "community": 5,
             "communityText": "Ultra Violent\nComplete Boss Rush Mode with Easy Mode and Angry Mode enabled simultaneously.\n\nUndead\nComplete Boss Rush Mode with One Hit Mode and Easy Mode enabled simultaneously.\n\nUniverse Annihilator\nComplete Boss Rush Mode with Angry Mode enabled.\n\nRestless Wrath\nComplete the game with Easy Mode and Angry Mode enabled simultaneously. Unlocking all bosses from the start is disallowed.\n\nAnger Issues\nComplete the game with Angry Mode enabled. Unlocking all bosses from the start is disallowed.",
             "achievements": 40
@@ -13616,7 +13616,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Radiant Triumph \u2605 50\nClear the Stage 4 Boss Rush with 5BC without getting hit and without using Assist mode.\n\nHarder, Better, Faster, Stronger \u2605 10\nClear the Stage 4 Boss Rush with 5BC without using Assist mode.\n\nFreed from My Shackles \u2605 75 (Partial: \u2605 10)\nObtain all Hitless achievements.",
+            "primaryText": "Radiant Triumph [50\u2605]\nClear the Stage 4 Boss Rush with 5BC without getting hit and without using Assist mode.\n\nHarder, Better, Faster, Stronger [10\u2605]\nClear the Stage 4 Boss Rush with 5BC without using Assist mode.\n\nFreed from My Shackles[75\u2605  (Partial: 10\u2605)]\nObtain all Hitless achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 121
@@ -13671,7 +13671,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Monster Mash \u2605 20\nProve yourself.",
+            "primaryText": "Monster Mash [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 144
@@ -13725,7 +13725,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Warbringer \u2605 15\nGet a five star rating on all missions on Hard Mode.\n\nThrough Rain and Ash \u2605 5\nBeat the game on Hard Mode.\n\nFear the Reaper \u2605 70\nOn one savefile: Get a five star rating on all missions. / Beat the entire game within 1 hour without quitting. / Beat the entire game without dying or quitting.",
+            "primaryText": "Warbringer [15\u2605]\nGet a five star rating on all missions on Hard Mode.\n\nThrough Rain and Ash [5\u2605]\nBeat the game on Hard Mode.\n\nFear the Reaper [70\u2605]\nOn one savefile: Get a five star rating on all missions. / Beat the entire game within 1 hour without quitting. / Beat the entire game without dying or quitting.",
             "community": 2,
             "communityText": "Ashes to Ashes\nBeat the game on Hard Mode within 1 hour without dying.\n\nMade of Bones\nBeat the game within 1 hour without dying and without quitting any missions.",
             "achievements": 24
@@ -13780,7 +13780,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Speed of the Void \u2605 15\nComplete a full Cycle within an hour. / Beat the developers' time on every Speedrun mode map.",
+            "primaryText": "Speed of the Void [15\u2605]\nComplete a full Cycle within an hour. / Beat the developers' time on every Speedrun mode map.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -13829,7 +13829,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rotten to the Core \u2605 5\nComplete all levels in Nightmare Mode with maximum rank.",
+            "primaryText": "Rotten to the Core [5\u2605]\nComplete all levels in Nightmare Mode with maximum rank.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -13883,7 +13883,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Chronic Quickness \u2605 25\nGet the master time on every chronodeck level with every character.\n\nHeadcase \u2605 10\nBeat the game on Neuromancy difficulty with all characters.\n\nDrop Dead \u2605 10\nComplete all Speedrun Achievements.\n\nNeurotic \u2605 10\nBeat the game on Neuromancy difficulty.\n\nMissing Link \u2605 5\nProve yourself.",
+            "primaryText": "Chronic Quickness [25\u2605]\nGet the master time on every chronodeck level with every character.\n\nHeadcase [10\u2605]\nBeat the game on Neuromancy difficulty with all characters.\n\nDrop Dead [10\u2605]\nComplete all Speedrun Achievements.\n\nNeurotic [10\u2605]\nBeat the game on Neuromancy difficulty.\n\nMissing Link [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 74
@@ -13937,7 +13937,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "I Am Become Death \u2605 15\nBeat 30 missions in Domination mode.",
+            "primaryText": "I Am Become Death [15\u2605]\nBeat 30 missions in Domination mode.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -13991,7 +13991,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Wish for Death \u2605 15\nComplete Boss Rush on \"Challenge\" Sin and Punishment difficulty.",
+            "primaryText": "Wish for Death [15\u2605]\nComplete Boss Rush on \"Challenge\" Sin and Punishment difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -14045,7 +14045,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Zip Zap Zoom \u2605 15\nObtain a Z rank on every level.",
+            "primaryText": "Zip Zap Zoom [15\u2605]\nObtain a Z rank on every level.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -14099,7 +14099,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Knocking on.. \u2605 10\nSeparately, 100% the game and beat the game using only the umbrella.",
+            "primaryText": "Knocking on.. [10\u2605]\nSeparately, 100% the game and beat the game using only the umbrella.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -14153,7 +14153,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Death's Right Hand \u2605 30\nDefeat all bosses in Heroic. / Kill the final boss without quitting the game and in under 4 hours from starting the game and without leveling up.",
+            "primaryText": "Death's Right Hand [30\u2605]\nDefeat all bosses in Heroic. / Kill the final boss without quitting the game and in under 4 hours from starting the game and without leveling up.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -14207,7 +14207,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Spirited Away (UNCLEARED) \u2605 1\nBeat the game on Fatal difficulty.\n\nDeathcathalon \u2605 25\nBeat the game on Hard difficulty. / Get a total time of 2 hours or less across all levels.\n\nDungeons and Draugrs \u2605 10\nBeat the game on Normal difficulty.",
+            "primaryText": "Spirited Away (UNCLEARED) [1\u2605]\nBeat the game on Fatal difficulty.\n\nDeathcathalon [25\u2605]\nBeat the game on Hard difficulty. / Get a total time of 2 hours or less across all levels.\n\nDungeons and Draugrs [10\u2605]\nBeat the game on Normal difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -14261,7 +14261,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Showstopper \u2605 5\nKill the host.",
+            "primaryText": "Showstopper [5\u2605]\nKill the host.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -14315,7 +14315,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Virtuous Virtuoso \u2605 75 (Partial: \u2605 25)\nClear Deathsmiles Version 1.1 with all maps at Lv3! (No Continues, Ex Map included).\n\nGilded Gilverado \u2605 40\nReach 300,000,000 score.\n\nAngels Against Hell \u2605 15\nClear the game without continuing on Rosa, Windia, Follett and Casper.\n\nSmiles at Death (UNCLEARED) \u2605 1\nDefeat Bloody Jitterbug (Mega Black Label only).",
+            "primaryText": "Virtuous Virtuoso[75\u2605  (Partial: 25\u2605)]\nClear Deathsmiles Version 1.1 with all maps at Lv3! (No Continues, Ex Map included).\n\nGilded Gilverado [40\u2605]\nReach 300,000,000 score.\n\nAngels Against Hell [15\u2605]\nClear the game without continuing on Rosa, Windia, Follett and Casper.\n\nSmiles at Death (UNCLEARED) [1\u2605]\nDefeat Bloody Jitterbug (Mega Black Label only).",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -14369,7 +14369,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Heaping Snow \u2605 5\nClear DSII's Arcade mode without continuing.\n\nFever Christmas (UNCLEARED) \u2605 1\nProve yourself on the X mode.",
+            "primaryText": "Heaping Snow [5\u2605]\nClear DSII's Arcade mode without continuing.\n\nFever Christmas (UNCLEARED) [1\u2605]\nProve yourself on the X mode.",
             "community": 0,
             "communityText": "",
             "achievements": 43
@@ -14423,7 +14423,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Call of the Abyss \u2605 25\nBeat the game at maximum Desecration. / Beat the game without taking damage.",
+            "primaryText": "Call of the Abyss [25\u2605]\nBeat the game at maximum Desecration. / Beat the game without taking damage.",
             "community": 0,
             "communityText": "",
             "achievements": 38
@@ -14477,7 +14477,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Melodies Worth A Thousand Memories \u2605 130\nObtain an \"All Charming\" rank on all Hard charts.\n\nFairytale Pianist \u2605 20\nAchieve a score of 80% or higher on all Hard charts.",
+            "primaryText": "Melodies Worth A Thousand Memories [130\u2605]\nObtain an \"All Charming\" rank on all Hard charts.\n\nFairytale Pianist [20\u2605]\nAchieve a score of 80% or higher on all Hard charts.",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -14531,7 +14531,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Leave No Dwarf Behind \u2605 15\nProve yourself.",
+            "primaryText": "Leave No Dwarf Behind [15\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Lone Digger\nComplete a solo Elite Deep Dive without using bosco or dying. No mods allowed.",
             "achievements": 69
@@ -14586,7 +14586,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "In Working Order \u2605 5\nObtain Platinum medals in all Time Trials.",
+            "primaryText": "In Working Order [5\u2605]\nObtain Platinum medals in all Time Trials.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -14640,7 +14640,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hellraiser Allstar \u2605 5\nObtain 3 stars on all levels.",
+            "primaryText": "Hellraiser Allstar [5\u2605]\nObtain 3 stars on all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -14695,7 +14695,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Joke's on You \u2605 15\nComplete the Tower.",
+            "primaryText": "Joke's on You [15\u2605]\nComplete the Tower.",
             "community": 1,
             "communityText": "Hexceptional \nComplete the Tower with Hex Mode enabled.",
             "achievements": 40
@@ -14749,7 +14749,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Lilith Awakens \u2605 10\nBreak a billion points in one game. / Spell all Ritual Words in one game.",
+            "primaryText": "Lilith Awakens [10\u2605]\nBreak a billion points in one game. / Spell all Ritual Words in one game.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -14803,7 +14803,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Falling Star \u2605 15\nClear the game with 5 falls or less. / Save 9 dogs.",
+            "primaryText": "Falling Star [15\u2605]\nClear the game with 5 falls or less. / Save 9 dogs.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -14857,7 +14857,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "True Descender \u2605 25\nComplete \"BikeOut!\", \"BikeOut! Again!\", \"Oh No, Not BikeOut Again\" and \"Bikeowwwwwt\". / Complete all the bonus worlds.\n\nWay of the Cyclist \u2605 20\nFinish a Career session from highlands to peaks without bailing a single time.\n\nDownhill Daredevil \u2605 10\nUnlock all 10 zones in Freeride mode.",
+            "primaryText": "True Descender [25\u2605]\nComplete \"BikeOut!\", \"BikeOut! Again!\", \"Oh No, Not BikeOut Again\" and \"Bikeowwwwwt\". / Complete all the bonus worlds.\n\nWay of the Cyclist [20\u2605]\nFinish a Career session from highlands to peaks without bailing a single time.\n\nDownhill Daredevil [10\u2605]\nUnlock all 10 zones in Freeride mode.",
             "community": 3,
             "communityText": "Made of Bicycles\nFinish a Career session from highlands to peaks without bailing or restarting.\n\nSmoking Sexy Style\nUnlock the Rainbow Lux Bike.\n\nThe Platinum Run\nFinish a Career+ session from desert to glaciers without bailing or restarting.",
             "achievements": 42
@@ -14911,7 +14911,7 @@ var data =
         },
         "milestones": {
             "primary": 8,
-            "primaryText": "Master of All Trades \u2605 160\nComplete \"Cursed Oasis\", \"Shifting Passages\", \"The Labyrinth\", and every vicious dungeon with all classes (except Goatperson).\n\nGreatest of All Time \u2605 40\nComplete every dungeon with Goatperson and complete all triple quests.\n\nBlood, Sweat and Badges \u2605 110\nObtain every badge (including the Vicious Token) in all dungeons. \n\nVariegated Vanquisher \u2605 30\nObtain every badge (including the Vicious Token) in all non-vicious dungeons.\n\nNo Job Too Odd \u2605 50\nComplete every quest.\n\nOutclassed \u2605 35\nComplete the gold challenge for every class.\n\nUpper Class \u2605 25\nComplete the silver challenge for every class.\n\nClass Literacy \u2605 10\nComplete the bronze challenge for every class.",
+            "primaryText": "Master of All Trades [160\u2605]\nComplete \"Cursed Oasis\", \"Shifting Passages\", \"The Labyrinth\", and every vicious dungeon with all classes (except Goatperson).\n\nGreatest of All Time [40\u2605]\nComplete every dungeon with Goatperson and complete all triple quests.\n\nBlood, Sweat and Badges [110\u2605]\nObtain every badge (including the Vicious Token) in all dungeons. \n\nVariegated Vanquisher [30\u2605]\nObtain every badge (including the Vicious Token) in all non-vicious dungeons.\n\nNo Job Too Odd [50\u2605]\nComplete every quest.\n\nOutclassed [35\u2605]\nComplete the gold challenge for every class.\n\nUpper Class [25\u2605]\nComplete the silver challenge for every class.\n\nClass Literacy [10\u2605]\nComplete the bronze challenge for every class.",
             "community": 1,
             "communityText": "Rainbow Ruler\nComplete every dungeon with all classes and obtain all badges.",
             "achievements": 35
@@ -14966,7 +14966,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Digital Despot \u2605 15\nProve yourself.",
+            "primaryText": "Digital Despot [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -15020,7 +15020,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Destructivation \u2605 10\nSeparately: Achieve a 5 star rating on all levels, and destroy all Spybots.",
+            "primaryText": "Destructivation [10\u2605]\nSeparately: Achieve a 5 star rating on all levels, and destroy all Spybots.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -15074,7 +15074,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Chromatic Aberration (UNCLEARED) \u2605 1\nObtain an S+ rank on all regular and Aberration levels\n\nSynced for Destruction \u2605 10\nProve yourself.",
+            "primaryText": "Chromatic Aberration (UNCLEARED) [1\u2605]\nObtain an S+ rank on all regular and Aberration levels\n\nSynced for Destruction [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 179
@@ -15128,7 +15128,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Human at the Core \u2605 10\nSeparately, beat the game without triggering any alarms, without killing anyone and on the hardest difficulty. / Complete \"Hei Zhen Zhu\" and \"Rifleman Bank Station\" using no Praxis kits, weapons, grenades or mines.",
+            "primaryText": "Human at the Core [10\u2605]\nSeparately, beat the game without triggering any alarms, without killing anyone and on the hardest difficulty. / Complete \"Hei Zhen Zhu\" and \"Rifleman Bank Station\" using no Praxis kits, weapons, grenades or mines.",
             "community": 0,
             "communityText": "",
             "achievements": 59
@@ -15182,7 +15182,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "I Never Asked For This \u2605 5\nBeat the game on the hardest difficulty.\n\nPacifist \u2605 5\nFinish the game without triggering any alarm. / Finish the game without killing anyone.",
+            "primaryText": "I Never Asked For This [5\u2605]\nBeat the game on the hardest difficulty.\n\nPacifist [5\u2605]\nFinish the game without triggering any alarm. / Finish the game without killing anyone.",
             "community": 0,
             "communityText": "",
             "achievements": 81
@@ -15236,7 +15236,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "QuadCycle Rampage \u2605 10\nObtain an S rank in all levels in \"Elite\" difficulty.",
+            "primaryText": "QuadCycle Rampage [10\u2605]\nObtain an S rank in all levels in \"Elite\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -15290,7 +15290,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Dagger Deity \u2605 275\nSurvive for 1000 seconds.\n\nDevil Dagger \u2605 100\nSurvive for 500 seconds.",
+            "primaryText": "Dagger Deity [275\u2605]\nSurvive for 1000 seconds.\n\nDevil Dagger [100\u2605]\nSurvive for 500 seconds.",
             "community": 7,
             "communityText": "Dagger Devil\nSurvive for 1200 seconds.\n\nDagger Dictator\nSurvive for 1100 seconds.\n\nDaggerless\nSurvive for 110 seconds without firing a shot.\n\nHyper Deity\nSurvive for 1000 seconds without using \"farm\" tactics.\n\nSharp Steeled\nSurvive for 500 seconds on both the original \"V1\" and \"V2\" spawnsets.\n\nSuicide Mission\nSurvive for 500 seconds with only a Level 2 hand.\n\nDaggerborn\nSurvive for 1250 seconds.",
             "achievements": 1
@@ -15344,7 +15344,7 @@ var data =
         },
         "milestones": {
             "primary": 7,
-            "primaryText": "Devil Engines (UNCLEARED) \u2605 1\nClear Expert with all three ships, in one session, without using continues or quitting prematurely.\n\nMisotheism (UNCLEARED) \u2605 1\nClear Expert with each ship without using continues.\n\nUltimate Ignition (UNCLEARED) \u2605 1\nClear Ignition Mode with all ships without using continues.\n\nDevil's Rush \u2605 25\nClear the Boss Rush with each ship.\n\nArtificial Martyr \u2605 30\nClear Very Hard with each ship without using continues.\n\nPocket Engine \u2605 5\nClear the Extra Stage with each ship without using continues.\n\nBootcamp \u2605 10\nClear all challenges.",
+            "primaryText": "Devil Engines (UNCLEARED) [1\u2605]\nClear Expert with all three ships, in one session, without using continues or quitting prematurely.\n\nMisotheism (UNCLEARED) [1\u2605]\nClear Expert with each ship without using continues.\n\nUltimate Ignition (UNCLEARED) [1\u2605]\nClear Ignition Mode with all ships without using continues.\n\nDevil's Rush [25\u2605]\nClear the Boss Rush with each ship.\n\nArtificial Martyr [30\u2605]\nClear Very Hard with each ship without using continues.\n\nPocket Engine [5\u2605]\nClear the Extra Stage with each ship without using continues.\n\nBootcamp [10\u2605]\nClear all challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -15399,7 +15399,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Devil May Style \u2605 75\nClear all missions with S rank on \"Dante Must Die\" and \"Hell and Hell\" mode.",
+            "primaryText": "Devil May Style [75\u2605]\nClear all missions with S rank on \"Dante Must Die\" and \"Hell and Hell\" mode.",
             "community": 0,
             "communityText": "",
             "achievements": 55
@@ -15418,7 +15418,7 @@ var data =
         "updatedAt": "2024-10-09T08:58:21.000Z",
         "playersCompleted": 0,
         "playersStarted": 11,
-        "playersTotal": 197,
+        "playersTotal": 198,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -15453,7 +15453,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Desperados (UNCLEARED) \u2605 1\nDMC3: Achieve an SS rank on all missions in \"Dante must Die\" mode.\n\nTwin Devils \u2605 15\nDMC3: Finish the game on \"Heaven or Hell\" Mode with any character. / Achieve an S Rank on all missions.",
+            "primaryText": "Desperados (UNCLEARED) [1\u2605]\nDMC3: Achieve an SS rank on all missions in \"Dante must Die\" mode.\n\nTwin Devils [15\u2605]\nDMC3: Finish the game on \"Heaven or Hell\" Mode with any character. / Achieve an S Rank on all missions.",
             "community": 1,
             "communityText": "Like Sparda, Like Son\nDMC1: Obtain an S Rank on every mission in Dante Must Die! mode (no Super Dante costume).",
             "achievements": 99
@@ -15507,7 +15507,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "What goes up, must come down \u2605 20\nBeat Ascent on Extreme. / Beat Descent on Extreme. / Kill 10 bosses in Arena on Extreme.",
+            "primaryText": "What goes up, must come down [20\u2605]\nBeat Ascent on Extreme. / Beat Descent on Extreme. / Kill 10 bosses in Arena on Extreme.",
             "community": 1,
             "communityText": "The Downward Spiral\nBeat Descent mode on Nightmare difficulty.",
             "achievements": 111
@@ -15561,7 +15561,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Unholy Diver \u2605 60\nClear all maps on Nightmare mode.\n\nExorcized \u2605 10\nClear all maps on Hard mode. ",
+            "primaryText": "Unholy Diver [60\u2605]\nClear all maps on Nightmare mode.\n\nExorcized [10\u2605]\nClear all maps on Hard mode. ",
             "community": 0,
             "communityText": "",
             "achievements": 107
@@ -15615,7 +15615,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Lucked Out \u2605 15\nComplete all six bonus rounds in hard mode. / Defeat Lady Luck.",
+            "primaryText": "Lucked Out [15\u2605]\nComplete all six bonus rounds in hard mode. / Defeat Lady Luck.",
             "community": 0,
             "communityText": "",
             "achievements": 53
@@ -15670,7 +15670,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Not Another DD... \u2605 5\nProve yourself. ",
+            "primaryText": "Not Another DD... [5\u2605]\nProve yourself. ",
             "community": 0,
             "communityText": "",
             "achievements": 69
@@ -15724,7 +15724,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gid God \u2605 25\nComplete a full loop in 3 minutes. / Complete two loops.",
+            "primaryText": "Gid God [25\u2605]\nComplete a full loop in 3 minutes. / Complete two loops.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -15778,7 +15778,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Driven Insane \u2605 10\nComplete the game on Insane difficulty. \n\nSplit Personality \u2605 5\nObtain an S rank on all levels.\n\nReality Bender (UNCLEARED) \u2605 1\nObtain all S ranks on Insane difficulty.",
+            "primaryText": "Driven Insane [10\u2605]\nComplete the game on Insane difficulty. \n\nSplit Personality [5\u2605]\nObtain an S rank on all levels.\n\nReality Bender (UNCLEARED) [1\u2605]\nObtain all S ranks on Insane difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -15832,7 +15832,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Eggscort Officer \u2605 25\nBeat the game without dying.",
+            "primaryText": "Eggscort Officer [25\u2605]\nBeat the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -15886,7 +15886,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Meteor Dodger \u2605 5\nComplete the Insane Challenge. / Complete the Insane Halloween Hellrun Challenge. / Complete the Insane Planet D Challenge. / Complete All Insane Speedruns. / Doomsurf for 60 Seconds.",
+            "primaryText": "Meteor Dodger [5\u2605]\nComplete the Insane Challenge. / Complete the Insane Halloween Hellrun Challenge. / Complete the Insane Planet D Challenge. / Complete All Insane Speedruns. / Doomsurf for 60 Seconds.",
             "community": 0,
             "communityText": "",
             "achievements": 49
@@ -15940,7 +15940,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Biggus Discus \u2605 65\nComplete all challenges without using assist mode.\n\nSawwy \u2605 15\nSurvive 10 seconds in every hard room. / Survive 20 seconds in every room. / Explore all \"????\" rooms.",
+            "primaryText": "Biggus Discus [65\u2605]\nComplete all challenges without using assist mode.\n\nSawwy [15\u2605]\nSurvive 10 seconds in every hard room. / Survive 20 seconds in every room. / Explore all \"????\" rooms.",
             "community": 2,
             "communityText": "Dev Destroyer\nBeat every developer time shown on the leaderboards in hard mode at 100% speed.\n\nDev Challenger\nBeat every developer time shown on the leaderboards in normal mode at 100% speed.",
             "achievements": 35
@@ -15959,7 +15959,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 49,
         "playersStarted": 0,
-        "playersTotal": 504,
+        "playersTotal": 505,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -15994,7 +15994,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "City in Chaos \u2605 40\nProve yourself.",
+            "primaryText": "City in Chaos [40\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 80
@@ -16048,7 +16048,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Speed Racer (UNVALUED) \u2605 1\nObtain a diamond medal on all official Sprint and Challenge tracks in Arcade Mode.\n\nStunt Driver (UNVALUED) \u2605 1\nObtain a diamond medal on all official Stunt tracks in Arcade Mode.\n\nGaining Distance \u2605 10\nObtain a gold medal on all Adventure levels in Sprint. / Complete Entanglement without using wings. / Find all three secrets in The Other Side and obtain the Crown of the Elders.",
+            "primaryText": "Speed Racer (UNVALUED) [1\u2605]\nObtain a diamond medal on all official Sprint and Challenge tracks in Arcade Mode.\n\nStunt Driver (UNVALUED) [1\u2605]\nObtain a diamond medal on all official Stunt tracks in Arcade Mode.\n\nGaining Distance [10\u2605]\nObtain a gold medal on all Adventure levels in Sprint. / Complete Entanglement without using wings. / Find all three secrets in The Other Side and obtain the Crown of the Elders.",
             "community": 0,
             "communityText": "",
             "achievements": 31
@@ -16102,7 +16102,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bear the Dizziness \u2605 5\nSeparately, beat the game without buying anything, and without the blacksmith or doctor.",
+            "primaryText": "Bear the Dizziness [5\u2605]\nSeparately, beat the game without buying anything, and without the blacksmith or doctor.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -16156,7 +16156,7 @@ var data =
         },
         "milestones": {
             "primary": 9,
-            "primaryText": "Zatsuza \u2605 110\nDefeat Zatsuza in BL with Strong (continues allowed).\n\nBL Strong Master \u2605 150 (Partial: \u2605 40)\nDefeat Hibachi in BL with Strong and score 500bil (continues allowed). Can be done in separate runs.\n\nFirst Loop TLB Master \u2605 90\nDefeat Hibachi in BL with Bomb and Power and defeat Hivac in BL Arrange (no continues).\n\nBL Bomb+Power Master \u2605 80\nDefeat Hibachi in BL with Bomb and Power and score 300bil with Bomb and 600bil with Power in BL (continues allowed). Can all be achieved in individual runs.\n\nUra 2-All Master \u2605 100\nClear the Ura loop of Arrange A and 1.5 (no continues).\n\nHumanity's Triumph \u2605 50\nDefeat Hibachi in Arrange A (continues allowed).\n\nEvaccaneer Doom \u2605 35\nDefeat the TLB in BL Arrange (continues allowed).\n\n1.5 2-All \u2605 60\nClear either second loop of 1.5 (no continues).\n\nBlissful Death \u2605 15\nClear the first loop of 1.5 or Arrange A. (No continues used)",
+            "primaryText": "Zatsuza [110\u2605]\nDefeat Zatsuza in BL with Strong (continues allowed).\n\nBL Strong Master[150\u2605  (Partial: 40\u2605)]\nDefeat Hibachi in BL with Strong and score 500bil (continues allowed). Can be done in separate runs.\n\nFirst Loop TLB Master [90\u2605]\nDefeat Hibachi in BL with Bomb and Power and defeat Hivac in BL Arrange (no continues).\n\nBL Bomb+Power Master [80\u2605]\nDefeat Hibachi in BL with Bomb and Power and score 300bil with Bomb and 600bil with Power in BL (continues allowed). Can all be achieved in individual runs.\n\nUra 2-All Master [100\u2605]\nClear the Ura loop of Arrange A and 1.5 (no continues).\n\nHumanity's Triumph [50\u2605]\nDefeat Hibachi in Arrange A (continues allowed).\n\nEvaccaneer Doom [35\u2605]\nDefeat the TLB in BL Arrange (continues allowed).\n\n1.5 2-All [60\u2605]\nClear either second loop of 1.5 (no continues).\n\nBlissful Death [15\u2605]\nClear the first loop of 1.5 or Arrange A. (No continues used)",
             "community": 0,
             "communityText": "",
             "achievements": 100
@@ -16211,7 +16211,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Glazed and Confused \u2605 5\nSeparately, beat Sugar Rush mode, and beat the game with 3 or more lives remaining.",
+            "primaryText": "Glazed and Confused [5\u2605]\nSeparately, beat Sugar Rush mode, and beat the game with 3 or more lives remaining.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -16230,7 +16230,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 204,
+        "playersTotal": 205,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -16265,7 +16265,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rip & Tear \u2605 75\nBeat the game on ULTRA-NIGHTMARE.",
+            "primaryText": "Rip & Tear [75\u2605]\nBeat the game on ULTRA-NIGHTMARE.",
             "community": 0,
             "communityText": "",
             "achievements": 54
@@ -16284,7 +16284,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 7,
         "playersStarted": 2,
-        "playersTotal": 522,
+        "playersTotal": 523,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -16319,7 +16319,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "The Only Thing They Fear Is You \u2605 150\nComplete the main campaign on \"Ultra Nightmare\" Difficulty.\n\nEternal Damnation \u2605 30\nComplete both DLCs on \"Ultra Nightmare\" Difficulty.",
+            "primaryText": "The Only Thing They Fear Is You [150\u2605]\nComplete the main campaign on \"Ultra Nightmare\" Difficulty.\n\nEternal Damnation [30\u2605]\nComplete both DLCs on \"Ultra Nightmare\" Difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -16373,7 +16373,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Thousand Island Dressing \u2605 10\nGet a high score of 30000 points or more. / Place 250 consecutive tiles without connecting any incompatible edges.",
+            "primaryText": "Thousand Island Dressing [10\u2605]\nGet a high score of 30000 points or more. / Place 250 consecutive tiles without connecting any incompatible edges.",
             "community": 0,
             "communityText": "",
             "achievements": 85
@@ -16427,7 +16427,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Wrist Wrecker \u2605 75\nComplete all levels with three active modifiers.\n\nX Marks The Dot \u2605 5\nComplete all levels.",
+            "primaryText": "Wrist Wrecker [75\u2605]\nComplete all levels with three active modifiers.\n\nX Marks The Dot [5\u2605]\nComplete all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -16481,7 +16481,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Highway to Hell \u2605 15\nBeat all bosses on \"Extreme\" difficulty.",
+            "primaryText": "Highway to Hell [15\u2605]\nBeat all bosses on \"Extreme\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 38
@@ -16535,7 +16535,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Starry-Eyed Snowboarding \u2605 20\nPerform a flawless run on all levels.",
+            "primaryText": "Starry-Eyed Snowboarding [20\u2605]\nPerform a flawless run on all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -16589,7 +16589,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Downward and Forward \u2605 10\nObtain a Gold medal on all challenges excluding \"Zipline 2\".",
+            "primaryText": "Downward and Forward [10\u2605]\nObtain a Gold medal on all challenges excluding \"Zipline 2\".",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -16643,7 +16643,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Well, That's It \u2605 15\nBeat the boss on Hard mode.",
+            "primaryText": "Well, That's It [15\u2605]\nBeat the boss on Hard mode.",
             "community": 1,
             "communityText": "Rotten Tomatoes\nObtain the Tomato on Hard mode.",
             "achievements": 20
@@ -16697,7 +16697,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Meat Flipper \u2605 10\nGet the A+ Rank on all Levels",
+            "primaryText": "Meat Flipper [10\u2605]\nGet the A+ Rank on all Levels",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -16751,7 +16751,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "All's Wellbubble \u2605 15 (Partial: \u2605 5)\nGet to the ending without continuing on difficulty level 5 (Normal).\n\nDragonlord (UNCLEARED) \u2605 1\nClear both loops of the score attack mode.",
+            "primaryText": "All's Wellbubble[15\u2605  (Partial: 5\u2605)]\nGet to the ending without continuing on difficulty level 5 (Normal).\n\nDragonlord (UNCLEARED) [1\u2605]\nClear both loops of the score attack mode.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -16805,7 +16805,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Dirk the Dexterous \u2605 10\nGet the highest possible score.",
+            "primaryText": "Dirk the Dexterous [10\u2605]\nGet the highest possible score.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -16859,7 +16859,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Z Warrior \u2605 30\nClear the Dragon's Abyss.",
+            "primaryText": "Z Warrior [30\u2605]\nClear the Dragon's Abyss.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -16913,7 +16913,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Lucid Dreamer \u2605 90 (Partial: \u2605 15)\nGet 150 orbs in all modes except Weekly (Partial points awarded for obtaining 150 orbs in any mode)\n\nCosmic Swinger \u2605 35 (Partial: \u2605 5)\nGet 130 orbs in all modes except Weekly (Partial points awarded for obtaining 130 orbs in any mode)\n\nA Chaotic Start \u2605 5\nGet 120 orbs in any mode. (Chaos Original recommended)",
+            "primaryText": "Lucid Dreamer[90\u2605  (Partial: 15\u2605)]\nGet 150 orbs in all modes except Weekly (Partial points awarded for obtaining 150 orbs in any mode)\n\nCosmic Swinger[35\u2605  (Partial: 5\u2605)]\nGet 130 orbs in all modes except Weekly (Partial points awarded for obtaining 130 orbs in any mode)\n\nA Chaotic Start [5\u2605]\nGet 120 orbs in any mode. (Chaos Original recommended)",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -16967,7 +16967,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Drifting to Victory \u2605 50\nComplete the game without losing ships or triggering automatic retreat. / Complete the story in under 3h30m from start to finish.",
+            "primaryText": "Drifting to Victory [50\u2605]\nComplete the game without losing ships or triggering automatic retreat. / Complete the story in under 3h30m from start to finish.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -17021,7 +17021,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Golden Glurp \u2605 40\nGet 30 gold medals in challenges.",
+            "primaryText": "Golden Glurp [40\u2605]\nGet 30 gold medals in challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -17075,7 +17075,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gas! Gas! Gas! \u2605 10\nComplete Offensive Mode.",
+            "primaryText": "Gas! Gas! Gas! [10\u2605]\nComplete Offensive Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -17129,7 +17129,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Parry Them All \u2605 15\nBeat the last boss of hard mode.",
+            "primaryText": "Parry Them All [15\u2605]\nBeat the last boss of hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -17183,7 +17183,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "UR THE BEST \u2605 20\nObtain all \"UR THE BEST\" medals.\n\nnowimducked \u2605 10\nObtain a platinum medal in all arcade challenges.",
+            "primaryText": "UR THE BEST [20\u2605]\nObtain all \"UR THE BEST\" medals.\n\nnowimducked [10\u2605]\nObtain a platinum medal in all arcade challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -17237,7 +17237,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Ducking Hard \u2605 25\nCollect all gold medals, eggs, and finish every level without checkpoints.\n\nFeathered Flagellation \u2605 15\nObtain all 72 hidden extra medals. (Times listed in \"Information\")",
+            "primaryText": "Ducking Hard [25\u2605]\nCollect all gold medals, eggs, and finish every level without checkpoints.\n\nFeathered Flagellation [15\u2605]\nObtain all 72 hidden extra medals. (Times listed in \"Information\")",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -17287,7 +17287,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "We Have Pogo at Home \u2605 10\nProve yourself.",
+            "primaryText": "We Have Pogo at Home [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -17341,7 +17341,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Perfect Pair \u2605 10\nObtain the perfection triangle in every individual level (including soliloquy). \n\nDialogue \u2605 10\nComplete every individual chapter without hitting a wall.",
+            "primaryText": "Perfect Pair [10\u2605]\nObtain the perfection triangle in every individual level (including soliloquy). \n\nDialogue [10\u2605]\nComplete every individual chapter without hitting a wall.",
             "community": 0,
             "communityText": "",
             "achievements": 76
@@ -17395,7 +17395,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Dashing, A Ton \u2605 5\nComplete time trial mode with 10 or fewer deaths.",
+            "primaryText": "Dashing, A Ton [5\u2605]\nComplete time trial mode with 10 or fewer deaths.",
             "community": 1,
             "communityText": "Iron Moustache\nComplete time trial mode with 0 deaths.",
             "achievements": 17
@@ -17449,7 +17449,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Card Slinging Slasher \u2605 10\nUnlock all dungeons.\n\nSkin Collector \u2605 10\nObtain all character skins.\n\nWhat Does the Scouter Say About His Score? \u2605 10\nGet a highscore of over 9000.",
+            "primaryText": "Card Slinging Slasher [10\u2605]\nUnlock all dungeons.\n\nSkin Collector [10\u2605]\nObtain all character skins.\n\nWhat Does the Scouter Say About His Score? [10\u2605]\nGet a highscore of over 9000.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -17503,7 +17503,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Prison Baller \u2605 10\nObtain an S rank on every stage.\n\nAll Fun and Games \u2605 5\nComplete the game using every difficult ball modifier. / Get a final score of 75,000 points or more.",
+            "primaryText": "Prison Baller [10\u2605]\nObtain an S rank on every stage.\n\nAll Fun and Games [5\u2605]\nComplete the game using every difficult ball modifier. / Get a final score of 75,000 points or more.",
             "community": 0,
             "communityText": "",
             "achievements": 84
@@ -17522,7 +17522,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 8,
-        "playersTotal": 390,
+        "playersTotal": 391,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -17557,7 +17557,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Endlessly Easy \u2605 10\nWin a game on Easy difficulty.\n\nNow THIS is Podraiding! \u2605 5\nWin a game with the Refreezerator and Sanitary Pods.\n\nCleaning Out the Fridge (UNCLEARED) \u2605 1\nWin a game on Easy difficulty with the Refreezerator and Sanitary Pods.",
+            "primaryText": "Endlessly Easy [10\u2605]\nWin a game on Easy difficulty.\n\nNow THIS is Podraiding! [5\u2605]\nWin a game with the Refreezerator and Sanitary Pods.\n\nCleaning Out the Fridge (UNCLEARED) [1\u2605]\nWin a game on Easy difficulty with the Refreezerator and Sanitary Pods.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -17611,7 +17611,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "The Hearth of the Dungeon \u2605 15\nBeat the game with at least the Hard Opening Key VIII with the Devil Swordswman and Pandora.\n\nA Tale of Avarice \u2605 15 (Partial: \u2605 10)\nBeat the game with the Hard Opening Key X with any character. *Partial points are awarded as a progress milestone.\n\nGreed Rush \u2605 5\nBeat the Boss Rush on Hard Mode.\n\nThrough the Manor and the Depths \u2605 10\nDefeat Roellyn. / Complete the game with no more than 5 food.",
+            "primaryText": "The Hearth of the Dungeon [15\u2605]\nBeat the game with at least the Hard Opening Key VIII with the Devil Swordswman and Pandora.\n\nA Tale of Avarice[15\u2605  (Partial: 10\u2605)]\nBeat the game with the Hard Opening Key X with any character. *Partial points are awarded as a progress milestone.\n\nGreed Rush [5\u2605]\nBeat the Boss Rush on Hard Mode.\n\nThrough the Manor and the Depths [10\u2605]\nDefeat Roellyn. / Complete the game with no more than 5 food.",
             "community": 1,
             "communityText": "Platinum Trailblazer \nBeat the game with at least the Hard Opening Key VIII with all characters.",
             "achievements": 24
@@ -17665,7 +17665,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "KA-PUNG! \u2605 5\nBeat all of the challenges.\n\nPung Master \u2605 10\nBeat the last boss.",
+            "primaryText": "KA-PUNG! [5\u2605]\nBeat all of the challenges.\n\nPung Master [10\u2605]\nBeat the last boss.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -17719,7 +17719,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Dust Destroyer \u2605 130\nObtain SS on \"infinidifficult\".\n\nCustodial Master \u2605 60\nObtain SS on \"Yotta Difficult\".\n\nCertified Janitor \u2605 30 (Partial: \u2605 20)\nObtain SS on all other single player levels. *Partial points awarded for obtaining SS on \"Giga Difficult\".",
+            "primaryText": "Dust Destroyer [130\u2605]\nObtain SS on \"infinidifficult\".\n\nCustodial Master [60\u2605]\nObtain SS on \"Yotta Difficult\".\n\nCertified Janitor[30\u2605  (Partial: 20\u2605)]\nObtain SS on all other single player levels. *Partial points awarded for obtaining SS on \"Giga Difficult\".",
             "community": 5,
             "communityText": "Cleaning Crew\nObtain SS on Scrubforce DX combination map.\n\nCustodian of the Year\nObtain SS on all Community Map Pack levels.\n\nDetergent Deployer\nObtain SS on Difficults combination map.\n\nOmnisanitized\nObtain all Dustkid achievements.\n\nWay of the Mop\nObtain SS on Dustforce DX combination map.",
             "achievements": 1
@@ -17773,7 +17773,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "HUE \u2605 25\nCollect all pigments.",
+            "primaryText": "HUE [25\u2605]\nCollect all pigments.",
             "community": 0,
             "communityText": "",
             "achievements": 41
@@ -17827,7 +17827,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "E.Z Streak \u2605 25\nBeat the game without dying.",
+            "primaryText": "E.Z Streak [25\u2605]\nBeat the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 129
@@ -17881,7 +17881,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Feats of Falconry \u2605 85\nGain an S rank in every stage in \"Rogue\" mode.\n\nMagpie \u2605 20\nCollect all 48 star medals.",
+            "primaryText": "Feats of Falconry [85\u2605]\nGain an S rank in every stage in \"Rogue\" mode.\n\nMagpie [20\u2605]\nCollect all 48 star medals.",
             "community": 1,
             "communityText": "Finely Feathered\nGain an S rank in every stage in \"Rogue\" mode on Hardcore difficulty.",
             "achievements": 34
@@ -17935,7 +17935,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Speedhypercuber \u2605 5\nGet an S+ rank on all extended and bonus levels.\n\nSpeedcuber \u2605 5\nGet an S+ rank on all normal levels.",
+            "primaryText": "Speedhypercuber [5\u2605]\nGet an S+ rank on all extended and bonus levels.\n\nSpeedcuber [5\u2605]\nGet an S+ rank on all normal levels.",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -17989,7 +17989,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Safety Eggspedition \u2605 15\nComplete all levels in a row without dropping the egg.\n\nMaster Eggcelerator \u2605 35\nBeat the developer time on all tracks.",
+            "primaryText": "Safety Eggspedition [15\u2605]\nComplete all levels in a row without dropping the egg.\n\nMaster Eggcelerator [35\u2605]\nBeat the developer time on all tracks.",
             "community": 2,
             "communityText": "Egground the World\nComplete all primary objectives from all site-listed games in the Eggcelerate! franchise. See verification requirements for complete list.\n\nMade of Egg\nComplete all levels in a row without dropping the egg and without using level resets.",
             "achievements": 98
@@ -18043,7 +18043,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Winter Eggcelerator \u2605 35\nBeat the developer time on all tracks.\n\nFrozen Eggspedition \u2605 25\nComplete all levels in a row without dropping the egg.",
+            "primaryText": "Winter Eggcelerator [35\u2605]\nBeat the developer time on all tracks.\n\nFrozen Eggspedition [25\u2605]\nComplete all levels in a row without dropping the egg.",
             "community": 1,
             "communityText": "Made of Eggnog\nComplete all levels in a row without dropping the egg and without using level resets.",
             "achievements": 71
@@ -18097,7 +18097,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Tropical Eggcelerator \u2605 40\nBeat all the dev times.\n\nTropical Eggventure \u2605 20\nComplete all levels in a row without dropping the egg.",
+            "primaryText": "Tropical Eggcelerator [40\u2605]\nBeat all the dev times.\n\nTropical Eggventure [20\u2605]\nComplete all levels in a row without dropping the egg.",
             "community": 0,
             "communityText": "",
             "achievements": 75
@@ -18151,7 +18151,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "https://en.wikipedia.org/wiki/Egg \u2605 10\nVenture into the upside down and conquer the death avatar.",
+            "primaryText": "https://en.wikipedia.org/wiki/Egg [10\u2605]\nVenture into the upside down and conquer the death avatar.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -18205,7 +18205,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Adi\u00f3s \u2605 5\nComplete all challenges.\n\nLa vida es una loter\u00eda \u2605 10\nObtain 3 stars and complete classic mode on all songs.",
+            "primaryText": "Adi\u00f3s [5\u2605]\nComplete all challenges.\n\nLa vida es una loter\u00eda [10\u2605]\nObtain 3 stars and complete classic mode on all songs.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -18259,7 +18259,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Hot Helmet Hero \u2605 130\nReach a total time of 1 hour with bonus helmets.\n\nHideous Helmet Hunter \u2605 120\nReach a total time of 1 hour 5 minutes with bonus helmets.\n\nHeavy Helmet Haven \u2605 50\nReach a total time of 1 hour 10 minutes with bonus helmets.\n\nHappy Helmet Hippie \u2605 20\nReach a total time of 1 hour 20 minutes with bonus helmets.\n\nPack in Business \u2605 5\nComplete Pack D.",
+            "primaryText": "Hot Helmet Hero [130\u2605]\nReach a total time of 1 hour with bonus helmets.\n\nHideous Helmet Hunter [120\u2605]\nReach a total time of 1 hour 5 minutes with bonus helmets.\n\nHeavy Helmet Haven [50\u2605]\nReach a total time of 1 hour 10 minutes with bonus helmets.\n\nHappy Helmet Hippie [20\u2605]\nReach a total time of 1 hour 20 minutes with bonus helmets.\n\nPack in Business [5\u2605]\nComplete Pack D.",
             "community": 0,
             "communityText": "",
             "achievements": 9
@@ -18313,7 +18313,7 @@ var data =
         },
         "milestones": {
             "primary": 7,
-            "primaryText": "Elasto Maniac \u2605 530\nGet a total time of 40 minutes or less across all original levels.\n\nHigh Voltage \u2605 270 (Partial: \u2605 100)\nGet a total time of 45 minutes or less across all original levels.\n\nHang Ten \u2605 175 (Partial: \u2605 35)\nGet a total time of 50 minutes or less across all original levels.\n\nHigh Fives \u2605 80\nGet a total time of 55 minutes or less across all original levels.\n\nRush Hour \u2605 50\nGet a total time of 1 hour or less across all original levels.\n\nSideline Rider \u2605 30\nFinish all extra level packs.\n\nBeginner Bikin' \u2605 15\nFinish all original levels.",
+            "primaryText": "Elasto Maniac [530\u2605]\nGet a total time of 40 minutes or less across all original levels.\n\nHigh Voltage[270\u2605  (Partial: 100\u2605)]\nGet a total time of 45 minutes or less across all original levels.\n\nHang Ten[175\u2605  (Partial: 35\u2605)]\nGet a total time of 50 minutes or less across all original levels.\n\nHigh Fives [80\u2605]\nGet a total time of 55 minutes or less across all original levels.\n\nRush Hour [50\u2605]\nGet a total time of 1 hour or less across all original levels.\n\nSideline Rider [30\u2605]\nFinish all extra level packs.\n\nBeginner Bikin' [15\u2605]\nFinish all original levels.",
             "community": 7,
             "communityText": "A Pipe a day...\nComplete all 52 levels in the \"Pipo\" external levelpack.\n\nElma God\nObtain a \"Godlike\" time on any level.\n\nTerminally Online\nComplete the \"Elma Online Levelpack\" external levelpack with a combined total time of less than 45 minutes.\n\nThe School of Hard Elastics\nAchieve all 157 target times in the \"Moposite Playing Levels\" external levelpack.\n\nBrutal Beast\nObtain a \"Legendary\" time on any level\n\nHoylier Than Thou\nObtain a \"World Class\" time on all 54 main levels.\n\nBodacious Bouncer\nObtain a \"Pro\" time on all 54 main levels.",
             "achievements": 17
@@ -18367,7 +18367,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Promised Consort \u2605 10\nDefeat all DLC remembrance bosses (including Bayle).\n\nElden Lord \u2605 15\nDefeat all non-missable bosses.",
+            "primaryText": "Promised Consort [10\u2605]\nDefeat all DLC remembrance bosses (including Bayle).\n\nElden Lord [15\u2605]\nDefeat all non-missable bosses.",
             "community": 4,
             "communityText": "Iron Rune\nCollect all boss remembrances while at Rune level 1.\n\nLord of the Ring\nBeat the game without dying.\n\nOld Gods Felled by a Mortal Unnamed\nBeat the game on NG+7.\n\nThe Dark Soul\nComplete all primary objectives from all site-listed games in the FromSoft Soulslike franchise. See verification requirements for complete list.",
             "achievements": 42
@@ -18421,7 +18421,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "OK, Boomer \u2605 5\nBeat the game without dying.",
+            "primaryText": "OK, Boomer [5\u2605]\nBeat the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -18475,7 +18475,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Iron Souls \u2605 40\nSeparately, defeat each boss without getting hit.\n\nThe Sword Saint \u2605 20\nBeat the game without dying.",
+            "primaryText": "Iron Souls [40\u2605]\nSeparately, defeat each boss without getting hit.\n\nThe Sword Saint [20\u2605]\nBeat the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -18529,7 +18529,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rogueldritch \u2605 10\nProve yourself. ",
+            "primaryText": "Rogueldritch [10\u2605]\nProve yourself. ",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -18583,7 +18583,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Oh, You Touch My Tralala \u2605 20\nProve yourself.",
+            "primaryText": "Oh, You Touch My Tralala [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -18637,7 +18637,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Superfluid \u2605 10\nAchieve a gold star in all story and race levels.\n\nAlchemical Master \u2605 5\nCollect all the lost sparks and complete the secret level.",
+            "primaryText": "Superfluid [10\u2605]\nAchieve a gold star in all story and race levels.\n\nAlchemical Master [5\u2605]\nCollect all the lost sparks and complete the secret level.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -18691,7 +18691,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "... \u2605 5\nAchieve 100% completion.",
+            "primaryText": "... [5\u2605]\nAchieve 100% completion.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -18745,7 +18745,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Blazing Cinders \u2605 15\nDefeat Praxis in the Architect's Realm.",
+            "primaryText": "Blazing Cinders [15\u2605]\nDefeat Praxis in the Architect's Realm.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -18799,7 +18799,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Mischievous Magpie \u2605 10\nFinish all Episodes within 30 minutes. / Finish any Episode and Arena without getting hit. / Finish a Legendary run in Arena Mode.",
+            "primaryText": "The Mischievous Magpie [10\u2605]\nFinish all Episodes within 30 minutes. / Finish any Episode and Arena without getting hit. / Finish a Legendary run in Arena Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -18853,7 +18853,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Faster, Stronger \u2605 10\nBeat Boss Rush mode on NG+.\n\nMaligned Memories \u2605 10\nBeat Boss Rush mode.\n\nEnding Lily \u2605 10\nProve yourself.",
+            "primaryText": "Faster, Stronger [10\u2605]\nBeat Boss Rush mode on NG+.\n\nMaligned Memories [10\u2605]\nBeat Boss Rush mode.\n\nEnding Lily [10\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Float Like a Lily, Sting Like a Bee\nBeat Boss Rush mode on NG+ with Instant Death modifier on.",
             "achievements": 38
@@ -18907,7 +18907,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ammonomicon \u2605 20\nProve yourself.",
+            "primaryText": "Ammonomicon [20\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Double Down\nClear double challenge mode.",
             "achievements": 54
@@ -18961,7 +18961,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Order of Operations \u2605 65\nClear a mission with more than 120 seconds remaining. / Get a score of 1 million or more in every mission.",
+            "primaryText": "Order of Operations [65\u2605]\nClear a mission with more than 120 seconds remaining. / Get a score of 1 million or more in every mission.",
             "community": 3,
             "communityText": "Divide By Zero\nAchieve a Maxout (999,999,999 points) in any of the Endless modes.\n\nEuler\nDefeat a Lv. MAX CPU with \"\"999 Sec.\", \"Easy\" and \"100 Questions\" selected in Calculation Battle.\n\nGauss\nDefeat a Lv. MAX CPU with \"999 Sec.\", \"Expert\" and \"100 Questions\" selected in Calculation Battle.",
             "achievements": 24
@@ -19015,7 +19015,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Delta Dasher \u2605 25\nBeaten Synth Rush ALL on any type. / Beat any Journey Mode without getting a single Game Over screen.",
+            "primaryText": "Delta Dasher [25\u2605]\nBeaten Synth Rush ALL on any type. / Beat any Journey Mode without getting a single Game Over screen.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -19034,7 +19034,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
-        "playersTotal": 145,
+        "playersTotal": 146,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -19069,7 +19069,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "For the Love of Melon \u2605 40\nClear EX Mode with no defeats.",
+            "primaryText": "For the Love of Melon [40\u2605]\nClear EX Mode with no defeats.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -19123,7 +19123,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "So Bad, It's Good \u2605 5\nComplete Hard Mode.",
+            "primaryText": "So Bad, It's Good [5\u2605]\nComplete Hard Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 7
@@ -19177,7 +19177,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "You're Goated \u2605 5\nBeat the game in under 30 minutes without loading from saves. / Beat all secret rooms.",
+            "primaryText": "You're Goated [5\u2605]\nBeat the game in under 30 minutes without loading from saves. / Beat all secret rooms.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -19231,7 +19231,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Moon Guardian \u2605 40\nClear either Original or Advanced mode on Hard difficulty or higher with no continues.\n\nDodging Lieutenant \u2605 10\nClear Original and Advanced modes on Normal difficulty or higher with no continues.\n\nOne-Ship Army (UNCLEARED) \u2605 1\nClear Original mode on Hardest difficulty with no continues.\n\nPurple Eraser (UNCLEARED) \u2605 1\nClear Advanced mode on Hardest difficulty with no continues.",
+            "primaryText": "Moon Guardian [40\u2605]\nClear either Original or Advanced mode on Hard difficulty or higher with no continues.\n\nDodging Lieutenant [10\u2605]\nClear Original and Advanced modes on Normal difficulty or higher with no continues.\n\nOne-Ship Army (UNCLEARED) [1\u2605]\nClear Original mode on Hardest difficulty with no continues.\n\nPurple Eraser (UNCLEARED) [1\u2605]\nClear Advanced mode on Hardest difficulty with no continues.",
             "community": 1,
             "communityText": "Forward and Forward and Forward\nBeat loop 4 in endless mode with no continues.",
             "achievements": 29
@@ -19285,7 +19285,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Flora and Fauna \u2605 5\nScore 80,000 points in a single game.",
+            "primaryText": "Flora and Fauna [5\u2605]\nScore 80,000 points in a single game.",
             "community": 1,
             "communityText": "Stonemason\nCreate a tier three monolith.",
             "achievements": 21
@@ -19339,7 +19339,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Forever Great \u2605 30\nProve yourself.",
+            "primaryText": "Forever Great [30\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -19393,7 +19393,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Through the Fire and Rage \u2605 30\nComplete both Incinerator encounters without getting hit.\n\nRed Tripping Hood \u2605 25\nProve yourself.",
+            "primaryText": "Through the Fire and Rage [30\u2605]\nComplete both Incinerator encounters without getting hit.\n\nRed Tripping Hood [25\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 78
@@ -19412,7 +19412,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 85,
+        "playersTotal": 86,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -19447,7 +19447,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Infinity and Beyond \u2605 15\nProve yourself.",
+            "primaryText": "Infinity and Beyond [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -19501,7 +19501,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Running Out of Time (UNCLEARED) \u2605 1\nComplete both Commando and Hardcore difficulty with time rank A.\n\nDreams of Cruelty \u2605 10\nProve yourself.",
+            "primaryText": "Running Out of Time (UNCLEARED) [1\u2605]\nComplete both Commando and Hardcore difficulty with time rank A.\n\nDreams of Cruelty [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 8
@@ -19555,7 +19555,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gnustroyer \u2605 20\nGet 100M points. / Get 50M points, 15 S medals and no deaths in the same run. / Finish a Marathon run without continues.",
+            "primaryText": "Gnustroyer [20\u2605]\nGet 100M points. / Get 50M points, 15 S medals and no deaths in the same run. / Finish a Marathon run without continues.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -19609,7 +19609,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Diginomocon \u2605 5\nDefeat Glocktopus 5 times. / Clear the Level 5 boss without taking damage.\n\nMech-Cthulhu \u2605 5\nDefeat Glocktopus with \"The Cultist\" and \"The Robot\".",
+            "primaryText": "Diginomocon [5\u2605]\nDefeat Glocktopus 5 times. / Clear the Level 5 boss without taking damage.\n\nMech-Cthulhu [5\u2605]\nDefeat Glocktopus with \"The Cultist\" and \"The Robot\".",
             "community": 1,
             "communityText": "Lead God\nObtain all 5 master rounds in a single run.",
             "achievements": 47
@@ -19663,7 +19663,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Event Horizon \u2605 5\nComplete the game in under an hour.",
+            "primaryText": "Event Horizon [5\u2605]\nComplete the game in under an hour.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -19717,7 +19717,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Extirpate \u2605 75\nObtain the diamond medal in every level.\n\nExigence \u2605 10\nBeat speedrun mode in less than 30 minutes. / Beat speedrun mode without dying more than 10 times.",
+            "primaryText": "Extirpate [75\u2605]\nObtain the diamond medal in every level.\n\nExigence [10\u2605]\nBeat speedrun mode in less than 30 minutes. / Beat speedrun mode without dying more than 10 times.",
             "community": 1,
             "communityText": "Expropriate\nBeat the developer's full game speedrun time.",
             "achievements": 26
@@ -19771,7 +19771,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Cast From Heaven \u2605 5\nProve yourself.\n\nFall From Grace \u2605 5\nProve Yourself.\n\nAscension (UNCLEARED) \u2605 1\nSeparately; Complete the game with the 1HP modifier, the No Drops modifier, and beat Punishment Mode without dying.",
+            "primaryText": "Cast From Heaven [5\u2605]\nProve yourself.\n\nFall From Grace [5\u2605]\nProve Yourself.\n\nAscension (UNCLEARED) [1\u2605]\nSeparately; Complete the game with the 1HP modifier, the No Drops modifier, and beat Punishment Mode without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -19825,7 +19825,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fashion Extravaganza \u2605 5\nComplete the game on 'Make sure it's haute couture' difficulty. / Finish both sniper encounters with maximum Live rating.",
+            "primaryText": "Fashion Extravaganza [5\u2605]\nComplete the game on 'Make sure it's haute couture' difficulty. / Finish both sniper encounters with maximum Live rating.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -19879,7 +19879,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cookie Monster \u2605 10\nReach 100% in-game completion.",
+            "primaryText": "Cookie Monster [10\u2605]\nReach 100% in-game completion.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -19933,7 +19933,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Periderm is Paramount \u2605 10\nGet the ball in every Underworld level and give it to Grandma. / Complete Underworld as Robot Fidel. / Complete Underworld as Vampire Fidel. / Beat Puzzle Mode in under 20 minutes. / Beat Centipede Mode in under 10 minutes.",
+            "primaryText": "Periderm is Paramount [10\u2605]\nGet the ball in every Underworld level and give it to Grandma. / Complete Underworld as Robot Fidel. / Complete Underworld as Vampire Fidel. / Beat Puzzle Mode in under 20 minutes. / Beat Centipede Mode in under 10 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -19987,7 +19987,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Agent 011 \u2605 20\nComplete a full run on Purist difficulty.",
+            "primaryText": "Agent 011 [20\u2605]\nComplete a full run on Purist difficulty.",
             "community": 1,
             "communityText": "MI6 Deck Dominator\nComplete a full run on Purist difficulty with every starting deck.",
             "achievements": 40
@@ -20041,7 +20041,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Master of Fate \u2605 20\nProve yourself.",
+            "primaryText": "Master of Fate [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 63
@@ -20095,7 +20095,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Golden Boia \u2605 5\nBeat the game without using a continue.",
+            "primaryText": "Golden Boia [5\u2605]\nBeat the game without using a continue.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -20149,7 +20149,7 @@ var data =
         },
         "milestones": {
             "primary": 7,
-            "primaryText": "Ashigaru \u2605 10\nComplete the game on Tough difficulty.\n\nDaimyo (UNCLEARED) \u2605 1\nComplete the game on European Yabai difficulty.\n\nEmperor (UNCLEARED) \u2605 1\nObtain an S++ rank on all missions on European Yabai difficulty.\n\nHatamoto (UNCLEARED) \u2605 1\nComplete the game on Yabai difficulty.\n\nR\u014dnin (UNCLEARED) \u2605 1\nComplete the game on Hell difficulty.\n\nShogun (UNCLEARED) \u2605 1\nObtain an S++ rank on all acts on European Yabai difficulty.\n\nS\u014dhei (UNCLEARED) \u2605 1\nComplete the game on Hard difficulty.",
+            "primaryText": "Ashigaru [10\u2605]\nComplete the game on Tough difficulty.\n\nDaimyo (UNCLEARED) [1\u2605]\nComplete the game on European Yabai difficulty.\n\nEmperor (UNCLEARED) [1\u2605]\nObtain an S++ rank on all missions on European Yabai difficulty.\n\nHatamoto (UNCLEARED) [1\u2605]\nComplete the game on Yabai difficulty.\n\nR\u014dnin (UNCLEARED) [1\u2605]\nComplete the game on Hell difficulty.\n\nShogun (UNCLEARED) [1\u2605]\nObtain an S++ rank on all acts on European Yabai difficulty.\n\nS\u014dhei (UNCLEARED) [1\u2605]\nComplete the game on Hard difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -20203,7 +20203,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fishy Business \u2605 10\nReach a score of 50 in Ocean Elevator.",
+            "primaryText": "Fishy Business [10\u2605]\nReach a score of 50 in Ocean Elevator.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -20257,7 +20257,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Proof Is in the Fist \u2605 20\nBeat the Right-Hand Tower & Southpaw Tower on Allison Fist mode.",
+            "primaryText": "Proof Is in the Fist [20\u2605]\nBeat the Right-Hand Tower & Southpaw Tower on Allison Fist mode.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -20311,7 +20311,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Teddy Bear Thriller \u2605 5\nSurvive Night 8. / Survive Night 7 with \"Blind Mode\" + \"All Nightmare\" challenges enabled. / Survive Night 7 with \"Blind Mode\" + \"Mad Freddy\" + \"Insta-Foxy\" challenges enabled.",
+            "primaryText": "Teddy Bear Thriller [5\u2605]\nSurvive Night 8. / Survive Night 7 with \"Blind Mode\" + \"All Nightmare\" challenges enabled. / Survive Night 7 with \"Blind Mode\" + \"Mad Freddy\" + \"Insta-Foxy\" challenges enabled.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -20365,7 +20365,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Funtime Frenzy \u2605 15\nBeat all custom night challenges on Very Hard difficulty.",
+            "primaryText": "Funtime Frenzy [15\u2605]\nBeat all custom night challenges on Very Hard difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -20419,7 +20419,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Flatlander \u2605 15\nProve yourself.",
+            "primaryText": "Flatlander [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -20473,7 +20473,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Color InVVVVVVerter \u2605 15 (Partial: \u2605 5)\nReach 112% completion in the game. *Partial points are rewarded as a progress milestone.",
+            "primaryText": "Color InVVVVVVerter[15\u2605  (Partial: 5\u2605)]\nReach 112% completion in the game. *Partial points are rewarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -20527,7 +20527,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Panel de Pon \u2605 5\nComplete the bonus levels.",
+            "primaryText": "Panel de Pon [5\u2605]\nComplete the bonus levels.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -20581,7 +20581,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Red Wings \u2605 15\nClear the game without continues. / Defeat Blue Crow the 2nd.\n\nRed Dreams (UNCLEARED) \u2605 1\nClear the game without continues on Hard difficulty.",
+            "primaryText": "Red Wings [15\u2605]\nClear the game without continues. / Defeat Blue Crow the 2nd.\n\nRed Dreams (UNCLEARED) [1\u2605]\nClear the game without continues on Hard difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -20635,7 +20635,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Flappy Planets \u2605 10\nBeat Story Mode.",
+            "primaryText": "Flappy Planets [10\u2605]\nBeat Story Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 46
@@ -20684,7 +20684,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Unstoppable Crusader \u2605 10 (Partial: \u2605 5)\nObtain the Perfect crown on every level on \"Impossible\" difficulty. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Unstoppable Crusader[10\u2605  (Partial: 5\u2605)]\nObtain the Perfect crown on every level on \"Impossible\" difficulty. *Partial points are awarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -20738,7 +20738,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Flow State Runner \u2605 25\nOn all difficulties, get 10,000 or more points on all levels and 20,000 or more points on all endless levels. / On any difficulty, get 50,000 or more points on \"SALARIA\".",
+            "primaryText": "Flow State Runner [25\u2605]\nOn all difficulties, get 10,000 or more points on all levels and 20,000 or more points on all endless levels. / On any difficulty, get 50,000 or more points on \"SALARIA\".",
             "community": 1,
             "communityText": "Metaphysical Marathon\nGet a score of at least 50,000 points on \"SALARIA\" on \"Impetuoso\" difficulty.",
             "achievements": 20
@@ -20792,7 +20792,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sharpshooter \u2605 55\nObtain an S rank on all levels besides extra mode.",
+            "primaryText": "Sharpshooter [55\u2605]\nObtain an S rank on all levels besides extra mode.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -20846,7 +20846,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Guardian of Avalice \u2605 10\nClear the game without losing any lives. / Clear the game in less than 90 minutes.",
+            "primaryText": "Guardian of Avalice [10\u2605]\nClear the game without losing any lives. / Clear the game in less than 90 minutes.",
             "community": 1,
             "communityText": "Grand Gem Hoarder\nBeat the original version of the \"Gem Hoarder\" achievement by completing the game with over 7000 crystal shards.",
             "achievements": 56
@@ -20900,7 +20900,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Tongue Twister \u2605 15\nComplete the game without dying and without the use of quit to menu.\n\nToadtroit \u2605 5\nProve yourself.",
+            "primaryText": "Tongue Twister [15\u2605]\nComplete the game without dying and without the use of quit to menu.\n\nToadtroit [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -20955,7 +20955,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "One Tricky Frog \u2605 5\nSeparately; Beat Hard mode in less than 7 minutes, and with 5 or more hearts remaining.",
+            "primaryText": "One Tricky Frog [5\u2605]\nSeparately; Beat Hard mode in less than 7 minutes, and with 5 or more hearts remaining.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -21009,7 +21009,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cold Sweat \u2605 20\nBeat the game on Impossible difficulty. / Complete the Skeptic scenario.",
+            "primaryText": "Cold Sweat [20\u2605]\nBeat the game on Impossible difficulty. / Complete the Skeptic scenario.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -21028,7 +21028,7 @@ var data =
         "updatedAt": "2024-10-22T22:57:36.000Z",
         "playersCompleted": 3,
         "playersStarted": 4,
-        "playersTotal": 198,
+        "playersTotal": 199,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -21063,7 +21063,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "All-Rounded Extremophile \u2605 30\nFinish each scenario in Survivor mode.\n\nMarathon Runner \u2605 20\nReach Day 100 of Endurance Mode on Extreme difficulty.\n\nIron Saviour \u2605 10\nFinish the New Home scenario with no deaths from cold, hunger, sickness or overwork on Hard difficulty.",
+            "primaryText": "All-Rounded Extremophile [30\u2605]\nFinish each scenario in Survivor mode.\n\nMarathon Runner [20\u2605]\nReach Day 100 of Endurance Mode on Extreme difficulty.\n\nIron Saviour [10\u2605]\nFinish the New Home scenario with no deaths from cold, hunger, sickness or overwork on Hard difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 115
@@ -21083,7 +21083,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 33,
-        "playersTotal": 549,
+        "playersTotal": 550,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -21118,7 +21118,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Rebellion Crusher \u2605 90\nDefeat the Flagship with every ship layout on \"Hard\" difficulty.\n\nAstronomical Allegiance \u2605 15\nDefeat the Flagship on \"Hard\" difficulty. \n\nFederation Victory \u2605 15\nDefeat the Flagship on \"Normal\" difficulty. / Complete miscellaneous challenge achievements.",
+            "primaryText": "Rebellion Crusher [90\u2605]\nDefeat the Flagship with every ship layout on \"Hard\" difficulty.\n\nAstronomical Allegiance [15\u2605]\nDefeat the Flagship on \"Hard\" difficulty. \n\nFederation Victory [15\u2605]\nDefeat the Flagship on \"Normal\" difficulty. / Complete miscellaneous challenge achievements.",
             "community": 2,
             "communityText": "Refined ReFTLexes\nBeat the game on \"Hard\" difficulty without ever pausing.\n\nStronger Than Light\nComplete all in-game achievements on \"Hard\" difficulty.",
             "achievements": 51
@@ -21173,7 +21173,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Titan Toppler \u2605 35\nObtain an S rank on every individual boss in \"Furier\" difficulty, including Bernard and The Flame.\n\nFurioso \u2605 15\nObtain an S rank in \"Furier\" difficulty on Story mode.",
+            "primaryText": "Titan Toppler [35\u2605]\nObtain an S rank on every individual boss in \"Furier\" difficulty, including Bernard and The Flame.\n\nFurioso [15\u2605]\nObtain an S rank in \"Furier\" difficulty on Story mode.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -21227,7 +21227,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Comically Good \u2605 50\nSeparately, clear Legendary mode and clear the game without breaking your combo.",
+            "primaryText": "Comically Good [50\u2605]\nSeparately, clear Legendary mode and clear the game without breaking your combo.",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -21281,7 +21281,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Grinding Stunts \u2605 10\nScore 250,000 points or more on a score attack. / Earn 30 diamond trophies.",
+            "primaryText": "Grinding Stunts [10\u2605]\nScore 250,000 points or more on a score attack. / Earn 30 diamond trophies.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -21335,7 +21335,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Guide to Touching Grass \u2605 5\nBeat all stages separately with all challlenges activated.",
+            "primaryText": "The Guide to Touching Grass [5\u2605]\nBeat all stages separately with all challlenges activated.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -21389,7 +21389,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Microgame Mania \u2605 10\nComplete an Unethical difficulty run.",
+            "primaryText": "Microgame Mania [10\u2605]\nComplete an Unethical difficulty run.",
             "community": 1,
             "communityText": "Soup-er Unethical\nComplete an Unethical difficulty run without losing a heart.",
             "achievements": 13
@@ -21443,7 +21443,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Cruisin Lore \u2605 10\nClear the game in Arrange mode without continuing on Normal or higher.\n\nWreck-It Yui (UNCLEARED) \u2605 1\nBeat both loops of Arcade mode without continuing on Normal or higher.",
+            "primaryText": "Cruisin Lore [10\u2605]\nClear the game in Arrange mode without continuing on Normal or higher.\n\nWreck-It Yui (UNCLEARED) [1\u2605]\nBeat both loops of Arcade mode without continuing on Normal or higher.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -21498,7 +21498,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Stone And The Sword \u2605 10\nComplete the game without dying and under 75 minutes.",
+            "primaryText": "The Stone And The Sword [10\u2605]\nComplete the game without dying and under 75 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -21552,7 +21552,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bean There, Done That \u2605 10\nDo everything.",
+            "primaryText": "Bean There, Done That [10\u2605]\nDo everything.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -21606,7 +21606,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "As long as it isn't on a Monday... \u2605 20\nReach the platinum medal on all time trials.\n\nLasagna Fuel \u2605 10\nReach the gold medal in all time trials. / Complete all Grand Prix cups in 150cc, in first place for all races.",
+            "primaryText": "As long as it isn't on a Monday... [20\u2605]\nReach the platinum medal on all time trials.\n\nLasagna Fuel [10\u2605]\nReach the gold medal in all time trials. / Complete all Grand Prix cups in 150cc, in first place for all races.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -21660,7 +21660,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rose \u2605 10\nObtain the Sacred Rose.",
+            "primaryText": "Rose [10\u2605]\nObtain the Sacred Rose.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -21709,7 +21709,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rated E for Epilepsy \u2605 20\nProve yourself.",
+            "primaryText": "Rated E for Epilepsy [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -21763,7 +21763,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Dedicated Geballer \u2605 5\nComplete the final secret loop level. / Beat the game without dying in any non-intermission levels.",
+            "primaryText": "Dedicated Geballer [5\u2605]\nComplete the final secret loop level. / Beat the game without dying in any non-intermission levels.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -21817,7 +21817,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Gauntlet Crusher \u2605 50\nComplete all Gauntlets.\n\nDemon Dasher \u2605 40\nCollect 160 Secret Coins and unlock the icon tied to it.\n\nThe Impossible Game \u2605 30 (Partial: \u2605 15)\nComplete all official levels in Normal Mode. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Gauntlet Crusher [50\u2605]\nComplete all Gauntlets.\n\nDemon Dasher [40\u2605]\nCollect 160 Secret Coins and unlock the icon tied to it.\n\nThe Impossible Game[30\u2605  (Partial: 15\u2605)]\nComplete all official levels in Normal Mode. *Partial points are awarded as a progress milestone.",
             "community": 3,
             "communityText": "Geometric Domination\nBeat every official level in level order in Normal Mode without dying, restarting or quitting. Alternatively, beat \"RobTop Travel\" by Atomic in Normal Mode.\n\nNumismatist\nCollect all 164 Secret Coins.\n\nPushed to the Extreme\nComplete \"Bloodbath\" by Riot in Normal Mode.",
             "achievements": 120
@@ -21871,7 +21871,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Geometry Warlord \u2605 15\nAchieve three stars in all Hardcore levels.\n\nGeometry Warrior \u2605 15\nProve yourself.",
+            "primaryText": "Geometry Warlord [15\u2605]\nAchieve three stars in all Hardcore levels.\n\nGeometry Warrior [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -21925,7 +21925,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Germophile \u2605 25\nGet the cat through all stages. / Obtain the gold time on all stages.\n\nGermophobe \u2605 10\nBeat all hard mode stages.",
+            "primaryText": "Germophile [25\u2605]\nGet the cat through all stages. / Obtain the gold time on all stages.\n\nGermophobe [10\u2605]\nBeat all hard mode stages.",
             "community": 1,
             "communityText": "Mr. Clean\nObtain all Gold times without dying.",
             "achievements": 40
@@ -21979,7 +21979,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Not Even A Chip \u2605 5\nSave all battery bots. / Complete all levels with 0 wrecks.",
+            "primaryText": "Not Even A Chip [5\u2605]\nSave all battery bots. / Complete all levels with 0 wrecks.",
             "community": 0,
             "communityText": "",
             "achievements": 46
@@ -22033,7 +22033,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Got Over It \u2605 10\nReach the top of the mountain.",
+            "primaryText": "Got Over It [10\u2605]\nReach the top of the mountain.",
             "community": 1,
             "communityText": "Sexy Hiking Skills\nObtain the golden pot by climbing the mountain 50 times.",
             "achievements": 3
@@ -22088,7 +22088,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Survivor of Lorian \u2605 5\nFinish the game in under 3 hours. / Finish the game without dying. / Finish the game on original difficulty. / Destroy many Roslock creatures in the pit.",
+            "primaryText": "Survivor of Lorian [5\u2605]\nFinish the game in under 3 hours. / Finish the game without dying. / Finish the game on original difficulty. / Destroy many Roslock creatures in the pit.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -22142,7 +22142,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ghostbuster \u2605 20\nObtain all dev medals and get all collectibles.",
+            "primaryText": "Ghostbuster [20\u2605]\nObtain all dev medals and get all collectibles.",
             "community": 0,
             "communityText": "",
             "achievements": 7
@@ -22196,7 +22196,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Ghost in the Shell \u2605 5\nProve yourself. \n\nMore Than Just a Machine \u2605 10\nBeat the main campaign on Hardcore mode.\n\nHit Me if You Can \u2605 5\nObtain the \"Master\" rank on all Killrun levels. / Complete Wave mode.\n\nClimb to the Top \u2605 10\nObtain all main campaign achievements. ",
+            "primaryText": "Ghost in the Shell [5\u2605]\nProve yourself. \n\nMore Than Just a Machine [10\u2605]\nBeat the main campaign on Hardcore mode.\n\nHit Me if You Can [5\u2605]\nObtain the \"Master\" rank on all Killrun levels. / Complete Wave mode.\n\nClimb to the Top [10\u2605]\nObtain all main campaign achievements. ",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -22216,7 +22216,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 5,
-        "playersTotal": 70,
+        "playersTotal": 71,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -22251,7 +22251,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Hardcore Roguerunner \u2605 10\nComplete all stages in Roguerunner.exe. / Beat the game on Hardcore mode.\n\nGhostrunning All Over Again \u2605 10\nProve yourself.",
+            "primaryText": "Hardcore Roguerunner [10\u2605]\nComplete all stages in Roguerunner.exe. / Beat the game on Hardcore mode.\n\nGhostrunning All Over Again [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -22305,7 +22305,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Congraturation \u2605 10\nObtain the true ending.",
+            "primaryText": "Congraturation [10\u2605]\nObtain the true ending.",
             "community": 0,
             "communityText": "",
             "achievements": 31
@@ -22359,7 +22359,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gazilliaire \u2605 10\nComplete all B-Side levels. / Beat the dev times on every level.",
+            "primaryText": "Gazilliaire [10\u2605]\nComplete all B-Side levels. / Beat the dev times on every level.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -22378,7 +22378,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 288,
+        "playersTotal": 289,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -22413,7 +22413,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Twisted Dichotomy \u2605 100\nComplete the game on \"Uber Hardcore\" difficulty.",
+            "primaryText": "Twisted Dichotomy [100\u2605]\nComplete the game on \"Uber Hardcore\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -22432,7 +22432,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 128,
+        "playersTotal": 129,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -22467,7 +22467,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Powlverizer \u2605 10\nBeat the game on \"Uber Hardcore\" difficulty.",
+            "primaryText": "Powlverizer [10\u2605]\nBeat the game on \"Uber Hardcore\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -22521,7 +22521,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Get Serious \u2605 10\nObtain the true ending in Serious mode.",
+            "primaryText": "Get Serious [10\u2605]\nObtain the true ending in Serious mode.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -22575,7 +22575,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Light Up the Night \u2605 10\nSeparately; complete each world without dying and complete 24 levels in a row without dying.\n\nEnergized \u2605 5\nBeat all target times.",
+            "primaryText": "Light Up the Night [10\u2605]\nSeparately; complete each world without dying and complete 24 levels in a row without dying.\n\nEnergized [5\u2605]\nBeat all target times.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -22629,7 +22629,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Myriahedral Triathlon \u2605 15\nComplete a colossal triangle game with at least standard mine density.\n\nAround the World in 52 Minutes \u2605 10\nComplete a colossal globe within 52 minutes and 35.7 seconds.",
+            "primaryText": "Myriahedral Triathlon [15\u2605]\nComplete a colossal triangle game with at least standard mine density.\n\nAround the World in 52 Minutes [10\u2605]\nComplete a colossal globe within 52 minutes and 35.7 seconds.",
             "community": 1,
             "communityText": "Salt Mine\nComplete a colossal triangle game with insane mine density.",
             "achievements": 16
@@ -22683,7 +22683,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Fastest Beetle in the West \u2605 10\nCollect all avatar capsules and get gold in all time trials.",
+            "primaryText": "The Fastest Beetle in the West [10\u2605]\nCollect all avatar capsules and get gold in all time trials.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -22737,7 +22737,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bestest Guy There Is \u2605 5\nComplete the game without getting hit.",
+            "primaryText": "Bestest Guy There Is [5\u2605]\nComplete the game without getting hit.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -22791,7 +22791,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Queen of the Valkyries \u2605 20\nDefeat the Valkyrie Queen on \"Give Me God of War\" difficulty.\n\nFather of the Year \u2605 15\nFinish the game on \"Give Me God of War\" difficulty.",
+            "primaryText": "Queen of the Valkyries [20\u2605]\nDefeat the Valkyrie Queen on \"Give Me God of War\" difficulty.\n\nFather of the Year [15\u2605]\nFinish the game on \"Give Me God of War\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -22845,7 +22845,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Big Heavens \u2605 10\nEarn all achievements in the game.",
+            "primaryText": "Big Heavens [10\u2605]\nEarn all achievements in the game.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -22899,7 +22899,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Spark \u2605 5\nProve yourself.",
+            "primaryText": "Spark [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -22953,7 +22953,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Going Over \u2605 65 (Partial: \u2605 20)\nComplete the Impostor's final test.",
+            "primaryText": "Going Over[65\u2605  (Partial: 20\u2605)]\nComplete the Impostor's final test.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -23007,7 +23007,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Wunderpar \u2605 20\nBeat Iron mode.",
+            "primaryText": "Wunderpar [20\u2605]\nBeat Iron mode.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -23026,7 +23026,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 205,
+        "playersTotal": 206,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -23061,7 +23061,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Gang Star \u2605 30\nSeparately, get S+ on every hole of a course and get S or better on every course in Golf Gang mode.\n\nGolf Mafia (UNCLEARED) \u2605 1\nGet S+ on every course.",
+            "primaryText": "Gang Star [30\u2605]\nSeparately, get S+ on every hole of a course and get S or better on every course in Golf Gang mode.\n\nGolf Mafia (UNCLEARED) [1\u2605]\nGet S+ on every course.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -23115,7 +23115,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Golfed WAY Over It \u2605 5\nComplete all three hidden levels.\n\nTiger Woods \u2605 5\nGet to the top in less than 15 minutes. / Get to the top hitting the ball less than 300 times.",
+            "primaryText": "Golfed WAY Over It [5\u2605]\nComplete all three hidden levels.\n\nTiger Woods [5\u2605]\nGet to the top in less than 15 minutes. / Get to the top hitting the ball less than 300 times.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -23169,7 +23169,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Slick Ikk \u2605 5\nSeparately, beat the game without dying, and kill 100 enemies in a row.",
+            "primaryText": "Slick Ikk [5\u2605]\nSeparately, beat the game without dying, and kill 100 enemies in a row.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -23223,7 +23223,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Shooting in the Dark \u2605 35\nFinish the game on \"Masochistic Blackout Permadeath\" mode.\n\nQuick Draw \u2605 15\nFinish all levels in under a minute separately.\n\nHardcore Gore \u2605 10\nFinish the game on \"Masochistic\" difficulty.",
+            "primaryText": "Shooting in the Dark [35\u2605]\nFinish the game on \"Masochistic Blackout Permadeath\" mode.\n\nQuick Draw [15\u2605]\nFinish all levels in under a minute separately.\n\nHardcore Gore [10\u2605]\nFinish the game on \"Masochistic\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -23277,7 +23277,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Driving to Nowhere \u2605 15\nDiscover all cities in a single run. / Reach Rank 20.",
+            "primaryText": "Driving to Nowhere [15\u2605]\nDiscover all cities in a single run. / Reach Rank 20.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -23331,7 +23331,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "With Grace \u2605 15\nObtain S+ rank on all planets and WARP+ stages.\n\nWith Splendor \u2605 15\nObtain S rank on all planets. / Complete all WARP+ stages.\n\nUnstoppable Murder Machine (UNCLEARED) \u2605 1\nObtain S+ rank on all Score Attack stages.",
+            "primaryText": "With Grace [15\u2605]\nObtain S+ rank on all planets and WARP+ stages.\n\nWith Splendor [15\u2605]\nObtain S rank on all planets. / Complete all WARP+ stages.\n\nUnstoppable Murder Machine (UNCLEARED) [1\u2605]\nObtain S+ rank on all Score Attack stages.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -23350,7 +23350,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 30,
         "playersStarted": 2,
-        "playersTotal": 292,
+        "playersTotal": 293,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -23385,7 +23385,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Ballad of a Radiant Star \u2605 5\nScore 100% in all missions (in \"The Ballad of the Gay Tony\" DLC)\n\nDopamine Chaser \u2605 5\nProve yourself. ",
+            "primaryText": "Ballad of a Radiant Star [5\u2605]\nScore 100% in all missions (in \"The Ballad of the Gay Tony\" DLC)\n\nDopamine Chaser [5\u2605]\nProve yourself. ",
             "community": 0,
             "communityText": "",
             "achievements": 55
@@ -23439,7 +23439,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sleep Tight \u2605 5\nBeat the game on Extreme.",
+            "primaryText": "Sleep Tight [5\u2605]\nBeat the game on Extreme.",
             "community": 1,
             "communityText": "Geriatric Patient\nComplete all primary objectives from all site-listed games in the Granny franchise. See verification requirements for complete list.",
             "achievements": 0
@@ -23493,7 +23493,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Geronticide \u2605 5\nBeat the game on Extreme.",
+            "primaryText": "Geronticide [5\u2605]\nBeat the game on Extreme.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -23547,7 +23547,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Family Matters \u2605 5\nBeat the game on Extreme.",
+            "primaryText": "Family Matters [5\u2605]\nBeat the game on Extreme.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -23601,7 +23601,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gooball Speedball \u2605 20\nComplete a Speed Run under Par.",
+            "primaryText": "Gooball Speedball [20\u2605]\nComplete a Speed Run under Par.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -23655,7 +23655,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Top Dog \u2605 10\nCollect all gems and gold time trials medals.",
+            "primaryText": "Top Dog [10\u2605]\nCollect all gems and gold time trials medals.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -23709,7 +23709,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Grapple Force Legend \u2605 25\nBeat all courses with an S rank.\n\nGrapple Force Goddess \u2605 15\nBeat boss rush without getting hit.\n\nGrapple Force Recruit \u2605 10\nProve Yourself",
+            "primaryText": "Grapple Force Legend [25\u2605]\nBeat all courses with an S rank.\n\nGrapple Force Goddess [15\u2605]\nBeat boss rush without getting hit.\n\nGrapple Force Recruit [10\u2605]\nProve Yourself",
             "community": 0,
             "communityText": "",
             "achievements": 41
@@ -23763,7 +23763,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Wishing Well \u2605 10\nBeat the game in 15 minutes or less.",
+            "primaryText": "Wishing Well [10\u2605]\nBeat the game in 15 minutes or less.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -23817,7 +23817,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Gravity Master \u2605 15\nCollect all stars in the normal levels. / Collect all stars in the harcore levels.\n\nGravity Apprentice \u2605 10\nComplete all normal levels. / Complete all hardcore levels. / Complete 10 hardcore levels using only gravity shift.",
+            "primaryText": "Gravity Master [15\u2605]\nCollect all stars in the normal levels. / Collect all stars in the harcore levels.\n\nGravity Apprentice [10\u2605]\nComplete all normal levels. / Complete all hardcore levels. / Complete 10 hardcore levels using only gravity shift.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -23871,7 +23871,7 @@ var data =
         },
         "milestones": {
             "primary": 6,
-            "primaryText": "All I See Is Red \u2605 50\nObtain all 230 Red Perfect ranks.\n\nLegendary Marble Challenger \u2605 20\nComplete all 30 challenges.\n\nHigh Lighter \u2605 25\nObtain all 230 Yellow Perfect ranks.\n\nWhiteout \u2605 35\nObtain all 230 White Perfect ranks.\n\nMarble Expert \u2605 20\nComplete all 230 stages.\n\nMarble Novice \u2605 10\nComplete all Easy and Medium stages.",
+            "primaryText": "All I See Is Red [50\u2605]\nObtain all 230 Red Perfect ranks.\n\nLegendary Marble Challenger [20\u2605]\nComplete all 30 challenges.\n\nHigh Lighter [25\u2605]\nObtain all 230 Yellow Perfect ranks.\n\nWhiteout [35\u2605]\nObtain all 230 White Perfect ranks.\n\nMarble Expert [20\u2605]\nComplete all 230 stages.\n\nMarble Novice [10\u2605]\nComplete all Easy and Medium stages.",
             "community": 0,
             "communityText": "",
             "achievements": 82
@@ -23925,7 +23925,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Chief Executive Gremlin \u2605 30\nProve yourself.",
+            "primaryText": "Chief Executive Gremlin [30\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 100
@@ -23979,7 +23979,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Greybound \u2605 25\nBeat the game on Punished difficulty.\n\nCausal Defect \u2605 5\nReach the alternate ending on any difficulty.",
+            "primaryText": "Greybound [25\u2605]\nBeat the game on Punished difficulty.\n\nCausal Defect [5\u2605]\nReach the alternate ending on any difficulty.",
             "community": 1,
             "communityText": "50 Shades of Grey Area\nReach the alternate ending on Punished difficulty.",
             "achievements": 17
@@ -24034,7 +24034,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Grid Wars \u2605 5\nComplete every level.",
+            "primaryText": "Grid Wars [5\u2605]\nComplete every level.",
             "community": 0,
             "communityText": "",
             "achievements": 1
@@ -24088,7 +24088,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Echoes of Devourance \u2605 5\nFinish an NG cycle. / Defeat the Dreamborn Terror.",
+            "primaryText": "Echoes of Devourance [5\u2605]\nFinish an NG cycle. / Defeat the Dreamborn Terror.",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -24142,7 +24142,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Creep Crush \u2605 5\nComplete all Extra worlds and the boss rush.\n\nNine to Five \u2605 5\nComplete all levels and complete a greed grind without dying.\n\nDark Undertones (UNCLEARED) \u2605 1\nBeat all of the Cosmic Darkside levels.\n\nMystic Guardian (UNCLEARED) \u2605 1\nBeat all of the Mysticverse levels.",
+            "primaryText": "Creep Crush [5\u2605]\nComplete all Extra worlds and the boss rush.\n\nNine to Five [5\u2605]\nComplete all levels and complete a greed grind without dying.\n\nDark Undertones (UNCLEARED) [1\u2605]\nBeat all of the Cosmic Darkside levels.\n\nMystic Guardian (UNCLEARED) [1\u2605]\nBeat all of the Mysticverse levels.",
             "community": 1,
             "communityText": "No Stone Unturned (Potentially Primary)\n100% everything.",
             "achievements": 49
@@ -24196,7 +24196,7 @@ var data =
         },
         "milestones": {
             "primary": 8,
-            "primaryText": "Groove King \u2605 150\nObtain an S++ rank on all songs including DLC.\n\nGroove Knight \u2605 70\nObtain an S+ rank on all songs including DLC.\n\nGroove Master \u2605 60\nObtain an S rank on all songs including DLC.\n\nGroove Ace \u2605 50\nObtain an A rank on all songs including DLC.\n\nAll About That Base \u2605 110\nObtain an S++ rank on all songs from the base game.\n\nBase Knight \u2605 40\nObtain an S+ rank on all songs from the base game.\n\nBase Master \u2605 40\nObtain an S rank on all songs from the base game.\n\nBase Ace \u2605 30\nObtain an A rank on all songs from the base game.",
+            "primaryText": "Groove King [150\u2605]\nObtain an S++ rank on all songs including DLC.\n\nGroove Knight [70\u2605]\nObtain an S+ rank on all songs including DLC.\n\nGroove Master [60\u2605]\nObtain an S rank on all songs including DLC.\n\nGroove Ace [50\u2605]\nObtain an A rank on all songs including DLC.\n\nAll About That Base [110\u2605]\nObtain an S++ rank on all songs from the base game.\n\nBase Knight [40\u2605]\nObtain an S+ rank on all songs from the base game.\n\nBase Master [40\u2605]\nObtain an S rank on all songs from the base game.\n\nBase Ace [30\u2605]\nObtain an A rank on all songs from the base game.",
             "community": 3,
             "communityText": "Chain of Memories\nObtain a Full Chain everywhere possible.\n\nFor Good Measure\nObtain a No Miss everywhere possible.\n\nTuned to Perfection\nGet a Perfect rating everywhere possible.",
             "achievements": 1176
@@ -24250,7 +24250,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Efficient Escapee's \u2605 25\nAchieve prisoner efficiency in all levels that have Secondary and Overload objectives.\n\nComplex Conquerer \u2605 60\nComplete all sectors in Rundown 4, 5 and 8.\n\nDiving Deeper \u2605 40\nComplete all sectors in Rundown 2, 6 and 7.\n\nWelcome to the Complex \u2605 15\nComplete all sectors in Rundown 1 and 3.",
+            "primaryText": "Efficient Escapee's [25\u2605]\nAchieve prisoner efficiency in all levels that have Secondary and Overload objectives.\n\nComplex Conquerer [60\u2605]\nComplete all sectors in Rundown 4, 5 and 8.\n\nDiving Deeper [40\u2605]\nComplete all sectors in Rundown 2, 6 and 7.\n\nWelcome to the Complex [15\u2605]\nComplete all sectors in Rundown 1 and 3.",
             "community": 0,
             "communityText": "",
             "achievements": 57
@@ -24304,7 +24304,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Guacamastery \u2605 5\nObtain all achievements.\n\nTrials of the God of Time \u2605 5\nAchieve a Gold Medal for all of Tiempochtli\u2019s Challenges.",
+            "primaryText": "Guacamastery [5\u2605]\nObtain all achievements.\n\nTrials of the God of Time [5\u2605]\nAchieve a Gold Medal for all of Tiempochtli\u2019s Challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 49
@@ -24323,7 +24323,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 67,
         "playersStarted": 0,
-        "playersTotal": 509,
+        "playersTotal": 510,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -24358,7 +24358,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Legendary Luchador \u2605 5\nEarn a gold medal in all Infierno challenges. Clear hard mode.",
+            "primaryText": "Legendary Luchador [5\u2605]\nEarn a gold medal in all Infierno challenges. Clear hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -24412,7 +24412,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Justice Will be Served \u2605 40\nClear Classic Survival mode.\n\nMission Accomplished \u2605 20\nObtain a GGXX rank on all missions.\n\nGearing Up \u2605 10\nClear Arcade mode on MANIAC difficulty.\n\nGuilty Pleasure (S) (UNCLEARED) \u2605 1\nClear Classic Survival mode using any character other than Justice, or a Black, Gold, or EX Character.",
+            "primaryText": "Justice Will be Served [40\u2605]\nClear Classic Survival mode.\n\nMission Accomplished [20\u2605]\nObtain a GGXX rank on all missions.\n\nGearing Up [10\u2605]\nClear Arcade mode on MANIAC difficulty.\n\nGuilty Pleasure (S) (UNCLEARED) [1\u2605]\nClear Classic Survival mode using any character other than Justice, or a Black, Gold, or EX Character.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -24466,7 +24466,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Fire Arm \u2605 10\nBeat the game without dying.\n\nSecond Amendment (UNCLEARED) \u2605 1\nBeat the game without taking damage.",
+            "primaryText": "Fire Arm [10\u2605]\nBeat the game without dying.\n\nSecond Amendment (UNCLEARED) [1\u2605]\nBeat the game without taking damage.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -24520,7 +24520,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Ready for Takeoff \u2605 10 (Partial: \u2605 5)\nReach the ending without continuing on NORMAL difficulty or higher.\n\nWish Overlord (UNCLEARED) \u2605 1\nClear both loops of the score attack mode.",
+            "primaryText": "Ready for Takeoff[10\u2605  (Partial: 5\u2605)]\nReach the ending without continuing on NORMAL difficulty or higher.\n\nWish Overlord (UNCLEARED) [1\u2605]\nClear both loops of the score attack mode.",
             "community": 1,
             "communityText": "I Like Trains\nClear both loops of the game on NORMAL or higher without continuing and playing the train stage on the second loop.",
             "achievements": 27
@@ -24574,7 +24574,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Flying High \u2605 20 (Partial: \u2605 5)\nWatch the ending without continuing in NORMAL mode or higher.\n\nMedicine Melancholy (UNCLEARED) \u2605 1\nClear both loops of the score attack mode.",
+            "primaryText": "Flying High[20\u2605  (Partial: 5\u2605)]\nWatch the ending without continuing in NORMAL mode or higher.\n\nMedicine Melancholy (UNCLEARED) [1\u2605]\nClear both loops of the score attack mode.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -24628,7 +24628,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Swordborg \u2605 5\nObtain an S rank on all missions and survival stages.",
+            "primaryText": "Swordborg [5\u2605]\nObtain an S rank on all missions and survival stages.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -24682,7 +24682,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Boundless Bane \u2605 15\nBeat both final bosses in a single run on Endless Journey.\n\nConqueror of the Spirit Realm \u2605 10\nSeparately; complete Nightmare difficulty in under 30 minutes and collect several exclusive level frames.",
+            "primaryText": "Boundless Bane [15\u2605]\nBeat both final bosses in a single run on Endless Journey.\n\nConqueror of the Spirit Realm [10\u2605]\nSeparately; complete Nightmare difficulty in under 30 minutes and collect several exclusive level frames.",
             "community": 0,
             "communityText": "",
             "achievements": 128
@@ -24737,7 +24737,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Lock Don \u2605 5\nAchieve victory in all 3 zones with a trial score of 30+. Defeat the boss at 25 minutes in Endless mode.",
+            "primaryText": "The Lock Don [5\u2605]\nAchieve victory in all 3 zones with a trial score of 30+. Defeat the boss at 25 minutes in Endless mode.",
             "community": 0,
             "communityText": "",
             "achievements": 55
@@ -24791,7 +24791,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Pure Improvisation \u2605 15\nClear the Roguelike Arrange mode with the maximum starting difficulty of 25.\n\nVery Expert \u2605 15\nBeat the game on Expert difficulty without continues. \n\nBombaaa \u2605 5\nBeat the game on Intense difficulty or higher without continues.\n\nCheck Them Out (UNCLEARED) \u2605 1\nComplete all requirements on all missions.",
+            "primaryText": "Pure Improvisation [15\u2605]\nClear the Roguelike Arrange mode with the maximum starting difficulty of 25.\n\nVery Expert [15\u2605]\nBeat the game on Expert difficulty without continues. \n\nBombaaa [5\u2605]\nBeat the game on Intense difficulty or higher without continues.\n\nCheck Them Out (UNCLEARED) [1\u2605]\nComplete all requirements on all missions.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -24845,7 +24845,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Crazy Rush \u2605 20\nBeat Boss Rush on Crazy Mode\n\nUnbelievable Phantom Hunter \u2605 50\nComplete Crazy Mode with an S rank or higher.",
+            "primaryText": "Crazy Rush [20\u2605]\nBeat Boss Rush on Crazy Mode\n\nUnbelievable Phantom Hunter [50\u2605]\nComplete Crazy Mode with an S rank or higher.",
             "community": 0,
             "communityText": "",
             "achievements": 53
@@ -24899,7 +24899,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hackerman \u2605 25\nEarn 100% completion on every world.",
+            "primaryText": "Hackerman [25\u2605]\nEarn 100% completion on every world.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -24953,7 +24953,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Sack Kicking Enthusiast \u2605 20\nBeat the developer target time for every level.\n\nMaster Dribbler \u2605 10\n100% the game.",
+            "primaryText": "Sack Kicking Enthusiast [20\u2605]\nBeat the developer target time for every level.\n\nMaster Dribbler [10\u2605]\n100% the game.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -24972,7 +24972,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 81,
         "playersStarted": 149,
-        "playersTotal": 848,
+        "playersTotal": 849,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -25007,7 +25007,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Heat Wave \u2605 25\nComplete a 32 Heat run with any weapon type and without God Mode.\n\nFrom Hell and Back \u2605 10\nProve yourself.",
+            "primaryText": "Heat Wave [25\u2605]\nComplete a 32 Heat run with any weapon type and without God Mode.\n\nFrom Hell and Back [10\u2605]\nProve yourself.",
             "community": 5,
             "communityText": "Boiling Point\nComplete a 40 Heat run unseeded and without mods.\n\nHeat Arsenal\nComplete a 32 Heat run with all 6 weapon types and without God Mode.\n\nMelting Point\nComplete a 50 heat run unseeded and without mods.\n\nSacrosanct\nBeat the game without getting hit. The run must be verified by Team Hitless.\n\nSublimation Point\nComplete a 60 heat run unseeded and without mods.",
             "achievements": 49
@@ -25061,7 +25061,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Champion of Arcadia \u2605 15\nClear the corrupt Boss Rush.\n\nSchy's Memorial \u2605 5\nReach Schy's memorial before their best speedrun time (22:24.750).\n\nAnti-Corruption Protocol \u2605 15\nDefeat Atom and complete the game on Corrupt Mode.",
+            "primaryText": "Champion of Arcadia [15\u2605]\nClear the corrupt Boss Rush.\n\nSchy's Memorial [5\u2605]\nReach Schy's memorial before their best speedrun time (22:24.750).\n\nAnti-Corruption Protocol [15\u2605]\nDefeat Atom and complete the game on Corrupt Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -25080,7 +25080,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 13,
         "playersStarted": 19,
-        "playersTotal": 471,
+        "playersTotal": 472,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -25115,7 +25115,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Master Spartan \u2605 60\nComplete all LASO runs.\n\nShoot First, Ask Questions Later \u2605 20\nComplete all Legendary speedrun achievements.\n\nHalo Visionary \u2605 10\nProve yourself.\n\nLegendary \u2605 10\nComplete all campaigns on Legendary difficulty.",
+            "primaryText": "Master Spartan [60\u2605]\nComplete all LASO runs.\n\nShoot First, Ask Questions Later [20\u2605]\nComplete all Legendary speedrun achievements.\n\nHalo Visionary [10\u2605]\nProve yourself.\n\nLegendary [10\u2605]\nComplete all campaigns on Legendary difficulty.",
             "community": 3,
             "communityText": "Master Chief\nObtain all achievements from all available games in the HALO franchise. See verification requirements for complete list.\n\nMythical Conqueror \nComplete any LASO run solo with no deaths or save and quit.\n\nTrue MCC Master\nComplete all Achievements, Playlists, Medals, and ALL Missions Solo AND Co-op on Legendary with a positive score + Spartan-Ops on Legendary.",
             "achievements": 700
@@ -25134,7 +25134,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 1,
-        "playersTotal": 139,
+        "playersTotal": 140,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -25169,7 +25169,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Deep Delver \u2605 15\nReach level 30 in Endless Mode\n\nWarmonger of the Beneath \u2605 5\nDefeat the Dealer as the Warlord.",
+            "primaryText": "Deep Delver [15\u2605]\nReach level 30 in Endless Mode\n\nWarmonger of the Beneath [5\u2605]\nDefeat the Dealer as the Warlord.",
             "community": 0,
             "communityText": "",
             "achievements": 53
@@ -25223,7 +25223,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Juicy Fruit \u2605 70\nBeat the game without using slow-motion.\n\nOnly Up \u2605 30\nBeat the game in under 30 minutes.\n\nLook Ma, No Hans! \u2605 20\nBeat the game without falling.\n\nHans \u2605 60\nBeat the game.",
+            "primaryText": "Juicy Fruit [70\u2605]\nBeat the game without using slow-motion.\n\nOnly Up [30\u2605]\nBeat the game in under 30 minutes.\n\nLook Ma, No Hans! [20\u2605]\nBeat the game without falling.\n\nHans [60\u2605]\nBeat the game.",
             "community": 1,
             "communityText": "                          \nBeat the game as Invisihans.",
             "achievements": 22
@@ -25277,7 +25277,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Lance A Lot \u2605 15\nClear NG-.",
+            "primaryText": "Lance A Lot [15\u2605]\nClear NG-.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -25331,7 +25331,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Magical Girl Gauntlet \u2605 10\nAchieve 20 victories in endless mode.\n\nDefinitely Not Puyo Puyo \u2605 5\nClear story mode on expert difficulty.",
+            "primaryText": "Magical Girl Gauntlet [10\u2605]\nAchieve 20 victories in endless mode.\n\nDefinitely Not Puyo Puyo [5\u2605]\nClear story mode on expert difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -25350,7 +25350,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 219,
+        "playersTotal": 220,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -25385,7 +25385,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Exalted Exile \u2605 25\nComplete all Bezoar and Barrens levels on Heroic mode.",
+            "primaryText": "Exalted Exile [25\u2605]\nComplete all Bezoar and Barrens levels on Heroic mode.",
             "community": 0,
             "communityText": "",
             "achievements": 115
@@ -25439,7 +25439,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Hats Off to You \u2605 10\nComplete the game without dying.\n\nTwo Can Play That Game \u2605 10\nComplete every time trial and collect every coin.",
+            "primaryText": "Hats Off to You [10\u2605]\nComplete the game without dying.\n\nTwo Can Play That Game [10\u2605]\nComplete every time trial and collect every coin.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -25488,7 +25488,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Validation \u2605 30\nBeat all levels with all sidequests on \"Insane\" difficulty.",
+            "primaryText": "Validation [30\u2605]\nBeat all levels with all sidequests on \"Insane\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 74
@@ -25542,7 +25542,7 @@ var data =
         },
         "milestones": {
             "primary": 8,
-            "primaryText": "Extra Perfect Diva \u2605 160\nAchieve a Perfect rating on all Extra Extreme songs.\n\n\u30c7\u30f3\u30d1\u30e9\u30c0\u30a4\u30e0 \u2605 70\nAchieve an Excellent rating on all Extra Extreme songs.\n\n\u30df\u30af\u30df\u30af\u2605\u30ca\u30a4\u30c8\u30d5\u30a3\u30fc\u30d0\u30fc \u2605 70\nPass all Extra Extreme songs.\n\nPerfect Diva \u2605 150\nAchieve a Perfect rating on all Extreme songs.\n\n\u541b\u306e\u6fc0\u5531 \u2605 60\nAchieve an Excellent rating on all Extreme songs.\n\n\u8133\u6f3f\u70b8\u88c2 \u2605 50\nPass all Extreme songs.\n\nThe World is Mine \u2605 30\nAchieve a Perfect rating on all Hard songs.\n\n\u6771\u4eac\u30c6\u30c7\u30a3\u30d9\u30a2 \u2605 10\nAchieve an Excellent rating on all Hard songs.",
+            "primaryText": "Extra Perfect Diva [160\u2605]\nAchieve a Perfect rating on all Extra Extreme songs.\n\n\u30c7\u30f3\u30d1\u30e9\u30c0\u30a4\u30e0 [70\u2605]\nAchieve an Excellent rating on all Extra Extreme songs.\n\n\u30df\u30af\u30df\u30af\u2605\u30ca\u30a4\u30c8\u30d5\u30a3\u30fc\u30d0\u30fc [70\u2605]\nPass all Extra Extreme songs.\n\nPerfect Diva [150\u2605]\nAchieve a Perfect rating on all Extreme songs.\n\n\u541b\u306e\u6fc0\u5531 [60\u2605]\nAchieve an Excellent rating on all Extreme songs.\n\n\u8133\u6f3f\u70b8\u88c2 [50\u2605]\nPass all Extreme songs.\n\nThe World is Mine [30\u2605]\nAchieve a Perfect rating on all Hard songs.\n\n\u6771\u4eac\u30c6\u30c7\u30a3\u30d9\u30a2 [10\u2605]\nAchieve an Excellent rating on all Hard songs.",
             "community": 0,
             "communityText": "",
             "achievements": 54
@@ -25597,7 +25597,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Overwork 'Till Breakdown \u2605 25\nClear the \"Breakdown 15\" difficulty. / Defeat the secret boss.",
+            "primaryText": "Overwork 'Till Breakdown [25\u2605]\nClear the \"Breakdown 15\" difficulty. / Defeat the secret boss.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -25651,7 +25651,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bless You \u2605 20\nAchieve 100% in-game completion.",
+            "primaryText": "Bless You [20\u2605]\nAchieve 100% in-game completion.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -25705,7 +25705,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Balanced Breakfast \u2605 5\nProve yourself.",
+            "primaryText": "Balanced Breakfast [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -25759,7 +25759,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Overwhelmingly Aesthetic \u2605 5\nObtain all S ranks.",
+            "primaryText": "Overwhelmingly Aesthetic [5\u2605]\nObtain all S ranks.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -25813,7 +25813,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Average First Week at Work \u2605 5\nComplete all challenges.",
+            "primaryText": "Average First Week at Work [5\u2605]\nComplete all challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -25867,7 +25867,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bullet Recycler \u2605 10\nBeat the game without withdraws. / Beat the game in under 25 minutes.",
+            "primaryText": "Bullet Recycler [10\u2605]\nBeat the game without withdraws. / Beat the game in under 25 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -25921,7 +25921,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Bullet Heck (UNCLEARED) \u2605 1\nBeat real time mode as all characters without deaths.\n\nYou Only Heck Once \u2605 10\nBeat the game as all characters without dying. / Clear the real time mode without dying.\n\nSUPERHECK \u2605 5\nBeat the game as all characters. / Clear the real time mode.",
+            "primaryText": "Bullet Heck (UNCLEARED) [1\u2605]\nBeat real time mode as all characters without deaths.\n\nYou Only Heck Once [10\u2605]\nBeat the game as all characters without dying. / Clear the real time mode without dying.\n\nSUPERHECK [5\u2605]\nBeat the game as all characters. / Clear the real time mode.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -25975,7 +25975,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Fresh Prince of Hell-Air \u2605 10\nDefeat The Stale in Campaign mode. / Get 10 Flawless badges in Campaign mode. / Beat the devs score of 26,161 in Arcade mode in a single run with any character.\n\nHardened By Hellfire \u2605 10\nObtain all flawless badges in Campaign mode.",
+            "primaryText": "Fresh Prince of Hell-Air [10\u2605]\nDefeat The Stale in Campaign mode. / Get 10 Flawless badges in Campaign mode. / Beat the devs score of 26,161 in Arcade mode in a single run with any character.\n\nHardened By Hellfire [10\u2605]\nObtain all flawless badges in Campaign mode.",
             "community": 0,
             "communityText": "",
             "achievements": 5
@@ -26029,7 +26029,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Stapley's Exemplary Employee \u2605 20\nObtain all diamond medals.\n\nSpecial Place in Hell (Future SO) \u2605 5\nObtain all diamond medals on the official 43 Studios levels on the Steam Workshop.",
+            "primaryText": "Stapley's Exemplary Employee [20\u2605]\nObtain all diamond medals.\n\nSpecial Place in Hell (Future SO) [5\u2605]\nObtain all diamond medals on the official 43 Studios levels on the Steam Workshop.",
             "community": 0,
             "communityText": "",
             "achievements": 56
@@ -26083,7 +26083,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "In Space No One Can Hear You Dodge Roll \u2605 10\nDefeat the True Last Boss of the base game.",
+            "primaryText": "In Space No One Can Hear You Dodge Roll [10\u2605]\nDefeat the True Last Boss of the base game.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -26137,7 +26137,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Graveyard Survivor \u2605 70\nProve yourself.",
+            "primaryText": "Graveyard Survivor [70\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 58
@@ -26191,7 +26191,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Legendawy Snipuwu \u2605 10\nGet S rank in all missions on Hard.",
+            "primaryText": "Legendawy Snipuwu [10\u2605]\nGet S rank in all missions on Hard.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -26245,7 +26245,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Stick Bugged \u2605 5\nBeat the boss rush without using continues.",
+            "primaryText": "Stick Bugged [5\u2605]\nBeat the boss rush without using continues.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -26299,7 +26299,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Technically Possible \u2605 50\nEarn a Challenger Rank in every level in Impossible Mode.\n\nWhat A Riot \u2605 10\nEarn a Challenger Rank in every level in Full Action Mode.",
+            "primaryText": "Technically Possible [50\u2605]\nEarn a Challenger Rank in every level in Impossible Mode.\n\nWhat A Riot [10\u2605]\nEarn a Challenger Rank in every level in Full Action Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -26353,7 +26353,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "High Fidelity \u2605 10\nObtain an overall Purple S Star for each track on Rhythm Master difficulty.\n\nHi-Five \u2605 10\nObtain all S ranks on Rhythm Master difficulty.\n\nRush of Rhythm \u2605 10\nBeat Rhythm Tower with an S rank.\n\nJust Beat It \u2605 10\nBeat Rhythm Master difficulty.",
+            "primaryText": "High Fidelity [10\u2605]\nObtain an overall Purple S Star for each track on Rhythm Master difficulty.\n\nHi-Five [10\u2605]\nObtain all S ranks on Rhythm Master difficulty.\n\nRush of Rhythm [10\u2605]\nBeat Rhythm Tower with an S rank.\n\nJust Beat It [10\u2605]\nBeat Rhythm Master difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 61
@@ -26407,7 +26407,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Violet President \u2605 15\nClear all Dream Diaries.",
+            "primaryText": "Violet President [15\u2605]\nClear all Dream Diaries.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -26461,7 +26461,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Holy Hell \u2605 5\nProve yourself.",
+            "primaryText": "Holy Hell [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -26515,7 +26515,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Invulnerable \u2605 10\nComplete the game with less than 5 deaths.",
+            "primaryText": "Invulnerable [10\u2605]\nComplete the game with less than 5 deaths.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -26569,7 +26569,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hohohurry \u2605 5\nBeat the game in under an hour. Note: Play on 60Hz to avoid softlocks/other glitches.",
+            "primaryText": "Hohohurry [5\u2605]\nBeat the game in under an hour. Note: Play on 60Hz to avoid softlocks/other glitches.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -26623,7 +26623,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Holometabolism \u2605 5\nComplete the game on \"NIGHTMARE\" difficulty.",
+            "primaryText": "Holometabolism [5\u2605]\nComplete the game on \"NIGHTMARE\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -26677,7 +26677,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Coinllector \u2605 5\nCollect all coins in Coin mode without dying.\n\nCollectorb \u2605 5\nCollect all three orbs and finish the game without dying.",
+            "primaryText": "Coinllector [5\u2605]\nCollect all coins in Coin mode without dying.\n\nCollectorb [5\u2605]\nCollect all three orbs and finish the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -26696,7 +26696,7 @@ var data =
         "updatedAt": "2024-10-04T16:56:00.000Z",
         "playersCompleted": 9,
         "playersStarted": 527,
-        "playersTotal": 1413,
+        "playersTotal": 1414,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -26731,7 +26731,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Champion of Hallownest \u2605 125\nClear the Pantheon of Hallownest without being hit.\n\nThe Ascended \u2605 100\nClear the Pantheon of Hallownest with all bindings.\n\nVoid Given Focus \u2605 30\nDefeat all radiant bosses.\n\nCloak and Nail \u2605 15\nClear the Pantheon of Hallownest.\n\nHollowed Out \u2605 5\nProve yourself.",
+            "primaryText": "Champion of Hallownest [125\u2605]\nClear the Pantheon of Hallownest without being hit.\n\nThe Ascended [100\u2605]\nClear the Pantheon of Hallownest with all bindings.\n\nVoid Given Focus [30\u2605]\nDefeat all radiant bosses.\n\nCloak and Nail [15\u2605]\nClear the Pantheon of Hallownest.\n\nHollowed Out [5\u2605]\nProve yourself.",
             "community": 4,
             "communityText": "Joni's Curse\nClear the Pantheon of Hallownest with all bindings and without taking lifeblood.\n\nKing's Court\nAnswer the Champion's Call and defeat all the bosses in the Pale Court mod.\n\nPantheonic Titan\nClear the Pantheon of Hallownest with all bindings and without being hit.\n\nSubtle Radiance\nDefeat Radiant Pale Prince.",
             "achievements": 63
@@ -26781,7 +26781,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Savior of Cyber Space \u2605 75\nComplete all Hardcore Worlds 100%.",
+            "primaryText": "Savior of Cyber Space [75\u2605]\nComplete all Hardcore Worlds 100%.",
             "community": 0,
             "communityText": "",
             "achievements": 53
@@ -26835,7 +26835,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Hopping Mad \u2605 10\nBeat all story levels without using the joystick.\n\nFlipping Out \u2605 5\nBeat the peak in under 1 hour.\n\nRudely Fast \u2605 5\nBeat par time on all story levels and beat gold time on all time trial levels.",
+            "primaryText": "Hopping Mad [10\u2605]\nBeat all story levels without using the joystick.\n\nFlipping Out [5\u2605]\nBeat the peak in under 1 hour.\n\nRudely Fast [5\u2605]\nBeat par time on all story levels and beat gold time on all time trial levels.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -26889,7 +26889,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Jump Teen \u2605 35\nReach the Frozen King in under 5 minutes. / Reach the Frozen King with 0 falls.\n\nJump Kid \u2605 25\nReach the top in under 4 minutes, with 0 falls and with a Pineapple save ready.",
+            "primaryText": "Jump Teen [35\u2605]\nReach the Frozen King in under 5 minutes. / Reach the Frozen King with 0 falls.\n\nJump Kid [25\u2605]\nReach the top in under 4 minutes, with 0 falls and with a Pineapple save ready.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -26943,7 +26943,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Floor Is Lava \u2605 40\nClear all challenges in every map. ",
+            "primaryText": "The Floor Is Lava [40\u2605]\nClear all challenges in every map. ",
             "community": 0,
             "communityText": "",
             "achievements": 41
@@ -26962,7 +26962,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 239,
         "playersStarted": 0,
-        "playersTotal": 807,
+        "playersTotal": 808,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -26997,7 +26997,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Masked Malice \u2605 5\nGet A+ on all the chapters.",
+            "primaryText": "Masked Malice [5\u2605]\nGet A+ on all the chapters.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -27016,7 +27016,7 @@ var data =
         "updatedAt": "2024-10-01T07:57:06.000Z",
         "playersCompleted": 11,
         "playersStarted": 105,
-        "playersTotal": 634,
+        "playersTotal": 635,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -27046,7 +27046,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Super Hot \u2605 30\nObtain an S rank on all hard mode levels.\n\nSynthwave Savage \u2605 10\nFinish the game on hard mode. / Get A+ on all levels on normal.",
+            "primaryText": "Super Hot [30\u2605]\nObtain an S rank on all hard mode levels.\n\nSynthwave Savage [10\u2605]\nFinish the game on hard mode. / Get A+ on all levels on normal.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -27100,7 +27100,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hotshot \u2605 10\nProve yourself.",
+            "primaryText": "Hotshot [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 53
@@ -27154,7 +27154,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Icebreaker \u2605 150 (Partial: \u2605 60)\nBeat Permafall mode.\n\nBlade Runner \u2605 20\nBeat the game with 10 falls or less. / Beat the game in under 30 minutes.\n\nFair and Balanced \u2605 20\nBeat the game with 100 falls or less. / Beat the game in under 1 hour.\n\nCold Shoulder \u2605 20\nBeat the game.",
+            "primaryText": "Icebreaker[150\u2605  (Partial: 60\u2605)]\nBeat Permafall mode.\n\nBlade Runner [20\u2605]\nBeat the game with 10 falls or less. / Beat the game in under 30 minutes.\n\nFair and Balanced [20\u2605]\nBeat the game with 100 falls or less. / Beat the game in under 1 hour.\n\nCold Shoulder [20\u2605]\nBeat the game.",
             "community": 1,
             "communityText": "How I learned to Surpass the Master\nBeat Taavi's time of 20:05.",
             "achievements": 13
@@ -27208,7 +27208,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Badass Assassin \u2605 50\nGet 100% completion in \"Badass\" Mode.",
+            "primaryText": "Badass Assassin [50\u2605]\nGet 100% completion in \"Badass\" Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -27262,7 +27262,7 @@ var data =
         },
         "milestones": {
             "primary": 6,
-            "primaryText": "Zeno's Paradox (UNCLEARED) \u2605 1\nDefeat the Ancient Dragon as every race using at most one potion of life.\n\nGod of the Nest (UNCLEARED) \u2605 1\nReach the Ancient Hydra and defeat it without ever using divisor blades. / Beat 150 floors in a single run. / Reach the Ancient Hydra and defeat it without drinking the first three power juices you collect. / Reach the Ancient Dragon and defeat it without ever using a potion of life.\n\nHydra Master (UNCLEARED) \u2605 1\nDefeat the Ancient Dragon on floor 50 as every race.\n\nImpractical Worker (UNCLEARED) \u2605 1\nBecome adept at manipulating hydra movements.\n\nHydra Apprentice \u2605 20\nDefeat the Ancient Hydra as every race.\n\nHydra Novice \u2605 5\nDefeat the Ancient Hydra on floor 12.",
+            "primaryText": "Zeno's Paradox (UNCLEARED) [1\u2605]\nDefeat the Ancient Dragon as every race using at most one potion of life.\n\nGod of the Nest (UNCLEARED) [1\u2605]\nReach the Ancient Hydra and defeat it without ever using divisor blades. / Beat 150 floors in a single run. / Reach the Ancient Hydra and defeat it without drinking the first three power juices you collect. / Reach the Ancient Dragon and defeat it without ever using a potion of life.\n\nHydra Master (UNCLEARED) [1\u2605]\nDefeat the Ancient Dragon on floor 50 as every race.\n\nImpractical Worker (UNCLEARED) [1\u2605]\nBecome adept at manipulating hydra movements.\n\nHydra Apprentice [20\u2605]\nDefeat the Ancient Hydra as every race.\n\nHydra Novice [5\u2605]\nDefeat the Ancient Hydra on floor 12.",
             "community": 0,
             "communityText": "",
             "achievements": 57
@@ -27317,7 +27317,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Warpin' Wormholes \u2605 5\nScore over 10 million. / Beat the boss rush mode.\n\nYou bounced around like a mofo (UNCLEARED) \u2605 1\nBeat the game on Tournament Mode.",
+            "primaryText": "Warpin' Wormholes [5\u2605]\nScore over 10 million. / Beat the boss rush mode.\n\nYou bounced around like a mofo (UNCLEARED) [1\u2605]\nBeat the game on Tournament Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -27372,7 +27372,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "DEIFIED \u2605 350\nGet a score of 400 or higher and earn the final dagger.\n\nREVERED \u2605 100\nGet a score of 350 or higher and earn the hyper dagger.\n\nDIGNIFIED \u2605 60\nGet a score of 300 or higher and earn the golden dagger.\n\nDEICIDE \u2605 20\nBeat the game.",
+            "primaryText": "DEIFIED [350\u2605]\nGet a score of 400 or higher and earn the final dagger.\n\nREVERED [100\u2605]\nGet a score of 350 or higher and earn the hyper dagger.\n\nDIGNIFIED [60\u2605]\nGet a score of 300 or higher and earn the golden dagger.\n\nDEICIDE [20\u2605]\nBeat the game.",
             "community": 2,
             "communityText": "REIFIED\nGet a score of 420 or higher.\n\nGLORIFIED\nGet a score of 410 or higher.",
             "achievements": 1
@@ -27426,7 +27426,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Drifting Away \u2605 20\nBeat NG+. / Complete Boss Rush with the Naked loadout. / Finish the game without dying.",
+            "primaryText": "Drifting Away [20\u2605]\nBeat NG+. / Complete Boss Rush with the Naked loadout. / Finish the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -27480,7 +27480,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Dot Dodger \u2605 5\nProve yourself.",
+            "primaryText": "Dot Dodger [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -27534,7 +27534,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Poincar\u00e9's Prodigy \u2605 60\nCollect 50 Hyperstones in Standard Mode. / Get the Orb of Yendor, the Princess, the Holy Grail, and 50 Hyperstones in Orb Strategy Mode.\n\nLobachevskian Legend \u2605 30 (Partial: \u2605 10)\nComplete every Yendor Challenge on the default tesselation/truncation settings. *Partial points are rewarded as a progress milestone.\n\nUltraparallel Universes \u2605 20\nAccomplish difficult feats on the other modes.\n\nCurvature Conquistador \u2605 80\nCollect 50 treasures in each land (except Crossroads) in Standard Mode. / Collect 8 Holy Grails.\n\nTessellated Trifecta \u2605 10\nProve your basic knowledge and understanding of hyperbolic geometry.",
+            "primaryText": "Poincar\u00e9's Prodigy [60\u2605]\nCollect 50 Hyperstones in Standard Mode. / Get the Orb of Yendor, the Princess, the Holy Grail, and 50 Hyperstones in Orb Strategy Mode.\n\nLobachevskian Legend[30\u2605  (Partial: 10\u2605)]\nComplete every Yendor Challenge on the default tesselation/truncation settings. *Partial points are rewarded as a progress milestone.\n\nUltraparallel Universes [20\u2605]\nAccomplish difficult feats on the other modes.\n\nCurvature Conquistador [80\u2605]\nCollect 50 treasures in each land (except Crossroads) in Standard Mode. / Collect 8 Holy Grails.\n\nTessellated Trifecta [10\u2605]\nProve your basic knowledge and understanding of hyperbolic geometry.",
             "community": 8,
             "communityText": "Blades of Beltrami\nComplete the Hyperstone Quest in Shoot'em Up Mode.\n\nHardcore Hyperboloid\nComplete the Hyperstone Quest in Hardcore Mode.\n\nIn the Interest of Achieving a Higher Appreciation for Non-Euclidean Geometry\nBeat the \"other achievements\" menu.\n\nLord of the Orbs\nCollect 25 treasures from every land, an Orb of Yendor, the Princess, and 3 Holy Grails in Standard Mode.\n\nMaster of the Non-Standard\nCollect 50 treasures from \"Wild West\", \"Crystal World\", \"Snake Nest\" and \"Docks\" in Pure Tactics Mode.\n\nPurist Treasure Master\nCollect 50 treasures from each default land in Pure Tactics Mode.\n\nTrue Black Star\nCollect 50 treasures from every land, an Orb of Yendor, the Princess, and 8 Holy Grails in Standard Mode.\n\nHorocyclic Herder\nMaster the control of enemy movement.",
             "achievements": 304
@@ -27589,7 +27589,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Trickster \u2605 35\nMake 10,000,000 points in a run.\n\nSpeedster \u2605 20\nBeat 800 km/h.",
+            "primaryText": "Trickster [35\u2605]\nMake 10,000,000 points in a run.\n\nSpeedster [20\u2605]\nBeat 800 km/h.",
             "community": 4,
             "communityText": "Mach 1\nBeat 1200 km/h.\n\nMotion Blur\nBeat 1100 km/h.\n\nWent REALLY Fast\nBeat 1000 km/h.\n\nWent REALLY Stunt\nMake 30,000,000 points in a run.",
             "achievements": 14
@@ -27643,7 +27643,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hypnotized \u2605 40\nClear every level at max speed.",
+            "primaryText": "Hypnotized [40\u2605]\nClear every level at max speed.",
             "community": 2,
             "communityText": "Cult Leader\nObtain a score of 30 on all levels in Mode B and Mode C at max game speed.\n\nTherapy Session\nObtain a score of 30 on all levels in Mode B and Mode C at 100% game speed.",
             "achievements": 30
@@ -27697,7 +27697,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bouncy Brilliant Ball \u2605 5\nObtain all collectibles.",
+            "primaryText": "Bouncy Brilliant Ball [5\u2605]\nObtain all collectibles.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -27751,7 +27751,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gluten Free \u2605 20\nGet A++ on all levels.",
+            "primaryText": "Gluten Free [20\u2605]\nGet A++ on all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -27805,7 +27805,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Platinum Fish \u2605 35\nComplete the game in Iron Fish mode with Bossa Style controls.\n\nIron Fish \u2605 35\nComplete the game in Iron Fish mode.\n\nDon't Feed the Fish \u2605 15\nGet 5 stars on every level. / Collect every piece of bread.",
+            "primaryText": "Platinum Fish [35\u2605]\nComplete the game in Iron Fish mode with Bossa Style controls.\n\nIron Fish [35\u2605]\nComplete the game in Iron Fish mode.\n\nDon't Feed the Fish [15\u2605]\nGet 5 stars on every level. / Collect every piece of bread.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -27859,7 +27859,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "You Can Call Me Charles \u2605 5\nObtain S rank in all Story and Challenge levels.",
+            "primaryText": "You Can Call Me Charles [5\u2605]\nObtain S rank in all Story and Challenge levels.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -27913,7 +27913,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "The Lord of Chaos (UNCLEARED) \u2605 1\nFinish a run without taking damage with all six curses activated.\n\nPower Sneakers \u2605 15\nFinish a loop with all six curses active. / Finish a loop without taking damage.",
+            "primaryText": "The Lord of Chaos (UNCLEARED) [1\u2605]\nFinish a run without taking damage with all six curses activated.\n\nPower Sneakers [15\u2605]\nFinish a loop with all six curses active. / Finish a loop without taking damage.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -27967,7 +27967,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Furmidable Feline \u2605 45\nProve yourself.\n\nCatastrophic Climb \u2605 35\nGet max attack power in the magic tower. / Complete the magic tower without getting hit. (Note: be sure to record this last feat if you're attempting it)",
+            "primaryText": "Furmidable Feline [45\u2605]\nProve yourself.\n\nCatastrophic Climb [35\u2605]\nGet max attack power in the magic tower. / Complete the magic tower without getting hit. (Note: be sure to record this last feat if you're attempting it)",
             "community": 2,
             "communityText": "Scarred for All Nine Lives\nComplete an unseeded game on Hard mode without dying or getting hit (perks are allowed).\n\nThe Cat\nComplete an unseeded game on Impossible mode without dying or getting hit (perks are allowed).",
             "achievements": 31
@@ -28021,7 +28021,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Friends are a Privilege \u2605 10\nGet the highest possible score on all levels.",
+            "primaryText": "Friends are a Privilege [10\u2605]\nGet the highest possible score on all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -28075,7 +28075,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Jet Fuel Melts Invaders \u2605 25\nComplete a run with Hard difficulty and No Draft mode selected.",
+            "primaryText": "Jet Fuel Melts Invaders [25\u2605]\nComplete a run with Hard difficulty and No Draft mode selected.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -28129,7 +28129,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Lethal Iconoclast \u2605 25\nClear Boss Rush on Lethal difficulty.\n\nIronoclast \u2605 5\nComplete Challenge Mode.",
+            "primaryText": "Lethal Iconoclast [25\u2605]\nClear Boss Rush on Lethal difficulty.\n\nIronoclast [5\u2605]\nComplete Challenge Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -28183,7 +28183,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mecha Hell \u2605 10\nClear the game on Crumble without using continues.",
+            "primaryText": "Mecha Hell [10\u2605]\nClear the game on Crumble without using continues.",
             "community": 1,
             "communityText": "Whaling\nBeat the game on Rumble or higher using BIG Medli and without using continues.",
             "achievements": 0
@@ -28237,7 +28237,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Kuro to Shiro \u2605 100\nComplete all chapters in any mode with a grade of S++.\n\nButsutekkai \u2605 15\nClear the game in any mode without using Continue.",
+            "primaryText": "Kuro to Shiro [100\u2605]\nComplete all chapters in any mode with a grade of S++.\n\nButsutekkai [15\u2605]\nClear the game in any mode without using Continue.",
             "community": 2,
             "communityText": "Color Eater\nClear the game in any mode without continues and without shooting at all.\n\nMetempsychosis\nBeat the game in double play without using continues. (Any difficulty)",
             "achievements": 25
@@ -28291,7 +28291,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Redneck Rampage \u2605 20\nBeat the game with the Plague Medallion.",
+            "primaryText": "Redneck Rampage [20\u2605]\nBeat the game with the Plague Medallion.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -28345,7 +28345,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Danger Zone \u2605 5\nSeparately; complete the game on Nightmare difficulty and complete the collectathon mode in under 13 minutes.",
+            "primaryText": "Danger Zone [5\u2605]\nSeparately; complete the game on Nightmare difficulty and complete the collectathon mode in under 13 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -28399,7 +28399,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Don't Go Home in a Box \u2605 40\nBeat the game without dying.",
+            "primaryText": "Don't Go Home in a Box [40\u2605]\nBeat the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 9
@@ -28453,7 +28453,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Self Reflect \u2605 15\nObtain all chapter hitless achievements.\n\nSelf Respect \u2605 10\nObtain the crown on all challenge levels.",
+            "primaryText": "Self Reflect [15\u2605]\nObtain all chapter hitless achievements.\n\nSelf Respect [10\u2605]\nObtain the crown on all challenge levels.",
             "community": 0,
             "communityText": "",
             "achievements": 99
@@ -28472,7 +28472,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 121,
+        "playersTotal": 122,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -28507,7 +28507,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Shipshape and Shiny \u2605 15\nComplete the game without firing a single shot from any weapons (the axe is allowed). / Finish the game without taking any damage at all.",
+            "primaryText": "Shipshape and Shiny [15\u2605]\nComplete the game without firing a single shot from any weapons (the axe is allowed). / Finish the game without taking any damage at all.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -28561,7 +28561,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hyper Inertial Drifter \u2605 25\nComplete grand prix mode with all cars.",
+            "primaryText": "Hyper Inertial Drifter [25\u2605]\nComplete grand prix mode with all cars.",
             "community": 1,
             "communityText": "Cheaters Never Prosper\nReach 1st place on Snow Mount Sprint Duel in Ibba's story.",
             "achievements": 40
@@ -28610,7 +28610,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "INKing \u2605 35\nBeat all worlds without dying.",
+            "primaryText": "INKing [35\u2605]\nBeat all worlds without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -28664,7 +28664,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Innoquous 175 \u2605 20\nComplete 175 levels in every mode.",
+            "primaryText": "Innoquous 175 [20\u2605]\nComplete 175 levels in every mode.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -28718,7 +28718,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Shadowbender \u2605 10\nProve yourself.",
+            "primaryText": "Shadowbender [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -28772,7 +28772,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Revenging Hell \u2605 10\nGo through HELL with no saves.",
+            "primaryText": "Revenging Hell [10\u2605]\nGo through HELL with no saves.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -28826,7 +28826,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Feel the Beat \u2605 10\nProve yourself.",
+            "primaryText": "Feel the Beat [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -28880,7 +28880,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Peaks of Present \u2605 10\nFinish the game on the highest difficulty without completing more than the minimum required number of missions.",
+            "primaryText": "Peaks of Present [10\u2605]\nFinish the game on the highest difficulty without completing more than the minimum required number of missions.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -28934,7 +28934,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Take In Vain \u2605 25\nProve yourself.",
+            "primaryText": "Take In Vain [25\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -28988,7 +28988,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Domain Expansion \u2605 10\nObtain 5 stars on all maps in solo mode.",
+            "primaryText": "Domain Expansion [10\u2605]\nObtain 5 stars on all maps in solo mode.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -29007,7 +29007,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 165,
+        "playersTotal": 166,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -29042,7 +29042,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Mainframe Malefactor \u2605 65\nBeat the DLC campaign on Expert Plus difficulty. / Survive for 20 days or more on Endless Mode in the DLC.\n\nGhost in the Machine \u2605 25\nBeat the game with 0 rewinds on Expert difficulty. / Beat the game on Time Attack Mode.",
+            "primaryText": "Mainframe Malefactor [65\u2605]\nBeat the DLC campaign on Expert Plus difficulty. / Survive for 20 days or more on Endless Mode in the DLC.\n\nGhost in the Machine [25\u2605]\nBeat the game with 0 rewinds on Expert difficulty. / Beat the game on Time Attack Mode.",
             "community": 2,
             "communityText": "Glitch in the Matrix\nBeat the DLC campaign with 0 rewinds on Expert Plus difficulty.\n\nSever the Servers\nSurvive for 20 days on Endless Plus Mode in the DLC.",
             "achievements": 23
@@ -29097,7 +29097,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "SeniOr Wheeler \u2605 5\nGet a gold medal in every level.\n\nJuniOr Wheeler \u2605 5\nBeat every level in the game.",
+            "primaryText": "SeniOr Wheeler [5\u2605]\nGet a gold medal in every level.\n\nJuniOr Wheeler [5\u2605]\nBeat every level in the game.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -29151,7 +29151,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Why I oughta! \u2605 15\nBeat the game.",
+            "primaryText": "Why I oughta! [15\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -29170,7 +29170,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 65,
+        "playersTotal": 66,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -29205,7 +29205,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "My Land is Island \u2605 20\nReach the 21st Island",
+            "primaryText": "My Land is Island [20\u2605]\nReach the 21st Island",
             "community": 0,
             "communityText": "",
             "achievements": 38
@@ -29259,7 +29259,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Steal Your Nerves \u2605 5\nProve yourself.",
+            "primaryText": "Steal Your Nerves [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -29313,7 +29313,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ittakunai \u2605 10\nDefeat all bosses without dying.",
+            "primaryText": "Ittakunai [10\u2605]\nDefeat all bosses without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -29367,7 +29367,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Just Dew It \u2605 5\nComplete the game in under 15 minutes.",
+            "primaryText": "Just Dew It [5\u2605]\nComplete the game in under 15 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -29421,7 +29421,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bullet Dance \u2605 5\nBeat the main and extra bosses.",
+            "primaryText": "Bullet Dance [5\u2605]\nBeat the main and extra bosses.",
             "community": 0,
             "communityText": "",
             "achievements": 7
@@ -29475,7 +29475,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Final Form \u2605 160 (Partial: \u2605 50)\nComplete the Gauntlet on Judgement difficulty without being hit or continuing.\n\nPerfect Play \u2605 85\nComplete the Gauntlet on Judgement difficulty without continuing.\n\nIndomitable \u2605 45\nComplete the Gauntlet on Judgement difficulty.\n\nTrue Form \u2605 40\nComplete the Gauntlet on Divine difficulty without being hit or continuing.\n\nSuper Play \u2605 10\nComplete the Gauntlet on Divine difficulty without continuing.",
+            "primaryText": "Final Form[160\u2605  (Partial: 50\u2605)]\nComplete the Gauntlet on Judgement difficulty without being hit or continuing.\n\nPerfect Play [85\u2605]\nComplete the Gauntlet on Judgement difficulty without continuing.\n\nIndomitable [45\u2605]\nComplete the Gauntlet on Judgement difficulty.\n\nTrue Form [40\u2605]\nComplete the Gauntlet on Divine difficulty without being hit or continuing.\n\nSuper Play [10\u2605]\nComplete the Gauntlet on Divine difficulty without continuing.",
             "community": 1,
             "communityText": "Aces High\nComplete the Gauntlet on Divine difficulty or higher without being hit or continuing, while using a non-DLC ship.",
             "achievements": 42
@@ -29529,7 +29529,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Plus Play \u2605 125\nComplete the Super Gauntlet on Judgement without continuing.\n\nCommon Folktales and a Lunar Maniac \u2605 15\nComplete the Super Gauntlet on Judgement. (Continues allowed)",
+            "primaryText": "Plus Play [125\u2605]\nComplete the Super Gauntlet on Judgement without continuing.\n\nCommon Folktales and a Lunar Maniac [15\u2605]\nComplete the Super Gauntlet on Judgement. (Continues allowed)",
             "community": 2,
             "communityText": "Nostalgia Play\nComplete the normal gauntlet on Judgement without continuing.\n\nUltimate Form\nComplete the Super Gauntlet on Judgement without being hit or continuing.",
             "achievements": 28
@@ -29583,7 +29583,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Boing! \u2605 20\nAchieve 100% completion on the \"Worlds Adventure\" campaign.",
+            "primaryText": "Boing! [20\u2605]\nAchieve 100% completion on the \"Worlds Adventure\" campaign.",
             "community": 1,
             "communityText": "Bawaw\nBeat the dev's Skull Rush mode time of 17:27.991.",
             "achievements": 18
@@ -29638,7 +29638,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Justice Pumper \u2605 15\nBeat the Ex Boss Rush with no continues.\n\nIdol Buster \u2605 10\nBeat the game on Expert with no continues.",
+            "primaryText": "Justice Pumper [15\u2605]\nBeat the Ex Boss Rush with no continues.\n\nIdol Buster [10\u2605]\nBeat the game on Expert with no continues.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -29692,7 +29692,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Jet Acer \u2605 35 (Partial: \u2605 15)\nACE all missions in NG+.",
+            "primaryText": "Jet Acer[35\u2605  (Partial: 15\u2605)]\nACE all missions in NG+.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -29746,7 +29746,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "STPD \u2605 60\nReach 100% in-game completion in under 100 deaths.\n\nBRKN \u2605 20\nComplete 30% of the game in under 30 deaths. / Beat all par times.\n\nMSTR \u2605 20\nReach 100% in-game completion.\n\nNRML \u2605 5\nComplete all normal levels.",
+            "primaryText": "STPD [60\u2605]\nReach 100% in-game completion in under 100 deaths.\n\nBRKN [20\u2605]\nComplete 30% of the game in under 30 deaths. / Beat all par times.\n\nMSTR [20\u2605]\nReach 100% in-game completion.\n\nNRML [5\u2605]\nComplete all normal levels.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -29800,7 +29800,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "J\u00f6tunheimr \u2605 55\nBeat Valhalla Mode without using God Powers. / Beat Valhalla Mode without taking any damage.",
+            "primaryText": "J\u00f6tunheimr [55\u2605]\nBeat Valhalla Mode without using God Powers. / Beat Valhalla Mode without taking any damage.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -29854,7 +29854,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Journey's End \u2605 25 (Partial: \u2605 15)\nSeparately; Obtain all Gold Medals, have a sum of best under 30 minutes for all main levels, collect all Goblets and Secrets; complete all levels without getting hit.",
+            "primaryText": "Journey's End[25\u2605  (Partial: 15\u2605)]\nSeparately; Obtain all Gold Medals, have a sum of best under 30 minutes for all main levels, collect all Goblets and Secrets; complete all levels without getting hit.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -29908,7 +29908,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Jump Prince \u2605 75\nComplete Ghost of the Babe with Giant Boots. / Complete Ghost of the Babe with Snake Ring. / Complete Ghost of the Babe with only 2 falls.\n\nJump Duke \u2605 65\nComplete New Babe+ with Giant Boots. / Complete New Babe+ with Snake Ring. / Complete New Babe+ without falling.\n\nJump Knight \u2605 45\nComplete game with Giant Boots. / Complete the game with Snake Ring. / Complete the game without falling.\n\nJump Peasant \u2605 25\nBeat all three maps.",
+            "primaryText": "Jump Prince [75\u2605]\nComplete Ghost of the Babe with Giant Boots. / Complete Ghost of the Babe with Snake Ring. / Complete Ghost of the Babe with only 2 falls.\n\nJump Duke [65\u2605]\nComplete New Babe+ with Giant Boots. / Complete New Babe+ with Snake Ring. / Complete New Babe+ without falling.\n\nJump Knight [45\u2605]\nComplete game with Giant Boots. / Complete the game with Snake Ring. / Complete the game without falling.\n\nJump Peasant [25\u2605]\nBeat all three maps.",
             "community": 6,
             "communityText": "Birds and the Babes\nComplete Babe of Ascension, Babe of the Realms and Babe of Dimension.\n\nBite-Size Baron\nComplete The Nest (Babe of Ascension), Reverse Dimension (Babe of Dimension) and Back Side of Elysion (Babe of Utopia).\n\nFashion Lord\nComplete each map separately while collecting every item without falling. Check verification requirements for more information.\n\nKing of the Ladies Men\nComplete Immortal Babe, Immortal Babe+ and Babe of Inferno.\n\nMini-Map Marquess\nComplete kz_null (Babe of the Realms), Another Dimension (Babe of Dimension), and Secret of Rinfone (Babe of Inferno).\n\nThe Emperor's Cursed Clothes\nComplete each map separately while wearing the Giant Boots and Snake Ring and without falling.",
             "achievements": 48
@@ -29962,7 +29962,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Grid Instinct \u2605 25\nClear all Quadrants with no retries. / Clear all Quadrants under par times.",
+            "primaryText": "Grid Instinct [25\u2605]\nClear all Quadrants with no retries. / Clear all Quadrants under par times.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -30016,7 +30016,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Jump \"King\" \u2605 30\nBeat the game with 0 falls.\n\nFamiliar Territory \u2605 10\nBeat the game in under 30 minutes.",
+            "primaryText": "Jump \"King\" [30\u2605]\nBeat the game with 0 falls.\n\nFamiliar Territory [10\u2605]\nBeat the game in under 30 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -30070,7 +30070,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Platflyer \u2605 15\nProve yourself.",
+            "primaryText": "Platflyer [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -30124,7 +30124,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Arm Day \u2605 10\nComplete the game and the DLC.",
+            "primaryText": "Arm Day [10\u2605]\nComplete the game and the DLC.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -30178,7 +30178,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "You Can Stop Now (UNCLEARED) \u2605 1\nReach the true ending in super hard difficulty.\n\nYou Win \u2605 10\nReach the true ending.\n\nDodge Harder \u2605 5\nComplete every level with all ratings.",
+            "primaryText": "You Can Stop Now (UNCLEARED) [1\u2605]\nReach the true ending in super hard difficulty.\n\nYou Win [10\u2605]\nReach the true ending.\n\nDodge Harder [5\u2605]\nComplete every level with all ratings.",
             "community": 1,
             "communityText": "STOP DODGING HOLY\nReach the true ending in super hard difficulty without equipping shields or items.",
             "achievements": 21
@@ -30232,7 +30232,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Just Got Through \u2605 10\nReach Level 10 in Hardcore Mode.",
+            "primaryText": "Just Got Through [10\u2605]\nReach Level 10 in Hardcore Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 38
@@ -30286,7 +30286,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Shapes \u2605 20\nObtain an S rank on all songs on Hardcore.\n\nBeats \u2605 5\nProve yourself.",
+            "primaryText": "Shapes [20\u2605]\nObtain an S rank on all songs on Hardcore.\n\nBeats [5\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Beat Rush\nCreate a playlist with all boss songs and achieve S rank on them all in a row.",
             "achievements": 26
@@ -30340,7 +30340,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Metal Gear Roomba \u2605 20\nEarn an S+ rank on all missions.",
+            "primaryText": "Metal Gear Roomba [20\u2605]\nEarn an S+ rank on all missions.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -30394,7 +30394,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Dutiful Darkness Decorator \u2605 10\nGet an all golden totem pole in The Dark Void solo DLC.\n\nKalimballin' \u2605 10\nGet an all golden totem pole in Kalimba world. / Finish ol'school mode.",
+            "primaryText": "Dutiful Darkness Decorator [10\u2605]\nGet an all golden totem pole in The Dark Void solo DLC.\n\nKalimballin' [10\u2605]\nGet an all golden totem pole in Kalimba world. / Finish ol'school mode.",
             "community": 0,
             "communityText": "",
             "achievements": 41
@@ -30448,7 +30448,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "The Voice of AI \u2605 50\nAchieve a full combo on all Hard difficulty songs from the base game.\n\nKAMITSUBAKI Regenerated \u2605 1\nAchieve a full combo on all Pro difficulty songs from the base game.",
+            "primaryText": "The Voice of AI [50\u2605]\nAchieve a full combo on all Hard difficulty songs from the base game.\n\nKAMITSUBAKI Regenerated [1\u2605]\nAchieve a full combo on all Pro difficulty songs from the base game.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -30502,7 +30502,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Xaffiquel Slayer \u2605 15\n1 Credit Clear on Hard.\n\nXaffiquel Theory \u2605 20\n1 Credit Clear on Normal or higher. / Score over 20,000,000.",
+            "primaryText": "Xaffiquel Slayer [15\u2605]\n1 Credit Clear on Hard.\n\nXaffiquel Theory [20\u2605]\n1 Credit Clear on Normal or higher. / Score over 20,000,000.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -30556,7 +30556,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Path of the Martial Artist \u2605 20\nReach the final boss without getting hit once. / Beat the final boss as the \"True Love\" character. ",
+            "primaryText": "Path of the Martial Artist [20\u2605]\nReach the final boss without getting hit once. / Beat the final boss as the \"True Love\" character. ",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -30610,7 +30610,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Prince of All Cosmos \u2605 10\nAchieve a Super Clear on all Constellations and unlock all Shooting Stars/Meteors.",
+            "primaryText": "Prince of All Cosmos [10\u2605]\nAchieve a Super Clear on all Constellations and unlock all Shooting Stars/Meteors.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -30665,7 +30665,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "One with the Katana \u2605 90\nAchieve a total rank of platinum in a Hard Mode speedrun.\n\nTempered Blade \u2605 25\nObtain a platinum medal on all individual stages in Hard Mode.\n\nPlatinum Samurai \u2605 75\nAchieve a total rank of platinum in a full speedrun.\n\nGolden Samurai \u2605 25\nComplete a full run in Hard Mode. / Achieve a total rank of gold in a full speedrun.",
+            "primaryText": "One with the Katana [90\u2605]\nAchieve a total rank of platinum in a Hard Mode speedrun.\n\nTempered Blade [25\u2605]\nObtain a platinum medal on all individual stages in Hard Mode.\n\nPlatinum Samurai [75\u2605]\nAchieve a total rank of platinum in a full speedrun.\n\nGolden Samurai [25\u2605]\nComplete a full run in Hard Mode. / Achieve a total rank of gold in a full speedrun.",
             "community": 4,
             "communityText": "No Time to Think\nAchieve a total rank of platinum in a full speedrun with \"no slowmo\" enabled.\n\nPsychotherapy\nAchieve a total rank of platinum in a full speedrun while beating the secret boss.\n\nSword Savant\nAchieve a total rank of platinum in a full speedrun with the Savant Knife, Claymore Prototype, and Phoenix Edge.\n\nThe Dragon\nAchieve a total rank of platinum in a full speedrun with The Dragon Mod enabled.",
             "achievements": 22
@@ -30719,7 +30719,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mind and Pincers \u2605 10\nDefuse all difficult bombs.",
+            "primaryText": "Mind and Pincers [10\u2605]\nDefuse all difficult bombs.",
             "community": 1,
             "communityText": "Hell of Hundred Lights\nDefuse the Centurion.",
             "achievements": 10
@@ -30773,7 +30773,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ethereal Conductor \u2605 5\nBeat the game on \"Master\" difficulty.",
+            "primaryText": "Ethereal Conductor [5\u2605]\nBeat the game on \"Master\" difficulty.",
             "community": 1,
             "communityText": "Echoes of the Sacred Peak (POTENTIAL PO)\nBeat all trials and optional challenges on \"Master\" difficulty.",
             "achievements": 41
@@ -30827,7 +30827,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Weaponized Frog Memes \u2605 35\nBeat Zangyou Mode while wearing the jacket. / Beat Omake Mode while wearing the jacket.",
+            "primaryText": "Weaponized Frog Memes [35\u2605]\nBeat Zangyou Mode while wearing the jacket. / Beat Omake Mode while wearing the jacket.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -30881,7 +30881,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Postmaster \u2605 5\nProve yourself.",
+            "primaryText": "Postmaster [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -30936,7 +30936,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Kick In The Devil \u2605 40\nAchieve all the Dev Time medals.",
+            "primaryText": "Kick In The Devil [40\u2605]\nAchieve all the Dev Time medals.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -30990,7 +30990,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Karmic Retribution \u2605 15\nComplete the game on SEVER mode with all challenge badges.\n\nKilling Spree \u2605 20\nComplete the game on SEVER mode with a K rank.\n\nSevered Fate \u2605 15\nComplete SEVER mode.\n\nKiller Instinct \u2605 25\nProve yourself.",
+            "primaryText": "Karmic Retribution [15\u2605]\nComplete the game on SEVER mode with all challenge badges.\n\nKilling Spree [20\u2605]\nComplete the game on SEVER mode with a K rank.\n\nSevered Fate [15\u2605]\nComplete SEVER mode.\n\nKiller Instinct [25\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -31044,7 +31044,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Murder of Crows \u2605 15\nBeat Story mode.",
+            "primaryText": "Murder of Crows [15\u2605]\nBeat Story mode.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -31093,7 +31093,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Massacre the Marios \u2605 10\nBeat the time limit for each world speedrun.\n\nPlumber Plunking \u2605 5\nGet 3 stars on every level.",
+            "primaryText": "Massacre the Marios [10\u2605]\nBeat the time limit for each world speedrun.\n\nPlumber Plunking [5\u2605]\nGet 3 stars on every level.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -31147,7 +31147,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Flaying Mantis \u2605 5\nKill the final boss.",
+            "primaryText": "Flaying Mantis [5\u2605]\nKill the final boss.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -31201,7 +31201,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Enclosed Evasion \u2605 10\nComplete every level at all difficulties.",
+            "primaryText": "Enclosed Evasion [10\u2605]\nComplete every level at all difficulties.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -31255,7 +31255,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Pacifist Pro \u2605 40\nSet a pro time on every Momentum Jumper map.\n\n360 No-Scope \u2605 20 (Partial: \u2605 5)\nSet a pro time on every Killrun map. *Partial points are awarded as a progress milestone.\n\nJump Around \u2605 15 (Partial: \u2605 5)\nComplete both map packs in Jumper mode. *Partial points are awarded as a progress milestone.\n\nPacifist Adept \u2605 15\nSet a pro time on every Original Jumper map.",
+            "primaryText": "Pacifist Pro [40\u2605]\nSet a pro time on every Momentum Jumper map.\n\n360 No-Scope[20\u2605  (Partial: 5\u2605)]\nSet a pro time on every Killrun map. *Partial points are awarded as a progress milestone.\n\nJump Around[15\u2605  (Partial: 5\u2605)]\nComplete both map packs in Jumper mode. *Partial points are awarded as a progress milestone.\n\nPacifist Adept [15\u2605]\nSet a pro time on every Original Jumper map.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -31272,8 +31272,8 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-12T05:16:21.000Z",
-        "updatedAt": "2024-09-28T16:51:24.000Z",
-        "playersCompleted": 1,
+        "updatedAt": "2024-12-09T12:13:05.000Z",
+        "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 31,
         "priceData": {
@@ -31310,7 +31310,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sanctuary/Passion \u2605 5\nDefeat all Organization XIII Replica Data & Lingering Will on Critical Mode.",
+            "primaryText": "Sanctuary/Passion [5\u2605]\nDefeat all Organization XIII Replica Data & Lingering Will on Critical Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 197
@@ -31364,7 +31364,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Shockwave \u2605 10\nSeparately; finish with a track score of 250 or more, and finish in less than 1 hour with a track score of 150 or more.\n\nAs the Bell Tolls (UNCLEARED) \u2605 1\nGet an SSS rank everywhere. ",
+            "primaryText": "Shockwave [10\u2605]\nSeparately; finish with a track score of 250 or more, and finish in less than 1 hour with a track score of 150 or more.\n\nAs the Bell Tolls (UNCLEARED) [1\u2605]\nGet an SSS rank everywhere. ",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -31418,7 +31418,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Kling Klang \u2605 10\nProve yourself.",
+            "primaryText": "Kling Klang [10\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "True Soundlord\nGet 100% accuracy in every track on fast speed.",
             "achievements": 33
@@ -31472,7 +31472,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "First Try \u2605 10\nComplete the game in a single try.",
+            "primaryText": "First Try [10\u2605]\nComplete the game in a single try.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -31526,7 +31526,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "UnderWare \u2605 10\nProve yourself.",
+            "primaryText": "UnderWare [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -31580,7 +31580,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Infinitary Kombinatorics \u2605 15 (Partial: \u2605 10)\nBeat every level under par time.",
+            "primaryText": "Infinitary Kombinatorics[15\u2605  (Partial: 10\u2605)]\nBeat every level under par time.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -31635,7 +31635,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Konrad the Deathless \u2605 10\nComplete all chapters without dying (separately).",
+            "primaryText": "Konrad the Deathless [10\u2605]\nComplete all chapters without dying (separately).",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -31689,7 +31689,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Aim Trained \u2605 90\nReach Grandmaster rank on all Kovaak's Aim Benchmarks scenarios.\n\nMenace Tracker \u2605 35\nReach Master I rank or higher on all Kovaak's Aim Benchmarks scenarios.\n\nMouse Clicker \u2605 25\nReach Diamond I rank or higher on all Kovaak's Aim Benchmarks scenarios.",
+            "primaryText": "Aim Trained [90\u2605]\nReach Grandmaster rank on all Kovaak's Aim Benchmarks scenarios.\n\nMenace Tracker [35\u2605]\nReach Master I rank or higher on all Kovaak's Aim Benchmarks scenarios.\n\nMouse Clicker [25\u2605]\nReach Diamond I rank or higher on all Kovaak's Aim Benchmarks scenarios.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -31744,7 +31744,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Sekushibanki \u2605 5\nGet an S rank in Jelly Attack and complete the game in under 30 minutes.\n\nSubarashii \u2605 5\nEarn all S ranks.",
+            "primaryText": "Sekushibanki [5\u2605]\nGet an S rank in Jelly Attack and complete the game in under 30 minutes.\n\nSubarashii [5\u2605]\nEarn all S ranks.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -31798,7 +31798,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Arghaeologist \u2605 25\nProve yourself.",
+            "primaryText": "Arghaeologist [25\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 64
@@ -31852,7 +31852,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "All I Need is One Finger! \u2605 25\nBeat all guardians without using secondary weapons in hard mode.",
+            "primaryText": "All I Need is One Finger! [25\u2605]\nBeat all guardians without using secondary weapons in hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 46
@@ -31906,7 +31906,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bearly Made It \u2605 10\nFinish the game.",
+            "primaryText": "Bearly Made It [10\u2605]\nFinish the game.",
             "community": 1,
             "communityText": "Warp Star\nBeat each world without dying.",
             "achievements": 5
@@ -31960,7 +31960,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Refactoring Nightmare \u2605 25\nBeat all main bosses on Nightmare mode.",
+            "primaryText": "Refactoring Nightmare [25\u2605]\nBeat all main bosses on Nightmare mode.",
             "community": 0,
             "communityText": "",
             "achievements": 66
@@ -32014,7 +32014,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Touch Grass \u2605 10\nComplete all challenges.",
+            "primaryText": "Touch Grass [10\u2605]\nComplete all challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 54
@@ -32068,7 +32068,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Unreal Dance Engine (UNVALUED) \u2605 1\nBeat both Extra Stages on Absurdly Extra without using continues.\n\nMugenri Defender \u2605 15\nBeat both Extra Stages on Extra or higher without using continues.",
+            "primaryText": "Unreal Dance Engine (UNVALUED) [1\u2605]\nBeat both Extra Stages on Absurdly Extra without using continues.\n\nMugenri Defender [15\u2605]\nBeat both Extra Stages on Extra or higher without using continues.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -32122,7 +32122,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Heartless \u2605 60\nBeat the \"0 Hearts\" challenge.\n\nThe Legend of Lenna \u2605 10\nProve yourself.",
+            "primaryText": "Heartless [60\u2605]\nBeat the \"0 Hearts\" challenge.\n\nThe Legend of Lenna [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 54
@@ -32176,7 +32176,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mind on the Money \u2605 35\nComplete the game in Hardcore Mode.",
+            "primaryText": "Mind on the Money [35\u2605]\nComplete the game in Hardcore Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -32230,7 +32230,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mercy Rule \u2605 10\nBeat the challenge mode without using any continues.",
+            "primaryText": "Mercy Rule [10\u2605]\nBeat the challenge mode without using any continues.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -32284,7 +32284,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Funky Fresh \u2605 5\nBeat the arcade mode without using any continues.",
+            "primaryText": "Funky Fresh [5\u2605]\nBeat the arcade mode without using any continues.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -32338,7 +32338,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Zipper Flipper \u2605 10\nDeliver every package under the On-Time benchmark in the Bureau's training program.",
+            "primaryText": "Zipper Flipper [10\u2605]\nDeliver every package under the On-Time benchmark in the Bureau's training program.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -32392,7 +32392,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Unyieldable Blade \u2605 30\nDefeat all bosses without taking damage.",
+            "primaryText": "Unyieldable Blade [30\u2605]\nDefeat all bosses without taking damage.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -32446,7 +32446,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Supergeil Impaler \u2605 30\nFinish the game on rage quit+ difficulty. / Get UBER ratings for all levels on rage quit difficulty.",
+            "primaryText": "Supergeil Impaler [30\u2605]\nFinish the game on rage quit+ difficulty. / Get UBER ratings for all levels on rage quit difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -32500,7 +32500,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "No Mere Puppet \u2605 25\nDefeat the Nameless Puppet.",
+            "primaryText": "No Mere Puppet [25\u2605]\nDefeat the Nameless Puppet.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -32554,7 +32554,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Comically Morbid \u2605 10\nProve yourself.",
+            "primaryText": "Comically Morbid [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -32608,7 +32608,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mr. Auto \u2605 20\nAchieve all perfects, on all levels, on hard mode / Complete 3 rounds of the challenge",
+            "primaryText": "Mr. Auto [20\u2605]\nAchieve all perfects, on all levels, on hard mode / Complete 3 rounds of the challenge",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -32662,7 +32662,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Air is Lava \u2605 10\nSeparately, beat the game without dying and in under 4 hours.",
+            "primaryText": "The Air is Lava [10\u2605]\nSeparately, beat the game without dying and in under 4 hours.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -32716,7 +32716,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Zen Trip \u2605 15\nBeat the entire game without dying.",
+            "primaryText": "Zen Trip [15\u2605]\nBeat the entire game without dying.",
             "community": 1,
             "communityText": "Professional Paper Pilot\nBeat the entire game without dying using the plane with maximum speed.",
             "achievements": 31
@@ -32770,7 +32770,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Shadow Core \u2605 10\nComplete the Story Mode on Hard difficulty.",
+            "primaryText": "Shadow Core [10\u2605]\nComplete the Story Mode on Hard difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -32824,7 +32824,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Chaos Control \u2605 90\nBeat the All Stage Tour on Chaos reaching Stage 9.\n\nHidden Gem \u2605 20\nBeat the Trial Tour on Nightmare. / Beat the Boss Rush on Nightmare. / Beat the Trial Tour on Expert or Higher with counter mode on.\n\nBulletalk Warriors \u2605 10\nBeat the Trial Tour on Maniac. / Score 5 billion likes on a run. / Beat a Tour without activating Buzz.",
+            "primaryText": "Chaos Control [90\u2605]\nBeat the All Stage Tour on Chaos reaching Stage 9.\n\nHidden Gem [20\u2605]\nBeat the Trial Tour on Nightmare. / Beat the Boss Rush on Nightmare. / Beat the Trial Tour on Expert or Higher with counter mode on.\n\nBulletalk Warriors [10\u2605]\nBeat the Trial Tour on Maniac. / Score 5 billion likes on a run. / Beat a Tour without activating Buzz.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -32843,7 +32843,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 165,
         "playersStarted": 0,
-        "playersTotal": 760,
+        "playersTotal": 761,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -32878,7 +32878,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Limboed Through Limbo \u2605 10\nComplete the game in one sitting with five or less deaths.",
+            "primaryText": "Limboed Through Limbo [10\u2605]\nComplete the game in one sitting with five or less deaths.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -32932,7 +32932,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Linear Shooting \u2605 10\nClear Hard mode.",
+            "primaryText": "Linear Shooting [10\u2605]\nClear Hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -32986,7 +32986,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Librarian \u2605 20\nComplete the Afterword.",
+            "primaryText": "Librarian [20\u2605]\nComplete the Afterword.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -33040,7 +33040,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Awakened Bravery \u2605 10\nComplete the game in under an hour without dying.",
+            "primaryText": "Awakened Bravery [10\u2605]\nComplete the game in under an hour without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -33094,7 +33094,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Archaelogical Navigator \u2605 35\nClear the \"VERY HARD++\" mode.\n\nDivine Alchemist \u2605 20\nClear the game on \"HELL\" mode. / Clear the  Ultimate Trial in the Witch's Trials.",
+            "primaryText": "Archaelogical Navigator [35\u2605]\nClear the \"VERY HARD++\" mode.\n\nDivine Alchemist [20\u2605]\nClear the game on \"HELL\" mode. / Clear the  Ultimate Trial in the Witch's Trials.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -33148,7 +33148,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "A Witch's Ascent \u2605 20\nClear the Trial Tower Mode without dying. \n\nWizardry Trials \u2605 10\nClear the Trial Tower Mode.",
+            "primaryText": "A Witch's Ascent [20\u2605]\nClear the Trial Tower Mode without dying. \n\nWizardry Trials [10\u2605]\nClear the Trial Tower Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -33202,7 +33202,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Fungal Mastermind \u2605 10\nBeat the game on \"Nightmare\" difficulty.\n\nSpores and Spells \u2605 10\nReach the ending. / Complete all platforming challenges.",
+            "primaryText": "Fungal Mastermind [10\u2605]\nBeat the game on \"Nightmare\" difficulty.\n\nSpores and Spells [10\u2605]\nReach the ending. / Complete all platforming challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 52
@@ -33256,7 +33256,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Mumen Rider \u2605 20\nComplete all challenges (including paid DLC).\n\nSeasonal Rider \u2605 5\nComplete all challenges in the free update trails.",
+            "primaryText": "Mumen Rider [20\u2605]\nComplete all challenges (including paid DLC).\n\nSeasonal Rider [5\u2605]\nComplete all challenges in the free update trails.",
             "community": 0,
             "communityText": "",
             "achievements": 84
@@ -33310,7 +33310,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Lord of the Void \u2605 15\nDefeat Elianne the Starved.",
+            "primaryText": "Lord of the Void [15\u2605]\nDefeat Elianne the Starved.",
             "community": 0,
             "communityText": "",
             "achievements": 63
@@ -33364,7 +33364,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "inomino \u2605 5\nAchieve Minigame Mastery.",
+            "primaryText": "inomino [5\u2605]\nAchieve Minigame Mastery.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -33418,7 +33418,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Dr. Squatch \u2605 50\nComplete the extra stage with 5 stars.\n\nSoap Opera \u2605 20\nComplete stages 1 through 6 with 5 stars.",
+            "primaryText": "Dr. Squatch [50\u2605]\nComplete the extra stage with 5 stars.\n\nSoap Opera [20\u2605]\nComplete stages 1 through 6 with 5 stars.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -33472,7 +33472,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Over Easy \u2605 5\nComplete all 6 stages with 5 stars. ",
+            "primaryText": "Over Easy [5\u2605]\nComplete all 6 stages with 5 stars. ",
             "community": 1,
             "communityText": "Lost and Found\nComplete all primary objectives from all site-listed games in the LOST Objects franchise. See verification requirements for complete list.",
             "achievements": 16
@@ -33526,7 +33526,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Hard Boiled \u2605 40\nComplete the extra stage with 5 stars.\n\nEggcellent \u2605 5\nComplete stages 1-6 with 5 stars.",
+            "primaryText": "Hard Boiled [40\u2605]\nComplete the extra stage with 5 stars.\n\nEggcellent [5\u2605]\nComplete stages 1-6 with 5 stars.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -33580,7 +33580,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Eggnificent \u2605 75\nComplete stage 6 and Final with 5 stars.\n\nSunny Side Up \u2605 20\nComplete stages 1-5 with 5 stars. ",
+            "primaryText": "Eggnificent [75\u2605]\nComplete stage 6 and Final with 5 stars.\n\nSunny Side Up [20\u2605]\nComplete stages 1-5 with 5 stars. ",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -33634,7 +33634,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Overshadowed \u2605 40\nClear EX stage with 5 stars\n\nIllumination \u2605 15\nClear Stages 1-6 with 5 stars.",
+            "primaryText": "Overshadowed [40\u2605]\nClear EX stage with 5 stars\n\nIllumination [15\u2605]\nClear Stages 1-6 with 5 stars.",
             "community": 1,
             "communityText": "No Redumes Needed\nClear EX stage without the use of a checkpoint.",
             "achievements": 14
@@ -33688,7 +33688,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hot Potato \u2605 10\nSeparately, beat level 36 hitless and within 3 minutes. / Beat level 50.",
+            "primaryText": "Hot Potato [10\u2605]\nSeparately, beat level 36 hitless and within 3 minutes. / Beat level 50.",
             "community": 1,
             "communityText": "Perfect Batch\nObtain 3 stars on all 15 characters.",
             "achievements": 18
@@ -33742,7 +33742,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "LOUDER \u2605 10\nProve yourself. \n\nLOUDEST (UNCLEARED) \u2605 1\nGet S+ rank on every song on Grindin' Difficulty (including DLC and Bonus)",
+            "primaryText": "LOUDER [10\u2605]\nProve yourself. \n\nLOUDEST (UNCLEARED) [1\u2605]\nGet S+ rank on every song on Grindin' Difficulty (including DLC and Bonus)",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -33797,7 +33797,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "You Only Love Once \u2605 15\nBeat the game without dying.",
+            "primaryText": "You Only Love Once [15\u2605]\nBeat the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -33851,7 +33851,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Ichi, Ni, San! \u2605 15\nGet an A in all categories of a LOVE+kuso run.\n\nYoku Yatta \u2605 10\nComplete LOVE+kuso in under 30 minutes. / Get two A's in any category of your results. / Collect 49 YOLO Medals.",
+            "primaryText": "Ichi, Ni, San! [15\u2605]\nGet an A in all categories of a LOVE+kuso run.\n\nYoku Yatta [10\u2605]\nComplete LOVE+kuso in under 30 minutes. / Get two A's in any category of your results. / Collect 49 YOLO Medals.",
             "community": 1,
             "communityText": "Kuso Gemu\nComplete kuso without dying.",
             "achievements": 26
@@ -33905,7 +33905,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Lovesick \u2605 135\nComplete LOVE 1+2+3 (Classic or Remastered) 100% in 0 deaths without using slowmo or abusing continues.\n\nYarigai \u2605 30\nComplete LOVE 3 Any% in 0 deaths without using slowmo or abusing continues.\n\nSafety \u2605 10\nProve yourself.",
+            "primaryText": "Lovesick [135\u2605]\nComplete LOVE 1+2+3 (Classic or Remastered) 100% in 0 deaths without using slowmo or abusing continues.\n\nYarigai [30\u2605]\nComplete LOVE 3 Any% in 0 deaths without using slowmo or abusing continues.\n\nSafety [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -33959,7 +33959,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Lovely Ace \u2605 15\nAce all levels.",
+            "primaryText": "Lovely Ace [15\u2605]\nAce all levels.",
             "community": 1,
             "communityText": "Lovely Universe\nComplete all primary objectives from all site-listed games in the Lovely Planet franchise. See verification requirements for complete list.",
             "achievements": 14
@@ -34013,7 +34013,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Roku\u00b2 \u2605 10\nObtain all Ace Medals in Abyss on Yin Yang mode.\n\n1CC No Apple Bomb \u2605 10\nFinish \u262f Arcade mode.\n\nNerf Gun \u2605 10\nAce all the \u262f levels and World 6. ",
+            "primaryText": "Roku\u00b2 [10\u2605]\nObtain all Ace Medals in Abyss on Yin Yang mode.\n\n1CC No Apple Bomb [10\u2605]\nFinish \u262f Arcade mode.\n\nNerf Gun [10\u2605]\nAce all the \u262f levels and World 6. ",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -34067,7 +34067,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Lovely \u2605 5\nAce all acts.",
+            "primaryText": "Lovely [5\u2605]\nAce all acts.",
             "community": 1,
             "communityText": "Lovelier\nAce all acts in all three modes.",
             "achievements": 9
@@ -34121,7 +34121,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Choose Your Own First Person Shooter \u2605 25\nGet 3 stars on all original levels.\n\nChoose Your Own Expansion Pack \u2605 10\nGet 3 stars on all post release levels.",
+            "primaryText": "Choose Your Own First Person Shooter [25\u2605]\nGet 3 stars on all original levels.\n\nChoose Your Own Expansion Pack [10\u2605]\nGet 3 stars on all post release levels.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -34175,7 +34175,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Flying Ace \u2605 10\nBeat all missions and launch the [CLASSIFIED].",
+            "primaryText": "Flying Ace [10\u2605]\nBeat all missions and launch the [CLASSIFIED].",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -34229,7 +34229,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Lumines Professional \u2605 30\nComplete two rounds of the Endless Challenge. / Complete all Super Hard Missions. / Win against the CPU without using any retries.\n\nLumines Intermediate \u2605 15\nComplete the Basic Challenge within 55 minutes. / Complete all Hard Missions. / Clear at least 320 squares in 300sec Time Attack. / Score 1,000,000 points in the Endless Challenge.\n\nLumines Beginner \u2605 5\nComplete the Basic Challenge. / Complete all Easy Missions. / Win Stage 10 playing against the CPU.",
+            "primaryText": "Lumines Professional [30\u2605]\nComplete two rounds of the Endless Challenge. / Complete all Super Hard Missions. / Win against the CPU without using any retries.\n\nLumines Intermediate [15\u2605]\nComplete the Basic Challenge within 55 minutes. / Complete all Hard Missions. / Clear at least 320 squares in 300sec Time Attack. / Score 1,000,000 points in the Endless Challenge.\n\nLumines Beginner [5\u2605]\nComplete the Basic Challenge. / Complete all Easy Missions. / Win Stage 10 playing against the CPU.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -34283,7 +34283,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Glimmer of Hope \u2605 5\nFinish all speedrun achievements",
+            "primaryText": "Glimmer of Hope [5\u2605]\nFinish all speedrun achievements",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -34337,7 +34337,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Cheat Day \u2605 10\nBeat the game on \"Insane\" difficulty in single player mode.\n\nSumma Cum Laude \u2605 10\nBeat every map on Insane difficulty in single player mode.",
+            "primaryText": "Cheat Day [10\u2605]\nBeat the game on \"Insane\" difficulty in single player mode.\n\nSumma Cum Laude [10\u2605]\nBeat every map on Insane difficulty in single player mode.",
             "community": 0,
             "communityText": "",
             "achievements": 87
@@ -34392,7 +34392,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mighty Mad Micro Machines \u2605 5\nProve yourself.",
+            "primaryText": "Mighty Mad Micro Machines [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -34446,7 +34446,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Don't Drop the Ball \u2605 40\nClear Survival Mode on Hard.",
+            "primaryText": "Don't Drop the Ball [40\u2605]\nClear Survival Mode on Hard.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -34500,7 +34500,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "AgiCat \u2605 15\nAchieve 100% in-game completion.\n\nMagically Ferocious \u2605 5\nComplete the game by beating the True Boss.",
+            "primaryText": "AgiCat [15\u2605]\nAchieve 100% in-game completion.\n\nMagically Ferocious [5\u2605]\nComplete the game by beating the True Boss.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -34554,7 +34554,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "We Have Rod of Harmony at Home \u2605 5\nGet Platinum Medal on all the training courses.",
+            "primaryText": "We Have Rod of Harmony at Home [5\u2605]\nGet Platinum Medal on all the training courses.",
             "community": 1,
             "communityText": "The Worst Security Guard D\u00f6rwall Community College has Ever Had\nCollect all 100 medals from challenges.",
             "achievements": 82
@@ -34608,7 +34608,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sorcerers and Echantments \u2605 15\nSeparately, beat the game without upgrading your health or wand. / Defeat the secret boss.",
+            "primaryText": "Sorcerers and Echantments [15\u2605]\nSeparately, beat the game without upgrading your health or wand. / Defeat the secret boss.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -34662,7 +34662,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Maiden and Hell \u2605 15\nClear all campaigns on Very Hard without losing a card.\n\nDanmaku Maiden \u2605 40\nDefeat the Collector of Stars on Very Hard. / Perfect all True Magnuses. / Defeat the Heroes United on Very Hard.",
+            "primaryText": "Maiden and Hell [15\u2605]\nClear all campaigns on Very Hard without losing a card.\n\nDanmaku Maiden [40\u2605]\nDefeat the Collector of Stars on Very Hard. / Perfect all True Magnuses. / Defeat the Heroes United on Very Hard.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -34716,7 +34716,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Holey Moley \u2605 15\nGet all DLC gold medals.\n\nMole in the Hole! \u2605 5\nWin all the races against Mecha Moles. / Get all non-DLC gold medals.",
+            "primaryText": "Holey Moley [15\u2605]\nGet all DLC gold medals.\n\nMole in the Hole! [5\u2605]\nWin all the races against Mecha Moles. / Get all non-DLC gold medals.",
             "community": 0,
             "communityText": "",
             "achievements": 31
@@ -34770,7 +34770,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Crystal Ball \u2605 40\nObtain the diamond medal on every level.\n\nB-Roll \u2605 10\nCollect all hidden trophies.",
+            "primaryText": "Crystal Ball [40\u2605]\nObtain the diamond medal on every level.\n\nB-Roll [10\u2605]\nCollect all hidden trophies.",
             "community": 0,
             "communityText": "",
             "achievements": 85
@@ -34824,7 +34824,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "For the Royalty \u2605 5\nDefeat the secret boss.",
+            "primaryText": "For the Royalty [5\u2605]\nDefeat the secret boss.",
             "community": 0,
             "communityText": "",
             "achievements": 6
@@ -34878,7 +34878,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Palombia Exorcism \u2605 5\n100% the game and get all gold border deathless cataclysm badges.",
+            "primaryText": "Palombia Exorcism [5\u2605]\n100% the game and get all gold border deathless cataclysm badges.",
             "community": 0,
             "communityText": "",
             "achievements": 72
@@ -34932,7 +34932,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Stealth Master \u2605 15\nComplete each mission with a Master rank on Operative difficulty.\n\nUndercover Virtuoso \u2605 10\nComplete the game on Master difficulty or above.\n\nEntry-Level Espionage \u2605 5\nComplete the game and all VR levels on Operative difficulty or above (level select is allowed).",
+            "primaryText": "Stealth Master [15\u2605]\nComplete each mission with a Master rank on Operative difficulty.\n\nUndercover Virtuoso [10\u2605]\nComplete the game on Master difficulty or above.\n\nEntry-Level Espionage [5\u2605]\nComplete the game and all VR levels on Operative difficulty or above (level select is allowed).",
             "community": 1,
             "communityText": "Mission: Impossible\nStart a new game and complete every mission with a Master rank on Operative difficulty or above.",
             "achievements": 0
@@ -34987,7 +34987,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bullet Time \u2605 10\nComplete New York Minute Hardcore.",
+            "primaryText": "Bullet Time [10\u2605]\nComplete New York Minute Hardcore.",
             "community": 0,
             "communityText": "",
             "achievements": 67
@@ -35041,7 +35041,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Blue Bomber Returns \u2605 20\nProve yourself.",
+            "primaryText": "The Blue Bomber Returns [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -35095,7 +35095,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Blue Bomber Classic \u2605 25\nComplete all six Mega Man games. / Complete the \"ALL ROBOT RUSH (NO ITEMS)\" Challenge. / Earn 50 gold medals by completing Challenges.",
+            "primaryText": "Blue Bomber Classic [25\u2605]\nComplete all six Mega Man games. / Complete the \"ALL ROBOT RUSH (NO ITEMS)\" Challenge. / Earn 50 gold medals by completing Challenges.",
             "community": 2,
             "communityText": "Mega Buster\nComplete all primary objectives from all site-listed games in the Mega Man franchise. See verification requirements for complete list.\n\nMr. Perfect\nComplete Mega Man 1 without getting hit. Turbo inputs are not allowed, but pause tricks are allowed.",
             "achievements": 24
@@ -35149,7 +35149,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Metal Hero \u2605 55\nClear Mega Man 9 without getting damaged. Checkpoint Save usage is disallowed.\n\nMega Busted \u2605 15\nClear all the hard mode Boss and Miniboss stages in the Mega Man 10 Original Challenges.\n\nGilded Bomber \u2605 10 (Partial: \u2605 5)\nComplete all four Mega Man games. / Earn 50 gold medals by completing challenges.",
+            "primaryText": "Metal Hero [55\u2605]\nClear Mega Man 9 without getting damaged. Checkpoint Save usage is disallowed.\n\nMega Busted [15\u2605]\nClear all the hard mode Boss and Miniboss stages in the Mega Man 10 Original Challenges.\n\nGilded Bomber[10\u2605  (Partial: 5\u2605)]\nComplete all four Mega Man games. / Earn 50 gold medals by completing challenges.",
             "community": 2,
             "communityText": "Outer Space Hazard\nClear Mega Man 10 without getting damaged and without loading save files. Checkpoint Save usage is disallowed.\n\nAmbition Resurges\nClear Mega Man 9 without getting damaged and without loading save files. Checkpoint Save usage is disallowed.",
             "achievements": 21
@@ -35203,7 +35203,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Chosen Biomatch \u2605 15\nBeat Mega Man ZX on Hard Mode while obtaining Model OX. / Beat Mega Man ZX Advent on Expert Mode. / Beat Survival Road in Mega Man ZX Advent.\n\nDWN-Infinity \u2605 10\nBeat every game without using Casual Scenario Mode. / Beat every stage in Z Chaser.\n\nSaber Wielding Messiah (UNCLEARED) \u2605 1\nBeat every stage in Z Chaser with a ZZ rank.\n\nZero, The Legend (UNCLEARED) \u2605 1\nBeat every stage in Z Chaser with a Z rank.",
+            "primaryText": "Chosen Biomatch [15\u2605]\nBeat Mega Man ZX on Hard Mode while obtaining Model OX. / Beat Mega Man ZX Advent on Expert Mode. / Beat Survival Road in Mega Man ZX Advent.\n\nDWN-Infinity [10\u2605]\nBeat every game without using Casual Scenario Mode. / Beat every stage in Z Chaser.\n\nSaber Wielding Messiah (UNCLEARED) [1\u2605]\nBeat every stage in Z Chaser with a ZZ rank.\n\nZero, The Legend (UNCLEARED) [1\u2605]\nBeat every stage in Z Chaser with a Z rank.",
             "community": 2,
             "communityText": "Game of Destiny\nBeat Survival Road in Mega Man ZX Advent without taking damage.\n\nMisty Rain Enjoyer\nGet a high score of at least 50,000 in the Energy Converter minigame in Mega Man ZX.",
             "achievements": 37
@@ -35257,7 +35257,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "From Wokege to Bedge \u2605 15\nAchieve a Perfect Score on all songs.",
+            "primaryText": "From Wokege to Bedge [15\u2605]\nAchieve a Perfect Score on all songs.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -35311,7 +35311,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "A Mirage of Mind \u2605 10\nBeat the game without using continues.",
+            "primaryText": "A Mirage of Mind [10\u2605]\nBeat the game without using continues.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -35360,7 +35360,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Nanomachines, Son! \u2605 45\nProve yourself.",
+            "primaryText": "Nanomachines, Son! [45\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 60
@@ -35414,7 +35414,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "I Need Scissors! 61! \u2605 20\nEarn the title of Big Boss.",
+            "primaryText": "I Need Scissors! 61! [20\u2605]\nEarn the title of Big Boss.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -35468,7 +35468,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Metal Mayhem Begins \u2605 10\nBeat the game without using continues.",
+            "primaryText": "Metal Mayhem Begins [10\u2605]\nBeat the game without using continues.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -35522,7 +35522,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "X Marks Aliens \u2605 15\nBeat the game without using continues.",
+            "primaryText": "X Marks Aliens [15\u2605]\nBeat the game without using continues.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -35576,7 +35576,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Metal: Hellsung \u2605 15\nComplete the game on Archdevil difficulty.",
+            "primaryText": "Metal: Hellsung [15\u2605]\nComplete the game on Archdevil difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -35630,7 +35630,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Fallen \u2605 10\nClear New Game+9 with any character.\n\nLich Slapped \u2605 10\nDefeat the Uberlich with every character.",
+            "primaryText": "Fallen [10\u2605]\nClear New Game+9 with any character.\n\nLich Slapped [10\u2605]\nDefeat the Uberlich with every character.",
             "community": 1,
             "communityText": "Rising Star\nClear New Game+9 with every character.",
             "achievements": 34
@@ -35684,7 +35684,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Abstraction \u2605 5\n100% the game.",
+            "primaryText": "Abstraction [5\u2605]\n100% the game.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -35738,7 +35738,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Hotline Express \u2605 10\nComplete all levels on \"Realistic\" difficulty.\n\nKing of Challenges \u2605 10\nComplete all challenges.\n\nYou Won't Be Forgotten My Friend \u2605 10\nObtain all S ranks.",
+            "primaryText": "Hotline Express [10\u2605]\nComplete all levels on \"Realistic\" difficulty.\n\nKing of Challenges [10\u2605]\nComplete all challenges.\n\nYou Won't Be Forgotten My Friend [10\u2605]\nObtain all S ranks.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -35792,7 +35792,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Bright Ray \u2605 15\nGet S ranks on each stage on Hyper & Maniac difficulties as Ray. / Get S rank on the \"Vermillion Destroyer\" stage on Hyper & Maniac difficulties.\n\nBeefed Up \u2605 15\nGet S ranks on each stage of the base game on Hyper & Maniac difficulties (as Beck).\n\nI'll See You In Xel \u2605 10\nProve yourself.",
+            "primaryText": "Bright Ray [15\u2605]\nGet S ranks on each stage on Hyper & Maniac difficulties as Ray. / Get S rank on the \"Vermillion Destroyer\" stage on Hyper & Maniac difficulties.\n\nBeefed Up [15\u2605]\nGet S ranks on each stage of the base game on Hyper & Maniac difficulties (as Beck).\n\nI'll See You In Xel [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 70
@@ -35846,7 +35846,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Short for Kilometer \u2605 10\nObtain S rank on every level. / Complete Time Attack mode with less than 10 deaths.",
+            "primaryText": "Short for Kilometer [10\u2605]\nObtain S rank on every level. / Complete Time Attack mode with less than 10 deaths.",
             "community": 1,
             "communityText": "Going the Extra Mile\nComplete Time Attack mode with zero deaths.",
             "achievements": 20
@@ -35900,7 +35900,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cat Fanatic \u2605 5\nCollect all cherries and photos. / Complete the secret and extra chapters. ",
+            "primaryText": "Cat Fanatic [5\u2605]\nCollect all cherries and photos. / Complete the secret and extra chapters. ",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -35954,7 +35954,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "This Isn't A Mimic \u2605 30\nScore more than 7000 points and beat the 50th floor in all dungeons.",
+            "primaryText": "This Isn't A Mimic [30\u2605]\nScore more than 7000 points and beat the 50th floor in all dungeons.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -36008,7 +36008,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Seize the Day \u2605 70\nBeat the Boss Rush mode.",
+            "primaryText": "Seize the Day [70\u2605]\nBeat the Boss Rush mode.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -36062,7 +36062,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "The Fabled Savior \u2605 190 (Partial: \u2605 50)\nBeat the game without dying, restarting or quitting.\n\nKing of the Caves \u2605 90 (Partial: \u2605 60)\nObtain the diamond time/death medals on all normal and bonus levels. *Partial points are awarded as a progress milestone.\n\nGetting On the Ball \u2605 40 (Partial: \u2605 25)\nObtain the gold time/death medals on all normal and bonus levels. *Partial points are awarded as a progress milestone.\n\nRolling Stone \u2605 20\nFinish an any% speedrun in under 1 hour.\n\nBall Buster \u2605 10\nClear all bonus levels.",
+            "primaryText": "The Fabled Savior[190\u2605  (Partial: 50\u2605)]\nBeat the game without dying, restarting or quitting.\n\nKing of the Caves[90\u2605  (Partial: 60\u2605)]\nObtain the diamond time/death medals on all normal and bonus levels. *Partial points are awarded as a progress milestone.\n\nGetting On the Ball[40\u2605  (Partial: 25\u2605)]\nObtain the gold time/death medals on all normal and bonus levels. *Partial points are awarded as a progress milestone.\n\nRolling Stone [20\u2605]\nFinish an any% speedrun in under 1 hour.\n\nBall Buster [10\u2605]\nClear all bonus levels.",
             "community": 3,
             "communityText": "Punenthusiastic\nComplete an all secrets run without dying, restarting or quitting.\n\nIronic\nBeat the bonus world in level order without dying, restarting or quitting.\n\nMeteoRalph\nBeat the original diamond times for all normal and bonus levels.",
             "achievements": 49
@@ -36116,7 +36116,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sweeper Agent \u2605 25\nProve yourself.",
+            "primaryText": "Sweeper Agent [25\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Super Grandmonogamer\nWin a game on Super Grandwizard difficulty.",
             "achievements": 20
@@ -36170,7 +36170,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mini Mission \u2605 10\nBeat the game without dying, being assisted by doctors or saving. / Beat the game in less than 45 minutes.",
+            "primaryText": "Mini Mission [10\u2605]\nBeat the game without dying, being assisted by doctors or saving. / Beat the game in less than 45 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -36189,7 +36189,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 283,
+        "playersTotal": 284,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -36224,7 +36224,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Public Transport Enthusiast \u2605 5\nComplete all stage challenges.",
+            "primaryText": "Public Transport Enthusiast [5\u2605]\nComplete all stage challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 67
@@ -36278,7 +36278,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Vroom \u2605 5\nComplete all driver count achievements. / Complete all challenge achievements.",
+            "primaryText": "Vroom [5\u2605]\nComplete all driver count achievements. / Complete all challenge achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 94
@@ -36332,7 +36332,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Compliments to the Chef \u2605 5\nMake 50 combinations in each mode.",
+            "primaryText": "Compliments to the Chef [5\u2605]\nMake 50 combinations in each mode.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -36386,7 +36386,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Mirror Master \u2605 25\nClear all songs on hardmode with no misses.\n\nAngular Artist \u2605 15\nClear all three extra songs with no misses.\n\nRhythmic Reflector \u2605 10\nClear songs 1 through 15 and Ending with no misses.",
+            "primaryText": "Mirror Master [25\u2605]\nClear all songs on hardmode with no misses.\n\nAngular Artist [15\u2605]\nClear all three extra songs with no misses.\n\nRhythmic Reflector [10\u2605]\nClear songs 1 through 15 and Ending with no misses.",
             "community": 1,
             "communityText": "Lightspeed Legend\nClear all songs on 2x speed with no misses.",
             "achievements": 59
@@ -36440,7 +36440,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Best Family Ever \u2605 5\nBeat a run on Extreme.\n\nDragons Online \u2605 5\nScore 30 million. / Beat a run on Easy or above without switching characters.",
+            "primaryText": "Best Family Ever [5\u2605]\nBeat a run on Extreme.\n\nDragons Online [5\u2605]\nScore 30 million. / Beat a run on Easy or above without switching characters.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -36494,7 +36494,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Impossible is Nothing \u2605 30\nProve yourself.",
+            "primaryText": "Impossible is Nothing [30\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -36548,7 +36548,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mo Problems \u2605 5\nAchieve 100% in-game completion. / Beat the last boss on Disaster Mode.",
+            "primaryText": "Mo Problems [5\u2605]\nAchieve 100% in-game completion. / Beat the last boss on Disaster Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -36602,7 +36602,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Priestess of the Nightfall \u2605 10\nFinish the story in Hardcore mode.",
+            "primaryText": "Priestess of the Nightfall [10\u2605]\nFinish the story in Hardcore mode.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -36656,7 +36656,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Devout Beleafer \u2605 10\nComplete the game on Insane difficulty.",
+            "primaryText": "Devout Beleafer [10\u2605]\nComplete the game on Insane difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 9
@@ -36710,7 +36710,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Challenge Conductor \u2605 40\nAchieve divine victory in all expert challenges.\n\nPact Breaker \u2605 20\nAchieve divine victory with all covenants enabled for any character.\n\nSeraph Slayer \u2605 20\nWin a run with all covenants enabled for every character (except Wurmkin).",
+            "primaryText": "Challenge Conductor [40\u2605]\nAchieve divine victory in all expert challenges.\n\nPact Breaker [20\u2605]\nAchieve divine victory with all covenants enabled for any character.\n\nSeraph Slayer [20\u2605]\nWin a run with all covenants enabled for every character (except Wurmkin).",
             "community": 1,
             "communityText": "Divine Victor\nAchieve divine victory with all clan combinations.",
             "achievements": 53
@@ -36764,7 +36764,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Epic Lunacy \u2605 10\nBeat the game in Lunatic Mode.",
+            "primaryText": "Epic Lunacy [10\u2605]\nBeat the game in Lunatic Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -36818,7 +36818,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Immortal Shell \u2605 25\nComplete a run in The Virtuous Cycle with the Dark Form Obsidian Shell Shade.\n\nEternal Suffering \u2605 15\nSeparately, beat the game without bonding with a shell, and beat the game in Obsidian Dark form.",
+            "primaryText": "Immortal Shell [25\u2605]\nComplete a run in The Virtuous Cycle with the Dark Form Obsidian Shell Shade.\n\nEternal Suffering [15\u2605]\nSeparately, beat the game without bonding with a shell, and beat the game in Obsidian Dark form.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -36873,7 +36873,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Motomaster \u2605 15\nBeat all of the Developer Times in Hotlaps and Time Attack.\n\nStar Driver \u2605 15\nCollect All 165 Stars.",
+            "primaryText": "Motomaster [15\u2605]\nBeat all of the Developer Times in Hotlaps and Time Attack.\n\nStar Driver [15\u2605]\nCollect All 165 Stars.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -36928,7 +36928,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Relocation Technician \u2605 10\nProve yourself.\n\nPack Rats \u2605 5\nProve yourself, in the DLC.",
+            "primaryText": "Relocation Technician [10\u2605]\nProve yourself.\n\nPack Rats [5\u2605]\nProve yourself, in the DLC.",
             "community": 0,
             "communityText": "",
             "achievements": 38
@@ -36947,7 +36947,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 45,
+        "playersTotal": 46,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -36977,7 +36977,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "This Piggy Went Home Alive \u2605 10\nBeat all levels without dying.",
+            "primaryText": "This Piggy Went Home Alive [10\u2605]\nBeat all levels without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 43
@@ -37031,7 +37031,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Run, Mr. Run and Jump! Run! \u2605 30\nObtain the platinum time trial orb on every level.\n\nOrb Ponderer \u2605 15\nCollect all challenge and shattered orbs.",
+            "primaryText": "Run, Mr. Run and Jump! Run! [30\u2605]\nObtain the platinum time trial orb on every level.\n\nOrb Ponderer [15\u2605]\nCollect all challenge and shattered orbs.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -37085,7 +37085,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Skyscraper High Jinks \u2605 20\nComplete all stages with 0 deaths. / Beat the dev's best speedrun time 1:19:21.",
+            "primaryText": "Skyscraper High Jinks [20\u2605]\nComplete all stages with 0 deaths. / Beat the dev's best speedrun time 1:19:21.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -37139,7 +37139,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Splotastic Pink Justice \u2605 15\nComplete all of the Single Player levels in Hardcore Mode. / Complete all of the Multiplayer levels.",
+            "primaryText": "Splotastic Pink Justice [15\u2605]\nComplete all of the Single Player levels in Hardcore Mode. / Complete all of the Multiplayer levels.",
             "community": 1,
             "communityText": "Mindsplosion\nComplete all the Multi Player levels on \"2 Girls, 1 Controller\" mode.",
             "achievements": 12
@@ -37193,7 +37193,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Lethal Concert \u2605 20\nBeat all unprotected stages.\n\nRinko's Demise \u2605 30\nWin all duels with Kairi and Satsuki and earn 3 million points in stage 6.",
+            "primaryText": "Lethal Concert [20\u2605]\nBeat all unprotected stages.\n\nRinko's Demise [30\u2605]\nWin all duels with Kairi and Satsuki and earn 3 million points in stage 6.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -37247,7 +37247,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Unsafely Travels \u2605 15\nBeat all unprotected stages.\n\nKeisan's Demise \u2605 20\nWin all duels with Kairi and Satsuki and earn 3 million points in stage 6.",
+            "primaryText": "Unsafely Travels [15\u2605]\nBeat all unprotected stages.\n\nKeisan's Demise [20\u2605]\nWin all duels with Kairi and Satsuki and earn 3 million points in stage 6.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -37301,7 +37301,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Sleepwalker \u2605 280\nGet 100% accuracy on all level 12 tracks.\n\nHand of God \u2605 200\nGet 100% accuracy on all level 11 tracks plus all master and hidden tracks with non-integer difficulty values.\n\nNot One Less \u2605 70\nGet 100% accuracy on all level 10 tracks and all H and L bullet screens.\n\nThe Pinnacle of Life \u2605 20\nGet 100% accuracy on a level 10+ song.\n\nWelcome to Muse Dash \u2605 15\nEarn all stage achievements in the default music pack.",
+            "primaryText": "Sleepwalker [280\u2605]\nGet 100% accuracy on all level 12 tracks.\n\nHand of God [200\u2605]\nGet 100% accuracy on all level 11 tracks plus all master and hidden tracks with non-integer difficulty values.\n\nNot One Less [70\u2605]\nGet 100% accuracy on all level 10 tracks and all H and L bullet screens.\n\nThe Pinnacle of Life [20\u2605]\nGet 100% accuracy on a level 10+ song.\n\nWelcome to Muse Dash [15\u2605]\nEarn all stage achievements in the default music pack.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -37355,7 +37355,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Ultra Master \u2605 350\nOn Normal mode, clear the Ultra difficulty with no continues.\n\nArrange Master \u2605 35\nClear Arrange mode with no continues.\n\nManiac Master \u2605 35\nOn Normal mode, clear the Maniac difficulty or higher with no continues.\n\nOriginal Master \u2605 5\nOn Normal mode, clear the Original difficulty or higher with no continues.",
+            "primaryText": "Ultra Master [350\u2605]\nOn Normal mode, clear the Ultra difficulty with no continues.\n\nArrange Master [35\u2605]\nClear Arrange mode with no continues.\n\nManiac Master [35\u2605]\nOn Normal mode, clear the Maniac difficulty or higher with no continues.\n\nOriginal Master [5\u2605]\nOn Normal mode, clear the Original difficulty or higher with no continues.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -37409,7 +37409,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Terrible Trip \u2605 20\nComplete each chapter individually without dying.",
+            "primaryText": "Terrible Trip [20\u2605]\nComplete each chapter individually without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -37463,7 +37463,7 @@ var data =
         },
         "milestones": {
             "primary": 6,
-            "primaryText": "VSRG 4k Expert \u2605 55\n4K Mode - Obtain an EX rank on all main songs on \"Inferno\" difficulty.\n\nVSRG 4k Adept \u2605 20\n4K Mode - Obtain an EX rank on all lv6+ songs on \"Hard\" difficulty.\n\nVSRG 4k Novice \u2605 5\n4K Mode - Obtain an EX rank on all lv4+ songs on \"EZ\" difficulty.\n\nVSRG 6k Adept (UNVALUED) \u2605 1\n6K Mode - Obtain an EX rank on all lv6+ songs on \"Hard\" difficulty.\n\nVSRG 6k Expert (UNVALUED) \u2605 1\n6K Mode - Obtain an EX rank on all main songs on \"Inferno\" difficulty.\n\nVSRG 6k Novice (UNVALUED) \u2605 1\n6K Mode - Obtain an EX rank on all lv4+ songs on \"EZ\" difficulty.",
+            "primaryText": "VSRG 4k Expert [55\u2605]\n4K Mode - Obtain an EX rank on all main songs on \"Inferno\" difficulty.\n\nVSRG 4k Adept [20\u2605]\n4K Mode - Obtain an EX rank on all lv6+ songs on \"Hard\" difficulty.\n\nVSRG 4k Novice [5\u2605]\n4K Mode - Obtain an EX rank on all lv4+ songs on \"EZ\" difficulty.\n\nVSRG 6k Adept (UNVALUED) [1\u2605]\n6K Mode - Obtain an EX rank on all lv6+ songs on \"Hard\" difficulty.\n\nVSRG 6k Expert (UNVALUED) [1\u2605]\n6K Mode - Obtain an EX rank on all main songs on \"Inferno\" difficulty.\n\nVSRG 6k Novice (UNVALUED) [1\u2605]\n6K Mode - Obtain an EX rank on all lv4+ songs on \"EZ\" difficulty.",
             "community": 1,
             "communityText": "VSRG Master\nObtain a sync rate of 122% or higher on all main songs on \"Inferno\" difficulty.",
             "achievements": 27
@@ -37517,7 +37517,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Dang, Grannie! \u2605 5\nCollect all of Grannie's medals.",
+            "primaryText": "Dang, Grannie! [5\u2605]\nCollect all of Grannie's medals.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -37571,7 +37571,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mud Cleaner \u2605 5\nBeat the game in under 100 deaths.",
+            "primaryText": "Mud Cleaner [5\u2605]\nBeat the game in under 100 deaths.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -37625,7 +37625,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Muted Mastery \u2605 40\nFinish Boss Rush Mode. / Finish Arcade Mode in under 45 minutes.",
+            "primaryText": "Muted Mastery [40\u2605]\nFinish Boss Rush Mode. / Finish Arcade Mode in under 45 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -37679,7 +37679,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Banana Ballet \u2605 20\nObtain all S ranks on \"Bananas\" difficulty.\n\nBananers \u2605 10\nObtain all S ranks.",
+            "primaryText": "Banana Ballet [20\u2605]\nObtain all S ranks on \"Bananas\" difficulty.\n\nBananers [10\u2605]\nObtain all S ranks.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -37733,7 +37733,7 @@ var data =
         },
         "milestones": {
             "primary": 6,
-            "primaryText": "Ultimate Ninja \u2605 250\nGet everything in Solo Mode.\n\nClever \u2605 100\nGet all of the All-Gold badges in every page of Solo Mode.\n\nThousand Step Ascent \u2605 75\nBeat each Hardcore story without dying.\n\nGolden \u2605 65\nGet all of the All-Gold badges in the \"Intro\", \"N++\", \"Ultimate\", and \"Legacy\" pages of Solo Mode.\n\nSynchronised \u2605 50\nGet all of the All-Gold badges in every page of Co-op Mode.\n\nEnlightened \u2605 25 (Partial: \u2605 15)\nBeat every level in the \"Intro\", \"N++\", \"Ultimate\", and \"Legacy\" pages of Solo Mode.. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Ultimate Ninja [250\u2605]\nGet everything in Solo Mode.\n\nClever [100\u2605]\nGet all of the All-Gold badges in every page of Solo Mode.\n\nThousand Step Ascent [75\u2605]\nBeat each Hardcore story without dying.\n\nGolden [65\u2605]\nGet all of the All-Gold badges in the \"Intro\", \"N++\", \"Ultimate\", and \"Legacy\" pages of Solo Mode.\n\nSynchronised [50\u2605]\nGet all of the All-Gold badges in every page of Co-op Mode.\n\nEnlightened[25\u2605  (Partial: 15\u2605)]\nBeat every level in the \"Intro\", \"N++\", \"Ultimate\", and \"Legacy\" pages of Solo Mode.. *Partial points are awarded as a progress milestone.",
             "community": 6,
             "communityText": "Aurelian Master\nCollect all of the gold in every Hardcore story without dying.\n\nCommunity Connoisseur\nCollect all gold on every level of the Community Tab Project.\n\nCommunity Conqueror\nAchieve 100% in the Community Tab Project.\n\nMap Pack Participant\nAchieve 10 non-CTP points from the \"N++ Custom Tab Completions\" spreadsheet.\n\nMap Pack Powerhouse\nAchieve 20 non-CTP points from the \"N++ Custom Tab Completions\" spreadsheet.\n\nWay of the Ninja\nComplete all primary objectives from all site-listed games in the N franchise. See verification requirements for complete list.",
             "achievements": 33
@@ -37788,7 +37788,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "N-GONESTEST \u2605 10\nGo past the 5th gate in Endless Mode.\n\nRun Optimizer Plane (UNCLEARED) \u2605 1\nGain 25000 points in one run. / Clear 50 waves in a row.",
+            "primaryText": "N-GONESTEST [10\u2605]\nGo past the 5th gate in Endless Mode.\n\nRun Optimizer Plane (UNCLEARED) [1\u2605]\nGain 25000 points in one run. / Clear 50 waves in a row.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -37842,7 +37842,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Terryfic Test \u2605 90 (Partial: \u2605 10)\nFinish the game without dying once. / Finish the game with all DVDs in less than 35 minutes.\n\nGet the Hell Out of Sphere \u2605 10\nComplete \"Terry's Dream\". / Collect all DVDs.",
+            "primaryText": "Terryfic Test[90\u2605  (Partial: 10\u2605)]\nFinish the game without dying once. / Finish the game with all DVDs in less than 35 minutes.\n\nGet the Hell Out of Sphere [10\u2605]\nComplete \"Terry's Dream\". / Collect all DVDs.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -37896,7 +37896,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Life After Afterlife \u2605 35\n100% the game without dying.\n\nNot Even Death Can Stop Me \u2605 25\nFinish the game without dying.",
+            "primaryText": "Life After Afterlife [35\u2605]\n100% the game without dying.\n\nNot Even Death Can Stop Me [25\u2605]\nFinish the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -37950,7 +37950,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Closed Circuit (UNCLEARED) \u2605 1\nComplete the ultimate levels for The Dark Forest, The Lost City, and Pandemonium without dying.\n\nLightning Bolt \u2605 15\nBeat all levels on the hardest difficulty where possible.\n\nStatic Shock \u2605 5\nBeat the game.",
+            "primaryText": "Closed Circuit (UNCLEARED) [1\u2605]\nComplete the ultimate levels for The Dark Forest, The Lost City, and Pandemonium without dying.\n\nLightning Bolt [15\u2605]\nBeat all levels on the hardest difficulty where possible.\n\nStatic Shock [5\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -38004,7 +38004,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Neo Master \u2605 10\nProve yourself.",
+            "primaryText": "Neo Master [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -38058,7 +38058,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Supersonic Legend \u2605 5\nComplete all Normal, Hardcore, and Event levels.",
+            "primaryText": "Supersonic Legend [5\u2605]\nComplete all Normal, Hardcore, and Event levels.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -38112,7 +38112,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rogue Light \u2605 10\nProve yourself.",
+            "primaryText": "Rogue Light [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -38166,7 +38166,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Demon Exterminator \u2605 30\nClear White's Hell Rush.\n\nRocket League \u2605 10\nClear Mikey's Hell Rush.\n\n\"I just keep getting better and better.\" \u2605 20\nEarn all Red Medals.\n\nHeaven's Janitor \u2605 5\nProve yourself.",
+            "primaryText": "Demon Exterminator [30\u2605]\nClear White's Hell Rush.\n\nRocket League [10\u2605]\nClear Mikey's Hell Rush.\n\n\"I just keep getting better and better.\" [20\u2605]\nEarn all Red Medals.\n\nHeaven's Janitor [5\u2605]\nProve yourself.",
             "community": 4,
             "communityText": "\"Not bad for a dead guy, huh?\"\nReach a total time of 50:00.00 or less on the global leaderboard.\n\nEmerald City\nObtain an Emerald Medal on all levels within the NeonLite mod.\n\nSpeedrunner from Heaven\nObtain a Sapphire Medal on any level within the NeonLite mod.\n\nUltraviolet\nObtain an Amethyst Medal on all levels in a single non-boss chapter within the NeonLite mod.",
             "achievements": 63
@@ -38221,7 +38221,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Neptunia Overlord \u2605 20\nClear all stages with no damage.",
+            "primaryText": "Neptunia Overlord [20\u2605]\nClear all stages with no damage.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -38275,7 +38275,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Keep It Together \u2605 10\nObtain all S ranks.",
+            "primaryText": "Keep It Together [10\u2605]\nObtain all S ranks.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -38329,7 +38329,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Never Fuck Up \u2605 310 (Partial: \u2605 15)\nBeat the game on Permadeath Mode.\n\nShut Up, Arin! \u2605 20\nComplete 100% of the game.",
+            "primaryText": "Never Fuck Up[310\u2605  (Partial: 15\u2605)]\nBeat the game on Permadeath Mode.\n\nShut Up, Arin! [20\u2605]\nComplete 100% of the game.",
             "community": 2,
             "communityText": "Hassle Foot\nBeat Tasselfoot's times on every level.\n\nOkay, You Can Give Up Now\nObtain 100% in a permadeath save file.",
             "achievements": 49
@@ -38383,7 +38383,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Verum Finis Estne \u2605 15\nDefeat the TLB (Nex Machina) on Hero difficulty.\n\nBeacon of Hope \u2605 80\nSeparately and per level: Save all humans and beat the speedrun times on Hero difficulty.\n\nNex Humanus \u2605 30\n1CC Arcade mode on Veteran or higher without dying (TLB included).\n\nSilly Goobers \u2605 20\n1CC Arcade mode on Veteran or higher collecting all humans (including hidden ones, TLB not required)\n\nDeath Machine \u2605 20\nComplete Arcade mode on Veteran difficulty. / Complete Techno Forest on Master difficulty. / Complete 100 feats.",
+            "primaryText": "Verum Finis Estne [15\u2605]\nDefeat the TLB (Nex Machina) on Hero difficulty.\n\nBeacon of Hope [80\u2605]\nSeparately and per level: Save all humans and beat the speedrun times on Hero difficulty.\n\nNex Humanus [30\u2605]\n1CC Arcade mode on Veteran or higher without dying (TLB included).\n\nSilly Goobers [20\u2605]\n1CC Arcade mode on Veteran or higher collecting all humans (including hidden ones, TLB not required)\n\nDeath Machine [20\u2605]\nComplete Arcade mode on Veteran difficulty. / Complete Techno Forest on Master difficulty. / Complete 100 feats.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -38432,7 +38432,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Dreamweaver \u2605 5\nClear all stages with A rank.",
+            "primaryText": "Dreamweaver [5\u2605]\nClear all stages with A rank.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -38486,7 +38486,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "I Cast a Shadow \u2605 10\nBeat the Void mode.",
+            "primaryText": "I Cast a Shadow [10\u2605]\nBeat the Void mode.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -38540,7 +38540,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Vapor Rise \u2605 10 (Partial: \u2605 5)\nSeparately; complete all levels in hard mode, collect all coins, and beat the target times.",
+            "primaryText": "Vapor Rise[10\u2605  (Partial: 5\u2605)]\nSeparately; complete all levels in hard mode, collect all coins, and beat the target times.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -38594,7 +38594,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Revenger DX \u2605 25\nDefeat Shiro without getting hit. / Complete all \"Perfect\" challenges. / Clear the game in 25 minutes or less in \"Hardcore\" mode. / Clear the game without dying in \"Hardcore\" mode.",
+            "primaryText": "Revenger DX [25\u2605]\nDefeat Shiro without getting hit. / Complete all \"Perfect\" challenges. / Clear the game in 25 minutes or less in \"Hardcore\" mode. / Clear the game without dying in \"Hardcore\" mode.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -38648,7 +38648,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bunny Bash \u2605 10\nObtain all S ranks. / Reach wave 50 in Oni TV.",
+            "primaryText": "Bunny Bash [10\u2605]\nObtain all S ranks. / Reach wave 50 in Oni TV.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -38702,7 +38702,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Darkness Unleashed \u2605 25\nObtain all achievements.",
+            "primaryText": "Darkness Unleashed [25\u2605]\nObtain all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 88
@@ -38756,7 +38756,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Path of Most Resistance \u2605 15\nEarn all hitless and speedrun titles.\n\nBenevolent King \u2605 20\nObtain all achievements.",
+            "primaryText": "Path of Most Resistance [15\u2605]\nEarn all hitless and speedrun titles.\n\nBenevolent King [20\u2605]\nObtain all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 79
@@ -38810,7 +38810,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Starfall \u2605 5\nObtain all stars.",
+            "primaryText": "Starfall [5\u2605]\nObtain all stars.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -38864,7 +38864,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Overlord \u2605 205\nGet SS rank on ALL songs on Overload, including artist packs.\n\nGaiusified \u2605 50\nMaster the Episode G DLC.\n\nVoid Vanquisher \u2605 130 (Partial: \u2605 60)\nMaster the re:||VERSE DLC.\n\ngalaXXy brain \u2605 25\nMaster the artist packs by getting AA rank or higher on their songs on Overload.\n\nSound Dodger \u2605 60\nMaster the base game.",
+            "primaryText": "Overlord [205\u2605]\nGet SS rank on ALL songs on Overload, including artist packs.\n\nGaiusified [50\u2605]\nMaster the Episode G DLC.\n\nVoid Vanquisher[130\u2605  (Partial: 60\u2605)]\nMaster the re:||VERSE DLC.\n\ngalaXXy brain [25\u2605]\nMaster the artist packs by getting AA rank or higher on their songs on Overload.\n\nSound Dodger [60\u2605]\nMaster the base game.",
             "community": 3,
             "communityText": "Beast Rush\nGet an SS on the re:||VERSE credits and the Episode G credits on Overload.\n\nMusical Course Through Void\nBeat Course ULTIMATE with an SS total grade.\n\nQuick Maths\nGet SS rank on \u03c0\u2022\u03c1\u2022maniac on Overload while wearing the \"Math Genius\" title.",
             "achievements": 94
@@ -38918,7 +38918,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Noitmare \u2605 15\nClear the game on \"Nightmare\" Mode.\n\nGive Me Sorcery \u2605 10\nClear the game.",
+            "primaryText": "Noitmare [15\u2605]\nClear the game on \"Nightmare\" Mode.\n\nGive Me Sorcery [10\u2605]\nClear the game.",
             "community": 3,
             "communityText": "Mestarien Mestari\nComplete the sun quest, and get the peaceful ending.\n\nSauvojen Tuntija\nGet 100% progress. / Create an entity with infinite lifetime. / Do 1 million damage in one shot.\n\nThe End of Everything\nComplete all pillar achievements in game.",
             "achievements": 14
@@ -38972,7 +38972,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Tinted Red \u2605 25\nComplete Impossible mode",
+            "primaryText": "Tinted Red [25\u2605]\nComplete Impossible mode",
             "community": 0,
             "communityText": "",
             "achievements": 2
@@ -39026,7 +39026,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Like a Bat Out of Hell \u2605 100\nBeat the game within 30 minutes without continue on Normal difficulty.",
+            "primaryText": "Like a Bat Out of Hell [100\u2605]\nBeat the game within 30 minutes without continue on Normal difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -39080,7 +39080,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Spook Patrol \u2605 20\n100% the game.",
+            "primaryText": "Spook Patrol [20\u2605]\n100% the game.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -39134,7 +39134,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Mighty Mutant \u2605 40\nProve yourself.\n\nSkilled Raider \u2605 15\nUnlock all Crowns as Melting and Rogue.",
+            "primaryText": "Mighty Mutant [40\u2605]\nProve yourself.\n\nSkilled Raider [15\u2605]\nUnlock all Crowns as Melting and Rogue.",
             "community": 1,
             "communityText": "Ultra Mutant\nGet 100% of the unlocks.",
             "achievements": 44
@@ -39188,7 +39188,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Nyaruru Fishy Rush \u2605 90\nObtain a score of 75 stars in the Boss Rush.\n\nCatgirl Overdose \u2605 45\nObtain a score of 5 stars in all 16 bosses.",
+            "primaryText": "Nyaruru Fishy Rush [90\u2605]\nObtain a score of 75 stars in the Boss Rush.\n\nCatgirl Overdose [45\u2605]\nObtain a score of 5 stars in all 16 bosses.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -39242,7 +39242,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Liberator of Evil \u2605 5\nBeat the game.",
+            "primaryText": "Liberator of Evil [5\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -39296,7 +39296,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "\"I'd Tap That.\" \u2605 10\nComplete every level in the \"play\" section with perfect taps and time.\n\nVicious Circle (UNCLEARED) \u2605 1\n",
+            "primaryText": "\"I'd Tap That.\" [10\u2605]\nComplete every level in the \"play\" section with perfect taps and time.\n\nVicious Circle (UNCLEARED) [1\u2605]\n",
             "community": 1,
             "communityText": "OCO LOCO\nComplete every \"explore\" world with perfect taps and time.",
             "achievements": 46
@@ -39350,7 +39350,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Carpe D8 \u2605 210\nComplete the game on Rogue Extra difficulty.\n\nGeometric Wizard \u2605 10\nObtain the Deus Hitless and Time+ medals on every level.\n\nSeizure Warning \u2605 10\nProve yourself.",
+            "primaryText": "Carpe D8 [210\u2605]\nComplete the game on Rogue Extra difficulty.\n\nGeometric Wizard [10\u2605]\nObtain the Deus Hitless and Time+ medals on every level.\n\nSeizure Warning [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -39404,7 +39404,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Against the Darkness \u2605 10\nProve yourself.",
+            "primaryText": "Against the Darkness [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -39458,7 +39458,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Oddly Satisfying \u2605 10\nSeparately; clear Hard mode and beat the game in under 3 hours.",
+            "primaryText": "Oddly Satisfying [10\u2605]\nSeparately; clear Hard mode and beat the game in under 3 hours.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -39512,7 +39512,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Nightmare Fuel \u2605 80\nComplete all nightmare levels.",
+            "primaryText": "Nightmare Fuel [80\u2605]\nComplete all nightmare levels.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -39561,7 +39561,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rainbow Mama \u2605 25\nEarn 120 supremely awesome rainbow flowers.",
+            "primaryText": "Rainbow Mama [25\u2605]\nEarn 120 supremely awesome rainbow flowers.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -39615,7 +39615,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "King of Ka \u2605 45\nSeparately, complete each world in Time Attack mode without dying.\n\nSpirit Saviour \u2605 15\n100% the game.",
+            "primaryText": "King of Ka [45\u2605]\nSeparately, complete each world in Time Attack mode without dying.\n\nSpirit Saviour [15\u2605]\n100% the game.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -39669,7 +39669,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cooped Up Pilot \u2605 5\nSeparately; beat the game without crashing, and beat the game in under 15 minutes.",
+            "primaryText": "Cooped Up Pilot [5\u2605]\nSeparately; beat the game without crashing, and beat the game in under 15 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -39723,7 +39723,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Life is but a Dream \u2605 5\nComplete the game in 5 or less deaths.",
+            "primaryText": "Life is but a Dream [5\u2605]\nComplete the game in 5 or less deaths.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -39777,7 +39777,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "School of Hard Knocks \u2605 170\nAchieve an S rank on all songs on Hard.\n\nOld School Cool \u2605 10\nObtain an A rank or higher on all songs on Hard. / Complete Chicken Republic.",
+            "primaryText": "School of Hard Knocks [170\u2605]\nAchieve an S rank on all songs on Hard.\n\nOld School Cool [10\u2605]\nObtain an A rank or higher on all songs on Hard. / Complete Chicken Republic.",
             "community": 1,
             "communityText": "Old School Strumming\nGet 100% precision on the secret song \"Mountain Stage Breakaway\".",
             "achievements": 13
@@ -39831,7 +39831,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gnarly \u2605 15\nBeat all Levels on Rad Mode.",
+            "primaryText": "Gnarly [15\u2605]\nBeat all Levels on Rad Mode.",
             "community": 1,
             "communityText": "Front Side 1080\nComplete all primary objectives from all site-listed games in the OlliOlli franchise. See verification requirements for complete list.",
             "achievements": 12
@@ -39885,7 +39885,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Kickflip King \u2605 50\nComplete all of Radysus' challenges.\n\nFlow Finder and V.O.I.D. Vanquisher \u2605 10\nBeat every level, challenge, Local hero score and collect every customisation in the Flowzone and V.O.I.D. levels.",
+            "primaryText": "Kickflip King [50\u2605]\nComplete all of Radysus' challenges.\n\nFlow Finder and V.O.I.D. Vanquisher [10\u2605]\nBeat every level, challenge, Local hero score and collect every customisation in the Flowzone and V.O.I.D. levels.",
             "community": 0,
             "communityText": "",
             "achievements": 54
@@ -39939,7 +39939,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Radical \u2605 15\nObtain 100% Completion.",
+            "primaryText": "Radical [15\u2605]\nObtain 100% Completion.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -39993,7 +39993,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Flying Busman \u2605 25\nProve yourself.",
+            "primaryText": "Flying Busman [25\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -40047,7 +40047,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Kung Pow! \u2605 80\nScore 5000 Kills in No Luca No Survival Mode. / Score 6000 Kills in Blind Survival Mode. / Score 7000 Kills in Survival Mode.",
+            "primaryText": "Kung Pow! [80\u2605]\nScore 5000 Kills in No Luca No Survival Mode. / Score 6000 Kills in Blind Survival Mode. / Score 7000 Kills in Survival Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 152
@@ -40101,7 +40101,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "One Gun God \u2605 5\nBeat the game without dying on hard mode.",
+            "primaryText": "One Gun God [5\u2605]\nBeat the game without dying on hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -40155,7 +40155,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Snailarchy \u2605 5\nOverthrow the Snail King.",
+            "primaryText": "Snailarchy [5\u2605]\nOverthrow the Snail King.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -40209,7 +40209,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Chronically in Line \u2605 5\nReach a distance of 300",
+            "primaryText": "Chronically in Line [5\u2605]\nReach a distance of 300",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -40263,7 +40263,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mega Hell Battle Network \u2605 50\nBeat Hell Mode 14.",
+            "primaryText": "Mega Hell Battle Network [50\u2605]\nBeat Hell Mode 14.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -40317,7 +40317,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Balancing Act \u2605 30\nComplete all levels and get all coins.",
+            "primaryText": "Balancing Act [30\u2605]\nComplete all levels and get all coins.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -40371,7 +40371,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hokuto no Oniken \u2605 15\nCleared Hardcore Mode and Boss Rush Mode.",
+            "primaryText": "Hokuto no Oniken [15\u2605]\nCleared Hardcore Mode and Boss Rush Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -40425,7 +40425,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "RoOlling \u2605 5\nScore 100 points in Endless Mode. / Finish all normal levels.",
+            "primaryText": "RoOlling [5\u2605]\nScore 100 points in Endless Mode. / Finish all normal levels.",
             "community": 2,
             "communityText": "PerfectioOn\nFinish all normal and drunk levels with zero deaths.\n\nEndless HangoOver\nReach 100 in endless drunk mode.",
             "achievements": 6
@@ -40479,7 +40479,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Shapeshifter \u2605 170 (Partial: \u2605 50)\nComplete all levels at the highest difficulty multiplier.\n\nMultidimensional \u2605 50\nComplete all levels.",
+            "primaryText": "Shapeshifter[170\u2605  (Partial: 50\u2605)]\nComplete all levels at the highest difficulty multiplier.\n\nMultidimensional [50\u2605]\nComplete all levels.",
             "community": 4,
             "communityText": "Murder God\nComplete \"Murder\" from the Garbage custom level pack at the highest difficulty multiplier.\n\nMurder Master\nComplete \"Murder\" from the Garbage custom level pack.\n\nVanity God\nComplete \"Dark Matter\", \"Bass Slut\", and \"Berserk\" from the Vanity custom level pack at the highest difficulty multiplier.\n\nVanity Master\nComplete \"Dark Matter\", \"Bass Slut\", and \"Berserk\" from the Vanity custom level pack.",
             "achievements": 48
@@ -40534,7 +40534,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Stainless Steel \u2605 40 (Partial: \u2605 30)\nComplete Hard Mode 10.",
+            "primaryText": "Stainless Steel[40\u2605  (Partial: 30\u2605)]\nComplete Hard Mode 10.",
             "community": 0,
             "communityText": "",
             "achievements": 52
@@ -40588,7 +40588,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Speed of Light \u2605 10\nObtain all Dev Ranks on the time trials.",
+            "primaryText": "Speed of Light [10\u2605]\nObtain all Dev Ranks on the time trials.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -40607,7 +40607,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 85,
         "playersStarted": 0,
-        "playersTotal": 789,
+        "playersTotal": 790,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -40642,7 +40642,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Saw the Forest through the Trees \u2605 50\nComplete the game in \"One-Life\" difficulty.",
+            "primaryText": "Saw the Forest through the Trees [50\u2605]\nComplete the game in \"One-Life\" difficulty.",
             "community": 1,
             "communityText": "Spirit of Iron\nComplete the game with 100% completion in \"One-Life\" difficulty.",
             "achievements": 57
@@ -40696,7 +40696,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Beyond Mortality \u2605 65\nBeat the game without dying (Single segment, Quit to Menu (fast teleport) and Save Scumming are disallowed). \n\nTranscendental Journey \u2605 10\nClear Hard mode.",
+            "primaryText": "Beyond Mortality [65\u2605]\nBeat the game without dying (Single segment, Quit to Menu (fast teleport) and Save Scumming are disallowed). \n\nTranscendental Journey [10\u2605]\nClear Hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -40750,7 +40750,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Murder Manor \u2605 30\nClear a run on \"Impossible\" mode. / Clear a full run without taking any drinks. ",
+            "primaryText": "Murder Manor [30\u2605]\nClear a run on \"Impossible\" mode. / Clear a full run without taking any drinks. ",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -40799,7 +40799,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Long Dark \u2605 100\nObtain all achievements.",
+            "primaryText": "The Long Dark [100\u2605]\nObtain all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 64
@@ -40853,7 +40853,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "King of Monsters \u2605 15\nComplete the Boss Rush mode.",
+            "primaryText": "King of Monsters [15\u2605]\nComplete the Boss Rush mode.",
             "community": 0,
             "communityText": "",
             "achievements": 38
@@ -40907,7 +40907,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Bowelwhistler \u2605 5\nFinish the DLC on \"Insane\" mode.\n\nInsanity Asylum \u2605 5\nFinish the main story on \"Insane\" mode.",
+            "primaryText": "Bowelwhistler [5\u2605]\nFinish the DLC on \"Insane\" mode.\n\nInsanity Asylum [5\u2605]\nFinish the main story on \"Insane\" mode.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -40961,7 +40961,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Messiah in the Wilderness \u2605 25\nFinish the game on \"Insane\" Mode without reloading the camera battery.",
+            "primaryText": "Messiah in the Wilderness [25\u2605]\nFinish the game on \"Insane\" Mode without reloading the camera battery.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -41010,7 +41010,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Circle Pit \u2605 25\nBeat the true last boss without any damage. / Reach a score of 10'000'000.",
+            "primaryText": "Circle Pit [25\u2605]\nBeat the true last boss without any damage. / Reach a score of 10'000'000.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -41064,7 +41064,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Nightmare Kitchen \u2605 15\nObtain 4 Stars on all \"Extra\" and \"DLC\" stages.\n\nMaster Chef \u2605 10\nObtain 4 stars on every base game stage (180 total stars).\n\nIt's ******* RAW!!! \u2605 5\nGet 3 stars on all levels and \"perfect\" all \"horde\" stages (Includes all DLC).",
+            "primaryText": "Nightmare Kitchen [15\u2605]\nObtain 4 Stars on all \"Extra\" and \"DLC\" stages.\n\nMaster Chef [10\u2605]\nObtain 4 stars on every base game stage (180 total stars).\n\nIt's ******* RAW!!! [5\u2605]\nGet 3 stars on all levels and \"perfect\" all \"horde\" stages (Includes all DLC).",
             "community": 0,
             "communityText": "",
             "achievements": 54
@@ -41118,7 +41118,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Tipping Point \u2605 15\nCreate a 10 petal flower.",
+            "primaryText": "Tipping Point [15\u2605]\nCreate a 10 petal flower.",
             "community": 0,
             "communityText": "",
             "achievements": 5
@@ -41172,7 +41172,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Power Plant \u2605 5\nProve yourself.",
+            "primaryText": "Power Plant [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -41226,7 +41226,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cruising Under It \u2605 50\nObtain all medals in every level.",
+            "primaryText": "Cruising Under It [50\u2605]\nObtain all medals in every level.",
             "community": 5,
             "communityText": "Acceleration Avenue\nObtain all medals on every level (including \"A Glowing Light, A Promise\") with the Core Engine.\n\nBackwards Boulevard\nObtain all medals on every level (including \"A Glowing Light, A Promise\") with the Memory Lens.\n\nLightspeed Lane\nObtain all medals on every level (including \"A Glowing Light, A Promise\") with the Hare Engine.\n\nOne-Way Wonder\nComplete Expedition Mode with the highest possible score.\n\nShuffle Street\nObtain all medals on every level (including \"A Glowing Light, A Promise\") with the Scramble Lens.",
             "achievements": 28
@@ -41276,7 +41276,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Overtuned \u2605 40 (Partial: \u2605 15)\nComplete the game with every class archetype.",
+            "primaryText": "Overtuned[40\u2605  (Partial: 15\u2605)]\nComplete the game with every class archetype.",
             "community": 0,
             "communityText": "",
             "achievements": 4
@@ -41330,7 +41330,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hive Buster \u2605 30 (Partial: \u2605 10)\nBeat New Game+.",
+            "primaryText": "Hive Buster[30\u2605  (Partial: 10\u2605)]\nBeat New Game+.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -41384,7 +41384,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "OVERPOWERED \u2605 5\nGet an S rank with every ship.",
+            "primaryText": "OVERPOWERED [5\u2605]\nGet an S rank with every ship.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -41439,7 +41439,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "3,333,360 \u2605 15\nObtain an S-rank in score attack on every Extreme stage.\n\nPac-Man Fever \u2605 15\nClear area 6-15 in adventure mode.",
+            "primaryText": "3,333,360 [15\u2605]\nObtain an S-rank in score attack on every Extreme stage.\n\nPac-Man Fever [15\u2605]\nClear area 6-15 in adventure mode.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -41493,7 +41493,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Petrify \u2605 10\nComplete all speedrun achievements.",
+            "primaryText": "Petrify [10\u2605]\nComplete all speedrun achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 41
@@ -41547,7 +41547,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Party Animal \u2605 10\nGet the good ending and all 24 story points.",
+            "primaryText": "Party Animal [10\u2605]\nGet the good ending and all 24 story points.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -41601,7 +41601,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Tales from the Underworld \u2605 15\nComplete Beneath on Singleplayer mode. \n\nFree Bird \u2605 25\n In Challenge Mode, complete the Biker Bar and Saloon within 3:30m, and the prision within 2:30m. / Complete Arena challenge 1 within 9:30m. / Complete all Arena challenges. ",
+            "primaryText": "Tales from the Underworld [15\u2605]\nComplete Beneath on Singleplayer mode. \n\nFree Bird [25\u2605]\n In Challenge Mode, complete the Biker Bar and Saloon within 3:30m, and the prision within 2:30m. / Complete Arena challenge 1 within 9:30m. / Complete all Arena challenges. ",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -41655,7 +41655,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Immortal Conganoid \u2605 5\nLoop the game 3 times.",
+            "primaryText": "Immortal Conganoid [5\u2605]\nLoop the game 3 times.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -41709,7 +41709,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fright and Flight \u2605 10\nEarn 100% completion in the game and beat Saw Speedway in under 20 seconds.",
+            "primaryText": "Fright and Flight [10\u2605]\nEarn 100% completion in the game and beat Saw Speedway in under 20 seconds.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -41763,7 +41763,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Paperpaw \u2605 30 (Partial: \u2605 5)\nClear all encores.\n\nPaperball Rocket \u2605 25 (Partial: \u2605 5)\nGet All Platinum Medals in Medal Mode.",
+            "primaryText": "Paperpaw[30\u2605  (Partial: 5\u2605)]\nClear all encores.\n\nPaperball Rocket[25\u2605  (Partial: 5\u2605)]\nGet All Platinum Medals in Medal Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -41782,7 +41782,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 50,
+        "playersTotal": 51,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -41817,7 +41817,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Picky Eater \u2605 15\nBeat the game without taking any items.\n\nAtonement \u2605 10\nProve yourself.",
+            "primaryText": "Picky Eater [15\u2605]\nBeat the game without taking any items.\n\nAtonement [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -41871,7 +41871,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Monster Hunter \u2605 5\nGet a Gold medal on all 21 challenges.",
+            "primaryText": "Monster Hunter [5\u2605]\nGet a Gold medal on all 21 challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -41925,7 +41925,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Anas Platyrhynchos \u2605 10\nS rank all fights and modes in Arcade mode.\n\nDuck, Dodge, Dip, Dive, and Duck. \u2605 10\nDefeat all arcade mode bosses without getting hit.",
+            "primaryText": "Anas Platyrhynchos [10\u2605]\nS rank all fights and modes in Arcade mode.\n\nDuck, Dodge, Dip, Dive, and Duck. [10\u2605]\nDefeat all arcade mode bosses without getting hit.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -41979,7 +41979,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Firing on All Axons \u2605 50\nProve yourself.",
+            "primaryText": "Firing on All Axons [50\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -42033,7 +42033,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Chesslands Grandmaster \u2605 40\nComplete all dungeons with every class on Chain X.\n\nUnchained \u2605 10\nComplete all dungeons with every class on Chain V.",
+            "primaryText": "Chesslands Grandmaster [40\u2605]\nComplete all dungeons with every class on Chain X.\n\nUnchained [10\u2605]\nComplete all dungeons with every class on Chain V.",
             "community": 1,
             "communityText": "Made of Chains\nComplete all dungeons with every class on Chain X without using quit to menu.",
             "achievements": 18
@@ -42052,7 +42052,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 12,
-        "playersTotal": 891,
+        "playersTotal": 892,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -42087,7 +42087,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "One Down Wonder \u2605 60\nComplete the following heists on the Death Sentence difficulty with the One Down mechanic activated.\n\nMaster Robber \u2605 40\nProve yourself.",
+            "primaryText": "One Down Wonder [60\u2605]\nComplete the following heists on the Death Sentence difficulty with the One Down mechanic activated.\n\nMaster Robber [40\u2605]\nProve yourself.",
             "community": 2,
             "communityText": "I NEED A MEDIC BAG!\nComplete all other contracts on the Death Sentence difficulty with the One Down mechanic activated.\n\nPatient Criminal\nProve yourself.",
             "achievements": 1328
@@ -42106,7 +42106,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 41,
         "playersStarted": 7,
-        "playersTotal": 390,
+        "playersTotal": 391,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -42141,7 +42141,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Crime Spree \u2605 30\nComplete all Overkill 145+ achievements.\n\nThieving With Finesse \u2605 10\nProve yourself.",
+            "primaryText": "Crime Spree [30\u2605]\nComplete all Overkill 145+ achievements.\n\nThieving With Finesse [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 56
@@ -42195,7 +42195,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Clash of Titans \u2605 180\nComplete Free Solo mode with Avian Chaos enabled.\n\nPeak Performance \u2605 70\nSummit all peaks in Free Solo mode.\n\nFree Solo \u2605 70\nSummit all peaks without ropes.\n\nTempest Tamer \u2605 20\nComplete Solemn Tempest without safety harness.\n\nGetting Over It \u2605 20\nBeat all speedruns and summit all Advanced climbs and Great Bulwark without safety harness.",
+            "primaryText": "Clash of Titans [180\u2605]\nComplete Free Solo mode with Avian Chaos enabled.\n\nPeak Performance [70\u2605]\nSummit all peaks in Free Solo mode.\n\nFree Solo [70\u2605]\nSummit all peaks without ropes.\n\nTempest Tamer [20\u2605]\nComplete Solemn Tempest without safety harness.\n\nGetting Over It [20\u2605]\nBeat all speedruns and summit all Advanced climbs and Great Bulwark without safety harness.",
             "community": 0,
             "communityText": "",
             "achievements": 53
@@ -42249,7 +42249,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Peggle Grandmaster \u2605 10\nEarn the trophy for clearing all of the pegs in every level.\n\nPeggle Master \u2605 20\nEarn the trophy for completing all of the challenges.",
+            "primaryText": "Peggle Grandmaster [10\u2605]\nEarn the trophy for clearing all of the pegs in every level.\n\nPeggle Master [20\u2605]\nEarn the trophy for completing all of the challenges.",
             "community": 1,
             "communityText": "EXTREM PEGGING\nClear all of the pegs in every level without the use of the Claude's flippers cheat.",
             "achievements": 0
@@ -42303,7 +42303,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Peggle Champion \u2605 25\nEarn the trophy for completing all of the challenges.\n\nPeggle Ace \u2605 20\nEarn the trophy for beating the Ace score on every level (including Spring levels).\n\nPeggle Vanquisher \u2605 20\nEarn the trophy for clearing all of the pegs in every level (including Spring levels).",
+            "primaryText": "Peggle Champion [25\u2605]\nEarn the trophy for completing all of the challenges.\n\nPeggle Ace [20\u2605]\nEarn the trophy for beating the Ace score on every level (including Spring levels).\n\nPeggle Vanquisher [20\u2605]\nEarn the trophy for clearing all of the pegs in every level (including Spring levels).",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -42357,7 +42357,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Killer Driller \u2605 5\nEarn all Gold Medal records.",
+            "primaryText": "Killer Driller [5\u2605]\nEarn all Gold Medal records.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -42411,7 +42411,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Optimal Mechanism \u2605 15 (Partial: \u2605 5)\nGet a gold medal on all 70 main stages and all \"Gold Run\" levels. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Optimal Mechanism[15\u2605  (Partial: 5\u2605)]\nGet a gold medal on all 70 main stages and all \"Gold Run\" levels. *Partial points are awarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -42465,7 +42465,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Knocking on Death's Door \u2605 10\nDefeat the Reaper on Merciless.",
+            "primaryText": "Knocking on Death's Door [10\u2605]\nDefeat the Reaper on Merciless.",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -42519,7 +42519,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Black Lotus \u2605 130\nBeat the game on Nightmare difficulty.\n\nFlower Power \u2605 80\nDefeat Arlet and Hyper Lilibri/Final Daize on Grandmaster difficulty without using a continue.\n\nPetal Prodigy \u2605 20\nUnlock Grandmaster difficulty by scoring over 100,000 points in Story Mode.\n\nPetal to the Metal \u2605 70\nProve yourself.",
+            "primaryText": "Black Lotus [130\u2605]\nBeat the game on Nightmare difficulty.\n\nFlower Power [80\u2605]\nDefeat Arlet and Hyper Lilibri/Final Daize on Grandmaster difficulty without using a continue.\n\nPetal Prodigy [20\u2605]\nUnlock Grandmaster difficulty by scoring over 100,000 points in Story Mode.\n\nPetal to the Metal [70\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Deflowered\nDefeat a CPU on skull difficulty.",
             "achievements": 27
@@ -42573,7 +42573,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Pugtastic \u2605 20\nBeat all levels on Pug Mode.",
+            "primaryText": "Pugtastic [20\u2605]\nBeat all levels on Pug Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 58
@@ -42627,7 +42627,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "One More Encore (UNCLEARED) \u2605 1\nObtain an SSS rank or higher on all songs.\n\nGrand Pianist \u2605 20\nObtain an SS rank or higher on all songs.\n\nPhilharmonic \u2605 20\nObtain an S rank or higher on all songs.\n\nPolyphonic \u2605 10\nObtain a B+ rank or higher or more on all songs.",
+            "primaryText": "One More Encore (UNCLEARED) [1\u2605]\nObtain an SSS rank or higher on all songs.\n\nGrand Pianist [20\u2605]\nObtain an SS rank or higher on all songs.\n\nPhilharmonic [20\u2605]\nObtain an S rank or higher on all songs.\n\nPolyphonic [10\u2605]\nObtain a B+ rank or higher or more on all songs.",
             "community": 1,
             "communityText": "Concerto of the Century (UNCLEARED)\nObtain a U rank on all songs.",
             "achievements": 27
@@ -42681,7 +42681,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Coloring Pixels \u2605 5\nComplete each of the sprint challenges within the specified times.",
+            "primaryText": "Coloring Pixels [5\u2605]\nComplete each of the sprint challenges within the specified times.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -42700,7 +42700,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 58,
+        "playersTotal": 59,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -42735,7 +42735,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Best Damn Pirate \u2605 5\nReach level 9 in Hyper Mode.",
+            "primaryText": "Best Damn Pirate [5\u2605]\nReach level 9 in Hyper Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -42784,7 +42784,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Pivotologist \u2605 10\nSurvive for 100 seconds in Random Expert Endless. / Survive for 100 seconds in Berserk. / Complete the Expert Voyage mode without dying.",
+            "primaryText": "Pivotologist [10\u2605]\nSurvive for 100 seconds in Random Expert Endless. / Survive for 100 seconds in Berserk. / Complete the Expert Voyage mode without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 8
@@ -42838,7 +42838,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ducks in a Row \u2605 10\nProve yourself.",
+            "primaryText": "Ducks in a Row [10\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Perfect Pix\nAchieve 100% in-game progress.",
             "achievements": 11
@@ -42892,7 +42892,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Thirty Minutes or It's Free \u2605 40\nObtain a P rank on every non-boss fight related level.\n\nChef's Kiss \u2605 10\nObtain a P rank on every boss fight level.",
+            "primaryText": "Thirty Minutes or It's Free [40\u2605]\nObtain a P rank on every non-boss fight related level.\n\nChef's Kiss [10\u2605]\nObtain a P rank on every boss fight level.",
             "community": 2,
             "communityText": "Pineapples on Pizza\nBeat lap 3 on all non-boss levels. Use the mod \"Lap 3\" by Wariopiler, link in the requirements.\n\nPizza Primavera\nObtain the John Suit by reaching the true ending in 2 hours and 15 minutes or less.",
             "achievements": 72
@@ -42946,7 +42946,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Tungsten Cube \u2605 80\nComplete every level on Impossible Mode.\n\nOn Edge \u2605 5\nObtain a gold medal on all levels in Time Trial Mode.\n\nWiped Off the 6 Faces of the Earth \u2605 10\nSeparately, beat the game and obtain all collectibles.",
+            "primaryText": "Tungsten Cube [80\u2605]\nComplete every level on Impossible Mode.\n\nOn Edge [5\u2605]\nObtain a gold medal on all levels in Time Trial Mode.\n\nWiped Off the 6 Faces of the Earth [10\u2605]\nSeparately, beat the game and obtain all collectibles.",
             "community": 1,
             "communityText": "Cube Laude\nComplete every level on Impossible mode while getting all collectibles.",
             "achievements": 40
@@ -43000,7 +43000,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Pillar Man \u2605 5\nBeat the game on Hardcore.\n\nPlatFormer \u2605 5\nBeat the main game and the bonus levels on Normal and Hard.",
+            "primaryText": "Pillar Man [5\u2605]\nBeat the game on Hardcore.\n\nPlatFormer [5\u2605]\nBeat the main game and the bonus levels on Normal and Hard.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -43049,7 +43049,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Plugman's Peril \u2605 65\nComplete Hard Mode without dying.",
+            "primaryText": "Plugman's Peril [65\u2605]\nComplete Hard Mode without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -43103,7 +43103,7 @@ var data =
         },
         "milestones": {
             "primary": 9,
-            "primaryText": "Prismatic Champion \u2605 120\nEarn five Rainbow Gems in your stats page by achieving a total time of 17 minutes or less across all levels.\n\nPerfect Dismount \u2605 80\nEarn the Rainbow Gem for Survival Mode by completing it without losing any lives. Quit to menu is disallowed.\n\nPogo King \u2605 40\nEarn four Rainbow Gems in your stats page by achieving a total time of 18 minutes or less across all levels.\n\nStick the Landing \u2605 20\nComplete Survival Mode. Quit to menu is disallowed.\n\nPogo Knight \u2605 20\nEarn three Rainbow Gems in your stats page by achieving a total time of 19 minutes or less across all levels.\n\nPogo Peon \u2605 20\nEarn two Rainbow Gems in your stats page by achieving a total time of 20 minutes or less across all levels.\n\nPogo Scamp \u2605 25\nEarn a Rainbow Gem in your stats page by achieving a total time of 21 minutes or less across all levels.\n\nSpringing Forth \u2605 15\nBeat the rainbow time on every level.\n\nPogo Star \u2605 10\nBeat the 3 star time on every level.",
+            "primaryText": "Prismatic Champion [120\u2605]\nEarn five Rainbow Gems in your stats page by achieving a total time of 17 minutes or less across all levels.\n\nPerfect Dismount [80\u2605]\nEarn the Rainbow Gem for Survival Mode by completing it without losing any lives. Quit to menu is disallowed.\n\nPogo King [40\u2605]\nEarn four Rainbow Gems in your stats page by achieving a total time of 18 minutes or less across all levels.\n\nStick the Landing [20\u2605]\nComplete Survival Mode. Quit to menu is disallowed.\n\nPogo Knight [20\u2605]\nEarn three Rainbow Gems in your stats page by achieving a total time of 19 minutes or less across all levels.\n\nPogo Peon [20\u2605]\nEarn two Rainbow Gems in your stats page by achieving a total time of 20 minutes or less across all levels.\n\nPogo Scamp [25\u2605]\nEarn a Rainbow Gem in your stats page by achieving a total time of 21 minutes or less across all levels.\n\nSpringing Forth [15\u2605]\nBeat the rainbow time on every level.\n\nPogo Star [10\u2605]\nBeat the 3 star time on every level.",
             "community": 3,
             "communityText": "Outshined\nBeat or tie ilikeshiny's time on every level.\n\nPogomaniacal\nAchieve a total time of less than 16 minutes across all levels. \n\nShinier\nBeat ilikeshiny's Survival Mode time.",
             "achievements": 40
@@ -43158,7 +43158,7 @@ var data =
         },
         "milestones": {
             "primary": 6,
-            "primaryText": "Pogo Legend \u2605 150\nComplete the legend exam and become a pogo legend.\n\nPogo Professional \u2605 75\nComplete all of the hardest Legend Exam requirements.\n\nPogo Master \u2605 35\nObtain all blue achievements, all map 1&2 collectibles, and level 200.\n\nPogo Expert \u2605 55\nBeat map 2 in regular mode.\n\nPogo Adept \u2605 35\nBeat map 3 in regular mode.\n\nPogo Novice \u2605 25\nBeat map 1 in regular mode.",
+            "primaryText": "Pogo Legend [150\u2605]\nComplete the legend exam and become a pogo legend.\n\nPogo Professional [75\u2605]\nComplete all of the hardest Legend Exam requirements.\n\nPogo Master [35\u2605]\nObtain all blue achievements, all map 1&2 collectibles, and level 200.\n\nPogo Expert [55\u2605]\nBeat map 2 in regular mode.\n\nPogo Adept [35\u2605]\nBeat map 3 in regular mode.\n\nPogo Novice [25\u2605]\nBeat map 1 in regular mode.",
             "community": 5,
             "communityText": "Pogo Innovator \nBeat map 3 without using boosts in regular mode.\n\nPogo Lightning\nComplete map 1 in regular mode in under 3 minutes.\n\nPogo Overachiever\nBeat the Developer's time on each map and mode.\n\nPogo Savant\nClear map 1 while both the map and your character are invisible. See verification requirements for list of restrictions.\n\nPogo Stealth\nClear each map while your character is invisible. See verification requirements for list of restrictions.",
             "achievements": 68
@@ -43212,7 +43212,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Totally Tubular \u2605 25\nAchieve a perfect set.\n\nOne Cursor to Rule Them All \u2605 10\nComplete the game 3 times.",
+            "primaryText": "Totally Tubular [25\u2605]\nAchieve a perfect set.\n\nOne Cursor to Rule Them All [10\u2605]\nComplete the game 3 times.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -43266,7 +43266,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Clean the Table (UNCLEARED) \u2605 1\nGet all Gold medals on hard mode.\n\n8-Ball \u2605 15\nProve yourself.",
+            "primaryText": "Clean the Table (UNCLEARED) [1\u2605]\nGet all Gold medals on hard mode.\n\n8-Ball [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -43285,7 +43285,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 350,
         "playersStarted": 0,
-        "playersTotal": 1302,
+        "playersTotal": 1303,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -43320,7 +43320,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "I'm Doing Science \u2605 5\nEarn gold medals on all challenges. / Beat all advanced maps.",
+            "primaryText": "I'm Doing Science [5\u2605]\nEarn gold medals on all challenges. / Beat all advanced maps.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -43374,7 +43374,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "You should have signed my petition \u2605 10\nBeat the original and DLC campaigns on \"POSTAL\" or harder difficulty.",
+            "primaryText": "You should have signed my petition [10\u2605]\nBeat the original and DLC campaigns on \"POSTAL\" or harder difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 89
@@ -43429,7 +43429,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Going Postal \u2605 10\nProve yourself.",
+            "primaryText": "Going Postal [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -43483,7 +43483,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Kareful Krog \u2605 10\nComplete the game without dying (any difficulty).",
+            "primaryText": "Kareful Krog [10\u2605]\nComplete the game without dying (any difficulty).",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -43537,7 +43537,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rainbow Hellslinger \u2605 40\nDefeat all bosses.",
+            "primaryText": "Rainbow Hellslinger [40\u2605]\nDefeat all bosses.",
             "community": 0,
             "communityText": "",
             "achievements": 3
@@ -43554,9 +43554,9 @@ var data =
         "points": 5,
         "createdAt": "2020-01-28T09:37:52.000Z",
         "updatedAt": "2024-09-28T16:51:24.000Z",
-        "playersCompleted": 187,
+        "playersCompleted": 188,
         "playersStarted": 0,
-        "playersTotal": 304,
+        "playersTotal": 305,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -43591,7 +43591,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Meet the Arrows \u2605 5\nSurvive 60 seconds on all difficulties.",
+            "primaryText": "Meet the Arrows [5\u2605]\nSurvive 60 seconds on all difficulties.",
             "community": 0,
             "communityText": "",
             "achievements": 4
@@ -43645,7 +43645,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Swagthulhu Cometh \u2605 25\nReach level 11. / Score a PERFECT at level 5. / Score at least 3.000.000. / Beat the True Last Boss.",
+            "primaryText": "Swagthulhu Cometh [25\u2605]\nReach level 11. / Score a PERFECT at level 5. / Score at least 3.000.000. / Beat the True Last Boss.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -43699,7 +43699,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ahead of the Dev \u2605 10\nBeat the developer in all timed challenges.",
+            "primaryText": "Ahead of the Dev [10\u2605]\nBeat the developer in all timed challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -43753,7 +43753,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "From Cute to Brute \u2605 35\nComplete the game on Ultra Nightmare difficulty without continues.\n\nPawcifist \u2605 15\nComplete the game in Pacifist mode without continues.\n\nBark'Em Up \u2605 5\nProve yourself.",
+            "primaryText": "From Cute to Brute [35\u2605]\nComplete the game on Ultra Nightmare difficulty without continues.\n\nPawcifist [15\u2605]\nComplete the game in Pacifist mode without continues.\n\nBark'Em Up [5\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Pawching Bag\nComplete the game on Ultra Nightmare difficulty without killing any enemies. (Continues allowed)",
             "achievements": 30
@@ -43807,7 +43807,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "AT THIS TIME OF YEAR, AT THIS TIME OF DAY, IN THIS PART OF THE COUNTRY, LOCALIZED ENTIRELY WITHIN YOUR KITCHEN!? \u2605 10\nDefeat Lord Nutmeg.\n\nAnti Oinksident (UNCLEARED) \u2605 1\nDefeat Lord Nutmeg in arcade mode.\n\nFun Gal Friendsy (UNCLEARED) \u2605 1\nAchieve 100% completion.",
+            "primaryText": "AT THIS TIME OF YEAR, AT THIS TIME OF DAY, IN THIS PART OF THE COUNTRY, LOCALIZED ENTIRELY WITHIN YOUR KITCHEN!? [10\u2605]\nDefeat Lord Nutmeg.\n\nAnti Oinksident (UNCLEARED) [1\u2605]\nDefeat Lord Nutmeg in arcade mode.\n\nFun Gal Friendsy (UNCLEARED) [1\u2605]\nAchieve 100% completion.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -43861,7 +43861,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Whack A Pack \u2605 10\nUnlock every single star in the challenges.",
+            "primaryText": "Whack A Pack [10\u2605]\nUnlock every single star in the challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -43915,7 +43915,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Plus Ultra Pizza \u2605 5\nBeat the main game and Boss Rush mode on \"Ultra\" difficulty.\n\nSpace Pizza \u2605 5\nProve yourself.",
+            "primaryText": "Plus Ultra Pizza [5\u2605]\nBeat the main game and Boss Rush mode on \"Ultra\" difficulty.\n\nSpace Pizza [5\u2605]\nProve yourself.",
             "community": 2,
             "communityText": "Galactic Conqueror\nBeat the main game on \"Ultra\" without using any continues.\n\nInner Power\nBeat the main game without using any continues, bombs or power ups (any difficulty).",
             "achievements": 22
@@ -43969,7 +43969,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Lost Your Marbles \u2605 25\nObtain all survival medals.",
+            "primaryText": "Lost Your Marbles [25\u2605]\nObtain all survival medals.",
             "community": 0,
             "communityText": "",
             "achievements": 9
@@ -44023,7 +44023,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cave Robber \u2605 5\nWin all 50 stars.",
+            "primaryText": "Cave Robber [5\u2605]\nWin all 50 stars.",
             "community": 0,
             "communityText": "",
             "achievements": 9
@@ -44077,7 +44077,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Vaporwave Maze Game \u2605 5\nDefeat Baphomet and complete the game.",
+            "primaryText": "Vaporwave Maze Game [5\u2605]\nDefeat Baphomet and complete the game.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -44131,7 +44131,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Match Made in Heaven \u2605 25 (Partial: \u2605 10)\nReach a completion rate of 219% in Adventure mode.",
+            "primaryText": "Match Made in Heaven[25\u2605  (Partial: 10\u2605)]\nReach a completion rate of 219% in Adventure mode.",
             "community": 0,
             "communityText": "",
             "achievements": 43
@@ -44185,7 +44185,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Petris \u2605 20 (Partial: \u2605 5)\nReach a completion rate of 130% in Adventure mode.",
+            "primaryText": "Petris[20\u2605  (Partial: 5\u2605)]\nReach a completion rate of 130% in Adventure mode.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -44239,7 +44239,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Reinvent the Wheel \u2605 10\nObtain both endings in under 4 hours.\n\nQ \u2605 20\nComplete the final bonus level.\n\nSmooth Moves \u2605 10\nObtain the dark ending.\n\nSquare Peg, Round Hole \u2605 10\nBeat the game.",
+            "primaryText": "Reinvent the Wheel [10\u2605]\nObtain both endings in under 4 hours.\n\nQ [20\u2605]\nComplete the final bonus level.\n\nSmooth Moves [10\u2605]\nObtain the dark ending.\n\nSquare Peg, Round Hole [10\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -44293,7 +44293,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Q Did It! \u2605 30\nComplete all levels. / Complete 300 levels in one move.\n\nQve Yourself \u2605 20\nProve yourself.",
+            "primaryText": "Q Did It! [30\u2605]\nComplete all levels. / Complete 300 levels in one move.\n\nQve Yourself [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 52
@@ -44347,7 +44347,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Galactic Pudding Guardian \u2605 20\nBeat Arcade mode on Super difficulty.\n\nI Love Pudding \u2605 25\nProve yourself.",
+            "primaryText": "Galactic Pudding Guardian [20\u2605]\nBeat Arcade mode on Super difficulty.\n\nI Love Pudding [25\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -44401,7 +44401,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Phase Two \u2605 10\nSeparately, complete all levels in the DLC campaign with the shifts goal, within the goal time, and without dying.\n\nWelcome To My Manor, Manor \u2605 10\nSeparately, complete all levels in the main game with the shifts goal, within the goal time, and without dying.",
+            "primaryText": "Phase Two [10\u2605]\nSeparately, complete all levels in the DLC campaign with the shifts goal, within the goal time, and without dying.\n\nWelcome To My Manor, Manor [10\u2605]\nSeparately, complete all levels in the main game with the shifts goal, within the goal time, and without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -44455,7 +44455,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hackathon Expert \u2605 10\nBeat the game on Ascension 4.",
+            "primaryText": "Hackathon Expert [10\u2605]\nBeat the game on Ascension 4.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -44509,7 +44509,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Quacked \u2605 10\nObtain the in-game achievement \"Not So Unlucky\" for clearing the game in under 13 minutes.",
+            "primaryText": "Quacked [10\u2605]\nObtain the in-game achievement \"Not So Unlucky\" for clearing the game in under 13 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -44563,7 +44563,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Our Adventure Continues \u2605 50\nClear a Lunar run with a perfect floof ball (no HP lost).\n\nMoonlit Warriors \u2605 30 (Partial: \u2605 15)\nClear a Lunar run with each of the 10 classes. / Separately, clear a Lunar run in a 3+ party and solo. / Clear a Hard run or higher with a perfect floof ball (no HP lost).\n\nBnuuy \u2605 25\nSeparately, beat all bosses and clear a run on Lunar.\n\nGearing Up \u2605 5\nSeparately, beat all bosses and clear a run on Hard or higher.",
+            "primaryText": "Our Adventure Continues [50\u2605]\nClear a Lunar run with a perfect floof ball (no HP lost).\n\nMoonlit Warriors[30\u2605  (Partial: 15\u2605)]\nClear a Lunar run with each of the 10 classes. / Separately, clear a Lunar run in a 3+ party and solo. / Clear a Hard run or higher with a perfect floof ball (no HP lost).\n\nBnuuy [25\u2605]\nSeparately, beat all bosses and clear a run on Lunar.\n\nGearing Up [5\u2605]\nSeparately, beat all bosses and clear a run on Hard or higher.",
             "community": 3,
             "communityText": "\"To me, my allies!\"\nClear a Lunar run with the \"fullmetal\" mod activated.\n\nGarnet Secondary\nClear a Lunar run with the \"double time\" mod activated at 2x speed or higher.\n\nSteel Yourself\nClear a Lunar run with the 'Steelheart' mod activated.",
             "achievements": 32
@@ -44618,7 +44618,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Down the Rabbit Hole \u2605 5\nBeat the game.",
+            "primaryText": "Down the Rabbit Hole [5\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -44672,7 +44672,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Master of Rabi Rabi Island \u2605 50\nBeat all 10 chapters in Impossible mode.\n\nBunnylicious \u2605 50\nClear the True Boss Rush in Bunny Extinction Mode. / Finish Chapter \"Finding Memories\" in Bunny Extinction mode. / Defeat the powered up versions of Erina, Saya and Lilli & Pixie in Bunny Extinction mode.\n\nNot Another Visual Novel \u2605 30\nProve yourself.\n\nFan Service \u2605 10\n100% items and maps as Cocoa, then defeat the powered up version of Chapter 10 Boss in BEX mode.\n\nThe Cutest Bunny \u2605 10\n Beat chapter 8 with 0% items. / Collect 20 rainbow eggs with 0% items. / Recruit Keke Bunny with 0% items.",
+            "primaryText": "Master of Rabi Rabi Island [50\u2605]\nBeat all 10 chapters in Impossible mode.\n\nBunnylicious [50\u2605]\nClear the True Boss Rush in Bunny Extinction Mode. / Finish Chapter \"Finding Memories\" in Bunny Extinction mode. / Defeat the powered up versions of Erina, Saya and Lilli & Pixie in Bunny Extinction mode.\n\nNot Another Visual Novel [30\u2605]\nProve yourself.\n\nFan Service [10\u2605]\n100% items and maps as Cocoa, then defeat the powered up version of Chapter 10 Boss in BEX mode.\n\nThe Cutest Bunny [10\u2605]\n Beat chapter 8 with 0% items. / Collect 20 rainbow eggs with 0% items. / Recruit Keke Bunny with 0% items.",
             "community": 2,
             "communityText": "throw new outOfProjectilesException(\"BUNdefined\")\nBeat all 10 chapters in X-Bunny mode.\n\nTrue Bunny Lover\nGet all achievements.",
             "achievements": 220
@@ -44727,7 +44727,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sun Chaser \u2605 20\nProve yourself.",
+            "primaryText": "Sun Chaser [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -44781,7 +44781,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Concentric Cascade \u2605 170\nComplete all Overflow difficulty levels.\n\nDiametric Deluge \u2605 60\nComplete all Extreme difficulty levels.\n\nRadial Riptide \u2605 35\nComplete all Hard difficulty levels.\n\nChord Current \u2605 5\nComplete all Easy and Medium difficulty levels.",
+            "primaryText": "Concentric Cascade [170\u2605]\nComplete all Overflow difficulty levels.\n\nDiametric Deluge [60\u2605]\nComplete all Extreme difficulty levels.\n\nRadial Riptide [35\u2605]\nComplete all Hard difficulty levels.\n\nChord Current [5\u2605]\nComplete all Easy and Medium difficulty levels.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -44835,7 +44835,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Iron Chef \u2605 5\nBeat the game on Hardcore difficulty.\n\nRabbit Season \u2605 5\nBeat the game in under 1 hour. / Beat the game without dying.",
+            "primaryText": "Iron Chef [5\u2605]\nBeat the game on Hardcore difficulty.\n\nRabbit Season [5\u2605]\nBeat the game in under 1 hour. / Beat the game without dying.",
             "community": 1,
             "communityText": "Bon App\u00e9tit\nCollect all coins on Hardcore difficulty.",
             "achievements": 23
@@ -44889,7 +44889,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Tractor Beaming \u2605 15\nObtain 3 points on all 130 levels.",
+            "primaryText": "Tractor Beaming [15\u2605]\nObtain 3 points on all 130 levels.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -44943,7 +44943,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ra\u00b2dical \u2605 15\nObtain 3 points on all levels.",
+            "primaryText": "Ra\u00b2dical [15\u2605]\nObtain 3 points on all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 71
@@ -44997,7 +44997,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "In Memoriam Marshmallow \u2605 80\nBeat the \"Pilgrimage Run\" mode. / Get all \"It's so Fast, I'm Gonna Die\" achievements (obtain all gold medals).",
+            "primaryText": "In Memoriam Marshmallow [80\u2605]\nBeat the \"Pilgrimage Run\" mode. / Get all \"It's so Fast, I'm Gonna Die\" achievements (obtain all gold medals).",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -45051,7 +45051,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Ultimate OverKill \u2605 60\n1CC OverKill mode on \"ULTIMATE\" difficulty(changing lives/bombs is allowed).\n\nRaiden Ace \u2605 35\n1CC OverKill Mode on \"Normal\" difficulty or higher (changing lives/bombs is allowed).\n\nArcade Legend \u2605 40\n1CC Arcade Mode Original on \"Original\" difficulty or higher on default settings.\n\nBoss Rusher \u2605 15\n1CC both loops on Boss Rush Mode (changing lives/bombs is allowed).",
+            "primaryText": "Ultimate OverKill [60\u2605]\n1CC OverKill mode on \"ULTIMATE\" difficulty(changing lives/bombs is allowed).\n\nRaiden Ace [35\u2605]\n1CC OverKill Mode on \"Normal\" difficulty or higher (changing lives/bombs is allowed).\n\nArcade Legend [40\u2605]\n1CC Arcade Mode Original on \"Original\" difficulty or higher on default settings.\n\nBoss Rusher [15\u2605]\n1CC both loops on Boss Rush Mode (changing lives/bombs is allowed).",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -45105,7 +45105,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mountain of Chaos \u2605 5\nFully complete the game.",
+            "primaryText": "Mountain of Chaos [5\u2605]\nFully complete the game.",
             "community": 0,
             "communityText": "",
             "achievements": 4
@@ -45159,7 +45159,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Noblest Sacrifice (S) (UNVALUED) \u2605 1\nBeat the game as the Hunter with all 14 passages and all main objectives complete.\n\nThanks Andrew \u2605 35\nBeat the game as the secret Inverted Slugcat.\n\nTriple Affirmative \u2605 30\nBeat all 70 Challenges.\n\nCyclic Dancer \u2605 45\nBeat the game as the Hunter, Gourmand, Artificer, Rivulet, Spearmaster, and Saint.\n\nKarmic Reunion \u2605 5\nBeat the game as either the Monk or Survivor.",
+            "primaryText": "Noblest Sacrifice (S) (UNVALUED) [1\u2605]\nBeat the game as the Hunter with all 14 passages and all main objectives complete.\n\nThanks Andrew [35\u2605]\nBeat the game as the secret Inverted Slugcat.\n\nTriple Affirmative [30\u2605]\nBeat all 70 Challenges.\n\nCyclic Dancer [45\u2605]\nBeat the game as the Hunter, Gourmand, Artificer, Rivulet, Spearmaster, and Saint.\n\nKarmic Reunion [5\u2605]\nBeat the game as either the Monk or Survivor.",
             "community": 5,
             "communityText": "Random God\nComplete all Expedition Missions and Quests.\n\nEcholocation\nBeat the game as the Artificer by Ascending and meet the Submerged Superstructure Echo as the Saint.\n\nMountains Abound\nCollect every Safari unlock, visit Submerged Superstructure as every Slugcat who can, and visit every available region as Inv.\n\nRainbow Lexicon\nComplete the Collection (including all pearl variants).\n\nSlugcatalogue\nCollect every Arena, Sandbox and Slugcat unlock.",
             "achievements": 34
@@ -45177,7 +45177,7 @@ var data =
         "points": 20,
         "createdAt": "2024-01-08T15:14:33.000Z",
         "updatedAt": "2024-09-28T16:51:24.000Z",
-        "playersCompleted": 5,
+        "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 25,
         "priceData": {
@@ -45214,7 +45214,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Water Fall \u2605 20\nObtain an \"R\" rank on all Hard and Flood difficulty songs.",
+            "primaryText": "Water Fall [20\u2605]\nObtain an \"R\" rank on all Hard and Flood difficulty songs.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -45268,7 +45268,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Critter Crusher \u2605 10 (Partial: \u2605 5)\nEarn 5 skulls on all maps on Hard.\n\nVermin Supreme (UNCLEARED) \u2605 1\nEarn 5 skulls on all maps on Endless Mode.",
+            "primaryText": "Critter Crusher[10\u2605  (Partial: 5\u2605)]\nEarn 5 skulls on all maps on Hard.\n\nVermin Supreme (UNCLEARED) [1\u2605]\nEarn 5 skulls on all maps on Endless Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -45322,7 +45322,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hikeshot \u2605 5\nSeparately; complete the game in under 1 hour and collect all feathers.",
+            "primaryText": "Hikeshot [5\u2605]\nSeparately; complete the game in under 1 hour and collect all feathers.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -45376,7 +45376,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Robot Disassembler \u2605 10\nComplete the game on \"Nightmare\" difficulty.",
+            "primaryText": "Robot Disassembler [10\u2605]\nComplete the game on \"Nightmare\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 46
@@ -45431,7 +45431,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rayze Your Skills \u2605 25\nGet an S+ on every level.",
+            "primaryText": "Rayze Your Skills [25\u2605]\nGet an S+ on every level.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -45450,7 +45450,7 @@ var data =
         "updatedAt": "2024-12-07T03:50:09.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
-        "playersTotal": 96,
+        "playersTotal": 97,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -45485,7 +45485,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Synergistic Commanders (UNCLEARED) \u2605 1\nComplete all 9 stages of a multiplayer co-op campaign on Mega-Brutal difficulty.\n\nWorld Domination \u2605 25\nBeat Black Caves, Azure Dam, Opium Trail, Golden Sands, and Devil's Peak with every governor, and all maps as tank commander on Mega-Brutal difficulty.\n\nUnyielding Conquest \u2605 10\nComplete every Official Scenario on Mega-Brutal difficulty.\n\n Vive La R\u00e9sistance! \u2605 10\nBeat Campaign Mode on Mega-Brutal difficulty.\n\nFreedom's Cry \u2605 5\nBeat the first five maps with every governor on Brutal difficulty. / Beat Campaign Mode on Brutal difficulty.",
+            "primaryText": "Synergistic Commanders (UNCLEARED) [1\u2605]\nComplete all 9 stages of a multiplayer co-op campaign on Mega-Brutal difficulty.\n\nWorld Domination [25\u2605]\nBeat Black Caves, Azure Dam, Opium Trail, Golden Sands, and Devil's Peak with every governor, and all maps as tank commander on Mega-Brutal difficulty.\n\nUnyielding Conquest [10\u2605]\nComplete every Official Scenario on Mega-Brutal difficulty.\n\n Vive La R\u00e9sistance! [10\u2605]\nBeat Campaign Mode on Mega-Brutal difficulty.\n\nFreedom's Cry [5\u2605]\nBeat the first five maps with every governor on Brutal difficulty. / Beat Campaign Mode on Brutal difficulty.",
             "community": 2,
             "communityText": "Scorched Earth\nBeat all maps with all governors on Mega-Brutal difficulty.\n\nFive-Star General\nBeat Campaign Mode on Mega-Brutal difficulty with a five-star rating.",
             "achievements": 99
@@ -45503,8 +45503,8 @@ var data =
         "points": 50,
         "createdAt": "2024-06-30T20:14:32.000Z",
         "updatedAt": "2024-11-21T07:11:04.000Z",
-        "playersCompleted": 5,
-        "playersStarted": 2,
+        "playersCompleted": 6,
+        "playersStarted": 1,
         "playersTotal": 14,
         "priceData": {
             "USD": {
@@ -45540,7 +45540,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "AllStar Trip \u2605 20\nClear all individual Boss Challenges on Ultimate.\n\nBullet Bell Master \u2605 20\nClear the Boss Rush and Another Dreamers on Ultimate without continues.\n\nSwinging By \u2605 10 (Partial: \u2605 5)\nClear the Boss Rush and Another Dreamers on Very Hard without continues. (TLB not needed) / Score 100B.",
+            "primaryText": "AllStar Trip [20\u2605]\nClear all individual Boss Challenges on Ultimate.\n\nBullet Bell Master [20\u2605]\nClear the Boss Rush and Another Dreamers on Ultimate without continues.\n\nSwinging By[10\u2605  (Partial: 5\u2605)]\nClear the Boss Rush and Another Dreamers on Very Hard without continues. (TLB not needed) / Score 100B.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -45594,7 +45594,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "SRRL's Finest \u2605 45\nComplete the SRRL Career.\n\nFleeting Hope (UNCLEARED) \u2605 1\nObtain every Platinum medal.",
+            "primaryText": "SRRL's Finest [45\u2605]\nComplete the SRRL Career.\n\nFleeting Hope (UNCLEARED) [1\u2605]\nObtain every Platinum medal.",
             "community": 0,
             "communityText": "",
             "achievements": 52
@@ -45648,7 +45648,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "RhythmOut \u2605 30 (Partial: \u2605 15)\nDo not make any mistake on all levels with 5 buttons. *Partial points are awarded as progress milestone.",
+            "primaryText": "RhythmOut[30\u2605  (Partial: 15\u2605)]\nDo not make any mistake on all levels with 5 buttons. *Partial points are awarded as progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -45702,7 +45702,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Zodiac Theory \u2605 15\nGet a 1 Credit Clear.",
+            "primaryText": "Zodiac Theory [15\u2605]\nGet a 1 Credit Clear.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -45757,7 +45757,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Central Breaker \u2605 15\nClear the \u201cRe:Advanced\u201d difficulty level and watch the good ending.\n\nCentral Tactician (UNCLEARED) \u2605 1\nReach a score of 5,000,000,000 or more.\n\nNightmare of M.R.S (UNCLEARED) \u2605 1\nClear the \u201cRe:Extreme\u201d difficulty level and watch the good ending.\n\nDive (UNCLEARED) \u2605 1\nClear the Re:Advanced difficulty without losing a ship.\n\nBeyond (UNCLEARED) \u2605 1\nClear the Re:Extreme difficulty without losing a ship.",
+            "primaryText": "Central Breaker [15\u2605]\nClear the \u201cRe:Advanced\u201d difficulty level and watch the good ending.\n\nCentral Tactician (UNCLEARED) [1\u2605]\nReach a score of 5,000,000,000 or more.\n\nNightmare of M.R.S (UNCLEARED) [1\u2605]\nClear the \u201cRe:Extreme\u201d difficulty level and watch the good ending.\n\nDive (UNCLEARED) [1\u2605]\nClear the Re:Advanced difficulty without losing a ship.\n\nBeyond (UNCLEARED) [1\u2605]\nClear the Re:Extreme difficulty without losing a ship.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -45776,7 +45776,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
-        "playersTotal": 257,
+        "playersTotal": 258,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -45811,7 +45811,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Arise From the Cinders \u2605 15\nDefeat 10 bosses in a row in Survival mode.",
+            "primaryText": "Arise From the Cinders [15\u2605]\nDefeat 10 bosses in a row in Survival mode.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -45865,7 +45865,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mighty Thunder Dragon \u2605 20\nMaster every level in Purge the Remnants.",
+            "primaryText": "Mighty Thunder Dragon [20\u2605]\nMaster every level in Purge the Remnants.",
             "community": 2,
             "communityText": "Decorated Dragon\nObtain a gold medal on every level and speedrun.\n\nDragonborn\nAchieve \"Inhuman\" rank on the leaderboards.",
             "achievements": 22
@@ -45919,7 +45919,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ultimate Survivor \u2605 25\nProve yourself.",
+            "primaryText": "Ultimate Survivor [25\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Resident Expert\nComplete all primary objectives from all site-listed games in the Resident Evil franchise. See verification requirements for complete list.",
             "achievements": 44
@@ -45973,7 +45973,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "The Sheriff and the Reaper \u2605 10\nComplete \"the 4th Survivor\" extra mode. / Complete the No Way Out scenario (no training mode).\n\nA Delightful Dessert \u2605 5\nComplete \"The Extra Survivor\" extra mode as Flan Tofu.",
+            "primaryText": "The Sheriff and the Reaper [10\u2605]\nComplete \"the 4th Survivor\" extra mode. / Complete the No Way Out scenario (no training mode).\n\nA Delightful Dessert [5\u2605]\nComplete \"The Extra Survivor\" extra mode as Flan Tofu.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -46027,7 +46027,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bullet for my Valentine \u2605 5\nBeat the game on \"Inferno\" with an S rank.",
+            "primaryText": "Bullet for my Valentine [5\u2605]\nBeat the game on \"Inferno\" with an S rank.",
             "community": 1,
             "communityText": "Retail Detox\nBeat the game on \"Inferno\" without using or buying any shop items. ",
             "achievements": 32
@@ -46081,7 +46081,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Strangers Together Strong \u2605 5\nComplete the main story on Hardcore mode with S+. / Complete the Separate Ways DLC on Professional mode with S+.\n\nA Stainless Heart (UNVALUED) \u2605 1\nComplete the main story on Professional mode with an S+.",
+            "primaryText": "Strangers Together Strong [5\u2605]\nComplete the main story on Hardcore mode with S+. / Complete the Separate Ways DLC on Professional mode with S+.\n\nA Stainless Heart (UNVALUED) [1\u2605]\nComplete the main story on Professional mode with an S+.",
             "community": 0,
             "communityText": "",
             "achievements": 46
@@ -46135,7 +46135,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "A Heart of Steel \u2605 15\nClear the game on the highest difficulty.\n\nHandcannon \u2605 10\nGet 5 stars on all stages with all characters in the Mercenaries mode.",
+            "primaryText": "A Heart of Steel [15\u2605]\nClear the game on the highest difficulty.\n\nHandcannon [10\u2605]\nGet 5 stars on all stages with all characters in the Mercenaries mode.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -46189,7 +46189,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Best Birthday Ever \u2605 10\nGet an S Rank or higher on all stages in Jack's 55th Birthday.\n\nEthan Never Dies \u2605 10\nComplete Ethan Must Die.\n\nHappy Birthday! \u2605 10\nGet an SS rank on all stages in Jack's 55th Birthday.\n\nYou're the Hero Now \u2605 5\nComplete Not a Hero on Professional difficulty.",
+            "primaryText": "Best Birthday Ever [10\u2605]\nGet an S Rank or higher on all stages in Jack's 55th Birthday.\n\nEthan Never Dies [10\u2605]\nComplete Ethan Must Die.\n\nHappy Birthday! [10\u2605]\nGet an SS rank on all stages in Jack's 55th Birthday.\n\nYou're the Hero Now [5\u2605]\nComplete Not a Hero on Professional difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 58
@@ -46243,7 +46243,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Punished \u2605 20\nBeat the main game. / Destroy Algos' final form.",
+            "primaryText": "The Punished [20\u2605]\nBeat the main game. / Destroy Algos' final form.",
             "community": 0,
             "communityText": "",
             "achievements": 38
@@ -46297,7 +46297,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Reverse Engineering \u2605 20\nGet an SS rank on every level.\n\nRithmocoded \u2605 40\nBeat up to Stage 7-8 within 80 minutes. / Obtain S ranks or better on all stages up to World 9.",
+            "primaryText": "Reverse Engineering [20\u2605]\nGet an SS rank on every level.\n\nRithmocoded [40\u2605]\nBeat up to Stage 7-8 within 80 minutes. / Obtain S ranks or better on all stages up to World 9.",
             "community": 1,
             "communityText": "Two Heads Are Better Than One (POTENTIAL PO)\nGet a GOD rank on every possible level.",
             "achievements": 34
@@ -46351,7 +46351,7 @@ var data =
         },
         "milestones": {
             "primary": 6,
-            "primaryText": "Finale of Acceptance (UNCLEARED) \u2605 1\nBeat the game on shard 100.\n\nCrux of Depression (UNCLEARED) \u2605 1\nSeparately; Beat Shard 30 with every gun variant, complete the game without getting hit and complete the game on loop 5.\n\nAxis of Bargaining (UNCLEARED) \u2605 1\nProve yourself.\n\nDawn of Anger (UNCLEARED) \u2605 1\nProve yourself.\n\nInception of Denial \u2605 15\nProve yourself.\n\nStages of Grief \u2605 10\nSeparately; Beat the Last Refuge and complete the first two areas without getting hit.",
+            "primaryText": "Finale of Acceptance (UNCLEARED) [1\u2605]\nBeat the game on shard 100.\n\nCrux of Depression (UNCLEARED) [1\u2605]\nSeparately; Beat Shard 30 with every gun variant, complete the game without getting hit and complete the game on loop 5.\n\nAxis of Bargaining (UNCLEARED) [1\u2605]\nProve yourself.\n\nDawn of Anger (UNCLEARED) [1\u2605]\nProve yourself.\n\nInception of Denial [15\u2605]\nProve yourself.\n\nStages of Grief [10\u2605]\nSeparately; Beat the Last Refuge and complete the first two areas without getting hit.",
             "community": 0,
             "communityText": "",
             "achievements": 127
@@ -46406,7 +46406,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Reactor \u2605 10\nProve yourself.",
+            "primaryText": "Reactor [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 60
@@ -46423,8 +46423,8 @@ var data =
         "points": 15,
         "createdAt": "2024-12-04T15:36:37.000Z",
         "updatedAt": "2024-12-06T05:25:45.000Z",
-        "playersCompleted": 0,
-        "playersStarted": 2,
+        "playersCompleted": 1,
+        "playersStarted": 1,
         "playersTotal": 4,
         "priceData": {
             "USD": {
@@ -46460,7 +46460,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Rex Rampage \u2605 10\nBeat the game without losing 10 or more lives.\n\nRocketeer \u2605 5\nBeat the game, and collect both the Air-Talarias and Grenade Launcher.",
+            "primaryText": "Rex Rampage [10\u2605]\nBeat the game without losing 10 or more lives.\n\nRocketeer [5\u2605]\nBeat the game, and collect both the Air-Talarias and Grenade Launcher.",
             "community": 2,
             "communityText": "Rex's Royal Rampage\nBeat the game without losing a life.\n\nRocket Rush\nBeat all bosses without taking damage.",
             "achievements": 40
@@ -46515,7 +46515,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Booster Shot \u2605 10\nClear the game without taking damage, and clear Hard mode.",
+            "primaryText": "Booster Shot [10\u2605]\nClear the game without taking damage, and clear Hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -46569,7 +46569,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Polyrhythmic Practitioner \u2605 15\nGet an S+ rank on every song.",
+            "primaryText": "Polyrhythmic Practitioner [15\u2605]\nGet an S+ rank on every song.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -46623,7 +46623,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Tempo Odyssey \u2605 60\nSeparately; Complete XHARD and LONG songs at 1.5x speed and perfectly.\n\nMelody Trek \u2605 50\nSeparately; complete all bonus songs except XHARD and LONG at 1.5x speed and perfectly.\n\nSong Quest \u2605 10\nSeparately; complete all main songs at 1.5x speed and perfectly.",
+            "primaryText": "Tempo Odyssey [60\u2605]\nSeparately; Complete XHARD and LONG songs at 1.5x speed and perfectly.\n\nMelody Trek [50\u2605]\nSeparately; complete all bonus songs except XHARD and LONG at 1.5x speed and perfectly.\n\nSong Quest [10\u2605]\nSeparately; complete all main songs at 1.5x speed and perfectly.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -46677,7 +46677,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Electronic Dance Mania \u2605 5\nGet SS rank on all 15 songs on Hard.",
+            "primaryText": "Electronic Dance Mania [5\u2605]\nGet SS rank on all 15 songs on Hard.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -46731,7 +46731,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sweet Beats \u2605 30 (Partial: \u2605 10)\nCollect all 29 CD's (Partial points for 25 CD's achievement)",
+            "primaryText": "Sweet Beats[30\u2605  (Partial: 10\u2605)]\nCollect all 29 CD's (Partial points for 25 CD's achievement)",
             "community": 0,
             "communityText": "",
             "achievements": 31
@@ -46785,7 +46785,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mutator Master \u2605 40\nComplete every level with \"All Mutators Challenge\" enabled.",
+            "primaryText": "Mutator Master [40\u2605]\nComplete every level with \"All Mutators Challenge\" enabled.",
             "community": 0,
             "communityText": "",
             "achievements": 60
@@ -46840,7 +46840,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Trials and Tribulations \u2605 20\nComplete all trials.\n\nSpellslave \u2605 10\nWin five consecutive games.",
+            "primaryText": "Trials and Tribulations [20\u2605]\nComplete all trials.\n\nSpellslave [10\u2605]\nWin five consecutive games.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -46894,7 +46894,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Outrunner \u2605 20\nObtain an S rank on every possible level.\n\nPlanetary Prowess \u2605 20\nAchieve 100% in-game completion.\n\nSee It Through \u2605 10\nSee all endings.",
+            "primaryText": "Outrunner [20\u2605]\nObtain an S rank on every possible level.\n\nPlanetary Prowess [20\u2605]\nAchieve 100% in-game completion.\n\nSee It Through [10\u2605]\nSee all endings.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -46949,7 +46949,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Night and Day \u2605 10\nBeat the game on both endings in hard mode.\n\nWell Rounded \u2605 10\nProve yourself.",
+            "primaryText": "Night and Day [10\u2605]\nBeat the game on both endings in hard mode.\n\nWell Rounded [10\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Full Circle\nBeat the game on both endings in hard mode with every starting candle.",
             "achievements": 122
@@ -47003,7 +47003,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Went Through Hell and Dodged the Rain \u2605 90\nBeat the game on Hard mode.",
+            "primaryText": "Went Through Hell and Dodged the Rain [90\u2605]\nBeat the game on Hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -47057,7 +47057,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Shine on Me \u2605 20\nOpen all the chests. / Find all the secrets. / Finish the game on Ironman mode.",
+            "primaryText": "Shine on Me [20\u2605]\nOpen all the chests. / Find all the secrets. / Finish the game on Ironman mode.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -47075,8 +47075,8 @@ var data =
         "createdAt": "2022-04-06T21:49:05.000Z",
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 32,
-        "playersStarted": 13,
-        "playersTotal": 341,
+        "playersStarted": 14,
+        "playersTotal": 342,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -47111,7 +47111,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Extreme Survivor \u2605 5\nFinish the game on Extreme Survivor difficulty.\n\nGolden Child \u2605 5\nComplete every level in Score Attack with a gold score.",
+            "primaryText": "Extreme Survivor [5\u2605]\nFinish the game on Extreme Survivor difficulty.\n\nGolden Child [5\u2605]\nComplete every level in Score Attack with a gold score.",
             "community": 1,
             "communityText": "Tomb Raider\nComplete all 754 in-game challenges.",
             "achievements": 143
@@ -47165,7 +47165,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Mephisto's Puppet \u2605 10\nDefeat all bosses and complete all challenges.\n\nBurn the Gates (UNCLEARED) \u2605 1\nBeat all challenges on the maximum difficulty.\n\nJudgement Falls (UNCLEARED) \u2605 1\nBeat Agony 24 with each character.\n\nRaise Hell (UNCLEARED) \u2605 1\nObtain an S rank on all challenges on the maximum difficulty.\n\nUnderworld Usurper (UNCLEARED) \u2605 1\nBeat Agony 24.",
+            "primaryText": "Mephisto's Puppet [10\u2605]\nDefeat all bosses and complete all challenges.\n\nBurn the Gates (UNCLEARED) [1\u2605]\nBeat all challenges on the maximum difficulty.\n\nJudgement Falls (UNCLEARED) [1\u2605]\nBeat Agony 24 with each character.\n\nRaise Hell (UNCLEARED) [1\u2605]\nObtain an S rank on all challenges on the maximum difficulty.\n\nUnderworld Usurper (UNCLEARED) [1\u2605]\nBeat Agony 24.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -47219,7 +47219,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Heavy Rain \u2605 15\nComplete all in-game achievements and obtain the artifact of Origin.\n\nRainstorm \u2605 5\nCollect 4 Keycards in a single run. / Deal 5000 damage in one shot.",
+            "primaryText": "Heavy Rain [15\u2605]\nComplete all in-game achievements and obtain the artifact of Origin.\n\nRainstorm [5\u2605]\nCollect 4 Keycards in a single run. / Deal 5000 damage in one shot.",
             "community": 2,
             "communityText": "And so They Left...\nComplete all primary objectives from all site-listed games in the Risk of Rain franchise. See verification requirements for complete list.\n\nImminent Precipitation\nBeat a singleplayer game on Monsoon with every character without using any artifacts.",
             "achievements": 15
@@ -47273,7 +47273,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Clear Skies \u2605 35\nBeat the game on Eclipse 8 with REX, Commando and Mercenary.\n\nThe Raindrop That Fell to the Sky \u2605 15\nBeat the game on Eclipse 8 with any character.\n\nHailstorm \u2605 10\nBeat the game or obliterate on Monsoon with all characters (DLC included).",
+            "primaryText": "Clear Skies [35\u2605]\nBeat the game on Eclipse 8 with REX, Commando and Mercenary.\n\nThe Raindrop That Fell to the Sky [15\u2605]\nBeat the game on Eclipse 8 with any character.\n\nHailstorm [10\u2605]\nBeat the game or obliterate on Monsoon with all characters (DLC included).",
             "community": 3,
             "communityText": "Cosmic Odyssey\nBeat the game on Eclipse 8 with every character except REX, Commando, and the Heretic.\n\nThe Face of the Deep\nReach The Planetarium and defeat the alternate final boss on Eclipse 8 with any character.\n\nUnorthodoxy Risen\nBeat the game on Eclipse 8 with the Heretic.",
             "achievements": 118
@@ -47328,7 +47328,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Hand of Providence \u2605 20 (Partial: \u2605 5)\nObtain the golden rank in all Providence Trials except \"Judgement\". *Partial points are rewarded as a progress milestone.\n\nIn the Hall of the Monsoon King \u2605 20\nBeat \"Judgement\" with all characters. \n\nFractured Skies \u2605 5\nProve yourself. ",
+            "primaryText": "Hand of Providence[20\u2605  (Partial: 5\u2605)]\nObtain the golden rank in all Providence Trials except \"Judgement\". *Partial points are rewarded as a progress milestone.\n\nIn the Hall of the Monsoon King [20\u2605]\nBeat \"Judgement\" with all characters. \n\nFractured Skies [5\u2605]\nProve yourself. ",
             "community": 3,
             "communityText": "Eye of the Storm\nBeat the game on \"Monsoon\" difficulty with all characters on solo and without using any artifacts or modifying the damage you take or deal. \n\nMayonnaise Soup\nBeat the game on \"Monsoon\" difficulty with all artifacts on and without modifying the damage you take or deal.\n\nTop Tier Model\nBeat \"Judgement\" with Robomando.",
             "achievements": 155
@@ -47382,7 +47382,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Risk It All \u2605 25\nEnding A All S Rank. / Achieve S Rank on the Trophaeum.",
+            "primaryText": "Risk It All [25\u2605]\nEnding A All S Rank. / Achieve S Rank on the Trophaeum.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -47436,7 +47436,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rite of the Coinage \u2605 15\nCollect every coin in the game. / Complete all levels in Rite of the Gods.",
+            "primaryText": "Rite of the Coinage [15\u2605]\nCollect every coin in the game. / Complete all levels in Rite of the Gods.",
             "community": 0,
             "communityText": "",
             "achievements": 7
@@ -47490,7 +47490,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Arcade Clear - Very Hard \u2605 30\nComplete Arcade mode on Very Hard.",
+            "primaryText": "Arcade Clear - Very Hard [30\u2605]\nComplete Arcade mode on Very Hard.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -47544,7 +47544,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "The Little Tank That Could \u2605 40\nComplete the entire campaign in Single-Credit Mode.\n\nRoughshot \u2605 10\nProve yourself",
+            "primaryText": "The Little Tank That Could [40\u2605]\nComplete the entire campaign in Single-Credit Mode.\n\nRoughshot [10\u2605]\nProve yourself",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -47598,7 +47598,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "One Long Winter \u2605 15\nIndividually, complete a career without eating meat, without teleporting, and without stepping on any spirits.",
+            "primaryText": "One Long Winter [15\u2605]\nIndividually, complete a career without eating meat, without teleporting, and without stepping on any spirits.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -47652,7 +47652,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Stinger Finesse \u2605 40\nDefeat all bosses without taking any damage on Apprentice difficulty or higher.\n\nDrought-Maddened Roah \u2605 20\nProve yourself.",
+            "primaryText": "Stinger Finesse [40\u2605]\nDefeat all bosses without taking any damage on Apprentice difficulty or higher.\n\nDrought-Maddened Roah [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 60
@@ -47706,7 +47706,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Insane Robber \u2605 20\nBeat all 93 levels on Insanity difficulty.\n\nSwift Robber \u2605 5\nDefeat the secret boss.",
+            "primaryText": "Insane Robber [20\u2605]\nBeat all 93 levels on Insanity difficulty.\n\nSwift Robber [5\u2605]\nDefeat the secret boss.",
             "community": 1,
             "communityText": "Resilient Robber\nBeat all 93 levels and collect all 64 coins on Insanity difficulty.",
             "achievements": 19
@@ -47760,7 +47760,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Metallic Guardian \u2605 20\nFinish the game on \"Guardian 4\" difficulty with an S Rank average.",
+            "primaryText": "Metallic Guardian [20\u2605]\nFinish the game on \"Guardian 4\" difficulty with an S Rank average.",
             "community": 0,
             "communityText": "",
             "achievements": 76
@@ -47779,7 +47779,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
-        "playersTotal": 140,
+        "playersTotal": 141,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -47814,7 +47814,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rock and Roll \u2605 5\nFind all the keys scattered throughout the levels. / Get a gold medal on all maps in Time Trial mode.",
+            "primaryText": "Rock and Roll [5\u2605]\nFind all the keys scattered throughout the levels. / Get a gold medal on all maps in Time Trial mode.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -47868,7 +47868,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rocket to the Stars \u2605 5\nObtain 3 stars on every level.",
+            "primaryText": "Rocket to the Stars [5\u2605]\nObtain 3 stars on every level.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -47922,7 +47922,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rocket Around \u2605 5\nSurvive for 10 seconds on all levels.",
+            "primaryText": "Rocket Around [5\u2605]\nSurvive for 10 seconds on all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 3
@@ -47976,7 +47976,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Pipe Dream \u2605 20\nBeat Classified Pipe 4 in Custom Mode with all difficulty settings maxed out.\n\nDrain Snake \u2605 10\nComplete Story Mode in Hard Mode in under 30 minutes.\n\n#1 Customer \u2605 5\nComplete Story Mode in Hard Mode. / Complete Story Mode in under 30 minutes.",
+            "primaryText": "Pipe Dream [20\u2605]\nBeat Classified Pipe 4 in Custom Mode with all difficulty settings maxed out.\n\nDrain Snake [10\u2605]\nComplete Story Mode in Hard Mode in under 30 minutes.\n\n#1 Customer [5\u2605]\nComplete Story Mode in Hard Mode. / Complete Story Mode in under 30 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -48030,7 +48030,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Peculiar Bloodline \u2605 15\nWithout using the Architect, complete the game dying 15 times or less.\n\nA New Traitor is Born \u2605 10\nDefeat all remix bosses.",
+            "primaryText": "Peculiar Bloodline [15\u2605]\nWithout using the Architect, complete the game dying 15 times or less.\n\nA New Traitor is Born [10\u2605]\nDefeat all remix bosses.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -48084,7 +48084,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Heroic Bloodline \u2605 20 (Partial: \u2605 5)\nComplete all special game modes.\n\nLegendary Legacy \u2605 5\nEarn a gold trophy for every Scar Challenge.\n\nSurvival of the Fittest \u2605 5\nProve yourself.",
+            "primaryText": "Heroic Bloodline[20\u2605  (Partial: 5\u2605)]\nComplete all special game modes.\n\nLegendary Legacy [5\u2605]\nEarn a gold trophy for every Scar Challenge.\n\nSurvival of the Fittest [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -48138,7 +48138,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Slay the Book \u2605 20\nComplete a run at max Epilogue level.",
+            "primaryText": "Slay the Book [20\u2605]\nComplete a run at max Epilogue level.",
             "community": 0,
             "communityText": "",
             "achievements": 61
@@ -48192,7 +48192,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "The Devil Wears Rollerblades \u2605 25\nComplete 100% of the challenges in the \"Out For Blood\" campaign.\n\nTony Hawk's Hotline Pedro 2 \u2605 10\nComplete 100% of the challenges in the main campaign.",
+            "primaryText": "The Devil Wears Rollerblades [25\u2605]\nComplete 100% of the challenges in the \"Out For Blood\" campaign.\n\nTony Hawk's Hotline Pedro 2 [10\u2605]\nComplete 100% of the challenges in the main campaign.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -48246,7 +48246,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mega Spiritia Sancti \u2605 25\nDefeat the Deviled Egg without taking any damage. / Finish the game as Grolla in 60 minutes or less.",
+            "primaryText": "Mega Spiritia Sancti [25\u2605]\nDefeat the Deviled Egg without taking any damage. / Finish the game as Grolla in 60 minutes or less.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -48300,7 +48300,7 @@ var data =
         },
         "milestones": {
             "primary": 6,
-            "primaryText": "Hazard Duty Pay \u2605 40\nObtain all stars on every level and boss rush on Senior Intern difficulty.\n\nSenior Intern \u2605 25\nComplete the game and Boss Rushes A, B, C, D and E on Senior Intern mode\n\nStellar Intern \u2605 20\nSeparately; Obtain all stars on every level and boss rush on intern difficulty, and complete all of the modified boss rush achievements.\n\nEntry Level \u2605 10\nComplete the game and Boss Rushes A,B,C,D, and E on normal\n\nAngular Momentum \u2605 5\nProve yourself.\n\nChief Executive Officer (UNCLEARED) \u2605 1\nObtain the time star on every boss rush on Chief Intern Mode.",
+            "primaryText": "Hazard Duty Pay [40\u2605]\nObtain all stars on every level and boss rush on Senior Intern difficulty.\n\nSenior Intern [25\u2605]\nComplete the game and Boss Rushes A, B, C, D and E on Senior Intern mode\n\nStellar Intern [20\u2605]\nSeparately; Obtain all stars on every level and boss rush on intern difficulty, and complete all of the modified boss rush achievements.\n\nEntry Level [10\u2605]\nComplete the game and Boss Rushes A,B,C,D, and E on normal\n\nAngular Momentum [5\u2605]\nProve yourself.\n\nChief Executive Officer (UNCLEARED) [1\u2605]\nObtain the time star on every boss rush on Chief Intern Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -48355,7 +48355,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Supreme Victory! \u2605 75\nGet all 200 Elite Flags.\n\nLeaf on the Wind \u2605 25\nGet all 200 Gold medals.",
+            "primaryText": "Supreme Victory! [75\u2605]\nGet all 200 Elite Flags.\n\nLeaf on the Wind [25\u2605]\nGet all 200 Gold medals.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -48409,7 +48409,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Chubbit Enthusiast \u2605 40\nObtain all 50 Flag times.\n\nBeautiful Gold \u2605 10\nObtain all 50 Gold Medals.",
+            "primaryText": "Chubbit Enthusiast [40\u2605]\nObtain all 50 Flag times.\n\nBeautiful Gold [10\u2605]\nObtain all 50 Gold Medals.",
             "community": 1,
             "communityText": "Rotund Revelry\nComplete all primary objectives from all site-listed games in the Rotund Rabbit franchise. See verification requirements for complete list.",
             "achievements": 18
@@ -48463,7 +48463,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "The crowd goes Bananas! \u2605 10\nBeat the flag time on A-Z mode.\n\nBecoming Mighty \u2605 5\nBeat 21 levels in Zero Mode. / Beat the gold time on A-Z mode.\n\nVery Very Pure \u2605 5\nBeat the flag time on every individual level.",
+            "primaryText": "The crowd goes Bananas! [10\u2605]\nBeat the flag time on A-Z mode.\n\nBecoming Mighty [5\u2605]\nBeat 21 levels in Zero Mode. / Beat the gold time on A-Z mode.\n\nVery Very Pure [5\u2605]\nBeat the flag time on every individual level.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -48517,7 +48517,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Wheely Tired \u2605 10\nComplete an eSports Speedrun without exploding.",
+            "primaryText": "Wheely Tired [10\u2605]\nComplete an eSports Speedrun without exploding.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -48571,7 +48571,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Kaleidoscopic Cycle \u2605 25\nComplete all levels.",
+            "primaryText": "Kaleidoscopic Cycle [25\u2605]\nComplete all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -48625,7 +48625,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Dressed to Kill \u2605 25\nAcquire all outfits.",
+            "primaryText": "Dressed to Kill [25\u2605]\nAcquire all outfits.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -48679,7 +48679,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "In the Flow \u2605 10\nObtain a 3-star rank in every challenge except \"Danger Zone\".\n\nRun for Your Life \u2605 5\nRun more than 3000 kimos in a single run in Endless Mode. / Reach the Lab.",
+            "primaryText": "In the Flow [10\u2605]\nObtain a 3-star rank in every challenge except \"Danger Zone\".\n\nRun for Your Life [5\u2605]\nRun more than 3000 kimos in a single run in Endless Mode. / Reach the Lab.",
             "community": 1,
             "communityText": "Stranger Danger\nObtain a 3-star rank in \"Danger Zone\".",
             "achievements": 15
@@ -48734,7 +48734,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Run Turn Don't Die \u2605 20 (Partial: \u2605 5)\nProve yourself.",
+            "primaryText": "Run Turn Don't Die[20\u2605  (Partial: 5\u2605)]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -48788,7 +48788,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Immortal Runner \u2605 60\nComplete the game without dying.\n\nEndless Nightmare \u2605 60\nScore 150 points in Infinite Mode.\n\nRUN Like Hell \u2605 70 (Partial: \u2605 40)\nFinish Speedrun Mode in less than 25 minutes (with cutscenes), or in less than 20 minutes (without cutscenes).\n\nEnter the Infinite \u2605 15\nScore 50 in Infinite Mode.\n\nAbsolution \u2605 25\nFinish Nightmare Mode.",
+            "primaryText": "Immortal Runner [60\u2605]\nComplete the game without dying.\n\nEndless Nightmare [60\u2605]\nScore 150 points in Infinite Mode.\n\nRUN Like Hell[70\u2605  (Partial: 40\u2605)]\nFinish Speedrun Mode in less than 25 minutes (with cutscenes), or in less than 20 minutes (without cutscenes).\n\nEnter the Infinite [15\u2605]\nScore 50 in Infinite Mode.\n\nAbsolution [25\u2605]\nFinish Nightmare Mode.",
             "community": 1,
             "communityText": "Legacy Runner\nFinish Speedrun Mode in less than 25 minutes (with cutscenes), or less than 18:45 (without cutscenes)",
             "achievements": 57
@@ -48842,7 +48842,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Command3r \u2605 20\nUnlock EVERYTHING!",
+            "primaryText": "Command3r [20\u2605]\nUnlock EVERYTHING!",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -48896,7 +48896,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Speck's Hell Rush \u2605 10\nObtain a Platinum medal on every tower. \n\nCutting Corners \u2605 5\nComplete the final tower.",
+            "primaryText": "Speck's Hell Rush [10\u2605]\nObtain a Platinum medal on every tower. \n\nCutting Corners [5\u2605]\nComplete the final tower.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -48950,7 +48950,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Proletariat Puprising \u2605 15\nProve yourself.",
+            "primaryText": "Proletariat Puprising [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -49004,7 +49004,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Shake Off the Rust \u2605 20\nSeparately; 100% the game, defeat the TLB. and beat all climb challenges.\n\nMossed in the Sauce \u2605 10\nProve yourself.",
+            "primaryText": "Shake Off the Rust [20\u2605]\nSeparately; 100% the game, defeat the TLB. and beat all climb challenges.\n\nMossed in the Sauce [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 46
@@ -49058,7 +49058,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Don't Try This at Home \u2605 10\nBeat all levels of all campaigns in DRNK mode.",
+            "primaryText": "Don't Try This at Home [10\u2605]\nBeat all levels of all campaigns in DRNK mode.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -49112,7 +49112,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cog in the Machine \u2605 35 (Partial: \u2605 25)\nComplete all missions and obtain all platinum medals on all the main and bonus worlds.",
+            "primaryText": "Cog in the Machine[35\u2605  (Partial: 25\u2605)]\nComplete all missions and obtain all platinum medals on all the main and bonus worlds.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -49161,7 +49161,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Jump Like a Fish \u2605 10\nDefeat the fourth boss. / Finish a level in 7 seconds or less. / Get all gold medals.",
+            "primaryText": "Jump Like a Fish [10\u2605]\nDefeat the fourth boss. / Finish a level in 7 seconds or less. / Get all gold medals.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -49215,7 +49215,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Pepper and Pain \u2605 5\nBeat the game. / Beat the first boss of the game.",
+            "primaryText": "Pepper and Pain [5\u2605]\nBeat the game. / Beat the first boss of the game.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -49269,7 +49269,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Unsung Hero \u2605 20\nClear both loops of the Score Attack mode.\n\nAce Warrior \u2605 10 (Partial: \u2605 5)\nWatch the ending of the game without continuing on Normal difficulty.",
+            "primaryText": "Unsung Hero [20\u2605]\nClear both loops of the Score Attack mode.\n\nAce Warrior[10\u2605  (Partial: 5\u2605)]\nWatch the ending of the game without continuing on Normal difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -49323,7 +49323,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Grappling MAGO \u2605 10\nProve yourself.",
+            "primaryText": "Grappling MAGO [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -49377,7 +49377,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Christmas Miracle \u2605 10\nComplete the campaign without dying.\n\nThe Gift That Keeps on Giving \u2605 5\nObtain 500,000 points in the campaign.",
+            "primaryText": "Christmas Miracle [10\u2605]\nComplete the campaign without dying.\n\nThe Gift That Keeps on Giving [5\u2605]\nObtain 500,000 points in the campaign.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -49431,7 +49431,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Pirates Begone \u2605 5\nFinish the game on Normal difficulty or higher without continuing.",
+            "primaryText": "Pirates Begone [5\u2605]\nFinish the game on Normal difficulty or higher without continuing.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -49486,7 +49486,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Satryn's Bane \u2605 10\nReach wave 65.",
+            "primaryText": "Satryn's Bane [10\u2605]\nReach wave 65.",
             "community": 0,
             "communityText": "",
             "achievements": 54
@@ -49541,7 +49541,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Savant \u2605 5\nProve yourself.",
+            "primaryText": "Savant [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -49595,7 +49595,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hattako \u2605 15\nBeat all the bosses consecutively in Boss Mode. / Beat the game without seeing the Game Over screen.",
+            "primaryText": "Hattako [15\u2605]\nBeat all the bosses consecutively in Boss Mode. / Beat the game without seeing the Game Over screen.",
             "community": 0,
             "communityText": "",
             "achievements": 55
@@ -49649,7 +49649,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Did It All For The Cookie \u2605 10\nGet the gold medal in Endless Mode by scoring 3300 points or more.\n\nOrdinary Janitor \u2605 5\nGet the bronze medal in Endless Mode by scoring 2500 points or more. / Produce 4500 energy on Day 10.",
+            "primaryText": "Did It All For The Cookie [10\u2605]\nGet the gold medal in Endless Mode by scoring 3300 points or more.\n\nOrdinary Janitor [5\u2605]\nGet the bronze medal in Endless Mode by scoring 2500 points or more. / Produce 4500 energy on Day 10.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -49703,7 +49703,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Beginner Fishing \u2605 25\nClear all doors. / Clear all routes on Survival Challenge. / Acquire all backpacks.",
+            "primaryText": "Beginner Fishing [25\u2605]\nClear all doors. / Clear all routes on Survival Challenge. / Acquire all backpacks.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -49757,7 +49757,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "A Wild Ride \u2605 20\nObtain all Wild ranks.\n\nSayonara \u2605 5\nProve yourself.",
+            "primaryText": "A Wild Ride [20\u2605]\nObtain all Wild ranks.\n\nSayonara [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -49811,7 +49811,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Bask in Darkness \u2605 10\nBeat the game with Risky mode on.\n\nLiving in the Shadows \u2605 10\nFinish each level without respawning.",
+            "primaryText": "Bask in Darkness [10\u2605]\nBeat the game with Risky mode on.\n\nLiving in the Shadows [10\u2605]\nFinish each level without respawning.",
             "community": 1,
             "communityText": "The Closer to Light, the Greater the Shadow\nBeat the game with Extra Jump off, Risky mode on, and respawns off.",
             "achievements": 24
@@ -49865,7 +49865,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Scoot Kaboom and the Global Cycle of Doom \u2605 85\nCollect all gems in endurance mode without any assist options.",
+            "primaryText": "Scoot Kaboom and the Global Cycle of Doom [85\u2605]\nCollect all gems in endurance mode without any assist options.",
             "community": 1,
             "communityText": "Scoot Kaboom and the Zoom of Doom\nBeat the game without dying without ever zooming in and without any assist options.",
             "achievements": 37
@@ -49919,7 +49919,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Kyhrazy \u2605 50 (Partial: \u2605 10)\nBeat the Ordeal without any health bonus, item or blessing.",
+            "primaryText": "Kyhrazy[50\u2605  (Partial: 10\u2605)]\nBeat the Ordeal without any health bonus, item or blessing.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -49973,7 +49973,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "I Wanna Draw the Guy \u2605 10\nSeparately, beat all areas without dying or restarting. / Defeat the final boss.",
+            "primaryText": "I Wanna Draw the Guy [10\u2605]\nSeparately, beat all areas without dying or restarting. / Defeat the final boss.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -50027,7 +50027,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Reports Hurt like Knives \u2605 20\nBeat the game with no rejected reports. / Beat the game on normal mode.\n\nNight Owl Detective (UNCLEARED) \u2605 1\nBeat the game on Nightmare mode.",
+            "primaryText": "Reports Hurt like Knives [20\u2605]\nBeat the game with no rejected reports. / Beat the game on normal mode.\n\nNight Owl Detective (UNCLEARED) [1\u2605]\nBeat the game on Nightmare mode.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -50081,7 +50081,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Scuffed \u2605 10\nObtain all Scud medals.",
+            "primaryText": "Scuffed [10\u2605]\nObtain all Scud medals.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -50135,7 +50135,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Shinobi Without Equal \u2605 15\nBeat the Gauntlet of Strength - Mortal Journey.\n\nOne-Armed Wolf \u2605 15\nBeat all the bosses.",
+            "primaryText": "Shinobi Without Equal [15\u2605]\nBeat the Gauntlet of Strength - Mortal Journey.\n\nOne-Armed Wolf [15\u2605]\nBeat all the bosses.",
             "community": 3,
             "communityText": "Against All Odds\nBeat the Gauntlet of Strength - Mortal Journey charmless with Demon Bell.\n\nPure Blade\nBeat the Gauntlet of Strength - Mortal Journey without instakilling Demon of Hatred.\n\nThe Wolf in the Dark\nBeat the game on NG+7.",
             "achievements": 34
@@ -50189,7 +50189,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fallen Angel \u2605 5\nBeat all developer times.",
+            "primaryText": "Fallen Angel [5\u2605]\nBeat all developer times.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -50244,7 +50244,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Sam Before \u2605 20\nComplete the game in single player on unmodified Serious difficulty. / Complete \"The Guardian of Time\" in single player on Serious difficulty without dying or loading.\n\nSerious Gold \u2605 10\nAchieve the gold time on all survival maps.",
+            "primaryText": "Sam Before [20\u2605]\nComplete the game in single player on unmodified Serious difficulty. / Complete \"The Guardian of Time\" in single player on Serious difficulty without dying or loading.\n\nSerious Gold [10\u2605]\nAchieve the gold time on all survival maps.",
             "community": 0,
             "communityText": "",
             "achievements": 62
@@ -50298,7 +50298,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Serious Hunter \u2605 5\nAchieve the Gold time on all survival maps.\n\nSerious One-Liner \u2605 10\nComplete all levels on unmodified Serious difficulty.",
+            "primaryText": "Serious Hunter [5\u2605]\nAchieve the Gold time on all survival maps.\n\nSerious One-Liner [10\u2605]\nComplete all levels on unmodified Serious difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 54
@@ -50352,7 +50352,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Seriously? \u2605 10\nComplete the game in single player on Serious difficulty.\n\nCarnage King \u2605 5\nComplete Metropolis on Serious difficulty without loading.",
+            "primaryText": "Seriously? [10\u2605]\nComplete the game in single player on Serious difficulty.\n\nCarnage King [5\u2605]\nComplete Metropolis on Serious difficulty without loading.",
             "community": 2,
             "communityText": "Mental Breakdown\nComplete all primary objectives from all site-listed games in the Serious Sam franchise. See verification requirements for complete list.\n\nSeriously Serious\nComplete the game in single player on Serious difficulty without dying or loading.",
             "achievements": 35
@@ -50406,7 +50406,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Serious Survivalist \u2605 15\nAchieve the Gold time on all survival maps.\n\nRussian Sam \u2605 5\nComplete the game in single player on Serious difficulty. / Beat the final boss in single player on Serious difficulty without loading mid-battle.",
+            "primaryText": "Serious Survivalist [15\u2605]\nAchieve the Gold time on all survival maps.\n\nRussian Sam [5\u2605]\nComplete the game in single player on Serious difficulty. / Beat the final boss in single player on Serious difficulty without loading mid-battle.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -50460,7 +50460,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Mental \u2605 15\nBeat Mental. / Beat Iteration V3 with 9 active moods. / Beat Iteration V2 with the Sadistic Mood. / Complete the \"Frazzled\" and \"Death from Above\" quests.\n\nHypnic Jerk \u2605 10\nReach the Vault in under 12 minutes. / Reach the Vault after looping twice. / Reach the high score with Bomb.",
+            "primaryText": "Mental [15\u2605]\nBeat Mental. / Beat Iteration V3 with 9 active moods. / Beat Iteration V2 with the Sadistic Mood. / Complete the \"Frazzled\" and \"Death from Above\" quests.\n\nHypnic Jerk [10\u2605]\nReach the Vault in under 12 minutes. / Reach the Vault after looping twice. / Reach the high score with Bomb.",
             "community": 2,
             "communityText": "Psychosis\nBeat Iteration V3 in under 25 minutes without using torments.\n\nQuests and Qualms\nComplete every quest (excluding Moody Mental).",
             "achievements": 49
@@ -50514,7 +50514,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Down We'll Go \u2605 5\nSeparately; Beat the final boss without dying and beat the final boss with Unicorn.",
+            "primaryText": "Down We'll Go [5\u2605]\nSeparately; Beat the final boss without dying and beat the final boss with Unicorn.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -50568,7 +50568,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Hell Raiser \u2605 10\nComplete the Hardcore Marathon.\n\nNumber of the Beast \u2605 5\nAchieve a completion percentage of 666%.",
+            "primaryText": "Hell Raiser [10\u2605]\nComplete the Hardcore Marathon.\n\nNumber of the Beast [5\u2605]\nAchieve a completion percentage of 666%.",
             "community": 2,
             "communityText": "Dipsomaniac\nFinish a Hardcore run while collecting all Beers and without the use of Mutators.\n\nMade of Beer\nFinish a Hardcore run without the use of Mutators and without resetting a level once you start it.",
             "achievements": 30
@@ -50622,7 +50622,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Mask of the Celestial Fox \u2605 40\nClear all stages on \"Path of Asuras\" difficulty. / Earn a gold medal in all stages in the Magatama Challenge mode.\n\nOuter Edge \u2605 10\nClear DLC stage on \"Path of Asuras\" difficulty. / Earn a gold medal in DLC stage in the Magatama Challenge mode.",
+            "primaryText": "Mask of the Celestial Fox [40\u2605]\nClear all stages on \"Path of Asuras\" difficulty. / Earn a gold medal in all stages in the Magatama Challenge mode.\n\nOuter Edge [10\u2605]\nClear DLC stage on \"Path of Asuras\" difficulty. / Earn a gold medal in DLC stage in the Magatama Challenge mode.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -50676,7 +50676,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Shadow Hunter \u2605 60\nClear Marathon Mode on Deluge difficulty with the Shackles of Asura.\n\nFear Fighter \u2605 40\nClear Marathon Mode on Deluge difficulty.\n\nFlood of Darkness \u2605 60\nSeparately on Deluge difficulty; Get an SS rank on all stages and clear all stages with the Shackles of Asura.\n\nRoot of All Evil \u2605 40\nFinish the God Tree.\n\nSanity Check \u2605 20\nEarn a gold trophy for all stages in the Magatama Challenge.",
+            "primaryText": "Shadow Hunter [60\u2605]\nClear Marathon Mode on Deluge difficulty with the Shackles of Asura.\n\nFear Fighter [40\u2605]\nClear Marathon Mode on Deluge difficulty.\n\nFlood of Darkness [60\u2605]\nSeparately on Deluge difficulty; Get an SS rank on all stages and clear all stages with the Shackles of Asura.\n\nRoot of All Evil [40\u2605]\nFinish the God Tree.\n\nSanity Check [20\u2605]\nEarn a gold trophy for all stages in the Magatama Challenge.",
             "community": 1,
             "communityText": "Certified Madness\nObtain the Certificate of Commendation",
             "achievements": 50
@@ -50730,7 +50730,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Way of the Wang \u2605 20\nComplete the game on Heroic mode.\n\nMaster of the Wang (UNCLEARED) \u2605 1\nGet a perfect score on every mission.",
+            "primaryText": "Way of the Wang [20\u2605]\nComplete the game on Heroic mode.\n\nMaster of the Wang (UNCLEARED) [1\u2605]\nGet a perfect score on every mission.",
             "community": 0,
             "communityText": "",
             "achievements": 92
@@ -50784,7 +50784,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Dance Through the Danger \u2605 5\nProve yourself.",
+            "primaryText": "Dance Through the Danger [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -50838,7 +50838,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Break the Targets! \u2605 5\nObtain a AAA rank on Master difficulty.",
+            "primaryText": "Break the Targets! [5\u2605]\nObtain a AAA rank on Master difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -50892,7 +50892,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Descent Ascent \u2605 20\nBeat the game with a final score of 1 million or higher.\n\nCoat of Arms \u2605 15\nObtain the Amulet of Yendor as every hero class. / Earn miscellaneous boss-related achievements.",
+            "primaryText": "Descent Ascent [20\u2605]\nBeat the game with a final score of 1 million or higher.\n\nCoat of Arms [15\u2605]\nObtain the Amulet of Yendor as every hero class. / Earn miscellaneous boss-related achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 89
@@ -50946,7 +50946,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "She Can't Always Have Her Way \u2605 10\nSeparately; complete the \"One Life Run\" challenge, and complete the \"Time Attack\" challenge in less than 9 minutes.",
+            "primaryText": "She Can't Always Have Her Way [10\u2605]\nSeparately; complete the \"One Life Run\" challenge, and complete the \"Time Attack\" challenge in less than 9 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -51000,7 +51000,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "For The Herd! \u2605 5\nProve yourself.",
+            "primaryText": "For The Herd! [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -51054,7 +51054,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "White Lantern \u2605 15\nProve yourself.",
+            "primaryText": "White Lantern [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 41
@@ -51108,7 +51108,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Shipshape \u2605 5\nComplete arcade mode with all characters. / Get 2 stars on all challenges.",
+            "primaryText": "Shipshape [5\u2605]\nComplete arcade mode with all characters. / Get 2 stars on all challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -51162,7 +51162,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Fortunate Nomad \u2605 100\nBeat the 99th floor of Storm Forest and Rousing Paradise. Rescues are not allowed.\n\nWayfaring Wanderer \u2605 80\nBeat the 99th floor of Double Strike Trail, Perilous Rocks, Onigiri Hollow, and Master's Footprint. Rescues are not allowed.\n\nDestined Descent \u2605 50\nBeat the 99th floor of Destiny's Descent. Rescues are not allowed.\n\nMamel Savior \u2605 30 (Partial: \u2605 10)\nBeat the 99th floor of Primordial Chasm. Rescues are not allowed. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Fortunate Nomad [100\u2605]\nBeat the 99th floor of Storm Forest and Rousing Paradise. Rescues are not allowed.\n\nWayfaring Wanderer [80\u2605]\nBeat the 99th floor of Double Strike Trail, Perilous Rocks, Onigiri Hollow, and Master's Footprint. Rescues are not allowed.\n\nDestined Descent [50\u2605]\nBeat the 99th floor of Destiny's Descent. Rescues are not allowed.\n\nMamel Savior[30\u2605  (Partial: 10\u2605)]\nBeat the 99th floor of Primordial Chasm. Rescues are not allowed. *Partial points are awarded as a progress milestone.",
             "community": 1,
             "communityText": "Countdown to Doomsday\nBeat the 99th floor of Cloister of Certain Doom with the turn limit set to 10000. Rescues are not allowed.",
             "achievements": 55
@@ -51217,7 +51217,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Shmup Array \u2605 20\nProve yourself.",
+            "primaryText": "Shmup Array [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -51271,7 +51271,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Midnight Marksman \u2605 70\nBeat the game without dying or quitting. \n\nBig Iron \u2605 20\nBeat all chapters individually without dying or quitting. ",
+            "primaryText": "Midnight Marksman [70\u2605]\nBeat the game without dying or quitting. \n\nBig Iron [20\u2605]\nBeat all chapters individually without dying or quitting. ",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -51325,7 +51325,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Regicide \u2605 15\nFinish Throne Mode at Rank 15. / Beat Throne Mode in less than 2 minutes.",
+            "primaryText": "Regicide [15\u2605]\nFinish Throne Mode at Rank 15. / Beat Throne Mode in less than 2 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 84
@@ -51379,7 +51379,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Take Your Shot \u2605 10\nSeparately; beat the game on NG+ and reach the top with the Blackbird chasing you.",
+            "primaryText": "Take Your Shot [10\u2605]\nSeparately; beat the game on NG+ and reach the top with the Blackbird chasing you.",
             "community": 0,
             "communityText": "",
             "achievements": 9
@@ -51433,7 +51433,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "The Showdown \u2605 10\nComplete all relevant achievements in the \"Showdown\" campaign.\n\nThe King \u2605 10 (Partial: \u2605 5)\nComplete all achievements and challenges in the \"King of Cards\" campaign. *Partial points are rewarded as a progress milestone.\n\nThe Specter \u2605 10 (Partial: \u2605 5)\nComplete all achievements and challenges in the \"Specter of Torment\" campaign. *Partial points are rewarded as a progress milestone.\n\nThe Plague \u2605 10 (Partial: \u2605 5)\nComplete all achievements and challenges in the \"Plague of Shadows\" campaign. *Partial points are rewarded as a progress milestone.\n\nThe Shovel \u2605 10 (Partial: \u2605 5)\nComplete all achievements and challenges in the \"Shovel of Hope\" campaign. *Partial points are rewarded as a progress milestone.",
+            "primaryText": "The Showdown [10\u2605]\nComplete all relevant achievements in the \"Showdown\" campaign.\n\nThe King[10\u2605  (Partial: 5\u2605)]\nComplete all achievements and challenges in the \"King of Cards\" campaign. *Partial points are rewarded as a progress milestone.\n\nThe Specter[10\u2605  (Partial: 5\u2605)]\nComplete all achievements and challenges in the \"Specter of Torment\" campaign. *Partial points are rewarded as a progress milestone.\n\nThe Plague[10\u2605  (Partial: 5\u2605)]\nComplete all achievements and challenges in the \"Plague of Shadows\" campaign. *Partial points are rewarded as a progress milestone.\n\nThe Shovel[10\u2605  (Partial: 5\u2605)]\nComplete all achievements and challenges in the \"Shovel of Hope\" campaign. *Partial points are rewarded as a progress milestone.",
             "community": 1,
             "communityText": "The Ultimate Showdown of Ultimate Destiny\nComplete Story Mode on Hard difficulty as every character.",
             "achievements": 138
@@ -51487,7 +51487,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "There Can Only be One \u2605 20\nBeat the Goo Shu time on all levels. / Obtain \"No Deaths\" badge for all levels.",
+            "primaryText": "There Can Only be One [20\u2605]\nBeat the Goo Shu time on all levels. / Obtain \"No Deaths\" badge for all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -51541,7 +51541,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Everlasting Fist \u2605 25\nClear 45 different arena challenges. / Obtain one gold stamp in all 5 types of arena challenges.\n\nCrouching Dragon \u2605 20\nComplete all arena challenges with at least 1 stamp.\n\nYoung Prodigy \u2605 5\nBeat the game while being 25 years old or less.\n\nThe Path to Martial Mastery (UNCLEARED) \u2605 1\nObtain a gold stamp in all arena challenges. ",
+            "primaryText": "Everlasting Fist [25\u2605]\nClear 45 different arena challenges. / Obtain one gold stamp in all 5 types of arena challenges.\n\nCrouching Dragon [20\u2605]\nComplete all arena challenges with at least 1 stamp.\n\nYoung Prodigy [5\u2605]\nBeat the game while being 25 years old or less.\n\nThe Path to Martial Mastery (UNCLEARED) [1\u2605]\nObtain a gold stamp in all arena challenges. ",
             "community": 0,
             "communityText": "",
             "achievements": 61
@@ -51596,7 +51596,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Verlet Demon \u2605 20\nAchieve an S rank on all 3 acts on 5.0 intensity",
+            "primaryText": "Verlet Demon [20\u2605]\nAchieve an S rank on all 3 acts on 5.0 intensity",
             "community": 0,
             "communityText": "",
             "achievements": 5
@@ -51650,7 +51650,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Generis Obiectivum Nomen \u2605 25\nGet promoted to General of the Air Force.",
+            "primaryText": "Generis Obiectivum Nomen [25\u2605]\nGet promoted to General of the Air Force.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -51705,7 +51705,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Quickscope Identification \u2605 5\nGet a final score of 50,000. / Complete Memory Mode.",
+            "primaryText": "Quickscope Identification [5\u2605]\nGet a final score of 50,000. / Complete Memory Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -51759,7 +51759,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sin to Win \u2605 5\nDefeat the final boss after fulfilling True End requirements.",
+            "primaryText": "Sin to Win [5\u2605]\nDefeat the final boss after fulfilling True End requirements.",
             "community": 0,
             "communityText": "",
             "achievements": 60
@@ -51813,7 +51813,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Later, Speed Gator \u2605 5\nGet all staff times.",
+            "primaryText": "Later, Speed Gator [5\u2605]\nGet all staff times.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -51867,7 +51867,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Bad to the Bone \u2605 30\nProve yourself.\n\nBone to Pick \u2605 25\nGet 100% completion on Hard Mode. / Reach Hard Mode's true ending. / Get all platinum trophies.\n\nReturn to Sender \u2605 5\nGet 100% completion.",
+            "primaryText": "Bad to the Bone [30\u2605]\nProve yourself.\n\nBone to Pick [25\u2605]\nGet 100% completion on Hard Mode. / Reach Hard Mode's true ending. / Get all platinum trophies.\n\nReturn to Sender [5\u2605]\nGet 100% completion.",
             "community": 0,
             "communityText": "",
             "achievements": 31
@@ -51921,7 +51921,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Resident of the Depths \u2605 15\nFinish the game and complete all mini-games.\n\nKing of the Depths \u2605 10\nBeat game in under 30 minutes; beat \"the tower\" mini-game ghost; Get a highscore of 30+ in the cave mini-game\n\nGod of the Depths (UNVALUED) \u2605 1\nFinish the game in under 10 minutes.",
+            "primaryText": "Resident of the Depths [15\u2605]\nFinish the game and complete all mini-games.\n\nKing of the Depths [10\u2605]\nBeat game in under 30 minutes; beat \"the tower\" mini-game ghost; Get a highscore of 30+ in the cave mini-game\n\nGod of the Depths (UNVALUED) [1\u2605]\nFinish the game in under 10 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -51975,7 +51975,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "God of Battle \u2605 40\nBeat the final boss without being hit. / Clear the Level 10 of the Dark Mirror.",
+            "primaryText": "God of Battle [40\u2605]\nBeat the final boss without being hit. / Clear the Level 10 of the Dark Mirror.",
             "community": 0,
             "communityText": "",
             "achievements": 86
@@ -52029,7 +52029,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "7 Deadly Sins \u2605 5\nComplete all levels without throwing or getting hit. ",
+            "primaryText": "7 Deadly Sins [5\u2605]\nComplete all levels without throwing or getting hit. ",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -52078,7 +52078,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sky High \u2605 20\nComplete all levels in a row without falling and while collecting all cores.",
+            "primaryText": "Sky High [20\u2605]\nComplete all levels in a row without falling and while collecting all cores.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -52132,7 +52132,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "It's Sky Noon! \u2605 15\nGet platinum medals in all time trial levels.",
+            "primaryText": "It's Sky Noon! [15\u2605]\nGet platinum medals in all time trial levels.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -52186,7 +52186,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Break 'Em Up \u2605 20\nClear all sets without getting hit. / Beat Arcade Mode.",
+            "primaryText": "Break 'Em Up [20\u2605]\nClear all sets without getting hit. / Beat Arcade Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 65
@@ -52240,7 +52240,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Zattack! \u2605 30\nObtain all Z ranks.\n\nTRICOLOR PAWNCH!!! \u2605 20\nObtain all achievements.",
+            "primaryText": "Zattack! [30\u2605]\nObtain all Z ranks.\n\nTRICOLOR PAWNCH!!! [20\u2605]\nObtain all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -52294,7 +52294,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Captain Hook \u2605 10\nEarn a diamond skull on all quests, including flying dutchman world.\n\nPeter Pain \u2605 5\nEarn a platinum skull or better on all quests.",
+            "primaryText": "Captain Hook [10\u2605]\nEarn a diamond skull on all quests, including flying dutchman world.\n\nPeter Pain [5\u2605]\nEarn a platinum skull or better on all quests.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -52348,7 +52348,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Absolutely Trolleyed \u2605 15\nObtain all platinum medals. ",
+            "primaryText": "Absolutely Trolleyed [15\u2605]\nObtain all platinum medals. ",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -52402,7 +52402,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Heart Breaker \u2605 40\nDefeat the Corrupt Heart on Ascension Level 20.\n\nCard Climber \u2605 25 (Partial: \u2605 5)\nComplete Ascension Level 20.\n\nCardiac Attack \u2605 15\nComplete the Ending with every character.",
+            "primaryText": "Heart Breaker [40\u2605]\nDefeat the Corrupt Heart on Ascension Level 20.\n\nCard Climber[25\u2605  (Partial: 5\u2605)]\nComplete Ascension Level 20.\n\nCardiac Attack [15\u2605]\nComplete the Ending with every character.",
             "community": 1,
             "communityText": "Slayed the Spire\nDefeat the Corrupt Heart on Ascension Level 20 with every character.",
             "achievements": 46
@@ -52456,7 +52456,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Don't Look Back \u2605 5\nBeat the Genesis level on Hardcore difficulty. /  Beat the game on Hardcore difficulty.",
+            "primaryText": "Don't Look Back [5\u2605]\nBeat the Genesis level on Hardcore difficulty. /  Beat the game on Hardcore difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -52510,7 +52510,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Slime Time \u2605 20\nProve yourself.",
+            "primaryText": "Slime Time [20\u2605]\nProve yourself.",
             "community": 3,
             "communityText": "Pack Slime\nComplete each campaign in speedrun mode with the \"No Death\" and \"Apple/Banana/[Bug]\" modifiers enabled.\n\nSlime PLUS\nComplete each campaign in speedrun mode with the \"No Death\" and \"New Game PLUS\" modifiers enabled.\n\nSlime Souls\nComplete the Boss Rush mode with every modifier enabled.",
             "achievements": 85
@@ -52564,7 +52564,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gilded Slime \u2605 30\nObtain all Perfect Crowns on every level.",
+            "primaryText": "Gilded Slime [30\u2605]\nObtain all Perfect Crowns on every level.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -52618,7 +52618,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sloth Machine \u2605 25\nGet all gold and ice wheels.",
+            "primaryText": "Sloth Machine [25\u2605]\nGet all gold and ice wheels.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -52672,7 +52672,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Coral Coiler \u2605 10\nProve yourself.",
+            "primaryText": "Coral Coiler [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -52726,7 +52726,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Anaconda \u2605 40\nAchieve 10,000 points in a single Endless Mode run.\n\nFusion-Ha \u2605 10\nProve yourself.",
+            "primaryText": "Anaconda [40\u2605]\nAchieve 10,000 points in a single Endless Mode run.\n\nFusion-Ha [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -52780,7 +52780,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Invincible Sock \u2605 40\nBeat all chapters and dark worlds without dying.",
+            "primaryText": "Invincible Sock [40\u2605]\nBeat all chapters and dark worlds without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 60
@@ -52834,7 +52834,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hard Body \u2605 15\nComplete all 25 Hard Game levels. / Complete all 25 Hard Game+ Levels.",
+            "primaryText": "Hard Body [15\u2605]\nComplete all 25 Hard Game levels. / Complete all 25 Hard Game+ Levels.",
             "community": 0,
             "communityText": "",
             "achievements": 8
@@ -52888,7 +52888,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Turned to Ash \u2605 5\nComplete the game on Hardcore Mode.",
+            "primaryText": "Turned to Ash [5\u2605]\nComplete the game on Hardcore Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -52942,7 +52942,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Side to Side \u2605 10\nObtain all achievements.",
+            "primaryText": "Side to Side [10\u2605]\nObtain all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -52991,7 +52991,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "You're Too Slow \u2605 20\nBeat all staff ghosts in time attack.\n\nGotta Go Fast \u2605 10\nObtain all stars in World Tour and finish 1st place in all grand prix tournaments on expert difficulty.",
+            "primaryText": "You're Too Slow [20\u2605]\nBeat all staff ghosts in time attack.\n\nGotta Go Fast [10\u2605]\nObtain all stars in World Tour and finish 1st place in all grand prix tournaments on expert difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -53045,7 +53045,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Live and Learn \u2605 30\nGet all A ranks in Story Mode / Beat all 3 Boss Attack Modes / Win an Expert Kart Race.",
+            "primaryText": "Live and Learn [30\u2605]\nGet all A ranks in Story Mode / Beat all 3 Boss Attack Modes / Win an Expert Kart Race.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -53099,7 +53099,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Clown Control \u2605 20\nEarn all Action Stage and Sub Game emblems / Complete all Missions.",
+            "primaryText": "Clown Control [20\u2605]\nEarn all Action Stage and Sub Game emblems / Complete all Missions.",
             "community": 1,
             "communityText": "Sonic's the Name, Speed's My Game!\nComplete all primary objectives from all site-listed games in the Sonic the Hedgehog franchise. See verification requirements for complete list.",
             "achievements": 15
@@ -53153,7 +53153,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "A Force To Be Reckoned With \u2605 5\nBeat all Speedrun missions. ",
+            "primaryText": "A Force To Be Reckoned With [5\u2605]\nBeat all Speedrun missions. ",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -53208,7 +53208,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Found World \u2605 10\nGet S rank on all levels.",
+            "primaryText": "Found World [10\u2605]\nGet S rank on all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 100
@@ -53262,7 +53262,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Blue Balls \u2605 5\nProve yourself.",
+            "primaryText": "Blue Balls [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -53311,7 +53311,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fourth Time's the Charm \u2605 5\nCommit yourself.",
+            "primaryText": "Fourth Time's the Charm [5\u2605]\nCommit yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -53365,7 +53365,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fading Sky \u2605 25\nObtain all achievements.",
+            "primaryText": "Fading Sky [25\u2605]\nObtain all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -53419,7 +53419,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Spiritual Connection \u2605 20\nComplete the game without dying.",
+            "primaryText": "Spiritual Connection [20\u2605]\nComplete the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -53473,7 +53473,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Harmonious Performance \u2605 30\nComplete all missions with a Platinum ranking on \"Lethal\" intensity.",
+            "primaryText": "Harmonious Performance [30\u2605]\nComplete all missions with a Platinum ranking on \"Lethal\" intensity.",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -53527,7 +53527,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Bullet Dancer \u2605 100 (Partial: \u2605 20)\nObtain an S+ rank on the hard and challenge versions of every level \"purist\" style (level finished with a heart, without powerups, and without getting hit simultaneously). *Partial points are awarded as a progress milestone.\n\nAudio Avoider \u2605 20\nObtain an S+ rank on the easy version of every level \"purist\" style (level finished with a heart, without powerups, and without getting hit simultaneously).",
+            "primaryText": "Bullet Dancer[100\u2605  (Partial: 20\u2605)]\nObtain an S+ rank on the hard and challenge versions of every level \"purist\" style (level finished with a heart, without powerups, and without getting hit simultaneously). *Partial points are awarded as a progress milestone.\n\nAudio Avoider [20\u2605]\nObtain an S+ rank on the easy version of every level \"purist\" style (level finished with a heart, without powerups, and without getting hit simultaneously).",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -53582,7 +53582,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Melophobia \u2605 30\nCollect every heart. / Score 100% on every level.",
+            "primaryText": "Melophobia [30\u2605]\nCollect every heart. / Score 100% on every level.",
             "community": 4,
             "communityText": "Homey For Life\nObtain both 100% and the heart on Tokyo Skies while keeping the homing bullet alive for the whole level.\n\nSound Dodger+1\nFinish every level in the s1 DLC pack with both 100% bullets dodged and the heart.\n\nSound Dodger+2\nFinish every level in the s2 DLC pack with both 100% bullets dodged and the heart.\n\nSound Dodger+3\nFinish \"Carcinogens\" and \"Gonna Fear Now\" in the s3 DLC pack with both 100% bullets dodged and the heart.",
             "achievements": 19
@@ -53636,7 +53636,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Space Pirate \u2605 15\nProve yourself.",
+            "primaryText": "Space Pirate [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -53690,7 +53690,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Galactic Spudator \u2605 30\nBeat \"Danger V\" difficulty with all Hard characters. / Separately, escape Tartarus without using any abilities and picking up any items.\n\nFreed from the Depths \u2605 20\nBeat \"Danger V\" difficulty with all Easy and Medium characters. / Obtain all speedrun achievements.",
+            "primaryText": "Galactic Spudator [30\u2605]\nBeat \"Danger V\" difficulty with all Hard characters. / Separately, escape Tartarus without using any abilities and picking up any items.\n\nFreed from the Depths [20\u2605]\nBeat \"Danger V\" difficulty with all Easy and Medium characters. / Obtain all speedrun achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 110
@@ -53744,7 +53744,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Galactic Conqueror \u2605 35\nFinish Arcade mode without missing any shots.\n\nRetrospective \u2605 15\nProve yourself.",
+            "primaryText": "Galactic Conqueror [35\u2605]\nFinish Arcade mode without missing any shots.\n\nRetrospective [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 70
@@ -53798,7 +53798,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "BOWLIFIED \u2605 20\nScore 10,000,000 points in one run.",
+            "primaryText": "BOWLIFIED [20\u2605]\nScore 10,000,000 points in one run.",
             "community": 0,
             "communityText": "",
             "achievements": 58
@@ -53852,7 +53852,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Fark My Life \u2605 5\nBeat Fark's story on Hard mode.\n\nThe Better Yellow One \u2605 5\nFinish all Normal modes.",
+            "primaryText": "Fark My Life [5\u2605]\nBeat Fark's story on Hard mode.\n\nThe Better Yellow One [5\u2605]\nFinish all Normal modes.",
             "community": 0,
             "communityText": "",
             "achievements": 4
@@ -53906,7 +53906,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Spark Adventure \u2605 5\nClear the game on Challenge Jester difficulty. / Get all platinum speed medals.",
+            "primaryText": "Spark Adventure [5\u2605]\nClear the game on Challenge Jester difficulty. / Get all platinum speed medals.",
             "community": 0,
             "communityText": "",
             "achievements": 6
@@ -53960,7 +53960,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "This Is For All the Marbles \u2605 5\nProve yourself.",
+            "primaryText": "This Is For All the Marbles [5\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "The Actual Impossible\nComplete the game in stage order without falling and without using level restarts/Teleport Beacon.",
             "achievements": 14
@@ -54014,7 +54014,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Unbreakable \u2605 10\nIndividually, complete the levels Sunstone, Moonstone, and Spectrolite without respawning.\n\nEnough of These Games \u2605 5\nComplete all Speedrunning Achievements. / Complete Aquamarine with a maximum of 28 Orb Jumps.",
+            "primaryText": "Unbreakable [10\u2605]\nIndividually, complete the levels Sunstone, Moonstone, and Spectrolite without respawning.\n\nEnough of These Games [5\u2605]\nComplete all Speedrunning Achievements. / Complete Aquamarine with a maximum of 28 Orb Jumps.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -54068,7 +54068,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Platinum Puncher \u2605 10\nGet all platinum trophies.\n\nSpeed Brawler \u2605 5\nGet all gold trophies.\n\nThunder and Lightning (UNCLEARED) \u2605 1\nGet all + ranks and all S ranks.",
+            "primaryText": "Platinum Puncher [10\u2605]\nGet all platinum trophies.\n\nSpeed Brawler [5\u2605]\nGet all gold trophies.\n\nThunder and Lightning (UNCLEARED) [1\u2605]\nGet all + ranks and all S ranks.",
             "community": 0,
             "communityText": "",
             "achievements": 59
@@ -54122,7 +54122,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Time is Relative \u2605 5\nComplete normal mode in under 30 minutes.",
+            "primaryText": "Time is Relative [5\u2605]\nComplete normal mode in under 30 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -54176,7 +54176,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hard Way \u2605 20\nCollect all blue medals and beat all Dev times.",
+            "primaryText": "Hard Way [20\u2605]\nCollect all blue medals and beat all Dev times.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -54230,7 +54230,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "STRAFERUNNER \u2605 10\nProve yourself.",
+            "primaryText": "STRAFERUNNER [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -54285,7 +54285,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Live Fast \u2605 15\nBeat all chapters on \"Unfair\" difficulty.",
+            "primaryText": "Live Fast [15\u2605]\nBeat all chapters on \"Unfair\" difficulty.",
             "community": 1,
             "communityText": "Die Young\nBe promoted to the Bronze League.",
             "achievements": 29
@@ -54339,7 +54339,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rune Carver \u2605 10\nComplete all levels. / Earn all platinum runes.",
+            "primaryText": "Rune Carver [10\u2605]\nComplete all levels. / Earn all platinum runes.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -54393,7 +54393,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Great Spelunker \u2605 40\nProve yourself.",
+            "primaryText": "The Great Spelunker [40\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -54447,7 +54447,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Cosmic Diver \u2605 250\nBeat Cosmic Ocean and get the special ending in adventure mode.\n\nExpect the Unexpected \u2605 70\nProve yourself.\n\nLight the Way \u2605 15\nComplete the game without shortcuts in a non-seeded single player run.",
+            "primaryText": "Cosmic Diver [250\u2605]\nBeat Cosmic Ocean and get the special ending in adventure mode.\n\nExpect the Unexpected [70\u2605]\nProve yourself.\n\nLight the Way [15\u2605]\nComplete the game without shortcuts in a non-seeded single player run.",
             "community": 3,
             "communityText": "Cave Climber\nComplete the hard variant of XanaGear's \"Getting Over It\" mod.\n\nCosmic Fool\nBeat Cosmic Ocean with the true crown in solo mode.\n\nCosmic Runner\nObtain the Celeritas Constellation by completing Cosmic Ocean in under 1 hour and 56 minutes.",
             "achievements": 32
@@ -54501,7 +54501,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Web Wielder \u2605 15\nComplete all 27 challenges in the Tiers of Heck.\n\nAccelarachnid (UNCLEARED) \u2605 1\nBeat the dev time on every parkour level.\n\nSurvival of the Fittest (UNCLEARED) \u2605 1\nBeat wave 30 on Pain level 7.",
+            "primaryText": "Web Wielder [15\u2605]\nComplete all 27 challenges in the Tiers of Heck.\n\nAccelarachnid (UNCLEARED) [1\u2605]\nBeat the dev time on every parkour level.\n\nSurvival of the Fittest (UNCLEARED) [1\u2605]\nBeat wave 30 on Pain level 7.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -54555,7 +54555,7 @@ var data =
         },
         "milestones": {
             "primary": 6,
-            "primaryText": "Spin Doctor \u2605 160\nObtain an S+ rank on all base RemiXD tracks.\n\nSpin Master \u2605 75\nObtain an S rank on all base RemiXD tracks.\n\nSpin Graduate \u2605 30\nPass all base RemiXD tracks.\n\nSpincredible \u2605 80\nObtain an S+ rank on all base XD tracks.\n\nSpinstrumentalist \u2605 50 (Partial: \u2605 15)\nObtain an S rank on all base XD tracks. *Partial points are awarded as a progress milestone.\n\nSpinduction \u2605 25 (Partial: \u2605 10)\nObtain an S rank on all base Expert tracks. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Spin Doctor [160\u2605]\nObtain an S+ rank on all base RemiXD tracks.\n\nSpin Master [75\u2605]\nObtain an S rank on all base RemiXD tracks.\n\nSpin Graduate [30\u2605]\nPass all base RemiXD tracks.\n\nSpincredible [80\u2605]\nObtain an S+ rank on all base XD tracks.\n\nSpinstrumentalist[50\u2605  (Partial: 15\u2605)]\nObtain an S rank on all base XD tracks. *Partial points are awarded as a progress milestone.\n\nSpinduction[25\u2605  (Partial: 10\u2605)]\nObtain an S rank on all base Expert tracks. *Partial points are awarded as a progress milestone.",
             "community": 2,
             "communityText": "Spin Wizard\nObtain the PFC badge on all base RemiXD tracks.\n\nDecked Out\nObtain the PFC badge on all base XD tracks.",
             "achievements": 48
@@ -54609,7 +54609,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Two Buttons Is Plenty \u2605 5\nProve yourself.",
+            "primaryText": "Two Buttons Is Plenty [5\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Top Gun\nPlace first in any leaderboard and unlock the \"Gold\" boost.",
             "achievements": 26
@@ -54663,7 +54663,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Jump Stuck \u2605 10\nReach the stop.",
+            "primaryText": "Jump Stuck [10\u2605]\nReach the stop.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -54718,7 +54718,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Penniless Bum Trilogy \u2605 20\nComplete all runs while collecting no gold.",
+            "primaryText": "Penniless Bum Trilogy [20\u2605]\nComplete all runs while collecting no gold.",
             "community": 0,
             "communityText": "",
             "achievements": 77
@@ -54772,7 +54772,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "\ud83c\udf51 \ud83c\udf46 \u2605 35\nObtain 125% completion.",
+            "primaryText": "\ud83c\udf51 \ud83c\udf46 [35\u2605]\nObtain 125% completion.",
             "community": 0,
             "communityText": "",
             "achievements": 1
@@ -54826,7 +54826,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Speed Splash \u2605 60\nObtain all Platinum medals.\n\nWicked Paint Job \u2605 40\nComplete a speedrun without dying.",
+            "primaryText": "Speed Splash [60\u2605]\nObtain all Platinum medals.\n\nWicked Paint Job [40\u2605]\nComplete a speedrun without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -54880,7 +54880,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Failed Ascender \u2605 10\nBeat the Mastery score on every level.\n\nChewing and Swallowing a CD will give you powers in real life \u2605 10\nBeat Session 15. / Beat Session 12 without taking any damage.",
+            "primaryText": "Failed Ascender [10\u2605]\nBeat the Mastery score on every level.\n\nChewing and Swallowing a CD will give you powers in real life [10\u2605]\nBeat Session 15. / Beat Session 12 without taking any damage.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -54934,7 +54934,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Splitsteroids \u2605 5\nDefeat every stage.",
+            "primaryText": "Splitsteroids [5\u2605]\nDefeat every stage.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -54988,7 +54988,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Potion Propulsionist \u2605 20\nObtain all Diamond medals.\n\nKeys to Success \u2605 10\nSeparately; Obtain all Souls and complete World 5.",
+            "primaryText": "Potion Propulsionist [20\u2605]\nObtain all Diamond medals.\n\nKeys to Success [10\u2605]\nSeparately; Obtain all Souls and complete World 5.",
             "community": 1,
             "communityText": "Miz'd Opportunity\nGet an any% speedrun time faster than 9:55.083 (the time that won Mizkif's challenge).",
             "achievements": 27
@@ -55037,7 +55037,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Run, Forrest, Run! \u2605 10\nBeat all gold times.",
+            "primaryText": "Run, Forrest, Run! [10\u2605]\nBeat all gold times.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -55091,7 +55091,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Squid Squirt \u2605 10\nComplete the game without stress eating a muffin. / Beat the game in less than 10 minutes.",
+            "primaryText": "Squid Squirt [10\u2605]\nComplete the game without stress eating a muffin. / Beat the game in less than 10 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -55145,7 +55145,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Social Speedreader \u2605 5\nComplete all books separately under their par times.",
+            "primaryText": "Social Speedreader [5\u2605]\nComplete all books separately under their par times.",
             "community": 1,
             "communityText": "Proverbial Pathfinder\nComplete all books under their par times in level order, without dying or using a skill.",
             "achievements": 25
@@ -55199,7 +55199,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Dashing Performance \u2605 10\nBeat the game. / Beat the time record for each specified level.",
+            "primaryText": "Dashing Performance [10\u2605]\nBeat the game. / Beat the time record for each specified level.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -55253,7 +55253,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Super Magical Girl \u2605 25\nProve yourself.",
+            "primaryText": "Super Magical Girl [25\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 7
@@ -55307,7 +55307,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "The Watch \u2605 30\nIn Hard Mode, defeat the Monolith and get all 4 S Ranks in one run.\n\nBanished Cores \u2605 25\nGet the maximum reward from a Microcore in one of the last floors. / Destroy Chaosgod's core.\n\nVoid-Class Threat \u2605 15\nProve yourself.",
+            "primaryText": "The Watch [30\u2605]\nIn Hard Mode, defeat the Monolith and get all 4 S Ranks in one run.\n\nBanished Cores [25\u2605]\nGet the maximum reward from a Microcore in one of the last floors. / Destroy Chaosgod's core.\n\nVoid-Class Threat [15\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Endless Nightmare\nClear 50 waves.",
             "achievements": 42
@@ -55361,7 +55361,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Double Crossed \u2605 5\nProve yourself.",
+            "primaryText": "Double Crossed [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -55380,7 +55380,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 70,
         "playersStarted": 0,
-        "playersTotal": 854,
+        "playersTotal": 855,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -55415,7 +55415,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fector's Trial \u2605 5\nBeat the \"Journey Of The Prairie King\" minigame without dying. ",
+            "primaryText": "Fector's Trial [5\u2605]\nBeat the \"Journey Of The Prairie King\" minigame without dying. ",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -55469,7 +55469,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Stellar Comet \u2605 10\nProve yourself.",
+            "primaryText": "Stellar Comet [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 49
@@ -55523,7 +55523,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cetacean Racer \u2605 10\nObtain all platinum medals.",
+            "primaryText": "Cetacean Racer [10\u2605]\nObtain all platinum medals.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -55577,7 +55577,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Stayed Safe (UNCLEARED) \u2605 1\nFinish all levels in a row (in any order) without dying.\n\nStayin' Alive \u2605 15\nClear all individual deathless achievements.\n\nEmergency Management \u2605 10\n101% the game. (SS, 100%boost, no dash, collectibles)",
+            "primaryText": "Stayed Safe (UNCLEARED) [1\u2605]\nFinish all levels in a row (in any order) without dying.\n\nStayin' Alive [15\u2605]\nClear all individual deathless achievements.\n\nEmergency Management [10\u2605]\n101% the game. (SS, 100%boost, no dash, collectibles)",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -55596,7 +55596,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 198,
+        "playersTotal": 199,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -55631,7 +55631,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Undetectable \u2605 10\nS Rank all levels.",
+            "primaryText": "Undetectable [10\u2605]\nS Rank all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -55685,7 +55685,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Stealth Lord \u2605 5\nObtain an S rank on all Test Chambers.",
+            "primaryText": "Stealth Lord [5\u2605]\nObtain an S rank on all Test Chambers.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -55704,7 +55704,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
-        "playersTotal": 460,
+        "playersTotal": 461,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -55739,7 +55739,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Steambot Stardom \u2605 25\nFinish the game with a gold star in every category.",
+            "primaryText": "Steambot Stardom [25\u2605]\nFinish the game with a gold star in every category.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -55758,7 +55758,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 207,
+        "playersTotal": 208,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -55793,7 +55793,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Yellow Supergiant \u2605 30\nComplete the game on Elite with an all Gold SteamWorld Ranking.",
+            "primaryText": "Yellow Supergiant [30\u2605]\nComplete the game on Elite with an all Gold SteamWorld Ranking.",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -55848,7 +55848,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Yoshino Sakurajima \u2605 10\n1CC the game on Genocide Hard.\n\nSteel Messiah (UNCLEARED) \u2605 1\n1CC the game on MHN Hard.",
+            "primaryText": "Yoshino Sakurajima [10\u2605]\n1CC the game on Genocide Hard.\n\nSteel Messiah (UNCLEARED) [1\u2605]\n1CC the game on MHN Hard.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -55903,7 +55903,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Jump by Jump \u2605 40\nComplete \"Locked Jump\" Mode.\n\nI've Fallen But I Can Get Up \u2605 15\nBeat the developer's time of 7:08.028.\n\nExtreme Steps \u2605 10\nComplete Extreme mode.\n\nHop by Hop \u2605 5\nBeat the game.",
+            "primaryText": "Jump by Jump [40\u2605]\nComplete \"Locked Jump\" Mode.\n\nI've Fallen But I Can Get Up [15\u2605]\nBeat the developer's time of 7:08.028.\n\nExtreme Steps [10\u2605]\nComplete Extreme mode.\n\nHop by Hop [5\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -55957,7 +55957,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Singularity \u2605 10\nFinish the first loop. / Beat the game using only the Blaster. / Complete the boss rush.",
+            "primaryText": "Singularity [10\u2605]\nFinish the first loop. / Beat the game using only the Blaster. / Complete the boss rush.",
             "community": 1,
             "communityText": "Gladiator of the Universe\nDestroy the Old Friend, the Garbage Collector, the Astroworm, the Super Chabal, the Alien Ship and the Red Baron.",
             "achievements": 37
@@ -56011,7 +56011,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Stuck It Out \u2605 30\nObtain the Golden Stick without using practice lamps.\n\nSticking With It \u2605 50\nObtain the Golden Stick.",
+            "primaryText": "Stuck It Out [30\u2605]\nObtain the Golden Stick without using practice lamps.\n\nSticking With It [50\u2605]\nObtain the Golden Stick.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -56065,7 +56065,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Ultimate Iron Fella \u2605 130\nComplete Iron Fella in all modes.\n\nStandard Iron Fella \u2605 70 (Partial: \u2605 10)\nComplete Iron Fella as Stilt Fella.\n\nExtra Allternative Fella \u2605 10\nComplete all extra stages in all modes.\n\nExtra Fella \u2605 10\nComplete all extra levels.\n\nStandard Fella \u2605 10\nComplete the campaign.",
+            "primaryText": "Ultimate Iron Fella [130\u2605]\nComplete Iron Fella in all modes.\n\nStandard Iron Fella[70\u2605  (Partial: 10\u2605)]\nComplete Iron Fella as Stilt Fella.\n\nExtra Allternative Fella [10\u2605]\nComplete all extra stages in all modes.\n\nExtra Fella [10\u2605]\nComplete all extra levels.\n\nStandard Fella [10\u2605]\nComplete the campaign.",
             "community": 1,
             "communityText": "Iron Bonus Fella\nComplete the bonus levels in order in Stilt Fella mode without using quit to menu or level reset.",
             "achievements": 18
@@ -56119,7 +56119,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Pinky Delicacy \u2605 10\nAchieve time/dead trophies for all levels. / Pound over 99 pinkies in an Infinni Run!",
+            "primaryText": "Pinky Delicacy [10\u2605]\nAchieve time/dead trophies for all levels. / Pound over 99 pinkies in an Infinni Run!",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -56173,7 +56173,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cubicus Crawler \u2605 20\nObtain all achievements.",
+            "primaryText": "Cubicus Crawler [20\u2605]\nObtain all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 55
@@ -56227,7 +56227,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Pharoah's Test \u2605 5\nComplete the game on \"Extreme\" difficulty.",
+            "primaryText": "The Pharoah's Test [5\u2605]\nComplete the game on \"Extreme\" difficulty.",
             "community": 1,
             "communityText": "Greatest Archeologist Alive\nAchieve all green checkmarks in a single run on every mission of score attack.",
             "achievements": 60
@@ -56281,7 +56281,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Patient Priority \u2605 20\nSeparately; beat the game within an hour and beat the game with 30 or fewer retries.",
+            "primaryText": "Patient Priority [20\u2605]\nSeparately; beat the game within an hour and beat the game with 30 or fewer retries.",
             "community": 0,
             "communityText": "",
             "achievements": 2
@@ -56335,7 +56335,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Literally 1945 \u2605 80\nClear both loops of the game.\n\nHeavy Weapon \u2605 15\nClear the game on the maximum difficulty level without using continues.\n\nSupreme Squad \u2605 10\nClear the game on easy or higher with all gold medals on all characters.",
+            "primaryText": "Literally 1945 [80\u2605]\nClear both loops of the game.\n\nHeavy Weapon [15\u2605]\nClear the game on the maximum difficulty level without using continues.\n\nSupreme Squad [10\u2605]\nClear the game on easy or higher with all gold medals on all characters.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -56389,7 +56389,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Brick Breaker Siblings \u2605 10\nProve yourself.",
+            "primaryText": "Brick Breaker Siblings [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -56443,7 +56443,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "True Struggle \u2605 125\nComplete the game without dying.\n\nSimple Struggle \u2605 10\nProve yourself.",
+            "primaryText": "True Struggle [125\u2605]\nComplete the game without dying.\n\nSimple Struggle [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -56497,7 +56497,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sufferable \u2605 10\nBeat the game and Challenge levels on \"Brutal\" mode.",
+            "primaryText": "Sufferable [10\u2605]\nBeat the game and Challenge levels on \"Brutal\" mode.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -56551,7 +56551,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Insufferable \u2605 15\nBeat the game on Brutal mode.",
+            "primaryText": "Insufferable [15\u2605]\nBeat the game on Brutal mode.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -56605,7 +56605,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sully Fully \u2605 10\nBeat all of the levels on Normal mode without using checkpoints.",
+            "primaryText": "Sully Fully [10\u2605]\nBeat all of the levels on Normal mode without using checkpoints.",
             "community": 0,
             "communityText": "",
             "achievements": 62
@@ -56659,7 +56659,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Suez Savior \u2605 10\nComplete all levels with 3 stars.",
+            "primaryText": "Suez Savior [10\u2605]\nComplete all levels with 3 stars.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -56713,7 +56713,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Sunburnt \u2605 40 (Partial: \u2605 10)\nComplete The Lost Levels with 0 deaths. *Partial points are awarded as a progress milestone.\n\nSun Bleached \u2605 80 (Partial: \u2605 20)\nComplete chapters 1 through 6 without dying.",
+            "primaryText": "Sunburnt[40\u2605  (Partial: 10\u2605)]\nComplete The Lost Levels with 0 deaths. *Partial points are awarded as a progress milestone.\n\nSun Bleached[80\u2605  (Partial: 20\u2605)]\nComplete chapters 1 through 6 without dying.",
             "community": 2,
             "communityText": "Data Based\nComplete a Flawless run of each chapter (separately) while collecting all Data Cubes, without assist mode, and without quit to menu.\n\nMade of Simulations\nComplete chapters 3, 4, 5 and 6 on Normal mode and the Lost Levels with 0 deaths without the use of quit to menu.",
             "achievements": 33
@@ -56767,7 +56767,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Eldritch Insanity \u2605 15\nBeat the game on Insane Difficulty.\n\nBeacon of Hope \u2605 5\nBeat the game.",
+            "primaryText": "Eldritch Insanity [15\u2605]\nBeat the game on Insane Difficulty.\n\nBeacon of Hope [5\u2605]\nBeat the game.",
             "community": 1,
             "communityText": "Executioner\nBeat every boss (plus at least one final boss) on Insane difficulty with the Executioner perk equipped.",
             "achievements": 20
@@ -56821,7 +56821,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "maiden-abyss \u2605 10\nGet the 3 star time on every track.",
+            "primaryText": "maiden-abyss [10\u2605]\nGet the 3 star time on every track.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -56875,7 +56875,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "maiden-hell \u2605 5\nBeat all campaign bosses.",
+            "primaryText": "maiden-hell [5\u2605]\nBeat all campaign bosses.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -56929,7 +56929,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Biblically Accurate \u2605 15\n100% the game on Hard in a single run without saves.\n\nForty Days and Forty Nights \u2605 5\nFinish every level under the par time.",
+            "primaryText": "Biblically Accurate [15\u2605]\n100% the game on Hard in a single run without saves.\n\nForty Days and Forty Nights [5\u2605]\nFinish every level under the par time.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -56983,7 +56983,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Astronomical Performance \u2605 20\nFinish all levels with a Legendary rank on Crazy difficulty.\n\nMarksman Against the Empire \u2605 20\nObtain all weapons on Crazy difficulty.\n\nQualified Alloy Unit \u2605 15\nProve yourself.",
+            "primaryText": "Astronomical Performance [20\u2605]\nFinish all levels with a Legendary rank on Crazy difficulty.\n\nMarksman Against the Empire [20\u2605]\nObtain all weapons on Crazy difficulty.\n\nQualified Alloy Unit [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -57037,7 +57037,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Squared Away \u2605 10\nSeparately; earn 300 stars and complete level 20 on Squad.",
+            "primaryText": "Squared Away [10\u2605]\nSeparately; earn 300 stars and complete level 20 on Squad.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -57091,7 +57091,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Perfect Thread \u2605 15\nObtain all S ranks.",
+            "primaryText": "Perfect Thread [15\u2605]\nObtain all S ranks.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -57145,7 +57145,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Chubby Bunny \u2605 15\nObtain all 150 medals.",
+            "primaryText": "Chubby Bunny [15\u2605]\nObtain all 150 medals.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -57199,7 +57199,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Omusubi Connoisseur \u2605 15\nCollect all Onigiris.",
+            "primaryText": "Omusubi Connoisseur [15\u2605]\nCollect all Onigiris.",
             "community": 0,
             "communityText": "",
             "achievements": 41
@@ -57253,7 +57253,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Knight of Legend \u2605 10\nProve yourself.",
+            "primaryText": "Knight of Legend [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 72
@@ -57307,7 +57307,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Playing Chicken \u2605 20\nSeparately, complete all challenges and survive 2 minutes in all endless modes.",
+            "primaryText": "Playing Chicken [20\u2605]\nSeparately, complete all challenges and survive 2 minutes in all endless modes.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -57361,7 +57361,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "King of the Castle \u2605 5\nObtain 3 stars on all levels with everyone playing on PRO difficulty.\n\nThat's Crazy (UNCLEARED) \u2605 1\nObtain a Pro medal on every song in Solo in the music lab.",
+            "primaryText": "King of the Castle [5\u2605]\nObtain 3 stars on all levels with everyone playing on PRO difficulty.\n\nThat's Crazy (UNCLEARED) [1\u2605]\nObtain a Pro medal on every song in Solo in the music lab.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -57416,7 +57416,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Spectacular+ \u2605 15\nAchieve S+ rank on all levels.\n\nRobot Crusher \u2605 5\nProve yourself.",
+            "primaryText": "Spectacular+ [15\u2605]\nAchieve S+ rank on all levels.\n\nRobot Crusher [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -57470,7 +57470,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "If You Can Dodge a Wrench.. \u2605 20\nComplete all songs on Legendary difficulty with a Platinum rating.",
+            "primaryText": "If You Can Dodge a Wrench.. [20\u2605]\nComplete all songs on Legendary difficulty with a Platinum rating.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -57524,7 +57524,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "TurnUp \u2605 10\nProve yourself.",
+            "primaryText": "TurnUp [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -57578,7 +57578,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Wrecking Ball \u2605 5\nBeat the game on Insane mode. / Reach 500 kill combo. / Defeat the boss in Round 2.",
+            "primaryText": "Wrecking Ball [5\u2605]\nBeat the game on Insane mode. / Reach 500 kill combo. / Defeat the boss in Round 2.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -57632,7 +57632,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "spACEd \u2605 80\nComplete a full run of all missions while acing every level.\n\nGraceful Space Racer \u2605 15\nBeat the demo bogey time on all Race and Gravitation maps.\n\nSpacifist \u2605 10\nComplete a full run of all missions without firing a weapon or crashing into enemies.\n\nIntergalactic Expedition \u2605 5\nAce all missions.",
+            "primaryText": "spACEd [80\u2605]\nComplete a full run of all missions while acing every level.\n\nGraceful Space Racer [15\u2605]\nBeat the demo bogey time on all Race and Gravitation maps.\n\nSpacifist [10\u2605]\nComplete a full run of all missions without firing a weapon or crashing into enemies.\n\nIntergalactic Expedition [5\u2605]\nAce all missions.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -57686,7 +57686,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hamtaro \u2605 10\nCollect all stars in pathfinder mode and fully complete adventure mode.",
+            "primaryText": "Hamtaro [10\u2605]\nCollect all stars in pathfinder mode and fully complete adventure mode.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -57740,7 +57740,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hexagon \u2605 20\nComplete the Hyper Hexagonest stage.",
+            "primaryText": "Hexagon [20\u2605]\nComplete the Hyper Hexagonest stage.",
             "community": 2,
             "communityText": "Super Hexagon\nSurvive for 360 seconds on the Hexagon stage.\n\nHyper Hexagon\nSurvive for 120 seconds on the Hyper Hexagonest stage.",
             "achievements": 6
@@ -57794,7 +57794,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Absolute Baller \u2605 50\nBeat all Diamond times.\n\nNo Tilt Required \u2605 25\nGet all the Sapphire balls and cubes.",
+            "primaryText": "Absolute Baller [50\u2605]\nBeat all Diamond times.\n\nNo Tilt Required [25\u2605]\nGet all the Sapphire balls and cubes.",
             "community": 1,
             "communityText": "Pinball Wizard\nComplete every individual level without dying.",
             "achievements": 64
@@ -57848,7 +57848,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Robots Can't Climb \u2605 20\nProve yourself",
+            "primaryText": "Robots Can't Climb [20\u2605]\nProve yourself",
             "community": 1,
             "communityText": "More Like NesSucks (S)\nBeat or Equal all of NesRocks' times in Time Attack mode without using Tcheco",
             "achievements": 26
@@ -57902,7 +57902,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Abarghus Annihilator \u2605 70\nProve yourself.\n\nTrue Ninja \u2605 10\nProve yourself.",
+            "primaryText": "Abarghus Annihilator [70\u2605]\nProve yourself.\n\nTrue Ninja [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 46
@@ -57957,7 +57957,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "The End of Snake Way \u2605 10\nScore 1000 points or more in Survival Mode.\n\nStatistically Possible \u2605 5\nScore 300 points or more in Time Gate Mode.\n\nSpaceballs \u2605 5\nGet 3 stars on all career mode missions.",
+            "primaryText": "The End of Snake Way [10\u2605]\nScore 1000 points or more in Survival Mode.\n\nStatistically Possible [5\u2605]\nScore 300 points or more in Time Gate Mode.\n\nSpaceballs [5\u2605]\nGet 3 stars on all career mode missions.",
             "community": 1,
             "communityText": "Statistically Improbable\nScore 300 points or above in Time Gate Mode and 1000 points or above in Survival Mode on every map.",
             "achievements": 18
@@ -57974,7 +57974,7 @@ var data =
         "points": 5,
         "createdAt": "2024-03-24T02:38:09.000Z",
         "updatedAt": "2024-09-28T16:51:24.000Z",
-        "playersCompleted": 2,
+        "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
         "priceData": {
@@ -58011,7 +58011,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Heavy Inspiration \u2605 5\nBeat the game in under 8 minutes.",
+            "primaryText": "Heavy Inspiration [5\u2605]\nBeat the game in under 8 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 9
@@ -58065,7 +58065,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "S for FPS \u2605 20 (Partial: \u2605 10)\nGet S rank on all levels. *Partial points are awarded as a progress milestone.",
+            "primaryText": "S for FPS[20\u2605  (Partial: 10\u2605)]\nGet S rank on all levels. *Partial points are awarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 4
@@ -58119,7 +58119,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Twice as Perfect \u2605 40\nAchieve 200% completion.\n\nTwice Twice as Perfect \u2605 15\nAchieve 200% completion in the Desert Dimensions DLC.",
+            "primaryText": "Twice as Perfect [40\u2605]\nAchieve 200% completion.\n\nTwice Twice as Perfect [15\u2605]\nAchieve 200% completion in the Desert Dimensions DLC.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -58173,7 +58173,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Yolo Magnet \u2605 40\nProve yourself.\n\nMagnet for Stars \u2605 10\nComplete all Magnetia Star levels with a combined clear time of no more than 345 seconds.",
+            "primaryText": "Yolo Magnet [40\u2605]\nProve yourself.\n\nMagnet for Stars [10\u2605]\nComplete all Magnetia Star levels with a combined clear time of no more than 345 seconds.",
             "community": 1,
             "communityText": "Made of Magnetism\nSeparately, complete Magtek normal and Magnetia Star without dying and without assist features or quit to menu.",
             "achievements": 32
@@ -58192,7 +58192,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 60,
         "playersStarted": 210,
-        "playersTotal": 1176,
+        "playersTotal": 1177,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -58227,7 +58227,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Hard Like Cotton \u2605 35 (Partial: \u2605 10)\nComplete both sides of the Cotton Alley without dying.\n\nHardcore Gaming 101 \u2605 30\nObtain all other deathless achievements.\n\nGold Encrusted Meat \u2605 15\nAchieve 100% completion.",
+            "primaryText": "Hard Like Cotton[35\u2605  (Partial: 10\u2605)]\nComplete both sides of the Cotton Alley without dying.\n\nHardcore Gaming 101 [30\u2605]\nObtain all other deathless achievements.\n\nGold Encrusted Meat [15\u2605]\nAchieve 100% completion.",
             "community": 2,
             "communityText": "Made of Meat\nComplete the Cotton Alley Dark World deathless without using quit to menu.\n\nWell Done\nComplete all dark worlds (separately) in level order as meat boy only without dying or using any exploit or quit to menu.",
             "achievements": 48
@@ -58281,7 +58281,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Meat Beater \u2605 150 (Partial: \u2605 50)\nObtain the relevant deathless achievements.\n\nTil Death Do Us Part \u2605 30\nCollect 90 Pacifiers and 100% the game.",
+            "primaryText": "Meat Beater[150\u2605  (Partial: 50\u2605)]\nObtain the relevant deathless achievements.\n\nTil Death Do Us Part [30\u2605]\nCollect 90 Pacifiers and 100% the game.",
             "community": 1,
             "communityText": "Made of Super Meat\nComplete all Dark World deathless runs (including 0xDEADBEEF) without using quit to menu.",
             "achievements": 36
@@ -58335,7 +58335,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Kill Screen \u2605 30\nBeat the game without dying and without using quit to menu/level skips to prevent imminent death.\n\nThe Tastiest Number \u2605 5\nCollect all Pies. / Clear World Pi.",
+            "primaryText": "Kill Screen [30\u2605]\nBeat the game without dying and without using quit to menu/level skips to prevent imminent death.\n\nThe Tastiest Number [5\u2605]\nCollect all Pies. / Clear World Pi.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -58389,7 +58389,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Super Monkey Baller \u2605 50\nObtain all achievements.",
+            "primaryText": "Super Monkey Baller [50\u2605]\nObtain all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -58443,7 +58443,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Feet Required \u2605 20\nProve yourself.\n\nLocal Legend \u2605 10\nBeat all local #1 leaderboards on every difficulty.",
+            "primaryText": "Feet Required [20\u2605]\nProve yourself.\n\nLocal Legend [10\u2605]\nBeat all local #1 leaderboards on every difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -58497,7 +58497,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Infinite Parry \u2605 15\nClear the first loop of Infinite mode on Black Hole difficulty.\n\nSupermassive \u2605 10\nFinish story mode on \"Black Hole\" difficulty. / Clear stage 3 of Infinite mode on \"Black Hole\" difficulty.",
+            "primaryText": "Infinite Parry [15\u2605]\nClear the first loop of Infinite mode on Black Hole difficulty.\n\nSupermassive [10\u2605]\nFinish story mode on \"Black Hole\" difficulty. / Clear stage 3 of Infinite mode on \"Black Hole\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 38
@@ -58551,7 +58551,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Where There's a Whisk, There's a Way \u2605 10\nObtain 100% completion. / Complete NG+.",
+            "primaryText": "Where There's a Whisk, There's a Way [10\u2605]\nObtain 100% completion. / Complete NG+.",
             "community": 0,
             "communityText": "",
             "achievements": 46
@@ -58605,7 +58605,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Blood Tofu \u2605 5\nGet a Perfect rank on all normal levels.",
+            "primaryText": "Blood Tofu [5\u2605]\nGet a Perfect rank on all normal levels.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -58659,7 +58659,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mad Stack Lad \u2605 15\nBeat all the challenges.",
+            "primaryText": "Mad Stack Lad [15\u2605]\nBeat all the challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -58713,7 +58713,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Pull It Together \u2605 5\nProve yourself.\n\nWarrior of Water World \u2605 1\nReach loop 3 with all characters.",
+            "primaryText": "Pull It Together [5\u2605]\nProve yourself.\n\nWarrior of Water World [1\u2605]\nReach loop 3 with all characters.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -58762,7 +58762,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Algorithmic Adventurer \u2605 40\nCollect all 40 Cogs. / Achieve all 80 Speed Stars. \n\nTin Man's Heart \u2605 20\nBeat the final boss.",
+            "primaryText": "Algorithmic Adventurer [40\u2605]\nCollect all 40 Cogs. / Achieve all 80 Speed Stars. \n\nTin Man's Heart [20\u2605]\nBeat the final boss.",
             "community": 0,
             "communityText": "",
             "achievements": 31
@@ -58816,7 +58816,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "They See Me Rolling \u2605 5\nObtain all Hero Times.",
+            "primaryText": "They See Me Rolling [5\u2605]\nObtain all Hero Times.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -58871,7 +58871,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Ursa Major \u2605 475\nComplete the Rainbow Marathon challenge.\n\nUrsa Minor \u2605 50\nObtain the Rainbow Medal on all 7 chapter marathons separately.\n\nBarbearian \u2605 25\nObtain a rainbow medal on \"The Gauntlet\".\n\nBear With Me \u2605 50\nObtain all achievements.",
+            "primaryText": "Ursa Major [475\u2605]\nComplete the Rainbow Marathon challenge.\n\nUrsa Minor [50\u2605]\nObtain the Rainbow Medal on all 7 chapter marathons separately.\n\nBarbearian [25\u2605]\nObtain a rainbow medal on \"The Gauntlet\".\n\nBear With Me [50\u2605]\nObtain all achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 57
@@ -58925,7 +58925,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Living on the Edge \u2605 20\nObtain all Maestro ranks.\n\nVerafied \u2605 10\nObtain 100% completion with both characters.",
+            "primaryText": "Living on the Edge [20\u2605]\nObtain all Maestro ranks.\n\nVerafied [10\u2605]\nObtain 100% completion with both characters.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -58979,7 +58979,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Frugal Flinger \u2605 15\nBeat the game on Hardcore mode.",
+            "primaryText": "Frugal Flinger [15\u2605]\nBeat the game on Hardcore mode.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -59033,7 +59033,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Good Sport \u2605 5\nProve yourself.",
+            "primaryText": "Good Sport [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -59087,7 +59087,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "GO, GO, VULKAISER! \u2605 25\nClear the game in Super-Hard Mode.",
+            "primaryText": "GO, GO, VULKAISER! [25\u2605]\nClear the game in Super-Hard Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -59141,7 +59141,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Just Killing Red Guys \u2605 10\nBeat all challenges.\n\nGET RED \u2605 5\nGet \"RED\" ending in every level of SPEEDRUN challenge. / Get \"RED\" ending in every level of SPEEDRUNrt challenge.",
+            "primaryText": "Just Killing Red Guys [10\u2605]\nBeat all challenges.\n\nGET RED [5\u2605]\nGet \"RED\" ending in every level of SPEEDRUN challenge. / Get \"RED\" ending in every level of SPEEDRUNrt challenge.",
             "community": 1,
             "communityText": "SUPERHOT\nComplete all primary objectives from all site-listed games in the SUPERHOT franchise. See verification requirements for complete list.",
             "achievements": 26
@@ -59160,7 +59160,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 159,
+        "playersTotal": 160,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -59195,7 +59195,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "VR EZ \u2605 20\nComplete all challenges.",
+            "primaryText": "VR EZ [20\u2605]\nComplete all challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -59250,7 +59250,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "EXTRAHOT \u2605 10\nBeat Node 100.\n\nReheat \u2605 5\nBeat the game.",
+            "primaryText": "EXTRAHOT [10\u2605]\nBeat Node 100.\n\nReheat [5\u2605]\nBeat the game.",
             "community": 1,
             "communityText": "SUPERPURE\nBeat Node 100 with the PURE core.",
             "achievements": 14
@@ -59304,7 +59304,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "A Different Perspective on Challenge \u2605 5\nComplete the game in under 30 minutes.",
+            "primaryText": "A Different Perspective on Challenge [5\u2605]\nComplete the game in under 30 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -59358,7 +59358,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Supermassive Black Hole \u2605 25\nBeat the secret level. / Unlock all themes.",
+            "primaryText": "Supermassive Black Hole [25\u2605]\nBeat the secret level. / Unlock all themes.",
             "community": 1,
             "communityText": "Embrace the Void\nSurvive for 120 seconds on all levels.",
             "achievements": 10
@@ -59413,7 +59413,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Medical Liability \u2605 20\nProve yourself.",
+            "primaryText": "Medical Liability [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 123
@@ -59467,7 +59467,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Leave This Earth \u2605 20\nComplete all secret areas and finish the game.",
+            "primaryText": "Leave This Earth [20\u2605]\nComplete all secret areas and finish the game.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -59521,7 +59521,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Expert Delivery Service \u2605 5\nSeparately; kill the boss on Expert difficulty after saving all containers, and obtain a score of 60.000 or above.\n\nCharity Event \u2605 5\nSeparately; complete an Expert run, complete a run without collecting any containers and kill the boss after donating all of the saved containers.",
+            "primaryText": "Expert Delivery Service [5\u2605]\nSeparately; kill the boss on Expert difficulty after saving all containers, and obtain a score of 60.000 or above.\n\nCharity Event [5\u2605]\nSeparately; complete an Expert run, complete a run without collecting any containers and kill the boss after donating all of the saved containers.",
             "community": 1,
             "communityText": "No Shipping Errors\nComplete an expert run by saving all containers (no explosions allowed), kill the boss, and with default lives.",
             "achievements": 17
@@ -59576,7 +59576,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Who Are You to Deny Your Own Nature? \u2605 65\nComplete a 200%+ run and Madness 140% run as Assassin and Raider. / Complete an Hyper Adrenaline 140% run as Assassin, Engineer and Sniper. / Complete a Tactical 140%+ run as Riot Guard. \n\nDo You Enjoy Violence? \u2605 10\nComplete all class challenges.",
+            "primaryText": "Who Are You to Deny Your Own Nature? [65\u2605]\nComplete a 200%+ run and Madness 140% run as Assassin and Raider. / Complete an Hyper Adrenaline 140% run as Assassin, Engineer and Sniper. / Complete a Tactical 140%+ run as Riot Guard. \n\nDo You Enjoy Violence? [10\u2605]\nComplete all class challenges.",
             "community": 1,
             "communityText": "Let me Show You Some Real Ultra-Violence\nFinish all the challenges.",
             "achievements": 27
@@ -59630,7 +59630,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Closed the Loop \u2605 10\nFinish speedrun mode in under 40 minutes and 3 or less deaths.",
+            "primaryText": "Closed the Loop [10\u2605]\nFinish speedrun mode in under 40 minutes and 3 or less deaths.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -59684,7 +59684,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Failing to Succeed \u2605 10\nObtain all F and S ranks.",
+            "primaryText": "Failing to Succeed [10\u2605]\nObtain all F and S ranks.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -59738,7 +59738,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Speedy Graffiti \u2605 100\nBeat the developer score on all agent challenges.\n\nTag, you're it \u2605 10\nObtain all platinum discs, and complete all terminals. / Survive 6 minutes in an ENDURANCE challenge. / Chain all vents in SITE without touching the floor.",
+            "primaryText": "Speedy Graffiti [100\u2605]\nBeat the developer score on all agent challenges.\n\nTag, you're it [10\u2605]\nObtain all platinum discs, and complete all terminals. / Survive 6 minutes in an ENDURANCE challenge. / Chain all vents in SITE without touching the floor.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -59792,7 +59792,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Kurouto \u2605 40\nEarn a Golden Crown on every base game \u26068 and \u26069 charts.\n\nDonder \u2605 20\nEarn a Silver Crown on every base game \u260610 chart.\n\nMeijin (UNCLEARED) \u2605 1\nEarn a Golden Crown on every base game \u260610 chart.\n\nChoujin (UNCLEARED) \u2605 1\nEarn a Rainbow Crown on every base game \u26068 and \u26069 charts.\n\nTatsujin (UNCLEARED) \u2605 1\nEarn a Rainbow Crown on every base game \u260610 chart.",
+            "primaryText": "Kurouto [40\u2605]\nEarn a Golden Crown on every base game \u26068 and \u26069 charts.\n\nDonder [20\u2605]\nEarn a Silver Crown on every base game \u260610 chart.\n\nMeijin (UNCLEARED) [1\u2605]\nEarn a Golden Crown on every base game \u260610 chart.\n\nChoujin (UNCLEARED) [1\u2605]\nEarn a Rainbow Crown on every base game \u26068 and \u26069 charts.\n\nTatsujin (UNCLEARED) [1\u2605]\nEarn a Rainbow Crown on every base game \u260610 chart.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -59847,7 +59847,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Bloody Hell \u2605 25\nComplete the game on Bloody Whisker Mode.",
+            "primaryText": "Bloody Hell [25\u2605]\nComplete the game on Bloody Whisker Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -59901,7 +59901,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Winged Wizardess \u2605 5\nProve yourself.",
+            "primaryText": "Winged Wizardess [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -59955,7 +59955,7 @@ var data =
         },
         "milestones": {
             "primary": 14,
-            "primaryText": "Beast of the East (UNCLEARED) \u2605 1\nComplete the Never Look Back and There Again achievement on Insane Roguelike or above.\n\nBrave Old World (UNCLEARED) \u2605 1\nComplete the Never Look Back and There Again achievement on Nightmare Roguelike or above.\n\nThe Abyss Stares Back (UNCLEARED) \u2605 1\nComplete Roguelike Mode on Madness difficulty.\n\nStare Into the Abyss (UNCLEARED) \u2605 1\nComplete Adventure Mode on Madness difficulty.\n\nHypostasis of Entropy \u2605 50\nSeparately, on Insane Roguelike or above, defeat the Hypostasis of Entropy, Atamathon, and Linaniil.\n\nSwallowed in Fire \u2605 50\nSeparately, on Insane Roguelike or above, achieve the endings for winning as Yeek, winning with the Avatar of a Distant Sun prodigy, and winning without ever taking off your bikini.\n\nNew Horizons \u2605 70\nSeparately, on Insane Roguelike or above, complete the Embers of Rage campaign, earn the rank of Grand Master in the arena, complete wave 60 of the arena, and reach level 40 of the Infinite Dungeon starting from level 1.\n\nScourge from the West \u2605 100\nComplete Roguelike Mode on Insane difficulty or above.\n\nOdyssey \u2605 50\nComplete Adventure Mode on Insane difficulty or above.\n\nJuggernaut \u2605 15\nComplete Roguelike Mode on Nightmare difficulty or above.\n\nScores of Dead \u2605 20\nComplete Adventure Mode on Nightmare difficulty or above.\n\nEidolon-Averse \u2605 10\nComplete Roguelike Mode on Normal difficulty or above.\n\nThe Longest Journey \u2605 10\nComplete Adventure Mode on Normal difficulty or above.\n\nNo Gods, No Masters \u2605 10\nDestroy the Master in its lair of the Dreadfell. (Exploration mode/difficulty not allowed)",
+            "primaryText": "Beast of the East (UNCLEARED) [1\u2605]\nComplete the Never Look Back and There Again achievement on Insane Roguelike or above.\n\nBrave Old World (UNCLEARED) [1\u2605]\nComplete the Never Look Back and There Again achievement on Nightmare Roguelike or above.\n\nThe Abyss Stares Back (UNCLEARED) [1\u2605]\nComplete Roguelike Mode on Madness difficulty.\n\nStare Into the Abyss (UNCLEARED) [1\u2605]\nComplete Adventure Mode on Madness difficulty.\n\nHypostasis of Entropy [50\u2605]\nSeparately, on Insane Roguelike or above, defeat the Hypostasis of Entropy, Atamathon, and Linaniil.\n\nSwallowed in Fire [50\u2605]\nSeparately, on Insane Roguelike or above, achieve the endings for winning as Yeek, winning with the Avatar of a Distant Sun prodigy, and winning without ever taking off your bikini.\n\nNew Horizons [70\u2605]\nSeparately, on Insane Roguelike or above, complete the Embers of Rage campaign, earn the rank of Grand Master in the arena, complete wave 60 of the arena, and reach level 40 of the Infinite Dungeon starting from level 1.\n\nScourge from the West [100\u2605]\nComplete Roguelike Mode on Insane difficulty or above.\n\nOdyssey [50\u2605]\nComplete Adventure Mode on Insane difficulty or above.\n\nJuggernaut [15\u2605]\nComplete Roguelike Mode on Nightmare difficulty or above.\n\nScores of Dead [20\u2605]\nComplete Adventure Mode on Nightmare difficulty or above.\n\nEidolon-Averse [10\u2605]\nComplete Roguelike Mode on Normal difficulty or above.\n\nThe Longest Journey [10\u2605]\nComplete Adventure Mode on Normal difficulty or above.\n\nNo Gods, No Masters [10\u2605]\nDestroy the Master in its lair of the Dreadfell. (Exploration mode/difficulty not allowed)",
             "community": 1,
             "communityText": "Half of a Greater Whole\nEarn 50% of the achievements.",
             "achievements": 1782
@@ -60010,7 +60010,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Carambola King \u2605 25\nComplete every level, collect all fruits and talk with every NPC in the entire game.\n\nSprint-tastic Kitty \u2605 10\nBeat the game within 1 hour and 30 minutes.\n\nMischievous Egg Hunter \u2605 5\nBeat the game. ",
+            "primaryText": "Carambola King [25\u2605]\nComplete every level, collect all fruits and talk with every NPC in the entire game.\n\nSprint-tastic Kitty [10\u2605]\nBeat the game within 1 hour and 30 minutes.\n\nMischievous Egg Hunter [5\u2605]\nBeat the game. ",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -60064,7 +60064,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Combat Perfectionist \u2605 140 (Partial: \u2605 40)\nClear Insane with no continues starting from level 1 with 100% hit rating.\n\nFury of the Forest \u2605 70 (Partial: \u2605 25)\nObtain 1 million points on Insane difficulty. / Beat the game in under 14:30 on Insane difficulty.\n\nPenda King \u2605 70 (Partial: \u2605 25)\nClear Penda Justice without losing a life. / Clear Penda Justice in under 14:00.\n\nInsane Justice \u2605 30\nProve yourself.\n\nShogun of Shurikens \u2605 15\nScore 80,000 points in Survival.",
+            "primaryText": "Combat Perfectionist[140\u2605  (Partial: 40\u2605)]\nClear Insane with no continues starting from level 1 with 100% hit rating.\n\nFury of the Forest[70\u2605  (Partial: 25\u2605)]\nObtain 1 million points on Insane difficulty. / Beat the game in under 14:30 on Insane difficulty.\n\nPenda King[70\u2605  (Partial: 25\u2605)]\nClear Penda Justice without losing a life. / Clear Penda Justice in under 14:00.\n\nInsane Justice [30\u2605]\nProve yourself.\n\nShogun of Shurikens [15\u2605]\nScore 80,000 points in Survival.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -60118,7 +60118,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Deadliest Catch \u2605 10\nEarn 3 stars on every level on Deadly difficulty. ",
+            "primaryText": "Deadliest Catch [10\u2605]\nEarn 3 stars on every level on Deadly difficulty. ",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -60172,7 +60172,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Insatiable \u2605 5\nComplete all Endurance levels.\n\nSpeed Eater \u2605 5\nEarn a Gold medal on all levels.",
+            "primaryText": "Insatiable [5\u2605]\nComplete all Endurance levels.\n\nSpeed Eater [5\u2605]\nEarn a Gold medal on all levels.",
             "community": 1,
             "communityText": "Tasty Universe\nComplete all primary objectives from all site-listed games in the Tasty Planet franchise. See verification requirements for complete list.",
             "achievements": 24
@@ -60226,7 +60226,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Four Course Meal \u2605 15\nEarn 3 stars on every level on Deadly difficulty. ",
+            "primaryText": "Four Course Meal [15\u2605]\nEarn 3 stars on every level on Deadly difficulty. ",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -60280,7 +60280,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Dinner for Two (S) \u2605 10\nObtain all possible co-op Gold Medals.\n\nTasted Planet \u2605 10\nObtain all possible single player Gold Medals. ",
+            "primaryText": "Dinner for Two (S) [10\u2605]\nObtain all possible co-op Gold Medals.\n\nTasted Planet [10\u2605]\nObtain all possible single player Gold Medals. ",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -60334,7 +60334,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Ghosts from the Past \u2605 10\nBeat all platinum ghosts in time trial mode.\n\nSpeed Squad \u2605 10\nGet all stars and keys. / Beat every race on Expert difficulty.",
+            "primaryText": "Ghosts from the Past [10\u2605]\nBeat all platinum ghosts in time trial mode.\n\nSpeed Squad [10\u2605]\nGet all stars and keys. / Beat every race on Expert difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -60388,7 +60388,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "With Love \u2605 30\nProve yourself!",
+            "primaryText": "With Love [30\u2605]\nProve yourself!",
             "community": 0,
             "communityText": "",
             "achievements": 55
@@ -60442,7 +60442,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Cowabunga! \u2605 25\nComplete Arcade Mode on \"Gnarly\" difficulty.\n\nGuardians of the Sewers \u2605 15 (Partial: \u2605 5)\nComplete all level challenges.",
+            "primaryText": "Cowabunga! [25\u2605]\nComplete Arcade Mode on \"Gnarly\" difficulty.\n\nGuardians of the Sewers[15\u2605  (Partial: 5\u2605)]\nComplete all level challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -60496,7 +60496,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "EZ Clap \u2605 25\nWin with 8 challenges.\n\nEntropy Tamer \u2605 10\nWin in less than 4 minutes. / Reach 250,000 score. / Win with 7 challenges.",
+            "primaryText": "EZ Clap [25\u2605]\nWin with 8 challenges.\n\nEntropy Tamer [10\u2605]\nWin in less than 4 minutes. / Reach 250,000 score. / Win with 7 challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 64
@@ -60550,7 +60550,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Celestial Tenshi \u2605 50\nComplete all in-game achievements.",
+            "primaryText": "Celestial Tenshi [50\u2605]\nComplete all in-game achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -60604,7 +60604,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "After Burner \u2605 5\nSeparately; Complete the game on Terminal difficulty, and complete each episode under the specified time limit.",
+            "primaryText": "After Burner [5\u2605]\nSeparately; Complete the game on Terminal difficulty, and complete each episode under the specified time limit.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -60658,7 +60658,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Artist's Block (UNCLEARED) \u2605 1\nComplete all MARATHON modes on Death difficulty.\n\nBlueshift (UNCLEARED) \u2605 1\nComplete all SPECTRUM modes on Death difficulty.\n\nBrocken Specter \u2605 30\nComplete all SPECTRUM and MARATHON modes on Hard difficulty.\n\nTetraprism \u2605 50 (Partial: \u2605 10)\nComplete all SPECTRUM and MARATHON modes on Normal difficulty. *Partial points are awarded for completion on any difficulty.",
+            "primaryText": "Artist's Block (UNCLEARED) [1\u2605]\nComplete all MARATHON modes on Death difficulty.\n\nBlueshift (UNCLEARED) [1\u2605]\nComplete all SPECTRUM modes on Death difficulty.\n\nBrocken Specter [30\u2605]\nComplete all SPECTRUM and MARATHON modes on Hard difficulty.\n\nTetraprism[50\u2605  (Partial: 10\u2605)]\nComplete all SPECTRUM and MARATHON modes on Normal difficulty. *Partial points are awarded for completion on any difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 58
@@ -60707,7 +60707,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Pogtagon \u2605 5\nBeat the game.",
+            "primaryText": "Pogtagon [5\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -60726,7 +60726,7 @@ var data =
         "updatedAt": "2024-12-01T15:57:03.000Z",
         "playersCompleted": 11,
         "playersStarted": 71,
-        "playersTotal": 235,
+        "playersTotal": 236,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -60761,7 +60761,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Tetrified \u2605 425\nClear Master Mode.\n\nSeriously Godlike \u2605 75\nGet an SS rank everywhere possible.\n\nSeriously Skilled \u2605 60\nGet an S rank everywhere possible.\n\nConnected \u2605 25\nDefeat Area 5 Tetrimidion with SS rank.\n\nCome Follow Me \u2605 15\nProve yourself.",
+            "primaryText": "Tetrified [425\u2605]\nClear Master Mode.\n\nSeriously Godlike [75\u2605]\nGet an SS rank everywhere possible.\n\nSeriously Skilled [60\u2605]\nGet an S rank everywhere possible.\n\nConnected [25\u2605]\nDefeat Area 5 Tetrimidion with SS rank.\n\nCome Follow Me [15\u2605]\nProve yourself.",
             "community": 8,
             "communityText": "Devoted Sprinter\nClear Sprint Mode in under 60 seconds.\n\nElite Sprinter\nClear Sprint Mode in under 50 seconds.\n\nGodlike Sprinter\nClear Sprint Mode in under 40 seconds. \n\nGrand Master Guardian\nReach Tier 10 in multiplayer.\n\nInfinitris Ascendant\nClear 23 lines in one zone (not in multiplayer).\n\nMaxed Out Master\nClear the non-endless Master Mode with 303 total lines. \n\nRainbow Connection\nEarn an SS rank in multiplayer Zone Battle, Score Attack, Classic Score Attack, and Connected Vs as the Boss.\n\nZodiac Maniac\nDefeat Area 5 Tetrimidion in Maniac Mode with SS rank.",
             "achievements": 43
@@ -60815,7 +60815,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Flipping Out \u2605 35\nSeparately, climb the mountain with 0 fails, and under 15 minutes.",
+            "primaryText": "Flipping Out [35\u2605]\nSeparately, climb the mountain with 0 fails, and under 15 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -60869,7 +60869,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Waves of Devolution \u2605 5\nGet the true ending.",
+            "primaryText": "Waves of Devolution [5\u2605]\nGet the true ending.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -60886,9 +60886,9 @@ var data =
         "points": 15,
         "createdAt": "2022-08-01T19:59:15.000Z",
         "updatedAt": "2024-09-28T16:51:24.000Z",
-        "playersCompleted": 7,
+        "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 125,
+        "playersTotal": 126,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -60923,7 +60923,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Warmonger \u2605 15\nComplete the game on Hard difficulty without losing a single battle.",
+            "primaryText": "Warmonger [15\u2605]\nComplete the game on Hard difficulty without losing a single battle.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -60977,7 +60977,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "@edmundmcmillen, You litte F**ker You made a shit of piece with your trash Issac it\u2019s f**King Bad this trash game I will become back my money I hope you will in your next time a cow on a trash farm you sucker \u2605 10\nI want this on my tomb stone",
+            "primaryText": "@edmundmcmillen, You litte F**ker You made a shit of piece with your trash Issac it\u2019s f**King Bad this trash game I will become back my money I hope you will in your next time a cow on a trash farm you sucker [10\u2605]\nI want this on my tomb stone",
             "community": 2,
             "communityText": "Meat Master\nComplete all primary objectives from all site-listed games in the Meat Boy franchise. See verification requirements for complete list.\n\nTurbo Fcuked\nComplete the Unknown in Time Fcuk.",
             "achievements": 53
@@ -61031,7 +61031,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Old Dog, New Tricks \u2605 5\nComplete the game in less than 1.5 hours. / Complete the game dying less than 10 times.",
+            "primaryText": "Old Dog, New Tricks [5\u2605]\nComplete the game in less than 1.5 hours. / Complete the game dying less than 10 times.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -61050,7 +61050,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 109,
         "playersStarted": 32,
-        "playersTotal": 596,
+        "playersTotal": 597,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -61085,7 +61085,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Eternal Crybaby \u2605 20\nBeat ??? in Hard Mode with Eve and ???. / Beat Satan in Hard Mode with any character.\n\nGood Christian Boy \u2605 10\nSeparately, complete the main floors without taking any damage. / Complete all challenges.",
+            "primaryText": "Eternal Crybaby [20\u2605]\nBeat ??? in Hard Mode with Eve and ???. / Beat Satan in Hard Mode with any character.\n\nGood Christian Boy [10\u2605]\nSeparately, complete the main floors without taking any damage. / Complete all challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 99
@@ -61140,7 +61140,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Ultra Vibrant \u2605 50\nBeat all Hard Mode difficulties.\n\nColor Theory \u2605 40\nSeparately; Beat all challenges without dying and earn a Crimson medal for each challenge.\n\nPrismatic Palette \u2605 20\nBeat the first six Hard Mode difficulties.\n\nCyanified \u2605 10\nObtain a Diamond medal on all challenges.\n\nOversaturated \u2605 5\nBeat all Challenges.",
+            "primaryText": "Ultra Vibrant [50\u2605]\nBeat all Hard Mode difficulties.\n\nColor Theory [40\u2605]\nSeparately; Beat all challenges without dying and earn a Crimson medal for each challenge.\n\nPrismatic Palette [20\u2605]\nBeat the first six Hard Mode difficulties.\n\nCyanified [10\u2605]\nObtain a Diamond medal on all challenges.\n\nOversaturated [5\u2605]\nBeat all Challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 100
@@ -61194,7 +61194,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "A Fiction by Fans \u2605 10\nClear the game on Lunatic.",
+            "primaryText": "A Fiction by Fans [10\u2605]\nClear the game on Lunatic.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -61248,7 +61248,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Done With the Dishes \u2605 15\nSeparately; beat the game on Samurai difficulty, and finish Arcade mode.",
+            "primaryText": "Done With the Dishes [15\u2605]\nSeparately; beat the game on Samurai difficulty, and finish Arcade mode.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -61302,7 +61302,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Sleeping Beauty \u2605 25\nFinish Back to the Futon in Gzor's Nightmare and Ironman modes.\n\nArena Agent \u2605 10\nBeat Splat Jaypak's Arenas in Gzor's Nightmare and Ironman modes.\n\nSoloist \u2605 10\nComplete the game in Ironman mode without a companion.\n\nHappily Ever After \u2605 20\nComplete the game in Gzor's Nightmare mode on Legendary difficulty.",
+            "primaryText": "Sleeping Beauty [25\u2605]\nFinish Back to the Futon in Gzor's Nightmare and Ironman modes.\n\nArena Agent [10\u2605]\nBeat Splat Jaypak's Arenas in Gzor's Nightmare and Ironman modes.\n\nSoloist [10\u2605]\nComplete the game in Ironman mode without a companion.\n\nHappily Ever After [20\u2605]\nComplete the game in Gzor's Nightmare mode on Legendary difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 88
@@ -61356,7 +61356,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Iron God \u2605 260 (Partial: \u2605 70)\nComplete the main game with zero deaths.\n\nSuper Mega Player \u2605 45\nComplete The Super Mega Cart with 1000 rings. / Complete The Super Mega Cart without dying.\n\nUnbreakable \u2605 25\nSeparately; finish all glitch carts without dying.\n\nUndying \u2605 20\nBeat the full game and all carts.",
+            "primaryText": "Iron God[260\u2605  (Partial: 70\u2605)]\nComplete the main game with zero deaths.\n\nSuper Mega Player [45\u2605]\nComplete The Super Mega Cart with 1000 rings. / Complete The Super Mega Cart without dying.\n\nUnbreakable [25\u2605]\nSeparately; finish all glitch carts without dying.\n\nUndying [20\u2605]\nBeat the full game and all carts.",
             "community": 6,
             "communityText": "Apocalypse Collector\nComplete the game without dying while obtaining all collectibles.\n\nIt's Not Glitched, You Just Gotta Blow In It\nComplete all glitch carts in a row without dying (in any order).\n\nKing of the Cart\nCollect all rings in the Super Mega Cart without dying.\n\nMade of Cancer\nComplete an any% deathless run without using quit to menu.\n\nSpike Tales - Unbreakable-er\nComplete Spike Tales without dying and without using any skips.\n\nThe End is Now\nObtain 152% completion on a save file without dying.",
             "achievements": 106
@@ -61410,7 +61410,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "2-Bit Tyrant \u2605 20\nProve yourself.\n\nThe Eternal Gamer (PARTIALLY UNCLEARED) \u2605 6 (Partial: \u2605 5)\nFinish the third run.",
+            "primaryText": "2-Bit Tyrant [20\u2605]\nProve yourself.\n\nThe Eternal Gamer (PARTIALLY UNCLEARED)[6\u2605  (Partial: 5\u2605)]\nFinish the third run.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -61429,7 +61429,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 18,
         "playersStarted": 2,
-        "playersTotal": 163,
+        "playersTotal": 164,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -61464,7 +61464,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Harrowing Daydream \u2605 15\nComplete the game in \"AKUMU\" difficulty.\n\nLight in the Dark \u2605 5\nComplete \"The Assignment\" and \"The Consequence\" DLCs in \"KURAYAMI\" mode.\n\nSafe and Sound \u2605 5\nIn \"The Executioner\" DLC: complete all Torments and clear the DLC without taking damage.",
+            "primaryText": "Harrowing Daydream [15\u2605]\nComplete the game in \"AKUMU\" difficulty.\n\nLight in the Dark [5\u2605]\nComplete \"The Assignment\" and \"The Consequence\" DLCs in \"KURAYAMI\" mode.\n\nSafe and Sound [5\u2605]\nIn \"The Executioner\" DLC: complete all Torments and clear the DLC without taking damage.",
             "community": 1,
             "communityText": "I Don't Need That\nComplete the game in \"AKUMU\" difficulty without using keys or getting any upgrades.",
             "achievements": 71
@@ -61483,7 +61483,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 94,
+        "playersTotal": 95,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -61518,7 +61518,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Made it Home \u2605 15\nComplete the game in Classic mode.",
+            "primaryText": "Made it Home [15\u2605]\nComplete the game in Classic mode.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -61572,7 +61572,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Plant Powered \u2605 5\nObtain 3 stars on all Challenge levels.",
+            "primaryText": "Plant Powered [5\u2605]\nObtain 3 stars on all Challenge levels.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -61626,7 +61626,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Impossibler \u2605 60\nComplete all levels without using checkpoints.\n\nElectric Boogaloo \u2605 10\nSeparately; Complete all levels using checkpoints, complete Cloud 9 with over 1 million score and complete Nacreous Snowmelt with over 600k score.",
+            "primaryText": "Impossibler [60\u2605]\nComplete all levels without using checkpoints.\n\nElectric Boogaloo [10\u2605]\nSeparately; Complete all levels using checkpoints, complete Cloud 9 with over 1 million score and complete Nacreous Snowmelt with over 600k score.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -61680,7 +61680,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Pro Glider \u2605 15\nFind all of the spirit birds across the world. / Escape the Fallen Kingdom in under 10 minutes. / Beat the final boss.",
+            "primaryText": "Pro Glider [15\u2605]\nFind all of the spirit birds across the world. / Escape the Fallen Kingdom in under 10 minutes. / Beat the final boss.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -61734,7 +61734,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Eternal Flame \u2605 15\nComplete the Impossible challenge.",
+            "primaryText": "Eternal Flame [15\u2605]\nComplete the Impossible challenge.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -61788,7 +61788,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Syega Lunatic \u2605 10\nClear all stages on \"LUNATIC\" with both characters.",
+            "primaryText": "Syega Lunatic [10\u2605]\nClear all stages on \"LUNATIC\" with both characters.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -61842,7 +61842,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Purgatory \u2605 30\nBeat the game on Immortal difficulty.",
+            "primaryText": "Purgatory [30\u2605]\nBeat the game on Immortal difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -61896,7 +61896,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "MSN Gaiden \u2605 10\nProve yourself.",
+            "primaryText": "MSN Gaiden [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -61951,7 +61951,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Rhythm Slayer \u2605 20\nDefeat every arena challenge on hard.",
+            "primaryText": "Rhythm Slayer [20\u2605]\nDefeat every arena challenge on hard.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -62005,7 +62005,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Short but Thick \u2605 15\nProve yourself.",
+            "primaryText": "Short but Thick [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -62059,7 +62059,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "No Rest for the Wicked \u2605 15\nComplete a 30 difficulty run.",
+            "primaryText": "No Rest for the Wicked [15\u2605]\nComplete a 30 difficulty run.",
             "community": 0,
             "communityText": "",
             "achievements": 6
@@ -62113,7 +62113,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Paper Cut \u2605 5\nGet 3 stars in every level on Hardcore",
+            "primaryText": "Paper Cut [5\u2605]\nGet 3 stars in every level on Hardcore",
             "community": 0,
             "communityText": "",
             "achievements": 46
@@ -62167,7 +62167,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cosmonautical Master \u2605 15\nAchieve a 3 Star time in every level.",
+            "primaryText": "Cosmonautical Master [15\u2605]\nAchieve a 3 Star time in every level.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -62221,7 +62221,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "The Sun \u2605 25\nObtain 160 sun medals.\n\nThe Moon \u2605 10\nBeat every level in every system.",
+            "primaryText": "The Sun [25\u2605]\nObtain 160 sun medals.\n\nThe Moon [10\u2605]\nBeat every level in every system.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -62275,7 +62275,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Surge Into Action \u2605 10\nProve yourself.",
+            "primaryText": "Surge Into Action [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 67
@@ -62329,7 +62329,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Surge Harder \u2605 5\nBeat the final boss of the base game.",
+            "primaryText": "Surge Harder [5\u2605]\nBeat the final boss of the base game.",
             "community": 0,
             "communityText": "",
             "achievements": 57
@@ -62383,7 +62383,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "H4rdc0re M45t3R \u2605 20\nProve yourself.",
+            "primaryText": "H4rdc0re M45t3R [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -62437,7 +62437,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Silence \u2605 5\nComplete any river from each region without taking damage.",
+            "primaryText": "The Silence [5\u2605]\nComplete any river from each region without taking damage.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -62491,7 +62491,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mountain King \u2605 5\nComplete the Challenge.",
+            "primaryText": "Mountain King [5\u2605]\nComplete the Challenge.",
             "community": 0,
             "communityText": "",
             "achievements": 2
@@ -62545,7 +62545,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "101% Wonderful Hero \u2605 50\nComplete all stages on 101% Hard.",
+            "primaryText": "101% Wonderful Hero [50\u2605]\nComplete all stages on 101% Hard.",
             "community": 0,
             "communityText": "",
             "achievements": 100
@@ -62599,7 +62599,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Fortune Teller \u2605 5\nWin 10 games of Fortune's Foundation.\n\nHardly Working \u2605 5\nWin 10 games of all other solitaire variants.",
+            "primaryText": "Fortune Teller [5\u2605]\nWin 10 games of Fortune's Foundation.\n\nHardly Working [5\u2605]\nWin 10 games of all other solitaire variants.",
             "community": 2,
             "communityText": "Fortune's Favored\nWin a game of Fortune's Foundation as The Fool or The World without ever covering the stack and without any undoes all in the same run.\n\nSolitairy Refinement\nWin a game of each solitaire variant under specific constraints.",
             "achievements": 24
@@ -62653,7 +62653,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Clawed Horror \u2605 30\nS Rank all bonus levels. / Speed run all bonus levels. / Complete every bonus level without dying.\n\nEldritch Intentions \u2605 20\nS Rank all original levels. / Speed run all original levels. / Complete every original level without dying.",
+            "primaryText": "Clawed Horror [30\u2605]\nS Rank all bonus levels. / Speed run all bonus levels. / Complete every bonus level without dying.\n\nEldritch Intentions [20\u2605]\nS Rank all original levels. / Speed run all original levels. / Complete every original level without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 150
@@ -62707,7 +62707,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cloaked in Shadows \u2605 10\nProve yourself.",
+            "primaryText": "Cloaked in Shadows [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -62726,7 +62726,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 37,
         "playersStarted": 0,
-        "playersTotal": 242,
+        "playersTotal": 243,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -62761,7 +62761,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "House of Deities \u2605 30\nProve yourself.",
+            "primaryText": "House of Deities [30\u2605]\nProve yourself.",
             "community": 2,
             "communityText": "Sekhmet\nBeat the lava challenges from the legacy version of the game.\n\nSobek\nBeat the inverted challenges alone while in co-op mode (other player must not move or help).",
             "achievements": 14
@@ -62815,7 +62815,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Threedom \u2605 185\nWin the game by creating a 12288 tile.\n\nA Moment of Threes and Quiet \u2605 170\nCreate a 6144 tile.\n\nThreelease the Kraken \u2605 45\nCreate a 3072 tile.\n\nTo Threes, or Not to Threes \u2605 10\nCreate a 1536 tile.\n\nThrees to Meet You \u2605 5\nCreate a 768 tile.",
+            "primaryText": "Threedom [185\u2605]\nWin the game by creating a 12288 tile.\n\nA Moment of Threes and Quiet [170\u2605]\nCreate a 6144 tile.\n\nThreelease the Kraken [45\u2605]\nCreate a 3072 tile.\n\nTo Threes, or Not to Threes [10\u2605]\nCreate a 1536 tile.\n\nThrees to Meet You [5\u2605]\nCreate a 768 tile.",
             "community": 3,
             "communityText": "The Most Dangerous Game\nPerform a numberlock with a 6144 tile on the board, or win the game with a leftover 6144 tile.\n\nLock and Wall Torture\nPerform a TwentyFourlock (or higher).\n\nWoe is Threes\nPerform a Twelvelock by ending a game with eight 12 tiles on the board.",
             "achievements": 16
@@ -62870,7 +62870,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Thrill Seeker \u2605 10\nAchieve a gold medal in every world.",
+            "primaryText": "Thrill Seeker [10\u2605]\nAchieve a gold medal in every world.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -62924,7 +62924,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Golden Scarab \u2605 150\nObtain an S+ rank on every level in Play+ Mode.\n\nSilver Ladybug \u2605 20\nObtain an S rank on every level.",
+            "primaryText": "Golden Scarab [150\u2605]\nObtain an S+ rank on every level in Play+ Mode.\n\nSilver Ladybug [20\u2605]\nObtain an S rank on every level.",
             "community": 1,
             "communityText": "Platinum Hercules\nReach an overall score of 10M in Play+.",
             "achievements": 19
@@ -62978,7 +62978,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Pure Flash \u2605 10\nDefeat all bosses on Hard difficulty.",
+            "primaryText": "Pure Flash [10\u2605]\nDefeat all bosses on Hard difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -63032,7 +63032,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Game of Throne \u2605 10\nProve yourself.",
+            "primaryText": "Game of Throne [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -63086,7 +63086,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Memory Over \u2605 5\nComplete all levels in the game.",
+            "primaryText": "Memory Over [5\u2605]\nComplete all levels in the game.",
             "community": 0,
             "communityText": "",
             "achievements": 38
@@ -63140,7 +63140,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "While the Clock Ticks \u2605 5\nObtain all stars. ",
+            "primaryText": "While the Clock Ticks [5\u2605]\nObtain all stars. ",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -63194,7 +63194,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Squarespace \u2605 5\nProve yourself.",
+            "primaryText": "Squarespace [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 7
@@ -63248,7 +63248,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gaben \u2605 15\nSet a high score of 2000 or greater.",
+            "primaryText": "Gaben [15\u2605]\nSet a high score of 2000 or greater.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -63302,7 +63302,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "No Mulligan Necessary \u2605 30\nClear in under 100 seconds.",
+            "primaryText": "No Mulligan Necessary [30\u2605]\nClear in under 100 seconds.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -63356,7 +63356,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Blast Off Bot \u2605 30\nEarn all Time Medals. / Earn all Par Medals. / Beat the Boss Rush mode.",
+            "primaryText": "Blast Off Bot [30\u2605]\nEarn all Time Medals. / Earn all Par Medals. / Beat the Boss Rush mode.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -63410,7 +63410,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Tiny Barbarian \u2605 15\nProve yourself.\n\nBarbaric (PARTIALLY UNCLEARED) \u2605 6 (Partial: \u2605 5)\nEarn all speedrun and deathless achievements for episodes 1-4.",
+            "primaryText": "Tiny Barbarian [15\u2605]\nProve yourself.\n\nBarbaric (PARTIALLY UNCLEARED)[6\u2605  (Partial: 5\u2605)]\nEarn all speedrun and deathless achievements for episodes 1-4.",
             "community": 0,
             "communityText": "",
             "achievements": 53
@@ -63464,7 +63464,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ragnarok 'n Roll \u2605 5\nProve yourself.",
+            "primaryText": "Ragnarok 'n Roll [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -63518,7 +63518,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Iron Will \u2605 40\nBeat the game in Iron Mode with New Game+. / Slay all Titans in Iron Mode.\n\nSoul Searcher \u2605 10\nProve yourself.",
+            "primaryText": "Iron Will [40\u2605]\nBeat the game in Iron Mode with New Game+. / Slay all Titans in Iron Mode.\n\nSoul Searcher [10\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Titan Slayer\nSlay all titans in Iron Mode with New Game+.",
             "achievements": 27
@@ -63572,7 +63572,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Toast Titan (UNCLEARED) \u2605 1\nComplete Survival Mode. \n\nI Am Toast \u2605 10\nObtain all 3-star crowns.",
+            "primaryText": "Toast Titan (UNCLEARED) [1\u2605]\nComplete Survival Mode. \n\nI Am Toast [10\u2605]\nObtain all 3-star crowns.",
             "community": 0,
             "communityText": "",
             "achievements": 9
@@ -63626,7 +63626,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Nightmare Ocean \u2605 40\nObtain all star fragments.\n\nDream Ocean \u2605 20\nDefeat all bosses without taking damage.",
+            "primaryText": "Nightmare Ocean [40\u2605]\nObtain all star fragments.\n\nDream Ocean [20\u2605]\nDefeat all bosses without taking damage.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -63680,7 +63680,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Tobari's Moon \u2605 40\nProve yourself.",
+            "primaryText": "Tobari's Moon [40\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -63734,7 +63734,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "King of Kong \u2605 10\nBeat Arcade mode on the hardest difficulty. / Get 350k points in Arcade mode.",
+            "primaryText": "King of Kong [10\u2605]\nBeat Arcade mode on the hardest difficulty. / Get 350k points in Arcade mode.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -63788,7 +63788,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Highly Acidic \u2605 5\nClear all stages on Normal difficulty.",
+            "primaryText": "Highly Acidic [5\u2605]\nClear all stages on Normal difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -63842,7 +63842,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Octace?! \u2605 5\nWin with the \"Only Need One\" and \"High Octane\" badges equipped.",
+            "primaryText": "Octace?! [5\u2605]\nWin with the \"Only Need One\" and \"High Octane\" badges equipped.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -63896,7 +63896,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Genre Bender \u2605 15\nCollect all white ladybugs.",
+            "primaryText": "Genre Bender [15\u2605]\nCollect all white ladybugs.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -63950,7 +63950,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Planet Fuck You \u2605 65\nProve yourself.\n\nPassion, Pain, and Demons Slain \u2605 15\nKill all bosses in one run.",
+            "primaryText": "Planet Fuck You [65\u2605]\nProve yourself.\n\nPassion, Pain, and Demons Slain [15\u2605]\nKill all bosses in one run.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -64004,7 +64004,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Every Body \u2605 20\nUnlock Everybody",
+            "primaryText": "Every Body [20\u2605]\nUnlock Everybody",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -64058,7 +64058,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mysterious Journalist \u2605 20\nClear all scenes. (Both characters allowed)",
+            "primaryText": "Mysterious Journalist [20\u2605]\nClear all scenes. (Both characters allowed)",
             "community": 1,
             "communityText": "Double Enthusiast\nClear all scenes with Hatate.",
             "achievements": 0
@@ -64112,7 +64112,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Photography God Girl \u2605 20\nClear all scenes.",
+            "primaryText": "Photography God Girl [20\u2605]\nClear all scenes.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -64166,7 +64166,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Nuclear Hazard \u2605 40\nBeat the game on Lunatic without continues.\n\nBlaze Venturer \u2605 10\nBeat the game on Normal or higher without continues.\n\nUnconscious Rock \u2605 10\nBeat the Extra mode.",
+            "primaryText": "Nuclear Hazard [40\u2605]\nBeat the game on Lunatic without continues.\n\nBlaze Venturer [10\u2605]\nBeat the game on Normal or higher without continues.\n\nUnconscious Rock [10\u2605]\nBeat the Extra mode.",
             "community": 2,
             "communityText": "Geyser Enjoyer\nBeat the game on Lunatic without dying and without bombing.\n\nSuperego\nBeat the Extra mode without dying and without bombing.",
             "achievements": 0
@@ -64220,7 +64220,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Phantasia Restored (UNCLEARED) \u2605 1\nAchieve an All Brilliant on all LUNATIC difficulty songs from the base game.\n\nIncident Climax (UNCLEARED) \u2605 1\nAchieve a Full Combo on all LUNATIC difficulty songs from the base game.\n\nThe Sea of Fantasy (UNCLEARED) \u2605 1\nAchieve an All Brilliant on all HARD difficulty songs from the base game.\n\nMitama Starter \u2605 30\nAchieve a Full Combo on all HARD difficulty songs from the base game.",
+            "primaryText": "Phantasia Restored (UNCLEARED) [1\u2605]\nAchieve an All Brilliant on all LUNATIC difficulty songs from the base game.\n\nIncident Climax (UNCLEARED) [1\u2605]\nAchieve a Full Combo on all LUNATIC difficulty songs from the base game.\n\nThe Sea of Fantasy (UNCLEARED) [1\u2605]\nAchieve an All Brilliant on all HARD difficulty songs from the base game.\n\nMitama Starter [30\u2605]\nAchieve a Full Combo on all HARD difficulty songs from the base game.",
             "community": 0,
             "communityText": "",
             "achievements": 57
@@ -64274,7 +64274,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Faith Battlefield \u2605 30\nBeat the game on Lunatic without continues.\n\nHippity Hoppity \u2605 10\nClear the Extra mode.\n\nThe Wind Blows High \u2605 5\nBeat the game on Normal or higher without continues.",
+            "primaryText": "Faith Battlefield [30\u2605]\nBeat the game on Lunatic without continues.\n\nHippity Hoppity [10\u2605]\nClear the Extra mode.\n\nThe Wind Blows High [5\u2605]\nBeat the game on Normal or higher without continues.",
             "community": 3,
             "communityText": "Froglike Ancestry\nClear the Extra mode without dying and without bombing.\n\nGensokyo Sage\nDo Lunatic 1CCs of all available mainline games on Steam from the Touhou franchise. See verification requirements for complete list.\n\nYour Best Believer is Yourself\nBeat the game on Lunatic without dying and without bombing.",
             "achievements": 0
@@ -64328,7 +64328,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Blossom \u2605 5\nBeat the game on Lunatic without continues. (Any character)\n\nYear of Rebirth \u2605 5\nBeat the Extra mode. (Both characters)",
+            "primaryText": "Blossom [5\u2605]\nBeat the game on Lunatic without continues. (Any character)\n\nYear of Rebirth [5\u2605]\nBeat the Extra mode. (Both characters)",
             "community": 2,
             "communityText": "Flower Viewer\nBeat the game on Lunatic without dying and bombing. (Any character)\n\nMuenzuka Enthusiast\nBeat the game on Lunatic without continues using Tewi and Mystia.",
             "achievements": 0
@@ -64383,7 +64383,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Brilliant Pristine Madness \u2605 100\nBeat the game on Legacy Lunatic without dying.\n\nCrimson Impurity \u2605 30\nBeat the game on Legacy Lunatic without using continues.\n\nWelcome \u2764 Hell \u2605 15\nBeat the Extra mode.\n\nA Sip of Lunacy \u2605 5\nBeat the game on Pointdevice Lunatic.",
+            "primaryText": "Brilliant Pristine Madness [100\u2605]\nBeat the game on Legacy Lunatic without dying.\n\nCrimson Impurity [30\u2605]\nBeat the game on Legacy Lunatic without using continues.\n\nWelcome \u2764 Hell [15\u2605]\nBeat the Extra mode.\n\nA Sip of Lunacy [5\u2605]\nBeat the game on Pointdevice Lunatic.",
             "community": 2,
             "communityText": "Chang'e Incarnate\nBeat the game on Legacy Lunatic without dying and bombing.\n\nSpace Juggler\nBeat the Extra mode without dying and bombing.",
             "achievements": 0
@@ -64437,7 +64437,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Dye Me Up \u2605 35\nGet 15 billion points on a run. / Get a dye count of 3500 & 999 on a main and extra run respectively.\n\nSky Island of Faith \u2605 15\nClear the game on Lunatic with all teams without continues.\n\nEternal Stillness \u2605 10\nBeat the Extra mode with all teams.",
+            "primaryText": "Dye Me Up [35\u2605]\nGet 15 billion points on a run. / Get a dye count of 3500 & 999 on a main and extra run respectively.\n\nSky Island of Faith [15\u2605]\nClear the game on Lunatic with all teams without continues.\n\nEternal Stillness [10\u2605]\nBeat the Extra mode with all teams.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -64491,7 +64491,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "God of Destruction \u2605 45\nBeat the game on Lunatic without dying. / Beat the Extra mode without dying.\n\nOh!Create! \u2605 20\nBeat the game on Lunatic without using continues.\n\nHighway to the Realm \u2605 10\nBeat the game on Normal or higher without using continues. / Beat the Extra mode.",
+            "primaryText": "God of Destruction [45\u2605]\nBeat the game on Lunatic without dying. / Beat the Extra mode without dying.\n\nOh!Create! [20\u2605]\nBeat the game on Lunatic without using continues.\n\nHighway to the Realm [10\u2605]\nBeat the game on Normal or higher without using continues. / Beat the Extra mode.",
             "community": 2,
             "communityText": "Certified Horsegirl\nBeat the Extra mode without dying, bombing, and breaking your Roaring. (Berserk is fine)\n\nIdola Perfectum\nBeat the game on Lunatic without dying, bombing, and breaking your Roaring. (Berserk is fine)",
             "achievements": 0
@@ -64545,7 +64545,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Disaster Mallet \u2605 25\nBeat the game on Lunatic without continues.\n\nInverted Horizon \u2605 10\nBeat the game on Normal or higher without continues.\n\nThe Drumming \u2605 5\nBeat the Extra mode.",
+            "primaryText": "Disaster Mallet [25\u2605]\nBeat the game on Lunatic without continues.\n\nInverted Horizon [10\u2605]\nBeat the game on Normal or higher without continues.\n\nThe Drumming [5\u2605]\nBeat the Extra mode.",
             "community": 2,
             "communityText": "Real Taiko Master\nBeat the Extra mode without dying and bombing.\n\nTiny is War\nBeat the game on Lunatic without dying and bombing.",
             "achievements": 0
@@ -64599,7 +64599,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Black Monday \u2605 40\nBeat the game on Lunatic without deaths.\n\nMarket Crash \u2605 15\nBeat the game on Lunatic without continues.\n\nCentipede Slayer \u2605 5\nBeat the Extra mode.\n\nShopping Spree \u2605 5\nBeat the game on Normal or higher without continues.",
+            "primaryText": "Black Monday [40\u2605]\nBeat the game on Lunatic without deaths.\n\nMarket Crash [15\u2605]\nBeat the game on Lunatic without continues.\n\nCentipede Slayer [5\u2605]\nBeat the Extra mode.\n\nShopping Spree [5\u2605]\nBeat the game on Normal or higher without continues.",
             "community": 2,
             "communityText": "Golden Centipede\nBeat the Extra mode without dying, bombing and equipping cards.\n\nOut of Stock\nBeat the game on Lunatic without dying, bombing and equipping cards.",
             "achievements": 0
@@ -64653,7 +64653,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Bodhisattva Walker \u2605 65\nBeat the game on Lunatic without continues.\n\nStarry First Contact \u2605 10\nBeat the Extra mode.\n\nRealm of Eight Sufferings \u2605 10\nBeat the game on Normal or higher without continues.",
+            "primaryText": "Bodhisattva Walker [65\u2605]\nBeat the game on Lunatic without continues.\n\nStarry First Contact [10\u2605]\nBeat the Extra mode.\n\nRealm of Eight Sufferings [10\u2605]\nBeat the game on Normal or higher without continues.",
             "community": 2,
             "communityText": "Aprati\u1e63\u1e6dhita-Nirvana Achiever\nBeat the game on Lunatic without dying and bombing. (UFO spawns are allowed)\n\nDefined Fantastic Object\nBeat the Extra mode without dying and bombing. (UFO spawns are allowed)",
             "achievements": 0
@@ -64707,7 +64707,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Unyielding Desires \u2605 35\nBeat the game on Lunatic without continues.\n\nEntranced \u2605 5\nCapture all Overdrive spells.\n\nBattlecry \u2605 10\nBeat the Extra mode.\n\nA Hopeful Prayer \u2605 5\nBeat the game on Normal or higher without continues.",
+            "primaryText": "Unyielding Desires [35\u2605]\nBeat the game on Lunatic without continues.\n\nEntranced [5\u2605]\nCapture all Overdrive spells.\n\nBattlecry [10\u2605]\nBeat the Extra mode.\n\nA Hopeful Prayer [5\u2605]\nBeat the game on Normal or higher without continues.",
             "community": 2,
             "communityText": "All-Hearing Sage\nBeat the game on Lunatic without dying, bombing and using trances.\n\nTail Morpher\nBeat the Extra mode without dying, bombing and using trances.",
             "achievements": 0
@@ -64761,7 +64761,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Seasonal Blast \u2605 15\nBeat the game on Lunatic without continuing.\n\nBackdoor Club \u2605 5\nBeat the Extra mode.",
+            "primaryText": "Seasonal Blast [15\u2605]\nBeat the game on Lunatic without continuing.\n\nBackdoor Club [5\u2605]\nBeat the Extra mode.",
             "community": 2,
             "communityText": "No More Doors\nBeat the Extra mode without dying, bombing and releasing.\n\nThe Sucessor\nBeat the game on Lunatic without dying, bombing and releasing.",
             "achievements": 0
@@ -64815,7 +64815,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Overpower the Tower \u2605 5\nWin the game on Ascension 1. / Win the game using no more than 2 minions in each wave.",
+            "primaryText": "Overpower the Tower [5\u2605]\nWin the game on Ascension 1. / Win the game using no more than 2 minions in each wave.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -64869,7 +64869,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Time Lord \u2605 60\nAchieve all 48 Red Pearls in Trials Mode.\n\nGoldenEye \u2605 50\nObtain all 5 Golden Eyeballs in the Dark World.\n\nKing Midas \u2605 35\nObtain all 14 Gold Skulls in the Main Quest.\n\nTowering Trials \u2605 30\nProve yourself.",
+            "primaryText": "Time Lord [60\u2605]\nAchieve all 48 Red Pearls in Trials Mode.\n\nGoldenEye [50\u2605]\nObtain all 5 Golden Eyeballs in the Dark World.\n\nKing Midas [35\u2605]\nObtain all 14 Gold Skulls in the Main Quest.\n\nTowering Trials [30\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -64918,7 +64918,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Vectorious \u2605 15\nBeat the developer's high score of 42755 in Endless Mode.\n\nAbsolute Gradients \u2605 15\nBeat the game in one sitting without a getting a game over. / Collect every fuel cell.",
+            "primaryText": "Vectorious [15\u2605]\nBeat the developer's high score of 42755 in Endless Mode.\n\nAbsolute Gradients [15\u2605]\nBeat the game in one sitting without a getting a game over. / Collect every fuel cell.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -64973,7 +64973,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Shoot for the Stars \u2605 25\nGet all 588 medals in the Star Track Campaign.\n\nMixed Bag \u2605 20\nGet all 588 medals in the United/Race Campaign.\n\nTrack Attacker \u2605 10\nGet all Stunt Author Medals.\n\nSuper Trackmania Boy \u2605 5\nGet all 63 medals in the United/Platform campaign.",
+            "primaryText": "Shoot for the Stars [25\u2605]\nGet all 588 medals in the Star Track Campaign.\n\nMixed Bag [20\u2605]\nGet all 588 medals in the United/Race Campaign.\n\nTrack Attacker [10\u2605]\nGet all Stunt Author Medals.\n\nSuper Trackmania Boy [5\u2605]\nGet all 63 medals in the United/Platform campaign.",
             "community": 5,
             "communityText": "Iron Tires\nGet all Platform campaign Gold Medals in a row, in order, and without ever resetting or restarting a map.\n\nTrickmaniac\nGet all Puzzle Author Medals.\n\nTMN_ESWC Old Enthusiast\nGet all medals in the old TrackMania Nations ESWC campaign. (See information)\n\nTMO Old Enthusiast\nGet all medals in the old TrackMania Original campaign. (See information)\n\nTMSX Old Enthusiast\nGet all medals in the old TrackMania Sunrise eXtreme campaign. (See information)",
             "achievements": 0
@@ -65028,7 +65028,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Super Turbo Monogaming \u2605 400\nObtain the Super Trackmaster Medal on all tracks.\n\nMega Turbo Monogaming \u2605 250\nObtain the Super Trackmaster Medal on 150 tracks.\n\nTurbo Monogaming \u2605 210\nObtain the Super Trackmaster Medal on 75 tracks.\n\nScoping the Difficulty \u2605 100\nObtain the Trackmaster Medal on all tracks.\n\nTrack of All Trades \u2605 40\nObtain the Gold Medal on all tracks.",
+            "primaryText": "Super Turbo Monogaming [400\u2605]\nObtain the Super Trackmaster Medal on all tracks.\n\nMega Turbo Monogaming [250\u2605]\nObtain the Super Trackmaster Medal on 150 tracks.\n\nTurbo Monogaming [210\u2605]\nObtain the Super Trackmaster Medal on 75 tracks.\n\nScoping the Difficulty [100\u2605]\nObtain the Trackmaster Medal on all tracks.\n\nTrack of All Trades [40\u2605]\nObtain the Gold Medal on all tracks.",
             "community": 2,
             "communityText": "Double Dash\nObtain all Gold Medals in the Double Driver campaign.\n\nImpossibly Perfect Harmony\nObtain all Trackmaster Medals in the Double Driver campaign.",
             "achievements": 0
@@ -65082,7 +65082,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Extreme Drifting \u2605 30\nObtain 65 Author Medals.\n\nCool Canyon \u2605 10\nObtain 65 Gold Medals.",
+            "primaryText": "Extreme Drifting [30\u2605]\nObtain 65 Author Medals.\n\nCool Canyon [10\u2605]\nObtain 65 Gold Medals.",
             "community": 2,
             "communityText": "Canyon All-Star\nGet all Author Medals in the StarTrack Title Pack.\n\nUnofficially Platformer\nObtain all 69 medals in the Ubisoft Nadeo platform tracks.",
             "achievements": 0
@@ -65136,7 +65136,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Legend of Lagoon \u2605 30\nObtain 65 Author Medals.\n\nThe Gold Coaster \u2605 10\nObtain 65 Gold Medals.",
+            "primaryText": "Legend of Lagoon [30\u2605]\nObtain 65 Author Medals.\n\nThe Gold Coaster [10\u2605]\nObtain 65 Gold Medals.",
             "community": 1,
             "communityText": "Lagoon All-Star\nGet all Author Medals in the StarTrack Title Pack.",
             "achievements": 0
@@ -65190,7 +65190,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Suicide Circuit \u2605 45\nObtain 65 Author Medals.\n\nSquared Off \u2605 15\nObtain 65 Gold Medals.",
+            "primaryText": "Suicide Circuit [45\u2605]\nObtain 65 Author Medals.\n\nSquared Off [15\u2605]\nObtain 65 Gold Medals.",
             "community": 1,
             "communityText": "Stadium All-Star\nGet all Author Medals in the StarTrack Title Pack.",
             "achievements": 0
@@ -65244,7 +65244,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Well-Stacked in Tracks \u2605 30\nObtain 65 Author Medals.\n\nRoad Rager \u2605 10\nObtain 65 Gold Medals.",
+            "primaryText": "Well-Stacked in Tracks [30\u2605]\nObtain 65 Author Medals.\n\nRoad Rager [10\u2605]\nObtain 65 Gold Medals.",
             "community": 3,
             "communityText": "Alpine All-Star\nGet all Author Medals in the TM1 Alpine Title Pack.\n\nSpeed All-Star\nGet all Author Medals in the TM1 Speed Title Pack.\n\nValley All-Star\nGet all Author Medals in the StarTrack Title Pack.",
             "achievements": 0
@@ -65298,7 +65298,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Inspiring Speed \u2605 5\nObtain the Diamond medal in every world.",
+            "primaryText": "Inspiring Speed [5\u2605]\nObtain the Diamond medal in every world.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -65352,7 +65352,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "...is another man's treasure. \u2605 10\nFinish the game without killing any non-boss robots and without taking any damage.\n\nDumpster Fire \u2605 10\nComplete Hard mode's boss rush.",
+            "primaryText": "...is another man's treasure. [10\u2605]\nFinish the game without killing any non-boss robots and without taking any damage.\n\nDumpster Fire [10\u2605]\nComplete Hard mode's boss rush.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -65406,7 +65406,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Unstoppable \u2605 5\nComplete the game in Ronin Mode.",
+            "primaryText": "Unstoppable [5\u2605]\nComplete the game in Ronin Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -65455,7 +65455,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Super Human \u2605 40\nComplete all tracks with 0 faults.\n\nEvel Knievel \u2605 20\nProve yourself.\n\nSeen It All \u2605 20\nPass all tracks in the game (including DLC).",
+            "primaryText": "Super Human [40\u2605]\nComplete all tracks with 0 faults.\n\nEvel Knievel [20\u2605]\nProve yourself.\n\nSeen It All [20\u2605]\nPass all tracks in the game (including DLC).",
             "community": 3,
             "communityText": "Death Defying\nPass Diablo and You Shall Not Pass with 0 faults.\n\nRedLynx\nSufficiently complete all games in the Trials franchise. See verification requirements for complete list.\n\nTop Dog\nGet a time of 3.50 on Basics of Handling, or have the Top Dog achievement in game.",
             "achievements": 25
@@ -65509,7 +65509,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "The Phoenix \u2605 100\nObtain the platinum medal for all tournaments.\n\nTrials Evolution: Platinum \u2605 50\nObtain the platinum medal on all of the non-tournament, non-skill game tracks.\n\nCircus Clown \u2605 30\nObtain the platinum medal for all skill games.\n\nTrials Evolution: Gold \u2605 20\nObtain the gold medal on all of the non-tournament, non-skill game tracks.",
+            "primaryText": "The Phoenix [100\u2605]\nObtain the platinum medal for all tournaments.\n\nTrials Evolution: Platinum [50\u2605]\nObtain the platinum medal on all of the non-tournament, non-skill game tracks.\n\nCircus Clown [30\u2605]\nObtain the platinum medal for all skill games.\n\nTrials Evolution: Gold [20\u2605]\nObtain the gold medal on all of the non-tournament, non-skill game tracks.",
             "community": 3,
             "communityText": "Completely Unnecessary\nReach the end of \"Gas Problem\", \"S.P.H.E.R.E.\", and \"Ball of Steel\".\n\nGiga Jackass\nComplete Gigatrack on the Micro Donkey.\n\nREALLY Test Your Might\nComplete \"Test Your Might\" with 0 faults.",
             "achievements": 0
@@ -65563,7 +65563,7 @@ var data =
         },
         "milestones": {
             "primary": 6,
-            "primaryText": "The Village Hidden in the Trials: Part 3 \u2605 200\nEnter the hidden portals and complete the ninja versions of Extraterrestrial & Meteorain.\n\nThe Village Hidden in the Trials: Part 2 \u2605 70\nEnter the hidden portals and complete the ninja versions of Way of the Machine, Inferno IV, Devils Beak, Deluge, and Charred Remains.\n\nThe Village Hidden in the Trials: Part 1 \u2605 30\nEnter the hidden portals and complete the ninja versions of Eye of the Storm, Rock of Rages, Light City Run, Frostbite, and Robot Wasteland.\n\nPit Viper \u2605 80\nObtain every Platinum medal in the game.\n\nTrials Challenge Enthusiast \u2605 70\nComplete all in-game challenges.\n\nWelcome to the Future \u2605 50\nObtain at least a gold medal everywhere possible.",
+            "primaryText": "The Village Hidden in the Trials: Part 3 [200\u2605]\nEnter the hidden portals and complete the ninja versions of Extraterrestrial & Meteorain.\n\nThe Village Hidden in the Trials: Part 2 [70\u2605]\nEnter the hidden portals and complete the ninja versions of Way of the Machine, Inferno IV, Devils Beak, Deluge, and Charred Remains.\n\nThe Village Hidden in the Trials: Part 1 [30\u2605]\nEnter the hidden portals and complete the ninja versions of Eye of the Storm, Rock of Rages, Light City Run, Frostbite, and Robot Wasteland.\n\nPit Viper [80\u2605]\nObtain every Platinum medal in the game.\n\nTrials Challenge Enthusiast [70\u2605]\nComplete all in-game challenges.\n\nWelcome to the Future [50\u2605]\nObtain at least a gold medal everywhere possible.",
             "community": 3,
             "communityText": "Event Veteran\nComplete all CE curated Ninja tracks featured during the Trials Fusion community event.\n\nVirtually Unstoppable\nReach the end of Ice Climb, The Tower, and Hard Wheeling.\n\nWay of the Donkey\nPass Way of the Machine on the Donkey.",
             "achievements": 0
@@ -65618,7 +65618,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Dead Serve Me \u2605 15\nComplete all the areas without dying.",
+            "primaryText": "The Dead Serve Me [15\u2605]\nComplete all the areas without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -65672,7 +65672,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Scenic Route \u2605 10\nObtain an A+ grade on all main story levels.\n\nVirtual Bootcamp Boss \u2605 10\nObtain an A+ grade on all bonus levels.",
+            "primaryText": "Scenic Route [10\u2605]\nObtain an A+ grade on all main story levels.\n\nVirtual Bootcamp Boss [10\u2605]\nObtain an A+ grade on all bonus levels.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -65726,7 +65726,7 @@ var data =
         },
         "milestones": {
             "primary": 9,
-            "primaryText": "To End All Trials Part III \u2605 100\nObtain 217 Diamond medals.\n\nTo End All Trials Part II \u2605 100\nObtain 150 Diamond medals.\n\nTitan on Two Wheels \u2605 100\nObtain all Ninja Diamonds.\n\nTrials J\u014dnin \u2605 200\nPass all Ninja tracks.\n\nTo End All Trials Part I \u2605 100\nObtain 75 Diamond medals. \n\nWay of the Ninja \u2605 140\nPass Green Belt, Blue Belt, and Curse of the Demon.\n\nThe Mantis \u2605 160\nObtain all non-ninja Platinum medals.\n\nRise Above \u2605 50\nPass White Belt, Orange Belt, Yellow Belt, and Rise of the Dragon.\n\nWorld Tour \u2605 50\nObtain all non-ninja Gold medals.",
+            "primaryText": "To End All Trials Part III [100\u2605]\nObtain 217 Diamond medals.\n\nTo End All Trials Part II [100\u2605]\nObtain 150 Diamond medals.\n\nTitan on Two Wheels [100\u2605]\nObtain all Ninja Diamonds.\n\nTrials J\u014dnin [200\u2605]\nPass all Ninja tracks.\n\nTo End All Trials Part I [100\u2605]\nObtain 75 Diamond medals. \n\nWay of the Ninja [140\u2605]\nPass Green Belt, Blue Belt, and Curse of the Demon.\n\nThe Mantis [160\u2605]\nObtain all non-ninja Platinum medals.\n\nRise Above [50\u2605]\nPass White Belt, Orange Belt, Yellow Belt, and Rise of the Dragon.\n\nWorld Tour [50\u2605]\nObtain all non-ninja Gold medals.",
             "community": 8,
             "communityText": "Cavemaniac\nComplete 5 fusion central or ninja central tracks classified as \"level 5\" on either Fusion or Rising.\n\nDoughnuts and Bolts\nComplete 15 different fusion central or ninja central tracks classified as \"level 3\" on either Fusion or Rising.\n\nFinal Deal with The Devil\nComplete all 425 contracts.\n\nGiga Chadwick\nComplete 20 different fusion central or ninja central tracks classified as \"level 2\" in either Fusion or Rising.\n\nSelling Your Soul\nComplete all non-ninja contracts.\n\nThe Real Burger\nComplete 3 fusion central or ninja central tracks classified as \"level 6\" on either Fusion or Rising.\n\nTrials Prodigy\nComplete a fusion central or ninja central track classified as \"level 7\" or higher on either Fusion or Rising.\n\nZack Attack\nComplete 10 different fusion central or ninja central tracks classified as \"level 4\" on either Fusion or Rising.",
             "achievements": 0
@@ -65780,7 +65780,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Tetromino Architect \u2605 20\nProve yourself.",
+            "primaryText": "Tetromino Architect [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -65834,7 +65834,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Delightful Trombone \u2605 15\nObtain S rank on every song, including the secret song.",
+            "primaryText": "Delightful Trombone [15\u2605]\nObtain S rank on every song, including the secret song.",
             "community": 1,
             "communityText": "Salient Sounds\nAchieve an FC on every song in the game. ",
             "achievements": 23
@@ -65888,7 +65888,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "True Jank \u2605 15\nBeat the game on 1 HP difficulty.",
+            "primaryText": "True Jank [15\u2605]\nBeat the game on 1 HP difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -65942,7 +65942,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "They Seed Me Rollin' \u2605 20\nBeat the game in 15 minutes or less. / Defeat the True Last Boss.",
+            "primaryText": "They Seed Me Rollin' [20\u2605]\nBeat the game in 15 minutes or less. / Defeat the True Last Boss.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -65996,7 +65996,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Incomplete Understanding \u2605 5\nComplete the game by defeating the boss.",
+            "primaryText": "Incomplete Understanding [5\u2605]\nComplete the game by defeating the boss.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -66050,7 +66050,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Murder Machine \u2605 15\nProve yourself.",
+            "primaryText": "Murder Machine [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 67
@@ -66104,7 +66104,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Cracked \u2605 15\nObtain all S ranks on Nightmare difficulty.\n\nShell Shocked \u2605 10\nBeat all levels on Hard difficulty.",
+            "primaryText": "Cracked [15\u2605]\nObtain all S ranks on Nightmare difficulty.\n\nShell Shocked [10\u2605]\nBeat all levels on Hard difficulty.",
             "community": 1,
             "communityText": "Fried to a Crisp\nObtain an S rank on all difficulties. ",
             "achievements": 21
@@ -66158,7 +66158,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Circumrhythmic \u2605 20\nGet SS on every song in Ninoo's Paradigm, Veteran's Trial and Camellia's Gauntlet song packs without using any point reducing mutators.\n\nTwinning \u2605 5\nGet SS on every song in the first 5 song packs without using any point reducing mutators.\n\nEdge Lord (UNCLEARED) \u2605 1\nGet SS on every song in ReeK/Asatsumei's Omni-genre song pack without using any point reducing mutators.",
+            "primaryText": "Circumrhythmic [20\u2605]\nGet SS on every song in Ninoo's Paradigm, Veteran's Trial and Camellia's Gauntlet song packs without using any point reducing mutators.\n\nTwinning [5\u2605]\nGet SS on every song in the first 5 song packs without using any point reducing mutators.\n\nEdge Lord (UNCLEARED) [1\u2605]\nGet SS on every song in ReeK/Asatsumei's Omni-genre song pack without using any point reducing mutators.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -66212,7 +66212,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Seeing Double \u2605 5\nBeat the game.",
+            "primaryText": "Seeing Double [5\u2605]\nBeat the game.",
             "community": 1,
             "communityText": "Merge Master\nEnd a game with the highest possible score.",
             "achievements": 7
@@ -66267,7 +66267,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Towering Inferno \u2605 20\nClear the Nightmare Boss Rush Mode on Expert difficulty.\n\nTowering Meadow \u2605 5\nClear the extra ending on expert.",
+            "primaryText": "Towering Inferno [20\u2605]\nClear the Nightmare Boss Rush Mode on Expert difficulty.\n\nTowering Meadow [5\u2605]\nClear the extra ending on expert.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -66321,7 +66321,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cast Into Chaos \u2605 10\nSeparately; Score at least 30 million points in a single run, and make it to Loop 2 on the hardest difficulty.",
+            "primaryText": "Cast Into Chaos [10\u2605]\nSeparately; Score at least 30 million points in a single run, and make it to Loop 2 on the hardest difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -66370,7 +66370,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Dawn of the Gunners \u2605 15\nComplete all challenges in all Director's Cut levels in House of the Dead.\n\nNight of the Living Typists \u2605 10\nProve yourself.",
+            "primaryText": "Dawn of the Gunners [15\u2605]\nComplete all challenges in all Director's Cut levels in House of the Dead.\n\nNight of the Living Typists [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -66424,7 +66424,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Grammer Stronk \u2605 20\nBeat the game without dying more than 5 times.",
+            "primaryText": "Grammer Stronk [20\u2605]\nBeat the game without dying more than 5 times.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -66478,7 +66478,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Certified Bunny Girl \u2605 10\nProve yourself.\n\nKiller Rabbit of Caerbannog \u2605 10\nFinish the game on the highest difficulty with no upgrades + \"no-hit\" final boss.",
+            "primaryText": "Certified Bunny Girl [10\u2605]\nProve yourself.\n\nKiller Rabbit of Caerbannog [10\u2605]\nFinish the game on the highest difficulty with no upgrades + \"no-hit\" final boss.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -66532,7 +66532,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Falling Object Identifier \u2605 15\nComplete all world objectives and challenges.",
+            "primaryText": "Falling Object Identifier [15\u2605]\nComplete all world objectives and challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -66586,7 +66586,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Street Smart \u2605 15\nComplete all 24 regular combo trials for C. Viper, El Fuerte, Ibuki, Sakura, Ryu and Ken.",
+            "primaryText": "Street Smart [15\u2605]\nComplete all 24 regular combo trials for C. Viper, El Fuerte, Ibuki, Sakura, Ryu and Ken.",
             "community": 1,
             "communityText": "Ultra Trial Athlete\nComplete all combo and ultra trials.",
             "achievements": 67
@@ -66640,7 +66640,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Omenous Riddles \u2605 35\nMaster every Omen.",
+            "primaryText": "Omenous Riddles [35\u2605]\nMaster every Omen.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -66695,7 +66695,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Old School Fishing \u2605 25\nClear all the doors. / Get all backpacks.",
+            "primaryText": "Old School Fishing [25\u2605]\nClear all the doors. / Get all backpacks.",
             "community": 1,
             "communityText": "Teach a Girl to Fish\nComplete all primary objectives from all site-listed games in the Umihara Kawase franchise. See verification requirements for complete list.",
             "achievements": 13
@@ -66749,7 +66749,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Master Angler \u2605 35\nComplete all 23 Challenge Mode levels as Kawase.\n\nFly Fishing \u2605 10\nComplete all 82 stages in Time Attack mode as Kawase.",
+            "primaryText": "Master Angler [35\u2605]\nComplete all 23 Challenge Mode levels as Kawase.\n\nFly Fishing [10\u2605]\nComplete all 82 stages in Time Attack mode as Kawase.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -66803,7 +66803,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Real Man's Fishing \u2605 50\nFinish all doors. / Obtain all backpacks.\n\nAssorted Seafood \u2605 10\nProve yourself",
+            "primaryText": "Real Man's Fishing [50\u2605]\nFinish all doors. / Obtain all backpacks.\n\nAssorted Seafood [10\u2605]\nProve yourself",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -66857,7 +66857,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Damn & Daniel \u2605 10\nReach the Twin Crystals in HARD++ mode. / Find Harnakon without killing any crows beforehand.",
+            "primaryText": "Damn & Daniel [10\u2605]\nReach the Twin Crystals in HARD++ mode. / Find Harnakon without killing any crows beforehand.",
             "community": 0,
             "communityText": "",
             "achievements": 57
@@ -66911,7 +66911,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Unrail Engine \u2605 20\nReach 2000m in endless mode on Hard. / Reach the winter biome on Extreme.",
+            "primaryText": "Unrail Engine [20\u2605]\nReach 2000m in endless mode on Hard. / Reach the winter biome on Extreme.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -66965,7 +66965,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "String Theory \u2605 5\nFinish each level without dying.",
+            "primaryText": "String Theory [5\u2605]\nFinish each level without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -67019,7 +67019,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Unrivaled Too \u2605 15\nObtain all of the gold medals.",
+            "primaryText": "Unrivaled Too [15\u2605]\nObtain all of the gold medals.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -67073,7 +67073,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Seeing is Believing \u2605 20\nProve yourself.",
+            "primaryText": "Seeing is Believing [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -67127,7 +67127,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Agent of Chaos \u2605 5\nEarn every trophy.",
+            "primaryText": "Agent of Chaos [5\u2605]\nEarn every trophy.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -67181,7 +67181,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Worthy \u2605 10\nProve yourself.",
+            "primaryText": "Worthy [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -67235,7 +67235,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Trials at Home \u2605 5\nGet 5 stars in every level.",
+            "primaryText": "Trials at Home [5\u2605]\nGet 5 stars in every level.",
             "community": 1,
             "communityText": "Urban Rider\nComplete all primary objectives from all site-listed games in the Urban Trial franchise. See verification requirements for complete list.",
             "achievements": 12
@@ -67289,7 +67289,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Playground, Well Played \u2605 10\nClear all levels with 5 stars and beat all challenges.",
+            "primaryText": "Playground, Well Played [10\u2605]\nClear all levels with 5 stars and beat all challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -67343,7 +67343,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Tricked Out \u2605 5\nFinish all levels with 5 stars and complete all challenges.",
+            "primaryText": "Tricked Out [5\u2605]\nFinish all levels with 5 stars and complete all challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -67397,7 +67397,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Time Has Come \u2605 15\nClear the game on Masochism, as well as all bosses.",
+            "primaryText": "The Time Has Come [15\u2605]\nClear the game on Masochism, as well as all bosses.",
             "community": 2,
             "communityText": "The End of Your Patience\nBeat all bosses on Masochism while having the anti-assist options enabled at max value (Player Energy Scale at 0% and Boss HP Scale at 999%).\n\nVacant Purity\nBeat all bosses on Masochism while having only weapons equipped (Sub weapons, clothes, trinkets and footwear are not allowed).",
             "achievements": 16
@@ -67451,7 +67451,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Into the Abyss \u2605 30\nProve yourself.",
+            "primaryText": "Into the Abyss [30\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 77
@@ -67505,7 +67505,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Full Metal Mayhem \u2605 20\nFinish the game in Full Metal Mode. / Complete the game in under 2 hours. / Finish the game with 10 or fewer deaths.",
+            "primaryText": "Full Metal Mayhem [20\u2605]\nFinish the game in Full Metal Mode. / Complete the game in under 2 hours. / Finish the game with 10 or fewer deaths.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -67559,7 +67559,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Full Mecha Mayhem \u2605 10\nProve yourself.",
+            "primaryText": "Full Mecha Mayhem [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -67613,7 +67613,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Doctor is In \u2605 5\nFinish the game without killing any citizens (not unlockable in Story Mode).",
+            "primaryText": "The Doctor is In [5\u2605]\nFinish the game without killing any citizens (not unlockable in Story Mode).",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -67667,7 +67667,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "The Only Thing I Know For Real \u2605 25\nComplete all Acts on God Hard difficulty.\n\nSlide and Ride \u2605 25\nComplete all Acts on Hard difficulty or above. / Complete all of the Tactical Challenges.",
+            "primaryText": "The Only Thing I Know For Real [25\u2605]\nComplete all Acts on God Hard difficulty.\n\nSlide and Ride [25\u2605]\nComplete all Acts on Hard difficulty or above. / Complete all of the Tactical Challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -67684,8 +67684,8 @@ var data =
         "points": 130,
         "createdAt": "2022-10-05T00:26:03.000Z",
         "updatedAt": "2024-10-16T01:07:46.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 5,
+        "playersCompleted": 3,
+        "playersStarted": 4,
         "playersTotal": 61,
         "priceData": {
             "USD": {
@@ -67721,7 +67721,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Challenge Coin Expansion Pack \u2605 20\nComplete all other Challenge Coins on I+30 Difficulty.\n\nChallenge Coin Enthusiast \u2605 80 (Partial: \u2605 30)\nComplete all Challenge Coins on I+30 Difficulty.\n\nMaximum Instability \u2605 30\nComplete an Impossible+ run with Instability 50 or greater.",
+            "primaryText": "Challenge Coin Expansion Pack [20\u2605]\nComplete all other Challenge Coins on I+30 Difficulty.\n\nChallenge Coin Enthusiast[80\u2605  (Partial: 30\u2605)]\nComplete all Challenge Coins on I+30 Difficulty.\n\nMaximum Instability [30\u2605]\nComplete an Impossible+ run with Instability 50 or greater.",
             "community": 1,
             "communityText": "Fill the Void\nClear Instability+50 as every class, without using challenge coins.",
             "achievements": 237
@@ -67775,7 +67775,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "VECTORGOD \u2605 5\nBeat the game in 1983 mode. / Beat every level in a single run.",
+            "primaryText": "VECTORGOD [5\u2605]\nBeat the game in 1983 mode. / Beat every level in a single run.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -67829,7 +67829,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Blocked Rhythms \u2605 5\nFinish every level with all three badges.",
+            "primaryText": "Blocked Rhythms [5\u2605]\nFinish every level with all three badges.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -67883,7 +67883,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Tunnel Visionary \u2605 30\nSurvive Super Level Nine for 20 seconds or more.",
+            "primaryText": "Tunnel Visionary [30\u2605]\nSurvive Super Level Nine for 20 seconds or more.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -67937,7 +67937,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ichiraku Allstar \u2605 10\nBeat all gold medal times (including both hard level chapters) and get hitless Noodle Hearts on all hard levels.",
+            "primaryText": "Ichiraku Allstar [10\u2605]\nBeat all gold medal times (including both hard level chapters) and get hitless Noodle Hearts on all hard levels.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -67991,7 +67991,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Certified Badass \u2605 15\nEarn a \"PERFECT\" medal on every zone.",
+            "primaryText": "Certified Badass [15\u2605]\nEarn a \"PERFECT\" medal on every zone.",
             "community": 0,
             "communityText": "",
             "achievements": 31
@@ -68045,7 +68045,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Tarzan \u2605 40\nComplete the Hardcore Marathon challenge.\n\nPeregrine Falcon \u2605 30\nComplete the Marathon challenge under 15 minutes.\n\nTeapots of Glory \u2605 20\nEarn all available perfect rankings.",
+            "primaryText": "Tarzan [40\u2605]\nComplete the Hardcore Marathon challenge.\n\nPeregrine Falcon [30\u2605]\nComplete the Marathon challenge under 15 minutes.\n\nTeapots of Glory [20\u2605]\nEarn all available perfect rankings.",
             "community": 2,
             "communityText": "Hardcore Hero\nComplete \"No Air Control\" and \"Swinger Man\" without dying nor using the restart button.\n\nTrue Golden God\nComplete the 100 level Marathon without dying nor using the restart button.",
             "achievements": 28
@@ -68099,7 +68099,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Maze Runner \u2605 45\nBeat Witch's Maze IX with both characters without using quit to menu.\n\nFull Party \u2605 15\nProve yourself.",
+            "primaryText": "Maze Runner [45\u2605]\nBeat Witch's Maze IX with both characters without using quit to menu.\n\nFull Party [15\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Vivid Royalty\nClear all dungeons with both characters.",
             "achievements": 62
@@ -68153,7 +68153,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "VIVIDVARIABLE \u2605 15\nAchieve S Ranks in all Story Mode Stages.\n\nVIVIDVALOR (UNCLEARED) \u2605 1 (Partial: \u2605 1)\nClear an Endless Mode Loop with Cerise & Ecru.\n\nVIVIDVANDAL (UNCLEARED) \u2605 1 (Partial: \u2605 1)\nWin a Gauntlet in the Highest Score Bracket / without getting Knocked Out with Cerise & Ecru.\n\nVIVIDVANITY (UNCLEARED) \u2605 1 (Partial: \u2605 1)\nAchieve V Ranks in all Story Mode Stages with Cerise & Ecru.",
+            "primaryText": "VIVIDVARIABLE [15\u2605]\nAchieve S Ranks in all Story Mode Stages.\n\nVIVIDVALOR (UNCLEARED)[1\u2605  (Partial: 1\u2605)]\nClear an Endless Mode Loop with Cerise & Ecru.\n\nVIVIDVANDAL (UNCLEARED)[1\u2605  (Partial: 1\u2605)]\nWin a Gauntlet in the Highest Score Bracket / without getting Knocked Out with Cerise & Ecru.\n\nVIVIDVANITY (UNCLEARED)[1\u2605  (Partial: 1\u2605)]\nAchieve V Ranks in all Story Mode Stages with Cerise & Ecru.",
             "community": 2,
             "communityText": "VIVIDVAINGLORY\nClear 2 Endless Mode Loops, in 1 run, starting from 1-1, with Cerise & Ecru\n\nVIVIDVALKYRIE\nWin a Gauntlet with All V Ranks with Cerise & Ecru",
             "achievements": 32
@@ -68207,7 +68207,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "3, 2, 1, GO! \u2605 5\nProve yourself.\n\nDyschronometria \u2605 5\nSurvive for 5 minutes.",
+            "primaryText": "3, 2, 1, GO! [5\u2605]\nProve yourself.\n\nDyschronometria [5\u2605]\nSurvive for 5 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -68261,7 +68261,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": " \u2605 45\nBeat IF mode.",
+            "primaryText": " [45\u2605]\nBeat IF mode.",
             "community": 0,
             "communityText": "",
             "achievements": 1
@@ -68316,7 +68316,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Champion of the Antivoid \u2605 100\nComplete the Final Run on Impossible difficulty.\n\nD\u00e9j\u00e0 Void \u2605 20\nComplete Loop 3 on Impossible difficulty. \n\nDarkness Looming \u2605 20\nComplete a run on Impossible difficulty. \n\nCorruption Begins \u2605 10\nComplete a run on Brutal difficulty.",
+            "primaryText": "Champion of the Antivoid [100\u2605]\nComplete the Final Run on Impossible difficulty.\n\nD\u00e9j\u00e0 Void [20\u2605]\nComplete Loop 3 on Impossible difficulty. \n\nDarkness Looming [20\u2605]\nComplete a run on Impossible difficulty. \n\nCorruption Begins [10\u2605]\nComplete a run on Brutal difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 107
@@ -68370,7 +68370,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Vikinggr \u2605 25\nComplete the game and earn Ending A.",
+            "primaryText": "Vikinggr [25\u2605]\nComplete the game and earn Ending A.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -68424,7 +68424,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Circuit Breaker \u2605 85\nClear Iron Mode EX.\n\nAmplify Danger \u2605 20\nClear Iron mode.\n\nGrounded \u2605 10\nSeparately; Obtain all collectibles, earn all Gold timer medals, and beat all levels on Hard mode.",
+            "primaryText": "Circuit Breaker [85\u2605]\nClear Iron Mode EX.\n\nAmplify Danger [20\u2605]\nClear Iron mode.\n\nGrounded [10\u2605]\nSeparately; Obtain all collectibles, earn all Gold timer medals, and beat all levels on Hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -68479,7 +68479,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "The Last of the Naqqs \u2605 60\nBeat the game without dying.\n\nCan't Stop, Won't Stop \u2605 75\nBeat the game in one hour or less.\n\nTriple-Legging It \u2605 15\nBeat the game in two hours or less.",
+            "primaryText": "The Last of the Naqqs [60\u2605]\nBeat the game without dying.\n\nCan't Stop, Won't Stop [75\u2605]\nBeat the game in one hour or less.\n\nTriple-Legging It [15\u2605]\nBeat the game in two hours or less.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -68533,7 +68533,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "UniVVVVVVersal Captain \u2605 80 (Partial: \u2605 20)\nComplete the game in No Death Mode.\n\nUniVVVVVVersal Cadet \u2605 20\nSurvive for one minute in the Super Gravitron. / Obtain a V Rank in all Time Trials.",
+            "primaryText": "UniVVVVVVersal Captain[80\u2605  (Partial: 20\u2605)]\nComplete the game in No Death Mode.\n\nUniVVVVVVersal Cadet [20\u2605]\nSurvive for one minute in the Super Gravitron. / Obtain a V Rank in all Time Trials.",
             "community": 3,
             "communityText": "UniVVVVVVersal Conqueror\nComplete the game in No Death Mode with all 20 trinkets.\n\nMetaVVVVVVersal Vanquisher\nComplete all maps featured on Terry's blog with all trinkets.\n\nMultiVVVVVVersal Commander\nComplete all pre-installed user levels with all trinkets.",
             "achievements": 19
@@ -68587,7 +68587,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Truly Fantastic \u2605 30\nReach the true ending as Coco.\n\nEncouragement \u2605 10\nBeat the game without taking damage.",
+            "primaryText": "Truly Fantastic [30\u2605]\nReach the true ending as Coco.\n\nEncouragement [10\u2605]\nBeat the game without taking damage.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -68641,7 +68641,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "New Magic Wand \u2605 5\nSeparately; finish all campaigns on Legendary difficulty and win a team deathmatch game against 3 CPU players on LVL 10 difficulty.",
+            "primaryText": "New Magic Wand [5\u2605]\nSeparately; finish all campaigns on Legendary difficulty and win a team deathmatch game against 3 CPU players on LVL 10 difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -68695,7 +68695,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Blaze of Wrath \u2605 10\nClear the campaign on all difficulties. \n\nCertified Gamer\u2122 \u2605 10\nObtain a full combo on any Ramen song. / Clear \"Space Runaway\" on Hard mode.",
+            "primaryText": "Blaze of Wrath [10\u2605]\nClear the campaign on all difficulties. \n\nCertified Gamer\u2122 [10\u2605]\nObtain a full combo on any Ramen song. / Clear \"Space Runaway\" on Hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 55
@@ -68749,7 +68749,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Auric Exemplar \u2605 15\nComplete \"The Bell Tolls for Thee\", \"Atoma's Elite Guard\" and \"Auric Storm Survivor\" Penances.",
+            "primaryText": "Auric Exemplar [15\u2605]\nComplete \"The Bell Tolls for Thee\", \"Atoma's Elite Guard\" and \"Auric Storm Survivor\" Penances.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -68768,7 +68768,7 @@ var data =
         "updatedAt": "2024-11-25T09:10:33.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 149,
+        "playersTotal": 150,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -68803,7 +68803,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Heroes of Ubersreik \u2605 60\nBeat the Fortunes of War map on cataclysm difficulty.\n\nCata-Conqueror \u2605 15\nComplete all maps except fortunes of war on Cataclysm difficulty (DLC maps included).",
+            "primaryText": "Heroes of Ubersreik [60\u2605]\nBeat the Fortunes of War map on cataclysm difficulty.\n\nCata-Conqueror [15\u2605]\nComplete all maps except fortunes of war on Cataclysm difficulty (DLC maps included).",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -68857,7 +68857,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Big Fun Level Enthusiast \u2605 10\nGet all DPG medals in the BFLs and Bonus levels\n\nInhuman \u2605 10\nGet all DPG medals in the Main Campaign",
+            "primaryText": "Big Fun Level Enthusiast [10\u2605]\nGet all DPG medals in the BFLs and Bonus levels\n\nInhuman [10\u2605]\nGet all DPG medals in the Main Campaign",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -68876,7 +68876,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 251,
+        "playersTotal": 252,
         "priceData": {
             "USD": {
                 "initial": 199,
@@ -68911,7 +68911,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Waveshaper \u2605 50\nCollect all stars in the game including all challenge mode stars.",
+            "primaryText": "Waveshaper [50\u2605]\nCollect all stars in the game including all challenge mode stars.",
             "community": 0,
             "communityText": "",
             "achievements": 65
@@ -68965,7 +68965,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "WaveDash \u2605 25\nAchieve an S rank on every level. / Collect all the dark fragments.",
+            "primaryText": "WaveDash [25\u2605]\nAchieve an S rank on every level. / Collect all the dark fragments.",
             "community": 0,
             "communityText": "",
             "achievements": 5
@@ -69019,7 +69019,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Immortal Fist \u2605 20\nClear Passiverse mode.\n\nDawn of a New Master \u2605 5\nSeparately; Clear New Dawn mode, and clear all chapters on Way of the Master.",
+            "primaryText": "Immortal Fist [20\u2605]\nClear Passiverse mode.\n\nDawn of a New Master [5\u2605]\nSeparately; Clear New Dawn mode, and clear all chapters on Way of the Master.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -69073,7 +69073,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "We're Cooked \u2605 5\nProve yourself.",
+            "primaryText": "We're Cooked [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -69090,7 +69090,7 @@ var data =
         "points": 30,
         "createdAt": "2023-12-22T20:58:50.000Z",
         "updatedAt": "2024-09-28T16:51:24.000Z",
-        "playersCompleted": 11,
+        "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 73,
         "priceData": {
@@ -69127,7 +69127,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Small-Scale Superstar \u2605 30\nAchieve a Super-Clear in every stage, excluding \"A Million Roses\".",
+            "primaryText": "Small-Scale Superstar [30\u2605]\nAchieve a Super-Clear in every stage, excluding \"A Million Roses\".",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -69181,7 +69181,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "One Last Weep \u2605 125\nFinish the full campaign on any difficulty without getting killed once. / Complete the True Run challenge solo on grandpa difficulty.\n\nLucky Cadet \u2605 45\nFinish the full campaign on at least kid difficulty in one session. / Defeat the King Tank on adult difficulty without any armor.\n\nCrisis Core \u2605 15\nObtain all achievements in survival mode.",
+            "primaryText": "One Last Weep [125\u2605]\nFinish the full campaign on any difficulty without getting killed once. / Complete the True Run challenge solo on grandpa difficulty.\n\nLucky Cadet [45\u2605]\nFinish the full campaign on at least kid difficulty in one session. / Defeat the King Tank on adult difficulty without any armor.\n\nCrisis Core [15\u2605]\nObtain all achievements in survival mode.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -69235,7 +69235,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Deep Web Outstander \u2605 20\nBeat the game without getting hacked. / Beat the game within 7 days. / Earn all Master achievements.",
+            "primaryText": "Deep Web Outstander [20\u2605]\nBeat the game without getting hacked. / Beat the game within 7 days. / Earn all Master achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -69289,7 +69289,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Welcome Back \u2605 40\nBeat the game without any purchases from the stores. / Beat the game on 1337 Mode.",
+            "primaryText": "Welcome Back [40\u2605]\nBeat the game without any purchases from the stores. / Beat the game on 1337 Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -69343,7 +69343,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "If only Timmy was as skilled as you \u2605 5\nBeat the game in under 10 minutes.\n\nWell... I did it! \u2605 5\nBeat the game.",
+            "primaryText": "If only Timmy was as skilled as you [5\u2605]\nBeat the game in under 10 minutes.\n\nWell... I did it! [5\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -69397,7 +69397,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Breakout Hell \u2605 5\nComplete all challenging achievements + Beat the game with the \"Fragile\" trait selected. (1hp mode)",
+            "primaryText": "Breakout Hell [5\u2605]\nComplete all challenging achievements + Beat the game with the \"Fragile\" trait selected. (1hp mode)",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -69451,7 +69451,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cars if it Were Good \u2605 5\nGet all gold crowns and gold cards on all episodes.",
+            "primaryText": "Cars if it Were Good [5\u2605]\nGet all gold crowns and gold cards on all episodes.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -69505,7 +69505,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Whipseeyou Later \u2605 5\nSeparately; clear all bosses without taking damage and clear any level without taking damage.",
+            "primaryText": "Whipseeyou Later [5\u2605]\nSeparately; clear all bosses without taking damage and clear any level without taking damage.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -69559,7 +69559,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Perfect Storm \u2605 10\nDefeat the Heart of the Storm in Overcranked Mode. \n\nCold-Hearted \u2605 10\nDefeat the Heart of the Storm.\n\nStay Frosty \u2605 10\n Achieve a 3 win streak.",
+            "primaryText": "Perfect Storm [10\u2605]\nDefeat the Heart of the Storm in Overcranked Mode. \n\nCold-Hearted [10\u2605]\nDefeat the Heart of the Storm.\n\nStay Frosty [10\u2605]\n Achieve a 3 win streak.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -69614,7 +69614,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Infinite Suffering \u2605 20\n100% your save file.\n\nExistential Crisis \u2605 10\nBeat the game without dying.",
+            "primaryText": "Infinite Suffering [20\u2605]\n100% your save file.\n\nExistential Crisis [10\u2605]\nBeat the game without dying.",
             "community": 3,
             "communityText": "Faster than God\nDefeat all bosses on Easy mode at 200% speed.\n\nMade of Code\nBeat the game without dying and without changing the game speed or quitting to menu.\n\nTechnological Singularity\nBeat the game from a fresh save without dying and without pausing at any point for the entire run.",
             "achievements": 30
@@ -69668,7 +69668,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Path of Decay \u2605 50\nUnlock all achievements on \"Demon\" difficulty.\n\nDemonistic \u2605 80\nComplete \"Demon\" difficulty. \n\nFlavvless \u2605 15\nObtain all \"Flawless!\" achievements.",
+            "primaryText": "Path of Decay [50\u2605]\nUnlock all achievements on \"Demon\" difficulty.\n\nDemonistic [80\u2605]\nComplete \"Demon\" difficulty. \n\nFlavvless [15\u2605]\nObtain all \"Flawless!\" achievements.",
             "community": 1,
             "communityText": "Heart of the Baneful\nComplete \"Demon\" difficulty with Hellspawn modifier.",
             "achievements": 40
@@ -69722,7 +69722,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Wish Upon a Horn \u2605 35\nClear the game on Harder difficulty without using any continues.\n\nMedal Enthusiast (UNVALUED) \u2605 1\nSeparately, earn all six Gold Medals on any character on Harder difficulty.",
+            "primaryText": "Wish Upon a Horn [35\u2605]\nClear the game on Harder difficulty without using any continues.\n\nMedal Enthusiast (UNVALUED) [1\u2605]\nSeparately, earn all six Gold Medals on any character on Harder difficulty.",
             "community": 1,
             "communityText": "Medal Overachiever\nSeparately, earn all six Gold Medals on ALL characters (including hidden ones) on Harder difficulty.",
             "achievements": 21
@@ -69776,7 +69776,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "*teleports behind you* \u2605 30\nSeparately, beat the game on Insane mode and get 9M score on Insane mode.",
+            "primaryText": "*teleports behind you* [30\u2605]\nSeparately, beat the game on Insane mode and get 9M score on Insane mode.",
             "community": 0,
             "communityText": "",
             "achievements": 31
@@ -69830,7 +69830,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Rapid Eye Movement \u2605 20\nClear Speedrun mode on Severe difficulty within 90 minutes.\n\nA Sight For Sore Eyes \u2605 15\nClear both the Boss Rush and Miniboss Rush modes on Severe difficulty.\n\nEnsorcellment \u2605 25\nProve yourself.",
+            "primaryText": "Rapid Eye Movement [20\u2605]\nClear Speedrun mode on Severe difficulty within 90 minutes.\n\nA Sight For Sore Eyes [15\u2605]\nClear both the Boss Rush and Miniboss Rush modes on Severe difficulty.\n\nEnsorcellment [25\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -69884,7 +69884,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Iron Shinobi \u2605 30\nComplete the game in permadeath mode.",
+            "primaryText": "Iron Shinobi [30\u2605]\nComplete the game in permadeath mode.",
             "community": 0,
             "communityText": "",
             "achievements": 78
@@ -69938,7 +69938,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Battlemage \u2605 10\nDefeat Master Sura.",
+            "primaryText": "Battlemage [10\u2605]\nDefeat Master Sura.",
             "community": 0,
             "communityText": "",
             "achievements": 19
@@ -69957,7 +69957,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 4,
-        "playersTotal": 235,
+        "playersTotal": 236,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -69992,7 +69992,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Mein Leben \u2605 100\nComplete the game on \"Mein Leben\" difficulty.\n\nComic Book Hero \u2605 10\nProve yourself.",
+            "primaryText": "Mein Leben [100\u2605]\nComplete the game on \"Mein Leben\" difficulty.\n\nComic Book Hero [10\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Freedom Fighter\nBeat \"The Adventures of Gunslinger Joe\", \"The Diaries of Agent Silent Death\", and \"The Deeds of Captain Wilkins\" on \"Mein leben\" difficulty, each as separate continuous runs.",
             "achievements": 80
@@ -70046,7 +70046,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Wonderputt \u2605 10\nProve yourself\n\nHole-y Relics (UNCLEARED) \u2605 1\nObtain all golden relics",
+            "primaryText": "Wonderputt [10\u2605]\nProve yourself\n\nHole-y Relics (UNCLEARED) [1\u2605]\nObtain all golden relics",
             "community": 3,
             "communityText": "Decorated Golfer\nObtain all in-game awards\n\nGolden Run\nObtain all goldens relics from any course in a single run\n\nYou Only Golf Once\nComplete any trip using the roguelite modifier",
             "achievements": 25
@@ -70100,7 +70100,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Master of Goo \u2605 10\nGet all OCD flags.",
+            "primaryText": "Master of Goo [10\u2605]\nGet all OCD flags.",
             "community": 1,
             "communityText": "Tower of Goo\nReach the final billboard of the World of Goo corporation.",
             "achievements": 8
@@ -70154,7 +70154,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Multidimensional Mangler \u2605 5\nSeparately; collect all critters and beat all gold time and rotation targets.",
+            "primaryText": "Multidimensional Mangler [5\u2605]\nSeparately; collect all critters and beat all gold time and rotation targets.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -70208,7 +70208,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Early Bird \u2605 70\nReach the true ending of the game.\n\nWould you still love me if I was a worm? \u2605 30\nBeat Arcade mode on \"Master\" difficulty.\n\nInching Along \u2605 10\nBeat Arcade mode on \"Veteran\" difficulty. / Beat Arcade mode on \"Experienced\" difficulty deathless. / Beat Standard mode in under 8 minutes.",
+            "primaryText": "Early Bird [70\u2605]\nReach the true ending of the game.\n\nWould you still love me if I was a worm? [30\u2605]\nBeat Arcade mode on \"Master\" difficulty.\n\nInching Along [10\u2605]\nBeat Arcade mode on \"Veteran\" difficulty. / Beat Arcade mode on \"Experienced\" difficulty deathless. / Beat Standard mode in under 8 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -70262,7 +70262,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Tyderium God \u2605 45\nEarn a Tyderium medal on every level in Episode 1.\n\nWhack \u2605 15\nSeparately complete Episode 1 on \"Bullshit\" difficulty, with a score of 5 million or higher, and under 60 minutes.",
+            "primaryText": "Tyderium God [45\u2605]\nEarn a Tyderium medal on every level in Episode 1.\n\nWhack [15\u2605]\nSeparately complete Episode 1 on \"Bullshit\" difficulty, with a score of 5 million or higher, and under 60 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 69
@@ -70317,7 +70317,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Wraith of God \u2605 10\nDefeat 50 wraiths in endless mode.\n\nWraith Slayer \u2605 5\nSlay the Wraith in True Wraith Mode in under 1 minute.",
+            "primaryText": "Wraith of God [10\u2605]\nDefeat 50 wraiths in endless mode.\n\nWraith Slayer [5\u2605]\nSlay the Wraith in True Wraith Mode in under 1 minute.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -70371,7 +70371,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Wunderful \u2605 10\nCollect all chests, flowers and cassettes and obtain the Completionist Beard.",
+            "primaryText": "Wunderful [10\u2605]\nCollect all chests, flowers and cassettes and obtain the Completionist Beard.",
             "community": 0,
             "communityText": "",
             "achievements": 41
@@ -70425,7 +70425,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Stroopwumfel \u2605 20\nBeat the game on Insane mode. / Beat All Boss Run mode under 25 minutes on Normal or higher. / Complete the Boss Run without items from Tein or Raab's stores on Normal or higher.",
+            "primaryText": "Stroopwumfel [20\u2605]\nBeat the game on Insane mode. / Beat All Boss Run mode under 25 minutes on Normal or higher. / Complete the Boss Run without items from Tein or Raab's stores on Normal or higher.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -70479,7 +70479,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Tic-Tac-Top \u2605 10\nBeat story mode with all characters and decks. / Beat story mode without losing or restarting a match. / Beat story mode on Varsity difficulty and unlock Jambalaya difficulty.",
+            "primaryText": "Tic-Tac-Top [10\u2605]\nBeat story mode with all characters and decks. / Beat story mode without losing or restarting a match. / Beat story mode on Varsity difficulty and unlock Jambalaya difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -70533,7 +70533,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Zero Hesitation \u2605 5\nBeat the game with all modifiers on.",
+            "primaryText": "Zero Hesitation [5\u2605]\nBeat the game with all modifiers on.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -70552,7 +70552,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
-        "playersTotal": 350,
+        "playersTotal": 351,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -70587,7 +70587,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Angel of Death \u2605 30\nProve yourself.",
+            "primaryText": "Angel of Death [30\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 85
@@ -70606,7 +70606,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
-        "playersTotal": 347,
+        "playersTotal": 348,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -70641,7 +70641,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Immortal Commander \u2605 35 (Partial: \u2605 10)\nProve yourself.\n\nFirst-Rate Fighter \u2605 10\nEarn a gold medal on every campaign mission in the DLC.",
+            "primaryText": "Immortal Commander[35\u2605  (Partial: 10\u2605)]\nProve yourself.\n\nFirst-Rate Fighter [10\u2605]\nEarn a gold medal on every campaign mission in the DLC.",
             "community": 0,
             "communityText": "",
             "achievements": 88
@@ -70695,7 +70695,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Alien Removal Division \u2605 15\nObtain S Rank on each stage. / Beat the boss rush.\n\nXenocidal Rush \u2605 10\nGet an overall S rank on hard mode boss rush.\n\nIn the Midst of the Catastrophe (UNCLEARED) \u2605 1\nGet an overall S rank and the best ending on hard mode.",
+            "primaryText": "Alien Removal Division [15\u2605]\nObtain S Rank on each stage. / Beat the boss rush.\n\nXenocidal Rush [10\u2605]\nGet an overall S rank on hard mode boss rush.\n\nIn the Midst of the Catastrophe (UNCLEARED) [1\u2605]\nGet an overall S rank and the best ending on hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -70749,7 +70749,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Xmas Juice \u2605 15\nProve yourself.\n\nXmas Savior \u2605 15\nBeat Arcade mode on \"Miracle Night\" difficulty.",
+            "primaryText": "Xmas Juice [15\u2605]\nProve yourself.\n\nXmas Savior [15\u2605]\nBeat Arcade mode on \"Miracle Night\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -70803,7 +70803,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Try Hard \u2605 20\nComplete all mountains on Try 10 with both characters.\n\nTrail Hiker \u2605 30\nComplete Stellanade on Try 10 with both characters.",
+            "primaryText": "Try Hard [20\u2605]\nComplete all mountains on Try 10 with both characters.\n\nTrail Hiker [30\u2605]\nComplete Stellanade on Try 10 with both characters.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -70857,7 +70857,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Yars' Counterattack \u2605 25\nClear the Arcade mode.\n\nHazard Course \u2605 5\nComplete all missions.",
+            "primaryText": "Yars' Counterattack [25\u2605]\nClear the Arcade mode.\n\nHazard Course [5\u2605]\nComplete all missions.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -70911,7 +70911,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "God of Dance \u2605 35\nGet a gold medal on the Boss Rush of both scenarios on Lunatic.\n\nBullet Backdancer \u2605 30\nClear both scenarios on Lunatic.",
+            "primaryText": "God of Dance [35\u2605]\nGet a gold medal on the Boss Rush of both scenarios on Lunatic.\n\nBullet Backdancer [30\u2605]\nClear both scenarios on Lunatic.",
             "community": 1,
             "communityText": "Dancing Purist\nClear both scenarios on Lunatic without dying.",
             "achievements": 25
@@ -70965,7 +70965,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Not So Impossible Lair \u2605 60\nObtain the Golden Try tonic by completing the Impossible Lair without the use of bee team guards.\n\nPlan Bee \u2605 5\nProve yourself.",
+            "primaryText": "Not So Impossible Lair [60\u2605]\nObtain the Golden Try tonic by completing the Impossible Lair without the use of bee team guards.\n\nPlan Bee [5\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Bee Amazed\nComplete the Impossible Lair without ever having lost Laylee.",
             "achievements": 47
@@ -71019,7 +71019,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Trapmancer Gauntlet \u2605 10\nDefeat the Necromancer in Ultra Hard difficulty.",
+            "primaryText": "Trapmancer Gauntlet [10\u2605]\nDefeat the Necromancer in Ultra Hard difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -71073,7 +71073,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "You Have No Lives \u2605 45\nGet the normal ending without dying from a new save.\n\nYou Have 30 Sins \u2605 5\nReach the depths of the true ending.",
+            "primaryText": "You Have No Lives [45\u2605]\nGet the normal ending without dying from a new save.\n\nYou Have 30 Sins [5\u2605]\nReach the depths of the true ending.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -71127,7 +71127,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Parallel Parking Prodigy \u2605 15\nPerfect all levels in the base game and \"Inferno\" update.",
+            "primaryText": "Parallel Parking Prodigy [15\u2605]\nPerfect all levels in the base game and \"Inferno\" update.",
             "community": 0,
             "communityText": "",
             "achievements": 25
@@ -71181,7 +71181,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO] | Worlds 2017 - League of Legends \u2605 20\nComplete the game without dying.",
+            "primaryText": "Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO] | Worlds 2017 - League of Legends [20\u2605]\nComplete the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 8
@@ -71235,7 +71235,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Cirno's Perfect Danmaku Class \u2605 20\nBeat a route on Lunatic without continuing.\n\nAlmighty Fairy \u2605 15\nBeat the Extra mode.\n\nFlower Viewing \u2605 5\nBeat a route on Normal or higher without continuing.",
+            "primaryText": "Cirno's Perfect Danmaku Class [20\u2605]\nBeat a route on Lunatic without continuing.\n\nAlmighty Fairy [15\u2605]\nBeat the Extra mode.\n\nFlower Viewing [5\u2605]\nBeat a route on Normal or higher without continuing.",
             "community": 3,
             "communityText": "Above Zero\nBeat a route on Lunatic without dying and bombing.\n\nBeaten at Her Own Game\nBeat the Extra mode without dying and bombing. (Drain lasers are allowed)\n\nThe Strongest!\nBeat all routes on Lunatic without continuing.",
             "achievements": 0
@@ -71289,7 +71289,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Adol Begins \u2605 15\nComplete Ys I on Nightmare difficulty. / Complete Ys I Time Attack.",
+            "primaryText": "Adol Begins [15\u2605]\nComplete Ys I on Nightmare difficulty. / Complete Ys I Time Attack.",
             "community": 1,
             "communityText": "Adol the Red\nComplete all primary objectives from all site-listed games in the Ys franchise. See verification requirements for complete list.",
             "achievements": 17
@@ -71343,7 +71343,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Black Pearl Rises \u2605 10\nComplete Ys II on Nightmare difficulty. / Complete Ys II Time Attack.",
+            "primaryText": "The Black Pearl Rises [10\u2605]\nComplete Ys II on Nightmare difficulty. / Complete Ys II Time Attack.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -71397,7 +71397,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Scars of the Divine Wing \u2605 80\nComplete Boss Rush on Nightmare difficulty with all versions of all characters.",
+            "primaryText": "Scars of the Divine Wing [80\u2605]\nComplete Boss Rush on Nightmare difficulty with all versions of all characters.",
             "community": 0,
             "communityText": "",
             "achievements": 46
@@ -71451,7 +71451,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Wind of Zemeth \u2605 20\nComplete the game on Nightmare difficulty.",
+            "primaryText": "The Wind of Zemeth [20\u2605]\nComplete the game on Nightmare difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -71505,7 +71505,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Beyond the Nightmare \u2605 10\nClear Nightmare Mode.",
+            "primaryText": "Beyond the Nightmare [10\u2605]\nClear Nightmare Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 54
@@ -71559,7 +71559,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Boss Adol \u2605 45\nProve yourself.",
+            "primaryText": "Boss Adol [45\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -71613,7 +71613,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Unmatched Under the Cosmos \u2605 10\nSeparately, in Endless Mode, reach the \"Elite Space Ranger\" stage without killing any enemies and without picking up any power-ups.\n\nThe Crumbling Universe \u2605 10\nBeat the main campaign with all characters. ",
+            "primaryText": "Unmatched Under the Cosmos [10\u2605]\nSeparately, in Endless Mode, reach the \"Elite Space Ranger\" stage without killing any enemies and without picking up any power-ups.\n\nThe Crumbling Universe [10\u2605]\nBeat the main campaign with all characters. ",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -71668,7 +71668,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Lantern Keeper \u2605 35\nFinish hard mode.\n\nForest Guardian \u2605 5\nFinish normal mode without leveling up.",
+            "primaryText": "Lantern Keeper [35\u2605]\nFinish hard mode.\n\nForest Guardian [5\u2605]\nFinish normal mode without leveling up.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -71722,7 +71722,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "They Keep Jamming Anyways \u2605 5\nDon't use any photocopiers during the game.",
+            "primaryText": "They Keep Jamming Anyways [5\u2605]\nDon't use any photocopiers during the game.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -71776,7 +71776,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Medal Biographer \u2605 35\nObtain all author medals.\n\nZeepkeeper \u2605 15\nObtain all seasonal collectibles.",
+            "primaryText": "Medal Biographer [35\u2605]\nObtain all author medals.\n\nZeepkeeper [15\u2605]\nObtain all seasonal collectibles.",
             "community": 0,
             "communityText": "",
             "achievements": 54
@@ -71830,7 +71830,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Impenetrable Armaggedon Army \u2605 15\nBeat the game including TLB on Expert without using continues.",
+            "primaryText": "Impenetrable Armaggedon Army [15\u2605]\nBeat the game including TLB on Expert without using continues.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -71884,7 +71884,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Zenodinner \u2605 10\nDefeat the TLB.",
+            "primaryText": "Zenodinner [10\u2605]\nDefeat the TLB.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -71938,7 +71938,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Through the Stars \u2605 40\nBeat the hidden stage without continues. / Beat the boss rush.\n\nZenopunishment (UNCLEARED) \u2605 1\nClear ZOR mode. (Continues allowed)",
+            "primaryText": "Through the Stars [40\u2605]\nBeat the hidden stage without continues. / Beat the boss rush.\n\nZenopunishment (UNCLEARED) [1\u2605]\nClear ZOR mode. (Continues allowed)",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -71992,7 +71992,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Strained Limitations \u2605 15\nBeat the final boss on Omega.\n\nBurden of Infinity \u2605 1\nObtain an S+ rank on every level with every ship.\n\nZero Hour \u2605 1\nBeat all levels with all ships.",
+            "primaryText": "Strained Limitations [15\u2605]\nBeat the final boss on Omega.\n\nBurden of Infinity [1\u2605]\nObtain an S+ rank on every level with every ship.\n\nZero Hour [1\u2605]\nBeat all levels with all ships.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -72046,7 +72046,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "GRAPEFRUIT SQUASHER \u2605 15\nBeat the whole game without using continues.\n\nSYSTEM ENDLESS \u2605 10\nBeat the true last boss.",
+            "primaryText": "GRAPEFRUIT SQUASHER [15\u2605]\nBeat the whole game without using continues.\n\nSYSTEM ENDLESS [10\u2605]\nBeat the true last boss.",
             "community": 1,
             "communityText": "This Is the Story of... Wait, Already?\nBeat the whole game without using continues, including the true last boss.",
             "achievements": 1
@@ -72100,7 +72100,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ziggarough \u2605 30\nClear the game on \"Hard\" difficulty.",
+            "primaryText": "Ziggarough [30\u2605]\nClear the game on \"Hard\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 38
@@ -72154,7 +72154,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Snake Pit Master \u2605 15\nComplete the Master course in Normal Mode with limited lives enabled.\n\nSouped-Up Snake \u2605 5\nComplete the Expert course in Normal Mode with limited lives enabled.",
+            "primaryText": "Snake Pit Master [15\u2605]\nComplete the Master course in Normal Mode with limited lives enabled.\n\nSouped-Up Snake [5\u2605]\nComplete the Expert course in Normal Mode with limited lives enabled.",
             "community": 1,
             "communityText": "Ouroboros\nFill out all 10 maps in Classic Mode.",
             "achievements": 0
@@ -72208,7 +72208,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Polar Heckler \u2605 10\nProve yourself.",
+            "primaryText": "Polar Heckler [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 31
@@ -72262,7 +72262,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Tabletop Hero \u2605 25\nComplete the Hell difficulty with all heroes.\n\nRollin' Warrior \u2605 10\nComplete the Hard difficulty with all heroes.",
+            "primaryText": "Tabletop Hero [25\u2605]\nComplete the Hell difficulty with all heroes.\n\nRollin' Warrior [10\u2605]\nComplete the Hard difficulty with all heroes.",
             "community": 0,
             "communityText": "",
             "achievements": 73
@@ -72316,7 +72316,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Frog Prince \u2605 25\nClear Iron Frog mode in less than 25 minutes.\n\nClassically Challenging \u2605 15\nSeparately; earn 25k in Challenge mode and beat Heroic mode.",
+            "primaryText": "Frog Prince [25\u2605]\nClear Iron Frog mode in less than 25 minutes.\n\nClassically Challenging [15\u2605]\nSeparately; earn 25k in Challenge mode and beat Heroic mode.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -72370,7 +72370,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Platinum Savant \u2605 90\nObtain a platinum coin on all Ninja Trials.\n\nThe Long Journey to Master Ninja \u2605 60\nObtain a Master rank in all chapters on Master Ninja difficulty.",
+            "primaryText": "Platinum Savant [90\u2605]\nObtain a platinum coin on all Ninja Trials.\n\nThe Long Journey to Master Ninja [60\u2605]\nObtain a Master rank in all chapters on Master Ninja difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -72424,7 +72424,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "The Experimented \u2605 5\nDefeat the TLB on Original or Impossible difficulty.\n\nBurning in vitro (UNCLEARED) \u2605 1\nGet a 1CC on Inferno difficulty or higher.\n\nTarget Name: Light Wings Close Range Support Cruel Battle Machine - Experiment DOOM (UNCLEARED) \u2605 1\nGet a 1CC on Impossible difficulty.",
+            "primaryText": "The Experimented [5\u2605]\nDefeat the TLB on Original or Impossible difficulty.\n\nBurning in vitro (UNCLEARED) [1\u2605]\nGet a 1CC on Inferno difficulty or higher.\n\nTarget Name: Light Wings Close Range Support Cruel Battle Machine - Experiment DOOM (UNCLEARED) [1\u2605]\nGet a 1CC on Impossible difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 8
@@ -72478,7 +72478,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": " \u2200MAZING \u2605 125\nClear all modes (separately) with no mistakes.\n\n\u2200WOKEN \u2605 30\nClear the \"Pandemonic Nightmare\" stage, and clear \"Hymeno Striker\" on AKASCHIC+RM difficulty.",
+            "primaryText": " \u2200MAZING [125\u2605]\nClear all modes (separately) with no mistakes.\n\n\u2200WOKEN [30\u2605]\nClear the \"Pandemonic Nightmare\" stage, and clear \"Hymeno Striker\" on AKASCHIC+RM difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -72532,7 +72532,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Mythical Fantasy \u2605 50\nGet a No Miss No Bomb clear on Lunatic. / Get a No Miss No Bomb clear on Extra.\n\nBillionaire \u2605 60\nObtain a score of 30 billion in the main mode. / Obtain a score of 9.9 billion in the Extra stage.\n\nThe Kingdom's Constitution \u2605 15\nClear the game on Lunatic without using continues.\n\nScarlet Empire \u2605 5\nClear the game on Normal or higher without using continues. / Clear the Extra stage without using continues.",
+            "primaryText": "Mythical Fantasy [50\u2605]\nGet a No Miss No Bomb clear on Lunatic. / Get a No Miss No Bomb clear on Extra.\n\nBillionaire [60\u2605]\nObtain a score of 30 billion in the main mode. / Obtain a score of 9.9 billion in the Extra stage.\n\nThe Kingdom's Constitution [15\u2605]\nClear the game on Lunatic without using continues.\n\nScarlet Empire [5\u2605]\nClear the game on Normal or higher without using continues. / Clear the Extra stage without using continues.",
             "community": 0,
             "communityText": "",
             "achievements": 65
@@ -72586,7 +72586,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Transcending Time and Space \u2605 25\nOn Lunatic, reach and beat the TLB of Stage INF without using continues. (Get the Unexpected Ending)\n\nVanishing Galaxy \u2605 35\nProve yourself.",
+            "primaryText": "Transcending Time and Space [25\u2605]\nOn Lunatic, reach and beat the TLB of Stage INF without using continues. (Get the Unexpected Ending)\n\nVanishing Galaxy [35\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -72640,7 +72640,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Imperishable Loong \u2605 10\nBeat the game on Lunatic without using continues.\n\nTag Teamer \u2605 5\nBeat the game on Normal or higher without using continues. / Beat the Extra mode.",
+            "primaryText": "Imperishable Loong [10\u2605]\nBeat the game on Lunatic without using continues.\n\nTag Teamer [5\u2605]\nBeat the game on Normal or higher without using continues. / Beat the Extra mode.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -72694,7 +72694,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fly Through Scarlet \u2605 25\nClear the game without dying on any difficulty. / Capture all the spell cards in Spellcard Challenges. / Score over 2 billion in Hard difficulty or higher.",
+            "primaryText": "Fly Through Scarlet [25\u2605]\nClear the game without dying on any difficulty. / Capture all the spell cards in Spellcard Challenges. / Score over 2 billion in Hard difficulty or higher.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -72748,7 +72748,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fantastic Flight \u2605 85\nClear the final boss of extra story without hurts. / Reach 80,000 grazing count.",
+            "primaryText": "Fantastic Flight [85\u2605]\nClear the final boss of extra story without hurts. / Reach 80,000 grazing count.",
             "community": 1,
             "communityText": "Phantasmic Flight\nClear Phantasm without deaths, bombs and barriers.",
             "achievements": 28
@@ -72802,7 +72802,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Conceal the Conclusion \u2605 5\nBeat the game on Lunatic without continues.\n\nPhantasm Wanderer \u2605 5\nBeat the game on Normal or higher without using continues, / Beat the Extra mode.",
+            "primaryText": "Conceal the Conclusion [5\u2605]\nBeat the game on Lunatic without continues.\n\nPhantasm Wanderer [5\u2605]\nBeat the game on Normal or higher without using continues, / Beat the Extra mode.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -72870,7 +72870,7 @@ var data =
         "playersTotal": 71,
         "milestones": {
             "primary": 1,
-            "primaryText": "Wanted: Dead or Live \u2605 10\nProve yourself.",
+            "primaryText": "Wanted: Dead or Live [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -72892,7 +72892,7 @@ var data =
         "playersTotal": 145,
         "milestones": {
             "primary": 1,
-            "primaryText": "Extraterrestrial Exterminator \u2605 10\nFinish the game in under 10 minutes. / Place first in \"The Bonewald\" leaderboard.",
+            "primaryText": "Extraterrestrial Exterminator [10\u2605]\nFinish the game in under 10 minutes. / Place first in \"The Bonewald\" leaderboard.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -72914,7 +72914,7 @@ var data =
         "playersTotal": 180,
         "milestones": {
             "primary": 2,
-            "primaryText": "All Day Ultimate \u2605 55\nSurpass the Diamond score in all base game levels on Ultimate.\n\nUltimate Memories \u2605 10\nSurpass the Diamond score in all \"Memories\" expansion levels on Ultimate.",
+            "primaryText": "All Day Ultimate [55\u2605]\nSurpass the Diamond score in all base game levels on Ultimate.\n\nUltimate Memories [10\u2605]\nSurpass the Diamond score in all \"Memories\" expansion levels on Ultimate.",
             "community": 1,
             "communityText": "All in a Day's Work\nComplete all in-game objectives.",
             "achievements": 95
@@ -72936,7 +72936,7 @@ var data =
         "playersTotal": 91,
         "milestones": {
             "primary": 3,
-            "primaryText": "Heavenly Hexahedron \u2605 160\nObtain the \"No death\" badge for the Supernova dimension in Speedrun Mode.\n\nCosmic Cube \u2605 20\nObtain the \"No death\" badge for the Atomic, Molecular, Planetary and Galactic dimensions in Speedrun Mode.\n\nStarry Square \u2605 20\nBeat the gold medal time and collect all three stars on every level.",
+            "primaryText": "Heavenly Hexahedron [160\u2605]\nObtain the \"No death\" badge for the Supernova dimension in Speedrun Mode.\n\nCosmic Cube [20\u2605]\nObtain the \"No death\" badge for the Atomic, Molecular, Planetary and Galactic dimensions in Speedrun Mode.\n\nStarry Square [20\u2605]\nBeat the gold medal time and collect all three stars on every level.",
             "community": 1,
             "communityText": "Big Bang\nCollect every star and obtain the \"No death\" badge for each dimension in Speedrun Mode.",
             "achievements": 0
@@ -72959,7 +72959,7 @@ var data =
         "playersTotal": 66,
         "milestones": {
             "primary": 3,
-            "primaryText": "Collision Course \u2605 10\nReach Rank 25 in Ranked Mode.\n\nFrom Push to Shove \u2605 15\nReach the Grandmaster League in Ranked Mode.\n\nBumped Up \u2605 15\nReach the Platinum League in Ranked Mode.",
+            "primaryText": "Collision Course [10\u2605]\nReach Rank 25 in Ranked Mode.\n\nFrom Push to Shove [15\u2605]\nReach the Grandmaster League in Ranked Mode.\n\nBumped Up [15\u2605]\nReach the Platinum League in Ranked Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -72982,7 +72982,7 @@ var data =
         "playersTotal": 218,
         "milestones": {
             "primary": 1,
-            "primaryText": "Learning is Fun! \u2605 30\nBeat Story Mode in under 6 minutes. / Get 20 notebooks in Endless Mode. / Beat NULL Mode.",
+            "primaryText": "Learning is Fun! [30\u2605]\nBeat Story Mode in under 6 minutes. / Get 20 notebooks in Endless Mode. / Beat NULL Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -73005,7 +73005,7 @@ var data =
         "playersTotal": 50,
         "milestones": {
             "primary": 1,
-            "primaryText": "Homecoming \u2605 5\nFinish all levels.",
+            "primaryText": "Homecoming [5\u2605]\nFinish all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -73027,7 +73027,7 @@ var data =
         "playersTotal": 121,
         "milestones": {
             "primary": 1,
-            "primaryText": "Rug Pull \u2605 5\nComplete the game on \"Struggle\" difficulty.",
+            "primaryText": "Rug Pull [5\u2605]\nComplete the game on \"Struggle\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -73049,7 +73049,7 @@ var data =
         "playersTotal": 17,
         "milestones": {
             "primary": 2,
-            "primaryText": "Bobo Go All the Way \u2605 5\n100% the game.\n\nBobo Go Home \u2605 5\nBeat the game.",
+            "primaryText": "Bobo Go All the Way [5\u2605]\n100% the game.\n\nBobo Go Home [5\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -73071,7 +73071,7 @@ var data =
         "playersTotal": 385,
         "milestones": {
             "primary": 1,
-            "primaryText": "Quick Thinking \u2605 10\nBeat the challenge time in a speedrun.",
+            "primaryText": "Quick Thinking [10\u2605]\nBeat the challenge time in a speedrun.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -73093,7 +73093,7 @@ var data =
         "playersTotal": 108,
         "milestones": {
             "primary": 3,
-            "primaryText": "Mad Sprint \u2605 100\nBeat the gold time on all extreme maps.\n\nModerate Run \u2605 60\nBeat the gold time on all hard maps.\n\nLight Jog \u2605 40\nBeat the gold time on all easy and medium maps.",
+            "primaryText": "Mad Sprint [100\u2605]\nBeat the gold time on all extreme maps.\n\nModerate Run [60\u2605]\nBeat the gold time on all hard maps.\n\nLight Jog [40\u2605]\nBeat the gold time on all easy and medium maps.",
             "community": 0,
             "communityText": "",
             "achievements": 83
@@ -73112,10 +73112,10 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 32,
         "playersStarted": 0,
-        "playersTotal": 369,
+        "playersTotal": 370,
         "milestones": {
             "primary": 1,
-            "primaryText": "Ghost \u2605 5\nFinish all campaign missions on \"Veteran\" or \"Realism\" difficulty.",
+            "primaryText": "Ghost [5\u2605]\nFinish all campaign missions on \"Veteran\" or \"Realism\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -73137,7 +73137,7 @@ var data =
         "playersTotal": 111,
         "milestones": {
             "primary": 1,
-            "primaryText": "Cheesed \u2605 20\nDefeat each boss on Hard Mode without getting hit.",
+            "primaryText": "Cheesed [20\u2605]\nDefeat each boss on Hard Mode without getting hit.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -73160,7 +73160,7 @@ var data =
         "playersTotal": 129,
         "milestones": {
             "primary": 4,
-            "primaryText": "Cloudberry King \u2605 150\nBeat the normal version of level 320.\n\nApex Masochism \u2605 320\nBeat the normal version of level 319.\n\nBerry Cloudy with No Chance of Victory \u2605 20\nReach level 319.\n\nBetter Than Nothing \u2605 10\nScore 1.5 million in any arcade mode.",
+            "primaryText": "Cloudberry King [150\u2605]\nBeat the normal version of level 320.\n\nApex Masochism [320\u2605]\nBeat the normal version of level 319.\n\nBerry Cloudy with No Chance of Victory [20\u2605]\nReach level 319.\n\nBetter Than Nothing [10\u2605]\nScore 1.5 million in any arcade mode.",
             "community": 2,
             "communityText": "True Cloudberry King\nBeat the Anders version of level 320.\n\nApex Psychosis\nBeat the Anders version of level 319.",
             "achievements": 16
@@ -73183,7 +73183,7 @@ var data =
         "playersTotal": 59,
         "milestones": {
             "primary": 25,
-            "primaryText": "Apollo (UNCLEARED) \u2605 0\nAdd a game to CE that single handedly doubles the total amount of UNCLEARED objectives on the entire site, then apologize profusely.\n\nCE Japan \u2605 0\n\u3042\u306a\u305f\u306e\u52aa\u529b\u3068\u732e\u8eab\u306b\u6df1\u304f\u611f\u8b1d\u3057\u307e\u3059\u3002\n\nCraziiPanduh \u2605 0\nSuccessfully scare people out of the voice chat with your rage pistol.\n\nFlash \u2605 0\nHave your discord message ratio be 10:1 stickers to non-stickers.\n\nFolkius \u2605 0\nBe the only admin in CE history that hasn't rage quit from the responsibilities. (Now he's stuck here forever or else this objective will be a meme).\n\nGooey \u2605 0\nPlay games in the worst and least efficient way possible, then claim nothing on the site is properly valued.\n\nJarvis \u2605 0\nLeave the group for months, then come back as if it never happened, then do this every 2 years for the rest of your life.\n\nKing Bing Bong \u2605 0\nBe born after CE was founded (in October of 2019).\n\nLaura \u2605 0\nBe the most wonderful, beautiful, kind, intelligent person in the whole world \ud83e\udd70\n\nLegit \"Leg it\" Legion the Legend \u2605 0\nObtain the prestigious hidden role of Hentai Weeb Furry Grandmaster\n\nMega \u2605 0\nBecome the owner of CE without actually knowing anything about how the group or system work.\n\nMini, PO Terrorist \u2605 0\nConvince a dev to add an objective so hard that no one in the world has done it, then go on to complete it.\n\nMiyu \u2605 0\nRecommend a legitimately T6 game unironically at 80 points, and then fight to the death to keep it there.\n\nPig \u2605 0\nRuin your sleep schedule so badly that you have to take micro naps in between speaking.\n\nqetc \u2605 0\nhttps://www.youtube.com/watch?v=8-OtzZA9jCY\n\nRamia \u2605 0\nInsist that you are burnt out on challenging games, and then go on to earn 500 points a month for 18 consecutive months.\n\nSchmole \u2605 0\nEarn each of the following roles: Legendary Spreadsheet Challenger, Black Spreadsheet Grandmaster, and T5 Spreadsheet Enthusiast.\n\nSoundodger 2, Defender of CE \u2605 0\nAs CE assistant rampaged through the site, devouring everything in its wake, one game rose up to defend all that remains.\n\nsp1nz \u2605 0\nOwn every game on the site, then buy a physical copy of each in every language, then proceed to play the same two games for the rest of your life.\n\nTeddy \u2605 0\nSeparately; Know a billionaire personally, be a professional Esports coach, and take over a year to finish writing the script for a single video because it was so emotionally powerful, the world wasn't ready for it.\n\nThe Entirety of the Celeste, Pogostuck, and Geometry Dash Discords \u2605 0\nWhere do I post proof?\n\nTomato Final Boss \u2605 0\nCreate a thread that's such a bruh moment, someone leaves the group.\n\nVantier \u2605 0\nSuccessfully argue against your own points for 8 hours straight, then fall asleep.\n\nVitas \u2605 0\nBorn your own children and teach him how to become nice gamer for farm points.\n\nZelda \u2605 0\nThis is potentially an objective.",
+            "primaryText": "Apollo (UNCLEARED) [0\u2605]\nAdd a game to CE that single handedly doubles the total amount of UNCLEARED objectives on the entire site, then apologize profusely.\n\nCE Japan [0\u2605]\n\u3042\u306a\u305f\u306e\u52aa\u529b\u3068\u732e\u8eab\u306b\u6df1\u304f\u611f\u8b1d\u3057\u307e\u3059\u3002\n\nCraziiPanduh [0\u2605]\nSuccessfully scare people out of the voice chat with your rage pistol.\n\nFlash [0\u2605]\nHave your discord message ratio be 10:1 stickers to non-stickers.\n\nFolkius [0\u2605]\nBe the only admin in CE history that hasn't rage quit from the responsibilities. (Now he's stuck here forever or else this objective will be a meme).\n\nGooey [0\u2605]\nPlay games in the worst and least efficient way possible, then claim nothing on the site is properly valued.\n\nJarvis [0\u2605]\nLeave the group for months, then come back as if it never happened, then do this every 2 years for the rest of your life.\n\nKing Bing Bong [0\u2605]\nBe born after CE was founded (in October of 2019).\n\nLaura [0\u2605]\nBe the most wonderful, beautiful, kind, intelligent person in the whole world \ud83e\udd70\n\nLegit \"Leg it\" Legion the Legend [0\u2605]\nObtain the prestigious hidden role of Hentai Weeb Furry Grandmaster\n\nMega [0\u2605]\nBecome the owner of CE without actually knowing anything about how the group or system work.\n\nMini, PO Terrorist [0\u2605]\nConvince a dev to add an objective so hard that no one in the world has done it, then go on to complete it.\n\nMiyu [0\u2605]\nRecommend a legitimately T6 game unironically at 80 points, and then fight to the death to keep it there.\n\nPig [0\u2605]\nRuin your sleep schedule so badly that you have to take micro naps in between speaking.\n\nqetc [0\u2605]\nhttps://www.youtube.com/watch?v=8-OtzZA9jCY\n\nRamia [0\u2605]\nInsist that you are burnt out on challenging games, and then go on to earn 500 points a month for 18 consecutive months.\n\nSchmole [0\u2605]\nEarn each of the following roles: Legendary Spreadsheet Challenger, Black Spreadsheet Grandmaster, and T5 Spreadsheet Enthusiast.\n\nSoundodger 2, Defender of CE [0\u2605]\nAs CE assistant rampaged through the site, devouring everything in its wake, one game rose up to defend all that remains.\n\nsp1nz [0\u2605]\nOwn every game on the site, then buy a physical copy of each in every language, then proceed to play the same two games for the rest of your life.\n\nTeddy [0\u2605]\nSeparately; Know a billionaire personally, be a professional Esports coach, and take over a year to finish writing the script for a single video because it was so emotionally powerful, the world wasn't ready for it.\n\nThe Entirety of the Celeste, Pogostuck, and Geometry Dash Discords [0\u2605]\nWhere do I post proof?\n\nTomato Final Boss [0\u2605]\nCreate a thread that's such a bruh moment, someone leaves the group.\n\nVantier [0\u2605]\nSuccessfully argue against your own points for 8 hours straight, then fall asleep.\n\nVitas [0\u2605]\nBorn your own children and teach him how to become nice gamer for farm points.\n\nZelda [0\u2605]\nThis is potentially an objective.",
             "community": 1,
             "communityText": "Achrotone\nAdd in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO  for adding in a CO  for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO.",
             "achievements": 0
@@ -73205,7 +73205,7 @@ var data =
         "playersTotal": 89,
         "milestones": {
             "primary": 1,
-            "primaryText": "Cognitive-Symbolic Synthesis \u2605 30\nScore 6000 on \"Standard - Standard\". / Complete level 25 of \"Speed - Expert\" with three lives.",
+            "primaryText": "Cognitive-Symbolic Synthesis [30\u2605]\nScore 6000 on \"Standard - Standard\". / Complete level 25 of \"Speed - Expert\" with three lives.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -73227,7 +73227,7 @@ var data =
         "playersTotal": 166,
         "milestones": {
             "primary": 4,
-            "primaryText": "Unlimited Clear \u2605 130\nClear UNLIMITED mode (no stage restarts or continues).\n\nBoost Clear \u2605 40\nClear the BOOST mode in ARCADE difficulty (no stage restarts or continues).\n\nOriginal Clear \u2605 40\nClear the ORIGINAL mode in ARCADE difficulty (no stage restarts or continues).\n\nTime Attack Master \u2605 20\nReach the highest ranking in TIME ATTACK.",
+            "primaryText": "Unlimited Clear [130\u2605]\nClear UNLIMITED mode (no stage restarts or continues).\n\nBoost Clear [40\u2605]\nClear the BOOST mode in ARCADE difficulty (no stage restarts or continues).\n\nOriginal Clear [40\u2605]\nClear the ORIGINAL mode in ARCADE difficulty (no stage restarts or continues).\n\nTime Attack Master [20\u2605]\nReach the highest ranking in TIME ATTACK.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -73250,7 +73250,7 @@ var data =
         "playersTotal": 95,
         "milestones": {
             "primary": 1,
-            "primaryText": "Trial by Fire \u2605 5\nBeat the game on Legendary without using continues.",
+            "primaryText": "Trial by Fire [5\u2605]\nBeat the game on Legendary without using continues.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -73272,7 +73272,7 @@ var data =
         "playersTotal": 60,
         "milestones": {
             "primary": 1,
-            "primaryText": "Anything for Love \u2605 5\nProve yourself.",
+            "primaryText": "Anything for Love [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 55
@@ -73294,7 +73294,7 @@ var data =
         "playersTotal": 234,
         "milestones": {
             "primary": 1,
-            "primaryText": "Snake Charmer \u2605 10\nProve yourself.",
+            "primaryText": "Snake Charmer [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 8
@@ -73316,7 +73316,7 @@ var data =
         "playersTotal": 28,
         "milestones": {
             "primary": 1,
-            "primaryText": "Ai? More Like Au \u2605 10\nEarn the Extra-Gold medal in every level.",
+            "primaryText": "Ai? More Like Au [10\u2605]\nEarn the Extra-Gold medal in every level.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -73338,7 +73338,7 @@ var data =
         "playersTotal": 85,
         "milestones": {
             "primary": 1,
-            "primaryText": "I Walk a Lonely Void \u2605 10\nBeat Arcade mode on \"Extreme\" difficulty. / Get the gold medal on all challenges. / Survive for more than 6 waves on Survival mode.",
+            "primaryText": "I Walk a Lonely Void [10\u2605]\nBeat Arcade mode on \"Extreme\" difficulty. / Get the gold medal on all challenges. / Survive for more than 6 waves on Survival mode.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -73360,7 +73360,7 @@ var data =
         "playersTotal": 537,
         "milestones": {
             "primary": 1,
-            "primaryText": "Sword in the Hole \u2605 20\nComplete the game in under 3 minutes and 30 seconds.",
+            "primaryText": "Sword in the Hole [20\u2605]\nComplete the game in under 3 minutes and 30 seconds.",
             "community": 1,
             "communityText": "I Can Swing My Sword!\nBeat the original \"Living Legend\" achievement time of 3 minutes.",
             "achievements": 12
@@ -73382,7 +73382,7 @@ var data =
         "playersTotal": 152,
         "milestones": {
             "primary": 1,
-            "primaryText": "Cosmonautio \u2605 25\nComplete the game in less than 35 minutes. / Finish the game in hard mode.",
+            "primaryText": "Cosmonautio [25\u2605]\nComplete the game in less than 35 minutes. / Finish the game in hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -73404,7 +73404,7 @@ var data =
         "playersTotal": 92,
         "milestones": {
             "primary": 1,
-            "primaryText": "Knightio \u2605 5\nFinish the game in Hard Mode.",
+            "primaryText": "Knightio [5\u2605]\nFinish the game in Hard Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -73426,7 +73426,7 @@ var data =
         "playersTotal": 23,
         "milestones": {
             "primary": 2,
-            "primaryText": "Drop to the Top \u2605 10\nEarn the star for beating the developer time on every level.\n\nDroppapalooza \u2605 10\nFinish the game in Hardcore Mode.",
+            "primaryText": "Drop to the Top [10\u2605]\nEarn the star for beating the developer time on every level.\n\nDroppapalooza [10\u2605]\nFinish the game in Hardcore Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -73448,7 +73448,7 @@ var data =
         "playersTotal": 91,
         "milestones": {
             "primary": 1,
-            "primaryText": "Questionable License \u2605 10\nBeat all time trial targets.",
+            "primaryText": "Questionable License [10\u2605]\nBeat all time trial targets.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -73470,7 +73470,7 @@ var data =
         "playersTotal": 232,
         "milestones": {
             "primary": 1,
-            "primaryText": "Every time I get mad, I punch my balls. \u2605 5\nComplete the game on Hard mode.",
+            "primaryText": "Every time I get mad, I punch my balls. [5\u2605]\nComplete the game on Hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -73492,7 +73492,7 @@ var data =
         "playersTotal": 129,
         "milestones": {
             "primary": 1,
-            "primaryText": "Speedlunking Out of It \u2605 25\nEscape the Expert Map Cave in under 30 minutes.",
+            "primaryText": "Speedlunking Out of It [25\u2605]\nEscape the Expert Map Cave in under 30 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -73514,7 +73514,7 @@ var data =
         "playersTotal": 58,
         "milestones": {
             "primary": 3,
-            "primaryText": "eXceeded \u2605 70\nGet a 1CC on EXCEED difficulty, including the extra stage.\n\nThe Undead Lord \u2605 10\nGet a 1CC on Normal difficulty or higher, including the extra stage.\n\nSurviving the Tournament \u2605 5\nGet a 1CC on Normal difficulty or higher.",
+            "primaryText": "eXceeded [70\u2605]\nGet a 1CC on EXCEED difficulty, including the extra stage.\n\nThe Undead Lord [10\u2605]\nGet a 1CC on Normal difficulty or higher, including the extra stage.\n\nSurviving the Tournament [5\u2605]\nGet a 1CC on Normal difficulty or higher.",
             "community": 1,
             "communityText": "Jade BREAK\nBeat the game on Hard difficulty or higher, including the Extra stage, without dying.",
             "achievements": 0
@@ -73537,7 +73537,7 @@ var data =
         "playersTotal": 87,
         "milestones": {
             "primary": 1,
-            "primaryText": "FEAR \ud83d\udc99 DD \u2605 10\nGet all items in a single run. / \"End\" the game after reaching stage 60+. /  Complete a run with no items. / Complete the secret ending (stage 1 statues).",
+            "primaryText": "FEAR \ud83d\udc99 DD [10\u2605]\nGet all items in a single run. / \"End\" the game after reaching stage 60+. /  Complete a run with no items. / Complete the secret ending (stage 1 statues).",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -73559,7 +73559,7 @@ var data =
         "playersTotal": 193,
         "milestones": {
             "primary": 1,
-            "primaryText": "Apophlegmatism \u2605 5\nObtain all Gold Medals.",
+            "primaryText": "Apophlegmatism [5\u2605]\nObtain all Gold Medals.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -73581,7 +73581,7 @@ var data =
         "playersTotal": 214,
         "milestones": {
             "primary": 1,
-            "primaryText": "Fork It Over \u2605 15\nBeat the game with no deaths. / Ascend the mountain in less than twelve minutes. / Reach the summit with $400,000 or more.",
+            "primaryText": "Fork It Over [15\u2605]\nBeat the game with no deaths. / Ascend the mountain in less than twelve minutes. / Reach the summit with $400,000 or more.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -73603,7 +73603,7 @@ var data =
         "playersTotal": 113,
         "milestones": {
             "primary": 1,
-            "primaryText": "Hell Hath No Furi \u2605 5\nObtain an S rank on the 'The Chain' bossfight in \"Furier\" difficulty.",
+            "primaryText": "Hell Hath No Furi [5\u2605]\nObtain an S rank on the 'The Chain' bossfight in \"Furier\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -73625,7 +73625,7 @@ var data =
         "playersTotal": 133,
         "milestones": {
             "primary": 2,
-            "primaryText": "Space-Time Anomaly \u2605 15\nComplete the Zeta Pack.\n\nGravitron \u2605 15\nComplete all other official level packs.",
+            "primaryText": "Space-Time Anomaly [15\u2605]\nComplete the Zeta Pack.\n\nGravitron [15\u2605]\nComplete all other official level packs.",
             "community": 2,
             "communityText": "F = G(m1m2/r^2)\nReach the teleporter in \"The Ultimate Trial\".\n\nThe Sign of Zeta\nComplete the Zeta Pack without dying.",
             "achievements": 23
@@ -73647,7 +73647,7 @@ var data =
         "playersTotal": 123,
         "milestones": {
             "primary": 4,
-            "primaryText": "Super Nova \u2605 150\nDefeat Elixier Daath in Demonic Mode.\n\nSolaris \u2605 60\nComplete all relevant Play Orders.\n\nBlack Hole \u2605 30 (Partial: \u2605 20)\nReach Zone X in Ain Soph Aur mode and defeat Lotus Blacker.\n\nAndromeda \u2605 20\nComplete Mission Mode and Matrix Orders Mode.",
+            "primaryText": "Super Nova [150\u2605]\nDefeat Elixier Daath in Demonic Mode.\n\nSolaris [60\u2605]\nComplete all relevant Play Orders.\n\nBlack Hole[30\u2605  (Partial: 20\u2605)]\nReach Zone X in Ain Soph Aur mode and defeat Lotus Blacker.\n\nAndromeda [20\u2605]\nComplete Mission Mode and Matrix Orders Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -73670,7 +73670,7 @@ var data =
         "playersTotal": 28,
         "milestones": {
             "primary": 1,
-            "primaryText": "Quality is the Least of Your Concerns \u2605 5\nBeat the game.",
+            "primaryText": "Quality is the Least of Your Concerns [5\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -73692,7 +73692,7 @@ var data =
         "playersTotal": 107,
         "milestones": {
             "primary": 5,
-            "primaryText": "Doll Master \u2605 75\nDefeat the true last boss in a full run on \"Doomsday\" difficulty.\n\nEndless Possibilities \u2605 30\nFinish the game in Solo Voyage mode with every doll.\n\nEven if the world ends... \u2605 20\nFinish the game on \"Doomsday\" difficulty.\n\nNot An Unlucky Number \u2605 15\nFinish the game in Destiny 13 mode.\n\nPhantastique Tea Party \u2605 5\nDefeat the true last boss.",
+            "primaryText": "Doll Master [75\u2605]\nDefeat the true last boss in a full run on \"Doomsday\" difficulty.\n\nEndless Possibilities [30\u2605]\nFinish the game in Solo Voyage mode with every doll.\n\nEven if the world ends... [20\u2605]\nFinish the game on \"Doomsday\" difficulty.\n\nNot An Unlucky Number [15\u2605]\nFinish the game in Destiny 13 mode.\n\nPhantastique Tea Party [5\u2605]\nDefeat the true last boss.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -73715,7 +73715,7 @@ var data =
         "playersTotal": 364,
         "milestones": {
             "primary": 1,
-            "primaryText": "I Wanna be the Challenge Enthusiast \u2605 5\nSeparately; 100% the campaign and defeat the final boss without getting hit.",
+            "primaryText": "I Wanna be the Challenge Enthusiast [5\u2605]\nSeparately; 100% the campaign and defeat the final boss without getting hit.",
             "community": 8,
             "communityText": "Scribble Me This\nBeat Mr. Scribble's Quest on Impossible Difficulty.\n\nI Wanna Ignore the Checkpoints\nComplete all campaign levels without dying. \n\nDiamond Adventure Fangamer\nFulfill the conditions of the Diamond Challenges segment for both A and B sides for Adventure Fangames.\n\nDiamond Avoidance Fangamer\nFulfill the conditions of the Diamond Challenges segment for Avoidance Fangames.\n\nDiamond Needle Fangamer\nFulfill the conditions of the Diamond Challenges segment for both A and B sides for Needle Fangames.\n\nLegendary Adventure Fangamer\nFulfill the conditions of the Legend Challenges segment for both A and B sides for Adventure Fangames.\n\nLegendary Avoidance Fangamer\nFulfill the conditions of the Legend Challenges segment for Avoidance Fangames.\n\nLegendary Needle Fangamer\nFulfill the conditions of the Legend Challenges segment for both A and B sides for Needle Fangames.",
             "achievements": 46
@@ -73737,7 +73737,7 @@ var data =
         "playersTotal": 32,
         "milestones": {
             "primary": 2,
-            "primaryText": "Mark of Skill \u2605 45\nComplete 120 challenges.\n\nFrostbite \u2605 5\nProve yourself.",
+            "primaryText": "Mark of Skill [45\u2605]\nComplete 120 challenges.\n\nFrostbite [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 41
@@ -73759,7 +73759,7 @@ var data =
         "playersTotal": 30,
         "milestones": {
             "primary": 1,
-            "primaryText": "Unsheathe \u2605 5\nReach 700 score.",
+            "primaryText": "Unsheathe [5\u2605]\nReach 700 score.",
             "community": 2,
             "communityText": "Swiftest\nUnlock Master Mode and reach 700 score there.\n\nWitch Hunt\nObtain a score of 700 in all trials.",
             "achievements": 19
@@ -73781,7 +73781,7 @@ var data =
         "playersTotal": 247,
         "milestones": {
             "primary": 1,
-            "primaryText": "None Winged Angel \u2605 70\nBeat the game on Hell mode with ???.",
+            "primaryText": "None Winged Angel [70\u2605]\nBeat the game on Hell mode with ???.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -73803,7 +73803,7 @@ var data =
         "playersTotal": 187,
         "milestones": {
             "primary": 2,
-            "primaryText": "Monster Girl Quest \u2605 10\nProve yourself.\n\nNo Touching Allowed \u2605 10\nComplete a damageless run on every stage on one file.",
+            "primaryText": "Monster Girl Quest [10\u2605]\nProve yourself.\n\nNo Touching Allowed [10\u2605]\nComplete a damageless run on every stage on one file.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -73825,7 +73825,7 @@ var data =
         "playersTotal": 328,
         "milestones": {
             "primary": 10,
-            "primaryText": "Kreedz Climber (UNCLEARED) \u2605 1\nGet the zero checkpoint medal on the hardest Kreedz maps.\n\nMovement Overclocker \u2605 120\nGet the zero checkpoint medal on a subset of hard Kreedz maps.\n\nLongjumper \u2605 80\nComplete all Longjump maps.\n\nSpring in your Step \u2605 150\nComplete all advanced KZ and BHOP maps. Check proof requirements for more information.\n\nMovement Perfectionist \u2605 130\nBeat \"kz_afterdark\" and the hard course on \"kz_cloudwalker\" separately without using checkpoints.\n\nMovement Amateur \u2605 100\nObtain all Climbing map achievements except \"Absolute Lunacy!\" and \"Nocturnal Conquerer\".\n\nShred the Gnar \u2605 80\nComplete all advanced Surf maps.\n\nBoarding School \u2605 50 (Partial: \u2605 10)\nObtain all Surf map achievements.\n\nPowerjump Pumper \u2605 5\nComplete \"kz_powerjump\" and \"kz_powerjump[truthseeker]\".\n\nBungee Boss \u2605 5\nObtain all Bungee map achievements.",
+            "primaryText": "Kreedz Climber (UNCLEARED) [1\u2605]\nGet the zero checkpoint medal on the hardest Kreedz maps.\n\nMovement Overclocker [120\u2605]\nGet the zero checkpoint medal on a subset of hard Kreedz maps.\n\nLongjumper [80\u2605]\nComplete all Longjump maps.\n\nSpring in your Step [150\u2605]\nComplete all advanced KZ and BHOP maps. Check proof requirements for more information.\n\nMovement Perfectionist [130\u2605]\nBeat \"kz_afterdark\" and the hard course on \"kz_cloudwalker\" separately without using checkpoints.\n\nMovement Amateur [100\u2605]\nObtain all Climbing map achievements except \"Absolute Lunacy!\" and \"Nocturnal Conquerer\".\n\nShred the Gnar [80\u2605]\nComplete all advanced Surf maps.\n\nBoarding School[50\u2605  (Partial: 10\u2605)]\nObtain all Surf map achievements.\n\nPowerjump Pumper [5\u2605]\nComplete \"kz_powerjump\" and \"kz_powerjump[truthseeker]\".\n\nBungee Boss [5\u2605]\nObtain all Bungee map achievements.",
             "community": 3,
             "communityText": "Fleet-Footed\nClear \"kz_bhop_dydbhop\" in Normal Mode.\n\nLess is More\nClear \"kz_bhop_minimalism\" without the use of checkpoints.\n\nThe Silver Surfer\nClear \"kz_surf_lt_omnific\".",
             "achievements": 40
@@ -73848,7 +73848,7 @@ var data =
         "playersTotal": 122,
         "milestones": {
             "primary": 2,
-            "primaryText": "Suffer \u2605 10\nBeat the game in Impossible mode.\n\nGrowth \u2605 5\nProve yourself.",
+            "primaryText": "Suffer [10\u2605]\nBeat the game in Impossible mode.\n\nGrowth [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -73870,7 +73870,7 @@ var data =
         "playersTotal": 126,
         "milestones": {
             "primary": 1,
-            "primaryText": "Japari Safari \u2605 10\nObtain the blue hitless badge on every stage.",
+            "primaryText": "Japari Safari [10\u2605]\nObtain the blue hitless badge on every stage.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -73892,7 +73892,7 @@ var data =
         "playersTotal": 451,
         "milestones": {
             "primary": 1,
-            "primaryText": "Micro Nightmare \u2605 15\nClear all levels, including \"Chipset v2\".",
+            "primaryText": "Micro Nightmare [15\u2605]\nClear all levels, including \"Chipset v2\".",
             "community": 2,
             "communityText": "Micro God\nClear \"Chipset v2\" with zero respawns.\n\nMicro Jumper\nClear every level (except \"Chipset v2\") individually with zero respawns.",
             "achievements": 9
@@ -73914,7 +73914,7 @@ var data =
         "playersTotal": 63,
         "milestones": {
             "primary": 1,
-            "primaryText": "Master of the Cave \u2605 50\nComplete all Challenges.",
+            "primaryText": "Master of the Cave [50\u2605]\nComplete all Challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -73936,7 +73936,7 @@ var data =
         "playersTotal": 480,
         "milestones": {
             "primary": 2,
-            "primaryText": "What the Actual Muck? \u2605 10\nSeparately, beat the game with all players using only a rock as their weapon and tool, and without picking up any power-ups (any difficulty). / Beat the game alone without taking damage on at least \u201cNormal\u201d difficulty. \n\nSwift Escape \u2605 5\nBeat the game in less than 10 days on \"Gamer\" difficulty. / Beat the game in less than 8 days (any difficulty). ",
+            "primaryText": "What the Actual Muck? [10\u2605]\nSeparately, beat the game with all players using only a rock as their weapon and tool, and without picking up any power-ups (any difficulty). / Beat the game alone without taking damage on at least \u201cNormal\u201d difficulty. \n\nSwift Escape [5\u2605]\nBeat the game in less than 10 days on \"Gamer\" difficulty. / Beat the game in less than 8 days (any difficulty). ",
             "community": 2,
             "communityText": "Collective Endeavor\nBeat a run with 8 players in which none of them takes any damage. \n\nKing of Muck\nIn a single run and on at least \u201cNormal\u201d difficulty, beat the game using only a rock as your tool and weapon, without picking up any power-ups and without taking damage.",
             "achievements": 49
@@ -73958,7 +73958,7 @@ var data =
         "playersTotal": 112,
         "milestones": {
             "primary": 1,
-            "primaryText": "We Have Geometry Dash at Home \u2605 5\nComplete all levels quickly, without dying, and with all collectibles.",
+            "primaryText": "We Have Geometry Dash at Home [5\u2605]\nComplete all levels quickly, without dying, and with all collectibles.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -73980,7 +73980,7 @@ var data =
         "playersTotal": 261,
         "milestones": {
             "primary": 1,
-            "primaryText": "Rootin' Tootin' Rockets \u2605 5\nGet all the Neon Medals.",
+            "primaryText": "Rootin' Tootin' Rockets [5\u2605]\nGet all the Neon Medals.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -74002,7 +74002,7 @@ var data =
         "playersTotal": 204,
         "milestones": {
             "primary": 1,
-            "primaryText": "Glass Cannon Vigilante \u2605 15\nBadge every challenge. / Complete all Episodes without dying. / Complete the game in under 60 minutes. / Complete the game with less than 100 deaths.",
+            "primaryText": "Glass Cannon Vigilante [15\u2605]\nBadge every challenge. / Complete all Episodes without dying. / Complete the game in under 60 minutes. / Complete the game with less than 100 deaths.",
             "community": 1,
             "communityText": "BSoD Proof\nBeat the game without dying, quitting or restarting.",
             "achievements": 36
@@ -74024,7 +74024,7 @@ var data =
         "playersTotal": 139,
         "milestones": {
             "primary": 1,
-            "primaryText": "The Skeleton Appears \u2605 5\nBeat the game without dying.",
+            "primaryText": "The Skeleton Appears [5\u2605]\nBeat the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 9
@@ -74046,7 +74046,7 @@ var data =
         "playersTotal": 260,
         "milestones": {
             "primary": 1,
-            "primaryText": "Peggle Novice \u2605 5\nClear all of the pegs in every level. / Complete all challenges.",
+            "primaryText": "Peggle Novice [5\u2605]\nClear all of the pegs in every level. / Complete all challenges.",
             "community": 1,
             "communityText": "Peggle God\nComplete all primary objectives from all site-listed games in the Peggle franchise. See verification requirements for complete list.",
             "achievements": 0
@@ -74068,7 +74068,7 @@ var data =
         "playersTotal": 309,
         "milestones": {
             "primary": 3,
-            "primaryText": "Phantom Immortality \u2605 50\nBeat each world without dying.\n\nPhantom Speed \u2605 20\nObtain an S rank on every normal and secret level.\n\nPhantom Completion \u2605 10\nBeat the game and the bonus world.",
+            "primaryText": "Phantom Immortality [50\u2605]\nBeat each world without dying.\n\nPhantom Speed [20\u2605]\nObtain an S rank on every normal and secret level.\n\nPhantom Completion [10\u2605]\nBeat the game and the bonus world.",
             "community": 1,
             "communityText": "Made of Ectoplasm\nSeparately, complete chapter 5 and the bonus chapter without dying and without using quick restart/quit to menu after starting a level.",
             "achievements": 37
@@ -74090,7 +74090,7 @@ var data =
         "playersTotal": 234,
         "milestones": {
             "primary": 1,
-            "primaryText": "What's Yet to Come \u2605 5\nClear the game on Masochism difficulty.",
+            "primaryText": "What's Yet to Come [5\u2605]\nClear the game on Masochism difficulty.",
             "community": 2,
             "communityText": "Epilogue for Prologue for a Vacant Kingdom\nBeat all bosses on Masochism difficulty while being barefoot, wearing the Birthday Suit and without using the Hourglass or Iron Kettle.\n\nPrologue for a Masochistic Boss Rush\nComplete the game on Masochism difficulty without dying. (This includes the secret boss)",
             "achievements": 4
@@ -74113,7 +74113,7 @@ var data =
         "playersTotal": 96,
         "milestones": {
             "primary": 4,
-            "primaryText": "Ultimate OverKill \u2605 60 (Partial: \u2605 15)\n1CC OverKill mode on \"ULTIMATE\" difficulty(changing lives/bombs is allowed).\n\nRaiden Ace \u2605 35\n1CC OverKill Mode on \"Normal\" difficulty or higher (changing lives/bombs is allowed).\n\nArcade Legend \u2605 40\n1CC Arcade Mode Original on \"Original\" difficulty or higher on default settings.\n\nBoss Rusher \u2605 15\n1CC both loops on Boss Rush Mode (changing lives/bombs is allowed).",
+            "primaryText": "Ultimate OverKill[60\u2605  (Partial: 15\u2605)]\n1CC OverKill mode on \"ULTIMATE\" difficulty(changing lives/bombs is allowed).\n\nRaiden Ace [35\u2605]\n1CC OverKill Mode on \"Normal\" difficulty or higher (changing lives/bombs is allowed).\n\nArcade Legend [40\u2605]\n1CC Arcade Mode Original on \"Original\" difficulty or higher on default settings.\n\nBoss Rusher [15\u2605]\n1CC both loops on Boss Rush Mode (changing lives/bombs is allowed).",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -74136,7 +74136,7 @@ var data =
         "playersTotal": 30,
         "milestones": {
             "primary": 2,
-            "primaryText": "Get Punked \u2605 5\nFinish Challenge mode.\n\nGet Recked (UNCLEARED) \u2605 1\nBeat the game without dying.",
+            "primaryText": "Get Punked [5\u2605]\nFinish Challenge mode.\n\nGet Recked (UNCLEARED) [1\u2605]\nBeat the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 8
@@ -74158,7 +74158,7 @@ var data =
         "playersTotal": 91,
         "milestones": {
             "primary": 1,
-            "primaryText": "Vengeance Delivered \u2605 10\nGet all medals on new game plus. / Complete all challenges. ",
+            "primaryText": "Vengeance Delivered [10\u2605]\nGet all medals on new game plus. / Complete all challenges. ",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -74180,7 +74180,7 @@ var data =
         "playersTotal": 293,
         "milestones": {
             "primary": 1,
-            "primaryText": "Sober Enough to Drive \u2605 40\nBeat all levels on Drunk mode.",
+            "primaryText": "Sober Enough to Drive [40\u2605]\nBeat all levels on Drunk mode.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -74202,7 +74202,7 @@ var data =
         "playersTotal": 27,
         "milestones": {
             "primary": 1,
-            "primaryText": "Directionally Challenged \u2605 10\nSeparately, complete all time trials and beat the game in under 1 hour.",
+            "primaryText": "Directionally Challenged [10\u2605]\nSeparately, complete all time trials and beat the game in under 1 hour.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -74224,7 +74224,7 @@ var data =
         "playersTotal": 9,
         "milestones": {
             "primary": 1,
-            "primaryText": "Hattako \u2605 15\nBeat all the bosses consecutively in Boss Mode. / Beat the game without seeing the Game Over screen.",
+            "primaryText": "Hattako [15\u2605]\nBeat all the bosses consecutively in Boss Mode. / Beat the game without seeing the Game Over screen.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -74246,7 +74246,7 @@ var data =
         "playersTotal": 444,
         "milestones": {
             "primary": 1,
-            "primaryText": "End of Nightmare \u2605 80\nBeat the game in an unseeded Keter difficulty run in single player without using the console or mods. Quit to menu is banned in the non-Steam version.",
+            "primaryText": "End of Nightmare [80\u2605]\nBeat the game in an unseeded Keter difficulty run in single player without using the console or mods. Quit to menu is banned in the non-Steam version.",
             "community": 1,
             "communityText": "Keter-Class Anomaly\nObtain all possible achievements in a single unseeded Keter difficulty run in single player without using the console or mods. Quit to menu is banned in the non-Steam version.",
             "achievements": 41
@@ -74266,10 +74266,10 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
-        "playersTotal": 271,
+        "playersTotal": 272,
         "milestones": {
             "primary": 1,
-            "primaryText": "Danger Seeker \u2605 5\nClear \"Deadly Obsession\" difficulty.",
+            "primaryText": "Danger Seeker [5\u2605]\nClear \"Deadly Obsession\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 99
@@ -74291,7 +74291,7 @@ var data =
         "playersTotal": 114,
         "milestones": {
             "primary": 2,
-            "primaryText": "This is Shooting Game \u2605 35\nBeat the extra boss on Hard.\n\nPrimary Objective KIBISH\u012a \u2605 20\nClear the game on hard. / Clear the game without taking damage.",
+            "primaryText": "This is Shooting Game [35\u2605]\nBeat the extra boss on Hard.\n\nPrimary Objective KIBISH\u012a [20\u2605]\nClear the game on hard. / Clear the game without taking damage.",
             "community": 0,
             "communityText": "",
             "achievements": 8
@@ -74313,7 +74313,7 @@ var data =
         "playersTotal": 68,
         "milestones": {
             "primary": 2,
-            "primaryText": "Friends of the Forge \u2605 15\nGet Perfection in level 15\n\nIroned Out \u2605 10\nProve Yourself",
+            "primaryText": "Friends of the Forge [15\u2605]\nGet Perfection in level 15\n\nIroned Out [10\u2605]\nProve Yourself",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -74335,7 +74335,7 @@ var data =
         "playersTotal": 280,
         "milestones": {
             "primary": 2,
-            "primaryText": "Birthday Blaster \u2605 5\nGet all S ranks on the challenge missions.\n\nWhen Generations Collide \u2605 5\nProve yourself.",
+            "primaryText": "Birthday Blaster [5\u2605]\nGet all S ranks on the challenge missions.\n\nWhen Generations Collide [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 49
@@ -74357,7 +74357,7 @@ var data =
         "playersTotal": 215,
         "milestones": {
             "primary": 1,
-            "primaryText": "Visions of Virtuous Living \u2605 5\nProve yourself.",
+            "primaryText": "Visions of Virtuous Living [5\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Flawless Flow\nComplete all levels with \"No Near Lanes\" & \"No Far Lanes\" enabled at 150% speed in \"Flawless\" difficulty.",
             "achievements": 33
@@ -74376,10 +74376,10 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 77,
         "playersStarted": 0,
-        "playersTotal": 450,
+        "playersTotal": 451,
         "milestones": {
             "primary": 1,
-            "primaryText": "Army of One \u2605 10\nComplete the game on \"FUBAR\" difficulty.",
+            "primaryText": "Army of One [10\u2605]\nComplete the game on \"FUBAR\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -74401,7 +74401,7 @@ var data =
         "playersTotal": 10,
         "milestones": {
             "primary": 2,
-            "primaryText": "The Way of the Shotgun \u2605 25\nComplete the game in under 10 minutes and collect all shotguns.\n\nGod-King \u2605 5\nFinish the game.",
+            "primaryText": "The Way of the Shotgun [25\u2605]\nComplete the game in under 10 minutes and collect all shotguns.\n\nGod-King [5\u2605]\nFinish the game.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -74423,7 +74423,7 @@ var data =
         "playersTotal": 134,
         "milestones": {
             "primary": 3,
-            "primaryText": "Guitar Star \u2605 35\nObtain S rank on every song in the \"More\" tab on Master difficulty.\n\nChord Strummer \u2605 5\nObtain A rank on every song in the \"More\" tab on Master difficulty.\n\nFretboard Finesse \u2605 15 (Partial: \u2605 5)\nObtain S rank on every song in the \"20XX\" tab on Master difficulty. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Guitar Star [35\u2605]\nObtain S rank on every song in the \"More\" tab on Master difficulty.\n\nChord Strummer [5\u2605]\nObtain A rank on every song in the \"More\" tab on Master difficulty.\n\nFretboard Finesse[15\u2605  (Partial: 5\u2605)]\nObtain S rank on every song in the \"20XX\" tab on Master difficulty. *Partial points are awarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -74446,7 +74446,7 @@ var data =
         "playersTotal": 272,
         "milestones": {
             "primary": 1,
-            "primaryText": "Final Exam \u2605 10\nSurvive for an hour in a single test.",
+            "primaryText": "Final Exam [10\u2605]\nSurvive for an hour in a single test.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -74468,7 +74468,7 @@ var data =
         "playersTotal": 120,
         "milestones": {
             "primary": 3,
-            "primaryText": "Godspeed \u2605 110\nObtain an S rank in all modes for all levels.\n\nImmortal \u2605 60\nBeat the Full Game + Defiance Rush Mode without dying or restarting.\n\nBeyond The Clouds \u2605 20\nProve yourself.",
+            "primaryText": "Godspeed [110\u2605]\nObtain an S rank in all modes for all levels.\n\nImmortal [60\u2605]\nBeat the Full Game + Defiance Rush Mode without dying or restarting.\n\nBeyond The Clouds [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 38
@@ -74491,7 +74491,7 @@ var data =
         "playersTotal": 197,
         "milestones": {
             "primary": 1,
-            "primaryText": "In Awe of your Crateness \u2605 10\nObtain 100% of the unlocks.",
+            "primaryText": "In Awe of your Crateness [10\u2605]\nObtain 100% of the unlocks.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -74513,7 +74513,7 @@ var data =
         "playersTotal": 64,
         "milestones": {
             "primary": 1,
-            "primaryText": "Debugger \u2605 5\nProve yourself.",
+            "primaryText": "Debugger [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -74535,7 +74535,7 @@ var data =
         "playersTotal": 74,
         "milestones": {
             "primary": 5,
-            "primaryText": "Magicgazer \u2605 90\nAchieve a Full Combo on all of the Severe difficulty stages.\n\nHarmonia \u2605 40\nAchieve a Full Combo on all of the Mild difficulty stages.\n\nDenpandemic \u2605 20\nAchieve a Full Combo on all of the VeryMild difficulty stages.\n\n\u4e07\u83ef\u7c60 \u2605 20\nClear all of the Severe difficulty stages without healing.\n\nGroovy Sympathy \u2605 10\nClear all of the Mild difficulty stages without healing.",
+            "primaryText": "Magicgazer [90\u2605]\nAchieve a Full Combo on all of the Severe difficulty stages.\n\nHarmonia [40\u2605]\nAchieve a Full Combo on all of the Mild difficulty stages.\n\nDenpandemic [20\u2605]\nAchieve a Full Combo on all of the VeryMild difficulty stages.\n\n\u4e07\u83ef\u7c60 [20\u2605]\nClear all of the Severe difficulty stages without healing.\n\nGroovy Sympathy [10\u2605]\nClear all of the Mild difficulty stages without healing.",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -74558,7 +74558,7 @@ var data =
         "playersTotal": 28,
         "milestones": {
             "primary": 1,
-            "primaryText": "Techno Strike \u2605 5\n1CC the game on Original mode and beat the extra stage.",
+            "primaryText": "Techno Strike [5\u2605]\n1CC the game on Original mode and beat the extra stage.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -74580,7 +74580,7 @@ var data =
         "playersTotal": 19,
         "milestones": {
             "primary": 1,
-            "primaryText": "Techno Comeback \u2605 5\n1CC the game on Original mode and beat the extra stage.",
+            "primaryText": "Techno Comeback [5\u2605]\n1CC the game on Original mode and beat the extra stage.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -74602,7 +74602,7 @@ var data =
         "playersTotal": 159,
         "milestones": {
             "primary": 3,
-            "primaryText": "The Light Comes From The North \u2605 80\nComplete all Brutal trials.\n\nBeyond The Dark Star \u2605 25\nProve yourself.\n\nRoad to Pohjola \u2605 15\nClear all Brutal story chapters.",
+            "primaryText": "The Light Comes From The North [80\u2605]\nComplete all Brutal trials.\n\nBeyond The Dark Star [25\u2605]\nProve yourself.\n\nRoad to Pohjola [15\u2605]\nClear all Brutal story chapters.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -74624,7 +74624,7 @@ var data =
         "playersTotal": 50,
         "milestones": {
             "primary": 1,
-            "primaryText": "Legendary Ninja (PARTIALLY UNCLEARED) \u2605 11 (Partial: \u2605 10)\nBeat the game in under 4 hours without dying.",
+            "primaryText": "Legendary Ninja (PARTIALLY UNCLEARED)[11\u2605  (Partial: 10\u2605)]\nBeat the game in under 4 hours without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -74646,7 +74646,7 @@ var data =
         "playersTotal": 8,
         "milestones": {
             "primary": 1,
-            "primaryText": "A Future of Lofty Dreams \u2605 15\nClear the Extra mode. / Timeout specific spells without getting hit (bombs allowed).",
+            "primaryText": "A Future of Lofty Dreams [15\u2605]\nClear the Extra mode. / Timeout specific spells without getting hit (bombs allowed).",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -74668,7 +74668,7 @@ var data =
         "playersTotal": 102,
         "milestones": {
             "primary": 1,
-            "primaryText": "Precision Plunge \u2605 20\nComplete all levels.",
+            "primaryText": "Precision Plunge [20\u2605]\nComplete all levels.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -74690,7 +74690,7 @@ var data =
         "playersTotal": 217,
         "milestones": {
             "primary": 1,
-            "primaryText": "Catastrophic Showdown \u2605 60\nBeat the game without taking a hit or using bombs. / Survive for 3 minutes in the time challenge stage.",
+            "primaryText": "Catastrophic Showdown [60\u2605]\nBeat the game without taking a hit or using bombs. / Survive for 3 minutes in the time challenge stage.",
             "community": 0,
             "communityText": "",
             "achievements": 9
@@ -74712,7 +74712,7 @@ var data =
         "playersTotal": 106,
         "milestones": {
             "primary": 3,
-            "primaryText": "Weigh the Anchor \u2605 35\nBeat the game on Lunatic without continuing.\n\nDanse Macabre \u2605 10\nBeat the Extra mode.\n\nThe Deluge \u2605 5\nBeat the game on Normal or higher without continuing.",
+            "primaryText": "Weigh the Anchor [35\u2605]\nBeat the game on Lunatic without continuing.\n\nDanse Macabre [10\u2605]\nBeat the Extra mode.\n\nThe Deluge [5\u2605]\nBeat the game on Normal or higher without continuing.",
             "community": 3,
             "communityText": "Anticreationism\nBeat the Extra mode without dying and bombing.\n\nBootleg Difficulty\nBeat the game on Lunatic without continuing with the RNG patch on.\n\nGensokyo Shipmaster\nBeat the game on Lunatic without dying and bombing.",
             "achievements": 0
@@ -74734,7 +74734,7 @@ var data =
         "playersTotal": 328,
         "milestones": {
             "primary": 1,
-            "primaryText": "Student Driver \u2605 15\nObtain the Author Medal on all Training levels.",
+            "primaryText": "Student Driver [15\u2605]\nObtain the Author Medal on all Training levels.",
             "community": 4,
             "communityText": "Catch a Tiger by the Tail\nGet all Author Medals in the official 2022 and 2023 seasonal campaigns.\n\nRat Race\nGet all Author Medals in the official 2020 and 2021 seasonal campaigns.\n\nNearly Drowning\nComplete Deep Dip 2.\n\nTrack Maniac\nComplete all primary objectives from each Trackmania game that don't require obtaining a Super Track Master Medal. See verification requirements for complete list of games.",
             "achievements": 0
@@ -74756,7 +74756,7 @@ var data =
         "playersTotal": 389,
         "milestones": {
             "primary": 2,
-            "primaryText": "The Definition of Insanity \u2605 15\nObtain all E track Author Medals.\n\nStadium Stan \u2605 25\nObtain the Author Medal on all A through D tracks.",
+            "primaryText": "The Definition of Insanity [15\u2605]\nObtain all E track Author Medals.\n\nStadium Stan [25\u2605]\nObtain the Author Medal on all A through D tracks.",
             "community": 2,
             "communityText": "Trial by Tire\n Achieve T\u00b3 Recruitment.\n\nTrack Attack\nComplete 10 Trials maps, with at least one being Advanced level (9-10).",
             "achievements": 0
@@ -74779,7 +74779,7 @@ var data =
         "playersTotal": 49,
         "milestones": {
             "primary": 1,
-            "primaryText": "Watchful Forager \u2605 5\nComplete all normal and bonus levels.",
+            "primaryText": "Watchful Forager [5\u2605]\nComplete all normal and bonus levels.",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -74801,7 +74801,7 @@ var data =
         "playersTotal": 459,
         "milestones": {
             "primary": 2,
-            "primaryText": "Try Your Best to Hold Onto Sanity \u2605 75\nComplete 50/20 mode.\n\nJoin the Animatronic Family \u2605 15\nBeat all challenges.",
+            "primaryText": "Try Your Best to Hold Onto Sanity [75\u2605]\nComplete 50/20 mode.\n\nJoin the Animatronic Family [15\u2605]\nBeat all challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 0
@@ -74823,7 +74823,7 @@ var data =
         "playersTotal": 108,
         "milestones": {
             "primary": 1,
-            "primaryText": "Hoover Maneuver \u2605 20 (Partial: \u2605 5)\nGet all 42 platinum medals in the game.",
+            "primaryText": "Hoover Maneuver[20\u2605  (Partial: 5\u2605)]\nGet all 42 platinum medals in the game.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -74845,7 +74845,7 @@ var data =
         "playersTotal": 58,
         "milestones": {
             "primary": 1,
-            "primaryText": "v = s/t \u2605 20\nProve yourself.",
+            "primaryText": "v = s/t [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -74867,7 +74867,7 @@ var data =
         "playersTotal": 235,
         "milestones": {
             "primary": 10,
-            "primaryText": "Ultimation \u2605 20\nGet a V rank on Class 10.\n\nAbsolute Stasis \u2605 40\nGet all V ranks in FINALE and ENCORE.\n\nNoitacretra \u2605 20\nGet a V rank in Class 9.\n\nThe Innermost Cave \u2605 30\nGet all SS ranks in FINALE and ENCORE.\n\nVividology \u2605 15\nPass Class 10.\n\nCritical Eye \u2605 20\nGet all S ranks in FINALE and ENCORE.\n\nNonagon \u2605 25\nPass Class 9.\n\nElite Eight Agent \u2605 40\nPass Class 8.\n\nSentillion \u2605 25\nGet all S ranks on the level 11-13 songs and mod charts in MIDDLE difficulty.\n\nVivid Initiate \u2605 15\nGet all S ranks on the level 6-8 songs and mod charts in OPENING difficulty.",
+            "primaryText": "Ultimation [20\u2605]\nGet a V rank on Class 10.\n\nAbsolute Stasis [40\u2605]\nGet all V ranks in FINALE and ENCORE.\n\nNoitacretra [20\u2605]\nGet a V rank in Class 9.\n\nThe Innermost Cave [30\u2605]\nGet all SS ranks in FINALE and ENCORE.\n\nVividology [15\u2605]\nPass Class 10.\n\nCritical Eye [20\u2605]\nGet all S ranks in FINALE and ENCORE.\n\nNonagon [25\u2605]\nPass Class 9.\n\nElite Eight Agent [40\u2605]\nPass Class 8.\n\nSentillion [25\u2605]\nGet all S ranks on the level 11-13 songs and mod charts in MIDDLE difficulty.\n\nVivid Initiate [15\u2605]\nGet all S ranks on the level 6-8 songs and mod charts in OPENING difficulty.",
             "community": 2,
             "communityText": "Once More\nGet all ALL CRITICAL in FINALE and ENCORE\n\nResurrection\nGet all V FULLCOMBO in FINALE and ENCORE",
             "achievements": 32
@@ -74890,7 +74890,7 @@ var data =
         "playersTotal": 38,
         "milestones": {
             "primary": 1,
-            "primaryText": "Void Conqueror \u2605 15\nDefeat all major bosses on Hard mode and in the DLC.",
+            "primaryText": "Void Conqueror [15\u2605]\nDefeat all major bosses on Hard mode and in the DLC.",
             "community": 0,
             "communityText": "",
             "achievements": 64
@@ -74912,7 +74912,7 @@ var data =
         "playersTotal": 39,
         "milestones": {
             "primary": 2,
-            "primaryText": "Death-Defying Mountaineer \u2605 35\nBeat the game without dying.\n\nA Funny Thing Happened on the Way to Yaatra \u2605 5\nProve yourself.",
+            "primaryText": "Death-Defying Mountaineer [35\u2605]\nBeat the game without dying.\n\nA Funny Thing Happened on the Way to Yaatra [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -74934,7 +74934,7 @@ var data =
         "playersTotal": 76,
         "milestones": {
             "primary": 5,
-            "primaryText": "Devourer of Worlds (UNCLEARED) \u2605 1\nComplete each world without dying.\n\nParasite Paradise \u2605 15\nObtain the par time and par moves badges on all normal and bonus levels.\n\nSlither Hither \u2605 15\nBeat all normal and bonus levels.\n\nWormholer \u2605 10\nBeat the game with a total time of 2 hours or less.\n\nHost Jumper \u2605 15\nBeat the game.",
+            "primaryText": "Devourer of Worlds (UNCLEARED) [1\u2605]\nComplete each world without dying.\n\nParasite Paradise [15\u2605]\nObtain the par time and par moves badges on all normal and bonus levels.\n\nSlither Hither [15\u2605]\nBeat all normal and bonus levels.\n\nWormholer [10\u2605]\nBeat the game with a total time of 2 hours or less.\n\nHost Jumper [15\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -74957,7 +74957,7 @@ var data =
         "playersTotal": 110,
         "milestones": {
             "primary": 2,
-            "primaryText": "You Have 100 Dice Rolls \u2605 10\nReach a streak of 100 in Endless Mode.\n\nYou Have 10 Points \u2605 10\nComplete Area X. / Obtain all S ranks.",
+            "primaryText": "You Have 100 Dice Rolls [10\u2605]\nReach a streak of 100 in Endless Mode.\n\nYou Have 10 Points [10\u2605]\nComplete Area X. / Obtain all S ranks.",
             "community": 0,
             "communityText": "",
             "achievements": 43
@@ -74979,7 +74979,7 @@ var data =
         "playersTotal": 514,
         "milestones": {
             "primary": 2,
-            "primaryText": "You Have to Be the Gamer \u2605 10\nBeat the game in YOLO Mode on Extra Spicy difficulty.\n\nYou Have to Wear the Sunglasses \u2605 5\nBeat the game in YOLO Mode.",
+            "primaryText": "You Have to Be the Gamer [10\u2605]\nBeat the game in YOLO Mode on Extra Spicy difficulty.\n\nYou Have to Wear the Sunglasses [5\u2605]\nBeat the game in YOLO Mode.",
             "community": 2,
             "communityText": "You Have to Be the Completionist\nObtain 100% completion in YOLO Mode on Extra Spicy difficulty.\n\nYou Have to Be the Hoarder\nObtain 100% completion in YOLO Mode.",
             "achievements": 14
@@ -75001,7 +75001,7 @@ var data =
         "playersTotal": 160,
         "milestones": {
             "primary": 1,
-            "primaryText": "Maize Runner \u2605 20\nBeat the main game without leaving the maze after first entering it. / Destroy 14 weeds or more in Challenge 10.",
+            "primaryText": "Maize Runner [20\u2605]\nBeat the main game without leaving the maze after first entering it. / Destroy 14 weeds or more in Challenge 10.",
             "community": 3,
             "communityText": "Lord of the Harvest\nDestroy 41 weeds and enter the endgame loop in Challenge 10.\n\nFool's Errand (S)\nComplete a custom game with all enemy counts and difficulties set to the maximum.\n\nWeed Eater (S)\nDestroy 21 weeds and find the secret character at the start of the maze in Challenge 10.",
             "achievements": 25
@@ -75023,7 +75023,7 @@ var data =
         "playersTotal": 65,
         "milestones": {
             "primary": 6,
-            "primaryText": "Zenzizenzic \u2605 15\nVery Hard Classic Stages - Score 10 million points, and finish the bonus levels.\n\nBiquadratic \u2605 15\nVery Hard - Classic Stages 0 deaths; Gauntlet - Clear and 160million points.\n\nObsoletion (UNCLEARED) \u2605 1\nVery Hard Classic Stages - 0 points\n\nFourth Power (UNCLEARED) \u2605 1\nVery Hard Gauntlet - 0 deaths\n\nRecorde Breaker (UNCLEARED) \u2605 1\nVery Hard Macro - Kill all bosses in under 60 seconds and score 6 million.\n\nNotational Ascendency (UNCLEARED) \u2605 1\nVery Hard Macro - Complete without dying, Complete without spending any points",
+            "primaryText": "Zenzizenzic [15\u2605]\nVery Hard Classic Stages - Score 10 million points, and finish the bonus levels.\n\nBiquadratic [15\u2605]\nVery Hard - Classic Stages 0 deaths; Gauntlet - Clear and 160million points.\n\nObsoletion (UNCLEARED) [1\u2605]\nVery Hard Classic Stages - 0 points\n\nFourth Power (UNCLEARED) [1\u2605]\nVery Hard Gauntlet - 0 deaths\n\nRecorde Breaker (UNCLEARED) [1\u2605]\nVery Hard Macro - Kill all bosses in under 60 seconds and score 6 million.\n\nNotational Ascendency (UNCLEARED) [1\u2605]\nVery Hard Macro - Complete without dying, Complete without spending any points",
             "community": 0,
             "communityText": "",
             "achievements": 210
@@ -75046,7 +75046,7 @@ var data =
         "playersTotal": 87,
         "milestones": {
             "primary": 3,
-            "primaryText": "Scion of the Black Forest \u2605 10\nSeparately; Clear Hard VII and Complete Nightmare with 3 moves.\n\nDignitary of the Night Fall (UNCLEARED) \u2605 1\nComplete Hard VII with all characters.\n\nLunar Eclipse (UNCLEARED) \u2605 1\nClear difficulty 10 without losing HP.",
+            "primaryText": "Scion of the Black Forest [10\u2605]\nSeparately; Clear Hard VII and Complete Nightmare with 3 moves.\n\nDignitary of the Night Fall (UNCLEARED) [1\u2605]\nComplete Hard VII with all characters.\n\nLunar Eclipse (UNCLEARED) [1\u2605]\nClear difficulty 10 without losing HP.",
             "community": 0,
             "communityText": "",
             "achievements": 152
@@ -75068,7 +75068,7 @@ var data =
         "playersTotal": 122,
         "milestones": {
             "primary": 4,
-            "primaryText": "Undefined Rad Ability \u2605 50\nBeat the game on Ura without using continues.\n\nOverharvested \u2605 40\nCapture all Overdrive spellcards.\n\nBountiful Day \u2605 20\nBeat the game on Lunatic or higher without using continues. / Beat the Lunatic Extra mode.\n\nSilent Night \u2605 5\n Beat the game on Normal or higher without using continues. / Beat the Extra mode or higher.",
+            "primaryText": "Undefined Rad Ability [50\u2605]\nBeat the game on Ura without using continues.\n\nOverharvested [40\u2605]\nCapture all Overdrive spellcards.\n\nBountiful Day [20\u2605]\nBeat the game on Lunatic or higher without using continues. / Beat the Lunatic Extra mode.\n\nSilent Night [5\u2605]\n Beat the game on Normal or higher without using continues. / Beat the Extra mode or higher.",
             "community": 2,
             "communityText": "Riddle Me This\nBeat the Lunatic Extra mode without dying and bombing.\n\nThe Power of Wheat\nBeat the game on Ura without dying and bombing.",
             "achievements": 0
@@ -75090,7 +75090,7 @@ var data =
         "playersTotal": 111,
         "milestones": {
             "primary": 4,
-            "primaryText": "Anomaly \u2605 70\nBeat the game on Overdrive without continues.\n\nLogic Shaper \u2605 30\nBeat the game on Lunatic or higher without continues. / Beat the Elite Extra mode.\n\nIllogical \u2605 20\nUnlock and capture all Last Words.\n\nEmpathical \u2605 10\nBeat the game on Normal or higher without continues. / Beat the (normal) Extra mode.",
+            "primaryText": "Anomaly [70\u2605]\nBeat the game on Overdrive without continues.\n\nLogic Shaper [30\u2605]\nBeat the game on Lunatic or higher without continues. / Beat the Elite Extra mode.\n\nIllogical [20\u2605]\nUnlock and capture all Last Words.\n\nEmpathical [10\u2605]\nBeat the game on Normal or higher without continues. / Beat the (normal) Extra mode.",
             "community": 2,
             "communityText": "In the Name of Love\nBeat the game on Overdrive without dying and Aspect Shifting.\n\nPainting for Your Soul\nBeat the (normal) Extra mode without dying and Aspect Shifting.",
             "achievements": 0
@@ -75113,7 +75113,7 @@ var data =
         "playersTotal": 3,
         "milestones": {
             "primary": 1,
-            "primaryText": "Blazing Phoenix \u2605 25\nFinish the game on superhard difficulty.",
+            "primaryText": "Blazing Phoenix [25\u2605]\nFinish the game on superhard difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -75135,7 +75135,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "Spunky Monkey \u2605 15\nClear Round 6 in Monkey Soccer and Complete all levels in Monkey Climber.",
+            "primaryText": "Spunky Monkey [15\u2605]\nClear Round 6 in Monkey Soccer and Complete all levels in Monkey Climber.",
             "community": 0,
             "communityText": "",
             "achievements": 126
@@ -75158,7 +75158,7 @@ var data =
         "playersTotal": 4,
         "milestones": {
             "primary": 1,
-            "primaryText": "The Dark Knight Rises \u2605 5\nBeat each episode on Hard mode.",
+            "primaryText": "The Dark Knight Rises [5\u2605]\nBeat each episode on Hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -75180,7 +75180,7 @@ var data =
         "playersTotal": 3,
         "milestones": {
             "primary": 3,
-            "primaryText": "Perilous Journey \u2605 175\nBeat the game on Unfair difficulty.\n\nI wanna be the Battle Kid \u2605 20\nBeat the game on Hard difficulty or higher.\n\nKidding Around \u2605 15\n100% the game on Normal difficulty or higher and complete the secret area challenge.",
+            "primaryText": "Perilous Journey [175\u2605]\nBeat the game on Unfair difficulty.\n\nI wanna be the Battle Kid [20\u2605]\nBeat the game on Hard difficulty or higher.\n\nKidding Around [15\u2605]\n100% the game on Normal difficulty or higher and complete the secret area challenge.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -75203,7 +75203,7 @@ var data =
         "playersTotal": 7,
         "milestones": {
             "primary": 1,
-            "primaryText": "Don't Croak \u2605 15\nBeat every level in the game.",
+            "primaryText": "Don't Croak [15\u2605]\nBeat every level in the game.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -75225,7 +75225,7 @@ var data =
         "playersTotal": 4,
         "milestones": {
             "primary": 3,
-            "primaryText": "Legend of the Demon Castle (UNCLEARED) \u2605 1\nBeat the game in Hard Mode.\n\nSolo Vampire Killer (UNCLEARED) \u2605 1\nBeat the game without recruiting any partners.\n\nCleansed the Land from Evil \u2605 5\nBeat every stage in the game.",
+            "primaryText": "Legend of the Demon Castle (UNCLEARED) [1\u2605]\nBeat the game in Hard Mode.\n\nSolo Vampire Killer (UNCLEARED) [1\u2605]\nBeat the game without recruiting any partners.\n\nCleansed the Land from Evil [5\u2605]\nBeat every stage in the game.",
             "community": 0,
             "communityText": "",
             "achievements": 55
@@ -75247,7 +75247,7 @@ var data =
         "playersTotal": 4,
         "milestones": {
             "primary": 1,
-            "primaryText": "Dark Lord Without a Soul (SO) \u2605 5\nComplete Boss Rush in NOSOUL mode in under 5 minutes.",
+            "primaryText": "Dark Lord Without a Soul (SO) [5\u2605]\nComplete Boss Rush in NOSOUL mode in under 5 minutes.",
             "community": 0,
             "communityText": "",
             "achievements": 66
@@ -75269,7 +75269,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "Glyph in Bullet \u2605 10\nBeat the game as Albus on Hard Max Lvl1.",
+            "primaryText": "Glyph in Bullet [10\u2605]\nBeat the game as Albus on Hard Max Lvl1.",
             "community": 0,
             "communityText": "",
             "achievements": 94
@@ -75291,7 +75291,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 2,
-            "primaryText": "Black Viper's Last Stand \u2605 10\nBeat the game on Hard difficulty.\n\nSomersault Simulations \u2605 10\nClear all 40 challenges in Challenge mode.",
+            "primaryText": "Black Viper's Last Stand [10\u2605]\nBeat the game on Hard difficulty.\n\nSomersault Simulations [10\u2605]\nClear all 40 challenges in Challenge mode.",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -75313,7 +75313,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 2,
-            "primaryText": "Healed Soldier (UNCLEARED) \u2605 1\nGet an average rank of S on the entire game on normal mode. (Partial points included for individual levels)\n\nShattered Soldier \u2605 15\n Beat stages 1-6 with an average rank of A or above, and clear the final stage in normal mode.",
+            "primaryText": "Healed Soldier (UNCLEARED) [1\u2605]\nGet an average rank of S on the entire game on normal mode. (Partial points included for individual levels)\n\nShattered Soldier [15\u2605]\n Beat stages 1-6 with an average rank of A or above, and clear the final stage in normal mode.",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -75335,7 +75335,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "N-Sane \u2605 5\nGet all Gems, Crystals, and Platinum Relics",
+            "primaryText": "N-Sane [5\u2605]\nGet all Gems, Crystals, and Platinum Relics",
             "community": 0,
             "communityText": "",
             "achievements": 64
@@ -75357,7 +75357,7 @@ var data =
         "playersTotal": 4,
         "milestones": {
             "primary": 1,
-            "primaryText": "Ooga Booga \u2605 5\nObtain all Platinum relics and 101%.",
+            "primaryText": "Ooga Booga [5\u2605]\nObtain all Platinum relics and 101%.",
             "community": 0,
             "communityText": "",
             "achievements": 74
@@ -75379,7 +75379,7 @@ var data =
         "playersTotal": 6,
         "milestones": {
             "primary": 1,
-            "primaryText": "Elementalist \u2605 10\nObtain all gems and platinum relics.",
+            "primaryText": "Elementalist [10\u2605]\nObtain all gems and platinum relics.",
             "community": 0,
             "communityText": "",
             "achievements": 88
@@ -75401,7 +75401,7 @@ var data =
         "playersTotal": 7,
         "milestones": {
             "primary": 2,
-            "primaryText": "Minigame Maestro \u2605 35\nObtain all 28 Platinum Relics.\n\nGimmicks and Golds \u2605 10\nObtain all 28 Gems, Crystals, and Gold Relics.",
+            "primaryText": "Minigame Maestro [35\u2605]\nObtain all 28 Platinum Relics.\n\nGimmicks and Golds [10\u2605]\nObtain all 28 Gems, Crystals, and Gold Relics.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -75423,7 +75423,7 @@ var data =
         "playersTotal": 5,
         "milestones": {
             "primary": 2,
-            "primaryText": "Nitro Fueled \u2605 15\nDefeat all Time Trial Ghosts.\n\nWumpa Fueled \u2605 10\nObtain all Platinum Relics and beat N. Oxide's Final Challenge.",
+            "primaryText": "Nitro Fueled [15\u2605]\nDefeat all Time Trial Ghosts.\n\nWumpa Fueled [10\u2605]\nObtain all Platinum Relics and beat N. Oxide's Final Challenge.",
             "community": 0,
             "communityText": "",
             "achievements": 117
@@ -75445,7 +75445,7 @@ var data =
         "playersTotal": 3,
         "milestones": {
             "primary": 2,
-            "primaryText": "Psycho Cannon (UNCLEARED) \u2605 1\nOn \"Very Difficult\" Mode, save the princess by killing the final boss with a psycho cannon on loop 2+\n\nGhouls 'n Ghosts \u2605 15\nClear the first loop",
+            "primaryText": "Psycho Cannon (UNCLEARED) [1\u2605]\nOn \"Very Difficult\" Mode, save the princess by killing the final boss with a psycho cannon on loop 2+\n\nGhouls 'n Ghosts [15\u2605]\nClear the first loop",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -75467,7 +75467,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Blue... \u2605 5\nBeat the game without using continues.",
+            "primaryText": "Blue... [5\u2605]\nBeat the game without using continues.",
             "community": 1,
             "communityText": "Let's Go Gambling!\nReach the end of the second loop of the game, no matter what.",
             "achievements": 19
@@ -75489,7 +75489,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Democracy Delivered \u2605 15\nComplete the game on Hard.",
+            "primaryText": "Democracy Delivered [15\u2605]\nComplete the game on Hard.",
             "community": 0,
             "communityText": "",
             "achievements": 52
@@ -75511,7 +75511,7 @@ var data =
         "playersTotal": 8,
         "milestones": {
             "primary": 1,
-            "primaryText": "Leader of the Bunch \u2605 5\nObtain all S ranks.",
+            "primaryText": "Leader of the Bunch [5\u2605]\nObtain all S ranks.",
             "community": 1,
             "communityText": "King of Kong\nComplete all primary objectives from all site-listed games in the Donkey Kong franchise. See verification requirements for complete list.",
             "achievements": 80
@@ -75534,7 +75534,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Immortal Monkey \u2605 10\nReach 105% completion percentage (Use TUFFER cheat on a new file)",
+            "primaryText": "Immortal Monkey [10\u2605]\nReach 105% completion percentage (Use TUFFER cheat on a new file)",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -75556,7 +75556,7 @@ var data =
         "playersTotal": 3,
         "milestones": {
             "primary": 1,
-            "primaryText": "Mind Blowing \u2605 30\nComplete the extra scene on hard.",
+            "primaryText": "Mind Blowing [30\u2605]\nComplete the extra scene on hard.",
             "community": 0,
             "communityText": "",
             "achievements": 43
@@ -75578,7 +75578,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 2,
-            "primaryText": "Zeroed In \u2605 20\nObtain a gold trophy in every Zero Test.\n\nClimatic Finish \u2605 5\nWin every grand prix on Master.",
+            "primaryText": "Zeroed In [20\u2605]\nObtain a gold trophy in every Zero Test.\n\nClimatic Finish [5\u2605]\nWin every grand prix on Master.",
             "community": 1,
             "communityText": "Survival of the Fittest\nComplete Survival mode on every difficulty with every vehicle.",
             "achievements": 75
@@ -75600,7 +75600,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 2,
-            "primaryText": "Zero to Hero \u2605 20\nObtain a Gold trophy in every Zero test.\n\nGP Legend \u2605 5\nSeparately, Complete Story mode and win every cup on Expert.",
+            "primaryText": "Zero to Hero [20\u2605]\nObtain a Gold trophy in every Zero test.\n\nGP Legend [5\u2605]\nSeparately, Complete Story mode and win every cup on Expert.",
             "community": 0,
             "communityText": "",
             "achievements": 41
@@ -75622,7 +75622,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Genuine Hatred \u2605 10\nBeat the game.",
+            "primaryText": "Genuine Hatred [10\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -75644,7 +75644,7 @@ var data =
         "playersTotal": 9,
         "milestones": {
             "primary": 1,
-            "primaryText": "Look Both Ways \u2605 5\nComplete level 8",
+            "primaryText": "Look Both Ways [5\u2605]\nComplete level 8",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -75666,7 +75666,7 @@ var data =
         "playersTotal": 5,
         "milestones": {
             "primary": 2,
-            "primaryText": "Manhole \u2605 10\nGet 5 stars on the hard version of Classic/Modern Manhole\n\nOil Panic \u2605 5\nGet 5 stars on the hard version of Classic/Modern Oil Panic",
+            "primaryText": "Manhole [10\u2605]\nGet 5 stars on the hard version of Classic/Modern Manhole\n\nOil Panic [5\u2605]\nGet 5 stars on the hard version of Classic/Modern Oil Panic",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -75689,7 +75689,7 @@ var data =
         "playersTotal": 3,
         "milestones": {
             "primary": 1,
-            "primaryText": "Tree Watcher \u2605 15\nGet 5 stars on the hard versions of Classic/Modern Helmet, Vermin, Ball, and Parachute",
+            "primaryText": "Tree Watcher [15\u2605]\nGet 5 stars on the hard versions of Classic/Modern Helmet, Vermin, Ball, and Parachute",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -75712,7 +75712,7 @@ var data =
         "playersTotal": 3,
         "milestones": {
             "primary": 1,
-            "primaryText": "Thin Blue Line \u2605 5\nClear the game on Hard difficulty.",
+            "primaryText": "Thin Blue Line [5\u2605]\nClear the game on Hard difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -75734,7 +75734,7 @@ var data =
         "playersTotal": 6,
         "milestones": {
             "primary": 1,
-            "primaryText": "Certified 90's driver \u2605 15\nObtain every gold medal in all license tests.",
+            "primaryText": "Certified 90's driver [15\u2605]\nObtain every gold medal in all license tests.",
             "community": 1,
             "communityText": "Licensed to Refill\nComplete all primary objectives from all site-listed games in the Gran Turismo franchise. See verification requirements for complete list.",
             "achievements": 68
@@ -75756,7 +75756,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "Celica Cruisin' \u2605 15\nObtain every gold medal in all license tests.",
+            "primaryText": "Celica Cruisin' [15\u2605]\nObtain every gold medal in all license tests.",
             "community": 0,
             "communityText": "",
             "achievements": 124
@@ -75778,7 +75778,7 @@ var data =
         "playersTotal": 6,
         "milestones": {
             "primary": 2,
-            "primaryText": "Spillproof \u2605 20\nObtain every gold medal in all license tests (including Coffee Breaks).\n\nPlease Have Mercy-des \u2605 10\nBeat all 34 driving missions.",
+            "primaryText": "Spillproof [20\u2605]\nObtain every gold medal in all license tests (including Coffee Breaks).\n\nPlease Have Mercy-des [10\u2605]\nBeat all 34 driving missions.",
             "community": 0,
             "communityText": "",
             "achievements": 611
@@ -75800,7 +75800,7 @@ var data =
         "playersTotal": 6,
         "milestones": {
             "primary": 1,
-            "primaryText": "Harmonix \u2605 20\nGet an Expert Five Star clear on all 47 songs.",
+            "primaryText": "Harmonix [20\u2605]\nGet an Expert Five Star clear on all 47 songs.",
             "community": 0,
             "communityText": "",
             "achievements": 79
@@ -75822,7 +75822,7 @@ var data =
         "playersTotal": 5,
         "milestones": {
             "primary": 1,
-            "primaryText": "Run'n'Gun Star \u2605 10\nBeat the game on Expert difficulty.",
+            "primaryText": "Run'n'Gun Star [10\u2605]\nBeat the game on Expert difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 54
@@ -75844,7 +75844,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 2,
-            "primaryText": "From Caddie to Daddy \u2605 10\nObtain the tourney rank of World King in Tournament mode.\n\nMan of the Hour (UNVALUED) \u2605 1\nObtain the HSG Man rank from overall progress.",
+            "primaryText": "From Caddie to Daddy [10\u2605]\nObtain the tourney rank of World King in Tournament mode.\n\nMan of the Hour (UNVALUED) [1\u2605]\nObtain the HSG Man rank from overall progress.",
             "community": 0,
             "communityText": "",
             "achievements": 96
@@ -75867,7 +75867,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Always Angry \u2605 10\nComplete the game on Hard mode",
+            "primaryText": "Always Angry [10\u2605]\nComplete the game on Hard mode",
             "community": 0,
             "communityText": "",
             "achievements": 72
@@ -75890,7 +75890,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 2,
-            "primaryText": "Irradiant Ship \u2605 10\nComplete the gamed on Special mode.\n\nIrreproachable Ship \u2605 5\nComplete the game on Expert difficulty.",
+            "primaryText": "Irradiant Ship [10\u2605]\nComplete the gamed on Special mode.\n\nIrreproachable Ship [5\u2605]\nComplete the game on Expert difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 6
@@ -75912,7 +75912,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "Stick With It \u2605 5\nClear all stages on Hard difficulty.",
+            "primaryText": "Stick With It [5\u2605]\nClear all stages on Hard difficulty.",
             "community": 1,
             "communityText": "Beyond Irritating\nClear every stage consecutively without dying.",
             "achievements": 40
@@ -75934,7 +75934,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Ball Breaker \u2605 5\nClear stage 20 on high speed.",
+            "primaryText": "Ball Breaker [5\u2605]\nClear stage 20 on high speed.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -75956,7 +75956,7 @@ var data =
         "playersTotal": 6,
         "milestones": {
             "primary": 1,
-            "primaryText": "Dream On \u2605 25\nObtain all Gold Medals",
+            "primaryText": "Dream On [25\u2605]\nObtain all Gold Medals",
             "community": 0,
             "communityText": "",
             "achievements": 50
@@ -75978,7 +75978,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Pink Baller \u2605 5\nDefeat King Dedede and beat the game.",
+            "primaryText": "Pink Baller [5\u2605]\nDefeat King Dedede and beat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -76000,7 +76000,7 @@ var data =
         "playersTotal": 3,
         "milestones": {
             "primary": 1,
-            "primaryText": "Stroking It \u2605 15\nObtain all challenge medals and score AAA rank in all minigames.",
+            "primaryText": "Stroking It [15\u2605]\nObtain all challenge medals and score AAA rank in all minigames.",
             "community": 2,
             "communityText": "Brush Bash\nObtain in-game 100%, defeat the boss stage as kirby without taking damage, score at least 3300cm in the Jump Game and complete the end game credits knocking down all but at most 2 portraits.\n\nPOYO\nComplete all primary objectives from all site-listed games in the Kirby franchise. See verification requirements for complete list.",
             "achievements": 56
@@ -76022,7 +76022,7 @@ var data =
         "playersTotal": 3,
         "milestones": {
             "primary": 1,
-            "primaryText": "Dream Catcher \u2605 10\n",
+            "primaryText": "Dream Catcher [10\u2605]\n",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -76044,7 +76044,7 @@ var data =
         "playersTotal": 19,
         "milestones": {
             "primary": 2,
-            "primaryText": "Helirin Hero \u2605 15\nBeat the Master time on all adventure and challenge levels\n\nCopter Captain \u2605 10\nComplete all adventure and challenge levels without taking a hit / Collect all collectibles.",
+            "primaryText": "Helirin Hero [15\u2605]\nBeat the Master time on all adventure and challenge levels\n\nCopter Captain [10\u2605]\nComplete all adventure and challenge levels without taking a hit / Collect all collectibles.",
             "community": 1,
             "communityText": "Whirler of Worlds\nComplete all primary objectives from all site-listed games in the Kuru Kuru Kururin franchise. See verification requirements for complete list.",
             "achievements": 64
@@ -76067,7 +76067,7 @@ var data =
         "playersTotal": 14,
         "milestones": {
             "primary": 3,
-            "primaryText": "Like Father, Like Son \u2605 20\nBeat all of Totorin's times.\n\nOne Helirin of a Show \u2605 10\nGet a Perfect in every stage in Neo Land.\n\nTrouble in Paradise \u2605 10\nGet a Perfect in every stage in the first four worlds in Adventure mode, and every stage in Challenge mode.",
+            "primaryText": "Like Father, Like Son [20\u2605]\nBeat all of Totorin's times.\n\nOne Helirin of a Show [10\u2605]\nGet a Perfect in every stage in Neo Land.\n\nTrouble in Paradise [10\u2605]\nGet a Perfect in every stage in the first four worlds in Adventure mode, and every stage in Challenge mode.",
             "community": 0,
             "communityText": "",
             "achievements": 69
@@ -76090,7 +76090,7 @@ var data =
         "playersTotal": 12,
         "milestones": {
             "primary": 2,
-            "primaryText": "Squash the Competition \u2605 15\nGet Perfect in all stages\n\nDad Would be Proud \u2605 10\nBeat all Dad times in Adventure mode.",
+            "primaryText": "Squash the Competition [15\u2605]\nGet Perfect in all stages\n\nDad Would be Proud [10\u2605]\nBeat all Dad times in Adventure mode.",
             "community": 1,
             "communityText": "Super Player\nBeat all times shown in the \"Super Guide\" videos.",
             "achievements": 66
@@ -76112,7 +76112,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Fish Circus \u2605 5\nComplete the \"Bubble Game\" minigame.",
+            "primaryText": "Fish Circus [5\u2605]\nComplete the \"Bubble Game\" minigame.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -76134,7 +76134,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 2,
-            "primaryText": "Spectral Sprinter \u2605 10\nBeat all the Staff Ghost Times in Time Trial Mode\n\nDouble Trouble \u2605 5\nFinish 1st overall in all 150cc and Mirror Cups",
+            "primaryText": "Spectral Sprinter [10\u2605]\nBeat all the Staff Ghost Times in Time Trial Mode\n\nDouble Trouble [5\u2605]\nFinish 1st overall in all 150cc and Mirror Cups",
             "community": 0,
             "communityText": "",
             "achievements": 65
@@ -76156,7 +76156,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Making Strides \u2605 10\nObtain all gold stars and defeat Donkey Kong in his hideout (B1 and B2).",
+            "primaryText": "Making Strides [10\u2605]\nObtain all gold stars and defeat Donkey Kong in his hideout (B1 and B2).",
             "community": 0,
             "communityText": "",
             "achievements": 43
@@ -76178,7 +76178,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Making Swaps \u2605 10\nObtain all gold trophies.",
+            "primaryText": "Making Swaps [10\u2605]\nObtain all gold trophies.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -76200,7 +76200,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "Making Moves \u2605 5\nComplete all levels with a gold star rating.",
+            "primaryText": "Making Moves [5\u2605]\nComplete all levels with a gold star rating.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -76222,7 +76222,7 @@ var data =
         "playersTotal": 5,
         "milestones": {
             "primary": 2,
-            "primaryText": "Reawakening of the Legend \u2605 5\nGet an S rank on every mission.\n\nBeing Rusty is Nothing (UNCLEARED) \u2605 1\nGet an S rank on every mission on Hard mode.",
+            "primaryText": "Reawakening of the Legend [5\u2605]\nGet an S rank on every mission.\n\nBeing Rusty is Nothing (UNCLEARED) [1\u2605]\nGet an S rank on every mission on Hard mode.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -76244,7 +76244,7 @@ var data =
         "playersTotal": 13,
         "milestones": {
             "primary": 1,
-            "primaryText": "Samus Low% \u2605 15\nComplete the mission with 15 percent or fewer items collected on hard.",
+            "primaryText": "Samus Low% [15\u2605]\nComplete the mission with 15 percent or fewer items collected on hard.",
             "community": 0,
             "communityText": "",
             "achievements": 55
@@ -76266,7 +76266,7 @@ var data =
         "playersTotal": 3,
         "milestones": {
             "primary": 1,
-            "primaryText": "Ruler of Outworld \u2605 15\nBeat the Master Destiny tower with no continues on Very Hard difficulty.",
+            "primaryText": "Ruler of Outworld [15\u2605]\nBeat the Master Destiny tower with no continues on Very Hard difficulty.",
             "community": 1,
             "communityText": "Randper Kombat\nComplete any tower with the Switcharoo cheat enabled.",
             "achievements": 31
@@ -76289,7 +76289,7 @@ var data =
         "playersTotal": 7,
         "milestones": {
             "primary": 1,
-            "primaryText": "You Can't Kill the Metal \u2605 5\nComplete the tenth section.",
+            "primaryText": "You Can't Kill the Metal [5\u2605]\nComplete the tenth section.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -76311,7 +76311,7 @@ var data =
         "playersTotal": 14,
         "milestones": {
             "primary": 1,
-            "primaryText": "Legacy's Second Screen \u2605 5\nBeat all episodes.",
+            "primaryText": "Legacy's Second Screen [5\u2605]\nBeat all episodes.",
             "community": 2,
             "communityText": "Ninja Prodigy\nComplete all No Gold and difficult miscellaneous achievements.\n\nDeadly Skill\nSeparately, complete all episodes and the tutorial with all possible gold and without dying.",
             "achievements": 255
@@ -76333,7 +76333,7 @@ var data =
         "playersTotal": 16,
         "milestones": {
             "primary": 1,
-            "primaryText": "Nsufferable \u2605 5\nComplete episodes 40-49.",
+            "primaryText": "Nsufferable [5\u2605]\nComplete episodes 40-49.",
             "community": 1,
             "communityText": "Nlightened\nComplete all episodes separately without dying.",
             "achievements": 109
@@ -76356,7 +76356,7 @@ var data =
         "playersTotal": 4,
         "milestones": {
             "primary": 1,
-            "primaryText": "Olympic Visionary \u2605 5\nBeat the world record in all 6 events and finish a full game loop.",
+            "primaryText": "Olympic Visionary [5\u2605]\nBeat the world record in all 6 events and finish a full game loop.",
             "community": 0,
             "communityText": "",
             "achievements": 9
@@ -76378,7 +76378,7 @@ var data =
         "playersTotal": 5,
         "milestones": {
             "primary": 1,
-            "primaryText": "Steadfast Protector \u2605 5\nFinish the game without a Game Over",
+            "primaryText": "Steadfast Protector [5\u2605]\nFinish the game without a Game Over",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -76400,7 +76400,7 @@ var data =
         "playersTotal": 4,
         "milestones": {
             "primary": 1,
-            "primaryText": "Product Placement \u2605 5\nCollect all cans & complete expert mode.",
+            "primaryText": "Product Placement [5\u2605]\nCollect all cans & complete expert mode.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -76422,7 +76422,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Fallen Kong \u2605 5\nGet the Alternative ending.",
+            "primaryText": "Fallen Kong [5\u2605]\nGet the Alternative ending.",
             "community": 1,
             "communityText": "Return to Monkey\nBeat all of the hi-scores on all levels (except Kong's Lair).",
             "achievements": 68
@@ -76444,7 +76444,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "Budding Micromanager \u2605 5\nObtain a pink flower on all challenges.",
+            "primaryText": "Budding Micromanager [5\u2605]\nObtain a pink flower on all challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 114
@@ -76466,7 +76466,7 @@ var data =
         "playersTotal": 10,
         "milestones": {
             "primary": 1,
-            "primaryText": "Frontier Conqueror \u2605 15\nObtain all Gold symbols from the Battle Frontier.",
+            "primaryText": "Frontier Conqueror [15\u2605]\nObtain all Gold symbols from the Battle Frontier.",
             "community": 0,
             "communityText": "",
             "achievements": 64
@@ -76488,7 +76488,7 @@ var data =
         "playersTotal": 12,
         "milestones": {
             "primary": 4,
-            "primaryText": "Destiny's Ascent \u2605 10\nClear Destiny Tower.\n\nPerfect Purist \u2605 5\nClear Zero Isle South.\n\nAdept Purist \u2605 5\nClear Zero Isle East and Zero Isle West.\n\nCenter of the Earth \u2605 5\nClear Zero Isle North and Zero Isle Center.",
+            "primaryText": "Destiny's Ascent [10\u2605]\nClear Destiny Tower.\n\nPerfect Purist [5\u2605]\nClear Zero Isle South.\n\nAdept Purist [5\u2605]\nClear Zero Isle East and Zero Isle West.\n\nCenter of the Earth [5\u2605]\nClear Zero Isle North and Zero Isle Center.",
             "community": 1,
             "communityText": "No Stone Left Unturned\nReach Guildmaster Rank and recruit all Pokemon.",
             "achievements": 130
@@ -76511,7 +76511,7 @@ var data =
         "playersTotal": 3,
         "milestones": {
             "primary": 1,
-            "primaryText": "Lightning Reflexes \u2605 40\nClear Intense difficulty without using a continue.",
+            "primaryText": "Lightning Reflexes [40\u2605]\nClear Intense difficulty without using a continue.",
             "community": 1,
             "communityText": "Gotta Beat 'Em All\nComplete all primary objectives from all site-listed games in the Pokemon franchise. See verification requirements for complete list.",
             "achievements": 39
@@ -76533,7 +76533,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "Puzzle League Champion \u2605 80\nBeat Super Hard difficulty without using a continue.",
+            "primaryText": "Puzzle League Champion [80\u2605]\nBeat Super Hard difficulty without using a continue.",
             "community": 0,
             "communityText": "",
             "achievements": 52
@@ -76555,7 +76555,7 @@ var data =
         "playersTotal": 6,
         "milestones": {
             "primary": 1,
-            "primaryText": "Shock the Block \u2605 15\nClear 20 lines and Pyramid modes on Master difficulty.",
+            "primaryText": "Shock the Block [15\u2605]\nClear 20 lines and Pyramid modes on Master difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 114
@@ -76577,7 +76577,7 @@ var data =
         "playersTotal": 4,
         "milestones": {
             "primary": 1,
-            "primaryText": "Busted! \u2605 15\nDefeat Mike Tyson.",
+            "primaryText": "Busted! [15\u2605]\nDefeat Mike Tyson.",
             "community": 1,
             "communityText": "Hands of Steel\nDefeat Mike Tyson on Round 1.",
             "achievements": 28
@@ -76599,7 +76599,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "Loo*per \u2605 20\nComplete the 1st loop of the game",
+            "primaryText": "Loo*per [20\u2605]\nComplete the 1st loop of the game",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -76621,7 +76621,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 2,
-            "primaryText": "Supportive Groundhog \u2605 25\nFully complete the game by beating its hidden loop.\n\nRabbit Doom \u2605 10\nBeat the game without continuing.",
+            "primaryText": "Supportive Groundhog [25\u2605]\nFully complete the game by beating its hidden loop.\n\nRabbit Doom [10\u2605]\nBeat the game without continuing.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -76644,7 +76644,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "Dashing Through the Snow \u2605 5\nBeat the game without using continues.",
+            "primaryText": "Dashing Through the Snow [5\u2605]\nBeat the game without using continues.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -76666,7 +76666,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "I Feel like Robin Hood! \u2605 5\nComplete difficulty 4 after looping difficulty 3.",
+            "primaryText": "I Feel like Robin Hood! [5\u2605]\nComplete difficulty 4 after looping difficulty 3.",
             "community": 0,
             "communityText": "",
             "achievements": 15
@@ -76688,7 +76688,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "Fall of the Robot King \u2605 5\nBeat the game as both characters.",
+            "primaryText": "Fall of the Robot King [5\u2605]\nBeat the game as both characters.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -76710,7 +76710,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 2,
-            "primaryText": "Devil Tamer \u2605 15\nDefeat Beelzebub on Devil Mode.\n\nSoulful \u2605 40\nComplete the campaign on Devil Mode.",
+            "primaryText": "Devil Tamer [15\u2605]\nDefeat Beelzebub on Devil Mode.\n\nSoulful [40\u2605]\nComplete the campaign on Devil Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 118
@@ -76732,7 +76732,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Not So Simple \u2605 5\nComplete all missions on Inferno difficulty.",
+            "primaryText": "Not So Simple [5\u2605]\nComplete all missions on Inferno difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 73
@@ -76754,7 +76754,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "Gettin' Dizzy With It \u2605 10\nClear both galaxies on advanced difficulty.",
+            "primaryText": "Gettin' Dizzy With It [10\u2605]\nClear both galaxies on advanced difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -76776,7 +76776,7 @@ var data =
         "playersTotal": 12,
         "milestones": {
             "primary": 1,
-            "primaryText": "The Lost Levels \u2605 5\nComplete all secret worlds in the Lost Levels.",
+            "primaryText": "The Lost Levels [5\u2605]\nComplete all secret worlds in the Lost Levels.",
             "community": 0,
             "communityText": "",
             "achievements": 106
@@ -76798,7 +76798,7 @@ var data =
         "playersTotal": 9,
         "milestones": {
             "primary": 1,
-            "primaryText": "Toadstool Tour \u2605 10\nProve yourself",
+            "primaryText": "Toadstool Tour [10\u2605]\nProve yourself",
             "community": 1,
             "communityText": "King of the Mushroom Kingdom\nComplete all primary objectives from all site-listed games in the Mario franchise. See verification requirements for complete list.",
             "achievements": 34
@@ -76821,7 +76821,7 @@ var data =
         "playersTotal": 3,
         "milestones": {
             "primary": 1,
-            "primaryText": "Oni Mastery \u2605 10\nAchieve a full combo on every song on Oni difficulty.",
+            "primaryText": "Oni Mastery [10\u2605]\nAchieve a full combo on every song on Oni difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 98
@@ -76843,7 +76843,7 @@ var data =
         "playersTotal": 25,
         "milestones": {
             "primary": 2,
-            "primaryText": "Excavation Mission \u2605 25\nSeparately; clear Type B with Level 9 Height 5 and clear Type B with Level 18 Height 3.\n\nStackin' it Old School \u2605 10\nScore over 120,000 in Type A and get the final cutscene.",
+            "primaryText": "Excavation Mission [25\u2605]\nSeparately; clear Type B with Level 9 Height 5 and clear Type B with Level 18 Height 3.\n\nStackin' it Old School [10\u2605]\nScore over 120,000 in Type A and get the final cutscene.",
             "community": 1,
             "communityText": "Journey of a Billion Blocks\nComplete all primary objectives from all site-listed games in the Tetris franchise. See verification requirements for complete list.",
             "achievements": 37
@@ -76865,7 +76865,7 @@ var data =
         "playersTotal": 8,
         "milestones": {
             "primary": 1,
-            "primaryText": "So Anyway, I Started Blasting \u2605 5\nDefeat all enemies in Fight mode.",
+            "primaryText": "So Anyway, I Started Blasting [5\u2605]\nDefeat all enemies in Fight mode.",
             "community": 0,
             "communityText": "",
             "achievements": 23
@@ -76887,7 +76887,7 @@ var data =
         "playersTotal": 9,
         "milestones": {
             "primary": 11,
-            "primaryText": "Cambridge Graduate \u2605 10\nObtain a grade of S1 in Master mode.\n\nStacking Student \u2605 10\nSeparately; complete Normal mode and reach level 500 in Master mode.\n\nBrick by Brick (UNCLEARED) \u2605 1\nReach level 500 in Death mode.\n\nDeath Defier (UNCLEARED) \u2605 1\nObtain a grade of GM in Death mode.\n\nGarbage Collector (UNCLEARED) \u2605 1\nClear TGM+ mode.\n\nMental Block (UNCLEARED) \u2605 1\nObtain a grade of M in Death mode.\n\nOne Giant Leap (UNCLEARED) \u2605 1\nObtain a grade of M in master mode.\n\nOne Small Step (UNCLEARED) \u2605 1\nClear Master mode.\n\nSecret Service (UNCLEARED) \u2605 1\nObtain the secret grade in Master mode.\n\nTetris Grandmaster (UNCLEARED) \u2605 1\nObtain a grade of GM in Master mode.\n\nTetris Legend (UNCLEARED) \u2605 1\nObtain a grade of Orange GM in Master mode.",
+            "primaryText": "Cambridge Graduate [10\u2605]\nObtain a grade of S1 in Master mode.\n\nStacking Student [10\u2605]\nSeparately; complete Normal mode and reach level 500 in Master mode.\n\nBrick by Brick (UNCLEARED) [1\u2605]\nReach level 500 in Death mode.\n\nDeath Defier (UNCLEARED) [1\u2605]\nObtain a grade of GM in Death mode.\n\nGarbage Collector (UNCLEARED) [1\u2605]\nClear TGM+ mode.\n\nMental Block (UNCLEARED) [1\u2605]\nObtain a grade of M in Death mode.\n\nOne Giant Leap (UNCLEARED) [1\u2605]\nObtain a grade of M in master mode.\n\nOne Small Step (UNCLEARED) [1\u2605]\nClear Master mode.\n\nSecret Service (UNCLEARED) [1\u2605]\nObtain the secret grade in Master mode.\n\nTetris Grandmaster (UNCLEARED) [1\u2605]\nObtain a grade of GM in Master mode.\n\nTetris Legend (UNCLEARED) [1\u2605]\nObtain a grade of Orange GM in Master mode.",
             "community": 0,
             "communityText": "",
             "achievements": 84
@@ -76909,7 +76909,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "You Axed For It! \u2605 15\nFinish the game.",
+            "primaryText": "You Axed For It! [15\u2605]\nFinish the game.",
             "community": 1,
             "communityText": "Legendary Chap\nFinish the game without dying.",
             "achievements": 18
@@ -76931,7 +76931,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "Sword of Light \u2605 5\nBeat the game.",
+            "primaryText": "Sword of Light [5\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -76953,7 +76953,7 @@ var data =
         "playersTotal": 5,
         "milestones": {
             "primary": 2,
-            "primaryText": "Thunderbolt & Lightning \u2605 15\nFinish the game on Maniac difficulty.\n\nVery, Very Frightening (UNCLEARED) \u2605 1\n1CC the game on Maniac difficulty.",
+            "primaryText": "Thunderbolt & Lightning [15\u2605]\nFinish the game on Maniac difficulty.\n\nVery, Very Frightening (UNCLEARED) [1\u2605]\n1CC the game on Maniac difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -76975,7 +76975,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "The Seven Holidays King \u2605 10\nOn Nightmare difficulty, Get an overall S-rank on all separate levels and complete both secret chapters.",
+            "primaryText": "The Seven Holidays King [10\u2605]\nOn Nightmare difficulty, Get an overall S-rank on all separate levels and complete both secret chapters.",
             "community": 0,
             "communityText": "",
             "achievements": 73
@@ -76997,7 +76997,7 @@ var data =
         "playersTotal": 6,
         "milestones": {
             "primary": 1,
-            "primaryText": "Rollout \u2605 5\nBeat the game.",
+            "primaryText": "Rollout [5\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -77019,7 +77019,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Top Toppler \u2605 5\nTopple all eight towers in a single game.",
+            "primaryText": "Top Toppler [5\u2605]\nTopple all eight towers in a single game.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -77041,7 +77041,7 @@ var data =
         "playersTotal": 3,
         "milestones": {
             "primary": 1,
-            "primaryText": "Janky Joyride \u2605 25\nCollect all author medals within race mode.",
+            "primaryText": "Janky Joyride [25\u2605]\nCollect all author medals within race mode.",
             "community": 0,
             "communityText": "",
             "achievements": 230
@@ -77063,7 +77063,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Master Surgeon \u2605 20\nObtain all S ranks.",
+            "primaryText": "Master Surgeon [20\u2605]\nObtain all S ranks.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -77086,7 +77086,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 1,
-            "primaryText": "Ray of Hope \u2605 30\nBeat the game on Crazy difficulty.",
+            "primaryText": "Ray of Hope [30\u2605]\nBeat the game on Crazy difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 70
@@ -77108,7 +77108,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "RMG - Random Magic Girl \u2605 15\nComplete the game.",
+            "primaryText": "RMG - Random Magic Girl [15\u2605]\nComplete the game.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -77130,7 +77130,7 @@ var data =
         "playersTotal": 2,
         "milestones": {
             "primary": 2,
-            "primaryText": "Stunt Master \u2605 10\nIn Stunt mode, beat the default hi-score on all available courses\n\nRide the Tide \u2605 5\nPlace first in the Normal, Hard, and Expert championships",
+            "primaryText": "Stunt Master [10\u2605]\nIn Stunt mode, beat the default hi-score on all available courses\n\nRide the Tide [5\u2605]\nPlace first in the Normal, Hard, and Expert championships",
             "community": 0,
             "communityText": "",
             "achievements": 62
@@ -77152,7 +77152,7 @@ var data =
         "playersTotal": 5,
         "milestones": {
             "primary": 1,
-            "primaryText": "Iccus \u2605 5\nFinish game on Hyper Difficulty",
+            "primaryText": "Iccus [5\u2605]\nFinish game on Hyper Difficulty",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -77174,7 +77174,7 @@ var data =
         "playersTotal": 1,
         "milestones": {
             "primary": 1,
-            "primaryText": "Mr. Auto \u2605 20\nAchieve an all perfect on all levels with hard mode/Complete 3 rounds of the challenge.",
+            "primaryText": "Mr. Auto [20\u2605]\nAchieve an all perfect on all levels with hard mode/Complete 3 rounds of the challenge.",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -77196,7 +77196,7 @@ var data =
         "playersTotal": 270,
         "milestones": {
             "primary": 2,
-            "primaryText": "Serious Co-optitude \u2605 45 (Partial: \u2605 15)\nObtain a gold medal on all cooperative Survival levels. / Complete a Coin-op cooperative game on Normal difficulty (or higher).\n\nSecond Sam \u2605 30 (Partial: \u2605 15)\nComplete the game in single player on Serious difficulty. / Complete \"The Grand Cathedral\" on Serious difficulty without dying or loading. / Obtain a gold medal on all single player Survival levels.",
+            "primaryText": "Serious Co-optitude[45\u2605  (Partial: 15\u2605)]\nObtain a gold medal on all cooperative Survival levels. / Complete a Coin-op cooperative game on Normal difficulty (or higher).\n\nSecond Sam[30\u2605  (Partial: 15\u2605)]\nComplete the game in single player on Serious difficulty. / Complete \"The Grand Cathedral\" on Serious difficulty without dying or loading. / Obtain a gold medal on all single player Survival levels.",
             "community": 2,
             "communityText": "Bent on Sand\nObtain the gold medal with a time of 3:30 on \"Bend on Sand\" in single player Survival.\n\nSerious Seconds\nComplete the game in single player on Serious difficulty without dying or loading.",
             "achievements": 70
@@ -77209,8 +77209,8 @@ var date =
     "day": 9,
     "month": 12,
     "year": 2024,
-    "hour": 9,
-    "minute": 3,
-    "second": 42,
-    "searchTime": 586.5895619392395
+    "hour": 14,
+    "minute": 4,
+    "second": 49,
+    "searchTime": 615.3928816318512
 }
