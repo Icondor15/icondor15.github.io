@@ -3,7 +3,7 @@ var listInfo = [
         "name" : "Proven Yourself",
         "icon" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1466860/404b716d0a8865f610fecf8d9a76c1313a258785.jpg",
         "description": "Obtain 15 separate objectives whose requirements are to \"Prove yourself\".",
-        "notes": "I had to check 219 games manually 💀",
+        "notes": "I had to check 219 games manually 💀<br>You can alternatively go to the <a href='../filterceobjectives/filterceobjectives.html' style='color:#000000;'><b>Objective List</b></a> and look for all objectives which have \"Prove yourself\" in their description!",
         "count" : 219,
         "link" : "../filtercegames/filtercegames.html?list=eLC0SCec1v3ACY4GobU8KCeGWW0CeaXp3A4JT63AH0LGoc8PCCec8Y8CgIX43A4740oX5dC0odW03AXNK0oa5X4CfbXu3A8tE53AL4M0oY090CfGGZ3AO2S0oZa64CeXbMCCgK1n3AE6OWoX8O8God4Z3A50893A9720oYQ94Cg64b3A5L153A618N3A58Ho3A5dOJ3A68Gm3AL8GmoccP8Cev033A9tXmoY1H0CeZTZ3A9IOmoYH8SCeJQMCCen5f3AX50moX8fE0oZbdKCeKW8CCeH95OCeKOWGCfGXv3A5qEJ3A9ocGoZ47aCeHEP0CeXH7GCeKTXSCeI8Godb5KCescP3A4KKs3AbsSmoYHqQGoX1dSWocSm0CesTI3AO9aWoeTb0CfZU83A85SmoZLt8CeKXcCCeJIGOCeob63AKnKGoX92c0oX4HO0oX0ILmoYC70CeH58SCeb053A63Wf3A5WGm3A4WAN3AT2C0oYDKOCenHn3A52La3A51G23AcMTmoeSmSCfuWG3A5JD23A92Q0oaD6OCenb83AGLT0oXO8PWoYK5WCfX113A8OOWoYGa3A4X4H3ACm60ob8YGCf05e3A43ae3A4KXG3A8aOH3ACMO0oa094CebC33AC490oX5rHWoZ4q0CgPXq3A4pTI3A9u40ocA38CeIKv8CeHWM4Cf1Dm3ATYOGoXToWmoXLYS0oYMLCCeH8d8CeqM23APHD0ob9JOCf30f3APO5GoaSrCCfKGp3A5sQ13AM4G0odW3aCfqG53A630CeXasaCeZar3AGOKmobI2CCeHDJSCfWEM3AbMLWoZYMKCfaE83A43LM3A6KG63AA320of1sSCg16N3AaLXGoX855mocG2aCePLJGCfqc63A8pSWoZTL8CeK1YKCeL83CCeG0raCgMD53ATaUGoZCYKCetXK3Ab0Q0oYEHOCfH1Y3A4KWf3A85Kd3A9JDGobGJ4CefSJ3ADe50ob06SCeb573A5c0Cf3UI3A4oWr3A96M0oXWP8moZX70CeGOX4CfXCP3A9I0moXP7aWoXLf2GoXba9WoZO5CCeIX9KCfXA83A5sPK3A80KGoYQ50CfM053AX6XmoY1p8CeN028CecUMaCeHb4WCf0Hm3AI8C0oaPpWCeJ2PGCeLQ5GCfnD0ofb1aCf6Dm3A8aWWoXCHP0odbZWCepSO3A4mLp3BSo"
     },
@@ -11,7 +11,7 @@ var listInfo = [
         "name" : "As God Intended",
         "icon" : "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1466860/2b6e07d7d21933ece1795ca7601b46f32adbd859.jpg",
         "description": "Obtain 5 or more community objectives with \"Made of\" in their title.",
-        "notes": "",
+        "notes": "You can alternatively go to the <a href='../filterceobjectives/filterceobjectives.html' style='color:#000000;'><b>Objective List</b></a> and look for all community objectives which have \"Made of\" in their name!",
         "count" : 15,
         "link" : "../filtercegames/filtercegames.html?list=eZTq3AH75GoZb9SCfe4e3A5JL93A8XOo3A4K883AHN8GoXKbPWoX855moa203AM1PWobWqSCeH5GKCfm54.0"
     },
