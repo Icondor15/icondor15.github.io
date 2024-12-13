@@ -6161,7 +6161,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-20T00:18:58.000Z",
-        "updatedAt": "2024-12-13T02:59:08.000Z",
+        "updatedAt": "2024-12-13T08:09:14.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -6199,7 +6199,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Fireball and Waterball [5\u2605]\nObtain an S rank on every level. / Have a total completion time of under 38 minutes.",
+            "primaryText": "Fireball and Waterball [5\u2605]\nObtain an S rank on every level.",
             "community": 0,
             "communityText": "",
             "achievements": 21
@@ -12129,7 +12129,7 @@ var data =
         "createdAt": "2020-01-28T10:05:19.000Z",
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 10,
-        "playersStarted": 202,
+        "playersStarted": 203,
         "playersTotal": 992,
         "priceData": {
             "USD": {
@@ -13324,33 +13324,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 3999,
-                "final": 2399,
-                "discountPercent": 40
+                "final": 3999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 3899,
-                "final": 2339,
-                "discountPercent": 40
+                "final": 3899,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 3350,
-                "final": 2010,
-                "discountPercent": 40
+                "final": 3350,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 450000,
-                "final": 270000,
-                "discountPercent": 40
+                "final": 450000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 5850,
-                "final": 3510,
-                "discountPercent": 40
+                "final": 5850,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 4999,
-                "final": 2999,
-                "discountPercent": 40
+                "final": 4999,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -38352,7 +38352,7 @@ var data =
         "createdAt": "2020-06-25T18:54:29.000Z",
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
-        "playersStarted": 10,
+        "playersStarted": 11,
         "playersTotal": 245,
         "priceData": {
             "USD": {
@@ -55606,7 +55606,7 @@ var data =
         "updatedAt": "2024-10-16T00:47:02.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 68,
+        "playersTotal": 69,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -61223,7 +61223,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 36,
+        "playersTotal": 37,
         "priceData": {
             "USD": {
                 "initial": 3499,
@@ -73868,7 +73868,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 63,
+        "playersTotal": 64,
         "milestones": {
             "primary": 1,
             "primaryText": "Master of the Cave [50\u2605]\nComplete all Challenges.",
@@ -74042,8 +74042,8 @@ var data =
         "points": 80,
         "createdAt": "2020-01-28T09:33:15.000Z",
         "updatedAt": "2024-09-28T16:51:24.000Z",
-        "playersCompleted": 40,
-        "playersStarted": 6,
+        "playersCompleted": 41,
+        "playersStarted": 5,
         "playersTotal": 310,
         "milestones": {
             "primary": 3,
@@ -74843,7 +74843,7 @@ var data =
         "updatedAt": "2024-10-22T11:32:51.000Z",
         "playersCompleted": 3,
         "playersStarted": 35,
-        "playersTotal": 236,
+        "playersTotal": 237,
         "milestones": {
             "primary": 10,
             "primaryText": "Ultimation [20\u2605]\nGet a V rank on Class 10.\n\nAbsolute Stasis [40\u2605]\nGet all V ranks in FINALE and ENCORE.\n\nNoitacretra [20\u2605]\nGet a V rank in Class 9.\n\nThe Innermost Cave [30\u2605]\nGet all SS ranks in FINALE and ENCORE.\n\nVividology [15\u2605]\nPass Class 10.\n\nCritical Eye [20\u2605]\nGet all S ranks in FINALE and ENCORE.\n\nNonagon [25\u2605]\nPass Class 9.\n\nElite Eight Agent [40\u2605]\nPass Class 8.\n\nSentillion [25\u2605]\nGet all S ranks on the level 11-13 songs and mod charts in MIDDLE difficulty.\n\nVivid Initiate [15\u2605]\nGet all S ranks on the level 6-8 songs and mod charts in OPENING difficulty.",
@@ -77188,8 +77188,8 @@ var date =
     "day": 13,
     "month": 12,
     "year": 2024,
-    "hour": 9,
-    "minute": 1,
-    "second": 35,
-    "searchTime": 584.1343331336975
+    "hour": 17,
+    "minute": 10,
+    "second": 52,
+    "searchTime": 599.9258103370667
 }
