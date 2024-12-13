@@ -116,6 +116,8 @@
             </svg></a> / <b>@icondor</b> on Discord.</p>
             <sub id="Date">Last checked game database on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
             <sub id="userDate">Last checked user database on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
+            <sub id="wishlistDate">Last checked wishlist info on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
+            <sub id="totalTime">Total search time: <b>Loading...</b>.</sub><br>
             <sub style="font-size: 10px;">(If any data changed while the search was ongoing (Unlikely but not impossible) it may be slightly inaccurate.)</sub>
         </div>
         <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, document.body.scrollHeight);"><b>vvv Move to bottom vvv</b></span></div>
@@ -139,26 +141,26 @@
                 <td colspan="14">
                     <table class="filterTitle" style="margin: auto; text-align: center; background-color: #ededed;">
                         <tr>
-                            <td colspan="6">
+                            <td colspan="8">
                                 <p id="filterActivity" style="margin: auto; padding-top: 15px; padding-bottom: 3px; font-size: 25px; font-weight: bold; text-align: center;">Filters</p>
                                 <sub class="subtitle">(Hover over me to see all filters!)</sub><br>
-                                <sub class="subtitle">(All textboxes (Except the User Filter) search on every input so it might feel choppy!)</sub>
+                                <sub class="subtitle">(All textboxes (Except the User and Wishlist Filters) search on every input so it might feel choppy!)</sub>
                             </td>
                         </tr>
                         <tbody class="filterPage">
                             <tr>
-                                <td id="platformFilter">
+                                <td colspan="2" id="platformFilter">
                                     <b>Platform:</b><br>
                                     <input type="radio" id="platformAll" onclick="changePlatform()" name="platform" value="0" checked="true">All</input><br>
                                     <input type="radio" id="platformSteam" onclick="changePlatform()" name="platform" value="1">Steam</input><br>
                                     <input type="radio" id="platformRA" onclick="changePlatform()" name="platform" value="2">RetroAchievements</input>
                                 </td>
-                                <td id="nameFilter">
+                                <td colspan="2"  id="nameFilter">
                                     <b>Name Contains:</b><br>
                                     <input type="text" id="nameFilterBox" autocomplete="off" onchange onpropertychange onkeyuponpaste oninput="searchName()" name="name"></input><br>
                                     <input type="checkbox" id="nameFilterCase" onclick="caseSensitive()">Case Sensitive</input>
                                 </td>
-                                <td id="genreFilter">
+                                <td colspan="2"  id="genreFilter">
                                     <b>Genre:</b><br>
                                     <input type="checkbox" id="genreAll" onclick="changeGenre(-1)" checked="true">All</input><br>
                                     <input type="checkbox" id="genreAction" onclick="changeGenre(0)">Action</input>
@@ -188,28 +190,15 @@
                                     <input type="radio" id="priceF2P" onclick="changePrice()" name="price" value="1">Free To Play</input><br>
                                     <input type="radio" id="priceNA" onclick="changePrice()" name="price" value="2">N/A</input>
                                 </td>
-                                <td rowspan="4" id="extraFilter">
-                                    <b>Extras & Non-Filters:</b><br>
-                                    <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br><br>
-                                    <input id="pointMultiple" type="checkbox" onclick="nonMultiples()">(Points) Only non-multiples of 5</input><br>
-                                    <sub class="subtitle">(Useful to find most Uncleared/Unvalued games)</sub><br>
-                                    <input  id="idToLink" type="checkbox" onchange="idToLink()">(Links) Copy Link > Copy ID</input><br>
-                                    <sub class="subtitle">(Useful to copy many IDs quickly)</sub><br>
-                                    <input  id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
-                                    <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub><br>
-                                    <input  id="invertFilters" type="checkbox" onchange="invertFilters()">Invert Filters</input><br>
-                                    <sub class="subtitle">(Check for all games that DON'T apply to the active filters.)</sub><br>
-                                    <sub class="subtitle">(May seem funky with many filters active, especially the user filter!)</sub><br>
-                                </td>
                             </tr>
                             <tr>
                                 <td rowspan="3" colspan="3" id="userSearch">
                                     <b>User:</b><br>
                                     <sub class="subtitle">(Shows only games owned by a user)</sub><br>
-                                    <sub class="subtitle">(Only works with users visible in the leaderboard!)</sub><br>
+                                    <sub class="subtitle">(Only works with users visible in the User List!)</sub><br>
                                     <sub class="subtitle">(May be inaccurate due to some games not being present in the API!)</sub><br>
                                     <div style="margin:5px">
-                                        <b>Link/ID: </b>
+                                        <b>User Page/ID: </b>
                                         <input type="text" id="idTextbox" autocomplete="off" style="width:300px; font-size:10px;"></input><br>
                                         <sub class="subtitle">(Example: "https://cedb.me/user/00000000-0000-0000-0000-000000000000")</sub><br>
                                         <sub class="subtitle">(Example: "00000000-0000-0000-0000-000000000000")</sub><br>
@@ -218,6 +207,24 @@
                                             <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="userSearch(false)">Unload</span>
                                         </div>
                                         <p style="margin-top: 5px;" id="userSearchResults">Selected User: <b>None</b>.</p>
+                                    </div>
+                                </td>
+                                <td rowspan="3" colspan="3" id="wishlistSearch">
+                                    <b>Wishlist:</b><br>
+                                    <sub class="subtitle">(Shows only games in a user's Steam wishlist)</sub><br>
+                                    <sub class="subtitle">(Only works with users visible in the User List!)</sub><br>
+                                    <sub class="subtitle">(Only works with users whose Steam wishlist is public!)</sub><br>
+                                    <sub class="subtitle">(Only works if the user's wishlist has games in the CE Database!)</sub><br>
+                                    <div style="margin:5px">
+                                        <b>User Page/ID: </b>
+                                        <input type="text" id="wishlistIdTextbox" autocomplete="off" style="width:300px; font-size:10px;"></input><br>
+                                        <sub class="subtitle">(Example: "https://cedb.me/user/00000000-0000-0000-0000-000000000000")</sub><br>
+                                        <sub class="subtitle">(Example: "00000000-0000-0000-0000-000000000000")</sub><br>
+                                        <div style="margin: 5px auto 10px;">
+                                            <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="wishlistSearch(true)">Load Wishlist Filter</span>
+                                            <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="wishlistSearch(false)">Unload</span>
+                                        </div>
+                                        <p style="margin-top: 5px;" id="wishlistSearchResults">Selected User: <b>None</b>.</p>
                                     </div>
                                 </td>
                                 <td id="pointsFilter">
@@ -269,6 +276,33 @@
                                     <input type="number" id="costHigher" min="0" max="100000" onchange onpropertychange onkeyuponpaste oninput="changeCost()"></input>
                                 </td>
                             </tr>
+                            <tr>
+                                <td colspan="8" id="extraFilter">
+                                    <b>Extras & Non-Filters:</b><br>
+                                    <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br>
+                                    <table style="border:0px; text-align: center; width:85%; margin:auto;">
+                                        <tr>
+                                            <td colspan="2" style="border:0px; width:25%">
+                                                <input id="pointMultiple" type="checkbox" onclick="nonMultiples()">(Points) Only non-multiples of 5</input><br>
+                                                <sub class="subtitle">(Useful to find most Uncleared/Unvalued games)</sub>
+                                            </td>
+                                            <td colspan="2" style="border:0px; width:25%">
+                                                <input  id="idToLink" type="checkbox" onchange="idToLink()">(Links) Copy Link > Copy ID</input><br>
+                                                <sub class="subtitle">(Useful to copy many IDs quickly)</sub>
+                                            </td>
+                                            <td colspan="2" style="border:0px; width:25%">
+                                                <input  id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
+                                                <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub>
+                                            </td>
+                                            <td colspan="2" style="border:0px; width:25%">
+                                                <input  id="invertFilters" type="checkbox" onchange="invertFilters()">Invert Filters</input><br>
+                                                <sub class="subtitle">(Check for all games that DON'T apply to the active filters.)</sub><br>
+                                                <sub class="subtitle">(May seem funky with many filters active, especially the user filter!)</sub>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
                         </tbody>
                     </table>
                 </td>
@@ -279,7 +313,7 @@
                         <tr>
                             <td colspan="2">
                                 <p id="listActivity" style="margin: auto; padding-top: 15px; padding-bottom: 3px; font-size: 25px; font-weight: bold; text-align: center;">Lists</p>
-                                <sub>Lists are a new element of the CETools Game List which allow you to select games to put them in 'Lists' which can be easily shared via link!</sub><br>
+                                <sub>Lists are a sub-tool of the CETools Game List which allow you to select games to put them in 'Lists' which can be easily shared via link!</sub><br>
                                 <sub class="subtitle">(Hover over me to see all list info!)</sub>
                             </td>
                         </tr>
@@ -431,6 +465,7 @@
 
         <script src="../formattedList.js"></script>
         <script src="../formattedUserList.js"></script>
+        <script src="../formattedWishlistList.js"></script>
         <script src="../compressionValues.js"></script>
 
         <script>
@@ -442,6 +477,8 @@
             //Date and time (less important)
             document.getElementById("Date").innerHTML = "Last checked game database on: <b>" + date["day"] + "/" + date["month"] + "/" + date["year"] + "</b> at <b>" + date["hour"] + ":" + date["minute"] + ":" + date["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(date["searchTime"], 2) + "</b> seconds.";
             document.getElementById("userDate").innerHTML = "Last checked user database on: <b>" + userDate["day"] + "/" + userDate["month"] + "/" + userDate["year"] + "</b> at <b>" + userDate["hour"] + ":" + userDate["minute"] + ":" + userDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(userDate["searchTime"], 2) + "</b> seconds.";
+            document.getElementById("wishlistDate").innerHTML = "Last checked wishlist info on: <b>" + wishlistDate["day"] + "/" + wishlistDate["month"] + "/" + wishlistDate["year"] + "</b> at <b>" + wishlistDate["hour"] + ":" + wishlistDate["minute"] + ":" + wishlistDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(wishlistDate["searchTime"], 2) + "</b> seconds.";
+            document.getElementById("totalTime").innerHTML = "Total search time: <b>~" + Math.round((date["searchTime"] + userDate["searchTime"] + wishlistDate["searchTime"])/60) + " minutes</b>.";
 
             //Literally everything else (More Important)
             let lastOrder = "points";
@@ -461,6 +498,7 @@
             let ownerFilterType = 0;
             let usePercentage = false;
             let searchableUserId = "";
+            let wishlistUserId = "";
             let useReverseOrder = false;
             let useInverseFilters = false;
 
@@ -616,7 +654,54 @@
                     {
                         searchableUserId = "";
                         document.getElementById("userSearchResults").innerHTML = "Selected User: <b>None (User not found)</b>.";
+                        order(lastOrder);
                     }
+                }
+            }
+            
+            function wishlistSearch(value)
+            {
+                if(value == false)
+                {
+                    wishlistUserId = "";
+                    document.getElementById("wishlistSearchResults").innerHTML = "Selected User: <b>None</b>.";
+                    order(lastOrder);
+                }
+                else if(document.getElementById("wishlistIdTextbox").value != "")
+                {
+                    var check = document.getElementById("wishlistIdTextbox").value;
+                    
+                    if(check.length > 36)
+                    {
+                        var idStart = check.indexOf("cedb.me/user/");
+                        check = check.substring(idStart + 13, idStart + 12 + 37);
+                    }
+
+                    var str = "Selected User: ";
+
+                    str += "<b>" + userData[check]["name"] + "</b>";
+                    
+                    if(Object.keys(userData[check]).includes("userGroups"))
+                    {
+                        for(let k = 0; k < Object.keys(userData[check]["userGroups"]).length; k++)
+                        {
+                            str += " <b style='color: " + userData[check]["userGroups"][Object.keys(userData[check]["userGroups"])[k]]["color"] + "'>(" + Object.keys(userData[check]["userGroups"])[k] + ")</b>";
+                        }
+                    }
+                    
+                    str += ". <img height='16px' style='border: solid 1px black;' src='" + userData[check]["avatar"] + "'> ";
+                    document.getElementById("wishlistSearchResults").innerHTML = str;
+
+                    if(check in wishlistData)
+                    {
+                        wishlistUserId = check;
+                    }
+                    else
+                    {
+                        wishlistUserId = "";
+                        document.getElementById("wishlistSearchResults").innerHTML += "<br><sub style ='font-size:10px;'><b>(Wishlist isn't public, is empty, or has no CE games.)</b></sub>"
+                    }
+                    order(lastOrder);
                 }
             }
 
@@ -956,6 +1041,23 @@
                     {
                         filteredIds.push(userData[searchableUserId]["gamesNoPoints"][j]);
                     }
+                    for(let k = 0; k < filteredIds.length; k++)
+                    {
+                        preFilteredData.push(filteredData.filter(obj => {return filteredIds[k] == obj["CEId"]}));
+                    }
+                    filteredData = preFilteredData.flat(1);
+                }
+                
+                if(wishlistUserId != "")
+                {
+                    var filteredIds = [];
+                    var preFilteredData = [];
+
+                    for(let j = 0; j < wishlistData[wishlistUserId].length; j++)
+                    {
+                        filteredIds.push(wishlistData[wishlistUserId][j]);
+                    }
+
                     for(let k = 0; k < filteredIds.length; k++)
                     {
                         preFilteredData.push(filteredData.filter(obj => {return filteredIds[k] == obj["CEId"]}));
