@@ -134,7 +134,7 @@
                     <div style="margin: 10px auto 3px;">
                         <span class="button" style="width:125px; padding: 0px 10px; border:2px solid black;" onclick="window.location.href = 'filtercegames.html';" >Reset</span><br>
                     </div>
-                    <sub class="subtitle">(Necessary to remove any User Filter from the User List, or List from a link!)</sub>
+                    <sub class="subtitle">(Necessary to remove any User or Wishlist Filter from the User List, or List from a link!)</sub>
                 </td>
             </tr>
             <tr>
@@ -517,6 +517,12 @@
                 document.getElementById("idTextbox").value = window.location.href.substring(x + 11, x + 10 + 37);
                 userSearch(true);
             }
+            else if(window.location.href.includes("wishlistFilter="))
+            {
+                var x = window.location.href.indexOf("wishlistFilter=");
+                document.getElementById("wishlistIdTextbox").value = window.location.href.substring(x + 15, x + 14 + 37);
+                wishlistSearch(true);
+            }
             else if(window.location.href.includes("list="))
             {
                 activateLists();
@@ -645,8 +651,10 @@
                             }
                         }
                         
-                        str += ". <img height='16px' style='border: solid 1px black;' src='" + userData[check]["avatar"] + "'> ";
-                        str += "<span class='button' style='padding: 0px 10px; position:relative; left: 5px; bottom: 3.5px; border:2px solid black;'' onclick='order(\"userPoints\")'>Order By Gained Points</span>";
+                        str += ".&nbsp;<img height='16px' style='border: solid 1px black;' src='" + userData[check]["avatar"] + "'>";
+                        str += "<br>Stats: <b>" + userData[check]["points"] + " ★</b> - <b>" + userData[check]["skill"]["rating"] + "<sup>CR</sup></b>";
+                        if(Object.keys(userData[check]).includes("completions")) {str += " - <b>" + userData[check]["completions"]["count"] + "✔</b>"}
+                        str += "<p style='padding: 0px; margin: 5px'></p><span class='button' style='padding: 0px 10px; border:2px solid black;'' onclick='order(\"userPoints\")'>Order&nbsp;By&nbsp;Gained&nbsp;Points</span>";
                         document.getElementById("userSearchResults").innerHTML = str;
                         order(lastOrder);
                     }
