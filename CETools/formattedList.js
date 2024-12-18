@@ -68774,10 +68774,10 @@ var data =
         "name": "Warhammer 40,000: Darktide",
         "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/header.jpg?t=1729095811",
         "genre": "First-Person",
-        "tier": 1,
+        "tier": 3,
         "points": 45,
         "createdAt": "2024-10-29T04:12:01.000Z",
-        "updatedAt": "2024-12-18T05:27:56.000Z",
+        "updatedAt": "2024-12-18T07:05:30.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -68815,7 +68815,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Beacon of Purity [30\u2605]\nComplete Havoc 40\n\nAuric Exemplar [15\u2605]\nComplete \"The Bell Tolls for Thee\", \"Atoma's Elite Guard\" and \"Auric Storm Survivor\" Penances.",
+            "primaryText": "Beacon of Purity [30\u2605]\nComplete Havoc 40.\n\nAuric Exemplar [15\u2605]\nComplete \"The Bell Tolls for Thee\", \"Atoma's Elite Guard\" and \"Auric Storm Survivor\" Penances.",
             "community": 0,
             "communityText": "",
             "achievements": 36
@@ -77297,8 +77297,8 @@ var date =
     "day": 18,
     "month": 12,
     "year": 2024,
-    "hour": 7,
+    "hour": 8,
     "minute": 2,
-    "second": 29,
-    "searchTime": 611.0210831165314
+    "second": 22,
+    "searchTime": 594.4417905807495
 }
