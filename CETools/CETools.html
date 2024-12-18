@@ -168,14 +168,14 @@
 
                         str += "&nbsp;<img height='32px' style='position: relative; top: 3px; border: solid 1px black;' src='" + userData[check]["avatar"] + "'>";
                         
-                        //if(Object.keys(userData[check]).includes("userGroups"))
-                        //{
-                        //    str += "<br>";
-                        //    for(let k = 0; k < Object.keys(userData[check]["userGroups"]).length; k++)
-                        //    {
-                        //        str += "<b style='font-size: 16px; color: " + userData[check]["userGroups"][Object.keys(userData[check]//["userGroups"])[k]]["color"] + "'>(" + Object.keys(userData[check]["userGroups"])[k] + ") </b>";
-                        //    }
-                        //}
+                        if(Object.keys(userData[check]).includes("userGroups"))
+                        {
+                            str += "<br>";
+                            for(let k = 0; k < Object.keys(userData[check]["userGroups"]).length; k++)
+                            {
+                                str += "<b style='font-size: 16px; color: " + userData[check]["userGroups"][Object.keys(userData[check]["userGroups"])[k]]["color"] + "'>(" + Object.keys(userData[check]["userGroups"])[k] + ") </b>";
+                            }
+                        }
                         
                         cellName.innerHTML = str;
                         cellName.style.fontSize = "32px";
