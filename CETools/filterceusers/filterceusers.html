@@ -102,6 +102,7 @@
                 <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
             </svg></a> / <b>@icondor</b> on Discord.</p>
             <sub id="userDate">Last checked user database on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
+            <sub id="wishlistDate">Last checked wishlist info on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
             <sub style="font-size: 10px;">(If any data changed while the search was ongoing (Unlikely but not impossible) it may be slightly inaccurate.)</sub>
         </div>
         <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, document.body.scrollHeight);"><b>vvv Move to bottom vvv</b></span></div>
@@ -176,7 +177,7 @@
                 <td rowspan="2">CE Info</td>
                 <td rowspan="2">Steam Info</td>
                 <td rowspan="2">RA Info</td>
-                <td rowspan="2">'Filter By User' in Game List</td>
+                <td rowspan="2">'Filter By...' in Game List</td>
             </tr>
             <tr style="font-weight: bold;">
                 <td>LB</td>
@@ -208,7 +209,7 @@
                 <td rowspan="2">CE Info</td>
                 <td rowspan="2">Steam Info</td>
                 <td rowspan="2">RA Info</td>
-                <td rowspan="2">'Filter By User' in Game List</td>
+                <td rowspan="2">'Filter By...' in Game List</td>
             </tr>
             <tr style="font-weight: bold;">
                 <td colspan="2">Points</td>
@@ -235,6 +236,7 @@
 
         <script src="../formattedList.js"></script>
         <script src="../formattedUserList.js"></script>
+        <script src="../formattedWishlistList.js"></script>
 
         <script>
             //upscroll on reload
@@ -244,6 +246,8 @@
 
             //Date and time (less important)
             document.getElementById("userDate").innerHTML = "Last checked user database on: <b>" + userDate["day"] + "/" + userDate["month"] + "/" + userDate["year"] + "</b> at <b>" + userDate["hour"] + ":" + userDate["minute"] + ":" + userDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(userDate["searchTime"], 2) + "</b> seconds.";
+
+            document.getElementById("wishlistDate").innerHTML = "Last checked wishlist info on: <b>" + wishlistDate["day"] + "/" + wishlistDate["month"] + "/" + wishlistDate["year"] + "</b> at <b>" + wishlistDate["hour"] + ":" + wishlistDate["minute"] + ":" + wishlistDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(wishlistDate["searchTime"], 2) + "</b> seconds.";
 
             //Literally everything else (More Important)
             let lastOrder = "points";
@@ -463,13 +467,14 @@
                     var cellSteamID = row1.insertCell(11);
                     var cellRAID = row1.insertCell(12);
                     var cellFilter = row1.insertCell(13);
-                    cellFilter.rowSpan = 2;
+                    if(!(filteredData[i] in wishlistData)) {cellFilter.rowSpan = 2;}
 
                     var row2 = table.insertRow(((i+1)*2)+4);
                     row2.classList.add("replace");
                     var cellCELink = row2.insertCell(0);
                     var cellSteamLink = row2.insertCell(1);
                     var cellRALink = row2.insertCell(2);
+                    if(filteredData[i] in wishlistData) {var cellWishlist = row2.insertCell(3);}
 
                     cellPFP.innerHTML = "<a href='" + userData[filteredData[i]]["avatar"] + "' target='_blank'><img style='height:80px; float:left;' src='" + userData[filteredData[i]]["avatar"] + "'></a>";
                     cellPFP.style.padding = "0px";
@@ -654,6 +659,11 @@
                     p.id = null;
 
                     cellFilter.innerHTML = "<a style='color:#000000;' target='_blank' href='../filtercegames/filtercegames.html?userFilter=" + filteredData[i] + "'><b>View Games</b></a>";
+                    
+                    if(filteredData[i] in wishlistData)
+                    {
+                        cellWishlist.innerHTML = "<a style='color:#073e7a;' target='_blank' href='../filtercegames/filtercegames.html?wishlistFilter=" + filteredData[i] + "'><b>View Wishlist</b></a>";
+                    }
 
                     if(i%2 == 0)
                     {
