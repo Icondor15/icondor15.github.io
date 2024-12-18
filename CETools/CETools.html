@@ -12,6 +12,7 @@
         <style>
         * {
             font-family: 'Tahoma', Helvetica, sans-serif;
+            user-select:none;
         }
 
         table {
@@ -32,6 +33,18 @@
         .subtitle {
             font-size: 10px;
             color:#bbbbbb;
+        }
+
+        .button {
+            background-color: #dddddd;
+            padding: 0px;
+        }
+        .button:hover {
+            cursor:pointer;
+            background-color: #bbbbbb;
+        }
+        .button:active {
+            background-color: #888888;
         }
 
         #secretLink {
@@ -60,11 +73,11 @@
         <table id="MainTable" style="margin: auto; width: 50%; text-align: center; background-color:#ffffff;">
             <tr>
                 <td colspan="2">    
-                    <p id="Title" style="margin: auto; padding: 15px 15px 5px; font-size: 30px; font-weight: bold; text-align: center;">CETools</p>
+                    <p id="Title" style="margin: auto; padding: 10px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">CETools</p>
                     <sub>A website containing useful searching tools for the <a href="https://cedb.me/" target=”_blank” ><b>Challenge Enthusiasts <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
                         <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
                     </svg></b></a> website.</sub><br>
-                    <sub style="font-size: 10px; color:#bbbbbb">(All of these are updated manually! If you want me to push an update just message me on Discord! Be patient with me!)</sub>
+                    <sub style="font-size: 10px; color:#bbbbbb">(All of these are updated semi-automatically! If you want me to push an update just message me on Discord! Be patient with me!)</sub>
                 </td>
             </tr>
             <tr>
@@ -77,18 +90,18 @@
             </tr>
             <tr>
                 <td style="margin: auto; width: 50%; height:50px; font-size: 20px;">
-                    <a href="./filterceobjectives/filterceobjectives.html"><b>Objective List</b></a>
-                </td>
-                <td>
-                    A filterable list of objectives present in the CE leaderboards.
-                </td>
-            </tr>
-            <tr>
-                <td style="margin: auto; width: 50%; height:50px; font-size: 20px;">
                     <a href="./filterceusers/filterceusers.html"><b>User List</b></a>
                 </td>
                 <td>
                     A filterable list of users present in the CE leaderboards.
+                </td>
+            </tr>
+            <tr>
+                <td style="margin: auto; width: 50%; height:50px; font-size: 20px;">
+                    <a href="./filterceobjectives/filterceobjectives.html"><b>Objective List</b></a>
+                </td>
+                <td>
+                    A filterable list of objectives present in the CE leaderboards.
                 </td>
             </tr>
             <tr>
@@ -101,6 +114,334 @@
                 </td>
             </tr>
         </table>
+        <hr style="color:black; width: 66%;">
+        <table id="focusTable" style="margin: auto; width: 50%; text-align: center; background-color:#ffffff;">
+            <tr>
+                <td colspan="24">
+                    <p style="margin: auto; padding: 10px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">Focused User</p>
+                    <sub style="margin-top: 0px;">A sort of "Account" system to more easily and quickly view the stats of a user, as well as access their CE, Steam, and RA pages, and also their games and wishlisted games here on the CETools Game List!</sub><br>
+                    <sub class="subtitle">(When you load a user, they will be memorized until unloaded!)</sub>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="24" style="padding: 10px;">
+                    <b>User Id:</b>
+                    <input id="userIdTextbox" type="text" autocomplete="off" style="width:300px; font-size:14px;">
+                    <span class="button" style="border: 2px solid; padding: 1px 10px;" onclick="setUser()">Load User</span>
+                    <span class="button" style="border: 2px solid; padding: 1px 10px;" onclick="resetUser()">Unload</span>
+                </td>
+            </tr>
+        </table>
         <p style="font-size:7px; text-align:center; "><a id="secretLink" target="_blank" href="https://github.com/Icondor15/icondor15.github.io">Secret link to Github page!</a></p>
+
+        <script src="../formattedUserList.js"></script>
+        <script src="../formattedWishlistList.js"></script>
+
+        <script>
+            let exPlusList = ["992f86df-6327-47f7-ba0c-0212126c0aaf"];
+
+            if(getCookie("userId"))
+            {
+                document.getElementById("userIdTextbox").value = getCookie("userId");
+                setUser();
+            }
+
+            function setUser()
+            {
+                document.querySelectorAll('.replace').forEach(e => e.remove());
+                
+                check = document.getElementById("userIdTextbox").value;
+
+                if(check)
+                {
+                    var table = document.getElementById("focusTable");
+                    var row1 = table.insertRow(2);
+                    row1.classList.add("replace");
+                    var cellName = row1.insertCell(0);
+                    cellName.colSpan = 24;
+
+                    if(check in userData)
+                    {
+                        setCookie("userId", check, 90);
+
+                        var str = "<b>" + userData[check]["name"] + "</b>";
+
+                        str += "&nbsp;<img height='32px' style='position: relative; top: 3px; border: solid 1px black;' src='" + userData[check]["avatar"] + "'>";
+                        
+                        //if(Object.keys(userData[check]).includes("userGroups"))
+                        //{
+                        //    str += "<br>";
+                        //    for(let k = 0; k < Object.keys(userData[check]["userGroups"]).length; k++)
+                        //    {
+                        //        str += "<b style='font-size: 16px; color: " + userData[check]["userGroups"][Object.keys(userData[check]//["userGroups"])[k]]["color"] + "'>(" + Object.keys(userData[check]["userGroups"])[k] + ") </b>";
+                        //    }
+                        //}
+                        
+                        cellName.innerHTML = str;
+                        cellName.style.fontSize = "32px";
+
+                        var row2 = table.insertRow(3);
+                        row2.classList.add("replace");
+                        var cellCELink = row2.insertCell(0);
+                        cellCELink.colSpan = 8;
+                        cellCELink.style.width = "33%";
+                        var cellSteamLink = row2.insertCell(1);
+                        cellSteamLink.colSpan = 8;
+                        cellSteamLink.style.width = "33%";
+                        var cellRALink = row2.insertCell(2);
+                        cellRALink.colSpan = 8;
+                        cellRALink.style.width = "33%";
+
+                        cellCELink.innerHTML = "<a id='tmpCELink' target='_blank' style='font-weight: bold; color:#FFFFFF;'>Challenge Enthusiasts</a>";
+                        cellCELink.style.backgroundColor = "#444444";
+                        var a = document.getElementById("tmpCELink");
+                        a.href = "https://cedb.me/user/" + check;
+                        a.id = null;
+
+                        cellSteamLink.innerHTML = "<a id='tmpSteamLink' target='_blank' style='font-weight: bold; color:FFFFFF'>Steam</a>";
+                        cellSteamLink.style.backgroundColor = "#1D88C7";
+                        var a = document.getElementById("tmpSteamLink");
+                        a.href = "https://steamcommunity.com/profiles/" + userData[check]["steamId"];
+                        a.id = null;
+
+                        
+                        if(userData[check]["retroId"] != "N/A")
+                        {
+                            cellRALink.innerHTML = "<a id='tmpRALink' target='_blank' style='color: #FFFFFF'><b style='color:#0F66DB'>Retro</b><b style='color:#eDB507'>Achievements</b></a>";
+                            cellRALink.style.backgroundColor = "#666666";
+                            var a = document.getElementById("tmpRALink");
+                            a.href = "https://retroachievements.org/user/" + userData[check]["retroId"];
+                            a.id = null;
+                        }
+                        else {
+                            cellRALink.innerHTML = "<b style='text-decoration:line-through;'>Retro Achievements</b>";
+                            cellRALink.style.backgroundColor = "#00000044";
+                        }
+
+                        var row3 = table.insertRow(4);
+                        row3.classList.add("replace");
+                        var cellRankInfo = row3.insertCell(0);
+                        cellRankInfo.rowSpan = 2;
+                        cellRankInfo.colSpan = 3;
+                        cellRankInfo.width = "12.5%";
+                        cellRankInfo.innerHTML = "<b>Rank</b>";
+                        var cellPointsInfo = row3.insertCell(1);
+                        cellPointsInfo.colSpan = 6;
+                        cellPointsInfo.width = "25%";
+                        cellPointsInfo.innerHTML = "<b>Points</b>";
+                        var cellRatingInfo = row3.insertCell(2);
+                        cellRatingInfo.colSpan = 6;
+                        cellRatingInfo.width = "25%";
+                        cellRatingInfo.innerHTML = "<b>CE Rating</b>";
+                        var cellCompletionsInfo = row3.insertCell(3);
+                        cellCompletionsInfo.colSpan = 6;
+                        cellCompletionsInfo.width = "25%";
+                        cellCompletionsInfo.innerHTML = "<b>Completions</b>";
+                        var cellOwnedInfo = row3.insertCell(4);
+                        cellOwnedInfo.rowSpan = 2;
+                        cellOwnedInfo.colSpan = 3;
+                        cellOwnedInfo.width = "12.5%";
+                        cellOwnedInfo.innerHTML = "<b>Games Owned</b>";
+
+                        var row4 = table.insertRow(5);
+                        row4.classList.add("replace");
+                        var cellPointsLBInfo = row4.insertCell(0);
+                        cellPointsLBInfo.colSpan = 3;
+                        cellPointsLBInfo.style.width = "12.5%";
+                        cellPointsLBInfo.innerHTML = "<b>LB</b>";
+                        var cellPointsScoreInfo = row4.insertCell(1);
+                        cellPointsScoreInfo.colSpan = 3;
+                        cellPointsScoreInfo.style.width = "12.5%";
+                        cellPointsScoreInfo.innerHTML = "<b>Score</b>";
+                        var cellRatingLBInfo = row4.insertCell(2);
+                        cellRatingLBInfo.colSpan = 3;
+                        cellRatingLBInfo.style.width = "12.5%";
+                        cellRatingLBInfo.innerHTML = "<b>LB</b>";
+                        var cellRatingScoreInfo = row4.insertCell(3);
+                        cellRatingScoreInfo.colSpan = 3;
+                        cellRatingScoreInfo.style.width = "12.5%";
+                        cellRatingScoreInfo.innerHTML = "<b>Score</b>";
+                        var cellCompletionsLBInfo = row4.insertCell(4);
+                        cellCompletionsLBInfo.colSpan = 3;
+                        cellCompletionsLBInfo.style.width = "12.5%";
+                        cellCompletionsLBInfo.innerHTML = "<b>LB</b>";
+                        var cellCompletionsScoreInfo = row4.insertCell(5);
+                        cellCompletionsScoreInfo.colSpan = 3;
+                        cellCompletionsScoreInfo.style.width = "12.5%";
+                        cellCompletionsScoreInfo.innerHTML = "<b>Score</b>";
+
+                        var row5 = table.insertRow(6);
+                        row5.classList.add("replace");
+                        var cellRank = row5.insertCell(0);
+                        cellRank.colSpan = 3;
+                        var cellPointsLB = row5.insertCell(1);
+                        cellPointsLB.colSpan = 3;
+                        var cellPoints = row5.insertCell(2);
+                        cellPoints.colSpan = 3;
+                        var cellSkillLB = row5.insertCell(3);
+                        cellSkillLB.colSpan = 3;
+                        var cellSkill = row5.insertCell(4);
+                        cellSkill.colSpan = 3;
+                        var cellCompletionsLB = row5.insertCell(5);
+                        cellCompletionsLB.colSpan = 3;
+                        var cellCompletions = row5.insertCell(6);
+                        cellCompletions.colSpan = 3;
+                        var cellGames = row5.insertCell(7);
+                        cellGames.colSpan = 3;
+
+                        cellRank.innerHTML = "E";
+                        cellRank.style.backgroundColor = "#979C9Fcc";
+                        if(userData[check]["points"] >= 50)
+                        {
+                            cellRank.innerHTML = "D";
+                            cellRank.style.backgroundColor = "#905F00cc";
+                        }
+                        if(userData[check]["points"] >= 250)
+                        {
+                            cellRank.innerHTML = "C";
+                            cellRank.style.backgroundColor = "#2ecc71cc";
+                        }
+                        if(userData[check]["points"] >= 500)
+                        {
+                            cellRank.innerHTML = "B";
+                            cellRank.style.backgroundColor = "#3498dbcc";
+                            cellRank.style.color = "#FFFFFF";
+                        }
+                        if(userData[check]["points"] >= 1000)
+                        {
+                            cellRank.innerHTML = "A";
+                            cellRank.style.backgroundColor = "#9b59b6cc";
+                        }
+                        if(userData[check]["points"] >= 2500)
+                        {
+                            cellRank.innerHTML = "<b>S</b>";
+                            cellRank.style.backgroundColor = "#e67e22cc";
+                            cellRank.style.color = "#000000";
+                        }
+                        if(userData[check]["points"] >= 5000)
+                        {
+                            cellRank.innerHTML = "<b>SS</b>";
+                            cellRank.style.backgroundColor = "#f1c40fcc";
+                        }
+                        if(userData[check]["points"] >= 7500)
+                        {
+                            cellRank.innerHTML = "<b>SSS</b>";
+                            cellRank.style.backgroundColor = "#e74c3ccc";
+                            cellRank.style.color = "#FFFFFF";
+                        }
+                        if(userData[check]["points"] >= 10000)
+                        {
+                            cellRank.innerHTML = "<b>EX</b>";
+                            cellRank.style.backgroundColor = "#444444cc";
+                        }
+                        if(exPlusList.includes(check))
+                        {
+                            cellRank.innerHTML = "<b>EX+</b>";
+                            cellRank.style.backgroundColor = "#FFFFFFcc";
+                            cellRank.style.color = "#000000";
+                        }
+
+                        keys = Object.keys(userData)
+                        cellPointsLB.innerHTML = "#" + (keys.indexOf(check) + 1);
+                        if((keys.indexOf(check) + 1) <= 10) {cellPointsLB.style.fontWeight = "bold";}
+                        if((keys.indexOf(check) + 1) <= 3) {cellPointsLB.style.textDecoration = "underline";}
+                        if((keys.indexOf(check) + 1) == 1) {cellPointsLB.innerHTML += "!";}
+                        cellPointsLB.style.backgroundColor = "#FF000066";
+                        cellPoints.innerHTML = userData[check]["points"] + "★";
+                        cellPoints.style.backgroundColor = "#FF000066";
+
+                        cellSkillLB.innerHTML = "#" + userData[check]["skill"]["rank"];
+                        if(userData[check]["skill"]["rank"] <= 10) {cellSkillLB.style.fontWeight = "bold";}
+                        if(userData[check]["skill"]["rank"] <= 3) {cellSkillLB.style.textDecoration = "underline";}
+                        if(userData[check]["skill"]["rank"] == 1) {cellSkillLB.innerHTML += "!";}
+                        cellSkillLB.style.backgroundColor = "#00FF0055";
+                        cellSkill.innerHTML = userData[check]["skill"]["rating"] + "<sup><b>CR</b></sup>";
+                        cellSkill.style.backgroundColor = "#00FF0055";
+
+                        if("completions" in userData[check])
+                        {
+                            cellCompletionsLB.innerHTML = "#" + userData[check]["completions"]["rank"];
+                            if(userData[check]["completions"]["rank"] <= 10) {cellCompletionsLB.style.fontWeight = "bold";}
+                            if(userData[check]["completions"]["rank"] <= 3) {cellCompletionsLB.style.textDecoration = "underline";}
+                            if(userData[check]["completions"]["rank"] == 1) {cellCompletionsLB.innerHTML += "!";}
+                            cellCompletions.innerHTML = userData[check]["completions"]["count"] + "✔";
+                        }
+                        else
+                        {
+                            cellCompletionsLB.innerHTML = "#N/A";
+                            cellCompletions.innerHTML = "0🗸";
+                        }
+                        cellCompletionsLB.style.backgroundColor = "#0000FF44";
+                        cellCompletions.style.backgroundColor = "#0000FF44";
+                        
+                        var searchIds = Object.keys(userData[check]["gamesPoints"]);
+                        var gamesOwned = searchIds.length + userData[check]["gamesNoPoints"].length;
+                        cellGames.innerHTML = "<b>" + gamesOwned + "</b>";
+                        cellGames.style.backgroundColor = "#dddddd";
+
+                        var row6 = table.insertRow(7);
+                        row6.classList.add("replace");
+                        var cellFilter = row6.insertCell(0);
+                        cellFilter.colSpan = 12;
+                        cellFilter.style.width = "50%";
+                        var cellWishlist = row6.insertCell(1);
+                        cellWishlist.colSpan = 12;
+                        cellWishlist.style.width = "50%";
+                        
+                        cellFilter.innerHTML = "<a style='color:#000000;' target='_blank' href='../filtercegames/filtercegames.html?userFilter=" + check + "'><b>View Games</b></a>";
+
+                        if(check in wishlistData)
+                        {
+                            cellWishlist.innerHTML = "<a style='color:#073e7a;' target='_blank' href='../filtercegames/filtercegames.html?wishlistFilter=" + check + "'><b>View Wishlist</b></a>";
+                        }
+                        else
+                        {
+                            cellWishlist.innerHTML = "<b style='text-decoration:line-through;'>View Wishlist</b>";
+                            cellWishlist.style.backgroundColor = "#00000044";
+                        }
+                    }
+                    else
+                    {
+                        setCookie("userId", "", -1);
+                        cellName.innerHTML = "<b>User Id not found.</b>";
+                    }
+                }
+            }
+
+            function resetUser()
+            {
+                document.querySelectorAll('.replace').forEach(e => e.remove());
+                document.getElementById("userIdTextbox").value = "";
+                setCookie("userId", "", -1);
+            }
+
+            function setCookie(cname, cvalue, exdays)
+            {
+                const d = new Date();
+                d.setTime(d.getTime() + (exdays*24*60*60*1000));
+                let expires = "expires="+ d.toUTCString();
+                document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+            }
+
+            function getCookie(cname)
+            {
+                let name = cname + "=";
+                let decodedCookie = decodeURIComponent(document.cookie);
+                let ca = decodedCookie.split(';');
+                for(let i = 0; i <ca.length; i++)
+                {
+                    let c = ca[i];
+                    while (c.charAt(0) == ' ')
+                    {
+                        c = c.substring(1);
+                    }
+                    if (c.indexOf(name) == 0)
+                    {
+                        return c.substring(name.length, c.length);
+                    }
+                }
+                return "";
+            }
+        </script>
     </body>
 </html>
