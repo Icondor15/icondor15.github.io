@@ -3687,7 +3687,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
-        "playersTotal": 117,
+        "playersTotal": 118,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -4758,6 +4758,60 @@ var data =
     },
     {
         "gameType": 0,
+        "platformId": 1760640,
+        "CEId": "0e874fe7-8e60-49d3-83ba-c284dfa5268d",
+        "name": "Awakened Evil",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1760640/header.jpg?t=1710871109",
+        "genre": "Action",
+        "tier": 2,
+        "points": 30,
+        "createdAt": "2024-12-21T08:39:36.000Z",
+        "updatedAt": "2024-12-21T08:42:20.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 0,
+        "priceData": {
+            "USD": {
+                "initial": 799,
+                "final": 799,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 779,
+                "final": 779,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 669,
+                "final": 669,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 92000,
+                "final": 92000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1179,
+                "final": 1179,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1049,
+                "final": 1049,
+                "discountPercent": 0
+            }
+        },
+        "milestones": {
+            "primary": 2,
+            "primaryText": "Should've Stayed Asleep [20\u2605]\nBeat the game on Expert without getting a Game Over\n\nPower Nap [10\u2605]\nBeat the game in speedrun mode in under 35 minutes.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 24
+        }
+    },
+    {
+        "gameType": 0,
         "platformId": 332200,
         "CEId": "0cb578fd-154a-4f50-887c-fe7343d637eb",
         "name": "Axiom Verge",
@@ -5526,7 +5580,7 @@ var data =
         "updatedAt": "2024-12-21T04:59:24.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 1,
+        "playersTotal": 2,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -5741,8 +5795,8 @@ var data =
         "createdAt": "2023-11-26T21:21:39.000Z",
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 1,
-        "playersStarted": 14,
-        "playersTotal": 260,
+        "playersStarted": 15,
+        "playersTotal": 261,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -11430,7 +11484,7 @@ var data =
         "updatedAt": "2024-11-03T19:59:17.000Z",
         "playersCompleted": 3,
         "playersStarted": 2,
-        "playersTotal": 28,
+        "playersTotal": 29,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -21992,6 +22046,60 @@ var data =
     },
     {
         "gameType": 0,
+        "platformId": 2706170,
+        "CEId": "91419d6e-9a44-4990-8b5e-30abdc71c90b",
+        "name": "Get To Work",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706170/header.jpg?t=1733163554",
+        "genre": "Arcade",
+        "tier": 1,
+        "points": 15,
+        "createdAt": "2024-12-21T08:34:03.000Z",
+        "updatedAt": "2024-12-21T09:04:41.000Z",
+        "playersCompleted": 1,
+        "playersStarted": 0,
+        "playersTotal": 1,
+        "priceData": {
+            "USD": {
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1279,
+                "final": 1279,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1099,
+                "final": 1099,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 150000,
+                "final": 150000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1895,
+                "final": 1895,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1699,
+                "final": 1699,
+                "discountPercent": 0
+            }
+        },
+        "milestones": {
+            "primary": 1,
+            "primaryText": "Workaholic [15\u2605]\nSuccessfully participate in society.",
+            "community": 1,
+            "communityText": "Early Commute\nBeat the final time of the speedrun competition (11:28).",
+            "achievements": 16
+        }
+    },
+    {
+        "gameType": 0,
         "platformId": 1269590,
         "CEId": "fbc64727-02af-4607-8f29-c50d93d8723b",
         "name": "Get-A-Grip Chip",
@@ -22488,7 +22596,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-17T22:48:25.000Z",
-        "updatedAt": "2024-09-28T16:51:24.000Z",
+        "updatedAt": "2024-12-21T08:33:34.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 130,
@@ -22527,8 +22635,8 @@ var data =
         "milestones": {
             "primary": 1,
             "primaryText": "Powlverizer [10\u2605]\nBeat the game on \"Uber Hardcore\" difficulty.",
-            "community": 0,
-            "communityText": "",
+            "community": 1,
+            "communityText": "YOwlLO\nBeat the game and all 3 bonus levels on \"Uber Hardcore\" difficulty.",
             "achievements": 17
         }
     },
@@ -58418,7 +58526,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 102,
+        "playersTotal": 103,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -61922,7 +62030,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:11:37.000Z",
-        "updatedAt": "2024-09-28T16:51:24.000Z",
+        "updatedAt": "2024-12-21T08:53:57.000Z",
         "playersCompleted": 93,
         "playersStarted": 0,
         "playersTotal": 385,
@@ -74131,6 +74239,28 @@ var data =
     },
     {
         "gameType": 1,
+        "platformId": 643270,
+        "CEId": "2ace7fe2-a941-4b50-a0f7-ed56a6f0f6d6",
+        "name": "OLDTV",
+        "header": "",
+        "genre": "Arcade",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2024-12-21T08:37:01.000Z",
+        "updatedAt": "2024-12-21T09:56:43.000Z",
+        "playersCompleted": 1,
+        "playersStarted": 0,
+        "playersTotal": 2,
+        "milestones": {
+            "primary": 1,
+            "primaryText": "Can We Get Cable? [5\u2605]\nComplete all continents with high frequencies.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 48
+        }
+    },
+    {
+        "gameType": 1,
         "platformId": 745560,
         "CEId": "54221c72-e85f-4d22-9110-0a7951157999",
         "name": "Overclocked",
@@ -77375,8 +77505,8 @@ var date =
     "day": 21,
     "month": 12,
     "year": 2024,
-    "hour": 9,
+    "hour": 11,
     "minute": 4,
-    "second": 59,
-    "searchTime": 601.1077387332916
+    "second": 16,
+    "searchTime": 602.1685111522675
 }
