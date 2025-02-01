@@ -2875,7 +2875,7 @@ var data =
         "updatedAt": "2024-09-28T16:51:24.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
-        "playersTotal": 129,
+        "playersTotal": 130,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -62193,7 +62193,7 @@ var data =
         "points": 30,
         "createdAt": "2023-04-12T21:23:46.000Z",
         "updatedAt": "2024-09-28T16:51:24.000Z",
-        "playersCompleted": 113,
+        "playersCompleted": 114,
         "playersStarted": 33,
         "playersTotal": 634,
         "priceData": {
@@ -78896,7 +78896,7 @@ var date =
     "month": 2,
     "year": 2025,
     "hour": 9,
-    "minute": 2,
-    "second": 34,
-    "searchTime": 598.1628429889679
+    "minute": 47,
+    "second": 45,
+    "searchTime": 599.9771831035614
 }
