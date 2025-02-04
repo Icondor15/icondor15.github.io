@@ -185,12 +185,15 @@
                         var cellCELink = row2.insertCell(0);
                         cellCELink.colSpan = 8;
                         cellCELink.style.width = "33%";
+                        cellCELink.style.margin = "auto";
                         var cellSteamLink = row2.insertCell(1);
                         cellSteamLink.colSpan = 8;
                         cellSteamLink.style.width = "33%";
+                        cellSteamLink.style.margin = "auto";
                         var cellRALink = row2.insertCell(2);
                         cellRALink.colSpan = 8;
                         cellRALink.style.width = "33%";
+                        cellRALink.style.margin = "auto";
 
                         cellCELink.innerHTML = "<a id='tmpCELink' target='_blank' style='font-weight: bold; color:#FFFFFF;'>Challenge Enthusiasts</a>";
                         cellCELink.style.backgroundColor = "#444444";
@@ -388,11 +391,11 @@
                         cellWishlist.colSpan = 12;
                         cellWishlist.style.width = "50%";
                         
-                        cellFilter.innerHTML = "<a style='color:#000000;' target='_blank' href='./filtercegames/filtercegames.html?userFilter=" + check + "'><b>View Games</b></a>";
+                        cellFilter.innerHTML = "<a style='color:#000000;' href='./filtercegames/filtercegames.html?userFilter=" + check + "'><b>View Games</b></a>";
 
                         if(check in wishlistData)
                         {
-                            cellWishlist.innerHTML = "<a style='color:#073e7a;' target='_blank' href='./filtercegames/filtercegames.html?wishlistFilter=" + check + "'><b>View Wishlist</b></a>";
+                            cellWishlist.innerHTML = "<a style='color:#073e7a;' href='./filtercegames/filtercegames.html?wishlistFilter=" + check + "'><b>View Wishlist</b></a>";
                         }
                         else
                         {
