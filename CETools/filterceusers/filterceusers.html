@@ -109,7 +109,8 @@
         <table id="MainTable" style="margin: auto; width: 100%; text-align: center; background-color:#ffffff;">
             <tr>
                 <td colspan="14">    
-                    <p id="Count" style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Users: Loading...</p>
+                    <p id="Count" style="margin: auto; padding: 15px 15px 5px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Users: Loading...</p>
+                    <p id="CountPoints" style="margin: auto; padding: 0px 15px 15px; font-size: 22px; font-weight: bold; text-align: center;">Total Points of Filtered: Loading...</p>
                     <p id="loadingText" style="margin: -10px auto auto; font-size: 16px; font-weight: bold; text-align: center;">Loading Table...</p>
                     <sub style="margin-top: -10px;" class="subtitle">(Only shows leaderboard members and some manually added Excluded members!)</sub><br>
                     <sub style="margin-top: -10px;" class="subtitle">(Excluded members have placeholder stats so they may get ordered weird! Without clicking any ordering button they should appear at the bottom of the list!)</sub><br>
@@ -261,6 +262,8 @@
             let linkReplaceId = false;
             let useReverseOrder = false;
             let useStaffOnly = false;
+
+            let totalPoints = 0;
 
             let reloadMax = 0;
             let reloadCounter = 0;
@@ -420,6 +423,7 @@
 
                 if(reloadCounter == 0)
                 {
+                    totalPoints = 0;
                     var replace = document.getElementsByClassName("replace");
                     document.querySelectorAll('.replace').forEach(e => e.remove());
                 }
@@ -487,7 +491,13 @@
                         {
                             p.innerHTML += " <b style='color: " + userData[filteredData[i]]["userGroups"][Object.keys(userData[filteredData[i]]["userGroups"])[k]]["color"] + "'>(" + Object.keys(userData[filteredData[i]]["userGroups"])[k] + ")</b>";
                         }
+                        if(!Object.keys(userData[filteredData[i]]["userGroups"]).includes("Excluded"))
+                        {
+                            totalPoints += userData[filteredData[i]]["points"];
+                        }
                     }
+                    else {totalPoints += userData[filteredData[i]]["points"];}
+                    
                     p.setAttribute("onClick", "navigator.clipboard.writeText('" + userData[filteredData[i]]["name"] + "')");
                     p.classList.add('textCopyable');
                     p.title = "Click to copy the name to clipboard!";
@@ -675,8 +685,10 @@
                         row1.style.backgroundColor = "#c3c3c3";
                         row2.style.backgroundColor = "#c3c3c3";
                     }
+                    console.log(userData[filteredData[i]]["name"] + " - " + totalPoints)
                 }
 
+                document.getElementById("CountPoints").innerHTML = "Total Points of Filtered: " + totalPoints;
                 reloadCounter += 1;
             }
             
