@@ -350,7 +350,10 @@
                 </td>
             </tr>
             <tr>
-                <td rowspan="2" class="button" onclick="order('gameType')">Order By Platform</td>
+                <td style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div class="button" style="width:49.3%; float:left;" onclick="order('reviewRating')">Rating (%)</div>
+                    <div class="button" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('reviewTotal')">Total</div>
+                </td>
                 <td rowspan="2" class="button" onclick="order('name')">Order By Name</td>
                 <td rowspan="2" class="button" onclick="order('genre')">Order By Genre</td>
                 <td rowspan="2" class="button" colspan="2" onclick="order('points')">Order By Points</td>
@@ -368,6 +371,10 @@
                 <td rowspan="2" class="button" onclick="order('platformId')">Order By Id</td>
             </tr>
             <tr>
+                <td style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div class="button" style="width:49.3%; float:left;" onclick="order('reviewPositive')">Positive</div>
+                    <div class="button" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('reviewNegative')">Negative</div>
+                </td>
                 <td class="button" colspan="2" onclick="order('achievements')">Achievements</td>
                 <td colspan="2" style="padding:0%; background-color: #dddddd;">
                     <div class="button" style="width:69.3%; float:left;" onclick="order('playersStarted')">Unfinished</div>
@@ -377,7 +384,7 @@
                 <td class="button" onclick="order('updatedAt')">Order By Date Updated</td>
             </tr>
             <tr style="font-weight: bold; user-select: none;">
-                <td>Platform</td>
+                <td>Platform / Reviews</td>
                 <td>
                     Name<br>
                     <sub class="subtitle">(Click to copy the name!)</sub><br>
@@ -407,7 +414,7 @@
                 </td>
             </tr>
             <tr style="font-weight: bold; user-select: none;">
-                <td>Platform</td>
+                <td>Platform / Reviews</td>
                 <td>
                     Name<br>
                     <sub class="subtitle">(Click to copy the name!)</sub><br>
@@ -432,7 +439,10 @@
                 </td>
             </tr>
             <tr>
-                <td rowspan="2" class="button" onclick="order('gameType')">Order By Platform</td>
+                <td style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div class="button" style="width:49.3%; float:left;" onclick="order('reviewPositive')">Positive</div>
+                    <div class="button" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('reviewNegative')">Negative</div>
+                </td>
                 <td rowspan="2" class="button" onclick="order('name')">Order By Name</td>
                 <td rowspan="2" class="button" onclick="order('genre')">Order By Genre</td>
                 <td rowspan="2" class="button" colspan="2" onclick="order('points')">Order By Points</td>
@@ -450,6 +460,10 @@
                 <td rowspan="2" class="button" onclick="order('platformId')">Order By Id</td>
             </tr>
             <tr>
+                <td style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div class="button" style="width:49.3%; float:left;" onclick="order('reviewRating')">Rating (%)</div>
+                    <div class="button" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('reviewTotal')">Total</div>
+                </td>
                 <td class="button" colspan="2" onclick="order('achievements')">Achievements</td>
                 <td colspan="2" style="padding:0%; background-color: #dddddd;">
                     <div class="button" style="width:69.3%; float:left;" onclick="order('playersStarted')">Unfinished</div>
@@ -1596,6 +1610,48 @@
                         filteredData.sort((a,b) => (a["points"] > b["points"]) ? 1 : ((b["points"] > a["points"]) ? -1 : 0));
                         filteredData.sort((a,b) => (a["milestones"][type] > b["milestones"][type]) ? 1 : ((b["milestones"][type] > a["milestones"][type]) ? -1 : 0));
                     }
+                    else if(type == "reviewRating")
+                    {
+                        order("reviewTotal");
+                        var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
+                        steamGames.reverse();
+                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+                        
+                        steamGames.sort((a,b) => (a["reviews"]["positive"]/a["reviews"]["total"] > b["reviews"]["positive"]/b["reviews"]["total"]) ? 1 : ((b["reviews"]["positive"]/b["reviews"]["total"] > a["reviews"]["positive"]/a["reviews"]["total"]) ? -1 : 0));
+
+                        steamGames.reverse();
+                        filteredData = steamGames.concat(RAGames);
+                    }
+                    else if(type == "reviewTotal")
+                    {
+                        var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
+                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+                        
+                        steamGames.sort((a,b) => (a["reviews"]["total"] > b["reviews"]["total"]) ? 1 : ((b["reviews"]["total"] > a["reviews"]["total"]) ? -1 : 0));
+
+                        steamGames.reverse();
+                        filteredData = steamGames.concat(RAGames);
+                    }
+                    else if(type == "reviewPositive")
+                    {
+                        var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
+                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+                        
+                        steamGames.sort((a,b) => (a["reviews"]["positive"] > b["reviews"]["positive"]) ? 1 : ((b["reviews"]["positive"] > a["reviews"]["positive"]) ? -1 : 0));
+
+                        steamGames.reverse();
+                        filteredData = steamGames.concat(RAGames);
+                    }
+                    else if(type == "reviewNegative")
+                    {
+                        var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
+                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+                        
+                        steamGames.sort((a,b) => (a["reviews"]["negative"] > b["reviews"]["negative"]) ? 1 : ((b["reviews"]["negative"] > a["reviews"]["negative"]) ? -1 : 0));
+
+                        steamGames.reverse();
+                        filteredData = steamGames.concat(RAGames);
+                    }
                     else
                     {
                         filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
@@ -1640,7 +1696,7 @@
                     catch {break;}
                     row1.classList.add("replace");
                     var cellPlatform = row1.insertCell(0);
-                    cellPlatform.rowSpan = 2;
+                    if(filteredData[i]["gameType"] == 3) {cellPlatform.rowSpan = 2;}
                     var cellName = row1.insertCell(1);
                     cellName.rowSpan = 2;
                     var cellGenre = row1.insertCell(2);
@@ -1680,39 +1736,78 @@
 
                     var row2 = table.insertRow(((i+1)*2)+5);
                     row2.classList.add("replace");
-                    if(filteredData[i]["points"] < 500)
+                    if(filteredData[i]["gameType"] != 3)
                     {
-                        var cellCommunity = row2.insertCell(0);
-                        var cellPartialCompletion = row2.insertCell(1);
-                        var cellPartialPercentage = row2.insertCell(2);
-                        var cellUpdatedOn = row2.insertCell(3);
-                        var cellLinkCE = row2.insertCell(4);
-                    }
-                    else
-                    {
-                        var cellTierExtra = row2.insertCell(0)
-                        cellTierExtra.innerHTML = "T6";
-                        cellTierExtra.style.fontWeight = "bold";
-                        if(filteredData[i]["points"] >= 1000)
+                        if(filteredData[i]["points"] < 500)
                         {
-                            cellTierExtra.innerHTML = "T7";
-                            cellTierExtra.style.backgroundColor = "#D6D6D6";
-                            cellTierExtra.style.color = "#787878";
+                            var cellReviews = row2.insertCell(0);
+                            var cellCommunity = row2.insertCell(1);
+                            var cellPartialCompletion = row2.insertCell(2);
+                            var cellPartialPercentage = row2.insertCell(3);
+                            var cellUpdatedOn = row2.insertCell(4);
+                            var cellLinkCE = row2.insertCell(5);
                         }
                         else
                         {
-                            cellTierExtra.style.backgroundImage = "url('T6 gradient.png')";
-                            cellTierExtra.style.backgroundSize = "100% 100%";
-                            cellTierExtra.style.color = "#00000077";
+                            var cellReviews = row2.insertCell(0);
+                            var cellTierExtra = row2.insertCell(1);
+                            cellTierExtra.innerHTML = "T6";
+                            cellTierExtra.style.fontWeight = "bold";
+                            if(filteredData[i]["points"] >= 1000)
+                            {
+                                cellTierExtra.innerHTML = "T7";
+                                cellTierExtra.style.backgroundColor = "#D6D6D6";
+                                cellTierExtra.style.color = "#787878";
+                            }
+                            else
+                            {
+                                cellTierExtra.style.backgroundImage = "url('T6 gradient.png')";
+                                cellTierExtra.style.backgroundSize = "100% 100%";
+                                cellTierExtra.style.color = "#00000077";
+                            }
+                            var cellCommunity = row2.insertCell(2);
+                            var cellPartialCompletion = row2.insertCell(3);
+                            var cellPartialPercentage = row2.insertCell(4);
+                            var cellUpdatedOn = row2.insertCell(5);
+                            var cellLinkCE = row2.insertCell(6);
                         }
-                        var cellCommunity = row2.insertCell(1);
-                        var cellPartialCompletion = row2.insertCell(2);
-                        var cellPartialPercentage = row2.insertCell(3);
-                        var cellUpdatedOn = row2.insertCell(4);
-                        var cellLinkCE = row2.insertCell(5);
+                    }
+                    else
+                    {
+                        if(filteredData[i]["points"] < 500)
+                        {
+                            var cellCommunity = row2.insertCell(0);
+                            var cellPartialCompletion = row2.insertCell(1);
+                            var cellPartialPercentage = row2.insertCell(2);
+                            var cellUpdatedOn = row2.insertCell(3);
+                            var cellLinkCE = row2.insertCell(4);
+                        }
+                        else
+                        {
+                            var cellTierExtra = row2.insertCell(0);
+                            cellTierExtra.innerHTML = "T6";
+                            cellTierExtra.style.fontWeight = "bold";
+                            if(filteredData[i]["points"] >= 1000)
+                            {
+                                cellTierExtra.innerHTML = "T7";
+                                cellTierExtra.style.backgroundColor = "#D6D6D6";
+                                cellTierExtra.style.color = "#787878";
+                            }
+                            else
+                            {
+                                cellTierExtra.style.backgroundImage = "url('T6 gradient.png')";
+                                cellTierExtra.style.backgroundSize = "100% 100%";
+                                cellTierExtra.style.color = "#00000077";
+                            }
+                            var cellCommunity = row2.insertCell(1);
+                            var cellPartialCompletion = row2.insertCell(2);
+                            var cellPartialPercentage = row2.insertCell(3);
+                            var cellUpdatedOn = row2.insertCell(4);
+                            var cellLinkCE = row2.insertCell(5);
+                        }
                     }
 
-                    cellPartialCompletion.style.backgroundColor = "#FFCC0055";
+                        cellPartialCompletion.style.backgroundColor = "#FFCC0055";
                     cellPartialPercentage.style.backgroundColor = "#FFCC0055";
 
                     if(filteredData[i]["gameType"] != 3)
@@ -1720,6 +1815,39 @@
                         cellPlatform.innerHTML = "<b>Steam</b>";
                         cellPlatform.style.color = "#DDDDDD";
                         cellPlatform.style.backgroundColor = "#0F6EB888";
+
+                        if(filteredData[i]["reviews"]["total"] >= 10) {cellReviews.innerHTML = filteredData[i]["reviews"]["description"]}
+                        else {cellReviews.innerHTML = filteredData[i]["reviews"]["total"] + " User reviews"}
+
+                        cellReviews.style.fontWeight = "bold";
+
+                        if(filteredData[i]["reviews"]["description"].includes("Positive"))
+                        {  
+                            if(filteredData[i]["reviews"]["description"].includes("Overwhelmingly")) {cellReviews.innerHTML += "!";}
+                            cellReviews.style.color = "#2222AA";
+                            cellReviews.style.backgroundColor = "#66c0f499";
+                            if(filteredData[i]["reviews"]["description"].includes("Mostly"))
+                            {
+                                cellReviews.style.color = "#1c7068";
+                                cellReviews.style.backgroundColor = "#6bd1c999";
+                            }
+                        }
+                        if(filteredData[i]["reviews"]["description"].includes("Mixed"))
+                        {
+                            cellReviews.style.color = "#a37a1d";
+                            cellReviews.style.backgroundColor = "#edb85899";
+                        }
+                        if(filteredData[i]["reviews"]["description"].includes("Negative"))
+                        {  
+                            if(filteredData[i]["reviews"]["description"].includes("Overwhelmingly") || filteredData[i]["reviews"]["description"].includes("Very")) {cellReviews.innerHTML += "...";}
+                            cellReviews.style.color = "#803614";
+                            cellReviews.style.backgroundColor = "#c35c2c99";
+                        }
+
+                        cellReviews.innerHTML += " <span class='subtitle' style='color:inherit' span title='Percentage of Positive Reviews'>(" + toFixed(filteredData[i]["reviews"]["positive"]/filteredData[i]["reviews"]["total"]*100, 2) + "%)</span>";
+
+                        cellReviews.innerHTML += "<br><sub title='Total Reviews'>Total: " + filteredData[i]["reviews"]["total"] +  "</sub>";
+                        cellReviews.innerHTML += "<br><sub><span title='Positive Reviews' style='color:green'>+" + filteredData[i]["reviews"]["positive"] + "</span>/<span title='Negative Reviews' style='color:darkred'>-" + filteredData[i]["reviews"]["negative"] + "</span></sub>";
                     }
                     else
                     {
