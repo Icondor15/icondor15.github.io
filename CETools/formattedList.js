@@ -475,9 +475,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4397,
+            "total": 4398,
             "positive": 4020,
-            "negative": 377
+            "negative": 378
         },
         "information": "Valued with set seed."
     },
@@ -776,8 +776,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 366,
-            "positive": 296,
+            "total": 367,
+            "positive": 297,
             "negative": 70
         }
     },
@@ -891,9 +891,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 73051,
-            "positive": 68649,
-            "negative": 4402
+            "total": 73065,
+            "positive": 68660,
+            "negative": 4405
         }
     },
     {
@@ -951,9 +951,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4536,
+            "total": 4538,
             "positive": 4036,
-            "negative": 500
+            "negative": 502
         }
     },
     {
@@ -1011,8 +1011,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 51630,
-            "positive": 50517,
+            "total": 51629,
+            "positive": 50516,
             "negative": 1113
         },
         "information": "For \"Timeless End\", you may only complete the original 114 Death Wish stamps. Seasonal event challenges (Winter and Summer) and the Nyakuza Metro secret sticker (commonly deemed as a \"secret\" Death Wish) are not required.\n\nBonus objectives are not required for \"Your Contract Has Expired\". Beating the level will do. This does not apply to the Primary Objective proof.\n\n**\"Zero Jumps 2: Electric Boogaloo\"** requires co-op (and online play on a few levels) and it's valued around use of the latter.\n\n----\n\n_Levels that can be ignored for the Emblem POs:_\n__Jumpless:__ none\n__Speedrun:__ Rush Hour (does not have speed goal)\n__Both:__ Award Ceremony (emblems per se are bugged, level is possible), spaceship time rifts (no reward)"
@@ -1034,33 +1034,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 249,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 249,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 399,
-                "final": 399,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 49800,
-                "final": 49800,
-                "discountPercent": 0
+                "final": 24900,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 750,
-                "final": 750,
-                "discountPercent": 0
+                "final": 375,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 549,
-                "final": 549,
-                "discountPercent": 0
+                "final": 274,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -1433,8 +1433,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 28907,
-            "positive": 26473,
+            "total": 28904,
+            "positive": 26470,
             "negative": 2434
         }
     },
@@ -1794,9 +1794,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3106,
-            "positive": 2790,
-            "negative": 316
+            "total": 3108,
+            "positive": 2791,
+            "negative": 317
         }
     },
     {
@@ -1925,15 +1925,15 @@ var data =
         "platformId": 1517970,
         "CEId": "025d2bfa-8a1b-4a48-9b3c-62ba34f88a09",
         "name": "Aeterna Noctis",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1517970/header.jpg?t=1684763993",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517970/header.jpg?t=1728387872",
         "genre": "Action",
         "tier": 3,
-        "points": 50,
+        "points": 65,
         "createdAt": "2022-10-24T11:18:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 5,
-        "playersStarted": 6,
-        "playersTotal": 91,
+        "updatedAt": "2025-05-22T04:02:15.000Z",
+        "playersCompleted": 1,
+        "playersStarted": 10,
+        "playersTotal": 92,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -1967,18 +1967,19 @@ var data =
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "The Show Must Go On [25\u2605]\nDefeat all bosses without taking any damage during the fight. / Beat the game in under 5 hours.\n\nAeternal King [15\u2605]\nDefeat all bosses and complete the Temple of the Kings.\n\nEncore [10\u2605]\nObtain the platinum medal on all time trials and Defeat Garibaldi (Final).",
+            "primary": 4,
+            "primaryText": "King of All Kings [15\u2605]\nDefeat the mythic boss rush without healing fountains.\n\nThe Show Must Go On [25\u2605]\nDefeat all bosses without taking any damage during the fight. / Beat the game in under 5 hours.\n\nAeternal King [15\u2605]\nDefeat all bosses and complete the Temple of the Kings.\n\nEncore [10\u2605]\nObtain the platinum medal on all time trials and Defeat Garibaldi (Final).",
             "community": 0,
             "communityText": "",
-            "achievements": 101
+            "achievements": 142
         },
         "reviews": {
             "description": "Mostly Positive",
             "total": 1748,
             "positive": 1334,
             "negative": 414
-        }
+        },
+        "information": "DLC Required:\n-Aeterna Noctis: Virtuoso"
     },
     {
         "gameType": 0,
@@ -2053,7 +2054,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
-        "playersTotal": 161,
+        "playersTotal": 162,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -2095,9 +2096,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8314,
-            "positive": 6465,
-            "negative": 1849
+            "total": 8318,
+            "positive": 6464,
+            "negative": 1854
         }
     },
     {
@@ -2155,8 +2156,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 591,
-            "positive": 460,
+            "total": 593,
+            "positive": 462,
             "negative": 131
         }
     },
@@ -2413,7 +2414,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 11,
+        "playersTotal": 12,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -2455,9 +2456,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 298,
+            "total": 299,
             "positive": 255,
-            "negative": 43
+            "negative": 44
         }
     },
     {
@@ -2635,8 +2636,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 60658,
-            "positive": 56552,
+            "total": 60664,
+            "positive": 56558,
             "negative": 4106
         }
     },
@@ -2750,8 +2751,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 19893,
-            "positive": 18116,
+            "total": 19896,
+            "positive": 18119,
             "negative": 1777
         }
     },
@@ -2828,7 +2829,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 8,
         "playersStarted": 5,
-        "playersTotal": 85,
+        "playersTotal": 86,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -2888,7 +2889,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 53,
         "playersStarted": 0,
-        "playersTotal": 202,
+        "playersTotal": 203,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -2990,9 +2991,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 10757,
+            "total": 10756,
             "positive": 8585,
-            "negative": 2172
+            "negative": 2171
         }
     },
     {
@@ -3171,9 +3172,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8681,
-            "positive": 6672,
-            "negative": 2009
+            "total": 8683,
+            "positive": 6673,
+            "negative": 2010
         }
     },
     {
@@ -3351,8 +3352,8 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 1288,
-            "positive": 900,
+            "total": 1289,
+            "positive": 901,
             "negative": 388
         }
     },
@@ -3471,8 +3472,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1400,
-            "positive": 1387,
+            "total": 1402,
+            "positive": 1389,
             "negative": 13
         },
         "information": "If you plan on submitting verification, enable \"No Nipple Mode\""
@@ -3532,8 +3533,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2965,
-            "positive": 2785,
+            "total": 2966,
+            "positive": 2786,
             "negative": 180
         }
     },
@@ -3832,8 +3833,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 225,
-            "positive": 217,
+            "total": 226,
+            "positive": 218,
             "negative": 8
         }
     },
@@ -4254,8 +4255,8 @@ var data =
         "reviews": {
             "description": "Mostly Positive",
             "total": 9265,
-            "positive": 7355,
-            "negative": 1910
+            "positive": 7354,
+            "negative": 1911
         }
     },
     {
@@ -4373,9 +4374,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 76543,
-            "positive": 69982,
-            "negative": 6561
+            "total": 76560,
+            "positive": 69998,
+            "negative": 6562
         }
     },
     {
@@ -4695,33 +4696,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 1549,
-                "final": 1549,
-                "discountPercent": 0
+                "final": 309,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 198000,
-                "final": 198000,
-                "discountPercent": 0
+                "final": 39600,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 2895,
-                "final": 2895,
-                "discountPercent": 0
+                "final": 579,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 2279,
-                "final": 2279,
-                "discountPercent": 0
+                "final": 455,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -4733,9 +4734,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1572,
+            "total": 1571,
             "positive": 1385,
-            "negative": 187
+            "negative": 186
         }
     },
     {
@@ -5055,33 +5056,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 374,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 374,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 319,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 42500,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 548,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 487,
+                "discountPercent": 75
             }
         },
         "milestones": {
@@ -5093,8 +5094,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5630,
-            "positive": 5191,
+            "total": 5631,
+            "positive": 5192,
             "negative": 439
         }
     },
@@ -5635,8 +5636,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6056,
-            "positive": 5505,
+            "total": 6058,
+            "positive": 5507,
             "negative": 551
         }
     },
@@ -5957,33 +5958,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 374,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 374,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 319,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 42500,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 548,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 487,
+                "discountPercent": 75
             }
         },
         "milestones": {
@@ -5995,8 +5996,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12119,
-            "positive": 11295,
+            "total": 12121,
+            "positive": 11297,
             "negative": 824
         }
     },
@@ -6055,9 +6056,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3061,
+            "total": 3062,
             "positive": 2624,
-            "negative": 437
+            "negative": 438
         }
     },
     {
@@ -6137,33 +6138,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 1349,
+                "discountPercent": 10
             },
             "EUR": {
                 "initial": 1399,
-                "final": 1399,
-                "discountPercent": 0
+                "final": 1259,
+                "discountPercent": 10
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 1151,
+                "discountPercent": 10
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 153000,
+                "discountPercent": 10
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 1975,
+                "discountPercent": 10
             },
             "CAD": {
                 "initial": 1899,
-                "final": 1899,
-                "discountPercent": 0
+                "final": 1709,
+                "discountPercent": 10
             }
         },
         "milestones": {
@@ -6175,9 +6176,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 150393,
-            "positive": 147437,
-            "negative": 2956
+            "total": 150581,
+            "positive": 147613,
+            "negative": 2968
         }
     },
     {
@@ -6356,8 +6357,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2316,
-            "positive": 1983,
+            "total": 2317,
+            "positive": 1984,
             "negative": 333
         }
     },
@@ -6374,7 +6375,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 95,
         "playersStarted": 0,
-        "playersTotal": 533,
+        "playersTotal": 534,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -6416,9 +6417,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 37373,
-            "positive": 35641,
-            "negative": 1732
+            "total": 37372,
+            "positive": 35639,
+            "negative": 1733
         }
     },
     {
@@ -6434,7 +6435,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
-        "playersTotal": 12,
+        "playersTotal": 13,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -6476,8 +6477,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 234,
-            "positive": 228,
+            "total": 235,
+            "positive": 229,
             "negative": 6
         }
     },
@@ -6494,7 +6495,7 @@ var data =
         "updatedAt": "2025-05-16T05:18:55.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 159,
+        "playersTotal": 161,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -6536,9 +6537,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 139623,
-            "positive": 123731,
-            "negative": 15892
+            "total": 139640,
+            "positive": 123752,
+            "negative": 15888
         }
     },
     {
@@ -6674,7 +6675,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 15,
         "playersStarted": 101,
-        "playersTotal": 858,
+        "playersTotal": 859,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -6776,9 +6777,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 28850,
-            "positive": 26707,
-            "negative": 2143
+            "total": 28854,
+            "positive": 26712,
+            "negative": 2142
         }
     },
     {
@@ -6914,7 +6915,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 0,
         "playersStarted": 26,
-        "playersTotal": 122,
+        "playersTotal": 123,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -6956,9 +6957,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 74538,
-            "positive": 71266,
-            "negative": 3272
+            "total": 74541,
+            "positive": 71268,
+            "negative": 3273
         },
         "information": "POs for the game currently being worked through - current objectives are placeholders and may yet be further reworked/refined."
     },
@@ -7017,8 +7018,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 7232,
-            "positive": 6938,
+            "total": 7234,
+            "positive": 6940,
             "negative": 294
         }
     },
@@ -7432,8 +7433,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 498,
-            "positive": 441,
+            "total": 499,
+            "positive": 442,
             "negative": 57
         }
     },
@@ -7492,9 +7493,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 140420,
-            "positive": 131756,
-            "negative": 8664
+            "total": 140440,
+            "positive": 131773,
+            "negative": 8667
         }
     },
     {
@@ -7510,7 +7511,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 21,
-        "playersTotal": 123,
+        "playersTotal": 124,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -7552,9 +7553,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 8753,
-            "positive": 7544,
-            "negative": 1209
+            "total": 8757,
+            "positive": 7547,
+            "negative": 1210
         }
     },
     {
@@ -8032,8 +8033,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2273,
-            "positive": 2066,
+            "total": 2274,
+            "positive": 2067,
             "negative": 207
         }
     },
@@ -8110,7 +8111,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 103,
         "playersStarted": 0,
-        "playersTotal": 661,
+        "playersTotal": 662,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -8152,9 +8153,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 51230,
-            "positive": 46154,
-            "negative": 5076
+            "total": 51250,
+            "positive": 46173,
+            "negative": 5077
         }
     },
     {
@@ -8272,8 +8273,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 10981,
-            "positive": 10315,
+            "total": 10985,
+            "positive": 10319,
             "negative": 666
         }
     },
@@ -8290,7 +8291,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 48,
+        "playersTotal": 49,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -8453,8 +8454,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2496,
-            "positive": 2091,
+            "total": 2497,
+            "positive": 2092,
             "negative": 405
         }
     },
@@ -8573,8 +8574,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1879,
-            "positive": 1742,
+            "total": 1880,
+            "positive": 1743,
             "negative": 137
         }
     },
@@ -8873,8 +8874,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 213,
-            "positive": 190,
+            "total": 214,
+            "positive": 191,
             "negative": 23
         }
     },
@@ -8993,8 +8994,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3984,
-            "positive": 3260,
+            "total": 3983,
+            "positive": 3259,
             "negative": 724
         }
     },
@@ -9010,8 +9011,8 @@ var data =
         "createdAt": "2020-01-28T09:01:34.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 3,
-        "playersStarted": 33,
-        "playersTotal": 176,
+        "playersStarted": 34,
+        "playersTotal": 177,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -9053,8 +9054,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 739,
-            "positive": 731,
+            "total": 740,
+            "positive": 732,
             "negative": 8
         }
     },
@@ -9593,8 +9594,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 11098,
-            "positive": 10078,
+            "total": 11099,
+            "positive": 10079,
             "negative": 1020
         }
     },
@@ -9713,8 +9714,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 5821,
-            "positive": 5531,
+            "total": 5823,
+            "positive": 5533,
             "negative": 290
         }
     },
@@ -9833,9 +9834,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 58788,
-            "positive": 56997,
-            "negative": 1791
+            "total": 58783,
+            "positive": 56991,
+            "negative": 1792
         }
     },
     {
@@ -10489,8 +10490,8 @@ var data =
         "reviews": {
             "description": "Very Positive",
             "total": 50423,
-            "positive": 46539,
-            "negative": 3884
+            "positive": 46540,
+            "negative": 3883
         }
     },
     {
@@ -10548,9 +10549,9 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 28305,
+            "total": 28307,
             "positive": 16921,
-            "negative": 11384
+            "negative": 11386
         }
     },
     {
@@ -10603,8 +10604,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 58059,
-            "positive": 54090,
+            "total": 58061,
+            "positive": 54092,
             "negative": 3969
         },
         "information": "CO-OP REQUIRED FOR SPECIAL OPS PO. There are two missions that require co-op, all other missions can be completed either solo or with a partner."
@@ -10664,8 +10665,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 37876,
-            "positive": 33579,
+            "total": 37879,
+            "positive": 33582,
             "negative": 4297
         }
     },
@@ -10724,9 +10725,9 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 14341,
+            "total": 14340,
             "positive": 7510,
-            "negative": 6831
+            "negative": 6830
         }
     },
     {
@@ -10742,7 +10743,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 72,
         "playersStarted": 0,
-        "playersTotal": 628,
+        "playersTotal": 629,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -11084,9 +11085,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 125380,
-            "positive": 120532,
-            "negative": 4848
+            "total": 125394,
+            "positive": 120544,
+            "negative": 4850
         }
     },
     {
@@ -11255,8 +11256,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9302,
-            "positive": 7520,
+            "total": 9303,
+            "positive": 7521,
             "negative": 1782
         }
     },
@@ -11333,7 +11334,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 13,
         "playersStarted": 3,
-        "playersTotal": 265,
+        "playersTotal": 266,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -11370,8 +11371,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9927,
-            "positive": 8671,
+            "total": 9929,
+            "positive": 8673,
             "negative": 1256
         }
     },
@@ -11491,8 +11492,8 @@ var data =
         "reviews": {
             "description": "Very Positive",
             "total": 4376,
-            "positive": 3749,
-            "negative": 627
+            "positive": 3748,
+            "negative": 628
         },
         "information": "Kanra - \"Try triple shot + Magicians Ring\"\nTrusty Patches - Triple shot + Crystal Sword + Any magic damage ring"
     },
@@ -11569,7 +11570,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 74,
         "playersStarted": 649,
-        "playersTotal": 1703,
+        "playersTotal": 1705,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -11611,8 +11612,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 119937,
-            "positive": 116901,
+            "total": 119974,
+            "positive": 116938,
             "negative": 3036
         }
     },
@@ -11852,8 +11853,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1090,
-            "positive": 997,
+            "total": 1091,
+            "positive": 998,
             "negative": 93
         }
     },
@@ -11912,8 +11913,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 15636,
-            "positive": 14269,
+            "total": 15637,
+            "positive": 14270,
             "negative": 1367
         }
     },
@@ -12028,8 +12029,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12195,
-            "positive": 11005,
+            "total": 12206,
+            "positive": 11016,
             "negative": 1190
         }
     },
@@ -12328,8 +12329,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 32863,
-            "positive": 31828,
+            "total": 32872,
+            "positive": 31837,
             "negative": 1035
         }
     },
@@ -12568,8 +12569,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 17077,
-            "positive": 15968,
+            "total": 17076,
+            "positive": 15967,
             "negative": 1109
         }
     },
@@ -12688,9 +12689,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 57177,
-            "positive": 48233,
-            "negative": 8944
+            "total": 57187,
+            "positive": 48238,
+            "negative": 8949
         }
     },
     {
@@ -12808,8 +12809,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1678,
-            "positive": 1484,
+            "total": 1680,
+            "positive": 1486,
             "negative": 194
         }
     },
@@ -13108,8 +13109,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2150,
-            "positive": 1957,
+            "total": 2151,
+            "positive": 1958,
             "negative": 193
         }
     },
@@ -13409,9 +13410,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 26698,
-            "positive": 26148,
-            "negative": 550
+            "total": 26708,
+            "positive": 26159,
+            "negative": 549
         },
         "information": "NOTICE:\nGame is still currently in early access, so values and PO structure highly likely to change as updates come out and when the full game releases."
     },
@@ -13844,7 +13845,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
-        "playersTotal": 206,
+        "playersTotal": 207,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -13886,8 +13887,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16832,
-            "positive": 15671,
+            "total": 16833,
+            "positive": 15672,
             "negative": 1161
         },
         "information": "This is an extremely long game, expect to spend at least 70 hours before being able to do objectives. It's possible to skip the entire game and go straight for the objectives if you wish (check the any% speedrun). DLC is required for all objectives.\n\nUse of assist mode in any form is banned for all objectives. Assist mode time is tracked in statistics and saved to the file permanently. \n\nRegarding the exclusion of Custom Cup Rushes: there are scoring exploits in the Vermillion and Platform Cups that allow you to farm points in specific rounds and thus get platinum medals in the Rush Modes without much effort (since they are based on an overall score and not per round), and the Platform Cup is known to consistently crash after a certain point, making any medal impossible to obtain. For all other Custom Cups, there's either no Rush Mode or the Rush Mode is too easy to be considered as worthwhile PO content."
@@ -14007,8 +14008,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 20726,
-            "positive": 20073,
+            "total": 20728,
+            "positive": 20075,
             "negative": 653
         }
     },
@@ -14187,8 +14188,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1883,
-            "positive": 1840,
+            "total": 1885,
+            "positive": 1842,
             "negative": 43
         }
     },
@@ -14204,8 +14205,8 @@ var data =
         "createdAt": "2020-01-28T10:05:19.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 13,
-        "playersStarted": 221,
-        "playersTotal": 1136,
+        "playersStarted": 222,
+        "playersTotal": 1137,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -14247,9 +14248,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 25089,
-            "positive": 24029,
-            "negative": 1060
+            "total": 25092,
+            "positive": 24031,
+            "negative": 1061
         }
     },
     {
@@ -14367,9 +14368,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 185353,
-            "positive": 178484,
-            "negative": 6869
+            "total": 185455,
+            "positive": 178584,
+            "negative": 6871
         },
         "information": "DLC Required:\n-The Delicious Last Course"
     },
@@ -14750,33 +14751,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 374,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 374,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 319,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 42500,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 548,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 487,
+                "discountPercent": 75
             }
         },
         "milestones": {
@@ -14848,8 +14849,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1213,
-            "positive": 1074,
+            "total": 1214,
+            "positive": 1075,
             "negative": 139
         }
     },
@@ -15148,8 +15149,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 223,
-            "positive": 194,
+            "total": 224,
+            "positive": 195,
             "negative": 29
         }
     },
@@ -15346,7 +15347,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 8,
         "playersStarted": 210,
-        "playersTotal": 494,
+        "playersTotal": 495,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -15388,9 +15389,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 115992,
-            "positive": 97479,
-            "negative": 18513
+            "total": 116044,
+            "positive": 97522,
+            "negative": 18522
         }
     },
     {
@@ -15448,9 +15449,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 412325,
-            "positive": 388952,
-            "negative": 23373
+            "total": 412401,
+            "positive": 389022,
+            "negative": 23379
         },
         "information": "Doesn't have cloud save, careful!"
     },
@@ -15509,9 +15510,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 128127,
-            "positive": 118068,
-            "negative": 10059
+            "total": 128202,
+            "positive": 118135,
+            "negative": 10067
         }
     },
     {
@@ -15629,8 +15630,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12342,
-            "positive": 10162,
+            "total": 12345,
+            "positive": 10165,
             "negative": 2180
         }
     },
@@ -15689,9 +15690,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 21516,
-            "positive": 20431,
-            "negative": 1085
+            "total": 21526,
+            "positive": 20440,
+            "negative": 1086
         }
     },
     {
@@ -15882,8 +15883,8 @@ var data =
         "createdAt": "2020-01-28T08:42:38.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 5,
-        "playersStarted": 39,
-        "playersTotal": 789,
+        "playersStarted": 40,
+        "playersTotal": 790,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -15925,9 +15926,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 167598,
-            "positive": 162719,
-            "negative": 4879
+            "total": 167648,
+            "positive": 162767,
+            "negative": 4881
         },
         "information": "For the Boss Rush primary objectives, use of custom mode is only allowed to relock weapons and mutations that aren't the default ones. In other words, you must keep the items on this list enabled: [https://pastebin.com/H8G7D5sD](https://pastebin.com/H8G7D5sD)\n\nKanra - \"try baseball bat + wolftrap/stun grenade\""
     },
@@ -15986,8 +15987,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5741,
-            "positive": 5447,
+            "total": 5744,
+            "positive": 5450,
             "negative": 294
         }
     },
@@ -16046,8 +16047,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 5420,
-            "positive": 5190,
+            "total": 5421,
+            "positive": 5191,
             "negative": 230
         },
         "information": "\"Fear the Reaper\" can be done in a Normal mode savefile.\n\nIn order to complete all of the Primary Objectives, you'll need to use at least two savefiles, one in Normal mode (for \"Fear the Reaper\") and one in Hard mode (for \"Warbringer\" and \"Through Rain and Ash\").\n"
@@ -16065,7 +16066,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
-        "playersTotal": 190,
+        "playersTotal": 191,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -16222,9 +16223,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3396,
-            "positive": 3050,
-            "negative": 346
+            "total": 3398,
+            "positive": 3051,
+            "negative": 347
         }
     },
     {
@@ -16282,8 +16283,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 553,
-            "positive": 495,
+            "total": 554,
+            "positive": 496,
             "negative": 58
         }
     },
@@ -16420,7 +16421,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 90,
         "playersStarted": 0,
-        "playersTotal": 268,
+        "playersTotal": 269,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -16462,9 +16463,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 18548,
-            "positive": 17332,
-            "negative": 1216
+            "total": 18557,
+            "positive": 17342,
+            "negative": 1215
         }
     },
     {
@@ -16720,7 +16721,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
-        "playersTotal": 20,
+        "playersTotal": 21,
         "priceData": {
             "USD": {
                 "initial": 3990,
@@ -16900,7 +16901,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 95,
         "playersStarted": 0,
-        "playersTotal": 832,
+        "playersTotal": 833,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -16942,9 +16943,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 342105,
-            "positive": 332702,
-            "negative": 9403
+            "total": 342161,
+            "positive": 332760,
+            "negative": 9401
         },
         "information": "Not using any mods at all for the \"Lone Digger\" objective makes the verification easier, but for those who do use mods, the list of the ones you've used must be shown prior or after finishing the run. Anything that modifies the gameplay in a relevant way is banned, whether that is a better visual/sound cue, or straight up modifying the gameplay.\n"
     },
@@ -17082,7 +17083,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 191,
+        "playersTotal": 192,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -17304,9 +17305,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 19127,
-            "positive": 18037,
-            "negative": 1090
+            "total": 19131,
+            "positive": 18042,
+            "negative": 1089
         }
     },
     {
@@ -17364,8 +17365,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2269,
-            "positive": 1907,
+            "total": 2270,
+            "positive": 1908,
             "negative": 362
         },
         "information": "Curated on Steam: https://store.steampowered.com/app/226620/Desktop_Dungeons/?curator_clanid=36185934"
@@ -17425,8 +17426,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3676,
-            "positive": 2862,
+            "total": 3675,
+            "positive": 2861,
             "negative": 814
         }
     },
@@ -17563,7 +17564,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
-        "playersTotal": 359,
+        "playersTotal": 360,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -17605,9 +17606,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 28060,
-            "positive": 25853,
-            "negative": 2207
+            "total": 28062,
+            "positive": 25856,
+            "negative": 2206
         }
     },
     {
@@ -17665,9 +17666,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 40778,
-            "positive": 30975,
-            "negative": 9803
+            "total": 40784,
+            "positive": 30979,
+            "negative": 9805
         }
     },
     {
@@ -17845,8 +17846,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 9050,
-            "positive": 8623,
+            "total": 9052,
+            "positive": 8625,
             "negative": 427
         }
     },
@@ -17966,9 +17967,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 145285,
-            "positive": 139434,
-            "negative": 5851
+            "total": 145332,
+            "positive": 139478,
+            "negative": 5854
         }
     },
     {
@@ -17984,7 +17985,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 0,
         "playersStarted": 13,
-        "playersTotal": 248,
+        "playersTotal": 249,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -18026,9 +18027,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16855,
-            "positive": 15649,
-            "negative": 1206
+            "total": 16870,
+            "positive": 15663,
+            "negative": 1207
         }
     },
     {
@@ -18146,9 +18147,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 82418,
-            "positive": 74976,
-            "negative": 7442
+            "total": 82429,
+            "positive": 74985,
+            "negative": 7444
         }
     },
     {
@@ -18506,9 +18507,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1506,
+            "total": 1505,
             "positive": 1413,
-            "negative": 93
+            "negative": 92
         }
     },
     {
@@ -18566,9 +18567,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 44407,
-            "positive": 39225,
-            "negative": 5182
+            "total": 44414,
+            "positive": 39231,
+            "negative": 5183
         }
     },
     {
@@ -18626,8 +18627,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 965,
-            "positive": 905,
+            "total": 966,
+            "positive": 906,
             "negative": 60
         }
     },
@@ -18686,9 +18687,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 82288,
+            "total": 82289,
             "positive": 80349,
-            "negative": 1939
+            "negative": 1940
         }
     },
     {
@@ -18746,8 +18747,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 7182,
-            "positive": 6639,
+            "total": 7184,
+            "positive": 6641,
             "negative": 543
         }
     },
@@ -18945,7 +18946,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 357,
+        "playersTotal": 358,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -18987,9 +18988,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 205628,
-            "positive": 196440,
-            "negative": 9188
+            "total": 205737,
+            "positive": 196544,
+            "negative": 9193
         }
     },
     {
@@ -19005,7 +19006,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 3,
         "playersStarted": 6,
-        "playersTotal": 619,
+        "playersTotal": 620,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -19047,9 +19048,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 201444,
-            "positive": 184207,
-            "negative": 17237
+            "total": 201532,
+            "positive": 184292,
+            "negative": 17240
         }
     },
     {
@@ -19065,7 +19066,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 157,
+        "playersTotal": 158,
         "priceData": {
             "USD": {
                 "initial": 1399,
@@ -19107,9 +19108,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 27548,
-            "positive": 26595,
-            "negative": 953
+            "total": 27554,
+            "positive": 26600,
+            "negative": 954
         }
     },
     {
@@ -19407,8 +19408,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 8186,
-            "positive": 7907,
+            "total": 8187,
+            "positive": 7908,
             "negative": 279
         }
     },
@@ -19725,7 +19726,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 127,
+        "playersTotal": 129,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -19767,8 +19768,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1147,
-            "positive": 1115,
+            "total": 1151,
+            "positive": 1119,
             "negative": 32
         }
     },
@@ -19845,7 +19846,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
-        "playersTotal": 257,
+        "playersTotal": 258,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -20067,9 +20068,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 202,
+            "total": 201,
             "positive": 168,
-            "negative": 34
+            "negative": 33
         }
     },
     {
@@ -20127,8 +20128,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 38447,
-            "positive": 37142,
+            "total": 38446,
+            "positive": 37141,
             "negative": 1305
         }
     },
@@ -20603,9 +20604,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 13720,
-            "positive": 11737,
-            "negative": 1983
+            "total": 13719,
+            "positive": 11735,
+            "negative": 1984
         }
     },
     {
@@ -20663,8 +20664,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9269,
-            "positive": 8651,
+            "total": 9270,
+            "positive": 8652,
             "negative": 618
         }
     },
@@ -21582,7 +21583,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 47,
         "playersStarted": 340,
-        "playersTotal": 847,
+        "playersTotal": 848,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -21624,9 +21625,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1052096,
-            "positive": 977260,
-            "negative": 74836
+            "total": 1052334,
+            "positive": 977483,
+            "negative": 74851
         }
     },
     {
@@ -21744,9 +21745,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3795,
-            "positive": 2784,
-            "negative": 1011
+            "total": 3797,
+            "positive": 2785,
+            "negative": 1012
         }
     },
     {
@@ -22044,8 +22045,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6142,
-            "positive": 5770,
+            "total": 6150,
+            "positive": 5778,
             "negative": 372
         }
     },
@@ -22104,8 +22105,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3548,
-            "positive": 3245,
+            "total": 3552,
+            "positive": 3249,
             "negative": 303
         }
     },
@@ -22122,7 +22123,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 13,
         "playersStarted": 130,
-        "playersTotal": 332,
+        "playersTotal": 334,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -22164,9 +22165,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 39374,
-            "positive": 37010,
-            "negative": 2364
+            "total": 39389,
+            "positive": 37021,
+            "negative": 2368
         }
     },
     {
@@ -22181,8 +22182,8 @@ var data =
         "createdAt": "2025-04-14T03:21:04.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 4,
-        "playersStarted": 18,
-        "playersTotal": 26,
+        "playersStarted": 19,
+        "playersTotal": 27,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -22224,8 +22225,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 13265,
-            "positive": 12688,
+            "total": 13277,
+            "positive": 12700,
             "negative": 577
         }
     },
@@ -22240,9 +22241,9 @@ var data =
         "points": 20,
         "createdAt": "2020-04-14T18:46:16.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 222,
+        "playersCompleted": 223,
         "playersStarted": 0,
-        "playersTotal": 1063,
+        "playersTotal": 1064,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -22284,9 +22285,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 85280,
-            "positive": 81422,
-            "negative": 3858
+            "total": 85299,
+            "positive": 81439,
+            "negative": 3860
         },
         "information": "Kanra - \"Try rainbow runs\""
     },
@@ -22663,7 +22664,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
-        "playersTotal": 63,
+        "playersTotal": 64,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -22885,8 +22886,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 13373,
-            "positive": 12738,
+            "total": 13374,
+            "positive": 12739,
             "negative": 635
         }
     },
@@ -22945,9 +22946,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 1914,
-            "positive": 1437,
-            "negative": 477
+            "total": 1916,
+            "positive": 1438,
+            "negative": 478
         }
     },
     {
@@ -23185,8 +23186,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3525,
-            "positive": 2654,
+            "total": 3527,
+            "positive": 2656,
             "negative": 871
         }
     },
@@ -23245,8 +23246,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4612,
-            "positive": 4158,
+            "total": 4613,
+            "positive": 4159,
             "negative": 454
         }
     },
@@ -23725,9 +23726,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 37010,
-            "positive": 32836,
-            "negative": 4174
+            "total": 37017,
+            "positive": 32842,
+            "negative": 4175
         }
     },
     {
@@ -24025,8 +24026,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 14702,
-            "positive": 13640,
+            "total": 14704,
+            "positive": 13642,
             "negative": 1062
         }
     },
@@ -24085,9 +24086,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 11642,
-            "positive": 10545,
-            "negative": 1097
+            "total": 11646,
+            "positive": 10548,
+            "negative": 1098
         }
     },
     {
@@ -24921,9 +24922,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 123005,
-            "positive": 113799,
-            "negative": 9206
+            "total": 123061,
+            "positive": 113852,
+            "negative": 9209
         },
         "information": "The Last Autumn, On The Edge, and The Rifts DLCs are required. All are included in the season pass."
     },
@@ -24982,8 +24983,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 74814,
-            "positive": 71347,
+            "total": 74825,
+            "positive": 71358,
             "negative": 3467
         },
         "information": "Curated on Steam: https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/?curator_clanid=36185934"
@@ -25061,7 +25062,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 19,
         "playersStarted": 46,
-        "playersTotal": 460,
+        "playersTotal": 461,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -25103,9 +25104,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12181,
-            "positive": 11080,
-            "negative": 1101
+            "total": 12182,
+            "positive": 11082,
+            "negative": 1100
         }
     },
     {
@@ -25585,8 +25586,8 @@ var data =
         "reviews": {
             "description": "Very Positive",
             "total": 14452,
-            "positive": 12687,
-            "negative": 1765
+            "positive": 12685,
+            "negative": 1767
         }
     },
     {
@@ -25777,7 +25778,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 29,
         "playersStarted": 577,
-        "playersTotal": 1417,
+        "playersTotal": 1418,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -25819,9 +25820,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 422983,
-            "positive": 394734,
-            "negative": 28249
+            "total": 423358,
+            "positive": 395076,
+            "negative": 28282
         }
     },
     {
@@ -25879,8 +25880,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1520,
-            "positive": 1364,
+            "total": 1521,
+            "positive": 1365,
             "negative": 156
         }
     },
@@ -26059,8 +26060,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2536,
-            "positive": 2262,
+            "total": 2538,
+            "positive": 2264,
             "negative": 274
         }
     },
@@ -26179,8 +26180,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 76804,
-            "positive": 63317,
+            "total": 76813,
+            "positive": 63326,
             "negative": 13487
         },
         "information": "**Do not use the CO as a reference or justification for arguments.**"
@@ -26240,8 +26241,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1249,
-            "positive": 1040,
+            "total": 1250,
+            "positive": 1041,
             "negative": 209
         }
     },
@@ -26360,9 +26361,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 63079,
-            "positive": 57651,
-            "negative": 5428
+            "total": 63082,
+            "positive": 57652,
+            "negative": 5430
         },
         "information": "\"Project_Hel\" DLC is required for the \"Ghost in the Shell\" Primary Objective. "
     },
@@ -26421,9 +26422,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9462,
-            "positive": 7639,
-            "negative": 1823
+            "total": 9471,
+            "positive": 7646,
+            "negative": 1825
         }
     },
     {
@@ -26559,7 +26560,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 317,
+        "playersTotal": 318,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -26860,7 +26861,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 40,
         "playersStarted": 24,
-        "playersTotal": 121,
+        "playersTotal": 122,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -27082,9 +27083,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 157538,
-            "positive": 151257,
-            "negative": 6281
+            "total": 157571,
+            "positive": 151284,
+            "negative": 6287
         }
     },
     {
@@ -27382,8 +27383,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1330,
-            "positive": 1124,
+            "total": 1331,
+            "positive": 1125,
             "negative": 206
         }
     },
@@ -27442,8 +27443,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 1545,
-            "positive": 1145,
+            "total": 1544,
+            "positive": 1144,
             "negative": 400
         }
     },
@@ -27460,37 +27461,37 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 41,
         "playersStarted": 0,
-        "playersTotal": 311,
+        "playersTotal": 312,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 149,
+                "discountPercent": 85
             },
             "EUR": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 149,
+                "discountPercent": 85
             },
             "GBP": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 127,
+                "discountPercent": 85
             },
             "JPY": {
                 "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "final": 18000,
+                "discountPercent": 85
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 217,
+                "discountPercent": 85
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 194,
+                "discountPercent": 85
             }
         },
         "milestones": {
@@ -27742,9 +27743,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 174521,
-            "positive": 143900,
-            "negative": 30621
+            "total": 174556,
+            "positive": 143929,
+            "negative": 30627
         }
     },
     {
@@ -27802,8 +27803,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5358,
-            "positive": 4989,
+            "total": 5361,
+            "positive": 4992,
             "negative": 369
         }
     },
@@ -27862,8 +27863,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 971,
-            "positive": 891,
+            "total": 970,
+            "positive": 890,
             "negative": 80
         }
     },
@@ -28184,33 +28185,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 49,
-                "discountPercent": 90
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 499,
-                "final": 49,
-                "discountPercent": 90
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 445,
-                "final": 44,
-                "discountPercent": 90
+                "final": 445,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 60000,
-                "final": 6000,
-                "discountPercent": 90
+                "final": 60000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 750,
-                "final": 75,
-                "discountPercent": 90
+                "final": 750,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 649,
-                "final": 64,
-                "discountPercent": 90
+                "final": 649,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -28403,8 +28404,8 @@ var data =
         "reviews": {
             "description": "Very Positive",
             "total": 8241,
-            "positive": 7016,
-            "negative": 1225
+            "positive": 7017,
+            "negative": 1224
         }
     },
     {
@@ -28643,8 +28644,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5765,
-            "positive": 4916,
+            "total": 5767,
+            "positive": 4918,
             "negative": 849
         }
     },
@@ -28763,9 +28764,9 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 1547,
+            "total": 1546,
             "positive": 1048,
-            "negative": 499
+            "negative": 498
         }
     },
     {
@@ -28781,7 +28782,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 4,
-        "playersTotal": 171,
+        "playersTotal": 172,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -28823,9 +28824,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 61984,
-            "positive": 52271,
-            "negative": 9713
+            "total": 61990,
+            "positive": 52278,
+            "negative": 9712
         }
     },
     {
@@ -28901,7 +28902,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 72,
         "playersStarted": 0,
-        "playersTotal": 583,
+        "playersTotal": 584,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -28943,8 +28944,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6730,
-            "positive": 6231,
+            "total": 6732,
+            "positive": 6233,
             "negative": 499
         }
     },
@@ -28959,9 +28960,9 @@ var data =
         "points": 5,
         "createdAt": "2025-02-09T16:58:09.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 7,
+        "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 11,
+        "playersTotal": 12,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -29003,8 +29004,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 387,
-            "positive": 341,
+            "total": 386,
+            "positive": 340,
             "negative": 46
         }
     },
@@ -29183,8 +29184,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 101,
-            "positive": 97,
+            "total": 102,
+            "positive": 98,
             "negative": 4
         }
     },
@@ -29319,9 +29320,9 @@ var data =
         "points": 25,
         "createdAt": "2024-10-15T13:15:34.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 12,
-        "playersStarted": 6,
-        "playersTotal": 146,
+        "playersCompleted": 13,
+        "playersStarted": 5,
+        "playersTotal": 147,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -29363,9 +29364,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 99007,
-            "positive": 92500,
-            "negative": 6507
+            "total": 99023,
+            "positive": 92515,
+            "negative": 6508
         },
         "information": "\"Conquerors of the Spirit Realm\" requires \"Realm of Frost and Inkwash\" and \"Artisan and Magician\" DLCs in order to be completed."
     },
@@ -29682,7 +29683,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 90,
         "playersStarted": 171,
-        "playersTotal": 974,
+        "playersTotal": 975,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -29724,9 +29725,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 279348,
-            "positive": 274449,
-            "negative": 4899
+            "total": 279369,
+            "positive": 274468,
+            "negative": 4901
         }
     },
     {
@@ -29784,8 +29785,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2886,
-            "positive": 2589,
+            "total": 2888,
+            "positive": 2591,
             "negative": 297
         }
     },
@@ -29802,7 +29803,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 14,
         "playersStarted": 23,
-        "playersTotal": 545,
+        "playersTotal": 546,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -29844,8 +29845,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 241569,
-            "positive": 223173,
+            "total": 241591,
+            "positive": 223195,
             "negative": 18396
         }
     },
@@ -30259,9 +30260,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 21958,
-            "positive": 18263,
-            "negative": 3695
+            "total": 21965,
+            "positive": 18271,
+            "negative": 3694
         }
     },
     {
@@ -30319,8 +30320,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 18885,
-            "positive": 17763,
+            "total": 18897,
+            "positive": 17775,
             "negative": 1122
         },
         "information": "The DLC \"Extra Song Pack\" is required for the POs. Total number of songs should be 251."
@@ -30621,9 +30622,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3904,
-            "positive": 3733,
-            "negative": 171
+            "total": 3908,
+            "positive": 3735,
+            "negative": 173
         }
     },
     {
@@ -30819,7 +30820,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 7,
         "playersStarted": 3,
-        "playersTotal": 16,
+        "playersTotal": 17,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -30861,9 +30862,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 170,
+            "total": 171,
             "positive": 156,
-            "negative": 14
+            "negative": 15
         }
     },
     {
@@ -31041,8 +31042,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 365,
-            "positive": 347,
+            "total": 366,
+            "positive": 348,
             "negative": 18
         }
     },
@@ -31221,8 +31222,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 33305,
-            "positive": 32411,
+            "total": 33309,
+            "positive": 32415,
             "negative": 894
         }
     },
@@ -31401,8 +31402,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5237,
-            "positive": 4626,
+            "total": 5236,
+            "positive": 4625,
             "negative": 611
         }
     },
@@ -31522,8 +31523,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 764,
-            "positive": 704,
+            "total": 765,
+            "positive": 705,
             "negative": 60
         }
     },
@@ -31600,7 +31601,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 13,
         "playersStarted": 600,
-        "playersTotal": 1613,
+        "playersTotal": 1614,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -31642,9 +31643,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 413849,
-            "positive": 401612,
-            "negative": 12237
+            "total": 413977,
+            "positive": 401736,
+            "negative": 12241
         },
         "information": "It is highly recommended for the \"Champion of Hallownest\" objective to be done on a save file where the Pantheon was not cleared with all bindings in order to show the reward for completing the challenge."
     },
@@ -31878,8 +31879,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5795,
-            "positive": 5401,
+            "total": 5796,
+            "positive": 5402,
             "negative": 394
         }
     },
@@ -31896,7 +31897,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 262,
         "playersStarted": 0,
-        "playersTotal": 913,
+        "playersTotal": 914,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -31938,8 +31939,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 106030,
-            "positive": 103007,
+            "total": 106049,
+            "positive": 103026,
             "negative": 3023
         }
     },
@@ -31993,9 +31994,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 66228,
-            "positive": 62357,
-            "negative": 3871
+            "total": 66247,
+            "positive": 62377,
+            "negative": 3870
         }
     },
     {
@@ -32053,9 +32054,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2172,
+            "total": 2173,
             "positive": 1654,
-            "negative": 518
+            "negative": 519
         }
     },
     {
@@ -32173,8 +32174,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3726,
-            "positive": 3528,
+            "total": 3728,
+            "positive": 3530,
             "negative": 198
         }
     },
@@ -32355,8 +32356,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2842,
-            "positive": 2682,
+            "total": 2844,
+            "positive": 2684,
             "negative": 160
         }
     },
@@ -32373,7 +32374,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 42,
         "playersStarted": 0,
-        "playersTotal": 483,
+        "playersTotal": 484,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -32415,8 +32416,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 17783,
-            "positive": 16557,
+            "total": 17786,
+            "positive": 16560,
             "negative": 1226
         }
     },
@@ -32836,8 +32837,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2961,
-            "positive": 2160,
+            "total": 2960,
+            "positive": 2159,
             "negative": 801
         }
     },
@@ -32896,8 +32897,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3616,
-            "positive": 3562,
+            "total": 3623,
+            "positive": 3569,
             "negative": 54
         }
     },
@@ -33136,8 +33137,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6612,
-            "positive": 5955,
+            "total": 6611,
+            "positive": 5954,
             "negative": 657
         }
     },
@@ -33256,9 +33257,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4714,
+            "total": 4715,
             "positive": 4084,
-            "negative": 630
+            "negative": 631
         }
     },
     {
@@ -33436,8 +33437,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3185,
-            "positive": 2871,
+            "total": 3187,
+            "positive": 2873,
             "negative": 314
         }
     },
@@ -33634,7 +33635,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 140,
+        "playersTotal": 141,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -33736,8 +33737,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1354,
-            "positive": 1166,
+            "total": 1353,
+            "positive": 1165,
             "negative": 188
         }
     },
@@ -33754,7 +33755,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
-        "playersTotal": 216,
+        "playersTotal": 217,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -33856,8 +33857,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 915,
-            "positive": 800,
+            "total": 916,
+            "positive": 801,
             "negative": 115
         }
     },
@@ -34174,7 +34175,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
-        "playersTotal": 402,
+        "playersTotal": 403,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -34216,8 +34217,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4787,
-            "positive": 4311,
+            "total": 4790,
+            "positive": 4314,
             "negative": 476
         }
     },
@@ -34517,8 +34518,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16284,
-            "positive": 15407,
+            "total": 16286,
+            "positive": 15409,
             "negative": 877
         }
     },
@@ -34577,8 +34578,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2047,
-            "positive": 2012,
+            "total": 2049,
+            "positive": 2014,
             "negative": 35
         }
     },
@@ -34817,8 +34818,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2337,
-            "positive": 2201,
+            "total": 2338,
+            "positive": 2202,
             "negative": 136
         }
     },
@@ -35058,8 +35059,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1088,
-            "positive": 1006,
+            "total": 1089,
+            "positive": 1007,
             "negative": 82
         }
     },
@@ -35136,7 +35137,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
-        "playersTotal": 496,
+        "playersTotal": 497,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -35178,8 +35179,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8437,
-            "positive": 6532,
+            "total": 8436,
+            "positive": 6531,
             "negative": 1905
         }
     },
@@ -35778,9 +35779,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21849,
-            "positive": 21320,
-            "negative": 529
+            "total": 21860,
+            "positive": 21329,
+            "negative": 531
         }
     },
     {
@@ -35916,7 +35917,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
-        "playersTotal": 29,
+        "playersTotal": 30,
         "priceData": {
             "USD": {
                 "initial": 399,
@@ -36018,8 +36019,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 200,
-            "positive": 181,
+            "total": 201,
+            "positive": 182,
             "negative": 19
         }
     },
@@ -36138,8 +36139,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6013,
-            "positive": 5608,
+            "total": 6014,
+            "positive": 5609,
             "negative": 405
         },
         "information": "To obtain a Super Clear on a Constellation level, you need to reach a specific score for that level, and if successful, all the stars within the related Constellation will brighten up and shine (You can see what that specific score is for every level on this page: [https://katamari.fandom.com/wiki/Super_Clear](https://katamari.fandom.com/wiki/Super_Clear)).\n\nTo obtain all Shooting Stars, or Meteors (also called Comets), you need to complete the main levels (Make a Star 1 to Make a Star 9, and Make a Moon) within a specific time limit (You can see what the time is for every level on this page: [https://katamari.fandom.com/wiki/Shooting_Stars](https://katamari.fandom.com/wiki/Shooting_Stars)).\n\nWARNING: When you finish a level, you'll have to choose between \"Make a Star\" or \"Make a Stardust\" (If you are playing a Constellation level, the options will be \"Make a Constellation\" and \"Make a Stardust\").\nMaking a Star/Constellation will rewrite your previous score, and save your current one, no matter if it's worse or better. Making a Stardust will not save your current score. When going for the PO, be sure to pick the \"Make a Star/Constellation\" option, otherwise your score won't be saved. Be aware that when Making a Star/Constellation your previous score will be deleted and you may lose progress for the PO. For example, if you obtained a Super Clear on the Cancer Constellation, and then you replay the level and finish it with a worse score, if you pick \"Make a Constellation\" then your current score will be saved, and you'll lose the Super Clear on that Constellation, forcing you to replay the level again for the Super Clear."
@@ -36157,7 +36158,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 12,
         "playersStarted": 115,
-        "playersTotal": 622,
+        "playersTotal": 623,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -36199,9 +36200,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 70899,
-            "positive": 69509,
-            "negative": 1390
+            "total": 70911,
+            "positive": 69520,
+            "negative": 1391
         }
     },
     {
@@ -36259,8 +36260,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 15706,
-            "positive": 15307,
+            "total": 15708,
+            "positive": 15309,
             "negative": 399
         }
     },
@@ -36319,8 +36320,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 15180,
-            "positive": 13979,
+            "total": 15183,
+            "positive": 13982,
             "negative": 1201
         }
     },
@@ -36341,33 +36342,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 70
             },
             "EUR": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 70
             },
             "GBP": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 209,
+                "discountPercent": 70
             },
             "JPY": {
                 "initial": 98000,
-                "final": 98000,
-                "discountPercent": 0
+                "final": 29400,
+                "discountPercent": 70
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 435,
+                "discountPercent": 70
             },
             "CAD": {
                 "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
+                "final": 329,
+                "discountPercent": 70
             }
         },
         "milestones": {
@@ -36439,8 +36440,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1846,
-            "positive": 1673,
+            "total": 1847,
+            "positive": 1674,
             "negative": 173
         },
         "information": "Coop Required (2 Players)\n---\nDLC Required:\n-The 100th Grand Ol' Telepost Tournament"
@@ -36560,8 +36561,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1557,
-            "positive": 1467,
+            "total": 1558,
+            "positive": 1468,
             "negative": 90
         }
     },
@@ -36620,8 +36621,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2094,
-            "positive": 1985,
+            "total": 2097,
+            "positive": 1988,
             "negative": 109
         }
     },
@@ -36735,8 +36736,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 438,
-            "positive": 428,
+            "total": 437,
+            "positive": 427,
             "negative": 10
         }
     },
@@ -36916,9 +36917,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 7518,
-            "positive": 6279,
-            "negative": 1239
+            "total": 7527,
+            "positive": 6287,
+            "negative": 1240
         }
     },
     {
@@ -37156,8 +37157,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 644,
-            "positive": 551,
+            "total": 643,
+            "positive": 550,
             "negative": 93
         }
     },
@@ -37337,9 +37338,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 35124,
-            "positive": 32604,
-            "negative": 2520
+            "total": 35137,
+            "positive": 32616,
+            "negative": 2521
         },
         "information": "To play without subscription: Download the benchmarks playlist with the code \"KovaaKsRocketingVermilionCt\", play its scenarios. Upload scores.\nMeet the requisites on [this image](https://i.imgur.com/doyjhRr.png)."
     },
@@ -37480,33 +37481,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 374,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 374,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
+                "final": 274,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 148000,
-                "final": 148000,
-                "discountPercent": 0
+                "final": 37000,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 2150,
-                "final": 2150,
-                "discountPercent": 0
+                "final": 537,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 1699,
-                "final": 1699,
-                "discountPercent": 0
+                "final": 424,
+                "discountPercent": 75
             }
         },
         "milestones": {
@@ -37518,9 +37519,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2465,
-            "positive": 1963,
-            "negative": 502
+            "total": 2468,
+            "positive": 1965,
+            "negative": 503
         }
     },
     {
@@ -37540,33 +37541,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 2499,
-                "final": 2499,
-                "discountPercent": 0
+                "final": 999,
+                "discountPercent": 60
             },
             "EUR": {
                 "initial": 2099,
-                "final": 2099,
-                "discountPercent": 0
+                "final": 839,
+                "discountPercent": 60
             },
             "GBP": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 779,
+                "discountPercent": 60
             },
             "JPY": {
                 "initial": 248000,
-                "final": 248000,
-                "discountPercent": 0
+                "final": 99200,
+                "discountPercent": 60
             },
             "AUD": {
                 "initial": 3595,
-                "final": 3595,
-                "discountPercent": 0
+                "final": 1438,
+                "discountPercent": 60
             },
             "CAD": {
                 "initial": 2899,
-                "final": 2899,
-                "discountPercent": 0
+                "final": 1159,
+                "discountPercent": 60
             }
         },
         "milestones": {
@@ -37656,7 +37657,7 @@ var data =
         "updatedAt": "2025-05-18T15:45:47.000Z",
         "playersCompleted": 2,
         "playersStarted": 28,
-        "playersTotal": 117,
+        "playersTotal": 118,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -37698,9 +37699,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2066,
+            "total": 2067,
             "positive": 1981,
-            "negative": 85
+            "negative": 86
         }
     },
     {
@@ -37758,9 +37759,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2687,
+            "total": 2688,
             "positive": 1910,
-            "negative": 777
+            "negative": 778
         }
     },
     {
@@ -38298,9 +38299,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 51970,
-            "positive": 47891,
-            "negative": 4079
+            "total": 52012,
+            "positive": 47929,
+            "negative": 4083
         }
     },
     {
@@ -38676,7 +38677,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 181,
         "playersStarted": 0,
-        "playersTotal": 859,
+        "playersTotal": 860,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -38718,9 +38719,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 57028,
-            "positive": 52818,
-            "negative": 4210
+            "total": 57047,
+            "positive": 52835,
+            "negative": 4212
         }
     },
     {
@@ -38838,8 +38839,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 623,
-            "positive": 587,
+            "total": 624,
+            "positive": 588,
             "negative": 36
         }
     },
@@ -38856,7 +38857,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 68,
         "playersStarted": 0,
-        "playersTotal": 1201,
+        "playersTotal": 1202,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -38898,8 +38899,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 109957,
-            "positive": 104247,
+            "total": 109975,
+            "positive": 104265,
             "negative": 5710
         }
     },
@@ -39138,8 +39139,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2748,
-            "positive": 2500,
+            "total": 2750,
+            "positive": 2502,
             "negative": 248
         }
     },
@@ -39198,9 +39199,9 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 41481,
-            "positive": 27494,
-            "negative": 13987
+            "total": 41527,
+            "positive": 27534,
+            "negative": 13993
         }
     },
     {
@@ -39258,8 +39259,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2243,
-            "positive": 2125,
+            "total": 2248,
+            "positive": 2130,
             "negative": 118
         }
     },
@@ -39678,8 +39679,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5405,
-            "positive": 4634,
+            "total": 5407,
+            "positive": 4636,
             "negative": 771
         }
     },
@@ -39757,7 +39758,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 135,
         "playersStarted": 0,
-        "playersTotal": 324,
+        "playersTotal": 325,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -40279,8 +40280,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 631,
-            "positive": 595,
+            "total": 632,
+            "positive": 596,
             "negative": 36
         }
     },
@@ -40399,9 +40400,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12679,
-            "positive": 10857,
-            "negative": 1822
+            "total": 12682,
+            "positive": 10859,
+            "negative": 1823
         },
         "information": "Use the following for map layouts, tips, and general information: \n\nhttps://docs.google.com/document/d/1zKVlaPvk8Y4Z1KyalNkBUxYxsbF6MU9ouM4Oul-VYGc/edit?tab=t.0"
     },
@@ -40460,8 +40461,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 250,
-            "positive": 221,
+            "total": 251,
+            "positive": 222,
             "negative": 29
         }
     },
@@ -40760,9 +40761,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 837,
+            "total": 838,
             "positive": 812,
-            "negative": 25
+            "negative": 26
         }
     },
     {
@@ -41121,9 +41122,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 56938,
-            "positive": 49291,
-            "negative": 7647
+            "total": 56951,
+            "positive": 49301,
+            "negative": 7650
         }
     },
     {
@@ -41361,8 +41362,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2386,
-            "positive": 1801,
+            "total": 2387,
+            "positive": 1802,
             "negative": 585
         }
     },
@@ -41379,7 +41380,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
-        "playersTotal": 133,
+        "playersTotal": 134,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -41421,8 +41422,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 7066,
-            "positive": 6713,
+            "total": 7067,
+            "positive": 6714,
             "negative": 353
         }
     },
@@ -41499,7 +41500,7 @@ var data =
         "updatedAt": "2025-05-16T05:14:57.000Z",
         "playersCompleted": 0,
         "playersStarted": 36,
-        "playersTotal": 492,
+        "playersTotal": 493,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -41536,9 +41537,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 83061,
-            "positive": 79776,
-            "negative": 3285
+            "total": 83069,
+            "positive": 79781,
+            "negative": 3288
         }
     },
     {
@@ -41596,9 +41597,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2400,
+            "total": 2399,
             "positive": 2065,
-            "negative": 335
+            "negative": 334
         }
     },
     {
@@ -41656,9 +41657,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4443,
+            "total": 4442,
             "positive": 3968,
-            "negative": 475
+            "negative": 474
         }
     },
     {
@@ -41716,9 +41717,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3549,
+            "total": 3550,
             "positive": 3131,
-            "negative": 418
+            "negative": 419
         }
     },
     {
@@ -41734,7 +41735,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 157,
+        "playersTotal": 158,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -41776,8 +41777,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 15700,
-            "positive": 15079,
+            "total": 15708,
+            "positive": 15087,
             "negative": 621
         }
     },
@@ -42034,7 +42035,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
-        "playersTotal": 59,
+        "playersTotal": 60,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -42454,7 +42455,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 89,
+        "playersTotal": 90,
         "priceData": {
             "USD": {
                 "initial": 199,
@@ -42556,8 +42557,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 15637,
-            "positive": 15031,
+            "total": 15639,
+            "positive": 15033,
             "negative": 606
         }
     },
@@ -42616,9 +42617,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21361,
-            "positive": 20550,
-            "negative": 811
+            "total": 21368,
+            "positive": 20556,
+            "negative": 812
         }
     },
     {
@@ -42874,7 +42875,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 57,
         "playersStarted": 0,
-        "playersTotal": 296,
+        "playersTotal": 297,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -43049,7 +43050,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 75,
         "playersStarted": 0,
-        "playersTotal": 441,
+        "playersTotal": 442,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -43091,8 +43092,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 11238,
-            "positive": 10496,
+            "total": 11240,
+            "positive": 10498,
             "negative": 742
         }
     },
@@ -43151,8 +43152,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21749,
-            "positive": 20879,
+            "total": 21755,
+            "positive": 20885,
             "negative": 870
         }
     },
@@ -43332,9 +43333,9 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 1116,
+            "total": 1117,
             "positive": 692,
-            "negative": 424
+            "negative": 425
         },
         "information": "Requires Antique Antics and Sliced Peak DLC for the Developer Times PO."
     },
@@ -43393,9 +43394,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2078,
+            "total": 2079,
             "positive": 1654,
-            "negative": 424
+            "negative": 425
         }
     },
     {
@@ -43650,33 +43651,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 399,
-                "final": 399,
-                "discountPercent": 0
+                "final": 79,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 49800,
-                "final": 49800,
-                "discountPercent": 0
+                "final": 9900,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 750,
-                "final": 750,
-                "discountPercent": 0
+                "final": 150,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 549,
-                "final": 549,
-                "discountPercent": 0
+                "final": 109,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -43710,33 +43711,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 60
             },
             "EUR": {
                 "initial": 399,
-                "final": 399,
-                "discountPercent": 0
+                "final": 159,
+                "discountPercent": 60
             },
             "GBP": {
                 "initial": 399,
-                "final": 399,
-                "discountPercent": 0
+                "final": 159,
+                "discountPercent": 60
             },
             "JPY": {
                 "initial": 52000,
-                "final": 52000,
-                "discountPercent": 0
+                "final": 20800,
+                "discountPercent": 60
             },
             "AUD": {
                 "initial": 750,
-                "final": 750,
-                "discountPercent": 0
+                "final": 300,
+                "discountPercent": 60
             },
             "CAD": {
                 "initial": 569,
-                "final": 569,
-                "discountPercent": 0
+                "final": 227,
+                "discountPercent": 60
             }
         },
         "milestones": {
@@ -43766,7 +43767,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 33,
-        "playersTotal": 1080,
+        "playersTotal": 1081,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -43808,8 +43809,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 114795,
-            "positive": 104713,
+            "total": 114802,
+            "positive": 104720,
             "negative": 10082
         }
     },
@@ -43988,8 +43989,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6227,
-            "positive": 5551,
+            "total": 6228,
+            "positive": 5552,
             "negative": 676
         }
     },
@@ -44185,7 +44186,7 @@ var data =
         "createdAt": "2020-01-28T08:19:37.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 19,
-        "playersStarted": 26,
+        "playersStarted": 27,
         "playersTotal": 332,
         "priceData": {
             "USD": {
@@ -44228,8 +44229,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 27482,
-            "positive": 26301,
+            "total": 27485,
+            "positive": 26304,
             "negative": 1181
         }
     },
@@ -44288,9 +44289,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3200,
+            "total": 3199,
             "positive": 2998,
-            "negative": 202
+            "negative": 201
         },
         "information": "[Curated on Steam](https://store.steampowered.com/app/230270/N_NPLUSPLUS/?curator_clanid=36185934)\n\nDue to the game having issues with save file corruption, it is VERY STRONGLY recommended to disable Steam Cloud for this game and to make manual backups when significant progress is made. If you don't do this, you run the risk of losing all progress and starting all over again.\n\nMore info found here: [https://steamcommunity.com/sharedfiles/filedetails/?id=1821198112](https://steamcommunity.com/sharedfiles/filedetails/?id=1821198112)\n\n\nFor the Community Objectives, the \"N++ Custom Tab Completions\" spreadsheet can be found below. It contains a completions tracker, and links to all released map packs (\"Map links\" sheet).\n\n[N++ Custom Tab Completions Spreadsheet](https://docs.google.com/spreadsheets/d/19sPxQ8SdHc_ksA9Z3ye3iAI-8c1w-jjur8PLZyK1zfs)"
     },
@@ -44365,7 +44366,7 @@ var data =
         "points": 15,
         "createdAt": "2025-01-02T07:15:44.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 14,
         "priceData": {
@@ -44409,8 +44410,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 825,
-            "positive": 785,
+            "total": 827,
+            "positive": 787,
             "negative": 40
         }
     },
@@ -44727,7 +44728,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 82,
         "playersStarted": 82,
-        "playersTotal": 392,
+        "playersTotal": 393,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -44769,8 +44770,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 17634,
-            "positive": 17314,
+            "total": 17638,
+            "positive": 17318,
             "negative": 320
         },
         "information": " For Community Objectives, the NeonLite mod can be downloaded from: <https://github.com/Faustas156/NeonLite/releases>"
@@ -45148,7 +45149,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 28,
         "playersStarted": 32,
-        "playersTotal": 128,
+        "playersTotal": 129,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -45190,9 +45191,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 28148,
-            "positive": 26782,
-            "negative": 1366
+            "total": 28200,
+            "positive": 26831,
+            "negative": 1369
         },
         "information": "Ordered list of bosses for the community objective:\n1: Kuafu / Goumang / Yanlao\n2: Jiequan\n3: Lady Ethereal\n4: Ji / Feng Twins\n5: True Eigong"
     },
@@ -45371,9 +45372,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 45329,
-            "positive": 39826,
-            "negative": 5503
+            "total": 45341,
+            "positive": 39835,
+            "negative": 5506
         }
     },
     {
@@ -45431,9 +45432,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 34828,
-            "positive": 27819,
-            "negative": 7009
+            "total": 34831,
+            "positive": 27820,
+            "negative": 7011
         }
     },
     {
@@ -45611,8 +45612,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 78113,
-            "positive": 74407,
+            "total": 78132,
+            "positive": 74426,
             "negative": 3706
         }
     },
@@ -45869,7 +45870,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 43,
         "playersStarted": 21,
-        "playersTotal": 609,
+        "playersTotal": 610,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -45912,8 +45913,8 @@ var data =
         "reviews": {
             "description": "Overwhelmingly Positive",
             "total": 17952,
-            "positive": 17250,
-            "negative": 702
+            "positive": 17252,
+            "negative": 700
         }
     },
     {
@@ -45971,8 +45972,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1630,
-            "positive": 1468,
+            "total": 1631,
+            "positive": 1469,
             "negative": 162
         }
     },
@@ -46211,8 +46212,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1317,
-            "positive": 1162,
+            "total": 1318,
+            "positive": 1163,
             "negative": 155
         }
     },
@@ -46686,9 +46687,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 861,
-            "positive": 677,
-            "negative": 184
+            "total": 863,
+            "positive": 678,
+            "negative": 185
         }
     },
     {
@@ -46926,8 +46927,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 16290,
-            "positive": 15953,
+            "total": 16289,
+            "positive": 15952,
             "negative": 337
         }
     },
@@ -47166,9 +47167,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 7418,
+            "total": 7419,
             "positive": 6926,
-            "negative": 492
+            "negative": 493
         }
     },
     {
@@ -47286,8 +47287,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 941,
-            "positive": 752,
+            "total": 942,
+            "positive": 753,
             "negative": 189
         }
     },
@@ -47304,7 +47305,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 104,
         "playersStarted": 0,
-        "playersTotal": 225,
+        "playersTotal": 226,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -47489,33 +47490,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 249,
-                "discountPercent": 50
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 499,
-                "final": 249,
-                "discountPercent": 50
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 429,
-                "final": 214,
-                "discountPercent": 50
+                "final": 429,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 58000,
-                "final": 29000,
-                "discountPercent": 50
+                "final": 58000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 750,
-                "final": 375,
-                "discountPercent": 50
+                "final": 750,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 649,
-                "final": 324,
-                "discountPercent": 50
+                "final": 649,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -47527,8 +47528,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1356,
-            "positive": 1339,
+            "total": 1357,
+            "positive": 1340,
             "negative": 17
         }
     },
@@ -47545,7 +47546,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 96,
         "playersStarted": 0,
-        "playersTotal": 910,
+        "playersTotal": 911,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -47587,8 +47588,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 66816,
-            "positive": 63635,
+            "total": 66834,
+            "positive": 63653,
             "negative": 3181
         }
     },
@@ -47647,8 +47648,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 136412,
-            "positive": 131734,
+            "total": 136429,
+            "positive": 131751,
             "negative": 4678
         }
     },
@@ -47707,8 +47708,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3375,
-            "positive": 3141,
+            "total": 3374,
+            "positive": 3140,
             "negative": 234
         }
     },
@@ -47942,9 +47943,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 55352,
-            "positive": 50546,
-            "negative": 4806
+            "total": 55360,
+            "positive": 50555,
+            "negative": 4805
         }
     },
     {
@@ -48015,7 +48016,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 4,
         "playersStarted": 36,
-        "playersTotal": 443,
+        "playersTotal": 444,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -48057,9 +48058,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 72545,
-            "positive": 65751,
-            "negative": 6794
+            "total": 72553,
+            "positive": 65757,
+            "negative": 6796
         },
         "information": "Game is valued assuming co-op."
     },
@@ -48437,33 +48438,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 259,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 259,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 132000,
-                "final": 132000,
-                "discountPercent": 0
+                "final": 26400,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 1850,
-                "final": 1850,
-                "discountPercent": 0
+                "final": 370,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 259,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -48535,9 +48536,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 41655,
-            "positive": 36044,
-            "negative": 5611
+            "total": 41658,
+            "positive": 36045,
+            "negative": 5613
         }
     },
     {
@@ -48655,9 +48656,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 29450,
-            "positive": 28234,
-            "negative": 1216
+            "total": 29452,
+            "positive": 28235,
+            "negative": 1217
         }
     },
     {
@@ -49153,7 +49154,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 34,
         "playersStarted": 16,
-        "playersTotal": 1078,
+        "playersTotal": 1079,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -49195,9 +49196,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 662865,
-            "positive": 594110,
-            "negative": 68755
+            "total": 662885,
+            "positive": 594121,
+            "negative": 68764
         }
     },
     {
@@ -49213,7 +49214,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 48,
         "playersStarted": 7,
-        "playersTotal": 452,
+        "playersTotal": 453,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -49255,8 +49256,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 40215,
-            "positive": 37563,
+            "total": 40216,
+            "positive": 37564,
             "negative": 2652
         }
     },
@@ -49315,9 +49316,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2848,
-            "positive": 2785,
-            "negative": 63
+            "total": 2851,
+            "positive": 2787,
+            "negative": 64
         }
     },
     {
@@ -49375,8 +49376,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 10761,
-            "positive": 10484,
+            "total": 10772,
+            "positive": 10495,
             "negative": 277
         }
     },
@@ -49435,8 +49436,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2664,
-            "positive": 2573,
+            "total": 2665,
+            "positive": 2574,
             "negative": 91
         }
     },
@@ -49615,9 +49616,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3965,
-            "positive": 3443,
-            "negative": 522
+            "total": 3967,
+            "positive": 3444,
+            "negative": 523
         }
     },
     {
@@ -49675,8 +49676,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16250,
-            "positive": 14327,
+            "total": 16254,
+            "positive": 14331,
             "negative": 1923
         }
     },
@@ -49795,8 +49796,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1615,
-            "positive": 1458,
+            "total": 1616,
+            "positive": 1459,
             "negative": 157
         }
     },
@@ -49933,7 +49934,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 35,
+        "playersTotal": 37,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -49975,8 +49976,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3147,
-            "positive": 3107,
+            "total": 3148,
+            "positive": 3108,
             "negative": 40
         }
     },
@@ -50035,8 +50036,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1357,
-            "positive": 1316,
+            "total": 1358,
+            "positive": 1317,
             "negative": 41
         }
     },
@@ -50270,9 +50271,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 66454,
-            "positive": 65362,
-            "negative": 1092
+            "total": 66473,
+            "positive": 65380,
+            "negative": 1093
         }
     },
     {
@@ -50421,18 +50422,23 @@ var data =
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 209,
-                "final": 209,
+                "initial": 249,
+                "final": 249,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 31000,
-                "final": 31000,
+                "initial": 35000,
+                "final": 35000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 450,
+                "final": 450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 339,
-                "final": 339,
+                "initial": 389,
+                "final": 389,
                 "discountPercent": 0
             }
         },
@@ -50566,8 +50572,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6102,
-            "positive": 5103,
+            "total": 6103,
+            "positive": 5104,
             "negative": 999
         }
     },
@@ -50746,8 +50752,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 176881,
-            "positive": 174175,
+            "total": 176903,
+            "positive": 174197,
             "negative": 2706
         }
     },
@@ -50759,12 +50765,12 @@ var data =
         "header": "https://cdn.cloudflare.steamstatic.com/steam/apps/223470/header.jpg",
         "genre": "First-Person",
         "tier": 1,
-        "points": 10,
+        "points": 11,
         "createdAt": "2023-02-14T18:44:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 31,
-        "playersStarted": 0,
-        "playersTotal": 498,
+        "updatedAt": "2025-05-22T03:50:28.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 31,
+        "playersTotal": 500,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -50798,17 +50804,17 @@ var data =
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "You should have signed my petition [10\u2605]\nBeat the original and DLC campaigns on \"POSTAL\" or harder difficulty.",
+            "primary": 2,
+            "primaryText": "I Regret Nothing (UNCLEARED) [1\u2605]\nBeat \"A Week in Paradise\" on Ludicrous difficulty.\n\nYou should have signed my petition [10\u2605]\nBeat the original and DLC campaigns on \"POSTAL\" or harder difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 89
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 115545,
-            "positive": 111916,
-            "negative": 3629
+            "total": 115585,
+            "positive": 111953,
+            "negative": 3632
         },
         "information": "DLC Required:\n-Paradise Lost"
     },
@@ -50825,7 +50831,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 241,
+        "playersTotal": 242,
         "priceData": {
             "USD": {
                 "initial": 899,
@@ -50867,8 +50873,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6727,
-            "positive": 6182,
+            "total": 6730,
+            "positive": 6185,
             "negative": 545
         }
     },
@@ -51107,8 +51113,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1400,
-            "positive": 1294,
+            "total": 1399,
+            "positive": 1293,
             "negative": 106
         }
     },
@@ -51227,8 +51233,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 600,
-            "positive": 582,
+            "total": 602,
+            "positive": 584,
             "negative": 18
         }
     },
@@ -51767,8 +51773,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1477,
-            "positive": 1298,
+            "total": 1479,
+            "positive": 1300,
             "negative": 179
         }
     },
@@ -51783,7 +51789,7 @@ var data =
         "points": 25,
         "createdAt": "2023-01-28T01:48:11.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 36,
+        "playersCompleted": 37,
         "playersStarted": 24,
         "playersTotal": 227,
         "priceData": {
@@ -51827,8 +51833,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2518,
-            "positive": 2058,
+            "total": 2517,
+            "positive": 2057,
             "negative": 460
         }
     },
@@ -51887,8 +51893,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5512,
-            "positive": 4646,
+            "total": 5515,
+            "positive": 4649,
             "negative": 866
         }
     },
@@ -52307,8 +52313,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 8665,
-            "positive": 8429,
+            "total": 8667,
+            "positive": 8431,
             "negative": 236
         },
         "information": "Mods can be downloaded through RNSReloaded. [Link](https://github.com/NotNite/RNSReloaded)"
@@ -52386,7 +52392,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 23,
         "playersStarted": 38,
-        "playersTotal": 462,
+        "playersTotal": 463,
         "priceData": {
             "USD": {
                 "initial": 1799,
@@ -52447,7 +52453,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
-        "playersTotal": 330,
+        "playersTotal": 331,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -52631,33 +52637,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 99,
-                "final": 99,
-                "discountPercent": 0
+                "final": 66,
+                "discountPercent": 33
             },
             "EUR": {
                 "initial": 99,
-                "final": 99,
-                "discountPercent": 0
+                "final": 66,
+                "discountPercent": 33
             },
             "GBP": {
                 "initial": 89,
-                "final": 89,
-                "discountPercent": 0
+                "final": 59,
+                "discountPercent": 34
             },
             "JPY": {
                 "initial": 12000,
-                "final": 12000,
-                "discountPercent": 0
+                "final": 8000,
+                "discountPercent": 33
             },
             "AUD": {
                 "initial": 150,
-                "final": 150,
-                "discountPercent": 0
+                "final": 100,
+                "discountPercent": 33
             },
             "CAD": {
                 "initial": 129,
-                "final": 129,
-                "discountPercent": 0
+                "final": 86,
+                "discountPercent": 33
             }
         },
         "milestones": {
@@ -52691,33 +52697,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 299,
-                "final": 299,
-                "discountPercent": 0
+                "final": 200,
+                "discountPercent": 33
             },
             "EUR": {
                 "initial": 299,
-                "final": 299,
-                "discountPercent": 0
+                "final": 200,
+                "discountPercent": 33
             },
             "GBP": {
                 "initial": 249,
-                "final": 249,
-                "discountPercent": 0
+                "final": 166,
+                "discountPercent": 33
             },
             "JPY": {
                 "initial": 35000,
-                "final": 35000,
-                "discountPercent": 0
+                "final": 23400,
+                "discountPercent": 33
             },
             "AUD": {
                 "initial": 450,
-                "final": 450,
-                "discountPercent": 0
+                "final": 301,
+                "discountPercent": 33
             },
             "CAD": {
                 "initial": 389,
-                "final": 389,
-                "discountPercent": 0
+                "final": 260,
+                "discountPercent": 33
             }
         },
         "milestones": {
@@ -52751,33 +52757,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 468,
+                "discountPercent": 33
             },
             "EUR": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 468,
+                "discountPercent": 33
             },
             "GBP": {
                 "initial": 599,
-                "final": 599,
-                "discountPercent": 0
+                "final": 401,
+                "discountPercent": 33
             },
             "JPY": {
                 "initial": 80000,
-                "final": 80000,
-                "discountPercent": 0
+                "final": 53600,
+                "discountPercent": 33
             },
             "AUD": {
                 "initial": 1025,
-                "final": 1025,
-                "discountPercent": 0
+                "final": 686,
+                "discountPercent": 33
             },
             "CAD": {
                 "initial": 899,
-                "final": 899,
-                "discountPercent": 0
+                "final": 602,
+                "discountPercent": 33
             }
         },
         "milestones": {
@@ -53029,9 +53035,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 41931,
-            "positive": 39471,
-            "negative": 2460
+            "total": 41954,
+            "positive": 39491,
+            "negative": 2463
         },
         "information": "All objectives other than Karmic Reunion require the Downpour DLC.\n\nNoblest Sacrifice requires that you have Speedrun Validation enabled, and the following disabled, for the entirety of your run: Visual Breath Meter, Increased Stun Times, Pull Spears from Walls, Vanilla Exploits, Wiggle out of Grasps, No Randomized Cycle Durations, All Major Assists, All MSC Gameplay-Affecting Cheats, and Developer Commentary."
     },
@@ -53292,33 +53298,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 3999,
-                "final": 3999,
-                "discountPercent": 0
+                "final": 799,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 3699,
-                "final": 3699,
-                "discountPercent": 0
+                "final": 739,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 2999,
-                "final": 2999,
-                "discountPercent": 0
+                "final": 599,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 398000,
-                "final": 398000,
-                "discountPercent": 0
+                "final": 79600,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 5695,
-                "final": 5695,
-                "discountPercent": 0
+                "final": 1139,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 4399,
-                "final": 4399,
-                "discountPercent": 0
+                "final": 879,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -53409,7 +53415,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 3,
+        "playersTotal": 4,
         "priceData": {
             "USD": {
                 "initial": 4999,
@@ -53512,8 +53518,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6234,
-            "positive": 5156,
+            "total": 6236,
+            "positive": 5158,
             "negative": 1078
         },
         "information": "Dollars & Disasters, and Sand & Secrets DLC are required for World Domination and Unyielding Conquest POs."
@@ -53753,8 +53759,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 223,
-            "positive": 198,
+            "total": 224,
+            "positive": 199,
             "negative": 25
         },
         "information": "The Zodiac Master title is missable - it appears only briefly on the results screen, which appears after \"Game Over\" text after the credits. It also only appears for the first 1CC (though if it's also the first game clear it won't pop up). See the following video for an example (in Japanese): https://youtu.be/Mw2qKK2OBpg?t=2529\n\nYou're better off recording the run."
@@ -53874,9 +53880,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 52642,
-            "positive": 44597,
-            "negative": 8045
+            "total": 52637,
+            "positive": 44593,
+            "negative": 8044
         }
     },
     {
@@ -53994,8 +54000,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 26666,
-            "positive": 24522,
+            "total": 26669,
+            "positive": 24525,
             "negative": 2144
         }
     },
@@ -54054,9 +54060,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 172345,
-            "positive": 167144,
-            "negative": 5201
+            "total": 172377,
+            "positive": 167177,
+            "negative": 5200
         }
     },
     {
@@ -54114,9 +54120,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 90929,
-            "positive": 74273,
-            "negative": 16656
+            "total": 90935,
+            "positive": 74277,
+            "negative": 16658
         }
     },
     {
@@ -54174,8 +54180,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 180503,
-            "positive": 176359,
+            "total": 180579,
+            "positive": 176435,
             "negative": 4144
         }
     },
@@ -54234,8 +54240,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 82126,
-            "positive": 76697,
+            "total": 82152,
+            "positive": 76723,
             "negative": 5429
         }
     },
@@ -54294,9 +54300,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 97457,
-            "positive": 92843,
-            "negative": 4614
+            "total": 97478,
+            "positive": 92863,
+            "negative": 4615
         }
     },
     {
@@ -54354,9 +54360,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 8399,
+            "total": 8400,
             "positive": 6885,
-            "negative": 1514
+            "negative": 1515
         }
     },
     {
@@ -54475,8 +54481,8 @@ var data =
         "reviews": {
             "description": "Very Positive",
             "total": 2253,
-            "positive": 1853,
-            "negative": 400
+            "positive": 1854,
+            "negative": 399
         },
         "information": "Balanced around stable version. Uncleared objectives should be done there instead of beta.\n\nGuide for all hidden achievements: https://steamcommunity.com/sharedfiles/filedetails/?id=2971250949\n\nNote: Shard 100 may move to PO in the future if it is proven possible. Currently CO as a placeholder."
     },
@@ -54497,33 +54503,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 139,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 98000,
-                "final": 98000,
-                "discountPercent": 0
+                "final": 19600,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 290,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
+                "final": 219,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -54716,8 +54722,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21158,
-            "positive": 20827,
+            "total": 21160,
+            "positive": 20829,
             "negative": 331
         }
     },
@@ -54854,7 +54860,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 24,
         "playersStarted": 12,
-        "playersTotal": 112,
+        "playersTotal": 113,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -55017,8 +55023,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2312,
-            "positive": 1722,
+            "total": 2313,
+            "positive": 1723,
             "negative": 590
         }
     },
@@ -55378,9 +55384,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 135938,
-            "positive": 127857,
-            "negative": 8081
+            "total": 135959,
+            "positive": 127876,
+            "negative": 8083
         }
     },
     {
@@ -55455,8 +55461,8 @@ var data =
         "createdAt": "2020-01-28T08:25:30.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 34,
-        "playersStarted": 186,
-        "playersTotal": 772,
+        "playersStarted": 187,
+        "playersTotal": 773,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -55498,9 +55504,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 29606,
-            "positive": 27639,
-            "negative": 1967
+            "total": 29609,
+            "positive": 27640,
+            "negative": 1969
         }
     },
     {
@@ -55514,9 +55520,9 @@ var data =
         "points": 25,
         "createdAt": "2020-08-25T13:13:02.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 40,
+        "playersCompleted": 41,
         "playersStarted": 154,
-        "playersTotal": 1149,
+        "playersTotal": 1150,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -55558,9 +55564,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 311872,
-            "positive": 291516,
-            "negative": 20356
+            "total": 311990,
+            "positive": 291633,
+            "negative": 20357
         },
         "information": "\"Survivors of the Void\" DLC is required for \"Hailstorm\" and \"Cosmic Odyssey\"."
     },
@@ -55619,9 +55625,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 27774,
-            "positive": 25055,
-            "negative": 2719
+            "total": 27779,
+            "positive": 25059,
+            "negative": 2720
         }
     },
     {
@@ -56057,7 +56063,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
-        "playersTotal": 191,
+        "playersTotal": 192,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -56099,9 +56105,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21521,
-            "positive": 20546,
-            "negative": 975
+            "total": 21530,
+            "positive": 20553,
+            "negative": 977
         }
     },
     {
@@ -56279,8 +56285,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 165,
-            "positive": 164,
+            "total": 166,
+            "positive": 165,
             "negative": 1
         }
     },
@@ -56399,8 +56405,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 18472,
-            "positive": 17120,
+            "total": 18473,
+            "positive": 17121,
             "negative": 1352
         }
     },
@@ -56459,9 +56465,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 14444,
-            "positive": 13119,
-            "negative": 1325
+            "total": 14446,
+            "positive": 13120,
+            "negative": 1326
         }
     },
     {
@@ -56519,8 +56525,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3834,
-            "positive": 3214,
+            "total": 3835,
+            "positive": 3215,
             "negative": 620
         }
     },
@@ -56541,33 +56547,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 139,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 98000,
-                "final": 98000,
-                "discountPercent": 0
+                "final": 19600,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 290,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
+                "final": 219,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -56644,6 +56650,67 @@ var data =
             "negative": 7
         },
         "information": "You can find information about the achievement requirements and time stars here: [https://docs.google.com/spreadsheets/d/19Rx-eCpsetRiSG7K2th3AtpD3Ntm5p7Z4h6p8RqmP0E](https://docs.google.com/spreadsheets/d/19Rx-eCpsetRiSG7K2th3AtpD3Ntm5p7Z4h6p8RqmP0E)"
+    },
+    {
+        "gameType": 0,
+        "platformId": 3443430,
+        "CEId": "66773fe6-2866-43c9-a006-5873e6ca89b0",
+        "name": "Rotschwert",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3443430/e89eb85763cec10f8b578d00e900309285d7b72c/header.jpg?t=1746512534",
+        "genre": "Bullet Hell",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2025-05-21T22:51:17.000Z",
+        "updatedAt": "2025-05-22T06:57:40.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 1,
+        "priceData": {
+            "USD": {
+                "initial": 499,
+                "final": 399,
+                "discountPercent": 20
+            },
+            "EUR": {
+                "initial": 499,
+                "final": 399,
+                "discountPercent": 20
+            },
+            "GBP": {
+                "initial": 429,
+                "final": 343,
+                "discountPercent": 20
+            },
+            "JPY": {
+                "initial": 58000,
+                "final": 46400,
+                "discountPercent": 20
+            },
+            "AUD": {
+                "initial": 750,
+                "final": 600,
+                "discountPercent": 20
+            },
+            "CAD": {
+                "initial": 649,
+                "final": 519,
+                "discountPercent": 20
+            }
+        },
+        "milestones": {
+            "primary": 3,
+            "primaryText": "End of Ego [10\u2605]\nBeat the game on \"AlterEgo\" difficulty.\n\nImpure Assault [5\u2605]\nBeat the game on \"Vivid Nightmare\" difficulty.\n\nBedtime Story [5\u2605]\nBeat the game on \"Ordinary Dream\" difficulty or higher.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 0
+        },
+        "reviews": {
+            "description": "8 user reviews",
+            "total": 8,
+            "positive": 8,
+            "negative": 0
+        },
+        "information": "It's recommended to go through each difficulty in ascending order (even Relaxed Reverie).\n\n"
     },
     {
         "gameType": 0,
@@ -57000,9 +57067,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 11580,
+            "total": 11581,
             "positive": 10373,
-            "negative": 1207
+            "negative": 1208
         }
     },
     {
@@ -57383,33 +57450,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 999,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 1950,
-                "final": 1950,
-                "discountPercent": 0
+                "final": 975,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 1675,
-                "final": 1675,
-                "discountPercent": 0
+                "final": 837,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 198000,
-                "final": 198000,
-                "discountPercent": 0
+                "final": 99000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 2950,
-                "final": 2950,
-                "discountPercent": 0
+                "final": 1475,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 2599,
-                "final": 2599,
-                "discountPercent": 0
+                "final": 1299,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -57422,8 +57489,8 @@ var data =
         "reviews": {
             "description": "Very Positive",
             "total": 1249,
-            "positive": 1123,
-            "negative": 126
+            "positive": 1122,
+            "negative": 127
         }
     },
     {
@@ -57656,9 +57723,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 20610,
-            "positive": 18448,
-            "negative": 2162
+            "total": 20613,
+            "positive": 18450,
+            "negative": 2163
         }
     },
     {
@@ -57734,7 +57801,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 51,
         "playersStarted": 0,
-        "playersTotal": 188,
+        "playersTotal": 190,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -57776,9 +57843,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 35612,
-            "positive": 34680,
-            "negative": 932
+            "total": 35626,
+            "positive": 34692,
+            "negative": 934
         }
     },
     {
@@ -58017,8 +58084,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2803,
-            "positive": 2583,
+            "total": 2802,
+            "positive": 2582,
             "negative": 220
         }
     },
@@ -58257,9 +58324,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 8326,
+            "total": 8327,
             "positive": 8062,
-            "negative": 264
+            "negative": 265
         }
     },
     {
@@ -58279,33 +58346,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1645,
-                "final": 1645,
-                "discountPercent": 0
+                "final": 987,
+                "discountPercent": 40
             },
             "EUR": {
                 "initial": 1645,
-                "final": 1645,
-                "discountPercent": 0
+                "final": 987,
+                "discountPercent": 40
             },
             "GBP": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 899,
+                "discountPercent": 40
             },
             "JPY": {
                 "initial": 198000,
-                "final": 198000,
-                "discountPercent": 0
+                "final": 118800,
+                "discountPercent": 40
             },
             "AUD": {
                 "initial": 2895,
-                "final": 2895,
-                "discountPercent": 0
+                "final": 1737,
+                "discountPercent": 40
             },
             "CAD": {
                 "initial": 2279,
-                "final": 2279,
-                "discountPercent": 0
+                "final": 1367,
+                "discountPercent": 40
             }
         },
         "milestones": {
@@ -58395,7 +58462,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 13,
-        "playersTotal": 333,
+        "playersTotal": 335,
         "priceData": {
             "USD": {
                 "initial": 1699,
@@ -58437,8 +58504,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2983,
-            "positive": 2604,
+            "total": 2982,
+            "positive": 2603,
             "negative": 379
         }
     },
@@ -58677,9 +58744,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 320921,
-            "positive": 305824,
-            "negative": 15097
+            "total": 320975,
+            "positive": 305874,
+            "negative": 15101
         }
     },
     {
@@ -58756,7 +58823,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 10,
         "playersStarted": 15,
-        "playersTotal": 297,
+        "playersTotal": 298,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -58798,9 +58865,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 27668,
-            "positive": 24446,
-            "negative": 3222
+            "total": 27666,
+            "positive": 24445,
+            "negative": 3221
         }
     },
     {
@@ -58859,8 +58926,8 @@ var data =
         "reviews": {
             "description": "Very Positive",
             "total": 16071,
-            "positive": 13407,
-            "negative": 2664
+            "positive": 13408,
+            "negative": 2663
         }
     },
     {
@@ -58876,7 +58943,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 16,
         "playersStarted": 21,
-        "playersTotal": 331,
+        "playersTotal": 332,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -58918,9 +58985,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 8172,
-            "positive": 7633,
-            "negative": 539
+            "total": 8173,
+            "positive": 7635,
+            "negative": 538
         }
     },
     {
@@ -59218,8 +59285,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1971,
-            "positive": 1789,
+            "total": 1970,
+            "positive": 1788,
             "negative": 182
         }
     },
@@ -59296,7 +59363,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 0,
         "playersStarted": 15,
-        "playersTotal": 230,
+        "playersTotal": 231,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -59338,8 +59405,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 26121,
-            "positive": 24043,
+            "total": 26122,
+            "positive": 24044,
             "negative": 2078
         }
     },
@@ -59716,7 +59783,7 @@ var data =
         "updatedAt": "2025-05-16T20:52:48.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 2,
+        "playersTotal": 3,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -59938,9 +60005,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 264,
+            "total": 265,
             "positive": 239,
-            "negative": 25
+            "negative": 26
         }
     },
     {
@@ -60179,8 +60246,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 217,
-            "positive": 212,
+            "total": 220,
+            "positive": 215,
             "negative": 5
         }
     },
@@ -60239,8 +60306,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6387,
-            "positive": 5854,
+            "total": 6392,
+            "positive": 5859,
             "negative": 533
         }
     },
@@ -60359,8 +60426,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 16089,
-            "positive": 15416,
+            "total": 16091,
+            "positive": 15418,
             "negative": 673
         }
     },
@@ -60479,9 +60546,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 20815,
-            "positive": 19251,
-            "negative": 1564
+            "total": 20838,
+            "positive": 19271,
+            "negative": 1567
         },
         "information": "[Gold stamp thresholds](https://steamcommunity.com/sharedfiles/filedetails/?id=2950984289\")"
     },
@@ -60859,7 +60926,7 @@ var data =
         "updatedAt": "2025-05-09T04:00:54.000Z",
         "playersCompleted": 0,
         "playersStarted": 7,
-        "playersTotal": 17,
+        "playersTotal": 18,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -60919,7 +60986,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 247,
+        "playersTotal": 248,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -60961,8 +61028,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 54735,
-            "positive": 51061,
+            "total": 54740,
+            "positive": 51066,
             "negative": 3674
         }
     },
@@ -61039,7 +61106,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 160,
+        "playersTotal": 161,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -61081,8 +61148,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 31253,
-            "positive": 27500,
+            "total": 31255,
+            "positive": 27502,
             "negative": 3753
         }
     },
@@ -61454,7 +61521,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 50,
         "playersStarted": 186,
-        "playersTotal": 962,
+        "playersTotal": 963,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -61496,9 +61563,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 181305,
-            "positive": 177324,
-            "negative": 3981
+            "total": 181350,
+            "positive": 177365,
+            "negative": 3985
         },
         "information": "Ben - \"Watcher is easiest character\""
     },
@@ -61917,8 +61984,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3193,
-            "positive": 2552,
+            "total": 3194,
+            "positive": 2553,
             "negative": 641
         }
     },
@@ -62157,9 +62224,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1249,
+            "total": 1250,
             "positive": 1136,
-            "negative": 113
+            "negative": 114
         }
     },
     {
@@ -62220,6 +62287,66 @@ var data =
             "total": 310,
             "positive": 231,
             "negative": 79
+        }
+    },
+    {
+        "gameType": 0,
+        "platformId": 2598190,
+        "CEId": "fc60e1fe-a571-4b73-9926-91708fbb5c2e",
+        "name": "SomnaBuster",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2598190/header.jpg?t=1727193356",
+        "genre": "Action",
+        "tier": 1,
+        "points": 10,
+        "createdAt": "2025-05-21T23:38:35.000Z",
+        "updatedAt": "2025-05-21T23:41:14.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 0,
+        "priceData": {
+            "USD": {
+                "initial": 1499,
+                "final": 1499,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1479,
+                "final": 1479,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1279,
+                "final": 1279,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 170000,
+                "final": 170000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 2195,
+                "final": 2195,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1499,
+                "final": 1499,
+                "discountPercent": 0
+            }
+        },
+        "milestones": {
+            "primary": 1,
+            "primaryText": "Ballista Busted [10\u2605]\nClear Boss Ballista.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 13
+        },
+        "reviews": {
+            "description": "Very Positive",
+            "total": 96,
+            "positive": 94,
+            "negative": 2
         }
     },
     {
@@ -62392,8 +62519,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 25359,
-            "positive": 22605,
+            "total": 25365,
+            "positive": 22611,
             "negative": 2754
         }
     },
@@ -62452,9 +62579,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16785,
-            "positive": 15355,
-            "negative": 1430
+            "total": 16789,
+            "positive": 15360,
+            "negative": 1429
         }
     },
     {
@@ -62512,8 +62639,8 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 7930,
-            "positive": 4721,
+            "total": 7931,
+            "positive": 4722,
             "negative": 3209
         },
         "information": "Should show stages 3,5,6,8,9,10,11,13,15,18,21,22,23,26,27,28,30,EX1,EX4,EX6,EX7"
@@ -62573,9 +62700,9 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 4935,
-            "positive": 3087,
-            "negative": 1848
+            "total": 4938,
+            "positive": 3089,
+            "negative": 1849
         }
     },
     {
@@ -62633,8 +62760,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 26082,
-            "positive": 24457,
+            "total": 26086,
+            "positive": 24461,
             "negative": 1625
         }
     },
@@ -62809,8 +62936,8 @@ var data =
         "reviews": {
             "description": "Mixed",
             "total": 2643,
-            "positive": 1809,
-            "negative": 834
+            "positive": 1810,
+            "negative": 833
         }
     },
     {
@@ -62826,7 +62953,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 29,
+        "playersTotal": 30,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -63169,8 +63296,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 437,
-            "positive": 395,
+            "total": 438,
+            "positive": 396,
             "negative": 42
         }
     },
@@ -63349,8 +63476,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1363,
-            "positive": 1260,
+            "total": 1364,
+            "positive": 1261,
             "negative": 103
         }
     },
@@ -63409,8 +63536,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1868,
-            "positive": 1810,
+            "total": 1870,
+            "positive": 1812,
             "negative": 58
         }
     },
@@ -63829,8 +63956,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 36705,
-            "positive": 34487,
+            "total": 36708,
+            "positive": 34490,
             "negative": 2218
         }
     },
@@ -63949,8 +64076,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16288,
-            "positive": 15002,
+            "total": 16287,
+            "positive": 15001,
             "negative": 1286
         }
     },
@@ -64009,8 +64136,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 20443,
-            "positive": 19023,
+            "total": 20445,
+            "positive": 19025,
             "negative": 1420
         }
     },
@@ -64069,8 +64196,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5556,
-            "positive": 5141,
+            "total": 5557,
+            "positive": 5142,
             "negative": 415
         }
     },
@@ -64550,8 +64677,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 69,
-            "positive": 63,
+            "total": 70,
+            "positive": 64,
             "negative": 6
         }
     },
@@ -65025,8 +65152,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2850,
-            "positive": 2755,
+            "total": 2853,
+            "positive": 2758,
             "negative": 95
         },
         "information": "The objectives have been valued with seeds in mind, as well as the use of the \"Overlord\" character when applicable."
@@ -65146,9 +65273,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 881711,
-            "positive": 867957,
-            "negative": 13754
+            "total": 881973,
+            "positive": 868218,
+            "negative": 13755
         }
     },
     {
@@ -65404,7 +65531,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 131,
+        "playersTotal": 132,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -65446,9 +65573,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 1027,
+            "total": 1028,
             "positive": 776,
-            "negative": 251
+            "negative": 252
         }
     },
     {
@@ -65464,7 +65591,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
-        "playersTotal": 512,
+        "playersTotal": 513,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -65506,8 +65633,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 7547,
-            "positive": 7206,
+            "total": 7552,
+            "positive": 7211,
             "negative": 341
         }
     },
@@ -65826,7 +65953,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 6,
         "playersStarted": 111,
-        "playersTotal": 198,
+        "playersTotal": 199,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -67128,9 +67255,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9838,
-            "positive": 8531,
-            "negative": 1307
+            "total": 9840,
+            "positive": 8535,
+            "negative": 1305
         }
     },
     {
@@ -67308,8 +67435,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4966,
-            "positive": 4783,
+            "total": 4967,
+            "positive": 4784,
             "negative": 183
         }
     },
@@ -67805,9 +67932,9 @@ var data =
         "points": 20,
         "createdAt": "2020-01-28T08:23:01.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 439,
+        "playersCompleted": 440,
         "playersStarted": 0,
-        "playersTotal": 1030,
+        "playersTotal": 1031,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -67849,8 +67976,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 24669,
-            "positive": 23898,
+            "total": 24672,
+            "positive": 23901,
             "negative": 771
         }
     },
@@ -68348,7 +68475,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 68,
         "playersStarted": 231,
-        "playersTotal": 1328,
+        "playersTotal": 1329,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -68390,9 +68517,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 35456,
-            "positive": 33541,
-            "negative": 1915
+            "total": 35459,
+            "positive": 33543,
+            "negative": 1916
         }
     },
     {
@@ -68450,8 +68577,8 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 1604,
-            "positive": 899,
+            "total": 1603,
+            "positive": 898,
             "negative": 705
         }
     },
@@ -68827,8 +68954,8 @@ var data =
         "createdAt": "2025-03-02T18:18:39.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 2,
-        "playersStarted": 0,
-        "playersTotal": 4,
+        "playersStarted": 1,
+        "playersTotal": 5,
         "priceData": {
             "USD": {
                 "initial": 1699,
@@ -69166,8 +69293,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 164,
-            "positive": 139,
+            "total": 163,
+            "positive": 138,
             "negative": 25
         }
     },
@@ -69364,7 +69491,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 162,
         "playersStarted": 28,
-        "playersTotal": 675,
+        "playersTotal": 676,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -69406,9 +69533,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 38701,
-            "positive": 35321,
-            "negative": 3380
+            "total": 38705,
+            "positive": 35323,
+            "negative": 3382
         }
     },
     {
@@ -69466,9 +69593,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9075,
-            "positive": 7451,
-            "negative": 1624
+            "total": 9080,
+            "positive": 7454,
+            "negative": 1626
         },
         "information": "This game requires a VR headset in order to play."
     },
@@ -69485,7 +69612,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 11,
         "playersStarted": 62,
-        "playersTotal": 266,
+        "playersTotal": 267,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -69587,8 +69714,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 30046,
-            "positive": 28423,
+            "total": 30045,
+            "positive": 28422,
             "negative": 1623
         }
     },
@@ -69666,7 +69793,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 39,
+        "playersTotal": 40,
         "priceData": {
             "USD": {
                 "initial": 199,
@@ -69763,8 +69890,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16473,
-            "positive": 13549,
+            "total": 16474,
+            "positive": 13550,
             "negative": 2924
         }
     },
@@ -69902,7 +70029,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 219,
+        "playersTotal": 220,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -70141,7 +70268,7 @@ var data =
         "createdAt": "2024-11-27T08:18:36.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 0,
-        "playersStarted": 6,
+        "playersStarted": 7,
         "playersTotal": 29,
         "priceData": {
             "USD": {
@@ -70184,9 +70311,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 979,
+            "total": 980,
             "positive": 856,
-            "negative": 123
+            "negative": 124
         },
         "information": "Subscription/DLC songs currently not required for CE objectives."
     },
@@ -70245,9 +70372,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12311,
-            "positive": 10888,
-            "negative": 1423
+            "total": 12313,
+            "positive": 10889,
+            "negative": 1424
         }
     },
     {
@@ -70503,7 +70630,7 @@ var data =
         "createdAt": "2024-01-12T12:39:36.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 17,
-        "playersStarted": 0,
+        "playersStarted": 1,
         "playersTotal": 30,
         "priceData": {
             "USD": {
@@ -70846,8 +70973,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 13717,
-            "positive": 12947,
+            "total": 13720,
+            "positive": 12950,
             "negative": 770
         }
     },
@@ -71261,8 +71388,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 7904,
-            "positive": 7502,
+            "total": 7906,
+            "positive": 7504,
             "negative": 402
         }
     },
@@ -71579,7 +71706,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 119,
         "playersStarted": 36,
-        "playersTotal": 696,
+        "playersTotal": 697,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -71621,9 +71748,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 60228,
-            "positive": 57167,
-            "negative": 3061
+            "total": 60242,
+            "positive": 57179,
+            "negative": 3063
         },
         "information": "\"Wrath of the Lamb\" DLC is needed both for the \"Eternal Crybaby\" objective and 100% of the Steam achievements. "
     },
@@ -71700,7 +71827,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 36,
+        "playersTotal": 37,
         "priceData": {
             "USD": {
                 "initial": 1099,
@@ -71802,8 +71929,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1518,
-            "positive": 1442,
+            "total": 1519,
+            "positive": 1443,
             "negative": 76
         }
     },
@@ -71862,8 +71989,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 7465,
-            "positive": 6534,
+            "total": 7466,
+            "positive": 6535,
             "negative": 931
         }
     },
@@ -72042,8 +72169,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 30198,
-            "positive": 25736,
+            "total": 30202,
+            "positive": 25740,
             "negative": 4462
         }
     },
@@ -72102,8 +72229,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 28815,
-            "positive": 26570,
+            "total": 28817,
+            "positive": 26572,
             "negative": 2245
         }
     },
@@ -72342,8 +72469,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2514,
-            "positive": 2154,
+            "total": 2515,
+            "positive": 2155,
             "negative": 360
         }
     },
@@ -72480,7 +72607,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 102,
         "playersStarted": 0,
-        "playersTotal": 440,
+        "playersTotal": 441,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -72522,8 +72649,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 11830,
-            "positive": 11029,
+            "total": 11831,
+            "positive": 11030,
             "negative": 801
         },
         "information": "DLC Required:\n-Picnic Panic "
@@ -72943,8 +73070,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 10899,
-            "positive": 8198,
+            "total": 10900,
+            "positive": 8199,
             "negative": 2701
         }
     },
@@ -73003,9 +73130,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8467,
-            "positive": 6482,
-            "negative": 1985
+            "total": 8468,
+            "positive": 6484,
+            "negative": 1984
         }
     },
     {
@@ -73063,8 +73190,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1500,
-            "positive": 1228,
+            "total": 1501,
+            "positive": 1229,
             "negative": 272
         }
     },
@@ -73183,9 +73310,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 18868,
-            "positive": 16010,
-            "negative": 2858
+            "total": 18870,
+            "positive": 16011,
+            "negative": 2859
         }
     },
     {
@@ -73363,9 +73490,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2525,
+            "total": 2524,
             "positive": 2103,
-            "negative": 422
+            "negative": 421
         }
     },
     {
@@ -73381,7 +73508,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 286,
+        "playersTotal": 287,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -73423,8 +73550,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 23217,
-            "positive": 17302,
+            "total": 23218,
+            "positive": 17303,
             "negative": 5915
         }
     },
@@ -73800,9 +73927,9 @@ var data =
         "points": 5,
         "createdAt": "2023-01-05T09:09:55.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 28,
+        "playersCompleted": 29,
         "playersStarted": 0,
-        "playersTotal": 81,
+        "playersTotal": 82,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -73844,9 +73971,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 8413,
-            "positive": 7073,
-            "negative": 1340
+            "total": 8417,
+            "positive": 7076,
+            "negative": 1341
         }
     },
     {
@@ -74040,7 +74167,7 @@ var data =
         "points": 15,
         "createdAt": "2024-04-14T16:35:48.000Z",
         "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 5,
+        "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 175,
         "priceData": {
@@ -74084,9 +74211,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 11333,
+            "total": 11332,
             "positive": 10570,
-            "negative": 763
+            "negative": 762
         }
     },
     {
@@ -74342,7 +74469,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 63,
         "playersStarted": 12,
-        "playersTotal": 924,
+        "playersTotal": 925,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -75105,8 +75232,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 639,
-            "positive": 622,
+            "total": 640,
+            "positive": 623,
             "negative": 17
         }
     },
@@ -75766,8 +75893,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4495,
-            "positive": 4428,
+            "total": 4496,
+            "positive": 4429,
             "negative": 67
         }
     },
@@ -76243,8 +76370,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6570,
-            "positive": 5834,
+            "total": 6569,
+            "positive": 5833,
             "negative": 736
         }
     },
@@ -76501,7 +76628,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
-        "playersTotal": 54,
+        "playersTotal": 55,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -76543,8 +76670,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 13827,
-            "positive": 12921,
+            "total": 13833,
+            "positive": 12927,
             "negative": 906
         },
         "information": "Guide made by SomeMugger found here: https://steamcommunity.com/sharedfiles/filedetails/?id=3437966281"
@@ -76617,7 +76744,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 22,
         "playersStarted": 25,
-        "playersTotal": 159,
+        "playersTotal": 160,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -76678,7 +76805,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 11,
         "playersStarted": 27,
-        "playersTotal": 184,
+        "playersTotal": 185,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -76721,8 +76848,8 @@ var data =
         "reviews": {
             "description": "Mixed",
             "total": 2340,
-            "positive": 1578,
-            "negative": 762
+            "positive": 1577,
+            "negative": 763
         },
         "information": "The tracks for the \"Event Veteran\" CO can be found pinned in the Trials forum, as well as the instructions needed to play them through the editor."
     },
@@ -76901,8 +77028,8 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 2872,
-            "positive": 1830,
+            "total": 2874,
+            "positive": 1832,
             "negative": 1042
         },
         "information": "Trials Rising is partially linked with Trials Fusion and Trials Evolution in terms of value. The value of each game should not be considered correct in isolation, and the value of the franchise should be seen as a solid unit worth 1400 points, divided amongst the three games\n\nThere is no recommended order to play the games in, however, the order in which you play will have a huge impact on the perceived difficulty of the others due to skill transfer. \n\nAmong games where skill transfer is a complicated problem to incorporate into the value, trials uniquely has two sets of skills that are built separately, speedrunning and ninjas. Because of this, attempting to balance the value across several games and several skillsets is too difficult to reliably reference any given objective in the franchise as an accurate comparison point.\n\n\n\nYou can find a sheet containing all baselines for Fusion and Rising here: \n\n[https://docs.google.com/spreadsheets/d/1MxPlhkVTz18hmWxdp5RnjnkWCU3LYPAWoNES2xZHA_Q/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MxPlhkVTz18hmWxdp5RnjnkWCU3LYPAWoNES2xZHA_Q/edit?usp=sharing)"
@@ -76962,9 +77089,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 15646,
-            "positive": 14140,
-            "negative": 1506
+            "total": 15650,
+            "positive": 14145,
+            "negative": 1505
         }
     },
     {
@@ -77022,8 +77149,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 9766,
-            "positive": 9566,
+            "total": 9765,
+            "positive": 9565,
             "negative": 200
         }
     },
@@ -77202,8 +77329,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 15118,
-            "positive": 13861,
+            "total": 15125,
+            "positive": 13868,
             "negative": 1257
         }
     },
@@ -77262,8 +77389,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6455,
-            "positive": 6130,
+            "total": 6458,
+            "positive": 6133,
             "negative": 325
         }
     },
@@ -77798,8 +77925,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 6205,
-            "positive": 5940,
+            "total": 6207,
+            "positive": 5942,
             "negative": 265
         },
         "information": "The relevant games by category are as follows:\n\n__Arcade:__ Magic Garden, Pingolf, Paint Chaser, Bushido Ball, Planet Zoldath, Hot Foot, Onion Delivery, Campanella.\n\n__Action:__ Elfazar's Hat, Overbold, Fist Hell, Campanella 2, Cyber Owls.\n\n__Bullet Hell:__ Star Waspir, Caramel Caramel, Seaside Drive, Campanella 3.\n\n__Platformer:__ Ninpek, Waldorf's journey, Velgress, Kick Club, Rakshasa.\n\n__Strategy:__ Lords of Diskonia, Party House, Bug Hunter, Devilition."
@@ -77919,8 +78046,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 15670,
-            "positive": 14132,
+            "total": 15673,
+            "positive": 14135,
             "negative": 1538
         },
         "information": "Only the regular trial menu will award the \"Trial Athlete\" achievement, do not complete the non-DLC trials on the Ultra Trial menu."
@@ -78341,8 +78468,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 18638,
-            "positive": 17400,
+            "total": 18639,
+            "positive": 17401,
             "negative": 1238
         }
     },
@@ -78581,8 +78708,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 22023,
-            "positive": 21105,
+            "total": 22029,
+            "positive": 21111,
             "negative": 918
         }
     },
@@ -78641,8 +78768,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 800,
-            "positive": 647,
+            "total": 801,
+            "positive": 648,
             "negative": 153
         }
     },
@@ -78701,9 +78828,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1665,
+            "total": 1664,
             "positive": 1379,
-            "negative": 286
+            "negative": 285
         }
     },
     {
@@ -78881,8 +79008,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 78,
-            "positive": 77,
+            "total": 79,
+            "positive": 78,
             "negative": 1
         }
     },
@@ -79061,9 +79188,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 354,
+            "total": 355,
             "positive": 328,
-            "negative": 26
+            "negative": 27
         }
     },
     {
@@ -79121,8 +79248,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 21965,
-            "positive": 16981,
+            "total": 21968,
+            "positive": 16984,
             "negative": 4984
         }
     },
@@ -79781,8 +79908,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 381,
-            "positive": 376,
+            "total": 383,
+            "positive": 378,
             "negative": 5
         }
     },
@@ -79901,8 +80028,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2274,
-            "positive": 2059,
+            "total": 2278,
+            "positive": 2063,
             "negative": 215
         },
         "information": "Please note that while the challenge is easily accessible from the start, Void Stranger is best experienced blind - playing the game for extrinsic reasons runs the risk of tainting your experience with it."
@@ -79962,8 +80089,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4269,
-            "positive": 4122,
+            "total": 4270,
+            "positive": 4123,
             "negative": 147
         },
         "information": "Game has been valued in the context of the most powerful build. The build is:\n1. take back shield starting item\n2. carry any large melee weapon (including starting weapon like bomb rod)\n3. try to take any and all stomp or button items\n\nThen spam jump and hold block whenever in combat for the rest of the game, try to always be bouncing on enemies or buttons if possible. \n\nVery nice to have but not necessary: Protectus Gem, Movement speed items. "
@@ -80162,7 +80289,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 58,
         "playersStarted": 94,
-        "playersTotal": 1021,
+        "playersTotal": 1022,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -80204,8 +80331,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 10078,
-            "positive": 9701,
+            "total": 10081,
+            "positive": 9704,
             "negative": 377
         }
     },
@@ -80402,7 +80529,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 99,
+        "playersTotal": 100,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -80444,9 +80571,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 111806,
-            "positive": 79283,
-            "negative": 32523
+            "total": 111829,
+            "positive": 79299,
+            "negative": 32530
         }
     },
     {
@@ -80462,7 +80589,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
-        "playersTotal": 369,
+        "playersTotal": 372,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -80504,9 +80631,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 133172,
+            "total": 133173,
             "positive": 113032,
-            "negative": 20140
+            "negative": 20141
         }
     },
     {
@@ -80624,8 +80751,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2143,
-            "positive": 1775,
+            "total": 2144,
+            "positive": 1776,
             "negative": 368
         }
     },
@@ -80864,8 +80991,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2100,
-            "positive": 2004,
+            "total": 2103,
+            "positive": 2007,
             "negative": 96
         }
     },
@@ -80984,9 +81111,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2450,
-            "positive": 2079,
-            "negative": 371
+            "total": 2453,
+            "positive": 2080,
+            "negative": 373
         }
     },
     {
@@ -81044,8 +81171,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3169,
-            "positive": 2690,
+            "total": 3168,
+            "positive": 2689,
             "negative": 479
         }
     },
@@ -81465,8 +81592,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2727,
-            "positive": 2654,
+            "total": 2726,
+            "positive": 2653,
             "negative": 73
         }
     },
@@ -81844,7 +81971,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 81,
         "playersStarted": 0,
-        "playersTotal": 519,
+        "playersTotal": 520,
         "priceData": {
             "USD": {
                 "initial": 1599,
@@ -81886,8 +82013,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 20487,
-            "positive": 18602,
+            "total": 20490,
+            "positive": 18605,
             "negative": 1885
         }
     },
@@ -81946,9 +82073,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 44359,
-            "positive": 35959,
-            "negative": 8400
+            "total": 44366,
+            "positive": 35965,
+            "negative": 8401
         }
     },
     {
@@ -82445,7 +82572,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
-        "playersTotal": 296,
+        "playersTotal": 297,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -82487,8 +82614,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5733,
-            "positive": 5415,
+            "total": 5734,
+            "positive": 5416,
             "negative": 318
         }
     },
@@ -82667,9 +82794,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 56332,
-            "positive": 52648,
-            "negative": 3684
+            "total": 56339,
+            "positive": 52654,
+            "negative": 3685
         }
     },
     {
@@ -82685,7 +82812,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 1,
         "playersStarted": 8,
-        "playersTotal": 424,
+        "playersTotal": 425,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -82727,9 +82854,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 101398,
-            "positive": 85905,
-            "negative": 15493
+            "total": 101414,
+            "positive": 85917,
+            "negative": 15497
         }
     },
     {
@@ -82865,7 +82992,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 141,
+        "playersTotal": 143,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -82907,9 +83034,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 73308,
-            "positive": 70124,
-            "negative": 3184
+            "total": 73312,
+            "positive": 70127,
+            "negative": 3185
         }
     },
     {
@@ -83030,6 +83157,66 @@ var data =
             "total": 99,
             "positive": 89,
             "negative": 10
+        }
+    },
+    {
+        "gameType": 0,
+        "platformId": 2011780,
+        "CEId": "c37c4d5d-5058-41a4-962b-d6ab0302d96e",
+        "name": "Yellow Taxi Goes Vroom",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2011780/header.jpg?t=1744194362",
+        "genre": "Platformer",
+        "tier": 1,
+        "points": 6,
+        "createdAt": "2025-05-22T03:05:50.000Z",
+        "updatedAt": "2025-05-22T03:51:36.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 0,
+        "priceData": {
+            "USD": {
+                "initial": 1699,
+                "final": 1699,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1649,
+                "final": 1649,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1429,
+                "final": 1429,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 190000,
+                "final": 190000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 2495,
+                "final": 2495,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 2199,
+                "final": 2199,
+                "discountPercent": 0
+            }
+        },
+        "milestones": {
+            "primary": 2,
+            "primaryText": "Psycho Taxi (UNCLEARED) [1\u2605]\nGet S rank in the Crazy Taxi minigame,\n\nFully Fueled! [5\u2605]\nCollect all the gears and golden bunnies.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 61
+        },
+        "reviews": {
+            "description": "Overwhelmingly Positive",
+            "total": 1244,
+            "positive": 1218,
+            "negative": 26
         }
     },
     {
@@ -83807,8 +83994,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1940,
-            "positive": 1826,
+            "total": 1942,
+            "positive": 1828,
             "negative": 114
         }
     },
@@ -83946,7 +84133,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 132,
+        "playersTotal": 133,
         "priceData": {
             "USD": {
                 "initial": 1699,
@@ -83988,8 +84175,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 8409,
-            "positive": 7982,
+            "total": 8411,
+            "positive": 7984,
             "negative": 427
         }
     },
@@ -84048,8 +84235,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1552,
-            "positive": 1507,
+            "total": 1553,
+            "positive": 1508,
             "negative": 45
         }
     },
@@ -84408,9 +84595,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1808,
-            "positive": 1733,
-            "negative": 75
+            "total": 1810,
+            "positive": 1736,
+            "negative": 74
         }
     },
     {
@@ -84426,7 +84613,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
-        "playersTotal": 222,
+        "playersTotal": 223,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -84708,8 +84895,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2807,
-            "positive": 2667,
+            "total": 2809,
+            "positive": 2669,
             "negative": 140
         }
     },
@@ -85147,7 +85334,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
-        "playersTotal": 119,
+        "playersTotal": 120,
         "priceData": {
             "USD": {
                 "initial": 899,
@@ -85249,8 +85436,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2482,
-            "positive": 2410,
+            "total": 2483,
+            "positive": 2411,
             "negative": 72
         }
     },
@@ -85658,9 +85845,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 13707,
-            "positive": 13208,
-            "negative": 499
+            "total": 13723,
+            "positive": 13223,
+            "negative": 500
         }
     },
     {
@@ -85686,8 +85873,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12002,
-            "positive": 11111,
+            "total": 12011,
+            "positive": 11120,
             "negative": 891
         },
         "information": "Contrary to the achievement description, \"Glitches Galore!\" is unlocked by beating NULL Style instead of the expected Glitch Style."
@@ -85761,7 +85948,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 45,
+        "playersTotal": 46,
         "milestones": {
             "primary": 2,
             "primaryText": "Bobo Go All the Way [5\u2605]\n100% the game.\n\nBobo Go Home [5\u2605]\nBeat the game.",
@@ -85789,7 +85976,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
-        "playersTotal": 39,
+        "playersTotal": 40,
         "milestones": {
             "primary": 2,
             "primaryText": "Advance to Black [25\u2605]\nComplete all missions.\n\nHefty Weekend [5\u2605]\nPass the True Chapter.",
@@ -85856,9 +86043,9 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 710465,
-            "positive": 417295,
-            "negative": 293170
+            "total": 710669,
+            "positive": 417436,
+            "negative": 293233
         }
     },
     {
@@ -85998,8 +86185,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3492,
-            "positive": 3006,
+            "total": 3491,
+            "positive": 3005,
             "negative": 486
         }
     },
@@ -86016,7 +86203,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 5,
-        "playersTotal": 190,
+        "playersTotal": 191,
         "milestones": {
             "primary": 4,
             "primaryText": "Unlimited Clear [130\u2605]\nClear UNLIMITED mode (no stage restarts or continues).\n\nBoost Clear [40\u2605]\nClear the BOOST mode in ARCADE difficulty (no stage restarts or continues).\n\nOriginal Clear [40\u2605]\nClear the ORIGINAL mode in ARCADE difficulty (no stage restarts or continues).\n\nTime Attack Master [20\u2605]\nReach the highest ranking in TIME ATTACK.",
@@ -86195,9 +86382,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 10398,
-            "positive": 9039,
-            "negative": 1359
+            "total": 10400,
+            "positive": 9040,
+            "negative": 1360
         }
     },
     {
@@ -86307,9 +86494,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 583,
+            "total": 584,
             "positive": 569,
-            "negative": 14
+            "negative": 15
         }
     },
     {
@@ -86325,7 +86512,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 33,
+        "playersTotal": 34,
         "milestones": {
             "primary": 1,
             "primaryText": "Rock Bottom [10\u2605]\nDefeat Abby.",
@@ -86522,7 +86709,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 171,
+        "playersTotal": 173,
         "milestones": {
             "primary": 1,
             "primaryText": "Hell Hath No Furi [5\u2605]\nObtain an S rank on the 'The Chain' bossfight in \"Furier\" difficulty.",
@@ -86588,8 +86775,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 159,
-            "positive": 145,
+            "total": 160,
+            "positive": 146,
             "negative": 14
         },
         "information": "Delisted from Steam."
@@ -86674,8 +86861,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4821,
-            "positive": 4580,
+            "total": 4822,
+            "positive": 4581,
             "negative": 241
         },
         "information": "The game is valued assuming you play offline for the final boss. This limits the pool of possible levels to only those included in the installation of the game."
@@ -86815,8 +87002,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1005,
-            "positive": 826,
+            "total": 1004,
+            "positive": 825,
             "negative": 179
         },
         "information": "All relevant Kreedz information can be found here: [Link](https://docs.google.com/document/d/1h_Pq00T5nlf8aFABE1ln-HtGcewx-zOgMBEcyZRLEto)"
@@ -86890,7 +87077,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 97,
         "playersStarted": 0,
-        "playersTotal": 490,
+        "playersTotal": 491,
         "milestones": {
             "primary": 1,
             "primaryText": "Micro Nightmare [15\u2605]\nClear all levels, including \"Chipset v2\".",
@@ -86956,9 +87143,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 175360,
-            "positive": 164168,
-            "negative": 11192
+            "total": 175383,
+            "positive": 164189,
+            "negative": 11194
         }
     },
     {
@@ -86974,7 +87161,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 36,
+        "playersTotal": 37,
         "milestones": {
             "primary": 2,
             "primaryText": "Life After Afterlife [35\u2605]\n100% the game without dying.\n\nNot Even Death Can Stop Me [25\u2605]\nFinish the game without dying.",
@@ -87012,8 +87199,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 6509,
-            "positive": 6222,
+            "total": 6510,
+            "positive": 6223,
             "negative": 287
         }
     },
@@ -87030,7 +87217,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 74,
         "playersStarted": 0,
-        "playersTotal": 281,
+        "playersTotal": 282,
         "milestones": {
             "primary": 1,
             "primaryText": "Rootin' Tootin' Rockets [5\u2605]\nGet all the Neon Medals.",
@@ -87040,9 +87227,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2484,
+            "total": 2483,
             "positive": 2240,
-            "negative": 244
+            "negative": 243
         }
     },
     {
@@ -87115,7 +87302,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 198,
+        "playersTotal": 199,
         "milestones": {
             "primary": 2,
             "primaryText": "Kickflip King [50\u2605]\nComplete all of Radysus' challenges.\n\nFlow Finder and V.O.I.D. Vanquisher [10\u2605]\nBeat every level, challenge, Local hero score and collect every customisation in the Flowzone and V.O.I.D. levels.",
@@ -87209,8 +87396,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2398,
-            "positive": 2265,
+            "total": 2397,
+            "positive": 2264,
             "negative": 133
         }
     },
@@ -87323,8 +87510,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3417,
-            "positive": 3281,
+            "total": 3418,
+            "positive": 3282,
             "negative": 136
         }
     },
@@ -87453,7 +87640,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 544,
+        "playersTotal": 545,
         "milestones": {
             "primary": 1,
             "primaryText": "End of Nightmare [80\u2605]\nBeat the game in an unseeded Keter difficulty run in single player without using the console or mods. Quit to menu is banned in the non-Steam version.",
@@ -87463,8 +87650,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 26169,
-            "positive": 21990,
+            "total": 26174,
+            "positive": 21995,
             "negative": 4179
         },
         "information": "Runs with special/easter egg seeds are deemed as a form of seeded run, hence, their use is strictly prohibited. The list of these seeds is the following:\n\u2022 NIL\n\u2022 NO\n\u2022 d9341\n\u2022 5CP_I73\n\u2022 DONTBLINK\n\u2022 CRUNCH\n\u2022 die\n\u2022 HTAED\n\u2022 rustledjim\n\u2022 larry\n\u2022 JORGE\n\u2022 dirtymetal\n\u2022 whatpumpkin"
@@ -87492,9 +87679,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 77731,
-            "positive": 65968,
-            "negative": 11763
+            "total": 77740,
+            "positive": 65978,
+            "negative": 11762
         }
     },
     {
@@ -87538,7 +87725,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 13,
+        "playersTotal": 14,
         "milestones": {
             "primary": 2,
             "primaryText": "Sir Blind (UNCLEARED) [1\u2605]\nFinish Map 1 and Map 2 in blind mode.\n\nSir Rises [20\u2605]\nFinish the Phoenix Heart DLC in less than 15 min in normal mode, and obtain the frog / slime / gold costumes.",
@@ -87576,8 +87763,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2149,
-            "positive": 1980,
+            "total": 2150,
+            "positive": 1981,
             "negative": 169
         }
     },
@@ -87594,7 +87781,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 9,
         "playersStarted": 40,
-        "playersTotal": 338,
+        "playersTotal": 339,
         "milestones": {
             "primary": 2,
             "primaryText": "Birthday Blaster [5\u2605]\nGet all S ranks on the challenge missions.\n\nWhen Generations Collide [5\u2605]\nProve yourself.",
@@ -87650,7 +87837,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 91,
         "playersStarted": 0,
-        "playersTotal": 518,
+        "playersTotal": 519,
         "milestones": {
             "primary": 1,
             "primaryText": "Army of One [10\u2605]\nComplete the game on \"FUBAR\" difficulty.",
@@ -88083,8 +88270,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1493,
-            "positive": 1431,
+            "total": 1495,
+            "positive": 1433,
             "negative": 62
         }
     },
@@ -88139,9 +88326,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 15789,
-            "positive": 12178,
-            "negative": 3611
+            "total": 15799,
+            "positive": 12186,
+            "negative": 3613
         },
         "information": "<------------------------->\n**WARNING: All objectives are at a much higher risk of sudden removal/change than any other game on the site. Play at your own risk.**\n\nThe game is F2P, but all current objectives require a yearly subscription (20$ USD) in order to play normally.\n\nAll content can still technically be accessed offline without a subscription by downloading the individual track files through tmx and playing them through the editor (unedited). Using this method of play to earn any of the site listed objectives will require you to post full recorded video proof of every single track instead of the simple screenshots.\n<------------------------->\nAll official non seasonal campaign and weekly shorts content can be easily accessed by joining the \"Challenge Enthusiast\" club. Or by checking any of the following official Ubisoft/Nadeo clubs in-game.\n.Ubisoft Nadeo\n.Ubisoft Club\n.Cupra\n<------------------------->\n\"Potential\" content not currently with an objective.\n.AO8 Forever\n.Green Game Jam\n.Training Maps\n.World Cup & World Tour tracks\n.TOTD 1/1/23+\n.Redbull Faster\n.Formula E"
     },
@@ -88168,9 +88355,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 23561,
-            "positive": 21208,
-            "negative": 2353
+            "total": 23566,
+            "positive": 21211,
+            "negative": 2355
         },
         "information": "How to fix white screen issues:\n[https://steamcommunity.com/sharedfiles/filedetails/?id=448953593](https://steamcommunity.com/sharedfiles/filedetails/?id=448953593)\n"
     },
@@ -88187,7 +88374,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 72,
+        "playersTotal": 73,
         "milestones": {
             "primary": 1,
             "primaryText": "Watchful Forager [5\u2605]\nComplete all normal and bonus levels.",
@@ -88225,9 +88412,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 58153,
-            "positive": 55281,
-            "negative": 2872
+            "total": 58156,
+            "positive": 55285,
+            "negative": 2871
         }
     },
     {
@@ -88412,7 +88599,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 66,
+        "playersTotal": 67,
         "milestones": {
             "primary": 1,
             "primaryText": "YUBI YUBI [5\u2605]\nDefeat Darkside Korone on Hard Mode.",
@@ -88422,8 +88609,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 667,
-            "positive": 611,
+            "total": 668,
+            "positive": 612,
             "negative": 56
         }
     },
@@ -88450,8 +88637,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 71,
-            "positive": 63,
+            "total": 72,
+            "positive": 64,
             "negative": 8
         }
     },
@@ -88563,8 +88750,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 10405,
-            "positive": 8630,
+            "total": 10406,
+            "positive": 8631,
             "negative": 1775
         }
     },
@@ -90635,7 +90822,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 9,
+        "playersTotal": 11,
         "milestones": {
             "primary": 1,
             "primaryText": "So Anyway, I Started Blasting [5\u2605]\nDefeat all enemies in Fight mode.",
@@ -90974,7 +91161,7 @@ var data =
         "updatedAt": "2025-05-04T15:48:50.000Z",
         "playersCompleted": 15,
         "playersStarted": 9,
-        "playersTotal": 297,
+        "playersTotal": 298,
         "milestones": {
             "primary": 2,
             "primaryText": "Serious Co-optitude[45\u2605  (Partial: 15\u2605)]\nObtain a gold medal on all cooperative Survival levels. / Complete a Coin-op cooperative game on Normal difficulty (or higher).\n\nSecond Sam[30\u2605  (Partial: 15\u2605)]\nComplete the game in single player on Serious difficulty. / Complete \"The Grand Cathedral\" on Serious difficulty without dying or loading. / Obtain a gold medal on all single player Survival levels.",
@@ -90993,11 +91180,11 @@ var data =
 ]
 var date =
 {
-    "day": 21,
+    "day": 22,
     "month": 5,
     "year": 2025,
     "hour": 9,
     "minute": 2,
-    "second": 16,
-    "searchTime": 1110.473479270935
+    "second": 18,
+    "searchTime": 1099.0193357467651
 }
