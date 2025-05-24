@@ -283,8 +283,8 @@
                                     <table style="border:0px; text-align: center; width:85%; margin:auto;">
                                         <tr>
                                             <td colspan="2" style="border:0px; width:25%">
-                                                <input id="pointMultiple" type="checkbox" onclick="nonMultiples()">(Points) Only non-multiples of 5</input><br>
-                                                <sub class="subtitle">(Useful to find most Uncleared/Unvalued games)</sub>
+                                                <input id="pointMultiple" type="checkbox" onclick="nonMultiples()">Uncleareds/Unvalueds Only</input><br>
+                                                <sub class="subtitle">(Shows only games that have "UNCLEARED" or "UNVALUED" in their Objectives' names, as well as games with point values that aren't multiples of 5)</sub>
                                             </td>
                                             <td colspan="2" style="border:0px; width:25%">
                                                 <input  id="idToLink" type="checkbox" onchange="idToLink()">(Links) Copy Link > Copy ID</input><br>
@@ -391,7 +391,9 @@
                     <sub class="subtitle">(Hover over the '𝓲' to view that game's information!)</sub>
                 </td>
                 <td>Genre</td>
-                <td colspan="2">Tier / Points</td>
+                <td colspan="2">Tier / Points<br>
+                    <sub class="subtitle">(Extra symbols show if the game has UNCLEARED and/or UNVALUED Objectives!)</sub>
+                </td>
                 <td colspan="2">
                     Objectives / Achievements<br>
                     <sub class="subtitle">(Hover over the POs/COs to view their info!)</sub>
@@ -421,7 +423,9 @@
                     <sub class="subtitle">(Hover over the '𝓲' to view that game's information!)</sub>
                 </td>
                 <td>Genre</td>
-                <td colspan="2">Tier / Points</td>
+                <td colspan="2">Tier / Points<br>
+                    <sub class="subtitle">(Extra symbols show if the game has UNCLEARED and/or UNVALUED Objectives!)</sub>
+                </td>
                 <td colspan="2">
                     Objectives / Achievements<br>
                     <sub class="subtitle">(Hover over the POs/COs to view their info!)</sub>
@@ -1355,9 +1359,10 @@
                 }
                 else {document.getElementById("ownershipHigher").style.textDecoration = "line-through";}
 
-
-                //Filter by non-multiples of 5
-                if(useNonMultiples) {filteredData = filteredData.filter(obj => {return obj.points % 5 != 0})}
+                //Filter by Uncleareds and Unvalueds
+                if(useNonMultiples) {
+                    filteredData = filteredData.filter(obj => {return obj.points % 5 != 0 || obj.milestones.primaryText.toUpperCase().includes("UNCLEARED") || obj.milestones.primaryText.toUpperCase().includes("UNVALUED") || obj.milestones.communityText.toUpperCase().includes("UNCLEARED")}
+                )}
 
                 if(useListOnly) {filteredData = filteredData.filter(obj => {return listData.includes(obj["CEId"])})}
                 
@@ -1930,10 +1935,9 @@
 
                     }
 
-                    if(filteredData[i]["points"] % 5 > 0) {cellPoints.style.backgroundColor = "#FF000044";}
                     if(searchableUserId == "")
                     {
-                        cellPoints.innerHTML = filteredData[i]["points"];
+                        cellPoints.innerHTML = filteredData[i]["points"] + "★";
                     }
                     else
                     {
@@ -1947,22 +1951,32 @@
                             {
                                 if(filteredData[i]["CEId"] == searchIds[j])
                                 {
-                                    cellPoints.innerHTML = "<b>" + userData[searchableUserId]["gamesPoints"][searchIds[j]]["points"] + "</b>/" + filteredData[i]["points"];
+                                    cellPoints.innerHTML = "<b>" + userData[searchableUserId]["gamesPoints"][searchIds[j]]["points"] + "</b>/" + filteredData[i]["points"] + "★";
 
-                                    if((userData[searchableUserId]["gamesPoints"][searchIds[j]]["points"] == filteredData[i]["points"]))
-                                    {
-                                        if(filteredData[i]["points"] % 5 > 0) {cellPoints.style.backgroundColor = "#88FF0044";}
-                                        else {cellPoints.style.backgroundColor = "#00FF0044";}
-                                    }
-                                    else
-                                    {
-                                        if(filteredData[i]["points"] % 5 > 0) {cellPoints.style.backgroundColor = "#FF880044";}
-                                        else {cellPoints.style.backgroundColor = "#FFFF0044";}
-                                    }
+                                    if((userData[searchableUserId]["gamesPoints"][searchIds[j]]["points"] == filteredData[i]["points"])) {cellPoints.style.backgroundColor = "#00FF0044"}
+                                    else {cellPoints.style.backgroundColor = "#FFFF0044";}
+
                                     break;
                                 }
                             }
                         }
+                    }
+
+                    if(filteredData[i]["points"] > 0)
+                    {
+                        if(filteredData[i]["points"] % 5 > 0 || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("UNVALUED") || filteredData[i]["milestones"]["communityText"].toUpperCase().includes("UNCLEARED"))
+                        {
+                            cellPoints.innerHTML += "<br>";
+                        }
+                        if(filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || filteredData[i]["milestones"]["communityText"].toUpperCase().includes("UNCLEARED")) {cellPoints.innerHTML += "<b style='color:#cf1150' title='This game has UNCLEARED objectives.'>Ȼ</b>"}
+                        if(filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("UNVALUED")) {cellPoints.innerHTML += "<b style='color:#1179cf' title='This game has UNVALUED objectives.'>Ꝟ</b>"}
+
+                        if(
+                            !(filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || filteredData[i]["milestones"]["communityText"].toUpperCase().includes("UNCLEARED"))
+                            && !filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("UNVALUED")
+                            && filteredData[i]["points"] % 5 > 0
+                        ) 
+                        {cellPoints.innerHTML += "<b style='color:#cf1150' title='This game could have Potentially UNCLEARED objectives.\n(The Point value is a non-multiple of 5 but no Objective has \"UNCLEARED\" or \"UNVALUED\" on it.)'>Ȼ?</b>"}
                     }
 
                     cellPrimary.innerHTML = filteredData[i]["milestones"]["primary"] + " PO";
