@@ -10,7 +10,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-11T23:48:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -70,7 +70,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-27T02:35:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -130,7 +130,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-12-28T16:02:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 73,
         "playersStarted": 0,
         "playersTotal": 126,
@@ -190,7 +190,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:08:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 77,
         "playersStarted": 0,
         "playersTotal": 549,
@@ -235,9 +235,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3177,
+            "total": 3178,
             "positive": 2489,
-            "negative": 688
+            "negative": 689
         }
     },
     {
@@ -250,7 +250,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:12:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 43,
         "playersStarted": 0,
         "playersTotal": 201,
@@ -310,7 +310,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-07T02:19:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -370,7 +370,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:06:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 109,
         "playersStarted": 0,
         "playersTotal": 433,
@@ -430,7 +430,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2024-06-09T23:35:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 101,
@@ -491,7 +491,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-12-04T04:50:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
         "playersTotal": 62,
@@ -551,7 +551,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-11-25T19:10:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -611,7 +611,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:56:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 44,
         "playersStarted": 0,
         "playersTotal": 243,
@@ -671,7 +671,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-18T22:08:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 78,
@@ -731,7 +731,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-20T15:35:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -791,7 +791,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2025-03-12T18:00:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -846,7 +846,7 @@ var data =
         "tier": 5,
         "points": 270,
         "createdAt": "2020-01-28T09:40:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 280,
         "playersTotal": 891,
@@ -891,8 +891,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 73111,
-            "positive": 68705,
+            "total": 73149,
+            "positive": 68743,
             "negative": 4406
         }
     },
@@ -906,7 +906,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-03-08T15:10:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 49,
         "playersStarted": 0,
         "playersTotal": 74,
@@ -951,9 +951,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4539,
-            "positive": 4036,
-            "negative": 503
+            "total": 4542,
+            "positive": 4038,
+            "negative": 504
         }
     },
     {
@@ -966,10 +966,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:12:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 96,
-        "playersTotal": 730,
+        "playersTotal": 731,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -1004,16 +1004,16 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Zero Jumps 2: Electric Boogaloo [10\u2605]\nObtain the Zero Jumps emblems for all possible levels.\n\nBarely in Time [15\u2605]\nObtain the Speedrun emblems for all possible levels.\n\nTimeless End[55\u2605  (Partial: 5\u2605)]\nObtain all 114 Death Wish stamps without using \"Peace and Tranquility\" mode or any mods.",
+            "primaryText": "Zero Jumps 2: Electric Boogaloo [10\u2605]\nObtain the Zero Jumps emblems for all possible levels.\n\nBarely in Time [15\u2605]\nObtain the Speedrun emblems for all possible levels.\n\nTimeless End[55\u2605 (Partial: 5\u2605)]\nObtain all 114 Death Wish stamps without using \"Peace and Tranquility\" mode or any mods.",
             "community": 2,
             "communityText": "To End All Contracts\nObtain all 114 Death Wish stamps without dying.\n\nYour Contract Has Expired\nBeat \"Seal the Deal\" with the One-Hit Hero badge equipped or without taking damage.",
             "achievements": 46
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 51634,
-            "positive": 50523,
-            "negative": 1111
+            "total": 51636,
+            "positive": 50526,
+            "negative": 1110
         },
         "information": "For \"Timeless End\", you may only complete the original 114 Death Wish stamps. Seasonal event challenges (Winter and Summer) and the Nyakuza Metro secret sticker (commonly deemed as a \"secret\" Death Wish) are not required.\n\nBonus objectives are not required for \"Your Contract Has Expired\". Beating the level will do. This does not apply to the Primary Objective proof.\n\n**\"Zero Jumps 2: Electric Boogaloo\"** requires co-op (and online play on a few levels) and it's valued around use of the latter.\n\n----\n\n_Levels that can be ignored for the Emblem POs:_\n__Jumpless:__ none\n__Speedrun:__ Rush Hour (does not have speed goal)\n__Both:__ Award Ceremony (emblems per se are bugged, level is possible), spaceship time rifts (no reward)"
     },
@@ -1027,7 +1027,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-16T02:22:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 66,
@@ -1072,8 +1072,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 225,
-            "positive": 182,
+            "total": 226,
+            "positive": 183,
             "negative": 43
         },
         "information": "You can reset your upgrades by selecting \"DELETE PROFILE\" in the options."
@@ -1088,7 +1088,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:32:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 58,
@@ -1148,7 +1148,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-17T13:23:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -1208,7 +1208,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:20:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 55,
@@ -1268,7 +1268,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-22T02:25:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -1328,7 +1328,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-01-04T08:59:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 72,
@@ -1388,7 +1388,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:07:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 79,
         "playersStarted": 0,
         "playersTotal": 678,
@@ -1433,8 +1433,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 28904,
-            "positive": 26468,
+            "total": 28905,
+            "positive": 26469,
             "negative": 2436
         }
     },
@@ -1448,7 +1448,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-11T18:08:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -1508,7 +1508,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-03T05:58:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -1569,7 +1569,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-17T13:23:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -1629,7 +1629,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-18T16:22:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 166,
@@ -1689,7 +1689,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:46:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 36,
         "playersStarted": 0,
         "playersTotal": 223,
@@ -1749,7 +1749,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-04T16:31:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 103,
@@ -1794,8 +1794,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3117,
-            "positive": 2799,
+            "total": 3119,
+            "positive": 2801,
             "negative": 318
         }
     },
@@ -1809,7 +1809,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:30:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 195,
@@ -1869,7 +1869,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-21T04:06:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -1913,10 +1913,10 @@ var data =
             "achievements": 28
         },
         "reviews": {
-            "description": "Very Positive",
-            "total": 136,
+            "description": "Mostly Positive",
+            "total": 137,
             "positive": 109,
-            "negative": 27
+            "negative": 28
         },
         "information": "In need of more opinions on difficulty."
     },
@@ -1930,7 +1930,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2022-10-24T11:18:52.000Z",
-        "updatedAt": "2025-05-22T04:02:15.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 9,
         "playersTotal": 92,
@@ -1991,7 +1991,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-03-11T14:34:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 23,
@@ -2051,7 +2051,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2023-07-26T23:57:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 162,
@@ -2096,9 +2096,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8326,
-            "positive": 6471,
-            "negative": 1855
+            "total": 8330,
+            "positive": 6473,
+            "negative": 1857
         }
     },
     {
@@ -2111,7 +2111,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-06-09T11:19:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 74,
@@ -2156,9 +2156,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 593,
+            "total": 594,
             "positive": 462,
-            "negative": 131
+            "negative": 132
         }
     },
     {
@@ -2171,7 +2171,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2022-11-10T03:27:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 22,
         "playersStarted": 6,
         "playersTotal": 160,
@@ -2231,7 +2231,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-12-30T19:53:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 17,
         "playersTotal": 221,
@@ -2291,7 +2291,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-04T09:28:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -2336,8 +2336,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1070,
-            "positive": 941,
+            "total": 1071,
+            "positive": 942,
             "negative": 129
         }
     },
@@ -2351,7 +2351,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:52:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 60,
         "playersStarted": 0,
         "playersTotal": 162,
@@ -2411,7 +2411,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-02T07:10:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -2471,7 +2471,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-13T06:21:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 114,
@@ -2531,7 +2531,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-09T03:51:36.000Z",
-        "updatedAt": "2025-05-13T13:09:30.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -2591,7 +2591,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-05-05T04:29:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 40,
         "playersTotal": 329,
@@ -2636,8 +2636,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 60683,
-            "positive": 56577,
+            "total": 60694,
+            "positive": 56588,
             "negative": 4106
         }
     },
@@ -2651,7 +2651,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T18:38:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 49,
@@ -2711,10 +2711,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-11T16:07:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 77,
+        "playersTotal": 78,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -2751,8 +2751,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 19899,
-            "positive": 18122,
+            "total": 19901,
+            "positive": 18124,
             "negative": 1777
         }
     },
@@ -2766,7 +2766,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-03-20T15:56:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -2804,7 +2804,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sodium Soliloquy[20\u2605  (Partial: 15\u2605)]\nBeat the game in under 1 hour; Complete Ending C; 100% the \"Gauntlet\" custom levels",
+            "primaryText": "Sodium Soliloquy[20\u2605 (Partial: 15\u2605)]\nBeat the game in under 1 hour; Complete Ending C; 100% the \"Gauntlet\" custom levels",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -2826,7 +2826,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-07-26T15:59:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 5,
         "playersTotal": 86,
@@ -2886,7 +2886,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-04-14T18:41:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 53,
         "playersStarted": 0,
         "playersTotal": 203,
@@ -2946,7 +2946,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-15T17:58:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 262,
@@ -2991,9 +2991,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 10754,
-            "positive": 8584,
-            "negative": 2170
+            "total": 10756,
+            "positive": 8585,
+            "negative": 2171
         }
     },
     {
@@ -3006,7 +3006,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T18:54:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 134,
@@ -3066,7 +3066,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2024-10-16T01:27:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -3104,7 +3104,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Spiral into Madness [65\u2605]\nCollect all moons and beat every par time in the Spire of Trials without assist options.\n\nAmber's Slumber[20\u2605  (Partial: 5\u2605)]\nCollect all moons and beat every par time in Amber\u2019s Descent and Community Pioneers without assist options.  ",
+            "primaryText": "Spiral into Madness [65\u2605]\nCollect all moons and beat every par time in the Spire of Trials without assist options.\n\nAmber's Slumber[20\u2605 (Partial: 5\u2605)]\nCollect all moons and beat every par time in Amber\u2019s Descent and Community Pioneers without assist options.  ",
             "community": 1,
             "communityText": "Peak Despair\nFinish Depths of Despair without dying and with no assist options active.",
             "achievements": 19
@@ -3127,10 +3127,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-02-29T21:34:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 193,
+        "playersTotal": 194,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -3172,9 +3172,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8682,
+            "total": 8681,
             "positive": 6673,
-            "negative": 2009
+            "negative": 2008
         }
     },
     {
@@ -3187,7 +3187,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-02-03T04:21:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -3247,10 +3247,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-08T19:30:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 134,
+        "playersTotal": 135,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -3307,7 +3307,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-08-19T16:48:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 132,
@@ -3345,7 +3345,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Crazy Little Thing Called Move[30\u2605  (Partial: 10\u2605)]\nEarn all gold stamps.",
+            "primaryText": "Crazy Little Thing Called Move[30\u2605 (Partial: 10\u2605)]\nEarn all gold stamps.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -3367,7 +3367,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-22T00:45:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -3427,7 +3427,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-08-26T01:54:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 18,
@@ -3488,7 +3488,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-05T20:27:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -3548,7 +3548,7 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2020-01-28T09:35:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 3,
         "playersTotal": 190,
@@ -3608,7 +3608,7 @@ var data =
         "tier": 4,
         "points": 122,
         "createdAt": "2022-09-02T05:36:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 30,
@@ -3668,7 +3668,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T18:52:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 115,
@@ -3728,7 +3728,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-01-10T21:02:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 67,
@@ -3788,7 +3788,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2025-05-15T17:18:33.000Z",
-        "updatedAt": "2025-05-19T01:15:04.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 3,
@@ -3848,7 +3848,7 @@ var data =
         "tier": 5,
         "points": 225,
         "createdAt": "2020-01-28T10:03:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 21,
         "playersTotal": 240,
@@ -3908,7 +3908,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:49:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 84,
@@ -3968,7 +3968,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:43:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 31,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -4028,7 +4028,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-07T20:02:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -4089,7 +4089,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-06-10T09:16:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -4149,7 +4149,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-30T18:42:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 34,
@@ -4209,7 +4209,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-09-02T23:03:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 4,
         "playersTotal": 45,
@@ -4269,7 +4269,7 @@ var data =
         "tier": 3,
         "points": 51,
         "createdAt": "2023-05-10T17:04:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 28,
@@ -4329,7 +4329,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-09-17T06:06:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 47,
         "playersStarted": 0,
         "playersTotal": 163,
@@ -4374,9 +4374,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 76611,
-            "positive": 70046,
-            "negative": 6565
+            "total": 76635,
+            "positive": 70062,
+            "negative": 6573
         }
     },
     {
@@ -4389,7 +4389,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-15T22:52:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -4449,7 +4449,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-17T00:51:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -4494,8 +4494,8 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 3575,
-            "positive": 2433,
+            "total": 3576,
+            "positive": 2434,
             "negative": 1142
         }
     },
@@ -4509,7 +4509,7 @@ var data =
         "tier": 3,
         "points": 52,
         "createdAt": "2021-01-21T21:04:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 13,
         "playersTotal": 145,
@@ -4569,7 +4569,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-01-23T17:17:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 14,
@@ -4629,7 +4629,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-08-11T01:07:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 82,
@@ -4674,8 +4674,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1198,
-            "positive": 1085,
+            "total": 1201,
+            "positive": 1088,
             "negative": 113
         }
     },
@@ -4689,7 +4689,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-05-18T14:48:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 133,
@@ -4749,7 +4749,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-18T02:52:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -4809,7 +4809,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-14T02:49:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -4869,7 +4869,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-09T17:07:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -4929,7 +4929,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-11T16:26:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -4989,7 +4989,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-11-10T05:17:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 47,
@@ -5049,7 +5049,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2021-05-14T06:58:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 256,
@@ -5094,8 +5094,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5637,
-            "positive": 5196,
+            "total": 5641,
+            "positive": 5200,
             "negative": 441
         }
     },
@@ -5109,7 +5109,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:54:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 180,
@@ -5154,8 +5154,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 318,
-            "positive": 274,
+            "total": 317,
+            "positive": 273,
             "negative": 44
         }
     },
@@ -5169,7 +5169,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-08-02T05:16:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -5229,7 +5229,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-31T06:47:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -5289,7 +5289,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-03-30T20:15:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 20,
@@ -5350,7 +5350,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-12T13:50:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -5410,7 +5410,7 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2024-08-03T22:14:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 14,
@@ -5471,7 +5471,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T10:01:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 2,
         "playersTotal": 142,
@@ -5531,7 +5531,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-12-21T08:39:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -5591,7 +5591,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T19:12:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
         "playersTotal": 236,
@@ -5651,7 +5651,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-10T15:57:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -5711,7 +5711,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-06-25T18:47:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -5771,7 +5771,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-23T12:06:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 92,
@@ -5816,8 +5816,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1684,
-            "positive": 1434,
+            "total": 1685,
+            "positive": 1435,
             "negative": 250
         }
     },
@@ -5831,7 +5831,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-04T08:00:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -5891,7 +5891,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-07T14:18:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -5951,7 +5951,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-18T02:32:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 7,
         "playersTotal": 144,
@@ -5996,9 +5996,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12124,
-            "positive": 11300,
-            "negative": 824
+            "total": 12133,
+            "positive": 11308,
+            "negative": 825
         }
     },
     {
@@ -6011,7 +6011,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2022-06-12T10:24:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 198,
@@ -6056,8 +6056,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3064,
-            "positive": 2627,
+            "total": 3065,
+            "positive": 2628,
             "negative": 437
         }
     },
@@ -6071,7 +6071,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:57:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 93,
@@ -6109,7 +6109,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ye Olde Wheeler[25\u2605  (Partial: 15\u2605)]\nBeat all levels in Hardcore mode. / Find all Collectables. / Beat all levels without dying.",
+            "primaryText": "Ye Olde Wheeler[25\u2605 (Partial: 15\u2605)]\nBeat all levels in Hardcore mode. / Find all Collectables. / Beat all levels without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -6131,10 +6131,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-16T22:40:35.000Z",
-        "updatedAt": "2025-05-22T23:50:57.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 37,
         "playersStarted": 30,
-        "playersTotal": 389,
+        "playersTotal": 391,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -6176,9 +6176,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 151000,
-            "positive": 148018,
-            "negative": 2982
+            "total": 151147,
+            "positive": 148159,
+            "negative": 2988
         }
     },
     {
@@ -6191,7 +6191,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-09-07T08:46:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 5,
         "playersTotal": 23,
@@ -6252,7 +6252,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2022-11-14T02:57:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
         "playersTotal": 42,
@@ -6290,7 +6290,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Blazing Musician [35\u2605]\nGet the true ending on Ultra difficulty without continues.\n\nPut Out[20\u2605  (Partial: 5\u2605)]\nClear the game on Ultra difficulty without continues. (Any ending)\n\nIgnition [10\u2605]\nClear the game on Lunatic difficulty or higher without continues. / Clear the game with 2 million coins.",
+            "primaryText": "Blazing Musician [35\u2605]\nGet the true ending on Ultra difficulty without continues.\n\nPut Out[20\u2605 (Partial: 5\u2605)]\nClear the game on Ultra difficulty without continues. (Any ending)\n\nIgnition [10\u2605]\nClear the game on Lunatic difficulty or higher without continues. / Clear the game with 2 million coins.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -6312,7 +6312,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:41:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 44,
         "playersStarted": 0,
         "playersTotal": 260,
@@ -6372,7 +6372,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-01T18:07:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 95,
         "playersStarted": 0,
         "playersTotal": 535,
@@ -6417,8 +6417,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 37373,
-            "positive": 35640,
+            "total": 37374,
+            "positive": 35641,
             "negative": 1733
         }
     },
@@ -6432,7 +6432,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2025-01-18T15:09:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 13,
@@ -6492,10 +6492,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-12-21T04:52:35.000Z",
-        "updatedAt": "2025-05-16T05:18:55.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 161,
+        "playersTotal": 162,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -6537,9 +6537,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 139701,
-            "positive": 123809,
-            "negative": 15892
+            "total": 139731,
+            "positive": 123836,
+            "negative": 15895
         }
     },
     {
@@ -6552,7 +6552,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2024-09-07T22:24:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 6,
@@ -6612,7 +6612,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:48:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -6672,10 +6672,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-10-24T16:00:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 101,
-        "playersTotal": 859,
+        "playersTotal": 860,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -6710,7 +6710,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Battleblock Insanity[20\u2605  (Partial: 10\u2605)]\nGet an A++ on all levels (including Encores) on insane co-op story mode. *Partial points are awarded as a progress milestone.\n\nCubical Thespianism[15\u2605  (Partial: 5\u2605)]\nGet an A++ on all levels (including Encores) on insane solo story mode. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Battleblock Insanity[20\u2605 (Partial: 10\u2605)]\nGet an A++ on all levels (including Encores) on insane co-op story mode. *Partial points are awarded as a progress milestone.\n\nCubical Thespianism[15\u2605 (Partial: 5\u2605)]\nGet an A++ on all levels (including Encores) on insane solo story mode. *Partial points are awarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -6732,7 +6732,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2023-11-26T21:21:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 16,
         "playersTotal": 326,
@@ -6770,15 +6770,15 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Angel Slayer [50\u2605]\n Earn a Pure Platinum medal on \"Lost Chapter: Angel Slayer\".\n\nLegendary Dark Witch[30\u2605  (Partial: 5\u2605)]\nEarn a Pure Platinum medal on all main chapters on \u221e Climax difficulty.",
+            "primaryText": "Angel Slayer [50\u2605]\n Earn a Pure Platinum medal on \"Lost Chapter: Angel Slayer\".\n\nLegendary Dark Witch[30\u2605 (Partial: 5\u2605)]\nEarn a Pure Platinum medal on all main chapters on \u221e Climax difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 50
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 28869,
-            "positive": 26724,
+            "total": 28874,
+            "positive": 26729,
             "negative": 2145
         }
     },
@@ -6792,7 +6792,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-11-30T20:24:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -6852,7 +6852,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-17T15:21:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -6912,7 +6912,7 @@ var data =
         "tier": 3,
         "points": 53,
         "createdAt": "2024-11-25T18:28:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 26,
         "playersTotal": 123,
@@ -6957,9 +6957,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 74543,
-            "positive": 71272,
-            "negative": 3271
+            "total": 74551,
+            "positive": 71283,
+            "negative": 3268
         },
         "information": "POs for the game currently being worked through - current objectives are placeholders and may yet be further reworked/refined."
     },
@@ -6973,7 +6973,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-08-25T17:35:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 54,
         "playersStarted": 0,
         "playersTotal": 313,
@@ -7018,8 +7018,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 7243,
-            "positive": 6948,
+            "total": 7242,
+            "positive": 6947,
             "negative": 295
         }
     },
@@ -7033,7 +7033,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-03-06T04:53:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -7093,9 +7093,9 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2023-04-11T14:42:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 30,
-        "playersStarted": 53,
+        "updatedAt": "2025-05-24T21:45:49.000Z",
+        "playersCompleted": 31,
+        "playersStarted": 52,
         "playersTotal": 157,
         "priceData": {
             "USD": {
@@ -7153,7 +7153,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-02-14T22:57:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 36,
@@ -7208,7 +7208,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-11-27T05:15:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -7246,7 +7246,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Helium Powered Hero[25\u2605  (Partial: 10\u2605)]\nIndividually, complete a run with each hat, complete a run with each challenge, and defeat Sara on the default Hard difficulty.",
+            "primaryText": "Helium Powered Hero[25\u2605 (Partial: 10\u2605)]\nIndividually, complete a run with each hat, complete a run with each challenge, and defeat Sara on the default Hard difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 53
@@ -7268,7 +7268,7 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2022-09-19T08:44:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 48,
@@ -7328,7 +7328,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-20T00:18:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 58,
@@ -7388,7 +7388,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-09T15:25:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -7448,10 +7448,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-01-29T19:16:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 31,
-        "playersTotal": 641,
+        "playersTotal": 642,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -7486,16 +7486,16 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Blue Ribbon Champ[25\u2605  (Partial: 5\u2605)]\nComplete all Clash in the Clouds blue ribbon challenges.",
+            "primaryText": "Blue Ribbon Champ[25\u2605 (Partial: 5\u2605)]\nComplete all Clash in the Clouds blue ribbon challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 80
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 140464,
-            "positive": 131792,
-            "negative": 8672
+            "total": 140482,
+            "positive": 131808,
+            "negative": 8674
         }
     },
     {
@@ -7508,7 +7508,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-19T01:23:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 21,
         "playersTotal": 125,
@@ -7553,8 +7553,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 8763,
-            "positive": 7553,
+            "total": 8764,
+            "positive": 7554,
             "negative": 1210
         }
     },
@@ -7568,7 +7568,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T10:04:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 7,
         "playersTotal": 222,
@@ -7628,7 +7628,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-20T21:51:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 113,
@@ -7688,7 +7688,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-20T21:52:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 118,
@@ -7748,7 +7748,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-10-10T23:37:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -7808,7 +7808,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:29:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 46,
         "playersStarted": 0,
         "playersTotal": 379,
@@ -7868,7 +7868,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-01-25T02:14:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -7928,7 +7928,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:24:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 157,
@@ -7988,7 +7988,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-10-09T00:41:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -8048,7 +8048,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:31:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 77,
@@ -8108,7 +8108,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:25:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 103,
         "playersStarted": 0,
         "playersTotal": 662,
@@ -8153,8 +8153,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 51284,
-            "positive": 46206,
+            "total": 51292,
+            "positive": 46214,
             "negative": 5078
         }
     },
@@ -8168,7 +8168,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-11-29T06:52:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -8228,10 +8228,10 @@ var data =
         "tier": 3,
         "points": 66,
         "createdAt": "2024-04-09T00:01:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 10,
-        "playersTotal": 88,
+        "playersTotal": 89,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -8266,16 +8266,16 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Stronger! [60\u2605]\nComplete all courses on Speedstar mode.\n\nBlue Flamed Champion (PARTIALLY UNCLEARED)[6\u2605  (Partial: 5\u2605)]\nComplete all challenges for all characters. (Partial points awarded for fully clearing one character)",
+            "primaryText": "Stronger! [60\u2605]\nComplete all courses on Speedstar mode.\n\nBlue Flamed Champion (PARTIALLY UNCLEARED)[6\u2605 (Partial: 5\u2605)]\nComplete all challenges for all characters. (Partial points awarded for fully clearing one character)",
             "community": 0,
             "communityText": "",
             "achievements": 48
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 10988,
-            "positive": 10321,
-            "negative": 667
+            "total": 10989,
+            "positive": 10323,
+            "negative": 666
         }
     },
     {
@@ -8288,10 +8288,10 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2025-01-19T08:39:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T23:00:18.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 49,
+        "playersTotal": 50,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -8326,7 +8326,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Blue Flash [1\u2605]\nClear all Challenges on all characters.\n\nDown to the Frames [30\u2605]\nClear all Challenges on one character, and Clear 50% of all Challenges.",
+            "primaryText": "Blue Flash (UNCLEARED) [1\u2605]\nClear all Challenges on all characters.\n\nDown to the Frames [30\u2605]\nClear all Challenges on one character, and Clear 50% of all Challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -8349,7 +8349,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-09T11:13:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -8409,7 +8409,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-04-16T22:44:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 21,
         "playersTotal": 178,
@@ -8469,7 +8469,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:19:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 139,
@@ -8529,7 +8529,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T08:31:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 219,
@@ -8589,7 +8589,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2020-06-23T11:03:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 7,
         "playersTotal": 182,
@@ -8649,7 +8649,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-12-14T00:31:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -8709,7 +8709,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:49:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 113,
@@ -8769,10 +8769,10 @@ var data =
         "tier": 3,
         "points": 41,
         "createdAt": "2024-01-26T11:24:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 20,
+        "playersTotal": 21,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -8829,7 +8829,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-05-18T15:54:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 3,
         "playersTotal": 21,
@@ -8889,7 +8889,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-18T19:39:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 112,
@@ -8934,8 +8934,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4259,
-            "positive": 4023,
+            "total": 4260,
+            "positive": 4024,
             "negative": 236
         }
     },
@@ -8949,7 +8949,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-02T19:13:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 242,
@@ -8994,8 +8994,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3983,
-            "positive": 3259,
+            "total": 3984,
+            "positive": 3260,
             "negative": 724
         }
     },
@@ -9009,7 +9009,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:01:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 34,
         "playersTotal": 177,
@@ -9069,7 +9069,7 @@ var data =
         "tier": 5,
         "points": 335,
         "createdAt": "2021-01-18T19:00:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 54,
         "playersTotal": 234,
@@ -9107,7 +9107,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Glutton for Punishment[290\u2605  (Partial: 50\u2605)]\nComplete each chapter on Hard difficulty without dying or restarting.\n\nFirst Course[20\u2605  (Partial: 10\u2605)]\nComplete each chapter on Normal difficulty without dying or restarting.\n\nTaste Test [10\u2605]\nObtain at least one collectible from every Hard side level in the game.\n\nEat Your Hard Out [10\u2605]\nComplete all chapters on Hard difficulty.\n\nWhet Your Appetite [5\u2605]\nComplete all chapters on Normal difficulty.",
+            "primaryText": "Glutton for Punishment[290\u2605 (Partial: 50\u2605)]\nComplete each chapter on Hard difficulty without dying or restarting.\n\nFirst Course[20\u2605 (Partial: 10\u2605)]\nComplete each chapter on Normal difficulty without dying or restarting.\n\nTaste Test [10\u2605]\nObtain at least one collectible from every Hard side level in the game.\n\nEat Your Hard Out [10\u2605]\nComplete all chapters on Hard difficulty.\n\nWhet Your Appetite [5\u2605]\nComplete all chapters on Normal difficulty.",
             "community": 2,
             "communityText": "Insatiable Appetite\nBeat the game without dying.\n\nOvereater\nObtain all food combinations.",
             "achievements": 38
@@ -9129,7 +9129,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-02-27T22:53:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 39,
@@ -9189,7 +9189,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2021-07-26T20:19:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 29,
         "playersStarted": 6,
         "playersTotal": 143,
@@ -9249,7 +9249,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-13T06:37:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 9,
@@ -9309,7 +9309,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:42:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 123,
         "playersStarted": 0,
         "playersTotal": 219,
@@ -9354,8 +9354,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1561,
-            "positive": 1445,
+            "total": 1562,
+            "positive": 1446,
             "negative": 116
         }
     },
@@ -9369,7 +9369,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:44:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 58,
         "playersStarted": 0,
         "playersTotal": 193,
@@ -9429,7 +9429,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-04-21T01:40:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 8,
         "playersTotal": 53,
@@ -9489,7 +9489,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T17:32:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 89,
@@ -9549,10 +9549,10 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-11-21T15:13:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 27,
-        "playersTotal": 415,
+        "playersTotal": 416,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -9609,7 +9609,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-01-10T20:54:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 75,
         "playersStarted": 0,
         "playersTotal": 438,
@@ -9654,8 +9654,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9762,
-            "positive": 9122,
+            "total": 9761,
+            "positive": 9121,
             "negative": 640
         }
     },
@@ -9669,7 +9669,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-26T18:59:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -9713,10 +9713,10 @@ var data =
             "achievements": 30
         },
         "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 5828,
-            "positive": 5537,
-            "negative": 291
+            "description": "Very Positive",
+            "total": 5833,
+            "positive": 5541,
+            "negative": 292
         }
     },
     {
@@ -9729,7 +9729,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-09-02T06:56:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -9789,7 +9789,7 @@ var data =
         "tier": 1,
         "points": 18,
         "createdAt": "2025-01-09T15:16:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 37,
         "playersTotal": 128,
@@ -9834,8 +9834,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 58794,
-            "positive": 57000,
+            "total": 58795,
+            "positive": 57001,
             "negative": 1794
         }
     },
@@ -9849,7 +9849,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-04-08T12:49:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 2,
         "playersTotal": 52,
@@ -9894,8 +9894,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1794,
-            "positive": 1758,
+            "total": 1795,
+            "positive": 1759,
             "negative": 36
         }
     },
@@ -9909,7 +9909,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-01-24T09:45:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -9969,7 +9969,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-23T11:37:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 130,
@@ -10029,7 +10029,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2022-09-27T16:59:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 22,
@@ -10089,7 +10089,7 @@ var data =
         "tier": 3,
         "points": 46,
         "createdAt": "2024-03-08T04:07:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 9,
@@ -10149,7 +10149,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-01T16:41:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -10209,7 +10209,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-03-22T15:13:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 30,
         "playersStarted": 10,
         "playersTotal": 110,
@@ -10269,7 +10269,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-04-14T19:06:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 42,
@@ -10329,7 +10329,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:33:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 142,
@@ -10389,7 +10389,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-23T18:30:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 49,
@@ -10449,7 +10449,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-03T18:55:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 69,
@@ -10489,9 +10489,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 50433,
-            "positive": 46548,
-            "negative": 3885
+            "total": 50440,
+            "positive": 46556,
+            "negative": 3884
         }
     },
     {
@@ -10504,7 +10504,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2025-01-03T17:49:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 25,
@@ -10542,15 +10542,15 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Peace to the Fallen [70\u2605]\nComplete a Campaign run on #YOLO difficulty.\n\nBoots Over Sky[15\u2605  (Partial: 5\u2605)]\nComplete all missions on Veteran. / Complete a Campaign run on Specialist difficulty.",
+            "primaryText": "Peace to the Fallen [70\u2605]\nComplete a Campaign run on #YOLO difficulty.\n\nBoots Over Sky[15\u2605 (Partial: 5\u2605)]\nComplete all missions on Veteran. / Complete a Campaign run on Specialist difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 88
         },
         "reviews": {
             "description": "Mixed",
-            "total": 28312,
-            "positive": 16924,
+            "total": 28311,
+            "positive": 16923,
             "negative": 11388
         }
     },
@@ -10564,10 +10564,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-14T22:07:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 32,
         "playersStarted": 8,
-        "playersTotal": 82,
+        "playersTotal": 83,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -10604,8 +10604,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 58062,
-            "positive": 54092,
+            "total": 58063,
+            "positive": 54093,
             "negative": 3970
         },
         "information": "CO-OP REQUIRED FOR SPECIAL OPS PO. There are two missions that require co-op, all other missions can be completed either solo or with a partner."
@@ -10620,7 +10620,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T20:29:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 3,
         "playersTotal": 67,
@@ -10665,8 +10665,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 37881,
-            "positive": 33581,
+            "total": 37883,
+            "positive": 33583,
             "negative": 4300
         }
     },
@@ -10680,7 +10680,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2023-05-19T00:36:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 34,
         "playersTotal": 72,
@@ -10726,8 +10726,8 @@ var data =
         "reviews": {
             "description": "Mixed",
             "total": 14338,
-            "positive": 7509,
-            "negative": 6829
+            "positive": 7510,
+            "negative": 6828
         }
     },
     {
@@ -10740,7 +10740,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-01T19:02:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 72,
         "playersStarted": 0,
         "playersTotal": 629,
@@ -10785,9 +10785,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 40408,
-            "positive": 38403,
-            "negative": 2005
+            "total": 40443,
+            "positive": 38436,
+            "negative": 2007
         }
     },
     {
@@ -10800,7 +10800,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-09-24T06:17:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 92,
@@ -10860,10 +10860,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-02-15T21:53:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 43,
+        "playersTotal": 44,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -10920,7 +10920,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-04-02T15:14:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -10980,7 +10980,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-03-02T21:35:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 17,
@@ -11040,10 +11040,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-22T19:30:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 21,
         "playersStarted": 139,
-        "playersTotal": 967,
+        "playersTotal": 968,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -11085,9 +11085,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 125422,
-            "positive": 120572,
-            "negative": 4850
+            "total": 125430,
+            "positive": 120581,
+            "negative": 4849
         }
     },
     {
@@ -11100,7 +11100,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2021-02-28T18:03:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 40,
@@ -11160,7 +11160,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-05T13:12:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 116,
@@ -11216,7 +11216,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-02T20:03:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 130,
@@ -11256,9 +11256,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9305,
-            "positive": 7522,
-            "negative": 1783
+            "total": 9309,
+            "positive": 7523,
+            "negative": 1786
         }
     },
     {
@@ -11271,7 +11271,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:31:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 88,
@@ -11331,7 +11331,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-06-06T01:10:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 3,
         "playersTotal": 266,
@@ -11364,15 +11364,15 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Babes of Babel[35\u2605  (Partial: 20\u2605)]\nConquer the final stage of Babel (in single player). *Partial points are awarded for co-op mode.",
+            "primaryText": "Babes of Babel[35\u2605 (Partial: 20\u2605)]\nConquer the final stage of Babel (in single player). *Partial points are awarded for co-op mode.",
             "community": 0,
             "communityText": "",
             "achievements": 50
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9936,
-            "positive": 8677,
+            "total": 9939,
+            "positive": 8680,
             "negative": 1259
         }
     },
@@ -11386,7 +11386,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-01-28T09:31:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 39,
         "playersStarted": 0,
         "playersTotal": 458,
@@ -11431,8 +11431,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 7638,
-            "positive": 7100,
+            "total": 7639,
+            "positive": 7101,
             "negative": 538
         }
     },
@@ -11446,7 +11446,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2021-10-08T23:48:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 17,
         "playersTotal": 307,
@@ -11491,9 +11491,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4377,
+            "total": 4378,
             "positive": 3749,
-            "negative": 628
+            "negative": 629
         },
         "information": "Kanra - \"Try triple shot + Magicians Ring\"\nTrusty Patches - Triple shot + Crystal Sword + Any magic damage ring"
     },
@@ -11507,7 +11507,7 @@ var data =
         "tier": 2,
         "points": 32,
         "createdAt": "2024-03-18T11:20:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 24,
@@ -11567,10 +11567,10 @@ var data =
         "tier": 5,
         "points": 250,
         "createdAt": "2020-01-28T06:52:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 74,
-        "playersStarted": 650,
-        "playersTotal": 1707,
+        "playersStarted": 652,
+        "playersTotal": 1710,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -11605,15 +11605,15 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Strawberry Lunatic [150\u2605]\nCollect the golden strawberry for Chapter 9.\n\nStrawberry Enthusiast [80\u2605]\nCollect the golden strawberry for all other chapters.\n\nMountain Climber[20\u2605  (Partial: 10\u2605)]\nProve yourself.",
+            "primaryText": "Strawberry Lunatic [150\u2605]\nCollect the golden strawberry for Chapter 9.\n\nStrawberry Enthusiast [80\u2605]\nCollect the golden strawberry for all other chapters.\n\nMountain Climber[20\u2605 (Partial: 10\u2605)]\nProve yourself.",
             "community": 9,
             "communityText": "Olympic Stargazer\nComplete all maps and obtain all red berries in the Grandmaster Lobbies of Spring Collab and Strawberry Jam.\n\nAbove and Beyond\nObtain any Tier 8 or harder golden berry (without assist mode).\n\nSpace Jam\nComplete all maps and obtain all red berries in Monika's D-Sides and the Expert Lobbies of Spring Collab and Strawberry Jam.\n\nIntrepid Explorer\nComplete all maps and obtain all red berries in Glyph and the Beginner, Intermediate, and Advanced Lobbies of Spring Collab and Strawberry Jam.\n\nOver the Top\nObtain 100% completion in game in a single run without dying. (Without assist mode)\n\nSpeed Berry\nComplete an any% Speedrun of the game in under 30 minutes. (Without assist mode)\n\nLunar Inconvenience\nObtain the Moon & Golden Berries in a single run. (Without Assist mode)\n\nSolid Gold\nComplete all \"Full Clear\" A sides without dying. (Without Assist mode)\n\nDouble Golden\nObtain both golden berries in chapter 1-A in the same run. (Without assist mode)",
             "achievements": 32
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 120063,
-            "positive": 117024,
+            "total": 120102,
+            "positive": 117063,
             "negative": 3039
         }
     },
@@ -11627,7 +11627,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:02:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 47,
         "playersStarted": 0,
         "playersTotal": 91,
@@ -11687,7 +11687,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-06T16:37:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -11747,7 +11747,7 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2022-07-22T10:21:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 13,
         "playersTotal": 52,
@@ -11808,7 +11808,7 @@ var data =
         "tier": 5,
         "points": 300,
         "createdAt": "2020-01-28T08:58:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 24,
         "playersTotal": 157,
@@ -11846,15 +11846,15 @@ var data =
         },
         "milestones": {
             "primary": 7,
-            "primaryText": "Space Invader [50\u2605]\nObtain a gold medal on the Nightmare Gauntlet.\n\nCreeping Disaster [100\u2605]\nObtain a gold medal on the Nightmare Crusade and Nightmare Invasion Speedruns.\n\nNightmare Vanquisher[70\u2605  (Partial: 50\u2605)]\nObtain a gold medal on all Nightmare Invasion bosses. *Partial points are rewarded as a progress milestone.\n\nNightmare Conqueror [30\u2605]\nObtain a gold medal on all Nightmare Crusade bosses.\n\nByte Buster [10\u2605]\nObtain a gold medal on all Bonus bosses (except Ball Pit).\n\nBit Burner [20\u2605]\nObtain a gold medal on all Normal Crusade and Invasion bosses.\n\nChipping Away [20\u2605]\nProve yourself.",
+            "primaryText": "Space Invader [50\u2605]\nObtain a gold medal on the Nightmare Gauntlet.\n\nCreeping Disaster [100\u2605]\nObtain a gold medal on the Nightmare Crusade and Nightmare Invasion Speedruns.\n\nNightmare Vanquisher[70\u2605 (Partial: 50\u2605)]\nObtain a gold medal on all Nightmare Invasion bosses. *Partial points are rewarded as a progress milestone.\n\nNightmare Conqueror [30\u2605]\nObtain a gold medal on all Nightmare Crusade bosses.\n\nByte Buster [10\u2605]\nObtain a gold medal on all Bonus bosses (except Ball Pit).\n\nBit Burner [20\u2605]\nObtain a gold medal on all Normal Crusade and Invasion bosses.\n\nChipping Away [20\u2605]\nProve yourself.",
             "community": 1,
             "communityText": "Nothing Left Behind\nObtain a gold medal everywhere possible.",
             "achievements": 22
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1092,
-            "positive": 999,
+            "total": 1093,
+            "positive": 1000,
             "negative": 93
         }
     },
@@ -11868,7 +11868,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-02-11T07:18:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -11913,8 +11913,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 15641,
-            "positive": 14273,
+            "total": 15643,
+            "positive": 14275,
             "negative": 1368
         }
     },
@@ -11928,7 +11928,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-08-01T17:42:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 221,
@@ -11984,7 +11984,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2024-05-26T04:49:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 6,
         "playersTotal": 70,
@@ -12029,9 +12029,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12217,
-            "positive": 11027,
-            "negative": 1190
+            "total": 12221,
+            "positive": 11030,
+            "negative": 1191
         }
     },
     {
@@ -12044,7 +12044,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:57:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 126,
@@ -12104,7 +12104,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-20T03:07:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -12164,7 +12164,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-04-16T13:49:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -12224,7 +12224,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-04-22T20:06:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 4,
         "playersTotal": 34,
@@ -12284,7 +12284,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-02-17T17:05:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 2,
         "playersTotal": 98,
@@ -12329,8 +12329,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 32903,
-            "positive": 31867,
+            "total": 32915,
+            "positive": 31879,
             "negative": 1036
         }
     },
@@ -12344,7 +12344,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-29T19:06:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 10,
@@ -12404,7 +12404,7 @@ var data =
         "tier": 5,
         "points": 280,
         "createdAt": "2020-01-28T09:35:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 7,
         "playersTotal": 166,
@@ -12442,7 +12442,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Demi-God[150\u2605  (Partial: 70\u2605)]\nComplete Full Game Defiance Rush mode without dying or restarting.\n\nFlying Nimbus [100\u2605]\nObtain an S rank in all modes for all levels including the Defiance DLC.\n\nCloudbuilding Your Skills [30\u2605]\nComplete the Defiance DLC. / Clear the Original 22 Rush Mode in 22:22 or less.",
+            "primaryText": "Demi-God[150\u2605 (Partial: 70\u2605)]\nComplete Full Game Defiance Rush mode without dying or restarting.\n\nFlying Nimbus [100\u2605]\nObtain an S rank in all modes for all levels including the Defiance DLC.\n\nCloudbuilding Your Skills [30\u2605]\nComplete the Defiance DLC. / Clear the Original 22 Rush Mode in 22:22 or less.",
             "community": 0,
             "communityText": "",
             "achievements": 37
@@ -12464,7 +12464,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-03-08T04:07:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -12524,7 +12524,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:06:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 292,
         "playersStarted": 0,
         "playersTotal": 593,
@@ -12569,8 +12569,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 17080,
-            "positive": 15971,
+            "total": 17083,
+            "positive": 15974,
             "negative": 1109
         }
     },
@@ -12584,7 +12584,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-06-30T19:04:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -12644,7 +12644,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T05:58:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 49,
         "playersStarted": 0,
         "playersTotal": 312,
@@ -12689,9 +12689,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 57202,
-            "positive": 48246,
-            "negative": 8956
+            "total": 57207,
+            "positive": 48250,
+            "negative": 8957
         }
     },
     {
@@ -12704,7 +12704,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-12-22T21:05:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -12764,7 +12764,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-06-25T19:03:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 1,
         "playersTotal": 211,
@@ -12802,7 +12802,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Wildest of the West[65\u2605  (Partial: 10\u2605)]\nProve yourself.",
+            "primaryText": "Wildest of the West[65\u2605 (Partial: 10\u2605)]\nProve yourself.",
             "community": 2,
             "communityText": "Lone Star\nComplete a Loop Run in an unseeded single player run.\n\nMaverick\nComplete an unseeded single player run without having any upgrades applied.",
             "achievements": 40
@@ -12824,7 +12824,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2022-07-31T00:46:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 31,
@@ -12884,7 +12884,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-04-24T20:02:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 4,
         "playersTotal": 21,
@@ -12944,7 +12944,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-11-25T09:17:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -13004,7 +13004,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:58:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 13,
         "playersTotal": 294,
@@ -13064,7 +13064,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-19T20:00:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 261,
@@ -13124,7 +13124,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-02T19:05:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 5,
         "playersTotal": 112,
@@ -13184,7 +13184,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-06T17:54:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -13245,7 +13245,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-08-08T22:40:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 26,
         "playersTotal": 72,
@@ -13305,7 +13305,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-04T13:19:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 66,
@@ -13365,7 +13365,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2024-11-03T19:10:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
         "playersTotal": 72,
@@ -13410,9 +13410,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 26726,
-            "positive": 26178,
-            "negative": 548
+            "total": 26733,
+            "positive": 26183,
+            "negative": 550
         },
         "information": "NOTICE:\nGame is still currently in early access, so values and PO structure highly likely to change as updates come out and when the full game releases."
     },
@@ -13426,7 +13426,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-27T02:41:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 11,
@@ -13486,7 +13486,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-08-10T17:12:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 50,
@@ -13546,7 +13546,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-11-10T22:07:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 23,
         "playersTotal": 107,
@@ -13586,8 +13586,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3165,
-            "positive": 2751,
+            "total": 3167,
+            "positive": 2753,
             "negative": 414
         }
     },
@@ -13601,7 +13601,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T07:16:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 32,
         "playersStarted": 79,
         "playersTotal": 455,
@@ -13646,8 +13646,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 17974,
-            "positive": 16646,
+            "total": 17979,
+            "positive": 16651,
             "negative": 1328
         }
     },
@@ -13661,7 +13661,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2021-01-17T18:56:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 157,
@@ -13699,15 +13699,15 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Long Haul Ironman[80\u2605  (Partial: 40\u2605)]\nBeat Hardcore mode on Insane difficulty.",
+            "primaryText": "Long Haul Ironman[80\u2605 (Partial: 40\u2605)]\nBeat Hardcore mode on Insane difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 36
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6215,
-            "positive": 5569,
+            "total": 6219,
+            "positive": 5573,
             "negative": 646
         }
     },
@@ -13721,7 +13721,7 @@ var data =
         "tier": 5,
         "points": 230,
         "createdAt": "2023-03-25T21:16:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 8,
         "playersTotal": 66,
@@ -13782,7 +13782,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-10-18T19:51:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -13842,10 +13842,10 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2024-04-23T14:33:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
-        "playersTotal": 207,
+        "playersTotal": 209,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -13887,9 +13887,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16839,
-            "positive": 15678,
-            "negative": 1161
+            "total": 16843,
+            "positive": 15681,
+            "negative": 1162
         },
         "information": "This is an extremely long game, expect to spend at least 70 hours before being able to do objectives. It's possible to skip the entire game and go straight for the objectives if you wish (check the any% speedrun). DLC is required for all objectives.\n\nUse of assist mode in any form is banned for all objectives. Assist mode time is tracked in statistics and saved to the file permanently. \n\nRegarding the exclusion of Custom Cup Rushes: there are scoring exploits in the Vermillion and Platform Cups that allow you to farm points in specific rounds and thus get platinum medals in the Rush Modes without much effort (since they are based on an overall score and not per round), and the Platform Cup is known to consistently crash after a certain point, making any medal impossible to obtain. For all other Custom Cups, there's either no Rush Mode or the Rush Mode is too easy to be considered as worthwhile PO content."
     },
@@ -13903,7 +13903,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-13T01:15:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -13963,10 +13963,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-02-17T17:16:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 5,
-        "playersTotal": 175,
+        "playersTotal": 176,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -14008,9 +14008,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 20736,
-            "positive": 20083,
-            "negative": 653
+            "total": 20743,
+            "positive": 20089,
+            "negative": 654
         }
     },
     {
@@ -14023,7 +14023,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-18T14:27:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 19,
         "playersTotal": 225,
@@ -14061,7 +14061,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sanicball[10\u2605  (Partial: 5\u2605)]\nGet all 40 stars in the game. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Sanicball[10\u2605 (Partial: 5\u2605)]\nGet all 40 stars in the game. *Partial points are awarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -14083,7 +14083,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-05-12T09:47:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 201,
@@ -14143,7 +14143,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-08T18:16:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -14188,8 +14188,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1891,
-            "positive": 1848,
+            "total": 1894,
+            "positive": 1851,
             "negative": 43
         }
     },
@@ -14200,10 +14200,10 @@ var data =
         "name": "Crypt of the NecroDancer",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/247080/header.jpg?t=1659637239",
         "genre": "Arcade",
-        "tier": 5,
+        "tier": 6,
         "points": 700,
         "createdAt": "2020-01-28T10:05:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:51:25.000Z",
         "playersCompleted": 13,
         "playersStarted": 222,
         "playersTotal": 1138,
@@ -14248,9 +14248,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 25095,
-            "positive": 24034,
-            "negative": 1061
+            "total": 25098,
+            "positive": 24036,
+            "negative": 1062
         }
     },
     {
@@ -14263,7 +14263,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-11-09T06:42:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -14308,8 +14308,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1926,
-            "positive": 1778,
+            "total": 1927,
+            "positive": 1779,
             "negative": 148
         }
     },
@@ -14323,10 +14323,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T06:23:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 69,
         "playersStarted": 235,
-        "playersTotal": 1052,
+        "playersTotal": 1053,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -14368,9 +14368,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 185675,
-            "positive": 178793,
-            "negative": 6882
+            "total": 185770,
+            "positive": 178884,
+            "negative": 6886
         },
         "information": "DLC Required:\n-The Delicious Last Course"
     },
@@ -14384,7 +14384,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2021-12-14T00:29:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 12,
         "playersTotal": 249,
@@ -14444,7 +14444,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:29:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 141,
@@ -14504,7 +14504,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T06:14:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 84,
@@ -14564,7 +14564,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-09-29T09:21:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 143,
         "playersStarted": 0,
         "playersTotal": 400,
@@ -14609,8 +14609,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3864,
-            "positive": 3675,
+            "total": 3865,
+            "positive": 3676,
             "negative": 189
         }
     },
@@ -14624,7 +14624,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-18T14:36:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 35,
@@ -14684,7 +14684,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-06-16T23:42:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 1,
         "playersTotal": 16,
@@ -14744,7 +14744,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:16:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 228,
@@ -14804,7 +14804,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-05-17T18:28:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 50,
@@ -14849,9 +14849,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1215,
+            "total": 1216,
             "positive": 1076,
-            "negative": 139
+            "negative": 140
         }
     },
     {
@@ -14864,7 +14864,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-04-13T18:05:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -14924,7 +14924,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-03-28T07:38:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -14984,7 +14984,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2023-04-09T01:55:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 10,
         "playersTotal": 48,
@@ -15044,7 +15044,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:53:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 12,
         "playersTotal": 145,
@@ -15104,7 +15104,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-04-14T12:46:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 75,
@@ -15164,7 +15164,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-12T00:17:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -15202,7 +15202,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Depressing Alternative of Pikmin[15\u2605  (Partial: 5\u2605)]\nBeat the game without dying.",
+            "primaryText": "Depressing Alternative of Pikmin[15\u2605 (Partial: 5\u2605)]\nBeat the game without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 17
@@ -15224,7 +15224,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2023-10-29T17:56:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 49,
@@ -15269,8 +15269,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 770,
-            "positive": 636,
+            "total": 771,
+            "positive": 637,
             "negative": 134
         }
     },
@@ -15284,7 +15284,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:27:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 110,
@@ -15344,7 +15344,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-01-05T08:39:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 210,
         "playersTotal": 495,
@@ -15389,9 +15389,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 116145,
-            "positive": 97611,
-            "negative": 18534
+            "total": 116178,
+            "positive": 97632,
+            "negative": 18546
         }
     },
     {
@@ -15404,7 +15404,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T06:29:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 50,
         "playersStarted": 362,
         "playersTotal": 912,
@@ -15449,9 +15449,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 412615,
-            "positive": 389221,
-            "negative": 23394
+            "total": 412699,
+            "positive": 389300,
+            "negative": 23399
         },
         "information": "Doesn't have cloud save, careful!"
     },
@@ -15465,10 +15465,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-01-05T08:24:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 40,
         "playersStarted": 173,
-        "playersTotal": 488,
+        "playersTotal": 489,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -15510,9 +15510,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 128363,
-            "positive": 118286,
-            "negative": 10077
+            "total": 128434,
+            "positive": 118354,
+            "negative": 10080
         }
     },
     {
@@ -15525,7 +15525,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-29T17:48:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -15585,7 +15585,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-02-26T08:39:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 57,
@@ -15630,9 +15630,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12351,
-            "positive": 10169,
-            "negative": 2182
+            "total": 12354,
+            "positive": 10171,
+            "negative": 2183
         }
     },
     {
@@ -15645,7 +15645,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-09-22T08:52:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 9,
         "playersTotal": 218,
@@ -15690,8 +15690,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 21537,
-            "positive": 20451,
+            "total": 21550,
+            "positive": 20464,
             "negative": 1086
         }
     },
@@ -15705,7 +15705,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-11-27T03:10:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -15760,10 +15760,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-19T04:48:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 10,
+        "updatedAt": "2025-05-24T21:45:49.000Z",
+        "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 32,
+        "playersTotal": 33,
         "priceData": {
             "USD": {
                 "initial": 199,
@@ -15820,7 +15820,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T08:46:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 42,
         "playersTotal": 192,
@@ -15881,10 +15881,10 @@ var data =
         "tier": 4,
         "points": 135,
         "createdAt": "2020-01-28T08:42:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 39,
-        "playersTotal": 790,
+        "playersTotal": 791,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -15919,16 +15919,16 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Radiant Triumph [50\u2605]\nClear the Stage 4 Boss Rush with 5BC without getting hit and without using Assist mode.\n\nHarder, Better, Faster, Stronger [10\u2605]\nClear the Stage 4 Boss Rush with 5BC without using Assist mode.\n\nFreed from My Shackles[75\u2605  (Partial: 10\u2605)]\nObtain all Hitless achievements.",
+            "primaryText": "Radiant Triumph [50\u2605]\nClear the Stage 4 Boss Rush with 5BC without getting hit and without using Assist mode.\n\nHarder, Better, Faster, Stronger [10\u2605]\nClear the Stage 4 Boss Rush with 5BC without using Assist mode.\n\nFreed from My Shackles[75\u2605 (Partial: 10\u2605)]\nObtain all Hitless achievements.",
             "community": 0,
             "communityText": "",
             "achievements": 121
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 167775,
-            "positive": 162887,
-            "negative": 4888
+            "total": 167831,
+            "positive": 162941,
+            "negative": 4890
         },
         "information": "For the Boss Rush primary objectives, use of custom mode is only allowed to relock weapons and mutations that aren't the default ones. In other words, you must keep the items on this list enabled: [https://pastebin.com/H8G7D5sD](https://pastebin.com/H8G7D5sD)\n\nKanra - \"try baseball bat + wolftrap/stun grenade\""
     },
@@ -15942,7 +15942,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-28T21:57:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 165,
@@ -16002,7 +16002,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2020-01-28T10:03:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 19,
         "playersTotal": 255,
@@ -16063,7 +16063,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T08:08:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 191,
@@ -16123,7 +16123,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-10T06:37:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 40,
@@ -16178,7 +16178,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-08-07T16:32:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 7,
         "playersTotal": 85,
@@ -16224,8 +16224,8 @@ var data =
         "reviews": {
             "description": "Very Positive",
             "total": 3398,
-            "positive": 3050,
-            "negative": 348
+            "positive": 3049,
+            "negative": 349
         }
     },
     {
@@ -16238,7 +16238,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-07T20:23:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -16283,9 +16283,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 554,
+            "total": 555,
             "positive": 496,
-            "negative": 58
+            "negative": 59
         }
     },
     {
@@ -16298,7 +16298,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-08T18:44:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -16358,7 +16358,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-10-20T21:21:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -16418,7 +16418,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T17:51:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 90,
         "playersStarted": 0,
         "playersTotal": 269,
@@ -16463,8 +16463,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 18579,
-            "positive": 17361,
+            "total": 18587,
+            "positive": 17369,
             "negative": 1218
         }
     },
@@ -16478,7 +16478,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:36:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 243,
@@ -16523,9 +16523,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5266,
-            "positive": 4294,
-            "negative": 972
+            "total": 5268,
+            "positive": 4295,
+            "negative": 973
         }
     },
     {
@@ -16538,7 +16538,7 @@ var data =
         "tier": 2,
         "points": 36,
         "createdAt": "2023-04-08T12:28:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 6,
         "playersTotal": 22,
@@ -16598,7 +16598,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-08T22:05:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 33,
@@ -16658,7 +16658,7 @@ var data =
         "tier": 4,
         "points": 131,
         "createdAt": "2020-06-21T08:52:59.000Z",
-        "updatedAt": "2025-05-16T04:32:28.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 17,
         "playersTotal": 148,
@@ -16696,15 +16696,15 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Gilded Gilverado [75\u2605]\nReach 300,000,000 score.\n\nVirtuous Virtuoso[40\u2605  (Partial: 25\u2605)]\nClear Deathsmiles Version 1.1 with all maps at Lv3! (No Continues, Ex Map included).\n\nAngels Against Hell [15\u2605]\nClear the game without continuing on Rosa, Windia, Follett and Casper.\n\nSmiles at Death (UNVALUED) [1\u2605]\nDefeat Bloody Jitterbug (Mega Black Label only).",
+            "primaryText": "Gilded Gilverado [75\u2605]\nReach 300,000,000 score.\n\nVirtuous Virtuoso[40\u2605 (Partial: 25\u2605)]\nClear Deathsmiles Version 1.1 with all maps at Lv3! (No Continues, Ex Map included).\n\nAngels Against Hell [15\u2605]\nClear the game without continuing on Rosa, Windia, Follett and Casper.\n\nSmiles at Death (UNVALUED) [1\u2605]\nDefeat Bloody Jitterbug (Mega Black Label only).",
             "community": 1,
             "communityText": "Castle Ex Death\nClear Deathsmiles Version Normal (or Arcade) with all maps at Lv3. (No Continues, Ex Map included).",
             "achievements": 48
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 543,
-            "positive": 525,
+            "total": 544,
+            "positive": 526,
             "negative": 18
         }
     },
@@ -16718,7 +16718,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-09-01T03:32:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 21,
@@ -16778,7 +16778,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-10-18T21:39:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 39,
@@ -16838,7 +16838,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2020-12-14T19:50:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 26,
         "playersTotal": 115,
@@ -16898,10 +16898,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-02-08T16:32:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 95,
         "playersStarted": 0,
-        "playersTotal": 833,
+        "playersTotal": 834,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -16943,8 +16943,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 342290,
-            "positive": 332884,
+            "total": 342344,
+            "positive": 332938,
             "negative": 9406
         },
         "information": "Not using any mods at all for the \"Lone Digger\" objective makes the verification easier, but for those who do use mods, the list of the ones you've used must be shown prior or after finishing the run. Anything that modifies the gameplay in a relevant way is banned, whether that is a better visual/sound cue, or straight up modifying the gameplay.\n"
@@ -16959,7 +16959,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-10T19:47:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 66,
@@ -17019,7 +17019,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-02T13:41:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -17080,7 +17080,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-20T04:20:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 192,
@@ -17140,7 +17140,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-08T21:43:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 50,
@@ -17200,7 +17200,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-11-18T14:00:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -17260,7 +17260,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-07-02T23:15:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 8,
         "playersTotal": 218,
@@ -17305,9 +17305,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 19143,
-            "positive": 18054,
-            "negative": 1089
+            "total": 19151,
+            "positive": 18061,
+            "negative": 1090
         }
     },
     {
@@ -17317,10 +17317,10 @@ var data =
         "name": "Desktop Dungeons",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/226620/header.jpg?t=1640643139",
         "genre": "Strategy",
-        "tier": 5,
+        "tier": 6,
         "points": 460,
         "createdAt": "2022-09-26T08:04:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:50:01.000Z",
         "playersCompleted": 2,
         "playersStarted": 8,
         "playersTotal": 515,
@@ -17381,7 +17381,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-20T04:06:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 461,
@@ -17441,7 +17441,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-17T15:25:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -17501,10 +17501,10 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2020-04-14T19:45:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 10,
-        "playersTotal": 83,
+        "playersTotal": 84,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -17561,7 +17561,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-09-18T22:32:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 361,
@@ -17606,9 +17606,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 28064,
+            "total": 28065,
             "positive": 25858,
-            "negative": 2206
+            "negative": 2207
         }
     },
     {
@@ -17621,7 +17621,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-09-19T14:16:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 1,
         "playersTotal": 297,
@@ -17666,9 +17666,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 40792,
+            "total": 40793,
             "positive": 30987,
-            "negative": 9805
+            "negative": 9806
         }
     },
     {
@@ -17681,7 +17681,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-31T21:23:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -17741,7 +17741,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2024-12-21T07:29:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 26,
@@ -17801,7 +17801,7 @@ var data =
         "tier": 5,
         "points": 375,
         "createdAt": "2020-01-28T00:45:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 106,
         "playersTotal": 678,
@@ -17846,8 +17846,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 9057,
-            "positive": 8630,
+            "total": 9058,
+            "positive": 8631,
             "negative": 427
         }
     },
@@ -17861,7 +17861,7 @@ var data =
         "tier": 3,
         "points": 73,
         "createdAt": "2023-12-29T18:14:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 20,
@@ -17922,10 +17922,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-06-25T19:35:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 11,
-        "playersTotal": 399,
+        "playersTotal": 400,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -17967,8 +17967,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 145445,
-            "positive": 139585,
+            "total": 145495,
+            "positive": 139635,
             "negative": 5860
         }
     },
@@ -17982,7 +17982,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-09-27T06:48:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 13,
         "playersTotal": 249,
@@ -18027,8 +18027,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16917,
-            "positive": 15706,
+            "total": 16931,
+            "positive": 15720,
             "negative": 1211
         }
     },
@@ -18042,10 +18042,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-05-24T15:08:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 36,
+        "playersTotal": 37,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -18102,7 +18102,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2024-04-02T23:51:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 127,
@@ -18147,9 +18147,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 82441,
-            "positive": 74998,
-            "negative": 7443
+            "total": 82447,
+            "positive": 75005,
+            "negative": 7442
         }
     },
     {
@@ -18162,7 +18162,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-01-31T03:54:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 52,
         "playersStarted": 0,
         "playersTotal": 374,
@@ -18207,8 +18207,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 11097,
-            "positive": 9939,
+            "total": 11098,
+            "positive": 9940,
             "negative": 1158
         }
     },
@@ -18222,7 +18222,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-10-28T03:12:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 72,
@@ -18282,7 +18282,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:53:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 77,
@@ -18342,7 +18342,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-03-02T21:17:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 30,
@@ -18402,7 +18402,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-11-17T22:48:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -18462,7 +18462,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-10-25T00:06:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 209,
@@ -18522,7 +18522,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2025-03-16T08:52:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -18567,9 +18567,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 44437,
-            "positive": 39252,
-            "negative": 5185
+            "total": 44445,
+            "positive": 39259,
+            "negative": 5186
         }
     },
     {
@@ -18582,7 +18582,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-10-26T19:34:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 133,
         "playersTotal": 288,
@@ -18642,7 +18642,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T08:11:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 52,
         "playersStarted": 0,
         "playersTotal": 580,
@@ -18687,8 +18687,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 82305,
-            "positive": 80363,
+            "total": 82313,
+            "positive": 80371,
             "negative": 1942
         }
     },
@@ -18702,7 +18702,7 @@ var data =
         "tier": 1,
         "points": 12,
         "createdAt": "2020-01-28T09:51:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 12,
         "playersTotal": 206,
@@ -18762,7 +18762,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-13T21:36:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -18819,10 +18819,10 @@ var data =
         "name": "DoDonPachi Resurrection",
         "header": "https://steamcdn-a.akamaihd.net/steam/apps/464450/header.jpg?t=1563876814",
         "genre": "Bullet Hell",
-        "tier": 5,
+        "tier": 6,
         "points": 710,
         "createdAt": "2020-03-14T12:55:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:51:31.000Z",
         "playersCompleted": 2,
         "playersStarted": 16,
         "playersTotal": 207,
@@ -18860,15 +18860,15 @@ var data =
         },
         "milestones": {
             "primary": 9,
-            "primaryText": "Zatsuza [190\u2605]\nDefeat Zatsuza in BL with Strong (NO continues).\n\nBL Strong Master[145\u2605  (Partial: 40\u2605)]\nDefeat Hibachi in BL with Strong and score 500bil (NO continues). Can be done in separate runs.\n\nFirst Loop TLB Master [80\u2605]\nDefeat Hibachi in BL with Bomb and Power and defeat Hivac in BL Arrange (no continues).\n\nBL Bomb+Power Master [80\u2605]\nDefeat Hibachi in BL with Bomb and Power and score 300bil with Bomb and 600bil with Power in BL (continues allowed). Can all be achieved in individual runs.\n\nUra 2-All Master [100\u2605]\nClear the Ura loop of Arrange A and 1.5 (no continues).\n\nHumanity's Triumph [30\u2605]\nDefeat Hibachi in Arrange A (continues allowed).\n\nEvaccaneer Doom [25\u2605]\nDefeat the TLB in BL Arrange (continues allowed).\n\n1.5 2-All [50\u2605]\nClear either second loop of 1.5 (no continues).\n\nBlissful Death [10\u2605]\nClear the first loop of 1.5 or Arrange A. (No continues used)",
+            "primaryText": "Zatsuza [190\u2605]\nDefeat Zatsuza in BL with Strong (NO continues).\n\nBL Strong Master[145\u2605 (Partial: 40\u2605)]\nDefeat Hibachi in BL with Strong and score 500bil (NO continues). Can be done in separate runs.\n\nFirst Loop TLB Master [80\u2605]\nDefeat Hibachi in BL with Bomb and Power and defeat Hivac in BL Arrange (no continues).\n\nBL Bomb+Power Master [80\u2605]\nDefeat Hibachi in BL with Bomb and Power and score 300bil with Bomb and 600bil with Power in BL (continues allowed). Can all be achieved in individual runs.\n\nUra 2-All Master [100\u2605]\nClear the Ura loop of Arrange A and 1.5 (no continues).\n\nHumanity's Triumph [30\u2605]\nDefeat Hibachi in Arrange A (continues allowed).\n\nEvaccaneer Doom [25\u2605]\nDefeat the TLB in BL Arrange (continues allowed).\n\n1.5 2-All [50\u2605]\nClear either second loop of 1.5 (no continues).\n\nBlissful Death [10\u2605]\nClear the first loop of 1.5 or Arrange A. (No continues used)",
             "community": 0,
             "communityText": "",
             "achievements": 100
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 965,
-            "positive": 925,
+            "total": 966,
+            "positive": 926,
             "negative": 40
         },
         "information": "Can have some replay desync issues, more noticeable on second loops. It's recommended to record videos of live runs.\n"
@@ -18883,7 +18883,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-02T16:36:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -18928,8 +18928,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 256,
-            "positive": 246,
+            "total": 257,
+            "positive": 247,
             "negative": 10
         }
     },
@@ -18943,10 +18943,10 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2024-07-15T18:38:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 358,
+        "playersTotal": 359,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -18988,9 +18988,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 205955,
-            "positive": 196750,
-            "negative": 9205
+            "total": 206046,
+            "positive": 196838,
+            "negative": 9208
         }
     },
     {
@@ -19003,7 +19003,7 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2021-09-24T05:16:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 6,
         "playersTotal": 620,
@@ -19048,9 +19048,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 201725,
-            "positive": 184479,
-            "negative": 17246
+            "total": 201810,
+            "positive": 184552,
+            "negative": 17258
         }
     },
     {
@@ -19063,7 +19063,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-04-12T14:36:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 159,
@@ -19108,9 +19108,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 27558,
-            "positive": 26602,
-            "negative": 956
+            "total": 27560,
+            "positive": 26605,
+            "negative": 955
         }
     },
     {
@@ -19123,7 +19123,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2024-01-18T20:41:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 10,
         "playersTotal": 41,
@@ -19183,7 +19183,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-11-10T22:07:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -19243,7 +19243,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-06-15T00:47:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -19303,7 +19303,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-21T05:09:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -19363,7 +19363,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:48:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 175,
         "playersStarted": 0,
         "playersTotal": 709,
@@ -19408,8 +19408,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 8188,
-            "positive": 7909,
+            "total": 8191,
+            "positive": 7912,
             "negative": 279
         }
     },
@@ -19423,10 +19423,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-06-30T02:17:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 44,
+        "playersTotal": 45,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -19483,7 +19483,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-09-01T15:41:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 14,
@@ -19521,7 +19521,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "All's Wellbubble[15\u2605  (Partial: 5\u2605)]\nGet to the ending without continuing on difficulty level 5 (Normal).\n\nDragonlord (UNCLEARED) [1\u2605]\nClear both loops of the score attack mode.",
+            "primaryText": "All's Wellbubble[15\u2605 (Partial: 5\u2605)]\nGet to the ending without continuing on difficulty level 5 (Normal).\n\nDragonlord (UNCLEARED) [1\u2605]\nClear both loops of the score attack mode.",
             "community": 0,
             "communityText": "",
             "achievements": 32
@@ -19543,7 +19543,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-23T04:36:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -19603,7 +19603,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-09-08T17:25:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -19663,10 +19663,10 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2024-01-13T20:56:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 13,
-        "playersTotal": 78,
+        "playersTotal": 79,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -19701,7 +19701,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Lucid Dreamer[90\u2605  (Partial: 15\u2605)]\nGet 150 orbs in all modes except Weekly (Partial points awarded for obtaining 150 orbs in any mode)\n\nCosmic Swinger[35\u2605  (Partial: 5\u2605)]\nGet 130 orbs in all modes except Weekly (Partial points awarded for obtaining 130 orbs in any mode)\n\nA Chaotic Start [5\u2605]\nGet 120 orbs in any mode. (Chaos Original recommended)",
+            "primaryText": "Lucid Dreamer[90\u2605 (Partial: 15\u2605)]\nGet 150 orbs in all modes except Weekly (Partial points awarded for obtaining 150 orbs in any mode)\n\nCosmic Swinger[35\u2605 (Partial: 5\u2605)]\nGet 130 orbs in all modes except Weekly (Partial points awarded for obtaining 130 orbs in any mode)\n\nA Chaotic Start [5\u2605]\nGet 120 orbs in any mode. (Chaos Original recommended)",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -19723,10 +19723,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-04-08T11:18:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 129,
+        "playersTotal": 130,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -19768,8 +19768,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1159,
-            "positive": 1127,
+            "total": 1162,
+            "positive": 1130,
             "negative": 32
         }
     },
@@ -19783,7 +19783,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:00:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -19843,7 +19843,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-05-15T17:51:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 258,
@@ -19903,7 +19903,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-22T20:28:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -19963,7 +19963,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T08:17:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -20023,7 +20023,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-09T16:27:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -20068,9 +20068,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 201,
+            "total": 202,
             "positive": 168,
-            "negative": 33
+            "negative": 34
         }
     },
     {
@@ -20083,10 +20083,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-04-13T18:46:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 32,
         "playersStarted": 47,
-        "playersTotal": 506,
+        "playersTotal": 507,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -20128,8 +20128,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 38452,
-            "positive": 37147,
+            "total": 38454,
+            "positive": 37149,
             "negative": 1305
         }
     },
@@ -20143,7 +20143,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-11-05T00:24:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -20204,7 +20204,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-19T16:04:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -20264,7 +20264,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-19T17:03:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 181,
@@ -20319,7 +20319,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-06-06T02:53:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 15,
         "playersTotal": 126,
@@ -20379,7 +20379,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:43:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -20439,7 +20439,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-01-23T16:52:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -20499,7 +20499,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-01T06:24:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -20559,7 +20559,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-12-05T06:36:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 9,
         "playersTotal": 492,
@@ -20604,8 +20604,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 13722,
-            "positive": 11737,
+            "total": 13725,
+            "positive": 11740,
             "negative": 1985
         }
     },
@@ -20619,7 +20619,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2024-01-16T07:47:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 61,
@@ -20657,15 +20657,15 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "The Hearth of the Dungeon [15\u2605]\nBeat the game with at least the Hard Opening Key VIII with the Devil Swordswman and Pandora.\n\nA Tale of Avarice[15\u2605  (Partial: 10\u2605)]\nBeat the game with the Hard Opening Key X with any character. *Partial points are awarded as a progress milestone.\n\nGreed Rush [5\u2605]\nBeat the Boss Rush on Hard Mode.\n\nThrough the Manor and the Depths [10\u2605]\nDefeat Roellyn. / Complete the game with no more than 5 food.",
+            "primaryText": "The Hearth of the Dungeon [15\u2605]\nBeat the game with at least the Hard Opening Key VIII with the Devil Swordswman and Pandora.\n\nA Tale of Avarice[15\u2605 (Partial: 10\u2605)]\nBeat the game with the Hard Opening Key X with any character. *Partial points are awarded as a progress milestone.\n\nGreed Rush [5\u2605]\nBeat the Boss Rush on Hard Mode.\n\nThrough the Manor and the Depths [10\u2605]\nDefeat Roellyn. / Complete the game with no more than 5 food.",
             "community": 1,
             "communityText": "Platinum Trailblazer \nBeat the game with at least the Hard Opening Key VIII with all characters.",
             "achievements": 24
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9273,
-            "positive": 8655,
+            "total": 9274,
+            "positive": 8656,
             "negative": 618
         }
     },
@@ -20679,7 +20679,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:51:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 3,
         "playersTotal": 15,
@@ -20739,7 +20739,7 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2020-01-28T09:25:05.000Z",
-        "updatedAt": "2025-05-24T01:52:05.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 95,
         "playersTotal": 545,
@@ -20777,7 +20777,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Dust Destroyer [130\u2605]\nObtain SS on \"infinidifficult\".\n\nCustodial Master [60\u2605]\nObtain SS on \"Yotta Difficult\".\n\nCertified Janitor[30\u2605  (Partial: 20\u2605)]\nObtain SS on all other single player levels. *Partial points awarded for obtaining SS on \"Giga Difficult\".",
+            "primaryText": "Dust Destroyer [130\u2605]\nObtain SS on \"infinidifficult\".\n\nCustodial Master [60\u2605]\nObtain SS on \"Yotta Difficult\".\n\nCertified Janitor[30\u2605 (Partial: 20\u2605)]\nObtain SS on all other single player levels. *Partial points awarded for obtaining SS on \"Giga Difficult\".",
             "community": 5,
             "communityText": "Cleaning Crew\nObtain SS on Scrubforce DX combination map.\n\nCustodian of the Year (S)\nObtain SS on all Community Map Pack levels.\n\nDetergent Deployer\nObtain SS on Difficults combination map.\n\nOmnisanitized\nObtain all Dustkid achievements.\n\nWay of the Mop\nObtain SS on Dustforce DX combination map.",
             "achievements": 1
@@ -20799,7 +20799,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:21:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 149,
@@ -20859,7 +20859,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-18T18:02:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 78,
@@ -20919,7 +20919,7 @@ var data =
         "tier": 4,
         "points": 105,
         "createdAt": "2020-01-28T08:40:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 5,
         "playersTotal": 96,
@@ -20979,7 +20979,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-04-18T02:05:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -21039,7 +21039,7 @@ var data =
         "tier": 1,
         "points": 8,
         "createdAt": "2025-03-16T07:53:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 1,
@@ -21099,7 +21099,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-03T22:32:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 19,
         "playersTotal": 278,
@@ -21159,7 +21159,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2021-08-08T16:52:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 1,
         "playersTotal": 43,
@@ -21219,7 +21219,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-01-06T12:15:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 1,
         "playersTotal": 19,
@@ -21279,7 +21279,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2023-04-12T22:45:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -21339,7 +21339,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-08T17:46:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -21399,7 +21399,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-04T06:12:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -21459,7 +21459,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2020-09-04T15:14:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 8,
         "playersTotal": 21,
@@ -21517,10 +21517,10 @@ var data =
         "name": "Elasto Mania Remastered",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/1290220/header.jpg?t=1643620706",
         "genre": "Arcade",
-        "tier": 5,
+        "tier": 7,
         "points": 925,
         "createdAt": "2020-05-27T15:30:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:51:48.000Z",
         "playersCompleted": 3,
         "playersStarted": 25,
         "playersTotal": 85,
@@ -21558,16 +21558,16 @@ var data =
         },
         "milestones": {
             "primary": 7,
-            "primaryText": "Elasto Maniac [500\u2605]\nGet a total time of 40 minutes or less across all original levels.\n\nHigh Voltage[175\u2605  (Partial: 100\u2605)]\nGet a total time of 45 minutes or less across all original levels.\n\nHang Ten[100\u2605  (Partial: 35\u2605)]\nGet a total time of 50 minutes or less across all original levels.\n\nHigh Fives [55\u2605]\nGet a total time of 55 minutes or less across all original levels.\n\nRush Hour [50\u2605]\nGet a total time of 1 hour or less across all original levels.\n\nSideline Rider [30\u2605]\nFinish all extra level packs.\n\nBeginner Bikin' [15\u2605]\nFinish all original levels.",
+            "primaryText": "Elasto Maniac [500\u2605]\nGet a total time of 40 minutes or less across all original levels.\n\nHigh Voltage[175\u2605 (Partial: 100\u2605)]\nGet a total time of 45 minutes or less across all original levels.\n\nHang Ten[100\u2605 (Partial: 35\u2605)]\nGet a total time of 50 minutes or less across all original levels.\n\nHigh Fives [55\u2605]\nGet a total time of 55 minutes or less across all original levels.\n\nRush Hour [50\u2605]\nGet a total time of 1 hour or less across all original levels.\n\nSideline Rider [30\u2605]\nFinish all extra level packs.\n\nBeginner Bikin' [15\u2605]\nFinish all original levels.",
             "community": 7,
             "communityText": "A Pipe a day...\nComplete all 52 levels in the \"Pipo\" external levelpack.\n\nElma God\nObtain a \"Godlike\" time on any level.\n\nTerminally Online\nComplete the \"Elma Online Levelpack\" external levelpack with a combined total time of less than 45 minutes.\n\nThe School of Hard Elastics\nAchieve all 157 target times in the \"Moposite Playing Levels\" external levelpack.\n\nBrutal Beast\nObtain a \"Legendary\" time on any level\n\nHoylier Than Thou\nObtain a \"World Class\" time on all 54 main levels.\n\nBodacious Bouncer\nObtain a \"Pro\" time on all 54 main levels.",
             "achievements": 17
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 258,
+            "total": 259,
             "positive": 257,
-            "negative": 1
+            "negative": 2
         }
     },
     {
@@ -21580,7 +21580,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-05T05:42:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 47,
         "playersStarted": 340,
         "playersTotal": 850,
@@ -21625,9 +21625,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1052800,
-            "positive": 977937,
-            "negative": 74863
+            "total": 1053013,
+            "positive": 978134,
+            "negative": 74879
         }
     },
     {
@@ -21640,7 +21640,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-17T21:22:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -21700,7 +21700,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-08-08T17:15:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 2,
         "playersTotal": 247,
@@ -21745,8 +21745,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3797,
-            "positive": 2785,
+            "total": 3798,
+            "positive": 2786,
             "negative": 1012
         }
     },
@@ -21760,10 +21760,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-18T07:33:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 84,
+        "playersTotal": 85,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -21820,7 +21820,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:21:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 47,
         "playersStarted": 0,
         "playersTotal": 300,
@@ -21880,7 +21880,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-11T14:33:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 5,
         "playersTotal": 68,
@@ -21940,7 +21940,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:47:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 54,
         "playersStarted": 0,
         "playersTotal": 130,
@@ -22000,7 +22000,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-07-25T22:21:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -22045,8 +22045,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6158,
-            "positive": 5784,
+            "total": 6161,
+            "positive": 5787,
             "negative": 374
         }
     },
@@ -22060,7 +22060,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-02-08T07:37:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 44,
@@ -22105,8 +22105,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3558,
-            "positive": 3256,
+            "total": 3561,
+            "positive": 3259,
             "negative": 302
         }
     },
@@ -22120,7 +22120,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-10T16:22:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 131,
         "playersTotal": 335,
@@ -22165,9 +22165,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 39418,
-            "positive": 37048,
-            "negative": 2370
+            "total": 39433,
+            "positive": 37062,
+            "negative": 2371
         }
     },
     {
@@ -22180,7 +22180,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2025-04-14T03:21:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 21,
         "playersTotal": 29,
@@ -22225,8 +22225,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 13304,
-            "positive": 12724,
+            "total": 13326,
+            "positive": 12746,
             "negative": 580
         }
     },
@@ -22240,7 +22240,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-04-14T18:46:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 223,
         "playersStarted": 0,
         "playersTotal": 1065,
@@ -22285,9 +22285,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 85330,
-            "positive": 81467,
-            "negative": 3863
+            "total": 85346,
+            "positive": 81481,
+            "negative": 3865
         },
         "information": "Kanra - \"Try rainbow runs\""
     },
@@ -22301,7 +22301,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2024-12-25T03:08:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 18,
@@ -22361,7 +22361,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2022-09-06T17:37:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 47,
         "playersStarted": 0,
         "playersTotal": 126,
@@ -22406,8 +22406,8 @@ var data =
         },
         "reviews": {
             "description": "Positive",
-            "total": 36,
-            "positive": 36,
+            "total": 37,
+            "positive": 37,
             "negative": 0
         }
     },
@@ -22421,7 +22421,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:18:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 63,
@@ -22481,7 +22481,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:27:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
         "playersTotal": 161,
@@ -22541,7 +22541,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-05T11:51:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -22601,7 +22601,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-18T18:46:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 76,
@@ -22661,7 +22661,7 @@ var data =
         "tier": 3,
         "points": 52,
         "createdAt": "2022-12-18T00:02:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 64,
@@ -22721,7 +22721,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-13T21:34:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
         "playersTotal": 216,
@@ -22781,7 +22781,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-08-10T18:30:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 40,
@@ -22841,7 +22841,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2021-05-24T14:43:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 19,
         "playersTotal": 611,
@@ -22886,9 +22886,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 13379,
-            "positive": 12744,
-            "negative": 635
+            "total": 13383,
+            "positive": 12747,
+            "negative": 636
         }
     },
     {
@@ -22901,7 +22901,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-03-16T09:05:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -22946,9 +22946,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 1923,
-            "positive": 1445,
-            "negative": 478
+            "total": 1925,
+            "positive": 1446,
+            "negative": 479
         }
     },
     {
@@ -22961,7 +22961,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-23T19:38:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 101,
@@ -23006,8 +23006,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 10993,
-            "positive": 8648,
+            "total": 10995,
+            "positive": 8650,
             "negative": 2345
         }
     },
@@ -23021,7 +23021,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-10-18T05:26:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 9,
@@ -23066,8 +23066,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 446,
-            "positive": 395,
+            "total": 447,
+            "positive": 396,
             "negative": 51
         }
     },
@@ -23081,7 +23081,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-03-27T06:01:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -23141,7 +23141,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-11T00:17:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 16,
         "playersTotal": 182,
@@ -23201,7 +23201,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-17T03:35:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -23246,8 +23246,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4615,
-            "positive": 4161,
+            "total": 4616,
+            "positive": 4162,
             "negative": 454
         }
     },
@@ -23261,7 +23261,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2025-04-21T06:22:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -23321,7 +23321,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2020-01-28T08:12:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 46,
         "playersStarted": 15,
         "playersTotal": 192,
@@ -23381,7 +23381,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-03-01T16:44:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -23441,7 +23441,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-06-21T21:13:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -23501,7 +23501,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-04-23T03:47:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 63,
@@ -23561,7 +23561,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-20T22:00:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 78,
@@ -23621,7 +23621,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-10-08T03:23:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -23666,9 +23666,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3284,
-            "positive": 3003,
-            "negative": 281
+            "total": 3287,
+            "positive": 3007,
+            "negative": 280
         }
     },
     {
@@ -23681,7 +23681,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-08-08T04:25:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 80,
@@ -23726,9 +23726,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 37052,
-            "positive": 32871,
-            "negative": 4181
+            "total": 37072,
+            "positive": 32883,
+            "negative": 4189
         }
     },
     {
@@ -23741,7 +23741,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-29T12:18:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 154,
@@ -23801,7 +23801,7 @@ var data =
         "tier": 1,
         "points": 13,
         "createdAt": "2024-09-07T18:44:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 6,
@@ -23861,7 +23861,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T18:32:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -23921,7 +23921,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:16:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 56,
@@ -23981,7 +23981,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-08-01T21:15:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 140,
@@ -24026,8 +24026,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 14709,
-            "positive": 13646,
+            "total": 14711,
+            "positive": 13648,
             "negative": 1063
         }
     },
@@ -24041,7 +24041,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-07T17:00:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 76,
@@ -24086,8 +24086,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 11645,
-            "positive": 10548,
+            "total": 11642,
+            "positive": 10545,
             "negative": 1097
         }
     },
@@ -24101,7 +24101,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T19:54:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 133,
@@ -24161,7 +24161,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-10T05:39:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 16,
@@ -24199,7 +24199,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Color InVVVVVVerter[15\u2605  (Partial: 5\u2605)]\nReach 112% completion in the game. *Partial points are rewarded as a progress milestone.",
+            "primaryText": "Color InVVVVVVerter[15\u2605 (Partial: 5\u2605)]\nReach 112% completion in the game. *Partial points are rewarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 24
@@ -24221,7 +24221,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-12-28T16:03:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 49,
         "playersStarted": 0,
         "playersTotal": 85,
@@ -24281,7 +24281,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-12-29T18:57:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 30,
@@ -24341,7 +24341,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T12:18:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 48,
         "playersStarted": 0,
         "playersTotal": 124,
@@ -24401,10 +24401,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-18T15:06:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 57,
+        "playersTotal": 58,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -24461,7 +24461,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-29T19:21:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 26,
         "playersTotal": 72,
@@ -24494,7 +24494,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Unstoppable Crusader[10\u2605  (Partial: 5\u2605)]\nObtain the Perfect crown on every level on \"Impossible\" difficulty. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Unstoppable Crusader[10\u2605 (Partial: 5\u2605)]\nObtain the Perfect crown on every level on \"Impossible\" difficulty. *Partial points are awarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -24516,7 +24516,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-14T20:21:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 147,
@@ -24576,7 +24576,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-02-22T19:16:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -24636,7 +24636,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T19:28:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 214,
@@ -24696,7 +24696,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-03-29T05:07:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -24757,7 +24757,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-15T21:51:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 58,
@@ -24817,7 +24817,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-08-03T18:11:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -24877,7 +24877,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-10-18T20:22:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 6,
         "playersTotal": 274,
@@ -24922,9 +24922,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 123142,
-            "positive": 113928,
-            "negative": 9214
+            "total": 123178,
+            "positive": 113963,
+            "negative": 9215
         },
         "information": "The Last Autumn, On The Edge, and The Rifts DLCs are required. All are included in the season pass."
     },
@@ -24938,40 +24938,40 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2022-08-09T21:59:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 38,
         "playersTotal": 633,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 249,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 249,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 174,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 98000,
-                "final": 98000,
-                "discountPercent": 0
+                "final": 24500,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 362,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
+                "final": 274,
+                "discountPercent": 75
             }
         },
         "milestones": {
@@ -24983,9 +24983,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 74840,
-            "positive": 71372,
-            "negative": 3468
+            "total": 74842,
+            "positive": 71375,
+            "negative": 3467
         },
         "information": "Curated on Steam: https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/?curator_clanid=36185934"
     },
@@ -24999,7 +24999,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2025-01-01T22:50:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 11,
@@ -25059,7 +25059,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:35:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 46,
         "playersTotal": 461,
@@ -25104,8 +25104,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12189,
-            "positive": 11089,
+            "total": 12190,
+            "positive": 11090,
             "negative": 1100
         }
     },
@@ -25119,7 +25119,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-01-01T20:04:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 328,
@@ -25179,7 +25179,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:40:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -25239,7 +25239,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-12-08T09:18:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -25299,7 +25299,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:38:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 58,
         "playersStarted": 0,
         "playersTotal": 111,
@@ -25359,7 +25359,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-06-11T05:18:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 18,
@@ -25420,7 +25420,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-07T01:26:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -25480,7 +25480,7 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2024-11-10T18:57:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
         "playersTotal": 18,
@@ -25540,7 +25540,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-05-13T18:45:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 49,
         "playersTotal": 365,
@@ -25600,7 +25600,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T15:04:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -25660,7 +25660,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-28T21:50:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 72,
@@ -25715,7 +25715,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-03T10:39:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -25775,10 +25775,10 @@ var data =
         "tier": 5,
         "points": 275,
         "createdAt": "2020-04-09T12:05:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 29,
         "playersStarted": 577,
-        "playersTotal": 1419,
+        "playersTotal": 1420,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -25813,16 +25813,16 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Gauntlet Crusher [30\u2605]\nComplete all currently released Gauntlets from Version 2.2.\n\nDemon Dasher [90\u2605]\nComplete all Gauntlets from Version 2.1.\n\nNumismatist [120\u2605]\nCollect all 164 Secret Coins.\n\nThe Impossible Game[35\u2605  (Partial: 15\u2605)]\nComplete all official levels in Normal Mode. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Gauntlet Crusher [30\u2605]\nComplete all currently released Gauntlets from Version 2.2.\n\nDemon Dasher [90\u2605]\nComplete all Gauntlets from Version 2.1.\n\nNumismatist [120\u2605]\nCollect all 164 Secret Coins.\n\nThe Impossible Game[35\u2605 (Partial: 15\u2605)]\nComplete all official levels in Normal Mode. *Partial points are awarded as a progress milestone.",
             "community": 2,
             "communityText": "Geometric Domination\nBeat every official level in level order in Normal Mode without dying, restarting or quitting. Alternatively, beat \"RobTop Travel\" by Atomic in Normal Mode.\n\nPushed to the Extreme\nComplete \"Bloodbath\" by Riot in Normal Mode.",
             "achievements": 120
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 424239,
-            "positive": 395872,
-            "negative": 28367
+            "total": 424639,
+            "positive": 396245,
+            "negative": 28394
         }
     },
     {
@@ -25835,7 +25835,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T05:00:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 8,
         "playersTotal": 118,
@@ -25895,7 +25895,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-08-02T17:56:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 2,
         "playersTotal": 15,
@@ -25955,7 +25955,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2025-02-26T08:33:48.000Z",
-        "updatedAt": "2025-05-19T11:45:25.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 8,
@@ -26015,7 +26015,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-12-21T08:34:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -26060,8 +26060,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2546,
-            "positive": 2271,
+            "total": 2550,
+            "positive": 2275,
             "negative": 275
         }
     },
@@ -26075,7 +26075,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-08-05T23:24:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -26135,7 +26135,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:50:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 561,
         "playersStarted": 0,
         "playersTotal": 1209,
@@ -26180,9 +26180,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 76824,
-            "positive": 63332,
-            "negative": 13492
+            "total": 76832,
+            "positive": 63339,
+            "negative": 13493
         },
         "information": "**Do not use the CO as a reference or justification for arguments.**"
     },
@@ -26196,7 +26196,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-03-09T18:58:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 55,
@@ -26241,8 +26241,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1252,
-            "positive": 1043,
+            "total": 1253,
+            "positive": 1044,
             "negative": 209
         }
     },
@@ -26256,7 +26256,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-09-12T01:11:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -26316,7 +26316,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-08-10T17:42:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 48,
         "playersTotal": 411,
@@ -26361,9 +26361,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 63098,
-            "positive": 57669,
-            "negative": 5429
+            "total": 63107,
+            "positive": 57677,
+            "negative": 5430
         },
         "information": "\"Project_Hel\" DLC is required for the \"Ghost in the Shell\" Primary Objective. "
     },
@@ -26377,7 +26377,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-03-26T02:25:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 9,
         "playersTotal": 116,
@@ -26422,9 +26422,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9482,
-            "positive": 7653,
-            "negative": 1829
+            "total": 9488,
+            "positive": 7658,
+            "negative": 1830
         }
     },
     {
@@ -26437,7 +26437,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T23:46:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 40,
@@ -26497,7 +26497,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-15T16:43:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -26557,7 +26557,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:33:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 318,
@@ -26602,9 +26602,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 1896,
+            "total": 1895,
             "positive": 1471,
-            "negative": 425
+            "negative": 424
         }
     },
     {
@@ -26617,7 +26617,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-17T22:48:25.000Z",
-        "updatedAt": "2025-05-09T13:12:03.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 147,
@@ -26677,7 +26677,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T21:00:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -26737,10 +26737,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-10T01:30:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 53,
+        "playersTotal": 54,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -26798,7 +26798,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-11T15:34:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 3,
@@ -26858,7 +26858,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-08-07T16:34:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 40,
         "playersStarted": 24,
         "playersTotal": 122,
@@ -26918,7 +26918,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-06-07T19:18:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -26978,7 +26978,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-05T02:34:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -27038,7 +27038,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-06-12T10:24:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 1,
         "playersTotal": 232,
@@ -27083,9 +27083,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 157624,
-            "positive": 151333,
-            "negative": 6291
+            "total": 157646,
+            "positive": 151354,
+            "negative": 6292
         }
     },
     {
@@ -27098,7 +27098,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-11T12:22:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 107,
@@ -27158,7 +27158,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-22T22:32:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 66,
@@ -27218,7 +27218,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2021-05-15T17:16:46.000Z",
-        "updatedAt": "2025-05-16T04:52:11.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 43,
         "playersTotal": 438,
@@ -27256,15 +27256,15 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Going Over[65\u2605  (Partial: 15\u2605)]\nComplete the Impostor's final test.",
+            "primaryText": "Going Over[65\u2605 (Partial: 15\u2605)]\nComplete the Impostor's final test.",
             "community": 0,
             "communityText": "",
             "achievements": 23
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3706,
-            "positive": 3365,
+            "total": 3707,
+            "positive": 3366,
             "negative": 341
         }
     },
@@ -27278,7 +27278,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-08-26T23:57:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -27338,7 +27338,7 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2022-06-11T10:03:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 241,
@@ -27398,7 +27398,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:40:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 41,
         "playersTotal": 152,
@@ -27458,7 +27458,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:18:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 41,
         "playersStarted": 0,
         "playersTotal": 312,
@@ -27518,7 +27518,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-04-25T20:13:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 2,
         "playersTotal": 47,
@@ -27578,7 +27578,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-10-14T23:18:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -27638,7 +27638,7 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2021-11-23T14:55:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
         "playersTotal": 30,
@@ -27698,7 +27698,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-29T20:57:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 35,
         "playersStarted": 3,
         "playersTotal": 358,
@@ -27743,9 +27743,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 174657,
-            "positive": 144013,
-            "negative": 30644
+            "total": 174682,
+            "positive": 144031,
+            "negative": 30651
         }
     },
     {
@@ -27758,7 +27758,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-11-25T18:42:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -27803,8 +27803,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5379,
-            "positive": 5009,
+            "total": 5383,
+            "positive": 5013,
             "negative": 370
         }
     },
@@ -27818,7 +27818,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-11-25T18:44:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -27878,7 +27878,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-11-25T18:43:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -27923,8 +27923,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1421,
-            "positive": 1353,
+            "total": 1423,
+            "positive": 1355,
             "negative": 68
         }
     },
@@ -27938,7 +27938,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:17:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 93,
@@ -27998,7 +27998,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-31T10:01:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 69,
@@ -28043,8 +28043,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 651,
-            "positive": 583,
+            "total": 652,
+            "positive": 584,
             "negative": 68
         }
     },
@@ -28058,7 +28058,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-05-02T14:15:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -28118,7 +28118,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-10-11T20:36:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -28178,7 +28178,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-08T20:02:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 80,
@@ -28238,7 +28238,7 @@ var data =
         "tier": 4,
         "points": 160,
         "createdAt": "2023-12-18T16:31:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 6,
         "playersTotal": 24,
@@ -28298,7 +28298,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2025-05-15T18:18:30.000Z",
-        "updatedAt": "2025-05-15T19:00:27.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -28358,7 +28358,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-09-08T20:55:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 77,
@@ -28403,8 +28403,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 8241,
-            "positive": 7018,
+            "total": 8243,
+            "positive": 7020,
             "negative": 1223
         }
     },
@@ -28418,7 +28418,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-07-17T07:34:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -28479,7 +28479,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-05-15T18:05:59.000Z",
-        "updatedAt": "2025-05-15T18:09:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 0,
@@ -28539,7 +28539,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-27T22:15:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -28599,10 +28599,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-16T19:09:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 148,
+        "playersTotal": 149,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -28644,9 +28644,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5768,
-            "positive": 4919,
-            "negative": 849
+            "total": 5770,
+            "positive": 4920,
+            "negative": 850
         }
     },
     {
@@ -28659,7 +28659,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-03-11T15:50:36.000Z",
-        "updatedAt": "2025-05-16T21:57:36.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 18,
@@ -28716,13 +28716,13 @@ var data =
         "name": "Groove Coaster",
         "header": "https://steamcdn-a.akamaihd.net/steam/apps/744060/header.jpg?t=1573784174",
         "genre": "Arcade",
-        "tier": 5,
+        "tier": 6,
         "points": 550,
         "createdAt": "2020-03-20T20:43:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:50:44.000Z",
         "playersCompleted": 3,
         "playersStarted": 10,
-        "playersTotal": 149,
+        "playersTotal": 150,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -28779,7 +28779,7 @@ var data =
         "tier": 4,
         "points": 140,
         "createdAt": "2023-01-16T08:05:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 4,
         "playersTotal": 172,
@@ -28824,9 +28824,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 61999,
-            "positive": 52283,
-            "negative": 9716
+            "total": 62009,
+            "positive": 52288,
+            "negative": 9721
         }
     },
     {
@@ -28839,7 +28839,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:20:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 42,
         "playersStarted": 6,
         "playersTotal": 256,
@@ -28899,10 +28899,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-28T21:59:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 72,
+        "updatedAt": "2025-05-24T21:45:49.000Z",
+        "playersCompleted": 73,
         "playersStarted": 0,
-        "playersTotal": 585,
+        "playersTotal": 586,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -28959,7 +28959,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-02-09T16:58:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -29004,8 +29004,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 387,
-            "positive": 341,
+            "total": 389,
+            "positive": 343,
             "negative": 46
         }
     },
@@ -29019,10 +29019,10 @@ var data =
         "tier": 3,
         "points": 66,
         "createdAt": "2024-04-28T19:52:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 7,
-        "playersTotal": 119,
+        "playersTotal": 120,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -29064,8 +29064,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 7164,
-            "positive": 6889,
+            "total": 7165,
+            "positive": 6890,
             "negative": 275
         }
     },
@@ -29079,7 +29079,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-11-25T04:55:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -29139,7 +29139,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2022-09-09T19:55:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 10,
         "playersTotal": 27,
@@ -29177,7 +29177,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Wish Overlord (UNCLEARED) [1\u2605]\nClear both loops of the score attack mode.\n\nReady for Takeoff[10\u2605  (Partial: 5\u2605)]\nReach the ending without continuing on NORMAL difficulty or higher.",
+            "primaryText": "Wish Overlord (UNCLEARED) [1\u2605]\nClear both loops of the score attack mode.\n\nReady for Takeoff[10\u2605 (Partial: 5\u2605)]\nReach the ending without continuing on NORMAL difficulty or higher.",
             "community": 1,
             "communityText": "I Like Trains\nClear both loops of the game on NORMAL or higher without continuing and playing the train stage on the second loop.",
             "achievements": 27
@@ -29199,7 +29199,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2022-09-01T17:18:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 20,
@@ -29237,7 +29237,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Flying High[20\u2605  (Partial: 5\u2605)]\nWatch the ending without continuing in NORMAL mode or higher.\n\nMedicine Melancholy (UNCLEARED) [1\u2605]\nClear both loops of the score attack mode.",
+            "primaryText": "Flying High[20\u2605 (Partial: 5\u2605)]\nWatch the ending without continuing in NORMAL mode or higher.\n\nMedicine Melancholy (UNCLEARED) [1\u2605]\nClear both loops of the score attack mode.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -29259,7 +29259,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-29T05:14:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 36,
@@ -29319,7 +29319,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-10-15T13:15:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 5,
         "playersTotal": 148,
@@ -29364,9 +29364,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 99053,
-            "positive": 92540,
-            "negative": 6513
+            "total": 99062,
+            "positive": 92548,
+            "negative": 6514
         },
         "information": "\"Conquerors of the Spirit Realm\" requires \"Realm of Frost and Inkwash\" and \"Artisan and Magician\" DLCs in order to be completed."
     },
@@ -29380,7 +29380,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-12-24T14:54:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -29440,7 +29440,7 @@ var data =
         "tier": 2,
         "points": 36,
         "createdAt": "2023-03-01T07:33:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 7,
         "playersTotal": 23,
@@ -29500,7 +29500,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2021-05-17T18:27:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 5,
         "playersTotal": 161,
@@ -29560,7 +29560,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-11T00:45:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -29620,7 +29620,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T09:04:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 9,
         "playersTotal": 172,
@@ -29680,7 +29680,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-06-09T19:39:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 90,
         "playersStarted": 171,
         "playersTotal": 976,
@@ -29725,9 +29725,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 279428,
-            "positive": 274523,
-            "negative": 4905
+            "total": 279456,
+            "positive": 274549,
+            "negative": 4907
         }
     },
     {
@@ -29740,7 +29740,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-01-04T09:59:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 6,
         "playersTotal": 189,
@@ -29785,8 +29785,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2889,
-            "positive": 2592,
+            "total": 2890,
+            "positive": 2593,
             "negative": 297
         }
     },
@@ -29800,7 +29800,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2022-05-03T02:51:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 23,
         "playersTotal": 546,
@@ -29845,9 +29845,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 241647,
-            "positive": 223248,
-            "negative": 18399
+            "total": 241664,
+            "positive": 223264,
+            "negative": 18400
         }
     },
     {
@@ -29860,7 +29860,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-04-09T20:26:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 1,
         "playersTotal": 157,
@@ -29905,8 +29905,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 10552,
-            "positive": 9427,
+            "total": 10553,
+            "positive": 9428,
             "negative": 1125
         }
     },
@@ -29920,7 +29920,7 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2024-01-26T15:04:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 6,
         "playersTotal": 89,
@@ -29980,7 +29980,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-11-01T19:19:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -30040,7 +30040,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-12T23:18:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 1,
         "playersTotal": 35,
@@ -30100,7 +30100,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-05-02T19:32:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 252,
@@ -30145,9 +30145,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4802,
-            "positive": 3933,
-            "negative": 869
+            "total": 4804,
+            "positive": 3934,
+            "negative": 870
         }
     },
     {
@@ -30160,7 +30160,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-09-07T21:45:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -30220,7 +30220,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-06-09T19:05:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 167,
@@ -30260,9 +30260,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 21986,
-            "positive": 18292,
-            "negative": 3694
+            "total": 21995,
+            "positive": 18300,
+            "negative": 3695
         }
     },
     {
@@ -30272,10 +30272,10 @@ var data =
         "name": "Hatsune Miku: Project DIVA Mega Mix+",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/1761390/header.jpg?t=1653923203",
         "genre": "Arcade",
-        "tier": 5,
+        "tier": 6,
         "points": 600,
         "createdAt": "2022-08-20T17:53:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:51:20.000Z",
         "playersCompleted": 2,
         "playersStarted": 15,
         "playersTotal": 209,
@@ -30320,8 +30320,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 18914,
-            "positive": 17791,
+            "total": 18924,
+            "positive": 17801,
             "negative": 1123
         },
         "information": "The DLC \"Extra Song Pack\" is required for the POs. Total number of songs should be 251."
@@ -30336,7 +30336,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-05-18T03:29:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 103,
@@ -30396,7 +30396,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T19:30:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 54,
@@ -30456,10 +30456,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-06-30T16:14:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 37,
+        "playersTotal": 38,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -30517,7 +30517,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-12-14T00:30:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 85,
         "playersStarted": 0,
         "playersTotal": 126,
@@ -30577,7 +30577,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-08-11T12:44:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 44,
@@ -30622,8 +30622,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3911,
-            "positive": 3737,
+            "total": 3913,
+            "positive": 3739,
             "negative": 174
         }
     },
@@ -30637,7 +30637,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-01-17T02:42:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 185,
@@ -30697,7 +30697,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-06-29T01:36:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 32,
@@ -30757,7 +30757,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:46:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 13,
         "playersTotal": 94,
@@ -30817,7 +30817,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-10-14T13:33:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 3,
         "playersTotal": 17,
@@ -30877,7 +30877,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-09T06:18:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 174,
@@ -30937,7 +30937,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2021-02-19T03:44:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 127,
@@ -30997,10 +30997,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-23T20:57:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 44,
         "playersStarted": 0,
-        "playersTotal": 68,
+        "playersTotal": 69,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -31057,7 +31057,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-29T04:55:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -31117,7 +31117,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-02-27T23:01:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 58,
@@ -31177,7 +31177,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-02-26T17:07:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 8,
         "playersTotal": 265,
@@ -31222,8 +31222,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 33312,
-            "positive": 32418,
+            "total": 33315,
+            "positive": 32421,
             "negative": 894
         }
     },
@@ -31237,7 +31237,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-27T01:27:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -31297,7 +31297,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:02:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 87,
         "playersStarted": 0,
         "playersTotal": 189,
@@ -31357,7 +31357,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-11T00:32:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 192,
@@ -31402,8 +31402,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5237,
-            "positive": 4626,
+            "total": 5238,
+            "positive": 4627,
             "negative": 611
         }
     },
@@ -31417,7 +31417,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-06T04:27:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -31478,7 +31478,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-18T07:42:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -31538,7 +31538,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-01T01:36:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -31598,10 +31598,10 @@ var data =
         "tier": 5,
         "points": 300,
         "createdAt": "2020-01-28T08:26:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
-        "playersStarted": 599,
-        "playersTotal": 1616,
+        "playersStarted": 602,
+        "playersTotal": 1619,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -31643,9 +31643,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 414254,
-            "positive": 401998,
-            "negative": 12256
+            "total": 414382,
+            "positive": 402119,
+            "negative": 12263
         },
         "information": "It is highly recommended for the \"Champion of Hallownest\" objective to be done on a save file where the Pantheon was not cleared with all bindings in order to show the reward for completing the challenge."
     },
@@ -31659,7 +31659,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2020-01-28T06:42:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 214,
@@ -31714,7 +31714,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-23T20:55:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 35,
@@ -31774,7 +31774,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-12-02T08:14:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 24,
         "playersStarted": 5,
         "playersTotal": 137,
@@ -31834,7 +31834,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-06-29T16:17:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 177,
@@ -31879,8 +31879,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5799,
-            "positive": 5405,
+            "total": 5800,
+            "positive": 5406,
             "negative": 394
         }
     },
@@ -31894,7 +31894,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-06-09T17:51:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 262,
         "playersStarted": 0,
         "playersTotal": 915,
@@ -31939,9 +31939,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 106094,
-            "positive": 103067,
-            "negative": 3027
+            "total": 106112,
+            "positive": 103084,
+            "negative": 3028
         }
     },
     {
@@ -31954,7 +31954,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:49:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 112,
         "playersTotal": 723,
@@ -31994,8 +31994,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 66285,
-            "positive": 62414,
+            "total": 66295,
+            "positive": 62424,
             "negative": 3871
         }
     },
@@ -32009,10 +32009,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-06-19T23:11:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 149,
+        "playersTotal": 150,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -32069,7 +32069,7 @@ var data =
         "tier": 5,
         "points": 250,
         "createdAt": "2022-08-10T12:59:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 10,
         "playersTotal": 73,
@@ -32107,7 +32107,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Icebreaker[190\u2605  (Partial: 60\u2605)]\nBeat Permafall mode.\n\nBlade Runner [20\u2605]\nBeat the game with 10 falls or less. / Beat the game in under 30 minutes.\n\nFair and Balanced [20\u2605]\nBeat the game with 100 falls or less. / Beat the game in under 1 hour.\n\nCold Shoulder [20\u2605]\nBeat the game.",
+            "primaryText": "Icebreaker[190\u2605 (Partial: 60\u2605)]\nBeat Permafall mode.\n\nBlade Runner [20\u2605]\nBeat the game with 10 falls or less. / Beat the game in under 30 minutes.\n\nFair and Balanced [20\u2605]\nBeat the game with 100 falls or less. / Beat the game in under 1 hour.\n\nCold Shoulder [20\u2605]\nBeat the game.",
             "community": 1,
             "communityText": "How I learned to Surpass the Master\nBeat Taavi's time of 20:05.",
             "achievements": 13
@@ -32129,7 +32129,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2021-08-10T22:20:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 93,
@@ -32189,7 +32189,7 @@ var data =
         "tier": 2,
         "points": 29,
         "createdAt": "2024-06-23T05:21:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 41,
@@ -32250,7 +32250,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-04-28T08:09:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 20,
@@ -32308,10 +32308,10 @@ var data =
         "name": "HYPER DEMON",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/1743850/header.jpg?t=1664165777",
         "genre": "First-Person",
-        "tier": 5,
+        "tier": 6,
         "points": 530,
         "createdAt": "2022-09-28T19:44:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:50:39.000Z",
         "playersCompleted": 11,
         "playersStarted": 53,
         "playersTotal": 269,
@@ -32371,7 +32371,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:36:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 42,
         "playersStarted": 0,
         "playersTotal": 484,
@@ -32416,8 +32416,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 17794,
-            "positive": 16568,
+            "total": 17795,
+            "positive": 16569,
             "negative": 1226
         }
     },
@@ -32431,7 +32431,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-06-09T19:41:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -32491,7 +32491,7 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2022-04-05T13:54:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 44,
         "playersTotal": 212,
@@ -32529,7 +32529,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Poincar\u00e9's Prodigy [60\u2605]\nCollect 50 Hyperstones in Standard Mode. / Get the Orb of Yendor, the Princess, the Holy Grail, and 50 Hyperstones in Orb Strategy Mode.\n\nLobachevskian Legend[30\u2605  (Partial: 10\u2605)]\nComplete every Yendor Challenge on the default tesselation/truncation settings. *Partial points are rewarded as a progress milestone.\n\nUltraparallel Universes [20\u2605]\nAccomplish difficult feats on the other modes.\n\nCurvature Conquistador [80\u2605]\nCollect 50 treasures in each land (except Crossroads) in Standard Mode. / Collect 8 Holy Grails.\n\nTessellated Trifecta [10\u2605]\nProve your basic knowledge and understanding of hyperbolic geometry.",
+            "primaryText": "Poincar\u00e9's Prodigy [60\u2605]\nCollect 50 Hyperstones in Standard Mode. / Get the Orb of Yendor, the Princess, the Holy Grail, and 50 Hyperstones in Orb Strategy Mode.\n\nLobachevskian Legend[30\u2605 (Partial: 10\u2605)]\nComplete every Yendor Challenge on the default tesselation/truncation settings. *Partial points are rewarded as a progress milestone.\n\nUltraparallel Universes [20\u2605]\nAccomplish difficult feats on the other modes.\n\nCurvature Conquistador [80\u2605]\nCollect 50 treasures in each land (except Crossroads) in Standard Mode. / Collect 8 Holy Grails.\n\nTessellated Trifecta [10\u2605]\nProve your basic knowledge and understanding of hyperbolic geometry.",
             "community": 8,
             "communityText": "True Black Star\nCollect 50 treasures from every land, an Orb of Yendor, the Princess, and 8 Holy Grails in Standard Mode.\n\nLord of the Orbs\nCollect 25 treasures from every land, an Orb of Yendor, the Princess, and 3 Holy Grails in Standard Mode.\n\nPurist Treasure Master\nCollect 50 treasures from each default land in Pure Tactics Mode.\n\nMaster of the Non-Standard\nCollect 50 treasures from \"Wild West\", \"Crystal World\", \"Snake Nest\" and \"Docks\" in Pure Tactics Mode.\n\nBlades of Beltrami\nComplete the Hyperstone Quest in Shoot'em Up Mode.\n\nHardcore Hyperboloid\nComplete the Hyperstone Quest in Hardcore Mode.\n\nHorocyclic Herder\nMaster the control of enemy movement.\n\nIn the Interest of Achieving a Higher Appreciation for Non-Euclidean Geometry\nBeat the \"other achievements\" menu.",
             "achievements": 304
@@ -32552,7 +32552,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-01-28T10:00:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 23,
         "playersStarted": 7,
         "playersTotal": 79,
@@ -32612,7 +32612,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T10:00:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 84,
@@ -32672,7 +32672,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:03:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -32732,7 +32732,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:58:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 316,
@@ -32792,7 +32792,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2022-04-06T20:52:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 7,
         "playersTotal": 244,
@@ -32852,7 +32852,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-05T20:18:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -32897,8 +32897,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3628,
-            "positive": 3574,
+            "total": 3630,
+            "positive": 3576,
             "negative": 54
         }
     },
@@ -32912,7 +32912,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2025-03-10T08:10:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -32972,10 +32972,10 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-10-16T01:15:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 20,
+        "playersTotal": 21,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -33032,7 +33032,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:32:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 30,
         "playersStarted": 4,
         "playersTotal": 130,
@@ -33092,7 +33092,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-10-24T15:54:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 307,
@@ -33137,8 +33137,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6612,
-            "positive": 5955,
+            "total": 6613,
+            "positive": 5956,
             "negative": 657
         }
     },
@@ -33152,7 +33152,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-01-24T22:03:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -33212,40 +33212,40 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T04:46:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 28,
         "playersTotal": 254,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 499,
-                "discountPercent": 75
+                "final": 1999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1950,
-                "final": 487,
-                "discountPercent": 75
+                "final": 1950,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1675,
-                "final": 418,
-                "discountPercent": 75
+                "final": 1675,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 230000,
-                "final": 57500,
-                "discountPercent": 75
+                "final": 230000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2950,
-                "final": 737,
-                "discountPercent": 75
+                "final": 2950,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 2599,
-                "final": 649,
-                "discountPercent": 75
+                "final": 2599,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -33257,8 +33257,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4720,
-            "positive": 4088,
+            "total": 4722,
+            "positive": 4090,
             "negative": 632
         }
     },
@@ -33272,7 +33272,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-07-10T04:47:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -33332,7 +33332,7 @@ var data =
         "tier": 4,
         "points": 115,
         "createdAt": "2020-06-21T09:13:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 10,
         "playersTotal": 276,
@@ -33392,10 +33392,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-04-14T20:01:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
-        "playersTotal": 213,
+        "playersTotal": 214,
         "priceData": {
             "USD": {
                 "initial": 1995,
@@ -33438,8 +33438,8 @@ var data =
         "reviews": {
             "description": "Very Positive",
             "total": 3190,
-            "positive": 2875,
-            "negative": 315
+            "positive": 2876,
+            "negative": 314
         }
     },
     {
@@ -33452,7 +33452,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-05T20:23:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -33512,7 +33512,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-07-18T04:48:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -33572,7 +33572,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-04-09T05:54:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -33632,7 +33632,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-11T14:36:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 141,
@@ -33677,8 +33677,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3243,
-            "positive": 2306,
+            "total": 3244,
+            "positive": 2307,
             "negative": 937
         }
     },
@@ -33692,10 +33692,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-09-24T06:24:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 100,
+        "playersTotal": 101,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -33752,7 +33752,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:28:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 217,
@@ -33812,10 +33812,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-19T18:06:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 39,
+        "playersTotal": 40,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -33857,9 +33857,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 918,
+            "total": 920,
             "positive": 803,
-            "negative": 115
+            "negative": 117
         }
     },
     {
@@ -33872,7 +33872,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2021-05-15T00:12:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 9,
         "playersTotal": 79,
@@ -33910,7 +33910,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Ridiquous V (UNCLEARED) [1\u2605]\nBeat the final Permadeath level set.\n\nInnoquous 175[20\u2605  (Partial: 15\u2605)]\nComplete 175 levels in every mode. / Obtain 175 gold medals in Time Attack mode.",
+            "primaryText": "Ridiquous V (UNCLEARED) [1\u2605]\nBeat the final Permadeath level set.\n\nInnoquous 175[20\u2605 (Partial: 15\u2605)]\nComplete 175 levels in every mode. / Obtain 175 gold medals in Time Attack mode.",
             "community": 0,
             "communityText": "",
             "achievements": 40
@@ -33932,7 +33932,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-06-21T01:16:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 144,
@@ -33992,7 +33992,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-01-17T18:57:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 44,
@@ -34052,7 +34052,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-15T18:06:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 109,
@@ -34112,7 +34112,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-18T01:01:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -34172,10 +34172,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-09-09T00:44:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
-        "playersTotal": 403,
+        "playersTotal": 404,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -34232,7 +34232,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T17:37:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -34292,7 +34292,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-08-02T05:02:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 189,
@@ -34353,7 +34353,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-10-19T02:14:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 7,
         "playersTotal": 124,
@@ -34413,7 +34413,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-15T04:13:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -34473,10 +34473,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-04-13T17:11:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 96,
+        "playersTotal": 97,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -34518,8 +34518,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16292,
-            "positive": 15415,
+            "total": 16294,
+            "positive": 15417,
             "negative": 877
         }
     },
@@ -34533,7 +34533,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-01T12:43:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -34593,7 +34593,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T19:43:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 56,
@@ -34653,10 +34653,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-23T14:18:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
-        "playersTotal": 107,
+        "playersTotal": 108,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -34713,7 +34713,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-10-24T17:14:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -34773,7 +34773,7 @@ var data =
         "tier": 5,
         "points": 340,
         "createdAt": "2020-01-28T09:01:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 9,
         "playersTotal": 212,
@@ -34811,7 +34811,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Final Form[160\u2605  (Partial: 50\u2605)]\nComplete the Gauntlet on Judgement difficulty without being hit or continuing.\n\nPerfect Play [85\u2605]\nComplete the Gauntlet on Judgement difficulty without continuing.\n\nIndomitable [45\u2605]\nComplete the Gauntlet on Judgement difficulty.\n\nTrue Form [40\u2605]\nComplete the Gauntlet on Divine difficulty without being hit or continuing.\n\nSuper Play [10\u2605]\nComplete the Gauntlet on Divine difficulty without continuing.",
+            "primaryText": "Final Form[160\u2605 (Partial: 50\u2605)]\nComplete the Gauntlet on Judgement difficulty without being hit or continuing.\n\nPerfect Play [85\u2605]\nComplete the Gauntlet on Judgement difficulty without continuing.\n\nIndomitable [45\u2605]\nComplete the Gauntlet on Judgement difficulty.\n\nTrue Form [40\u2605]\nComplete the Gauntlet on Divine difficulty without being hit or continuing.\n\nSuper Play [10\u2605]\nComplete the Gauntlet on Divine difficulty without continuing.",
             "community": 1,
             "communityText": "Aces High\nComplete the Gauntlet on Divine difficulty or higher without being hit or continuing, while using a non-DLC ship.",
             "achievements": 42
@@ -34833,7 +34833,7 @@ var data =
         "tier": 4,
         "points": 140,
         "createdAt": "2022-11-23T00:50:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 42,
@@ -34893,7 +34893,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-05-30T00:52:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 63,
@@ -34954,7 +34954,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-11-15T16:56:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 5,
         "playersTotal": 47,
@@ -35014,7 +35014,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-06-09T19:31:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -35052,15 +35052,15 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Jet Acer[35\u2605  (Partial: 15\u2605)]\nACE all missions in NG+.",
+            "primaryText": "Jet Acer[35\u2605 (Partial: 15\u2605)]\nACE all missions in NG+.",
             "community": 0,
             "communityText": "",
             "achievements": 42
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1090,
-            "positive": 1008,
+            "total": 1091,
+            "positive": 1009,
             "negative": 82
         }
     },
@@ -35074,7 +35074,7 @@ var data =
         "tier": 4,
         "points": 105,
         "createdAt": "2022-09-24T05:33:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 11,
@@ -35134,7 +35134,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-01-28T08:39:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 497,
@@ -35194,7 +35194,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-02-23T14:17:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -35232,7 +35232,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Journey's End[25\u2605  (Partial: 15\u2605)]\nSeparately; Obtain all Gold Medals, have a sum of best under 30 minutes for all main levels, collect all Goblets and Secrets; complete all levels without getting hit.",
+            "primaryText": "Journey's End[25\u2605 (Partial: 15\u2605)]\nSeparately; Obtain all Gold Medals, have a sum of best under 30 minutes for all main levels, collect all Goblets and Secrets; complete all levels without getting hit.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -35254,7 +35254,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-02-26T08:41:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -35314,10 +35314,10 @@ var data =
         "tier": 5,
         "points": 210,
         "createdAt": "2020-01-28T09:35:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 49,
-        "playersStarted": 134,
-        "playersTotal": 711,
+        "playersStarted": 135,
+        "playersTotal": 712,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -35359,8 +35359,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12263,
-            "positive": 11045,
+            "total": 12266,
+            "positive": 11048,
             "negative": 1218
         }
     },
@@ -35374,7 +35374,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:52:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -35434,7 +35434,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-01-29T20:22:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -35494,7 +35494,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-23T19:07:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 165,
@@ -35554,7 +35554,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T17:35:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -35614,7 +35614,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-10-16T01:52:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -35674,7 +35674,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T11:46:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 95,
@@ -35734,7 +35734,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-01-03T21:24:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 23,
         "playersStarted": 124,
         "playersTotal": 428,
@@ -35779,8 +35779,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21898,
-            "positive": 21366,
+            "total": 21906,
+            "positive": 21374,
             "negative": 532
         }
     },
@@ -35794,7 +35794,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-09-24T06:12:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -35854,7 +35854,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-12-22T20:37:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -35899,9 +35899,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 602,
+            "total": 603,
             "positive": 550,
-            "negative": 52
+            "negative": 53
         }
     },
     {
@@ -35914,7 +35914,7 @@ var data =
         "tier": 3,
         "points": 51,
         "createdAt": "2024-11-25T19:31:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 30,
@@ -35974,7 +35974,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-08-01T23:05:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 12,
         "playersTotal": 105,
@@ -36034,10 +36034,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-10T19:38:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 48,
+        "playersTotal": 49,
         "priceData": {
             "USD": {
                 "initial": 399,
@@ -36094,7 +36094,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-03T20:40:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 278,
@@ -36155,7 +36155,7 @@ var data =
         "tier": 5,
         "points": 215,
         "createdAt": "2020-01-28T08:33:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 115,
         "playersTotal": 623,
@@ -36200,8 +36200,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 70933,
-            "positive": 69541,
+            "total": 70935,
+            "positive": 69543,
             "negative": 1392
         }
     },
@@ -36215,7 +36215,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-15T03:57:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 77,
         "playersStarted": 0,
         "playersTotal": 472,
@@ -36260,8 +36260,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 15710,
-            "positive": 15311,
+            "total": 15714,
+            "positive": 15315,
             "negative": 399
         }
     },
@@ -36275,7 +36275,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-27T03:58:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -36320,8 +36320,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 15195,
-            "positive": 13993,
+            "total": 15198,
+            "positive": 13996,
             "negative": 1202
         }
     },
@@ -36335,7 +36335,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:19:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 31,
         "playersStarted": 0,
         "playersTotal": 259,
@@ -36395,7 +36395,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-27T06:24:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 67,
@@ -36456,7 +36456,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-01-18T07:30:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -36516,7 +36516,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2024-11-25T09:22:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -36576,7 +36576,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-07-18T03:40:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -36621,8 +36621,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2098,
-            "positive": 1989,
+            "total": 2100,
+            "positive": 1991,
             "negative": 109
         }
     },
@@ -36636,7 +36636,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-16T22:32:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 20,
@@ -36691,7 +36691,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-26T16:02:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 55,
@@ -36751,7 +36751,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:05:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 39,
@@ -36811,7 +36811,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-10-02T10:22:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 12,
         "playersTotal": 101,
@@ -36849,7 +36849,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Pacifist Pro [40\u2605]\nSet a pro time on every Momentum Jumper map.\n\n360 No-Scope[20\u2605  (Partial: 5\u2605)]\nSet a pro time on every Killrun map. *Partial points are awarded as a progress milestone.\n\nJump Around[15\u2605  (Partial: 5\u2605)]\nComplete both map packs in Jumper mode. *Partial points are awarded as a progress milestone.\n\nPacifist Adept [15\u2605]\nSet a pro time on every Original Jumper map.",
+            "primaryText": "Pacifist Pro [40\u2605]\nSet a pro time on every Momentum Jumper map.\n\n360 No-Scope[20\u2605 (Partial: 5\u2605)]\nSet a pro time on every Killrun map. *Partial points are awarded as a progress milestone.\n\nJump Around[15\u2605 (Partial: 5\u2605)]\nComplete both map packs in Jumper mode. *Partial points are awarded as a progress milestone.\n\nPacifist Adept [15\u2605]\nSet a pro time on every Original Jumper map.",
             "community": 0,
             "communityText": "",
             "achievements": 22
@@ -36872,7 +36872,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-12T05:16:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -36917,8 +36917,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 7533,
-            "positive": 6294,
+            "total": 7538,
+            "positive": 6299,
             "negative": 1239
         }
     },
@@ -36932,7 +36932,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-06-10T00:08:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 22,
@@ -36992,7 +36992,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-19T17:19:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -37052,7 +37052,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-15T23:02:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -37112,7 +37112,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-05T22:57:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -37172,7 +37172,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-06T04:19:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -37210,15 +37210,15 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Infinitary Kombinatorics[15\u2605  (Partial: 10\u2605)]\nBeat every level under par time.",
+            "primaryText": "Infinitary Kombinatorics[15\u2605 (Partial: 10\u2605)]\nBeat every level under par time.",
             "community": 0,
             "communityText": "",
             "achievements": 35
         },
         "reviews": {
             "description": "Positive",
-            "total": 22,
-            "positive": 20,
+            "total": 21,
+            "positive": 19,
             "negative": 2
         },
         "information": "Par times will not display above 300/325 regardless of progress."
@@ -37233,7 +37233,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-12-27T00:11:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -37293,7 +37293,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2023-09-22T04:30:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 20,
         "playersTotal": 223,
@@ -37338,8 +37338,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 35163,
-            "positive": 32639,
+            "total": 35172,
+            "positive": 32648,
             "negative": 2524
         },
         "information": "To play without subscription: Download the benchmarks playlist with the code \"KovaaKsRocketingVermilionCt\", play its scenarios. Upload scores.\nMeet the requisites on [this image](https://i.imgur.com/doyjhRr.png)."
@@ -37354,7 +37354,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-05-16T05:30:55.000Z",
-        "updatedAt": "2025-05-16T05:33:18.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -37414,7 +37414,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-09T10:05:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 25,
@@ -37474,7 +37474,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:26:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 317,
@@ -37534,7 +37534,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:26:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 97,
@@ -37594,7 +37594,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-26T21:21:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 76,
         "playersStarted": 0,
         "playersTotal": 122,
@@ -37654,10 +37654,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-11-20T04:20:12.000Z",
-        "updatedAt": "2025-05-18T15:45:47.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 28,
-        "playersTotal": 118,
+        "playersTotal": 119,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -37714,7 +37714,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-11T00:12:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 148,
@@ -37774,7 +37774,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-09-16T21:22:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 9,
@@ -37834,7 +37834,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-07-10T15:56:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 4,
         "playersTotal": 35,
@@ -37894,7 +37894,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-02-17T04:42:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 42,
@@ -37954,7 +37954,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-30T22:07:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 45,
         "playersStarted": 0,
         "playersTotal": 347,
@@ -38014,7 +38014,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-30T22:16:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 70,
         "playersStarted": 0,
         "playersTotal": 288,
@@ -38074,7 +38074,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-10-26T19:07:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 164,
@@ -38134,7 +38134,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-10-03T23:02:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -38194,7 +38194,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-05-14T06:57:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 52,
@@ -38254,7 +38254,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-10-03T23:01:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 46,
         "playersStarted": 0,
         "playersTotal": 93,
@@ -38299,9 +38299,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 52096,
-            "positive": 47991,
-            "negative": 4105
+            "total": 52132,
+            "positive": 48018,
+            "negative": 4114
         }
     },
     {
@@ -38314,7 +38314,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-17T01:43:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 89,
@@ -38374,7 +38374,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-08-09T00:57:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -38434,10 +38434,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-18T02:30:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 29,
+        "playersTotal": 30,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -38494,7 +38494,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-20T00:06:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -38554,7 +38554,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T18:58:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -38614,7 +38614,7 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2023-01-09T03:22:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 8,
         "playersTotal": 52,
@@ -38674,7 +38674,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T12:54:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 181,
         "playersStarted": 0,
         "playersTotal": 861,
@@ -38719,9 +38719,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 57084,
-            "positive": 52871,
-            "negative": 4213
+            "total": 57107,
+            "positive": 52890,
+            "negative": 4217
         }
     },
     {
@@ -38734,7 +38734,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-15T09:04:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 42,
@@ -38794,10 +38794,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-10-06T13:36:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 28,
+        "updatedAt": "2025-05-24T21:45:49.000Z",
+        "playersCompleted": 29,
         "playersStarted": 0,
-        "playersTotal": 76,
+        "playersTotal": 77,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -38854,10 +38854,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-01T19:48:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 68,
         "playersStarted": 0,
-        "playersTotal": 1203,
+        "playersTotal": 1204,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -38899,8 +38899,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 109995,
-            "positive": 104284,
+            "total": 110014,
+            "positive": 104303,
             "negative": 5711
         }
     },
@@ -38914,7 +38914,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2023-01-25T15:30:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 2,
         "playersTotal": 73,
@@ -38974,7 +38974,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-09-17T05:51:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 7,
         "playersTotal": 116,
@@ -39034,7 +39034,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-05-18T22:33:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 8,
         "playersTotal": 129,
@@ -39094,7 +39094,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-12T02:03:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 89,
@@ -39139,8 +39139,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2752,
-            "positive": 2504,
+            "total": 2757,
+            "positive": 2509,
             "negative": 248
         }
     },
@@ -39154,7 +39154,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-11-10T06:33:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -39199,9 +39199,9 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 41642,
-            "positive": 27621,
-            "negative": 14021
+            "total": 41676,
+            "positive": 27648,
+            "negative": 14028
         }
     },
     {
@@ -39214,10 +39214,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-06-06T17:23:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 36,
+        "playersTotal": 37,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -39259,8 +39259,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2251,
-            "positive": 2132,
+            "total": 2253,
+            "positive": 2134,
             "negative": 119
         }
     },
@@ -39274,7 +39274,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2022-10-22T13:42:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 3,
         "playersTotal": 90,
@@ -39334,7 +39334,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-08T13:13:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 75,
@@ -39394,7 +39394,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-03-23T02:07:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 38,
         "playersStarted": 33,
         "playersTotal": 158,
@@ -39454,7 +39454,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2024-04-14T00:15:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 9,
         "playersTotal": 60,
@@ -39514,7 +39514,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2024-06-10T03:58:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 1,
         "playersTotal": 29,
@@ -39574,7 +39574,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-08T18:26:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 58,
@@ -39634,7 +39634,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-04-06T01:07:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 44,
@@ -39679,8 +39679,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5411,
-            "positive": 4638,
+            "total": 5412,
+            "positive": 4639,
             "negative": 773
         }
     },
@@ -39694,7 +39694,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-03-09T00:07:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 37,
@@ -39755,7 +39755,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:14:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 135,
         "playersStarted": 0,
         "playersTotal": 325,
@@ -39815,7 +39815,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:07:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 49,
         "playersStarted": 24,
         "playersTotal": 213,
@@ -39875,7 +39875,7 @@ var data =
         "tier": 4,
         "points": 175,
         "createdAt": "2021-12-08T00:05:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 27,
         "playersTotal": 110,
@@ -39935,7 +39935,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T08:08:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 157,
         "playersStarted": 0,
         "playersTotal": 437,
@@ -39995,7 +39995,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-06-09T19:52:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 18,
         "playersTotal": 193,
@@ -40040,9 +40040,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 169,
+            "total": 170,
             "positive": 153,
-            "negative": 16
+            "negative": 17
         }
     },
     {
@@ -40055,7 +40055,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:07:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 77,
         "playersStarted": 0,
         "playersTotal": 199,
@@ -40115,7 +40115,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2021-11-15T20:39:11.000Z",
-        "updatedAt": "2025-05-15T23:36:47.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 27,
         "playersTotal": 66,
@@ -40175,7 +40175,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-01T20:52:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 190,
@@ -40235,7 +40235,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-12-28T16:03:57.000Z",
-        "updatedAt": "2025-05-16T05:23:42.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 5,
         "playersTotal": 132,
@@ -40295,7 +40295,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-29T17:52:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -40355,7 +40355,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-02-22T08:27:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 7,
         "playersTotal": 57,
@@ -40400,8 +40400,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12683,
-            "positive": 10858,
+            "total": 12685,
+            "positive": 10860,
             "negative": 1825
         },
         "information": "Use the following for map layouts, tips, and general information: \n\nhttps://docs.google.com/document/d/1zKVlaPvk8Y4Z1KyalNkBUxYxsbF6MU9ouM4Oul-VYGc/edit?tab=t.0"
@@ -40416,7 +40416,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-05T00:22:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 40,
@@ -40476,10 +40476,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-04-13T21:44:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 14,
+        "playersTotal": 15,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -40536,7 +40536,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:11:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 30,
         "playersStarted": 29,
         "playersTotal": 232,
@@ -40596,7 +40596,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-10T05:13:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -40656,7 +40656,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-13T20:40:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -40716,7 +40716,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-06-09T19:27:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 25,
         "playersTotal": 215,
@@ -40776,7 +40776,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-15T18:01:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 10,
         "playersTotal": 35,
@@ -40836,7 +40836,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-08-30T20:40:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 1,
         "playersTotal": 63,
@@ -40881,8 +40881,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1000,
-            "positive": 927,
+            "total": 1001,
+            "positive": 928,
             "negative": 73
         }
     },
@@ -40896,7 +40896,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-26T15:59:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -40956,7 +40956,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-24T00:25:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -41001,8 +41001,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 500,
-            "positive": 471,
+            "total": 501,
+            "positive": 472,
             "negative": 29
         }
     },
@@ -41016,7 +41016,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-07-04T00:36:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 86,
@@ -41077,7 +41077,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-06-03T14:14:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 248,
@@ -41122,8 +41122,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 56968,
-            "positive": 49318,
+            "total": 56975,
+            "positive": 49325,
             "negative": 7650
         }
     },
@@ -41137,7 +41137,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-12-28T03:10:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 170,
@@ -41197,7 +41197,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-14T18:28:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 31,
         "playersStarted": 0,
         "playersTotal": 407,
@@ -41257,7 +41257,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2023-10-19T06:22:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 11,
         "playersTotal": 166,
@@ -41295,15 +41295,15 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Metal Hero [55\u2605]\nClear Mega Man 9 without getting damaged. Checkpoint Save usage is disallowed.\n\nMega Busted [15\u2605]\nClear all the hard mode Boss and Miniboss stages in the Mega Man 10 Original Challenges.\n\nGilded Bomber[10\u2605  (Partial: 5\u2605)]\nComplete all four Mega Man games. / Earn 50 gold medals by completing challenges.",
+            "primaryText": "Metal Hero [55\u2605]\nClear Mega Man 9 without getting damaged. Checkpoint Save usage is disallowed.\n\nMega Busted [15\u2605]\nClear all the hard mode Boss and Miniboss stages in the Mega Man 10 Original Challenges.\n\nGilded Bomber[10\u2605 (Partial: 5\u2605)]\nComplete all four Mega Man games. / Earn 50 gold medals by completing challenges.",
             "community": 2,
             "communityText": "Outer Space Hazard\nClear Mega Man 10 without getting damaged and without loading save files. Checkpoint Save usage is disallowed.\n\nAmbition Resurges\nClear Mega Man 9 without getting damaged and without loading save files. Checkpoint Save usage is disallowed.",
             "achievements": 21
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1529,
-            "positive": 1288,
+            "total": 1530,
+            "positive": 1289,
             "negative": 241
         }
     },
@@ -41317,7 +41317,7 @@ var data =
         "tier": 2,
         "points": 27,
         "createdAt": "2023-10-19T05:50:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
         "playersTotal": 95,
@@ -41377,7 +41377,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-07-03T20:57:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 134,
@@ -41422,8 +41422,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 7073,
-            "positive": 6720,
+            "total": 7074,
+            "positive": 6721,
             "negative": 353
         }
     },
@@ -41437,7 +41437,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-03T17:49:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -41497,10 +41497,10 @@ var data =
         "tier": 3,
         "points": 46,
         "createdAt": "2020-01-28T08:41:24.000Z",
-        "updatedAt": "2025-05-16T05:14:57.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 36,
-        "playersTotal": 493,
+        "playersTotal": 494,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -41537,8 +41537,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 83102,
-            "positive": 79814,
+            "total": 83113,
+            "positive": 79825,
             "negative": 3288
         }
     },
@@ -41552,7 +41552,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-11-18T03:41:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -41597,9 +41597,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2406,
-            "positive": 2070,
-            "negative": 336
+            "total": 2410,
+            "positive": 2073,
+            "negative": 337
         }
     },
     {
@@ -41612,10 +41612,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-10-19T22:54:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 39,
         "playersStarted": 0,
-        "playersTotal": 155,
+        "playersTotal": 156,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -41672,10 +41672,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-12T21:54:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 189,
+        "playersTotal": 190,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -41717,8 +41717,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3550,
-            "positive": 3131,
+            "total": 3551,
+            "positive": 3132,
             "negative": 419
         }
     },
@@ -41732,8 +41732,8 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-04T20:39:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 6,
+        "updatedAt": "2025-05-24T21:45:49.000Z",
+        "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 158,
         "priceData": {
@@ -41777,8 +41777,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 15714,
-            "positive": 15092,
+            "total": 15719,
+            "positive": 15097,
             "negative": 622
         }
     },
@@ -41792,7 +41792,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-10-14T20:09:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 4,
         "playersTotal": 43,
@@ -41837,8 +41837,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 841,
-            "positive": 762,
+            "total": 842,
+            "positive": 763,
             "negative": 79
         }
     },
@@ -41852,7 +41852,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-26T07:57:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 79,
@@ -41912,7 +41912,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2025-01-20T08:38:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 11,
@@ -41972,7 +41972,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-09-19T14:05:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 99,
@@ -42017,8 +42017,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2303,
-            "positive": 2054,
+            "total": 2304,
+            "positive": 2055,
             "negative": 249
         }
     },
@@ -42032,7 +42032,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-09-10T18:47:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 60,
@@ -42092,7 +42092,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T05:24:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 39,
         "playersStarted": 0,
         "playersTotal": 98,
@@ -42152,7 +42152,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-22T19:55:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 46,
         "playersStarted": 0,
         "playersTotal": 67,
@@ -42212,7 +42212,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-04-28T22:30:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -42272,7 +42272,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2021-04-29T10:54:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 66,
@@ -42332,7 +42332,7 @@ var data =
         "tier": 5,
         "points": 350,
         "createdAt": "2022-02-28T01:41:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 5,
         "playersTotal": 53,
@@ -42370,7 +42370,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "The Fabled Savior[190\u2605  (Partial: 50\u2605)]\nBeat the game without dying, restarting or quitting.\n\nKing of the Caves[90\u2605  (Partial: 60\u2605)]\nObtain the diamond time/death medals on all normal and bonus levels. *Partial points are awarded as a progress milestone.\n\nGetting On the Ball[40\u2605  (Partial: 25\u2605)]\nObtain the gold time/death medals on all normal and bonus levels. *Partial points are awarded as a progress milestone.\n\nRolling Stone [20\u2605]\nFinish an any% speedrun in under 1 hour.\n\nBall Buster [10\u2605]\nClear all bonus levels.",
+            "primaryText": "The Fabled Savior[190\u2605 (Partial: 50\u2605)]\nBeat the game without dying, restarting or quitting.\n\nKing of the Caves[90\u2605 (Partial: 60\u2605)]\nObtain the diamond time/death medals on all normal and bonus levels. *Partial points are awarded as a progress milestone.\n\nGetting On the Ball[40\u2605 (Partial: 25\u2605)]\nObtain the gold time/death medals on all normal and bonus levels. *Partial points are awarded as a progress milestone.\n\nRolling Stone [20\u2605]\nFinish an any% speedrun in under 1 hour.\n\nBall Buster [10\u2605]\nClear all bonus levels.",
             "community": 3,
             "communityText": "Punenthusiastic\nComplete an all secrets run without dying, restarting or quitting.\n\nIronic\nBeat the bonus world in level order without dying, restarting or quitting.\n\nMeteoRalph\nBeat the original diamond times for all normal and bonus levels.",
             "achievements": 49
@@ -42392,7 +42392,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-10-06T12:17:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -42452,10 +42452,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-01-17T18:57:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 90,
+        "playersTotal": 91,
         "priceData": {
             "USD": {
                 "initial": 199,
@@ -42512,7 +42512,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-26T06:08:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 329,
@@ -42572,7 +42572,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-26T06:14:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 154,
@@ -42617,9 +42617,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21371,
-            "positive": 20559,
-            "negative": 812
+            "total": 21375,
+            "positive": 20562,
+            "negative": 813
         }
     },
     {
@@ -42632,7 +42632,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-24T20:26:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -42692,7 +42692,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2024-07-22T17:27:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 10,
         "playersTotal": 33,
@@ -42752,7 +42752,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-23T17:20:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 2,
         "playersTotal": 12,
@@ -42812,7 +42812,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-04-15T00:33:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -42872,7 +42872,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:09:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 57,
         "playersStarted": 0,
         "playersTotal": 297,
@@ -42932,7 +42932,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2025-04-23T15:47:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -42987,7 +42987,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-16T23:37:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 52,
@@ -43032,8 +43032,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2750,
-            "positive": 2538,
+            "total": 2749,
+            "positive": 2537,
             "negative": 212
         }
     },
@@ -43047,7 +43047,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T12:01:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 75,
         "playersStarted": 0,
         "playersTotal": 442,
@@ -43092,8 +43092,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 11242,
-            "positive": 10500,
+            "total": 11241,
+            "positive": 10499,
             "negative": 742
         }
     },
@@ -43107,7 +43107,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-08-03T22:01:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 19,
         "playersTotal": 271,
@@ -43152,9 +43152,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21774,
-            "positive": 20906,
-            "negative": 868
+            "total": 21785,
+            "positive": 20916,
+            "negative": 869
         }
     },
     {
@@ -43167,7 +43167,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-18T14:12:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -43227,7 +43227,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-08-26T17:12:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 2,
         "playersTotal": 146,
@@ -43288,7 +43288,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-02-29T18:30:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 39,
@@ -43349,7 +43349,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-27T06:24:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 171,
@@ -43409,7 +43409,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-16T04:53:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 54,
@@ -43464,7 +43464,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2023-10-24T23:11:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
         "playersTotal": 49,
@@ -43524,7 +43524,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:53:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 205,
@@ -43584,7 +43584,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-12-27T00:08:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -43644,7 +43644,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-02-16T20:58:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 4,
         "playersTotal": 89,
@@ -43704,7 +43704,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-03-16T02:24:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
         "playersTotal": 42,
@@ -43761,10 +43761,10 @@ var data =
         "name": "Muse Dash",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/774171/header.jpg?t=1679558716",
         "genre": "Arcade",
-        "tier": 5,
+        "tier": 6,
         "points": 585,
         "createdAt": "2021-10-25T15:11:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:51:01.000Z",
         "playersCompleted": 2,
         "playersStarted": 33,
         "playersTotal": 1081,
@@ -43824,7 +43824,7 @@ var data =
         "tier": 5,
         "points": 325,
         "createdAt": "2020-01-28T08:58:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 30,
         "playersTotal": 221,
@@ -43884,7 +43884,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-11T17:09:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 121,
@@ -43944,7 +43944,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2022-09-26T19:55:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 48,
         "playersTotal": 294,
@@ -43989,8 +43989,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6228,
-            "positive": 5552,
+            "total": 6229,
+            "positive": 5553,
             "negative": 676
         }
     },
@@ -44004,10 +44004,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-24T15:31:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
-        "playersTotal": 76,
+        "playersTotal": 77,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -44064,7 +44064,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-24T15:32:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -44124,7 +44124,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:28:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -44184,7 +44184,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:19:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 27,
         "playersTotal": 332,
@@ -44229,8 +44229,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 27492,
-            "positive": 26311,
+            "total": 27495,
+            "positive": 26314,
             "negative": 1181
         }
     },
@@ -44241,10 +44241,10 @@ var data =
         "name": "N++ (NPLUSPLUS)",
         "header": "https://steamcdn-a.akamaihd.net/steam/apps/230270/header.jpg?t=1576100163",
         "genre": "Platformer",
-        "tier": 5,
+        "tier": 6,
         "points": 565,
         "createdAt": "2020-01-28T09:37:10.000Z",
-        "updatedAt": "2025-05-22T15:48:43.000Z",
+        "updatedAt": "2025-05-24T21:50:52.000Z",
         "playersCompleted": 26,
         "playersStarted": 57,
         "playersTotal": 573,
@@ -44282,15 +44282,15 @@ var data =
         },
         "milestones": {
             "primary": 6,
-            "primaryText": "Ultimate Ninja [250\u2605]\nGet everything in Solo Mode.\n\nClever [100\u2605]\nGet all of the All-Gold badges in every page of Solo Mode.\n\nThousand Step Ascent [75\u2605]\nBeat each Hardcore story without dying.\n\nGolden [65\u2605]\nGet all of the All-Gold badges in the \"Intro\", \"N++\", \"Ultimate\" and \"Legacy\" pages of Solo mode.\n\nSynchronised [50\u2605]\nGett all of the All-Gold badges in every page of Co-op Mode.\n\nEnlightened[25\u2605  (Partial: 15\u2605)]\nBeat every level in the \"Intro\", \"N++\", \"Ultimate\", and \"Legacy\" pages of Solo Mode. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Ultimate Ninja [250\u2605]\nGet everything in Solo Mode.\n\nClever [100\u2605]\nGet all of the All-Gold badges in every page of Solo Mode.\n\nThousand Step Ascent [75\u2605]\nBeat each Hardcore story without dying.\n\nGolden [65\u2605]\nGet all of the All-Gold badges in the \"Intro\", \"N++\", \"Ultimate\" and \"Legacy\" pages of Solo mode.\n\nSynchronised [50\u2605]\nGett all of the All-Gold badges in every page of Co-op Mode.\n\nEnlightened[25\u2605 (Partial: 15\u2605)]\nBeat every level in the \"Intro\", \"N++\", \"Ultimate\", and \"Legacy\" pages of Solo Mode. *Partial points are awarded as a progress milestone.",
             "community": 6,
             "communityText": "Aurelian Master\nCollect all of the gold in every Hardcore story without dying.\n\nCommunity Connoisseur\nCollect all gold on every level of the Community Tab Project.\n\nCommunity Conqueror\nAchieve 100% in the Community Tab Project.\n\nMap Pack Participant\nAchieve 10 non-CTP points from the \"N++ Custom Tab Completions\" spreadsheet.\n\nMap Pack Powerhouse\nAchieve 20 non-CTP points from the \"N++ Custom Tab Completions\" spreadsheet.\n\nWay of the Ninja\nComplete all primary objectives from all site-listed games in the N franchise. See verification requirements for complete list.",
             "achievements": 33
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3199,
-            "positive": 2997,
+            "total": 3201,
+            "positive": 2999,
             "negative": 202
         },
         "information": "[Curated on Steam](https://store.steampowered.com/app/230270/N_NPLUSPLUS/?curator_clanid=36185934)\n\nDue to the game having issues with save file corruption, it is VERY STRONGLY recommended to disable Steam Cloud for this game and to make manual backups when significant progress is made. If you don't do this, you run the risk of losing all progress and starting all over again.\n\nMore info found here: [https://steamcommunity.com/sharedfiles/filedetails/?id=1821198112](https://steamcommunity.com/sharedfiles/filedetails/?id=1821198112)\n\n\nFor the Community Objectives, the \"N++ Custom Tab Completions\" spreadsheet can be found below. It contains a completions tracker, and links to all released map packs (\"Map links\" sheet).\n\n[N++ Custom Tab Completions Spreadsheet](https://docs.google.com/spreadsheets/d/19sPxQ8SdHc_ksA9Z3ye3iAI-8c1w-jjur8PLZyK1zfs)"
@@ -44305,7 +44305,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-10-28T22:16:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -44365,7 +44365,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-01-02T07:15:44.000Z",
-        "updatedAt": "2025-05-23T19:24:02.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -44410,9 +44410,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 829,
-            "positive": 789,
-            "negative": 40
+            "total": 831,
+            "positive": 790,
+            "negative": 41
         }
     },
     {
@@ -44425,7 +44425,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:20:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 6,
         "playersTotal": 43,
@@ -44463,7 +44463,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Terryfic Test[90\u2605  (Partial: 10\u2605)]\nFinish the game without dying once. / Finish the game with all DVDs in less than 35 minutes.\n\nGet the Hell Out of Sphere [10\u2605]\nComplete \"Terry's Dream\". / Collect all DVDs.",
+            "primaryText": "Terryfic Test[90\u2605 (Partial: 10\u2605)]\nFinish the game without dying once. / Finish the game with all DVDs in less than 35 minutes.\n\nGet the Hell Out of Sphere [10\u2605]\nComplete \"Terry's Dream\". / Collect all DVDs.",
             "community": 0,
             "communityText": "",
             "achievements": 13
@@ -44485,7 +44485,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2023-04-27T23:35:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 21,
@@ -44545,7 +44545,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:47:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 75,
@@ -44605,7 +44605,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-24T01:44:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -44665,7 +44665,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-09-01T21:56:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 297,
@@ -44710,9 +44710,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 23123,
+            "total": 23125,
             "positive": 19947,
-            "negative": 3176
+            "negative": 3178
         }
     },
     {
@@ -44725,10 +44725,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2022-06-24T23:32:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 82,
         "playersStarted": 82,
-        "playersTotal": 393,
+        "playersTotal": 394,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -44770,8 +44770,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 17644,
-            "positive": 17324,
+            "total": 17651,
+            "positive": 17331,
             "negative": 320
         },
         "information": " For Community Objectives, the NeonLite mod can be downloaded from: <https://github.com/Faustas156/NeonLite/releases>"
@@ -44786,10 +44786,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-02-04T20:29:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 124,
+        "playersTotal": 125,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -44846,7 +44846,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-26T19:04:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -44906,7 +44906,7 @@ var data =
         "tier": 5,
         "points": 300,
         "createdAt": "2020-01-28T09:36:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 28,
         "playersTotal": 166,
@@ -44944,7 +44944,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Never Fuck Up[280\u2605  (Partial: 15\u2605)]\nBeat the game on Permadeath Mode.\n\nShut Up, Arin! [20\u2605]\nComplete 100% of the game.",
+            "primaryText": "Never Fuck Up[280\u2605 (Partial: 15\u2605)]\nBeat the game on Permadeath Mode.\n\nShut Up, Arin! [20\u2605]\nComplete 100% of the game.",
             "community": 2,
             "communityText": "Hassle Foot\nBeat Tasselfoot's times on every level.\n\nOkay, You Can Give Up Now\nObtain 100% in a permadeath save file.",
             "achievements": 49
@@ -44966,7 +44966,7 @@ var data =
         "tier": 4,
         "points": 165,
         "createdAt": "2020-06-25T18:54:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 11,
         "playersTotal": 276,
@@ -45026,7 +45026,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T18:57:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 38,
         "playersStarted": 0,
         "playersTotal": 196,
@@ -45086,10 +45086,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-11-18T03:04:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
-        "playersTotal": 26,
+        "playersTotal": 28,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -45124,7 +45124,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Vapor Rise[10\u2605  (Partial: 5\u2605)]\nSeparately; complete all levels in hard mode, collect all coins, and beat the target times.",
+            "primaryText": "Vapor Rise[10\u2605 (Partial: 5\u2605)]\nSeparately; complete all levels in hard mode, collect all coins, and beat the target times.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -45146,10 +45146,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-12-17T05:00:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 28,
         "playersStarted": 33,
-        "playersTotal": 130,
+        "playersTotal": 131,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -45184,16 +45184,16 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Can be gifted to Shuanshuan[15\u2605  (Partial: 10\u2605)]\n Reach the true ending in Standard Mode. *Partial points are awarded for finishing the game on Standard Mode.",
+            "primaryText": "Can be gifted to Shuanshuan[15\u2605 (Partial: 10\u2605)]\n Reach the true ending in Standard Mode. *Partial points are awarded for finishing the game on Standard Mode.",
             "community": 1,
             "communityText": "Red Giant\nDefeat all Battle Memories bosses in unlock order in a row without dying or restarting/quitting at any point.",
             "achievements": 35
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 28314,
-            "positive": 26938,
-            "negative": 1376
+            "total": 28376,
+            "positive": 26995,
+            "negative": 1381
         },
         "information": "Ordered list of bosses for the community objective:\n1: Kuafu / Goumang / Yanlao\n2: Jiequan\n3: Lady Ethereal\n4: Ji / Feng Twins\n5: True Eigong"
     },
@@ -45207,7 +45207,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:14:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 76,
@@ -45267,7 +45267,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-26T21:59:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -45312,9 +45312,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 381,
+            "total": 382,
             "positive": 349,
-            "negative": 32
+            "negative": 33
         }
     },
     {
@@ -45327,7 +45327,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-02-14T11:04:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
         "playersTotal": 198,
@@ -45372,9 +45372,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 45359,
-            "positive": 39853,
-            "negative": 5506
+            "total": 45371,
+            "positive": 39864,
+            "negative": 5507
         }
     },
     {
@@ -45387,7 +45387,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T08:37:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 29,
         "playersTotal": 247,
@@ -45432,9 +45432,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 34836,
-            "positive": 27825,
-            "negative": 7011
+            "total": 34845,
+            "positive": 27829,
+            "negative": 7016
         }
     },
     {
@@ -45447,7 +45447,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-05-18T15:32:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 58,
         "playersStarted": 0,
         "playersTotal": 92,
@@ -45504,10 +45504,10 @@ var data =
         "name": "NOISZ",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/681530/header.jpg?t=1693514208",
         "genre": "Bullet Hell",
-        "tier": 5,
+        "tier": 6,
         "points": 470,
         "createdAt": "2021-10-10T16:32:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:50:21.000Z",
         "playersCompleted": 5,
         "playersStarted": 16,
         "playersTotal": 86,
@@ -45545,7 +45545,7 @@ var data =
         },
         "milestones": {
             "primary": 6,
-            "primaryText": "Overlord [205\u2605]\nGet SS rank on ALL songs on Overload, including artist packs.\n\nGaiusified [50\u2605]\nMaster the Episode G DLC.\n\nVoid Vanquisher[130\u2605  (Partial: 60\u2605)]\nMaster the re:||VERSE DLC.\n\ngalaXXy brain [25\u2605]\nMaster the artist packs by getting AA rank or higher on their songs on Overload.\n\nSound Dodger [55\u2605]\nMaster the base game.\n\nLight your Spark [5\u2605]\nPlay around with the base game.",
+            "primaryText": "Overlord [205\u2605]\nGet SS rank on ALL songs on Overload, including artist packs.\n\nGaiusified [50\u2605]\nMaster the Episode G DLC.\n\nVoid Vanquisher[130\u2605 (Partial: 60\u2605)]\nMaster the re:||VERSE DLC.\n\ngalaXXy brain [25\u2605]\nMaster the artist packs by getting AA rank or higher on their songs on Overload.\n\nSound Dodger [55\u2605]\nMaster the base game.\n\nLight your Spark [5\u2605]\nPlay around with the base game.",
             "community": 3,
             "communityText": "Beast Rush\nGet an SS on the re:||VERSE credits and the Episode G credits on Overload.\n\nMusical Course Through Void\nBeat Course ULTIMATE with an SS total grade.\n\nQuick Maths\nGet SS rank on \u03c0\u2022\u03c1\u2022maniac on Overload while wearing the \"Math Genius\" title.",
             "achievements": 94
@@ -45567,7 +45567,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-01-17T02:29:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 25,
         "playersStarted": 183,
         "playersTotal": 780,
@@ -45612,9 +45612,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 78167,
-            "positive": 74458,
-            "negative": 3709
+            "total": 78191,
+            "positive": 74480,
+            "negative": 3711
         }
     },
     {
@@ -45627,7 +45627,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-05-15T18:21:55.000Z",
-        "updatedAt": "2025-05-15T21:26:25.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -45687,7 +45687,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-11-19T14:30:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -45747,7 +45747,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2021-05-14T14:39:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -45807,7 +45807,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:30:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 56,
@@ -45867,7 +45867,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-04-13T19:34:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 43,
         "playersStarted": 21,
         "playersTotal": 610,
@@ -45912,8 +45912,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 17955,
-            "positive": 17255,
+            "total": 17959,
+            "positive": 17259,
             "negative": 700
         }
     },
@@ -45927,7 +45927,7 @@ var data =
         "tier": 4,
         "points": 135,
         "createdAt": "2023-09-26T04:07:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 43,
@@ -45987,7 +45987,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-12T23:07:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -46047,7 +46047,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2023-11-18T19:06:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 35,
@@ -46107,7 +46107,7 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2022-06-19T07:16:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 104,
@@ -46167,7 +46167,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:22:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 137,
@@ -46227,10 +46227,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-01T19:55:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 199,
+        "playersTotal": 200,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -46287,7 +46287,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T10:02:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 67,
@@ -46347,7 +46347,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:18:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 153,
@@ -46402,7 +46402,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2024-09-07T18:17:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -46462,7 +46462,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-18T03:31:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -46522,7 +46522,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-20T22:19:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -46582,7 +46582,7 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2020-01-28T09:46:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 35,
         "playersTotal": 198,
@@ -46627,8 +46627,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 907,
-            "positive": 836,
+            "total": 906,
+            "positive": 835,
             "negative": 71
         }
     },
@@ -46642,7 +46642,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-06T11:33:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 180,
@@ -46702,7 +46702,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:55:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 168,
@@ -46762,7 +46762,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:57:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 140,
@@ -46822,7 +46822,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-04-18T02:37:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -46882,7 +46882,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T10:04:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 36,
         "playersStarted": 0,
         "playersTotal": 514,
@@ -46927,8 +46927,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 16289,
-            "positive": 15952,
+            "total": 16288,
+            "positive": 15951,
             "negative": 337
         }
     },
@@ -46942,7 +46942,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-28T19:34:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 36,
@@ -47002,7 +47002,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-29T18:07:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -47062,7 +47062,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-14T23:47:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 50,
@@ -47122,7 +47122,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:03:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 37,
         "playersStarted": 0,
         "playersTotal": 496,
@@ -47167,9 +47167,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 7421,
+            "total": 7422,
             "positive": 6928,
-            "negative": 493
+            "negative": 494
         }
     },
     {
@@ -47182,7 +47182,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-27T19:07:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -47242,7 +47242,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:09:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 162,
@@ -47302,7 +47302,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:39:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 104,
         "playersStarted": 0,
         "playersTotal": 226,
@@ -47362,7 +47362,7 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2021-06-28T08:58:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 39,
         "playersStarted": 18,
         "playersTotal": 294,
@@ -47400,7 +47400,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Shapeshifter[170\u2605  (Partial: 50\u2605)]\nComplete all levels at the highest difficulty multiplier.\n\nMultidimensional [50\u2605]\nComplete all levels.",
+            "primaryText": "Shapeshifter[170\u2605 (Partial: 50\u2605)]\nComplete all levels at the highest difficulty multiplier.\n\nMultidimensional [50\u2605]\nComplete all levels.",
             "community": 4,
             "communityText": "Murder God\nComplete \"Murder\" from the Garbage custom level pack at the highest difficulty multiplier.\n\nMurder Master\nComplete \"Murder\" from the Garbage custom level pack.\n\nVanity God\nComplete \"Dark Matter\", \"Bass Slut\", and \"Berserk\" from the Vanity custom level pack at the highest difficulty multiplier.\n\nVanity Master\nComplete \"Dark Matter\", \"Bass Slut\", and \"Berserk\" from the Vanity custom level pack.",
             "achievements": 48
@@ -47423,7 +47423,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-10-28T22:17:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 1,
         "playersTotal": 19,
@@ -47461,7 +47461,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Stainless Steel[40\u2605  (Partial: 30\u2605)]\nComplete Hard Mode 10.",
+            "primaryText": "Stainless Steel[40\u2605 (Partial: 30\u2605)]\nComplete Hard Mode 10.",
             "community": 0,
             "communityText": "",
             "achievements": 52
@@ -47483,7 +47483,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-02T00:44:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -47528,8 +47528,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1359,
-            "positive": 1342,
+            "total": 1360,
+            "positive": 1343,
             "negative": 17
         }
     },
@@ -47543,7 +47543,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T06:49:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 96,
         "playersStarted": 0,
         "playersTotal": 911,
@@ -47588,9 +47588,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 66850,
-            "positive": 63669,
-            "negative": 3181
+            "total": 66861,
+            "positive": 63679,
+            "negative": 3182
         }
     },
     {
@@ -47603,7 +47603,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2022-06-07T02:48:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 108,
         "playersTotal": 581,
@@ -47648,9 +47648,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 136461,
-            "positive": 131782,
-            "negative": 4679
+            "total": 136471,
+            "positive": 131790,
+            "negative": 4681
         }
     },
     {
@@ -47663,10 +47663,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-06-10T01:11:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 131,
+        "playersTotal": 132,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -47708,8 +47708,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3382,
-            "positive": 3147,
+            "total": 3383,
+            "positive": 3148,
             "negative": 235
         }
     },
@@ -47723,7 +47723,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2021-10-24T16:29:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -47778,7 +47778,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-24T01:16:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 93,
@@ -47838,7 +47838,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-10T16:59:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 57,
         "playersStarted": 1,
         "playersTotal": 694,
@@ -47883,8 +47883,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 125523,
-            "positive": 121079,
+            "total": 125530,
+            "positive": 121086,
             "negative": 4444
         }
     },
@@ -47898,7 +47898,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-10T17:28:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 325,
@@ -47943,8 +47943,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 55377,
-            "positive": 50569,
+            "total": 55384,
+            "positive": 50576,
             "negative": 4808
         }
     },
@@ -47958,7 +47958,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:49:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -48013,7 +48013,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-05-13T18:41:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 36,
         "playersTotal": 445,
@@ -48058,8 +48058,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 72578,
-            "positive": 65780,
+            "total": 72596,
+            "positive": 65798,
             "negative": 6798
         },
         "information": "Game is valued assuming co-op."
@@ -48074,7 +48074,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-05T02:00:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -48134,7 +48134,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-21T23:01:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -48194,7 +48194,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T10:01:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 70,
@@ -48255,7 +48255,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T08:38:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 19,
         "playersTotal": 256,
@@ -48288,7 +48288,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Overtuned[40\u2605  (Partial: 15\u2605)]\nComplete the game with every class archetype.",
+            "primaryText": "Overtuned[40\u2605 (Partial: 15\u2605)]\nComplete the game with every class archetype.",
             "community": 0,
             "communityText": "",
             "achievements": 4
@@ -48310,7 +48310,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:30:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 16,
         "playersTotal": 53,
@@ -48348,7 +48348,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hive Buster[30\u2605  (Partial: 10\u2605)]\nBeat New Game+.",
+            "primaryText": "Hive Buster[30\u2605 (Partial: 10\u2605)]\nBeat New Game+.",
             "community": 0,
             "communityText": "",
             "achievements": 10
@@ -48370,7 +48370,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-14T00:52:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -48431,7 +48431,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-05-08T14:45:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 12,
         "playersTotal": 460,
@@ -48491,7 +48491,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-27T02:35:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 195,
@@ -48536,9 +48536,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 41662,
-            "positive": 36048,
-            "negative": 5614
+            "total": 41670,
+            "positive": 36054,
+            "negative": 5616
         }
     },
     {
@@ -48551,7 +48551,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-10-02T10:23:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -48611,7 +48611,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-04-10T08:26:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 4,
         "playersTotal": 91,
@@ -48656,8 +48656,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 29467,
-            "positive": 28250,
+            "total": 29482,
+            "positive": 28265,
             "negative": 1217
         }
     },
@@ -48671,7 +48671,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-11T23:49:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -48731,40 +48731,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-10-31T04:44:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 23,
         "priceData": {
             "USD": {
                 "initial": 799,
-                "final": 399,
-                "discountPercent": 50
+                "final": 799,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 699,
-                "final": 349,
-                "discountPercent": 50
+                "final": 699,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 669,
-                "final": 334,
-                "discountPercent": 50
+                "final": 669,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 92000,
-                "final": 46000,
-                "discountPercent": 50
+                "final": 92000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1179,
-                "final": 589,
-                "discountPercent": 50
+                "final": 1179,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1049,
-                "final": 524,
-                "discountPercent": 50
+                "final": 1049,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -48791,7 +48791,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-04-03T18:24:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 10,
         "playersTotal": 119,
@@ -48829,7 +48829,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Paperpaw[30\u2605  (Partial: 5\u2605)]\nClear all encores.\n\nPaperball Rocket[25\u2605  (Partial: 5\u2605)]\nGet All Platinum Medals in Medal Mode.",
+            "primaryText": "Paperpaw[30\u2605 (Partial: 5\u2605)]\nClear all encores.\n\nPaperball Rocket[25\u2605 (Partial: 5\u2605)]\nGet All Platinum Medals in Medal Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 44
@@ -48851,10 +48851,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-07-12T04:07:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 86,
+        "playersTotal": 87,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -48911,7 +48911,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-18T13:59:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 148,
@@ -48971,7 +48971,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-02-13T14:29:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -49009,7 +49009,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Anas Platyrhynchos [10\u2605]\nObtain an S rank on all fights and modes in Arcade Mode.\n\nDuck, Dodge, Dip, Dive, and Duck.[20\u2605  (Partial: 10\u2605)]\nDefeat all Arcade Mode bosses without getting hit.",
+            "primaryText": "Anas Platyrhynchos [10\u2605]\nObtain an S rank on all fights and modes in Arcade Mode.\n\nDuck, Dodge, Dip, Dive, and Duck.[20\u2605 (Partial: 10\u2605)]\nDefeat all Arcade Mode bosses without getting hit.",
             "community": 0,
             "communityText": "",
             "achievements": 51
@@ -49031,7 +49031,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:00:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -49091,7 +49091,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-06-14T18:09:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 25,
         "playersStarted": 1,
         "playersTotal": 208,
@@ -49151,7 +49151,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2023-07-11T05:53:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 34,
         "playersStarted": 16,
         "playersTotal": 1080,
@@ -49196,9 +49196,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 662905,
-            "positive": 594141,
-            "negative": 68764
+            "total": 662895,
+            "positive": 594136,
+            "negative": 68759
         }
     },
     {
@@ -49211,7 +49211,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-07-02T20:55:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 48,
         "playersStarted": 7,
         "playersTotal": 453,
@@ -49256,8 +49256,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 40218,
-            "positive": 37566,
+            "total": 40217,
+            "positive": 37565,
             "negative": 2652
         }
     },
@@ -49271,7 +49271,7 @@ var data =
         "tier": 5,
         "points": 375,
         "createdAt": "2023-11-26T22:22:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 44,
         "playersTotal": 117,
@@ -49316,8 +49316,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2857,
-            "positive": 2793,
+            "total": 2858,
+            "positive": 2794,
             "negative": 64
         }
     },
@@ -49331,10 +49331,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-11-12T17:36:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 24,
         "playersStarted": 8,
-        "playersTotal": 390,
+        "playersTotal": 391,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -49376,8 +49376,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 10790,
-            "positive": 10512,
+            "total": 10796,
+            "positive": 10518,
             "negative": 278
         }
     },
@@ -49391,10 +49391,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2023-01-15T08:15:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 1,
-        "playersTotal": 252,
+        "playersTotal": 253,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -49436,8 +49436,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2668,
-            "positive": 2577,
+            "total": 2669,
+            "positive": 2578,
             "negative": 91
         }
     },
@@ -49451,7 +49451,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-04T20:14:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -49511,7 +49511,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-11-10T03:31:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 17,
@@ -49549,7 +49549,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Optimal Mechanism[15\u2605  (Partial: 5\u2605)]\nGet a gold medal on all 70 main stages and all \"Gold Run\" levels. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Optimal Mechanism[15\u2605 (Partial: 5\u2605)]\nGet a gold medal on all 70 main stages and all \"Gold Run\" levels. *Partial points are awarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 18
@@ -49571,7 +49571,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2025-05-15T22:08:14.000Z",
-        "updatedAt": "2025-05-16T01:25:20.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 10,
@@ -49616,8 +49616,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3968,
-            "positive": 3445,
+            "total": 3970,
+            "positive": 3447,
             "negative": 523
         }
     },
@@ -49631,7 +49631,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-11-10T05:18:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 132,
@@ -49676,9 +49676,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16267,
-            "positive": 14344,
-            "negative": 1923
+            "total": 16274,
+            "positive": 14347,
+            "negative": 1927
         }
     },
     {
@@ -49691,7 +49691,7 @@ var data =
         "tier": 5,
         "points": 300,
         "createdAt": "2021-10-24T16:58:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 11,
         "playersTotal": 121,
@@ -49751,7 +49751,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-09-24T06:10:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 106,
@@ -49811,7 +49811,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-01-25T03:11:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -49871,7 +49871,7 @@ var data =
         "tier": 3,
         "points": 51,
         "createdAt": "2023-09-16T20:59:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T23:00:47.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 69,
@@ -49911,7 +49911,7 @@ var data =
             "primary": 4,
             "primaryText": "One More Encore (UNCLEARED) [1\u2605]\nObtain an SSS rank or higher on all songs.\n\nGrand Pianist [20\u2605]\nObtain an SS rank or higher on all songs.\n\nPhilharmonic [20\u2605]\nObtain an S rank or higher on all songs.\n\nPolyphonic [10\u2605]\nObtain a B+ rank or higher or more on all songs.",
             "community": 1,
-            "communityText": "Concerto of the Century (UNCLEARED)\nObtain a U rank on all songs.",
+            "communityText": "Concerto of the Century\nObtain a U rank on all songs.",
             "achievements": 27
         },
         "reviews": {
@@ -49931,7 +49931,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-03-05T16:45:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -49976,8 +49976,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3156,
-            "positive": 3116,
+            "total": 3160,
+            "positive": 3120,
             "negative": 40
         }
     },
@@ -49991,7 +49991,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-04T03:30:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 100,
         "playersStarted": 0,
         "playersTotal": 167,
@@ -50036,8 +50036,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1358,
-            "positive": 1317,
+            "total": 1359,
+            "positive": 1318,
             "negative": 41
         }
     },
@@ -50051,7 +50051,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-23T19:49:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -50111,7 +50111,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:45:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 75,
@@ -50166,7 +50166,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-03T20:37:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 97,
@@ -50226,7 +50226,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-02-19T08:17:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 92,
         "playersStarted": 20,
         "playersTotal": 386,
@@ -50271,8 +50271,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 66502,
-            "positive": 65408,
+            "total": 66509,
+            "positive": 65415,
             "negative": 1094
         }
     },
@@ -50286,7 +50286,7 @@ var data =
         "tier": 4,
         "points": 95,
         "createdAt": "2023-07-31T21:52:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 29,
@@ -50346,7 +50346,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-07T23:59:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -50406,7 +50406,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-01-28T09:29:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -50466,7 +50466,7 @@ var data =
         "tier": 5,
         "points": 350,
         "createdAt": "2023-06-28T03:59:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 30,
         "playersTotal": 113,
@@ -50527,7 +50527,7 @@ var data =
         "tier": 5,
         "points": 375,
         "createdAt": "2021-06-24T21:07:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 106,
         "playersStarted": 234,
         "playersTotal": 700,
@@ -50572,8 +50572,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6102,
-            "positive": 5103,
+            "total": 6103,
+            "positive": 5104,
             "negative": 999
         }
     },
@@ -50587,7 +50587,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:47:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 10,
         "playersTotal": 118,
@@ -50647,10 +50647,10 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-07-17T22:32:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
-        "playersTotal": 140,
+        "playersTotal": 141,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -50707,10 +50707,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-24T00:09:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 394,
         "playersStarted": 0,
-        "playersTotal": 1560,
+        "playersTotal": 1562,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -50752,8 +50752,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 176960,
-            "positive": 174257,
+            "total": 176988,
+            "positive": 174285,
             "negative": 2703
         }
     },
@@ -50767,10 +50767,10 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2023-02-14T18:44:59.000Z",
-        "updatedAt": "2025-05-22T03:50:28.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 31,
-        "playersTotal": 501,
+        "playersTotal": 502,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -50812,8 +50812,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 115647,
-            "positive": 112014,
+            "total": 115669,
+            "positive": 112036,
             "negative": 3633
         },
         "information": "DLC Required:\n-Paradise Lost"
@@ -50828,7 +50828,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T21:52:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 242,
@@ -50873,8 +50873,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6739,
-            "positive": 6194,
+            "total": 6740,
+            "positive": 6195,
             "negative": 545
         }
     },
@@ -50888,7 +50888,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-09T03:37:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -50948,7 +50948,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-06-04T14:32:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -51008,7 +51008,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-05-19T00:29:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -51068,7 +51068,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:37:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 197,
         "playersStarted": 0,
         "playersTotal": 328,
@@ -51128,7 +51128,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-06-25T19:04:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -51188,7 +51188,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-07T22:10:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -51233,8 +51233,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 602,
-            "positive": 584,
+            "total": 603,
+            "positive": 585,
             "negative": 18
         }
     },
@@ -51248,7 +51248,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-06T16:54:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 55,
@@ -51308,7 +51308,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2024-03-29T03:12:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 2,
         "playersTotal": 33,
@@ -51353,8 +51353,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 152,
-            "positive": 140,
+            "total": 153,
+            "positive": 141,
             "negative": 12
         }
     },
@@ -51368,7 +51368,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2024-11-05T02:12:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 6,
@@ -51406,7 +51406,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Not One to Truffle With[35\u2605  (Partial: 15\u2605)]\nBeat all non-boss levels with 100% collectibles deathless. Finish arcade mode.\n\nFun Gal Friendsy [25\u2605]\nAchieve 100% completion and beat the secret boss.\n\nAT THIS TIME OF YEAR, AT THIS TIME OF DAY, IN THIS PART OF THE COUNTRY, LOCALIZED ENTIRELY WITHIN YOUR KITCHEN!? [10\u2605]\nDefeat Lord Nutmeg.",
+            "primaryText": "Not One to Truffle With[35\u2605 (Partial: 15\u2605)]\nBeat all non-boss levels with 100% collectibles deathless. Finish arcade mode.\n\nFun Gal Friendsy [25\u2605]\nAchieve 100% completion and beat the secret boss.\n\nAT THIS TIME OF YEAR, AT THIS TIME OF DAY, IN THIS PART OF THE COUNTRY, LOCALIZED ENTIRELY WITHIN YOUR KITCHEN!? [10\u2605]\nDefeat Lord Nutmeg.",
             "community": 0,
             "communityText": "",
             "achievements": 11
@@ -51428,7 +51428,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-11T04:56:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -51488,7 +51488,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T19:44:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 10,
         "playersTotal": 22,
@@ -51548,7 +51548,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-11-01T01:01:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 70,
         "playersStarted": 0,
         "playersTotal": 178,
@@ -51593,8 +51593,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2336,
-            "positive": 2257,
+            "total": 2335,
+            "positive": 2256,
             "negative": 79
         }
     },
@@ -51608,7 +51608,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-17T22:47:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 36,
@@ -51668,10 +51668,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-04-18T02:41:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 4,
+        "playersTotal": 5,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -51728,7 +51728,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-17T23:27:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 61,
         "playersStarted": 0,
         "playersTotal": 218,
@@ -51773,9 +51773,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1481,
+            "total": 1482,
             "positive": 1301,
-            "negative": 180
+            "negative": 181
         }
     },
     {
@@ -51788,7 +51788,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-01-28T01:48:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 37,
         "playersStarted": 24,
         "playersTotal": 229,
@@ -51826,15 +51826,15 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Match Made in Heaven[25\u2605  (Partial: 10\u2605)]\nReach a completion rate of 219% in Adventure mode.",
+            "primaryText": "Match Made in Heaven[25\u2605 (Partial: 10\u2605)]\nReach a completion rate of 219% in Adventure mode.",
             "community": 0,
             "communityText": "",
             "achievements": 43
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2520,
-            "positive": 2060,
+            "total": 2521,
+            "positive": 2061,
             "negative": 460
         }
     },
@@ -51848,7 +51848,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-01-28T01:47:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 28,
         "playersStarted": 23,
         "playersTotal": 186,
@@ -51886,7 +51886,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Petris[20\u2605  (Partial: 5\u2605)]\nReach a completion rate of 130% in Adventure mode.",
+            "primaryText": "Petris[20\u2605 (Partial: 5\u2605)]\nReach a completion rate of 130% in Adventure mode.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -51908,7 +51908,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-03-27T20:42:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 7,
         "playersTotal": 29,
@@ -51968,7 +51968,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2023-07-24T20:59:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 62,
@@ -52028,7 +52028,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2020-06-13T14:34:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 7,
         "playersTotal": 141,
@@ -52088,7 +52088,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-09-26T07:41:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 1,
         "playersTotal": 147,
@@ -52148,7 +52148,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-21T04:29:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -52193,8 +52193,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 622,
-            "positive": 565,
+            "total": 623,
+            "positive": 566,
             "negative": 57
         }
     },
@@ -52208,7 +52208,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-02-06T00:06:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -52268,7 +52268,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2024-07-28T23:38:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 52,
         "playersTotal": 154,
@@ -52306,16 +52306,16 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Our Adventure Continues [50\u2605]\nClear a Lunar run with a perfect floof ball (no HP lost).\n\nMoonlit Warriors[30\u2605  (Partial: 15\u2605)]\nClear a Lunar run with each of the 10 classes. / Separately, clear a Lunar run in a 3+ party and solo. / Clear a Hard run or higher with a perfect floof ball (no HP lost).\n\nBnuuy [25\u2605]\nSeparately, beat all bosses and clear a run on Lunar.\n\nGearing Up [5\u2605]\nSeparately, beat all bosses and clear a run on Hard or higher.",
+            "primaryText": "Our Adventure Continues [50\u2605]\nClear a Lunar run with a perfect floof ball (no HP lost).\n\nMoonlit Warriors[30\u2605 (Partial: 15\u2605)]\nClear a Lunar run with each of the 10 classes. / Separately, clear a Lunar run in a 3+ party and solo. / Clear a Hard run or higher with a perfect floof ball (no HP lost).\n\nBnuuy [25\u2605]\nSeparately, beat all bosses and clear a run on Lunar.\n\nGearing Up [5\u2605]\nSeparately, beat all bosses and clear a run on Hard or higher.",
             "community": 3,
             "communityText": "\"To me, my allies!\"\nClear a Lunar run with the \"fullmetal\" mod activated.\n\nGarnet Secondary\nClear a Lunar run with the \"double time\" mod activated at 2x speed or higher.\n\nSteel Yourself\nClear a Lunar run with the 'Steelheart' mod activated.",
             "achievements": 32
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 8671,
-            "positive": 8435,
-            "negative": 236
+            "total": 8670,
+            "positive": 8433,
+            "negative": 237
         },
         "information": "Mods can be downloaded through RNSReloaded. [Link](https://github.com/NotNite/RNSReloaded)"
     },
@@ -52329,10 +52329,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-21T04:18:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 25,
+        "playersTotal": 26,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -52389,7 +52389,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2020-01-28T08:44:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 23,
         "playersStarted": 38,
         "playersTotal": 464,
@@ -52434,8 +52434,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 11841,
-            "positive": 11341,
+            "total": 11843,
+            "positive": 11343,
             "negative": 500
         },
         "information": "DLC Required:\n-Before Next Adventure (For \"Not Another Visual Novel\" and \"Fan Service\" POs)\n-Is the order a DLC? (For \"Fan Service\", \"Bunnylicious\" and \"Master of Rabi Rabi Island\" POs)\n-Artbook (For \"Master of Rabi Rabi Island\" PO)"
@@ -52450,7 +52450,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:56:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 331,
@@ -52510,7 +52510,7 @@ var data =
         "tier": 5,
         "points": 270,
         "createdAt": "2022-11-20T13:04:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 11,
         "playersTotal": 61,
@@ -52570,7 +52570,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-12-28T16:02:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 9,
         "playersTotal": 77,
@@ -52615,8 +52615,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 184,
-            "positive": 177,
+            "total": 186,
+            "positive": 179,
             "negative": 7
         }
     },
@@ -52630,7 +52630,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-08-17T18:02:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 39,
@@ -52690,7 +52690,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-09-24T06:00:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 42,
@@ -52750,7 +52750,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-03-14T07:15:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -52810,7 +52810,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:32:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 120,
@@ -52870,7 +52870,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2023-11-19T17:40:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 4,
@@ -52930,7 +52930,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-04-27T17:53:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -52990,7 +52990,7 @@ var data =
         "tier": 4,
         "points": 116,
         "createdAt": "2022-10-04T23:30:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 94,
         "playersTotal": 615,
@@ -53035,8 +53035,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 42002,
-            "positive": 39537,
+            "total": 42025,
+            "positive": 39560,
             "negative": 2465
         },
         "information": "All objectives other than Karmic Reunion require the Downpour DLC.\n\nNoblest Sacrifice requires that you have Speedrun Validation enabled, and the following disabled, for the entirety of your run: Visual Breath Meter, Increased Stun Times, Pull Spears from Walls, Vanilla Exploits, Wiggle out of Grasps, No Randomized Cycle Durations, All Major Assists, All MSC Gameplay-Affecting Cheats, and Developer Commentary."
@@ -53051,7 +53051,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-08T15:14:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -53111,7 +53111,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2025-01-28T21:51:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -53171,7 +53171,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-11-25T07:29:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -53209,7 +53209,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Critter Crusher[10\u2605  (Partial: 5\u2605)]\nEarn 5 skulls on all maps on Hard.\n\nVermin Supreme (UNCLEARED) [1\u2605]\nEarn 5 skulls on all maps on Endless Mode.",
+            "primaryText": "Critter Crusher[10\u2605 (Partial: 5\u2605)]\nEarn 5 skulls on all maps on Hard.\n\nVermin Supreme (UNCLEARED) [1\u2605]\nEarn 5 skulls on all maps on Endless Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -53231,7 +53231,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-30T20:35:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -53291,7 +53291,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-06T18:40:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 56,
@@ -53352,7 +53352,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-10-26T16:39:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 38,
         "playersStarted": 0,
         "playersTotal": 113,
@@ -53412,7 +53412,7 @@ var data =
         "tier": 2,
         "points": 36,
         "createdAt": "2025-02-26T08:49:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 4,
@@ -53457,9 +53457,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 86,
+            "total": 87,
             "positive": 77,
-            "negative": 9
+            "negative": 10
         },
         "information": "POs assume you use the game's default settings, so your replay and score should automatically get sent to each of the game's 'Arcade' leaderboards."
     },
@@ -53473,7 +53473,7 @@ var data =
         "tier": 3,
         "points": 51,
         "createdAt": "2023-07-11T06:06:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 124,
@@ -53534,7 +53534,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2024-06-30T20:14:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 4,
         "playersTotal": 26,
@@ -53572,7 +53572,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "AllStar Trip [20\u2605]\nClear all individual Boss Challenges on Ultimate.\n\nBullet Bell Master [20\u2605]\nClear the Boss Rush and Another Dreamers on Ultimate without continues.\n\nSwinging By[10\u2605  (Partial: 5\u2605)]\nClear the Boss Rush and Another Dreamers on Very Hard without continues. (TLB not needed) / Score 100B.",
+            "primaryText": "AllStar Trip [20\u2605]\nClear all individual Boss Challenges on Ultimate.\n\nBullet Bell Master [20\u2605]\nClear the Boss Rush and Another Dreamers on Ultimate without continues.\n\nSwinging By[10\u2605 (Partial: 5\u2605)]\nClear the Boss Rush and Another Dreamers on Very Hard without continues. (TLB not needed) / Score 100B.",
             "community": 0,
             "communityText": "",
             "achievements": 30
@@ -53594,7 +53594,7 @@ var data =
         "tier": 3,
         "points": 46,
         "createdAt": "2024-03-29T05:09:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -53639,9 +53639,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1208,
+            "total": 1207,
             "positive": 984,
-            "negative": 224
+            "negative": 223
         }
     },
     {
@@ -53654,7 +53654,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-10-13T06:46:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 1,
         "playersTotal": 15,
@@ -53692,7 +53692,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "RhythmOut[30\u2605  (Partial: 15\u2605)]\nDo not make any mistake on all levels with 5 buttons. *Partial points are awarded as progress milestone.",
+            "primaryText": "RhythmOut[30\u2605 (Partial: 15\u2605)]\nDo not make any mistake on all levels with 5 buttons. *Partial points are awarded as progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -53714,7 +53714,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-24T15:06:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 99,
@@ -53775,7 +53775,7 @@ var data =
         "tier": 2,
         "points": 38,
         "createdAt": "2024-08-31T07:45:43.000Z",
-        "updatedAt": "2025-05-15T17:16:10.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 30,
@@ -53835,7 +53835,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-02-17T18:22:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 300,
@@ -53880,9 +53880,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 52654,
-            "positive": 44606,
-            "negative": 8048
+            "total": 52665,
+            "positive": 44614,
+            "negative": 8051
         }
     },
     {
@@ -53895,10 +53895,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:22:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
-        "playersTotal": 304,
+        "playersTotal": 305,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -53940,8 +53940,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 640,
-            "positive": 563,
+            "total": 641,
+            "positive": 564,
             "negative": 77
         }
     },
@@ -53955,10 +53955,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-07-26T16:46:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
-        "playersTotal": 372,
+        "playersTotal": 373,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -54000,9 +54000,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 26680,
-            "positive": 24535,
-            "negative": 2145
+            "total": 26683,
+            "positive": 24537,
+            "negative": 2146
         }
     },
     {
@@ -54015,7 +54015,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-18T03:01:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 65,
         "playersTotal": 373,
@@ -54060,9 +54060,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 172449,
-            "positive": 167244,
-            "negative": 5205
+            "total": 172485,
+            "positive": 167283,
+            "negative": 5202
         }
     },
     {
@@ -54075,7 +54075,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-03T10:28:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 65,
         "playersStarted": 0,
         "playersTotal": 315,
@@ -54120,9 +54120,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 90970,
-            "positive": 74307,
-            "negative": 16663
+            "total": 90979,
+            "positive": 74314,
+            "negative": 16665
         }
     },
     {
@@ -54135,7 +54135,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-11T00:18:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 13,
         "playersTotal": 121,
@@ -54180,9 +54180,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 180754,
-            "positive": 176602,
-            "negative": 4152
+            "total": 180825,
+            "positive": 176674,
+            "negative": 4151
         }
     },
     {
@@ -54195,7 +54195,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-03T10:29:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 83,
         "playersTotal": 451,
@@ -54240,8 +54240,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 82194,
-            "positive": 76764,
+            "total": 82210,
+            "positive": 76780,
             "negative": 5430
         }
     },
@@ -54255,7 +54255,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-03-03T10:53:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 47,
         "playersTotal": 369,
@@ -54300,9 +54300,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 97531,
-            "positive": 92914,
-            "negative": 4617
+            "total": 97563,
+            "positive": 92943,
+            "negative": 4620
         }
     },
     {
@@ -54315,7 +54315,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-03-08T23:10:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 42,
@@ -54360,8 +54360,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 8405,
-            "positive": 6886,
+            "total": 8407,
+            "positive": 6888,
             "negative": 1519
         }
     },
@@ -54375,7 +54375,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T09:22:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 8,
         "playersTotal": 63,
@@ -54435,10 +54435,10 @@ var data =
         "tier": 4,
         "points": 135,
         "createdAt": "2024-09-29T19:12:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 6,
-        "playersTotal": 95,
+        "playersTotal": 96,
         "priceData": {
             "USD": {
                 "initial": 1699,
@@ -54480,8 +54480,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2254,
-            "positive": 1855,
+            "total": 2255,
+            "positive": 1856,
             "negative": 399
         },
         "information": "Balanced around stable version. Uncleared objectives should be done there instead of beta.\n\nGuide for all hidden achievements: https://steamcommunity.com/sharedfiles/filedetails/?id=2971250949\n\nNote: Shard 100 may move to PO in the future if it is proven possible. Currently CO as a placeholder."
@@ -54496,7 +54496,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:49:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 178,
@@ -54556,10 +54556,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-12-04T15:36:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
-        "playersTotal": 19,
+        "playersTotal": 20,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -54617,7 +54617,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-26T23:49:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -54677,7 +54677,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-02T21:17:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 40,
         "playersStarted": 0,
         "playersTotal": 292,
@@ -54722,8 +54722,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21171,
-            "positive": 20840,
+            "total": 21175,
+            "positive": 20844,
             "negative": 331
         }
     },
@@ -54737,7 +54737,7 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2022-04-23T16:24:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 14,
         "playersTotal": 58,
@@ -54797,7 +54797,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-24T23:43:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -54857,7 +54857,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-02-05T14:23:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 24,
         "playersStarted": 12,
         "playersTotal": 113,
@@ -54895,7 +54895,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Sweet Beats[30\u2605  (Partial: 10\u2605)]\nCollect all 29 CD's (Partial points for 25 CD's achievement)",
+            "primaryText": "Sweet Beats[30\u2605 (Partial: 10\u2605)]\nCollect all 29 CD's (Partial points for 25 CD's achievement)",
             "community": 0,
             "communityText": "",
             "achievements": 31
@@ -54917,7 +54917,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-04-12T23:46:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -54978,7 +54978,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-03-16T08:23:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -55038,7 +55038,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-12T05:50:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -55098,7 +55098,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:10:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 8,
         "playersTotal": 41,
@@ -55159,7 +55159,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-10-06T08:56:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 6,
         "playersTotal": 299,
@@ -55219,7 +55219,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2020-01-28T08:44:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 67,
@@ -55279,10 +55279,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:17:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 112,
+        "playersTotal": 113,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -55324,9 +55324,9 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 900,
+            "total": 901,
             "positive": 624,
-            "negative": 276
+            "negative": 277
         }
     },
     {
@@ -55339,7 +55339,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-06T21:49:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 34,
         "playersStarted": 15,
         "playersTotal": 391,
@@ -55384,8 +55384,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 136011,
-            "positive": 127921,
+            "total": 136023,
+            "positive": 127933,
             "negative": 8090
         }
     },
@@ -55399,7 +55399,7 @@ var data =
         "tier": 1,
         "points": 14,
         "createdAt": "2024-08-21T21:37:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 42,
@@ -55459,7 +55459,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:25:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 34,
         "playersStarted": 187,
         "playersTotal": 773,
@@ -55519,10 +55519,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-08-25T13:13:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 41,
-        "playersStarted": 154,
-        "playersTotal": 1151,
+        "playersStarted": 155,
+        "playersTotal": 1152,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -55564,8 +55564,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 312200,
-            "positive": 291823,
+            "total": 312280,
+            "positive": 291903,
             "negative": 20377
         },
         "information": "\"Survivors of the Void\" DLC is required for \"Hailstorm\" and \"Cosmic Odyssey\"."
@@ -55580,7 +55580,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2023-11-26T22:54:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 36,
         "playersTotal": 264,
@@ -55618,15 +55618,15 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Hand of Providence[20\u2605  (Partial: 5\u2605)]\nObtain the golden rank in all Providence Trials except \"Judgement\". *Partial points are rewarded as a progress milestone.\n\nIn the Hall of the Monsoon King [20\u2605]\nBeat \"Judgement\" with all characters. \n\nFractured Skies [5\u2605]\nProve yourself. ",
+            "primaryText": "Hand of Providence[20\u2605 (Partial: 5\u2605)]\nObtain the golden rank in all Providence Trials except \"Judgement\". *Partial points are rewarded as a progress milestone.\n\nIn the Hall of the Monsoon King [20\u2605]\nBeat \"Judgement\" with all characters. \n\nFractured Skies [5\u2605]\nProve yourself. ",
             "community": 3,
             "communityText": "Eye of the Storm\nBeat the game on \"Monsoon\" difficulty with all characters on solo and without using any artifacts or modifying the damage you take or deal. \n\nMayonnaise Soup\nBeat the game on \"Monsoon\" difficulty with all artifacts on and without modifying the damage you take or deal.\n\nTop Tier Model\nBeat \"Judgement\" with Robomando.",
             "achievements": 155
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 27785,
-            "positive": 25060,
+            "total": 27789,
+            "positive": 25064,
             "negative": 2725
         }
     },
@@ -55640,7 +55640,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:55:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -55700,7 +55700,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-25T19:06:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 138,
         "playersStarted": 0,
         "playersTotal": 236,
@@ -55760,7 +55760,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:53:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -55820,10 +55820,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:39:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 212,
+        "playersTotal": 213,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -55880,7 +55880,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-02-20T22:15:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -55940,7 +55940,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T08:41:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -56000,7 +56000,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-10-10T15:37:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -56060,7 +56060,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-11-23T18:17:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 192,
@@ -56105,8 +56105,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21544,
-            "positive": 20565,
+            "total": 21553,
+            "positive": 20574,
             "negative": 979
         }
     },
@@ -56120,7 +56120,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-01T19:41:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
         "playersTotal": 158,
@@ -56180,7 +56180,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-10T15:06:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -56240,7 +56240,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2024-11-10T20:02:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 11,
@@ -56300,10 +56300,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-01-18T15:00:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 47,
+        "playersTotal": 48,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -56345,8 +56345,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1589,
-            "positive": 1462,
+            "total": 1588,
+            "positive": 1461,
             "negative": 127
         }
     },
@@ -56360,7 +56360,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:23:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 87,
         "playersStarted": 28,
         "playersTotal": 527,
@@ -56420,7 +56420,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-05-22T19:29:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 36,
         "playersTotal": 201,
@@ -56458,7 +56458,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Heroic Bloodline[20\u2605  (Partial: 5\u2605)]\nComplete all special game modes.\n\nLegendary Legacy [5\u2605]\nEarn a gold trophy for every Scar Challenge.\n\nSurvival of the Fittest [5\u2605]\nProve yourself.",
+            "primaryText": "Heroic Bloodline[20\u2605 (Partial: 5\u2605)]\nComplete all special game modes.\n\nLegendary Legacy [5\u2605]\nEarn a gold trophy for every Scar Challenge.\n\nSurvival of the Fittest [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 39
@@ -56480,10 +56480,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-10-06T12:29:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 102,
+        "playersTotal": 103,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -56540,7 +56540,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-13T19:53:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 80,
@@ -56600,7 +56600,7 @@ var data =
         "tier": 4,
         "points": 165,
         "createdAt": "2024-07-13T01:39:52.000Z",
-        "updatedAt": "2025-05-23T19:32:37.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 23,
@@ -56661,7 +56661,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-05-21T22:51:17.000Z",
-        "updatedAt": "2025-05-22T06:57:40.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -56722,7 +56722,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2023-02-15T02:44:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -56782,7 +56782,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-09-11T07:18:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -56842,7 +56842,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-29T17:11:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 8,
         "playersTotal": 51,
@@ -56902,10 +56902,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-22T14:46:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 61,
+        "playersTotal": 62,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -56962,7 +56962,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-09-05T21:38:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -57022,7 +57022,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-05-18T14:33:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 254,
@@ -57082,7 +57082,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:12:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 9,
         "playersTotal": 85,
@@ -57143,7 +57143,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-05-03T19:29:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 2,
         "playersTotal": 23,
@@ -57181,7 +57181,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Run Turn Don't Die[20\u2605  (Partial: 5\u2605)]\nProve yourself.",
+            "primaryText": "Run Turn Don't Die[20\u2605 (Partial: 5\u2605)]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 14
@@ -57203,7 +57203,7 @@ var data =
         "tier": 5,
         "points": 230,
         "createdAt": "2022-09-11T06:15:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 22,
         "playersTotal": 114,
@@ -57241,7 +57241,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Immortal Runner [60\u2605]\nComplete the game without dying.\n\nEndless Nightmare [60\u2605]\nScore 150 points in Infinite Mode.\n\nRUN Like Hell[70\u2605  (Partial: 40\u2605)]\nFinish Speedrun Mode in less than 25 minutes (with cutscenes), or in less than 20 minutes (without cutscenes).\n\nEnter the Infinite [15\u2605]\nScore 50 in Infinite Mode.\n\nAbsolution [25\u2605]\nFinish Nightmare Mode.",
+            "primaryText": "Immortal Runner [60\u2605]\nComplete the game without dying.\n\nEndless Nightmare [60\u2605]\nScore 150 points in Infinite Mode.\n\nRUN Like Hell[70\u2605 (Partial: 40\u2605)]\nFinish Speedrun Mode in less than 25 minutes (with cutscenes), or in less than 20 minutes (without cutscenes).\n\nEnter the Infinite [15\u2605]\nScore 50 in Infinite Mode.\n\nAbsolution [25\u2605]\nFinish Nightmare Mode.",
             "community": 1,
             "communityText": "Legacy Runner\nFinish Speedrun Mode in less than 25 minutes (with cutscenes), or less than 18:45 (without cutscenes)",
             "achievements": 57
@@ -57263,7 +57263,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:19:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 102,
@@ -57323,7 +57323,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-03-25T14:50:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -57383,40 +57383,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-12-31T18:22:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 23,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 524,
-                "discountPercent": 65
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1479,
-                "final": 517,
-                "discountPercent": 65
+                "final": 1479,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1279,
-                "final": 447,
-                "discountPercent": 65
+                "final": 1279,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 170000,
-                "final": 59500,
-                "discountPercent": 65
+                "final": 170000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2195,
-                "final": 768,
-                "discountPercent": 65
+                "final": 2195,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1949,
-                "final": 682,
-                "discountPercent": 65
+                "final": 1949,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -57443,7 +57443,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-05-02T16:43:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 13,
         "playersTotal": 65,
@@ -57488,8 +57488,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1253,
-            "positive": 1126,
+            "total": 1254,
+            "positive": 1127,
             "negative": 127
         }
     },
@@ -57503,7 +57503,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-29T19:10:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 138,
@@ -57563,7 +57563,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-10-15T03:34:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -57601,7 +57601,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Cog in the Machine[35\u2605  (Partial: 25\u2605)]\nComplete all missions and obtain all platinum medals on all the main and bonus worlds.",
+            "primaryText": "Cog in the Machine[35\u2605 (Partial: 25\u2605)]\nComplete all missions and obtain all platinum medals on all the main and bonus worlds.",
             "community": 0,
             "communityText": "",
             "achievements": 20
@@ -57623,7 +57623,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:03:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -57678,7 +57678,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T06:03:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 58,
         "playersStarted": 0,
         "playersTotal": 297,
@@ -57723,9 +57723,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 20617,
-            "positive": 18451,
-            "negative": 2166
+            "total": 20619,
+            "positive": 18452,
+            "negative": 2167
         }
     },
     {
@@ -57738,7 +57738,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-09-26T14:17:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 14,
@@ -57776,7 +57776,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Unsung Hero [20\u2605]\nClear both loops of the Score Attack mode.\n\nAce Warrior[10\u2605  (Partial: 5\u2605)]\nWatch the ending of the game without continuing on Normal difficulty.",
+            "primaryText": "Unsung Hero [20\u2605]\nClear both loops of the Score Attack mode.\n\nAce Warrior[10\u2605 (Partial: 5\u2605)]\nWatch the ending of the game without continuing on Normal difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -57798,7 +57798,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-11-26T21:43:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 51,
         "playersStarted": 0,
         "playersTotal": 191,
@@ -57843,9 +57843,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 35676,
-            "positive": 34740,
-            "negative": 936
+            "total": 35703,
+            "positive": 34766,
+            "negative": 937
         }
     },
     {
@@ -57858,7 +57858,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-10T10:21:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -57918,7 +57918,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-07-25T04:12:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 75,
@@ -57979,7 +57979,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-09T17:20:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -58039,7 +58039,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:41:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 55,
         "playersStarted": 0,
         "playersTotal": 227,
@@ -58099,7 +58099,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-07-03T23:33:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -58159,7 +58159,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-06-26T10:32:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 9,
         "playersTotal": 50,
@@ -58219,7 +58219,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-03-20T09:48:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 139,
@@ -58279,7 +58279,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-14T02:34:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 30,
         "playersTotal": 136,
@@ -58324,8 +58324,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 8330,
-            "positive": 8065,
+            "total": 8331,
+            "positive": 8066,
             "negative": 265
         }
     },
@@ -58339,7 +58339,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-07-22T14:49:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -58384,9 +58384,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 276,
-            "positive": 210,
-            "negative": 66
+            "total": 278,
+            "positive": 211,
+            "negative": 67
         }
     },
     {
@@ -58399,7 +58399,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2022-01-05T18:19:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 54,
@@ -58459,7 +58459,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2021-05-15T17:14:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 13,
         "playersTotal": 335,
@@ -58497,7 +58497,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Kyhrazy[50\u2605  (Partial: 10\u2605)]\nBeat the Ordeal without any health bonus, item or blessing.",
+            "primaryText": "Kyhrazy[50\u2605 (Partial: 10\u2605)]\nBeat the Ordeal without any health bonus, item or blessing.",
             "community": 0,
             "communityText": "",
             "achievements": 42
@@ -58519,7 +58519,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-07-24T17:09:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -58579,7 +58579,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2023-04-11T01:11:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 13,
@@ -58639,7 +58639,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-01T18:58:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -58699,7 +58699,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:36:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 29,
         "playersStarted": 219,
         "playersTotal": 653,
@@ -58744,9 +58744,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 321071,
-            "positive": 305967,
-            "negative": 15104
+            "total": 321133,
+            "positive": 306024,
+            "negative": 15109
         }
     },
     {
@@ -58759,7 +58759,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-20T17:12:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -58820,7 +58820,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-05-19T21:14:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 15,
         "playersTotal": 298,
@@ -58865,9 +58865,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 27668,
-            "positive": 24446,
-            "negative": 3222
+            "total": 27671,
+            "positive": 24450,
+            "negative": 3221
         }
     },
     {
@@ -58880,7 +58880,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-24T15:04:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 2,
         "playersTotal": 82,
@@ -58925,8 +58925,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16074,
-            "positive": 13411,
+            "total": 16076,
+            "positive": 13413,
             "negative": 2663
         }
     },
@@ -58940,7 +58940,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-08-28T17:19:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 21,
         "playersTotal": 332,
@@ -58985,8 +58985,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 8173,
-            "positive": 7635,
+            "total": 8174,
+            "positive": 7636,
             "negative": 538
         }
     },
@@ -59000,7 +59000,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-06T11:45:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 8,
         "playersTotal": 58,
@@ -59045,8 +59045,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4434,
-            "positive": 4105,
+            "total": 4435,
+            "positive": 4106,
             "negative": 329
         }
     },
@@ -59060,7 +59060,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-11-30T01:54:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 3,
         "playersTotal": 37,
@@ -59120,7 +59120,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-11T00:56:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -59180,40 +59180,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T04:25:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 78,
         "playersStarted": 13,
-        "playersTotal": 368,
+        "playersTotal": 369,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 599,
+                "discountPercent": 60
             },
             "EUR": {
                 "initial": 1399,
-                "final": 1399,
-                "discountPercent": 0
+                "final": 559,
+                "discountPercent": 60
             },
             "GBP": {
                 "initial": 1199,
-                "final": 1199,
-                "discountPercent": 0
+                "final": 479,
+                "discountPercent": 60
             },
             "JPY": {
                 "initial": 160000,
-                "final": 160000,
-                "discountPercent": 0
+                "final": 64000,
+                "discountPercent": 60
             },
             "AUD": {
                 "initial": 2249,
-                "final": 2249,
-                "discountPercent": 0
+                "final": 899,
+                "discountPercent": 60
             },
             "CAD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 799,
+                "discountPercent": 60
             }
         },
         "milestones": {
@@ -59240,7 +59240,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-02-07T22:27:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -59300,7 +59300,7 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2024-04-23T14:25:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
         "playersTotal": 24,
@@ -59360,10 +59360,10 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2024-06-11T04:25:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 15,
-        "playersTotal": 231,
+        "playersTotal": 232,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -59405,9 +59405,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 26126,
+            "total": 26128,
             "positive": 24047,
-            "negative": 2079
+            "negative": 2081
         }
     },
     {
@@ -59420,7 +59420,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-28T06:13:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 230,
@@ -59465,8 +59465,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2843,
-            "positive": 2641,
+            "total": 2844,
+            "positive": 2642,
             "negative": 202
         }
     },
@@ -59480,7 +59480,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-03-08T22:41:55.000Z",
-        "updatedAt": "2025-05-16T04:49:36.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -59540,7 +59540,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-11-10T06:23:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -59585,8 +59585,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1587,
-            "positive": 1513,
+            "total": 1588,
+            "positive": 1514,
             "negative": 74
         }
     },
@@ -59600,7 +59600,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-09T19:43:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -59660,7 +59660,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-26T01:53:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -59720,10 +59720,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2025-02-01T04:39:20.000Z",
-        "updatedAt": "2025-05-16T01:39:07.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
-        "playersTotal": 14,
+        "playersTotal": 15,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -59780,7 +59780,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2025-05-16T00:16:30.000Z",
-        "updatedAt": "2025-05-16T20:52:48.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -59840,7 +59840,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T17:49:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -59900,7 +59900,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-30T01:53:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -59960,7 +59960,7 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2025-02-04T23:54:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 2,
         "playersTotal": 11,
@@ -59998,7 +59998,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Soul of the Serpent [60\u2605]\nComplete Soul of Serpentcoil Island.\n\nMind of the Serpent [50\u2605]\nComplete Winding Valley, Timeworn Cave, and Researcher\u2019s Experimental Site.\n\nHeart of the Serpent[20\u2605  (Partial: 10\u2605)]\nComplete Heart of Serpentcoil Island with all 12 Celestial Stones collected. *Partial points are awarded upon normal completion.",
+            "primaryText": "Soul of the Serpent [60\u2605]\nComplete Soul of Serpentcoil Island.\n\nMind of the Serpent [50\u2605]\nComplete Winding Valley, Timeworn Cave, and Researcher\u2019s Experimental Site.\n\nHeart of the Serpent[20\u2605 (Partial: 10\u2605)]\nComplete Heart of Serpentcoil Island with all 12 Celestial Stones collected. *Partial points are awarded upon normal completion.",
             "community": 1,
             "communityText": "Year of the Serpent\nUnlock all achievements and obtain the \"A Truly Magnificent View\" wallpaper.",
             "achievements": 78
@@ -60020,7 +60020,7 @@ var data =
         "tier": 5,
         "points": 260,
         "createdAt": "2023-04-12T14:35:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 17,
         "playersTotal": 129,
@@ -60058,7 +60058,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Fortunate Nomad [100\u2605]\nComplete Storm Forest and Rousing Paradise.\n\nWayfaring Wanderer [80\u2605]\nComplete Double Strike Trail, Perilous Rocks, Onigiri Hollow, and Master's Footprint.\n\nDestined Descent [50\u2605]\nComplete Destiny's Descent.\n\nMamel Savior[30\u2605  (Partial: 10\u2605)]\nComplete Primordial Chasm. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Fortunate Nomad [100\u2605]\nComplete Storm Forest and Rousing Paradise.\n\nWayfaring Wanderer [80\u2605]\nComplete Double Strike Trail, Perilous Rocks, Onigiri Hollow, and Master's Footprint.\n\nDestined Descent [50\u2605]\nComplete Destiny's Descent.\n\nMamel Savior[30\u2605 (Partial: 10\u2605)]\nComplete Primordial Chasm. *Partial points are awarded as a progress milestone.",
             "community": 1,
             "communityText": "Countdown to Doomsday\nComplete Cloister of Certain Doom with the turn limit set to 10000.",
             "achievements": 55
@@ -60081,7 +60081,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T17:47:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 61,
@@ -60141,7 +60141,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2022-04-13T00:01:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 10,
@@ -60201,7 +60201,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-05-15T18:16:16.000Z",
-        "updatedAt": "2025-05-15T21:26:25.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -60246,8 +60246,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 227,
-            "positive": 222,
+            "total": 229,
+            "positive": 224,
             "negative": 5
         }
     },
@@ -60261,7 +60261,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-23T21:12:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 239,
@@ -60306,8 +60306,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6396,
-            "positive": 5863,
+            "total": 6397,
+            "positive": 5864,
             "negative": 533
         }
     },
@@ -60321,7 +60321,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-07T19:03:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -60381,7 +60381,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:27:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 25,
         "playersStarted": 45,
         "playersTotal": 426,
@@ -60419,7 +60419,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "The Showdown [10\u2605]\nComplete all relevant achievements in the \"Showdown\" campaign.\n\nThe King[10\u2605  (Partial: 5\u2605)]\nComplete all achievements and challenges in the \"King of Cards\" campaign. *Partial points are rewarded as a progress milestone.\n\nThe Specter[10\u2605  (Partial: 5\u2605)]\nComplete all achievements and challenges in the \"Specter of Torment\" campaign. *Partial points are rewarded as a progress milestone.\n\nThe Plague[10\u2605  (Partial: 5\u2605)]\nComplete all achievements and challenges in the \"Plague of Shadows\" campaign. *Partial points are rewarded as a progress milestone.\n\nThe Shovel[10\u2605  (Partial: 5\u2605)]\nComplete all achievements and challenges in the \"Shovel of Hope\" campaign. *Partial points are rewarded as a progress milestone.",
+            "primaryText": "The Showdown [10\u2605]\nComplete all relevant achievements in the \"Showdown\" campaign.\n\nThe King[10\u2605 (Partial: 5\u2605)]\nComplete all achievements and challenges in the \"King of Cards\" campaign. *Partial points are rewarded as a progress milestone.\n\nThe Specter[10\u2605 (Partial: 5\u2605)]\nComplete all achievements and challenges in the \"Specter of Torment\" campaign. *Partial points are rewarded as a progress milestone.\n\nThe Plague[10\u2605 (Partial: 5\u2605)]\nComplete all achievements and challenges in the \"Plague of Shadows\" campaign. *Partial points are rewarded as a progress milestone.\n\nThe Shovel[10\u2605 (Partial: 5\u2605)]\nComplete all achievements and challenges in the \"Shovel of Hope\" campaign. *Partial points are rewarded as a progress milestone.",
             "community": 1,
             "communityText": "The Ultimate Showdown of Ultimate Destiny\nComplete Story Mode on Hard difficulty as every character.",
             "achievements": 138
@@ -60441,7 +60441,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-07-29T19:17:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 106,
@@ -60501,7 +60501,7 @@ var data =
         "tier": 3,
         "points": 51,
         "createdAt": "2023-04-17T12:15:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 28,
         "playersTotal": 164,
@@ -60546,9 +60546,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 20883,
-            "positive": 19313,
-            "negative": 1570
+            "total": 20904,
+            "positive": 19331,
+            "negative": 1573
         },
         "information": "[Gold stamp thresholds](https://steamcommunity.com/sharedfiles/filedetails/?id=2950984289\")"
     },
@@ -60562,7 +60562,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-11-07T20:55:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -60622,7 +60622,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-01T06:24:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 151,
@@ -60683,7 +60683,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-01-26T18:31:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -60743,7 +60743,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T05:16:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 55,
@@ -60803,7 +60803,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-09-17T15:05:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -60863,7 +60863,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T09:06:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 11,
         "playersTotal": 44,
@@ -60923,7 +60923,7 @@ var data =
         "tier": 2,
         "points": 27,
         "createdAt": "2024-11-29T23:18:32.000Z",
-        "updatedAt": "2025-05-09T04:00:54.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 7,
         "playersTotal": 18,
@@ -60968,8 +60968,8 @@ var data =
         },
         "reviews": {
             "description": "Positive",
-            "total": 35,
-            "positive": 31,
+            "total": 36,
+            "positive": 32,
             "negative": 4
         }
     },
@@ -60983,7 +60983,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-05-14T14:39:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 248,
@@ -61028,9 +61028,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 54763,
-            "positive": 51088,
-            "negative": 3675
+            "total": 54775,
+            "positive": 51099,
+            "negative": 3676
         }
     },
     {
@@ -61043,7 +61043,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-10-28T03:18:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -61103,10 +61103,10 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2025-02-15T22:10:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T23:05:35.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 161,
+        "playersTotal": 162,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -61141,15 +61141,15 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Overruled! [25\u2605]\nComplete all trials for all base game characters\n\nOverpriced! [1\u2605]\nComplete all trials for all DLC characters.",
+            "primaryText": "Overpriced! (UNCLEARED) [1\u2605]\nComplete all trials for all DLC characters.\n\nOverruled! [25\u2605]\nComplete all trials for all base game characters",
             "community": 0,
             "communityText": "",
             "achievements": 45
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 31253,
-            "positive": 27499,
+            "total": 31252,
+            "positive": 27498,
             "negative": 3754
         }
     },
@@ -61163,7 +61163,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-02-12T14:25:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -61218,7 +61218,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-27T10:56:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -61278,7 +61278,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T19:33:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -61338,7 +61338,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:59:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 3,
         "playersTotal": 40,
@@ -61398,7 +61398,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-20T20:00:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -61458,7 +61458,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-11-09T03:33:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 4,
         "playersTotal": 19,
@@ -61496,15 +61496,15 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Absolutely Trolleyed[25\u2605  (Partial: 15\u2605)]\nObtain the platinum medal on all levels. *Partial points are awarded for getting the platinum medal on all 16 original levels.",
+            "primaryText": "Absolutely Trolleyed[25\u2605 (Partial: 15\u2605)]\nObtain the platinum medal on all levels. *Partial points are awarded for getting the platinum medal on all 16 original levels.",
             "community": 1,
             "communityText": "King of Winging It\nComplete all the original 16 levels in level order without dying, restarting, or quitting.",
             "achievements": 17
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1676,
-            "positive": 1528,
+            "total": 1677,
+            "positive": 1529,
             "negative": 148
         }
     },
@@ -61518,10 +61518,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-07-28T00:07:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 50,
         "playersStarted": 186,
-        "playersTotal": 964,
+        "playersTotal": 965,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -61556,16 +61556,16 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Heart Breaker [40\u2605]\nDefeat the Corrupt Heart on Ascension Level 20.\n\nCard Climber[25\u2605  (Partial: 5\u2605)]\nComplete Ascension Level 20.\n\nCardiac Attack [15\u2605]\nComplete the Ending with every character.",
+            "primaryText": "Heart Breaker [40\u2605]\nDefeat the Corrupt Heart on Ascension Level 20.\n\nCard Climber[25\u2605 (Partial: 5\u2605)]\nComplete Ascension Level 20.\n\nCardiac Attack [15\u2605]\nComplete the Ending with every character.",
             "community": 1,
             "communityText": "Slayed the Spire\nDefeat the Corrupt Heart on Ascension Level 20 with every character.",
             "achievements": 46
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 181444,
-            "positive": 177456,
-            "negative": 3988
+            "total": 181479,
+            "positive": 177490,
+            "negative": 3989
         },
         "information": "Ben - \"Watcher is easiest character\""
     },
@@ -61579,7 +61579,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-25T20:07:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 179,
@@ -61624,8 +61624,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9035,
-            "positive": 7969,
+            "total": 9034,
+            "positive": 7968,
             "negative": 1066
         }
     },
@@ -61639,7 +61639,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:24:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 192,
@@ -61699,7 +61699,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-05-07T01:54:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -61759,7 +61759,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-05-15T18:04:03.000Z",
-        "updatedAt": "2025-05-15T18:05:25.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 0,
@@ -61819,7 +61819,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:53:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -61879,7 +61879,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-04-14T03:29:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -61939,7 +61939,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-18T15:43:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 49,
         "playersStarted": 0,
         "playersTotal": 484,
@@ -61999,7 +61999,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-07-19T05:54:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 14,
@@ -62059,7 +62059,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-06-24T21:07:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -62119,7 +62119,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:50:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -62179,7 +62179,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-12-31T23:38:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -62239,10 +62239,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-02-10T08:31:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 19,
+        "playersTotal": 20,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -62299,7 +62299,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-05-21T23:38:35.000Z",
-        "updatedAt": "2025-05-22T07:25:05.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -62359,7 +62359,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:38:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -62419,7 +62419,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-04-14T16:40:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 32,
         "playersStarted": 7,
         "playersTotal": 318,
@@ -62459,8 +62459,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 17130,
-            "positive": 16028,
+            "total": 17132,
+            "positive": 16030,
             "negative": 1102
         }
     },
@@ -62474,10 +62474,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T09:25:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
-        "playersTotal": 471,
+        "playersTotal": 472,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -62519,8 +62519,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 25378,
-            "positive": 22621,
+            "total": 25383,
+            "positive": 22626,
             "negative": 2757
         }
     },
@@ -62534,10 +62534,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-18T22:46:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 37,
         "playersStarted": 0,
-        "playersTotal": 447,
+        "playersTotal": 448,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -62579,8 +62579,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16791,
-            "positive": 15362,
+            "total": 16794,
+            "positive": 15365,
             "negative": 1429
         }
     },
@@ -62594,10 +62594,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-20T03:44:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 73,
+        "playersTotal": 74,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -62639,9 +62639,9 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 7934,
-            "positive": 4723,
-            "negative": 3211
+            "total": 7933,
+            "positive": 4724,
+            "negative": 3209
         },
         "information": "Should show stages 3,5,6,8,9,10,11,13,15,18,21,22,23,26,27,28,30,EX1,EX4,EX6,EX7"
     },
@@ -62655,7 +62655,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-18T02:08:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 149,
@@ -62700,9 +62700,9 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 4937,
+            "total": 4939,
             "positive": 3088,
-            "negative": 1849
+            "negative": 1851
         }
     },
     {
@@ -62715,7 +62715,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-21T15:00:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 44,
         "playersStarted": 0,
         "playersTotal": 369,
@@ -62760,8 +62760,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 26093,
-            "positive": 24466,
+            "total": 26097,
+            "positive": 24470,
             "negative": 1627
         }
     },
@@ -62775,7 +62775,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-10T06:38:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 160,
@@ -62830,7 +62830,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:54:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 96,
@@ -62890,7 +62890,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-05-15T18:13:50.000Z",
-        "updatedAt": "2025-05-15T21:26:25.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -62935,8 +62935,8 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 2642,
-            "positive": 1809,
+            "total": 2643,
+            "positive": 1810,
             "negative": 833
         }
     },
@@ -62950,7 +62950,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-09-07T22:20:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -63010,7 +63010,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-10-11T10:44:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -63070,7 +63070,7 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2023-07-31T21:52:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 2,
         "playersTotal": 88,
@@ -63108,7 +63108,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Bullet Dancer[100\u2605  (Partial: 20\u2605)]\nObtain an S+ rank on the hard and challenge versions of every level \"purist\" style (level finished with a heart, without powerups, and without getting hit simultaneously). *Partial points are awarded as a progress milestone.\n\nAudio Avoider [20\u2605]\nObtain an S+ rank on the easy version of every level \"purist\" style (level finished with a heart, without powerups, and without getting hit simultaneously).",
+            "primaryText": "Bullet Dancer[100\u2605 (Partial: 20\u2605)]\nObtain an S+ rank on the hard and challenge versions of every level \"purist\" style (level finished with a heart, without powerups, and without getting hit simultaneously). *Partial points are awarded as a progress milestone.\n\nAudio Avoider [20\u2605]\nObtain an S+ rank on the easy version of every level \"purist\" style (level finished with a heart, without powerups, and without getting hit simultaneously).",
             "community": 0,
             "communityText": "",
             "achievements": 27
@@ -63131,7 +63131,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:55:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 46,
         "playersStarted": 0,
         "playersTotal": 374,
@@ -63191,7 +63191,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-27T00:34:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -63251,7 +63251,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-05-13T20:53:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 56,
@@ -63311,10 +63311,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-11-15T20:33:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 45,
+        "playersTotal": 46,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -63371,7 +63371,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-10-14T14:46:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -63431,7 +63431,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-21T04:54:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 21,
@@ -63491,7 +63491,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-03-06T16:02:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -63536,9 +63536,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1869,
+            "total": 1870,
             "positive": 1811,
-            "negative": 58
+            "negative": 59
         }
     },
     {
@@ -63551,7 +63551,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-04T04:02:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 92,
@@ -63611,7 +63611,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-09T00:35:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 17,
@@ -63671,7 +63671,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-04-20T15:38:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 78,
@@ -63731,7 +63731,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-05-18T16:13:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -63791,7 +63791,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-15T17:55:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -63851,7 +63851,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-22T01:28:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -63911,7 +63911,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-03-30T01:33:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 62,
         "playersStarted": 0,
         "playersTotal": 576,
@@ -63971,7 +63971,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-18T14:12:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -64031,7 +64031,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:27:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 95,
         "playersStarted": 0,
         "playersTotal": 652,
@@ -64076,8 +64076,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16286,
-            "positive": 15000,
+            "total": 16288,
+            "positive": 15002,
             "negative": 1286
         }
     },
@@ -64091,7 +64091,7 @@ var data =
         "tier": 5,
         "points": 320,
         "createdAt": "2020-12-04T14:05:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 33,
         "playersStarted": 134,
         "playersTotal": 414,
@@ -64136,8 +64136,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 20451,
-            "positive": 19032,
+            "total": 20456,
+            "positive": 19037,
             "negative": 1419
         }
     },
@@ -64151,7 +64151,7 @@ var data =
         "tier": 1,
         "points": 17,
         "createdAt": "2022-12-04T04:44:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 36,
@@ -64197,8 +64197,8 @@ var data =
         "reviews": {
             "description": "Very Positive",
             "total": 5559,
-            "positive": 5144,
-            "negative": 415
+            "positive": 5143,
+            "negative": 416
         }
     },
     {
@@ -64208,10 +64208,10 @@ var data =
         "name": "Spin Rhythm XD",
         "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058830/header.jpg?t=1745468278",
         "genre": "Arcade",
-        "tier": 5,
+        "tier": 6,
         "points": 420,
         "createdAt": "2021-12-27T00:19:53.000Z",
-        "updatedAt": "2025-05-13T16:31:04.000Z",
+        "updatedAt": "2025-05-24T21:49:51.000Z",
         "playersCompleted": 4,
         "playersStarted": 41,
         "playersTotal": 215,
@@ -64249,7 +64249,7 @@ var data =
         },
         "milestones": {
             "primary": 6,
-            "primaryText": "Spin Doctor [160\u2605]\nObtain an S+ rank on all base RemiXD tracks.\n\nSpin Master [75\u2605]\nObtain an S rank on all base RemiXD tracks.\n\nSpin Graduate [30\u2605]\nPass all base RemiXD tracks.\n\nSpincredible [80\u2605]\nObtain an S+ rank on all base XD tracks.\n\nSpinstrumentalist[50\u2605  (Partial: 15\u2605)]\nObtain an S rank on all base XD tracks. *Partial points are awarded as a progress milestone.\n\nSpinduction[25\u2605  (Partial: 10\u2605)]\nObtain an S rank on all base Expert tracks. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Spin Doctor [160\u2605]\nObtain an S+ rank on all base RemiXD tracks.\n\nSpin Master [75\u2605]\nObtain an S rank on all base RemiXD tracks.\n\nSpin Graduate [30\u2605]\nPass all base RemiXD tracks.\n\nSpincredible [80\u2605]\nObtain an S+ rank on all base XD tracks.\n\nSpinstrumentalist[50\u2605 (Partial: 15\u2605)]\nObtain an S rank on all base XD tracks. *Partial points are awarded as a progress milestone.\n\nSpinduction[25\u2605 (Partial: 10\u2605)]\nObtain an S rank on all base Expert tracks. *Partial points are awarded as a progress milestone.",
             "community": 2,
             "communityText": "Spin Wizard\nObtain the PFC badge on all base RemiXD tracks.\n\nDecked Out\nObtain the PFC badge on all base XD tracks.",
             "achievements": 48
@@ -64271,7 +64271,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-25T01:02:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 69,
@@ -64331,7 +64331,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-18T06:35:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -64392,7 +64392,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-08-10T23:17:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -64452,7 +64452,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-09-29T02:35:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 117,
@@ -64512,7 +64512,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:34:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 1,
         "playersTotal": 326,
@@ -64572,7 +64572,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-06-13T10:42:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -64632,7 +64632,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-01-17T21:06:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 50,
@@ -64692,7 +64692,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-06-05T16:53:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 3,
         "playersTotal": 44,
@@ -64752,7 +64752,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-16T05:54:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -64807,40 +64807,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-02T09:34:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 8,
         "priceData": {
             "USD": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 209,
+                "discountPercent": 70
             },
             "EUR": {
                 "initial": 689,
-                "final": 689,
-                "discountPercent": 0
+                "final": 206,
+                "discountPercent": 70
             },
             "GBP": {
                 "initial": 589,
-                "final": 589,
-                "discountPercent": 0
+                "final": 176,
+                "discountPercent": 70
             },
             "JPY": {
                 "initial": 80000,
-                "final": 80000,
-                "discountPercent": 0
+                "final": 24000,
+                "discountPercent": 70
             },
             "AUD": {
                 "initial": 1025,
-                "final": 1025,
-                "discountPercent": 0
+                "final": 307,
+                "discountPercent": 70
             },
             "CAD": {
                 "initial": 899,
-                "final": 899,
-                "discountPercent": 0
+                "final": 269,
+                "discountPercent": 70
             }
         },
         "milestones": {
@@ -64867,7 +64867,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:29:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 125,
@@ -64927,7 +64927,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-27T21:19:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -64987,7 +64987,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:04:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 161,
@@ -65047,7 +65047,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-02T19:21:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -65107,40 +65107,40 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T08:57:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 26,
         "playersTotal": 234,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1274,
-                "discountPercent": 15
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1479,
-                "final": 1257,
-                "discountPercent": 15
+                "final": 1479,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1087,
-                "discountPercent": 15
+                "final": 1279,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 170000,
-                "final": 144500,
-                "discountPercent": 15
+                "final": 170000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2195,
-                "final": 1865,
-                "discountPercent": 15
+                "final": 2195,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1656,
-                "discountPercent": 15
+                "final": 1949,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -65152,8 +65152,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2858,
-            "positive": 2763,
+            "total": 2860,
+            "positive": 2765,
             "negative": 95
         },
         "information": "The objectives have been valued with seeds in mind, as well as the use of the \"Overlord\" character when applicable."
@@ -65168,7 +65168,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-07T01:09:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 44,
@@ -65228,10 +65228,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-12T20:20:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 87,
         "playersStarted": 0,
-        "playersTotal": 1041,
+        "playersTotal": 1043,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -65273,9 +65273,9 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 882488,
-            "positive": 868727,
-            "negative": 13761
+            "total": 882721,
+            "positive": 868954,
+            "negative": 13767
         }
     },
     {
@@ -65288,7 +65288,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-07-27T02:02:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -65348,7 +65348,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-07T21:09:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 76,
@@ -65408,7 +65408,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2023-04-13T11:20:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 9,
@@ -65468,7 +65468,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-12-28T21:50:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 219,
@@ -65528,10 +65528,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-07T21:57:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 132,
+        "playersTotal": 133,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -65588,10 +65588,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-14T17:50:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
-        "playersTotal": 513,
+        "playersTotal": 514,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -65633,8 +65633,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 7556,
-            "positive": 7215,
+            "total": 7561,
+            "positive": 7220,
             "negative": 341
         }
     },
@@ -65648,7 +65648,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-12T05:49:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 247,
@@ -65693,9 +65693,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5830,
-            "positive": 5496,
-            "negative": 334
+            "total": 5832,
+            "positive": 5497,
+            "negative": 335
         },
         "information": "Curated on Steam: https://store.steampowered.com/app/322190/SteamWorld_Heist/?curator_clanid=36185934"
     },
@@ -65709,7 +65709,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2023-02-05T17:48:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 6,
         "playersTotal": 62,
@@ -65770,7 +65770,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2023-10-13T02:54:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 6,
         "playersTotal": 16,
@@ -65830,7 +65830,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-13T06:32:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 86,
@@ -65890,7 +65890,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-03-04T23:12:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 2,
         "playersTotal": 77,
@@ -65950,7 +65950,7 @@ var data =
         "tier": 5,
         "points": 230,
         "createdAt": "2021-08-08T18:48:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 112,
         "playersTotal": 201,
@@ -65988,7 +65988,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Ultimate Iron Fella [130\u2605]\nComplete Iron Fella in all modes.\n\nStandard Iron Fella[70\u2605  (Partial: 10\u2605)]\nComplete Iron Fella as Stilt Fella.\n\nExtra Allternative Fella [10\u2605]\nComplete all extra stages in all modes.\n\nExtra Fella [10\u2605]\nComplete all extra levels.\n\nStandard Fella [10\u2605]\nComplete the campaign.",
+            "primaryText": "Ultimate Iron Fella [130\u2605]\nComplete Iron Fella in all modes.\n\nStandard Iron Fella[70\u2605 (Partial: 10\u2605)]\nComplete Iron Fella as Stilt Fella.\n\nExtra Allternative Fella [10\u2605]\nComplete all extra stages in all modes.\n\nExtra Fella [10\u2605]\nComplete all extra levels.\n\nStandard Fella [10\u2605]\nComplete the campaign.",
             "community": 1,
             "communityText": "Iron Bonus Fella\nComplete the bonus levels in order in Stilt Fella mode without using quit to menu or level reset.",
             "achievements": 18
@@ -66010,7 +66010,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:08:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -66070,7 +66070,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:51:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 52,
@@ -66130,7 +66130,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-09T19:42:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 245,
@@ -66175,8 +66175,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 10711,
-            "positive": 9025,
+            "total": 10715,
+            "positive": 9029,
             "negative": 1686
         }
     },
@@ -66190,7 +66190,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2025-03-16T07:41:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -66250,7 +66250,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-09-08T20:26:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -66310,7 +66310,7 @@ var data =
         "tier": 4,
         "points": 105,
         "createdAt": "2022-09-03T03:39:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 25,
@@ -66355,8 +66355,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 188,
-            "positive": 172,
+            "total": 189,
+            "positive": 173,
             "negative": 16
         }
     },
@@ -66370,7 +66370,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-18T21:19:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 103,
@@ -66430,10 +66430,10 @@ var data =
         "tier": 4,
         "points": 135,
         "createdAt": "2024-07-30T01:18:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 77,
+        "playersTotal": 78,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -66490,7 +66490,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-01T21:28:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -66550,7 +66550,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-23T09:10:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -66610,7 +66610,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:45:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 67,
@@ -66670,7 +66670,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-11-26T01:18:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -66730,10 +66730,10 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2021-06-26T20:48:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 26,
-        "playersTotal": 276,
+        "playersTotal": 277,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -66768,7 +66768,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Sunburnt[40\u2605  (Partial: 10\u2605)]\nComplete The Lost Levels with 0 deaths. *Partial points are awarded as a progress milestone.\n\nSun Bleached[80\u2605  (Partial: 20\u2605)]\nComplete chapters 1 through 6 without dying.",
+            "primaryText": "Sunburnt[40\u2605 (Partial: 10\u2605)]\nComplete The Lost Levels with 0 deaths. *Partial points are awarded as a progress milestone.\n\nSun Bleached[80\u2605 (Partial: 20\u2605)]\nComplete chapters 1 through 6 without dying.",
             "community": 2,
             "communityText": "Data Based\nComplete a Flawless run of each chapter (separately) while collecting all Data Cubes, without assist mode, and without quit to menu.\n\nMade of Simulations\nComplete chapters 3, 4, 5 and 6 on Normal mode and the Lost Levels with 0 deaths without the use of quit to menu.",
             "achievements": 33
@@ -66790,7 +66790,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-18T14:54:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 24,
         "playersTotal": 271,
@@ -66835,9 +66835,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 4950,
+            "total": 4951,
             "positive": 4066,
-            "negative": 884
+            "negative": 885
         }
     },
     {
@@ -66850,7 +66850,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-27T17:54:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -66910,7 +66910,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-10T16:36:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -66970,10 +66970,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-08T13:32:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 75,
+        "playersTotal": 76,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -67030,7 +67030,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2023-05-13T20:45:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 3,
         "playersTotal": 25,
@@ -67090,7 +67090,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-21T04:00:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -67150,7 +67150,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-10T21:22:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -67210,7 +67210,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-06-21T17:25:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 104,
@@ -67255,9 +67255,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9851,
-            "positive": 8544,
-            "negative": 1307
+            "total": 9856,
+            "positive": 8548,
+            "negative": 1308
         }
     },
     {
@@ -67270,7 +67270,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-14T11:55:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -67330,10 +67330,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-28T21:06:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 78,
+        "playersTotal": 79,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -67390,7 +67390,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-11-15T20:34:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 48,
         "playersStarted": 0,
         "playersTotal": 138,
@@ -67450,7 +67450,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-08-27T00:02:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 33,
@@ -67495,8 +67495,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 247,
-            "positive": 209,
+            "total": 248,
+            "positive": 210,
             "negative": 38
         },
         "information": "To 3 star the last level see: [https://youtu.be/piuJBn5NrVQ](https://youtu.be/piuJBn5NrVQ)"
@@ -67511,7 +67511,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-16T06:34:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 18,
@@ -67571,7 +67571,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-03-29T02:49:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -67631,7 +67631,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-10T22:07:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -67691,7 +67691,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-07-07T11:20:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 11,
         "playersTotal": 49,
@@ -67751,7 +67751,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-26T01:52:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 112,
@@ -67811,7 +67811,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2024-04-26T02:36:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 7,
@@ -67871,7 +67871,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-07T22:16:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -67931,7 +67931,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:23:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 440,
         "playersStarted": 0,
         "playersTotal": 1031,
@@ -67991,7 +67991,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2021-09-24T06:36:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 71,
@@ -68051,7 +68051,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-07-22T01:18:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -68111,7 +68111,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:34:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 33,
         "playersStarted": 1,
         "playersTotal": 339,
@@ -68172,7 +68172,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-08-09T16:47:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 18,
@@ -68232,7 +68232,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-24T02:38:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -68292,7 +68292,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:07:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 19,
         "playersTotal": 95,
@@ -68330,7 +68330,7 @@ var data =
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "S for FPS[20\u2605  (Partial: 10\u2605)]\nGet S rank on all levels. *Partial points are awarded as a progress milestone.",
+            "primaryText": "S for FPS[20\u2605 (Partial: 10\u2605)]\nGet S rank on all levels. *Partial points are awarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 4
@@ -68352,7 +68352,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2021-10-25T00:33:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 1,
         "playersTotal": 50,
@@ -68412,7 +68412,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2021-08-08T17:42:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 29,
         "playersStarted": 14,
         "playersTotal": 245,
@@ -68472,10 +68472,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T06:33:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 68,
         "playersStarted": 231,
-        "playersTotal": 1329,
+        "playersTotal": 1331,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -68510,7 +68510,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Hard Like Cotton[35\u2605  (Partial: 10\u2605)]\nComplete both sides of the Cotton Alley without dying.\n\nHardcore Gaming 101 [30\u2605]\nObtain all other deathless achievements.\n\nGold Encrusted Meat [15\u2605]\nAchieve 100% completion.",
+            "primaryText": "Hard Like Cotton[35\u2605 (Partial: 10\u2605)]\nComplete both sides of the Cotton Alley without dying.\n\nHardcore Gaming 101 [30\u2605]\nObtain all other deathless achievements.\n\nGold Encrusted Meat [15\u2605]\nAchieve 100% completion.",
             "community": 2,
             "communityText": "Made of Meat\nComplete the Cotton Alley Dark World deathless without using quit to menu.\n\nWell Done\nComplete all dark worlds (separately) in level order as meat boy only without dying or using any exploit or quit to menu.",
             "achievements": 48
@@ -68532,7 +68532,7 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2022-01-13T21:35:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 9,
         "playersTotal": 307,
@@ -68570,7 +68570,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Meat Beater[150\u2605  (Partial: 50\u2605)]\nObtain the relevant deathless achievements.\n\nTil Death Do Us Part [30\u2605]\nCollect 90 Pacifiers and 100% the game.",
+            "primaryText": "Meat Beater[150\u2605 (Partial: 50\u2605)]\nObtain the relevant deathless achievements.\n\nTil Death Do Us Part [30\u2605]\nCollect 90 Pacifiers and 100% the game.",
             "community": 1,
             "communityText": "Made of Super Meat\nComplete all Dark World deathless runs (including 0xDEADBEEF) without using quit to menu.",
             "achievements": 36
@@ -68592,7 +68592,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-07-21T02:08:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 3,
         "playersTotal": 32,
@@ -68652,7 +68652,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-02-24T00:24:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 1,
         "playersTotal": 127,
@@ -68712,7 +68712,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-07-28T12:26:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 16,
@@ -68772,7 +68772,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-12T20:20:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -68832,7 +68832,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-22T04:45:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -68892,7 +68892,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:17:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 38,
         "playersStarted": 0,
         "playersTotal": 174,
@@ -68952,7 +68952,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2025-03-02T18:18:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -69012,7 +69012,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-08-19T16:48:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T23:01:43.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 7,
@@ -69050,16 +69050,16 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Pull It Together [5\u2605]\nProve yourself.\n\nWarrior of Water World [1\u2605]\nReach loop 3 with all characters.",
+            "primaryText": "Warrior of Water World (UNCLEARED) [1\u2605]\nReach loop 3 with all characters.\n\nPull It Together [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 30
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 195,
+            "total": 196,
             "positive": 163,
-            "negative": 32
+            "negative": 33
         }
     },
     {
@@ -69072,7 +69072,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-08-01T16:37:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -69127,7 +69127,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-11-25T09:11:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -69185,10 +69185,10 @@ var data =
         "name": "Super Rude Bear Resurrection",
         "header": "https://steamcdn-a.akamaihd.net/steam/apps/384250/header.jpg?t=1546792414",
         "genre": "Platformer",
-        "tier": 5,
+        "tier": 6,
         "points": 600,
         "createdAt": "2020-01-28T09:30:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:51:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 12,
         "playersTotal": 122,
@@ -69248,7 +69248,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-10-14T23:59:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -69308,7 +69308,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-07-21T05:25:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -69368,10 +69368,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-28T19:39:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 17,
+        "playersTotal": 18,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -69428,10 +69428,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-07-09T11:13:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 5,
+        "updatedAt": "2025-05-24T21:45:49.000Z",
+        "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 52,
+        "playersTotal": 53,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -69488,7 +69488,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T08:09:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 162,
         "playersStarted": 28,
         "playersTotal": 676,
@@ -69533,9 +69533,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 38714,
-            "positive": 35332,
-            "negative": 3382
+            "total": 38717,
+            "positive": 35334,
+            "negative": 3383
         }
     },
     {
@@ -69548,7 +69548,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-08-11T19:19:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 191,
@@ -69593,8 +69593,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 9081,
-            "positive": 7454,
+            "total": 9083,
+            "positive": 7456,
             "negative": 1627
         },
         "information": "This game requires a VR headset in order to play."
@@ -69609,7 +69609,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-02-29T21:42:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 62,
         "playersTotal": 267,
@@ -69655,8 +69655,8 @@ var data =
         "reviews": {
             "description": "Very Positive",
             "total": 11986,
-            "positive": 10120,
-            "negative": 1866
+            "positive": 10121,
+            "negative": 1865
         }
     },
     {
@@ -69669,7 +69669,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-01-10T20:57:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 100,
         "playersStarted": 0,
         "playersTotal": 504,
@@ -69714,8 +69714,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 30061,
-            "positive": 28437,
+            "total": 30066,
+            "positive": 28442,
             "negative": 1624
         }
     },
@@ -69729,7 +69729,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-19T20:53:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -69790,10 +69790,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-19T04:46:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 40,
+        "playersTotal": 41,
         "priceData": {
             "USD": {
                 "initial": 199,
@@ -69845,7 +69845,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-01T19:16:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 32,
         "playersStarted": 0,
         "playersTotal": 448,
@@ -69890,8 +69890,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 16478,
-            "positive": 13553,
+            "total": 16481,
+            "positive": 13556,
             "negative": 2925
         }
     },
@@ -69905,7 +69905,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:15:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 70,
@@ -69965,7 +69965,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-18T20:29:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -70026,7 +70026,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2023-11-10T05:17:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 220,
@@ -70072,8 +70072,8 @@ var data =
         "reviews": {
             "description": "Very Positive",
             "total": 12705,
-            "positive": 11957,
-            "negative": 748
+            "positive": 11958,
+            "negative": 747
         }
     },
     {
@@ -70086,7 +70086,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-05T11:39:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -70146,7 +70146,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-10-24T23:47:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -70206,7 +70206,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2023-10-30T00:49:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -70266,10 +70266,10 @@ var data =
         "tier": 3,
         "points": 63,
         "createdAt": "2024-11-27T08:18:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 7,
-        "playersTotal": 30,
+        "playersTotal": 31,
         "priceData": {
             "USD": {
                 "initial": 4999,
@@ -70311,9 +70311,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 983,
+            "total": 984,
             "positive": 859,
-            "negative": 124
+            "negative": 125
         },
         "information": "Subscription/DLC songs currently not required for CE objectives."
     },
@@ -70327,7 +70327,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-21T01:35:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 77,
@@ -70372,8 +70372,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12315,
-            "positive": 10891,
+            "total": 12319,
+            "positive": 10895,
             "negative": 1424
         }
     },
@@ -70387,7 +70387,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-06-09T18:29:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 108,
@@ -70444,10 +70444,10 @@ var data =
         "name": "Tales of Maj'Eyal",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/259680/header.jpg?t=1660605732",
         "genre": "Strategy",
-        "tier": 5,
+        "tier": 6,
         "points": 499,
         "createdAt": "2023-07-24T01:15:01.000Z",
-        "updatedAt": "2025-05-11T03:35:22.000Z",
+        "updatedAt": "2025-05-24T21:50:34.000Z",
         "playersCompleted": 0,
         "playersStarted": 17,
         "playersTotal": 185,
@@ -70492,8 +70492,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 6701,
-            "positive": 6371,
+            "total": 6702,
+            "positive": 6372,
             "negative": 330
         },
         "information": "[Curated on Steam](https://store.steampowered.com/app/259680/Tales_of_MajEyal/?curator_clanid=36185934)\n\nPrimary objectives are retroactive: higher difficulty awards all objectives below, and Roguelike Mode awards its respective Adventure Mode counterpart.\n\nThe game can be downloaded for free on the game's official website.\n\nDownload link: [https://te4.org/download](https://te4.org/download)\n\nSee doc for further information: [https://docs.google.com/document/d/1bWCoBS8H8cSq-DLz9H1cY5HAgxppzOHCjSDQzjJK_Mc](https://docs.google.com/document/d/1bWCoBS8H8cSq-DLz9H1cY5HAgxppzOHCjSDQzjJK_Mc)\n\nWARNING - Use adventurer at your own peril, it is undecided if it will be banned, allowed or awarded partial points.\nItem vault is also undecided but will likely be banned.\n\nUsing holiday/timed events is restricted, christmas especially is strictly banned."
@@ -70508,7 +70508,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-08-11T19:19:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 7,
         "playersTotal": 58,
@@ -70568,7 +70568,7 @@ var data =
         "tier": 5,
         "points": 325,
         "createdAt": "2022-04-22T03:29:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 54,
@@ -70606,7 +70606,7 @@ var data =
         },
         "milestones": {
             "primary": 5,
-            "primaryText": "Combat Perfectionist[140\u2605  (Partial: 40\u2605)]\nClear Insane with no continues starting from level 1 with 100% hit rating.\n\nFury of the Forest[70\u2605  (Partial: 25\u2605)]\nObtain 1 million points on Insane difficulty. / Beat the game in under 14:30 on Insane difficulty.\n\nPenda King[70\u2605  (Partial: 25\u2605)]\nClear Penda Justice without losing a life. / Clear Penda Justice in under 14:00.\n\nInsane Justice [30\u2605]\nProve yourself.\n\nShogun of Shurikens [15\u2605]\nScore 80,000 points in Survival.",
+            "primaryText": "Combat Perfectionist[140\u2605 (Partial: 40\u2605)]\nClear Insane with no continues starting from level 1 with 100% hit rating.\n\nFury of the Forest[70\u2605 (Partial: 25\u2605)]\nObtain 1 million points on Insane difficulty. / Beat the game in under 14:30 on Insane difficulty.\n\nPenda King[70\u2605 (Partial: 25\u2605)]\nClear Penda Justice without losing a life. / Clear Penda Justice in under 14:00.\n\nInsane Justice [30\u2605]\nProve yourself.\n\nShogun of Shurikens [15\u2605]\nScore 80,000 points in Survival.",
             "community": 0,
             "communityText": "",
             "achievements": 16
@@ -70628,7 +70628,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-03-24T04:57:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -70688,7 +70688,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-12T12:39:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -70748,7 +70748,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-01-22T11:02:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -70808,7 +70808,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-20T15:55:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 8,
         "playersTotal": 31,
@@ -70868,7 +70868,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-05-13T18:46:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 10,
         "playersTotal": 89,
@@ -70928,10 +70928,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-09-25T21:35:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 81,
+        "playersTotal": 82,
         "priceData": {
             "USD": {
                 "initial": 199,
@@ -70988,10 +70988,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-04-09T20:06:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
-        "playersStarted": 6,
-        "playersTotal": 44,
+        "playersStarted": 7,
+        "playersTotal": 45,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -71026,15 +71026,15 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Cowabunga! [25\u2605]\nComplete Arcade Mode on \"Gnarly\" difficulty.\n\nGuardians of the Sewers[15\u2605  (Partial: 5\u2605)]\nComplete all level challenges.",
+            "primaryText": "Cowabunga! [25\u2605]\nComplete Arcade Mode on \"Gnarly\" difficulty.\n\nGuardians of the Sewers[15\u2605 (Partial: 5\u2605)]\nComplete all level challenges.",
             "community": 0,
             "communityText": "",
             "achievements": 30
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 13724,
-            "positive": 12954,
+            "total": 13726,
+            "positive": 12956,
             "negative": 770
         }
     },
@@ -71048,7 +71048,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-04-16T22:54:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -71108,7 +71108,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-07-24T01:59:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 38,
@@ -71168,7 +71168,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:43:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -71228,10 +71228,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-18T13:49:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 27,
+        "playersTotal": 28,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -71288,7 +71288,7 @@ var data =
         "tier": 4,
         "points": 87,
         "createdAt": "2024-11-27T06:46:55.000Z",
-        "updatedAt": "2025-05-06T18:56:53.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 9,
         "playersTotal": 23,
@@ -71326,7 +71326,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Artist's Block (UNCLEARED) [1\u2605]\nComplete all MARATHON modes on Death difficulty.\n\nBlueshift (UNCLEARED) [1\u2605]\nComplete all SPECTRUM modes on Death difficulty.\n\nBrocken Specter [45\u2605]\nComplete all SPECTRUM and MARATHON modes on Hard difficulty.\n\nTetraprism[40\u2605  (Partial: 10\u2605)]\nComplete all SPECTRUM and MARATHON modes on Normal difficulty. *Partial points are awarded for completion on any difficulty.",
+            "primaryText": "Artist's Block (UNCLEARED) [1\u2605]\nComplete all MARATHON modes on Death difficulty.\n\nBlueshift (UNCLEARED) [1\u2605]\nComplete all SPECTRUM modes on Death difficulty.\n\nBrocken Specter [45\u2605]\nComplete all SPECTRUM and MARATHON modes on Hard difficulty.\n\nTetraprism[40\u2605 (Partial: 10\u2605)]\nComplete all SPECTRUM and MARATHON modes on Normal difficulty. *Partial points are awarded for completion on any difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 58
@@ -71348,7 +71348,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:44:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -71400,10 +71400,10 @@ var data =
         "name": "Tetris\u00ae Effect: Connected",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/1003590/header.jpg?t=1629881521",
         "genre": "Arcade",
-        "tier": 5,
+        "tier": 6,
         "points": 600,
         "createdAt": "2021-09-02T00:55:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:51:06.000Z",
         "playersCompleted": 11,
         "playersStarted": 85,
         "playersTotal": 271,
@@ -71448,9 +71448,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 7907,
-            "positive": 7505,
-            "negative": 402
+            "total": 7911,
+            "positive": 7508,
+            "negative": 403
         }
     },
     {
@@ -71463,7 +71463,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-12-27T00:34:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 71,
@@ -71523,7 +71523,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-02-11T05:52:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -71583,7 +71583,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-08-01T19:59:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 139,
@@ -71643,7 +71643,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-11-30T20:42:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 69,
         "playersStarted": 0,
         "playersTotal": 388,
@@ -71703,7 +71703,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-10-25T00:02:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -71763,7 +71763,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-04-12T21:23:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 119,
         "playersStarted": 36,
         "playersTotal": 697,
@@ -71808,8 +71808,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 60266,
-            "positive": 57202,
+            "total": 60276,
+            "positive": 57212,
             "negative": 3064
         },
         "information": "\"Wrath of the Lamb\" DLC is needed both for the \"Eternal Crybaby\" objective and 100% of the Steam achievements. "
@@ -71824,7 +71824,7 @@ var data =
         "tier": 4,
         "points": 125,
         "createdAt": "2023-12-26T14:43:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 23,
@@ -71884,7 +71884,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-03T19:14:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -71944,7 +71944,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-09T21:48:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -72004,10 +72004,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2024-09-07T22:11:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 66,
+        "playersTotal": 67,
         "priceData": {
             "USD": {
                 "initial": 3499,
@@ -72049,8 +72049,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 7467,
-            "positive": 6536,
+            "total": 7468,
+            "positive": 6537,
             "negative": 931
         }
     },
@@ -72064,7 +72064,7 @@ var data =
         "tier": 5,
         "points": 350,
         "createdAt": "2020-01-28T09:36:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 26,
         "playersStarted": 126,
         "playersTotal": 671,
@@ -72102,16 +72102,16 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Iron God[260\u2605  (Partial: 70\u2605)]\nComplete the main game with zero deaths.\n\nSuper Mega Player [45\u2605]\nComplete The Super Mega Cart with 1000 rings. / Complete The Super Mega Cart without dying.\n\nUnbreakable [25\u2605]\nSeparately; finish all glitch carts without dying.\n\nUndying [20\u2605]\nBeat the full game and all carts.",
+            "primaryText": "Iron God[260\u2605 (Partial: 70\u2605)]\nComplete the main game with zero deaths.\n\nSuper Mega Player [45\u2605]\nComplete The Super Mega Cart with 1000 rings. / Complete The Super Mega Cart without dying.\n\nUnbreakable [25\u2605]\nSeparately; finish all glitch carts without dying.\n\nUndying [20\u2605]\nBeat the full game and all carts.",
             "community": 6,
             "communityText": "Apocalypse Collector\nComplete the game without dying while obtaining all collectibles.\n\nIt's Not Glitched, You Just Gotta Blow In It\nComplete all glitch carts in a row without dying (in any order).\n\nKing of the Cart\nCollect all rings in the Super Mega Cart without dying.\n\nMade of Cancer\nComplete an any% deathless run without using quit to menu.\n\nSpike Tales - Unbreakable-er\nComplete Spike Tales without dying and without using any skips.\n\nThe End is Now\nObtain 152% completion on a save file without dying.",
             "achievements": 106
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3087,
+            "total": 3088,
             "positive": 2889,
-            "negative": 198
+            "negative": 199
         }
     },
     {
@@ -72124,7 +72124,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2024-06-15T00:19:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 25,
@@ -72162,7 +72162,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "2-Bit Tyrant [20\u2605]\nProve yourself.\n\nThe Eternal Gamer (PARTIALLY UNCLEARED)[6\u2605  (Partial: 5\u2605)]\nFinish the third run.",
+            "primaryText": "2-Bit Tyrant [20\u2605]\nProve yourself.\n\nThe Eternal Gamer (PARTIALLY UNCLEARED)[6\u2605 (Partial: 5\u2605)]\nFinish the third run.",
             "community": 0,
             "communityText": "",
             "achievements": 35
@@ -72184,7 +72184,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-05-13T21:09:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 21,
         "playersStarted": 3,
         "playersTotal": 196,
@@ -72229,9 +72229,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 30203,
-            "positive": 25741,
-            "negative": 4462
+            "total": 30207,
+            "positive": 25743,
+            "negative": 4464
         }
     },
     {
@@ -72244,7 +72244,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-11-10T05:19:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 134,
@@ -72304,7 +72304,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-27T04:42:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -72364,7 +72364,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2024-09-20T14:14:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 9,
@@ -72424,7 +72424,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:05:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 265,
@@ -72484,7 +72484,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-02-29T22:17:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -72544,7 +72544,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-02-07T22:27:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 66,
@@ -72604,7 +72604,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-07-18T02:37:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -72664,7 +72664,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:11:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 102,
         "playersStarted": 0,
         "playersTotal": 441,
@@ -72709,8 +72709,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 11836,
-            "positive": 11035,
+            "total": 11837,
+            "positive": 11036,
             "negative": 801
         },
         "information": "DLC Required:\n-Picnic Panic "
@@ -72725,7 +72725,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-02-22T20:15:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 96,
@@ -72785,7 +72785,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-10-24T23:53:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 104,
@@ -72845,7 +72845,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-03-30T00:23:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -72905,7 +72905,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-20T02:18:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -72965,7 +72965,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-12-24T14:43:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -73025,7 +73025,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:22:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 26,
         "playersStarted": 13,
         "playersTotal": 195,
@@ -73085,7 +73085,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-17T01:51:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 242,
@@ -73130,9 +73130,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 10904,
-            "positive": 8201,
-            "negative": 2703
+            "total": 10909,
+            "positive": 8204,
+            "negative": 2705
         }
     },
     {
@@ -73145,7 +73145,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T05:37:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 190,
@@ -73190,9 +73190,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8473,
-            "positive": 6487,
-            "negative": 1986
+            "total": 8476,
+            "positive": 6488,
+            "negative": 1988
         }
     },
     {
@@ -73205,7 +73205,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:51:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 51,
         "playersStarted": 0,
         "playersTotal": 370,
@@ -73265,7 +73265,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-04T10:18:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 42,
@@ -73325,10 +73325,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-30T05:58:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 195,
         "playersStarted": 0,
-        "playersTotal": 661,
+        "playersTotal": 662,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -73370,9 +73370,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 18871,
-            "positive": 16013,
-            "negative": 2858
+            "total": 18876,
+            "positive": 16016,
+            "negative": 2860
         }
     },
     {
@@ -73385,7 +73385,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-06-09T19:47:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -73445,7 +73445,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-03T23:55:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 25,
         "playersStarted": 3,
         "playersTotal": 48,
@@ -73505,40 +73505,40 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:40:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 24,
         "playersStarted": 3,
         "playersTotal": 416,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 249,
-                "discountPercent": 75
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 975,
-                "final": 243,
-                "discountPercent": 75
+                "final": 975,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 850,
-                "final": 212,
-                "discountPercent": 75
+                "final": 850,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 120000,
-                "final": 30000,
-                "discountPercent": 75
+                "final": 120000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1450,
-                "final": 362,
-                "discountPercent": 75
+                "final": 1450,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1299,
-                "final": 324,
-                "discountPercent": 75
+                "final": 1299,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -73565,7 +73565,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T11:36:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 288,
@@ -73610,8 +73610,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 23223,
-            "positive": 17307,
+            "total": 23225,
+            "positive": 17309,
             "negative": 5916
         }
     },
@@ -73625,7 +73625,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:50:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 37,
         "playersStarted": 0,
         "playersTotal": 268,
@@ -73682,10 +73682,10 @@ var data =
         "name": "Threes!",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/1818570/header.jpg?t=1707202948",
         "genre": "Strategy",
-        "tier": 5,
+        "tier": 6,
         "points": 475,
         "createdAt": "2024-02-07T03:40:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:50:28.000Z",
         "playersCompleted": 2,
         "playersStarted": 42,
         "playersTotal": 91,
@@ -73746,7 +73746,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-09T19:29:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -73806,7 +73806,7 @@ var data =
         "tier": 4,
         "points": 170,
         "createdAt": "2020-01-28T09:54:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 42,
         "playersTotal": 258,
@@ -73866,7 +73866,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-17T23:13:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -73926,7 +73926,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:13:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 36,
@@ -73986,7 +73986,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-05T09:09:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 82,
@@ -74031,9 +74031,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 8422,
-            "positive": 7080,
-            "negative": 1342
+            "total": 8424,
+            "positive": 7081,
+            "negative": 1343
         }
     },
     {
@@ -74046,7 +74046,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-19T17:02:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -74091,8 +74091,8 @@ var data =
         },
         "reviews": {
             "description": "Positive",
-            "total": 29,
-            "positive": 26,
+            "total": 28,
+            "positive": 25,
             "negative": 3
         }
     },
@@ -74106,7 +74106,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-11T22:03:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -74166,7 +74166,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2025-01-19T03:48:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 3,
@@ -74226,10 +74226,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-04-14T16:35:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 175,
+        "playersTotal": 176,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -74271,8 +74271,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 11332,
-            "positive": 10570,
+            "total": 11335,
+            "positive": 10573,
             "negative": 762
         }
     },
@@ -74286,7 +74286,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-06-07T03:11:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -74346,7 +74346,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-06-09T19:37:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -74406,7 +74406,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2020-01-28T09:23:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 47,
@@ -74444,7 +74444,7 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Tiny Barbarian [15\u2605]\nProve yourself.\n\nBarbaric (PARTIALLY UNCLEARED)[6\u2605  (Partial: 5\u2605)]\nEarn all speedrun and deathless achievements for episodes 1-4.",
+            "primaryText": "Tiny Barbarian [15\u2605]\nProve yourself.\n\nBarbaric (PARTIALLY UNCLEARED)[6\u2605 (Partial: 5\u2605)]\nEarn all speedrun and deathless achievements for episodes 1-4.",
             "community": 0,
             "communityText": "",
             "achievements": 53
@@ -74466,7 +74466,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-25T22:10:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -74526,7 +74526,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:38:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 63,
         "playersStarted": 12,
         "playersTotal": 926,
@@ -74571,8 +74571,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 13078,
-            "positive": 10316,
+            "total": 13079,
+            "positive": 10317,
             "negative": 2762
         }
     },
@@ -74586,7 +74586,7 @@ var data =
         "tier": 5,
         "points": 250,
         "createdAt": "2021-10-24T18:05:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 9,
         "playersTotal": 91,
@@ -74624,7 +74624,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Toast Titan[230\u2605  (Partial: 5\u2605)]\nComplete Survival Mode. \n\nToast Enthusiast [10\u2605]\nObtain the \"Champion Toaster\" Award in an Ironman Survival mode run by obtaining 1M points.\n\nI Am Toast [10\u2605]\nObtain all 3-star crowns.",
+            "primaryText": "Toast Titan[230\u2605 (Partial: 5\u2605)]\nComplete Survival Mode. \n\nToast Enthusiast [10\u2605]\nObtain the \"Champion Toaster\" Award in an Ironman Survival mode run by obtaining 1M points.\n\nI Am Toast [10\u2605]\nObtain all 3-star crowns.",
             "community": 1,
             "communityText": "Toast Singularity\nComplete the Ironman Survival Mode with all power-ups unlocked.",
             "achievements": 9
@@ -74646,7 +74646,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2021-09-11T08:05:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 20,
@@ -74706,7 +74706,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-06-21T07:54:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
         "playersTotal": 31,
@@ -74766,7 +74766,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-09-24T06:14:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 95,
@@ -74826,7 +74826,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-12-13T03:02:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -74887,7 +74887,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-08T00:23:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -74947,7 +74947,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-12-18T15:45:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 110,
@@ -75007,7 +75007,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T10:02:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 21,
         "playersStarted": 11,
         "playersTotal": 184,
@@ -75067,7 +75067,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-04-29T17:50:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -75127,7 +75127,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-07-30T00:56:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -75187,7 +75187,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-07-23T05:09:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -75247,7 +75247,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-12-08T01:16:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 8,
         "playersTotal": 60,
@@ -75307,7 +75307,7 @@ var data =
         "tier": 2,
         "points": 33,
         "createdAt": "2024-10-09T07:37:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
         "playersTotal": 49,
@@ -75367,7 +75367,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-08-19T01:38:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 12,
         "playersTotal": 86,
@@ -75412,8 +75412,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1222,
-            "positive": 1206,
+            "total": 1223,
+            "positive": 1207,
             "negative": 16
         }
     },
@@ -75427,7 +75427,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-18T05:59:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
         "playersTotal": 18,
@@ -75488,7 +75488,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2023-01-12T07:04:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 9,
         "playersTotal": 63,
@@ -75548,7 +75548,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-02-14T00:13:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 4,
         "playersTotal": 22,
@@ -75608,7 +75608,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2023-04-14T22:43:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 7,
         "playersTotal": 41,
@@ -75653,8 +75653,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1018,
-            "positive": 991,
+            "total": 1019,
+            "positive": 992,
             "negative": 27
         }
     },
@@ -75668,7 +75668,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-01-08T21:57:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 7,
         "playersTotal": 51,
@@ -75728,7 +75728,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2023-06-27T00:26:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 12,
         "playersTotal": 74,
@@ -75788,7 +75788,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2023-11-20T03:51:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 4,
         "playersTotal": 34,
@@ -75848,7 +75848,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-12-17T23:53:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 8,
         "playersTotal": 47,
@@ -75893,8 +75893,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 363,
-            "positive": 346,
+            "total": 364,
+            "positive": 347,
             "negative": 17
         }
     },
@@ -75908,7 +75908,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-04-01T08:05:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 1,
         "playersTotal": 55,
@@ -75968,7 +75968,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-05T01:14:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -76028,7 +76028,7 @@ var data =
         "tier": 4,
         "points": 175,
         "createdAt": "2020-06-09T19:24:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 17,
         "playersTotal": 238,
@@ -76088,7 +76088,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-09-24T06:03:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 2,
         "playersTotal": 45,
@@ -76144,7 +76144,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-03-13T23:27:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 9,
         "playersTotal": 66,
@@ -76202,10 +76202,10 @@ var data =
         "name": "Trackmania\u00ae Turbo",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/375900/header.jpg?t=1573142418",
         "genre": "Arcade",
-        "tier": 5,
+        "tier": 7,
         "points": 1100,
         "createdAt": "2023-03-14T12:35:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:51:53.000Z",
         "playersCompleted": 1,
         "playersStarted": 12,
         "playersTotal": 48,
@@ -76265,7 +76265,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-03-05T19:56:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 1,
         "playersTotal": 68,
@@ -76325,7 +76325,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-03-08T00:55:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
         "playersTotal": 34,
@@ -76385,7 +76385,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-07-13T21:32:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 6,
         "playersTotal": 150,
@@ -76430,8 +76430,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6570,
-            "positive": 5834,
+            "total": 6569,
+            "positive": 5833,
             "negative": 736
         }
     },
@@ -76445,7 +76445,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-08-29T07:21:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 3,
         "playersTotal": 75,
@@ -76505,7 +76505,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-26T22:50:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -76565,7 +76565,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-26T11:04:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -76610,8 +76610,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 103,
-            "positive": 98,
+            "total": 104,
+            "positive": 99,
             "negative": 5
         }
     },
@@ -76625,7 +76625,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-11-17T10:48:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 54,
@@ -76670,8 +76670,8 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2725,
-            "positive": 1934,
+            "total": 2726,
+            "positive": 1935,
             "negative": 791
         }
     },
@@ -76685,7 +76685,7 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2025-02-26T07:45:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 55,
@@ -76730,9 +76730,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 13856,
-            "positive": 12945,
-            "negative": 911
+            "total": 13875,
+            "positive": 12962,
+            "negative": 913
         },
         "information": "Guide made by SomeMugger found here: https://steamcommunity.com/sharedfiles/filedetails/?id=3437966281"
     },
@@ -76746,7 +76746,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-05-18T16:54:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 3,
         "playersTotal": 56,
@@ -76786,8 +76786,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 263,
-            "positive": 224,
+            "total": 264,
+            "positive": 225,
             "negative": 39
         }
     },
@@ -76801,7 +76801,7 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2022-02-05T23:51:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 22,
         "playersStarted": 25,
         "playersTotal": 160,
@@ -76859,10 +76859,10 @@ var data =
         "name": "Trials Fusion\u2122",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/245490/header.jpg?t=1624892794",
         "genre": "Arcade",
-        "tier": 5,
+        "tier": 6,
         "points": 400,
         "createdAt": "2022-02-05T23:47:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:49:46.000Z",
         "playersCompleted": 11,
         "playersStarted": 27,
         "playersTotal": 185,
@@ -76923,7 +76923,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:41:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -76983,7 +76983,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-02-14T06:48:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 40,
@@ -77040,10 +77040,10 @@ var data =
         "name": "Trials\u00ae Rising",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/641080/header.jpg?t=1643122273",
         "genre": "Arcade",
-        "tier": 5,
+        "tier": 7,
         "points": 800,
         "createdAt": "2022-03-24T18:58:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:51:43.000Z",
         "playersCompleted": 6,
         "playersStarted": 44,
         "playersTotal": 265,
@@ -77104,7 +77104,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-10-24T17:28:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 44,
         "playersStarted": 0,
         "playersTotal": 340,
@@ -77149,8 +77149,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 15658,
-            "positive": 14152,
+            "total": 15660,
+            "positive": 14154,
             "negative": 1506
         }
     },
@@ -77164,7 +77164,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-13T18:00:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 36,
         "playersStarted": 0,
         "playersTotal": 213,
@@ -77209,8 +77209,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 9764,
-            "positive": 9564,
+            "total": 9766,
+            "positive": 9566,
             "negative": 200
         }
     },
@@ -77224,7 +77224,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-07-22T22:52:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -77284,7 +77284,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-09-25T21:48:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 95,
@@ -77344,10 +77344,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-04-14T03:13:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 106,
+        "updatedAt": "2025-05-24T21:45:49.000Z",
+        "playersCompleted": 107,
         "playersStarted": 0,
-        "playersTotal": 209,
+        "playersTotal": 210,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -77389,8 +77389,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 15131,
-            "positive": 13874,
+            "total": 15134,
+            "positive": 13877,
             "negative": 1257
         }
     },
@@ -77404,7 +77404,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-20T03:36:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 66,
@@ -77449,8 +77449,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6458,
-            "positive": 6133,
+            "total": 6459,
+            "positive": 6134,
             "negative": 325
         }
     },
@@ -77464,7 +77464,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-01-08T13:03:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -77524,7 +77524,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2024-01-23T14:24:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 17,
@@ -77584,7 +77584,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-09-13T22:47:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -77645,7 +77645,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-10T15:49:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 7,
         "playersTotal": 32,
@@ -77705,7 +77705,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-04-13T17:58:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -77765,7 +77765,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-06-09T18:59:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 17,
         "playersTotal": 133,
@@ -77820,10 +77820,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T18:56:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 83,
+        "playersTotal": 84,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -77880,10 +77880,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-06-01T09:51:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 81,
+        "playersTotal": 82,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -77940,7 +77940,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2024-12-17T08:51:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 78,
@@ -77985,8 +77985,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 6213,
-            "positive": 5948,
+            "total": 6217,
+            "positive": 5952,
             "negative": 265
         },
         "information": "The relevant games by category are as follows:\n\n__Arcade:__ Magic Garden, Pingolf, Paint Chaser, Bushido Ball, Planet Zoldath, Hot Foot, Onion Delivery, Campanella.\n\n__Action:__ Elfazar's Hat, Overbold, Fist Hell, Campanella 2, Cyber Owls.\n\n__Bullet Hell:__ Star Waspir, Caramel Caramel, Seaside Drive, Campanella 3.\n\n__Platformer:__ Ninpek, Waldorf's journey, Velgress, Kick Club, Rakshasa.\n\n__Strategy:__ Lords of Diskonia, Party House, Bug Hunter, Devilition."
@@ -78001,7 +78001,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-11-10T05:14:13.000Z",
-        "updatedAt": "2025-05-19T11:36:47.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 8,
         "playersTotal": 23,
@@ -78061,10 +78061,10 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2024-09-08T22:04:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 113,
+        "playersTotal": 114,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -78106,8 +78106,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 15678,
-            "positive": 14141,
+            "total": 15679,
+            "positive": 14142,
             "negative": 1537
         },
         "information": "Only the regular trial menu will award the \"Trial Athlete\" achievement, do not complete the non-DLC trials on the Ultra Trial menu."
@@ -78122,7 +78122,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-05-06T14:41:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -78183,7 +78183,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-03-20T09:48:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 158,
@@ -78243,7 +78243,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2023-03-23T09:53:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -78303,7 +78303,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T09:31:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 147,
@@ -78363,7 +78363,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T20:23:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 197,
@@ -78423,7 +78423,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-09T15:48:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -78483,7 +78483,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-25T20:19:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 455,
@@ -78528,8 +78528,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 18643,
-            "positive": 17405,
+            "total": 18644,
+            "positive": 17406,
             "negative": 1238
         }
     },
@@ -78543,7 +78543,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-26T23:52:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 148,
@@ -78588,8 +78588,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5023,
-            "positive": 4544,
+            "total": 5024,
+            "positive": 4545,
             "negative": 479
         }
     },
@@ -78603,7 +78603,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-12-02T02:30:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 206,
@@ -78648,9 +78648,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 7533,
-            "positive": 5975,
-            "negative": 1558
+            "total": 7536,
+            "positive": 5977,
+            "negative": 1559
         }
     },
     {
@@ -78663,7 +78663,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-10-19T00:56:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 88,
@@ -78708,8 +78708,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1893,
-            "positive": 1761,
+            "total": 1894,
+            "positive": 1762,
             "negative": 132
         }
     },
@@ -78723,7 +78723,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-19T20:15:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 60,
         "playersStarted": 0,
         "playersTotal": 205,
@@ -78768,8 +78768,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 22041,
-            "positive": 21122,
+            "total": 22047,
+            "positive": 21128,
             "negative": 919
         }
     },
@@ -78783,7 +78783,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:19:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 84,
@@ -78843,7 +78843,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-28T19:58:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 68,
@@ -78903,7 +78903,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-07T17:37:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -78963,7 +78963,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-19T02:41:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -79023,7 +79023,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-11T03:03:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 39,
@@ -79083,7 +79083,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-01-17T22:24:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 127,
@@ -79143,7 +79143,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:32:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 294,
@@ -79203,7 +79203,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-31T07:23:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 36,
@@ -79248,8 +79248,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 354,
-            "positive": 327,
+            "total": 355,
+            "positive": 328,
             "negative": 27
         }
     },
@@ -79263,7 +79263,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-01T19:45:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 184,
@@ -79308,9 +79308,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 21972,
-            "positive": 16986,
-            "negative": 4986
+            "total": 21975,
+            "positive": 16990,
+            "negative": 4985
         }
     },
     {
@@ -79323,7 +79323,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:34:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 24,
         "playersTotal": 202,
@@ -79368,9 +79368,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 7176,
-            "positive": 6415,
-            "negative": 761
+            "total": 7180,
+            "positive": 6418,
+            "negative": 762
         }
     },
     {
@@ -79383,7 +79383,7 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2022-10-05T00:26:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 5,
         "playersTotal": 73,
@@ -79421,7 +79421,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Challenge Coin Expansion Pack [20\u2605]\nComplete all other Challenge Coins on I+30 Difficulty.\n\nChallenge Coin Enthusiast[80\u2605  (Partial: 30\u2605)]\nComplete all Challenge Coins on I+30 Difficulty.\n\nMaximum Instability [30\u2605]\nComplete an Impossible+ run with Instability 50 or greater.",
+            "primaryText": "Challenge Coin Expansion Pack [20\u2605]\nComplete all other Challenge Coins on I+30 Difficulty.\n\nChallenge Coin Enthusiast[80\u2605 (Partial: 30\u2605)]\nComplete all Challenge Coins on I+30 Difficulty.\n\nMaximum Instability [30\u2605]\nComplete an Impossible+ run with Instability 50 or greater.",
             "community": 1,
             "communityText": "Fill the Void\nClear Instability+50 as every class, without using challenge coins.",
             "achievements": 237
@@ -79443,7 +79443,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-18T23:33:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -79503,10 +79503,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-06-09T19:45:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 52,
         "playersStarted": 0,
-        "playersTotal": 136,
+        "playersTotal": 137,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -79563,7 +79563,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T09:55:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 190,
@@ -79623,7 +79623,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-02-05T04:46:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 52,
@@ -79683,7 +79683,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-14T23:59:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 130,
@@ -79743,7 +79743,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2020-01-28T07:36:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 48,
         "playersStarted": 19,
         "playersTotal": 380,
@@ -79803,7 +79803,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-04-08T10:20:22.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -79863,7 +79863,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2024-04-13T21:08:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 7,
         "playersTotal": 58,
@@ -79923,7 +79923,7 @@ var data =
         "tier": 1,
         "points": 18,
         "createdAt": "2024-06-26T00:44:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 18,
@@ -79961,7 +79961,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "VIVIDVARIABLE [15\u2605]\nAchieve S Ranks in all Story Mode Stages.\n\nVIVIDVALOR (UNCLEARED)[1\u2605  (Partial: 1\u2605)]\nClear an Endless Mode Loop with Cerise & Ecru.\n\nVIVIDVANDAL (UNCLEARED)[1\u2605  (Partial: 1\u2605)]\nWin a Gauntlet in the Highest Score Bracket / without getting Knocked Out with Cerise & Ecru.\n\nVIVIDVANITY (UNCLEARED)[1\u2605  (Partial: 1\u2605)]\nAchieve V Ranks in all Story Mode Stages with Cerise & Ecru.",
+            "primaryText": "VIVIDVARIABLE [15\u2605]\nAchieve S Ranks in all Story Mode Stages.\n\nVIVIDVALOR (UNCLEARED)[1\u2605 (Partial: 1\u2605)]\nClear an Endless Mode Loop with Cerise & Ecru.\n\nVIVIDVANDAL (UNCLEARED)[1\u2605 (Partial: 1\u2605)]\nWin a Gauntlet in the Highest Score Bracket / without getting Knocked Out with Cerise & Ecru.\n\nVIVIDVANITY (UNCLEARED)[1\u2605 (Partial: 1\u2605)]\nAchieve V Ranks in all Story Mode Stages with Cerise & Ecru.",
             "community": 2,
             "communityText": "VIVIDVAINGLORY\nClear 2 Endless Mode Loops, in 1 run, starting from 1-1, with Cerise & Ecru\n\nVIVIDVALKYRIE\nWin a Gauntlet with All V Ranks with Cerise & Ecru",
             "achievements": 32
@@ -79983,7 +79983,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-23T04:12:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 34,
         "playersStarted": 7,
         "playersTotal": 112,
@@ -80043,7 +80043,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2024-03-08T04:06:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 80,
@@ -80088,8 +80088,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2281,
-            "positive": 2066,
+            "total": 2284,
+            "positive": 2069,
             "negative": 215
         },
         "information": "Please note that while the challenge is easily accessible from the start, Void Stranger is best experienced blind - playing the game for extrinsic reasons runs the risk of tainting your experience with it."
@@ -80104,7 +80104,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-07-14T23:40:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 8,
         "playersTotal": 227,
@@ -80149,8 +80149,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4272,
-            "positive": 4125,
+            "total": 4273,
+            "positive": 4126,
             "negative": 147
         },
         "information": "Game has been valued in the context of the most powerful build. The build is:\n1. take back shield starting item\n2. carry any large melee weapon (including starting weapon like bomb rod)\n3. try to take any and all stomp or button items\n\nThen spam jump and hold block whenever in combat for the rest of the game, try to always be bouncing on enemies or buttons if possible. \n\nVery nice to have but not necessary: Protectus Gem, Movement speed items. "
@@ -80165,7 +80165,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:32:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 199,
@@ -80225,7 +80225,7 @@ var data =
         "tier": 4,
         "points": 115,
         "createdAt": "2024-03-24T01:18:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 8,
@@ -80286,7 +80286,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2022-10-11T23:50:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 36,
@@ -80346,7 +80346,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:32:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 58,
         "playersStarted": 94,
         "playersTotal": 1022,
@@ -80384,15 +80384,15 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "UniVVVVVVersal Captain[80\u2605  (Partial: 20\u2605)]\nComplete the game in No Death Mode.\n\nUniVVVVVVersal Cadet [20\u2605]\nSurvive for one minute in the Super Gravitron. / Obtain a V Rank in all Time Trials.",
+            "primaryText": "UniVVVVVVersal Captain[80\u2605 (Partial: 20\u2605)]\nComplete the game in No Death Mode.\n\nUniVVVVVVersal Cadet [20\u2605]\nSurvive for one minute in the Super Gravitron. / Obtain a V Rank in all Time Trials.",
             "community": 3,
             "communityText": "UniVVVVVVersal Conqueror\nComplete the game in No Death Mode with all 20 trinkets.\n\nMetaVVVVVVersal Vanquisher\nComplete all maps featured on Terry's blog with all trinkets.\n\nMultiVVVVVVersal Commander\nComplete all built-in user levels with all trinkets.",
             "achievements": 19
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 10084,
-            "positive": 9707,
+            "total": 10085,
+            "positive": 9708,
             "negative": 377
         }
     },
@@ -80406,7 +80406,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-05-05T00:17:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -80466,7 +80466,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-18T22:05:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -80526,7 +80526,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-27T20:35:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -80586,10 +80586,10 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2024-10-29T04:12:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 100,
+        "playersTotal": 101,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -80631,9 +80631,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 111973,
-            "positive": 79405,
-            "negative": 32568
+            "total": 112056,
+            "positive": 79465,
+            "negative": 32591
         }
     },
     {
@@ -80646,10 +80646,10 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2024-10-14T14:53:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
-        "playersTotal": 372,
+        "playersTotal": 373,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -80691,9 +80691,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 133250,
-            "positive": 113097,
-            "negative": 20153
+            "total": 133288,
+            "positive": 113128,
+            "negative": 20160
         }
     },
     {
@@ -80706,7 +80706,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-11-10T05:18:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 5,
         "playersTotal": 31,
@@ -80766,7 +80766,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T10:01:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 270,
@@ -80826,7 +80826,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:17:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 83,
@@ -80886,7 +80886,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-05T14:36:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 22,
@@ -80946,7 +80946,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-04T08:15:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -81006,10 +81006,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-12-22T20:58:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 92,
+        "playersTotal": 93,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -81051,8 +81051,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2104,
-            "positive": 2008,
+            "total": 2105,
+            "positive": 2009,
             "negative": 96
         }
     },
@@ -81066,7 +81066,7 @@ var data =
         "tier": 4,
         "points": 185,
         "createdAt": "2023-07-16T20:24:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 9,
         "playersTotal": 71,
@@ -81126,7 +81126,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-04-11T01:10:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 49,
@@ -81186,7 +81186,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-04-11T01:11:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -81231,9 +81231,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3170,
-            "positive": 2691,
-            "negative": 479
+            "total": 3172,
+            "positive": 2692,
+            "negative": 480
         }
     },
     {
@@ -81246,7 +81246,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-19T00:43:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -81306,7 +81306,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-04T02:03:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -81366,7 +81366,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-18T03:01:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -81426,7 +81426,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2025-02-26T08:30:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -81486,7 +81486,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-12T03:38:12.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -81546,7 +81546,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-05-26T01:38:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 7,
         "playersTotal": 41,
@@ -81607,7 +81607,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-03-17T00:17:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 23,
         "playersStarted": 2,
         "playersTotal": 158,
@@ -81652,8 +81652,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2726,
-            "positive": 2653,
+            "total": 2727,
+            "positive": 2654,
             "negative": 73
         }
     },
@@ -81667,7 +81667,7 @@ var data =
         "tier": 4,
         "points": 145,
         "createdAt": "2020-01-28T09:25:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 33,
         "playersTotal": 291,
@@ -81727,7 +81727,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-09-13T17:43:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 30,
@@ -81787,7 +81787,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-03-21T05:20:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 61,
@@ -81848,7 +81848,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-04-15T13:47:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 4,
         "playersTotal": 63,
@@ -81908,7 +81908,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-09T10:30:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -81968,7 +81968,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:34:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 36,
@@ -82028,7 +82028,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:21:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 81,
         "playersStarted": 0,
         "playersTotal": 520,
@@ -82073,8 +82073,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 20494,
-            "positive": 18610,
+            "total": 20495,
+            "positive": 18611,
             "negative": 1884
         }
     },
@@ -82088,7 +82088,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2020-01-28T08:12:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 22,
         "playersStarted": 4,
         "playersTotal": 268,
@@ -82133,8 +82133,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 44378,
-            "positive": 35978,
+            "total": 44392,
+            "positive": 35992,
             "negative": 8400
         }
     },
@@ -82148,7 +82148,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-10-02T14:32:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 32,
@@ -82208,7 +82208,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-02-26T08:37:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -82268,7 +82268,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-18T05:40:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 37,
         "playersStarted": 0,
         "playersTotal": 310,
@@ -82313,9 +82313,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 6134,
+            "total": 6135,
             "positive": 5790,
-            "negative": 344
+            "negative": 345
         }
     },
     {
@@ -82328,7 +82328,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-04T21:19:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -82388,7 +82388,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2022-08-20T20:06:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 5,
         "playersTotal": 48,
@@ -82448,7 +82448,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T08:10:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 94,
@@ -82509,7 +82509,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-25T20:01:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 6,
         "playersTotal": 35,
@@ -82569,7 +82569,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-08T18:12:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 96,
@@ -82629,7 +82629,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:35:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 297,
@@ -82674,8 +82674,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5735,
-            "positive": 5417,
+            "total": 5734,
+            "positive": 5416,
             "negative": 318
         }
     },
@@ -82689,7 +82689,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-09T14:11:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -82749,40 +82749,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-20T20:39:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 374,
-                "discountPercent": 25
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 499,
-                "final": 374,
-                "discountPercent": 25
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 429,
-                "final": 321,
-                "discountPercent": 25
+                "final": 429,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 58000,
-                "final": 43500,
-                "discountPercent": 25
+                "final": 58000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 750,
-                "final": 562,
-                "discountPercent": 25
+                "final": 750,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 649,
-                "final": 486,
-                "discountPercent": 25
+                "final": 649,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -82809,7 +82809,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-07-26T16:58:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 414,
@@ -82854,9 +82854,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 56347,
-            "positive": 52659,
-            "negative": 3688
+            "total": 56353,
+            "positive": 52663,
+            "negative": 3690
         }
     },
     {
@@ -82869,7 +82869,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-07-25T16:16:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 8,
         "playersTotal": 426,
@@ -82907,15 +82907,15 @@ var data =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Immortal Commander[35\u2605  (Partial: 10\u2605)]\nProve yourself.\n\nFirst-Rate Fighter [10\u2605]\nEarn a gold medal on every campaign mission in the DLC.",
+            "primaryText": "Immortal Commander[35\u2605 (Partial: 10\u2605)]\nProve yourself.\n\nFirst-Rate Fighter [10\u2605]\nEarn a gold medal on every campaign mission in the DLC.",
             "community": 0,
             "communityText": "",
             "achievements": 88
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 101449,
-            "positive": 85950,
+            "total": 101463,
+            "positive": 85964,
             "negative": 15499
         }
     },
@@ -82929,7 +82929,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2023-01-23T15:32:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 18,
@@ -82989,7 +82989,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-06-09T18:39:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 8,
         "playersTotal": 81,
@@ -83049,7 +83049,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-02-09T12:20:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 143,
@@ -83094,8 +83094,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 73333,
-            "positive": 70150,
+            "total": 73341,
+            "positive": 70158,
             "negative": 3183
         }
     },
@@ -83109,7 +83109,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-01-15T08:33:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 3,
         "playersTotal": 67,
@@ -83169,7 +83169,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-06-21T22:04:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 3,
         "playersTotal": 40,
@@ -83229,7 +83229,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2025-05-22T03:05:50.000Z",
-        "updatedAt": "2025-05-22T10:24:41.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 4,
@@ -83289,7 +83289,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-11-22T05:21:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 67,
@@ -83349,7 +83349,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-01-28T09:10:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 25,
         "playersStarted": 38,
         "playersTotal": 372,
@@ -83409,7 +83409,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:48:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -83469,7 +83469,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-10-13T06:36:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 20,
@@ -83529,10 +83529,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-24T06:06:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
-        "playersTotal": 157,
+        "playersTotal": 158,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -83574,8 +83574,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 705,
-            "positive": 605,
+            "total": 706,
+            "positive": 606,
             "negative": 100
         }
     },
@@ -83589,7 +83589,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-05-07T23:33:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 55,
@@ -83649,7 +83649,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-01-12T07:03:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 3,
         "playersTotal": 27,
@@ -83709,7 +83709,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-25T19:48:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 46,
         "playersStarted": 0,
         "playersTotal": 147,
@@ -83754,8 +83754,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2730,
-            "positive": 2431,
+            "total": 2731,
+            "positive": 2432,
             "negative": 299
         }
     },
@@ -83769,7 +83769,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-25T20:11:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 146,
@@ -83829,7 +83829,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T08:42:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 191,
@@ -83889,7 +83889,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-22T19:11:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 83,
@@ -83949,7 +83949,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T15:34:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 79,
@@ -84009,7 +84009,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2020-01-28T08:40:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 144,
@@ -84054,8 +84054,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1942,
-            "positive": 1828,
+            "total": 1941,
+            "positive": 1827,
             "negative": 114
         }
     },
@@ -84069,7 +84069,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-08T20:54:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -84130,7 +84130,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-10-09T20:54:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 3,
         "playersTotal": 20,
@@ -84190,7 +84190,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-07-08T22:22:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 133,
@@ -84235,8 +84235,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 8414,
-            "positive": 7987,
+            "total": 8417,
+            "positive": 7990,
             "negative": 427
         }
     },
@@ -84250,7 +84250,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2024-12-07T09:38:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -84310,7 +84310,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2025-01-09T17:01:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -84370,7 +84370,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-10-13T06:47:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -84430,7 +84430,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-10T21:04:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 49,
@@ -84490,7 +84490,7 @@ var data =
         "tier": 3,
         "points": 41,
         "createdAt": "2022-12-06T06:06:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 51,
@@ -84550,7 +84550,7 @@ var data =
         "tier": 1,
         "points": 17,
         "createdAt": "2024-08-18T16:20:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T23:04:59.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 5,
@@ -84588,7 +84588,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Strained Limitations [15\u2605]\nBeat the final boss on Omega.\n\nBurden of Infinity [1\u2605]\nObtain an S+ rank on every level with every ship.\n\nZero Hour [1\u2605]\nBeat all levels with all ships.",
+            "primaryText": "Burden of Infinity (UNCLEARED) [1\u2605]\nObtain an S+ rank on every level with every ship.\n\nZero Hour (UNCLEARED) [1\u2605]\nBeat all levels with all ships.\n\nStrained Limitations [15\u2605]\nBeat the final boss on Omega.",
             "community": 0,
             "communityText": "",
             "achievements": 29
@@ -84610,10 +84610,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:48:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 49,
-        "playersTotal": 134,
+        "playersTotal": 135,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -84670,7 +84670,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-10-15T03:55:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 223,
@@ -84730,7 +84730,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-08-04T21:34:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -84790,10 +84790,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-12-06T13:56:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 4,
+        "playersTotal": 5,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -84850,7 +84850,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-05-14T17:35:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 62,
@@ -84910,7 +84910,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-04-01T20:05:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 25,
         "playersStarted": 6,
         "playersTotal": 208,
@@ -84970,7 +84970,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2021-07-05T21:47:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 58,
@@ -85015,9 +85015,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2281,
-            "positive": 1881,
-            "negative": 400
+            "total": 2283,
+            "positive": 1882,
+            "negative": 401
         }
     },
     {
@@ -85030,7 +85030,7 @@ var data =
         "tier": 1,
         "points": 7,
         "createdAt": "2023-11-30T20:56:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 21,
@@ -85090,7 +85090,7 @@ var data =
         "tier": 4,
         "points": 155,
         "createdAt": "2021-12-14T00:31:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 35,
@@ -85150,7 +85150,7 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2024-08-09T22:58:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 22,
@@ -85210,7 +85210,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-11-24T21:29:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -85270,7 +85270,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2025-04-14T21:39:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -85331,7 +85331,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-07-28T23:25:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -85391,7 +85391,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-14T12:26:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 120,
@@ -85436,8 +85436,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1377,
-            "positive": 1326,
+            "total": 1378,
+            "positive": 1327,
             "negative": 51
         }
     },
@@ -85451,7 +85451,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2020-01-28T08:59:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 129,
@@ -85511,7 +85511,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-28T23:25:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -85571,7 +85571,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-30T08:21:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -85631,7 +85631,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2025-02-08T17:45:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -85692,7 +85692,7 @@ var data =
         "tier": 0,
         "points": 0,
         "createdAt": "2022-11-30T16:47:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 191,
         "playersStarted": 0,
         "playersTotal": 191,
@@ -85721,7 +85721,7 @@ var data =
         "tier": 0,
         "points": 0,
         "createdAt": "2023-05-03T11:07:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 201,
         "playersStarted": 0,
         "playersTotal": 201,
@@ -85750,10 +85750,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-08T15:24:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 102,
+        "playersTotal": 103,
         "milestones": {
             "primary": 1,
             "primaryText": "Wanted: Dead or Live [10\u2605]\nProve yourself.",
@@ -85778,7 +85778,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-26T18:49:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 32,
         "playersStarted": 0,
         "playersTotal": 172,
@@ -85806,10 +85806,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-01-28T08:11:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 12,
-        "playersTotal": 201,
+        "playersTotal": 202,
         "milestones": {
             "primary": 2,
             "primaryText": "All Day Ultimate [55\u2605]\nSurpass the Diamond score in all base game levels on Ultimate.\n\nUltimate Memories [10\u2605]\nSurpass the Diamond score in all \"Memories\" expansion levels on Ultimate.",
@@ -85834,7 +85834,7 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2023-02-01T12:59:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
         "playersTotal": 108,
@@ -85863,10 +85863,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-09-07T08:59:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 93,
+        "playersTotal": 94,
         "milestones": {
             "primary": 3,
             "primaryText": "Collision Course [10\u2605]\nReach Rank 25 in Ranked Mode.\n\nFrom Push to Shove [15\u2605]\nReach the Grandmaster League in Ranked Mode.\n\nBumped Up [15\u2605]\nReach the Platinum League in Ranked Mode.",
@@ -85892,10 +85892,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-12-22T16:57:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 57,
         "playersStarted": 0,
-        "playersTotal": 157,
+        "playersTotal": 158,
         "milestones": {
             "primary": 1,
             "primaryText": "You Like Kissing Ghosts, Don't You? [5\u2605]\nBeat all levels on Hard mode.",
@@ -85905,8 +85905,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 13757,
-            "positive": 13257,
+            "total": 13779,
+            "positive": 13279,
             "negative": 500
         }
     },
@@ -85920,7 +85920,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-01-23T21:28:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 251,
@@ -85933,8 +85933,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 12024,
-            "positive": 11131,
+            "total": 12032,
+            "positive": 11139,
             "negative": 893
         },
         "information": "Contrary to the achievement description, \"Glitches Galore!\" is unlocked by beating NULL Style instead of the expected Glitch Style."
@@ -85949,10 +85949,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-06T17:48:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 69,
+        "playersTotal": 70,
         "milestones": {
             "primary": 1,
             "primaryText": "Homecoming [5\u2605]\nFinish all levels.",
@@ -85977,7 +85977,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-28T23:42:41.000Z",
-        "updatedAt": "2025-05-10T04:44:45.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 26,
         "playersTotal": 137,
@@ -86005,10 +86005,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-21T22:55:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 46,
+        "playersTotal": 47,
         "milestones": {
             "primary": 2,
             "primaryText": "Bobo Go All the Way [5\u2605]\n100% the game.\n\nBobo Go Home [5\u2605]\nBeat the game.",
@@ -86033,10 +86033,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2025-02-22T18:50:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
-        "playersTotal": 40,
+        "playersTotal": 41,
         "milestones": {
             "primary": 2,
             "primaryText": "Advance to Black [25\u2605]\nComplete all missions.\n\nHefty Weekend [5\u2605]\nPass the True Chapter.",
@@ -86046,8 +86046,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 66,
-            "positive": 63,
+            "total": 68,
+            "positive": 65,
             "negative": 3
         },
         "information": "[All missions](https://docs.google.com/spreadsheets/d/1BKIMgBRc1Ak6xEv8OfLXx2CvXZen8bpaCZzDacgd2ss/edit?usp=sharing)\n\nIt's not possible to beat all missions on your first run through.\nJust force your way through the chapters (beating \"X10\" levels gives lots of currency) and try again later when upgraded."
@@ -86062,10 +86062,10 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2022-11-28T01:59:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 8,
-        "playersTotal": 135,
+        "playersTotal": 136,
         "milestones": {
             "primary": 3,
             "primaryText": "Mad Sprint [100\u2605]\nBeat the gold time on all extreme maps.\n\nModerate Run [60\u2605]\nBeat the gold time on all hard maps.\n\nLight Jog [40\u2605]\nBeat the gold time on all easy and medium maps.",
@@ -86090,7 +86090,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-31T03:50:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 36,
         "playersStarted": 0,
         "playersTotal": 460,
@@ -86103,9 +86103,9 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 711097,
-            "positive": 417715,
-            "negative": 293382
+            "total": 711242,
+            "positive": 417809,
+            "negative": 293433
         }
     },
     {
@@ -86118,7 +86118,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-12-06T06:06:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 120,
@@ -86144,10 +86144,10 @@ var data =
         "name": "Cloudberry Kingdom",
         "header": "https://steamcdn-a.akamaihd.net/steam/apps/210870/header.jpg?t=1447355679",
         "genre": "Platformer",
-        "tier": 5,
+        "tier": 6,
         "points": 425,
         "createdAt": "2020-01-28T03:10:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:49:56.000Z",
         "playersCompleted": 11,
         "playersStarted": 13,
         "playersTotal": 137,
@@ -86176,7 +86176,7 @@ var data =
         "tier": 0,
         "points": 0,
         "createdAt": "2022-07-23T23:19:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 74,
         "playersStarted": 0,
         "playersTotal": 74,
@@ -86204,7 +86204,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-12-22T21:22:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 104,
@@ -86232,7 +86232,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-29T17:51:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 32,
         "playersStarted": 0,
         "playersTotal": 224,
@@ -86260,7 +86260,7 @@ var data =
         "tier": 5,
         "points": 230,
         "createdAt": "2020-03-14T13:25:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 5,
         "playersTotal": 191,
@@ -86289,7 +86289,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-04-27T01:27:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 108,
@@ -86317,10 +86317,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-25T01:22:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 80,
+        "playersTotal": 81,
         "milestones": {
             "primary": 1,
             "primaryText": "Anything for Love [5\u2605]\nProve yourself.",
@@ -86345,7 +86345,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:42:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 79,
         "playersStarted": 0,
         "playersTotal": 250,
@@ -86373,10 +86373,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-26T15:15:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 43,
+        "playersTotal": 44,
         "milestones": {
             "primary": 1,
             "primaryText": "Ai? More Like Au [10\u2605]\nEarn the Extra-Gold medal in every level.",
@@ -86401,7 +86401,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-04-08T08:40:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 96,
@@ -86429,7 +86429,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-06-14T15:07:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 150,
         "playersStarted": 0,
         "playersTotal": 600,
@@ -86442,9 +86442,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 10402,
-            "positive": 9042,
-            "negative": 1360
+            "total": 10404,
+            "positive": 9043,
+            "negative": 1361
         }
     },
     {
@@ -86457,7 +86457,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:15:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 167,
@@ -86485,7 +86485,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T22:11:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 109,
@@ -86513,7 +86513,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-12-11T01:08:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -86541,7 +86541,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-10-02T04:47:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 111,
@@ -86554,8 +86554,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 585,
-            "positive": 570,
+            "total": 587,
+            "positive": 572,
             "negative": 15
         }
     },
@@ -86569,10 +86569,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-03T17:37:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 34,
+        "playersTotal": 35,
         "milestones": {
             "primary": 1,
             "primaryText": "Rock Bottom [10\u2605]\nDefeat Abby.",
@@ -86597,7 +86597,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-02T10:11:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 261,
@@ -86610,8 +86610,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 3357,
-            "positive": 2802,
+            "total": 3358,
+            "positive": 2803,
             "negative": 555
         }
     },
@@ -86625,7 +86625,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-19T13:12:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 140,
@@ -86653,10 +86653,10 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2024-08-01T03:53:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 2,
-        "playersTotal": 86,
+        "playersTotal": 87,
         "milestones": {
             "primary": 3,
             "primaryText": "eXceeded [70\u2605]\nGet a 1CC on EXCEED difficulty, including the extra stage.\n\nThe Undead Lord [10\u2605]\nGet a 1CC on Normal difficulty or higher, including the extra stage.\n\nSurviving the Tournament [5\u2605]\nGet a 1CC on Normal difficulty or higher.",
@@ -86682,7 +86682,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-02-23T17:17:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 100,
@@ -86710,7 +86710,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-02T03:53:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 92,
         "playersStarted": 0,
         "playersTotal": 215,
@@ -86738,7 +86738,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:36:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 230,
@@ -86766,7 +86766,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-14T01:59:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 174,
@@ -86779,8 +86779,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 357,
-            "positive": 332,
+            "total": 358,
+            "positive": 333,
             "negative": 25
         }
     },
@@ -86794,7 +86794,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-08-20T20:02:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 8,
         "playersTotal": 144,
@@ -86822,13 +86822,13 @@ var data =
         "tier": 5,
         "points": 260,
         "createdAt": "2022-02-28T01:41:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 7,
         "playersTotal": 137,
         "milestones": {
             "primary": 4,
-            "primaryText": "Super Nova [150\u2605]\nDefeat Elixier Daath in Demonic Mode.\n\nSolaris [60\u2605]\nComplete all relevant Play Orders.\n\nBlack Hole[30\u2605  (Partial: 20\u2605)]\nReach Zone X in Ain Soph Aur mode and defeat Lotus Blacker.\n\nAndromeda [20\u2605]\nComplete Mission Mode and Matrix Orders Mode.",
+            "primaryText": "Super Nova [150\u2605]\nDefeat Elixier Daath in Demonic Mode.\n\nSolaris [60\u2605]\nComplete all relevant Play Orders.\n\nBlack Hole[30\u2605 (Partial: 20\u2605)]\nReach Zone X in Ain Soph Aur mode and defeat Lotus Blacker.\n\nAndromeda [20\u2605]\nComplete Mission Mode and Matrix Orders Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 33
@@ -86851,10 +86851,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-09T18:46:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 53,
+        "playersTotal": 54,
         "milestones": {
             "primary": 1,
             "primaryText": "Quality is the Least of Your Concerns [5\u2605]\nBeat the game.",
@@ -86879,7 +86879,7 @@ var data =
         "tier": 4,
         "points": 145,
         "createdAt": "2022-06-27T02:28:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 12,
         "playersTotal": 121,
@@ -86908,10 +86908,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-25T16:32:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 58,
         "playersStarted": 0,
-        "playersTotal": 454,
+        "playersTotal": 455,
         "milestones": {
             "primary": 1,
             "primaryText": "I Wanna be the Challenge Enthusiast [5\u2605]\nSeparately; 100% the campaign and defeat the final boss without getting hit.",
@@ -86921,8 +86921,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4822,
-            "positive": 4581,
+            "total": 4824,
+            "positive": 4583,
             "negative": 241
         },
         "information": "The game is valued assuming you play offline for the final boss. This limits the pool of possible levels to only those included in the installation of the game."
@@ -86937,7 +86937,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-06-01T23:22:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 35,
@@ -86965,10 +86965,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-18T01:25:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 61,
+        "playersTotal": 62,
         "milestones": {
             "primary": 1,
             "primaryText": "Unsheathe [5\u2605]\nReach 700 score.",
@@ -86993,7 +86993,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2021-10-04T04:52:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 283,
@@ -87021,7 +87021,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T18:44:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 11,
         "playersTotal": 211,
@@ -87046,16 +87046,16 @@ var data =
         "name": "Kreedz Climbing",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/626680/header.jpg?t=1581904648",
         "genre": "First-Person",
-        "tier": 5,
+        "tier": 6,
         "points": 721,
         "createdAt": "2022-02-18T00:44:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:51:37.000Z",
         "playersCompleted": 0,
         "playersStarted": 57,
         "playersTotal": 364,
         "milestones": {
             "primary": 10,
-            "primaryText": "Kreedz Climber (UNCLEARED) [1\u2605]\nGet the zero checkpoint medal on the hardest Kreedz maps.\n\nMovement Overclocker [120\u2605]\nGet the zero checkpoint medal on a subset of hard Kreedz maps.\n\nLongjumper [80\u2605]\nComplete all Longjump maps.\n\nSpring in your Step [150\u2605]\nComplete all advanced KZ and BHOP maps. Check proof requirements for more information.\n\nMovement Perfectionist [130\u2605]\nBeat \"kz_afterdark\" and the hard course on \"kz_cloudwalker\" separately without using checkpoints.\n\nMovement Amateur [100\u2605]\nObtain all Climbing map achievements except \"Absolute Lunacy!\" and \"Nocturnal Conquerer\".\n\nShred the Gnar [80\u2605]\nComplete all advanced Surf maps.\n\nBoarding School[50\u2605  (Partial: 10\u2605)]\nObtain all Surf map achievements.\n\nPowerjump Pumper [5\u2605]\nComplete \"kz_powerjump\" and \"kz_powerjump[truthseeker]\".\n\nBungee Boss [5\u2605]\nObtain all Bungee map achievements.",
+            "primaryText": "Kreedz Climber (UNCLEARED) [1\u2605]\nGet the zero checkpoint medal on the hardest Kreedz maps.\n\nMovement Overclocker [120\u2605]\nGet the zero checkpoint medal on a subset of hard Kreedz maps.\n\nLongjumper [80\u2605]\nComplete all Longjump maps.\n\nSpring in your Step [150\u2605]\nComplete all advanced KZ and BHOP maps. Check proof requirements for more information.\n\nMovement Perfectionist [130\u2605]\nBeat \"kz_afterdark\" and the hard course on \"kz_cloudwalker\" separately without using checkpoints.\n\nMovement Amateur [100\u2605]\nObtain all Climbing map achievements except \"Absolute Lunacy!\" and \"Nocturnal Conquerer\".\n\nShred the Gnar [80\u2605]\nComplete all advanced Surf maps.\n\nBoarding School[50\u2605 (Partial: 10\u2605)]\nObtain all Surf map achievements.\n\nPowerjump Pumper [5\u2605]\nComplete \"kz_powerjump\" and \"kz_powerjump[truthseeker]\".\n\nBungee Boss [5\u2605]\nObtain all Bungee map achievements.",
             "community": 3,
             "communityText": "Fleet-Footed\nClear \"kz_bhop_dydbhop\" in Normal Mode.\n\nLess is More\nClear \"kz_bhop_minimalism\" without the use of checkpoints.\n\nThe Silver Surfer\nClear \"kz_surf_lt_omnific\".",
             "achievements": 40
@@ -87078,7 +87078,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-04T15:54:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 1,
         "playersTotal": 132,
@@ -87106,7 +87106,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-16T23:07:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 143,
@@ -87134,7 +87134,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-05-25T21:21:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 97,
         "playersStarted": 0,
         "playersTotal": 491,
@@ -87162,10 +87162,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2024-03-28T21:15:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 81,
+        "playersTotal": 82,
         "milestones": {
             "primary": 1,
             "primaryText": "Master of the Cave [50\u2605]\nComplete all Challenges.",
@@ -87190,10 +87190,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-06-18T17:22:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 16,
-        "playersTotal": 600,
+        "playersTotal": 601,
         "milestones": {
             "primary": 2,
             "primaryText": "What the Actual Muck? [10\u2605]\nSeparately, beat the game with all players using only a rock as their weapon and tool, and without picking up any power-ups (any difficulty). / Beat the game alone without taking damage on at least \u201cNormal\u201d difficulty. \n\nSwift Escape [5\u2605]\nBeat the game in less than 10 days on \"Gamer\" difficulty. / Beat the game in less than 8 days (any difficulty). ",
@@ -87203,9 +87203,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 175419,
-            "positive": 164216,
-            "negative": 11203
+            "total": 175447,
+            "positive": 164233,
+            "negative": 11214
         }
     },
     {
@@ -87218,7 +87218,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2024-09-07T20:11:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -87246,10 +87246,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-12T16:38:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
-        "playersTotal": 159,
+        "playersTotal": 160,
         "milestones": {
             "primary": 1,
             "primaryText": "We Have Geometry Dash at Home [5\u2605]\nComplete all levels quickly, without dying, and with all collectibles.",
@@ -87274,7 +87274,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:04:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 74,
         "playersStarted": 0,
         "playersTotal": 282,
@@ -87287,8 +87287,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2482,
-            "positive": 2239,
+            "total": 2481,
+            "positive": 2238,
             "negative": 243
         }
     },
@@ -87302,7 +87302,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-29T19:52:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 361,
@@ -87315,8 +87315,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1908,
-            "positive": 1645,
+            "total": 1910,
+            "positive": 1647,
             "negative": 263
         },
         "information": "Delisted from Steam."
@@ -87331,10 +87331,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-12-21T08:37:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 132,
+        "playersTotal": 133,
         "milestones": {
             "primary": 1,
             "primaryText": "Can We Get Cable? [5\u2605]\nComplete all continents with high frequencies.",
@@ -87344,9 +87344,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5438,
+            "total": 5437,
             "positive": 5143,
-            "negative": 295
+            "negative": 294
         }
     },
     {
@@ -87359,7 +87359,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-02-28T23:50:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 199,
@@ -87372,8 +87372,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 1733,
-            "positive": 1576,
+            "total": 1734,
+            "positive": 1577,
             "negative": 157
         }
     },
@@ -87387,7 +87387,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:14:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
         "playersTotal": 218,
@@ -87415,7 +87415,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-22T20:14:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 159,
@@ -87443,7 +87443,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-12T17:36:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 62,
         "playersStarted": 0,
         "playersTotal": 304,
@@ -87471,7 +87471,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:33:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 42,
         "playersStarted": 7,
         "playersTotal": 341,
@@ -87499,7 +87499,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T03:59:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 78,
         "playersStarted": 0,
         "playersTotal": 255,
@@ -87528,13 +87528,13 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2022-04-30T14:20:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 103,
         "milestones": {
             "primary": 4,
-            "primaryText": "Ultimate OverKill[60\u2605  (Partial: 15\u2605)]\n1CC OverKill mode on \"ULTIMATE\" difficulty(changing lives/bombs is allowed).\n\nRaiden Ace [35\u2605]\n1CC OverKill Mode on \"Normal\" difficulty or higher (changing lives/bombs is allowed).\n\nArcade Legend [40\u2605]\n1CC Arcade Mode Original on \"Original\" difficulty or higher on default settings.\n\nBoss Rusher [15\u2605]\n1CC both loops on Boss Rush Mode (changing lives/bombs is allowed).",
+            "primaryText": "Ultimate OverKill[60\u2605 (Partial: 15\u2605)]\n1CC OverKill mode on \"ULTIMATE\" difficulty(changing lives/bombs is allowed).\n\nRaiden Ace [35\u2605]\n1CC OverKill Mode on \"Normal\" difficulty or higher (changing lives/bombs is allowed).\n\nArcade Legend [40\u2605]\n1CC Arcade Mode Original on \"Original\" difficulty or higher on default settings.\n\nBoss Rusher [15\u2605]\n1CC both loops on Boss Rush Mode (changing lives/bombs is allowed).",
             "community": 0,
             "communityText": "",
             "achievements": 47
@@ -87557,7 +87557,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-12-02T01:12:46.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 112,
@@ -87570,8 +87570,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3420,
-            "positive": 3284,
+            "total": 3422,
+            "positive": 3286,
             "negative": 136
         }
     },
@@ -87585,7 +87585,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:59:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 318,
@@ -87613,7 +87613,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-09-02T01:44:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 9,
         "playersTotal": 185,
@@ -87641,10 +87641,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-09T18:48:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 49,
+        "playersTotal": 50,
         "milestones": {
             "primary": 1,
             "primaryText": "Directionally Challenged [10\u2605]\nSeparately, complete all time trials and beat the game in under 1 hour.",
@@ -87669,7 +87669,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:15:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -87697,7 +87697,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2021-10-25T22:02:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 546,
@@ -87710,9 +87710,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 26191,
-            "positive": 22007,
-            "negative": 4184
+            "total": 26202,
+            "positive": 22011,
+            "negative": 4191
         },
         "information": "Runs with special/easter egg seeds are deemed as a form of seeded run, hence, their use is strictly prohibited. The list of these seeds is the following:\n\u2022 NIL\n\u2022 NO\n\u2022 d9341\n\u2022 5CP_I73\n\u2022 DONTBLINK\n\u2022 CRUNCH\n\u2022 die\n\u2022 HTAED\n\u2022 rustledjim\n\u2022 larry\n\u2022 JORGE\n\u2022 dirtymetal\n\u2022 whatpumpkin"
     },
@@ -87726,7 +87726,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-02T23:22:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 319,
@@ -87739,9 +87739,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 77773,
-            "positive": 66008,
-            "negative": 11765
+            "total": 77791,
+            "positive": 66024,
+            "negative": 11767
         }
     },
     {
@@ -87754,7 +87754,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-08-06T16:08:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
         "playersTotal": 129,
@@ -87782,10 +87782,10 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2025-04-14T03:30:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 14,
+        "playersTotal": 15,
         "milestones": {
             "primary": 2,
             "primaryText": "Sir Blind (UNCLEARED) [1\u2605]\nFinish Map 1 and Map 2 in blind mode.\n\nSir Rises [20\u2605]\nFinish the Phoenix Heart DLC in less than 15 min in normal mode, and obtain the frog / slime / gold costumes.",
@@ -87810,10 +87810,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-07-09T03:30:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 103,
+        "playersTotal": 104,
         "milestones": {
             "primary": 2,
             "primaryText": "Friends of the Forge [15\u2605]\nGet Perfection in level 15\n\nIroned Out [10\u2605]\nProve Yourself",
@@ -87823,9 +87823,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2150,
-            "positive": 1981,
-            "negative": 169
+            "total": 2152,
+            "positive": 1982,
+            "negative": 170
         }
     },
     {
@@ -87838,7 +87838,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-11-10T05:20:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 40,
         "playersTotal": 339,
@@ -87851,9 +87851,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 25217,
+            "total": 25216,
             "positive": 23594,
-            "negative": 1623
+            "negative": 1622
         }
     },
     {
@@ -87866,7 +87866,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:39:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 63,
         "playersStarted": 0,
         "playersTotal": 231,
@@ -87894,7 +87894,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-03T20:55:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 91,
         "playersStarted": 0,
         "playersTotal": 519,
@@ -87907,9 +87907,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 54859,
-            "positive": 51220,
-            "negative": 3639
+            "total": 54862,
+            "positive": 51224,
+            "negative": 3638
         }
     },
     {
@@ -87922,7 +87922,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-01-29T17:23:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 10,
@@ -87950,13 +87950,13 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-11-15T16:33:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 15,
         "playersTotal": 144,
         "milestones": {
             "primary": 3,
-            "primaryText": "Guitar Star [35\u2605]\nObtain S rank on every song in the \"More\" tab on Master difficulty.\n\nChord Strummer [5\u2605]\nObtain A rank on every song in the \"More\" tab on Master difficulty.\n\nFretboard Finesse[15\u2605  (Partial: 5\u2605)]\nObtain S rank on every song in the \"20XX\" tab on Master difficulty. *Partial points are awarded as a progress milestone.",
+            "primaryText": "Guitar Star [35\u2605]\nObtain S rank on every song in the \"More\" tab on Master difficulty.\n\nChord Strummer [5\u2605]\nObtain A rank on every song in the \"More\" tab on Master difficulty.\n\nFretboard Finesse[15\u2605 (Partial: 5\u2605)]\nObtain S rank on every song in the \"20XX\" tab on Master difficulty. *Partial points are awarded as a progress milestone.",
             "community": 0,
             "communityText": "",
             "achievements": 12
@@ -87979,7 +87979,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-01-03T21:11:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 63,
         "playersStarted": 0,
         "playersTotal": 295,
@@ -87992,9 +87992,9 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 65,
+            "total": 66,
             "positive": 62,
-            "negative": 3
+            "negative": 4
         }
     },
     {
@@ -88007,7 +88007,7 @@ var data =
         "tier": 4,
         "points": 190,
         "createdAt": "2020-02-06T03:13:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 7,
         "playersTotal": 126,
@@ -88020,8 +88020,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 284,
-            "positive": 248,
+            "total": 285,
+            "positive": 249,
             "negative": 36
         },
         "information": "Delisted from Steam."
@@ -88036,7 +88036,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-07T21:59:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 235,
@@ -88064,10 +88064,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-10T16:16:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 85,
+        "playersTotal": 86,
         "milestones": {
             "primary": 1,
             "primaryText": "Debugger [5\u2605]\nProve yourself.",
@@ -88092,10 +88092,10 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2024-02-25T03:47:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 5,
-        "playersTotal": 100,
+        "playersTotal": 101,
         "milestones": {
             "primary": 5,
             "primaryText": "Magicgazer [90\u2605]\nAchieve a Full Combo on all of the Severe difficulty stages.\n\nHarmonia [40\u2605]\nAchieve a Full Combo on all of the Mild difficulty stages.\n\nDenpandemic [20\u2605]\nAchieve a Full Combo on all of the VeryMild difficulty stages.\n\n\u4e07\u83ef\u7c60 [20\u2605]\nClear all of the Severe difficulty stages without healing.\n\nGroovy Sympathy [10\u2605]\nClear all of the Mild difficulty stages without healing.",
@@ -88121,10 +88121,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-18T16:08:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 51,
+        "playersTotal": 52,
         "milestones": {
             "primary": 1,
             "primaryText": "Techno Strike [5\u2605]\n1CC the game on Original mode and beat the extra stage.",
@@ -88149,10 +88149,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-04T08:12:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 40,
+        "playersTotal": 41,
         "milestones": {
             "primary": 1,
             "primaryText": "Techno Comeback [5\u2605]\n1CC the game on Original mode and beat the extra stage.",
@@ -88177,7 +88177,7 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2021-09-07T20:19:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
         "playersTotal": 177,
@@ -88205,13 +88205,13 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-01-24T14:17:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 65,
+        "playersTotal": 66,
         "milestones": {
             "primary": 1,
-            "primaryText": "Legendary Ninja (PARTIALLY UNCLEARED)[11\u2605  (Partial: 10\u2605)]\nBeat the game in under 4 hours without dying.",
+            "primaryText": "Legendary Ninja (PARTIALLY UNCLEARED)[11\u2605 (Partial: 10\u2605)]\nBeat the game in under 4 hours without dying.",
             "community": 0,
             "communityText": "",
             "achievements": 26
@@ -88233,10 +88233,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-12-04T20:09:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 48,
+        "playersTotal": 49,
         "milestones": {
             "primary": 1,
             "primaryText": "A Future of Lofty Dreams [15\u2605]\nClear the Extra mode. / Timeout specific spells without getting hit (bombs allowed).",
@@ -88246,8 +88246,8 @@ var data =
         },
         "reviews": {
             "description": "Mixed",
-            "total": 50,
-            "positive": 29,
+            "total": 51,
+            "positive": 30,
             "negative": 21
         }
     },
@@ -88261,7 +88261,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-08T15:27:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 117,
@@ -88289,7 +88289,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-08-23T22:25:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 239,
@@ -88317,7 +88317,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-02-09T04:23:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 11,
         "playersTotal": 126,
@@ -88345,10 +88345,10 @@ var data =
         "tier": 5,
         "points": 254,
         "createdAt": "2023-02-03T22:26:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 13,
-        "playersTotal": 412,
+        "playersTotal": 413,
         "milestones": {
             "primary": 9,
             "primaryText": "Trackmania: Race with your Friends (UNCLEARED) [1\u2605]\nObtain the author medal for tracks 18-25 in the official \"Platform Discovery\" campaign.\n\nDRVR (UNCLEARED) [1\u2605]\nObtain the gold medal for tracks 18-25 in the official \"Platform Discovery\" campaign.\n\nFour Wheel Guy [40\u2605]\nObtain the author medal on tracks 1-17, and finish tracks 18-25 in the official \"Platform Discovery\" campaign. (Ubisoft Nadeo)\n\nUrbs Digitalis (UNCLEARED) [1\u2605]\nObtain all 23 author medals on the official \"NEOCUPRA\" and \"Streamers Campaign\" tracks. (Cupra, Ubisoft Nadeo)\n\nSolstice (UNCLEARED) [1\u2605]\nObtain all 200 author medals in the official seasonal campaigns for 2023 & 2024.\n\nEquinox [120\u2605]\nObtain all 250 author medals in the official seasonal campaigns for 2020, 2021, and 2022.\n\n N. ormal Trilogy [70\u2605]\nObtain all 65 author medals from the official Snow, Rally, and Desert Discovery campaigns. (Ubisoft Nadeo)\n\nUbisoft Cinematic Universe [15\u2605]\nObtain all 15 author medals on the official Hungry Shark, AC: Mirage, Laserhawk campaigns. (Ubisoft Club)\n\nTraining V2 [5\u2605]\nObtain the author medal for the first 20 \"Weekly Shorts\".",
@@ -88358,9 +88358,9 @@ var data =
         },
         "reviews": {
             "description": "Mostly Positive",
-            "total": 15827,
-            "positive": 12209,
-            "negative": 3618
+            "total": 15840,
+            "positive": 12221,
+            "negative": 3619
         },
         "information": "<------------------------->\n**WARNING: All objectives are at a much higher risk of sudden removal/change than any other game on the site. Play at your own risk.**\n\nThe game is F2P, but all current objectives require a yearly subscription (20$ USD) in order to play normally.\n\nAll content can still technically be accessed offline without a subscription by downloading the individual track files through tmx and playing them through the editor (unedited). Using this method of play to earn any of the site listed objectives will require you to post full recorded video proof of every single track instead of the simple screenshots.\n<------------------------->\nAll official non seasonal campaign and weekly shorts content can be easily accessed by joining the \"Challenge Enthusiast\" club. Or by checking any of the following official Ubisoft/Nadeo clubs in-game.\n.Ubisoft Nadeo\n.Ubisoft Club\n.Cupra\n<------------------------->\n\"Potential\" content not currently with an objective.\n.AO8 Forever\n.Green Game Jam\n.Training Maps\n.World Cup & World Tour tracks\n.TOTD 1/1/23+\n.Redbull Faster\n.Formula E"
     },
@@ -88374,7 +88374,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-02-20T00:40:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 17,
         "playersStarted": 8,
         "playersTotal": 472,
@@ -88403,10 +88403,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-05T02:50:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 73,
+        "playersTotal": 74,
         "milestones": {
             "primary": 1,
             "primaryText": "Watchful Forager [5\u2605]\nComplete all normal and bonus levels.",
@@ -88431,7 +88431,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-09-08T21:07:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 8,
         "playersTotal": 533,
@@ -88444,8 +88444,8 @@ var data =
         },
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 58177,
-            "positive": 55305,
+            "total": 58180,
+            "positive": 55308,
             "negative": 2872
         }
     },
@@ -88459,13 +88459,13 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-01-03T14:47:59.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 119,
         "milestones": {
             "primary": 1,
-            "primaryText": "Hoover Maneuver[20\u2605  (Partial: 5\u2605)]\nGet all 42 platinum medals in the game.",
+            "primaryText": "Hoover Maneuver[20\u2605 (Partial: 5\u2605)]\nGet all 42 platinum medals in the game.",
             "community": 0,
             "communityText": "",
             "achievements": 28
@@ -88487,7 +88487,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-08-11T00:32:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -88515,10 +88515,10 @@ var data =
         "tier": 5,
         "points": 250,
         "createdAt": "2024-03-19T18:22:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 43,
-        "playersTotal": 322,
+        "playersTotal": 323,
         "milestones": {
             "primary": 10,
             "primaryText": "Ultimation [20\u2605]\nGet a V rank on Class 12.\n\nAbsolute Stasis [40\u2605]\nGet all V ranks in FINALE and ENCORE.\n\nNoitacretra [20\u2605]\nGet a V rank on Class 11.\n\nThe Innermost Cave [30\u2605]\nGet all SS ranks in FINALE and ENCORE.\n\nVividology [15\u2605]\nPass Class 12.\n\nCritical Eye [20\u2605]\nGet all S ranks in FINALE and ENCORE.\n\nNonagon [25\u2605]\nPass Class 11.\n\nElite Eight Agent [40\u2605]\nPass Class 10.\n\nSentillion [25\u2605]\nGet all S ranks on the level 11-13 songs and mod charts in MIDDLE difficulty.\n\nVivid Initiate [15\u2605]\nGet all S ranks on the level 6-8 songs and mod charts in OPENING difficulty.",
@@ -88528,8 +88528,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 2128,
-            "positive": 1989,
+            "total": 2132,
+            "positive": 1993,
             "negative": 139
         },
         "information": "Please see the spreadsheet for the tracks required for the PO (EN/JP)\n<https://docs.google.com/spreadsheets/d/1bdCzfoEi3_eJ5JkCSZu2xn4_flb0tzlLpamKB3B3pDk/edit?gid=0#gid=0>"
@@ -88544,10 +88544,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-06-10T01:14:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 75,
+        "playersTotal": 76,
         "milestones": {
             "primary": 1,
             "primaryText": "Void Conqueror [25\u2605]\nDefeat all major bosses on Hard mode and in the DLC.",
@@ -88572,10 +88572,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-07-18T02:02:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 57,
+        "playersTotal": 58,
         "milestones": {
             "primary": 2,
             "primaryText": "Death-Defying Mountaineer [35\u2605]\nBeat the game without dying.\n\nA Funny Thing Happened on the Way to Yaatra [5\u2605]\nProve yourself.",
@@ -88600,10 +88600,10 @@ var data =
         "tier": 2,
         "points": 36,
         "createdAt": "2022-12-22T04:12:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
-        "playersTotal": 93,
+        "playersTotal": 94,
         "milestones": {
             "primary": 5,
             "primaryText": "Devourer of Worlds (UNCLEARED) [1\u2605]\nComplete each world without dying.\n\nParasite Paradise [10\u2605]\nObtain the par time and par moves badges on all normal and bonus levels.\n\nSlither Hither [10\u2605]\nBeat all normal and bonus levels.\n\nWormhole [5\u2605]\nBeat the game with a total time of 2 hours or less.\n\nHost Jumper [10\u2605]\nBeat the game.",
@@ -88628,10 +88628,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-29T05:17:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 67,
+        "playersTotal": 68,
         "milestones": {
             "primary": 1,
             "primaryText": "YUBI YUBI [5\u2605]\nDefeat Darkside Korone on Hard Mode.",
@@ -88656,7 +88656,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-28T21:30:17.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 14,
         "playersTotal": 129,
@@ -88684,7 +88684,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:02:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 22,
         "playersStarted": 133,
         "playersTotal": 567,
@@ -88697,8 +88697,8 @@ var data =
         },
         "reviews": {
             "description": "Very Positive",
-            "total": 5672,
-            "positive": 5268,
+            "total": 5673,
+            "positive": 5269,
             "negative": 404
         }
     },
@@ -88712,7 +88712,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-12-01T04:39:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 175,
@@ -88740,10 +88740,10 @@ var data =
         "tier": 2,
         "points": 34,
         "createdAt": "2024-06-07T21:10:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 79,
+        "playersTotal": 80,
         "milestones": {
             "primary": 6,
             "primaryText": "Zenzizenzic [15\u2605]\nVery Hard Classic Stages - Score 10 million points, and finish the bonus levels.\n\nBiquadratic [15\u2605]\nVery Hard - Classic Stages 0 deaths; Gauntlet - Clear and 160million points.\n\nObsoletion (UNCLEARED) [1\u2605]\nVery Hard Classic Stages - 0 points\n\nFourth Power (UNCLEARED) [1\u2605]\nVery Hard Gauntlet - 0 deaths\n\nRecorde Breaker (UNCLEARED) [1\u2605]\nVery Hard Macro - Kill all bosses in under 60 seconds and score 6 million.\n\nNotational Ascendency (UNCLEARED) [1\u2605]\nVery Hard Macro - Complete without dying, Complete without spending any points",
@@ -88769,10 +88769,10 @@ var data =
         "tier": 1,
         "points": 12,
         "createdAt": "2024-01-21T16:43:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
-        "playersTotal": 110,
+        "playersTotal": 111,
         "milestones": {
             "primary": 3,
             "primaryText": "Scion of the Black Forest [10\u2605]\nSeparately; Clear Hard VII and Complete Nightmare with 3 moves.\n\nDignitary of the Night Fall (UNCLEARED) [1\u2605]\nComplete Hard VII with all characters.\n\nLunar Eclipse (UNCLEARED) [1\u2605]\nClear difficulty 10 without losing HP.",
@@ -88797,7 +88797,7 @@ var data =
         "tier": 4,
         "points": 115,
         "createdAt": "2023-05-10T17:20:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 10,
         "playersTotal": 141,
@@ -88825,7 +88825,7 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2023-03-23T16:40:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 5,
         "playersTotal": 132,
@@ -88854,7 +88854,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-13T22:05:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -88876,7 +88876,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-08T20:34:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -88899,7 +88899,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-10T09:28:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -88921,7 +88921,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-11T18:05:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -88943,7 +88943,7 @@ var data =
         "tier": 5,
         "points": 210,
         "createdAt": "2024-08-26T14:12:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 8,
@@ -88966,7 +88966,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-08T20:30:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -88988,7 +88988,7 @@ var data =
         "tier": 1,
         "points": 7,
         "createdAt": "2024-07-18T04:31:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -89010,7 +89010,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-20T17:51:48.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -89032,7 +89032,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-21T20:57:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -89054,7 +89054,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-09-07T17:41:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -89076,7 +89076,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-24T20:03:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -89098,7 +89098,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-10-15T16:47:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 1,
@@ -89120,7 +89120,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-30T01:43:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -89142,7 +89142,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-29T04:06:06.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -89164,7 +89164,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-25T02:42:00.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -89186,7 +89186,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2024-05-31T20:33:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -89208,7 +89208,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-06-08T22:02:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 8,
@@ -89230,7 +89230,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-05-08T20:43:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 3,
@@ -89252,7 +89252,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-23T17:33:38.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -89274,7 +89274,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-18T21:43:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -89296,7 +89296,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2025-04-15T04:45:01.000Z",
-        "updatedAt": "2025-05-15T22:56:46.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 4,
@@ -89319,7 +89319,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T18:21:29.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -89342,7 +89342,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-06-27T12:37:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -89364,7 +89364,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-05-08T21:00:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -89386,7 +89386,7 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2025-04-14T03:37:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 1,
@@ -89408,7 +89408,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-10-15T16:30:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -89430,7 +89430,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-09-07T21:49:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -89452,7 +89452,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-07T22:01:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -89474,7 +89474,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T20:27:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -89496,7 +89496,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-21T22:15:49.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 5,
@@ -89519,7 +89519,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-21T22:48:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -89542,7 +89542,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T21:21:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -89564,7 +89564,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-14T19:14:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -89586,7 +89586,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-19T23:31:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -89608,7 +89608,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-12-23T17:18:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -89630,7 +89630,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-06-19T23:38:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 7,
@@ -89652,7 +89652,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-07-10T21:49:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -89674,7 +89674,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-11T18:00:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -89696,7 +89696,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-09-08T21:27:08.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -89719,13 +89719,13 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-05-08T20:49:34.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T23:06:17.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 1,
         "milestones": {
             "primary": 2,
-            "primaryText": "Always Angry [10\u2605]\nComplete the game on Hard mode\n\nSmashing! (Uncleared) [1\u2605]\nEarn a Gold Medal in all Challenge Missions",
+            "primaryText": "Smashing! (UNCLEARED) [1\u2605]\nEarn a Gold Medal in all Challenge Missions\n\nAlways Angry [10\u2605]\nComplete the game on Hard mode",
             "community": 0,
             "communityText": "",
             "achievements": 72
@@ -89742,7 +89742,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-19T03:32:19.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -89764,7 +89764,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-05T00:29:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -89786,7 +89786,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-20T12:48:39.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -89808,7 +89808,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-08T21:05:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -89830,7 +89830,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-12-06T01:15:58.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -89852,7 +89852,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-16T00:44:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -89874,7 +89874,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-09T14:33:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -89896,7 +89896,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-07-20T21:04:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 10,
         "playersStarted": 1,
         "playersTotal": 19,
@@ -89919,7 +89919,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-07-21T04:59:30.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 1,
         "playersTotal": 15,
@@ -89942,7 +89942,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-07-29T14:33:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -89964,7 +89964,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-13T06:36:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 8,
@@ -89986,7 +89986,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-15T15:47:01.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -90008,7 +90008,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-15T16:15:23.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -90030,7 +90030,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-11T16:42:09.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -90052,7 +90052,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T22:19:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -90074,7 +90074,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2025-02-10T09:04:41.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 2,
@@ -90096,7 +90096,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-26T08:47:07.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -90118,7 +90118,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-08T20:52:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -90140,7 +90140,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-09T14:40:16.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -90162,7 +90162,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-15T07:51:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -90185,7 +90185,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-18T02:13:18.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -90207,7 +90207,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-04T06:59:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -90229,7 +90229,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-18T03:54:53.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -90252,7 +90252,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-07T05:05:32.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -90274,7 +90274,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-11T17:56:13.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -90296,7 +90296,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-09T15:07:14.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -90318,7 +90318,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-04T07:53:47.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -90340,7 +90340,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-21T05:31:03.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -90362,7 +90362,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-07T19:23:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -90384,7 +90384,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-08-12T16:29:35.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 17,
@@ -90407,7 +90407,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-05-10T15:42:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -90429,7 +90429,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2024-05-20T03:57:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -90451,7 +90451,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-07T19:31:40.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -90473,7 +90473,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-11-09T06:03:05.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -90495,7 +90495,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-05-08T21:09:20.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -90517,7 +90517,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2024-06-07T04:57:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -90540,7 +90540,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-07T21:27:21.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -90562,7 +90562,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-12-18T21:23:15.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -90584,7 +90584,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-28T22:55:28.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -90606,7 +90606,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-28T20:08:42.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -90628,7 +90628,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-19T08:33:57.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -90650,7 +90650,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2024-11-09T05:49:44.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -90672,7 +90672,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-10T21:12:31.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -90694,7 +90694,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-02-10T08:42:52.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -90717,13 +90717,13 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2025-01-19T08:35:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T23:02:09.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 1,
         "milestones": {
             "primary": 2,
-            "primaryText": "Maniacal [1\u2605]\nComplete all maniac combo trials.\n\nC-C-C-Combo Breaker [10\u2605]\nComplete all expert combo trials.",
+            "primaryText": "Maniacal (UNCLEARED) [1\u2605]\nComplete all maniac combo trials.\n\nC-C-C-Combo Breaker [10\u2605]\nComplete all expert combo trials.",
             "community": 0,
             "communityText": "",
             "achievements": 87
@@ -90740,7 +90740,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-24T20:43:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -90762,7 +90762,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T20:39:43.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -90784,7 +90784,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-08T20:34:56.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -90807,7 +90807,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-06-08T19:53:54.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -90829,8 +90829,8 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2024-07-30T12:59:04.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
-        "playersCompleted": 13,
+        "updatedAt": "2025-05-24T21:45:49.000Z",
+        "playersCompleted": 14,
         "playersStarted": 5,
         "playersTotal": 30,
         "milestones": {
@@ -90851,7 +90851,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-31T14:01:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -90873,7 +90873,7 @@ var data =
         "tier": 5,
         "points": 216,
         "createdAt": "2024-07-22T16:48:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
         "playersTotal": 10,
@@ -90896,7 +90896,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-05T20:12:26.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -90918,7 +90918,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-07T17:21:50.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -90940,7 +90940,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-05-09T14:24:02.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 6,
@@ -90962,7 +90962,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-16T00:32:25.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -90984,7 +90984,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-28T19:53:10.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -91006,7 +91006,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-17T23:03:36.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -91028,7 +91028,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-10-22T18:59:11.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -91050,7 +91050,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-07-29T14:12:37.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -91073,7 +91073,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-05-11T18:08:45.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -91095,7 +91095,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-18T05:15:27.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -91117,7 +91117,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-01T20:50:33.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -91139,7 +91139,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T21:15:55.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -91162,7 +91162,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-06-08T20:00:51.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -91190,13 +91190,13 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2020-08-28T17:22:24.000Z",
-        "updatedAt": "2025-05-04T15:48:50.000Z",
+        "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 15,
         "playersStarted": 9,
         "playersTotal": 298,
         "milestones": {
             "primary": 2,
-            "primaryText": "Serious Co-optitude[45\u2605  (Partial: 15\u2605)]\nObtain a gold medal on all cooperative Survival levels. / Complete a Coin-op cooperative game on Normal difficulty (or higher).\n\nSecond Sam[30\u2605  (Partial: 15\u2605)]\nComplete the game in single player on Serious difficulty. / Complete \"The Grand Cathedral\" on Serious difficulty without dying or loading. / Obtain a gold medal on all single player Survival levels.",
+            "primaryText": "Serious Co-optitude[45\u2605 (Partial: 15\u2605)]\nObtain a gold medal on all cooperative Survival levels. / Complete a Coin-op cooperative game on Normal difficulty (or higher).\n\nSecond Sam[30\u2605 (Partial: 15\u2605)]\nComplete the game in single player on Serious difficulty. / Complete \"The Grand Cathedral\" on Serious difficulty without dying or loading. / Obtain a gold medal on all single player Survival levels.",
             "community": 2,
             "communityText": "Bent on Sand\nObtain the gold medal with a time of 3:30 on \"Bend on Sand\" in single player Survival.\n\nSerious Seconds\nComplete the game in single player on Serious difficulty without dying or loading.",
             "achievements": 70
@@ -91212,11 +91212,11 @@ var data =
 ]
 var date =
 {
-    "day": 24,
+    "day": 25,
     "month": 5,
     "year": 2025,
-    "hour": 8,
-    "minute": 13,
-    "second": 56,
-    "searchTime": 1247.4044277668
+    "hour": 0,
+    "minute": 58,
+    "second": 34,
+    "searchTime": 1143.3093180656433
 }
