@@ -1361,7 +1361,7 @@
 
                 //Filter by Uncleareds and Unvalueds
                 if(useNonMultiples) {
-                    filteredData = filteredData.filter(obj => {return obj.points % 5 != 0 || obj.milestones.primaryText.toUpperCase().includes("UNCLEARED") || obj.milestones.primaryText.toUpperCase().includes("UNVALUED") || obj.milestones.communityText.toUpperCase().includes("UNCLEARED")}
+                    filteredData = filteredData.filter(obj => {return obj.points > 0 && (obj.points % 5 != 0 || obj.milestones.primaryText.toUpperCase().includes("UNCLEARED") || obj.milestones.primaryText.toUpperCase().includes("UNVALUED") || obj.milestones.communityText.toUpperCase().includes("UNCLEARED"))}
                 )}
 
                 if(useListOnly) {filteredData = filteredData.filter(obj => {return listData.includes(obj["CEId"])})}
