@@ -176,10 +176,12 @@
                                         <input type="checkbox" id="tierAll" onclick="changeTier(-1)" checked="true">All</input><br>
                                         <input type="checkbox" id="tier0" onclick="changeTier(0)">T0</input>
                                         <input type="checkbox" id="tier1" onclick="changeTier(1)">T1</input>
-                                        <input type="checkbox" id="tier2" onclick="changeTier(2)">T2</input><br>
-                                        <input type="checkbox" id="tier3" onclick="changeTier(3)">T3</input>
+                                        <input type="checkbox" id="tier2" onclick="changeTier(2)">T2</input>
+                                        <input type="checkbox" id="tier3" onclick="changeTier(3)">T3</input><br>
                                         <input type="checkbox" id="tier4" onclick="changeTier(4)">T4</input>
                                         <input type="checkbox" id="tier5" onclick="changeTier(5)">T5</input>
+                                        <input type="checkbox" id="tier6" onclick="changeTier(6)">T6</input>
+                                        <input type="checkbox" id="tier7" onclick="changeTier(7)">T7</input>
                                     </div>
                                 </td>
                                 <td id="priceFilter">
@@ -283,8 +285,9 @@
                                     <table style="border:0px; text-align: center; width:85%; margin:auto;">
                                         <tr>
                                             <td colspan="2" style="border:0px; width:25%">
-                                                <input id="pointMultiple" type="checkbox" onclick="nonMultiples()">Uncleareds/Unvalueds Only</input><br>
-                                                <sub class="subtitle">(Shows only games that have "UNCLEARED" or "UNVALUED" in their Objectives' names, as well as games with point values that aren't multiples of 5)</sub>
+                                                <input id="pointMultiple" type="checkbox" onclick="unclearedOnly()">Uncleareds Only</input><br>
+                                                <input id="pointMultiple" type="checkbox" onclick="unvaluedOnly()">Unvalueds Only</input><br>
+                                                <sub class="subtitle">(Show only games that have "UNCLEARED" and/or "UNVALUED" in their Objectives' names, as well as games with point values that aren't multiples of 5)</sub>
                                             </td>
                                             <td colspan="2" style="border:0px; width:25%">
                                                 <input  id="idToLink" type="checkbox" onchange="idToLink()">(Links) Copy Link > Copy ID</input><br>
@@ -507,11 +510,12 @@
             let filterText = "";
             let caseSensitivity = false;
             let activeGenre = [true, true, true, true, true, true]; //1:Action, 2:Arcade, 3:Bullet Hell, 4:First-Person, 5:Platformer, 6:Strategy
-            let activeTier = [true, true, true, true, true, true]; //T0-T5
+            let activeTier = [true, true, true, true, true, true, true, true]; //T0-T7
             let activePrice = 0; //0: All, 1: F2P, 2: NA, 3: Paid
             let isOnSale = false;
             let usePointsFilter = false;
-            let useNonMultiples = false;
+            let useUnclearedOnly = false;
+            let useUnvaluedOnly = false;
             let linkReplaceId = true;
             let ownerFilterType = 0;
             let usePercentage = false;
@@ -749,16 +753,18 @@
                         document.getElementById("tier3").checked = false;
                         document.getElementById("tier4").checked = false;
                         document.getElementById("tier5").checked = false;
-                        activeTier = [true, true, true, true, true, true]; //T0-T5
+                        document.getElementById("tier6").checked = false;
+                        document.getElementById("tier7").checked = false;
+                        activeTier = [true, true, true, true, true, true, true, true]; //T0-T5
                     }
                     else {document.getElementById("tierAll").checked = true;}
                 }
-                else if (tier < 6)
+                else if (tier < 8)
                 {
                     document.getElementById("tierAll").checked = false;
                     if(activeTier.every(x => x))
                     {
-                        activeTier = [false, false, false, false, false, false];
+                        activeTier = [false, false, false, false, false, false, false, false];
                         activeTier[tier] = true;
                     }
                     else
@@ -769,7 +775,7 @@
                         if(activeTier.every(x => !x))
                         {
                             document.getElementById("tierAll").checked = true;
-                            activeTier = [true, true, true, true, true, true];
+                            activeTier = [true, true, true, true, true, true, true, true];
                         }
                         else if(activeTier.every(x => x))
                         {
@@ -780,6 +786,8 @@
                             document.getElementById("tier3").checked = false;
                             document.getElementById("tier4").checked = false;
                             document.getElementById("tier5").checked = false;
+                            document.getElementById("tier6").checked = false;
+                            document.getElementById("tier7").checked = false;
                         }
                     }
                 }
@@ -815,10 +823,16 @@
             }
             function changeOwnership() {order(lastOrder)};
 
-            function nonMultiples()
+            function unclearedOnly()
             {
-                if(useNonMultiples == true) {useNonMultiples = false;}
-                else if(useNonMultiples == false) {useNonMultiples = true;}
+                if(useUnclearedOnly == true) {useUnclearedOnly = false;}
+                else if(useUnclearedOnly == false) {useUnclearedOnly = true;}
+                order(lastOrder);
+            }
+            function unvaluedOnly()
+            {
+                if(useUnvaluedOnly == true) {useUnvaluedOnly = false;}
+                else if(useUnvaluedOnly == false) {useUnvaluedOnly = true;}
                 order(lastOrder);
             }
             function idToLink()
@@ -1124,7 +1138,7 @@
                 if(!usePointsFilter)
                 {
                     //Filter by tier
-                    var filteredTier = [[],[],[],[],[],[]]; 
+                    var filteredTier = [[],[],[],[],[],[],[],[]]; 
                     for(let i = 0; i < activeTier.length; i++)
                     {
                         if(activeTier[i] == true)
@@ -1360,10 +1374,13 @@
                 else {document.getElementById("ownershipHigher").style.textDecoration = "line-through";}
 
                 //Filter by Uncleareds and Unvalueds
-                if(useNonMultiples) {
-                    filteredData = filteredData.filter(obj => {return obj.points > 0 && (obj.points % 5 != 0 || obj.milestones.primaryText.toUpperCase().includes("UNCLEARED") || obj.milestones.primaryText.toUpperCase().includes("UNVALUED") || obj.milestones.communityText.toUpperCase().includes("UNCLEARED"))}
+                if(useUnclearedOnly) {
+                    filteredData = filteredData.filter(obj => {return obj.points > 0 && ((obj.points % 5 != 0 && obj.milestones.primaryText.toUpperCase().includes("UNCLEARED")|| obj.milestones.communityText.toUpperCase().includes("UNCLEARED")) || (obj.points % 5 != 0 && !(obj.milestones.primaryText.toUpperCase().includes("UNCLEARED") || obj.milestones.communityText.toUpperCase().includes("UNCLEARED")) && !obj.milestones.primaryText.toUpperCase().includes("UNVALUED")))}
                 )}
 
+                if(useUnvaluedOnly) {
+                    filteredData = filteredData.filter(obj => {return obj.points > 0 && obj.points % 5 != 0 && obj.milestones.primaryText.toUpperCase().includes("UNVALUED")}
+                )}
                 if(useListOnly) {filteredData = filteredData.filter(obj => {return listData.includes(obj["CEId"])})}
                 
                 if(useInverseFilters)
@@ -1707,7 +1724,7 @@
                     var cellGenre = row1.insertCell(2);
                     cellGenre.rowSpan = 2;
                     var cellTier = row1.insertCell(3);
-                    if(filteredData[i]["points"] < 500) {cellTier.rowSpan = 2;}
+                    cellTier.rowSpan = 2;
                     var cellPoints = row1.insertCell(4);
                     cellPoints.rowSpan = 2;
                     var cellPrimary = row1.insertCell(5);
@@ -1743,73 +1760,20 @@
                     row2.classList.add("replace");
                     if(filteredData[i]["gameType"] != 3)
                     {
-                        if(filteredData[i]["points"] < 500)
-                        {
-                            var cellReviews = row2.insertCell(0);
-                            var cellCommunity = row2.insertCell(1);
-                            var cellPartialCompletion = row2.insertCell(2);
-                            var cellPartialPercentage = row2.insertCell(3);
-                            var cellUpdatedOn = row2.insertCell(4);
-                            var cellLinkCE = row2.insertCell(5);
-                        }
-                        else
-                        {
-                            var cellReviews = row2.insertCell(0);
-                            var cellTierExtra = row2.insertCell(1);
-                            cellTierExtra.innerHTML = "T6";
-                            cellTierExtra.style.fontWeight = "bold";
-                            if(filteredData[i]["points"] >= 1000)
-                            {
-                                cellTierExtra.innerHTML = "T7";
-                                cellTierExtra.style.backgroundColor = "#D6D6D6";
-                                cellTierExtra.style.color = "#787878";
-                            }
-                            else
-                            {
-                                cellTierExtra.style.backgroundImage = "url('T6 gradient.png')";
-                                cellTierExtra.style.backgroundSize = "100% 100%";
-                                cellTierExtra.style.color = "#00000077";
-                            }
-                            var cellCommunity = row2.insertCell(2);
-                            var cellPartialCompletion = row2.insertCell(3);
-                            var cellPartialPercentage = row2.insertCell(4);
-                            var cellUpdatedOn = row2.insertCell(5);
-                            var cellLinkCE = row2.insertCell(6);
-                        }
+                        var cellReviews = row2.insertCell(0);
+                        var cellCommunity = row2.insertCell(1);
+                        var cellPartialCompletion = row2.insertCell(2);
+                        var cellPartialPercentage = row2.insertCell(3);
+                        var cellUpdatedOn = row2.insertCell(4);
+                        var cellLinkCE = row2.insertCell(5);
                     }
                     else
                     {
-                        if(filteredData[i]["points"] < 500)
-                        {
-                            var cellCommunity = row2.insertCell(0);
-                            var cellPartialCompletion = row2.insertCell(1);
-                            var cellPartialPercentage = row2.insertCell(2);
-                            var cellUpdatedOn = row2.insertCell(3);
-                            var cellLinkCE = row2.insertCell(4);
-                        }
-                        else
-                        {
-                            var cellTierExtra = row2.insertCell(0);
-                            cellTierExtra.innerHTML = "T6";
-                            cellTierExtra.style.fontWeight = "bold";
-                            if(filteredData[i]["points"] >= 1000)
-                            {
-                                cellTierExtra.innerHTML = "T7";
-                                cellTierExtra.style.backgroundColor = "#D6D6D6";
-                                cellTierExtra.style.color = "#787878";
-                            }
-                            else
-                            {
-                                cellTierExtra.style.backgroundImage = "url('T6 gradient.png')";
-                                cellTierExtra.style.backgroundSize = "100% 100%";
-                                cellTierExtra.style.color = "#00000077";
-                            }
-                            var cellCommunity = row2.insertCell(1);
-                            var cellPartialCompletion = row2.insertCell(2);
-                            var cellPartialPercentage = row2.insertCell(3);
-                            var cellUpdatedOn = row2.insertCell(4);
-                            var cellLinkCE = row2.insertCell(5);
-                        }
+                        var cellCommunity = row2.insertCell(0);
+                        var cellPartialCompletion = row2.insertCell(1);
+                        var cellPartialPercentage = row2.insertCell(2);
+                        var cellUpdatedOn = row2.insertCell(3);
+                        var cellLinkCE = row2.insertCell(4);
                     }
 
                         cellPartialCompletion.style.backgroundColor = "#FFCC0055";
@@ -1929,8 +1893,16 @@
                             cellTier.style.backgroundColor = "#FF242488";
                             break;
                         case 5:
+                            cellTier.style.backgroundColor = "#D504E088";
+                            break;
+                        case 6:
                             cellTier.style.backgroundColor = "#00000088";
                             cellTier.style.color = "#FFFFFF";
+                            break;
+                        case 7:
+                            cellTier.style.backgroundColor = "#D6D6D6";
+                            cellTier.style.color = "#787878";
+                            cellTier.style.fontWeight = "Bold";
                             break;
 
                     }
