@@ -139,7 +139,7 @@
             </tr>
             <tr>
                 <td colspan="14">
-                    <table class="filterTitle" style="margin: auto; text-align: center; background-color: #ededed;">
+                    <table class="filterTitle" style="margin: auto; text-align: center; background-color: #e7e7e7;">
                         <tr>
                             <td colspan="8">
                                 <p id="filterActivity" style="margin: auto; padding-top: 15px; padding-bottom: 3px; font-size: 25px; font-weight: bold; text-align: center;">Filters</p>
@@ -170,31 +170,50 @@
                                     <input type="checkbox" id="genrePlatformer" onclick="changeGenre(4)">Platformer</input>
                                     <input type="checkbox" id="genreStrategy" onclick="changeGenre(5)">Strategy</input>
                                 </td>
-                                <td id="tierFilter">
-                                    <input type="radio" id="tierSelection" name="tier-point" checked="true" onclick="tierPointsFilterSwitch(false)"><b>Tier:</b></input>
-                                    <div id="tierFilterHide">
-                                        <input type="checkbox" id="tierAll" onclick="changeTier(-1)" checked="true">All</input><br>
-                                        <input type="checkbox" id="tier0" onclick="changeTier(0)">T0</input>
-                                        <input type="checkbox" id="tier1" onclick="changeTier(1)">T1</input>
-                                        <input type="checkbox" id="tier2" onclick="changeTier(2)">T2</input>
-                                        <input type="checkbox" id="tier3" onclick="changeTier(3)">T3</input><br>
-                                        <input type="checkbox" id="tier4" onclick="changeTier(4)">T4</input>
-                                        <input type="checkbox" id="tier5" onclick="changeTier(5)">T5</input>
-                                        <input type="checkbox" id="tier6" onclick="changeTier(6)">T6</input>
-                                        <input type="checkbox" id="tier7" onclick="changeTier(7)">T7</input>
-                                    </div>
+                                <td rowspan="2">
+                                    <table style="border:0px; text-align: center; margin:auto;">
+                                        <tr>
+                                            <td style="border:0px;" id="tierFilter">
+                                                <input type="radio" id="tierSelection" name="tier-point" checked="true" onclick="tierPointsFilterSwitch(false)"><b>Tier:</b></input>
+                                                <div id="tierFilterHide">
+                                                    <input type="checkbox" id="tierAll" onclick="changeTier(-1)" checked="true">All</input><br>
+                                                    <input type="checkbox" id="tier0" onclick="changeTier(0)">T0</input>
+                                                    <input type="checkbox" id="tier1" onclick="changeTier(1)">T1</input>
+                                                    <input type="checkbox" id="tier2" onclick="changeTier(2)">T2</input>
+                                                    <input type="checkbox" id="tier3" onclick="changeTier(3)">T3</input><br>
+                                                    <input type="checkbox" id="tier4" onclick="changeTier(4)">T4</input>
+                                                    <input type="checkbox" id="tier5" onclick="changeTier(5)">T5</input>
+                                                    <input type="checkbox" id="tier6" onclick="changeTier(6)">T6</input>
+                                                    <input type="checkbox" id="tier7" onclick="changeTier(7)">T7</input>
+                                                </div>
+                                                <br>
+                                                <br>
+                                                <br>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="border:0px;" id="pointsFilter">
+                                                <input type="radio" id="pointSelection" name="tier-point" onclick="tierPointsFilterSwitch(true)"><b>Points:</b></input><br>
+                                                <div id="pointsFilterHide">
+                                                    <input type="number" id="pointLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
+                                                    ≤ <b>x</b> ≤
+                                                    <input type="number" id="pointHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
                                 </td>
                                 <td id="priceFilter">
                                     <b>Cost:</b><br>
                                     <input type="radio" id="priceAll" onclick="changePrice()" name="price" value="0" checked="true">All</input><br>
                                     <input type="radio" id="pricePaid" onclick="changePrice()" name="price" value="3">Paid</input>
                                     <sub style="margin: 0px;" id="priceSale"><input type="checkbox" onclick="onSale()">Only On Sale</input></sub><br>
-                                    <input type="radio" id="priceF2P" onclick="changePrice()" name="price" value="1">Free To Play</input><br>
+                                    <input type="radio" id="priceF2P" onclick="changePrice()" name="price" value="1">Free To Play</input>
                                     <input type="radio" id="priceNA" onclick="changePrice()" name="price" value="2">N/A</input>
                                 </td>
                             </tr>
                             <tr>
-                                <td rowspan="3" colspan="3" id="userSearch">
+                                <td rowspan="2" colspan="3" id="userSearch">
                                     <b>User:</b><br>
                                     <sub class="subtitle">(Shows only games owned by a user)</sub><br>
                                     <sub class="subtitle">(Only works with users visible in the User List!)</sub><br>
@@ -211,7 +230,7 @@
                                         <p style="margin-top: 5px;" id="userSearchResults">Selected User: <b>None</b>.</p>
                                     </div>
                                 </td>
-                                <td rowspan="3" colspan="3" id="wishlistSearch">
+                                <td rowspan="2" colspan="3" id="wishlistSearch">
                                     <b>Wishlist:</b><br>
                                     <sub class="subtitle">(Shows only games in a user's Steam wishlist)</sub><br>
                                     <sub class="subtitle">(Only works with users visible in the User List!)</sub><br>
@@ -229,53 +248,123 @@
                                         <p style="margin-top: 5px;" id="wishlistSearchResults">Selected User: <b>None</b>.</p>
                                     </div>
                                 </td>
-                                <td id="pointsFilter">
-                                    <input type="radio" id="pointSelection" name="tier-point" onclick="tierPointsFilterSwitch(true)"><b>Points:</b></input><br>
-                                    <div id="pointsFilterHide">
-                                        <input type="number" id="pointLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
-                                        ≤ <b>x</b> ≤
-                                        <input type="number" id="pointHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
-                                    </div>
-                                </td>
-                                <td rowspan="2" id="currencyFilter">
-                                    <b>Currency:</b><br>
-                                    <input type="radio" id="currencyUSD" onclick="changeCurrency()" name="currency" value="USD" checked="true">USD ($)</input>
-                                    <input type="radio" id="currencyEUR" onclick="changeCurrency()" name="currency" value="EUR">EUR (€)</input><br>
-                                    <input type="radio" id="currencyGBP" onclick="changeCurrency()" name="currency" value="GBP">GBP (£)</input>
-                                    <input type="radio" id="currencyAUD" onclick="changeCurrency()" name="currency" value="AUD">AUD (A$)</input><br>
-                                    <input type="radio" id="currencyCAD" onclick="changeCurrency()" name="currency" value="CAD">CAD (C$)</input>
-                                    <input type="radio" id="currencyJPY" onclick="changeCurrency()" name="currency" value="JPY">JPY (¥)</input><br>
-                                    <sub class="subtitle">(Not all games are available to buy with all currencies!)</sub>
+                                <td id="currencyBox">
+                                    <table style="border:0px; text-align: center; margin:auto;">
+                                        <tr>
+                                            <td style="border:0px;" id="currencyFilter">
+                                                <b>Currency:</b><br>
+                                                <input type="radio" id="currencyUSD" onclick="changeCurrency()" name="currency" value="USD" checked="true">USD ($)</input>
+                                                <input type="radio" id="currencyEUR" onclick="changeCurrency()" name="currency" value="EUR">EUR (€)</input>
+                                                <input type="radio" id="currencyGBP" onclick="changeCurrency()" name="currency" value="GBP">GBP (£)</input><br>
+                                                <input type="radio" id="currencyAUD" onclick="changeCurrency()" name="currency" value="AUD">AUD (A$)</input>
+                                                <input type="radio" id="currencyCAD" onclick="changeCurrency()" name="currency" value="CAD">CAD (C$)</input>
+                                                <input type="radio" id="currencyJPY" onclick="changeCurrency()" name="currency" value="JPY">JPY (¥)</input><br>
+                                                <sub class="subtitle">(Not all games are available to buy with all currencies!)</sub><br>
+                                                <div style="margin: 5px;">
+                                                    <p style="margin: 5px;">Default Currency: <b id="currencyDefault">USD</b><br><sub class="subtitle">(This currency will be remembered next time you're on CETools!)</sub></p>
+                                                    <span class="button" style="padding: 0px 10px; border:2px solid black;" onclick="defaultCurrency()">Change&nbsp;Default&nbsp;to&nbsp;current&nbsp;Currency</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="border:0px;" id="costFilter">
+                                                <b>Price:</b><br>
+                                                <input type="number" id="costLower" min="0" max="100000" onchange onpropertychange onkeyuponpaste oninput="changeCost()"></input>
+                                                ≤ <b>x</b> ≤
+                                                <input type="number" id="costHigher" min="0" max="100000" onchange onpropertychange onkeyuponpaste oninput="changeCost()"></input>
+                                            </td>
+                                        </tr>
+                                    </table>
                                 </td>
                             </tr>
                             <tr>
-                                <td id="achievementFilter">
-                                    <b>Achievements:</b><br>
+                                <td colspan="2" id="achievementFilter">
+                                    <b>Achievement count:</b><br>
                                     <input type="number" id="achievementsLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changeAchievements()"></input>
                                     ≤ <b>x</b> ≤
                                     <input type="number" id="achievementsHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changeAchievements()"></input>
                                 </td>
                             </tr>
                             <tr>
-                                <td id="ownerFilter">
-                                    <input type="radio" id="ownerSelection" name="ownership" onclick="ownerFilterSwitch(0)" checked="true"><b>Owners:</b></input>
-                                    <input type="radio" id="completeSelection" name="ownership" onclick="ownerFilterSwitch(1)"><b>Completed:</b></input>
-                                    <input type="radio" id="unfinishedSelection" name="ownership" onclick="ownerFilterSwitch(2)"><b>Unfinished:</b></input><br>
-                                    <div id="ownerFilterHide">
-                                        <input type="radio" id="completionNumber" name="completionType" onclick="completionFilterSwitch(false)" checked="true"><b>Number</b></input>
-                                        <input type="radio" id="completionPercentage" name="completionType" onclick="completionFilterSwitch(true)"><b>Percentage</b></input><br>
-                                    </div>
-                                    <div>
-                                        <input type="number" id="ownershipLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changeOwnership()"></input>
-                                        ≤ <b>x</b> ≤
-                                        <input type="number" id="ownershipHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changeOwnership()"></input>
-                                    </div>
+                                <td colspan="5" id="reviewBox">
+                                    <table style="border:0px; text-align: center; width:85%; margin:auto;">
+                                        <tr>
+                                            <td style="border:0px; width:50%;" id="ratingPercentageFilter">
+                                                <b>Rating Percentage:</b><br>
+                                                <div>
+                                                    <input style="width:75px;" type="number" id="ratingPercentageLower" min="0" max="100" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                    ≤ <b>x</b> ≤
+                                                    <input style="width:75px;" type="number" id="ratingPercentageHigher" min="0" max="100" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                </div>
+                                            </td>
+                                            <td style="border:0px; width:50%;" id="ratingTotalFilter">
+                                                <b>Total Reviews:</b><br>
+                                                <div>
+                                                    <input style="width:75px;" type="number" id="ratingTotalLower" min="0" max="100000000" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                    ≤ <b>x</b> ≤
+                                                    <input style="width:75px;" type="number" id="ratingTotalHigher" min="0" max="100000000" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="border:0px; width:50%;" id="ratingPositiveFilter">
+                                                <b>Positive Reviews:</b><br>
+                                                <div>
+                                                    <input style="width:75px;" type="number" id="ratingPositiveLower" min="0" max="100000000" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                    ≤ <b>x</b> ≤
+                                                    <input style="width:75px;" type="number" id="ratingPositiveHigher" min="0" max="100000000" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                </div>
+                                            </td>
+                                            <td style="border:0px; width:50%;" id="ratingNegativeFilter">
+                                                <b>Negative Reviews:</b><br>
+                                                <div>
+                                                    <input style="width:75px;" type="number" id="ratingNegativeLower" min="0" max="100000000" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                    ≤ <b>x</b> ≤
+                                                    <input style="width:75px;" type="number" id="ratingNegativeHigher" min="0" max="100000000" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
                                 </td>
-                                <td id="costFilter">
-                                    <b>Price:</b><br>
-                                    <input type="number" id="costLower" min="0" max="100000" onchange onpropertychange onkeyuponpaste oninput="changeCost()"></input>
-                                    ≤ <b>x</b> ≤
-                                    <input type="number" id="costHigher" min="0" max="100000" onchange onpropertychange onkeyuponpaste oninput="changeCost()"></input>
+                                <td colspan="3">
+                                    <table style="border:0px; text-align: center; width:85%; margin:auto;">
+                                        <tr>
+                                            <td colspan="2" style="border:0px;" id="ownerFilter">
+                                                <b>Owners:</b><br>
+                                                <div>
+                                                    <input type="number" id="ownershipLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                    ≤ <b>x</b> ≤
+                                                    <input type="number" id="ownershipHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="border:0px; width:50%;" id="completeFilter">
+                                                <b>Completed:</b><br>
+                                                <div>
+                                                    <input type="radio" id="completionNumber" name="completionType" onclick="completionFilterSwitch(false)" checked="true"><b>Number</b></input>
+                                                    <input type="radio" id="completionPercentage" name="completionType" onclick="completionFilterSwitch(true)"><b>Percentage</b></input><br>
+                                                </div>
+                                                <div>
+                                                    <input type="number" id="completionLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                    ≤ <b>x</b> ≤
+                                                    <input type="number" id="completionHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                </div>
+                                            </td>
+                                            <td style="border:0px; width:50%;" id="unfinishedFilter">
+                                                <b>Unfinished:</b><br>
+                                                <div>
+                                                    <input type="radio" id="unfinishedNumber" name="unfinishedType" onclick="unfinishedFilterSwitch(false)" checked="true"><b>Number</b></input>
+                                                    <input type="radio" id="unfinishedPercentage" name="unfinishedType" onclick="unfinishedFilterSwitch(true)"><b>Percentage</b></input><br>
+                                                </div>
+                                                <div>
+                                                    <input type="number" id="unfinishedLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                    ≤ <b>x</b> ≤
+                                                    <input type="number" id="unfinishedHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="order(lastOrder)"></input>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
                                 </td>
                             </tr>
                             <tr>
@@ -285,8 +374,8 @@
                                     <table style="border:0px; text-align: center; width:85%; margin:auto;">
                                         <tr>
                                             <td colspan="2" style="border:0px; width:25%">
-                                                <input id="pointMultiple" type="checkbox" onclick="unclearedOnly()">Uncleareds Only</input><br>
-                                                <input id="pointMultiple" type="checkbox" onclick="unvaluedOnly()">Unvalueds Only</input><br>
+                                                <input id="unclearedOnly" type="checkbox" onclick="unclearedOnly()">Uncleareds Only</input>
+                                                <input id="unvaluedOnly" type="checkbox" onclick="unvaluedOnly()">Unvalueds Only</input><br>
                                                 <sub class="subtitle">(Show only games that have "UNCLEARED" and/or "UNVALUED" in their Objectives' names, as well as games with point values that aren't multiples of 5)</sub>
                                             </td>
                                             <td colspan="2" style="border:0px; width:25%">
@@ -518,7 +607,8 @@
             let useUnvaluedOnly = false;
             let linkReplaceId = true;
             let ownerFilterType = 0;
-            let usePercentage = false;
+            let usePercentageCompletion = false;
+            let usePercentageUnfinished = false;
             let searchableUserId = "";
             let wishlistUserId = "";
             let useReverseOrder = false;
@@ -566,6 +656,26 @@
             {
                 activeCurrency = document.querySelector('input[name="currency"]:checked').value;
                 order(lastOrder);
+            }
+
+            if(!getCookie("defaultCurrency"))
+            {
+                setCookie("defaultCurrency", "USD", 90);
+            }
+            else
+            {
+                setCookie("defaultCurrency", getCookie("defaultCurrency"), 90);
+                document.getElementById("currencyDefault").innerHTML = getCookie("defaultCurrency");
+                document.querySelector('input[name="currency"]').checked = false;
+                document.querySelector('input[value=' + getCookie("defaultCurrency") + ']').checked = true;
+                activeCurrency = getCookie("defaultCurrency");
+                order(lastOrder);
+            }
+
+            function defaultCurrency()
+            {
+                setCookie("defaultCurrency", document.querySelector('input[name="currency"]:checked').value, 90);
+                document.getElementById("currencyDefault").innerHTML = getCookie("defaultCurrency");
             }
 
             function caseSensitive()
@@ -811,17 +921,16 @@
             }
             function changeCost() {order(lastOrder);}
 
-            function ownerFilterSwitch(type) 
-            {
-                ownerFilterType = type;
-                order(lastOrder);
-            }
             function completionFilterSwitch(value)
             {
-                usePercentage = value;
-                if(ownerFilterType != 0) {order(lastOrder);}
+                usePercentageCompletion = value;
+                order(lastOrder);
             }
-            function changeOwnership() {order(lastOrder)};
+            function unfinishedFilterSwitch(value)
+            {
+                usePercentageUnfinished = value;
+                order(lastOrder);
+            }
 
             function unclearedOnly()
             {
@@ -1309,14 +1418,7 @@
                     if(ownershipMin >= 0)
                     {
                         ownershipLowBound = ownershipMin;
-                        if(!usePercentage)
-                        {
-                            if(ownershipLowBound > 10000) {ownershipMin == 9999}
-                        }
-                        else
-                        {
-                            if(ownershipLowBound > 100) {ownershipMin == 99.9}
-                        }
+                        if(ownershipLowBound > 10000) {ownershipMin == 9999}
                     }
                     else {document.getElementById("ownershipLower").value = ownershipLowBound.toString();}
                 }
@@ -1326,52 +1428,273 @@
                     if(ownershipMax <= 10000)
                     {
                         ownershipHighBound = ownershipMax;
-                        if(!usePercentage)
-                        {
-                            if(ownershipHighBound < 0) {ownershipMax == 1}
-                        }
-                        else
-                        {
-                            if(ownershipHighBound < 0) {ownershipMax == 0.1}
-                        }
+                        if(ownershipHighBound < 0) {ownershipMax == 1}
                     }
                     else {document.getElementById("ownershipHigher").value = ownershipHighBound.toString();}
                 }
 
-                if(ownerFilterType == 0) {filteredData = filteredData.filter(obj => {return obj.playersTotal >= ownershipLowBound})}
-                else
-                {
-                    if(!usePercentage)
-                    {
-                        if(ownerFilterType == 1) {filteredData = filteredData.filter(obj => {return obj.playersCompleted >= ownershipLowBound})}
-                        else {filteredData = filteredData.filter(obj => {return obj.playersStarted >= ownershipLowBound})}
-                    }
-                    else
-                    {
-                        if(ownerFilterType == 1) {filteredData = filteredData.filter(obj => {return obj.playersCompleted / obj.playersTotal * 100 >= ownershipLowBound})}
-                        else {filteredData = filteredData.filter(obj => {return obj.playersStarted / obj.playersTotal * 100 >= ownershipLowBound})}
-                    }
-                }
+                filteredData = filteredData.filter(obj => {return obj.playersTotal >= ownershipLowBound})
 
                 if(ownershipLowBound <= ownershipHighBound)
                 {
                     document.getElementById("ownershipHigher").style.textDecoration = "none";
-                    if(ownerFilterType == 0) {filteredData = filteredData.filter(obj => {return obj.playersTotal <= ownershipHighBound})}
-                    else
-                    {
-                        if(!usePercentage)
-                        {
-                            if(ownerFilterType == 1) {filteredData = filteredData.filter(obj => {return obj.playersCompleted <= ownershipHighBound})}
-                            else {filteredData = filteredData.filter(obj => {return obj.playersStarted <= ownershipHighBound})}
-                        }
-                        else
-                        {
-                            if(ownerFilterType == 1) {filteredData = filteredData.filter(obj => {return obj.playersCompleted / obj.playersTotal * 100 <= ownershipHighBound})}
-                            else {filteredData = filteredData.filter(obj => {return obj.playersStarted / obj.playersTotal * 100 <= ownershipHighBound})}
-                        }
-                    }
+                    filteredData = filteredData.filter(obj => {return obj.playersTotal <= ownershipHighBound})
                 }
                 else {document.getElementById("ownershipHigher").style.textDecoration = "line-through";}
+                
+
+                //Filter by completed
+                var completionLowBound = 0;
+                var completionHighBound = 10000;
+                
+                var completionMin = document.getElementById("completionLower").valueAsNumber;
+                var completionMax = document.getElementById("completionHigher").valueAsNumber;
+
+                if(document.getElementById("completionLower").value != "")
+                {
+                    if(completionMin >= 0)
+                    {
+                        completionLowBound = completionMin;
+                        if(completionLowBound > 10000) {completionMin == 9999}
+                    }
+                    else {document.getElementById("completionLower").value = completionLowBound.toString();}
+                }
+
+                if(document.getElementById("completionHigher").value != "")
+                {
+                    if(completionMax <= 10000)
+                    {
+                        completionHighBound = completionMax;
+                        if(completionHighBound < 0) {completionMax == 0}
+                    }
+                    else {document.getElementById("completionHigher").value = completionHighBound.toString();}
+                }
+
+                if(!usePercentageCompletion)
+                {
+                    filteredData = filteredData.filter(obj => {return obj.playersCompleted >= completionLowBound})
+                }
+                else
+                {
+                    filteredData = filteredData.filter(obj => {return obj.playersCompleted / obj.playersTotal * 100 >= completionLowBound})
+                }
+
+                if(completionLowBound <= completionHighBound)
+                {
+                    document.getElementById("completionHigher").style.textDecoration = "none";
+                    if(!usePercentageCompletion)
+                    {
+                        filteredData = filteredData.filter(obj => {return obj.playersCompleted <= completionHighBound})
+                    }
+                    else
+                    {
+                        filteredData = filteredData.filter(obj => {return obj.playersCompleted / obj.playersTotal * 100 <= completionHighBound})
+                    }
+                }
+                else {document.getElementById("completionHigher").style.textDecoration = "line-through";}
+
+                //Filter by unfinished
+                var unfinishedLowBound = 0;
+                var unfinishedHighBound = 10000;
+                
+                var unfinishedMin = document.getElementById("unfinishedLower").valueAsNumber;
+                var unfinishedMax = document.getElementById("unfinishedHigher").valueAsNumber;
+
+                if(document.getElementById("unfinishedLower").value != "")
+                {
+                    if(unfinishedMin >= 0)
+                    {
+                        unfinishedLowBound = unfinishedMin;
+                        if(unfinishedLowBound > 10000) {unfinishedMin == 9999}
+                    }
+                    else {document.getElementById("unfinishedLower").value = unfinishedLowBound.toString();}
+                }
+
+                if(document.getElementById("unfinishedHigher").value != "")
+                {
+                    if(unfinishedMax <= 10000)
+                    {
+                        unfinishedHighBound = unfinishedMax;
+                        if(unfinishedHighBound < 0) {unfinishedMax == 0}
+                    }
+                    else {document.getElementById("unfinishedHigher").value = unfinishedHighBound.toString();}
+                }
+
+                if(!usePercentageUnfinished)
+                {
+                    filteredData = filteredData.filter(obj => {return obj.playersStarted >= unfinishedLowBound})
+                }
+                else
+                {
+                    filteredData = filteredData.filter(obj => {return obj.playersStarted / obj.playersTotal * 100 >= unfinishedLowBound})
+                }
+
+                if(unfinishedLowBound <= unfinishedHighBound)
+                {
+                    document.getElementById("unfinishedHigher").style.textDecoration = "none";
+                if(!usePercentageUnfinished)
+                {
+                    filteredData = filteredData.filter(obj => {return obj.playersStarted <= unfinishedHighBound})
+                }
+                else
+                {
+                    filteredData = filteredData.filter(obj => {return obj.playersStarted / obj.playersTotal * 100 <= unfinishedHighBound})
+                }
+                }
+                else {document.getElementById("unfinishedHigher").style.textDecoration = "line-through";}
+                
+                
+                if(activePlatform != 2)
+                {
+                    var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
+                    var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+
+                    //Filter by Review Percentage
+                    var ratingPercentageLowBound = 0;
+                    var ratingPercentageHighBound = 100;
+                    
+                    var ratingPercentageMin = document.getElementById("ratingPercentageLower").valueAsNumber;
+                    var ratingPercentageMax = document.getElementById("ratingPercentageHigher").valueAsNumber;
+
+                    if(document.getElementById("ratingPercentageLower").value != "")
+                    {
+                        if(ratingPercentageMin >= 0)
+                        {
+                            ratingPercentageLowBound = ratingPercentageMin;
+                            if(ratingPercentageLowBound > 100) {ratingPercentageMin == 100}
+                        }
+                        else {document.getElementById("ratingPercentageLower").value = ratingPercentageLowBound.toString();}
+                    }
+
+                    if(document.getElementById("ratingPercentageHigher").value != "")
+                    {
+                        if(ratingPercentageMax <= 100)
+                        {
+                            ratingPercentageHighBound = ratingPercentageMax;
+                            if(ratingPercentageHighBound < 0) {ratingPercentageMax == 0}
+                        }
+                        else {document.getElementById("ratingPercentageHigher").value = ratingPercentageHighBound.toString();}
+                    }
+
+                    steamGames = steamGames.filter(obj => {return obj["reviews"]["positive"] / obj["reviews"]["total"] * 100 >= ratingPercentageLowBound})
+                    
+                    if(ratingPercentageLowBound <= ratingPercentageHighBound)
+                    {
+                        document.getElementById("ratingPercentageHigher").style.textDecoration = "none";
+                        steamGames = steamGames.filter(obj => {return obj["reviews"]["positive"] / obj["reviews"]["total"] * 100 <= ratingPercentageHighBound})
+                    }
+                    else {document.getElementById("ratingPercentageHigher").style.textDecoration = "line-through";}
+
+                    //Filter by Total Reviews
+                    var ratingTotalLowBound = 0;
+                    var ratingTotalHighBound = 100000000;
+                    
+                    var ratingTotalMin = document.getElementById("ratingTotalLower").valueAsNumber;
+                    var ratingTotalMax = document.getElementById("ratingTotalHigher").valueAsNumber;
+
+                    if(document.getElementById("ratingTotalLower").value != "")
+                    {
+                        if(ratingTotalMin >= 0)
+                        {
+                            ratingTotalLowBound = ratingTotalMin;
+                            if(ratingTotalLowBound > 100000000) {ratingTotalMin == 9999999}
+                        }
+                        else {document.getElementById("ratingTotalLower").value = ratingTotalLowBound.toString();}
+                    }
+
+                    if(document.getElementById("ratingTotalHigher").value != "")
+                    {
+                        if(ratingTotalMax <= 100000000)
+                        {
+                            ratingTotalHighBound = ratingTotalMax;
+                            if(ratingTotalHighBound < 0) {ratingTotalMax == 0}
+                        }
+                        else {document.getElementById("ratingTotalHigher").value = ratingTotalHighBound.toString();}
+                    }
+
+                    steamGames = steamGames.filter(obj => {return obj["reviews"]["total"] >= ratingTotalLowBound})
+                    
+                    if(ratingTotalLowBound <= ratingTotalHighBound)
+                    {
+                        document.getElementById("ratingTotalHigher").style.textDecoration = "none";
+                        steamGames = steamGames.filter(obj => {return obj["reviews"]["total"] <= ratingTotalHighBound})
+                    }
+                    else {document.getElementById("ratingTotalHigher").style.textDecoration = "line-through";}
+
+                    //Filter by Positive Reviews
+                    var ratingPositiveLowBound = 0;
+                    var ratingPositiveHighBound = 100000000;
+                    
+                    var ratingPositiveMin = document.getElementById("ratingPositiveLower").valueAsNumber;
+                    var ratingPositiveMax = document.getElementById("ratingPositiveHigher").valueAsNumber;
+
+                    if(document.getElementById("ratingPositiveLower").value != "")
+                    {
+                        if(ratingPositiveMin >= 0)
+                        {
+                            ratingPositiveLowBound = ratingPositiveMin;
+                            if(ratingPositiveLowBound > 100000000) {ratingPositiveMin == 9999999}
+                        }
+                        else {document.getElementById("ratingPositiveLower").value = ratingPositiveLowBound.toString();}
+                    }
+
+                    if(document.getElementById("ratingPositiveHigher").value != "")
+                    {
+                        if(ratingPositiveMax <= 100000000)
+                        {
+                            ratingPositiveHighBound = ratingPositiveMax;
+                            if(ratingPositiveHighBound < 0) {ratingPositiveMax == 0}
+                        }
+                        else {document.getElementById("ratingPositiveHigher").value = ratingPositiveHighBound.toString();}
+                    }
+
+                    steamGames = steamGames.filter(obj => {return obj["reviews"]["positive"] >= ratingPositiveLowBound})
+                    
+                    if(ratingPositiveLowBound <= ratingPositiveHighBound)
+                    {
+                        document.getElementById("ratingPositiveHigher").style.textDecoration = "none";
+                        steamGames = steamGames.filter(obj => {return obj["reviews"]["positive"] <= ratingPositiveHighBound})
+                    }
+                    else {document.getElementById("ratingPositiveHigher").style.textDecoration = "line-through";}
+
+                    //Filter by Negative Reviews
+                    var ratingNegativeLowBound = 0;
+                    var ratingNegativeHighBound = 100000000;
+                    
+                    var ratingNegativeMin = document.getElementById("ratingNegativeLower").valueAsNumber;
+                    var ratingNegativeMax = document.getElementById("ratingNegativeHigher").valueAsNumber;
+
+                    if(document.getElementById("ratingNegativeLower").value != "")
+                    {
+                        if(ratingNegativeMin >= 0)
+                        {
+                            ratingNegativeLowBound = ratingNegativeMin;
+                            if(ratingNegativeLowBound > 100000000) {ratingNegativeMin == 9999999}
+                        }
+                        else {document.getElementById("ratingNegativeLower").value = ratingNegativeLowBound.toString();}
+                    }
+
+                    if(document.getElementById("ratingNegativeHigher").value != "")
+                    {
+                        if(ratingNegativeMax <= 100000000)
+                        {
+                            ratingNegativeHighBound = ratingNegativeMax;
+                            if(ratingNegativeHighBound < 0) {ratingNegativeMax == 0}
+                        }
+                        else {document.getElementById("ratingNegativeHigher").value = ratingNegativeHighBound.toString();}
+                    }
+
+                    steamGames = steamGames.filter(obj => {return obj["reviews"]["negative"] >= ratingNegativeLowBound})
+                    
+                    if(ratingNegativeLowBound <= ratingNegativeHighBound)
+                    {
+                        document.getElementById("ratingNegativeHigher").style.textDecoration = "none";
+                        steamGames = steamGames.filter(obj => {return obj["reviews"]["negative"] <= ratingNegativeHighBound})
+                    }
+                    else {document.getElementById("ratingNegativeHigher").style.textDecoration = "line-through";}
+                    
+                    filteredData = steamGames.concat(RAGames);
+                }
 
                 //Filter by Uncleareds and Unvalueds
                 if(useUnclearedOnly) {
@@ -1400,28 +1723,26 @@
                 //hide price and currency if unavailable
                 if(activePlatform == 2)
                 {
-                    document.getElementById("currencyFilter").style.opacity = 1/3;
+                    document.getElementById("currencyBox").style.opacity = 1/3;
                     document.getElementById("priceFilter").style.opacity = 1/3;
-                    document.getElementById("costFilter").style.opacity = 1/3;
+                    document.getElementById("reviewBox").style.opacity = 1/3;
                 }
                 else
                 {
-                    document.getElementById("currencyFilter").style.opacity = 1;
+                    document.getElementById("currencyBox").style.opacity = 1;
                     document.getElementById("priceFilter").style.opacity = 1;
-                    document.getElementById("costFilter").style.opacity = 1;
+                    document.getElementById("reviewBox").style.opacity = 1;
 
                     if(activePrice == 1 || activePrice == 2)
                     {
-                        document.getElementById("currencyFilter").style.opacity = 1/3;
+                        document.getElementById("currencyBox").style.opacity = 1/3;
                         document.getElementById("priceSale").style.opacity = 1/3;
-                        document.getElementById("costFilter").style.opacity = 1/3;
                     }
                     else
                     {
-                        document.getElementById("currencyFilter").style.opacity = 1;
+                        document.getElementById("currencyBox").style.opacity = 1;
                         document.getElementById("priceFilter").style.opacity = 1;
                         document.getElementById("priceSale").style.opacity = 1;
-                        document.getElementById("costFilter").style.opacity = 1;
                     }
                 }
 
@@ -1486,11 +1807,7 @@
                 filteredData.forEach(obj => {totalPoints += obj["points"]});
                 document.getElementById("CountPoints").innerHTML = "Points of filtered: " + totalPoints + ".";
 
-                //alternate ownership filter
-                if(ownerFilterType == 0) {document.getElementById("ownerFilterHide").style.opacity = 1/3;}
-                else {document.getElementById("ownerFilterHide").style.opacity = 1;}
-
-                if(filteredData.length != data.length || activeCurrency != "USD") {document.getElementById("filterActivity").innerHTML = "Filters (Active!)"}
+                if(filteredData.length != data.length || (activeCurrency == "AUD" || activeCurrency == "JPY")) {document.getElementById("filterActivity").innerHTML = "Filters (Active!)"}
                 else {document.getElementById("filterActivity").innerHTML = "Filters"}
             }
 
@@ -2141,11 +2458,40 @@
                 reloadCounter += 1;
             }
             
-        //Function to truncate numbers
-        function toFixed(num, fixed) {
-            var re = new RegExp('^-?\\d+(?:\.\\d{0,' + (fixed || -1) + '})?');
-            return num.toString().match(re)[0];
-        }
+            //Function to truncate numbers
+            function toFixed(num, fixed) {
+                var re = new RegExp('^-?\\d+(?:\.\\d{0,' + (fixed || -1) + '})?');
+                return num.toString().match(re)[0];
+            }
+
+            //Cookie functions
+            function setCookie(cname, cvalue, exdays)
+            {
+                const d = new Date();
+                d.setTime(d.getTime() + (exdays*24*60*60*1000));
+                let expires = "expires="+ d.toUTCString();
+                document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+            }
+
+            function getCookie(cname)
+            {
+                let name = cname + "=";
+                let decodedCookie = decodeURIComponent(document.cookie);
+                let ca = decodedCookie.split(';');
+                for(let i = 0; i <ca.length; i++)
+                {
+                    let c = ca[i];
+                    while (c.charAt(0) == ' ')
+                    {
+                        c = c.substring(1);
+                    }
+                    if (c.indexOf(name) == 0)
+                    {
+                        return c.substring(name.length, c.length);
+                    }
+                }
+                return "";
+            }
         </script>
     </body>
 </html>
