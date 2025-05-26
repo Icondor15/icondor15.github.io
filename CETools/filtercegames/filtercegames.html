@@ -91,6 +91,10 @@
                 display:table-row-group;
             }
 
+            .orderButton {
+                text-decoration-skip-ink:none;
+            }
+
             input::-webkit-outer-spin-button,
             input::-webkit-inner-spin-button {
                 -webkit-appearance: none;
@@ -373,20 +377,16 @@
                                     <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br>
                                     <table style="border:0px; text-align: center; width:85%; margin:auto;">
                                         <tr>
-                                            <td colspan="2" style="border:0px; width:25%">
+                                            <td style="border:0px; width:33%">
                                                 <input id="unclearedOnly" type="checkbox" onclick="unclearedOnly()">Uncleareds Only</input>
                                                 <input id="unvaluedOnly" type="checkbox" onclick="unvaluedOnly()">Unvalueds Only</input><br>
                                                 <sub class="subtitle">(Show only games that have "UNCLEARED" and/or "UNVALUED" in their Objectives' names, as well as games with point values that aren't multiples of 5)</sub>
                                             </td>
-                                            <td colspan="2" style="border:0px; width:25%">
+                                            <td style="border:0px; width:33%">
                                                 <input  id="idToLink" type="checkbox" onchange="idToLink()">(Links) Copy Link > Copy ID</input><br>
                                                 <sub class="subtitle">(Useful to copy many IDs quickly)</sub>
                                             </td>
-                                            <td colspan="2" style="border:0px; width:25%">
-                                                <input  id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
-                                                <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub>
-                                            </td>
-                                            <td colspan="2" style="border:0px; width:25%">
+                                            <td style="border:0px; width:33%">
                                                 <input  id="invertFilters" type="checkbox" onchange="invertFilters()">Invert Filters</input><br>
                                                 <sub class="subtitle">(Check for all games that DON'T apply to the active filters.)</sub><br>
                                                 <sub class="subtitle">(May seem funky with many filters active, especially the user filter!)</sub>
@@ -443,37 +443,37 @@
             </tr>
             <tr>
                 <td style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button" style="width:49.3%; float:left;" onclick="order('reviewRating')">Rating (%)</div>
-                    <div class="button" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('reviewTotal')">Total</div>
+                    <div class="button orderButton orderButtonReviewRating" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('reviewRating')">Rating (%)</div>
+                    <div class="button orderButton orderButtonReviewTotal" style="width:50%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('reviewTotal')">Total</div>
                 </td>
-                <td rowspan="2" class="button" onclick="order('name')">Order By Name</td>
-                <td rowspan="2" class="button" onclick="order('genre')">Order By Genre</td>
-                <td rowspan="2" class="button" colspan="2" onclick="order('points')">Order By Points</td>
+                <td rowspan="2" class="button orderButton orderButtonName" onclick="orderFromButton = true; order('name')">Order By Name</td>
+                <td rowspan="2" class="button orderButton orderButtonGenre" onclick="orderFromButton = true; order('genre')">Order By Genre</td>
+                <td rowspan="2" class="button orderButton orderButtonPoints" colspan="2" onclick="orderFromButton = true; order('points')">Order By Points</td>
                 <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button" style="width:49.3%; float:left;" onclick="order('primary')">POs</div>
-                    <div class="button" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('community')">COs</div>
+                    <div class="button orderButton orderButtonPrimary" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('primary')">POs</div>
+                    <div class="button orderButton orderButtonCommunity" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('community')">COs</div>
                 </td>
-                <td rowspan="2" class="button" onclick="order('playersTotal')">Order By Owners</td>
+                <td rowspan="2" class="button orderButton orderButtonPlayersTotal" onclick="orderFromButton = true; order('playersTotal')">Order By Owners</td>
                 <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button" style="width:69.3%; float:left;" onclick="order('playersCompleted')">Completed</div>
-                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('completedPercentage')">%</div>
+                    <div class="button orderButton orderButtonPlayersCompleted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersCompleted')">Completed</div>
+                    <div class="button orderButton orderButtonCompletedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('completedPercentage')">%</div>
                 </td>
-                <td class="button" colspan="2" onclick="order('final')">Order By Price</td>
-                <td class="button" onclick="order('createdAt')">Order By Date Added</td>
-                <td rowspan="2" class="button" onclick="order('platformId')">Order By Id</td>
+                <td class="button orderButton orderButtonFinal" colspan="2" onclick="orderFromButton = true; order('final')">Order By Price</td>
+                <td class="button orderButton orderButtonCreatedAt" onclick="orderFromButton = true; order('createdAt')">Order By Date Added</td>
+                <td rowspan="2" class="button orderButton orderButtonPlatformId" onclick="orderFromButton = true; order('platformId')">Order By Id</td>
             </tr>
             <tr>
                 <td style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button" style="width:49.3%; float:left;" onclick="order('reviewPositive')">Positive</div>
-                    <div class="button" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('reviewNegative')">Negative</div>
+                    <div class="button orderButton orderButtonReviewPositive" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('reviewPositive')">Positive</div>
+                    <div class="button orderButton orderButtonReviewNegative" style="width:50%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('reviewNegative')">Negative</div>
                 </td>
-                <td class="button" colspan="2" onclick="order('achievements')">Achievements</td>
+                <td class="button orderButton orderButtonAchievements" colspan="2" onclick="orderFromButton = true; order('achievements')">Achievements</td>
                 <td colspan="2" style="padding:0%; background-color: #dddddd;">
-                    <div class="button" style="width:69.3%; float:left;" onclick="order('playersStarted')">Unfinished</div>
-                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('startedPercentage')">%</div>
+                    <div class="button orderButton orderButtonPlayersStarted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersStarted')">Unfinished</div>
+                    <div class="button orderButton orderButtonStartedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('startedPercentage')">%</div>
                 </td>
-                <td class="button" colspan="2" onclick="order('discountPercent')">Order By Sale %</td>
-                <td class="button" onclick="order('updatedAt')">Order By Date Updated</td>
+                <td class="button orderButton orderButtonDiscountPercent" colspan="2" onclick="orderFromButton = true; order('discountPercent')">Order By Sale %</td>
+                <td class="button orderButton orderButtonUpdatedAt" onclick="orderFromButton = true; order('updatedAt')">Order By Date Updated</td>
             </tr>
             <tr style="font-weight: bold; user-select: none;">
                 <td>Platform / Reviews</td>
@@ -536,37 +536,37 @@
             </tr>
             <tr>
                 <td style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button" style="width:49.3%; float:left;" onclick="order('reviewPositive')">Positive</div>
-                    <div class="button" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('reviewNegative')">Negative</div>
+                    <div class="button orderButton orderButtonReviewPositive" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('reviewPositive')">Positive</div>
+                    <div class="button orderButton orderButtonReviewNegative" style="width:50%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('reviewNegative')">Negative</div>
                 </td>
-                <td rowspan="2" class="button" onclick="order('name')">Order By Name</td>
-                <td rowspan="2" class="button" onclick="order('genre')">Order By Genre</td>
-                <td rowspan="2" class="button" colspan="2" onclick="order('points')">Order By Points</td>
+                <td rowspan="2" class="button orderButton orderButtonName" onclick="orderFromButton = true; order('name')">Order By Name</td>
+                <td rowspan="2" class="button orderButton orderButtonGenre" onclick="orderFromButton = true; order('genre')">Order By Genre</td>
+                <td rowspan="2" class="button orderButton orderButtonPoints" colspan="2" onclick="orderFromButton = true; order('points')">Order By Points</td>
                 <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button" style="width:49.3%; float:left;" onclick="order('primary')">POs</div>
-                    <div class="button" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('community')">COs</div>
+                    <div class="button orderButton orderButtonPrimary" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('primary')">POs</div>
+                    <div class="button orderButton orderButtonCommunity" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('community')">COs</div>
                 </td>
-                <td rowspan="2" class="button" onclick="order('playersTotal')">Order By Owners</td>
+                <td rowspan="2" class="button orderButton orderButtonPlayersTotal" onclick="orderFromButton = true; order('playersTotal')">Order By Owners</td>
                 <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button" style="width:69.3%; float:left;" onclick="order('playersCompleted')">Completed</div>
-                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('completedPercentage')">%</div>
+                    <div class="button orderButton orderButtonPlayersCompleted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersCompleted')">Completed</div>
+                    <div class="button orderButton orderButtonCompletedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('completedPercentage')">%</div>
                 </td>
-                <td class="button" colspan="2" onclick="order('final')">Order By Price</td>
-                <td class="button" onclick="order('createdAt')">Order By Date Added</td>
-                <td rowspan="2" class="button" onclick="order('platformId')">Order By Id</td>
+                <td class="button orderButton orderButtonFinal" colspan="2" onclick="orderFromButton = true; order('final')">Order By Price</td>
+                <td class="button orderButton orderButtonCreatedAt" onclick="orderFromButton = true; order('createdAt')">Order By Date Added</td>
+                <td rowspan="2" class="button orderButton orderButtonPlatformId" onclick="orderFromButton = true; order('platformId')">Order By Id</td>
             </tr>
             <tr>
                 <td style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button" style="width:49.3%; float:left;" onclick="order('reviewRating')">Rating (%)</div>
-                    <div class="button" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('reviewTotal')">Total</div>
+                    <div class="button orderButton orderButtonReviewRating" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('reviewRating')">Rating (%)</div>
+                    <div class="button orderButton orderButtonReviewTotal" style="width:50%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('reviewTotal')">Total</div>
                 </td>
-                <td class="button" colspan="2" onclick="order('achievements')">Achievements</td>
+                <td class="button orderButton orderButtonAchievements" colspan="2" onclick="orderFromButton = true; order('achievements')">Achievements</td>
                 <td colspan="2" style="padding:0%; background-color: #dddddd;">
-                    <div class="button" style="width:69.3%; float:left;" onclick="order('playersStarted')">Unfinished</div>
-                    <div class="button" style="width:30%; float:right; border-left: solid 1px black;"onclick="order('startedPercentage')">%</div>
+                    <div class="button orderButton orderButtonPlayersStarted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersStarted')">Unfinished</div>
+                    <div class="button orderButton orderButtonStartedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('startedPercentage')">%</div>
                 </td>
-                <td class="button" colspan="2" onclick="order('discountPercent')">Order By Sale %</td>
-                <td class="button" onclick="order('updatedAt')">Order By Date Updated</td>
+                <td class="button orderButton orderButtonDiscountPercent" colspan="2" onclick="orderFromButton = true; order('discountPercent')">Order By Sale %</td>
+                <td class="button orderButton orderButtonUpdatedAt" onclick="orderFromButton = true; order('updatedAt')">Order By Date Updated</td>
             </tr>
         </table>
         <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, 0);"><b>^^^ Move to top ^^^</b></span></div>
@@ -611,8 +611,10 @@
             let usePercentageUnfinished = false;
             let searchableUserId = "";
             let wishlistUserId = "";
-            let useReverseOrder = false;
+            let useReverseOrder = true;
+            let orderFromButton = true;
             let useInverseFilters = false;
+            
 
             let listControls = false;
             let listData = [];
@@ -644,6 +646,20 @@
                 listLoad();
             }
 
+
+            if(!getCookie("defaultCurrency"))
+            {
+                setCookie("defaultCurrency", "USD", 90);
+            }
+            else
+            {
+                setCookie("defaultCurrency", getCookie("defaultCurrency"), 90);
+                document.getElementById("currencyDefault").innerHTML = getCookie("defaultCurrency");
+                document.querySelector('input[name="currency"]').checked = false;
+                document.querySelector('input[value=' + getCookie("defaultCurrency") + ']').checked = true;
+                activeCurrency = getCookie("defaultCurrency");
+            }
+
             order("points");
 
             function changePlatform()
@@ -657,21 +673,6 @@
                 activeCurrency = document.querySelector('input[name="currency"]:checked').value;
                 order(lastOrder);
             }
-
-            if(!getCookie("defaultCurrency"))
-            {
-                setCookie("defaultCurrency", "USD", 90);
-            }
-            else
-            {
-                setCookie("defaultCurrency", getCookie("defaultCurrency"), 90);
-                document.getElementById("currencyDefault").innerHTML = getCookie("defaultCurrency");
-                document.querySelector('input[name="currency"]').checked = false;
-                document.querySelector('input[value=' + getCookie("defaultCurrency") + ']').checked = true;
-                activeCurrency = getCookie("defaultCurrency");
-                order(lastOrder);
-            }
-
             function defaultCurrency()
             {
                 setCookie("defaultCurrency", document.querySelector('input[name="currency"]:checked').value, 90);
@@ -948,12 +949,6 @@
             {
                 if(linkReplaceId == true) {linkReplaceId = false;}
                 else if(linkReplaceId == false) {linkReplaceId = true;}
-                order(lastOrder);
-            }
-            function reverseOrder()
-            {
-                if(useReverseOrder == true) {useReverseOrder = false;}
-                else if(useReverseOrder == false) {useReverseOrder = true;}
                 order(lastOrder);
             }
             function invertFilters()
@@ -1815,6 +1810,27 @@
             {
                 filterData();
 
+                if(orderFromButton)
+                {
+                    document.querySelectorAll('.orderButton').forEach(e => e.style.textDecoration = "none")
+                    document.querySelectorAll('.orderButton').forEach(e => e.style.textUnderlineOffset = "");
+                    document.querySelectorAll('.orderButton' + type[0].toUpperCase() + type.slice(1)).forEach(e => e.style.textDecoration = "underline dotted 3px");
+
+                    if(lastOrder != type) {useReverseOrder = false;}
+                    else if(lastOrder == type && useReverseOrder == true)
+                    {
+                        document.querySelectorAll('.orderButton' + type[0].toUpperCase() + type.slice(1)).forEach(e => e.style.textDecoration = "underline dotted 3px");
+                        document.querySelectorAll('.orderButton' + type[0].toUpperCase() + type.slice(1)).forEach(e => e.style.textUnderlineOffset = "");
+                        useReverseOrder = false;
+                    }
+                    else
+                    {
+                        document.querySelectorAll('.orderButton' + type[0].toUpperCase() + type.slice(1)).forEach(e => e.style.textUnderlineOffset = "-1rem");
+                        useReverseOrder = true;
+                    }
+                    orderFromButton = false;
+                }
+
                 //change last order
                 lastOrder = type;
 
@@ -1867,8 +1883,6 @@
 
                         functional.sort((a,b) => (a["priceData"][activeCurrency][type] > b["priceData"][activeCurrency][type]) ? 1 : ((b["priceData"][activeCurrency][type] > a["priceData"][activeCurrency][type]) ? -1 : 0));
 
-                        functional.reverse();
-
                         nonPaid.sort((a,b) => (a["gameType"] > b["gameType"]) ? 1 : ((b["gameType"] > a["gameType"]) ? -1 : 0));
 
                         filteredData = nonPaid.concat(RA, functional);
@@ -1908,8 +1922,6 @@
                     {
                         var searchIds = Object.keys(userData[searchableUserId]["gamesPoints"]);
 
-                        filteredData.reverse();
-
                         filteredData.sort(compare);
 
                         function compare(a, b) {
@@ -1941,8 +1953,6 @@
                             }
                             return 0;
                             }
-                            
-                        filteredData.reverse();
                     }
                     else if(type == "primary" || type == "community" || type == "achievements")
                     {
@@ -1951,15 +1961,16 @@
                     }
                     else if(type == "reviewRating")
                     {
-                        order("reviewTotal");
                         var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
                         steamGames.reverse();
                         var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
                         
+                        steamGames.sort((a,b) => (a["reviews"]["total"] > b["reviews"]["total"]) ? 1 : ((b["reviews"]["total"] > a["reviews"]["total"]) ? -1 : 0));
+                        
                         steamGames.sort((a,b) => (a["reviews"]["positive"]/a["reviews"]["total"] > b["reviews"]["positive"]/b["reviews"]["total"]) ? 1 : ((b["reviews"]["positive"]/b["reviews"]["total"] > a["reviews"]["positive"]/a["reviews"]["total"]) ? -1 : 0));
 
-                        steamGames.reverse();
-                        filteredData = steamGames.concat(RAGames);
+                        if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
+                        else {filteredData = RAGames.concat(steamGames);}
                     }
                     else if(type == "reviewTotal")
                     {
@@ -1968,8 +1979,8 @@
                         
                         steamGames.sort((a,b) => (a["reviews"]["total"] > b["reviews"]["total"]) ? 1 : ((b["reviews"]["total"] > a["reviews"]["total"]) ? -1 : 0));
 
-                        steamGames.reverse();
-                        filteredData = steamGames.concat(RAGames);
+                        if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
+                        else {filteredData = RAGames.concat(steamGames);}
                     }
                     else if(type == "reviewPositive")
                     {
@@ -1978,8 +1989,8 @@
                         
                         steamGames.sort((a,b) => (a["reviews"]["positive"] > b["reviews"]["positive"]) ? 1 : ((b["reviews"]["positive"] > a["reviews"]["positive"]) ? -1 : 0));
 
-                        steamGames.reverse();
-                        filteredData = steamGames.concat(RAGames);
+                        if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
+                        else {filteredData = RAGames.concat(steamGames);}
                     }
                     else if(type == "reviewNegative")
                     {
@@ -1988,16 +1999,14 @@
                         
                         steamGames.sort((a,b) => (a["reviews"]["negative"] > b["reviews"]["negative"]) ? 1 : ((b["reviews"]["negative"] > a["reviews"]["negative"]) ? -1 : 0));
 
-                        steamGames.reverse();
-                        filteredData = steamGames.concat(RAGames);
+                        if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
+                        else {filteredData = RAGames.concat(steamGames);}
                     }
                     else
                     {
                         filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
                     }
                 }
-
-                if(type == "createdAt" || type == "updatedAt") {filteredData.reverse()}
 
                 if(useReverseOrder == true) {filteredData.reverse()}
 
