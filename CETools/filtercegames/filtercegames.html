@@ -2405,33 +2405,50 @@
                         document.getElementById("idStringBottom").innerHTML = "(Right Click to copy the link!)";
                     }
 
+                    var steamDBIconString = '<svg fill="currentColor" height="10" icon-name="external-outline" viewBox="0 0 50.3 50.3" width="10" xmlns="http://www.w3.org/2000/svg"><path class="st0" d="M25.1,0C12,0,1.2,4.7,0,10.6l14,2.6c1.1-0.4,2.4-0.5,3.8-0.5l6.6-3.9c-0.1-1,0.5-2,1.8-2.8\nC28.1,4.8,31,4.1,34,4.1c2,0,4.1,0.3,5.9,0.9c4.4,1.5,5.4,4.4,2.2,6.4c-2,1.3-5.2,2-8.4,1.9l-8.6,3.1c-0.1,0.6-0.5,1.2-1.3,1.8\nc-2.3,1.5-6.8,1.8-10.1,0.7c-1.4-0.5-2.4-1.2-2.7-1.9L1,15.1c0.9,1.4,2.4,2.7,4.2,3.8C2,20.8,0,23.2,0,25.7c0,2.5,1.9,4.8,5.1,6.7\nC1.9,34.3,0,36.6,0,39.1c0,6.2,11.2,11.2,25.1,11.2c13.9,0,25.1-5,25.1-11.2c0-2.5-1.9-4.8-5.1-6.7c3.2-1.9,5.1-4.2,5.1-6.7\nc0-2.6-2-4.9-5.3-6.8c3.3-2,5.2-4.5,5.2-7.1C50.2,5.3,39,0,25.1,0z M34.1,5.6c-2,0-4,0.5-5.3,1.3c-2.2,1.4-1.5,3.3,1.5,4.4\ns7.1,0.7,9.3-0.7c2.2-1.4,1.5-3.3-1.5-4.3C36.8,5.8,35.4,5.6,34.1,5.6L34.1,5.6z M34.2,6.2c2.9,0,5.2,1.1,5.2,2.4s-2.3,2.4-5.2,2.4\nS29,10,29,8.7S31.3,6.2,34.2,6.2z M17.8,13.5c-0.6,0-1.2,0.1-1.8,0.2l3.6,0.7c2.2,0.4,3.2,1.6,2.4,2.6c-0.9,1-3.4,1.5-5.5,1.1\nl-3.5-0.7c0.4,0.4,0.9,0.7,1.7,0.9c2.5,0.9,6,0.6,7.9-0.6c1.8-1.2,1.3-2.8-1.3-3.7C20.2,13.7,18.9,13.5,17.8,13.5z M42.8,20v3.7\nc0,4.3-7.9,7.8-17.7,7.8c-9.8,0-17.7-3.5-17.7-7.8v-3.6c4.5,2.1,10.8,3.4,17.6,3.4C32,23.5,38.3,22.2,42.8,20L42.8,20z M42.8,33.6\nv3.5c0,4.3-7.9,7.8-17.7,7.8c-9.8,0-17.7-3.5-17.7-7.8v-3.5c4.6,2,10.8,3.2,17.7,3.2S38.3,35.6,42.8,33.6z"></path></svg>' 
+
                     if(filteredData[i]["gameType"] < 2)
                     {
-                        cellLinkSteam.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#1D88C7'>Steam</a>";
-                        var a = document.getElementById("tmp");
+                        cellLinkSteam.innerHTML = "<a id='tmpSteam' target='_blank' style='font-weight: bold; color:#1D88C7'>Steam</a>";
+                        var a = document.getElementById("tmpSteam");
                         a.title = "Steam ID: " + filteredData[i]["platformId"];
                         a.href = "https://store.steampowered.com/app/" + filteredData[i]["platformId"];
+                        
+                        cellLinkSteam.innerHTML += "<br><a id='tmpSDB' target='_blank' style='font-weight: 800; font-family: Inter; font-size: 11px; color:#033d85'>" + steamDBIconString + " SteamDB</a>";
+                        var b = document.getElementById("tmpSDB");
+                        b.href = "https://steamdb.info/app/" + filteredData[i]["platformId"];
+                        b.removeAttribute("id");
                     }
                     else if(filteredData[i]["gameType"] == 2)
                     {
-                        cellLinkSteam.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#A31BB3'>Steam (Unavailable?)</a>";
-                        var a = document.getElementById("tmp");
+                        cellLinkSteam.innerHTML = "<a id='tmpSteam' target='_blank' style='font-weight: bold; color:#A31BB3'>Steam (Unavailable?)</a>";
+                        var a = document.getElementById("tmpSteam");
                         a.title = "Steam ID: " + filteredData[i]["platformId"];
                         a.href = "https://store.steampowered.com/app/" + filteredData[i]["platformId"];
+                        
+                        cellLinkSteam.innerHTML += "<br><a id='tmpSDB' target='_blank' style='font-weight: 800; font-family: Inter; font-size: 11px; color:#5f0987'>" + steamDBIconString + " SteamDB</a>";
+                        var b = document.getElementById("tmpSDB");
+                        b.href = "https://steamdb.info/app/" + filteredData[i]["platformId"];
+                        b.removeAttribute("id");
                     }
                     else if(filteredData[i]["gameType"] == 3)
                     {
-                        cellLinkSteam.innerHTML = "<a id='tmp' target='_blank'><b style='color:#0F66DB'>Retro</b><b style='color:#eDB507'>Achievements</b></a>";
-                        var a = document.getElementById("tmp");
+                        cellLinkSteam.innerHTML = "<a id='tmpSteam' target='_blank'><b style='color:#0F66DB'>Retro</b><b style='color:#eDB507'>Achievements</b></a>";
+                        var a = document.getElementById("tmpSteam");
                         a.title = "Retro Achievements ID: " + filteredData[i]["platformId"];
                         a.href = "https://retroachievements.org/game/" + filteredData[i]["platformId"];
                     }
                     else if(filteredData[i]["gameType"] == 4)
                     {
-                        cellLinkSteam.innerHTML = "<p id='tmp' style='font-weight: bold; color:#6B194D; user-select: none; text-decoration:line-through 1.5px;'>Steam (Broken)</p>";
-                        var a = document.getElementById("tmp");
+                        cellLinkSteam.innerHTML = "<span id='tmpSteam' style='font-weight: bold; color:#6B194D; user-select: none; text-decoration:line-through 1.5px;'>Steam (Broken)</span<>";
+                        var a = document.getElementById("tmpSteam");
                         a.title = "Steam ID (Broken): " + filteredData[i]["platformId"];
                         a.href = "";
+                        
+                        cellLinkSteam.innerHTML += "<br><a id='tmpSDB' target='_blank' style='font-weight: 800; font-family: Inter; font-size: 11px; color:#3c1440'>" + steamDBIconString + " SteamDB</a>";
+                        var b = document.getElementById("tmpSDB");
+                        b.href = "https://steamdb.info/app/" + filteredData[i]["platformId"];
+                        b.removeAttribute("id");
                     }
 
                     if(!linkReplaceId) {a.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + filteredData[i]["platformId"] + "')");}
@@ -2440,17 +2457,17 @@
                     a.classList.add('textCopyable');
                     a.removeAttribute("id");
 
-                    cellLinkCE.innerHTML = "<a id='tmp' target='_blank' style='font-weight: bold; color:#000000'>Challenge Enthusiasts</a>";
-                    var a = document.getElementById("tmp");
-                    a.href = "https://cedb.me/game/" + filteredData[i]["CEId"];
+                    cellLinkCE.innerHTML = "<a id='tmpCE' target='_blank' style='font-weight: bold; color:#000000'>Challenge Enthusiasts</a>";
+                    var b = document.getElementById("tmpCE");
+                    b.href = "https://cedb.me/game/" + filteredData[i]["CEId"];
                     
                     if(!linkReplaceId) {a.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + filteredData[i]["CEId"] + "')");}
-                    else {a.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + a.href + "')");}
+                    else {b.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + b.href + "')");}
 
-                    a.addEventListener("contextmenu", (e) => {e.preventDefault()});
-                    a.title = "Challenge Enthusiasts ID: " + filteredData[i]["CEId"];
-                    a.classList.add('textCopyable');
-                    a.removeAttribute("id");
+                    b.addEventListener("contextmenu", (e) => {e.preventDefault()});
+                    b.title = "Challenge Enthusiasts ID: " + filteredData[i]["CEId"];
+                    b.classList.add('textCopyable');
+                    b.removeAttribute("id");
 
                     if(i%2 == 0)
                     {
