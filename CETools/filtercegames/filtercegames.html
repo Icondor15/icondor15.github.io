@@ -787,7 +787,7 @@
                         str += ".&nbsp;<img height='16px' style='border: solid 1px black;' src='" + userData[check]["avatar"] + "'>";
                         str += "<br>Stats: <b>" + userData[check]["points"] + " ★</b> - <b>" + userData[check]["skill"]["rating"] + "<sup>CR</sup></b>";
                         if(Object.keys(userData[check]).includes("completions")) {str += " - <b>" + userData[check]["completions"]["count"] + "✔</b>"}
-                        str += "<p style='padding: 0px; margin: 5px'></p><span class='button' style='padding: 0px 10px; border:2px solid black;'' onclick='order(\"userPoints\")'>Order&nbsp;By&nbsp;Gained&nbsp;Points</span>";
+                        str += "<p style='padding: 0px; margin: 5px'></p><span class='button orderButton orderButtonUserPoints' style='padding: 0px 10px; border:2px solid black;'' onclick='orderFromButton = true; order(\"userPoints\")'>Order&nbsp;By&nbsp;Gained&nbsp;Points</span>";
                         document.getElementById("userSearchResults").innerHTML = str;
                         order(lastOrder);
                     }
