@@ -2463,7 +2463,7 @@
                     var b = document.getElementById("tmpCE");
                     b.href = "https://cedb.me/game/" + filteredData[i]["CEId"];
                     
-                    if(!linkReplaceId) {a.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + filteredData[i]["CEId"] + "')");}
+                    if(!linkReplaceId) {b.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + filteredData[i]["CEId"] + "')");}
                     else {b.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + b.href + "')");}
 
                     b.addEventListener("contextmenu", (e) => {e.preventDefault()});
