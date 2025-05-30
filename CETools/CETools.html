@@ -113,6 +113,18 @@
                     A list of lists <sub class="subtitle">(Ugh...)</sub> useful for site achievements! 
                 </td>
             </tr>
+            <tr>
+                <td colspan="2">
+                    <p style="margin: auto;font-size: 25px; font-weight: bold; text-align: center;">Settings</p>
+                    <sub class="subtitle">(These are memorized!)</sub>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <input type="checkbox" id="loadImagesCheckbox" checked onclick="setImages()">Load Images</input><br>
+                    <sub class="subtitle">(Turning this off can improve performace!)</sub>
+                </td>
+            </tr>
         </table>
         <hr style="color:black; width: 66%;">
         <table id="focusTable" style="margin: auto; width: 50%; text-align: center; background-color:#ffffff;">
@@ -144,6 +156,30 @@
             {
                 document.getElementById("userIdTextbox").value = getCookie("userId");
                 setUser();
+            }
+
+            if(getCookie("loadImages"))
+            {
+                if(getCookie("loadImages") == "true") {document.getElementById("loadImagesCheckbox").checked = true;}
+                else {document.getElementById("loadImagesCheckbox").removeAttribute("checked");}
+
+                setCookie("loadImages", getCookie("loadImages"), 90);
+            }
+            else {setCookie("loadImages", "true", 90);}
+
+            function setImages()
+            {
+                if(document.getElementById("loadImagesCheckbox").hasAttribute("checked"))
+                {
+                    setCookie("loadImages", "false", 90);
+                    document.getElementById("loadImagesCheckbox").removeAttribute("checked");
+                }
+                else
+                {
+                    setCookie("loadImages", "true", 90);
+                    document.getElementById("loadImagesCheckbox").setAttribute("checked", true);
+                }
+                
             }
 
             function setUser()
