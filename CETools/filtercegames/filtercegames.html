@@ -589,7 +589,8 @@
             document.getElementById("userDate").innerHTML = "Last checked user database on: <b>" + userDate["day"] + "/" + userDate["month"] + "/" + userDate["year"] + "</b> at <b>" + userDate["hour"] + ":" + userDate["minute"] + ":" + userDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(userDate["searchTime"], 2) + "</b> seconds.";
             document.getElementById("wishlistDate").innerHTML = "Last checked wishlist info on: <b>" + wishlistDate["day"] + "/" + wishlistDate["month"] + "/" + wishlistDate["year"] + "</b> at <b>" + wishlistDate["hour"] + ":" + wishlistDate["minute"] + ":" + wishlistDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(wishlistDate["searchTime"], 2) + "</b> seconds.";
             document.getElementById("totalTime").innerHTML = "Total search time: <b>~" + Math.round((date["searchTime"] + userDate["searchTime"] + wishlistDate["searchTime"])/60) + " minutes</b>.";
-
+            
+            let timeStart = 0;
             //Literally everything else (More Important)
             let lastOrder = "points";
             let filteredData = [];
@@ -614,6 +615,10 @@
             let useReverseOrder = true;
             let orderFromButton = true;
             let useInverseFilters = false;
+
+            //Load Image Cookie
+            let loadImages = true;
+            if(getCookie("loadImages") == "false") {loadImages = false;}
             
 
             let listControls = false;
@@ -784,7 +789,8 @@
                             }
                         }
                         
-                        str += ".&nbsp;<img height='16px' style='border: solid 1px black;' src='" + userData[check]["avatar"] + "'>";
+                        if(loadImages) {str += ".&nbsp;<img height='16px' style='border: solid 1px black;' src='" + userData[check]["avatar"] + "'>";}
+
                         str += "<br>Stats: <b>" + userData[check]["points"] + " ★</b> - <b>" + userData[check]["skill"]["rating"] + "<sup>CR</sup></b>";
                         if(Object.keys(userData[check]).includes("completions")) {str += " - <b>" + userData[check]["completions"]["count"] + "✔</b>"}
                         str += "<p style='padding: 0px; margin: 5px'></p><span class='button orderButton orderButtonUserPoints' style='padding: 0px 10px; border:2px solid black;'' onclick='orderFromButton = true; order(\"userPoints\")'>Order&nbsp;By&nbsp;Gained&nbsp;Points</span>";
@@ -830,7 +836,7 @@
                         }
                     }
                     
-                    str += ". <img height='16px' style='border: solid 1px black;' src='" + userData[check]["avatar"] + "'> ";
+                    if(loadImages) {str += ". <img height='16px' style='border: solid 1px black;' src='" + userData[check]["avatar"] + "'> ";}
                     document.getElementById("wishlistSearchResults").innerHTML = str;
 
                     if(check in wishlistData)
@@ -2014,6 +2020,8 @@
                 reloadMax = (filteredData.length - (filteredData.length % reloadUnit))/ reloadUnit + 1;
                 document.getElementById("loadingText").innerHTML = "Loading Table...";
                 
+                clearInterval(generateLoop);
+                timeStart = Date.now();
                 generateLoop = setInterval(generateTable, 1);
             }
 
@@ -2031,7 +2039,7 @@
                 if(reloadCounter >= reloadMax -1)
                 {
                     check = (filteredData.length % reloadUnit) + reloadUnit * reloadCounter;
-                    document.getElementById("loadingText").innerHTML = "Table Loaded!";
+                    document.getElementById("loadingText").innerHTML = "Table Loaded! (Took " + (Date.now() - timeStart)/1000 + "s.)";
                     clearInterval(generateLoop);
                 }
 
@@ -2157,7 +2165,7 @@
                         inf.setAttribute("title", filteredData[i]["information"])
                         inf.removeAttribute("id")
                     }
-                    cellName.style.backgroundImage = "url(" + filteredData[i]["header"] + ")";
+                    if(loadImages) {cellName.style.backgroundImage = "url(" + filteredData[i]["header"] + ")";}
                     cellName.style.backgroundSize = "100% 100%";
                     cellName.style.backgroundBlendMode = "lighten";
                     cellName.style.backgroundColor = "#ffffffd4";
