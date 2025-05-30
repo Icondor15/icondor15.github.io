@@ -250,6 +250,7 @@
 
             document.getElementById("wishlistDate").innerHTML = "Last checked wishlist info on: <b>" + wishlistDate["day"] + "/" + wishlistDate["month"] + "/" + wishlistDate["year"] + "</b> at <b>" + wishlistDate["hour"] + ":" + wishlistDate["minute"] + ":" + wishlistDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(wishlistDate["searchTime"], 2) + "</b> seconds.";
 
+            let timeStart = 0;
             //Literally everything else (More Important)
             let lastOrder = "points";
             let keys = Object.keys(userData); //also acts as point leaderboard order
@@ -264,6 +265,10 @@
             let useStaffOnly = false;
 
             let totalPoints = 0;
+            
+            //Load Image Cookie
+            let loadImages = true;
+            if(getCookie("loadImages") == "false") {loadImages = false;}
 
             let reloadMax = 0;
             let reloadCounter = 0;
@@ -413,6 +418,8 @@
                 reloadMax = (filteredData.length - (filteredData.length % reloadUnit))/ reloadUnit + 1;
                 document.getElementById("loadingText").innerHTML = "Loading Table...";
                 
+                clearInterval(generateLoop);
+                timeStart = Date.now();
                 generateLoop = setInterval(generateTable, 1);
             }
 
@@ -435,7 +442,7 @@
                 if(reloadCounter == reloadMax -1)
                 {
                     check = (filteredData.length % reloadUnit) + reloadUnit * reloadCounter;
-                    document.getElementById("loadingText").innerHTML = "Table Loaded!";
+                    document.getElementById("loadingText").innerHTML = "Table Loaded! (Took " + (Date.now() - timeStart)/1000 + "s.)";
                     clearInterval(generateLoop);
                 }
 
@@ -480,9 +487,11 @@
                     var cellRALink = row2.insertCell(2);
                     if(filteredData[i] in wishlistData) {var cellWishlist = row2.insertCell(3);}
 
-                    cellPFP.innerHTML = "<a href='" + userData[filteredData[i]]["avatar"] + "' target='_blank'><img style='height:80px; float:left;' src='" + userData[filteredData[i]]["avatar"] + "'></a>";
+                    if(loadImages) {cellPFP.innerHTML = "<a href='" + userData[filteredData[i]]["avatar"] + "' target='_blank'><img style='height:80px; float:left;' src='" + userData[filteredData[i]]["avatar"] + "'></a>";}
+                    else{cellPFP.innerHTML = "<a href='" + userData[filteredData[i]]["avatar"] + "' target='_blank'>Click to open the image in other tab</a>"}
                     cellPFP.style.padding = "0px";
                     cellPFP.title = "Click to open the image in another tab!";
+
                     cellName.innerHTML = "<span id='tmp'>" + userData[filteredData[i]]["name"] + "</span>";
                     var p = document.getElementById("tmp");
                     if(Object.keys(userData[filteredData[i]]).includes("userGroups"))
@@ -696,6 +705,35 @@
         function toFixed(num, fixed) {
             var re = new RegExp('^-?\\d+(?:\.\\d{0,' + (fixed || -1) + '})?');
             return num.toString().match(re)[0];
+        }
+
+        //Cookie functions
+        function setCookie(cname, cvalue, exdays)
+        {
+            const d = new Date();
+            d.setTime(d.getTime() + (exdays*24*60*60*1000));
+            let expires = "expires="+ d.toUTCString();
+            document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+        }
+
+        function getCookie(cname)
+        {
+            let name = cname + "=";
+            let decodedCookie = decodeURIComponent(document.cookie);
+            let ca = decodedCookie.split(';');
+            for(let i = 0; i <ca.length; i++)
+            {
+                let c = ca[i];
+                while (c.charAt(0) == ' ')
+                {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0)
+                {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return "";
         }
         </script>
     </body>
