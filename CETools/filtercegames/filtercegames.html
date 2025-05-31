@@ -1838,27 +1838,27 @@
                     var priceDifference = toFixed(initialCost - totalCost, 2)
 
                     if(activeCurrency == "USD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: $" + totalCost +
-                    " <span style='font-size: 16px'>(+DLCs $" + totalDlcCost + " = <span style='text-decoration: underline;'>$" + (totalCost + totalDlcCost) +
+                    " <span style='font-size: 16px'>(+DLCs $" + totalDlcCost + " = <span style='text-decoration: underline;'>$" + toFixed(totalCost + totalDlcCost, 2) +
                     "</span>)</span><br><span style='font-size:12px'>(No discount: $" + initialCost + " - Difference: $" + priceDifference + ")</span>"}
 
                     else if(activeCurrency == "EUR") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: " + totalCost +
-                    "€ <span style='font-size: 16px'>(+DLCs " + totalDlcCost + "€ = <span style='text-decoration: underline;'>" + (totalCost + totalDlcCost) +
+                    "€ <span style='font-size: 16px'>(+DLCs " + totalDlcCost + "€ = <span style='text-decoration: underline;'>" + toFixed(totalCost + totalDlcCost, 2) +
                     "€</span>)</span><br><span style='font-size:12px'>(No discount: " + initialCost + "€ - Difference: " + priceDifference + "€)</span>"}
 
                     else if(activeCurrency == "GBP") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: £" + totalCost +
-                    " <span style='font-size: 16px'>(+DLCs £" + totalDlcCost + " = <span style='text-decoration: underline;'>£" + (totalCost + totalDlcCost) +
+                    " <span style='font-size: 16px'>(+DLCs £" + totalDlcCost + " = <span style='text-decoration: underline;'>£" + toFixed(totalCost + totalDlcCost, 2) +
                     "</span>)</span><br><span style='font-size:12px'>(No discount: £" + initialCost + " - Difference: £" + priceDifference + ")</span>"}
 
                     else if(activeCurrency == "AUD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: A$" + totalCost +
-                    " <span style='font-size: 16px'>(+DLCs A$" + totalDlcCost + " = <span style='text-decoration: underline;'>A$" + (totalCost + totalDlcCost) +
+                    " <span style='font-size: 16px'>(+DLCs A$" + totalDlcCost + " = <span style='text-decoration: underline;'>A$" + toFixed(totalCost + totalDlcCost, 2) +
                     "</span>)</span><br><span style='font-size:12px'>(No discount: A$" + initialCost + " - Difference: A$" + priceDifference + ")</span>"}
 
                     else if(activeCurrency == "CAD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: C$" + totalCost +
-                    " <span style='font-size: 16px'>(+DLCs C$" + totalDlcCost + " = <span style='text-decoration: underline;'>C$" + (totalCost + totalDlcCost) +
+                    " <span style='font-size: 16px'>(+DLCs C$" + totalDlcCost + " = <span style='text-decoration: underline;'>C$" + toFixed(totalCost + totalDlcCost, 2) +
                     "</span>)</span><br><span style='font-size:12px'>(No discount: C$" + initialCost + " - Difference: C$" + priceDifference + ")</span>"}
 
                     else if(activeCurrency == "JPY") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: ¥" + totalCost +
-                    " <span style='font-size: 16px'>(+DLCs ¥" + totalDlcCost + " = <span style='text-decoration: underline;'>¥" + (totalCost + totalDlcCost) +
+                    " <span style='font-size: 16px'>(+DLCs ¥" + totalDlcCost + " = <span style='text-decoration: underline;'>¥" + toFixed(totalCost + totalDlcCost, 2) +
                     "</span>)</span><br><span style='font-size:12px'>(No discount: ¥" + initialCost + " - Difference: ¥" + priceDifference + ")</span>"}
                 }
                 else if(filteredData.filter(obj => {return obj["gameType"] == 3}).length != filteredData.length)
@@ -2662,6 +2662,28 @@
                             {
                                 cellDlcCount.innerHTML += " <b style='font-size:18px;' title='There is a DLC with \"Soundtrack\" or \"OST\" in its name here.'>𝅘𝅥𝅮</b>";
                             }
+
+                            if(("information" in filteredData[i] && filteredData[i]["information"].toUpperCase().includes("DLC")) || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("DLC"))
+                            {
+                                if(("information" in filteredData[i] && (filteredData[i]["information"].toUpperCase().includes("DLC REQUIRED") || filteredData[i]["information"].toUpperCase().includes("DLCS REQUIRED"))) || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("DLC REQUIRED") || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("DLCS REQUIRED"))
+                                {
+                                     cellDlcCount.innerHTML += "<br><b title='A DLC is likely required for a PO.'>R</b>";
+                                }
+                                else if(("information" in filteredData[i] && (filteredData[i]["information"].toUpperCase().includes("DLC NOT REQUIRED") || filteredData[i]["information"].toUpperCase().includes("DLCS NOT REQUIRED"))) || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("DLC NOT REQUIRED") || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("DLCS NOT REQUIRED"))
+                                {
+                                     cellDlcCount.innerHTML += "<br><b title='A DLC is likely not required for a PO.' style='text-decoration: line-through;'>R</b>";
+                                }
+                                else
+                                {
+                                    cellDlcCount.innerHTML += "<br><b title='A DLC may be required for a PO.'>R?</b>";
+                                }
+                            }
+
+                            if(filteredData[i]["milestones"]["communityText"].toUpperCase().includes("DLC"))
+                            {
+                                cellDlcCount.innerHTML += "<br><b title='A DLC may be required for a CO.'>(CO)R?</b>";
+                            }
+
                             cellDlcCount.style.backgroundColor = "#ff624a66";
                             
                             try{
