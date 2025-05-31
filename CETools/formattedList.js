@@ -52,12 +52,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "8 user reviews",
-            "total": 8,
-            "positive": 7,
-            "negative": 1
         }
     },
     {
@@ -112,12 +106,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 112,
-            "positive": 99,
-            "negative": 13
         }
     },
     {
@@ -172,12 +160,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 90,
-            "positive": 87,
-            "negative": 3
         }
     },
     {
@@ -232,12 +214,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 3178,
-            "positive": 2489,
-            "negative": 689
         }
     },
     {
@@ -292,12 +268,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 738,
-            "positive": 610,
-            "negative": 128
         }
     },
     {
@@ -352,12 +322,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 7
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 25,
-            "positive": 23,
-            "negative": 2
         }
     },
     {
@@ -412,12 +376,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4600,
-            "positive": 4253,
-            "negative": 347
         }
     },
     {
@@ -473,12 +431,6 @@ var data =
             "communityText": "",
             "achievements": 50
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4397,
-            "positive": 4019,
-            "negative": 378
-        },
         "information": "Valued with set seed."
     },
     {
@@ -533,12 +485,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 60,
-            "positive": 56,
-            "negative": 4
         }
     },
     {
@@ -593,12 +539,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "7 user reviews",
-            "total": 7,
-            "positive": 7,
-            "negative": 0
         }
     },
     {
@@ -612,7 +552,7 @@ var data =
         "points": 20,
         "createdAt": "2020-01-28T09:56:27.000Z",
         "updatedAt": "2025-05-24T21:45:49.000Z",
-        "playersCompleted": 44,
+        "playersCompleted": 45,
         "playersStarted": 0,
         "playersTotal": 244,
         "priceData": {
@@ -653,12 +593,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1487,
-            "positive": 1340,
-            "negative": 147
         }
     },
     {
@@ -713,12 +647,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2581,
-            "positive": 1981,
-            "negative": 600
         }
     },
     {
@@ -773,12 +701,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 367,
-            "positive": 297,
-            "negative": 70
         }
     },
     {
@@ -828,12 +750,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 95,
-            "positive": 53,
-            "negative": 42
         }
     },
     {
@@ -888,12 +804,6 @@ var data =
             "community": 2,
             "communityText": "Hardcore Orbiter\nComplete every song on the Featured Classic page with a Pure Perfect rating.\n\nHeavy Rotation\nObtain the speed trial lantern for every song on the Featured Classic page on 1.0x speed.",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 73321,
-            "positive": 68911,
-            "negative": 4410
         }
     },
     {
@@ -948,12 +858,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 2
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4546,
-            "positive": 4041,
-            "negative": 505
         }
     },
     {
@@ -1008,12 +912,6 @@ var data =
             "community": 2,
             "communityText": "To End All Contracts\nObtain all 114 Death Wish stamps without dying.\n\nYour Contract Has Expired\nBeat \"Seal the Deal\" with the One-Hit Hero badge equipped or without taking damage.",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 51653,
-            "positive": 50544,
-            "negative": 1109
         },
         "information": "For \"Timeless End\", you may only complete the original 114 Death Wish stamps. Seasonal event challenges (Winter and Summer) and the Nyakuza Metro secret sticker (commonly deemed as a \"secret\" Death Wish) are not required.\n\nBonus objectives are not required for \"Your Contract Has Expired\". Beating the level will do. This does not apply to the Primary Objective proof.\n\n**\"Zero Jumps 2: Electric Boogaloo\"** requires co-op (and online play on a few levels) and it's valued around use of the latter.\n\n----\n\n_Levels that can be ignored for the Emblem POs:_\n__Jumpless:__ none\n__Speedrun:__ Rush Hour (does not have speed goal)\n__Both:__ Award Ceremony (emblems per se are bugged, level is possible), spaceship time rifts (no reward)"
     },
@@ -1070,12 +968,6 @@ var data =
             "communityText": "Trials of Mana\nComplete TRIAL mode without any upgrades.",
             "achievements": 13
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 227,
-            "positive": 184,
-            "negative": 43
-        },
         "information": "You can reset your upgrades by selecting \"DELETE PROFILE\" in the options."
     },
     {
@@ -1130,12 +1022,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 99,
-            "positive": 74,
-            "negative": 25
         }
     },
     {
@@ -1190,12 +1076,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 37,
-            "positive": 35,
-            "negative": 2
         }
     },
     {
@@ -1250,12 +1130,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 26,
-            "positive": 23,
-            "negative": 3
         }
     },
     {
@@ -1310,12 +1184,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 47,
-            "positive": 37,
-            "negative": 10
         }
     },
     {
@@ -1370,12 +1238,6 @@ var data =
             "community": 2,
             "communityText": "Hoover Flags\nComplete the game with a completion rate of 0% without using The Thief.\n\nPoorly Prepared\nComplete the game with a completion rate of less than 15%, without using The Thief.",
             "achievements": 84
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 854,
-            "positive": 751,
-            "negative": 103
         }
     },
     {
@@ -1430,12 +1292,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 28911,
-            "positive": 26473,
-            "negative": 2438
         }
     },
     {
@@ -1490,12 +1346,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 384,
-            "positive": 309,
-            "negative": 75
         }
     },
     {
@@ -1551,12 +1401,6 @@ var data =
             "communityText": "",
             "achievements": 26
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 26,
-            "positive": 25,
-            "negative": 1
-        },
         "information": "Follow the order specified by the game for achievements!"
     },
     {
@@ -1611,12 +1455,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 13,
-            "positive": 13,
-            "negative": 0
         }
     },
     {
@@ -1671,12 +1509,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 92
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 914,
-            "positive": 760,
-            "negative": 154
         }
     },
     {
@@ -1731,12 +1563,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2990,
-            "positive": 2634,
-            "negative": 356
         }
     },
     {
@@ -1791,12 +1617,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 67
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3122,
-            "positive": 2803,
-            "negative": 319
         }
     },
     {
@@ -1851,12 +1671,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 854,
-            "positive": 754,
-            "negative": 100
         }
     },
     {
@@ -1911,12 +1725,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 137,
-            "positive": 109,
-            "negative": 28
         },
         "information": "In need of more opinions on difficulty."
     },
@@ -1973,12 +1781,6 @@ var data =
             "communityText": "",
             "achievements": 142
         },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 1750,
-            "positive": 1336,
-            "negative": 414
-        },
         "information": "DLC Required:\n-Aeterna Noctis: Virtuoso"
     },
     {
@@ -2033,12 +1835,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 22,
-            "positive": 17,
-            "negative": 5
         }
     },
     {
@@ -2093,12 +1889,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 8380,
-            "positive": 6510,
-            "negative": 1870
         }
     },
     {
@@ -2153,12 +1943,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 596,
-            "positive": 464,
-            "negative": 132
         }
     },
     {
@@ -2213,12 +1997,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 4
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 229,
-            "positive": 204,
-            "negative": 25
         }
     },
     {
@@ -2273,12 +2051,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2665,
-            "positive": 2186,
-            "negative": 479
         }
     },
     {
@@ -2333,12 +2105,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1071,
-            "positive": 941,
-            "negative": 130
         }
     },
     {
@@ -2393,12 +2159,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 2787,
-            "positive": 2662,
-            "negative": 125
         }
     },
     {
@@ -2453,12 +2213,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 301,
-            "positive": 257,
-            "negative": 44
         }
     },
     {
@@ -2513,12 +2267,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 4280,
-            "positive": 4074,
-            "negative": 206
         }
     },
     {
@@ -2573,12 +2321,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 43,
-            "positive": 43,
-            "negative": 0
         }
     },
     {
@@ -2633,12 +2375,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 60773,
-            "positive": 56659,
-            "negative": 4114
         }
     },
     {
@@ -2693,12 +2429,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 79,
-            "positive": 69,
-            "negative": 10
         }
     },
     {
@@ -2748,12 +2478,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 19931,
-            "positive": 18153,
-            "negative": 1778
         }
     },
     {
@@ -2808,12 +2532,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 16,
-            "positive": 16,
-            "negative": 0
         }
     },
     {
@@ -2868,12 +2586,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 150,
-            "positive": 130,
-            "negative": 20
         }
     },
     {
@@ -2928,12 +2640,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 463,
-            "positive": 301,
-            "negative": 162
         }
     },
     {
@@ -2988,12 +2694,6 @@ var data =
             "community": 1,
             "communityText": "You Have Chosen Death\nComplete \"WTF_HELL\" without skipping the map.",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 10758,
-            "positive": 8586,
-            "negative": 2172
         }
     },
     {
@@ -3048,12 +2748,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 840,
-            "positive": 673,
-            "negative": 167
         }
     },
     {
@@ -3109,12 +2803,6 @@ var data =
             "communityText": "Peak Despair\nFinish Depths of Despair without dying and with no assist options active.",
             "achievements": 19
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 74,
-            "positive": 69,
-            "negative": 5
-        },
         "information": "__Par times for reference__\n\nParalysis Garden: 29.50\nA Tower of Nightmares: 51.04\nNot Alone: 2:00.00\nShowtime: 35.00\nEvening Star: 40.00\n\n-------\n\nContainment: 1:00.00\nImplacable Ball: 30.00\nHall of Danger: 30.00\nInversion Chambers: 2:10.00\nDuality: 1:05.00\nParalyzing Decay: 0:55.00\nDepths of Despair: 7:00.00"
     },
     {
@@ -3169,12 +2857,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 8682,
-            "positive": 6674,
-            "negative": 2008
         }
     },
     {
@@ -3229,12 +2911,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 17,
-            "positive": 14,
-            "negative": 3
         }
     },
     {
@@ -3289,12 +2965,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 720,
-            "positive": 665,
-            "negative": 55
         }
     },
     {
@@ -3349,12 +3019,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 1290,
-            "positive": 903,
-            "negative": 387
         }
     },
     {
@@ -3409,12 +3073,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 166,
-            "positive": 156,
-            "negative": 10
         }
     },
     {
@@ -3470,12 +3128,6 @@ var data =
             "communityText": "",
             "achievements": 19
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1413,
-            "positive": 1400,
-            "negative": 13
-        },
         "information": "If you plan on submitting verification, enable \"No Nipple Mode\""
     },
     {
@@ -3530,12 +3182,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2977,
-            "positive": 2796,
-            "negative": 181
         }
     },
     {
@@ -3590,12 +3236,6 @@ var data =
             "community": 1,
             "communityText": "Made of Anger\nBeat the game on YOLO difficulty without using quit to menu.",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3142,
-            "positive": 2776,
-            "negative": 366
         }
     },
     {
@@ -3650,12 +3290,6 @@ var data =
             "community": 1,
             "communityText": "Angriest Video Game Nerd\nReach 100% in-game completion on One Credit Champ difficulty.",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 692,
-            "positive": 657,
-            "negative": 35
         }
     },
     {
@@ -3710,12 +3344,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 783,
-            "positive": 696,
-            "negative": 87
         }
     },
     {
@@ -3770,12 +3398,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 319,
-            "positive": 279,
-            "negative": 40
         }
     },
     {
@@ -3830,12 +3452,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 76
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 226,
-            "positive": 218,
-            "negative": 8
         }
     },
     {
@@ -3890,12 +3506,6 @@ var data =
             "community": 4,
             "communityText": "Escape Artist\nComplete Arcade mode on all normal discs in disc order without restarting, quitting or using glitches at any point.\n\nMade of Apes\nComplete Arcade mode on all hard discs in disc order without restarting, quitting or using glitches at any point.\n\nOh Banana!\nCollect the banana on all normal and hard discs, and beat the secret minigame.\n\nSmash Hitless\nComplete the single on both normal and hard mode without getting hit and without using glitches.",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3510,
-            "positive": 3329,
-            "negative": 181
         }
     },
     {
@@ -3950,12 +3560,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 81
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 350,
-            "positive": 329,
-            "negative": 21
         }
     },
     {
@@ -4010,12 +3614,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 60,
-            "positive": 57,
-            "negative": 3
         }
     },
     {
@@ -4071,12 +3669,6 @@ var data =
             "communityText": "",
             "achievements": 13
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 175,
-            "positive": 159,
-            "negative": 16
-        },
         "information": "Crystal = 5:30\nJungle = 5:45\nUnderground = 16:00"
     },
     {
@@ -4131,12 +3723,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2242,
-            "positive": 1994,
-            "negative": 248
         }
     },
     {
@@ -4191,12 +3777,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 18,
-            "positive": 18,
-            "negative": 0
         }
     },
     {
@@ -4251,12 +3831,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 9264,
-            "positive": 7353,
-            "negative": 1911
         }
     },
     {
@@ -4311,12 +3885,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 75,
-            "positive": 69,
-            "negative": 6
         }
     },
     {
@@ -4371,12 +3939,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 76887,
-            "positive": 70282,
-            "negative": 6605
         }
     },
     {
@@ -4431,12 +3993,6 @@ var data =
             "community": 1,
             "communityText": "You Really Couldn't Find Any Better Way to Spend Your Time?\nSeriously, go outside or something.",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 103,
-            "positive": 97,
-            "negative": 6
         }
     },
     {
@@ -4491,12 +4047,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 3579,
-            "positive": 2436,
-            "negative": 1143
         }
     },
     {
@@ -4551,12 +4101,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1959,
-            "positive": 1844,
-            "negative": 115
         }
     },
     {
@@ -4611,12 +4155,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 19,
-            "positive": 18,
-            "negative": 1
         }
     },
     {
@@ -4671,12 +4209,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1208,
-            "positive": 1094,
-            "negative": 114
         }
     },
     {
@@ -4731,12 +4263,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1570,
-            "positive": 1384,
-            "negative": 186
         }
     },
     {
@@ -4791,12 +4317,6 @@ var data =
             "community": 1,
             "communityText": "In the Nick of Time\nBeat Nick's Time of 7:21:64.",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 29,
-            "positive": 29,
-            "negative": 0
         }
     },
     {
@@ -4851,12 +4371,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 56,
-            "positive": 45,
-            "negative": 11
         }
     },
     {
@@ -4911,12 +4425,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 44,
-            "positive": 42,
-            "negative": 2
         }
     },
     {
@@ -4971,12 +4479,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 40,
-            "positive": 37,
-            "negative": 3
         }
     },
     {
@@ -5031,12 +4533,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 86
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 426,
-            "positive": 414,
-            "negative": 12
         }
     },
     {
@@ -5052,7 +4548,7 @@ var data =
         "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
-        "playersTotal": 258,
+        "playersTotal": 259,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -5091,12 +4587,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5653,
-            "positive": 5211,
-            "negative": 442
         }
     },
     {
@@ -5151,12 +4641,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 317,
-            "positive": 273,
-            "negative": 44
         }
     },
     {
@@ -5211,12 +4695,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 406,
-            "positive": 345,
-            "negative": 61
         }
     },
     {
@@ -5271,12 +4749,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 29,
-            "positive": 29,
-            "negative": 0
         }
     },
     {
@@ -5332,12 +4804,6 @@ var data =
             "communityText": "",
             "achievements": 30
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 584,
-            "positive": 497,
-            "negative": 87
-        },
         "information": "This game requires a VR headset in order to play."
     },
     {
@@ -5392,12 +4858,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 56
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 162,
-            "positive": 150,
-            "negative": 12
         }
     },
     {
@@ -5453,12 +4913,6 @@ var data =
             "communityText": "",
             "achievements": 45
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 30,
-            "positive": 28,
-            "negative": 2
-        },
         "information": "Note: if you're attempting the \"T\u039eMP\u00d8R\u0394L \u0394N\u00d8M\u0394LY\" PO, you might want to return to menu every time you fail a run instead of restarting. There are reported issues with earning its achievement otherwise."
     },
     {
@@ -5513,12 +4967,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 52
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 217,
-            "positive": 186,
-            "negative": 31
         }
     },
     {
@@ -5573,12 +5021,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 41,
-            "positive": 40,
-            "negative": 1
         }
     },
     {
@@ -5633,12 +5075,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6062,
-            "positive": 5512,
-            "negative": 550
         }
     },
     {
@@ -5693,12 +5129,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 6
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 51,
-            "positive": 46,
-            "negative": 5
         }
     },
     {
@@ -5753,12 +5183,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 39
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 186,
-            "positive": 164,
-            "negative": 22
         }
     },
     {
@@ -5813,12 +5237,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1687,
-            "positive": 1436,
-            "negative": 251
         }
     },
     {
@@ -5873,12 +5291,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 47,
-            "positive": 40,
-            "negative": 7
         }
     },
     {
@@ -5933,12 +5345,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 230,
-            "positive": 204,
-            "negative": 26
         }
     },
     {
@@ -5993,12 +5399,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 12167,
-            "positive": 11340,
-            "negative": 827
         }
     },
     {
@@ -6053,12 +5453,6 @@ var data =
             "community": 1,
             "communityText": "An Everlasting Day\nComplete all \"Eternal Day\" missions.",
             "achievements": 78
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3071,
-            "positive": 2633,
-            "negative": 438
         }
     },
     {
@@ -6113,12 +5507,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 134,
-            "positive": 105,
-            "negative": 29
         }
     },
     {
@@ -6173,12 +5561,6 @@ var data =
             "community": 4,
             "communityText": "Gambling Addict\nEarn a Gold Sticker on every Joker.\n\nFull House\nWin with every deck on Gold Stake difficulty.\n\nUp The AntE\nAchieve a highscore containing the letter E in an unseeded run.\n\nTo Infinity and Beyond\nAchieve a highscore of naneinf in an unseeded run. (Approx. 1.8e308)",
             "achievements": 31
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 152602,
-            "positive": 149583,
-            "negative": 3019
         }
     },
     {
@@ -6234,12 +5616,6 @@ var data =
             "communityText": "",
             "achievements": 17
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 37,
-            "positive": 33,
-            "negative": 4
-        },
         "information": "SSS rank is acquired at ~7,680,000 BR."
     },
     {
@@ -6294,12 +5670,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 350,
-            "positive": 336,
-            "negative": 14
         }
     },
     {
@@ -6354,12 +5724,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 7
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2319,
-            "positive": 1986,
-            "negative": 333
         }
     },
     {
@@ -6414,12 +5778,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 37381,
-            "positive": 35648,
-            "negative": 1733
         }
     },
     {
@@ -6474,12 +5832,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 237,
-            "positive": 231,
-            "negative": 6
         }
     },
     {
@@ -6534,12 +5886,6 @@ var data =
             "community": 2,
             "communityText": "Gotham's Greatrest\nObtain 20 Gotham's Greatest points on all Combat Challenges.\n\nMasters of F.E.A.R.\nEarn 3 stars on all Predator Challenges with all characters.",
             "achievements": 113
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 139883,
-            "positive": 123982,
-            "negative": 15901
         }
     },
     {
@@ -6559,33 +5905,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 2999,
-                "final": 2999,
-                "discountPercent": 0
+                "final": 749,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 2699,
-                "final": 2699,
-                "discountPercent": 0
+                "final": 674,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 2499,
-                "final": 2499,
-                "discountPercent": 0
+                "final": 624,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 309000,
-                "final": 309000,
-                "discountPercent": 0
+                "final": 77200,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 4295,
-                "final": 4295,
-                "discountPercent": 0
+                "final": 1073,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 3399,
-                "final": 3399,
-                "discountPercent": 0
+                "final": 849,
+                "discountPercent": 75
             }
         },
         "milestones": {
@@ -6594,12 +5940,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 128,
-            "positive": 71,
-            "negative": 57
         }
     },
     {
@@ -6654,12 +5994,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 73,
-            "positive": 64,
-            "negative": 9
         }
     },
     {
@@ -6714,12 +6048,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 71589,
-            "positive": 69592,
-            "negative": 1997
         }
     },
     {
@@ -6774,12 +6102,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 28908,
-            "positive": 26759,
-            "negative": 2149
         }
     },
     {
@@ -6834,12 +6156,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 412,
-            "positive": 369,
-            "negative": 43
         }
     },
     {
@@ -6894,12 +6210,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 472,
-            "positive": 441,
-            "negative": 31
         }
     },
     {
@@ -6955,12 +6265,6 @@ var data =
             "communityText": "",
             "achievements": 26
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 74575,
-            "positive": 71307,
-            "negative": 3268
-        },
         "information": "POs for the game currently being worked through - current objectives are placeholders and may yet be further reworked/refined."
     },
     {
@@ -7015,12 +6319,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 65
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 7254,
-            "positive": 6959,
-            "negative": 295
         }
     },
     {
@@ -7075,12 +6373,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 24,
-            "positive": 22,
-            "negative": 2
         }
     },
     {
@@ -7135,12 +6427,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 7
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1196,
-            "positive": 1134,
-            "negative": 62
         }
     },
     {
@@ -7190,12 +6476,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 321,
-            "positive": 230,
-            "negative": 91
         }
     },
     {
@@ -7250,12 +6530,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 53
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 170,
-            "positive": 124,
-            "negative": 46
         }
     },
     {
@@ -7310,12 +6584,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 35,
-            "positive": 29,
-            "negative": 6
         }
     },
     {
@@ -7370,12 +6638,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 81,
-            "positive": 72,
-            "negative": 9
         }
     },
     {
@@ -7430,12 +6692,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 505,
-            "positive": 447,
-            "negative": 58
         }
     },
     {
@@ -7490,12 +6746,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 80
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 140590,
-            "positive": 131897,
-            "negative": 8693
         }
     },
     {
@@ -7550,12 +6800,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 8770,
-            "positive": 7559,
-            "negative": 1211
         }
     },
     {
@@ -7610,12 +6854,6 @@ var data =
             "community": 1,
             "communityText": "BIT.TRIP CONQUEROR\nComplete all primary objectives from all site-listed games in the BIT.TRIP franchise. See verification requirements for complete list.",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 864,
-            "positive": 696,
-            "negative": 168
         }
     },
     {
@@ -7670,12 +6908,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 151,
-            "positive": 88,
-            "negative": 63
         }
     },
     {
@@ -7730,12 +6962,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 136,
-            "positive": 91,
-            "negative": 45
         }
     },
     {
@@ -7790,12 +7016,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 372,
-            "positive": 362,
-            "negative": 10
         }
     },
     {
@@ -7850,12 +7070,6 @@ var data =
             "community": 1,
             "communityText": "The Perfect Run\nGet the maximum score in all challenges.",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3918,
-            "positive": 3358,
-            "negative": 560
         }
     },
     {
@@ -7910,12 +7124,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 99,
-            "positive": 91,
-            "negative": 8
         }
     },
     {
@@ -7970,12 +7178,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1051,
-            "positive": 901,
-            "negative": 150
         }
     },
     {
@@ -8030,12 +7232,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 56
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2276,
-            "positive": 2068,
-            "negative": 208
         }
     },
     {
@@ -8090,12 +7286,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3150,
-            "positive": 2726,
-            "negative": 424
         }
     },
     {
@@ -8150,12 +7340,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 51409,
-            "positive": 46321,
-            "negative": 5088
         }
     },
     {
@@ -8210,12 +7394,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "4 user reviews",
-            "total": 4,
-            "positive": 2,
-            "negative": 2
         }
     },
     {
@@ -8270,12 +7448,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 11012,
-            "positive": 10346,
-            "negative": 666
         }
     },
     {
@@ -8331,12 +7503,6 @@ var data =
             "communityText": "",
             "achievements": 51
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2834,
-            "positive": 2575,
-            "negative": 259
-        },
         "information": "We are not yet certain what the hardest challenges / characters are - for anyone aiming for full completion, we recommend recording all challenges 16+ to help us assess proof requirements going forward. "
     },
     {
@@ -8391,12 +7557,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 17,
-            "positive": 14,
-            "negative": 3
         }
     },
     {
@@ -8451,12 +7611,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2502,
-            "positive": 2095,
-            "negative": 407
         }
     },
     {
@@ -8511,12 +7665,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 39
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1767,
-            "positive": 1550,
-            "negative": 217
         }
     },
     {
@@ -8571,12 +7719,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1881,
-            "positive": 1743,
-            "negative": 138
         }
     },
     {
@@ -8631,12 +7773,6 @@ var data =
             "community": 1,
             "communityText": "Greatest Hero In The Multiverse\nObtain a SSS Rank in New Game Arcade Mode on Very Hard with the Too Hard mutator enabled.",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 856,
-            "positive": 819,
-            "negative": 37
         }
     },
     {
@@ -8691,12 +7827,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 325,
-            "positive": 312,
-            "negative": 13
         }
     },
     {
@@ -8751,12 +7881,6 @@ var data =
             "community": 1,
             "communityText": "Undying Blitz\nClear the game with no deaths.",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 153,
-            "positive": 136,
-            "negative": 17
         }
     },
     {
@@ -8811,12 +7935,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "1 user reviews",
-            "total": 1,
-            "positive": 1,
-            "negative": 0
         }
     },
     {
@@ -8871,12 +7989,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 214,
-            "positive": 191,
-            "negative": 23
         }
     },
     {
@@ -8931,12 +8043,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4262,
-            "positive": 4027,
-            "negative": 235
         }
     },
     {
@@ -8991,12 +8097,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3983,
-            "positive": 3260,
-            "negative": 723
         }
     },
     {
@@ -9051,12 +8151,6 @@ var data =
             "community": 1,
             "communityText": "Living in the Present\nClear Parallel Mode without using the classic ruleset.",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 746,
-            "positive": 738,
-            "negative": 8
         }
     },
     {
@@ -9111,12 +8205,6 @@ var data =
             "community": 2,
             "communityText": "Insatiable Appetite\nBeat the game without dying.\n\nOvereater\nObtain all food combinations.",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 625,
-            "positive": 548,
-            "negative": 77
         }
     },
     {
@@ -9171,12 +8259,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 300,
-            "positive": 272,
-            "negative": 28
         }
     },
     {
@@ -9231,12 +8313,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 60
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1224,
-            "positive": 1171,
-            "negative": 53
         }
     },
     {
@@ -9291,12 +8367,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 35,
-            "positive": 33,
-            "negative": 2
         }
     },
     {
@@ -9351,12 +8421,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1562,
-            "positive": 1446,
-            "negative": 116
         }
     },
     {
@@ -9411,12 +8475,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1400,
-            "positive": 1296,
-            "negative": 104
         }
     },
     {
@@ -9471,12 +8529,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 17,
-            "positive": 16,
-            "negative": 1
         }
     },
     {
@@ -9531,12 +8583,6 @@ var data =
             "community": 1,
             "communityText": "So Over It\nGet to the top 50 times.",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 281,
-            "positive": 237,
-            "negative": 44
         }
     },
     {
@@ -9591,12 +8637,6 @@ var data =
             "community": 1,
             "communityText": "Yggdrasil\nComplete every challenge.",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 11112,
-            "positive": 10091,
-            "negative": 1021
         }
     },
     {
@@ -9651,12 +8691,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 9762,
-            "positive": 9122,
-            "negative": 640
         }
     },
     {
@@ -9711,12 +8745,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5865,
-            "positive": 5571,
-            "negative": 294
         }
     },
     {
@@ -9771,12 +8799,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "5 user reviews",
-            "total": 5,
-            "positive": 5,
-            "negative": 0
         }
     },
     {
@@ -9831,12 +8853,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 58816,
-            "positive": 57019,
-            "negative": 1797
         }
     },
     {
@@ -9891,12 +8907,6 @@ var data =
             "community": 1,
             "communityText": "The Field Has Eyes, The Forest Has Ears\nEarn every achievement in the game.",
             "achievements": 135
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1799,
-            "positive": 1763,
-            "negative": 36
         }
     },
     {
@@ -9951,12 +8961,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 659,
-            "positive": 615,
-            "negative": 44
         }
     },
     {
@@ -10011,12 +9015,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 75
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 493,
-            "positive": 484,
-            "negative": 9
         }
     },
     {
@@ -10071,12 +9069,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 52
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 57,
-            "positive": 54,
-            "negative": 3
         }
     },
     {
@@ -10131,12 +9123,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 30,
-            "positive": 28,
-            "negative": 2
         }
     },
     {
@@ -10191,12 +9177,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 69
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 69,
-            "positive": 58,
-            "negative": 11
         }
     },
     {
@@ -10251,12 +9231,6 @@ var data =
             "community": 1,
             "communityText": "Hop to It\nComplete all maps (including DLC).",
             "achievements": 57
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 703,
-            "positive": 504,
-            "negative": 199
         }
     },
     {
@@ -10311,12 +9285,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 83,
-            "positive": 66,
-            "negative": 17
         }
     },
     {
@@ -10371,12 +9339,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1275,
-            "positive": 1103,
-            "negative": 172
         }
     },
     {
@@ -10431,12 +9393,6 @@ var data =
             "community": 1,
             "communityText": "Mr. Robot\nFinish the game on Insane difficulty without losing a life.",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 771,
-            "positive": 759,
-            "negative": 12
         }
     },
     {
@@ -10486,12 +9442,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 50479,
-            "positive": 46596,
-            "negative": 3883
         }
     },
     {
@@ -10546,12 +9496,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 88
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 28322,
-            "positive": 16934,
-            "negative": 11388
         }
     },
     {
@@ -10601,12 +9545,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 58080,
-            "positive": 54110,
-            "negative": 3970
         },
         "information": "CO-OP REQUIRED FOR SPECIAL OPS PO. There are two missions that require co-op, all other missions can be completed either solo or with a partner."
     },
@@ -10662,12 +9600,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 76
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 37909,
-            "positive": 33607,
-            "negative": 4302
         }
     },
     {
@@ -10722,12 +9654,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 14356,
-            "positive": 7519,
-            "negative": 6837
         }
     },
     {
@@ -10782,12 +9708,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 40611,
-            "positive": 38596,
-            "negative": 2015
         }
     },
     {
@@ -10842,12 +9762,6 @@ var data =
             "community": 1,
             "communityText": "Ultramarathon\nRun 84390 meters in any level in 1P mode.",
             "achievements": 31
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 290,
-            "positive": 254,
-            "negative": 36
         }
     },
     {
@@ -10902,12 +9816,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 1081,
-            "positive": 825,
-            "negative": 256
         }
     },
     {
@@ -10962,12 +9870,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 43
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 528,
-            "positive": 501,
-            "negative": 27
         }
     },
     {
@@ -11022,12 +9924,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 136,
-            "positive": 129,
-            "negative": 7
         }
     },
     {
@@ -11082,12 +9978,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 125530,
-            "positive": 120674,
-            "negative": 4856
         }
     },
     {
@@ -11142,12 +10032,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 80
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 113,
-            "positive": 67,
-            "negative": 46
         }
     },
     {
@@ -11198,12 +10082,6 @@ var data =
             "communityText": "",
             "achievements": 23
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2391,
-            "positive": 2007,
-            "negative": 384
-        },
         "information": "To earn the hardcore achievement, DO NOT turn on navigation aids."
     },
     {
@@ -11253,12 +10131,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 47
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 9314,
-            "positive": 7525,
-            "negative": 1789
         }
     },
     {
@@ -11313,12 +10185,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 39
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 417,
-            "positive": 313,
-            "negative": 104
         }
     },
     {
@@ -11368,12 +10234,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 9954,
-            "positive": 8689,
-            "negative": 1265
         }
     },
     {
@@ -11428,12 +10288,6 @@ var data =
             "community": 1,
             "communityText": "Pixel Legend+\nObtain the \"best ending\" on Hard mode without saving.",
             "achievements": 76
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 7638,
-            "positive": 7100,
-            "negative": 538
         }
     },
     {
@@ -11489,12 +10343,6 @@ var data =
             "communityText": "The Resident Caveblazer\nObtain the Eyeball hat by completing a 5 relic run with every perk.",
             "achievements": 21
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4385,
-            "positive": 3754,
-            "negative": 631
-        },
         "information": "Kanra - \"Try triple shot + Magicians Ring\"\nTrusty Patches - Triple shot + Crystal Sword + Any magic damage ring"
     },
     {
@@ -11549,12 +10397,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 134,
-            "positive": 117,
-            "negative": 17
         }
     },
     {
@@ -11609,12 +10451,6 @@ var data =
             "community": 9,
             "communityText": "Olympic Stargazer\nComplete all maps and obtain all red berries in the Grandmaster Lobbies of Spring Collab and Strawberry Jam.\n\nAbove and Beyond\nObtain any Tier 8 or harder golden berry (without assist mode).\n\nSpace Jam\nComplete all maps and obtain all red berries in Monika's D-Sides and the Expert Lobbies of Spring Collab and Strawberry Jam.\n\nIntrepid Explorer\nComplete all maps and obtain all red berries in Glyph and the Beginner, Intermediate, and Advanced Lobbies of Spring Collab and Strawberry Jam.\n\nOver the Top\nObtain 100% completion in game in a single run without dying. (Without assist mode)\n\nSpeed Berry\nComplete an any% Speedrun of the game in under 30 minutes. (Without assist mode)\n\nLunar Inconvenience\nObtain the Moon & Golden Berries in a single run. (Without Assist mode)\n\nSolid Gold\nComplete all \"Full Clear\" A sides without dying. (Without Assist mode)\n\nDouble Golden\nObtain both golden berries in chapter 1-A in the same run. (Without assist mode)",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 120371,
-            "positive": 117324,
-            "negative": 3047
         }
     },
     {
@@ -11669,12 +10505,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 110,
-            "positive": 101,
-            "negative": 9
         }
     },
     {
@@ -11729,12 +10559,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 25,
-            "positive": 25,
-            "negative": 0
         }
     },
     {
@@ -11790,12 +10614,6 @@ var data =
             "communityText": "",
             "achievements": 29
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 145,
-            "positive": 139,
-            "negative": 6
-        },
         "information": "Use of assist mode will show an asterisk on the timer."
     },
     {
@@ -11850,12 +10668,6 @@ var data =
             "community": 1,
             "communityText": "Nothing Left Behind\nObtain a gold medal everywhere possible.",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1095,
-            "positive": 1002,
-            "negative": 93
         }
     },
     {
@@ -11910,12 +10722,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 15653,
-            "positive": 14280,
-            "negative": 1373
         }
     },
     {
@@ -11965,12 +10771,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 43
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4427,
-            "positive": 4130,
-            "negative": 297
         },
         "information": "Curated on Steam: https://store.steampowered.com/app/251130/Chroma_Squad/?curator_clanid=36185934"
     },
@@ -12026,12 +10826,6 @@ var data =
             "community": 1,
             "communityText": "End of Time\nReach End of Project ending with Expert mode, Blood Mist 4 and Crimson Wilderness.",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 12245,
-            "positive": 11053,
-            "negative": 1192
         }
     },
     {
@@ -12086,12 +10880,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 75
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 272,
-            "positive": 253,
-            "negative": 19
         }
     },
     {
@@ -12146,12 +10934,6 @@ var data =
             "community": 1,
             "communityText": "Out of Bounds\nClear all levels in the \"Challenging\" user level pack.",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 18,
-            "positive": 17,
-            "negative": 1
         }
     },
     {
@@ -12206,12 +10988,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 121,
-            "positive": 113,
-            "negative": 8
         }
     },
     {
@@ -12266,12 +11042,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 60
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 47,
-            "positive": 47,
-            "negative": 0
         }
     },
     {
@@ -12326,12 +11096,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 61
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 33000,
-            "positive": 31958,
-            "negative": 1042
         }
     },
     {
@@ -12386,12 +11150,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 35,
-            "positive": 30,
-            "negative": 5
         }
     },
     {
@@ -12446,12 +11204,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 934,
-            "positive": 809,
-            "negative": 125
         }
     },
     {
@@ -12506,12 +11258,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 24,
-            "positive": 19,
-            "negative": 5
         }
     },
     {
@@ -12566,12 +11312,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 17109,
-            "positive": 16002,
-            "negative": 1107
         }
     },
     {
@@ -12626,12 +11366,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "6 user reviews",
-            "total": 6,
-            "positive": 6,
-            "negative": 0
         }
     },
     {
@@ -12686,12 +11420,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 43
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 57260,
-            "positive": 48285,
-            "negative": 8975
         }
     },
     {
@@ -12746,12 +11474,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 34,
-            "positive": 30,
-            "negative": 4
         }
     },
     {
@@ -12806,12 +11528,6 @@ var data =
             "community": 2,
             "communityText": "Lone Star\nComplete a Loop Run in an unseeded single player run.\n\nMaverick\nComplete an unseeded single player run without having any upgrades applied.",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1692,
-            "positive": 1497,
-            "negative": 195
         }
     },
     {
@@ -12866,12 +11582,6 @@ var data =
             "community": 2,
             "communityText": "Best in the galaxy (Potential SO)\nBeat Arcade on Very Hard (including the TLB) with an overall S rank as all characters\n\nSSSSuper Strikers\nOn Very Hard difficulty complete all individual planets and boss rush+ as all characters with an S rank.",
             "achievements": 120
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 58,
-            "positive": 57,
-            "negative": 1
         }
     },
     {
@@ -12926,12 +11636,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 3
-        },
-        "reviews": {
-            "description": "5 user reviews",
-            "total": 5,
-            "positive": 3,
-            "negative": 2
         }
     },
     {
@@ -12986,12 +11690,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 26,
-            "positive": 18,
-            "negative": 8
         }
     },
     {
@@ -13046,12 +11744,6 @@ var data =
             "community": 1,
             "communityText": "Salt Bae\nGet a gold medal everywhere possible.",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2937,
-            "positive": 2620,
-            "negative": 317
         }
     },
     {
@@ -13106,12 +11798,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 57
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2156,
-            "positive": 1963,
-            "negative": 193
         }
     },
     {
@@ -13166,12 +11852,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 80
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6651,
-            "positive": 5678,
-            "negative": 973
         }
     },
     {
@@ -13227,12 +11907,6 @@ var data =
             "communityText": "",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 405,
-            "positive": 372,
-            "negative": 33
-        },
         "information": "This game requires a VR headset in order to play."
     },
     {
@@ -13287,12 +11961,6 @@ var data =
             "community": 2,
             "communityText": "Inner Peace\nClear each stage with a Pacifist rank (including Stage 9).\n\nThis might be a dream, but it's not something you sleep through\nGet a counterstop.",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 120,
-            "positive": 120,
-            "negative": 0
         }
     },
     {
@@ -13347,12 +12015,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 5
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 116,
-            "positive": 95,
-            "negative": 21
         }
     },
     {
@@ -13408,12 +12070,6 @@ var data =
             "communityText": "Shell-ebrate your success\nComplete all challenges.",
             "achievements": 100
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 26811,
-            "positive": 26260,
-            "negative": 551
-        },
         "information": "NOTICE:\nGame is still currently in early access, so values and PO structure highly likely to change as updates come out and when the full game releases."
     },
     {
@@ -13468,12 +12124,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 39,
-            "positive": 39,
-            "negative": 0
         }
     },
     {
@@ -13528,12 +12178,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 3
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 43,
-            "positive": 37,
-            "negative": 6
         }
     },
     {
@@ -13583,12 +12227,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 51
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3180,
-            "positive": 2764,
-            "negative": 416
         }
     },
     {
@@ -13643,12 +12281,6 @@ var data =
             "community": 2,
             "communityText": "Crash Course\nBeat all dev times (except \"Hog Ride\" and \"Bye Bye Blimps\").\n\nCrashn't\nComplete all primary objectives from all site-listed games in the Crash Bandicoot franchise. See verification requirements for complete list.",
             "achievements": 74
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 17996,
-            "positive": 16666,
-            "negative": 1330
         }
     },
     {
@@ -13703,12 +12335,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6223,
-            "positive": 5576,
-            "negative": 647
         }
     },
     {
@@ -13764,12 +12390,6 @@ var data =
             "communityText": "",
             "achievements": 34
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 308,
-            "positive": 300,
-            "negative": 8
-        },
         "information": "Balanced around Type Z."
     },
     {
@@ -13824,12 +12444,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 84,
-            "positive": 74,
-            "negative": 10
         }
     },
     {
@@ -13885,12 +12499,6 @@ var data =
             "communityText": "Virtue of Perfection\nComplete all Rush Modes with a platinum medal in every round.\n\nHow?\nFinish all 127 quests with only the \"Prepare to Hi!\" modifier enabled in New Game Plus.",
             "achievements": 86
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 16855,
-            "positive": 15693,
-            "negative": 1162
-        },
         "information": "This is an extremely long game, expect to spend at least 70 hours before being able to do objectives. It's possible to skip the entire game and go straight for the objectives if you wish (check the any% speedrun). DLC is required for all objectives.\n\nUse of assist mode in any form is banned for all objectives. Assist mode time is tracked in statistics and saved to the file permanently. \n\nRegarding the exclusion of Custom Cup Rushes: there are scoring exploits in the Vermillion and Platform Cups that allow you to farm points in specific rounds and thus get platinum medals in the Rush Modes without much effort (since they are based on an overall score and not per round), and the Platform Cup is known to consistently crash after a certain point, making any medal impossible to obtain. For all other Custom Cups, there's either no Rush Mode or the Rush Mode is too easy to be considered as worthwhile PO content."
     },
     {
@@ -13945,12 +12553,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 193,
-            "positive": 180,
-            "negative": 13
         }
     },
     {
@@ -13965,7 +12567,7 @@ var data =
         "createdAt": "2023-02-17T17:16:34.000Z",
         "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
-        "playersStarted": 5,
+        "playersStarted": 6,
         "playersTotal": 179,
         "priceData": {
             "USD": {
@@ -14005,12 +12607,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 20777,
-            "positive": 20123,
-            "negative": 654
         }
     },
     {
@@ -14065,12 +12661,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1021,
-            "positive": 900,
-            "negative": 121
         }
     },
     {
@@ -14125,12 +12715,6 @@ var data =
             "community": 1,
             "communityText": "Class Act\nComplete every chapter with every battleship on Hard difficulty.",
             "achievements": 65
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4261,
-            "positive": 3659,
-            "negative": 602
         }
     },
     {
@@ -14185,12 +12769,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1904,
-            "positive": 1861,
-            "negative": 43
         }
     },
     {
@@ -14245,12 +12823,6 @@ var data =
             "community": 2,
             "communityText": "Codafied\nComplete \"All Zones Mode\" with solo Coda without picking up any items or using any shrines.\n\nHow Low Can You Go?\nComplete \"All Zones Mode\" with every DLC character separately without picking up any items or using any shrines.",
             "achievements": 53
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 25103,
-            "positive": 24041,
-            "negative": 1062
         }
     },
     {
@@ -14305,12 +12877,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 108
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1929,
-            "positive": 1781,
-            "negative": 148
         }
     },
     {
@@ -14366,12 +12932,6 @@ var data =
             "communityText": "Knee Slapper\nBeat all possible bosses on Expert without using a super art or firing a shot.\n\nRubber Hose\nObtain all S ranks without using either Ms. Chalice or the Divine Charm.",
             "achievements": 42
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 186392,
-            "positive": 179469,
-            "negative": 6923
-        },
         "information": "DLC Required:\n-The Delicious Last Course"
     },
     {
@@ -14426,12 +12986,6 @@ var data =
             "community": 1,
             "communityText": "Cursed Journal\nWrite all Bestiary entries with their complete sketches.",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 8549,
-            "positive": 7193,
-            "negative": 1356
         }
     },
     {
@@ -14486,12 +13040,6 @@ var data =
             "community": 1,
             "communityText": "Blessed Castilla\nFinish the game without dying. ",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 631,
-            "positive": 539,
-            "negative": 92
         }
     },
     {
@@ -14546,12 +13094,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 125,
-            "positive": 93,
-            "negative": 32
         }
     },
     {
@@ -14606,12 +13148,6 @@ var data =
             "community": 2,
             "communityText": "Cyber Contortionist\nComplete each chapter in the DLC campaign (including the boss fight) in level order without dying or quitting/resetting any levels, while also getting at least a 1-crystal time per level.\n\nSynthwave Acrobat\nComplete each chapter in the main campaign in level order without dying or quitting/resetting any levels, while also getting at least a 1-crystal time per level.",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 3874,
-            "positive": 3683,
-            "negative": 191
         }
     },
     {
@@ -14666,12 +13202,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1410,
-            "positive": 1182,
-            "negative": 228
         }
     },
     {
@@ -14726,12 +13256,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 39,
-            "positive": 35,
-            "negative": 4
         }
     },
     {
@@ -14786,12 +13310,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1170,
-            "positive": 944,
-            "negative": 226
         }
     },
     {
@@ -14846,12 +13364,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1220,
-            "positive": 1078,
-            "negative": 142
         }
     },
     {
@@ -14906,12 +13418,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 66
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 38,
-            "positive": 38,
-            "negative": 0
         }
     },
     {
@@ -14966,12 +13472,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 106,
-            "positive": 97,
-            "negative": 9
         }
     },
     {
@@ -15026,12 +13526,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 170,
-            "positive": 166,
-            "negative": 4
         }
     },
     {
@@ -15086,12 +13580,6 @@ var data =
             "community": 1,
             "communityText": "Abyss\nDefeat the True Boss on Extreme without continues.",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 459,
-            "positive": 424,
-            "negative": 35
         }
     },
     {
@@ -15146,12 +13634,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 226,
-            "positive": 197,
-            "negative": 29
         }
     },
     {
@@ -15206,12 +13688,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 146,
-            "positive": 138,
-            "negative": 8
         }
     },
     {
@@ -15266,12 +13742,6 @@ var data =
             "community": 2,
             "communityText": "Chronicle Specialist\nComplete CS mode using the default ship on every mission.\n\nSaviour of the Cosmos\nGet all achievements.",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 771,
-            "positive": 637,
-            "negative": 134
         }
     },
     {
@@ -15326,12 +13796,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2341,
-            "positive": 1760,
-            "negative": 581
         }
     },
     {
@@ -15386,12 +13850,6 @@ var data =
             "community": 4,
             "communityText": "Dark Child of the Outlands\nBeat the game on NG+7.\n\nDeprived For Life\nBeat the game at soul level 1.\n\nPop No Hits, Vol. 2\nBeat the game without getting hit (see the proof requirement below).\n\nRestless Soul \nBeat the game without dying or resting at a bonfire on a solo NG savefile.",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 116460,
-            "positive": 97864,
-            "negative": 18596
         }
     },
     {
@@ -15447,12 +13905,6 @@ var data =
             "communityText": "Fading Light\nBeat the game on NG+7.\n\nFrom Soft to Insane\nBeat the game without getting hit (see the proof requirement below).\n\nGot Good\nBeat the game without dying. \n\nIron Soul\nBeat the game at soul level 1.",
             "achievements": 43
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 413232,
-            "positive": 389796,
-            "negative": 23436
-        },
         "information": "Doesn't have cloud save, careful!"
     },
     {
@@ -15507,12 +13959,6 @@ var data =
             "community": 4,
             "communityText": "Let There Be Fire\nBeat the game on NG+6.\n\nPyromancy Run\nBeat the game at soul level 1.\n\nUndying Champion\nBeat the game without dying.\n\nUntouchable Hero\nBeat the game without getting hit (see the proof requirement below).",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 128989,
-            "positive": 118862,
-            "negative": 10127
         }
     },
     {
@@ -15567,12 +14013,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "5 user reviews",
-            "total": 5,
-            "positive": 5,
-            "negative": 0
         }
     },
     {
@@ -15627,12 +14067,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 12367,
-            "positive": 10180,
-            "negative": 2187
         }
     },
     {
@@ -15687,12 +14121,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 21585,
-            "positive": 20498,
-            "negative": 1087
         }
     },
     {
@@ -15742,12 +14170,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 124
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 158,
-            "positive": 134,
-            "negative": 24
         }
     },
     {
@@ -15802,12 +14224,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 750,
-            "positive": 589,
-            "negative": 161
         }
     },
     {
@@ -15862,12 +14278,6 @@ var data =
             "community": 5,
             "communityText": "Ultra Violent\nComplete Boss Rush Mode with Easy Mode and Angry Mode enabled simultaneously.\n\nUndead\nComplete Boss Rush Mode with One Hit Mode and Easy Mode enabled simultaneously.\n\nUniverse Annihilator\nComplete Boss Rush Mode with Angry Mode enabled.\n\nRestless Wrath\nComplete the game with Easy Mode and Angry Mode enabled simultaneously. Unlocking all bosses from the start is disallowed.\n\nAnger Issues\nComplete the game with Angry Mode enabled. Unlocking all bosses from the start is disallowed.",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 265,
-            "positive": 241,
-            "negative": 24
         },
         "information": "The in-game option \"LMB Toggle Fire\" is banned for ALL objectives that require video proof. This is due to an unintended exploit where it can be used to recover dodge at a much faster rate than normal, thus making the game easier. There is no need to show the option being disabled when submitting proof, since it's very easy to tell whether it's been used in a run or not."
     },
@@ -15924,12 +14334,6 @@ var data =
             "communityText": "",
             "achievements": 121
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 168197,
-            "positive": 163293,
-            "negative": 4904
-        },
         "information": "For the Boss Rush primary objectives, use of custom mode is only allowed to relock weapons and mutations that aren't the default ones. In other words, you must keep the items on this list enabled: [https://pastebin.com/H8G7D5sD](https://pastebin.com/H8G7D5sD)\n\nKanra - \"try baseball bat + wolftrap/stun grenade\""
     },
     {
@@ -15984,12 +14388,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 144
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5770,
-            "positive": 5471,
-            "negative": 299
         }
     },
     {
@@ -16045,12 +14443,6 @@ var data =
             "communityText": "Ashes to Ashes\nBeat the game on Hard Mode within 1 hour without dying.\n\nMade of Bones\nBeat the game within 1 hour without dying and without quitting any missions.",
             "achievements": 24
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 5421,
-            "positive": 5192,
-            "negative": 229
-        },
         "information": "\"Fear the Reaper\" can be done in a Normal mode savefile.\n\nIn order to complete all of the Primary Objectives, you'll need to use at least two savefiles, one in Normal mode (for \"Fear the Reaper\") and one in Hard mode (for \"Warbringer\" and \"Through Rain and Ash\").\n"
     },
     {
@@ -16105,12 +14497,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2029,
-            "positive": 1724,
-            "negative": 305
         }
     },
     {
@@ -16160,12 +14546,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 270,
-            "positive": 226,
-            "negative": 44
         }
     },
     {
@@ -16220,12 +14600,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 74
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3399,
-            "positive": 3050,
-            "negative": 349
         }
     },
     {
@@ -16280,12 +14654,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 555,
-            "positive": 496,
-            "negative": 59
         }
     },
     {
@@ -16340,12 +14708,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 148,
-            "positive": 146,
-            "negative": 2
         }
     },
     {
@@ -16400,12 +14762,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 29,
-            "positive": 29,
-            "negative": 0
         }
     },
     {
@@ -16460,12 +14816,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 18635,
-            "positive": 17415,
-            "negative": 1220
         }
     },
     {
@@ -16520,12 +14870,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5272,
-            "positive": 4298,
-            "negative": 974
         }
     },
     {
@@ -16580,12 +14924,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 20,
-            "positive": 20,
-            "negative": 0
         }
     },
     {
@@ -16640,12 +14978,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 80,
-            "positive": 62,
-            "negative": 18
         }
     },
     {
@@ -16700,12 +15032,6 @@ var data =
             "community": 1,
             "communityText": "Castle Ex Death\nClear Deathsmiles Version Normal (or Arcade) with all maps at Lv3. (No Continues, Ex Map included).",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 544,
-            "positive": 526,
-            "negative": 18
         }
     },
     {
@@ -16760,12 +15086,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 43
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 92,
-            "positive": 88,
-            "negative": 4
         }
     },
     {
@@ -16820,12 +15140,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 352,
-            "positive": 303,
-            "negative": 49
         }
     },
     {
@@ -16880,12 +15194,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3240,
-            "positive": 2822,
-            "negative": 418
         }
     },
     {
@@ -16941,12 +15249,6 @@ var data =
             "communityText": "Lone Digger\nComplete a solo Elite Deep Dive without using bosco or dying. No mods allowed.",
             "achievements": 69
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 342749,
-            "positive": 333336,
-            "negative": 9413
-        },
         "information": "Not using any mods at all for the \"Lone Digger\" objective makes the verification easier, but for those who do use mods, the list of the ones you've used must be shown prior or after finishing the run. Anything that modifies the gameplay in a relevant way is banned, whether that is a better visual/sound cue, or straight up modifying the gameplay.\n"
     },
     {
@@ -17001,12 +15303,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 715,
-            "positive": 573,
-            "negative": 142
         }
     },
     {
@@ -17062,12 +15358,6 @@ var data =
             "communityText": "",
             "achievements": 50
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 57,
-            "positive": 53,
-            "negative": 4
-        },
         "information": "The \"One Coin\" achievement is not possible to obtain. See this document for details: https://drive.google.com/file/d/1z_53ApiI6DQPhrPMhYaT_O3e-LiY-4z-/view?usp=sharing"
     },
     {
@@ -17122,12 +15412,6 @@ var data =
             "community": 1,
             "communityText": "Hexceptional \nComplete the Tower with Hex Mode enabled.",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 750,
-            "positive": 605,
-            "negative": 145
         }
     },
     {
@@ -17182,12 +15466,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 917,
-            "positive": 866,
-            "negative": 51
         }
     },
     {
@@ -17242,12 +15520,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 26,
-            "positive": 22,
-            "negative": 4
         }
     },
     {
@@ -17302,12 +15574,6 @@ var data =
             "community": 3,
             "communityText": "Made of Bicycles\nFinish a Career session from highlands to peaks without bailing or restarting.\n\nSmoking Sexy Style\nUnlock the Rainbow Lux Bike.\n\nThe Platinum Run\nFinish a Career+ session from desert to glaciers without bailing or restarting.",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 19186,
-            "positive": 18095,
-            "negative": 1091
         }
     },
     {
@@ -17363,12 +15629,6 @@ var data =
             "communityText": "Rainbow Ruler\nComplete every dungeon with all classes and obtain all badges.",
             "achievements": 35
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2274,
-            "positive": 1911,
-            "negative": 363
-        },
         "information": "Curated on Steam: https://store.steampowered.com/app/226620/Desktop_Dungeons/?curator_clanid=36185934"
     },
     {
@@ -17423,12 +15683,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 3677,
-            "positive": 2861,
-            "negative": 816
         }
     },
     {
@@ -17483,12 +15737,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 55,
-            "positive": 53,
-            "negative": 2
         }
     },
     {
@@ -17543,12 +15791,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 179
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 500,
-            "positive": 402,
-            "negative": 98
         }
     },
     {
@@ -17603,12 +15845,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 59
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 28095,
-            "positive": 25883,
-            "negative": 2212
         }
     },
     {
@@ -17663,12 +15899,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 81
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 40821,
-            "positive": 31016,
-            "negative": 9805
         }
     },
     {
@@ -17723,12 +15953,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 17,
-            "positive": 13,
-            "negative": 4
         }
     },
     {
@@ -17783,12 +16007,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 663,
-            "positive": 657,
-            "negative": 6
         }
     },
     {
@@ -17843,12 +16061,6 @@ var data =
             "community": 7,
             "communityText": "Dagger Devil\nSurvive for 1200 seconds.\n\nDagger Dictator\nSurvive for 1100 seconds.\n\nDaggerless\nSurvive for 110 seconds without firing a shot.\n\nHyper Deity\nSurvive for 1000 seconds without using \"farm\" tactics.\n\nSharp Steeled\nSurvive for 500 seconds on both the original \"V1\" and \"V2\" spawnsets.\n\nSuicide Mission\nSurvive for 500 seconds with only a Level 2 hand.\n\nDaggerborn\nSurvive for 1250 seconds.",
             "achievements": 1
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 9061,
-            "positive": 8633,
-            "negative": 428
         }
     },
     {
@@ -17904,12 +16116,6 @@ var data =
             "communityText": "",
             "achievements": 29
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 135,
-            "positive": 120,
-            "negative": 15
-        },
         "information": "DLC required for all POs except \"Bootcamp\"."
     },
     {
@@ -17964,12 +16170,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 55
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 145841,
-            "positive": 139970,
-            "negative": 5871
         }
     },
     {
@@ -18024,12 +16224,6 @@ var data =
             "community": 1,
             "communityText": "Like Sparda, Like Son\nDMC1: Obtain an S Rank on every mission in Dante Must Die! mode (no Super Dante costume).",
             "achievements": 99
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 17038,
-            "positive": 15824,
-            "negative": 1214
         }
     },
     {
@@ -18084,12 +16278,6 @@ var data =
             "community": 1,
             "communityText": "The Downward Spiral\nBeat Descent mode on Nightmare difficulty.",
             "achievements": 111
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 431,
-            "positive": 387,
-            "negative": 44
         }
     },
     {
@@ -18144,12 +16332,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 107
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 82499,
-            "positive": 75045,
-            "negative": 7454
         }
     },
     {
@@ -18204,12 +16386,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 53
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 11106,
-            "positive": 9945,
-            "negative": 1161
         }
     },
     {
@@ -18264,12 +16440,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 69
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 498,
-            "positive": 368,
-            "negative": 130
         }
     },
     {
@@ -18324,12 +16494,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 79,
-            "positive": 60,
-            "negative": 19
         }
     },
     {
@@ -18384,12 +16548,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 99,
-            "positive": 82,
-            "negative": 17
         }
     },
     {
@@ -18444,12 +16602,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 74,
-            "positive": 68,
-            "negative": 6
         }
     },
     {
@@ -18504,12 +16656,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 49
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1509,
-            "positive": 1417,
-            "negative": 92
         }
     },
     {
@@ -18564,12 +16710,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 71
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 44520,
-            "positive": 39328,
-            "negative": 5192
         }
     },
     {
@@ -18624,12 +16764,6 @@ var data =
             "community": 2,
             "communityText": "Dev Destroyer\nBeat every developer time shown on the leaderboards in hard mode at 100% speed.\n\nDev Challenger\nBeat every developer time shown on the leaderboards in normal mode at 100% speed.",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 968,
-            "positive": 908,
-            "negative": 60
         }
     },
     {
@@ -18684,12 +16818,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 80
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 82346,
-            "positive": 80403,
-            "negative": 1943
         }
     },
     {
@@ -18744,12 +16872,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 31
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 7183,
-            "positive": 6641,
-            "negative": 542
         }
     },
     {
@@ -18804,12 +16926,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 49,
-            "positive": 45,
-            "negative": 4
         }
     },
     {
@@ -18865,12 +16981,6 @@ var data =
             "communityText": "",
             "achievements": 100
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 968,
-            "positive": 927,
-            "negative": 41
-        },
         "information": "Can have some replay desync issues, more noticeable on second loops. It's recommended to record videos of live runs.\n"
     },
     {
@@ -18925,12 +17035,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 257,
-            "positive": 247,
-            "negative": 10
         }
     },
     {
@@ -18985,12 +17089,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 54
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 206673,
-            "positive": 197449,
-            "negative": 9224
         }
     },
     {
@@ -19045,12 +17143,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 47
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 202331,
-            "positive": 185040,
-            "negative": 17291
         }
     },
     {
@@ -19105,12 +17197,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 85
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 27573,
-            "positive": 26617,
-            "negative": 956
         }
     },
     {
@@ -19165,12 +17251,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 12,
-            "positive": 9,
-            "negative": 3
         }
     },
     {
@@ -19225,12 +17305,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 258,
-            "positive": 212,
-            "negative": 46
         }
     },
     {
@@ -19285,12 +17359,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 23,
-            "positive": 21,
-            "negative": 2
         }
     },
     {
@@ -19345,12 +17413,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 535,
-            "positive": 384,
-            "negative": 151
         }
     },
     {
@@ -19405,12 +17467,6 @@ var data =
             "community": 1,
             "communityText": "Rotten Tomatoes\nObtain the Tomato on Hard mode.",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 8193,
-            "positive": 7914,
-            "negative": 279
         }
     },
     {
@@ -19465,12 +17521,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 185,
-            "positive": 121,
-            "negative": 64
         }
     },
     {
@@ -19525,12 +17575,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 70,
-            "positive": 68,
-            "negative": 2
         }
     },
     {
@@ -19585,12 +17629,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 660,
-            "positive": 509,
-            "negative": 151
         }
     },
     {
@@ -19645,12 +17683,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 173,
-            "positive": 127,
-            "negative": 46
         }
     },
     {
@@ -19705,12 +17737,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 134,
-            "positive": 129,
-            "negative": 5
         }
     },
     {
@@ -19765,12 +17791,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1178,
-            "positive": 1146,
-            "negative": 32
         }
     },
     {
@@ -19825,12 +17845,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 269,
-            "positive": 214,
-            "negative": 55
         }
     },
     {
@@ -19885,12 +17899,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 239,
-            "positive": 210,
-            "negative": 29
         }
     },
     {
@@ -19945,12 +17953,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 62,
-            "positive": 43,
-            "negative": 19
         }
     },
     {
@@ -20005,12 +18007,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 261,
-            "positive": 219,
-            "negative": 42
         }
     },
     {
@@ -20065,12 +18061,6 @@ var data =
             "community": 1,
             "communityText": "Not again\nComplete the game 15 times.",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 204,
-            "positive": 170,
-            "negative": 34
         }
     },
     {
@@ -20125,12 +18115,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 38463,
-            "positive": 37159,
-            "negative": 1304
         }
     },
     {
@@ -20186,12 +18170,6 @@ var data =
             "communityText": "",
             "achievements": 19
         },
-        "reviews": {
-            "description": "7 user reviews",
-            "total": 7,
-            "positive": 7,
-            "negative": 0
-        },
         "information": "Video Guide + Medal requirements in description.\n[https://www.youtube.com/watch?v=3Evnc0pMZC4](https://www.youtube.com/watch?v=3Evnc0pMZC4)"
     },
     {
@@ -20246,12 +18224,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 97,
-            "positive": 79,
-            "negative": 18
         }
     },
     {
@@ -20301,12 +18273,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 7380,
-            "positive": 6471,
-            "negative": 909
         }
     },
     {
@@ -20361,12 +18327,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 76
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 813,
-            "positive": 770,
-            "negative": 43
         }
     },
     {
@@ -20421,12 +18381,6 @@ var data =
             "community": 1,
             "communityText": "Iron Moustache\nComplete time trial mode with 0 deaths.",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 49,
-            "positive": 46,
-            "negative": 3
         }
     },
     {
@@ -20481,12 +18435,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 74,
-            "positive": 69,
-            "negative": 5
         }
     },
     {
@@ -20541,12 +18489,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 84
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 213,
-            "positive": 204,
-            "negative": 9
         }
     },
     {
@@ -20601,12 +18543,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 13727,
-            "positive": 11744,
-            "negative": 1983
         }
     },
     {
@@ -20661,12 +18597,6 @@ var data =
             "community": 1,
             "communityText": "Platinum Trailblazer \nBeat the game with at least the Hard Opening Key VIII with all characters.",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 9282,
-            "positive": 8662,
-            "negative": 620
         }
     },
     {
@@ -20721,12 +18651,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "9 user reviews",
-            "total": 9,
-            "positive": 8,
-            "negative": 1
         }
     },
     {
@@ -20781,12 +18705,6 @@ var data =
             "community": 5,
             "communityText": "Cleaning Crew\nObtain SS on Scrubforce DX combination map.\n\nCustodian of the Year (S)\nObtain SS on all Community Map Pack levels.\n\nDetergent Deployer\nObtain SS on Difficults combination map.\n\nOmnisanitized\nObtain all Dustkid achievements.\n\nWay of the Mop\nObtain SS on Dustforce DX combination map.",
             "achievements": 1
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2339,
-            "positive": 2056,
-            "negative": 283
         }
     },
     {
@@ -20841,12 +18759,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 97,
-            "positive": 76,
-            "negative": 21
         }
     },
     {
@@ -20901,12 +18813,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 129
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 244,
-            "positive": 223,
-            "negative": 21
         }
     },
     {
@@ -20961,12 +18867,6 @@ var data =
             "community": 1,
             "communityText": "Finely Feathered\nGain an S rank in every stage in \"Rogue\" mode on Hardcore difficulty.",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 222,
-            "positive": 176,
-            "negative": 46
         }
     },
     {
@@ -21021,12 +18921,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "9 user reviews",
-            "total": 9,
-            "positive": 6,
-            "negative": 3
         }
     },
     {
@@ -21081,12 +18975,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 22,
-            "positive": 22,
-            "negative": 0
         }
     },
     {
@@ -21141,12 +19029,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 47
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2194,
-            "positive": 2015,
-            "negative": 179
         }
     },
     {
@@ -21201,12 +19083,6 @@ var data =
             "community": 2,
             "communityText": "Egground the World\nComplete all primary objectives from all site-listed games in the Eggcelerate! franchise. See verification requirements for complete list.\n\nMade of Egg\nComplete all levels in a row without dropping the egg and without using level resets.",
             "achievements": 98
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 98,
-            "positive": 95,
-            "negative": 3
         }
     },
     {
@@ -21261,12 +19137,6 @@ var data =
             "community": 1,
             "communityText": "Made of Eggnog\nComplete all levels in a row without dropping the egg and without using level resets.",
             "achievements": 71
-        },
-        "reviews": {
-            "description": "9 user reviews",
-            "total": 9,
-            "positive": 9,
-            "negative": 0
         }
     },
     {
@@ -21321,12 +19191,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 75
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 48,
-            "positive": 46,
-            "negative": 2
         }
     },
     {
@@ -21381,12 +19245,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 45,
-            "positive": 40,
-            "negative": 5
         }
     },
     {
@@ -21441,12 +19299,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 300,
-            "positive": 288,
-            "negative": 12
         }
     },
     {
@@ -21502,12 +19354,6 @@ var data =
             "communityText": "",
             "achievements": 9
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 13,
-            "positive": 11,
-            "negative": 2
-        },
         "information": "Elasto Mania II has a lower value due to assumed skill transfer from playing Elasto Mania Remastered first. \n\nDo not interpret the value of this game being correct in isolation, and it is not recommended to complete this game before Elasto Mania Remastered."
     },
     {
@@ -21562,12 +19408,6 @@ var data =
             "community": 7,
             "communityText": "A Pipe a day...\nComplete all 52 levels in the \"Pipo\" external levelpack.\n\nElma God\nObtain a \"Godlike\" time on any level.\n\nTerminally Online\nComplete the \"Elma Online Levelpack\" external levelpack with a combined total time of less than 45 minutes.\n\nThe School of Hard Elastics\nAchieve all 157 target times in the \"Moposite Playing Levels\" external levelpack.\n\nBrutal Beast\nObtain a \"Legendary\" time on any level\n\nHoylier Than Thou\nObtain a \"World Class\" time on all 54 main levels.\n\nBodacious Bouncer\nObtain a \"Pro\" time on all 54 main levels.",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 259,
-            "positive": 257,
-            "negative": 2
         }
     },
     {
@@ -21622,12 +19462,6 @@ var data =
             "community": 4,
             "communityText": "Iron Rune\nCollect all boss remembrances while at Rune level 1.\n\nLord of the Ring\nBeat the game without dying.\n\nOld Gods Felled by a Mortal Unnamed\nBeat the game on NG+7.\n\nThe Dark Soul\nComplete all primary objectives from all site-listed games in the FromSoft Soulslike franchise. See verification requirements for complete list.",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1054870,
-            "positive": 979862,
-            "negative": 75008
         }
     },
     {
@@ -21682,12 +19516,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2756,
-            "positive": 2386,
-            "negative": 370
         }
     },
     {
@@ -21742,12 +19570,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 3805,
-            "positive": 2791,
-            "negative": 1014
         }
     },
     {
@@ -21802,12 +19624,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2200,
-            "positive": 1932,
-            "negative": 268
         }
     },
     {
@@ -21862,12 +19678,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3295,
-            "positive": 2963,
-            "negative": 332
         }
     },
     {
@@ -21922,12 +19732,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 651,
-            "positive": 541,
-            "negative": 110
         }
     },
     {
@@ -21982,12 +19786,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 240,
-            "positive": 227,
-            "negative": 13
         }
     },
     {
@@ -22042,12 +19840,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6177,
-            "positive": 5803,
-            "negative": 374
         }
     },
     {
@@ -22102,12 +19894,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3581,
-            "positive": 3275,
-            "negative": 306
         }
     },
     {
@@ -22162,12 +19948,6 @@ var data =
             "community": 1,
             "communityText": "Float Like a Lily, Sting Like a Bee\nBeat Boss Rush mode on NG+ with Instant Death modifier on.",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 39511,
-            "positive": 37132,
-            "negative": 2379
         }
     },
     {
@@ -22222,12 +20002,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 13394,
-            "positive": 12808,
-            "negative": 586
         }
     },
     {
@@ -22283,12 +20057,6 @@ var data =
             "communityText": "Double Down\nClear double challenge mode.",
             "achievements": 54
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 85463,
-            "positive": 81585,
-            "negative": 3878
-        },
         "information": "Kanra - \"Try rainbow runs\""
     },
     {
@@ -22308,33 +20076,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 799,
+                "discountPercent": 20
             },
             "EUR": {
                 "initial": 975,
-                "final": 975,
-                "discountPercent": 0
+                "final": 780,
+                "discountPercent": 20
             },
             "GBP": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 680,
+                "discountPercent": 20
             },
             "JPY": {
                 "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "final": 96000,
+                "discountPercent": 20
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 1160,
+                "discountPercent": 20
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 1039,
+                "discountPercent": 20
             }
         },
         "milestones": {
@@ -22343,12 +20111,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 186,
-            "positive": 171,
-            "negative": 15
         }
     },
     {
@@ -22403,12 +20165,6 @@ var data =
             "community": 3,
             "communityText": "Divide By Zero\nAchieve a Maxout (999,999,999 points) in any of the Endless modes.\n\nEuler\nDefeat a Lv. MAX CPU with \"\"999 Sec.\", \"Easy\" and \"100 Questions\" selected in Calculation Battle.\n\nGauss\nDefeat a Lv. MAX CPU with \"999 Sec.\", \"Expert\" and \"100 Questions\" selected in Calculation Battle.",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 38,
-            "positive": 38,
-            "negative": 0
         }
     },
     {
@@ -22463,12 +20219,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 18,
-            "positive": 16,
-            "negative": 2
         }
     },
     {
@@ -22523,12 +20273,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1381,
-            "positive": 1213,
-            "negative": 168
         }
     },
     {
@@ -22583,12 +20327,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 7
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 34,
-            "positive": 27,
-            "negative": 7
         }
     },
     {
@@ -22643,12 +20381,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 441,
-            "positive": 422,
-            "negative": 19
         }
     },
     {
@@ -22703,12 +20435,6 @@ var data =
             "community": 1,
             "communityText": "Forward and Forward and Forward\nBeat loop 4 in endless mode with no continues.",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 258,
-            "positive": 250,
-            "negative": 8
         }
     },
     {
@@ -22763,12 +20489,6 @@ var data =
             "community": 1,
             "communityText": "Stonemason\nCreate a tier three monolith.",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 753,
-            "positive": 649,
-            "negative": 104
         }
     },
     {
@@ -22823,12 +20543,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 185,
-            "positive": 174,
-            "negative": 11
         }
     },
     {
@@ -22844,7 +20558,7 @@ var data =
         "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 19,
         "playersStarted": 19,
-        "playersTotal": 616,
+        "playersTotal": 617,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -22883,12 +20597,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 78
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 13394,
-            "positive": 12760,
-            "negative": 634
         }
     },
     {
@@ -22943,12 +20651,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 128
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 1935,
-            "positive": 1452,
-            "negative": 483
         }
     },
     {
@@ -23003,12 +20705,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 11005,
-            "positive": 8657,
-            "negative": 2348
         }
     },
     {
@@ -23063,12 +20759,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 448,
-            "positive": 396,
-            "negative": 52
         }
     },
     {
@@ -23123,12 +20813,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 14,
-            "positive": 14,
-            "negative": 0
         }
     },
     {
@@ -23183,12 +20867,6 @@ var data =
             "community": 1,
             "communityText": "Lead God\nObtain all 5 master rounds in a single run.",
             "achievements": 47
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 3526,
-            "positive": 2656,
-            "negative": 870
         }
     },
     {
@@ -23243,12 +20921,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4616,
-            "positive": 4162,
-            "negative": 454
         }
     },
     {
@@ -23303,12 +20975,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 59,
-            "positive": 58,
-            "negative": 1
         }
     },
     {
@@ -23363,12 +21029,6 @@ var data =
             "community": 1,
             "communityText": "Expropriate\nBeat the developer's full game speedrun time.",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 73,
-            "positive": 64,
-            "negative": 9
         }
     },
     {
@@ -23423,12 +21083,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 51
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 163,
-            "positive": 119,
-            "negative": 44
         }
     },
     {
@@ -23483,12 +21137,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1379,
-            "positive": 1214,
-            "negative": 165
         }
     },
     {
@@ -23543,12 +21191,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 168,
-            "positive": 130,
-            "negative": 38
         }
     },
     {
@@ -23603,12 +21245,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 391,
-            "positive": 368,
-            "negative": 23
         }
     },
     {
@@ -23663,12 +21299,6 @@ var data =
             "community": 1,
             "communityText": "MI6 Deck Dominator\nComplete a full run on Purist difficulty with every starting deck.",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3292,
-            "positive": 3010,
-            "negative": 282
         }
     },
     {
@@ -23723,12 +21353,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 63
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 37204,
-            "positive": 32995,
-            "negative": 4209
         }
     },
     {
@@ -23783,12 +21407,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 995,
-            "positive": 743,
-            "negative": 252
         }
     },
     {
@@ -23843,12 +21461,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1583,
-            "positive": 1413,
-            "negative": 170
         }
     },
     {
@@ -23903,12 +21515,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 146,
-            "positive": 136,
-            "negative": 10
         }
     },
     {
@@ -23963,12 +21569,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 42,
-            "positive": 39,
-            "negative": 3
         }
     },
     {
@@ -24023,12 +21623,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 14732,
-            "positive": 13667,
-            "negative": 1065
         }
     },
     {
@@ -24083,12 +21677,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 11652,
-            "positive": 10554,
-            "negative": 1098
         }
     },
     {
@@ -24143,12 +21731,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 544,
-            "positive": 491,
-            "negative": 53
         }
     },
     {
@@ -24203,12 +21785,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 10,
-            "positive": 10,
-            "negative": 0
         }
     },
     {
@@ -24263,12 +21839,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 121,
-            "positive": 113,
-            "negative": 8
         }
     },
     {
@@ -24323,12 +21893,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 107,
-            "positive": 104,
-            "negative": 3
         }
     },
     {
@@ -24383,12 +21947,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 340,
-            "positive": 326,
-            "negative": 14
         }
     },
     {
@@ -24443,12 +22001,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2778,
-            "positive": 2057,
-            "negative": 721
         }
     },
     {
@@ -24498,12 +22050,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 934,
-            "positive": 863,
-            "negative": 71
         }
     },
     {
@@ -24558,12 +22104,6 @@ var data =
             "community": 1,
             "communityText": "Metaphysical Marathon\nGet a score of at least 50,000 points on \"SALARIA\" on \"Impetuoso\" difficulty.",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 862,
-            "positive": 750,
-            "negative": 112
         }
     },
     {
@@ -24618,12 +22158,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 76,
-            "positive": 51,
-            "negative": 25
         }
     },
     {
@@ -24678,12 +22212,6 @@ var data =
             "community": 1,
             "communityText": "Grand Gem Hoarder\nBeat the original version of the \"Gem Hoarder\" achievement by completing the game with over 7000 crystal shards.",
             "achievements": 56
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 4744,
-            "positive": 4509,
-            "negative": 235
         }
     },
     {
@@ -24739,12 +22267,6 @@ var data =
             "communityText": "",
             "achievements": 24
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 18,
-            "positive": 17,
-            "negative": 1
-        },
         "information": "The achievements require a depot to a previous version. "
     },
     {
@@ -24799,12 +22321,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 366,
-            "positive": 349,
-            "negative": 17
         }
     },
     {
@@ -24859,12 +22375,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 151,
-            "positive": 134,
-            "negative": 17
         }
     },
     {
@@ -24919,12 +22429,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 115
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 123390,
-            "positive": 114162,
-            "negative": 9228
         },
         "information": "The Last Autumn, On The Edge, and The Rifts DLCs are required. All are included in the season pass."
     },
@@ -24981,12 +22485,6 @@ var data =
             "communityText": "Refined ReFTLexes\nBeat the game on \"Hard\" difficulty without ever pausing.\n\nStronger Than Light\nComplete all in-game achievements on \"Hard\" difficulty.",
             "achievements": 51
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 74950,
-            "positive": 71464,
-            "negative": 3486
-        },
         "information": "Curated on Steam: https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/?curator_clanid=36185934"
     },
     {
@@ -25041,12 +22539,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 11,
-            "positive": 11,
-            "negative": 0
         }
     },
     {
@@ -25101,12 +22593,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 12198,
-            "positive": 11099,
-            "negative": 1099
         }
     },
     {
@@ -25161,12 +22647,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 47
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2645,
-            "positive": 2323,
-            "negative": 322
         }
     },
     {
@@ -25221,12 +22701,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 72,
-            "positive": 68,
-            "negative": 4
         }
     },
     {
@@ -25281,12 +22755,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "5 user reviews",
-            "total": 5,
-            "positive": 5,
-            "negative": 0
         }
     },
     {
@@ -25341,12 +22809,6 @@ var data =
             "community": 1,
             "communityText": "Soup-er Unethical\nComplete an Unethical difficulty run without losing a heart.",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 111,
-            "positive": 104,
-            "negative": 7
         }
     },
     {
@@ -25402,12 +22864,6 @@ var data =
             "communityText": "",
             "achievements": 17
         },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 92,
-            "positive": 71,
-            "negative": 21
-        },
         "information": "Play on \"usertest\" branch to avoid freezes."
     },
     {
@@ -25462,12 +22918,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 122,
-            "positive": 74,
-            "negative": 48
         }
     },
     {
@@ -25522,12 +22972,6 @@ var data =
             "community": 1,
             "communityText": "What's the Difference Between a Garbanzo Bean and a Chickpea?\nEarn 100% completion on Perfect(o) Ultra Tough rank (200% speed, 1HP, Level Respawn)",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 309,
-            "positive": 305,
-            "negative": 4
         }
     },
     {
@@ -25582,12 +23026,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 14472,
-            "positive": 12704,
-            "negative": 1768
         }
     },
     {
@@ -25642,12 +23080,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 362,
-            "positive": 323,
-            "negative": 39
         }
     },
     {
@@ -25697,12 +23129,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 250,
-            "positive": 160,
-            "negative": 90
         }
     },
     {
@@ -25757,12 +23183,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 52,
-            "positive": 51,
-            "negative": 1
         }
     },
     {
@@ -25817,12 +23237,6 @@ var data =
             "community": 2,
             "communityText": "Geometric Domination\nBeat every official level in level order in Normal Mode without dying, restarting or quitting. Alternatively, beat \"RobTop Travel\" by Atomic in Normal Mode.\n\nPushed to the Extreme\nComplete \"Bloodbath\" by Riot in Normal Mode.",
             "achievements": 120
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 427355,
-            "positive": 398703,
-            "negative": 28652
         }
     },
     {
@@ -25877,12 +23291,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1523,
-            "positive": 1367,
-            "negative": 156
         }
     },
     {
@@ -25937,12 +23345,6 @@ var data =
             "community": 1,
             "communityText": "Mr. Clean\nObtain all Gold times without dying.",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 69,
-            "positive": 64,
-            "negative": 5
         }
     },
     {
@@ -25997,12 +23399,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 38,
-            "positive": 37,
-            "negative": 1
         }
     },
     {
@@ -26057,12 +23453,6 @@ var data =
             "community": 1,
             "communityText": "Early Commute\nBeat the final time of the speedrun competition (11:28).",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2564,
-            "positive": 2288,
-            "negative": 276
         }
     },
     {
@@ -26117,12 +23507,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 39,
-            "positive": 39,
-            "negative": 0
         }
     },
     {
@@ -26142,13 +23526,13 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 799,
-                "final": 239,
-                "discountPercent": 70
+                "final": 799,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 699,
-                "final": 209,
-                "discountPercent": 70
+                "final": 699,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 579,
@@ -26162,13 +23546,13 @@ var data =
             },
             "AUD": {
                 "initial": 1150,
-                "final": 345,
-                "discountPercent": 70
+                "final": 1150,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 899,
-                "final": 269,
-                "discountPercent": 70
+                "final": 899,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -26177,12 +23561,6 @@ var data =
             "community": 1,
             "communityText": "Sexy Hiking Skills\nObtain the golden pot by climbing the mountain 50 times.",
             "achievements": 3
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 76911,
-            "positive": 63410,
-            "negative": 13501
         },
         "information": "**Do not use the CO as a reference or justification for arguments.**"
     },
@@ -26238,12 +23616,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1254,
-            "positive": 1045,
-            "negative": 209
         }
     },
     {
@@ -26298,12 +23670,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 7
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 82,
-            "positive": 81,
-            "negative": 1
         }
     },
     {
@@ -26359,12 +23725,6 @@ var data =
             "communityText": "",
             "achievements": 45
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 63131,
-            "positive": 57697,
-            "negative": 5434
-        },
         "information": "\"Project_Hel\" DLC is required for the \"Ghost in the Shell\" Primary Objective. "
     },
     {
@@ -26419,12 +23779,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 9505,
-            "positive": 7667,
-            "negative": 1838
         }
     },
     {
@@ -26479,12 +23833,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 31
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 1115,
-            "positive": 879,
-            "negative": 236
         }
     },
     {
@@ -26539,12 +23887,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 78,
-            "positive": 77,
-            "negative": 1
         }
     },
     {
@@ -26599,12 +23941,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 1895,
-            "positive": 1471,
-            "negative": 424
         }
     },
     {
@@ -26659,12 +23995,6 @@ var data =
             "community": 2,
             "communityText": "Gem Maniac\nComplete the game on \"Uber Hardcore\", collecting all gems.\n\nYOwlLO\nBeat the game and all 3 bonus levels on \"Uber Hardcore\" difficulty.",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 424,
-            "positive": 348,
-            "negative": 76
         }
     },
     {
@@ -26719,12 +24049,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 71,
-            "positive": 58,
-            "negative": 13
         }
     },
     {
@@ -26780,12 +24104,6 @@ var data =
             "communityText": "Tarred and Feathered\nComplete all built-in custom campaigns on Ludicrous difficulty.",
             "achievements": 11
         },
-        "reviews": {
-            "description": "Mixed",
-            "total": 481,
-            "positive": 277,
-            "negative": 204
-        },
         "information": "Achievements are broken on the live branch, switch to version 1.7.0 through Properties -> Betas."
     },
     {
@@ -26840,12 +24158,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 14,
-            "positive": 14,
-            "negative": 0
         }
     },
     {
@@ -26900,12 +24212,6 @@ var data =
             "community": 1,
             "communityText": "Salt Mine\nComplete a colossal triangle game with insane mine density.",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 317,
-            "positive": 286,
-            "negative": 31
         }
     },
     {
@@ -26960,12 +24266,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 159,
-            "positive": 150,
-            "negative": 9
         }
     },
     {
@@ -27020,12 +24320,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 73,
-            "positive": 63,
-            "negative": 10
         }
     },
     {
@@ -27080,12 +24374,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 157833,
-            "positive": 151531,
-            "negative": 6302
         }
     },
     {
@@ -27140,12 +24428,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2878,
-            "positive": 2029,
-            "negative": 849
         }
     },
     {
@@ -27200,12 +24482,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 234,
-            "positive": 152,
-            "negative": 82
         }
     },
     {
@@ -27260,12 +24536,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3712,
-            "positive": 3370,
-            "negative": 342
         }
     },
     {
@@ -27320,12 +24590,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1383,
-            "positive": 1122,
-            "negative": 261
         }
     },
     {
@@ -27380,12 +24644,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1331,
-            "positive": 1125,
-            "negative": 206
         }
     },
     {
@@ -27440,12 +24698,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 1545,
-            "positive": 1145,
-            "negative": 400
         }
     },
     {
@@ -27500,12 +24752,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1319,
-            "positive": 1076,
-            "negative": 243
         }
     },
     {
@@ -27560,12 +24806,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 77,
-            "positive": 70,
-            "negative": 7
         }
     },
     {
@@ -27620,12 +24860,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 39,
-            "positive": 39,
-            "negative": 0
         }
     },
     {
@@ -27680,12 +24914,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 45,
-            "positive": 37,
-            "negative": 8
         }
     },
     {
@@ -27740,12 +24968,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 55
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 174992,
-            "positive": 144319,
-            "negative": 30673
         }
     },
     {
@@ -27800,12 +25022,6 @@ var data =
             "community": 1,
             "communityText": "Geriatric Patient\nComplete all primary objectives from all site-listed games in the Granny franchise. See verification requirements for complete list.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5442,
-            "positive": 5068,
-            "negative": 374
         }
     },
     {
@@ -27860,12 +25076,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 974,
-            "positive": 894,
-            "negative": 80
         }
     },
     {
@@ -27920,12 +25130,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1428,
-            "positive": 1361,
-            "negative": 67
         }
     },
     {
@@ -27980,12 +25184,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 333,
-            "positive": 301,
-            "negative": 32
         }
     },
     {
@@ -28040,12 +25238,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 653,
-            "positive": 585,
-            "negative": 68
         }
     },
     {
@@ -28100,12 +25292,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 137,
-            "positive": 129,
-            "negative": 8
         }
     },
     {
@@ -28160,12 +25346,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "8 user reviews",
-            "total": 8,
-            "positive": 8,
-            "negative": 0
         }
     },
     {
@@ -28220,12 +25400,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 119,
-            "positive": 95,
-            "negative": 24
         }
     },
     {
@@ -28280,12 +25454,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 82
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 21,
-            "positive": 21,
-            "negative": 0
         }
     },
     {
@@ -28340,12 +25508,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 9
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 13,
-            "positive": 13,
-            "negative": 0
         }
     },
     {
@@ -28400,12 +25562,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 100
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 8248,
-            "positive": 7025,
-            "negative": 1223
         }
     },
     {
@@ -28461,12 +25617,6 @@ var data =
             "communityText": "50 Shades of Grey Area\nReach the alternate ending on Punished difficulty.",
             "achievements": 17
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 51,
-            "positive": 46,
-            "negative": 5
-        },
         "information": "Reaching the alternate ending requires unlocking and beating the secret level, which requires finding all collectibles and then using the soul attack ability on the Goddess of Ichor.\n\nIn regards to CO proof, the bunny jump ability automatically recharges on Punished difficulty exclusively."
     },
     {
@@ -28521,12 +25671,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 29,
-            "positive": 28,
-            "negative": 1
         }
     },
     {
@@ -28581,12 +25725,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 1
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 23,
-            "positive": 22,
-            "negative": 1
         }
     },
     {
@@ -28641,12 +25779,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 47
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5778,
-            "positive": 4927,
-            "negative": 851
         }
     },
     {
@@ -28701,12 +25833,6 @@ var data =
             "community": 1,
             "communityText": "No Stone Unturned\n100% everything.",
             "achievements": 49
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 250,
-            "positive": 233,
-            "negative": 17
         }
     },
     {
@@ -28761,12 +25887,6 @@ var data =
             "community": 3,
             "communityText": "Chain of Memories\nObtain a Full Chain everywhere possible.\n\nFor Good Measure\nObtain a No Miss everywhere possible.\n\nTuned to Perfection\nGet a Perfect rating everywhere possible.",
             "achievements": 1176
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 1546,
-            "positive": 1048,
-            "negative": 498
         }
     },
     {
@@ -28821,12 +25941,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 57
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 62035,
-            "positive": 52307,
-            "negative": 9728
         }
     },
     {
@@ -28881,12 +25995,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 49
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3144,
-            "positive": 2862,
-            "negative": 282
         }
     },
     {
@@ -28941,12 +26049,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6733,
-            "positive": 6234,
-            "negative": 499
         }
     },
     {
@@ -29001,12 +26103,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 396,
-            "positive": 349,
-            "negative": 47
         }
     },
     {
@@ -29061,12 +26157,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 7185,
-            "positive": 6910,
-            "negative": 275
         }
     },
     {
@@ -29121,12 +26211,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 121,
-            "positive": 85,
-            "negative": 36
         }
     },
     {
@@ -29181,12 +26265,6 @@ var data =
             "community": 1,
             "communityText": "I Like Trains\nClear both loops of the game on NORMAL or higher without continuing and playing the train stage on the second loop.",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 102,
-            "positive": 98,
-            "negative": 4
         }
     },
     {
@@ -29241,12 +26319,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 69,
-            "positive": 66,
-            "negative": 3
         }
     },
     {
@@ -29301,12 +26373,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 69,
-            "positive": 65,
-            "negative": 4
         }
     },
     {
@@ -29362,12 +26428,6 @@ var data =
             "communityText": "",
             "achievements": 128
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 99112,
-            "positive": 92598,
-            "negative": 6514
-        },
         "information": "\"Conquerors of the Spirit Realm\" requires \"Realm of Frost and Inkwash\" and \"Artisan and Magician\" DLCs in order to be completed."
     },
     {
@@ -29422,12 +26482,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 55
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 477,
-            "positive": 416,
-            "negative": 61
         }
     },
     {
@@ -29482,12 +26536,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 195,
-            "positive": 189,
-            "negative": 6
         }
     },
     {
@@ -29542,12 +26590,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 53
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1002,
-            "positive": 917,
-            "negative": 85
         }
     },
     {
@@ -29602,12 +26644,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 12,
-            "positive": 12,
-            "negative": 0
         }
     },
     {
@@ -29662,12 +26698,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 251,
-            "positive": 169,
-            "negative": 82
         }
     },
     {
@@ -29722,12 +26752,6 @@ var data =
             "community": 5,
             "communityText": "Boiling Point\nComplete a 40 Heat run unseeded and without mods.\n\nHeat Arsenal\nComplete a 32 Heat run with all 6 weapon types and without God Mode.\n\nMelting Point\nComplete a 50 heat run unseeded and without mods.\n\nSacrosanct\nBeat the game without getting hit. The run must be verified by Team Hitless.\n\nSublimation Point\nComplete a 60 heat run unseeded and without mods.",
             "achievements": 49
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 279628,
-            "positive": 274721,
-            "negative": 4907
         }
     },
     {
@@ -29782,12 +26806,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2897,
-            "positive": 2600,
-            "negative": 297
         }
     },
     {
@@ -29842,12 +26860,6 @@ var data =
             "community": 3,
             "communityText": "Master Chief\nObtain all achievements from all available games in the HALO franchise. See verification requirements for complete list.\n\nMythical Conqueror \nComplete any LASO run solo with no deaths or save and quit.\n\nTrue MCC Master\nComplete all Achievements, Playlists, Medals, and ALL Missions Solo AND Co-op on Legendary with a positive score + Spartan-Ops on Legendary.",
             "achievements": 700
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 241878,
-            "positive": 223454,
-            "negative": 18424
         }
     },
     {
@@ -29902,12 +26914,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 53
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 10557,
-            "positive": 9432,
-            "negative": 1125
         }
     },
     {
@@ -29962,12 +26968,6 @@ var data =
             "community": 1,
             "communityText": "                          \nBeat the game as Invisihans.",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 774,
-            "positive": 678,
-            "negative": 96
         }
     },
     {
@@ -30022,12 +27022,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 39
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 48,
-            "positive": 44,
-            "negative": 4
         }
     },
     {
@@ -30082,12 +27076,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 26,
-            "positive": 20,
-            "negative": 6
         }
     },
     {
@@ -30142,12 +27130,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 115
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4807,
-            "positive": 3938,
-            "negative": 869
         }
     },
     {
@@ -30202,12 +27184,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "8 user reviews",
-            "total": 8,
-            "positive": 8,
-            "negative": 0
         }
     },
     {
@@ -30257,12 +27233,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 74
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 22060,
-            "positive": 18358,
-            "negative": 3702
         }
     },
     {
@@ -30318,12 +27288,6 @@ var data =
             "communityText": "",
             "achievements": 54
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 18986,
-            "positive": 17861,
-            "negative": 1125
-        },
         "information": "The DLC \"Extra Song Pack\" is required for the POs. Total number of songs should be 251."
     },
     {
@@ -30378,12 +27342,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 9923,
-            "positive": 8577,
-            "negative": 1346
         }
     },
     {
@@ -30438,12 +27396,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 54,
-            "positive": 51,
-            "negative": 3
         }
     },
     {
@@ -30499,12 +27451,6 @@ var data =
             "communityText": "",
             "achievements": 11
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 103,
-            "positive": 101,
-            "negative": 2
-        },
         "information": "On the weapon select screen, press Up 11 times, then Right and confirm. You will unlock the full english weapon. Beat the game with a 1cc to unlock the achievement.\n\nTo change the difficulty to Moderate, from within the game, press \"Reset to Title\" then press Escape and choose difficulty from Game Options."
     },
     {
@@ -30559,12 +27505,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 37,
-            "positive": 32,
-            "negative": 5
         }
     },
     {
@@ -30619,12 +27559,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 3924,
-            "positive": 3750,
-            "negative": 174
         }
     },
     {
@@ -30679,12 +27613,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1526,
-            "positive": 1247,
-            "negative": 279
         }
     },
     {
@@ -30739,12 +27667,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 60,
-            "positive": 55,
-            "negative": 5
         }
     },
     {
@@ -30799,12 +27721,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 5
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 319,
-            "positive": 296,
-            "negative": 23
         }
     },
     {
@@ -30859,12 +27775,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 56
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 173,
-            "positive": 157,
-            "negative": 16
         }
     },
     {
@@ -30919,12 +27829,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 4290,
-            "positive": 3135,
-            "negative": 1155
         }
     },
     {
@@ -30979,12 +27883,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 58
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 244,
-            "positive": 218,
-            "negative": 26
         }
     },
     {
@@ -31039,12 +27937,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 367,
-            "positive": 349,
-            "negative": 18
         }
     },
     {
@@ -31099,12 +27991,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "8 user reviews",
-            "total": 8,
-            "positive": 8,
-            "negative": 0
         }
     },
     {
@@ -31159,12 +28045,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2309,
-            "positive": 1861,
-            "negative": 448
         }
     },
     {
@@ -31219,12 +28099,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 71
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 33339,
-            "positive": 32440,
-            "negative": 899
         }
     },
     {
@@ -31279,12 +28153,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 286,
-            "positive": 218,
-            "negative": 68
         }
     },
     {
@@ -31339,12 +28207,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1473,
-            "positive": 1274,
-            "negative": 199
         }
     },
     {
@@ -31399,12 +28261,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5240,
-            "positive": 4629,
-            "negative": 611
         }
     },
     {
@@ -31460,12 +28316,6 @@ var data =
             "communityText": "",
             "achievements": 12
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 99,
-            "positive": 85,
-            "negative": 14
-        },
         "information": "Flagged for audit. "
     },
     {
@@ -31520,12 +28370,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 768,
-            "positive": 708,
-            "negative": 60
         }
     },
     {
@@ -31580,12 +28424,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 64,
-            "positive": 63,
-            "negative": 1
         }
     },
     {
@@ -31641,12 +28479,6 @@ var data =
             "communityText": "Joni's Curse\nClear the Pantheon of Hallownest with all bindings and without taking lifeblood.\n\nKing's Court\nAnswer the Champion's Call and defeat all the bosses in the Pale Court mod.\n\nPantheonic Titan\nClear the Pantheon of Hallownest with all bindings and without being hit.\n\nSubtle Radiance\nDefeat Radiant Pale Prince.",
             "achievements": 63
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 415343,
-            "positive": 403040,
-            "negative": 12303
-        },
         "information": "It is highly recommended for the \"Champion of Hallownest\" objective to be done on a save file where the Pantheon was not cleared with all bindings in order to show the reward for completing the challenge."
     },
     {
@@ -31696,12 +28528,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 53
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 217,
-            "positive": 164,
-            "negative": 53
         }
     },
     {
@@ -31756,12 +28582,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 77,
-            "positive": 70,
-            "negative": 7
         }
     },
     {
@@ -31816,12 +28636,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 79,
-            "positive": 61,
-            "negative": 18
         }
     },
     {
@@ -31876,12 +28690,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5805,
-            "positive": 5412,
-            "negative": 393
         }
     },
     {
@@ -31936,12 +28744,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 106257,
-            "positive": 103218,
-            "negative": 3039
         }
     },
     {
@@ -31991,12 +28793,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 66418,
-            "positive": 62534,
-            "negative": 3884
         }
     },
     {
@@ -32051,12 +28847,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 53
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2179,
-            "positive": 1659,
-            "negative": 520
         }
     },
     {
@@ -32111,12 +28901,6 @@ var data =
             "community": 1,
             "communityText": "How I learned to Surpass the Master\nBeat Taavi's time of 20:05.",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 29,
-            "positive": 27,
-            "negative": 2
         }
     },
     {
@@ -32171,12 +28955,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3740,
-            "positive": 3541,
-            "negative": 199
         }
     },
     {
@@ -32231,12 +29009,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 57
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 46,
-            "positive": 41,
-            "negative": 5
         },
         "information": "Regarding the gold medal achievements: when reaching the Ancient Dragon, you will always have no more than two potions of life."
     },
@@ -32293,12 +29065,6 @@ var data =
             "communityText": "",
             "achievements": 12
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 85,
-            "positive": 79,
-            "negative": 6
-        },
         "information": "100%ing levels sometimes doesn't trigger, in that case either try again or try playing at different speeds."
     },
     {
@@ -32353,12 +29119,6 @@ var data =
             "community": 2,
             "communityText": "REIFIED\nGet a score of 420 or higher.\n\nGLORIFIED\nGet a score of 410 or higher.",
             "achievements": 1
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2855,
-            "positive": 2694,
-            "negative": 161
         }
     },
     {
@@ -32413,12 +29173,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 17811,
-            "positive": 16586,
-            "negative": 1225
         }
     },
     {
@@ -32473,12 +29227,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 37,
-            "positive": 32,
-            "negative": 5
         }
     },
     {
@@ -32534,12 +29282,6 @@ var data =
             "communityText": "True Black Star\nCollect 50 treasures from every land, an Orb of Yendor, the Princess, and 8 Holy Grails in Standard Mode.\n\nLord of the Orbs\nCollect 25 treasures from every land, an Orb of Yendor, the Princess, and 3 Holy Grails in Standard Mode.\n\nPurist Treasure Master\nCollect 50 treasures from each default land in Pure Tactics Mode.\n\nMaster of the Non-Standard\nCollect 50 treasures from \"Wild West\", \"Crystal World\", \"Snake Nest\" and \"Docks\" in Pure Tactics Mode.\n\nBlades of Beltrami\nComplete the Hyperstone Quest in Shoot'em Up Mode.\n\nHardcore Hyperboloid\nComplete the Hyperstone Quest in Hardcore Mode.\n\nHorocyclic Herder\nMaster the control of enemy movement.\n\nIn the Interest of Achieving a Higher Appreciation for Non-Euclidean Geometry\nBeat the \"other achievements\" menu.",
             "achievements": 304
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 453,
-            "positive": 435,
-            "negative": 18
-        },
         "information": "Curated on Steam: https://store.steampowered.com/app/342610/HyperRogue/?curator_clanid=36185934\n\nThe progenitor of the Strategy category.\n\nBear in mind that the objective order only serves as a general guide, as there is no prescribed order for doing in-game achievements. It's encouraged to start with completing \"Tessellated Trifecta\", then familiarizing yourself with the various lands present within \"Curvature Conquistador\" before actively pursuing other objectives."
     },
     {
@@ -32594,12 +29336,6 @@ var data =
             "community": 4,
             "communityText": "Mach 1\nBeat 1200 km/h.\n\nMotion Blur\nBeat 1100 km/h.\n\nWent REALLY Fast\nBeat 1000 km/h.\n\nWent REALLY Stunt\nMake 30,000,000 points in a run.",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 84,
-            "positive": 76,
-            "negative": 8
         }
     },
     {
@@ -32654,12 +29390,6 @@ var data =
             "community": 2,
             "communityText": "Cult Leader\nObtain a score of 30 on all levels in Mode B and Mode C at max game speed.\n\nTherapy Session\nObtain a score of 30 on all levels in Mode B and Mode C at 100% game speed.",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 45,
-            "positive": 43,
-            "negative": 2
         }
     },
     {
@@ -32714,12 +29444,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 12,
-            "positive": 11,
-            "negative": 1
         }
     },
     {
@@ -32774,12 +29498,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 5854,
-            "positive": 4553,
-            "negative": 1301
         }
     },
     {
@@ -32834,12 +29552,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2972,
-            "positive": 2165,
-            "negative": 807
         }
     },
     {
@@ -32894,12 +29606,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 3645,
-            "positive": 3590,
-            "negative": 55
         }
     },
     {
@@ -32954,12 +29660,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "5 user reviews",
-            "total": 5,
-            "positive": 4,
-            "negative": 1
         }
     },
     {
@@ -33014,12 +29714,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 237,
-            "positive": 179,
-            "negative": 58
         }
     },
     {
@@ -33074,12 +29768,6 @@ var data =
             "community": 2,
             "communityText": "Scarred for All Nine Lives\nComplete an unseeded game on Hard mode without dying or getting hit (perks are allowed).\n\nThe Cat\nComplete an unseeded game on Impossible mode without dying or getting hit (perks are allowed).",
             "achievements": 31
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 168,
-            "positive": 154,
-            "negative": 14
         }
     },
     {
@@ -33134,12 +29822,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6613,
-            "positive": 5956,
-            "negative": 657
         }
     },
     {
@@ -33194,12 +29876,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 48,
-            "positive": 39,
-            "negative": 9
         }
     },
     {
@@ -33254,12 +29930,6 @@ var data =
             "community": 1,
             "communityText": "Bareboned Iconoclast (S)\nComplete Challenge Mode without the use of Tweaks.",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4729,
-            "positive": 4097,
-            "negative": 632
         }
     },
     {
@@ -33314,12 +29984,6 @@ var data =
             "community": 1,
             "communityText": "Whaling\nBeat the game on Rumble or higher using BIG Medli and without using continues.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 16,
-            "positive": 16,
-            "negative": 0
         }
     },
     {
@@ -33374,12 +30038,6 @@ var data =
             "community": 2,
             "communityText": "Color Eater\nClear the game in any mode without continues and without shooting at all.\n\nMetempsychosis\nBeat the game in double play without using continues. (Any difficulty)",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2223,
-            "positive": 2104,
-            "negative": 119
         }
     },
     {
@@ -33434,12 +30092,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3194,
-            "positive": 2879,
-            "negative": 315
         }
     },
     {
@@ -33494,12 +30146,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 547,
-            "positive": 506,
-            "negative": 41
         }
     },
     {
@@ -33554,12 +30200,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 9
-        },
-        "reviews": {
-            "description": "3 user reviews",
-            "total": 3,
-            "positive": 3,
-            "negative": 0
         }
     },
     {
@@ -33614,12 +30254,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 99
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 18,
-            "positive": 17,
-            "negative": 1
         }
     },
     {
@@ -33674,12 +30308,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 3251,
-            "positive": 2312,
-            "negative": 939
         }
     },
     {
@@ -33734,12 +30362,6 @@ var data =
             "community": 1,
             "communityText": "Cheaters Never Prosper\nReach 1st place on Snow Mount Sprint Duel in Ibba's story.",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1356,
-            "positive": 1166,
-            "negative": 190
         }
     },
     {
@@ -33794,12 +30416,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1576,
-            "positive": 1281,
-            "negative": 295
         }
     },
     {
@@ -33854,12 +30470,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 925,
-            "positive": 805,
-            "negative": 120
         }
     },
     {
@@ -33914,12 +30524,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 79,
-            "positive": 69,
-            "negative": 10
         }
     },
     {
@@ -33974,12 +30578,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 866,
-            "positive": 753,
-            "negative": 113
         }
     },
     {
@@ -34034,12 +30632,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 291,
-            "positive": 214,
-            "negative": 77
         }
     },
     {
@@ -34094,12 +30686,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 461,
-            "positive": 403,
-            "negative": 58
         }
     },
     {
@@ -34154,12 +30740,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 875,
-            "positive": 696,
-            "negative": 179
         }
     },
     {
@@ -34214,12 +30794,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4804,
-            "positive": 4328,
-            "negative": 476
         }
     },
     {
@@ -34274,12 +30848,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 371,
-            "positive": 329,
-            "negative": 42
         }
     },
     {
@@ -34335,12 +30903,6 @@ var data =
             "communityText": "Glitch in the Matrix\nBeat the DLC campaign with 0 rewinds on Expert Plus difficulty.\n\nSever the Servers\nSurvive for 20 days on Endless Plus Mode in the DLC.",
             "achievements": 23
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5607,
-            "positive": 5126,
-            "negative": 481
-        },
         "information": "Curated on Steam: https://store.steampowered.com/app/243970/Invisible_Inc/?curator_clanid=36185934"
     },
     {
@@ -34395,12 +30957,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 39
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 231,
-            "positive": 187,
-            "negative": 44
         }
     },
     {
@@ -34455,12 +31011,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 16,
-            "positive": 16,
-            "negative": 0
         }
     },
     {
@@ -34515,12 +31065,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 16304,
-            "positive": 15425,
-            "negative": 879
         }
     },
     {
@@ -34575,12 +31119,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 2057,
-            "positive": 2022,
-            "negative": 35
         }
     },
     {
@@ -34635,12 +31173,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 367,
-            "positive": 331,
-            "negative": 36
         }
     },
     {
@@ -34695,12 +31227,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1319,
-            "positive": 1211,
-            "negative": 108
         }
     },
     {
@@ -34755,12 +31281,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 7
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 28,
-            "positive": 27,
-            "negative": 1
         }
     },
     {
@@ -34815,12 +31335,6 @@ var data =
             "community": 1,
             "communityText": "Aces High\nComplete the Gauntlet on Divine difficulty or higher without being hit or continuing, while using a non-DLC ship.",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2339,
-            "positive": 2203,
-            "negative": 136
         }
     },
     {
@@ -34875,12 +31389,6 @@ var data =
             "community": 2,
             "communityText": "Nostalgia Play\nComplete the normal gauntlet on Judgement without continuing.\n\nUltimate Form\nComplete the Super Gauntlet on Judgement without being hit or continuing.",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 225,
-            "positive": 200,
-            "negative": 25
         }
     },
     {
@@ -34936,12 +31444,6 @@ var data =
             "communityText": "Bawaw\nBeat the dev's Skull Rush mode time of 17:27.991.",
             "achievements": 18
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 921,
-            "positive": 896,
-            "negative": 25
-        },
         "information": "There are other campaigns that will be PO in the future, but we are waiting until the new content coming out slows down until they are added as official objectives."
     },
     {
@@ -34996,12 +31498,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 56,
-            "positive": 51,
-            "negative": 5
         }
     },
     {
@@ -35056,12 +31552,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1090,
-            "positive": 1008,
-            "negative": 82
         }
     },
     {
@@ -35116,12 +31606,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 12,
-            "positive": 10,
-            "negative": 2
         }
     },
     {
@@ -35176,12 +31660,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 8439,
-            "positive": 6534,
-            "negative": 1905
         }
     },
     {
@@ -35236,12 +31714,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "8 user reviews",
-            "total": 8,
-            "positive": 8,
-            "negative": 0
         }
     },
     {
@@ -35296,12 +31768,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3617,
-            "positive": 3174,
-            "negative": 443
         }
     },
     {
@@ -35356,12 +31822,6 @@ var data =
             "community": 6,
             "communityText": "Birds and the Babes\nComplete Babe of Ascension, Babe of the Realms and Babe of Dimension.\n\nBite-Size Baron\nComplete The Nest (Babe of Ascension), Reverse Dimension (Babe of Dimension) and Back Side of Elysion (Babe of Utopia).\n\nFashion Lord\nComplete each map separately while collecting every item without falling. Check verification requirements for more information.\n\nKing of the Ladies Men\nComplete Immortal Babe, Immortal Babe+ and Babe of Inferno.\n\nMini-Map Marquess\nComplete kz_null (Babe of the Realms), Another Dimension (Babe of Dimension), and Secret of Rinfone (Babe of Inferno).\n\nThe Emperor's Cursed Clothes\nComplete each map separately while wearing the Giant Boots and Snake Ring and without falling.",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 12290,
-            "positive": 11068,
-            "negative": 1222
         }
     },
     {
@@ -35416,12 +31876,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 80,
-            "positive": 77,
-            "negative": 3
         }
     },
     {
@@ -35476,12 +31930,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "3 user reviews",
-            "total": 3,
-            "positive": 2,
-            "negative": 1
         }
     },
     {
@@ -35536,12 +31984,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 51
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 502,
-            "positive": 438,
-            "negative": 64
         }
     },
     {
@@ -35596,12 +32038,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 32,
-            "positive": 24,
-            "negative": 8
         }
     },
     {
@@ -35656,12 +32092,6 @@ var data =
             "community": 1,
             "communityText": "STOP DODGING HOLY\nReach the true ending in ultra hard difficulty without equipping shields or items.",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "8 user reviews",
-            "total": 8,
-            "positive": 6,
-            "negative": 2
         }
     },
     {
@@ -35716,12 +32146,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 218,
-            "positive": 186,
-            "negative": 32
         }
     },
     {
@@ -35741,33 +32165,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 1199,
+                "discountPercent": 40
             },
             "EUR": {
                 "initial": 1699,
-                "final": 1699,
-                "discountPercent": 0
+                "final": 1019,
+                "discountPercent": 40
             },
             "GBP": {
                 "initial": 1599,
-                "final": 1599,
-                "discountPercent": 0
+                "final": 959,
+                "discountPercent": 40
             },
             "JPY": {
                 "initial": 220000,
-                "final": 220000,
-                "discountPercent": 0
+                "final": 132000,
+                "discountPercent": 40
             },
             "AUD": {
                 "initial": 2999,
-                "final": 2999,
-                "discountPercent": 0
+                "final": 1799,
+                "discountPercent": 40
             },
             "CAD": {
                 "initial": 2599,
-                "final": 2599,
-                "discountPercent": 0
+                "final": 1559,
+                "discountPercent": 40
             }
         },
         "milestones": {
@@ -35776,12 +32200,6 @@ var data =
             "community": 1,
             "communityText": "Beat Rush\nCreate a playlist with all boss songs and achieve S rank on them all in a row.",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 21992,
-            "positive": 21459,
-            "negative": 533
         }
     },
     {
@@ -35836,12 +32254,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 226,
-            "positive": 217,
-            "negative": 9
         }
     },
     {
@@ -35896,12 +32308,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 605,
-            "positive": 552,
-            "negative": 53
         }
     },
     {
@@ -35956,12 +32362,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 1149,
-            "positive": 797,
-            "negative": 352
         }
     },
     {
@@ -36016,12 +32416,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 201,
-            "positive": 182,
-            "negative": 19
         }
     },
     {
@@ -36076,12 +32470,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 371,
-            "positive": 262,
-            "negative": 109
         }
     },
     {
@@ -36137,12 +32525,6 @@ var data =
             "communityText": "",
             "achievements": 21
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6016,
-            "positive": 5611,
-            "negative": 405
-        },
         "information": "To obtain a Super Clear on a Constellation level, you need to reach a specific score for that level, and if successful, all the stars within the related Constellation will brighten up and shine (You can see what that specific score is for every level on this page: [https://katamari.fandom.com/wiki/Super_Clear](https://katamari.fandom.com/wiki/Super_Clear)).\n\nTo obtain all Shooting Stars, or Meteors (also called Comets), you need to complete the main levels (Make a Star 1 to Make a Star 9, and Make a Moon) within a specific time limit (You can see what the time is for every level on this page: [https://katamari.fandom.com/wiki/Shooting_Stars](https://katamari.fandom.com/wiki/Shooting_Stars)).\n\nWARNING: When you finish a level, you'll have to choose between \"Make a Star\" or \"Make a Stardust\" (If you are playing a Constellation level, the options will be \"Make a Constellation\" and \"Make a Stardust\").\nMaking a Star/Constellation will rewrite your previous score, and save your current one, no matter if it's worse or better. Making a Stardust will not save your current score. When going for the PO, be sure to pick the \"Make a Star/Constellation\" option, otherwise your score won't be saved. Be aware that when Making a Star/Constellation your previous score will be deleted and you may lose progress for the PO. For example, if you obtained a Super Clear on the Cancer Constellation, and then you replay the level and finish it with a worse score, if you pick \"Make a Constellation\" then your current score will be saved, and you'll lose the Super Clear on that Constellation, forcing you to replay the level again for the Super Clear."
     },
     {
@@ -36197,12 +32579,6 @@ var data =
             "community": 4,
             "communityText": "No Time to Think\nAchieve a total rank of platinum in a full speedrun with \"no slowmo\" enabled.\n\nPsychotherapy\nAchieve a total rank of platinum in a full speedrun while beating the secret boss.\n\nSword Savant\nAchieve a total rank of platinum in a full speedrun with the Savant Knife, Claymore Prototype, and Phoenix Edge.\n\nThe Dragon\nAchieve a total rank of platinum in a full speedrun with The Dragon Mod enabled.",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 71002,
-            "positive": 69607,
-            "negative": 1395
         }
     },
     {
@@ -36257,12 +32633,6 @@ var data =
             "community": 1,
             "communityText": "Hell of Hundred Lights\nDefuse the Centurion.",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 15733,
-            "positive": 15334,
-            "negative": 399
         }
     },
     {
@@ -36317,12 +32687,6 @@ var data =
             "community": 1,
             "communityText": "Echoes of the Sacred Peak (POTENTIAL PO)\nBeat all trials and optional challenges on \"Master\" difficulty.",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 15222,
-            "positive": 14019,
-            "negative": 1203
         }
     },
     {
@@ -36377,12 +32741,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1427,
-            "positive": 1339,
-            "negative": 88
         }
     },
     {
@@ -36438,12 +32796,6 @@ var data =
             "communityText": "",
             "achievements": 20
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1856,
-            "positive": 1682,
-            "negative": 174
-        },
         "information": "Coop Required (2 Players)\n---\nDLC Required:\n-The 100th Grand Ol' Telepost Tournament"
     },
     {
@@ -36498,12 +32850,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 59,
-            "positive": 53,
-            "negative": 6
         }
     },
     {
@@ -36558,12 +32904,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1570,
-            "positive": 1480,
-            "negative": 90
         }
     },
     {
@@ -36618,12 +32958,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2114,
-            "positive": 2005,
-            "negative": 109
         }
     },
     {
@@ -36673,12 +33007,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 113,
-            "positive": 79,
-            "negative": 34
         }
     },
     {
@@ -36733,12 +33061,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 437,
-            "positive": 427,
-            "negative": 10
         }
     },
     {
@@ -36793,12 +33115,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 56,
-            "positive": 49,
-            "negative": 7
         }
     },
     {
@@ -36854,12 +33170,6 @@ var data =
             "communityText": "",
             "achievements": 22
         },
-        "reviews": {
-            "description": "Mixed",
-            "total": 201,
-            "positive": 133,
-            "negative": 68
-        },
         "information": "For Pacifist Adept:\nhttps://upload.cedb.me/hElePV.png"
     },
     {
@@ -36873,7 +33183,7 @@ var data =
         "points": 5,
         "createdAt": "2024-07-12T05:16:21.000Z",
         "updatedAt": "2025-05-24T21:45:49.000Z",
-        "playersCompleted": 4,
+        "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 63,
         "priceData": {
@@ -36914,12 +33224,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 197
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 7573,
-            "positive": 6333,
-            "negative": 1240
         }
     },
     {
@@ -36974,12 +33278,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 125,
-            "positive": 87,
-            "negative": 38
         }
     },
     {
@@ -37034,12 +33332,6 @@ var data =
             "community": 1,
             "communityText": "True Soundlord\nGet 100% accuracy in every track on fast speed.",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 59,
-            "positive": 58,
-            "negative": 1
         }
     },
     {
@@ -37094,12 +33386,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 219,
-            "positive": 207,
-            "negative": 12
         }
     },
     {
@@ -37154,12 +33440,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 644,
-            "positive": 551,
-            "negative": 93
         }
     },
     {
@@ -37215,12 +33495,6 @@ var data =
             "communityText": "",
             "achievements": 35
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 21,
-            "positive": 19,
-            "negative": 2
-        },
         "information": "Par times will not display above 300/325 regardless of progress."
     },
     {
@@ -37275,12 +33549,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "7 user reviews",
-            "total": 7,
-            "positive": 6,
-            "negative": 1
         }
     },
     {
@@ -37336,12 +33604,6 @@ var data =
             "communityText": "",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 35232,
-            "positive": 32705,
-            "negative": 2527
-        },
         "information": "To play without subscription: Download the benchmarks playlist with the code \"KovaaKsRocketingVermilionCt\", play its scenarios. Upload scores.\nMeet the requisites on [this image](https://i.imgur.com/doyjhRr.png)."
     },
     {
@@ -37396,12 +33658,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 105,
-            "positive": 104,
-            "negative": 1
         }
     },
     {
@@ -37456,12 +33712,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 171,
-            "positive": 163,
-            "negative": 8
         }
     },
     {
@@ -37516,12 +33766,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 64
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2474,
-            "positive": 1969,
-            "negative": 505
         }
     },
     {
@@ -37576,12 +33820,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 986,
-            "positive": 845,
-            "negative": 141
         }
     },
     {
@@ -37636,12 +33874,6 @@ var data =
             "community": 1,
             "communityText": "Warp Star\nBeat each world without dying.",
             "achievements": 5
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 27,
-            "positive": 25,
-            "negative": 2
         }
     },
     {
@@ -37696,12 +33928,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 66
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 2070,
-            "positive": 1984,
-            "negative": 86
         }
     },
     {
@@ -37756,12 +33982,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 54
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2698,
-            "positive": 1918,
-            "negative": 780
         }
     },
     {
@@ -37816,12 +34036,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 22,
-            "positive": 22,
-            "negative": 0
         }
     },
     {
@@ -37876,12 +34090,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 54
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 267,
-            "positive": 237,
-            "negative": 30
         }
     },
     {
@@ -37936,12 +34144,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 412,
-            "positive": 380,
-            "negative": 32
         }
     },
     {
@@ -37996,12 +34198,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6066,
-            "positive": 5715,
-            "negative": 351
         }
     },
     {
@@ -38056,12 +34252,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 6404,
-            "positive": 6204,
-            "negative": 200
         }
     },
     {
@@ -38116,12 +34306,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1012,
-            "positive": 951,
-            "negative": 61
         }
     },
     {
@@ -38176,12 +34360,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 116,
-            "positive": 108,
-            "negative": 8
         }
     },
     {
@@ -38236,12 +34414,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 64,
-            "positive": 52,
-            "negative": 12
         }
     },
     {
@@ -38296,12 +34468,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 52362,
-            "positive": 48221,
-            "negative": 4141
         }
     },
     {
@@ -38356,12 +34522,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 2409,
-            "positive": 2312,
-            "negative": 97
         }
     },
     {
@@ -38416,12 +34576,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 71,
-            "positive": 70,
-            "negative": 1
         }
     },
     {
@@ -38476,12 +34630,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 3522,
-            "positive": 2698,
-            "negative": 824
         }
     },
     {
@@ -38536,12 +34684,6 @@ var data =
             "community": 1,
             "communityText": "Professional Paper Pilot\nBeat the entire game without dying using the plane with maximum speed.",
             "achievements": 31
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 400,
-            "positive": 373,
-            "negative": 27
         }
     },
     {
@@ -38596,12 +34738,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 134,
-            "positive": 116,
-            "negative": 18
         }
     },
     {
@@ -38656,12 +34792,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 139,
-            "positive": 138,
-            "negative": 1
         }
     },
     {
@@ -38716,12 +34846,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 57201,
-            "positive": 52971,
-            "negative": 4230
         }
     },
     {
@@ -38776,12 +34900,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 11,
-            "positive": 11,
-            "negative": 0
         }
     },
     {
@@ -38836,12 +34954,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 631,
-            "positive": 594,
-            "negative": 37
         }
     },
     {
@@ -38896,12 +35008,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 110104,
-            "positive": 104386,
-            "negative": 5718
         }
     },
     {
@@ -38956,12 +35062,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 39
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1934,
-            "positive": 1792,
-            "negative": 142
         }
     },
     {
@@ -39016,12 +35116,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 9824,
-            "positive": 8286,
-            "negative": 1538
         }
     },
     {
@@ -39076,12 +35170,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 52
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 996,
-            "positive": 845,
-            "negative": 151
         }
     },
     {
@@ -39136,12 +35224,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 84
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2763,
-            "positive": 2516,
-            "negative": 247
         }
     },
     {
@@ -39196,12 +35278,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 63
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 41972,
-            "positive": 27843,
-            "negative": 14129
         }
     },
     {
@@ -39256,12 +35332,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2261,
-            "positive": 2142,
-            "negative": 119
         }
     },
     {
@@ -39316,12 +35386,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 97,
-            "positive": 68,
-            "negative": 29
         }
     },
     {
@@ -39376,12 +35440,6 @@ var data =
             "community": 1,
             "communityText": "Lost and Found\nComplete all primary objectives from all site-listed games in the LOST Objects franchise. See verification requirements for complete list.",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 174,
-            "positive": 144,
-            "negative": 30
         }
     },
     {
@@ -39436,12 +35494,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 243,
-            "positive": 202,
-            "negative": 41
         }
     },
     {
@@ -39496,12 +35548,6 @@ var data =
             "community": 1,
             "communityText": "Eggstravaganza\nComplete stage 6 and Final with 5 stars, and no skips/shortcuts used.",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 78,
-            "positive": 61,
-            "negative": 17
         }
     },
     {
@@ -39556,12 +35602,6 @@ var data =
             "community": 1,
             "communityText": "No Redumes Needed\nClear EX stage without the use of a checkpoint.",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 27,
-            "positive": 11,
-            "negative": 16
         }
     },
     {
@@ -39616,12 +35656,6 @@ var data =
             "community": 1,
             "communityText": "Perfect Batch\nObtain 3 stars on all 15 characters.",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 198,
-            "positive": 190,
-            "negative": 8
         }
     },
     {
@@ -39676,12 +35710,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5420,
-            "positive": 4645,
-            "negative": 775
         }
     },
     {
@@ -39737,12 +35765,6 @@ var data =
             "communityText": "",
             "achievements": 27
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 170,
-            "positive": 159,
-            "negative": 11
-        },
         "information": "Requires DLC: My Trip To Japan for both objectives."
     },
     {
@@ -39797,12 +35819,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1168,
-            "positive": 1058,
-            "negative": 110
         }
     },
     {
@@ -39857,12 +35873,6 @@ var data =
             "community": 1,
             "communityText": "Kuso Gemu\nComplete kuso without dying.",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 210,
-            "positive": 202,
-            "negative": 8
         }
     },
     {
@@ -39917,12 +35927,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 113,
-            "positive": 110,
-            "negative": 3
         }
     },
     {
@@ -39977,12 +35981,6 @@ var data =
             "community": 1,
             "communityText": "Lovely Universe\nComplete all primary objectives from all site-listed games in the Lovely Planet franchise. See verification requirements for complete list.",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2678,
-            "positive": 2425,
-            "negative": 253
         }
     },
     {
@@ -40037,12 +36035,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 171,
-            "positive": 154,
-            "negative": 17
         }
     },
     {
@@ -40097,12 +36089,6 @@ var data =
             "community": 1,
             "communityText": "Lovelier\nAce all acts in all three modes.",
             "achievements": 9
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 149,
-            "positive": 113,
-            "negative": 36
         }
     },
     {
@@ -40157,12 +36143,6 @@ var data =
             "community": 1,
             "communityText": "Choose Your Own Ironman\nComplete Classic 2 and 3, Tunnel 1 and 2, and Mountain 1 and 2 in arcade mode with 3 stars without the use of reset key.",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 43,
-            "positive": 40,
-            "negative": 3
         }
     },
     {
@@ -40217,12 +36197,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4424,
-            "positive": 4022,
-            "negative": 402
         }
     },
     {
@@ -40277,12 +36251,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 636,
-            "positive": 600,
-            "negative": 36
         }
     },
     {
@@ -40337,12 +36305,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 476,
-            "positive": 351,
-            "negative": 125
         }
     },
     {
@@ -40398,12 +36360,6 @@ var data =
             "communityText": "",
             "achievements": 87
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 12695,
-            "positive": 10868,
-            "negative": 1827
-        },
         "information": "Use the following for map layouts, tips, and general information: \n\nhttps://docs.google.com/document/d/1zKVlaPvk8Y4Z1KyalNkBUxYxsbF6MU9ouM4Oul-VYGc/edit?tab=t.0"
     },
     {
@@ -40458,12 +36414,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 251,
-            "positive": 222,
-            "negative": 29
         }
     },
     {
@@ -40518,12 +36468,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 134,
-            "positive": 103,
-            "negative": 31
         }
     },
     {
@@ -40578,12 +36522,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 644,
-            "positive": 583,
-            "negative": 61
         }
     },
     {
@@ -40638,12 +36576,6 @@ var data =
             "community": 1,
             "communityText": "The Worst Security Guard D\u00f6rwall Community College has Ever Had\nCollect all 100 medals from challenges.",
             "achievements": 82
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 599,
-            "positive": 541,
-            "negative": 58
         }
     },
     {
@@ -40698,12 +36630,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 879,
-            "positive": 824,
-            "negative": 55
         }
     },
     {
@@ -40758,12 +36684,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 838,
-            "positive": 811,
-            "negative": 27
         }
     },
     {
@@ -40818,12 +36738,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 31
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 202,
-            "positive": 183,
-            "negative": 19
         }
     },
     {
@@ -40878,12 +36792,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 85
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1003,
-            "positive": 930,
-            "negative": 73
         }
     },
     {
@@ -40938,12 +36846,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 6
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 12,
-            "positive": 10,
-            "negative": 2
         }
     },
     {
@@ -40998,12 +36900,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 72
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 505,
-            "positive": 476,
-            "negative": 29
         }
     },
     {
@@ -41059,12 +36955,6 @@ var data =
             "communityText": "Mission: Impossible\nStart a new game and complete every mission with a Master rank on Operative difficulty or above.",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 383,
-            "positive": 303,
-            "negative": 80
-        },
         "information": "The game only shows Master ranks upon completing a chapter in the campaign, which is highly inconvenient. So, you're allowed to simulate them through level select. For Master ranks, you are not allowed to get caught or use resets. For Mission 1, the sum of level times must be 1:30 or less. For Missions 2 through 5 individually, 8:00 or less."
     },
     {
@@ -41119,12 +37009,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 67
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 57022,
-            "positive": 49368,
-            "negative": 7654
         }
     },
     {
@@ -41179,12 +37063,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4584,
-            "positive": 4105,
-            "negative": 479
         }
     },
     {
@@ -41239,12 +37117,6 @@ var data =
             "community": 2,
             "communityText": "Mega Buster\nComplete all primary objectives from all site-listed games in the Mega Man franchise. See verification requirements for complete list.\n\nMr. Perfect\nComplete Mega Man 1 without getting hit. Turbo inputs are not allowed, but pause tricks are allowed.",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4811,
-            "positive": 4134,
-            "negative": 677
         }
     },
     {
@@ -41299,12 +37171,6 @@ var data =
             "community": 2,
             "communityText": "Outer Space Hazard\nClear Mega Man 10 without getting damaged and without loading save files. Checkpoint Save usage is disallowed.\n\nAmbition Resurges\nClear Mega Man 9 without getting damaged and without loading save files. Checkpoint Save usage is disallowed.",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1533,
-            "positive": 1292,
-            "negative": 241
         }
     },
     {
@@ -41359,12 +37225,6 @@ var data =
             "community": 2,
             "communityText": "Game of Destiny\nBeat Survival Road in Mega Man ZX Advent without taking damage.\n\nMisty Rain Enjoyer\nGet a high score of at least 50,000 in the Energy Converter minigame in Mega Man ZX.",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2396,
-            "positive": 1808,
-            "negative": 588
         }
     },
     {
@@ -41419,12 +37279,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 7094,
-            "positive": 6743,
-            "negative": 351
         }
     },
     {
@@ -41479,12 +37333,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 43,
-            "positive": 42,
-            "negative": 1
         }
     },
     {
@@ -41534,12 +37382,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 60
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 83191,
-            "positive": 79903,
-            "negative": 3288
         }
     },
     {
@@ -41594,12 +37436,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 51
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2427,
-            "positive": 2091,
-            "negative": 336
         }
     },
     {
@@ -41654,12 +37490,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4455,
-            "positive": 3981,
-            "negative": 474
         }
     },
     {
@@ -41714,12 +37544,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3554,
-            "positive": 3135,
-            "negative": 419
         }
     },
     {
@@ -41774,12 +37598,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 15744,
-            "positive": 15119,
-            "negative": 625
         }
     },
     {
@@ -41834,12 +37652,6 @@ var data =
             "community": 1,
             "communityText": "Rising Star (S)\nClear New Game+9 with every character.",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 843,
-            "positive": 763,
-            "negative": 80
         }
     },
     {
@@ -41894,12 +37706,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 215,
-            "positive": 155,
-            "negative": 60
         }
     },
     {
@@ -41954,12 +37760,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 96,
-            "positive": 91,
-            "negative": 5
         }
     },
     {
@@ -42014,12 +37814,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2310,
-            "positive": 2060,
-            "negative": 250
         }
     },
     {
@@ -42074,12 +37868,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 70
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 3339,
-            "positive": 1679,
-            "negative": 1660
         }
     },
     {
@@ -42134,12 +37922,6 @@ var data =
             "community": 1,
             "communityText": "Going the Extra Mile\nComplete Time Attack mode with zero deaths.",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 74,
-            "positive": 70,
-            "negative": 4
         }
     },
     {
@@ -42194,12 +37976,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 63,
-            "positive": 59,
-            "negative": 4
         }
     },
     {
@@ -42254,12 +38030,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 445,
-            "positive": 438,
-            "negative": 7
         }
     },
     {
@@ -42314,12 +38084,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 297,
-            "positive": 226,
-            "negative": 71
         }
     },
     {
@@ -42374,12 +38138,6 @@ var data =
             "community": 3,
             "communityText": "Punenthusiastic\nComplete an all secrets run without dying, restarting or quitting.\n\nIronic\nBeat the bonus world in level order without dying, restarting or quitting.\n\nMeteoRalph\nBeat the original diamond times for all normal and bonus levels.",
             "achievements": 49
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 33,
-            "positive": 33,
-            "negative": 0
         }
     },
     {
@@ -42434,12 +38192,6 @@ var data =
             "community": 1,
             "communityText": "Super Grandmonogamer\nWin a game on Super Grandwizard difficulty.",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "3 user reviews",
-            "total": 3,
-            "positive": 2,
-            "negative": 1
         }
     },
     {
@@ -42494,12 +38246,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 412,
-            "positive": 388,
-            "negative": 24
         }
     },
     {
@@ -42554,12 +38300,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 67
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 15656,
-            "positive": 15049,
-            "negative": 607
         }
     },
     {
@@ -42614,12 +38354,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 94
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 21405,
-            "positive": 20589,
-            "negative": 816
         }
     },
     {
@@ -42674,12 +38408,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "5 user reviews",
-            "total": 5,
-            "positive": 5,
-            "negative": 0
         }
     },
     {
@@ -42734,12 +38462,6 @@ var data =
             "community": 1,
             "communityText": "Lightspeed Legend\nClear all songs on 2x speed with no misses.",
             "achievements": 59
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 63,
-            "positive": 58,
-            "negative": 5
         }
     },
     {
@@ -42794,12 +38516,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 51
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 106,
-            "positive": 96,
-            "negative": 10
         }
     },
     {
@@ -42854,12 +38570,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 258,
-            "positive": 253,
-            "negative": 5
         }
     },
     {
@@ -42914,12 +38624,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4930,
-            "positive": 4527,
-            "negative": 403
         }
     },
     {
@@ -42969,12 +38673,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 24,
-            "positive": 16,
-            "negative": 8
         }
     },
     {
@@ -43029,12 +38727,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2753,
-            "positive": 2541,
-            "negative": 212
         }
     },
     {
@@ -43089,12 +38781,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 9
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 11245,
-            "positive": 10503,
-            "negative": 742
         }
     },
     {
@@ -43149,12 +38835,6 @@ var data =
             "community": 1,
             "communityText": "Divine Victor\nAchieve divine victory with all clan combinations.",
             "achievements": 53
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 21821,
-            "positive": 20949,
-            "negative": 872
         }
     },
     {
@@ -43209,12 +38889,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 58,
-            "positive": 55,
-            "negative": 3
         }
     },
     {
@@ -43269,12 +38943,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 8590,
-            "positive": 5955,
-            "negative": 2635
         },
         "information": "DLC Required:\n-The Virtuous Cycle"
     },
@@ -43331,12 +38999,6 @@ var data =
             "communityText": "",
             "achievements": 50
         },
-        "reviews": {
-            "description": "Mixed",
-            "total": 1117,
-            "positive": 692,
-            "negative": 425
-        },
         "information": "Requires Antique Antics and Sliced Peak DLC for the Developer Times PO."
     },
     {
@@ -43391,12 +39053,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2081,
-            "positive": 1656,
-            "negative": 425
         }
     },
     {
@@ -43446,12 +39102,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 43
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 231,
-            "positive": 195,
-            "negative": 36
         }
     },
     {
@@ -43506,12 +39156,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 83,
-            "positive": 76,
-            "negative": 7
         }
     },
     {
@@ -43566,12 +39210,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1682,
-            "positive": 1482,
-            "negative": 200
         }
     },
     {
@@ -43626,12 +39264,6 @@ var data =
             "community": 1,
             "communityText": "Mindsplosion\nComplete all the Multi Player levels on \"2 Girls, 1 Controller\" mode.",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 316,
-            "positive": 250,
-            "negative": 66
         }
     },
     {
@@ -43686,12 +39318,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 120,
-            "positive": 109,
-            "negative": 11
         }
     },
     {
@@ -43746,12 +39372,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 29,
-            "positive": 29,
-            "negative": 0
         }
     },
     {
@@ -43806,12 +39426,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 114887,
-            "positive": 104803,
-            "negative": 10084
         }
     },
     {
@@ -43866,12 +39480,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1413,
-            "positive": 1368,
-            "negative": 45
         }
     },
     {
@@ -43926,12 +39534,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 676,
-            "positive": 570,
-            "negative": 106
         }
     },
     {
@@ -43986,12 +39588,6 @@ var data =
             "community": 1,
             "communityText": "VSRG 4k Grandmaster\n4K Mode - Obtain a sync rate of 122% or higher on all main songs on \"Inferno\" difficulty.",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6234,
-            "positive": 5557,
-            "negative": 677
         }
     },
     {
@@ -44046,12 +39642,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 609,
-            "positive": 455,
-            "negative": 154
         }
     },
     {
@@ -44106,12 +39696,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 21,
-            "positive": 19,
-            "negative": 2
         }
     },
     {
@@ -44166,12 +39750,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 157,
-            "positive": 143,
-            "negative": 14
         }
     },
     {
@@ -44226,12 +39804,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 27514,
-            "positive": 26332,
-            "negative": 1182
         }
     },
     {
@@ -44287,12 +39859,6 @@ var data =
             "communityText": "Aurelian Master\nCollect all of the gold in every Hardcore story without dying.\n\nCommunity Connoisseur\nCollect all gold on every level of the Community Tab Project.\n\nCommunity Conqueror\nAchieve 100% in the Community Tab Project.\n\nMap Pack Participant\nAchieve 10 non-CTP points from the \"N++ Custom Tab Completions\" spreadsheet.\n\nMap Pack Powerhouse\nAchieve 20 non-CTP points from the \"N++ Custom Tab Completions\" spreadsheet.\n\nWay of the Ninja\nComplete all primary objectives from all site-listed games in the N franchise. See verification requirements for complete list.",
             "achievements": 33
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3204,
-            "positive": 3002,
-            "negative": 202
-        },
         "information": "[Curated on Steam](https://store.steampowered.com/app/230270/N_NPLUSPLUS/?curator_clanid=36185934)\n\nDue to the game having issues with save file corruption, it is VERY STRONGLY recommended to disable Steam Cloud for this game and to make manual backups when significant progress is made. If you don't do this, you run the risk of losing all progress and starting all over again.\n\nMore info found here: [https://steamcommunity.com/sharedfiles/filedetails/?id=1821198112](https://steamcommunity.com/sharedfiles/filedetails/?id=1821198112)\n\n\nFor the Community Objectives, the \"N++ Custom Tab Completions\" spreadsheet can be found below. It contains a completions tracker, and links to all released map packs (\"Map links\" sheet).\n\n[N++ Custom Tab Completions Spreadsheet](https://docs.google.com/spreadsheets/d/19sPxQ8SdHc_ksA9Z3ye3iAI-8c1w-jjur8PLZyK1zfs)"
     },
     {
@@ -44347,12 +39913,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "7 user reviews",
-            "total": 7,
-            "positive": 7,
-            "negative": 0
         }
     },
     {
@@ -44407,12 +39967,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 838,
-            "positive": 797,
-            "negative": 41
         }
     },
     {
@@ -44467,12 +40021,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 144,
-            "positive": 130,
-            "negative": 14
         }
     },
     {
@@ -44527,12 +40075,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 22,
-            "positive": 16,
-            "negative": 6
         }
     },
     {
@@ -44587,12 +40129,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 43,
-            "positive": 41,
-            "negative": 2
         }
     },
     {
@@ -44647,12 +40183,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 502,
-            "positive": 453,
-            "negative": 49
         }
     },
     {
@@ -44707,12 +40237,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 23131,
-            "positive": 19949,
-            "negative": 3182
         }
     },
     {
@@ -44768,12 +40292,6 @@ var data =
             "communityText": "\"Not bad for a dead guy, huh?\"\nReach a total time of 50:00.00 or less on the global leaderboard.\n\nAim for the Heavens\nObtain a Sapphire Medal on any level within the NeonLite mod.\n\nEmerald City\nObtain an Emerald Medal on all levels within the NeonLite mod.\n\nNeon Maniac\nReach a total time of 40:00.00 or less on the global leaderboard.\n\nUltraviolet\nObtain an Amethyst Medal on all levels in a single non-boss chapter within the NeonLite mod.",
             "achievements": 63
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 17694,
-            "positive": 17370,
-            "negative": 324
-        },
         "information": " For Community Objectives, the NeonLite mod can be downloaded from: <https://github.com/Faustas156/NeonLite/releases>"
     },
     {
@@ -44828,12 +40346,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 725,
-            "positive": 643,
-            "negative": 82
         }
     },
     {
@@ -44888,12 +40400,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 49,
-            "positive": 46,
-            "negative": 3
         }
     },
     {
@@ -44948,12 +40454,6 @@ var data =
             "community": 2,
             "communityText": "Hassle Foot\nBeat Tasselfoot's times on every level.\n\nOkay, You Can Give Up Now\nObtain 100% in a permadeath save file.",
             "achievements": 49
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 154,
-            "positive": 133,
-            "negative": 21
         }
     },
     {
@@ -45008,12 +40508,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 39
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2122,
-            "positive": 1847,
-            "negative": 275
         }
     },
     {
@@ -45068,12 +40562,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2950,
-            "positive": 2608,
-            "negative": 342
         }
     },
     {
@@ -45128,12 +40616,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 252,
-            "positive": 237,
-            "negative": 15
         }
     },
     {
@@ -45189,12 +40671,6 @@ var data =
             "communityText": "Red Giant\nDefeat all Battle Memories bosses in unlock order in a row without dying or restarting/quitting at any point.",
             "achievements": 35
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 28698,
-            "positive": 27303,
-            "negative": 1395
-        },
         "information": "Ordered list of bosses for the community objective:\n1: Kuafu / Goumang / Yanlao\n2: Jiequan\n3: Lady Ethereal\n4: Ji / Feng Twins\n5: True Eigong"
     },
     {
@@ -45249,12 +40725,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 101,
-            "positive": 72,
-            "negative": 29
         }
     },
     {
@@ -45309,12 +40779,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 383,
-            "positive": 350,
-            "negative": 33
         }
     },
     {
@@ -45369,12 +40833,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 88
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 45436,
-            "positive": 39917,
-            "negative": 5519
         }
     },
     {
@@ -45429,12 +40887,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 79
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 34866,
-            "positive": 27844,
-            "negative": 7022
         }
     },
     {
@@ -45489,12 +40941,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 484,
-            "positive": 430,
-            "negative": 54
         }
     },
     {
@@ -45549,12 +40995,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 131,
-            "positive": 120,
-            "negative": 11
         }
     },
     {
@@ -45609,12 +41049,6 @@ var data =
             "community": 3,
             "communityText": "Beast Rush\nGet an SS on the re:||VERSE credits and the Episode G credits on Overload.\n\nMusical Course Through Void\nBeat Course ULTIMATE with an SS total grade.\n\nQuick Maths\nGet SS rank on \u03c0\u2022\u03c1\u2022maniac on Overload while wearing the \"Math Genius\" title.",
             "achievements": 94
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 122,
-            "positive": 116,
-            "negative": 6
         }
     },
     {
@@ -45669,12 +41103,6 @@ var data =
             "community": 3,
             "communityText": "Mestarien Mestari\nComplete the sun quest, and get the peaceful ending.\n\nSauvojen Tuntija\nGet 100% progress. / Create an entity with infinite lifetime. / Do 1 million damage in one shot.\n\nThe End of Everything\nComplete all pillar achievements in game.",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 78351,
-            "positive": 74638,
-            "negative": 3713
         }
     },
     {
@@ -45729,12 +41157,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 103,
-            "positive": 85,
-            "negative": 18
         }
     },
     {
@@ -45789,12 +41211,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 2
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 39,
-            "positive": 35,
-            "negative": 4
         }
     },
     {
@@ -45849,12 +41265,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 32,
-            "positive": 28,
-            "negative": 4
         }
     },
     {
@@ -45909,12 +41319,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 217,
-            "positive": 213,
-            "negative": 4
         }
     },
     {
@@ -45969,12 +41373,6 @@ var data =
             "community": 1,
             "communityText": "Ultra Mutant\nGet 100% of the unlocks.",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 17969,
-            "positive": 17269,
-            "negative": 700
         }
     },
     {
@@ -46029,12 +41427,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1636,
-            "positive": 1473,
-            "negative": 163
         }
     },
     {
@@ -46089,12 +41481,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "9 user reviews",
-            "total": 9,
-            "positive": 5,
-            "negative": 4
         }
     },
     {
@@ -46149,12 +41535,6 @@ var data =
             "community": 1,
             "communityText": "OCO LOCO\nComplete every \"explore\" world with perfect taps and time.",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 86,
-            "positive": 73,
-            "negative": 13
         }
     },
     {
@@ -46209,12 +41589,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 187,
-            "positive": 169,
-            "negative": 18
         }
     },
     {
@@ -46269,12 +41643,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1320,
-            "positive": 1165,
-            "negative": 155
         }
     },
     {
@@ -46329,12 +41697,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3490,
-            "positive": 2995,
-            "negative": 495
         }
     },
     {
@@ -46389,12 +41751,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 39
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 60,
-            "positive": 46,
-            "negative": 14
         }
     },
     {
@@ -46444,12 +41800,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 595,
-            "positive": 489,
-            "negative": 106
         }
     },
     {
@@ -46504,12 +41854,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 15,
-            "positive": 11,
-            "negative": 4
         }
     },
     {
@@ -46564,12 +41908,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 11,
-            "positive": 11,
-            "negative": 0
         }
     },
     {
@@ -46624,12 +41962,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 16,
-            "positive": 13,
-            "negative": 3
         }
     },
     {
@@ -46684,12 +42016,6 @@ var data =
             "community": 1,
             "communityText": "Old School Strumming\nGet 100% precision on the secret song \"Mountain Stage Breakaway\".",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 906,
-            "positive": 835,
-            "negative": 71
         }
     },
     {
@@ -46744,12 +42070,6 @@ var data =
             "community": 1,
             "communityText": "Front Side 1080\nComplete all primary objectives from all site-listed games in the OlliOlli franchise. See verification requirements for complete list.",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 864,
-            "positive": 679,
-            "negative": 185
         }
     },
     {
@@ -46804,12 +42124,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 54
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1736,
-            "positive": 1578,
-            "negative": 158
         }
     },
     {
@@ -46864,12 +42178,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 601,
-            "positive": 507,
-            "negative": 94
         }
     },
     {
@@ -46924,12 +42232,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 547,
-            "positive": 448,
-            "negative": 99
         }
     },
     {
@@ -46984,12 +42286,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 162,
-            "positive": 145,
-            "negative": 17
         }
     },
     {
@@ -47044,12 +42340,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 152
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 16289,
-            "positive": 15952,
-            "negative": 337
         }
     },
     {
@@ -47104,12 +42394,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 42,
-            "positive": 28,
-            "negative": 14
         }
     },
     {
@@ -47164,12 +42448,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 154,
-            "positive": 128,
-            "negative": 26
         }
     },
     {
@@ -47224,12 +42502,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 275,
-            "positive": 200,
-            "negative": 75
         }
     },
     {
@@ -47284,12 +42556,6 @@ var data =
             "community": 1,
             "communityText": "Mega Hell Battle Network\nBeat the game with all 14 Hell Passes enabled simultaneously.",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 7427,
-            "positive": 6932,
-            "negative": 495
         }
     },
     {
@@ -47344,12 +42610,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 11,
-            "positive": 11,
-            "negative": 0
         }
     },
     {
@@ -47404,12 +42664,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 942,
-            "positive": 753,
-            "negative": 189
         }
     },
     {
@@ -47464,12 +42718,6 @@ var data =
             "community": 2,
             "communityText": "PerfectioOn\nFinish all normal and drunk levels with zero deaths.\n\nEndless HangoOver\nReach 100 in endless drunk mode.",
             "achievements": 6
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 961,
-            "positive": 853,
-            "negative": 108
         }
     },
     {
@@ -47525,12 +42773,6 @@ var data =
             "communityText": "Murder God\nComplete \"Murder\" from the Garbage custom level pack at the highest difficulty multiplier.\n\nMurder Master\nComplete \"Murder\" from the Garbage custom level pack.\n\nVanity God\nComplete \"Dark Matter\", \"Bass Slut\", and \"Berserk\" from the Vanity custom level pack at the highest difficulty multiplier.\n\nVanity Master\nComplete \"Dark Matter\", \"Bass Slut\", and \"Berserk\" from the Vanity custom level pack.",
             "achievements": 48
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 444,
-            "positive": 430,
-            "negative": 14
-        },
         "information": "Replay files can be found through <Program Files (x86)\\Steam\\steamapps\\common\\Open Hexagon\\Replays>. Make sure to select the game executable as the default application for opening the replay files."
     },
     {
@@ -47585,12 +42827,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 52
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 77,
-            "positive": 72,
-            "negative": 5
         }
     },
     {
@@ -47645,12 +42881,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1364,
-            "positive": 1346,
-            "negative": 18
         }
     },
     {
@@ -47705,12 +42935,6 @@ var data =
             "community": 2,
             "communityText": "Made of Spirit\nComplete the game in \"One-Life\" difficulty without using quit to menu.\n\nSpirit of Iron\nComplete the game with 100% completion in \"One-Life\" difficulty.",
             "achievements": 57
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 66916,
-            "positive": 63731,
-            "negative": 3185
         }
     },
     {
@@ -47724,8 +42948,8 @@ var data =
         "points": 75,
         "createdAt": "2022-06-07T02:48:54.000Z",
         "updatedAt": "2025-05-24T21:45:49.000Z",
-        "playersCompleted": 5,
-        "playersStarted": 108,
+        "playersCompleted": 6,
+        "playersStarted": 107,
         "playersTotal": 583,
         "priceData": {
             "USD": {
@@ -47765,12 +42989,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 136575,
-            "positive": 131884,
-            "negative": 4691
         }
     },
     {
@@ -47825,12 +43043,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3395,
-            "positive": 3160,
-            "negative": 235
         }
     },
     {
@@ -47880,12 +43092,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 64
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 732,
-            "positive": 601,
-            "negative": 131
         }
     },
     {
@@ -47940,12 +43146,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 265,
-            "positive": 186,
-            "negative": 79
         }
     },
     {
@@ -48000,12 +43200,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 125593,
-            "positive": 121139,
-            "negative": 4454
         }
     },
     {
@@ -48060,12 +43254,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 55450,
-            "positive": 50634,
-            "negative": 4816
         }
     },
     {
@@ -48115,12 +43303,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "8 user reviews",
-            "total": 8,
-            "positive": 8,
-            "negative": 0
         }
     },
     {
@@ -48176,12 +43358,6 @@ var data =
             "communityText": "",
             "achievements": 54
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 72701,
-            "positive": 65896,
-            "negative": 6805
-        },
         "information": "Game is valued assuming co-op."
     },
     {
@@ -48236,12 +43412,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 5
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 16,
-            "positive": 16,
-            "negative": 0
         }
     },
     {
@@ -48296,12 +43466,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 85,
-            "positive": 78,
-            "negative": 7
         }
     },
     {
@@ -48357,12 +43521,6 @@ var data =
             "communityText": "Acceleration Avenue\nObtain all medals on every level (including \"A Glowing Light, A Promise\") with the Core Engine.\n\nBackwards Boulevard\nObtain all medals on every level (including \"A Glowing Light, A Promise\") with the Memory Lens.\n\nLightspeed Lane\nObtain all medals on every level (including \"A Glowing Light, A Promise\") with the Hare Engine.\n\nOne-Way Wonder\nComplete Expedition Mode with the highest possible score.\n\nShuffle Street\nObtain all medals on every level (including \"A Glowing Light, A Promise\") with the Scramble Lens.",
             "achievements": 28
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 122,
-            "positive": 110,
-            "negative": 12
-        },
         "information": "To access \"A Glowing Light, A Promise\", type the following in the main menu: whereitallstarted\n\nDue to errors in the game's code, it is very strongly recommended not to play the secret level until completing the PO, otherwise you will prevent yourself from getting the required achievement.\n\nUse of assist options or challenge modifiers will show a dedicated icon at the top left of the HUD while playing and on the completion screen."
     },
     {
@@ -48412,12 +43570,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 4
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 1253,
-            "positive": 950,
-            "negative": 303
         }
     },
     {
@@ -48472,12 +43624,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 231,
-            "positive": 197,
-            "negative": 34
         }
     },
     {
@@ -48533,12 +43679,6 @@ var data =
             "communityText": "",
             "achievements": 28
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 24,
-            "positive": 23,
-            "negative": 1
-        },
         "information": "Pro tip: dash in and out of bosses with the fully upgraded explody upgrade to get S ranks."
     },
     {
@@ -48593,12 +43733,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 2328,
-            "positive": 1624,
-            "negative": 704
         }
     },
     {
@@ -48653,12 +43787,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 41675,
-            "positive": 36057,
-            "negative": 5618
         }
     },
     {
@@ -48713,12 +43841,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 74,
-            "positive": 61,
-            "negative": 13
         }
     },
     {
@@ -48773,12 +43895,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 29523,
-            "positive": 28304,
-            "negative": 1219
         }
     },
     {
@@ -48833,12 +43949,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 14,
-            "positive": 14,
-            "negative": 0
         }
     },
     {
@@ -48893,12 +44003,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 62,
-            "positive": 59,
-            "negative": 3
         }
     },
     {
@@ -48953,12 +44057,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 219,
-            "positive": 209,
-            "negative": 10
         }
     },
     {
@@ -49013,12 +44111,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 1407,
-            "positive": 961,
-            "negative": 446
         }
     },
     {
@@ -49073,12 +44165,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2643,
-            "positive": 2474,
-            "negative": 169
         }
     },
     {
@@ -49133,12 +44219,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 51
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 134,
-            "positive": 101,
-            "negative": 33
         }
     },
     {
@@ -49193,12 +44273,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 77,
-            "positive": 71,
-            "negative": 6
         }
     },
     {
@@ -49253,12 +44327,6 @@ var data =
             "community": 1,
             "communityText": "Made of Chains\nComplete all dungeons with every class on Chain X without using quit to menu.",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 822,
-            "positive": 737,
-            "negative": 85
         }
     },
     {
@@ -49313,12 +44381,6 @@ var data =
             "community": 2,
             "communityText": "I NEED A MEDIC BAG!\nComplete all other contracts on the Death Sentence difficulty with the One Down mechanic activated.\n\nPatient Criminal\nProve yourself.",
             "achievements": 1328
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 662930,
-            "positive": 594175,
-            "negative": 68755
         }
     },
     {
@@ -49373,12 +44435,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 56
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 40224,
-            "positive": 37570,
-            "negative": 2654
         }
     },
     {
@@ -49433,12 +44489,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 53
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 2875,
-            "positive": 2811,
-            "negative": 64
         }
     },
     {
@@ -49493,12 +44543,6 @@ var data =
             "community": 1,
             "communityText": "EXTREM PEGGING\nClear all of the pegs in every level without the use of the Claude's flippers cheat.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 10849,
-            "positive": 10571,
-            "negative": 278
         }
     },
     {
@@ -49553,12 +44597,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 2681,
-            "positive": 2590,
-            "negative": 91
         }
     },
     {
@@ -49613,12 +44651,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1003,
-            "positive": 867,
-            "negative": 136
         }
     },
     {
@@ -49673,12 +44705,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 13,
-            "positive": 13,
-            "negative": 0
         }
     },
     {
@@ -49733,12 +44759,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 51
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3981,
-            "positive": 3455,
-            "negative": 526
         }
     },
     {
@@ -49793,12 +44813,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 47
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 16293,
-            "positive": 14364,
-            "negative": 1929
         }
     },
     {
@@ -49853,12 +44867,6 @@ var data =
             "community": 1,
             "communityText": "Deflowered\nDefeat a CPU on skull difficulty.",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 275,
-            "positive": 269,
-            "negative": 6
         }
     },
     {
@@ -49913,12 +44921,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 58
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1618,
-            "positive": 1461,
-            "negative": 157
         }
     },
     {
@@ -49973,12 +44975,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 162,
-            "positive": 158,
-            "negative": 4
         }
     },
     {
@@ -50033,12 +45029,6 @@ var data =
             "community": 1,
             "communityText": "Concerto of the Century\nObtain a U rank on all songs.",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 265,
-            "positive": 230,
-            "negative": 35
         }
     },
     {
@@ -50054,7 +45044,7 @@ var data =
         "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 37,
+        "playersTotal": 38,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -50093,12 +45083,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 140
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 3190,
-            "positive": 3150,
-            "negative": 40
         }
     },
     {
@@ -50153,12 +45137,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1363,
-            "positive": 1322,
-            "negative": 41
         }
     },
     {
@@ -50213,12 +45191,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 156,
-            "positive": 99,
-            "negative": 57
         }
     },
     {
@@ -50268,12 +45240,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 231,
-            "positive": 208,
-            "negative": 23
         }
     },
     {
@@ -50328,12 +45294,6 @@ var data =
             "community": 1,
             "communityText": "Perfect Pix\nAchieve 100% in-game progress.",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 402,
-            "positive": 324,
-            "negative": 78
         }
     },
     {
@@ -50388,12 +45348,6 @@ var data =
             "community": 1,
             "communityText": "Pineapples on Pizza\nBeat lap 3 on all non-boss levels. Use the mod \"Lap 3\" by Wariopiler, link in the requirements.",
             "achievements": 72
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 66635,
-            "positive": 65541,
-            "negative": 1094
         }
     },
     {
@@ -50448,12 +45402,6 @@ var data =
             "community": 1,
             "communityText": "Cube Laude\nComplete every level on Impossible mode while getting all collectibles.",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 135,
-            "positive": 122,
-            "negative": 13
         }
     },
     {
@@ -50508,12 +45456,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 21,
-            "positive": 19,
-            "negative": 2
         }
     },
     {
@@ -50568,12 +45510,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 43,
-            "positive": 38,
-            "negative": 5
         }
     },
     {
@@ -50629,12 +45565,6 @@ var data =
             "communityText": "Outshined\nBeat or tie ilikeshiny's time on every level.\n\nPogomaniacal\nAchieve a total time of less than 16 minutes across all levels. \n\nShinier\nBeat ilikeshiny's Survival Mode time.",
             "achievements": 40
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 40,
-            "positive": 38,
-            "negative": 2
-        },
         "information": "The roadmap and time benchmarks for the game can be found here: [https://docs.google.com/spreadsheets/d/1MMbgCwD2VCGqO_HtMyEx4YjPHDmoSwxSA9SfFnHvKtM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MMbgCwD2VCGqO_HtMyEx4YjPHDmoSwxSA9SfFnHvKtM/edit?usp=sharing)\n\nLook on the tab called \"Suggested Roadmap\" for details on the steps you should take at each skill interval."
     },
     {
@@ -50689,12 +45619,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 21,
-            "positive": 20,
-            "negative": 1
         }
     },
     {
@@ -50749,12 +45673,6 @@ var data =
             "community": 6,
             "communityText": "Pogo Extra Overachiever\nBeat Superku's PBs on Map 1 Puzzle (1:06.715), Map 1 Micro Regular (1:30.266), and Map 1 Micro No Boost (2:53.350).\n\nPogo Innovator (S)\nFill your crown with gems by beating the three main maps without using boosts.\n\nPogo Lightning\nComplete map 1 in regular mode in under 3 minutes.\n\nPogo Overachiever (S)\nTurn each time in the menu green (by beating Superku's PBs on the listed maps and modes).\n\nPogo Savant\nClear map 1 while both the map and your character are invisible. See verification requirements for list of restrictions.\n\nPogo Stealth\nClear each map while your character is invisible. See verification requirements for list of restrictions.",
             "achievements": 68
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6103,
-            "positive": 5105,
-            "negative": 998
         }
     },
     {
@@ -50809,12 +45727,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 223,
-            "positive": 149,
-            "negative": 74
         }
     },
     {
@@ -50869,12 +45781,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 385,
-            "positive": 302,
-            "negative": 83
         }
     },
     {
@@ -50929,12 +45835,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 177197,
-            "positive": 174488,
-            "negative": 2709
         }
     },
     {
@@ -50990,12 +45890,6 @@ var data =
             "communityText": "",
             "achievements": 89
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 115866,
-            "positive": 112225,
-            "negative": 3641
-        },
         "information": "DLC Required:\n-Paradise Lost"
     },
     {
@@ -51050,12 +45944,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6751,
-            "positive": 6206,
-            "negative": 545
         }
     },
     {
@@ -51110,12 +45998,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 792,
-            "positive": 713,
-            "negative": 79
         }
     },
     {
@@ -51170,12 +46052,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 394,
-            "positive": 322,
-            "negative": 72
         }
     },
     {
@@ -51230,12 +46106,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 3
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 29,
-            "positive": 28,
-            "negative": 1
         }
     },
     {
@@ -51290,12 +46160,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 4
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1397,
-            "positive": 1291,
-            "negative": 106
         }
     },
     {
@@ -51350,12 +46214,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 39
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 93,
-            "positive": 88,
-            "negative": 5
         }
     },
     {
@@ -51410,12 +46268,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 43
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 607,
-            "positive": 589,
-            "negative": 18
         }
     },
     {
@@ -51470,12 +46322,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 51,
-            "positive": 47,
-            "negative": 4
         }
     },
     {
@@ -51530,12 +46376,6 @@ var data =
             "community": 1,
             "communityText": "Pawching Bag\nComplete the game on Ultra Nightmare difficulty without killing any enemies. (Continues allowed)",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 153,
-            "positive": 141,
-            "negative": 12
         }
     },
     {
@@ -51590,12 +46430,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 212,
-            "positive": 185,
-            "negative": 27
         }
     },
     {
@@ -51650,12 +46484,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 915,
-            "positive": 690,
-            "negative": 225
         }
     },
     {
@@ -51710,12 +46538,6 @@ var data =
             "community": 2,
             "communityText": "Galactic Conqueror\nBeat the main game on \"Ultra\" without using any continues.\n\nInner Power\nBeat the main game without using any continues, bombs or power ups (any difficulty).",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "8 user reviews",
-            "total": 8,
-            "positive": 8,
-            "negative": 0
         }
     },
     {
@@ -51770,12 +46592,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 9
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 2341,
-            "positive": 2261,
-            "negative": 80
         }
     },
     {
@@ -51830,12 +46646,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 9
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 93,
-            "positive": 82,
-            "negative": 11
         }
     },
     {
@@ -51890,12 +46700,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 94,
-            "positive": 63,
-            "negative": 31
         }
     },
     {
@@ -51950,12 +46754,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1486,
-            "positive": 1306,
-            "negative": 180
         }
     },
     {
@@ -52010,12 +46808,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 43
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2529,
-            "positive": 2067,
-            "negative": 462
         }
     },
     {
@@ -52070,12 +46862,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5518,
-            "positive": 4652,
-            "negative": 866
         }
     },
     {
@@ -52130,12 +46916,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 50,
-            "positive": 45,
-            "negative": 5
         }
     },
     {
@@ -52190,12 +46970,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 60
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 395,
-            "positive": 335,
-            "negative": 60
         }
     },
     {
@@ -52250,12 +47024,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 508,
-            "positive": 473,
-            "negative": 35
         }
     },
     {
@@ -52310,12 +47078,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2072,
-            "positive": 1748,
-            "negative": 324
         }
     },
     {
@@ -52370,12 +47132,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 624,
-            "positive": 566,
-            "negative": 58
         }
     },
     {
@@ -52430,12 +47186,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 49,
-            "positive": 46,
-            "negative": 3
         }
     },
     {
@@ -52491,12 +47241,6 @@ var data =
             "communityText": "\"To me, my allies!\"\nClear a Lunar run with the \"fullmetal\" mod activated.\n\nGarnet Secondary\nClear a Lunar run with the \"double time\" mod activated at 2x speed or higher.\n\nSteel Yourself\nClear a Lunar run with the 'Steelheart' mod activated.",
             "achievements": 32
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 8694,
-            "positive": 8457,
-            "negative": 237
-        },
         "information": "Mods can be downloaded through RNSReloaded. [Link](https://github.com/NotNite/RNSReloaded)"
     },
     {
@@ -52551,12 +47295,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 321,
-            "positive": 201,
-            "negative": 120
         }
     },
     {
@@ -52612,12 +47350,6 @@ var data =
             "communityText": "throw new outOfProjectilesException(\"BUNdefined\")\nBeat all 10 chapters in X-Bunny mode.\n\nTrue Bunny Lover\nGet all achievements.",
             "achievements": 220
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 11850,
-            "positive": 11349,
-            "negative": 501
-        },
         "information": "DLC Required:\n-Before Next Adventure (For \"Not Another Visual Novel\" and \"Fan Service\" POs)\n-Is the order a DLC? (For \"Fan Service\", \"Bunnylicious\" and \"Master of Rabi Rabi Island\" POs)\n-Artbook (For \"Master of Rabi Rabi Island\" PO)"
     },
     {
@@ -52672,12 +47404,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6293,
-            "positive": 5892,
-            "negative": 401
         }
     },
     {
@@ -52732,12 +47458,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 19,
-            "positive": 16,
-            "negative": 3
         }
     },
     {
@@ -52792,12 +47512,6 @@ var data =
             "community": 1,
             "communityText": "Bon App\u00e9tit\nCollect all coins on Hardcore difficulty.",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 185,
-            "positive": 178,
-            "negative": 7
         }
     },
     {
@@ -52852,12 +47566,6 @@ var data =
             "community": 1,
             "communityText": "Quantum Entanglement\nComplete all primary objectives from all site-listed games in the Radium franchise. See verification requirements for complete list.",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 156,
-            "positive": 124,
-            "negative": 32
         }
     },
     {
@@ -52912,12 +47620,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 71
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 31,
-            "positive": 30,
-            "negative": 1
         }
     },
     {
@@ -52972,12 +47674,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "3 user reviews",
-            "total": 3,
-            "positive": 3,
-            "negative": 0
         }
     },
     {
@@ -53032,12 +47728,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 51
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 388,
-            "positive": 339,
-            "negative": 49
         }
     },
     {
@@ -53092,12 +47782,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 47
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 20,
-            "positive": 14,
-            "negative": 6
         }
     },
     {
@@ -53152,12 +47836,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 4
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 120,
-            "positive": 95,
-            "negative": 25
         }
     },
     {
@@ -53213,12 +47891,6 @@ var data =
             "communityText": "Random God\nComplete all Expedition Missions and Quests.\n\nEcholocation\nBeat the game as the Artificer by Ascending and meet the Submerged Superstructure Echo as the Saint.\n\nMountains Abound\nCollect every Safari unlock, visit Submerged Superstructure as every Slugcat who can, and visit every available region as Inv.\n\nRainbow Lexicon\nComplete the Collection (including all pearl variants).\n\nSlugcatalogue\nCollect every Arena, Sandbox and Slugcat unlock.",
             "achievements": 34
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 42167,
-            "positive": 39690,
-            "negative": 2477
-        },
         "information": "All objectives other than Karmic Reunion require the Downpour DLC.\n\nNoblest Sacrifice requires that you have Speedrun Validation enabled, and the following disabled, for the entirety of your run: Visual Breath Meter, Increased Stun Times, Pull Spears from Walls, Vanilla Exploits, Wiggle out of Grasps, No Randomized Cycle Durations, All Major Assists, All MSC Gameplay-Affecting Cheats, and Developer Commentary."
     },
     {
@@ -53273,12 +47945,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 168,
-            "positive": 164,
-            "negative": 4
         }
     },
     {
@@ -53333,12 +47999,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 49
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 47,
-            "positive": 42,
-            "negative": 5
         }
     },
     {
@@ -53393,12 +48053,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 89,
-            "positive": 80,
-            "negative": 9
         }
     },
     {
@@ -53453,12 +48107,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 64,
-            "positive": 59,
-            "negative": 5
         }
     },
     {
@@ -53514,12 +48162,6 @@ var data =
             "communityText": "",
             "achievements": 46
         },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2467,
-            "positive": 1895,
-            "negative": 572
-        },
         "information": "This game requires a VR headset in order to play."
     },
     {
@@ -53574,12 +48216,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 154,
-            "positive": 143,
-            "negative": 11
         }
     },
     {
@@ -53634,12 +48270,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 87,
-            "positive": 77,
-            "negative": 10
         },
         "information": "POs assume you use the game's default settings, so your replay and score should automatically get sent to each of the game's 'Arcade' leaderboards."
     },
@@ -53696,12 +48326,6 @@ var data =
             "communityText": "Scorched Earth\nBeat all maps with all governors on Mega-Brutal difficulty.\n\nFive-Star General\nBeat Campaign Mode on Mega-Brutal difficulty with a five-star rating.",
             "achievements": 99
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6255,
-            "positive": 5174,
-            "negative": 1081
-        },
         "information": "Dollars & Disasters, and Sand & Secrets DLC are required for World Domination and Unyielding Conquest POs."
     },
     {
@@ -53756,12 +48380,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 78,
-            "positive": 78,
-            "negative": 0
         }
     },
     {
@@ -53816,12 +48434,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 52
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1211,
-            "positive": 988,
-            "negative": 223
         }
     },
     {
@@ -53876,12 +48488,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "9 user reviews",
-            "total": 9,
-            "positive": 9,
-            "negative": 0
         }
     },
     {
@@ -53937,12 +48543,6 @@ var data =
             "communityText": "",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 223,
-            "positive": 198,
-            "negative": 25
-        },
         "information": "The Zodiac Master title is missable - it appears only briefly on the results screen, which appears after \"Game Over\" text after the credits. It also only appears for the first 1CC (though if it's also the first game clear it won't pop up). See the following video for an example (in Japanese): https://youtu.be/Mw2qKK2OBpg?t=2529\n\nYou're better off recording the run."
     },
     {
@@ -53997,12 +48597,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 126,
-            "positive": 123,
-            "negative": 3
         }
     },
     {
@@ -54057,12 +48651,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 52767,
-            "positive": 44697,
-            "negative": 8070
         }
     },
     {
@@ -54117,12 +48705,6 @@ var data =
             "community": 2,
             "communityText": "Decorated Dragon\nObtain a gold medal on every level and speedrun.\n\nDragonborn\nAchieve \"Inhuman\" rank on the leaderboards.",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 641,
-            "positive": 564,
-            "negative": 77
         }
     },
     {
@@ -54177,12 +48759,6 @@ var data =
             "community": 1,
             "communityText": "Resident Expert\nComplete all primary objectives from all site-listed games in the Resident Evil franchise. See verification requirements for complete list.",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 26724,
-            "positive": 24571,
-            "negative": 2153
         }
     },
     {
@@ -54237,12 +48813,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 172670,
-            "positive": 167464,
-            "negative": 5206
         }
     },
     {
@@ -54297,12 +48867,6 @@ var data =
             "community": 1,
             "communityText": "Retail Detox\nBeat the game on \"Inferno\" without using or buying any shop items. ",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 91094,
-            "positive": 74412,
-            "negative": 16682
         }
     },
     {
@@ -54357,12 +48921,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 181334,
-            "positive": 177174,
-            "negative": 4160
         }
     },
     {
@@ -54417,12 +48975,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 82330,
-            "positive": 76899,
-            "negative": 5431
         }
     },
     {
@@ -54477,12 +49029,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 58
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 97710,
-            "positive": 93083,
-            "negative": 4627
         }
     },
     {
@@ -54537,12 +49083,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 8429,
-            "positive": 6911,
-            "negative": 1518
         }
     },
     {
@@ -54597,12 +49137,6 @@ var data =
             "community": 1,
             "communityText": "Two Heads Are Better Than One (POTENTIAL PO)\nGet a GOD rank on every possible level.",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 25,
-            "positive": 24,
-            "negative": 1
         }
     },
     {
@@ -54658,12 +49192,6 @@ var data =
             "communityText": "Stages of Grief (SO)\nBeat the game on shard 100.",
             "achievements": 127
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2258,
-            "positive": 1859,
-            "negative": 399
-        },
         "information": "Balanced around stable version. Uncleared objectives should be done there instead of beta.\n\nGuide for all hidden achievements: https://steamcommunity.com/sharedfiles/filedetails/?id=2971250949\n\nNote: Shard 100 may move to PO in the future if it is proven possible. Currently CO as a placeholder."
     },
     {
@@ -54718,12 +49246,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 60
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 378,
-            "positive": 344,
-            "negative": 34
         }
     },
     {
@@ -54779,12 +49301,6 @@ var data =
             "communityText": "Rex's Royal Rampage\nBeat the game without losing a life.\n\nRocket Rush\nBeat all bosses without taking damage.",
             "achievements": 40
         },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 262,
-            "positive": 197,
-            "negative": 65
-        },
         "information": "To launch the game on windows, use this guide:\n\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3375677826"
     },
     {
@@ -54839,12 +49355,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 26,
-            "positive": 21,
-            "negative": 5
         }
     },
     {
@@ -54899,12 +49409,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 21190,
-            "positive": 20859,
-            "negative": 331
         }
     },
     {
@@ -54959,12 +49463,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 112,
-            "positive": 91,
-            "negative": 21
         }
     },
     {
@@ -55019,12 +49517,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 10,
-            "positive": 9,
-            "negative": 1
         }
     },
     {
@@ -55079,12 +49571,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 31
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 723,
-            "positive": 677,
-            "negative": 46
         }
     },
     {
@@ -55140,12 +49626,6 @@ var data =
             "communityText": "",
             "achievements": 60
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 32,
-            "positive": 28,
-            "negative": 4
-        },
         "information": "Game is balanced around its last update from 2021, while still on Early Access."
     },
     {
@@ -55200,12 +49680,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2316,
-            "positive": 1723,
-            "negative": 593
         }
     },
     {
@@ -55260,12 +49734,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1018,
-            "positive": 943,
-            "negative": 75
         }
     },
     {
@@ -55321,12 +49789,6 @@ var data =
             "communityText": "",
             "achievements": 14
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 110,
-            "positive": 104,
-            "negative": 6
-        },
         "information": "For the \"Outrunner\" objective, it is currently unknown whether obtaining S rank on the Worm boss level is possible."
     },
     {
@@ -55381,12 +49843,6 @@ var data =
             "community": 1,
             "communityText": "Full Circle\nBeat the game on both endings in hard mode with every starting candle.",
             "achievements": 122
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4801,
-            "positive": 4394,
-            "negative": 407
         }
     },
     {
@@ -55441,12 +49897,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 110,
-            "positive": 97,
-            "negative": 13
         }
     },
     {
@@ -55501,12 +49951,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 901,
-            "positive": 624,
-            "negative": 277
         }
     },
     {
@@ -55561,12 +50005,6 @@ var data =
             "community": 1,
             "communityText": "Tomb Raider\nComplete all 754 in-game challenges.",
             "achievements": 143
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 136120,
-            "positive": 128024,
-            "negative": 8096
         }
     },
     {
@@ -55621,12 +50059,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 298,
-            "positive": 266,
-            "negative": 32
         }
     },
     {
@@ -55681,12 +50113,6 @@ var data =
             "community": 2,
             "communityText": "And so They Left...\nComplete all primary objectives from all site-listed games in the Risk of Rain franchise. See verification requirements for complete list.\n\nImminent Precipitation\nBeat a singleplayer game on Monsoon with every character without using any artifacts.",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 29621,
-            "positive": 27644,
-            "negative": 1977
         }
     },
     {
@@ -55742,12 +50168,6 @@ var data =
             "communityText": "Cosmic Odyssey\nBeat the game on Eclipse 8 with every character except REX, Commando, Mercenary and the Heretic.\n\nThe Face of the Deep\nReach The Planetarium and defeat the alternate final boss on Eclipse 8 with any character.\n\nUnorthodoxy Risen\nBeat the game on Eclipse 8 with the Heretic.\n\nClear Skies (Legacy)\nBeat the game on Eclipse 8 with REX, Commando and Mercenary.",
             "achievements": 118
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 312962,
-            "positive": 292551,
-            "negative": 20411
-        },
         "information": "\"Survivors of the Void\" DLC is required for \"Hailstorm\" and \"Cosmic Odyssey\"."
     },
     {
@@ -55802,12 +50222,6 @@ var data =
             "community": 3,
             "communityText": "Eye of the Storm\nBeat the game on \"Monsoon\" difficulty with all characters on solo and without using any artifacts or modifying the damage you take or deal. \n\nMayonnaise Soup\nBeat the game on \"Monsoon\" difficulty with all artifacts on and without modifying the damage you take or deal.\n\nTop Tier Model\nBeat \"Judgement\" with Robomando.",
             "achievements": 155
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 27810,
-            "positive": 25079,
-            "negative": 2731
         }
     },
     {
@@ -55862,12 +50276,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 38,
-            "positive": 36,
-            "negative": 2
         }
     },
     {
@@ -55922,12 +50330,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 7
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 321,
-            "positive": 277,
-            "negative": 44
         }
     },
     {
@@ -55982,12 +50384,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 72,
-            "positive": 67,
-            "negative": 5
         }
     },
     {
@@ -56042,12 +50438,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 997,
-            "positive": 840,
-            "negative": 157
         }
     },
     {
@@ -56102,12 +50492,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 347,
-            "positive": 280,
-            "negative": 67
         }
     },
     {
@@ -56162,12 +50546,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 60
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 73,
-            "positive": 56,
-            "negative": 17
         }
     },
     {
@@ -56222,12 +50600,6 @@ var data =
             "community": 1,
             "communityText": "Resilient Robber\nBeat all 93 levels and collect all 64 coins on Insanity difficulty.",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 81,
-            "positive": 75,
-            "negative": 6
         }
     },
     {
@@ -56282,12 +50654,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1605,
-            "positive": 1526,
-            "negative": 79
         }
     },
     {
@@ -56342,12 +50708,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 76
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 21632,
-            "positive": 20649,
-            "negative": 983
         }
     },
     {
@@ -56402,12 +50762,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3783,
-            "positive": 3472,
-            "negative": 311
         }
     },
     {
@@ -56462,12 +50816,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 12,
-            "positive": 12,
-            "negative": 0
         }
     },
     {
@@ -56522,12 +50870,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 168,
-            "positive": 167,
-            "negative": 1
         }
     },
     {
@@ -56582,12 +50924,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1589,
-            "positive": 1462,
-            "negative": 127
         }
     },
     {
@@ -56642,12 +50978,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 18473,
-            "positive": 17120,
-            "negative": 1353
         }
     },
     {
@@ -56702,12 +51032,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 39
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 14452,
-            "positive": 13128,
-            "negative": 1324
         }
     },
     {
@@ -56762,12 +51086,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 61
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3849,
-            "positive": 3227,
-            "negative": 622
         }
     },
     {
@@ -56822,12 +51140,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2084,
-            "positive": 1890,
-            "negative": 194
         }
     },
     {
@@ -56882,12 +51194,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 411,
-            "positive": 328,
-            "negative": 83
         }
     },
     {
@@ -56942,12 +51248,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 110,
-            "positive": 103,
-            "negative": 7
         },
         "information": "Accessibility options not allowed.\n\nYou can find information about the achievement requirements and time stars here: [https://docs.google.com/spreadsheets/d/19Rx-eCpsetRiSG7K2th3AtpD3Ntm5p7Z4h6p8RqmP0E](https://docs.google.com/spreadsheets/d/19Rx-eCpsetRiSG7K2th3AtpD3Ntm5p7Z4h6p8RqmP0E)"
     },
@@ -57004,12 +51304,6 @@ var data =
             "communityText": "",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 11,
-            "positive": 11,
-            "negative": 0
-        },
         "information": "It's recommended to go through each difficulty in ascending order (even Relaxed Reverie).\n\n"
     },
     {
@@ -57064,12 +51358,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 10,
-            "positive": 10,
-            "negative": 0
         }
     },
     {
@@ -57124,12 +51412,6 @@ var data =
             "community": 1,
             "communityText": "Rotund Revelry\nComplete all primary objectives from all site-listed games in the Rotund Rabbit franchise. See verification requirements for complete list.",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 17,
-            "positive": 17,
-            "negative": 0
         }
     },
     {
@@ -57184,12 +51466,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 25,
-            "positive": 25,
-            "negative": 0
         }
     },
     {
@@ -57244,12 +51520,6 @@ var data =
             "community": 1,
             "communityText": "Desert Limo\nSpend 8 hours of your life for a 0-point objective.",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 594,
-            "positive": 556,
-            "negative": 38
         }
     },
     {
@@ -57304,12 +51574,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 27,
-            "positive": 25,
-            "negative": 2
         }
     },
     {
@@ -57364,12 +51628,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 11587,
-            "positive": 10377,
-            "negative": 1210
         }
     },
     {
@@ -57425,12 +51683,6 @@ var data =
             "communityText": "Stranger Danger\nObtain a 3-star rank in \"Danger Zone\".",
             "achievements": 15
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 170,
-            "positive": 144,
-            "negative": 26
-        },
         "information": "For the CO, the relevant App ID / Depot ID / Manifest information is:\n325150 / 325151 / 4473576891853451301"
     },
     {
@@ -57485,12 +51737,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 19,
-            "positive": 16,
-            "negative": 3
         }
     },
     {
@@ -57545,12 +51791,6 @@ var data =
             "community": 1,
             "communityText": "Legacy Runner\nFinish Speedrun Mode in less than 25 minutes (with cutscenes), or less than 18:45 (without cutscenes)",
             "achievements": 57
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 171,
-            "positive": 159,
-            "negative": 12
         }
     },
     {
@@ -57605,12 +51845,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 295,
-            "positive": 221,
-            "negative": 74
         }
     },
     {
@@ -57665,12 +51899,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 18,
-            "positive": 17,
-            "negative": 1
         }
     },
     {
@@ -57725,12 +51953,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 262,
-            "positive": 256,
-            "negative": 6
         }
     },
     {
@@ -57785,12 +52007,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1269,
-            "positive": 1137,
-            "negative": 132
         }
     },
     {
@@ -57845,12 +52061,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 392,
-            "positive": 315,
-            "negative": 77
         }
     },
     {
@@ -57905,12 +52115,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "7 user reviews",
-            "total": 7,
-            "positive": 6,
-            "negative": 1
         }
     },
     {
@@ -57960,12 +52164,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 16,
-            "positive": 14,
-            "negative": 2
         }
     },
     {
@@ -58020,12 +52218,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 20631,
-            "positive": 18463,
-            "negative": 2168
         }
     },
     {
@@ -58080,12 +52272,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 49,
-            "positive": 46,
-            "negative": 3
         }
     },
     {
@@ -58140,12 +52326,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 35844,
-            "positive": 34902,
-            "negative": 942
         }
     },
     {
@@ -58200,12 +52380,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 236,
-            "positive": 218,
-            "negative": 18
         }
     },
     {
@@ -58261,12 +52435,6 @@ var data =
             "communityText": "",
             "achievements": 40
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 317,
-            "positive": 267,
-            "negative": 50
-        },
         "information": "The game has two broken achievements and it's not possible to earn them. They are unrelated to any Primary Objective but you should be aware."
     },
     {
@@ -58321,12 +52489,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 54
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 118,
-            "positive": 116,
-            "negative": 2
         }
     },
     {
@@ -58381,12 +52543,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2802,
-            "positive": 2582,
-            "negative": 220
         }
     },
     {
@@ -58441,12 +52597,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 55
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 43,
-            "positive": 35,
-            "negative": 8
         }
     },
     {
@@ -58501,12 +52651,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 119,
-            "positive": 113,
-            "negative": 6
         }
     },
     {
@@ -58561,12 +52705,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 164,
-            "positive": 155,
-            "negative": 9
         }
     },
     {
@@ -58621,12 +52759,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 8340,
-            "positive": 8075,
-            "negative": 265
         }
     },
     {
@@ -58681,12 +52813,6 @@ var data =
             "community": 1,
             "communityText": "The Closer to Light, the Greater the Shadow\nBeat the game with Extra Jump off, Risky mode on, and respawns off.",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 282,
-            "positive": 214,
-            "negative": 68
         }
     },
     {
@@ -58741,12 +52867,6 @@ var data =
             "community": 1,
             "communityText": "Scoot Kaboom and the Zoom of Doom\nBeat the game without dying without ever zooming in and without any assist options.",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 68,
-            "positive": 63,
-            "negative": 5
         }
     },
     {
@@ -58801,12 +52921,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2988,
-            "positive": 2608,
-            "negative": 380
         }
     },
     {
@@ -58861,12 +52975,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 19,
-            "positive": 19,
-            "negative": 0
         }
     },
     {
@@ -58921,12 +53029,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1173,
-            "positive": 1044,
-            "negative": 129
         }
     },
     {
@@ -58981,12 +53083,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 27,
-            "positive": 23,
-            "negative": 4
         }
     },
     {
@@ -59006,33 +53102,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 5999,
-                "final": 5999,
-                "discountPercent": 0
+                "final": 2999,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 5999,
-                "final": 5999,
-                "discountPercent": 0
+                "final": 2999,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 4990,
-                "final": 4990,
-                "discountPercent": 0
+                "final": 2495,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 836000,
-                "final": 836000,
-                "discountPercent": 0
+                "final": 418000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 8995,
-                "final": 8995,
-                "discountPercent": 0
+                "final": 4497,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 7999,
-                "final": 7999,
-                "discountPercent": 0
+                "final": 3999,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -59041,12 +53137,6 @@ var data =
             "community": 3,
             "communityText": "Against All Odds\nBeat the Gauntlet of Strength - Mortal Journey charmless with Demon Bell.\n\nPure Blade\nBeat the Gauntlet of Strength - Mortal Journey without instakilling Demon of Hatred.\n\nThe Wolf in the Dark\nBeat the game on NG+7.",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 321470,
-            "positive": 306338,
-            "negative": 15132
         }
     },
     {
@@ -59102,12 +53192,6 @@ var data =
             "communityText": "",
             "achievements": 40
         },
-        "reviews": {
-            "description": "5 user reviews",
-            "total": 5,
-            "positive": 5,
-            "negative": 0
-        },
         "information": "__Note__: your amount of arms is directly tied to the amount of secrets you complete ingame, but sometimes it glitches out and shows one more than your actual amount. This can cause a softlock at the moment of unlocking the last two levels if you have 11/10, being forced to reset your save."
     },
     {
@@ -59162,12 +53246,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 62
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 27683,
-            "positive": 24460,
-            "negative": 3223
         }
     },
     {
@@ -59222,12 +53300,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 54
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 16091,
-            "positive": 13422,
-            "negative": 2669
         }
     },
     {
@@ -59282,12 +53354,6 @@ var data =
             "community": 2,
             "communityText": "Mental Breakdown\nComplete all primary objectives from all site-listed games in the Serious Sam franchise. See verification requirements for complete list.\n\nSeriously Serious\nComplete the game in single player on Serious difficulty without dying or loading.",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 8183,
-            "positive": 7645,
-            "negative": 538
         }
     },
     {
@@ -59342,12 +53408,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 51
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4439,
-            "positive": 4110,
-            "negative": 329
         }
     },
     {
@@ -59402,12 +53462,6 @@ var data =
             "community": 2,
             "communityText": "Psychosis\nBeat Iteration V3 in under 25 minutes without using torments.\n\nQuests and Qualms\nComplete every quest (excluding Moody Mental).",
             "achievements": 49
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 242,
-            "positive": 185,
-            "negative": 57
         }
     },
     {
@@ -59462,12 +53516,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 45,
-            "positive": 43,
-            "negative": 2
         }
     },
     {
@@ -59522,12 +53570,6 @@ var data =
             "community": 2,
             "communityText": "Dipsomaniac\nFinish a Hardcore run while collecting all Beers and without the use of Mutators.\n\nMade of Beer\nFinish a Hardcore run without the use of Mutators and without resetting a level once you start it.",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2961,
-            "positive": 2808,
-            "negative": 153
         }
     },
     {
@@ -59582,12 +53624,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1974,
-            "positive": 1792,
-            "negative": 182
         }
     },
     {
@@ -59642,12 +53678,6 @@ var data =
             "community": 1,
             "communityText": "Certified Madness\nObtain the Certificate of Commendation",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 790,
-            "positive": 687,
-            "negative": 103
         }
     },
     {
@@ -59702,12 +53732,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 92
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 26140,
-            "positive": 24061,
-            "negative": 2079
         }
     },
     {
@@ -59762,12 +53786,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2847,
-            "positive": 2646,
-            "negative": 201
         }
     },
     {
@@ -59822,12 +53840,6 @@ var data =
             "community": 1,
             "communityText": "Sharpshooter++\nClear the game on Master difficulty with AAA rank, 100% accuracy and 20/20 stages passed.",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "3 user reviews",
-            "total": 3,
-            "positive": 3,
-            "negative": 0
         }
     },
     {
@@ -59882,12 +53894,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 89
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1596,
-            "positive": 1520,
-            "negative": 76
         }
     },
     {
@@ -59942,12 +53948,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 145,
-            "positive": 124,
-            "negative": 21
         }
     },
     {
@@ -60002,12 +54002,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 198,
-            "positive": 148,
-            "negative": 50
         }
     },
     {
@@ -60062,12 +54056,6 @@ var data =
             "community": 1,
             "communityText": "Reaper Feared by All\nComplete Hardcore Mode on Extreme without using continues.",
             "achievements": 7
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 213,
-            "positive": 178,
-            "negative": 35
         }
     },
     {
@@ -60122,12 +54110,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 78,
-            "positive": 66,
-            "negative": 12
         }
     },
     {
@@ -60182,12 +54164,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 1534,
-            "positive": 1211,
-            "negative": 323
         }
     },
     {
@@ -60242,12 +54218,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 615,
-            "positive": 595,
-            "negative": 20
         }
     },
     {
@@ -60261,8 +54231,8 @@ var data =
         "points": 130,
         "createdAt": "2025-02-04T23:54:14.000Z",
         "updatedAt": "2025-05-24T21:45:49.000Z",
-        "playersCompleted": 3,
-        "playersStarted": 2,
+        "playersCompleted": 4,
+        "playersStarted": 1,
         "playersTotal": 11,
         "priceData": {
             "USD": {
@@ -60302,12 +54272,6 @@ var data =
             "community": 1,
             "communityText": "Year of the Serpent\nUnlock all achievements and obtain the \"A Truly Magnificent View\" wallpaper.",
             "achievements": 78
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 266,
-            "positive": 240,
-            "negative": 26
         }
     },
     {
@@ -60363,12 +54327,6 @@ var data =
             "communityText": "Countdown to Doomsday\nComplete Cloister of Certain Doom with the turn limit set to 10000.",
             "achievements": 55
         },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 829,
-            "positive": 638,
-            "negative": 191
-        },
         "information": "Curated on Steam: [https://store.steampowered.com/app/1178790/Shiren_the_Wanderer_The_Tower_of_Fortune_and_the_Dice_of_Fate/?curator_clanid=36185934](https://store.steampowered.com/app/1178790/Shiren_the_Wanderer_The_Tower_of_Fortune_and_the_Dice_of_Fate/?curator_clanid=36185934)"
     },
     {
@@ -60423,12 +54381,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 56,
-            "positive": 51,
-            "negative": 5
         }
     },
     {
@@ -60483,12 +54435,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 33,
-            "positive": 33,
-            "negative": 0
         }
     },
     {
@@ -60543,12 +54489,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 250,
-            "positive": 243,
-            "negative": 7
         }
     },
     {
@@ -60603,12 +54543,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 84
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6405,
-            "positive": 5872,
-            "negative": 533
         }
     },
     {
@@ -60663,12 +54597,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 9
-        },
-        "reviews": {
-            "description": "6 user reviews",
-            "total": 6,
-            "positive": 5,
-            "negative": 1
         }
     },
     {
@@ -60723,12 +54651,6 @@ var data =
             "community": 1,
             "communityText": "The Ultimate Showdown of Ultimate Destiny\nComplete Story Mode on Hard difficulty as every character.",
             "achievements": 138
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 16097,
-            "positive": 15424,
-            "negative": 673
         }
     },
     {
@@ -60783,12 +54705,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 213,
-            "positive": 161,
-            "negative": 52
         }
     },
     {
@@ -60844,12 +54760,6 @@ var data =
             "communityText": "",
             "achievements": 61
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 21044,
-            "positive": 19456,
-            "negative": 1588
-        },
         "information": "[Gold stamp thresholds](https://steamcommunity.com/sharedfiles/filedetails/?id=2950984289\")"
     },
     {
@@ -60904,12 +54814,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 5
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 14,
-            "positive": 13,
-            "negative": 1
         }
     },
     {
@@ -60965,12 +54869,6 @@ var data =
             "communityText": "",
             "achievements": 12
         },
-        "reviews": {
-            "description": "Mixed",
-            "total": 634,
-            "positive": 415,
-            "negative": 219
-        },
         "information": "If you experience crashes and are on Windows 11, try switching to Windows 10 instead."
     },
     {
@@ -61025,12 +54923,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 42,
-            "positive": 41,
-            "negative": 1
         }
     },
     {
@@ -61085,12 +54977,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 60
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 974,
-            "positive": 636,
-            "negative": 338
         }
     },
     {
@@ -61145,12 +55031,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 178,
-            "positive": 172,
-            "negative": 6
         }
     },
     {
@@ -61205,12 +55085,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 31
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 175,
-            "positive": 168,
-            "negative": 7
         }
     },
     {
@@ -61265,12 +55139,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 36,
-            "positive": 32,
-            "negative": 4
         }
     },
     {
@@ -61325,12 +55193,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 86
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 54862,
-            "positive": 51181,
-            "negative": 3681
         }
     },
     {
@@ -61385,12 +55247,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 36,
-            "positive": 34,
-            "negative": 2
         }
     },
     {
@@ -61445,12 +55301,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 31259,
-            "positive": 27504,
-            "negative": 3755
         }
     },
     {
@@ -61500,12 +55350,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Mostly Negative",
-            "total": 13,
-            "positive": 5,
-            "negative": 8
         }
     },
     {
@@ -61560,12 +55404,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 662,
-            "positive": 567,
-            "negative": 95
         }
     },
     {
@@ -61620,12 +55458,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 65
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 167,
-            "positive": 159,
-            "negative": 8
         }
     },
     {
@@ -61680,12 +55512,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 103,
-            "positive": 96,
-            "negative": 7
         }
     },
     {
@@ -61740,12 +55566,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 140,
-            "positive": 119,
-            "negative": 21
         }
     },
     {
@@ -61800,12 +55620,6 @@ var data =
             "community": 1,
             "communityText": "King of Winging It\nComplete all the original 16 levels in level order without dying, restarting, or quitting.",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1696,
-            "positive": 1543,
-            "negative": 153
         }
     },
     {
@@ -61861,12 +55675,6 @@ var data =
             "communityText": "Slayed the Spire\nDefeat the Corrupt Heart on Ascension Level 20 with every character.",
             "achievements": 46
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 181817,
-            "positive": 177810,
-            "negative": 4007
-        },
         "information": "Ben - \"Watcher is easiest character\""
     },
     {
@@ -61921,12 +55729,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 9035,
-            "positive": 7968,
-            "negative": 1067
         }
     },
     {
@@ -61981,12 +55783,6 @@ var data =
             "community": 3,
             "communityText": "Pack Slime\nComplete each campaign in speedrun mode with the \"No Death\" and \"Apple/Banana/[Bug]\" modifiers enabled.\n\nSlime PLUS\nComplete each campaign in speedrun mode with the \"No Death\" and \"New Game PLUS\" modifiers enabled.\n\nSlime Souls\nComplete the Boss Rush mode with every modifier enabled.",
             "achievements": 85
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 316,
-            "positive": 269,
-            "negative": 47
         }
     },
     {
@@ -62041,12 +55837,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 39
-        },
-        "reviews": {
-            "description": "5 user reviews",
-            "total": 5,
-            "positive": 5,
-            "negative": 0
         }
     },
     {
@@ -62101,12 +55891,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 15,
-            "positive": 15,
-            "negative": 0
         }
     },
     {
@@ -62161,12 +55945,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 82,
-            "positive": 78,
-            "negative": 4
         }
     },
     {
@@ -62221,12 +55999,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 9
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 31,
-            "positive": 31,
-            "negative": 0
         }
     },
     {
@@ -62281,12 +56053,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 3197,
-            "positive": 2556,
-            "negative": 641
         }
     },
     {
@@ -62341,12 +56107,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 49,
-            "positive": 43,
-            "negative": 6
         }
     },
     {
@@ -62401,12 +56161,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 60
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 83,
-            "positive": 79,
-            "negative": 4
         }
     },
     {
@@ -62461,12 +56215,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 45,
-            "positive": 41,
-            "negative": 4
         }
     },
     {
@@ -62521,12 +56269,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1258,
-            "positive": 1143,
-            "negative": 115
         }
     },
     {
@@ -62581,12 +56323,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 310,
-            "positive": 231,
-            "negative": 79
         }
     },
     {
@@ -62641,12 +56377,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 99,
-            "positive": 97,
-            "negative": 2
         }
     },
     {
@@ -62701,12 +56431,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 24,
-            "positive": 24,
-            "negative": 0
         }
     },
     {
@@ -62756,12 +56480,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 17140,
-            "positive": 16036,
-            "negative": 1104
         }
     },
     {
@@ -62816,12 +56534,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 25435,
-            "positive": 22680,
-            "negative": 2755
         }
     },
     {
@@ -62876,12 +56588,6 @@ var data =
             "community": 1,
             "communityText": "Sonic's the Name, Speed's My Game!\nComplete all primary objectives from all site-listed games in the Sonic the Hedgehog franchise. See verification requirements for complete list.",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 16824,
-            "positive": 15393,
-            "negative": 1431
         }
     },
     {
@@ -62937,12 +56643,6 @@ var data =
             "communityText": "",
             "achievements": 48
         },
-        "reviews": {
-            "description": "Mixed",
-            "total": 7944,
-            "positive": 4730,
-            "negative": 3214
-        },
         "information": "Should show stages 3,5,6,8,9,10,11,13,15,18,21,22,23,26,27,28,30,EX1,EX4,EX6,EX7"
     },
     {
@@ -62997,12 +56697,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 100
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 4946,
-            "positive": 3092,
-            "negative": 1854
         }
     },
     {
@@ -63057,12 +56751,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 26110,
-            "positive": 24479,
-            "negative": 1631
         }
     },
     {
@@ -63112,12 +56800,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 3462,
-            "positive": 1398,
-            "negative": 2064
         }
     },
     {
@@ -63172,12 +56854,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 455,
-            "positive": 420,
-            "negative": 35
         }
     },
     {
@@ -63193,7 +56869,7 @@ var data =
         "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 10,
+        "playersTotal": 11,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -63232,12 +56908,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 2647,
-            "positive": 1813,
-            "negative": 834
         }
     },
     {
@@ -63292,12 +56962,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 322,
-            "positive": 236,
-            "negative": 86
         }
     },
     {
@@ -63352,12 +57016,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 1084,
-            "positive": 813,
-            "negative": 271
         }
     },
     {
@@ -63413,12 +57071,6 @@ var data =
             "communityText": "",
             "achievements": 27
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 190,
-            "positive": 181,
-            "negative": 9
-        },
         "information": "Curated on Steam: https://store.steampowered.com/app/1400910/Soundodger_2/?curator_clanid=36185934\n\nHero of the March 18 Massacre."
     },
     {
@@ -63473,12 +57125,6 @@ var data =
             "community": 4,
             "communityText": "Homey For Life\nObtain both 100% and the heart on Tokyo Skies while keeping the homing bullet alive for the whole level.\n\nSound Dodger+1\nFinish every level in the s1 DLC pack with both 100% bullets dodged and the heart.\n\nSound Dodger+2\nFinish every level in the s2 DLC pack with both 100% bullets dodged and the heart.\n\nSound Dodger+3\nFinish \"Carcinogens\" and \"Gonna Fear Now\" in the s3 DLC pack with both 100% bullets dodged and the heart.",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 810,
-            "positive": 728,
-            "negative": 82
         }
     },
     {
@@ -63533,12 +57179,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 97,
-            "positive": 87,
-            "negative": 10
         }
     },
     {
@@ -63593,12 +57233,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 110
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 441,
-            "positive": 399,
-            "negative": 42
         }
     },
     {
@@ -63653,12 +57287,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 70
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 236,
-            "positive": 214,
-            "negative": 22
         }
     },
     {
@@ -63713,12 +57341,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 58
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 44,
-            "positive": 44,
-            "negative": 0
         }
     },
     {
@@ -63773,12 +57395,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 4
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1367,
-            "positive": 1264,
-            "negative": 103
         }
     },
     {
@@ -63833,12 +57449,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 6
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1874,
-            "positive": 1815,
-            "negative": 59
         }
     },
     {
@@ -63893,12 +57503,6 @@ var data =
             "community": 1,
             "communityText": "The Actual Impossible\nComplete the game in stage order without falling and without using level restarts/Teleport Beacon.",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 494,
-            "positive": 380,
-            "negative": 114
         }
     },
     {
@@ -63953,12 +57557,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 49,
-            "positive": 44,
-            "negative": 5
         }
     },
     {
@@ -64013,12 +57611,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 59
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 163,
-            "positive": 131,
-            "negative": 32
         }
     },
     {
@@ -64073,12 +57665,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 200,
-            "positive": 170,
-            "negative": 30
         }
     },
     {
@@ -64133,12 +57719,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 20,
-            "positive": 20,
-            "negative": 0
         }
     },
     {
@@ -64193,12 +57773,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "3 user reviews",
-            "total": 3,
-            "positive": 3,
-            "negative": 0
         }
     },
     {
@@ -64253,12 +57827,6 @@ var data =
             "community": 1,
             "communityText": "Die Young\nBe promoted to the Bronze League.",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 36724,
-            "positive": 34509,
-            "negative": 2215
         }
     },
     {
@@ -64313,12 +57881,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 14,
-            "positive": 11,
-            "negative": 3
         }
     },
     {
@@ -64373,12 +57935,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 16288,
-            "positive": 15002,
-            "negative": 1286
         }
     },
     {
@@ -64433,12 +57989,6 @@ var data =
             "community": 3,
             "communityText": "Cave Climber\nComplete the hard variant of XanaGear's \"Getting Over It\" mod.\n\nCosmic Fool\nBeat Cosmic Ocean with the true crown in solo mode.\n\nCosmic Runner\nObtain the Celeritas Constellation by completing Cosmic Ocean in under 1 hour and 56 minutes.",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 20470,
-            "positive": 19047,
-            "negative": 1423
         }
     },
     {
@@ -64493,12 +58043,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5575,
-            "positive": 5159,
-            "negative": 416
         }
     },
     {
@@ -64553,12 +58097,6 @@ var data =
             "community": 2,
             "communityText": "Spin Wizard\nObtain the PFC badge on all base RemiXD tracks.\n\nDecked Out\nObtain the PFC badge on all base XD tracks.",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 4043,
-            "positive": 3929,
-            "negative": 114
         }
     },
     {
@@ -64613,12 +58151,6 @@ var data =
             "community": 1,
             "communityText": "Top Gun\nPlace first in any leaderboard and unlock the \"Gold\" boost.",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 86,
-            "positive": 68,
-            "negative": 18
         }
     },
     {
@@ -64674,12 +58206,6 @@ var data =
             "communityText": "",
             "achievements": 11
         },
-        "reviews": {
-            "description": "6 user reviews",
-            "total": 6,
-            "positive": 6,
-            "negative": 0
-        },
         "information": "Has broken achievements."
     },
     {
@@ -64734,12 +58260,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 77
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 403,
-            "positive": 388,
-            "negative": 15
         }
     },
     {
@@ -64794,12 +58314,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 1
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 61,
-            "positive": 57,
-            "negative": 4
         }
     },
     {
@@ -64854,12 +58368,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 47
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1119,
-            "positive": 1038,
-            "negative": 81
         }
     },
     {
@@ -64914,12 +58422,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 166,
-            "positive": 160,
-            "negative": 6
         }
     },
     {
@@ -64974,12 +58476,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 71,
-            "positive": 65,
-            "negative": 6
         }
     },
     {
@@ -65034,12 +58530,6 @@ var data =
             "community": 1,
             "communityText": "Miz'd Opportunity\nGet an any% speedrun time faster than 9:55.083 (the time that won Mizkif's challenge).",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 223,
-            "positive": 208,
-            "negative": 15
         }
     },
     {
@@ -65089,12 +58579,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 42,
-            "positive": 34,
-            "negative": 8
         }
     },
     {
@@ -65114,33 +58598,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 699,
-                "final": 209,
-                "discountPercent": 70
+                "final": 699,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 689,
-                "final": 206,
-                "discountPercent": 70
+                "final": 689,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 589,
-                "final": 176,
-                "discountPercent": 70
+                "final": 589,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 80000,
-                "final": 24000,
-                "discountPercent": 70
+                "final": 80000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1025,
-                "final": 307,
-                "discountPercent": 70
+                "final": 1025,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 899,
-                "final": 269,
-                "discountPercent": 70
+                "final": 899,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -65149,12 +58633,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "7 user reviews",
-            "total": 7,
-            "positive": 7,
-            "negative": 0
         }
     },
     {
@@ -65209,12 +58687,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 435,
-            "positive": 397,
-            "negative": 38
         }
     },
     {
@@ -65269,12 +58741,6 @@ var data =
             "community": 1,
             "communityText": "Proverbial Pathfinder\nComplete all books under their par times in level order, without dying or using a skill.",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 28,
-            "positive": 27,
-            "negative": 1
         }
     },
     {
@@ -65329,12 +58795,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 225,
-            "positive": 173,
-            "negative": 52
         }
     },
     {
@@ -65389,12 +58849,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 7
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 18,
-            "positive": 15,
-            "negative": 3
         }
     },
     {
@@ -65450,12 +58904,6 @@ var data =
             "communityText": "Signaled (SO)\nComplete all trials without getting hit.",
             "achievements": 52
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 2870,
-            "positive": 2776,
-            "negative": 94
-        },
         "information": "The objectives have been valued with seeds in mind, as well as the use of the \"Overlord\" character when applicable."
     },
     {
@@ -65510,12 +58958,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 71,
-            "positive": 57,
-            "negative": 14
         }
     },
     {
@@ -65570,12 +59012,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 884459,
-            "positive": 870663,
-            "negative": 13796
         }
     },
     {
@@ -65630,12 +59066,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 49
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 226,
-            "positive": 212,
-            "negative": 14
         }
     },
     {
@@ -65690,12 +59120,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 700,
-            "positive": 622,
-            "negative": 78
         }
     },
     {
@@ -65750,12 +59174,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 27,
-            "positive": 26,
-            "negative": 1
         }
     },
     {
@@ -65810,12 +59228,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1176,
-            "positive": 1042,
-            "negative": 134
         }
     },
     {
@@ -65870,12 +59282,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 1028,
-            "positive": 776,
-            "negative": 252
         }
     },
     {
@@ -65930,12 +59336,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 7577,
-            "positive": 7238,
-            "negative": 339
         }
     },
     {
@@ -65990,12 +59390,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 47
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5839,
-            "positive": 5503,
-            "negative": 336
         },
         "information": "Curated on Steam: https://store.steampowered.com/app/322190/SteamWorld_Heist/?curator_clanid=36185934"
     },
@@ -66052,12 +59446,6 @@ var data =
             "communityText": "",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 88,
-            "positive": 80,
-            "negative": 8
-        },
         "information": "Has some replay desync issues. It's recommended to record videos of live runs."
     },
     {
@@ -66112,12 +59500,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 99,
-            "positive": 97,
-            "negative": 2
         }
     },
     {
@@ -66172,12 +59554,6 @@ var data =
             "community": 1,
             "communityText": "Gladiator of the Universe\nDestroy the Old Friend, the Garbage Collector, the Astroworm, the Super Chabal, the Alien Ship and the Red Baron.",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 926,
-            "positive": 815,
-            "negative": 111
         }
     },
     {
@@ -66232,12 +59608,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 50,
-            "positive": 47,
-            "negative": 3
         }
     },
     {
@@ -66292,12 +59662,6 @@ var data =
             "community": 1,
             "communityText": "Iron Bonus Fella\nComplete the bonus levels in order in Stilt Fella mode without using quit to menu or level reset.",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 868,
-            "positive": 799,
-            "negative": 69
         }
     },
     {
@@ -66352,12 +59716,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 62,
-            "positive": 55,
-            "negative": 7
         }
     },
     {
@@ -66412,12 +59770,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 55
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 167,
-            "positive": 152,
-            "negative": 15
         }
     },
     {
@@ -66472,12 +59824,6 @@ var data =
             "community": 1,
             "communityText": "Greatest Archeologist Alive\nAchieve all green checkmarks in a single run on every mission of score attack.",
             "achievements": 60
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 10717,
-            "positive": 9028,
-            "negative": 1689
         }
     },
     {
@@ -66532,12 +59878,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 39,
-            "positive": 39,
-            "negative": 0
         }
     },
     {
@@ -66592,12 +59932,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 2
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 107,
-            "positive": 54,
-            "negative": 53
         }
     },
     {
@@ -66652,12 +59986,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 191,
-            "positive": 175,
-            "negative": 16
         }
     },
     {
@@ -66712,12 +60040,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 868,
-            "positive": 775,
-            "negative": 93
         }
     },
     {
@@ -66772,12 +60094,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 680,
-            "positive": 590,
-            "negative": 90
         }
     },
     {
@@ -66832,12 +60148,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 63,
-            "positive": 47,
-            "negative": 16
         }
     },
     {
@@ -66892,12 +60202,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "9 user reviews",
-            "total": 9,
-            "positive": 7,
-            "negative": 2
         }
     },
     {
@@ -66952,12 +60256,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 62
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 22,
-            "positive": 16,
-            "negative": 6
         }
     },
     {
@@ -67012,12 +60310,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 93,
-            "positive": 86,
-            "negative": 7
         }
     },
     {
@@ -67072,12 +60364,6 @@ var data =
             "community": 2,
             "communityText": "Data Based\nComplete a Flawless run of each chapter (separately) while collecting all Data Cubes, without assist mode, and without quit to menu.\n\nMade of Simulations\nComplete chapters 3, 4, 5 and 6 on Normal mode and the Lost Levels with 0 deaths without the use of quit to menu.",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 408,
-            "positive": 372,
-            "negative": 36
         }
     },
     {
@@ -67132,12 +60418,6 @@ var data =
             "community": 1,
             "communityText": "Eradicator\nBeat every boss (plus at least one final boss) on Insane difficulty with the Eradicator perk equipped.",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4952,
-            "positive": 4066,
-            "negative": 886
         }
     },
     {
@@ -67192,12 +60472,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 101,
-            "positive": 96,
-            "negative": 5
         }
     },
     {
@@ -67252,12 +60526,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "8 user reviews",
-            "total": 8,
-            "positive": 8,
-            "negative": 0
         }
     },
     {
@@ -67312,12 +60580,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 887,
-            "positive": 778,
-            "negative": 109
         }
     },
     {
@@ -67331,8 +60593,8 @@ var data =
         "points": 55,
         "createdAt": "2023-05-13T20:45:05.000Z",
         "updatedAt": "2025-05-24T21:45:49.000Z",
-        "playersCompleted": 4,
-        "playersStarted": 4,
+        "playersCompleted": 5,
+        "playersStarted": 3,
         "playersTotal": 25,
         "priceData": {
             "USD": {
@@ -67372,12 +60634,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 312,
-            "positive": 287,
-            "negative": 25
         }
     },
     {
@@ -67432,12 +60688,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "8 user reviews",
-            "total": 8,
-            "positive": 6,
-            "negative": 2
         }
     },
     {
@@ -67492,12 +60742,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "5 user reviews",
-            "total": 5,
-            "positive": 4,
-            "negative": 1
         }
     },
     {
@@ -67552,12 +60796,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 9871,
-            "positive": 8560,
-            "negative": 1311
         }
     },
     {
@@ -67612,12 +60850,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 117,
-            "positive": 114,
-            "negative": 3
         }
     },
     {
@@ -67672,12 +60904,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 72
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 478,
-            "positive": 413,
-            "negative": 65
         }
     },
     {
@@ -67732,12 +60958,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 4973,
-            "positive": 4790,
-            "negative": 183
         }
     },
     {
@@ -67793,12 +61013,6 @@ var data =
             "communityText": "",
             "achievements": 27
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 248,
-            "positive": 210,
-            "negative": 38
-        },
         "information": "To 3 star the last level see: [https://youtu.be/piuJBn5NrVQ](https://youtu.be/piuJBn5NrVQ)"
     },
     {
@@ -67853,12 +61067,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 210,
-            "positive": 203,
-            "negative": 7
         }
     },
     {
@@ -67913,12 +61121,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 29,
-            "positive": 25,
-            "negative": 4
         }
     },
     {
@@ -67973,12 +61175,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 15,
-            "positive": 14,
-            "negative": 1
         }
     },
     {
@@ -68033,12 +61229,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 61
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 29,
-            "positive": 28,
-            "negative": 1
         }
     },
     {
@@ -68093,12 +61283,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 156,
-            "positive": 144,
-            "negative": 12
         }
     },
     {
@@ -68153,12 +61337,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 15,
-            "positive": 14,
-            "negative": 1
         }
     },
     {
@@ -68213,12 +61391,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "6 user reviews",
-            "total": 6,
-            "positive": 6,
-            "negative": 0
         }
     },
     {
@@ -68273,12 +61445,6 @@ var data =
             "community": 2,
             "communityText": "Super Hexagon\nSurvive for 360 seconds on the Hexagon stage.\n\nHyper Hexagon\nSurvive for 120 seconds on the Hyper Hexagonest stage.",
             "achievements": 6
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 24678,
-            "positive": 23907,
-            "negative": 771
         }
     },
     {
@@ -68333,12 +61499,6 @@ var data =
             "community": 1,
             "communityText": "Pinball Wizard\nComplete every individual level without dying.",
             "achievements": 64
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 35,
-            "positive": 34,
-            "negative": 1
         }
     },
     {
@@ -68393,12 +61553,6 @@ var data =
             "community": 1,
             "communityText": "More Like NesSucks (S)\nBeat or Equal all of NesRocks' times in Time Attack mode without using Tcheco",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 37,
-            "positive": 35,
-            "negative": 2
         }
     },
     {
@@ -68454,12 +61608,6 @@ var data =
             "communityText": "",
             "achievements": 46
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1698,
-            "positive": 1628,
-            "negative": 70
-        },
         "information": "DLC required for completion."
     },
     {
@@ -68514,12 +61662,6 @@ var data =
             "community": 1,
             "communityText": "Statistically Improbable\nScore 300 points or above in Time Gate Mode and 1000 points or above in Survival Mode on every map.",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 107,
-            "positive": 93,
-            "negative": 14
         }
     },
     {
@@ -68574,12 +61716,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 9
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 28,
-            "positive": 25,
-            "negative": 3
         }
     },
     {
@@ -68634,12 +61770,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 4
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 34,
-            "positive": 23,
-            "negative": 11
         }
     },
     {
@@ -68694,12 +61824,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 37,
-            "positive": 37,
-            "negative": 0
         }
     },
     {
@@ -68754,12 +61878,6 @@ var data =
             "community": 1,
             "communityText": "Made of Magnetism\nSeparately, complete Magtek normal and Magnetia Star without dying and without assist features or quit to menu.",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 364,
-            "positive": 312,
-            "negative": 52
         }
     },
     {
@@ -68814,12 +61932,6 @@ var data =
             "community": 2,
             "communityText": "Made of Meat\nComplete the Cotton Alley Dark World deathless without using quit to menu.\n\nWell Done\nComplete all dark worlds (separately) in level order as meat boy only without dying or using any exploit or quit to menu.",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 35484,
-            "positive": 33559,
-            "negative": 1925
         }
     },
     {
@@ -68874,12 +61986,6 @@ var data =
             "community": 1,
             "communityText": "Made of Super Meat\nComplete all Dark World deathless runs (including 0xDEADBEEF) without using quit to menu.",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 1605,
-            "positive": 900,
-            "negative": 705
         }
     },
     {
@@ -68934,12 +62040,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 45,
-            "positive": 44,
-            "negative": 1
         }
     },
     {
@@ -68994,12 +62094,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1462,
-            "positive": 1221,
-            "negative": 241
         }
     },
     {
@@ -69054,12 +62148,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 29,
-            "positive": 29,
-            "negative": 0
         }
     },
     {
@@ -69114,12 +62202,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 11,
-            "positive": 11,
-            "negative": 0
         }
     },
     {
@@ -69174,12 +62256,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 31,
-            "positive": 29,
-            "negative": 2
         }
     },
     {
@@ -69234,12 +62310,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 500,
-            "positive": 449,
-            "negative": 51
         }
     },
     {
@@ -69294,12 +62364,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 69,
-            "positive": 69,
-            "negative": 0
         }
     },
     {
@@ -69354,12 +62418,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 198,
-            "positive": 165,
-            "negative": 33
         }
     },
     {
@@ -69409,12 +62467,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 31
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 34,
-            "positive": 24,
-            "negative": 10
         }
     },
     {
@@ -69470,12 +62522,6 @@ var data =
             "communityText": "",
             "achievements": 14
         },
-        "reviews": {
-            "description": "4 user reviews",
-            "total": 4,
-            "positive": 2,
-            "negative": 2
-        },
         "information": "Hero times require enabling Hard Mode in options."
     },
     {
@@ -69530,12 +62576,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 57
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 171,
-            "positive": 102,
-            "negative": 69
         }
     },
     {
@@ -69590,12 +62630,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 164,
-            "positive": 139,
-            "negative": 25
         }
     },
     {
@@ -69650,12 +62684,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 34,
-            "positive": 30,
-            "negative": 4
         }
     },
     {
@@ -69710,12 +62738,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 71,
-            "positive": 52,
-            "negative": 19
         }
     },
     {
@@ -69770,12 +62792,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 317,
-            "positive": 297,
-            "negative": 20
         }
     },
     {
@@ -69830,12 +62846,6 @@ var data =
             "community": 1,
             "communityText": "SUPERHOT\nComplete all primary objectives from all site-listed games in the SUPERHOT franchise. See verification requirements for complete list.",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 38743,
-            "positive": 35358,
-            "negative": 3385
         }
     },
     {
@@ -69891,12 +62901,6 @@ var data =
             "communityText": "",
             "achievements": 26
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 9091,
-            "positive": 7462,
-            "negative": 1629
-        },
         "information": "This game requires a VR headset in order to play."
     },
     {
@@ -69951,12 +62955,6 @@ var data =
             "community": 1,
             "communityText": "SUPERPURE\nBeat Node 100 with the PURE core.",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 11995,
-            "positive": 10129,
-            "negative": 1866
         }
     },
     {
@@ -70011,12 +63009,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 30095,
-            "positive": 28470,
-            "negative": 1625
         }
     },
     {
@@ -70072,12 +63064,6 @@ var data =
             "communityText": "Embrace the Void\nSurvive for 120 seconds on all levels.",
             "achievements": 10
         },
-        "reviews": {
-            "description": "5 user reviews",
-            "total": 5,
-            "positive": 4,
-            "negative": 1
-        },
         "information": "Surviving 120 seconds on each normal level will unlock all of their respective themes. Unlocking the secret level requires surviving on every level for more than 90 seconds."
     },
     {
@@ -70127,12 +63113,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 709,
-            "positive": 570,
-            "negative": 139
         }
     },
     {
@@ -70187,12 +63167,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 123
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 16489,
-            "positive": 13562,
-            "negative": 2927
         }
     },
     {
@@ -70247,12 +63221,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 21,
-            "positive": 20,
-            "negative": 1
         }
     },
     {
@@ -70308,12 +63276,6 @@ var data =
             "communityText": "No Shipping Errors\nComplete an expert run by saving all containers (no explosions allowed), kill the boss, and with default lives.",
             "achievements": 17
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 120,
-            "positive": 110,
-            "negative": 10
-        },
         "information": "For the \"Gentleman-Burglar\" achievement, you need to complete a run on Expert where you kill the boss and collect every single container, even during the levels where you die and restart using extra lives."
     },
     {
@@ -70368,12 +63330,6 @@ var data =
             "community": 1,
             "communityText": "Let me Show You Some Real Ultra-Violence\nFinish all the challenges.",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 12708,
-            "positive": 11962,
-            "negative": 746
         }
     },
     {
@@ -70428,12 +63384,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 164,
-            "positive": 160,
-            "negative": 4
         }
     },
     {
@@ -70488,12 +63438,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 280,
-            "positive": 269,
-            "negative": 11
         }
     },
     {
@@ -70548,12 +63492,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 56,
-            "positive": 49,
-            "negative": 7
         }
     },
     {
@@ -70609,12 +63547,6 @@ var data =
             "communityText": "",
             "achievements": 33
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 992,
-            "positive": 866,
-            "negative": 126
-        },
         "information": "Subscription/DLC songs currently not required for CE objectives."
     },
     {
@@ -70669,12 +63601,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 12341,
-            "positive": 10914,
-            "negative": 1427
         }
     },
     {
@@ -70729,12 +63655,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 301,
-            "positive": 238,
-            "negative": 63
         }
     },
     {
@@ -70790,12 +63710,6 @@ var data =
             "communityText": "Avatar of the Burning Eyes\nOn Insane Roguelike or above, win as a yeek with the Avatar of a Distant Sun prodigy while never taking off your bikini.\n\nHalf of a Greater Whole\nEarn 50% of the achievements.",
             "achievements": 1782
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 6706,
-            "positive": 6376,
-            "negative": 330
-        },
         "information": "[Curated on Steam](https://store.steampowered.com/app/259680/Tales_of_MajEyal/?curator_clanid=36185934)\n\nPrimary objectives are retroactive: higher difficulty awards all objectives below, and Roguelike Mode awards its respective Adventure Mode counterpart.\n\nThe game can be downloaded for free on the game's official website.\n\nDownload link: [https://te4.org/download](https://te4.org/download)\n\nSee doc for further information: [https://docs.google.com/document/d/1bWCoBS8H8cSq-DLz9H1cY5HAgxppzOHCjSDQzjJK_Mc](https://docs.google.com/document/d/1bWCoBS8H8cSq-DLz9H1cY5HAgxppzOHCjSDQzjJK_Mc)\n\nWARNING - Use adventurer at your own peril, it is undecided if it will be banned, allowed or awarded partial points.\nItem vault is also undecided but will likely be banned.\n\nUsing holiday/timed events is restricted, christmas especially is strictly banned."
     },
     {
@@ -70850,12 +63764,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 67,
-            "positive": 60,
-            "negative": 7
         }
     },
     {
@@ -70910,12 +63818,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 44,
-            "positive": 37,
-            "negative": 7
         }
     },
     {
@@ -70970,12 +63872,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 644,
-            "positive": 579,
-            "negative": 65
         }
     },
     {
@@ -71030,12 +63926,6 @@ var data =
             "community": 1,
             "communityText": "Tasty Universe\nComplete all primary objectives from all site-listed games in the Tasty Planet franchise. See verification requirements for complete list.",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 344,
-            "positive": 287,
-            "negative": 57
         }
     },
     {
@@ -71090,12 +63980,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 309,
-            "positive": 272,
-            "negative": 37
         }
     },
     {
@@ -71150,12 +64034,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 552,
-            "positive": 510,
-            "negative": 42
         }
     },
     {
@@ -71210,12 +64088,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 51
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 3344,
-            "positive": 2465,
-            "negative": 879
         }
     },
     {
@@ -71270,12 +64142,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 55
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 91,
-            "positive": 84,
-            "negative": 7
         }
     },
     {
@@ -71330,12 +64196,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 13736,
-            "positive": 12966,
-            "negative": 770
         }
     },
     {
@@ -71390,12 +64250,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 30,
-            "positive": 30,
-            "negative": 0
         }
     },
     {
@@ -71450,12 +64304,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 64
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 163,
-            "positive": 154,
-            "negative": 9
         }
     },
     {
@@ -71510,12 +64358,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 316,
-            "positive": 287,
-            "negative": 29
         }
     },
     {
@@ -71570,12 +64412,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 59,
-            "positive": 46,
-            "negative": 13
         }
     },
     {
@@ -71630,12 +64466,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 58
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 151,
-            "positive": 151,
-            "negative": 0
         }
     },
     {
@@ -71685,12 +64515,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 14,
-            "positive": 12,
-            "negative": 2
         }
     },
     {
@@ -71745,12 +64569,6 @@ var data =
             "community": 8,
             "communityText": "Devoted Sprinter\nClear Sprint Mode in under 60 seconds.\n\nElite Sprinter\nClear Sprint Mode in under 50 seconds.\n\nGodlike Sprinter\nClear Sprint Mode in under 40 seconds. \n\nGrand Master Guardian\nReach Tier 10 in multiplayer.\n\nInfinitris Ascendant\nClear 23 lines in one zone (not in multiplayer).\n\nMaxed Out Master\nClear the non-endless Master Mode with 303 total lines. \n\nRainbow Connection\nEarn an SS rank in multiplayer Zone Battle, Score Attack, Classic Score Attack, and Connected Vs as the Boss.\n\nZodiac Maniac\nDefeat Area 5 Tetrimidion in Maniac Mode with SS rank.",
             "achievements": 43
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 7925,
-            "positive": 7522,
-            "negative": 403
         }
     },
     {
@@ -71765,8 +64583,8 @@ var data =
         "createdAt": "2025-05-26T01:58:51.000Z",
         "updatedAt": "2025-05-29T00:26:10.000Z",
         "playersCompleted": 0,
-        "playersStarted": 0,
-        "playersTotal": 3,
+        "playersStarted": 3,
+        "playersTotal": 4,
         "priceData": {
             "USD": {
                 "initial": 3499,
@@ -71805,12 +64623,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 34
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 446,
-            "positive": 385,
-            "negative": 61
         }
     },
     {
@@ -71865,12 +64677,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 163,
-            "positive": 151,
-            "negative": 12
         }
     },
     {
@@ -71925,12 +64731,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 40,
-            "positive": 39,
-            "negative": 1
         }
     },
     {
@@ -71985,12 +64785,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 39
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 15519,
-            "positive": 13809,
-            "negative": 1710
         }
     },
     {
@@ -72045,12 +64839,6 @@ var data =
             "community": 2,
             "communityText": "Meat Master\nComplete all primary objectives from all site-listed games in the Meat Boy franchise. See verification requirements for complete list.\n\nTurbo Fcuked\nComplete the Unknown in Time Fcuk.",
             "achievements": 53
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1498,
-            "positive": 1291,
-            "negative": 207
         }
     },
     {
@@ -72105,12 +64893,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 192,
-            "positive": 154,
-            "negative": 38
         }
     },
     {
@@ -72166,12 +64948,6 @@ var data =
             "communityText": "",
             "achievements": 99
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 60331,
-            "positive": 57259,
-            "negative": 3072
-        },
         "information": "\"Wrath of the Lamb\" DLC is needed both for the \"Eternal Crybaby\" objective and 100% of the Steam achievements. "
     },
     {
@@ -72226,12 +65002,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 100
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 51,
-            "positive": 49,
-            "negative": 2
         }
     },
     {
@@ -72286,12 +65056,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3526,
-            "positive": 2967,
-            "negative": 559
         }
     },
     {
@@ -72346,12 +65110,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1531,
-            "positive": 1455,
-            "negative": 76
         }
     },
     {
@@ -72406,12 +65164,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 88
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 7469,
-            "positive": 6538,
-            "negative": 931
         }
     },
     {
@@ -72466,12 +65218,6 @@ var data =
             "community": 6,
             "communityText": "Apocalypse Collector\nComplete the game without dying while obtaining all collectibles.\n\nIt's Not Glitched, You Just Gotta Blow In It\nComplete all glitch carts in a row without dying (in any order).\n\nKing of the Cart\nCollect all rings in the Super Mega Cart without dying.\n\nMade of Cancer\nComplete an any% deathless run without using quit to menu.\n\nSpike Tales - Unbreakable-er\nComplete Spike Tales without dying and without using any skips.\n\nThe End is Now\nObtain 152% completion on a save file without dying.",
             "achievements": 106
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3088,
-            "positive": 2889,
-            "negative": 199
         }
     },
     {
@@ -72526,12 +65272,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 739,
-            "positive": 641,
-            "negative": 98
         }
     },
     {
@@ -72586,12 +65326,6 @@ var data =
             "community": 1,
             "communityText": "I Don't Need That\nComplete the game in \"AKUMU\" difficulty without using keys or getting any upgrades.",
             "achievements": 71
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 30248,
-            "positive": 25773,
-            "negative": 4475
         }
     },
     {
@@ -72646,12 +65380,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 51
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 28861,
-            "positive": 26612,
-            "negative": 2249
         }
     },
     {
@@ -72706,12 +65434,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 54,
-            "positive": 53,
-            "negative": 1
         }
     },
     {
@@ -72766,12 +65488,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 51,
-            "positive": 43,
-            "negative": 8
         }
     },
     {
@@ -72826,12 +65542,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 582,
-            "positive": 404,
-            "negative": 178
         }
     },
     {
@@ -72886,12 +65596,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2525,
-            "positive": 2164,
-            "negative": 361
         }
     },
     {
@@ -72946,12 +65650,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 246,
-            "positive": 179,
-            "negative": 67
         }
     },
     {
@@ -73006,12 +65704,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 17,
-            "positive": 15,
-            "negative": 2
         }
     },
     {
@@ -73067,12 +65759,6 @@ var data =
             "communityText": "",
             "achievements": 48
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 11850,
-            "positive": 11050,
-            "negative": 800
-        },
         "information": "DLC Required:\n-Picnic Panic "
     },
     {
@@ -73127,12 +65813,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 395,
-            "positive": 330,
-            "negative": 65
         }
     },
     {
@@ -73187,12 +65867,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 271,
-            "positive": 193,
-            "negative": 78
         }
     },
     {
@@ -73247,12 +65921,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 6
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 444,
-            "positive": 370,
-            "negative": 74
         }
     },
     {
@@ -73307,12 +65975,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 10,
-            "positive": 10,
-            "negative": 0
         }
     },
     {
@@ -73367,12 +66029,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 18,
-            "positive": 16,
-            "negative": 2
         }
     },
     {
@@ -73427,12 +66083,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 179,
-            "positive": 156,
-            "negative": 23
         }
     },
     {
@@ -73487,12 +66137,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 67
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 10934,
-            "positive": 8222,
-            "negative": 2712
         }
     },
     {
@@ -73547,12 +66191,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 57
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 8503,
-            "positive": 6506,
-            "negative": 1997
         }
     },
     {
@@ -73607,12 +66245,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1507,
-            "positive": 1232,
-            "negative": 275
         }
     },
     {
@@ -73667,12 +66299,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 135,
-            "positive": 117,
-            "negative": 18
         }
     },
     {
@@ -73727,12 +66353,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 2
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 18911,
-            "positive": 16049,
-            "negative": 2862
         }
     },
     {
@@ -73787,12 +66407,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 100
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 846,
-            "positive": 736,
-            "negative": 110
         }
     },
     {
@@ -73847,12 +66461,6 @@ var data =
             "community": 3,
             "communityText": "Working Hard\nWin each solitaire variant in order and in a row without failing, restarting, or quitting at any point.\n\nFortune's Favored\nWin a game of Fortune's Foundation as The Fool or The World without ever covering the stack and without any undoes all in the same run.\n\nSolitairy Refinement\nWin a game of each solitaire variant under specific constraints.",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 758,
-            "positive": 749,
-            "negative": 9
         }
     },
     {
@@ -73907,12 +66515,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 150
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2523,
-            "positive": 2102,
-            "negative": 421
         }
     },
     {
@@ -73967,12 +66569,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 23248,
-            "positive": 17328,
-            "negative": 5920
         }
     },
     {
@@ -74027,12 +66623,6 @@ var data =
             "community": 2,
             "communityText": "Sekhmet\nBeat the lava challenges from the legacy version of the game.\n\nSobek\nBeat the inverted challenges alone while in co-op mode (other player must not move or help).",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 501,
-            "positive": 419,
-            "negative": 82
         }
     },
     {
@@ -74088,12 +66678,6 @@ var data =
             "communityText": "The Most Dangerous Game\nPerform a numberlock with a 6144 tile on the board, or win the game with a leftover 6144 tile.\n\nLock and Wall Torture\nPerform a TwentyFourlock (or higher).\n\nWoe is Threes\nPerform a Twelvelock by ending a game with eight 12 tiles on the board.",
             "achievements": 16
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 49,
-            "positive": 48,
-            "negative": 1
-        },
         "information": "Objectives for this game are retroactive: completing an objective will award all subsequent objectives below.\n\nDue to the game being available on other platforms (primarily mobile) before Steam for up to a decade, achievements are not required for objective completion.\n\nUse of the boost tile is allowed for video proof since it acts as more of a time saver rather than a significant advantage. The latest point where proof is accepted for primary objectives is specified within their respective requirements.\n\nDue to save-scumming, unsegmented videos are required for any objectives beyond \"Threelease the Kraken\" (iOS is currently exempt from this rule since it has no known accessible exploits).\n\nThe stats page is only accessible when actively playing a game, and can be found by pressing the button located at the top right. If done correctly, you should see a graph displaying your score history.\n\nThe Threes! guide can be found here: https://docs.google.com/document/d/1Ra8YbOMz4fMTwAPgeI2Y1_-q7yO1I0XDvAmv2_KKtZk/edit?usp=sharing"
     },
     {
@@ -74148,12 +66732,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 41,
-            "positive": 39,
-            "negative": 2
         }
     },
     {
@@ -74208,12 +66786,6 @@ var data =
             "community": 1,
             "communityText": "Platinum Hercules\nReach an overall score of 10M in Play+.",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4212,
-            "positive": 3866,
-            "negative": 346
         }
     },
     {
@@ -74268,12 +66840,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 29,
-            "positive": 20,
-            "negative": 9
         }
     },
     {
@@ -74328,12 +66894,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 15,
-            "positive": 13,
-            "negative": 2
         }
     },
     {
@@ -74388,12 +66948,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 8449,
-            "positive": 7100,
-            "negative": 1349
         }
     },
     {
@@ -74448,12 +67002,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 28,
-            "positive": 25,
-            "negative": 3
         }
     },
     {
@@ -74508,12 +67056,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 7
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 47,
-            "positive": 36,
-            "negative": 11
         }
     },
     {
@@ -74568,12 +67110,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 29,
-            "positive": 29,
-            "negative": 0
         }
     },
     {
@@ -74628,12 +67164,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 11330,
-            "positive": 10568,
-            "negative": 762
         }
     },
     {
@@ -74688,12 +67218,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 15,
-            "positive": 13,
-            "negative": 2
         }
     },
     {
@@ -74748,12 +67272,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 109,
-            "positive": 104,
-            "negative": 5
         }
     },
     {
@@ -74808,12 +67326,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 53
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 246,
-            "positive": 200,
-            "negative": 46
         }
     },
     {
@@ -74868,12 +67380,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 215,
-            "positive": 185,
-            "negative": 30
         }
     },
     {
@@ -74928,12 +67434,6 @@ var data =
             "community": 1,
             "communityText": "Titan Slayer\nSlay all titans in Iron Mode with New Game+.",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 13090,
-            "positive": 10327,
-            "negative": 2763
         }
     },
     {
@@ -74988,12 +67488,6 @@ var data =
             "community": 1,
             "communityText": "Toast Singularity\nComplete the Ironman Survival Mode with all power-ups unlocked.",
             "achievements": 9
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 85,
-            "positive": 63,
-            "negative": 22
         }
     },
     {
@@ -75048,12 +67542,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "8 user reviews",
-            "total": 8,
-            "positive": 8,
-            "negative": 0
         }
     },
     {
@@ -75108,12 +67596,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 82,
-            "positive": 65,
-            "negative": 17
         }
     },
     {
@@ -75168,12 +67650,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 496,
-            "positive": 429,
-            "negative": 67
         }
     },
     {
@@ -75229,12 +67705,6 @@ var data =
             "communityText": "",
             "achievements": 20
         },
-        "reviews": {
-            "description": "3 user reviews",
-            "total": 3,
-            "positive": 2,
-            "negative": 1
-        },
         "information": "To launch the game, move all files in the \"TomatoFlip\" folder to the parent folder \"Tomato Flip\""
     },
     {
@@ -75289,12 +67759,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 86,
-            "positive": 65,
-            "negative": 21
         }
     },
     {
@@ -75349,12 +67813,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 756,
-            "positive": 714,
-            "negative": 42
         }
     },
     {
@@ -75409,12 +67867,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 585,
-            "positive": 516,
-            "negative": 69
         }
     },
     {
@@ -75469,12 +67921,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 174,
-            "positive": 145,
-            "negative": 29
         }
     },
     {
@@ -75529,12 +67975,6 @@ var data =
             "community": 1,
             "communityText": "Double Enthusiast\nClear all scenes with Hatate.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 82,
-            "positive": 79,
-            "negative": 3
         }
     },
     {
@@ -75589,12 +68029,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 87,
-            "positive": 84,
-            "negative": 3
         }
     },
     {
@@ -75649,12 +68083,6 @@ var data =
             "community": 2,
             "communityText": "Geyser Enjoyer\nBeat the game on Lunatic without dying and without bombing.\n\nSuperego\nBeat the Extra mode without dying and without bombing.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 644,
-            "positive": 627,
-            "negative": 17
         }
     },
     {
@@ -75667,9 +68095,9 @@ var data =
         "tier": 2,
         "points": 33,
         "createdAt": "2024-10-09T07:37:45.000Z",
-        "updatedAt": "2025-05-24T21:45:49.000Z",
+        "updatedAt": "2025-05-31T09:03:23.000Z",
         "playersCompleted": 0,
-        "playersStarted": 5,
+        "playersStarted": 6,
         "playersTotal": 49,
         "priceData": {
             "USD": {
@@ -75705,16 +68133,10 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Phantasia Restored (UNCLEARED) [1\u2605]\nAchieve an All Brilliant on all LUNATIC difficulty songs from the base game.\n\nIncident Climax (UNCLEARED) [1\u2605]\nAchieve a Full Combo on all LUNATIC difficulty songs from the base game.\n\nThe Sea of Fantasy (UNCLEARED) [1\u2605]\nAchieve an All Brilliant on all HARD difficulty songs from the base game.\n\nMitama Starter [30\u2605]\nAchieve a Full Combo on all HARD difficulty songs from the base game.",
+            "primaryText": "Phantasia Restored (UNCLEARED) [1\u2605]\nAchieve an All Brilliant on all LUNATIC difficulty songs from the base game.\n\nIncident Climax (UNCLEARED) [1\u2605]\nAchieve a Full Combo on all LUNATIC difficulty songs from the base game.\n\nThe Sea of Fantasy (UNVALUED) [1\u2605]\nAchieve an All Brilliant on all HARD difficulty songs from the base game.\n\nMitama Starter [30\u2605]\nAchieve a Full Combo on all HARD difficulty songs from the base game.",
             "community": 0,
             "communityText": "",
             "achievements": 57
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1974,
-            "positive": 1582,
-            "negative": 392
         }
     },
     {
@@ -75769,12 +68191,6 @@ var data =
             "community": 3,
             "communityText": "Froglike Ancestry\nClear the Extra mode without dying and without bombing.\n\nGensokyo Sage\nDo Lunatic 1CCs of all available mainline games on Steam from the Touhou franchise. See verification requirements for complete list.\n\nYour Best Believer is Yourself\nBeat the game on Lunatic without dying and without bombing.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1230,
-            "positive": 1213,
-            "negative": 17
         }
     },
     {
@@ -75830,12 +68246,6 @@ var data =
             "communityText": "Flower Viewer\nBeat the game on Lunatic without dying and bombing. (Any character)\n\nMuenzuka Enthusiast\nBeat the game on Lunatic without continues using Tewi and Mystia.",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 277,
-            "positive": 273,
-            "negative": 4
-        },
         "information": "\"Blossom\" balanced around Aya/Medicine.\n\n[Example of screenshot requirements](https://upload.cedb.me/IHcpmy.png)\nYour run's score should show up on the scores screen."
     },
     {
@@ -75890,12 +68300,6 @@ var data =
             "community": 2,
             "communityText": "Chang'e Incarnate\nBeat the game on Legacy Lunatic without dying and bombing.\n\nSpace Juggler\nBeat the Extra mode without dying and bombing.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1340,
-            "positive": 1314,
-            "negative": 26
         }
     },
     {
@@ -75950,12 +68354,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 466,
-            "positive": 451,
-            "negative": 15
         }
     },
     {
@@ -76010,12 +68408,6 @@ var data =
             "community": 2,
             "communityText": "Certified Horsegirl\nBeat the Extra mode without dying, bombing, and breaking your Roaring. (Berserk is fine)\n\nIdola Perfectum\nBeat the game on Lunatic without dying, bombing, and breaking your Roaring. (Berserk is fine)",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1022,
-            "positive": 995,
-            "negative": 27
         }
     },
     {
@@ -76070,12 +68462,6 @@ var data =
             "community": 2,
             "communityText": "Real Taiko Master\nBeat the Extra mode without dying and bombing.\n\nTiny is War\nBeat the game on Lunatic without dying and bombing.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 379,
-            "positive": 373,
-            "negative": 6
         }
     },
     {
@@ -76130,12 +68516,6 @@ var data =
             "community": 2,
             "communityText": "Golden Centipede\nBeat the Extra mode without dying, bombing and equipping cards.\n\nOut of Stock\nBeat the game on Lunatic without dying, bombing and equipping cards.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1771,
-            "positive": 1733,
-            "negative": 38
         }
     },
     {
@@ -76190,12 +68570,6 @@ var data =
             "community": 2,
             "communityText": "Aprati\u1e63\u1e6dhita-Nirvana Achiever\nBeat the game on Lunatic without dying and bombing. (UFO spawns are allowed)\n\nDefined Fantastic Object\nBeat the Extra mode without dying and bombing. (UFO spawns are allowed)",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 353,
-            "positive": 338,
-            "negative": 15
         }
     },
     {
@@ -76250,12 +68624,6 @@ var data =
             "community": 2,
             "communityText": "All-Hearing Sage\nBeat the game on Lunatic without dying, bombing and using trances.\n\nTail Morpher\nBeat the Extra mode without dying, bombing and using trances.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 364,
-            "positive": 347,
-            "negative": 17
         }
     },
     {
@@ -76310,12 +68678,6 @@ var data =
             "community": 2,
             "communityText": "No More Doors\nBeat the Extra mode without dying, bombing and releasing.\n\nThe Sucessor\nBeat the game on Lunatic without dying, bombing and releasing.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 4495,
-            "positive": 4428,
-            "negative": 67
         }
     },
     {
@@ -76335,33 +68697,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 799,
-                "final": 479,
-                "discountPercent": 40
+                "final": 799,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 779,
-                "final": 467,
-                "discountPercent": 40
+                "final": 779,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 669,
-                "final": 401,
-                "discountPercent": 40
+                "final": 669,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 92000,
-                "final": 55200,
-                "discountPercent": 40
+                "final": 92000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1179,
-                "final": 707,
-                "discountPercent": 40
+                "final": 1179,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1049,
-                "final": 629,
-                "discountPercent": 40
+                "final": 1049,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -76370,12 +68732,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 373,
-            "positive": 317,
-            "negative": 56
         }
     },
     {
@@ -76430,12 +68786,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3408,
-            "positive": 3234,
-            "negative": 174
         }
     },
     {
@@ -76485,12 +68835,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 53,
-            "positive": 42,
-            "negative": 11
         },
         "information": "Note to self: buff to 400 points"
     },
@@ -76547,12 +68891,6 @@ var data =
             "communityText": "Iron Tires\nGet all Platform campaign Gold Medals in a row, in order, and without ever resetting or restarting a map.\n\nTrickmaniac\nGet all Puzzle Author Medals.\n\nTMN_ESWC Old Enthusiast\nGet all medals in the old TrackMania Nations ESWC campaign. (See information)\n\nTMO Old Enthusiast\nGet all medals in the old TrackMania Original campaign. (See information)\n\nTMSX Old Enthusiast\nGet all medals in the old TrackMania Sunrise eXtreme campaign. (See information)",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2615,
-            "positive": 2479,
-            "negative": 136
-        },
         "information": "[Direct link to download the old TrackMania campaigns For Old Enthusiast COs (53 MB)](https://upload.cedb.me/TMUnitedF_Old_Campaings.zip), install steps inside or [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2134162935)."
     },
     {
@@ -76607,12 +68945,6 @@ var data =
             "community": 2,
             "communityText": "Double Dash\nObtain all Gold Medals in the Double Driver campaign.\n\nImpossibly Perfect Harmony\nObtain all Trackmaster Medals in the Double Driver campaign.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 1550,
-            "positive": 1022,
-            "negative": 528
         }
     },
     {
@@ -76667,12 +68999,6 @@ var data =
             "community": 2,
             "communityText": "Canyon All-Star\nGet all Author Medals in the StarTrack Title Pack.\n\nUnofficially Platformer\nObtain all 69 medals in the Ubisoft Nadeo platform tracks.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1832,
-            "positive": 1486,
-            "negative": 346
         }
     },
     {
@@ -76727,12 +69053,6 @@ var data =
             "community": 1,
             "communityText": "Lagoon All-Star\nGet all Author Medals in the StarTrack Title Pack.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 295,
-            "positive": 189,
-            "negative": 106
         }
     },
     {
@@ -76787,12 +69107,6 @@ var data =
             "community": 1,
             "communityText": "Stadium All-Star\nGet all Author Medals in the StarTrack Title Pack.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6570,
-            "positive": 5834,
-            "negative": 736
         }
     },
     {
@@ -76847,12 +69161,6 @@ var data =
             "community": 3,
             "communityText": "Alpine All-Star\nGet all Author Medals in the TM1 Alpine Title Pack.\n\nSpeed All-Star\nGet all Author Medals in the TM1 Speed Title Pack.\n\nValley All-Star\nGet all Author Medals in the StarTrack Title Pack.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 612,
-            "positive": 493,
-            "negative": 119
         }
     },
     {
@@ -76907,12 +69215,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 24,
-            "positive": 22,
-            "negative": 2
         }
     },
     {
@@ -76967,12 +69269,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 104,
-            "positive": 99,
-            "negative": 5
         }
     },
     {
@@ -77027,12 +69323,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2727,
-            "positive": 1937,
-            "negative": 790
         }
     },
     {
@@ -77088,12 +69378,6 @@ var data =
             "communityText": "",
             "achievements": 49
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 13935,
-            "positive": 13022,
-            "negative": 913
-        },
         "information": "Guide made by SomeMugger found here: https://steamcommunity.com/sharedfiles/filedetails/?id=3437966281"
     },
     {
@@ -77143,12 +69427,6 @@ var data =
             "community": 4,
             "communityText": "Death Defying\nPass Diablo and You Shall Not Pass with 0 faults.\n\nFull Throttle\nObtain at least 1 primary objective from each game in the Trials Franchise. See verification requirements for complete list.\n\nRedLynx\nObtain all primary objectives from all games in the Trials franchise. See verification requirements for complete list.\n\nTop Dog\nGet a time of 3.50 on Basics of Handling, or have the Top Dog achievement in game.",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 264,
-            "positive": 225,
-            "negative": 39
         }
     },
     {
@@ -77203,12 +69481,6 @@ var data =
             "community": 3,
             "communityText": "Completely Unnecessary\nReach the end of \"Gas Problem\", \"S.P.H.E.R.E.\", \"Ball of Steel\", \"Infernal Pinball\", \"Outside the Ball\", \"Cruise Control\", \"Balance of Power\"\n\nGiga Jackass\nComplete Gigatrack on the Micro Donkey.\n\nREALLY Test Your Might\nComplete \"Test Your Might\" with 0 faults.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 2300,
-            "positive": 1742,
-            "negative": 558
         },
         "information": "Ball of steel requires video proof of not cheating by glitching/exploiting the ball, all other skill games can be proven with screenshots of leaderboard or ending distance reached.\n\nBall of steel - 457m+ (Finish Line)\nSphere - 1055m+ (GOAL Platform)\nInfernal Pinball - 139m+ (Set of lights trigger revealing Easter Egg)\nGas problem - 579m (Finish Line)\nOutside the Ball - 400m+ (Guard rail stops ball from progressing)\nCruise Control & Balance of Power - 472m+ (Track Ends)\n\nExample videos of all skill game endings\n[https://youtube.com/playlist?list=PLxduPHVac-mRt_qcH41Zjsyd0JXP9rHgn&si=UBcuLz_9q4VW3fCv](https://youtube.com/playlist?list=PLxduPHVac-mRt_qcH41Zjsyd0JXP9rHgn&si=UBcuLz_9q4VW3fCv)\n\n"
     },
@@ -77265,12 +69537,6 @@ var data =
             "communityText": "Event Veteran\nComplete all CE curated Ninja tracks featured during the Trials Fusion community event.\n\nVirtually Unstoppable\nReach the end of Ice Climb, The Tower, and Hard Wheeling.\n\nWay of the Donkey\nPass Way of the Machine on the Donkey.",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Mixed",
-            "total": 2340,
-            "positive": 1576,
-            "negative": 764
-        },
         "information": "The tracks for the \"Event Veteran\" CO can be found pinned in the Trials forum, as well as the instructions needed to play them through the editor."
     },
     {
@@ -77325,12 +69591,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 122,
-            "positive": 108,
-            "negative": 14
         }
     },
     {
@@ -77385,12 +69645,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 216,
-            "positive": 139,
-            "negative": 77
         }
     },
     {
@@ -77446,12 +69700,6 @@ var data =
             "communityText": "Cavemaniac\nComplete one of the baseline Level 5 tracks on either Fusion or Rising.\n\nDoughnuts and Bolts\nComplete one of the baseline Level 3 tracks on either Fusion or Rising.\n\nFinal Deal with The Devil\nComplete all 425 contracts.\n\nGiga Chadwick\nComplete one of the baseline Level 2 tracks on either Fusion or Rising.\n\nSelling Your Soul\nComplete all non-ninja contracts.\n\nThe Real Burger\nComplete one of the baseline Level 6 tracks on either Fusion or Rising.\n\nTrials Prodigy\nComplete one of the baseline Level 7 tracks on either Fusion or Rising.\n\nZack Attack\nComplete one of the baseline Level 4 tracks on either Fusion or Rising.",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Mixed",
-            "total": 2879,
-            "positive": 1834,
-            "negative": 1045
-        },
         "information": "Trials Rising is partially linked with Trials Fusion and Trials Evolution in terms of value. The value of each game should not be considered correct in isolation, and the value of the franchise should be seen as a solid unit worth 1400 points, divided amongst the three games\n\nThere is no recommended order to play the games in, however, the order in which you play will have a huge impact on the perceived difficulty of the others due to skill transfer. \n\nAmong games where skill transfer is a complicated problem to incorporate into the value, trials uniquely has two sets of skills that are built separately, speedrunning and ninjas. Because of this, attempting to balance the value across several games and several skillsets is too difficult to reliably reference any given objective in the franchise as an accurate comparison point.\n\n\n\nYou can find a sheet containing all baselines for Fusion and Rising here: \n\n[https://docs.google.com/spreadsheets/d/1MxPlhkVTz18hmWxdp5RnjnkWCU3LYPAWoNES2xZHA_Q/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MxPlhkVTz18hmWxdp5RnjnkWCU3LYPAWoNES2xZHA_Q/edit?usp=sharing)"
     },
     {
@@ -77506,12 +69754,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 15679,
-            "positive": 14165,
-            "negative": 1514
         }
     },
     {
@@ -77531,33 +69773,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 524,
-                "discountPercent": 65
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1249,
-                "final": 437,
-                "discountPercent": 65
+                "final": 1249,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1139,
-                "final": 398,
-                "discountPercent": 65
+                "final": 1139,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 152000,
-                "final": 53200,
-                "discountPercent": 65
+                "final": 152000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2150,
-                "final": 752,
-                "discountPercent": 65
+                "final": 2150,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1749,
-                "final": 612,
-                "discountPercent": 65
+                "final": 1749,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -77566,12 +69808,6 @@ var data =
             "community": 1,
             "communityText": "Salient Sounds\nAchieve an FC on every song in the game. ",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 9771,
-            "positive": 9571,
-            "negative": 200
         }
     },
     {
@@ -77626,12 +69862,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 47,
-            "positive": 34,
-            "negative": 13
         }
     },
     {
@@ -77686,12 +69916,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 210,
-            "positive": 162,
-            "negative": 48
         }
     },
     {
@@ -77746,12 +69970,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 15161,
-            "positive": 13899,
-            "negative": 1262
         }
     },
     {
@@ -77806,12 +70024,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 67
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6475,
-            "positive": 6149,
-            "negative": 326
         }
     },
     {
@@ -77866,12 +70078,6 @@ var data =
             "community": 1,
             "communityText": "Fried to a Crisp\nObtain an S rank on all difficulties. ",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 32,
-            "positive": 32,
-            "negative": 0
         }
     },
     {
@@ -77926,12 +70132,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 31,
-            "positive": 30,
-            "negative": 1
         }
     },
     {
@@ -77987,12 +70187,6 @@ var data =
             "communityText": "Merge Master\nEnd a game with the highest possible score.",
             "achievements": 7
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 16,
-            "positive": 15,
-            "negative": 1
-        },
         "information": "Curated on Steam: https://store.steampowered.com/app/980880/Twinfold/?curator_clanid=36185934"
     },
     {
@@ -78047,12 +70241,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 61,
-            "positive": 61,
-            "negative": 0
         }
     },
     {
@@ -78107,12 +70295,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 180,
-            "positive": 168,
-            "negative": 12
         }
     },
     {
@@ -78162,12 +70344,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3788,
-            "positive": 3319,
-            "negative": 469
         }
     },
     {
@@ -78222,12 +70398,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 827,
-            "positive": 711,
-            "negative": 116
         }
     },
     {
@@ -78282,12 +70452,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 394,
-            "positive": 361,
-            "negative": 33
         }
     },
     {
@@ -78343,12 +70507,6 @@ var data =
             "communityText": "",
             "achievements": 30
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 6233,
-            "positive": 5967,
-            "negative": 266
-        },
         "information": "The relevant games by category are as follows:\n\n__Arcade:__ Magic Garden, Pingolf, Paint Chaser, Bushido Ball, Planet Zoldath, Hot Foot, Onion Delivery, Campanella.\n\n__Action:__ Elfazar's Hat, Overbold, Fist Hell, Campanella 2, Cyber Owls.\n\n__Bullet Hell:__ Star Waspir, Caramel Caramel, Seaside Drive, Campanella 3.\n\n__Platformer:__ Ninpek, Waldorf's journey, Velgress, Kick Club, Rakshasa.\n\n__Strategy:__ Lords of Diskonia, Party House, Bug Hunter, Devilition."
     },
     {
@@ -78362,8 +70520,8 @@ var data =
         "points": 15,
         "createdAt": "2023-11-10T05:14:13.000Z",
         "updatedAt": "2025-05-24T21:45:49.000Z",
-        "playersCompleted": 1,
-        "playersStarted": 8,
+        "playersCompleted": 2,
+        "playersStarted": 7,
         "playersTotal": 24,
         "priceData": {
             "USD": {
@@ -78403,12 +70561,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 146,
-            "positive": 143,
-            "negative": 3
         }
     },
     {
@@ -78463,12 +70615,6 @@ var data =
             "community": 1,
             "communityText": "Ultra Trial Athlete\nComplete all Combo and Ultra Trials.",
             "achievements": 67
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 15694,
-            "positive": 14157,
-            "negative": 1537
         },
         "information": "Only the regular trial menu will award the \"Trial Athlete\" achievement, do not complete the non-DLC trials on the Ultra Trial menu."
     },
@@ -78525,12 +70671,6 @@ var data =
             "communityText": "",
             "achievements": 17
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 16,
-            "positive": 14,
-            "negative": 2
-        },
         "information": "Curated on Steam: https://store.steampowered.com/app/2099390/Umbral_Omen/?curator_clanid=36185934"
     },
     {
@@ -78585,12 +70725,6 @@ var data =
             "community": 1,
             "communityText": "Teach a Girl to Fish\nComplete all primary objectives from all site-listed games in the Umihara Kawase franchise. See verification requirements for complete list.",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 216,
-            "positive": 201,
-            "negative": 15
         }
     },
     {
@@ -78645,12 +70779,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 35,
-            "positive": 22,
-            "negative": 13
         }
     },
     {
@@ -78705,12 +70833,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 94,
-            "positive": 87,
-            "negative": 7
         }
     },
     {
@@ -78765,12 +70887,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 57
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 7984,
-            "positive": 7297,
-            "negative": 687
         }
     },
     {
@@ -78825,12 +70941,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 31
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 79,
-            "positive": 79,
-            "negative": 0
         }
     },
     {
@@ -78885,12 +70995,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 18650,
-            "positive": 17411,
-            "negative": 1239
         }
     },
     {
@@ -78945,12 +71049,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5030,
-            "positive": 4550,
-            "negative": 480
         }
     },
     {
@@ -79005,12 +71103,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 7547,
-            "positive": 5982,
-            "negative": 1565
         }
     },
     {
@@ -79065,12 +71157,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 42
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1898,
-            "positive": 1766,
-            "negative": 132
         }
     },
     {
@@ -79125,12 +71211,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 22075,
-            "positive": 21157,
-            "negative": 918
         }
     },
     {
@@ -79185,12 +71265,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 803,
-            "positive": 650,
-            "negative": 153
         }
     },
     {
@@ -79245,12 +71319,6 @@ var data =
             "community": 1,
             "communityText": "Urban Rider\nComplete all primary objectives from all site-listed games in the Urban Trial franchise. See verification requirements for complete list.",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1664,
-            "positive": 1379,
-            "negative": 285
         }
     },
     {
@@ -79305,12 +71373,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 123,
-            "positive": 82,
-            "negative": 41
         }
     },
     {
@@ -79365,12 +71427,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 45,
-            "positive": 30,
-            "negative": 15
         }
     },
     {
@@ -79425,12 +71481,6 @@ var data =
             "community": 2,
             "communityText": "The End of Your Patience\nBeat all bosses on Masochism while having the anti-assist options enabled at max value (Player Energy Scale at 0% and Boss HP Scale at 999%).\n\nVacant Purity\nBeat all bosses on Masochism while having only weapons equipped (Sub weapons, clothes, trinkets and footwear are not allowed).",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 79,
-            "positive": 78,
-            "negative": 1
         }
     },
     {
@@ -79485,12 +71535,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 77
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2688,
-            "positive": 2254,
-            "negative": 434
         }
     },
     {
@@ -79545,12 +71589,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2532,
-            "positive": 2093,
-            "negative": 439
         }
     },
     {
@@ -79605,12 +71643,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 357,
-            "positive": 330,
-            "negative": 27
         }
     },
     {
@@ -79665,12 +71697,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 22014,
-            "positive": 17018,
-            "negative": 4996
         }
     },
     {
@@ -79725,12 +71751,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 7185,
-            "positive": 6421,
-            "negative": 764
         }
     },
     {
@@ -79785,12 +71805,6 @@ var data =
             "community": 1,
             "communityText": "Fill the Void\nClear Instability+50 as every class, without using challenge coins.",
             "achievements": 237
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2730,
-            "positive": 2534,
-            "negative": 196
         }
     },
     {
@@ -79845,12 +71859,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 12,
-            "positive": 12,
-            "negative": 0
         }
     },
     {
@@ -79905,12 +71913,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 305,
-            "positive": 293,
-            "negative": 12
         }
     },
     {
@@ -79965,12 +71967,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 641,
-            "positive": 562,
-            "negative": 79
         }
     },
     {
@@ -80025,12 +72021,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 54,
-            "positive": 47,
-            "negative": 7
         }
     },
     {
@@ -80085,12 +72075,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 31
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 259,
-            "positive": 189,
-            "negative": 70
         }
     },
     {
@@ -80145,12 +72129,6 @@ var data =
             "community": 2,
             "communityText": "Hardcore Hero\nComplete \"No Air Control\" and \"Swinger Man\" without dying nor using the restart button.\n\nTrue Golden God\nComplete the 100 level Marathon without dying nor using the restart button.",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 688,
-            "positive": 606,
-            "negative": 82
         }
     },
     {
@@ -80205,12 +72183,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 129,
-            "positive": 106,
-            "negative": 23
         }
     },
     {
@@ -80265,12 +72237,6 @@ var data =
             "community": 1,
             "communityText": "Vivid Royalty\nClear all dungeons with both characters.",
             "achievements": 62
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1653,
-            "positive": 1494,
-            "negative": 159
         }
     },
     {
@@ -80325,12 +72291,6 @@ var data =
             "community": 2,
             "communityText": "VIVIDVAINGLORY\nClear 2 Endless Mode Loops, in 1 run, starting from 1-1, with Cerise & Ecru\n\nVIVIDVALKYRIE\nWin a Gauntlet with All V Ranks with Cerise & Ecru",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 385,
-            "positive": 380,
-            "negative": 5
         }
     },
     {
@@ -80385,12 +72345,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 85,
-            "positive": 71,
-            "negative": 14
         }
     },
     {
@@ -80445,12 +72399,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 1
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2296,
-            "positive": 2081,
-            "negative": 215
         },
         "information": "Please note that while the challenge is easily accessible from the start, Void Stranger is best experienced blind - playing the game for extrinsic reasons runs the risk of tainting your experience with it."
     },
@@ -80507,12 +72455,6 @@ var data =
             "communityText": "I Completed a T4 and All I Got Was This Lousy CO\nComplete final impossible without using the backshield and blocking build.",
             "achievements": 107
         },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 4281,
-            "positive": 4134,
-            "negative": 147
-        },
         "information": "Game has been valued in the context of the most powerful build. The build is:\n1. take back shield starting item\n2. carry any large melee weapon (including starting weapon like bomb rod)\n3. try to take any and all stomp or button items\n\nThen spam jump and hold block whenever in combat for the rest of the game, try to always be bouncing on enemies or buttons if possible. \n\nVery nice to have but not necessary: Protectus Gem, Movement speed items. "
     },
     {
@@ -80567,12 +72509,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2417,
-            "positive": 1967,
-            "negative": 450
         }
     },
     {
@@ -80628,12 +72564,6 @@ var data =
             "communityText": "",
             "achievements": 17
         },
-        "reviews": {
-            "description": "9 user reviews",
-            "total": 9,
-            "positive": 9,
-            "negative": 0
-        },
         "information": "Pressing spacebar during level select will delete all of your achievements. "
     },
     {
@@ -80688,12 +72618,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 36,
-            "positive": 36,
-            "negative": 0
         }
     },
     {
@@ -80748,12 +72672,6 @@ var data =
             "community": 3,
             "communityText": "UniVVVVVVersal Conqueror\nComplete the game in No Death Mode with all 20 trinkets.\n\nMetaVVVVVVersal Vanquisher\nComplete all maps featured on Terry's blog with all trinkets.\n\nMultiVVVVVVersal Commander\nComplete all built-in user levels with all trinkets.",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 10090,
-            "positive": 9713,
-            "negative": 377
         }
     },
     {
@@ -80808,12 +72726,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 227,
-            "positive": 212,
-            "negative": 15
         }
     },
     {
@@ -80868,12 +72780,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 218,
-            "positive": 210,
-            "negative": 8
         }
     },
     {
@@ -80928,12 +72834,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 55
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 1636,
-            "positive": 1091,
-            "negative": 545
         }
     },
     {
@@ -80988,12 +72888,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 112591,
-            "positive": 79946,
-            "negative": 32645
         }
     },
     {
@@ -81048,12 +72942,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 133503,
-            "positive": 113298,
-            "negative": 20205
         }
     },
     {
@@ -81108,12 +72996,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 298,
-            "positive": 276,
-            "negative": 22
         }
     },
     {
@@ -81168,12 +73050,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 65
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2143,
-            "positive": 1774,
-            "negative": 369
         }
     },
     {
@@ -81228,12 +73104,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 5
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 73,
-            "positive": 63,
-            "negative": 10
         }
     },
     {
@@ -81288,12 +73158,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 214,
-            "positive": 173,
-            "negative": 41
         }
     },
     {
@@ -81348,12 +73212,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 27,
-            "positive": 27,
-            "negative": 0
         }
     },
     {
@@ -81408,12 +73266,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 2113,
-            "positive": 2016,
-            "negative": 97
         }
     },
     {
@@ -81468,12 +73320,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 51
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 501,
-            "positive": 459,
-            "negative": 42
         }
     },
     {
@@ -81528,12 +73374,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2455,
-            "positive": 2082,
-            "negative": 373
         }
     },
     {
@@ -81588,12 +73428,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3177,
-            "positive": 2696,
-            "negative": 481
         }
     },
     {
@@ -81648,12 +73482,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 37,
-            "positive": 30,
-            "negative": 7
         }
     },
     {
@@ -81708,12 +73536,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 22
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 69,
-            "positive": 61,
-            "negative": 8
         }
     },
     {
@@ -81768,12 +73590,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 654,
-            "positive": 569,
-            "negative": 85
         }
     },
     {
@@ -81828,12 +73644,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 31,
-            "positive": 25,
-            "negative": 6
         }
     },
     {
@@ -81888,12 +73698,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 29,
-            "positive": 20,
-            "negative": 9
         }
     },
     {
@@ -81949,12 +73753,6 @@ var data =
             "communityText": "",
             "achievements": 27
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 8164,
-            "positive": 6726,
-            "negative": 1438
-        },
         "information": "To unlock Overcranked Mode, beat the Heart of the Storm with each Storm Bell active at least once (can be done in separate runs)."
     },
     {
@@ -82009,12 +73807,6 @@ var data =
             "community": 3,
             "communityText": "Faster than God\nDefeat all bosses on Easy mode at 200% speed.\n\nMade of Code\nBeat the game without dying and without changing the game speed or quitting to menu.\n\nTechnological Singularity\nBeat the game from a fresh save without dying and without pausing at any point for the entire run.",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 2727,
-            "positive": 2654,
-            "negative": 73
         }
     },
     {
@@ -82069,12 +73861,6 @@ var data =
             "community": 1,
             "communityText": "Heart of the Baneful\nComplete \"Demon\" difficulty with Hellspawn modifier.",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 1248,
-            "positive": 996,
-            "negative": 252
         }
     },
     {
@@ -82129,12 +73915,6 @@ var data =
             "community": 1,
             "communityText": "Medal Overachiever\nSeparately, earn all six Gold Medals on ALL characters (including hidden ones) on Harder difficulty.",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 53,
-            "positive": 50,
-            "negative": 3
         }
     },
     {
@@ -82190,12 +73970,6 @@ var data =
             "communityText": "",
             "achievements": 31
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 114,
-            "positive": 105,
-            "negative": 9
-        },
         "information": "Replays don't work if you go over 10 million score in a run."
     },
     {
@@ -82250,12 +74024,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 194,
-            "positive": 172,
-            "negative": 22
         }
     },
     {
@@ -82310,12 +74078,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 134,
-            "positive": 126,
-            "negative": 8
         }
     },
     {
@@ -82370,12 +74132,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 78
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 356,
-            "positive": 307,
-            "negative": 49
         }
     },
     {
@@ -82430,12 +74186,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 20499,
-            "positive": 18615,
-            "negative": 1884
         }
     },
     {
@@ -82490,12 +74240,6 @@ var data =
             "community": 1,
             "communityText": "Freedom Fighter\nBeat \"The Adventures of Gunslinger Joe\", \"The Diaries of Agent Silent Death\", and \"The Deeds of Captain Wilkins\" on \"Mein leben\" difficulty, each as separate continuous runs.",
             "achievements": 80
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 44458,
-            "positive": 36051,
-            "negative": 8407
         }
     },
     {
@@ -82550,12 +74294,6 @@ var data =
             "community": 3,
             "communityText": "Decorated Golfer\nObtain all in-game awards\n\nGolden Run\nObtain all goldens relics from any course in a single run\n\nYou Only Golf Once\nComplete any trip using the roguelite modifier",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 121,
-            "positive": 104,
-            "negative": 17
         }
     },
     {
@@ -82610,12 +74348,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 136,
-            "positive": 73,
-            "negative": 63
         }
     },
     {
@@ -82670,12 +74402,6 @@ var data =
             "community": 1,
             "communityText": "Tower of Goo\nReach the final billboard of the World of Goo corporation.",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6146,
-            "positive": 5799,
-            "negative": 347
         }
     },
     {
@@ -82730,12 +74456,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 20,
-            "positive": 16,
-            "negative": 4
         }
     },
     {
@@ -82790,12 +74510,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 25,
-            "positive": 25,
-            "negative": 0
         }
     },
     {
@@ -82851,12 +74565,6 @@ var data =
             "communityText": "",
             "achievements": 69
         },
-        "reviews": {
-            "description": "Mixed",
-            "total": 585,
-            "positive": 407,
-            "negative": 178
-        },
         "information": "The full game is called Episode 1."
     },
     {
@@ -82911,12 +74619,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 78,
-            "positive": 74,
-            "negative": 4
         }
     },
     {
@@ -82971,12 +74673,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 179,
-            "positive": 168,
-            "negative": 11
         }
     },
     {
@@ -83031,12 +74727,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5734,
-            "positive": 5415,
-            "negative": 319
         }
     },
     {
@@ -83091,12 +74781,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "5 user reviews",
-            "total": 5,
-            "positive": 4,
-            "negative": 1
         }
     },
     {
@@ -83151,12 +74835,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 92,
-            "positive": 89,
-            "negative": 3
         }
     },
     {
@@ -83211,12 +74889,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 85
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 56386,
-            "positive": 52692,
-            "negative": 3694
         }
     },
     {
@@ -83271,12 +74943,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 88
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 101579,
-            "positive": 86074,
-            "negative": 15505
         }
     },
     {
@@ -83331,12 +74997,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 182,
-            "positive": 158,
-            "negative": 24
         }
     },
     {
@@ -83391,12 +75051,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 135,
-            "positive": 124,
-            "negative": 11
         }
     },
     {
@@ -83451,12 +75105,6 @@ var data =
             "community": 1,
             "communityText": "Invest in Yourself\nGet 100% on your Completion List.",
             "achievements": 55
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 73422,
-            "positive": 70234,
-            "negative": 3188
         }
     },
     {
@@ -83511,12 +75159,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 227,
-            "positive": 221,
-            "negative": 6
         }
     },
     {
@@ -83571,12 +75213,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 99,
-            "positive": 89,
-            "negative": 10
         }
     },
     {
@@ -83631,12 +75267,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 61
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1247,
-            "positive": 1221,
-            "negative": 26
         }
     },
     {
@@ -83691,12 +75321,6 @@ var data =
             "community": 1,
             "communityText": "Dancing Purist\nClear all scenarios on Lunatic without dying.",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 596,
-            "positive": 587,
-            "negative": 9
         }
     },
     {
@@ -83751,12 +75375,6 @@ var data =
             "community": 1,
             "communityText": "Bee Amazed\nComplete the Impossible Lair without ever having lost Laylee.",
             "achievements": 47
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1269,
-            "positive": 1042,
-            "negative": 227
         }
     },
     {
@@ -83811,12 +75429,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 42,
-            "positive": 39,
-            "negative": 3
         }
     },
     {
@@ -83871,12 +75483,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 38,
-            "positive": 30,
-            "negative": 8
         }
     },
     {
@@ -83931,12 +75537,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 711,
-            "positive": 611,
-            "negative": 100
         }
     },
     {
@@ -83991,12 +75591,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 10,
-            "positive": 10,
-            "negative": 0
         }
     },
     {
@@ -84051,12 +75645,6 @@ var data =
             "community": 3,
             "communityText": "Above Zero\nBeat a route on Lunatic without dying and bombing.\n\nBeaten at Her Own Game\nBeat the Extra mode without dying and bombing. (Drain lasers are allowed)\n\nThe Strongest!\nBeat all routes on Lunatic without continuing.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 117,
-            "positive": 113,
-            "negative": 4
         }
     },
     {
@@ -84111,12 +75699,6 @@ var data =
             "community": 1,
             "communityText": "Adol the Red\nComplete all primary objectives from all site-listed games in the Ys franchise. See verification requirements for complete list.",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2740,
-            "positive": 2439,
-            "negative": 301
         }
     },
     {
@@ -84171,12 +75753,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 486,
-            "positive": 466,
-            "negative": 20
         }
     },
     {
@@ -84231,12 +75807,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3382,
-            "positive": 3151,
-            "negative": 231
         }
     },
     {
@@ -84291,12 +75861,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1327,
-            "positive": 1195,
-            "negative": 132
         }
     },
     {
@@ -84351,12 +75915,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 54
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6253,
-            "positive": 5611,
-            "negative": 642
         }
     },
     {
@@ -84411,12 +75969,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1945,
-            "positive": 1830,
-            "negative": 115
         }
     },
     {
@@ -84472,12 +76024,6 @@ var data =
             "communityText": "",
             "achievements": 20
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 63,
-            "positive": 58,
-            "negative": 5
-        },
         "information": "This game requires a VR headset in order to play."
     },
     {
@@ -84532,12 +76078,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 29,
-            "positive": 27,
-            "negative": 2
         }
     },
     {
@@ -84592,12 +76132,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 8426,
-            "positive": 7999,
-            "negative": 427
         }
     },
     {
@@ -84652,12 +76186,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 54
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1555,
-            "positive": 1510,
-            "negative": 45
         }
     },
     {
@@ -84712,12 +76240,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "1 user reviews",
-            "total": 1,
-            "positive": 1,
-            "negative": 0
         }
     },
     {
@@ -84772,12 +76294,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 12,
-            "positive": 11,
-            "negative": 1
         }
     },
     {
@@ -84832,12 +76348,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 70,
-            "positive": 59,
-            "negative": 11
         }
     },
     {
@@ -84892,12 +76402,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 84,
-            "positive": 60,
-            "negative": 24
         }
     },
     {
@@ -84952,12 +76456,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 22,
-            "positive": 19,
-            "negative": 3
         }
     },
     {
@@ -85012,12 +76510,6 @@ var data =
             "community": 1,
             "communityText": "This Is the Story of... Wait, Already?\nBeat the whole game without using continues, including the true last boss.",
             "achievements": 1
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1817,
-            "positive": 1742,
-            "negative": 75
         }
     },
     {
@@ -85072,12 +76564,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3876,
-            "positive": 3321,
-            "negative": 555
         }
     },
     {
@@ -85132,12 +76618,6 @@ var data =
             "community": 1,
             "communityText": "Ouroboros\nFill out all 10 maps in Classic Mode.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 30,
-            "positive": 28,
-            "negative": 2
         }
     },
     {
@@ -85192,12 +76672,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 31
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 13,
-            "positive": 13,
-            "negative": 0
         }
     },
     {
@@ -85252,12 +76726,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 73
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 365,
-            "positive": 312,
-            "negative": 53
         }
     },
     {
@@ -85312,12 +76780,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 2826,
-            "positive": 2685,
-            "negative": 141
         }
     },
     {
@@ -85372,12 +76834,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 51
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2285,
-            "positive": 1884,
-            "negative": 401
         }
     },
     {
@@ -85432,12 +76888,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 14,
-            "positive": 14,
-            "negative": 0
         }
     },
     {
@@ -85492,12 +76942,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 44,
-            "positive": 42,
-            "negative": 2
         }
     },
     {
@@ -85552,12 +76996,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 65
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 362,
-            "positive": 336,
-            "negative": 26
         }
     },
     {
@@ -85612,12 +77050,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 83,
-            "positive": 71,
-            "negative": 12
         }
     },
     {
@@ -85673,12 +77105,6 @@ var data =
             "communityText": "Return to a Standstill\nBeat the game on Lunatic without dying, releasing and getting hit. (Switching characters is allowed)\n\nStar Azura\nBeat the Extra mode without dying, releasing and getting hit. (Switching characters is allowed)",
             "achievements": 34
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 425,
-            "positive": 393,
-            "negative": 32
-        },
         "information": "Valued around ReimuA."
     },
     {
@@ -85733,12 +77159,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 155,
-            "positive": 134,
-            "negative": 21
         }
     },
     {
@@ -85793,12 +77213,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1380,
-            "positive": 1329,
-            "negative": 51
         }
     },
     {
@@ -85853,12 +77267,6 @@ var data =
             "community": 1,
             "communityText": "Phantasmic Flight\nClear Phantasm without deaths, bombs and barriers.",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 2486,
-            "positive": 2413,
-            "negative": 73
         }
     },
     {
@@ -85913,12 +77321,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 85,
-            "positive": 74,
-            "negative": 11
         }
     },
     {
@@ -85973,12 +77375,6 @@ var data =
             "community": 2,
             "communityText": "Joy Star Lord\nBeat the game on Lunatic without dying, bombing and using your hyper.\n\nLocked In in Heaven\nBeat the Extra mode without dying, bombing and using your hyper.",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 97,
-            "positive": 93,
-            "negative": 4
         }
     },
     {
@@ -86034,12 +77430,6 @@ var data =
             "communityText": "Fairy Imperator\nClear the game on Lunatic difficulty with Dissonant mode on without dying, bombing and flash bombing.\n\nGarden of Ephemeral Flowers\nClear the Elite Extra mode with Dissonant mode on without dying, bombing and flash bombing.",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 81,
-            "positive": 75,
-            "negative": 6
-        },
         "information": "Replays may be unstable or fail to save properly. To be safe, please record the game using external programs."
     },
     {
@@ -86062,12 +77452,6 @@ var data =
             "community": 91,
             "communityText": "Intro Quest\nBe a member of the Steam group and have your Steam and RetroAchievement profiles linked to CE.\n\n\"I'll add it to the backlog.\"\nOwn 365 or more site-listed games.\n\nAppraised for Days\nObtain \"P\" Rank.\n\nAvatar of Ambition\nObtain any objective in 25 separate T5 games or 50 separate T4 or higher games.\n\nBehind the Scenes (Retiring -> Award)\nGive feedback in an official poll or feedback form.\n\nChase the Rainbow\nObtain a role of every color (see verification requirements for specific required colors).\n\nHappy Anniversary\nBe a continuous member of the discord for over a year.\n\nInsert Tired Old Meme Here\nSend over 9000 total messages in the discord.\n\nOverwhelmingly Dedicated\nObtain 3,000 or more points in a single category.\n\nProven Yourself\nObtain 15 separate objectives whose requirements are to \"Prove yourself\".\n\nSupporter (Retiring -> Award)\nHave one of the Patreon Supporter roles or the Nitro Booster role.\n\nTrivia Master\nObtain 1000 or more points from the CE Objective Quiz bot.\n\nVeteran\nBe a member of the discord for over 3 years.\n\nAs God Intended (Retiring -> Award)\nObtain 5 or more community objectives with \"Made of\" in their title.\n\nChallenge Sequence\nComplete all primary objectives in a game worth 5 points, do the same for each increment of 5 up to and including 100.\n\nFemale Empowerment\nComplete all primary objectives in 15 different site listed games where the main character is a woman.\n\nFlash of Nostalgia\nComplete all primary objectives in 10 different site listed games that were originally a flash game, or derived from one.\n\nFollow the Masses\nComplete all primary objectives in 10 different games on CE that have been completed by 100 or more people.\n\nFree Advertising\nComplete at least one primary objective in a game from each background video loop on the front page of CE.\n\nImmersive Difficulty\nComplete all primary objectives in 5 separate site listed games that can only be completed in VR.\n\nLiving in the Past (Retiring)\nComplete all primary objectives in 15 separate site listed Retro games or Steam games that were originally released before Steam (2003). Remasters count.\n\nNumber One Fan\nObtain a \"Franchise Community Objective\" by completing all primary objectives for a single franchise.\n\nObjectively Cracked\nComplete 100 or more objectives worth 10 or more points.\n\nPuzzle Grandmaster\nComplete 10 separate objectives from the \"Puzzle Games\" list.\n\nReading Rainbow\nComplete all primary objectives for games whose name start with each letter of the English alphabet (A-Z).\n\nSuper Super Super Super Super Super Super Super Super Super Super Super Super Super Super Star\nObtain all primary objectives in 15 separate site listed games with \"super\" in their name.\n\nTag Team\nObtain 5 Primary Objectives on the site in which completion requires or strongly implies the assistance of another player.\n\nThat Belongs In A Museum!\nBe placed on the Hall of Fame.\n\nThe 1%\nComplete all primary objectives for a game that has a CE completion rate of less than or equal to 1.0%.\n\nThis is to Go Even Further Beyond\nObtain 400 points or more from a single game. \n\nThis Pain is Free\nComplete all primary objectives in 10 separate site listed games that cost no money on Steam.\n\nWord From the Wise\nComplete all primary objectives in one game featured on the steam curator for each of the 6 categories on CE.\n\nZookeeper\nComplete all primary objectives in 15 different site listed games where the main character is a non-human animal.\n\nAny Time, Any Season\nClaim a bounty from 4 separate seasons.\n\nBeat a Dead Horse\nClaim a Bounty that has already been claimed by someone else during the window in which it's retiring. \n\nBig Game Hunter\nClaim a bounty worth 10 or more points (before multipliers).\n\nGold Rush (Retiring)\nClaim a bounty that has been claimed by at least four other people. \n\nKilling Blow\nClaim a bounty for having cleared an UNCLEARED objective. \n\nLoyal Customer\nPurchase one item from each category in the mercantile. \n\nOld Western\nClaim an official \"Retro\" bounty.\n\nOne Man Army\nClaim 5 separate \"potentials\" bounties from the same category in a single season.\n\nOpportunity Calls\nClaim a bounty worth MORE than 30 points (with AT LEAST ONE multiplier).\n\nQuickdraw Specialist\nClaim a \"potentials\" bounty within a week after its value increased.\n\nScourge of the Wild\nObtain all other Bounty related site achievements.\n\nSeasoned Hunter\nEarn any amount of bounty points for two seasons in a row.\n\nSide Quest\nClaim a bounty posted by another member or a Low Clear bounty that has been boosted by another member.\n\nSix Shooter\nIn a single bounty season, claim a \"potentials\" bounty from all six categories.\n\nStar of Extinction \nIn a single bounty season either; claim 10 bounties of any kind from the same category or 20 bounties of any kind across all categories.\n\nTake the Shot\nClaim a \"Low Clear\" bounty.\n\nVeteran of the Hunt\nObtain 250 or more Bounty Points.\n\nWanted Poster\nPost your own bounty in the Bounty Hub, or spend 10 or more points on a Low Clear multiplier.\n\nHigh Roller\nObtain five different random roll achievements.\n\nMarathonist\nAsk Folkius to attempt this achievement; complete all 12 rolls of the 2023 Roll Event.\n\nThe Buckets of Fortune\nClear one of the game buckets of the July 2023 co-op event, either solo or with your team if you participated in the event.\n\nWhat A Long Strange Trip It's Been\nObtain all other \"Random Roll\" related achievements. \n\nDestiny Alignment\nYou and another player of the same rank ask the CE bot to roll a random game the other person has completed. Both players must go on to complete all primary objectives in each game.\n\nGame Theory (Retiring)\nYou and another player agree to a \"duel\". Once agreed, each player will secretly DM Folkius a category in which a T1 game will be randomly rolled for the other person. The first person to complete their game wins this achievement.\n\nHit the Jackpot\nObtain the special reward from the CE bot when attempting a new Casino solo roll.\n\nSoul Mates\nYou and another person must agree on a tier, then ask the CE bot to roll a random game for that tier. Both players must then go on to complete all primary objectives in that game within a time limit relative to that tier.\n\nTeamwork Makes the Dream Work\nYou and another player ask the CE bot to roll 4 random T3 games. Then between the two of you, have all primary objectives complete within a month.\n\nWinner Takes All (Retiring)\nYou and another player choose a category and tier, then ask the CE bot to roll random game with those conditions. The first person to obtain all primary objectives in that game earns this achievement.\n\nOne Hell of a Day\nAsk Folkius to roll a random T1 game, and then complete all primary objectives for it within 24 hours.\n\nOne Hell of a Week\nRequires \"One Hell of a Day\": Ask the CE bot to roll a random T1 game for each category, and within a week have all primary objectives for each completed.\n\nOne Hell of a Month\nRequires \"One Hell of a Week\": Ask the CE bot to roll 5 T1 games from EACH of 5 different categories, then complete all primary objectives for 3 of 5 from each category within a month.\n\nTwo Week T2 Streak\nAsk the CE bot to roll a random T2 game, then complete all primary objectives for it within a week. Then repeat this process for a different category.\n\nTwo \"Two Week T2 Streak\" Streak\nRequires \"Two Week T2 Streak\": Ask the CE bot to roll a random T2 game, then complete all primary objectives for it within a week. Then repeat this process 3 more times for different categories.\n\nNever Lucky\nAsk the CE bot to roll a random T3 for you on the site, and then finish all primary objectives for it.\n\nTriple Threat\nRequires \"Never Lucky\": Pick a category, then ask the CE bot to roll 3 random T3 games in that category. Then complete all primary objectives for each within a month.\n\nLet Fate Decide\nAsk the CE bot to roll a random T4 game in a category of your choosing, and then complete all primary objectives for it.\n\nFourward Thinking\nRequires \"Let Fate Decide\": Ask the CE bot to attempt this achievement. See proof submission for full details of rules and requirements.\n\nRussian Roulette\nRequires \"Let Fate Decide\": Pick a T5 from all 6 categories, ask Folkius to roll one of them randomly, then complete all primary objectives in that game. \n\nApex Instinct\nObtain a CR of 1000 or more in First Person games.\n\nImmortal Wanderer\nObtain a CR of 1000 or more in Platformer games.\n\nOmniscient \nObtain a CR of 1000 or more in Strategy games.\n\nSavant of Diversity\nObtain a CR of 1000 or more in Arcade games.\n\nTrue Last Boss\nObtain a CR of 1000 or more in Bullet Hell games.\n\nWeapon of Mass Destruction\nObtain a CR of 1000 or more in Action games.\n\nOver Rated\nObtain a CR of 1500 or more in a single category. (See below for exceptions)\n\nOff the Charts\nObtain an overall CR of 5000 or more.\n\nA Trip Down Memory Lane\nComplete all primary objectives in at least one game from each platform.\n\nAmbitemporal\nComplete all primary objectives in at least one game from each family of consoles and platforms.\n\nJourney Across the Pixelated Multiverse\nComplete all primary objectives in at least one game from each console and platform. \n\nOld School Difficulty\nComplete all primary objectives in a T4 or higher Retro game. \n\nGenerational Challenger\nComplete all Primary Objectives in one game from each of the \"Other\" family of consoles.\n\nHit Every Target\nComplete all Primary Objectives in 10 separate games from the Atari family of consoles.\n\nNow You're Playing With Power\nComplete all Primary Objectives in one game from each of the Nintendo family of consoles.\n\nPlay Has No Limits\nComplete all Primary Objectives in 10 different games from the PlayStation family of consoles.\n\nTo Be This Good Takes AGES\nComplete all Primary Objectives in 10 separate games from the SEGA family of consoles.\n\nVideo Game Player of the Century\nComplete all Primary Objectives in 10 different games from Arcade cabinets.\n\nSteam Roller\nComplete all Primary Objectives in 100 separate games on Steam.\n\nTime Traveller\nComplete all Primary Objectives in 50 different \"Retro\" games.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 12,
-            "positive": 7,
-            "negative": 5
         },
         "information": "This is the current page for site-listed achievements. \n\n__To be eligible for these achievements,__ please download the associated game \"A CHALLENGE\", (you might need to download Steam 360 Video Player, it's already in your library under \"Tools\" section and run that first), then launch A CHALLENGE for a few minutes, close the game, and then update your profile. You should then show up in the full completions after a while and can post your proof.\n\n*Please remember that objectives on this game do not count toward CO-related roles.*"
     },
@@ -86092,12 +77476,6 @@ var data =
             "communityText": "A Monster's Expedition\n\u2b1b Earn all achievements.\n\nBaba Is You\n\u2b1b Earn all achievements.\n\nBean and Nothingness\n\u2b1b Earn all achievements.\n\nFilament\n\u2b1b Earn all achievements.\n\nSHENZHEN I/O\n\u2b1b Earn all achievements.\n\nSpaceChem\n\u2b1b Earn all achievements.\n\nSquishCraft\n\u2b1b Earn all achievements.\n\nStephen's Sausage Roll\n\u2b1b Complete all in-game puzzles.\n\n7 Billion Humans\n\ud83d\udfe5 Earn all achievements.\n\nCosmic Express\n\ud83d\udfe5 Earn all achievements.\n\nCypher\n\ud83d\udfe5 Complete all in-game puzzles.\n\nEXAPUNKS\n\ud83d\udfe5 Earn all achievements.\n\nFEZ\n\ud83d\udfe5 Earn all achievements.\n\nInfinifactory\n\ud83d\udfe5 Earn all achievements.\n\nRecursed\n\ud83d\udfe5 Earn all achievements.\n\nSnakebird\n\ud83d\udfe5 Earn all achievements.\n\nTametsi\n\ud83d\udfe5 Earn all achievements.\n\nTIS-100\n\ud83d\udfe5 Earn all achievements.\n\nTUNIC\n\ud83d\udfe5 Earn all achievements. Alternatively, reach the secret ending and obtain all secret treasure achievements.\n\nAntichamber\n\ud83d\udfe8 Find all map locations and signs.\n\nCats Organized Neatly + Dogs Organized Neatly\n\ud83d\udfe8 Earn all achievements in both games.\n\nDivide By Sheep\n\ud83d\udfe8 Earn all achievements.\n\nHuman Resource Machine\n\ud83d\udfe8 Earn all achievements.\n\nIsles of Sea and Sky\n\ud83d\udfe8 Complete all in-game puzzles (109 Stars).\n\nIttle Dew\n\ud83d\udfe8 Earn all achievements (Or all non-speedrun achievements).\n\nKAMI\n\ud83d\udfe8 Complete all in-game puzzles.\n\nLYNE\n\ud83d\udfe8 Earn all achievements.\n\nManifold Garden\n\ud83d\udfe8 Earn all achievements.\n\nOpus Magnum\n\ud83d\udfe8 Earn all achievements.\n\nOuter Wilds\n\ud83d\udfe8 Earn all achievements.\n\nPatrick's Parabox\n\ud83d\udfe8 Earn all achievements.\n\nPictopix\n\ud83d\udfe8 Earn all achievements. Alternatively, earn all awards and complete all secrets.\n\nPortal 2\n\ud83d\udfe8 Earn the achievements related to completing all single-player and co-op campaign levels.\n\nSokobond\n\ud83d\udfe8 Earn all achievements.\n\nSyzygy\n\ud83d\udfe8 Complete all in-game puzzles.\n\nTaiji\n\ud83d\udfe8 Complete all in-game puzzles.\n\nThe Case of the Golden Idol\n\ud83d\udfe8 Earn all achievements. For an optimal experience, minimize usage of in-game hints.\n\nThe Cat Machine\n\ud83d\udfe8 Complete all in-game puzzles.\n\nThe Talos Principle\n\ud83d\udfe8 Earn all achievements.\n\nThe Turing Test\n\ud83d\udfe8 Earn all achievements.\n\nUnheard\n\ud83d\udfe8 Earn all achievements.",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 886,
-            "positive": 836,
-            "negative": 50
-        },
         "information": "This page serves as a list of puzzle games on Steam curated by CE. Each game listed will require you to either complete all/specific achievements in the game, or complete all in-game puzzles offered. The difficulty of these games are ranked on a three-tier system, ranging from Moderate (\ud83d\udfe8), to Challenging (\ud83d\udfe5), to Extreme (\u2b1b). A specialized potentials list for puzzle games can be found on <https://tinyurl.com/Puzzle-Games>. Games are added to this list through a voting system within the CE Discord server\u2014if you wish to participate in that, ask any of the Discord mods for the \"@Puzzle Enthusiast\" role.\n\nGuidelines for proof submission: Steam profile link for achievements, screenshot/video for everything else.\n\nTo be eligible for these achievements, please add the associated game \"Frame of Mind\" to your library, and then update your profile. You should show up in the full completions after a while, and can then post your proof. Please remember that the objectives on this page do not count toward CO-related roles."
     },
     {
@@ -86120,12 +77498,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 306,
-            "positive": 293,
-            "negative": 13
         }
     },
     {
@@ -86148,12 +77520,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1060,
-            "positive": 936,
-            "negative": 124
         }
     },
     {
@@ -86167,8 +77533,8 @@ var data =
         "points": 65,
         "createdAt": "2020-01-28T08:11:40.000Z",
         "updatedAt": "2025-05-24T21:45:49.000Z",
-        "playersCompleted": 8,
-        "playersStarted": 13,
+        "playersCompleted": 9,
+        "playersStarted": 12,
         "playersTotal": 204,
         "milestones": {
             "primary": 2,
@@ -86176,12 +77542,6 @@ var data =
             "community": 1,
             "communityText": "All in a Day's Work\nComplete all in-game objectives.",
             "achievements": 95
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 89,
-            "positive": 74,
-            "negative": 15
         }
     },
     {
@@ -86204,12 +77564,6 @@ var data =
             "community": 1,
             "communityText": "Big Bang\nCollect every star and obtain the \"No death\" badge for each dimension in Speedrun Mode.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 34,
-            "positive": 32,
-            "negative": 2
         },
         "information": "Point value will be re-evaluated with a second clear."
     },
@@ -86234,12 +77588,6 @@ var data =
             "communityText": "",
             "achievements": 22
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 79,
-            "positive": 66,
-            "negative": 13
-        },
         "information": "Curated on Steam: https://store.steampowered.com/app/459680/Auro_A_MonsterBumping_Adventure/?curator_clanid=36185934\n\nNote to self: Check beta mode updates frequently. Game will likely be revalued from the ground up."
     },
     {
@@ -86262,12 +77610,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 13877,
-            "positive": 13376,
-            "negative": 501
         }
     },
     {
@@ -86291,12 +77633,6 @@ var data =
             "communityText": "",
             "achievements": 16
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 12085,
-            "positive": 11190,
-            "negative": 895
-        },
         "information": "Contrary to the achievement description, \"Glitches Galore!\" is unlocked by beating NULL Style instead of the expected Glitch Style."
     },
     {
@@ -86319,12 +77655,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 11,
-            "positive": 10,
-            "negative": 1
         }
     },
     {
@@ -86347,12 +77677,6 @@ var data =
             "community": 2,
             "communityText": "All or None\nBeat all bosses on Struggle difficulty with any character without dying and without quitting to level select.\n\nBear Market\nBeat all bosses on Struggle difficulty with the One Hitpoint modifier enabled.",
             "achievements": 38
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 123,
-            "positive": 114,
-            "negative": 9
         }
     },
     {
@@ -86375,12 +77699,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 55,
-            "positive": 45,
-            "negative": 10
         }
     },
     {
@@ -86404,12 +77722,6 @@ var data =
             "communityText": "",
             "achievements": 16
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 68,
-            "positive": 65,
-            "negative": 3
-        },
         "information": "[All missions](https://docs.google.com/spreadsheets/d/1BKIMgBRc1Ak6xEv8OfLXx2CvXZen8bpaCZzDacgd2ss/edit?usp=sharing)\n\nIt's not possible to beat all missions on your first run through.\nJust force your way through the chapters (beating \"X10\" levels gives lots of currency) and try again later when upgraded."
     },
     {
@@ -86432,12 +77744,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 83
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 45,
-            "positive": 36,
-            "negative": 9
         }
     },
     {
@@ -86460,12 +77766,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 713118,
-            "positive": 419004,
-            "negative": 294114
         }
     },
     {
@@ -86488,12 +77788,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 259,
-            "positive": 231,
-            "negative": 28
         },
         "information": "\n"
     },
@@ -86518,12 +77812,6 @@ var data =
             "communityText": "True Cloudberry King\nBeat the Anders version of level 320.\n\nApex Psychosis\nBeat the Anders version of level 319.",
             "achievements": 16
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 226,
-            "positive": 204,
-            "negative": 22
-        },
         "information": "Delisted from Steam.\n"
     },
     {
@@ -86546,12 +77834,6 @@ var data =
             "community": 1,
             "communityText": "Achrotone\nAdd in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO  for adding in a CO  for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 49,
-            "positive": 45,
-            "negative": 4
         }
     },
     {
@@ -86574,12 +77856,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 54,
-            "positive": 50,
-            "negative": 4
         }
     },
     {
@@ -86602,12 +77878,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3491,
-            "positive": 3005,
-            "negative": 486
         }
     },
     {
@@ -86631,12 +77901,6 @@ var data =
             "communityText": "",
             "achievements": 35
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1478,
-            "positive": 1379,
-            "negative": 99
-        },
         "information": "# GAME DISCONTINUED\n\nObjectives are not awarded automatically anymore. Play World EXplosion instead.\n\nIf you earned objectives on this game and do it again in World EXplosion, they will be removed from here. If you really need to play this version, contact Folkius to award objectives manually.\n\nIf you get stutters, restart your device."
     },
     {
@@ -86659,12 +77923,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 28,
-            "positive": 28,
-            "negative": 0
         }
     },
     {
@@ -86687,12 +77945,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 55
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 63,
-            "positive": 58,
-            "negative": 5
         }
     },
     {
@@ -86715,12 +77967,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 186,
-            "positive": 151,
-            "negative": 35
         }
     },
     {
@@ -86743,12 +77989,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 17,
-            "positive": 15,
-            "negative": 2
         }
     },
     {
@@ -86771,12 +78011,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 47,
-            "positive": 44,
-            "negative": 3
         }
     },
     {
@@ -86799,12 +78033,6 @@ var data =
             "community": 1,
             "communityText": "I Can Swing My Sword!\nBeat the original \"Living Legend\" achievement time of 3 minutes.",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 10411,
-            "positive": 9051,
-            "negative": 1360
         }
     },
     {
@@ -86827,12 +78055,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 84,
-            "positive": 75,
-            "negative": 9
         }
     },
     {
@@ -86855,12 +78077,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 35
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 29,
-            "positive": 21,
-            "negative": 8
         }
     },
     {
@@ -86883,12 +78099,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "9 user reviews",
-            "total": 9,
-            "positive": 9,
-            "negative": 0
         }
     },
     {
@@ -86911,12 +78121,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 590,
-            "positive": 576,
-            "negative": 14
         }
     },
     {
@@ -86939,12 +78143,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 77
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 34,
-            "positive": 32,
-            "negative": 2
         }
     },
     {
@@ -86967,12 +78165,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 3359,
-            "positive": 2803,
-            "negative": 556
         }
     },
     {
@@ -86995,12 +78187,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 10
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 145,
-            "positive": 120,
-            "negative": 25
         }
     },
     {
@@ -87024,12 +78210,6 @@ var data =
             "communityText": "Jade BREAK\nBeat the game on Hard difficulty or higher, including the Extra stage, without dying.",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 646,
-            "positive": 599,
-            "negative": 47
-        },
         "information": "Delisted from Steam.\nIt is recommended to record your live gameplay due to replay desync issues, unless you [patch in a fix.](https://steamcommunity.com/app/207400/discussions/0/4356743665188653822/)"
     },
     {
@@ -87052,12 +78232,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 66,
-            "positive": 64,
-            "negative": 2
         }
     },
     {
@@ -87080,12 +78254,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 52,
-            "positive": 43,
-            "negative": 9
         }
     },
     {
@@ -87108,12 +78276,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 17
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 708,
-            "positive": 588,
-            "negative": 120
         }
     },
     {
@@ -87129,19 +78291,13 @@ var data =
         "updatedAt": "2025-05-24T21:45:49.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 182,
+        "playersTotal": 183,
         "milestones": {
             "primary": 1,
             "primaryText": "Hell Hath No Furi [5\u2605]\nObtain an S rank on the 'The Chain' bossfight in \"Furier\" difficulty.",
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 362,
-            "positive": 337,
-            "negative": 25
         }
     },
     {
@@ -87164,12 +78320,6 @@ var data =
             "community": 2,
             "communityText": "F = G(m1m2/r^2)\nReach the teleporter in \"The Ultimate Trial\".\n\nThe Sign of Zeta\nComplete the Zeta Pack without dying.",
             "achievements": 23
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 72,
-            "positive": 63,
-            "negative": 9
         }
     },
     {
@@ -87193,12 +78343,6 @@ var data =
             "communityText": "",
             "achievements": 33
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 160,
-            "positive": 146,
-            "negative": 14
-        },
         "information": "Delisted from Steam."
     },
     {
@@ -87221,12 +78365,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 10,
-            "positive": 10,
-            "negative": 0
         }
     },
     {
@@ -87249,12 +78387,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 186,
-            "positive": 149,
-            "negative": 37
         },
         "information": "Delisted from Steam."
     },
@@ -87279,12 +78411,6 @@ var data =
             "communityText": "Scribble Me This\nBeat Mr. Scribble's Quest on Impossible Difficulty.\n\nI Wanna Ignore the Checkpoints\nComplete all campaign levels without dying. \n\nDiamond Adventure Fangamer\nFulfill the conditions of the Diamond Challenges segment for both A and B sides for Adventure Fangames.\n\nDiamond Avoidance Fangamer\nFulfill the conditions of the Diamond Challenges segment for Avoidance Fangames.\n\nDiamond Needle Fangamer\nFulfill the conditions of the Diamond Challenges segment for both A and B sides for Needle Fangames.\n\nLegendary Adventure Fangamer\nFulfill the conditions of the Legend Challenges segment for both A and B sides for Adventure Fangames.\n\nLegendary Avoidance Fangamer\nFulfill the conditions of the Legend Challenges segment for Avoidance Fangames.\n\nLegendary Needle Fangamer\nFulfill the conditions of the Legend Challenges segment for both A and B sides for Needle Fangames.",
             "achievements": 46
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 4829,
-            "positive": 4587,
-            "negative": 242
-        },
         "information": "The game is valued assuming you play offline for the final boss. This limits the pool of possible levels to only those included in the installation of the game."
     },
     {
@@ -87307,12 +78433,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 41
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 295,
-            "positive": 226,
-            "negative": 69
         }
     },
     {
@@ -87335,12 +78455,6 @@ var data =
             "community": 2,
             "communityText": "Swiftest\nUnlock Master Mode and reach 700 score there.\n\nWitch Hunt\nObtain a score of 700 in all trials.",
             "achievements": 19
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 21,
-            "positive": 19,
-            "negative": 2
         }
     },
     {
@@ -87363,12 +78477,6 @@ var data =
             "community": 1,
             "communityText": "Sense of Fear\nBeat the game on Hell mode with all characters (except ???) without continuing.",
             "achievements": 21
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1757,
-            "positive": 1638,
-            "negative": 119
         }
     },
     {
@@ -87391,12 +78499,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1372,
-            "positive": 1313,
-            "negative": 59
         }
     },
     {
@@ -87420,12 +78522,6 @@ var data =
             "communityText": "Fleet-Footed\nClear \"kz_bhop_dydbhop\" in Normal Mode.\n\nLess is More\nClear \"kz_bhop_minimalism\" without the use of checkpoints.\n\nThe Silver Surfer\nClear \"kz_surf_lt_omnific\".",
             "achievements": 40
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1005,
-            "positive": 826,
-            "negative": 179
-        },
         "information": "All relevant Kreedz information can be found here: [Link](https://docs.google.com/document/d/1h_Pq00T5nlf8aFABE1ln-HtGcewx-zOgMBEcyZRLEto)"
     },
     {
@@ -87448,12 +78544,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 46,
-            "positive": 37,
-            "negative": 9
         }
     },
     {
@@ -87476,12 +78566,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 317,
-            "positive": 312,
-            "negative": 5
         }
     },
     {
@@ -87504,12 +78588,6 @@ var data =
             "community": 2,
             "communityText": "Micro God\nClear \"Chipset v2\" with zero respawns.\n\nMicro Jumper\nClear every level (except \"Chipset v2\") individually with zero respawns.",
             "achievements": 9
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1713,
-            "positive": 1659,
-            "negative": 54
         }
     },
     {
@@ -87532,12 +78610,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 40
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 183,
-            "positive": 162,
-            "negative": 21
         }
     },
     {
@@ -87560,12 +78632,6 @@ var data =
             "community": 2,
             "communityText": "Collective Endeavor\nBeat a run with 8 players in which none of them takes any damage. \n\nKing of Muck\nIn a single run and on at least \u201cNormal\u201d difficulty, beat the game using only a rock as your tool and weapon, without picking up any power-ups and without taking damage.",
             "achievements": 49
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 175572,
-            "positive": 164340,
-            "negative": 11232
         }
     },
     {
@@ -87588,12 +78654,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 11
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 29,
-            "positive": 28,
-            "negative": 1
         }
     },
     {
@@ -87616,12 +78676,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 27
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 6505,
-            "positive": 6218,
-            "negative": 287
         }
     },
     {
@@ -87644,12 +78698,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2481,
-            "positive": 2239,
-            "negative": 242
         }
     },
     {
@@ -87673,12 +78721,6 @@ var data =
             "communityText": "",
             "achievements": 13
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1913,
-            "positive": 1650,
-            "negative": 263
-        },
         "information": "Delisted from Steam."
     },
     {
@@ -87701,12 +78743,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 48
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5437,
-            "positive": 5144,
-            "negative": 293
         }
     },
     {
@@ -87729,12 +78765,6 @@ var data =
             "community": 1,
             "communityText": "BSoD Proof\nBeat the game without dying, quitting or restarting.",
             "achievements": 36
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 323,
-            "positive": 299,
-            "negative": 24
         }
     },
     {
@@ -87757,12 +78787,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 9
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 105,
-            "positive": 88,
-            "negative": 17
         }
     },
     {
@@ -87776,7 +78800,7 @@ var data =
         "points": 5,
         "createdAt": "2022-11-12T17:36:24.000Z",
         "updatedAt": "2025-05-24T21:45:49.000Z",
-        "playersCompleted": 62,
+        "playersCompleted": 63,
         "playersStarted": 0,
         "playersTotal": 305,
         "milestones": {
@@ -87785,12 +78809,6 @@ var data =
             "community": 1,
             "communityText": "Peggle God\nComplete all primary objectives from all site-listed games in the Peggle franchise. See verification requirements for complete list.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2406,
-            "positive": 2273,
-            "negative": 133
         }
     },
     {
@@ -87813,12 +78831,6 @@ var data =
             "community": 1,
             "communityText": "Made of Ectoplasm\nSeparately, complete chapter 5 and the bonus chapter without dying and without using quick restart/quit to menu after starting a level.",
             "achievements": 37
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 58,
-            "positive": 52,
-            "negative": 6
         }
     },
     {
@@ -87841,12 +78853,6 @@ var data =
             "community": 2,
             "communityText": "Epilogue for Prologue for a Vacant Kingdom\nBeat all bosses on Masochism difficulty while being barefoot, wearing the Birthday Suit and without using the Hourglass or Iron Kettle.\n\nPrologue for a Masochistic Boss Rush\nComplete the game on Masochism difficulty without dying. (This includes the secret boss)",
             "achievements": 4
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 236,
-            "positive": 226,
-            "negative": 10
         },
         "information": "Baseline game.\nYou're better off playing on the second difficulty before attempting Masochism if you have low experience on bullet hell games. The game is short anyways, and the diff is literally called \"Intended Experience\"."
     },
@@ -87871,12 +78877,6 @@ var data =
             "communityText": "",
             "achievements": 47
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 582,
-            "positive": 488,
-            "negative": 94
-        },
         "information": "# GAME DISCONTINUED\n\nPlay Mikado REMIX instead.\n\nIf you earned objectives on this game and do it again in Mikado REMIX, they will be removed from here. If you really need to play this version, contact Folkius to award objectives manually."
     },
     {
@@ -87899,12 +78899,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 15
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 3424,
-            "positive": 3287,
-            "negative": 137
         }
     },
     {
@@ -87927,12 +78921,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 12
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 218,
-            "positive": 200,
-            "negative": 18
         }
     },
     {
@@ -87955,12 +78943,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 28,
-            "positive": 26,
-            "negative": 2
         }
     },
     {
@@ -87983,12 +78965,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 26,
-            "positive": 15,
-            "negative": 11
         }
     },
     {
@@ -88012,12 +78988,6 @@ var data =
             "communityText": "Keter-Class Anomaly\nObtain all possible achievements in a single unseeded Keter difficulty run in single player without using the console or mods. Quit to menu is banned in the non-Steam version.",
             "achievements": 41
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 26240,
-            "positive": 22042,
-            "negative": 4198
-        },
         "information": "Runs with special/easter egg seeds are deemed as a form of seeded run, hence, their use is strictly prohibited. The list of these seeds is the following:\n\u2022 NIL\n\u2022 NO\n\u2022 d9341\n\u2022 5CP_I73\n\u2022 DONTBLINK\n\u2022 CRUNCH\n\u2022 die\n\u2022 HTAED\n\u2022 rustledjim\n\u2022 larry\n\u2022 JORGE\n\u2022 dirtymetal\n\u2022 whatpumpkin"
     },
     {
@@ -88040,12 +79010,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 99
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 77876,
-            "positive": 66095,
-            "negative": 11781
         }
     },
     {
@@ -88068,12 +79032,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 8
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 64,
-            "positive": 61,
-            "negative": 3
         }
     },
     {
@@ -88096,12 +79054,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 46
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 43,
-            "positive": 40,
-            "negative": 3
         }
     },
     {
@@ -88124,12 +79076,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2162,
-            "positive": 1989,
-            "negative": 173
         }
     },
     {
@@ -88152,12 +79098,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 49
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 25222,
-            "positive": 23601,
-            "negative": 1621
         }
     },
     {
@@ -88180,12 +79120,6 @@ var data =
             "community": 1,
             "communityText": "Flawless Flow\nComplete all levels with \"No Near Lanes\" & \"No Far Lanes\" enabled at 150% speed in \"Flawless\" difficulty.",
             "achievements": 33
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 521,
-            "positive": 400,
-            "negative": 121
         }
     },
     {
@@ -88208,12 +79142,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 54884,
-            "positive": 51245,
-            "negative": 3639
         }
     },
     {
@@ -88236,12 +79164,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 32
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 13,
-            "positive": 13,
-            "negative": 0
         }
     },
     {
@@ -88265,12 +79187,6 @@ var data =
             "communityText": "",
             "achievements": 12
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 195,
-            "positive": 184,
-            "negative": 11
-        },
         "information": "Delisted from Steam."
     },
     {
@@ -88293,12 +79209,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 20
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 66,
-            "positive": 62,
-            "negative": 4
         }
     },
     {
@@ -88322,12 +79232,6 @@ var data =
             "communityText": "",
             "achievements": 38
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 285,
-            "positive": 249,
-            "negative": 36
-        },
         "information": "Delisted from Steam."
     },
     {
@@ -88350,12 +79254,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 6485,
-            "positive": 5769,
-            "negative": 716
         }
     },
     {
@@ -88378,12 +79276,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 18
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 277,
-            "positive": 259,
-            "negative": 18
         }
     },
     {
@@ -88407,12 +79299,6 @@ var data =
             "communityText": "",
             "achievements": 47
         },
-        "reviews": {
-            "description": "Positive",
-            "total": 22,
-            "positive": 18,
-            "negative": 4
-        },
         "information": "\"Stage Turk\" can be unlocked by entering a secret command after reaching the ending once. Go to the \"How to Play\" screen and  enter Up 7, Down 8, Up 1, Right 2, Tap 1, Right 2, Tap 1, Right 1, Left 3, Tap 1, Left 2, Tap 1, Left 1, Right 1, Tap 8."
     },
     {
@@ -88435,12 +79321,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "5 user reviews",
-            "total": 5,
-            "positive": 4,
-            "negative": 1
         }
     },
     {
@@ -88463,12 +79343,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "7 user reviews",
-            "total": 7,
-            "positive": 5,
-            "negative": 2
         }
     },
     {
@@ -88491,12 +79365,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 30
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 62,
-            "positive": 54,
-            "negative": 8
         }
     },
     {
@@ -88519,12 +79387,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 18,
-            "positive": 18,
-            "negative": 0
         }
     },
     {
@@ -88547,12 +79409,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 24
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 51,
-            "positive": 30,
-            "negative": 21
         }
     },
     {
@@ -88575,12 +79431,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 117,
-            "positive": 93,
-            "negative": 24
         }
     },
     {
@@ -88603,12 +79453,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 9
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1494,
-            "positive": 1434,
-            "negative": 60
         }
     },
     {
@@ -88631,12 +79475,6 @@ var data =
             "community": 3,
             "communityText": "Anticreationism\nBeat the Extra mode without dying and bombing.\n\nBootleg Difficulty\nBeat the game on Lunatic without continuing with the RNG patch on.\n\nGensokyo Shipmaster\nBeat the game on Lunatic without dying and bombing.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 255,
-            "positive": 250,
-            "negative": 5
         }
     },
     {
@@ -88659,12 +79497,6 @@ var data =
             "community": 5,
             "communityText": "Track Psychopath\nComplete all primary objectives from all games in the Trackmania franchise. See verification requirements for complete list.\n\nTraining V1\nObtain the Author Medal on all Training levels.\n\nNearly Drowning\nComplete Deep Dip 2.\n\nTrack Maniac\nComplete at least 1 primary objective from each game in the Trackmania franchise. See verification requirements for complete list.\n\nHardflip\nObtain all 25 author medals in the official \"Stunt Discovery\" Campaign.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Mostly Positive",
-            "total": 15936,
-            "positive": 12297,
-            "negative": 3639
         },
         "information": "<------------------------->\n**WARNING: All objectives are at a much higher risk of sudden removal/change than any other game on the site. Play at your own risk.**\n\nThe game is F2P, but all current objectives require a yearly subscription (20$ USD) in order to play normally.\n\nAll content can still technically be accessed offline without a subscription by downloading the individual track files through tmx and playing them through the editor (unedited). Using this method of play to earn any of the site listed objectives will require you to post full recorded video proof of every single track instead of the simple screenshots.\n<------------------------->\nAll official non seasonal campaign and weekly shorts content can be easily accessed by joining the \"Challenge Enthusiast\" club. Or by checking any of the following official Ubisoft/Nadeo clubs in-game.\n.Ubisoft Nadeo\n.Ubisoft Club\n.Cupra\n<------------------------->\n\"Potential\" content not currently with an objective.\n.AO8 Forever\n.Green Game Jam\n.Training Maps\n.World Cup & World Tour tracks\n.TOTD 1/1/23+\n.Redbull Faster\n.Formula E"
     },
@@ -88689,12 +79521,6 @@ var data =
             "communityText": "Trial by Tire\n Achieve T\u00b3 Recruitment.\n\nTrack Attack\nComplete 10 Trials maps, with at least one being Advanced level (9-10).",
             "achievements": 0
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 23582,
-            "positive": 21225,
-            "negative": 2357
-        },
         "information": "How to fix white screen issues:\n[https://steamcommunity.com/sharedfiles/filedetails/?id=448953593](https://steamcommunity.com/sharedfiles/filedetails/?id=448953593)\n"
     },
     {
@@ -88717,12 +79543,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 47
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 85,
-            "positive": 76,
-            "negative": 9
         }
     },
     {
@@ -88745,12 +79565,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 58233,
-            "positive": 55354,
-            "negative": 2879
         }
     },
     {
@@ -88773,12 +79587,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 28
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 194,
-            "positive": 179,
-            "negative": 15
         }
     },
     {
@@ -88801,12 +79609,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 50
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 138,
-            "positive": 87,
-            "negative": 51
         }
     },
     {
@@ -88830,12 +79632,6 @@ var data =
             "communityText": "Once More\nGet all ALL CRITICAL in FINALE and ENCORE\n\nResurrection\nGet all V FULLCOMBO in FINALE and ENCORE",
             "achievements": 32
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2150,
-            "positive": 2009,
-            "negative": 141
-        },
         "information": "Please see the spreadsheet for the tracks required for the PO (EN/JP)\n<https://docs.google.com/spreadsheets/d/1bdCzfoEi3_eJ5JkCSZu2xn4_flb0tzlLpamKB3B3pDk/edit?gid=0#gid=0>"
     },
     {
@@ -88858,12 +79654,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 64
-        },
-        "reviews": {
-            "description": "Mixed",
-            "total": 224,
-            "positive": 151,
-            "negative": 73
         }
     },
     {
@@ -88886,12 +79676,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 29
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 155,
-            "positive": 146,
-            "negative": 9
         }
     },
     {
@@ -88914,12 +79698,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 16
-        },
-        "reviews": {
-            "description": "Positive",
-            "total": 14,
-            "positive": 13,
-            "negative": 1
         }
     },
     {
@@ -88942,12 +79720,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 13
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 670,
-            "positive": 614,
-            "negative": 56
         }
     },
     {
@@ -88970,12 +79742,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 43
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 72,
-            "positive": 64,
-            "negative": 8
         }
     },
     {
@@ -88998,12 +79764,6 @@ var data =
             "community": 2,
             "communityText": "You Have to Be the Completionist\nObtain 100% completion in YOLO Mode on Extra Spicy difficulty.\n\nYou Have to Be the Hoarder\nObtain 100% completion in YOLO Mode.",
             "achievements": 14
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 5673,
-            "positive": 5269,
-            "negative": 404
         }
     },
     {
@@ -89026,12 +79786,6 @@ var data =
             "community": 3,
             "communityText": "Lord of the Harvest\nDestroy 41 weeds and enter the endgame loop in Challenge 10.\n\nFool's Errand (S)\nComplete a custom game with all enemy counts and difficulties set to the maximum.\n\nWeed Eater (S)\nDestroy 21 weeds and find the secret character at the start of the maze in Challenge 10.",
             "achievements": 25
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 1533,
-            "positive": 1404,
-            "negative": 129
         }
     },
     {
@@ -89055,12 +79809,6 @@ var data =
             "communityText": "",
             "achievements": 210
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 90,
-            "positive": 77,
-            "negative": 13
-        },
         "information": "Delisted from Steam.\n\nVery hard bonus 1 is broken and can only be entered in practice and gauntlet. Very hard bonus 3 is also broken, when entered from the regular stage it doesn't work correctly (its free).\n\nNo one has any idea how the \"Encounter all enemies\" achievements work. If you have information or know how they work, notify a mod. Maybe they can be added to a PO. Though it is likely they are more of a puzzle than a challenge, and/or simply broken."
     },
     {
@@ -89083,12 +79831,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 152
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 10418,
-            "positive": 8638,
-            "negative": 1780
         }
     },
     {
@@ -89111,12 +79853,6 @@ var data =
             "community": 2,
             "communityText": "Riddle Me This\nBeat the Lunatic Extra mode without dying and bombing.\n\nThe Power of Wheat\nBeat the game on Ura without dying and bombing.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 386,
-            "positive": 373,
-            "negative": 13
         }
     },
     {
@@ -89139,12 +79875,6 @@ var data =
             "community": 2,
             "communityText": "In the Name of Love\nBeat the game on Overdrive without dying and Aspect Shifting.\n\nPainting for Your Soul\nBeat the (normal) Extra mode without dying and Aspect Shifting.",
             "achievements": 0
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 277,
-            "positive": 230,
-            "negative": 47
         },
         "information": "Balanced around Youmu&Koishi."
     },
@@ -91498,12 +82228,6 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 126,
-            "positive": 117,
-            "negative": 9
         }
     },
     {
@@ -91527,12 +82251,6 @@ var data =
             "communityText": "Bent on Sand\nObtain the gold medal with a time of 3:30 on \"Bend on Sand\" in single player Survival.\n\nSerious Seconds\nComplete the game in single player on Serious difficulty without dying or loading.",
             "achievements": 70
         },
-        "reviews": {
-            "description": "Very Positive",
-            "total": 2058,
-            "positive": 1919,
-            "negative": 139
-        },
         "information": "The actual store page is located here: [https://store.steampowered.com/app/41014](https://store.steampowered.com/app/41014)"
     }
 ]
@@ -91541,8 +82259,8 @@ var date =
     "day": 31,
     "month": 5,
     "year": 2025,
-    "hour": 9,
-    "minute": 7,
-    "second": 40,
-    "searchTime": 1139.3434846401215
+    "hour": 19,
+    "minute": 15,
+    "second": 55,
+    "searchTime": 612.9033434391022
 }
