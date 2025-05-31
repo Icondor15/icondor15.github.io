@@ -173,6 +173,35 @@ var extrasData =
             "total": 1487,
             "positive": 1340,
             "negative": 147
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "b8d32f16-c5f9-4cc7-a902-2adab70b65ec": {
@@ -231,9 +260,9 @@ var extrasData =
     "22177e06-2002-488a-8c90-fe3ff3849647": {
         "reviews": {
             "description": "Very Positive",
-            "total": 73321,
-            "positive": 68911,
-            "negative": 4410
+            "total": 73326,
+            "positive": 68914,
+            "negative": 4412
         },
         "dlc": {
             "count": 3,
@@ -276,8 +305,8 @@ var extrasData =
     "21144d8d-c943-4130-8349-6e768220cfc9": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 51653,
-            "positive": 50544,
+            "total": 51652,
+            "positive": 50543,
             "negative": 1109
         },
         "dlc": {
@@ -557,6 +586,35 @@ var extrasData =
             "total": 3122,
             "positive": 2803,
             "negative": 319
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "6d02b879-e840-43ec-9591-314ab42b86ae": {
@@ -676,6 +734,35 @@ var extrasData =
             "total": 22,
             "positive": 17,
             "negative": 5
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "a8783c0a-ac89-4d33-ae1d-1b387c10bd42": {
@@ -1474,9 +1561,9 @@ var extrasData =
     "65ae7665-90dd-4ba7-b05d-7f5fbe34cc69": {
         "reviews": {
             "description": "Very Positive",
-            "total": 76890,
-            "positive": 70285,
-            "negative": 6605
+            "total": 76892,
+            "positive": 70286,
+            "negative": 6606
         }
     },
     "211bb6fa-4564-4cd0-9a7b-4b8c9773434e": {
@@ -1715,8 +1802,8 @@ var extrasData =
     "3427ac7d-17dc-43c3-a2dd-a91964588743": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5653,
-            "positive": 5211,
+            "total": 5654,
+            "positive": 5212,
             "negative": 442
         },
         "dlc": {
@@ -1792,6 +1879,35 @@ var extrasData =
             "total": 406,
             "positive": 345,
             "negative": 61
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "9cfd5ac5-5b4a-47ce-b76b-61ccfe496472": {
@@ -2149,8 +2265,8 @@ var extrasData =
     "56be6b0c-365c-4741-a60f-84743133a55a": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 152602,
-            "positive": 149583,
+            "total": 152610,
+            "positive": 149591,
             "negative": 3019
         },
         "dlc": {
@@ -2284,8 +2400,8 @@ var extrasData =
     "36d54726-10e7-4691-8023-546c9b28923b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 139883,
-            "positive": 123982,
+            "total": 139888,
+            "positive": 123987,
             "negative": 15901
         },
         "dlc": {
@@ -2586,9 +2702,9 @@ var extrasData =
     "bf95781c-7d08-4afb-b3c1-8d1791832b97": {
         "reviews": {
             "description": "Very Positive",
-            "total": 140591,
-            "positive": 131898,
-            "negative": 8693
+            "total": 140593,
+            "positive": 131899,
+            "negative": 8694
         },
         "dlc": {
             "count": 5,
@@ -2843,14 +2959,43 @@ var extrasData =
             "total": 3150,
             "positive": 2726,
             "negative": 424
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "395a38ab-1202-4feb-9210-cee1c8ddeb7b": {
         "reviews": {
             "description": "Very Positive",
             "total": 51410,
-            "positive": 46322,
-            "negative": 5088
+            "positive": 46323,
+            "negative": 5087
         },
         "dlc": {
             "count": 4,
@@ -2888,6 +3033,35 @@ var extrasData =
             "total": 4,
             "positive": 2,
             "negative": 2
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "e1045fb5-0258-49d8-91c3-499f6e319a2f": {
@@ -2986,6 +3160,35 @@ var extrasData =
             "total": 1767,
             "positive": 1550,
             "negative": 217
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "2f7cfb3e-0c58-46f0-8f08-84ac39451abb": {
@@ -3301,8 +3504,8 @@ var extrasData =
     "66b12511-7552-4121-84d5-d60ac73efe23": {
         "reviews": {
             "description": "Very Positive",
-            "total": 11112,
-            "positive": 10091,
+            "total": 11111,
+            "positive": 10090,
             "negative": 1021
         },
         "dlc": {
@@ -3740,8 +3943,8 @@ var extrasData =
     "ea5c1827-79de-466d-82aa-f5b5e256c524": {
         "reviews": {
             "description": "Very Positive",
-            "total": 50478,
-            "positive": 46595,
+            "total": 50477,
+            "positive": 46594,
             "negative": 3883
         }
     },
@@ -3785,8 +3988,8 @@ var extrasData =
     "04a173b6-f44d-4057-a191-7a02a99affa0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 58080,
-            "positive": 54110,
+            "total": 58081,
+            "positive": 54111,
             "negative": 3970
         },
         "dlc": {
@@ -3827,8 +4030,8 @@ var extrasData =
         "reviews": {
             "description": "Mixed",
             "total": 14356,
-            "positive": 7519,
-            "negative": 6837
+            "positive": 7520,
+            "negative": 6836
         },
         "dlc": {
             "count": 1,
@@ -3863,8 +4066,8 @@ var extrasData =
     "6b382135-0a8c-4dba-b225-230a83940825": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 40613,
-            "positive": 38598,
+            "total": 40614,
+            "positive": 38599,
             "negative": 2015
         }
     },
@@ -3903,8 +4106,8 @@ var extrasData =
     "d807b4a9-f957-444e-ab8e-2ea76a11cc17": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 125530,
-            "positive": 120674,
+            "total": 125532,
+            "positive": 120676,
             "negative": 4856
         },
         "dlc": {
@@ -4091,8 +4294,8 @@ var extrasData =
     "1e866995-6fec-452e-81ba-1e8f8594f4ea": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 120370,
-            "positive": 117323,
+            "total": 120371,
+            "positive": 117324,
             "negative": 3047
         },
         "dlc": {
@@ -4357,9 +4560,9 @@ var extrasData =
     "8fa87bf9-55df-48bd-8412-f9cb9094f7ec": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 33000,
+            "total": 33001,
             "positive": 31958,
-            "negative": 1042
+            "negative": 1043
         }
     },
     "b17bd0ef-95cd-4b17-a868-29eb4bdf7922": {
@@ -4376,6 +4579,35 @@ var extrasData =
             "total": 934,
             "positive": 809,
             "negative": 125
+        },
+        "dlc": {
+            "count": 2,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "bb86c281-d7a7-42d9-9215-cbbaad70fe16": {
@@ -4384,6 +4616,35 @@ var extrasData =
             "total": 24,
             "positive": 19,
             "negative": 5
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "d301043e-b889-48b0-8658-c68087561b49": {
@@ -4728,13 +4989,42 @@ var extrasData =
             "total": 116,
             "positive": 95,
             "negative": 21
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "2f1bd762-f732-4148-bb79-d94283881040": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 26811,
-            "positive": 26260,
+            "total": 26812,
+            "positive": 26261,
             "negative": 551
         }
     },
@@ -5064,8 +5354,8 @@ var extrasData =
     "7632d9d3-8d02-4af6-932c-0d7b59842e48": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 186395,
-            "positive": 179472,
+            "total": 186398,
+            "positive": 179475,
             "negative": 6923
         },
         "dlc": {
@@ -5461,16 +5751,16 @@ var extrasData =
     "0a7ffb40-c98b-4478-a42e-2fce0cd90d95": {
         "reviews": {
             "description": "Very Positive",
-            "total": 116460,
-            "positive": 97864,
-            "negative": 18596
+            "total": 116465,
+            "positive": 97867,
+            "negative": 18598
         }
     },
     "0e001f7d-8448-4ca3-9442-c2e3423894cb": {
         "reviews": {
             "description": "Very Positive",
-            "total": 413238,
-            "positive": 389801,
+            "total": 413239,
+            "positive": 389802,
             "negative": 23437
         },
         "dlc": {
@@ -5506,8 +5796,8 @@ var extrasData =
     "ac228995-b1eb-4a4f-bec5-d58cd2ee776f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 128991,
-            "positive": 118864,
+            "total": 128994,
+            "positive": 118867,
             "negative": 10127
         }
     },
@@ -5649,9 +5939,9 @@ var extrasData =
     "b97a37a4-4aad-4e01-99e2-1c8bdb2fc5f5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 168198,
-            "positive": 163295,
-            "negative": 4903
+            "total": 168199,
+            "positive": 163294,
+            "negative": 4905
         },
         "dlc": {
             "count": 8,
@@ -5723,8 +6013,8 @@ var extrasData =
     "2d159713-6aa9-4a8c-a0af-45db7a020f93": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 5421,
-            "positive": 5192,
+            "total": 5422,
+            "positive": 5193,
             "negative": 229
         }
     },
@@ -6395,8 +6685,8 @@ var extrasData =
     "76b60daf-0df0-4855-a576-be5cb40e61a1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 28095,
-            "positive": 25883,
+            "total": 28096,
+            "positive": 25884,
             "negative": 2212
         }
     },
@@ -6501,8 +6791,8 @@ var extrasData =
     "bacd841e-3086-4d92-a355-67cf515ddeb5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 145844,
-            "positive": 139973,
+            "total": 145846,
+            "positive": 139975,
             "negative": 5871
         },
         "dlc": {
@@ -6755,9 +7045,9 @@ var extrasData =
     "56f76b8d-a1c7-4f17-ab1d-ac9e2fefa90b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 44520,
+            "total": 44521,
             "positive": 39328,
-            "negative": 5192
+            "negative": 5193
         },
         "dlc": {
             "count": 44,
@@ -6956,9 +7246,9 @@ var extrasData =
     "dcc5d1ff-675d-44f6-8411-88cb6dc513f1": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 206673,
-            "positive": 197449,
-            "negative": 9224
+            "total": 206680,
+            "positive": 197455,
+            "negative": 9225
         },
         "dlc": {
             "count": 1,
@@ -6993,8 +7283,8 @@ var extrasData =
     "5d268c17-5bd0-4eeb-b40f-adc3a0289072": {
         "reviews": {
             "description": "Very Positive",
-            "total": 202336,
-            "positive": 185045,
+            "total": 202339,
+            "positive": 185048,
             "negative": 17291
         },
         "dlc": {
@@ -7030,8 +7320,8 @@ var extrasData =
     "9d1b327f-9642-4553-9ebe-427b4e810759": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 27573,
-            "positive": 26617,
+            "total": 27574,
+            "positive": 26618,
             "negative": 956
         },
         "dlc": {
@@ -7627,9 +7917,9 @@ var extrasData =
     "06af14b9-161b-4d47-bf84-f028fe2a39ca": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1054870,
-            "positive": 979862,
-            "negative": 75008
+            "total": 1054901,
+            "positive": 979892,
+            "negative": 75009
         },
         "dlc": {
             "count": 2,
@@ -7873,9 +8163,9 @@ var extrasData =
     "c02ab048-9e97-4dc6-a93e-cad11ae6f613": {
         "reviews": {
             "description": "Very Positive",
-            "total": 39510,
+            "total": 39509,
             "positive": 37132,
-            "negative": 2378
+            "negative": 2377
         },
         "dlc": {
             "count": 1,
@@ -7910,8 +8200,8 @@ var extrasData =
     "851ac2b3-eb04-409e-be71-af5f0b822e5b": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 13396,
-            "positive": 12809,
+            "total": 13397,
+            "positive": 12810,
             "negative": 587
         },
         "dlc": {
@@ -7947,8 +8237,8 @@ var extrasData =
     "85e5d2d8-bdd0-4df3-8a60-8bc6d01ac0d5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 85463,
-            "positive": 81585,
+            "total": 85464,
+            "positive": 81586,
             "negative": 3878
         }
     },
@@ -8792,8 +9082,8 @@ var extrasData =
     "30fc3451-ad90-4603-b33e-4606c4783ba5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 123392,
-            "positive": 114164,
+            "total": 123393,
+            "positive": 114165,
             "negative": 9228
         },
         "dlc": {
@@ -9115,9 +9405,9 @@ var extrasData =
     "1f67cb6d-926b-4af5-877e-73d3050d4684": {
         "reviews": {
             "description": "Very Positive",
-            "total": 427368,
-            "positive": 398716,
-            "negative": 28652
+            "total": 427383,
+            "positive": 398732,
+            "negative": 28651
         }
     },
     "c2890535-acb2-415a-9b36-36c27394c250": {
@@ -9245,9 +9535,9 @@ var extrasData =
     "cf5d020d-4a16-4fa0-bfcf-ffb728ae3c14": {
         "reviews": {
             "description": "Very Positive",
-            "total": 63131,
+            "total": 63130,
             "positive": 57697,
-            "negative": 5434
+            "negative": 5433
         },
         "dlc": {
             "count": 7,
@@ -9282,9 +9572,9 @@ var extrasData =
     "9e2656bd-090a-43d4-992d-49511cd978b1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 9505,
+            "total": 9504,
             "positive": 7667,
-            "negative": 1838
+            "negative": 1837
         },
         "dlc": {
             "count": 7,
@@ -9544,9 +9834,9 @@ var extrasData =
     "acb39d1f-e5d3-4aff-8c87-445e68e33eb6": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 157833,
-            "positive": 151531,
-            "negative": 6302
+            "total": 157836,
+            "positive": 151533,
+            "negative": 6303
         }
     },
     "0da927de-a778-413c-b88d-af505bcb1cd4": {
@@ -9608,6 +9898,35 @@ var extrasData =
             "total": 1383,
             "positive": 1122,
             "negative": 261
+        },
+        "dlc": {
+            "count": 2,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "919b0103-d11c-4f8d-aa2e-d0fd1c95a5bc": {
@@ -9650,8 +9969,8 @@ var extrasData =
     "b1a4cb5c-7e80-4c50-aafa-2c5b40180835": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 1545,
-            "positive": 1145,
+            "total": 1546,
+            "positive": 1146,
             "negative": 400
         },
         "dlc": {
@@ -9806,9 +10125,9 @@ var extrasData =
     "95eaae55-9caa-4de7-8e6a-ab02db5f7e0a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 174992,
-            "positive": 144320,
-            "negative": 30672
+            "total": 174995,
+            "positive": 144321,
+            "negative": 30674
         }
     },
     "cfbcee8c-3bf0-4a0b-8a3a-e295bb991a08": {
@@ -10418,8 +10737,8 @@ var extrasData =
     "847d86f5-65c6-4f68-b5a7-ed0c8de895f4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 279629,
-            "positive": 274722,
+            "total": 279631,
+            "positive": 274724,
             "negative": 4907
         },
         "dlc": {
@@ -10564,6 +10883,35 @@ var extrasData =
             "total": 4807,
             "positive": 3938,
             "negative": 869
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "08f50585-7253-4ab6-9d89-4e432201799e": {
@@ -11065,9 +11413,9 @@ var extrasData =
     "1bfa67c1-e30b-46e7-9e20-4d5608e99c13": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1473,
+            "total": 1474,
             "positive": 1274,
-            "negative": 199
+            "negative": 200
         },
         "dlc": {
             "count": 1,
@@ -11163,9 +11511,9 @@ var extrasData =
     "ec1f8e58-b184-496c-a9aa-678876d9dc7b": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 415349,
-            "positive": 403046,
-            "negative": 12303
+            "total": 415358,
+            "positive": 403054,
+            "negative": 12304
         },
         "dlc": {
             "count": 2,
@@ -11261,9 +11609,9 @@ var extrasData =
     "31bfc2a7-3ed7-467a-a46e-15464c3ab44c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 106263,
-            "positive": 103224,
-            "negative": 3039
+            "total": 106267,
+            "positive": 103227,
+            "negative": 3040
         },
         "dlc": {
             "count": 1,
@@ -11298,8 +11646,8 @@ var extrasData =
     "0993071e-dafa-49fb-8351-e7fa2b0d6aa8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 66419,
-            "positive": 62535,
+            "total": 66421,
+            "positive": 62537,
             "negative": 3884
         },
         "dlc": {
@@ -11617,8 +11965,8 @@ var extrasData =
     "f54a5dc4-9e51-4679-bcbf-f93a228d3614": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3645,
-            "positive": 3590,
+            "total": 3646,
+            "positive": 3591,
             "negative": 55
         },
         "dlc": {
@@ -11845,6 +12193,35 @@ var extrasData =
             "total": 547,
             "positive": 506,
             "negative": 41
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "c40c927c-99a8-493b-a837-4a524a9b344b": {
@@ -11866,8 +12243,8 @@ var extrasData =
     "be852ca3-ce4a-483a-8dfa-a45222a62c4e": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3251,
-            "positive": 2312,
+            "total": 3252,
+            "positive": 2313,
             "negative": 939
         }
     },
@@ -13109,8 +13486,8 @@ var extrasData =
         "reviews": {
             "description": "Very Positive",
             "total": 35232,
-            "positive": 32705,
-            "negative": 2527
+            "positive": 32704,
+            "negative": 2528
         },
         "dlc": {
             "count": 2,
@@ -13555,8 +13932,8 @@ var extrasData =
     "a2f42487-5b7f-4427-bbb3-cd7a047d6031": {
         "reviews": {
             "description": "Very Positive",
-            "total": 52367,
-            "positive": 48226,
+            "total": 52368,
+            "positive": 48227,
             "negative": 4141
         },
         "dlc": {
@@ -13698,8 +14075,8 @@ var extrasData =
     "0c503c16-eadc-44a9-97a2-10ce32aab0ff": {
         "reviews": {
             "description": "Very Positive",
-            "total": 57203,
-            "positive": 52972,
+            "total": 57204,
+            "positive": 52973,
             "negative": 4231
         }
     },
@@ -13796,8 +14173,8 @@ var extrasData =
     "dc9e2542-0e9d-448c-94cd-dc388826e419": {
         "reviews": {
             "description": "Very Positive",
-            "total": 9824,
-            "positive": 8286,
+            "total": 9823,
+            "positive": 8285,
             "negative": 1538
         },
         "dlc": {
@@ -14265,6 +14642,35 @@ var extrasData =
             "total": 476,
             "positive": 351,
             "negative": 125
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "fc978e2a-14ab-4687-939f-8222899613d3": {
@@ -14416,6 +14822,35 @@ var extrasData =
             "total": 202,
             "positive": 183,
             "negative": 19
+        },
+        "dlc": {
+            "count": 2,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "28c9d825-595c-4ed0-ab98-33cbc0785576": {
@@ -14432,6 +14867,35 @@ var extrasData =
             "total": 12,
             "positive": 10,
             "negative": 2
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "d0406ec0-8b86-4516-8a09-deb9c6ab055b": {
@@ -14654,16 +15118,16 @@ var extrasData =
     "b3e7f083-fc7d-459f-b564-850580aa4958": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 83191,
-            "positive": 79903,
+            "total": 83192,
+            "positive": 79904,
             "negative": 3288
         }
     },
     "a69e3192-3ee0-45b2-8c90-86e724f63837": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2427,
-            "positive": 2091,
+            "total": 2428,
+            "positive": 2092,
             "negative": 336
         }
     },
@@ -15022,8 +15486,8 @@ var extrasData =
     "aea1d4db-a91c-440a-9cf5-7415fa36f280": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 15656,
-            "positive": 15049,
+            "total": 15657,
+            "positive": 15050,
             "negative": 607
         }
     },
@@ -15263,9 +15727,9 @@ var extrasData =
     "869b0b40-e4c8-404e-8648-0b4ec86a55ed": {
         "reviews": {
             "description": "Mixed",
-            "total": 8590,
+            "total": 8591,
             "positive": 5955,
-            "negative": 2635
+            "negative": 2636
         },
         "dlc": {
             "count": 1,
@@ -15983,8 +16447,8 @@ var extrasData =
     "6bc41790-c17f-416a-b1d8-2422f76c303c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 28701,
-            "positive": 27306,
+            "total": 28702,
+            "positive": 27307,
             "negative": 1395
         },
         "dlc": {
@@ -16073,8 +16537,8 @@ var extrasData =
     "ceeb091a-405b-40b0-a436-3337d90859a2": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 34866,
-            "positive": 27844,
+            "total": 34867,
+            "positive": 27845,
             "negative": 7022
         }
     },
@@ -16383,6 +16847,35 @@ var extrasData =
             "total": 187,
             "positive": 169,
             "negative": 18
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "781af028-10e5-4e24-9f00-aa4cfdd7ed35": {
@@ -16812,9 +17305,9 @@ var extrasData =
     "1f710a58-25f6-4f40-aab1-efa9c88874c5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 66916,
+            "total": 66917,
             "positive": 63731,
-            "negative": 3185
+            "negative": 3186
         },
         "dlc": {
             "count": 2,
@@ -16849,8 +17342,8 @@ var extrasData =
     "2330b737-ee21-4c36-a282-e3730553d457": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 136575,
-            "positive": 131884,
+            "total": 136577,
+            "positive": 131886,
             "negative": 4691
         },
         "dlc": {
@@ -16968,9 +17461,9 @@ var extrasData =
     "dbb075b3-a4cf-46ca-ae81-db8a8fee0a20": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 125593,
-            "positive": 121139,
-            "negative": 4454
+            "total": 125596,
+            "positive": 121141,
+            "negative": 4455
         },
         "dlc": {
             "count": 1,
@@ -17021,9 +17514,9 @@ var extrasData =
     "535d2f2f-ed84-4d60-92e6-1059440eee17": {
         "reviews": {
             "description": "Very Positive",
-            "total": 72701,
+            "total": 72702,
             "positive": 65896,
-            "negative": 6805
+            "negative": 6806
         },
         "dlc": {
             "count": 6,
@@ -17217,8 +17710,8 @@ var extrasData =
     "841a87d2-da4f-436b-ada8-1d4ba520ef97": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 29523,
-            "positive": 28304,
+            "total": 29522,
+            "positive": 28303,
             "negative": 1219
         },
         "dlc": {
@@ -17492,9 +17985,9 @@ var extrasData =
     "557c467d-243c-4179-9fc9-6256f3cc071a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 662930,
+            "total": 662929,
             "positive": 594175,
-            "negative": 68755
+            "negative": 68754
         },
         "dlc": {
             "count": 78,
@@ -17672,8 +18165,8 @@ var extrasData =
     "a4525844-9b42-4b2b-ba36-4888ef14974c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 16293,
-            "positive": 14364,
+            "total": 16292,
+            "positive": 14363,
             "negative": 1929
         },
         "dlc": {
@@ -17770,8 +18263,8 @@ var extrasData =
     "cbbbc23d-c2b9-4e91-99f2-0ac449eb32cb": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3190,
-            "positive": 3150,
+            "total": 3191,
+            "positive": 3151,
             "negative": 40
         },
         "dlc": {
@@ -17818,6 +18311,35 @@ var extrasData =
             "total": 156,
             "positive": 99,
             "negative": 57
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "4ace62d0-2f5c-45ca-8390-0169d648f281": {
@@ -17868,8 +18390,8 @@ var extrasData =
     "50d89c40-3346-4ec2-a83e-6417c8630b72": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 66633,
-            "positive": 65539,
+            "total": 66634,
+            "positive": 65540,
             "negative": 1094
         },
         "dlc": {
@@ -17998,9 +18520,38 @@ var extrasData =
     "35d705c9-5dc5-4857-a35e-998da34bd760": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 177199,
-            "positive": 174490,
+            "total": 177203,
+            "positive": 174494,
             "negative": 2709
+        },
+        "dlc": {
+            "count": 2,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "58bba60a-6d41-43d8-ba3e-58bd25de62d4": {
@@ -18046,6 +18597,35 @@ var extrasData =
             "total": 6751,
             "positive": 6206,
             "negative": 545
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "36a16992-03e3-466c-a29c-344fc96d0c41": {
@@ -18102,6 +18682,35 @@ var extrasData =
             "total": 51,
             "positive": 47,
             "negative": 4
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "426fd7d7-9c1d-412d-b12b-9884d3f5a4c6": {
@@ -18822,6 +19431,35 @@ var extrasData =
             "total": 89,
             "positive": 80,
             "negative": 9
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "9cbfa099-c74a-41a5-9e93-c27bae22579e": {
@@ -18888,9 +19526,9 @@ var extrasData =
     "9357297c-ae7d-4997-9472-a205bd602732": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6255,
+            "total": 6256,
             "positive": 5174,
-            "negative": 1081
+            "negative": 1082
         },
         "dlc": {
             "count": 3,
@@ -19081,9 +19719,9 @@ var extrasData =
     "29fa4641-6af7-4758-83b2-0cfadb34e344": {
         "reviews": {
             "description": "Very Positive",
-            "total": 52767,
-            "positive": 44697,
-            "negative": 8070
+            "total": 52770,
+            "positive": 44699,
+            "negative": 8071
         },
         "dlc": {
             "count": 2,
@@ -19121,21 +19759,50 @@ var extrasData =
             "total": 641,
             "positive": 564,
             "negative": 77
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "01206a9d-7c9d-4b43-ab2d-ccf1822b7b17": {
         "reviews": {
             "description": "Very Positive",
-            "total": 26725,
+            "total": 26726,
             "positive": 24572,
-            "negative": 2153
+            "negative": 2154
         }
     },
     "2282102c-cca7-46bd-b3b3-07c850bda822": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 172674,
-            "positive": 167468,
+            "total": 172675,
+            "positive": 167469,
             "negative": 5206
         },
         "dlc": {
@@ -19171,8 +19838,8 @@ var extrasData =
     "970ecb86-18be-45c2-85be-15bdc7cfc358": {
         "reviews": {
             "description": "Very Positive",
-            "total": 91095,
-            "positive": 74413,
+            "total": 91096,
+            "positive": 74414,
             "negative": 16682
         },
         "dlc": {
@@ -19208,8 +19875,8 @@ var extrasData =
     "adad0535-2c3a-413f-a2b3-fb67f0ad7728": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 181334,
-            "positive": 177174,
+            "total": 181345,
+            "positive": 177185,
             "negative": 4160
         },
         "dlc": {
@@ -19245,16 +19912,16 @@ var extrasData =
     "3aa4a76f-2c49-436a-89df-20151640da8a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 82331,
-            "positive": 76900,
+            "total": 82333,
+            "positive": 76902,
             "negative": 5431
         }
     },
     "9a457867-09f2-4fc7-9258-91359f3a74f5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 97712,
-            "positive": 93085,
+            "total": 97713,
+            "positive": 93086,
             "negative": 4627
         },
         "dlc": {
@@ -19465,9 +20132,9 @@ var extrasData =
     "81ce0fce-af1d-4ab9-bdce-2bb1c62554b7": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2316,
+            "total": 2317,
             "positive": 1723,
-            "negative": 593
+            "negative": 594
         }
     },
     "e9bf3920-0816-44e6-80b0-63db3022125a": {
@@ -19682,9 +20349,9 @@ var extrasData =
     "0ade411b-db3d-42ad-a5e8-d9748e57f062": {
         "reviews": {
             "description": "Very Positive",
-            "total": 312963,
-            "positive": 292552,
-            "negative": 20411
+            "total": 312968,
+            "positive": 292556,
+            "negative": 20412
         },
         "dlc": {
             "count": 6,
@@ -20537,8 +21204,8 @@ var extrasData =
     "d189bd84-f8d8-49a1-ba5b-929e717b7a15": {
         "reviews": {
             "description": "Very Positive",
-            "total": 20631,
-            "positive": 18463,
+            "total": 20630,
+            "positive": 18462,
             "negative": 2168
         }
     },
@@ -20553,8 +21220,8 @@ var extrasData =
     "b87adbf6-8114-4a6d-b756-dc580ee8468d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 35844,
-            "positive": 34902,
+            "total": 35846,
+            "positive": 34904,
             "negative": 942
         },
         "dlc": {
@@ -20847,8 +21514,8 @@ var extrasData =
     "25667c9b-98bb-4e42-826d-d97d3a2c74ea": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 321473,
-            "positive": 306341,
+            "total": 321474,
+            "positive": 306342,
             "negative": 15132
         }
     },
@@ -20908,8 +21575,8 @@ var extrasData =
     "11e5e8e3-f092-4674-8c9d-fd7d7eb4bdb9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8183,
-            "positive": 7645,
+            "total": 8185,
+            "positive": 7647,
             "negative": 538
         }
     },
@@ -21083,6 +21750,35 @@ var extrasData =
             "total": 26140,
             "positive": 24061,
             "negative": 2079
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "f49a8fac-f5d5-497c-a672-003947e9e548": {
@@ -21580,8 +22276,8 @@ var extrasData =
     "53c4e85f-4e43-4d51-823e-cabe21302e88": {
         "reviews": {
             "description": "Very Positive",
-            "total": 21044,
-            "positive": 19456,
+            "total": 21045,
+            "positive": 19457,
             "negative": 1588
         },
         "dlc": {
@@ -21919,9 +22615,9 @@ var extrasData =
     "f5002235-3248-453d-93b8-b96736bb4712": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 181820,
-            "positive": 177813,
-            "negative": 4007
+            "total": 181823,
+            "positive": 177815,
+            "negative": 4008
         },
         "dlc": {
             "count": 1,
@@ -22265,6 +22961,35 @@ var extrasData =
             "total": 7944,
             "positive": 4730,
             "negative": 3214
+        },
+        "dlc": {
+            "count": 6,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "8f991572-ee0e-4d33-a3e7-43d8c804b7e7": {
@@ -22591,6 +23316,35 @@ var extrasData =
             "total": 200,
             "positive": 170,
             "negative": 30
+        },
+        "dlc": {
+            "count": 2,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "0533901f-d5c3-4438-8a28-c8eb29b5338c": {
@@ -22795,6 +23549,35 @@ var extrasData =
             "total": 403,
             "positive": 388,
             "negative": 15
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "1f276ebb-5b07-4ac5-af3c-b53a61480c86": {
@@ -22885,6 +23668,35 @@ var extrasData =
             "total": 71,
             "positive": 65,
             "negative": 6
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "eae35c55-f2b6-4696-a883-a117f20ec18a": {
@@ -22946,8 +23758,8 @@ var extrasData =
     "66b4a1be-b77e-4a2b-9872-ac695081e091": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2870,
-            "positive": 2776,
+            "total": 2871,
+            "positive": 2777,
             "negative": 94
         }
     },
@@ -22991,8 +23803,8 @@ var extrasData =
     "c98bced4-e6d7-4034-8e85-5208d1487f8d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 884467,
-            "positive": 870672,
+            "total": 884480,
+            "positive": 870685,
             "negative": 13795
         },
         "dlc": {
@@ -23367,6 +24179,35 @@ var extrasData =
             "total": 167,
             "positive": 152,
             "negative": 15
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "93cdb4e2-141d-497e-8857-86f411d9cdb4": {
@@ -24003,6 +24844,35 @@ var extrasData =
             "total": 28,
             "positive": 25,
             "negative": 3
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "29788450-49ac-4254-916e-2f20564d58d7": {
@@ -24061,8 +24931,8 @@ var extrasData =
     "3a32bb28-8d9f-4af1-ae4e-9d0eab7d968d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 35483,
-            "positive": 33558,
+            "total": 35484,
+            "positive": 33559,
             "negative": 1925
         },
         "dlc": {
@@ -24212,6 +25082,35 @@ var extrasData =
             "total": 29,
             "positive": 29,
             "negative": 0
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "e1e87c7c-b552-4e51-83bc-c3103dc5e8ee": {
@@ -24400,8 +25299,8 @@ var extrasData =
     "633d7ddf-c346-42c1-a5d6-9666f2a05e49": {
         "reviews": {
             "description": "Very Positive",
-            "total": 38743,
-            "positive": 35358,
+            "total": 38744,
+            "positive": 35359,
             "negative": 3385
         }
     },
@@ -24416,17 +25315,46 @@ var extrasData =
     "d227fc8d-cfc0-481f-b58c-266c95a927fd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 11995,
+            "total": 11996,
             "positive": 10129,
-            "negative": 1866
+            "negative": 1867
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "71a9ee46-e8ff-4736-9c37-275536a9fec4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 30095,
+            "total": 30096,
             "positive": 28470,
-            "negative": 1625
+            "negative": 1626
         },
         "dlc": {
             "count": 1,
@@ -24586,6 +25514,35 @@ var extrasData =
             "total": 56,
             "positive": 49,
             "negative": 7
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "92c8c25e-67e2-4bb3-a666-77971669932b": {
@@ -25290,8 +26247,8 @@ var extrasData =
     "a3092524-b7af-4bb3-b85a-bbbdaef37a5f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 30248,
-            "positive": 25773,
+            "total": 30249,
+            "positive": 25774,
             "negative": 4475
         },
         "dlc": {
@@ -25338,6 +26295,35 @@ var extrasData =
             "total": 54,
             "positive": 53,
             "negative": 1
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "b8d3fcbe-2ce7-44db-88e9-71dbb1eab543": {
@@ -25621,9 +26607,9 @@ var extrasData =
     "40849373-5f26-4115-93eb-e2645185480f": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8503,
+            "total": 8504,
             "positive": 6506,
-            "negative": 1997
+            "negative": 1998
         },
         "dlc": {
             "count": 7,
@@ -25732,8 +26718,8 @@ var extrasData =
     "93847607-3a88-46a1-8834-c75482290eb0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 18911,
-            "positive": 16049,
+            "total": 18912,
+            "positive": 16050,
             "negative": 2862
         }
     },
@@ -25994,8 +26980,8 @@ var extrasData =
     "43ddf3a2-9905-4c4f-ae0b-01e761e1372a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8449,
-            "positive": 7100,
+            "total": 8450,
+            "positive": 7101,
             "negative": 1349
         },
         "dlc": {
@@ -26410,8 +27396,8 @@ var extrasData =
     "640ccbd6-4937-4cf1-a7ea-1f7dde259c8c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1230,
-            "positive": 1213,
+            "total": 1229,
+            "positive": 1212,
             "negative": 17
         }
     },
@@ -26964,8 +27950,8 @@ var extrasData =
     "544e8a12-3cc5-4ce6-8018-dfa962f1fd45": {
         "reviews": {
             "description": "Very Positive",
-            "total": 15161,
-            "positive": 13899,
+            "total": 15160,
+            "positive": 13898,
             "negative": 1262
         },
         "dlc": {
@@ -27102,6 +28088,35 @@ var extrasData =
             "total": 180,
             "positive": 168,
             "negative": 12
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "c07bb0bf-b830-4229-aab6-0cf8ca5ad7e8": {
@@ -27463,8 +28478,8 @@ var extrasData =
     "a5252cda-034d-4ec4-8ccc-029817aef04a": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 22075,
-            "positive": 21157,
+            "total": 22076,
+            "positive": 21158,
             "negative": 918
         }
     },
@@ -27651,8 +28666,8 @@ var extrasData =
     "b9bc0425-8162-48b7-86e9-4d1b85bc0477": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 22014,
-            "positive": 17018,
+            "total": 22016,
+            "positive": 17020,
             "negative": 4996
         },
         "dlc": {
@@ -27929,8 +28944,8 @@ var extrasData =
     "d9a10ee7-8363-4710-b6de-83554acf68e1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2296,
-            "positive": 2081,
+            "total": 2297,
+            "positive": 2082,
             "negative": 215
         },
         "dlc": {
@@ -28059,9 +29074,9 @@ var extrasData =
     "f1e663fb-cf49-4f86-b7f4-325bf872eed2": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 112592,
-            "positive": 79947,
-            "negative": 32645
+            "total": 112600,
+            "positive": 79951,
+            "negative": 32649
         },
         "dlc": {
             "count": 2,
@@ -28096,9 +29111,9 @@ var extrasData =
     "13ed1e64-45a2-4022-b780-4d7535a6c2ba": {
         "reviews": {
             "description": "Very Positive",
-            "total": 133503,
+            "total": 133504,
             "positive": 113297,
-            "negative": 20206
+            "negative": 20207
         },
         "dlc": {
             "count": 20,
@@ -28578,8 +29593,8 @@ var extrasData =
     "845397fe-4f40-422c-b735-f6a8ca724d7d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 44458,
-            "positive": 36051,
+            "total": 44459,
+            "positive": 36052,
             "negative": 8407
         },
         "dlc": {
@@ -28692,6 +29707,35 @@ var extrasData =
             "total": 6146,
             "positive": 5799,
             "negative": 347
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "c4ca77c2-850e-4910-a94f-ea8542529fc8": {
@@ -28819,8 +29863,8 @@ var extrasData =
     "8127e699-4f5e-4ddb-815a-1cc96e15a44d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 56386,
-            "positive": 52692,
+            "total": 56387,
+            "positive": 52693,
             "negative": 3694
         },
         "dlc": {
@@ -28856,8 +29900,8 @@ var extrasData =
     "0caef657-87fb-48a7-a964-1b84d7931cc2": {
         "reviews": {
             "description": "Very Positive",
-            "total": 101580,
-            "positive": 86074,
+            "total": 101581,
+            "positive": 86075,
             "negative": 15506
         },
         "dlc": {
@@ -28909,8 +29953,8 @@ var extrasData =
     "6d764e44-57b6-46ac-90b2-1bb9de6e3e6e": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 73422,
-            "positive": 70234,
+            "total": 73423,
+            "positive": 70235,
             "negative": 3188
         }
     },
@@ -29169,6 +30213,35 @@ var extrasData =
             "total": 1327,
             "positive": 1195,
             "negative": 132
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "f92a34e3-4b1e-4f4c-87d1-a16aed8ee8a0": {
@@ -29810,8 +30883,8 @@ var extrasData =
     "4597fd09-c43c-4b7a-9a1b-14993eb01d70": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 13878,
-            "positive": 13377,
+            "total": 13879,
+            "positive": 13378,
             "negative": 501
         },
         "dlc": {
@@ -29847,8 +30920,8 @@ var extrasData =
     "989b037e-7746-45a3-bf50-e86c190192a0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12085,
-            "positive": 11190,
+            "total": 12086,
+            "positive": 11191,
             "negative": 895
         }
     },
@@ -29924,9 +30997,9 @@ var extrasData =
     "f5911e24-699d-4cc1-a1cf-735d0f362e59": {
         "reviews": {
             "description": "Mixed",
-            "total": 713125,
-            "positive": 419009,
-            "negative": 294116
+            "total": 713140,
+            "positive": 419015,
+            "negative": 294125
         },
         "dlc": {
             "count": 42,
@@ -30086,6 +31159,35 @@ var extrasData =
             "total": 186,
             "positive": 151,
             "negative": 35
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "5ea55abb-cbf0-4051-b29b-87ba78bc85de": {
@@ -30107,8 +31209,8 @@ var extrasData =
     "d5b52d31-5dee-4f0b-9fa8-3c41c76c0063": {
         "reviews": {
             "description": "Very Positive",
-            "total": 10411,
-            "positive": 9051,
+            "total": 10412,
+            "positive": 9052,
             "negative": 1360
         }
     },
@@ -30139,9 +31241,9 @@ var extrasData =
     "47a3bdc4-7079-4546-816e-df12399a5ed4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 590,
+            "total": 591,
             "positive": 576,
-            "negative": 14
+            "negative": 15
         },
         "dlc": {
             "count": 2,
@@ -30633,6 +31735,35 @@ var extrasData =
             "total": 218,
             "positive": 200,
             "negative": 18
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "91796946-6a46-41e5-930c-f607897e126d": {
@@ -30654,16 +31785,16 @@ var extrasData =
     "a4687062-7145-4a6d-859c-f72a53f509c5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 26240,
+            "total": 26242,
             "positive": 22042,
-            "negative": 4198
+            "negative": 4200
         }
     },
     "7727645c-ac96-4314-93d4-fe0ef83487cc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 77877,
-            "positive": 66096,
+            "total": 77876,
+            "positive": 66095,
             "negative": 11781
         }
     },
@@ -30726,6 +31857,31 @@ var extrasData =
             "total": 25222,
             "positive": 23601,
             "negative": 1621
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "b03095b5-63e9-4b53-8070-f4d484066ea3": {
@@ -30938,6 +32094,35 @@ var extrasData =
             "total": 62,
             "positive": 54,
             "negative": 8
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "9debbdd0-1134-472f-9379-776436e11c52": {
@@ -31065,8 +32250,8 @@ var extrasData =
     "bedaf17e-a054-4973-b2f6-71140fec4cbb": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 58233,
-            "positive": 55354,
+            "total": 58232,
+            "positive": 55353,
             "negative": 2879
         }
     },
@@ -31201,6 +32386,35 @@ var extrasData =
             "total": 386,
             "positive": 373,
             "negative": 13
+        },
+        "dlc": {
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     },
     "f51f5319-dff5-4b08-a1d1-65fd8e8e4e82": {
@@ -31233,8 +32447,8 @@ var extrasDate =
     "day": 31,
     "month": 5,
     "year": 2025,
-    "hour": 9,
-    "minute": 59,
-    "second": 36,
-    "searchTime": 2059.9252150058746
+    "hour": 11,
+    "minute": 25,
+    "second": 28,
+    "searchTime": 2167.6107556819916
 }
