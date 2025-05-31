@@ -16,6 +16,7 @@ var extrasData =
             "negative": 13
         },
         "dlc": {
+            "description": "-KLAUS- Soundtrack\n\n-KLAUS- Soundtrack\n\n-KLAUS- Soundtrack\n\n-KLAUS- Soundtrack\n\n-KLAUS- Soundtrack\n\n-KLAUS- Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -85,6 +86,7 @@ var extrasData =
             "negative": 347
         },
         "dlc": {
+            "description": "140 Soundtrack\n\n140 Soundtrack\n\n140 Soundtrack\n\n140 Soundtrack\n\n140 Soundtrack\n\n140 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -122,6 +124,7 @@ var extrasData =
             "negative": 378
         },
         "dlc": {
+            "description": "20XX Soundtrack\n20XX - Hawk Character DLC\n20XX - Draco Character DLC\n20XX Soundtrack\n20XX - Hawk Character DLC\n20XX - Draco Character DLC\n20XX Soundtrack\n20XX - Hawk Character DLC\n20XX - Draco Character DLC\n20XX Soundtrack\n20XX - Hawk Character DLC\n20XX - Draco Character DLC\n20XX Soundtrack\n20XX - Hawk Character DLC\n20XX - Draco Character DLC\n20XX Soundtrack\n20XX - Hawk Character DLC\n20XX - Draco Character DLC",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -175,6 +178,7 @@ var extrasData =
             "negative": 147
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -228,6 +232,7 @@ var extrasData =
             "negative": 42
         },
         "dlc": {
+            "description": "A City Sleeps - Soundtrack\n\nA City Sleeps - Soundtrack\n\nA City Sleeps - Soundtrack\n\nA City Sleeps - Soundtrack\n\nA City Sleeps - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -260,11 +265,12 @@ var extrasData =
     "22177e06-2002-488a-8c90-fe3ff3849647": {
         "reviews": {
             "description": "Very Positive",
-            "total": 73326,
-            "positive": 68914,
-            "negative": 4412
+            "total": 73330,
+            "positive": 68917,
+            "negative": 4413
         },
         "dlc": {
+            "description": "A Dance of Fire and Ice - Neo Cosmos\nA Dance of Fire and Ice OST\nA Dance of Fire and Ice - Neo Cosmos OST\nA Dance of Fire and Ice - Neo Cosmos\nA Dance of Fire and Ice OST\nA Dance of Fire and Ice - Neo Cosmos OST\nA Dance of Fire and Ice - Neo Cosmos\nA Dance of Fire and Ice OST\nA Dance of Fire and Ice - Neo Cosmos OST\nA Dance of Fire and Ice - Neo Cosmos\nA Dance of Fire and Ice OST\nA Dance of Fire and Ice - Neo Cosmos OST\nA Dance of Fire and Ice - Neo Cosmos\nA Dance of Fire and Ice OST\nA Dance of Fire and Ice - Neo Cosmos OST\nA Dance of Fire and Ice - Neo Cosmos\nA Dance of Fire and Ice OST\nA Dance of Fire and Ice - Neo Cosmos OST",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -305,11 +311,12 @@ var extrasData =
     "21144d8d-c943-4130-8349-6e768220cfc9": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 51652,
-            "positive": 50543,
+            "total": 51653,
+            "positive": 50544,
             "negative": 1109
         },
         "dlc": {
+            "description": "A Hat in Time - Nyakuza Metro + Online Party\nA Hat in Time - Seal the Deal\nA Hat in Time - Soundtrack\nA Hat in Time - B-Side Soundtrack\nA Hat in Time - Vanessa's Curse\nA Hat in Time - Nyakuza Metro + Online Party\nA Hat in Time - Seal the Deal\nA Hat in Time - Soundtrack\nA Hat in Time - B-Side Soundtrack\nA Hat in Time - Vanessa's Curse\nA Hat in Time - Nyakuza Metro + Online Party\nA Hat in Time - Seal the Deal\nA Hat in Time - Soundtrack\nA Hat in Time - B-Side Soundtrack\nA Hat in Time - Vanessa's Curse\nA Hat in Time - Nyakuza Metro + Online Party\nA Hat in Time - Seal the Deal\nA Hat in Time - Soundtrack\nA Hat in Time - B-Side Soundtrack\nA Hat in Time - Vanessa's Curse\nA Hat in Time - Nyakuza Metro + Online Party\nA Hat in Time - Seal the Deal\nA Hat in Time - Soundtrack\nA Hat in Time - B-Side Soundtrack\nA Hat in Time - Vanessa's Curse\nA Hat in Time - Nyakuza Metro + Online Party\nA Hat in Time - Seal the Deal\nA Hat in Time - Soundtrack\nA Hat in Time - B-Side Soundtrack\nA Hat in Time - Vanessa's Curse",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -355,6 +362,7 @@ var extrasData =
             "negative": 25
         },
         "dlc": {
+            "description": "A Hole New World - Soundtrack\n\nA Hole New World - Soundtrack\n\nA Hole New World - Soundtrack\n\nA Hole New World - Soundtrack\n\nA Hole New World - Soundtrack\n\nA Hole New World - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -392,6 +400,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "A Most Extraordinary Gnome Soundtrack\n\nA Most Extraordinary Gnome Soundtrack\n\nA Most Extraordinary Gnome Soundtrack\n\nA Most Extraordinary Gnome Soundtrack\n\nA Most Extraordinary Gnome Soundtrack\n\nA Most Extraordinary Gnome Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -437,6 +446,7 @@ var extrasData =
             "negative": 10
         },
         "dlc": {
+            "description": "A Pixel Story Original Soundtrack\n\nA Pixel Story Original Soundtrack\n\nA Pixel Story Original Soundtrack\n\nA Pixel Story Original Soundtrack\n\nA Pixel Story Original Soundtrack\n\nA Pixel Story Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -474,6 +484,7 @@ var extrasData =
             "negative": 103
         },
         "dlc": {
+            "description": "A Robot Named Fight Original Soundtrack\n\nA Robot Named Fight Original Soundtrack\n\nA Robot Named Fight Original Soundtrack\n\nA Robot Named Fight Original Soundtrack\n\nA Robot Named Fight Original Soundtrack\n\nA Robot Named Fight Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -543,6 +554,7 @@ var extrasData =
             "negative": 154
         },
         "dlc": {
+            "description": "Aaero - 1000DaysWasted - Drum & Bass Pack\nAaero 'COMET'\nAaero 'SOL'\nAaero 'PHASER'\nAaero - Monstercat Pack\nAaero - 1000DaysWasted - Drum & Bass Pack\nAaero 'COMET'\nAaero 'SOL'\nAaero 'PHASER'\nAaero - Monstercat Pack\nAaero - 1000DaysWasted - Drum & Bass Pack\nAaero 'COMET'\nAaero 'SOL'\nAaero 'PHASER'\nAaero - Monstercat Pack\nAaero - 1000DaysWasted - Drum & Bass Pack\nAaero 'COMET'\nAaero 'SOL'\nAaero 'PHASER'\nAaero - Monstercat Pack\nAaero - 1000DaysWasted - Drum & Bass Pack\nAaero 'COMET'\nAaero 'SOL'\nAaero 'PHASER'\nAaero - Monstercat Pack\nAaero - 1000DaysWasted - Drum & Bass Pack\nAaero 'COMET'\nAaero 'SOL'\nAaero 'PHASER'\nAaero - Monstercat Pack",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -588,6 +600,7 @@ var extrasData =
             "negative": 319
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -625,6 +638,7 @@ var extrasData =
             "negative": 100
         },
         "dlc": {
+            "description": "Action Henk Soundtrack\n\nAction Henk Soundtrack\n\nAction Henk Soundtrack\n\nAction Henk Soundtrack\n\nAction Henk Soundtrack\n\nAction Henk Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -662,6 +676,7 @@ var extrasData =
             "negative": 28
         },
         "dlc": {
+            "description": "Aerial_Knights Never Yield Soundtrack\n\nAerial_Knights Never Yield Soundtrack\n\nAerial_Knights Never Yield Soundtrack\n\nAerial_Knights Never Yield Soundtrack\n\nAerial_Knights Never Yield Soundtrack\n\nAerial_Knights Never Yield Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -699,6 +714,7 @@ var extrasData =
             "negative": 414
         },
         "dlc": {
+            "description": "Aeterna Noctis: Virtuoso\nAeterna Noctis: Official Soundtrack\nAeterna Chronicles: Sprout of Hate\nAeterna Noctis: Artistic Map\nAeterna Noctis: Exclusive Wallpapers\nAeterna Noctis: Concert of the Night\nAeterna Noctis \"Virtuoso\": Soundtrack\nAeterna Noctis: Virtuoso\nAeterna Noctis: Official Soundtrack\nAeterna Chronicles: Sprout of Hate\nAeterna Noctis: Artistic Map\nAeterna Noctis: Exclusive Wallpapers\nAeterna Noctis: Concert of the Night\nAeterna Noctis \"Virtuoso\": Soundtrack\nAeterna Noctis: Virtuoso\nAeterna Noctis: Official Soundtrack\nAeterna Chronicles: Sprout of Hate\nAeterna Noctis: Artistic Map\nAeterna Noctis: Exclusive Wallpapers\nAeterna Noctis: Concert of the Night\nAeterna Noctis \"Virtuoso\": Soundtrack\nAeterna Noctis: Virtuoso\nAeterna Noctis: Official Soundtrack\nAeterna Chronicles: Sprout of Hate\nAeterna Noctis: Artistic Map\nAeterna Noctis: Exclusive Wallpapers\nAeterna Noctis: Concert of the Night\nAeterna Noctis \"Virtuoso\": Soundtrack\nAeterna Noctis: Virtuoso\nAeterna Noctis: Official Soundtrack\nAeterna Chronicles: Sprout of Hate\nAeterna Noctis: Artistic Map\nAeterna Noctis: Exclusive Wallpapers\nAeterna Noctis: Concert of the Night\nAeterna Noctis \"Virtuoso\": Soundtrack\nAeterna Noctis: Virtuoso\nAeterna Noctis: Official Soundtrack\nAeterna Chronicles: Sprout of Hate\nAeterna Noctis: Artistic Map\nAeterna Noctis: Exclusive Wallpapers\nAeterna Noctis: Concert of the Night\nAeterna Noctis \"Virtuoso\": Soundtrack",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -736,6 +752,7 @@ var extrasData =
             "negative": 5
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -768,11 +785,12 @@ var extrasData =
     "a8783c0a-ac89-4d33-ae1d-1b387c10bd42": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8380,
-            "positive": 6510,
-            "negative": 1870
+            "total": 8382,
+            "positive": 6511,
+            "negative": 1871
         },
         "dlc": {
+            "description": "Afterimage: Soundtrack\n\nAfterimage: Artbook\n\nAfterimage: Soundtrack\n\nAfterimage: Artbook\n\nAfterimage: Soundtrack\n\nAfterimage: Artbook\n\nAfterimage: Soundtrack\n\nAfterimage: Artbook\n\nAfterimage: Soundtrack\n\nAfterimage: Artbook\n\nAfterimage: Soundtrack\n\nAfterimage: Artbook",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -818,6 +836,7 @@ var extrasData =
             "negative": 25
         },
         "dlc": {
+            "description": "Aim Climb Soundtrack\n\nAim Climb Soundtrack\n\nAim Climb Soundtrack\n\nAim Climb Soundtrack\n\nAim Climb Soundtrack\n\nAim Climb Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -871,6 +890,7 @@ var extrasData =
             "negative": 125
         },
         "dlc": {
+            "description": "Akane: Soundtrack\n\nAkane: Soundtrack\n\nAkane: Soundtrack\n\nAkane: Soundtrack\n\nAkane: Soundtrack\n\nAkane: Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -908,6 +928,7 @@ var extrasData =
             "negative": 44
         },
         "dlc": {
+            "description": "Alice Escaped! - Original Soundtrack\n\nAlice Escaped! - Original Soundtrack\n\nAlice Escaped! - Original Soundtrack\n\nAlice Escaped! - Original Soundtrack\n\nAlice Escaped! - Original Soundtrack\n\nAlice Escaped! - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -945,6 +966,7 @@ var extrasData =
             "negative": 206
         },
         "dlc": {
+            "description": "Alien Shooter - Fight for Life\n\nAlien Shooter - The Experiment\n\nAlien Shooter - Fight for Life\n\nAlien Shooter - The Experiment\n\nAlien Shooter - Fight for Life\n\nAlien Shooter - The Experiment\n\nAlien Shooter - Fight for Life\n\nAlien Shooter - The Experiment\n\nAlien Shooter - Fight for Life\n\nAlien Shooter - The Experiment\n\nAlien Shooter - Fight for Life\n\nAlien Shooter - The Experiment",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -990,6 +1012,7 @@ var extrasData =
             "negative": 4114
         },
         "dlc": {
+            "description": "Alien: Isolation - Last Survivor\nAlien: Isolation - Crew Expendable\nAlien: Isolation - The Trigger\nAlien: Isolation - Lost Contact\nAlien: Isolation - Safe Haven\nAlien: Isolation - Corporate Lockdown\nAlien: Isolation - Trauma\nAlien: Isolation - Last Survivor\nAlien: Isolation - Crew Expendable\nAlien: Isolation - The Trigger\nAlien: Isolation - Lost Contact\nAlien: Isolation - Safe Haven\nAlien: Isolation - Corporate Lockdown\nAlien: Isolation - Trauma\nAlien: Isolation - Last Survivor\nAlien: Isolation - Crew Expendable\nAlien: Isolation - The Trigger\nAlien: Isolation - Lost Contact\nAlien: Isolation - Safe Haven\nAlien: Isolation - Corporate Lockdown\nAlien: Isolation - Trauma\nAlien: Isolation - Last Survivor\nAlien: Isolation - Crew Expendable\nAlien: Isolation - The Trigger\nAlien: Isolation - Lost Contact\nAlien: Isolation - Safe Haven\nAlien: Isolation - Corporate Lockdown\nAlien: Isolation - Trauma\nAlien: Isolation - Last Survivor\nAlien: Isolation - Crew Expendable\nAlien: Isolation - The Trigger\nAlien: Isolation - Lost Contact\nAlien: Isolation - Safe Haven\nAlien: Isolation - Corporate Lockdown\nAlien: Isolation - Trauma\nAlien: Isolation - Last Survivor\nAlien: Isolation - Crew Expendable\nAlien: Isolation - The Trigger\nAlien: Isolation - Lost Contact\nAlien: Isolation - Safe Haven\nAlien: Isolation - Corporate Lockdown\nAlien: Isolation - Trauma",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -1030,11 +1053,12 @@ var extrasData =
     "a685ad98-c39b-402c-a448-6568aae0d33d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 19931,
-            "positive": 18153,
+            "total": 19933,
+            "positive": 18155,
             "negative": 1778
         },
         "dlc": {
+            "description": "Aliens vs. Predator Swarm Map Pack\n\nAliens vs Predator\u2122 Bughunt Map Pack\n\nAliens vs. Predator Swarm Map Pack\n\nAliens vs Predator\u2122 Bughunt Map Pack\n\nAliens vs. Predator Swarm Map Pack\n\nAliens vs Predator\u2122 Bughunt Map Pack\n\nAliens vs. Predator Swarm Map Pack\n\nAliens vs Predator\u2122 Bughunt Map Pack\n\nAliens vs. Predator Swarm Map Pack\n\nAliens vs Predator\u2122 Bughunt Map Pack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -1076,6 +1100,7 @@ var extrasData =
             "negative": 20
         },
         "dlc": {
+            "description": "ALLTYNEX Second Original Soundtrack\n\nALLTYNEX Second Original Soundtrack\n\nALLTYNEX Second Original Soundtrack\n\nALLTYNEX Second Original Soundtrack\n\nALLTYNEX Second Original Soundtrack\n\nALLTYNEX Second Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1116,8 +1141,8 @@ var extrasData =
     "d7e7a54e-78cb-4504-99c8-afa06a028920": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 10758,
-            "positive": 8586,
+            "total": 10759,
+            "positive": 8587,
             "negative": 2172
         }
     },
@@ -1129,6 +1154,7 @@ var extrasData =
             "negative": 167
         },
         "dlc": {
+            "description": "Alwa's Awakening Soundtrack (Deluxe Edition)\n\nAlwa's Awakening Soundtrack (Deluxe Edition)\n\nAlwa's Awakening Soundtrack (Deluxe Edition)\n\nAlwa's Awakening Soundtrack (Deluxe Edition)\n\nAlwa's Awakening Soundtrack (Deluxe Edition)\n\nAlwa's Awakening Soundtrack (Deluxe Edition)",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1190,6 +1216,7 @@ var extrasData =
             "negative": 55
         },
         "dlc": {
+            "description": "Anarcute - Official Soundtrack\n\nAnarcute - Official Soundtrack\n\nAnarcute - Official Soundtrack\n\nAnarcute - Official Soundtrack\n\nAnarcute - Official Soundtrack\n\nAnarcute - Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1238,11 +1265,12 @@ var extrasData =
     "fa1ea06b-1c60-4827-bdc0-8b69dd7c963a": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1413,
-            "positive": 1400,
+            "total": 1414,
+            "positive": 1401,
             "negative": 13
         },
         "dlc": {
+            "description": "Angel at Dusk Original Soundtrack\n\nAngel at Dusk Original Soundtrack\n\nAngel at Dusk Original Soundtrack\n\nAngel at Dusk Original Soundtrack\n\nAngel at Dusk Original Soundtrack\n\nAngel at Dusk Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1275,11 +1303,12 @@ var extrasData =
     "2929c6cc-6f31-47e9-9ebd-f8e1e428ec12": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2977,
-            "positive": 2796,
+            "total": 2978,
+            "positive": 2797,
             "negative": 181
         },
         "dlc": {
+            "description": "Anger Foot Soundtrack\n\nAnger Foot Soundtrack\n\nAnger Foot Soundtrack\n\nAnger Foot Soundtrack\n\nAnger Foot Soundtrack\n\nAnger Foot Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1317,6 +1346,7 @@ var extrasData =
             "negative": 366
         },
         "dlc": {
+            "description": "Angry Video Game Nerd Adventures Original Soundtrack\n\nAngry Video Game Nerd Adventures Original Soundtrack\n\nAngry Video Game Nerd Adventures Original Soundtrack\n\nAngry Video Game Nerd Adventures Original Soundtrack\n\nAngry Video Game Nerd Adventures Original Soundtrack\n\nAngry Video Game Nerd Adventures Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1354,6 +1384,7 @@ var extrasData =
             "negative": 35
         },
         "dlc": {
+            "description": "Angry Video Game Nerd I & II Deluxe Official Soundtrack\n\nAngry Video Game Nerd I & II Deluxe Official Soundtrack\n\nAngry Video Game Nerd I & II Deluxe Official Soundtrack\n\nAngry Video Game Nerd I & II Deluxe Official Soundtrack\n\nAngry Video Game Nerd I & II Deluxe Official Soundtrack\n\nAngry Video Game Nerd I & II Deluxe Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1391,6 +1422,7 @@ var extrasData =
             "negative": 87
         },
         "dlc": {
+            "description": "Angry Video Game Nerd II: ASSimilation Original Soundtrack\n\nAngry Video Game Nerd II: ASSimilation Original Soundtrack\n\nAngry Video Game Nerd II: ASSimilation Original Soundtrack\n\nAngry Video Game Nerd II: ASSimilation Original Soundtrack\n\nAngry Video Game Nerd II: ASSimilation Original Soundtrack\n\nAngry Video Game Nerd II: ASSimilation Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1452,6 +1484,7 @@ var extrasData =
             "negative": 21
         },
         "dlc": {
+            "description": "Juanito Arcade Mayhem - Soundtrack\nJuanito Arcade Mayhem - Artbook\nJuanito Arcade Mayhem - The Animation\nJuanito Arcade Mayhem - Soundtrack\nJuanito Arcade Mayhem - Artbook\nJuanito Arcade Mayhem - The Animation\nJuanito Arcade Mayhem - Soundtrack\nJuanito Arcade Mayhem - Artbook\nJuanito Arcade Mayhem - The Animation\nJuanito Arcade Mayhem - Soundtrack\nJuanito Arcade Mayhem - Artbook\nJuanito Arcade Mayhem - The Animation\nJuanito Arcade Mayhem - Soundtrack\nJuanito Arcade Mayhem - Artbook\nJuanito Arcade Mayhem - The Animation\nJuanito Arcade Mayhem - Soundtrack\nJuanito Arcade Mayhem - Artbook\nJuanito Arcade Mayhem - The Animation",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -1521,6 +1554,7 @@ var extrasData =
             "negative": 1911
         },
         "dlc": {
+            "description": "Arizona Sunshine\u00ae - The Damned DLC\n\nArizona Sunshine\u00ae - Dead Man DLC\n\nArizona Sunshine\u00ae - The Damned DLC\n\nArizona Sunshine\u00ae - Dead Man DLC\n\nArizona Sunshine\u00ae - The Damned DLC\n\nArizona Sunshine\u00ae - Dead Man DLC\n\nArizona Sunshine\u00ae - The Damned DLC\n\nArizona Sunshine\u00ae - Dead Man DLC\n\nArizona Sunshine\u00ae - The Damned DLC\n\nArizona Sunshine\u00ae - Dead Man DLC\n\nArizona Sunshine\u00ae - The Damned DLC\n\nArizona Sunshine\u00ae - Dead Man DLC",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -1561,9 +1595,9 @@ var extrasData =
     "65ae7665-90dd-4ba7-b05d-7f5fbe34cc69": {
         "reviews": {
             "description": "Very Positive",
-            "total": 76892,
-            "positive": 70286,
-            "negative": 6606
+            "total": 76898,
+            "positive": 70291,
+            "negative": 6607
         }
     },
     "211bb6fa-4564-4cd0-9a7b-4b8c9773434e": {
@@ -1582,6 +1616,7 @@ var extrasData =
             "negative": 1143
         },
         "dlc": {
+            "description": "Ashen - Nightstorm Isle\n\nAshen - Original Soundtrack\n\nAshen - Nightstorm Isle\n\nAshen - Original Soundtrack\n\nAshen - Nightstorm Isle\n\nAshen - Original Soundtrack\n\nAshen - Nightstorm Isle\n\nAshen - Original Soundtrack\n\nAshen - Nightstorm Isle\n\nAshen - Original Soundtrack\n\nAshen - Nightstorm Isle\n\nAshen - Original Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -1619,6 +1654,7 @@ var extrasData =
             "negative": 115
         },
         "dlc": {
+            "description": "Assault Android Cactus Original Soundtrack\n\nAssault Android Cactus Original Soundtrack\n\nAssault Android Cactus Original Soundtrack\n\nAssault Android Cactus Original Soundtrack\n\nAssault Android Cactus Original Soundtrack\n\nAssault Android Cactus Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1664,6 +1700,7 @@ var extrasData =
             "negative": 114
         },
         "dlc": {
+            "description": "Astalon: Tears of the Earth - Original Sound Version\nAstalon: Tears of the Earth - Super Arrange Version\nAstalon: Tears of the Earth - Art and Creation\nAstalon: Tears of the Earth - Bonus Tracks\nAstalon: Tears of the Earth - Original Sound Version\nAstalon: Tears of the Earth - Super Arrange Version\nAstalon: Tears of the Earth - Art and Creation\nAstalon: Tears of the Earth - Bonus Tracks\nAstalon: Tears of the Earth - Original Sound Version\nAstalon: Tears of the Earth - Super Arrange Version\nAstalon: Tears of the Earth - Art and Creation\nAstalon: Tears of the Earth - Bonus Tracks\nAstalon: Tears of the Earth - Original Sound Version\nAstalon: Tears of the Earth - Super Arrange Version\nAstalon: Tears of the Earth - Art and Creation\nAstalon: Tears of the Earth - Bonus Tracks\nAstalon: Tears of the Earth - Original Sound Version\nAstalon: Tears of the Earth - Super Arrange Version\nAstalon: Tears of the Earth - Art and Creation\nAstalon: Tears of the Earth - Bonus Tracks\nAstalon: Tears of the Earth - Original Sound Version\nAstalon: Tears of the Earth - Super Arrange Version\nAstalon: Tears of the Earth - Art and Creation\nAstalon: Tears of the Earth - Bonus Tracks",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -1701,6 +1738,7 @@ var extrasData =
             "negative": 186
         },
         "dlc": {
+            "description": "Astebreed - Original Soundtrack\n\nAstebreed - Original Soundtrack\n\nAstebreed - Original Soundtrack\n\nAstebreed - Original Soundtrack\n\nAstebreed - Original Soundtrack\n\nAstebreed - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1770,6 +1808,7 @@ var extrasData =
             "negative": 12
         },
         "dlc": {
+            "description": "Ato Soundtrack\n\nAto Soundtrack\n\nAto Soundtrack\n\nAto Soundtrack\n\nAto Soundtrack\n\nAto Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1807,6 +1846,7 @@ var extrasData =
             "negative": 442
         },
         "dlc": {
+            "description": "Atomicrops Soundtrack\nAtomicrops: Deerly Beloved\nAtomicrops: Reap What You Crow\nAtomicrops Soundtrack\nAtomicrops: Deerly Beloved\nAtomicrops: Reap What You Crow\nAtomicrops Soundtrack\nAtomicrops: Deerly Beloved\nAtomicrops: Reap What You Crow\nAtomicrops Soundtrack\nAtomicrops: Deerly Beloved\nAtomicrops: Reap What You Crow\nAtomicrops Soundtrack\nAtomicrops: Deerly Beloved\nAtomicrops: Reap What You Crow\nAtomicrops Soundtrack\nAtomicrops: Deerly Beloved\nAtomicrops: Reap What You Crow",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -1844,6 +1884,7 @@ var extrasData =
             "negative": 44
         },
         "dlc": {
+            "description": "RunGunJumpGun - Soundtrack/Special Edition Upgrade\n\nRunGunJumpGun - Soundtrack/Special Edition Upgrade\n\nRunGunJumpGun - Soundtrack/Special Edition Upgrade\n\nRunGunJumpGun - Soundtrack/Special Edition Upgrade\n\nRunGunJumpGun - Soundtrack/Special Edition Upgrade\n\nRunGunJumpGun - Soundtrack/Special Edition Upgrade",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1881,6 +1922,7 @@ var extrasData =
             "negative": 61
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1918,6 +1960,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "Attack of the Karens Soundtrack\n\nAttack of the Karens Soundtrack\n\nAttack of the Karens Soundtrack\n\nAttack of the Karens Soundtrack\n\nAttack of the Karens Soundtrack\n\nAttack of the Karens Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -1955,6 +1998,7 @@ var extrasData =
             "negative": 87
         },
         "dlc": {
+            "description": "AUDICA - 5 Seconds of Summer - \"Youngblood\"\nAUDICA - Ariana Grande - \"Into You\"\nAUDICA - Billie Eilish - \"bad guy\"\nAUDICA - Imagine Dragons - \"Believer\"\nAUDICA - Post Malone - \"Better Now\"\nAUDICA 2019 Season Pass\nAUDICA - Fall Out Boy - \"Centuries\"\nAUDICA - LMFAO - \"Sorry For Party Rocking\"\nAUDICA - Maroon 5 ft. Christina Aguilera - \"Moves Like Jagger\"\nAUDICA - OneRepublic - \"Counting Stars\"\nAUDICA - Panic! At The Disco - \"High Hopes\"\nAUDICA - The Chainsmokers ft. Daya - \"Don't Let Me Down\"\nAUDICA - Dua Lipa - \"New Rules\"\nAUDICA - Nicki Minaj - \"Starships\"\nAUDICA - Sia ft. Kendrick Lamar - \"The Greatest\"\nAUDICA - Zedd, Maren Morris & Grey - \"The Middle\"\nAUDICA - CHVRCHES - \"The Mother We Share\"\nAUDICA - Lizzo - \"Juice\"\nAUDICA - Flo Rida ft. Sage The Gemini and Lookas - \"GDFR\"\nAUDICA - The Weeknd - \"Can't Feel My Face\"\nAUDICA - 5 Seconds of Summer - \"Youngblood\"\nAUDICA - Ariana Grande - \"Into You\"\nAUDICA - Billie Eilish - \"bad guy\"\nAUDICA - Imagine Dragons - \"Believer\"\nAUDICA - Post Malone - \"Better Now\"\nAUDICA 2019 Season Pass\nAUDICA - Fall Out Boy - \"Centuries\"\nAUDICA - LMFAO - \"Sorry For Party Rocking\"\nAUDICA - Maroon 5 ft. Christina Aguilera - \"Moves Like Jagger\"\nAUDICA - OneRepublic - \"Counting Stars\"\nAUDICA - Panic! At The Disco - \"High Hopes\"\nAUDICA - The Chainsmokers ft. Daya - \"Don't Let Me Down\"\nAUDICA - Dua Lipa - \"New Rules\"\nAUDICA - Nicki Minaj - \"Starships\"\nAUDICA - Sia ft. Kendrick Lamar - \"The Greatest\"\nAUDICA - Zedd, Maren Morris & Grey - \"The Middle\"\nAUDICA - CHVRCHES - \"The Mother We Share\"\nAUDICA - Lizzo - \"Juice\"\nAUDICA - Flo Rida ft. Sage The Gemini and Lookas - \"GDFR\"\nAUDICA - The Weeknd - \"Can't Feel My Face\"\nAUDICA - 5 Seconds of Summer - \"Youngblood\"\nAUDICA - Ariana Grande - \"Into You\"\nAUDICA - Billie Eilish - \"bad guy\"\nAUDICA - Imagine Dragons - \"Believer\"\nAUDICA - Post Malone - \"Better Now\"\nAUDICA 2019 Season Pass\nAUDICA - Fall Out Boy - \"Centuries\"\nAUDICA - LMFAO - \"Sorry For Party Rocking\"\nAUDICA - Maroon 5 ft. Christina Aguilera - \"Moves Like Jagger\"\nAUDICA - OneRepublic - \"Counting Stars\"\nAUDICA - Panic! At The Disco - \"High Hopes\"\nAUDICA - The Chainsmokers ft. Daya - \"Don't Let Me Down\"\nAUDICA - Dua Lipa - \"New Rules\"\nAUDICA - Nicki Minaj - \"Starships\"\nAUDICA - Sia ft. Kendrick Lamar - \"The Greatest\"\nAUDICA - Zedd, Maren Morris & Grey - \"The Middle\"\nAUDICA - CHVRCHES - \"The Mother We Share\"\nAUDICA - Lizzo - \"Juice\"\nAUDICA - Flo Rida ft. Sage The Gemini and Lookas - \"GDFR\"\nAUDICA - The Weeknd - \"Can't Feel My Face\"\nAUDICA - 5 Seconds of Summer - \"Youngblood\"\nAUDICA - Ariana Grande - \"Into You\"\nAUDICA - Billie Eilish - \"bad guy\"\nAUDICA - Imagine Dragons - \"Believer\"\nAUDICA - Post Malone - \"Better Now\"\nAUDICA - Fall Out Boy - \"Centuries\"\nAUDICA - LMFAO - \"Sorry For Party Rocking\"\nAUDICA - Maroon 5 ft. Christina Aguilera - \"Moves Like Jagger\"\nAUDICA - OneRepublic - \"Counting Stars\"\nAUDICA - Panic! At The Disco - \"High Hopes\"\nAUDICA - The Chainsmokers ft. Daya - \"Don't Let Me Down\"\nAUDICA - Dua Lipa - \"New Rules\"\nAUDICA - Nicki Minaj - \"Starships\"\nAUDICA - Sia ft. Kendrick Lamar - \"The Greatest\"\nAUDICA - Zedd, Maren Morris & Grey - \"The Middle\"\nAUDICA - CHVRCHES - \"The Mother We Share\"\nAUDICA - Lizzo - \"Juice\"\nAUDICA - Flo Rida ft. Sage The Gemini and Lookas - \"GDFR\"\nAUDICA - The Weeknd - \"Can't Feel My Face\"\nAUDICA - 5 Seconds of Summer - \"Youngblood\"\nAUDICA - Ariana Grande - \"Into You\"\nAUDICA - Billie Eilish - \"bad guy\"\nAUDICA - Imagine Dragons - \"Believer\"\nAUDICA - Post Malone - \"Better Now\"\nAUDICA 2019 Season Pass\nAUDICA - Fall Out Boy - \"Centuries\"\nAUDICA - LMFAO - \"Sorry For Party Rocking\"\nAUDICA - Maroon 5 ft. Christina Aguilera - \"Moves Like Jagger\"\nAUDICA - OneRepublic - \"Counting Stars\"\nAUDICA - Panic! At The Disco - \"High Hopes\"\nAUDICA - The Chainsmokers ft. Daya - \"Don't Let Me Down\"\nAUDICA - Dua Lipa - \"New Rules\"\nAUDICA - Nicki Minaj - \"Starships\"\nAUDICA - Sia ft. Kendrick Lamar - \"The Greatest\"\nAUDICA - Zedd, Maren Morris & Grey - \"The Middle\"\nAUDICA - CHVRCHES - \"The Mother We Share\"\nAUDICA - Lizzo - \"Juice\"\nAUDICA - Flo Rida ft. Sage The Gemini and Lookas - \"GDFR\"\nAUDICA - The Weeknd - \"Can't Feel My Face\"\nAUDICA - 5 Seconds of Summer - \"Youngblood\"\nAUDICA - Ariana Grande - \"Into You\"\nAUDICA - Billie Eilish - \"bad guy\"\nAUDICA - Imagine Dragons - \"Believer\"\nAUDICA - Post Malone - \"Better Now\"\nAUDICA 2019 Season Pass\nAUDICA - Fall Out Boy - \"Centuries\"\nAUDICA - LMFAO - \"Sorry For Party Rocking\"\nAUDICA - Maroon 5 ft. Christina Aguilera - \"Moves Like Jagger\"\nAUDICA - OneRepublic - \"Counting Stars\"\nAUDICA - Panic! At The Disco - \"High Hopes\"\nAUDICA - The Chainsmokers ft. Daya - \"Don't Let Me Down\"\nAUDICA - Dua Lipa - \"New Rules\"\nAUDICA - Nicki Minaj - \"Starships\"\nAUDICA - Sia ft. Kendrick Lamar - \"The Greatest\"\nAUDICA - Zedd, Maren Morris & Grey - \"The Middle\"\nAUDICA - CHVRCHES - \"The Mother We Share\"\nAUDICA - Lizzo - \"Juice\"\nAUDICA - Flo Rida ft. Sage The Gemini and Lookas - \"GDFR\"\nAUDICA - The Weeknd - \"Can't Feel My Face\"",
             "count": 33,
             "priceData": {
                 "USD": {
@@ -2016,6 +2060,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "Awakened Evil Soundtrack\n\nAwakened Evil Soundtrack\n\nAwakened Evil Soundtrack\n\nAwakened Evil Soundtrack\n\nAwakened Evil Soundtrack\n\nAwakened Evil Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2048,11 +2093,12 @@ var extrasData =
     "0cb578fd-154a-4f50-887c-fe7343d637eb": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6062,
+            "total": 6061,
             "positive": 5512,
-            "negative": 550
+            "negative": 549
         },
         "dlc": {
+            "description": "Axiom Verge Original Soundtrack\n\nAxiom Verge Original Soundtrack\n\nAxiom Verge Original Soundtrack\n\nAxiom Verge Original Soundtrack\n\nAxiom Verge Original Soundtrack\n\nAxiom Verge Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2106,6 +2152,7 @@ var extrasData =
             "negative": 251
         },
         "dlc": {
+            "description": "AZURE STRIKER GUNVOLT OFFICIAL SOUNDTRACK\n\nAZURE PHOSPHORESCENCE\n\nAZURE STRIKER GUNVOLT OFFICIAL SOUNDTRACK\n\nAZURE PHOSPHORESCENCE\n\nAZURE STRIKER GUNVOLT OFFICIAL SOUNDTRACK\n\nAZURE PHOSPHORESCENCE\n\nAZURE STRIKER GUNVOLT OFFICIAL SOUNDTRACK\n\nAZURE PHOSPHORESCENCE\n\nAZURE STRIKER GUNVOLT OFFICIAL SOUNDTRACK\n\nAZURE PHOSPHORESCENCE\n\nAZURE STRIKER GUNVOLT OFFICIAL SOUNDTRACK\n\nAZURE PHOSPHORESCENCE",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -2151,6 +2198,7 @@ var extrasData =
             "negative": 26
         },
         "dlc": {
+            "description": "B.I.O.T.A. Soundtrack\n\nB.I.O.T.A. Soundtrack\n\nB.I.O.T.A. Soundtrack\n\nB.I.O.T.A. Soundtrack\n\nB.I.O.T.A. Soundtrack\n\nB.I.O.T.A. Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -2183,11 +2231,12 @@ var extrasData =
     "5e57393b-c95a-44c5-807b-ed0c8db8066a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12167,
-            "positive": 11340,
+            "total": 12168,
+            "positive": 11341,
             "negative": 827
         },
         "dlc": {
+            "description": "Bad North: Jotunn Edition Deluxe Edition Upgrade\n\nBad North: Jotunn Edition Deluxe Edition Upgrade\n\nBad North: Jotunn Edition Deluxe Edition Upgrade\n\nBad North: Jotunn Edition Deluxe Edition Upgrade\n\nBad North: Jotunn Edition Deluxe Edition Upgrade\n\nBad North: Jotunn Edition Deluxe Edition Upgrade",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2220,11 +2269,12 @@ var extrasData =
     "08615566-f2ee-4379-8e80-0e7175088d9a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3071,
-            "positive": 2633,
+            "total": 3072,
+            "positive": 2634,
             "negative": 438
         },
         "dlc": {
+            "description": "BADLAND: Game of the Year Edition - Digital Art Booklet & Ambient Soundtrack\n\nBADLAND: Game of the Year Edition - Digital Art Booklet & Ambient Soundtrack\n\nBADLAND: Game of the Year Edition - Digital Art Booklet & Ambient Soundtrack\n\nBADLAND: Game of the Year Edition - Digital Art Booklet & Ambient Soundtrack\n\nBADLAND: Game of the Year Edition - Digital Art Booklet & Ambient Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2265,11 +2315,12 @@ var extrasData =
     "56be6b0c-365c-4741-a60f-84743133a55a": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 152610,
-            "positive": 149591,
+            "total": 152636,
+            "positive": 149617,
             "negative": 3019
         },
         "dlc": {
+            "description": "Balatro Soundtrack\n\nBalatro Soundtrack\n\nBalatro Soundtrack\n\nBalatro Soundtrack\n\nBalatro Soundtrack\n\nBalatro Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2331,6 +2382,7 @@ var extrasData =
             "negative": 1733
         },
         "dlc": {
+            "description": "Bastion: Original Soundtrack\n\nBastion: Original Soundtrack\n\nBastion: Original Soundtrack\n\nBastion: Original Soundtrack\n\nBastion: Original Soundtrack\n\nBastion: Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2368,6 +2420,7 @@ var extrasData =
             "negative": 6
         },
         "dlc": {
+            "description": "Bat to the Heavens Soundtrack\n\nBat to the Heavens Soundtrack\n\nBat to the Heavens Soundtrack\n\nBat to the Heavens Soundtrack\n\nBat to the Heavens Soundtrack\n\nBat to the Heavens Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2401,10 +2454,11 @@ var extrasData =
         "reviews": {
             "description": "Very Positive",
             "total": 139888,
-            "positive": 123987,
-            "negative": 15901
+            "positive": 123988,
+            "negative": 15900
         },
         "dlc": {
+            "description": "Batman\u2122: Arkham Knight Season Pass\nBatman\u2122: Arkham Knight - A Matter of Family\nBatman\u2122: Arkham Knight - Harley Quinn Story Pack\nBatman\u2122: Arkham Knight - Red Hood Story Pack\nBatman\u2122: Arkham Knight - Prototype Batmobile Skin\nBatman\u2122: Arkham Knight - Batman Classic TV Series Batmobile Pack\nBatman\u2122: Arkham Knight - 1st Appearance Batman Skin\nBatman\u2122: Arkham Knight - Bat-Family Skin Pack\nBatman\u2122: Arkham Knight - 1989 Movie Batmobile Pack\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #1\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #2\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #3\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #4\nBatman\u2122: Arkham Knight Crime Fighter Challenge Pack #5\nBatman\u2122: Arkham Knight - GCPD Lockdown\nBatman\u2122: Arkham Knight - 2008 Tumbler Batmobile Pack\nBatman\u2122: Arkham Knight - Catwoman's Revenge\nBatman\u2122: Arkham Knight - Robin and Batmobile Skins Pack\nBatman\u2122: Arkham Knight - WayneTech Track Pack\nBatman\u2122: Arkham Knight - A Flip of a Coin\nBatman\u2122: Arkham Knight - Season of Infamy: Most Wanted Expansion\nBatman\u2122: Arkham Knight - 1970s Batman Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Riddler Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Original Arkham Batmobile\nBatman\u2122: Arkham Knight Season Pass\nBatman\u2122: Arkham Knight - A Matter of Family\nBatman\u2122: Arkham Knight - Harley Quinn Story Pack\nBatman\u2122: Arkham Knight - Red Hood Story Pack\nBatman\u2122: Arkham Knight - Prototype Batmobile Skin\nBatman\u2122: Arkham Knight - Batman Classic TV Series Batmobile Pack\nBatman\u2122: Arkham Knight - 1st Appearance Batman Skin\nBatman\u2122: Arkham Knight - Bat-Family Skin Pack\nBatman\u2122: Arkham Knight - 1989 Movie Batmobile Pack\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #1\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #2\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #3\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #4\nBatman\u2122: Arkham Knight Crime Fighter Challenge Pack #5\nBatman\u2122: Arkham Knight - GCPD Lockdown\nBatman\u2122: Arkham Knight - 2008 Tumbler Batmobile Pack\nBatman\u2122: Arkham Knight - Catwoman's Revenge\nBatman\u2122: Arkham Knight - Robin and Batmobile Skins Pack\nBatman\u2122: Arkham Knight - WayneTech Track Pack\nBatman\u2122: Arkham Knight - A Flip of a Coin\nBatman\u2122: Arkham Knight - Season of Infamy: Most Wanted Expansion\nBatman\u2122: Arkham Knight - 1970s Batman Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Riddler Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Original Arkham Batmobile\nBatman\u2122: Arkham Knight Season Pass\nBatman\u2122: Arkham Knight - A Matter of Family\nBatman\u2122: Arkham Knight - Harley Quinn Story Pack\nBatman\u2122: Arkham Knight - Red Hood Story Pack\nBatman\u2122: Arkham Knight - Prototype Batmobile Skin\nBatman\u2122: Arkham Knight - Batman Classic TV Series Batmobile Pack\nBatman\u2122: Arkham Knight - 1st Appearance Batman Skin\nBatman\u2122: Arkham Knight - Bat-Family Skin Pack\nBatman\u2122: Arkham Knight - 1989 Movie Batmobile Pack\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #1\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #2\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #3\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #4\nBatman\u2122: Arkham Knight Crime Fighter Challenge Pack #5\nBatman\u2122: Arkham Knight - GCPD Lockdown\nBatman\u2122: Arkham Knight - 2008 Tumbler Batmobile Pack\nBatman\u2122: Arkham Knight - Catwoman's Revenge\nBatman\u2122: Arkham Knight - Robin and Batmobile Skins Pack\nBatman\u2122: Arkham Knight - WayneTech Track Pack\nBatman\u2122: Arkham Knight - A Flip of a Coin\nBatman\u2122: Arkham Knight - Season of Infamy: Most Wanted Expansion\nBatman\u2122: Arkham Knight - 1970s Batman Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Riddler Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Original Arkham Batmobile\nBatman\u2122: Arkham Knight Season Pass\nBatman\u2122: Arkham Knight - A Matter of Family\nBatman\u2122: Arkham Knight - Harley Quinn Story Pack\nBatman\u2122: Arkham Knight - Red Hood Story Pack\nBatman\u2122: Arkham Knight - Prototype Batmobile Skin\nBatman\u2122: Arkham Knight - Batman Classic TV Series Batmobile Pack\nBatman\u2122: Arkham Knight - 1st Appearance Batman Skin\nBatman\u2122: Arkham Knight - Bat-Family Skin Pack\nBatman\u2122: Arkham Knight - 1989 Movie Batmobile Pack\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #1\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #2\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #3\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #4\nBatman\u2122: Arkham Knight Crime Fighter Challenge Pack #5\nBatman\u2122: Arkham Knight - GCPD Lockdown\nBatman\u2122: Arkham Knight - 2008 Tumbler Batmobile Pack\nBatman\u2122: Arkham Knight - Catwoman's Revenge\nBatman\u2122: Arkham Knight - Robin and Batmobile Skins Pack\nBatman\u2122: Arkham Knight - WayneTech Track Pack\nBatman\u2122: Arkham Knight - A Flip of a Coin\nBatman\u2122: Arkham Knight - Season of Infamy: Most Wanted Expansion\nBatman\u2122: Arkham Knight - 1970s Batman Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Riddler Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Original Arkham Batmobile\nBatman\u2122: Arkham Knight Season Pass\nBatman\u2122: Arkham Knight - A Matter of Family\nBatman\u2122: Arkham Knight - Harley Quinn Story Pack\nBatman\u2122: Arkham Knight - Red Hood Story Pack\nBatman\u2122: Arkham Knight - Prototype Batmobile Skin\nBatman\u2122: Arkham Knight - Batman Classic TV Series Batmobile Pack\nBatman\u2122: Arkham Knight - 1st Appearance Batman Skin\nBatman\u2122: Arkham Knight - Bat-Family Skin Pack\nBatman\u2122: Arkham Knight - 1989 Movie Batmobile Pack\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #1\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #2\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #3\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #4\nBatman\u2122: Arkham Knight Crime Fighter Challenge Pack #5\nBatman\u2122: Arkham Knight - GCPD Lockdown\nBatman\u2122: Arkham Knight - 2008 Tumbler Batmobile Pack\nBatman\u2122: Arkham Knight - Catwoman's Revenge\nBatman\u2122: Arkham Knight - Robin and Batmobile Skins Pack\nBatman\u2122: Arkham Knight - WayneTech Track Pack\nBatman\u2122: Arkham Knight - A Flip of a Coin\nBatman\u2122: Arkham Knight - Season of Infamy: Most Wanted Expansion\nBatman\u2122: Arkham Knight - 1970s Batman Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Riddler Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Original Arkham Batmobile\nBatman\u2122: Arkham Knight Season Pass\nBatman\u2122: Arkham Knight - A Matter of Family\nBatman\u2122: Arkham Knight - Harley Quinn Story Pack\nBatman\u2122: Arkham Knight - Red Hood Story Pack\nBatman\u2122: Arkham Knight - Prototype Batmobile Skin\nBatman\u2122: Arkham Knight - Batman Classic TV Series Batmobile Pack\nBatman\u2122: Arkham Knight - 1st Appearance Batman Skin\nBatman\u2122: Arkham Knight - Bat-Family Skin Pack\nBatman\u2122: Arkham Knight - 1989 Movie Batmobile Pack\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #1\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #2\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #3\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #4\nBatman\u2122: Arkham Knight Crime Fighter Challenge Pack #5\nBatman\u2122: Arkham Knight - GCPD Lockdown\nBatman\u2122: Arkham Knight - 2008 Tumbler Batmobile Pack\nBatman\u2122: Arkham Knight - Catwoman's Revenge\nBatman\u2122: Arkham Knight - Robin and Batmobile Skins Pack\nBatman\u2122: Arkham Knight - WayneTech Track Pack\nBatman\u2122: Arkham Knight - A Flip of a Coin\nBatman\u2122: Arkham Knight - Season of Infamy: Most Wanted Expansion\nBatman\u2122: Arkham Knight - 1970s Batman Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Riddler Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Original Arkham Batmobile",
             "count": 24,
             "priceData": {
                 "USD": {
@@ -2461,8 +2515,8 @@ var extrasData =
     "97594e7f-bde8-4f71-b4eb-32cd81675b66": {
         "reviews": {
             "description": "Very Positive",
-            "total": 28908,
-            "positive": 26759,
+            "total": 28910,
+            "positive": 26761,
             "negative": 2149
         }
     },
@@ -2490,6 +2544,7 @@ var extrasData =
             "negative": 3268
         },
         "dlc": {
+            "description": "Beat Saber - Kaydence & Timbaland - \"Dumb Thingz\"\nBeat Saber - Sid Tipton & Timbaland - \"Has A Meaning\"\nBeat Saber - Wavezswavesz - \"While We\u2019re Young\"\nBeat Saber - Nash Overstreet, Karra & Common Strangers - \"What I Like\"\nBeat Saber - Bruno Martini & Timbaland - \"Famous ft. Jake Davis\"\nBeat Saber - Green Day - \"American Idiot\"\nBeat Saber - Green Day - \"Father of All...\"\nBeat Saber - Green Day - \"Boulevard Of Broken Dreams\"\nBeat Saber - Green Day - \"Holiday\"\nBeat Saber - Green Day - \"Fire, Ready, Aim\"\nBeat Saber - Green Day - \"Minority\"\nBeat Saber - Tokyo Machine \u2013 \"PLAY\"\nBeat Saber - Stephen Walking \u2013 \"Glide\"\nBeat Saber - Slushii \u2013 \"LUV U NEED U\"\nBeat Saber - Tokyo Machine \u2013 \"ROCK IT\"\nBeat Saber - Dion Timmer \u2013 \"Shiawase\"\nBeat Saber - Slushii & Dion Timmer \u2013 \"Test Me\"\nBeat Saber - Panic! at the Disco - \"The Greatest Show\"\nBeat Saber - Panic! at the Disco - \"Emperor's New Clothes\"\nBeat Saber - Panic! at the Disco - \"Victorious\"\nBeat Saber - Panic! at the Disco - \"High Hopes\"\nBeat Saber - Imagine Dragons - \"Bad Liar\"\nBeat Saber - Imagine Dragons - \"Believer\"\nBeat Saber - Imagine Dragons - \"Digital\"\nBeat Saber - Imagine Dragons - \"It's Time\"\nBeat Saber - Imagine Dragons - \"Machine\"\nBeat Saber - Imagine Dragons - \"Natural\"\nBeat Saber - Imagine Dragons - \"Radioactive\"\nBeat Saber - Imagine Dragons - \"Thunder\"\nBeat Saber - Imagine Dragons - \"Warriors\"\nBeat Saber - Imagine Dragons - \"Whatever It Takes\"\nBeat Saber - Aero Chord - \"Boundless\"\nBeat Saber - Pegboard Nerds - \"Emoji VIP\"\nBeat Saber - Tokyo Machine - \"EPIC\"\nBeat Saber - Muzzy - \"Feeling Stronger (feat. Charlotte Colley)\"\nBeat Saber - RIOT - \"Overkill\"\nBeat Saber - Rogue - \"Rattlesnake\"\nBeat Saber - Stonebank - \"Stronger (feat. Emel)\"\nBeat Saber - Kayzo - \"This Time\"\nBeat Saber - Tristam - \"Till It's Over\"\nBeat Saber - Feint - \"We Won't Be Alone (feat. Laura Brehm)\"\nBeat Saber - Linkin Park - \"Bleed It Out\"\nBeat Saber - Linkin Park - \"Breaking the Habit\"\nBeat Saber - Linkin Park - \"Faint\"\nBeat Saber - Linkin Park - \"Given Up\"\nBeat Saber - Linkin Park - \"In the End\"\nBeat Saber - Linkin Park - \"New Divide\"\nBeat Saber - Linkin Park - \"Numb\"\nBeat Saber - Linkin Park - \"One Step Closer\"\nBeat Saber - Linkin Park - \"Papercut\"\nBeat Saber - Linkin Park - \"Somewhere I Belong\"\nBeat Saber - Linkin Park - \"What I've Done\"\nBeat Saber - BTS - \"Blood Sweat & Tears\"\nBeat Saber - BTS - \"Boy With Luv (feat. Halsey)\"\nBeat Saber - BTS - \"Burning Up (Fire)\"\nBeat Saber - BTS - \"Dionysus\"\nBeat Saber - BTS - \"DNA\"\nBeat Saber - BTS - \"Dope\"\nBeat Saber - BTS - \"Dynamite\"\nBeat Saber - BTS - \"FAKE LOVE\"\nBeat Saber - BTS - \"IDOL\"\nBeat Saber - BTS - \"MIC Drop (Steve Aoki Remix)\"\nBeat Saber - BTS - \"Not Today\"\nBeat Saber - BTS - \"UGH!\"\nBeat Saber - OneRepublic - \"Counting Stars\"\nBeat Saber - Kendrick Lamar - \"DNA.\"\nBeat Saber: The Pussycat Dolls \u2013 'Don't Cha'\nBeat Saber: LMFAO ft. Lauren Bennett, GoonRock \u2013 'Party Rock Anthem'\nBeat Saber: Limp Bizkit  \u2013 'Rollin\u2019 (Air Raid Vehicle)'\nBeat Saber: Maroon 5 \u2013 'Sugar'\nBeat Saber: Gwen Stefani \u2013 'The Sweet Escape ft. Akon'\nBeat Saber: Skrillex \u2013 'Bangarang (feat. Sirah)'\nBeat Saber: Skrillex, Starrah & Four Tet \u2013 'Butterflies'\nBeat Saber: Skrillex, Justin Bieber & Don Toliver \u2013 'Don\u2019t Go'\nBeat Saber: Skrillex \u2013 'First of the Year (Equinox) '\nBeat Saber: Skrillex \u2013 'Ragga Bomb (feat. Ragga Twins)'\nBeat Saber: Skrillex \u2013 'Rock \u2018n\u2019 Roll (Will Take You to the Mountain)'\nBeat Saber: Skrillex \u2013 'Scary Monsters and Nice Sprites'\nBeat Saber: Skrillex & Wolfgang Gartner \u2013 'The Devil\u2019s Den '\nBeat Saber: Billie Eilish - 'all the good girls go to hell'\nBeat Saber: Billie Eilish - 'bad guy'\nBeat Saber: Billie Eilish - 'bellyache'\nBeat Saber: Billie Eilish - 'bury a friend'\nBeat Saber: Billie Eilish - 'Happier Than Ever'\nBeat Saber: Billie Eilish - 'I Didn't Change My Number'\nBeat Saber: Billie Eilish - 'NDA'\nBeat Saber: Billie Eilish - 'Oxytocin'\nBeat Saber: Billie Eilish - 'Therefore I Am'\nBeat Saber: Billie Eilish - 'you should see me in a crown'\nBeat Saber: Lady Gaga - 'Alejandro'\nBeat Saber: Lady Gaga - 'Bad Romance'\nBeat Saber: Lady Gaga - 'Born This Way'\nBeat Saber: Lady Gaga, Colby O\u2019Donis - 'Just Dance (feat. Colby O\u2019Donis)'\nBeat Saber: Lady Gaga - 'Paparazzi'\nBeat Saber: Lady Gaga - 'Poker Face'\nBeat Saber: Lady Gaga, Ariana Grande - 'Rain On Me (with Ariana Grande)'\nBeat Saber: Lady Gaga - 'Stupid Love'\nBeat Saber: Lady Gaga, Beyonc\u00e9 - 'Telephone (feat. Beyonc\u00e9)'\nBeat Saber: Lady Gaga - 'The Edge Of Glory'\nBeat Saber - Fall Out Boy - 'Centuries'\nBeat Saber - Fall Out Boy - 'Dance, Dance'\nBeat Saber - Fall Out Boy - 'I Don\u2019t Care'\nBeat Saber - Fall Out Boy - 'Immortals'\nBeat Saber - Fall Out Boy - 'Irresistible'\nBeat Saber - Fall Out Boy - 'My Songs Know What You Did In The Dark (Light Em Up)'\nBeat Saber - Fall Out Boy - 'This Ain\u2019t A Scene, It\u2019s An Arms Race'\nBeat Saber - Fall Out Boy - 'Thnks fr th Mmrs'\nBeat Saber - Marshmello - Alone\nBeat Saber - Martin Garrix - Animals\nBeat Saber - Bomfunk MC's - Freestyler\nBeat Saber - deadmau5 - Ghosts 'n' Stuff (feat. Rob Swire)\nBeat Saber - Madeon - Icarus\nBeat Saber - Darude - Sandstorm\nBeat Saber - Zedd - Stay The Night (feat. Hayley Williams)\nBeat Saber - Fatboy Slim - The Rockafeller Skank\nBeat Saber - Rudimental - Waiting All Night (feat. Ella Eyre)\nBeat Saber - Pendulum - Witchcraft\nBeat Saber - Lizzo - \"2 Be Loved (Am I Ready)\"\nBeat Saber - Lizzo - \"About Damn Time\"\nBeat Saber - Lizzo - \"Cuz I Love You\"\nBeat Saber - Lizzo - \"Everybody's Gay\"\nBeat Saber - Lizzo - \"Good As Hell\"\nBeat Saber - Lizzo - \"Juice\"\nBeat Saber - Lizzo - \"Tempo (feat. Missy Elliot)\"\nBeat Saber - Lizzo - \"Truth Hurts\"\nBeat Saber - Lizzo - \"Worship\"\nBeat Saber - The Weeknd - \"Blinding Lights\"\nBeat Saber - The Weeknd - \"Can't Feel My Face\"\nBeat Saber - The Weeknd - \"How Do I Make You Love Me?\"\nBeat Saber - The Weeknd - \"I Feel It Coming (Feat. Daft Punk)\"\nBeat Saber - The Weeknd, Kendrick Lamar - \"Pray For Me\"\nBeat Saber - The Weeknd - \"Sacrifice\"\nBeat Saber - The Weeknd - \"Save Your Tears\"\nBeat Saber - The Weeknd - \"Starboy\" (feat. Daft Punk)\nBeat Saber - The Weeknd - \"Take My Breath\"\nBeat Saber - The Weeknd - \"The Hills\"\nBeat Saber - Steppenwolf - \"Born To Be Wild\"\nBeat Saber - Survivor - \"Eye of the Tiger\"\nBeat Saber - Lynyrd Skynyrd - \"Free Bird\"\nBeat Saber - KISS - \"I Was Made For Lovin' You\"\nBeat Saber - The White Stripes - \"Seven Nation Army\"\nBeat Saber - Nirvana - \"Smells Like Teen Spirit\"\nBeat Saber - Guns N' Roses - \"Sweet Child O' Mine\"\nBeat Saber - Foo Fighters - \"The Pretender\"\nBeat Saber - Imagine Dragons - Bones\nBeat Saber - Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends)\nBeat Saber - Panic! At The Disco - \"Crazy = Genius\"\nBeat Saber - Panic! At The Disco - \"Dancing\u2019s Not A Crime\"\nBeat Saber - Panic! At The Disco - \"Hey Look Ma, I Made It\"\nBeat Saber - Panic! At The Disco - \"Say Amen (Saturday Night)\"\nBeat Saber - Panic! At The Disco - \"Sugar Soaker\"\nBeat Saber - Panic! At The Disco - \"Viva Las Vengeance\"\nBeat Saber - Queen - Another One Bites the Dust\nBeat Saber - Queen - Bohemian Rhapsody\nBeat Saber - Queen - Crazy Little Thing Called Love\nBeat Saber - Queen - Don\u2019t Stop Me Now\nBeat Saber - Queen - I Want It All\nBeat Saber - Queen - Killer Queen\nBeat Saber - Queen - One Vision\nBeat Saber - Queen - Somebody to Love\nBeat Saber - Queen - Stone Cold Crazy\nBeat Saber - Queen - We Are The Champions\nBeat Saber - Queen - We Will Rock You\nBeat Saber - The Weeknd - Die For You (Feat. Arianda Grande)\nBeat Saber - The Weeknd - Less Than Zero\nBeat Saber - Mike Shinoda - Already Over\nBeat Saber - Linkin Park - Crawling\nBeat Saber - Linkin Park - Fighting Myself\nBeat Saber - Mike Shinoda & Kaliee Morgue - In My Head\nBeat Saber - Linkin Park - Lost\nBeat Saber - Linkin Park - More The Victim\nBeat Saber - JAY-Z, Linkin Park - Numb/Encore\nBeat Saber - Fort Minor - Remember the Name (feat. Styles of Beyond)\nBeat Saber - The Rolling Stones - \"Angry\"\nBeat Saber - The Rolling Stones - \"Bite My Head Off\"\nBeat Saber - The Rolling Stones - \"Can\u2019t You Hear Me Knocking\"\nBeat Saber - The Rolling Stones - \"Gimme Shelter\"\nBeat Saber - The Rolling Stones - \"(I Can\u2019t Get No) Satisfaction\"\nBeat Saber - The Rolling Stones - \"Live by the Sword\"\nBeat Saber - The Rolling Stones - \"Mess it Up\"\nBeat Saber - The Rolling Stones - \"Paint It Black\"\nBeat Saber - The Rolling Stones - \"Start Me Up\"\nBeat Saber - The Rolling Stones - \"Sympathy For The Devil\"\nBeat Saber - The Rolling Stones - \"Whole Wide World\"\nBeat Saber - Daft Punk - \"Around The World\"\nBeat Saber - Daft Punk - \"Around The World / Harder Better Faster Stronger\"\nBeat Saber - Daft Punk - \"Da Funk / Daftendirekt\"\nBeat Saber - Daft Punk - \"Get Lucky (feat. Pharrell Williams and Nile Rodgers)\"\nBeat Saber - Daft Punk - \"Harder, Better, Faster, Stronger\"\nBeat Saber - Daft Punk - \"Lose Yourself to Dance (feat. Pharrell Williams)\"\nBeat Saber - Daft Punk - \"One More Time\"\nBeat Saber - Daft Punk - \"Technologic\"\nBeat Saber - Daft Punk - \"The Prime Time of Your Life/The Brainwasher/Rollin'/Alive (Live 2007)\"\nBeat Saber - Daft Punk - \"Veridis Quo\"\nBeat Saber - 2Pac - \"All Eyez On Me (feat. Big Syke)\"\nBeat Saber - Nicki Minaj - \"Anaconda\"\nBeat Saber - Snoop Dogg - \"Gin and Juice\"\nBeat Saber - Eminem - \"Godzilla (feat. Juice WRLD)\"\nBeat Saber - Outkast - \"Hey Ya!\"\nBeat Saber - The Notorious B.I.G. - \"Hypnotize\"\nBeat Saber - Dr Dre - \"Nuthin\u2019 But A \u201cG\u201d Thang\"\nBeat Saber - Grandmaster Flash & The Furious Five - \"The Message\"\nBeat Saber - Pop Smoke - \"The Woo (feat. 50 Cent, Roddy Ricch)\"\nBeat Saber - Britney Spears - \u2026Baby One More Time\nBeat Saber - Britney Spears - Circus\nBeat Saber - Britney Spears - Gimme More\nBeat Saber - Britney Spears - I\u2019m A Slave 4 U\nBeat Saber - Britney Spears - Me Against the Music (feat. Madonna)\nBeat Saber - Britney Spears - Oops!...I Did It Again\nBeat Saber - Britney Spears - Overprotected\nBeat Saber - Britney Spears x Will.I.AM - Scream and Shout (Will.I.AM)\nBeat Saber - Britney Spears - Till the World Ends - Till the World Ends\nBeat Saber - Britney Spears - Toxic\nBeat Saber - Britney Spears - Womanizer\nBeat Saber - Monstercat Mixtape 2 - Teminite & Skybreak - \"Accelerate\"\nBeat Saber - Monstercat Mixtape 2 - Excision & Dion Timmer - \"DABADABADABADABA\"\nBeat Saber - Monstercat Mixtape 2 - Grant & Ellis - \"Dead Man Walking\"\nBeat Saber - Monstercat Mixtape 2 - Bossfight - \"Endgame\"\nBeat Saber - Monstercat Mixtape 2 - Nitro Fun - \"Final Boss\"\nBeat Saber - Monstercat Mixtape 2 - Dyro x Conro - \"Memory Bank\"\nBeat Saber - Monstercat Mixtape 2 - F.O.O.L & Power Glove - \"Mercenary\"\nBeat Saber - Monstercat Mixtape 2 - Teddy Killerz & Pegboard Nerds - \"Pump\"\nBeat Saber - Monstercat Mixtape 2 - Tokyo Machine - \"RAD\"\nBeat Saber - Monstercat Mixtape 2 - \u00d6wnboss & Selva - \"RIOT\"\nBeat Saber - Monstercat Mixtape 2 - Sullivan King - \"Thrones of Blood\"\nBeat Saber - Monstercat Mixtape 2 - Alan Walker - \"Wake Up\"\nBeat Saber - Metallica - \"Atlas, Rise!\"\nBeat Saber - Metallica - \"Battery\"\nBeat Saber - Metallica - \"Blackened\"\nBeat Saber - Metallica - \"Creeping Death\"\nBeat Saber - Metallica - \"Enter Sandman\"\nBeat Saber - Metallica - \"Fade to Black\"\nBeat Saber - Metallica - \"For Whom the Bell Tolls\"\nBeat Saber - Metallica - \"Fuel\"\nBeat Saber - Metallica - \"Hit the Lights\"\nBeat Saber - Metallica - \"King Nothing\"\nBeat Saber - Metallica - \"Lux \u00c6terna\"\nBeat Saber - Metallica - \"Master of Puppets\"\nBeat Saber - Metallica - \"Nothing Else Matters\"\nBeat Saber - Metallica - \"One\"\nBeat Saber - Metallica - \"Sad But True\"\nBeat Saber - Metallica - \"Seek & Destroy\"\nBeat Saber - Metallica - \"The Unforgiven\"\nBeat Saber - Kendrick Lamar - \"Not Like Us\"\nBeat Saber - Kaydence & Timbaland - \"Dumb Thingz\"\nBeat Saber - Sid Tipton & Timbaland - \"Has A Meaning\"\nBeat Saber - Wavezswavesz - \"While We\u2019re Young\"\nBeat Saber - Nash Overstreet, Karra & Common Strangers - \"What I Like\"\nBeat Saber - Bruno Martini & Timbaland - \"Famous ft. Jake Davis\"\nBeat Saber - Green Day - \"American Idiot\"\nBeat Saber - Green Day - \"Father of All...\"\nBeat Saber - Green Day - \"Boulevard Of Broken Dreams\"\nBeat Saber - Green Day - \"Holiday\"\nBeat Saber - Green Day - \"Fire, Ready, Aim\"\nBeat Saber - Green Day - \"Minority\"\nBeat Saber - Tokyo Machine \u2013 \"PLAY\"\nBeat Saber - Stephen Walking \u2013 \"Glide\"\nBeat Saber - Slushii \u2013 \"LUV U NEED U\"\nBeat Saber - Tokyo Machine \u2013 \"ROCK IT\"\nBeat Saber - Dion Timmer \u2013 \"Shiawase\"\nBeat Saber - Slushii & Dion Timmer \u2013 \"Test Me\"\nBeat Saber - Panic! at the Disco - \"The Greatest Show\"\nBeat Saber - Panic! at the Disco - \"Emperor's New Clothes\"\nBeat Saber - Panic! at the Disco - \"Victorious\"\nBeat Saber - Panic! at the Disco - \"High Hopes\"\nBeat Saber - Imagine Dragons - \"Bad Liar\"\nBeat Saber - Imagine Dragons - \"Believer\"\nBeat Saber - Imagine Dragons - \"Digital\"\nBeat Saber - Imagine Dragons - \"It's Time\"\nBeat Saber - Imagine Dragons - \"Machine\"\nBeat Saber - Imagine Dragons - \"Natural\"\nBeat Saber - Imagine Dragons - \"Radioactive\"\nBeat Saber - Imagine Dragons - \"Thunder\"\nBeat Saber - Imagine Dragons - \"Warriors\"\nBeat Saber - Imagine Dragons - \"Whatever It Takes\"\nBeat Saber - Aero Chord - \"Boundless\"\nBeat Saber - Pegboard Nerds - \"Emoji VIP\"\nBeat Saber - Tokyo Machine - \"EPIC\"\nBeat Saber - Muzzy - \"Feeling Stronger (feat. Charlotte Colley)\"\nBeat Saber - RIOT - \"Overkill\"\nBeat Saber - Rogue - \"Rattlesnake\"\nBeat Saber - Stonebank - \"Stronger (feat. Emel)\"\nBeat Saber - Kayzo - \"This Time\"\nBeat Saber - Tristam - \"Till It's Over\"\nBeat Saber - Feint - \"We Won't Be Alone (feat. Laura Brehm)\"\nBeat Saber - Linkin Park - \"Bleed It Out\"\nBeat Saber - Linkin Park - \"Breaking the Habit\"\nBeat Saber - Linkin Park - \"Faint\"\nBeat Saber - Linkin Park - \"Given Up\"\nBeat Saber - Linkin Park - \"In the End\"\nBeat Saber - Linkin Park - \"New Divide\"\nBeat Saber - Linkin Park - \"Numb\"\nBeat Saber - Linkin Park - \"One Step Closer\"\nBeat Saber - Linkin Park - \"Papercut\"\nBeat Saber - Linkin Park - \"Somewhere I Belong\"\nBeat Saber - Linkin Park - \"What I've Done\"\nBeat Saber - BTS - \"Blood Sweat & Tears\"\nBeat Saber - BTS - \"Boy With Luv (feat. Halsey)\"\nBeat Saber - BTS - \"Burning Up (Fire)\"\nBeat Saber - BTS - \"Dionysus\"\nBeat Saber - BTS - \"DNA\"\nBeat Saber - BTS - \"Dope\"\nBeat Saber - BTS - \"Dynamite\"\nBeat Saber - BTS - \"FAKE LOVE\"\nBeat Saber - BTS - \"IDOL\"\nBeat Saber - BTS - \"MIC Drop (Steve Aoki Remix)\"\nBeat Saber - BTS - \"Not Today\"\nBeat Saber - BTS - \"UGH!\"\nBeat Saber - OneRepublic - \"Counting Stars\"\nBeat Saber - Kendrick Lamar - \"DNA.\"\nBeat Saber: The Pussycat Dolls \u2013 'Don't Cha'\nBeat Saber: LMFAO ft. Lauren Bennett, GoonRock \u2013 'Party Rock Anthem'\nBeat Saber: Limp Bizkit  \u2013 'Rollin\u2019 (Air Raid Vehicle)'\nBeat Saber: Maroon 5 \u2013 'Sugar'\nBeat Saber: Gwen Stefani \u2013 'The Sweet Escape ft. Akon'\nBeat Saber: Skrillex \u2013 'Bangarang (feat. Sirah)'\nBeat Saber: Skrillex, Starrah & Four Tet \u2013 'Butterflies'\nBeat Saber: Skrillex, Justin Bieber & Don Toliver \u2013 'Don\u2019t Go'\nBeat Saber: Skrillex \u2013 'First of the Year (Equinox) '\nBeat Saber: Skrillex \u2013 'Ragga Bomb (feat. Ragga Twins)'\nBeat Saber: Skrillex \u2013 'Rock \u2018n\u2019 Roll (Will Take You to the Mountain)'\nBeat Saber: Skrillex \u2013 'Scary Monsters and Nice Sprites'\nBeat Saber: Skrillex & Wolfgang Gartner \u2013 'The Devil\u2019s Den '\nBeat Saber: Billie Eilish - 'all the good girls go to hell'\nBeat Saber: Billie Eilish - 'bad guy'\nBeat Saber: Billie Eilish - 'bellyache'\nBeat Saber: Billie Eilish - 'bury a friend'\nBeat Saber: Billie Eilish - 'Happier Than Ever'\nBeat Saber: Billie Eilish - 'I Didn't Change My Number'\nBeat Saber: Billie Eilish - 'NDA'\nBeat Saber: Billie Eilish - 'Oxytocin'\nBeat Saber: Billie Eilish - 'Therefore I Am'\nBeat Saber: Billie Eilish - 'you should see me in a crown'\nBeat Saber: Lady Gaga - 'Alejandro'\nBeat Saber: Lady Gaga - 'Bad Romance'\nBeat Saber: Lady Gaga - 'Born This Way'\nBeat Saber: Lady Gaga, Colby O\u2019Donis - 'Just Dance (feat. Colby O\u2019Donis)'\nBeat Saber: Lady Gaga - 'Paparazzi'\nBeat Saber: Lady Gaga - 'Poker Face'\nBeat Saber: Lady Gaga, Ariana Grande - 'Rain On Me (with Ariana Grande)'\nBeat Saber: Lady Gaga - 'Stupid Love'\nBeat Saber: Lady Gaga, Beyonc\u00e9 - 'Telephone (feat. Beyonc\u00e9)'\nBeat Saber: Lady Gaga - 'The Edge Of Glory'\nBeat Saber - Fall Out Boy - 'Centuries'\nBeat Saber - Fall Out Boy - 'Dance, Dance'\nBeat Saber - Fall Out Boy - 'I Don\u2019t Care'\nBeat Saber - Fall Out Boy - 'Immortals'\nBeat Saber - Fall Out Boy - 'Irresistible'\nBeat Saber - Fall Out Boy - 'My Songs Know What You Did In The Dark (Light Em Up)'\nBeat Saber - Fall Out Boy - 'This Ain\u2019t A Scene, It\u2019s An Arms Race'\nBeat Saber - Fall Out Boy - 'Thnks fr th Mmrs'\nBeat Saber - Marshmello - Alone\nBeat Saber - Martin Garrix - Animals\nBeat Saber - Bomfunk MC's - Freestyler\nBeat Saber - deadmau5 - Ghosts 'n' Stuff (feat. Rob Swire)\nBeat Saber - Madeon - Icarus\nBeat Saber - Darude - Sandstorm\nBeat Saber - Zedd - Stay The Night (feat. Hayley Williams)\nBeat Saber - Fatboy Slim - The Rockafeller Skank\nBeat Saber - Rudimental - Waiting All Night (feat. Ella Eyre)\nBeat Saber - Pendulum - Witchcraft\nBeat Saber - Lizzo - \"2 Be Loved (Am I Ready)\"\nBeat Saber - Lizzo - \"About Damn Time\"\nBeat Saber - Lizzo - \"Cuz I Love You\"\nBeat Saber - Lizzo - \"Everybody's Gay\"\nBeat Saber - Lizzo - \"Good As Hell\"\nBeat Saber - Lizzo - \"Juice\"\nBeat Saber - Lizzo - \"Tempo (feat. Missy Elliot)\"\nBeat Saber - Lizzo - \"Truth Hurts\"\nBeat Saber - Lizzo - \"Worship\"\nBeat Saber - The Weeknd - \"Blinding Lights\"\nBeat Saber - The Weeknd - \"Can't Feel My Face\"\nBeat Saber - The Weeknd - \"How Do I Make You Love Me?\"\nBeat Saber - The Weeknd - \"I Feel It Coming (Feat. Daft Punk)\"\nBeat Saber - The Weeknd, Kendrick Lamar - \"Pray For Me\"\nBeat Saber - The Weeknd - \"Sacrifice\"\nBeat Saber - The Weeknd - \"Save Your Tears\"\nBeat Saber - The Weeknd - \"Starboy\" (feat. Daft Punk)\nBeat Saber - The Weeknd - \"Take My Breath\"\nBeat Saber - The Weeknd - \"The Hills\"\nBeat Saber - Steppenwolf - \"Born To Be Wild\"\nBeat Saber - Survivor - \"Eye of the Tiger\"\nBeat Saber - Lynyrd Skynyrd - \"Free Bird\"\nBeat Saber - KISS - \"I Was Made For Lovin' You\"\nBeat Saber - The White Stripes - \"Seven Nation Army\"\nBeat Saber - Nirvana - \"Smells Like Teen Spirit\"\nBeat Saber - Guns N' Roses - \"Sweet Child O' Mine\"\nBeat Saber - Foo Fighters - \"The Pretender\"\nBeat Saber - Imagine Dragons - Bones\nBeat Saber - Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends)\nBeat Saber - Panic! At The Disco - \"Crazy = Genius\"\nBeat Saber - Panic! At The Disco - \"Dancing\u2019s Not A Crime\"\nBeat Saber - Panic! At The Disco - \"Hey Look Ma, I Made It\"\nBeat Saber - Panic! At The Disco - \"Say Amen (Saturday Night)\"\nBeat Saber - Panic! At The Disco - \"Sugar Soaker\"\nBeat Saber - Panic! At The Disco - \"Viva Las Vengeance\"\nBeat Saber - Queen - Another One Bites the Dust\nBeat Saber - Queen - Bohemian Rhapsody\nBeat Saber - Queen - Crazy Little Thing Called Love\nBeat Saber - Queen - Don\u2019t Stop Me Now\nBeat Saber - Queen - I Want It All\nBeat Saber - Queen - Killer Queen\nBeat Saber - Queen - One Vision\nBeat Saber - Queen - Somebody to Love\nBeat Saber - Queen - Stone Cold Crazy\nBeat Saber - Queen - We Are The Champions\nBeat Saber - Queen - We Will Rock You\nBeat Saber - The Weeknd - Die For You (Feat. Arianda Grande)\nBeat Saber - The Weeknd - Less Than Zero\nBeat Saber - Mike Shinoda - Already Over\nBeat Saber - Linkin Park - Crawling\nBeat Saber - Linkin Park - Fighting Myself\nBeat Saber - Mike Shinoda & Kaliee Morgue - In My Head\nBeat Saber - Linkin Park - Lost\nBeat Saber - Linkin Park - More The Victim\nBeat Saber - JAY-Z, Linkin Park - Numb/Encore\nBeat Saber - Fort Minor - Remember the Name (feat. Styles of Beyond)\nBeat Saber - The Rolling Stones - \"Angry\"\nBeat Saber - The Rolling Stones - \"Bite My Head Off\"\nBeat Saber - The Rolling Stones - \"Can\u2019t You Hear Me Knocking\"\nBeat Saber - The Rolling Stones - \"Gimme Shelter\"\nBeat Saber - The Rolling Stones - \"(I Can\u2019t Get No) Satisfaction\"\nBeat Saber - The Rolling Stones - \"Live by the Sword\"\nBeat Saber - The Rolling Stones - \"Mess it Up\"\nBeat Saber - The Rolling Stones - \"Paint It Black\"\nBeat Saber - The Rolling Stones - \"Start Me Up\"\nBeat Saber - The Rolling Stones - \"Sympathy For The Devil\"\nBeat Saber - The Rolling Stones - \"Whole Wide World\"\nBeat Saber - Daft Punk - \"Around The World\"\nBeat Saber - Daft Punk - \"Around The World / Harder Better Faster Stronger\"\nBeat Saber - Daft Punk - \"Da Funk / Daftendirekt\"\nBeat Saber - Daft Punk - \"Get Lucky (feat. Pharrell Williams and Nile Rodgers)\"\nBeat Saber - Daft Punk - \"Harder, Better, Faster, Stronger\"\nBeat Saber - Daft Punk - \"Lose Yourself to Dance (feat. Pharrell Williams)\"\nBeat Saber - Daft Punk - \"One More Time\"\nBeat Saber - Daft Punk - \"Technologic\"\nBeat Saber - Daft Punk - \"The Prime Time of Your Life/The Brainwasher/Rollin'/Alive (Live 2007)\"\nBeat Saber - Daft Punk - \"Veridis Quo\"\nBeat Saber - 2Pac - \"All Eyez On Me (feat. Big Syke)\"\nBeat Saber - Nicki Minaj - \"Anaconda\"\nBeat Saber - Snoop Dogg - \"Gin and Juice\"\nBeat Saber - Eminem - \"Godzilla (feat. Juice WRLD)\"\nBeat Saber - Outkast - \"Hey Ya!\"\nBeat Saber - The Notorious B.I.G. - \"Hypnotize\"\nBeat Saber - Dr Dre - \"Nuthin\u2019 But A \u201cG\u201d Thang\"\nBeat Saber - Grandmaster Flash & The Furious Five - \"The Message\"\nBeat Saber - Pop Smoke - \"The Woo (feat. 50 Cent, Roddy Ricch)\"\nBeat Saber - Britney Spears - \u2026Baby One More Time\nBeat Saber - Britney Spears - Circus\nBeat Saber - Britney Spears - Gimme More\nBeat Saber - Britney Spears - I\u2019m A Slave 4 U\nBeat Saber - Britney Spears - Me Against the Music (feat. Madonna)\nBeat Saber - Britney Spears - Oops!...I Did It Again\nBeat Saber - Britney Spears - Overprotected\nBeat Saber - Britney Spears x Will.I.AM - Scream and Shout (Will.I.AM)\nBeat Saber - Britney Spears - Till the World Ends - Till the World Ends\nBeat Saber - Britney Spears - Toxic\nBeat Saber - Britney Spears - Womanizer\nBeat Saber - Monstercat Mixtape 2 - Teminite & Skybreak - \"Accelerate\"\nBeat Saber - Monstercat Mixtape 2 - Excision & Dion Timmer - \"DABADABADABADABA\"\nBeat Saber - Monstercat Mixtape 2 - Grant & Ellis - \"Dead Man Walking\"\nBeat Saber - Monstercat Mixtape 2 - Bossfight - \"Endgame\"\nBeat Saber - Monstercat Mixtape 2 - Nitro Fun - \"Final Boss\"\nBeat Saber - Monstercat Mixtape 2 - Dyro x Conro - \"Memory Bank\"\nBeat Saber - Monstercat Mixtape 2 - F.O.O.L & Power Glove - \"Mercenary\"\nBeat Saber - Monstercat Mixtape 2 - Teddy Killerz & Pegboard Nerds - \"Pump\"\nBeat Saber - Monstercat Mixtape 2 - Tokyo Machine - \"RAD\"\nBeat Saber - Monstercat Mixtape 2 - \u00d6wnboss & Selva - \"RIOT\"\nBeat Saber - Monstercat Mixtape 2 - Sullivan King - \"Thrones of Blood\"\nBeat Saber - Monstercat Mixtape 2 - Alan Walker - \"Wake Up\"\nBeat Saber - Metallica - \"Atlas, Rise!\"\nBeat Saber - Metallica - \"Battery\"\nBeat Saber - Metallica - \"Blackened\"\nBeat Saber - Metallica - \"Creeping Death\"\nBeat Saber - Metallica - \"Enter Sandman\"\nBeat Saber - Metallica - \"Fade to Black\"\nBeat Saber - Metallica - \"For Whom the Bell Tolls\"\nBeat Saber - Metallica - \"Fuel\"\nBeat Saber - Metallica - \"Hit the Lights\"\nBeat Saber - Metallica - \"King Nothing\"\nBeat Saber - Metallica - \"Lux \u00c6terna\"\nBeat Saber - Metallica - \"Master of Puppets\"\nBeat Saber - Metallica - \"Nothing Else Matters\"\nBeat Saber - Metallica - \"One\"\nBeat Saber - Metallica - \"Sad But True\"\nBeat Saber - Metallica - \"Seek & Destroy\"\nBeat Saber - Metallica - \"The Unforgiven\"\nBeat Saber - Kendrick Lamar - \"Not Like Us\"\nBeat Saber - Kaydence & Timbaland - \"Dumb Thingz\"\nBeat Saber - Sid Tipton & Timbaland - \"Has A Meaning\"\nBeat Saber - Wavezswavesz - \"While We\u2019re Young\"\nBeat Saber - Nash Overstreet, Karra & Common Strangers - \"What I Like\"\nBeat Saber - Bruno Martini & Timbaland - \"Famous ft. Jake Davis\"\nBeat Saber - Green Day - \"American Idiot\"\nBeat Saber - Green Day - \"Father of All...\"\nBeat Saber - Green Day - \"Boulevard Of Broken Dreams\"\nBeat Saber - Green Day - \"Holiday\"\nBeat Saber - Green Day - \"Fire, Ready, Aim\"\nBeat Saber - Green Day - \"Minority\"\nBeat Saber - Tokyo Machine \u2013 \"PLAY\"\nBeat Saber - Stephen Walking \u2013 \"Glide\"\nBeat Saber - Slushii \u2013 \"LUV U NEED U\"\nBeat Saber - Tokyo Machine \u2013 \"ROCK IT\"\nBeat Saber - Dion Timmer \u2013 \"Shiawase\"\nBeat Saber - Slushii & Dion Timmer \u2013 \"Test Me\"\nBeat Saber - Panic! at the Disco - \"The Greatest Show\"\nBeat Saber - Panic! at the Disco - \"Emperor's New Clothes\"\nBeat Saber - Panic! at the Disco - \"Victorious\"\nBeat Saber - Panic! at the Disco - \"High Hopes\"\nBeat Saber - Imagine Dragons - \"Bad Liar\"\nBeat Saber - Imagine Dragons - \"Believer\"\nBeat Saber - Imagine Dragons - \"Digital\"\nBeat Saber - Imagine Dragons - \"It's Time\"\nBeat Saber - Imagine Dragons - \"Machine\"\nBeat Saber - Imagine Dragons - \"Natural\"\nBeat Saber - Imagine Dragons - \"Radioactive\"\nBeat Saber - Imagine Dragons - \"Thunder\"\nBeat Saber - Imagine Dragons - \"Warriors\"\nBeat Saber - Imagine Dragons - \"Whatever It Takes\"\nBeat Saber - Aero Chord - \"Boundless\"\nBeat Saber - Pegboard Nerds - \"Emoji VIP\"\nBeat Saber - Tokyo Machine - \"EPIC\"\nBeat Saber - Muzzy - \"Feeling Stronger (feat. Charlotte Colley)\"\nBeat Saber - RIOT - \"Overkill\"\nBeat Saber - Rogue - \"Rattlesnake\"\nBeat Saber - Stonebank - \"Stronger (feat. Emel)\"\nBeat Saber - Kayzo - \"This Time\"\nBeat Saber - Tristam - \"Till It's Over\"\nBeat Saber - Feint - \"We Won't Be Alone (feat. Laura Brehm)\"\nBeat Saber - Linkin Park - \"Bleed It Out\"\nBeat Saber - Linkin Park - \"Breaking the Habit\"\nBeat Saber - Linkin Park - \"Faint\"\nBeat Saber - Linkin Park - \"Given Up\"\nBeat Saber - Linkin Park - \"In the End\"\nBeat Saber - Linkin Park - \"New Divide\"\nBeat Saber - Linkin Park - \"Numb\"\nBeat Saber - Linkin Park - \"One Step Closer\"\nBeat Saber - Linkin Park - \"Papercut\"\nBeat Saber - Linkin Park - \"Somewhere I Belong\"\nBeat Saber - Linkin Park - \"What I've Done\"\nBeat Saber - BTS - \"Blood Sweat & Tears\"\nBeat Saber - BTS - \"Boy With Luv (feat. Halsey)\"\nBeat Saber - BTS - \"Burning Up (Fire)\"\nBeat Saber - BTS - \"Dionysus\"\nBeat Saber - BTS - \"DNA\"\nBeat Saber - BTS - \"Dope\"\nBeat Saber - BTS - \"Dynamite\"\nBeat Saber - BTS - \"FAKE LOVE\"\nBeat Saber - BTS - \"IDOL\"\nBeat Saber - BTS - \"MIC Drop (Steve Aoki Remix)\"\nBeat Saber - BTS - \"Not Today\"\nBeat Saber - BTS - \"UGH!\"\nBeat Saber - OneRepublic - \"Counting Stars\"\nBeat Saber - Kendrick Lamar - \"DNA.\"\nBeat Saber: The Pussycat Dolls \u2013 'Don't Cha'\nBeat Saber: LMFAO ft. Lauren Bennett, GoonRock \u2013 'Party Rock Anthem'\nBeat Saber: Limp Bizkit  \u2013 'Rollin\u2019 (Air Raid Vehicle)'\nBeat Saber: Maroon 5 \u2013 'Sugar'\nBeat Saber: Gwen Stefani \u2013 'The Sweet Escape ft. Akon'\nBeat Saber: Skrillex \u2013 'Bangarang (feat. Sirah)'\nBeat Saber: Skrillex, Starrah & Four Tet \u2013 'Butterflies'\nBeat Saber: Skrillex, Justin Bieber & Don Toliver \u2013 'Don\u2019t Go'\nBeat Saber: Skrillex \u2013 'First of the Year (Equinox) '\nBeat Saber: Skrillex \u2013 'Ragga Bomb (feat. Ragga Twins)'\nBeat Saber: Skrillex \u2013 'Rock \u2018n\u2019 Roll (Will Take You to the Mountain)'\nBeat Saber: Skrillex \u2013 'Scary Monsters and Nice Sprites'\nBeat Saber: Skrillex & Wolfgang Gartner \u2013 'The Devil\u2019s Den '\nBeat Saber: Billie Eilish - 'all the good girls go to hell'\nBeat Saber: Billie Eilish - 'bad guy'\nBeat Saber: Billie Eilish - 'bellyache'\nBeat Saber: Billie Eilish - 'bury a friend'\nBeat Saber: Billie Eilish - 'Happier Than Ever'\nBeat Saber: Billie Eilish - 'I Didn't Change My Number'\nBeat Saber: Billie Eilish - 'NDA'\nBeat Saber: Billie Eilish - 'Oxytocin'\nBeat Saber: Billie Eilish - 'Therefore I Am'\nBeat Saber: Billie Eilish - 'you should see me in a crown'\nBeat Saber: Lady Gaga - 'Alejandro'\nBeat Saber: Lady Gaga - 'Bad Romance'\nBeat Saber: Lady Gaga - 'Born This Way'\nBeat Saber: Lady Gaga, Colby O\u2019Donis - 'Just Dance (feat. Colby O\u2019Donis)'\nBeat Saber: Lady Gaga - 'Paparazzi'\nBeat Saber: Lady Gaga - 'Poker Face'\nBeat Saber: Lady Gaga, Ariana Grande - 'Rain On Me (with Ariana Grande)'\nBeat Saber: Lady Gaga - 'Stupid Love'\nBeat Saber: Lady Gaga, Beyonc\u00e9 - 'Telephone (feat. Beyonc\u00e9)'\nBeat Saber: Lady Gaga - 'The Edge Of Glory'\nBeat Saber - Fall Out Boy - 'Centuries'\nBeat Saber - Fall Out Boy - 'Dance, Dance'\nBeat Saber - Fall Out Boy - 'I Don\u2019t Care'\nBeat Saber - Fall Out Boy - 'Immortals'\nBeat Saber - Fall Out Boy - 'Irresistible'\nBeat Saber - Fall Out Boy - 'My Songs Know What You Did In The Dark (Light Em Up)'\nBeat Saber - Fall Out Boy - 'This Ain\u2019t A Scene, It\u2019s An Arms Race'\nBeat Saber - Fall Out Boy - 'Thnks fr th Mmrs'\nBeat Saber - Marshmello - Alone\nBeat Saber - Martin Garrix - Animals\nBeat Saber - Bomfunk MC's - Freestyler\nBeat Saber - deadmau5 - Ghosts 'n' Stuff (feat. Rob Swire)\nBeat Saber - Madeon - Icarus\nBeat Saber - Darude - Sandstorm\nBeat Saber - Zedd - Stay The Night (feat. Hayley Williams)\nBeat Saber - Fatboy Slim - The Rockafeller Skank\nBeat Saber - Rudimental - Waiting All Night (feat. Ella Eyre)\nBeat Saber - Pendulum - Witchcraft\nBeat Saber - Lizzo - \"2 Be Loved (Am I Ready)\"\nBeat Saber - Lizzo - \"About Damn Time\"\nBeat Saber - Lizzo - \"Cuz I Love You\"\nBeat Saber - Lizzo - \"Everybody's Gay\"\nBeat Saber - Lizzo - \"Good As Hell\"\nBeat Saber - Lizzo - \"Juice\"\nBeat Saber - Lizzo - \"Tempo (feat. Missy Elliot)\"\nBeat Saber - Lizzo - \"Truth Hurts\"\nBeat Saber - Lizzo - \"Worship\"\nBeat Saber - The Weeknd - \"Blinding Lights\"\nBeat Saber - The Weeknd - \"Can't Feel My Face\"\nBeat Saber - The Weeknd - \"How Do I Make You Love Me?\"\nBeat Saber - The Weeknd - \"I Feel It Coming (Feat. Daft Punk)\"\nBeat Saber - The Weeknd, Kendrick Lamar - \"Pray For Me\"\nBeat Saber - The Weeknd - \"Sacrifice\"\nBeat Saber - The Weeknd - \"Save Your Tears\"\nBeat Saber - The Weeknd - \"Starboy\" (feat. Daft Punk)\nBeat Saber - The Weeknd - \"Take My Breath\"\nBeat Saber - The Weeknd - \"The Hills\"\nBeat Saber - Steppenwolf - \"Born To Be Wild\"\nBeat Saber - Survivor - \"Eye of the Tiger\"\nBeat Saber - Lynyrd Skynyrd - \"Free Bird\"\nBeat Saber - KISS - \"I Was Made For Lovin' You\"\nBeat Saber - The White Stripes - \"Seven Nation Army\"\nBeat Saber - Nirvana - \"Smells Like Teen Spirit\"\nBeat Saber - Guns N' Roses - \"Sweet Child O' Mine\"\nBeat Saber - Foo Fighters - \"The Pretender\"\nBeat Saber - Imagine Dragons - Bones\nBeat Saber - Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends)\nBeat Saber - Panic! At The Disco - \"Crazy = Genius\"\nBeat Saber - Panic! At The Disco - \"Dancing\u2019s Not A Crime\"\nBeat Saber - Panic! At The Disco - \"Hey Look Ma, I Made It\"\nBeat Saber - Panic! At The Disco - \"Say Amen (Saturday Night)\"\nBeat Saber - Panic! At The Disco - \"Sugar Soaker\"\nBeat Saber - Panic! At The Disco - \"Viva Las Vengeance\"\nBeat Saber - Queen - Another One Bites the Dust\nBeat Saber - Queen - Bohemian Rhapsody\nBeat Saber - Queen - Crazy Little Thing Called Love\nBeat Saber - Queen - Don\u2019t Stop Me Now\nBeat Saber - Queen - I Want It All\nBeat Saber - Queen - Killer Queen\nBeat Saber - Queen - One Vision\nBeat Saber - Queen - Somebody to Love\nBeat Saber - Queen - Stone Cold Crazy\nBeat Saber - Queen - We Are The Champions\nBeat Saber - Queen - We Will Rock You\nBeat Saber - The Weeknd - Die For You (Feat. Arianda Grande)\nBeat Saber - The Weeknd - Less Than Zero\nBeat Saber - Mike Shinoda - Already Over\nBeat Saber - Linkin Park - Crawling\nBeat Saber - Linkin Park - Fighting Myself\nBeat Saber - Mike Shinoda & Kaliee Morgue - In My Head\nBeat Saber - Linkin Park - Lost\nBeat Saber - Linkin Park - More The Victim\nBeat Saber - JAY-Z, Linkin Park - Numb/Encore\nBeat Saber - Fort Minor - Remember the Name (feat. Styles of Beyond)\nBeat Saber - The Rolling Stones - \"Angry\"\nBeat Saber - The Rolling Stones - \"Bite My Head Off\"\nBeat Saber - The Rolling Stones - \"Can\u2019t You Hear Me Knocking\"\nBeat Saber - The Rolling Stones - \"Gimme Shelter\"\nBeat Saber - The Rolling Stones - \"(I Can\u2019t Get No) Satisfaction\"\nBeat Saber - The Rolling Stones - \"Live by the Sword\"\nBeat Saber - The Rolling Stones - \"Mess it Up\"\nBeat Saber - The Rolling Stones - \"Paint It Black\"\nBeat Saber - The Rolling Stones - \"Start Me Up\"\nBeat Saber - The Rolling Stones - \"Sympathy For The Devil\"\nBeat Saber - The Rolling Stones - \"Whole Wide World\"\nBeat Saber - Daft Punk - \"Around The World\"\nBeat Saber - Daft Punk - \"Around The World / Harder Better Faster Stronger\"\nBeat Saber - Daft Punk - \"Da Funk / Daftendirekt\"\nBeat Saber - Daft Punk - \"Get Lucky (feat. Pharrell Williams and Nile Rodgers)\"\nBeat Saber - Daft Punk - \"Harder, Better, Faster, Stronger\"\nBeat Saber - Daft Punk - \"Lose Yourself to Dance (feat. Pharrell Williams)\"\nBeat Saber - Daft Punk - \"One More Time\"\nBeat Saber - Daft Punk - \"Technologic\"\nBeat Saber - Daft Punk - \"The Prime Time of Your Life/The Brainwasher/Rollin'/Alive (Live 2007)\"\nBeat Saber - Daft Punk - \"Veridis Quo\"\nBeat Saber - 2Pac - \"All Eyez On Me (feat. Big Syke)\"\nBeat Saber - Nicki Minaj - \"Anaconda\"\nBeat Saber - Snoop Dogg - \"Gin and Juice\"\nBeat Saber - Eminem - \"Godzilla (feat. Juice WRLD)\"\nBeat Saber - Outkast - \"Hey Ya!\"\nBeat Saber - The Notorious B.I.G. - \"Hypnotize\"\nBeat Saber - Dr Dre - \"Nuthin\u2019 But A \u201cG\u201d Thang\"\nBeat Saber - Grandmaster Flash & The Furious Five - \"The Message\"\nBeat Saber - Pop Smoke - \"The Woo (feat. 50 Cent, Roddy Ricch)\"\nBeat Saber - Britney Spears - \u2026Baby One More Time\nBeat Saber - Britney Spears - Circus\nBeat Saber - Britney Spears - Gimme More\nBeat Saber - Britney Spears - I\u2019m A Slave 4 U\nBeat Saber - Britney Spears - Me Against the Music (feat. Madonna)\nBeat Saber - Britney Spears - Oops!...I Did It Again\nBeat Saber - Britney Spears - Overprotected\nBeat Saber - Britney Spears x Will.I.AM - Scream and Shout (Will.I.AM)\nBeat Saber - Britney Spears - Till the World Ends - Till the World Ends\nBeat Saber - Britney Spears - Toxic\nBeat Saber - Britney Spears - Womanizer\nBeat Saber - Monstercat Mixtape 2 - Teminite & Skybreak - \"Accelerate\"\nBeat Saber - Monstercat Mixtape 2 - Excision & Dion Timmer - \"DABADABADABADABA\"\nBeat Saber - Monstercat Mixtape 2 - Grant & Ellis - \"Dead Man Walking\"\nBeat Saber - Monstercat Mixtape 2 - Bossfight - \"Endgame\"\nBeat Saber - Monstercat Mixtape 2 - Nitro Fun - \"Final Boss\"\nBeat Saber - Monstercat Mixtape 2 - Dyro x Conro - \"Memory Bank\"\nBeat Saber - Monstercat Mixtape 2 - F.O.O.L & Power Glove - \"Mercenary\"\nBeat Saber - Monstercat Mixtape 2 - Teddy Killerz & Pegboard Nerds - \"Pump\"\nBeat Saber - Monstercat Mixtape 2 - Tokyo Machine - \"RAD\"\nBeat Saber - Monstercat Mixtape 2 - \u00d6wnboss & Selva - \"RIOT\"\nBeat Saber - Monstercat Mixtape 2 - Sullivan King - \"Thrones of Blood\"\nBeat Saber - Monstercat Mixtape 2 - Alan Walker - \"Wake Up\"\nBeat Saber - Metallica - \"Atlas, Rise!\"\nBeat Saber - Metallica - \"Battery\"\nBeat Saber - Metallica - \"Blackened\"\nBeat Saber - Metallica - \"Creeping Death\"\nBeat Saber - Metallica - \"Enter Sandman\"\nBeat Saber - Metallica - \"Fade to Black\"\nBeat Saber - Metallica - \"For Whom the Bell Tolls\"\nBeat Saber - Metallica - \"Fuel\"\nBeat Saber - Metallica - \"Hit the Lights\"\nBeat Saber - Metallica - \"King Nothing\"\nBeat Saber - Metallica - \"Lux \u00c6terna\"\nBeat Saber - Metallica - \"Master of Puppets\"\nBeat Saber - Metallica - \"Nothing Else Matters\"\nBeat Saber - Metallica - \"One\"\nBeat Saber - Metallica - \"Sad But True\"\nBeat Saber - Metallica - \"Seek & Destroy\"\nBeat Saber - Metallica - \"The Unforgiven\"\nBeat Saber - Kendrick Lamar - \"Not Like Us\"\nBeat Saber - Kaydence & Timbaland - \"Dumb Thingz\"\nBeat Saber - Sid Tipton & Timbaland - \"Has A Meaning\"\nBeat Saber - Wavezswavesz - \"While We\u2019re Young\"\nBeat Saber - Nash Overstreet, Karra & Common Strangers - \"What I Like\"\nBeat Saber - Bruno Martini & Timbaland - \"Famous ft. Jake Davis\"\nBeat Saber - Green Day - \"American Idiot\"\nBeat Saber - Green Day - \"Father of All...\"\nBeat Saber - Green Day - \"Boulevard Of Broken Dreams\"\nBeat Saber - Green Day - \"Holiday\"\nBeat Saber - Green Day - \"Fire, Ready, Aim\"\nBeat Saber - Green Day - \"Minority\"\nBeat Saber - Tokyo Machine \u2013 \"PLAY\"\nBeat Saber - Stephen Walking \u2013 \"Glide\"\nBeat Saber - Slushii \u2013 \"LUV U NEED U\"\nBeat Saber - Tokyo Machine \u2013 \"ROCK IT\"\nBeat Saber - Dion Timmer \u2013 \"Shiawase\"\nBeat Saber - Slushii & Dion Timmer \u2013 \"Test Me\"\nBeat Saber - Panic! at the Disco - \"The Greatest Show\"\nBeat Saber - Panic! at the Disco - \"Emperor's New Clothes\"\nBeat Saber - Panic! at the Disco - \"Victorious\"\nBeat Saber - Panic! at the Disco - \"High Hopes\"\nBeat Saber - Imagine Dragons - \"Bad Liar\"\nBeat Saber - Imagine Dragons - \"Believer\"\nBeat Saber - Imagine Dragons - \"Digital\"\nBeat Saber - Imagine Dragons - \"It's Time\"\nBeat Saber - Imagine Dragons - \"Machine\"\nBeat Saber - Imagine Dragons - \"Natural\"\nBeat Saber - Imagine Dragons - \"Radioactive\"\nBeat Saber - Imagine Dragons - \"Thunder\"\nBeat Saber - Imagine Dragons - \"Warriors\"\nBeat Saber - Imagine Dragons - \"Whatever It Takes\"\nBeat Saber - Aero Chord - \"Boundless\"\nBeat Saber - Pegboard Nerds - \"Emoji VIP\"\nBeat Saber - Tokyo Machine - \"EPIC\"\nBeat Saber - Muzzy - \"Feeling Stronger (feat. Charlotte Colley)\"\nBeat Saber - RIOT - \"Overkill\"\nBeat Saber - Rogue - \"Rattlesnake\"\nBeat Saber - Stonebank - \"Stronger (feat. Emel)\"\nBeat Saber - Kayzo - \"This Time\"\nBeat Saber - Tristam - \"Till It's Over\"\nBeat Saber - Feint - \"We Won't Be Alone (feat. Laura Brehm)\"\nBeat Saber - Linkin Park - \"Bleed It Out\"\nBeat Saber - Linkin Park - \"Breaking the Habit\"\nBeat Saber - Linkin Park - \"Faint\"\nBeat Saber - Linkin Park - \"Given Up\"\nBeat Saber - Linkin Park - \"In the End\"\nBeat Saber - Linkin Park - \"New Divide\"\nBeat Saber - Linkin Park - \"Numb\"\nBeat Saber - Linkin Park - \"One Step Closer\"\nBeat Saber - Linkin Park - \"Papercut\"\nBeat Saber - Linkin Park - \"Somewhere I Belong\"\nBeat Saber - Linkin Park - \"What I've Done\"\nBeat Saber - BTS - \"Blood Sweat & Tears\"\nBeat Saber - BTS - \"Boy With Luv (feat. Halsey)\"\nBeat Saber - BTS - \"Burning Up (Fire)\"\nBeat Saber - BTS - \"Dionysus\"\nBeat Saber - BTS - \"DNA\"\nBeat Saber - BTS - \"Dope\"\nBeat Saber - BTS - \"Dynamite\"\nBeat Saber - BTS - \"FAKE LOVE\"\nBeat Saber - BTS - \"IDOL\"\nBeat Saber - BTS - \"MIC Drop (Steve Aoki Remix)\"\nBeat Saber - BTS - \"Not Today\"\nBeat Saber - BTS - \"UGH!\"\nBeat Saber - OneRepublic - \"Counting Stars\"\nBeat Saber - Kendrick Lamar - \"DNA.\"\nBeat Saber: The Pussycat Dolls \u2013 'Don't Cha'\nBeat Saber: LMFAO ft. Lauren Bennett, GoonRock \u2013 'Party Rock Anthem'\nBeat Saber: Limp Bizkit  \u2013 'Rollin\u2019 (Air Raid Vehicle)'\nBeat Saber: Maroon 5 \u2013 'Sugar'\nBeat Saber: Gwen Stefani \u2013 'The Sweet Escape ft. Akon'\nBeat Saber: Skrillex \u2013 'Bangarang (feat. Sirah)'\nBeat Saber: Skrillex, Starrah & Four Tet \u2013 'Butterflies'\nBeat Saber: Skrillex, Justin Bieber & Don Toliver \u2013 'Don\u2019t Go'\nBeat Saber: Skrillex \u2013 'First of the Year (Equinox) '\nBeat Saber: Skrillex \u2013 'Ragga Bomb (feat. Ragga Twins)'\nBeat Saber: Skrillex \u2013 'Rock \u2018n\u2019 Roll (Will Take You to the Mountain)'\nBeat Saber: Skrillex \u2013 'Scary Monsters and Nice Sprites'\nBeat Saber: Skrillex & Wolfgang Gartner \u2013 'The Devil\u2019s Den '\nBeat Saber: Billie Eilish - 'all the good girls go to hell'\nBeat Saber: Billie Eilish - 'bad guy'\nBeat Saber: Billie Eilish - 'bellyache'\nBeat Saber: Billie Eilish - 'bury a friend'\nBeat Saber: Billie Eilish - 'Happier Than Ever'\nBeat Saber: Billie Eilish - 'I Didn't Change My Number'\nBeat Saber: Billie Eilish - 'NDA'\nBeat Saber: Billie Eilish - 'Oxytocin'\nBeat Saber: Billie Eilish - 'Therefore I Am'\nBeat Saber: Billie Eilish - 'you should see me in a crown'\nBeat Saber: Lady Gaga - 'Alejandro'\nBeat Saber: Lady Gaga - 'Bad Romance'\nBeat Saber: Lady Gaga - 'Born This Way'\nBeat Saber: Lady Gaga, Colby O\u2019Donis - 'Just Dance (feat. Colby O\u2019Donis)'\nBeat Saber: Lady Gaga - 'Paparazzi'\nBeat Saber: Lady Gaga - 'Poker Face'\nBeat Saber: Lady Gaga, Ariana Grande - 'Rain On Me (with Ariana Grande)'\nBeat Saber: Lady Gaga - 'Stupid Love'\nBeat Saber: Lady Gaga, Beyonc\u00e9 - 'Telephone (feat. Beyonc\u00e9)'\nBeat Saber: Lady Gaga - 'The Edge Of Glory'\nBeat Saber - Fall Out Boy - 'Centuries'\nBeat Saber - Fall Out Boy - 'Dance, Dance'\nBeat Saber - Fall Out Boy - 'I Don\u2019t Care'\nBeat Saber - Fall Out Boy - 'Immortals'\nBeat Saber - Fall Out Boy - 'Irresistible'\nBeat Saber - Fall Out Boy - 'My Songs Know What You Did In The Dark (Light Em Up)'\nBeat Saber - Fall Out Boy - 'This Ain\u2019t A Scene, It\u2019s An Arms Race'\nBeat Saber - Fall Out Boy - 'Thnks fr th Mmrs'\nBeat Saber - Marshmello - Alone\nBeat Saber - Martin Garrix - Animals\nBeat Saber - Bomfunk MC's - Freestyler\nBeat Saber - deadmau5 - Ghosts 'n' Stuff (feat. Rob Swire)\nBeat Saber - Madeon - Icarus\nBeat Saber - Darude - Sandstorm\nBeat Saber - Zedd - Stay The Night (feat. Hayley Williams)\nBeat Saber - Fatboy Slim - The Rockafeller Skank\nBeat Saber - Rudimental - Waiting All Night (feat. Ella Eyre)\nBeat Saber - Pendulum - Witchcraft\nBeat Saber - Lizzo - \"2 Be Loved (Am I Ready)\"\nBeat Saber - Lizzo - \"About Damn Time\"\nBeat Saber - Lizzo - \"Cuz I Love You\"\nBeat Saber - Lizzo - \"Everybody's Gay\"\nBeat Saber - Lizzo - \"Good As Hell\"\nBeat Saber - Lizzo - \"Juice\"\nBeat Saber - Lizzo - \"Tempo (feat. Missy Elliot)\"\nBeat Saber - Lizzo - \"Truth Hurts\"\nBeat Saber - Lizzo - \"Worship\"\nBeat Saber - The Weeknd - \"Blinding Lights\"\nBeat Saber - The Weeknd - \"Can't Feel My Face\"\nBeat Saber - The Weeknd - \"How Do I Make You Love Me?\"\nBeat Saber - The Weeknd - \"I Feel It Coming (Feat. Daft Punk)\"\nBeat Saber - The Weeknd, Kendrick Lamar - \"Pray For Me\"\nBeat Saber - The Weeknd - \"Sacrifice\"\nBeat Saber - The Weeknd - \"Save Your Tears\"\nBeat Saber - The Weeknd - \"Starboy\" (feat. Daft Punk)\nBeat Saber - The Weeknd - \"Take My Breath\"\nBeat Saber - The Weeknd - \"The Hills\"\nBeat Saber - Steppenwolf - \"Born To Be Wild\"\nBeat Saber - Survivor - \"Eye of the Tiger\"\nBeat Saber - Lynyrd Skynyrd - \"Free Bird\"\nBeat Saber - KISS - \"I Was Made For Lovin' You\"\nBeat Saber - The White Stripes - \"Seven Nation Army\"\nBeat Saber - Nirvana - \"Smells Like Teen Spirit\"\nBeat Saber - Guns N' Roses - \"Sweet Child O' Mine\"\nBeat Saber - Foo Fighters - \"The Pretender\"\nBeat Saber - Imagine Dragons - Bones\nBeat Saber - Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends)\nBeat Saber - Panic! At The Disco - \"Crazy = Genius\"\nBeat Saber - Panic! At The Disco - \"Dancing\u2019s Not A Crime\"\nBeat Saber - Panic! At The Disco - \"Hey Look Ma, I Made It\"\nBeat Saber - Panic! At The Disco - \"Say Amen (Saturday Night)\"\nBeat Saber - Panic! At The Disco - \"Sugar Soaker\"\nBeat Saber - Panic! At The Disco - \"Viva Las Vengeance\"\nBeat Saber - Queen - Another One Bites the Dust\nBeat Saber - Queen - Bohemian Rhapsody\nBeat Saber - Queen - Crazy Little Thing Called Love\nBeat Saber - Queen - Don\u2019t Stop Me Now\nBeat Saber - Queen - I Want It All\nBeat Saber - Queen - Killer Queen\nBeat Saber - Queen - One Vision\nBeat Saber - Queen - Somebody to Love\nBeat Saber - Queen - Stone Cold Crazy\nBeat Saber - Queen - We Are The Champions\nBeat Saber - Queen - We Will Rock You\nBeat Saber - The Weeknd - Die For You (Feat. Arianda Grande)\nBeat Saber - The Weeknd - Less Than Zero\nBeat Saber - Mike Shinoda - Already Over\nBeat Saber - Linkin Park - Crawling\nBeat Saber - Linkin Park - Fighting Myself\nBeat Saber - Mike Shinoda & Kaliee Morgue - In My Head\nBeat Saber - Linkin Park - Lost\nBeat Saber - Linkin Park - More The Victim\nBeat Saber - JAY-Z, Linkin Park - Numb/Encore\nBeat Saber - Fort Minor - Remember the Name (feat. Styles of Beyond)\nBeat Saber - The Rolling Stones - \"Angry\"\nBeat Saber - The Rolling Stones - \"Bite My Head Off\"\nBeat Saber - The Rolling Stones - \"Can\u2019t You Hear Me Knocking\"\nBeat Saber - The Rolling Stones - \"Gimme Shelter\"\nBeat Saber - The Rolling Stones - \"(I Can\u2019t Get No) Satisfaction\"\nBeat Saber - The Rolling Stones - \"Live by the Sword\"\nBeat Saber - The Rolling Stones - \"Mess it Up\"\nBeat Saber - The Rolling Stones - \"Paint It Black\"\nBeat Saber - The Rolling Stones - \"Start Me Up\"\nBeat Saber - The Rolling Stones - \"Sympathy For The Devil\"\nBeat Saber - The Rolling Stones - \"Whole Wide World\"\nBeat Saber - Daft Punk - \"Around The World\"\nBeat Saber - Daft Punk - \"Around The World / Harder Better Faster Stronger\"\nBeat Saber - Daft Punk - \"Da Funk / Daftendirekt\"\nBeat Saber - Daft Punk - \"Get Lucky (feat. Pharrell Williams and Nile Rodgers)\"\nBeat Saber - Daft Punk - \"Harder, Better, Faster, Stronger\"\nBeat Saber - Daft Punk - \"Lose Yourself to Dance (feat. Pharrell Williams)\"\nBeat Saber - Daft Punk - \"One More Time\"\nBeat Saber - Daft Punk - \"Technologic\"\nBeat Saber - Daft Punk - \"The Prime Time of Your Life/The Brainwasher/Rollin'/Alive (Live 2007)\"\nBeat Saber - Daft Punk - \"Veridis Quo\"\nBeat Saber - 2Pac - \"All Eyez On Me (feat. Big Syke)\"\nBeat Saber - Nicki Minaj - \"Anaconda\"\nBeat Saber - Snoop Dogg - \"Gin and Juice\"\nBeat Saber - Eminem - \"Godzilla (feat. Juice WRLD)\"\nBeat Saber - Outkast - \"Hey Ya!\"\nBeat Saber - The Notorious B.I.G. - \"Hypnotize\"\nBeat Saber - Dr Dre - \"Nuthin\u2019 But A \u201cG\u201d Thang\"\nBeat Saber - Grandmaster Flash & The Furious Five - \"The Message\"\nBeat Saber - Pop Smoke - \"The Woo (feat. 50 Cent, Roddy Ricch)\"\nBeat Saber - Britney Spears - \u2026Baby One More Time\nBeat Saber - Britney Spears - Circus\nBeat Saber - Britney Spears - Gimme More\nBeat Saber - Britney Spears - I\u2019m A Slave 4 U\nBeat Saber - Britney Spears - Me Against the Music (feat. Madonna)\nBeat Saber - Britney Spears - Oops!...I Did It Again\nBeat Saber - Britney Spears - Overprotected\nBeat Saber - Britney Spears x Will.I.AM - Scream and Shout (Will.I.AM)\nBeat Saber - Britney Spears - Till the World Ends - Till the World Ends\nBeat Saber - Britney Spears - Toxic\nBeat Saber - Britney Spears - Womanizer\nBeat Saber - Monstercat Mixtape 2 - Teminite & Skybreak - \"Accelerate\"\nBeat Saber - Monstercat Mixtape 2 - Excision & Dion Timmer - \"DABADABADABADABA\"\nBeat Saber - Monstercat Mixtape 2 - Grant & Ellis - \"Dead Man Walking\"\nBeat Saber - Monstercat Mixtape 2 - Bossfight - \"Endgame\"\nBeat Saber - Monstercat Mixtape 2 - Nitro Fun - \"Final Boss\"\nBeat Saber - Monstercat Mixtape 2 - Dyro x Conro - \"Memory Bank\"\nBeat Saber - Monstercat Mixtape 2 - F.O.O.L & Power Glove - \"Mercenary\"\nBeat Saber - Monstercat Mixtape 2 - Teddy Killerz & Pegboard Nerds - \"Pump\"\nBeat Saber - Monstercat Mixtape 2 - Tokyo Machine - \"RAD\"\nBeat Saber - Monstercat Mixtape 2 - \u00d6wnboss & Selva - \"RIOT\"\nBeat Saber - Monstercat Mixtape 2 - Sullivan King - \"Thrones of Blood\"\nBeat Saber - Monstercat Mixtape 2 - Alan Walker - \"Wake Up\"\nBeat Saber - Metallica - \"Atlas, Rise!\"\nBeat Saber - Metallica - \"Battery\"\nBeat Saber - Metallica - \"Blackened\"\nBeat Saber - Metallica - \"Creeping Death\"\nBeat Saber - Metallica - \"Enter Sandman\"\nBeat Saber - Metallica - \"Fade to Black\"\nBeat Saber - Metallica - \"For Whom the Bell Tolls\"\nBeat Saber - Metallica - \"Fuel\"\nBeat Saber - Metallica - \"Hit the Lights\"\nBeat Saber - Metallica - \"King Nothing\"\nBeat Saber - Metallica - \"Lux \u00c6terna\"\nBeat Saber - Metallica - \"Master of Puppets\"\nBeat Saber - Metallica - \"Nothing Else Matters\"\nBeat Saber - Metallica - \"One\"\nBeat Saber - Metallica - \"Sad But True\"\nBeat Saber - Metallica - \"Seek & Destroy\"\nBeat Saber - Metallica - \"The Unforgiven\"\nBeat Saber - Kendrick Lamar - \"Not Like Us\"\nBeat Saber - Kaydence & Timbaland - \"Dumb Thingz\"\nBeat Saber - Sid Tipton & Timbaland - \"Has A Meaning\"\nBeat Saber - Wavezswavesz - \"While We\u2019re Young\"\nBeat Saber - Nash Overstreet, Karra & Common Strangers - \"What I Like\"\nBeat Saber - Bruno Martini & Timbaland - \"Famous ft. Jake Davis\"\nBeat Saber - Green Day - \"American Idiot\"\nBeat Saber - Green Day - \"Father of All...\"\nBeat Saber - Green Day - \"Boulevard Of Broken Dreams\"\nBeat Saber - Green Day - \"Holiday\"\nBeat Saber - Green Day - \"Fire, Ready, Aim\"\nBeat Saber - Green Day - \"Minority\"\nBeat Saber - Tokyo Machine \u2013 \"PLAY\"\nBeat Saber - Stephen Walking \u2013 \"Glide\"\nBeat Saber - Slushii \u2013 \"LUV U NEED U\"\nBeat Saber - Tokyo Machine \u2013 \"ROCK IT\"\nBeat Saber - Dion Timmer \u2013 \"Shiawase\"\nBeat Saber - Slushii & Dion Timmer \u2013 \"Test Me\"\nBeat Saber - Panic! at the Disco - \"The Greatest Show\"\nBeat Saber - Panic! at the Disco - \"Emperor's New Clothes\"\nBeat Saber - Panic! at the Disco - \"Victorious\"\nBeat Saber - Panic! at the Disco - \"High Hopes\"\nBeat Saber - Imagine Dragons - \"Bad Liar\"\nBeat Saber - Imagine Dragons - \"Believer\"\nBeat Saber - Imagine Dragons - \"Digital\"\nBeat Saber - Imagine Dragons - \"It's Time\"\nBeat Saber - Imagine Dragons - \"Machine\"\nBeat Saber - Imagine Dragons - \"Natural\"\nBeat Saber - Imagine Dragons - \"Radioactive\"\nBeat Saber - Imagine Dragons - \"Thunder\"\nBeat Saber - Imagine Dragons - \"Warriors\"\nBeat Saber - Imagine Dragons - \"Whatever It Takes\"\nBeat Saber - Aero Chord - \"Boundless\"\nBeat Saber - Pegboard Nerds - \"Emoji VIP\"\nBeat Saber - Tokyo Machine - \"EPIC\"\nBeat Saber - Muzzy - \"Feeling Stronger (feat. Charlotte Colley)\"\nBeat Saber - RIOT - \"Overkill\"\nBeat Saber - Rogue - \"Rattlesnake\"\nBeat Saber - Stonebank - \"Stronger (feat. Emel)\"\nBeat Saber - Kayzo - \"This Time\"\nBeat Saber - Tristam - \"Till It's Over\"\nBeat Saber - Feint - \"We Won't Be Alone (feat. Laura Brehm)\"\nBeat Saber - Linkin Park - \"Bleed It Out\"\nBeat Saber - Linkin Park - \"Breaking the Habit\"\nBeat Saber - Linkin Park - \"Faint\"\nBeat Saber - Linkin Park - \"Given Up\"\nBeat Saber - Linkin Park - \"In the End\"\nBeat Saber - Linkin Park - \"New Divide\"\nBeat Saber - Linkin Park - \"Numb\"\nBeat Saber - Linkin Park - \"One Step Closer\"\nBeat Saber - Linkin Park - \"Papercut\"\nBeat Saber - Linkin Park - \"Somewhere I Belong\"\nBeat Saber - Linkin Park - \"What I've Done\"\nBeat Saber - BTS - \"Blood Sweat & Tears\"\nBeat Saber - BTS - \"Boy With Luv (feat. Halsey)\"\nBeat Saber - BTS - \"Burning Up (Fire)\"\nBeat Saber - BTS - \"Dionysus\"\nBeat Saber - BTS - \"DNA\"\nBeat Saber - BTS - \"Dope\"\nBeat Saber - BTS - \"Dynamite\"\nBeat Saber - BTS - \"FAKE LOVE\"\nBeat Saber - BTS - \"IDOL\"\nBeat Saber - BTS - \"MIC Drop (Steve Aoki Remix)\"\nBeat Saber - BTS - \"Not Today\"\nBeat Saber - BTS - \"UGH!\"\nBeat Saber - OneRepublic - \"Counting Stars\"\nBeat Saber - Kendrick Lamar - \"DNA.\"\nBeat Saber: The Pussycat Dolls \u2013 'Don't Cha'\nBeat Saber: LMFAO ft. Lauren Bennett, GoonRock \u2013 'Party Rock Anthem'\nBeat Saber: Limp Bizkit  \u2013 'Rollin\u2019 (Air Raid Vehicle)'\nBeat Saber: Maroon 5 \u2013 'Sugar'\nBeat Saber: Gwen Stefani \u2013 'The Sweet Escape ft. Akon'\nBeat Saber: Skrillex \u2013 'Bangarang (feat. Sirah)'\nBeat Saber: Skrillex, Starrah & Four Tet \u2013 'Butterflies'\nBeat Saber: Skrillex, Justin Bieber & Don Toliver \u2013 'Don\u2019t Go'\nBeat Saber: Skrillex \u2013 'First of the Year (Equinox) '\nBeat Saber: Skrillex \u2013 'Ragga Bomb (feat. Ragga Twins)'\nBeat Saber: Skrillex \u2013 'Rock \u2018n\u2019 Roll (Will Take You to the Mountain)'\nBeat Saber: Skrillex \u2013 'Scary Monsters and Nice Sprites'\nBeat Saber: Skrillex & Wolfgang Gartner \u2013 'The Devil\u2019s Den '\nBeat Saber: Billie Eilish - 'all the good girls go to hell'\nBeat Saber: Billie Eilish - 'bad guy'\nBeat Saber: Billie Eilish - 'bellyache'\nBeat Saber: Billie Eilish - 'bury a friend'\nBeat Saber: Billie Eilish - 'Happier Than Ever'\nBeat Saber: Billie Eilish - 'I Didn't Change My Number'\nBeat Saber: Billie Eilish - 'NDA'\nBeat Saber: Billie Eilish - 'Oxytocin'\nBeat Saber: Billie Eilish - 'Therefore I Am'\nBeat Saber: Billie Eilish - 'you should see me in a crown'\nBeat Saber: Lady Gaga - 'Alejandro'\nBeat Saber: Lady Gaga - 'Bad Romance'\nBeat Saber: Lady Gaga - 'Born This Way'\nBeat Saber: Lady Gaga, Colby O\u2019Donis - 'Just Dance (feat. Colby O\u2019Donis)'\nBeat Saber: Lady Gaga - 'Paparazzi'\nBeat Saber: Lady Gaga - 'Poker Face'\nBeat Saber: Lady Gaga, Ariana Grande - 'Rain On Me (with Ariana Grande)'\nBeat Saber: Lady Gaga - 'Stupid Love'\nBeat Saber: Lady Gaga, Beyonc\u00e9 - 'Telephone (feat. Beyonc\u00e9)'\nBeat Saber: Lady Gaga - 'The Edge Of Glory'\nBeat Saber - Fall Out Boy - 'Centuries'\nBeat Saber - Fall Out Boy - 'Dance, Dance'\nBeat Saber - Fall Out Boy - 'I Don\u2019t Care'\nBeat Saber - Fall Out Boy - 'Immortals'\nBeat Saber - Fall Out Boy - 'Irresistible'\nBeat Saber - Fall Out Boy - 'My Songs Know What You Did In The Dark (Light Em Up)'\nBeat Saber - Fall Out Boy - 'This Ain\u2019t A Scene, It\u2019s An Arms Race'\nBeat Saber - Fall Out Boy - 'Thnks fr th Mmrs'\nBeat Saber - Marshmello - Alone\nBeat Saber - Martin Garrix - Animals\nBeat Saber - Bomfunk MC's - Freestyler\nBeat Saber - deadmau5 - Ghosts 'n' Stuff (feat. Rob Swire)\nBeat Saber - Madeon - Icarus\nBeat Saber - Darude - Sandstorm\nBeat Saber - Zedd - Stay The Night (feat. Hayley Williams)\nBeat Saber - Fatboy Slim - The Rockafeller Skank\nBeat Saber - Rudimental - Waiting All Night (feat. Ella Eyre)\nBeat Saber - Pendulum - Witchcraft\nBeat Saber - Lizzo - \"2 Be Loved (Am I Ready)\"\nBeat Saber - Lizzo - \"About Damn Time\"\nBeat Saber - Lizzo - \"Cuz I Love You\"\nBeat Saber - Lizzo - \"Everybody's Gay\"\nBeat Saber - Lizzo - \"Good As Hell\"\nBeat Saber - Lizzo - \"Juice\"\nBeat Saber - Lizzo - \"Tempo (feat. Missy Elliot)\"\nBeat Saber - Lizzo - \"Truth Hurts\"\nBeat Saber - Lizzo - \"Worship\"\nBeat Saber - The Weeknd - \"Blinding Lights\"\nBeat Saber - The Weeknd - \"Can't Feel My Face\"\nBeat Saber - The Weeknd - \"How Do I Make You Love Me?\"\nBeat Saber - The Weeknd - \"I Feel It Coming (Feat. Daft Punk)\"\nBeat Saber - The Weeknd, Kendrick Lamar - \"Pray For Me\"\nBeat Saber - The Weeknd - \"Sacrifice\"\nBeat Saber - The Weeknd - \"Save Your Tears\"\nBeat Saber - The Weeknd - \"Starboy\" (feat. Daft Punk)\nBeat Saber - The Weeknd - \"Take My Breath\"\nBeat Saber - The Weeknd - \"The Hills\"\nBeat Saber - Steppenwolf - \"Born To Be Wild\"\nBeat Saber - Survivor - \"Eye of the Tiger\"\nBeat Saber - Lynyrd Skynyrd - \"Free Bird\"\nBeat Saber - KISS - \"I Was Made For Lovin' You\"\nBeat Saber - The White Stripes - \"Seven Nation Army\"\nBeat Saber - Nirvana - \"Smells Like Teen Spirit\"\nBeat Saber - Guns N' Roses - \"Sweet Child O' Mine\"\nBeat Saber - Foo Fighters - \"The Pretender\"\nBeat Saber - Imagine Dragons - Bones\nBeat Saber - Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends)\nBeat Saber - Panic! At The Disco - \"Crazy = Genius\"\nBeat Saber - Panic! At The Disco - \"Dancing\u2019s Not A Crime\"\nBeat Saber - Panic! At The Disco - \"Hey Look Ma, I Made It\"\nBeat Saber - Panic! At The Disco - \"Say Amen (Saturday Night)\"\nBeat Saber - Panic! At The Disco - \"Sugar Soaker\"\nBeat Saber - Panic! At The Disco - \"Viva Las Vengeance\"\nBeat Saber - Queen - Another One Bites the Dust\nBeat Saber - Queen - Bohemian Rhapsody\nBeat Saber - Queen - Crazy Little Thing Called Love\nBeat Saber - Queen - Don\u2019t Stop Me Now\nBeat Saber - Queen - I Want It All\nBeat Saber - Queen - Killer Queen\nBeat Saber - Queen - One Vision\nBeat Saber - Queen - Somebody to Love\nBeat Saber - Queen - Stone Cold Crazy\nBeat Saber - Queen - We Are The Champions\nBeat Saber - Queen - We Will Rock You\nBeat Saber - The Weeknd - Die For You (Feat. Arianda Grande)\nBeat Saber - The Weeknd - Less Than Zero\nBeat Saber - Mike Shinoda - Already Over\nBeat Saber - Linkin Park - Crawling\nBeat Saber - Linkin Park - Fighting Myself\nBeat Saber - Mike Shinoda & Kaliee Morgue - In My Head\nBeat Saber - Linkin Park - Lost\nBeat Saber - Linkin Park - More The Victim\nBeat Saber - JAY-Z, Linkin Park - Numb/Encore\nBeat Saber - Fort Minor - Remember the Name (feat. Styles of Beyond)\nBeat Saber - The Rolling Stones - \"Angry\"\nBeat Saber - The Rolling Stones - \"Bite My Head Off\"\nBeat Saber - The Rolling Stones - \"Can\u2019t You Hear Me Knocking\"\nBeat Saber - The Rolling Stones - \"Gimme Shelter\"\nBeat Saber - The Rolling Stones - \"(I Can\u2019t Get No) Satisfaction\"\nBeat Saber - The Rolling Stones - \"Live by the Sword\"\nBeat Saber - The Rolling Stones - \"Mess it Up\"\nBeat Saber - The Rolling Stones - \"Paint It Black\"\nBeat Saber - The Rolling Stones - \"Start Me Up\"\nBeat Saber - The Rolling Stones - \"Sympathy For The Devil\"\nBeat Saber - The Rolling Stones - \"Whole Wide World\"\nBeat Saber - Daft Punk - \"Around The World\"\nBeat Saber - Daft Punk - \"Around The World / Harder Better Faster Stronger\"\nBeat Saber - Daft Punk - \"Da Funk / Daftendirekt\"\nBeat Saber - Daft Punk - \"Get Lucky (feat. Pharrell Williams and Nile Rodgers)\"\nBeat Saber - Daft Punk - \"Harder, Better, Faster, Stronger\"\nBeat Saber - Daft Punk - \"Lose Yourself to Dance (feat. Pharrell Williams)\"\nBeat Saber - Daft Punk - \"One More Time\"\nBeat Saber - Daft Punk - \"Technologic\"\nBeat Saber - Daft Punk - \"The Prime Time of Your Life/The Brainwasher/Rollin'/Alive (Live 2007)\"\nBeat Saber - Daft Punk - \"Veridis Quo\"\nBeat Saber - 2Pac - \"All Eyez On Me (feat. Big Syke)\"\nBeat Saber - Nicki Minaj - \"Anaconda\"\nBeat Saber - Snoop Dogg - \"Gin and Juice\"\nBeat Saber - Eminem - \"Godzilla (feat. Juice WRLD)\"\nBeat Saber - Outkast - \"Hey Ya!\"\nBeat Saber - The Notorious B.I.G. - \"Hypnotize\"\nBeat Saber - Dr Dre - \"Nuthin\u2019 But A \u201cG\u201d Thang\"\nBeat Saber - Grandmaster Flash & The Furious Five - \"The Message\"\nBeat Saber - Pop Smoke - \"The Woo (feat. 50 Cent, Roddy Ricch)\"\nBeat Saber - Britney Spears - \u2026Baby One More Time\nBeat Saber - Britney Spears - Circus\nBeat Saber - Britney Spears - Gimme More\nBeat Saber - Britney Spears - I\u2019m A Slave 4 U\nBeat Saber - Britney Spears - Me Against the Music (feat. Madonna)\nBeat Saber - Britney Spears - Oops!...I Did It Again\nBeat Saber - Britney Spears - Overprotected\nBeat Saber - Britney Spears x Will.I.AM - Scream and Shout (Will.I.AM)\nBeat Saber - Britney Spears - Till the World Ends - Till the World Ends\nBeat Saber - Britney Spears - Toxic\nBeat Saber - Britney Spears - Womanizer\nBeat Saber - Monstercat Mixtape 2 - Teminite & Skybreak - \"Accelerate\"\nBeat Saber - Monstercat Mixtape 2 - Excision & Dion Timmer - \"DABADABADABADABA\"\nBeat Saber - Monstercat Mixtape 2 - Grant & Ellis - \"Dead Man Walking\"\nBeat Saber - Monstercat Mixtape 2 - Bossfight - \"Endgame\"\nBeat Saber - Monstercat Mixtape 2 - Nitro Fun - \"Final Boss\"\nBeat Saber - Monstercat Mixtape 2 - Dyro x Conro - \"Memory Bank\"\nBeat Saber - Monstercat Mixtape 2 - F.O.O.L & Power Glove - \"Mercenary\"\nBeat Saber - Monstercat Mixtape 2 - Teddy Killerz & Pegboard Nerds - \"Pump\"\nBeat Saber - Monstercat Mixtape 2 - Tokyo Machine - \"RAD\"\nBeat Saber - Monstercat Mixtape 2 - \u00d6wnboss & Selva - \"RIOT\"\nBeat Saber - Monstercat Mixtape 2 - Sullivan King - \"Thrones of Blood\"\nBeat Saber - Monstercat Mixtape 2 - Alan Walker - \"Wake Up\"\nBeat Saber - Metallica - \"Atlas, Rise!\"\nBeat Saber - Metallica - \"Battery\"\nBeat Saber - Metallica - \"Blackened\"\nBeat Saber - Metallica - \"Creeping Death\"\nBeat Saber - Metallica - \"Enter Sandman\"\nBeat Saber - Metallica - \"Fade to Black\"\nBeat Saber - Metallica - \"For Whom the Bell Tolls\"\nBeat Saber - Metallica - \"Fuel\"\nBeat Saber - Metallica - \"Hit the Lights\"\nBeat Saber - Metallica - \"King Nothing\"\nBeat Saber - Metallica - \"Lux \u00c6terna\"\nBeat Saber - Metallica - \"Master of Puppets\"\nBeat Saber - Metallica - \"Nothing Else Matters\"\nBeat Saber - Metallica - \"One\"\nBeat Saber - Metallica - \"Sad But True\"\nBeat Saber - Metallica - \"Seek & Destroy\"\nBeat Saber - Metallica - \"The Unforgiven\"\nBeat Saber - Kendrick Lamar - \"Not Like Us\"\nBeat Saber - Kaydence & Timbaland - \"Dumb Thingz\"\nBeat Saber - Sid Tipton & Timbaland - \"Has A Meaning\"\nBeat Saber - Wavezswavesz - \"While We\u2019re Young\"\nBeat Saber - Nash Overstreet, Karra & Common Strangers - \"What I Like\"\nBeat Saber - Bruno Martini & Timbaland - \"Famous ft. Jake Davis\"\nBeat Saber - Green Day - \"American Idiot\"\nBeat Saber - Green Day - \"Father of All...\"\nBeat Saber - Green Day - \"Boulevard Of Broken Dreams\"\nBeat Saber - Green Day - \"Holiday\"\nBeat Saber - Green Day - \"Fire, Ready, Aim\"\nBeat Saber - Green Day - \"Minority\"\nBeat Saber - Tokyo Machine \u2013 \"PLAY\"\nBeat Saber - Stephen Walking \u2013 \"Glide\"\nBeat Saber - Slushii \u2013 \"LUV U NEED U\"\nBeat Saber - Tokyo Machine \u2013 \"ROCK IT\"\nBeat Saber - Dion Timmer \u2013 \"Shiawase\"\nBeat Saber - Slushii & Dion Timmer \u2013 \"Test Me\"\nBeat Saber - Panic! at the Disco - \"The Greatest Show\"\nBeat Saber - Panic! at the Disco - \"Emperor's New Clothes\"\nBeat Saber - Panic! at the Disco - \"Victorious\"\nBeat Saber - Panic! at the Disco - \"High Hopes\"\nBeat Saber - Imagine Dragons - \"Bad Liar\"\nBeat Saber - Imagine Dragons - \"Believer\"\nBeat Saber - Imagine Dragons - \"Digital\"\nBeat Saber - Imagine Dragons - \"It's Time\"\nBeat Saber - Imagine Dragons - \"Machine\"\nBeat Saber - Imagine Dragons - \"Natural\"\nBeat Saber - Imagine Dragons - \"Radioactive\"\nBeat Saber - Imagine Dragons - \"Thunder\"\nBeat Saber - Imagine Dragons - \"Warriors\"\nBeat Saber - Imagine Dragons - \"Whatever It Takes\"\nBeat Saber - Aero Chord - \"Boundless\"\nBeat Saber - Pegboard Nerds - \"Emoji VIP\"\nBeat Saber - Tokyo Machine - \"EPIC\"\nBeat Saber - Muzzy - \"Feeling Stronger (feat. Charlotte Colley)\"\nBeat Saber - RIOT - \"Overkill\"\nBeat Saber - Rogue - \"Rattlesnake\"\nBeat Saber - Stonebank - \"Stronger (feat. Emel)\"\nBeat Saber - Kayzo - \"This Time\"\nBeat Saber - Tristam - \"Till It's Over\"\nBeat Saber - Feint - \"We Won't Be Alone (feat. Laura Brehm)\"\nBeat Saber - Linkin Park - \"Bleed It Out\"\nBeat Saber - Linkin Park - \"Breaking the Habit\"\nBeat Saber - Linkin Park - \"Faint\"\nBeat Saber - Linkin Park - \"Given Up\"\nBeat Saber - Linkin Park - \"In the End\"\nBeat Saber - Linkin Park - \"New Divide\"\nBeat Saber - Linkin Park - \"Numb\"\nBeat Saber - Linkin Park - \"One Step Closer\"\nBeat Saber - Linkin Park - \"Papercut\"\nBeat Saber - Linkin Park - \"Somewhere I Belong\"\nBeat Saber - Linkin Park - \"What I've Done\"\nBeat Saber - BTS - \"Blood Sweat & Tears\"\nBeat Saber - BTS - \"Boy With Luv (feat. Halsey)\"\nBeat Saber - BTS - \"Burning Up (Fire)\"\nBeat Saber - BTS - \"Dionysus\"\nBeat Saber - BTS - \"DNA\"\nBeat Saber - BTS - \"Dope\"\nBeat Saber - BTS - \"Dynamite\"\nBeat Saber - BTS - \"FAKE LOVE\"\nBeat Saber - BTS - \"IDOL\"\nBeat Saber - BTS - \"MIC Drop (Steve Aoki Remix)\"\nBeat Saber - BTS - \"Not Today\"\nBeat Saber - BTS - \"UGH!\"\nBeat Saber - OneRepublic - \"Counting Stars\"\nBeat Saber - Kendrick Lamar - \"DNA.\"\nBeat Saber: The Pussycat Dolls \u2013 'Don't Cha'\nBeat Saber: LMFAO ft. Lauren Bennett, GoonRock \u2013 'Party Rock Anthem'\nBeat Saber: Limp Bizkit  \u2013 'Rollin\u2019 (Air Raid Vehicle)'\nBeat Saber: Maroon 5 \u2013 'Sugar'\nBeat Saber: Gwen Stefani \u2013 'The Sweet Escape ft. Akon'\nBeat Saber: Skrillex \u2013 'Bangarang (feat. Sirah)'\nBeat Saber: Skrillex, Starrah & Four Tet \u2013 'Butterflies'\nBeat Saber: Skrillex, Justin Bieber & Don Toliver \u2013 'Don\u2019t Go'\nBeat Saber: Skrillex \u2013 'First of the Year (Equinox) '\nBeat Saber: Skrillex \u2013 'Ragga Bomb (feat. Ragga Twins)'\nBeat Saber: Skrillex \u2013 'Rock \u2018n\u2019 Roll (Will Take You to the Mountain)'\nBeat Saber: Skrillex \u2013 'Scary Monsters and Nice Sprites'\nBeat Saber: Skrillex & Wolfgang Gartner \u2013 'The Devil\u2019s Den '\nBeat Saber: Billie Eilish - 'all the good girls go to hell'\nBeat Saber: Billie Eilish - 'bad guy'\nBeat Saber: Billie Eilish - 'bellyache'\nBeat Saber: Billie Eilish - 'bury a friend'\nBeat Saber: Billie Eilish - 'Happier Than Ever'\nBeat Saber: Billie Eilish - 'I Didn't Change My Number'\nBeat Saber: Billie Eilish - 'NDA'\nBeat Saber: Billie Eilish - 'Oxytocin'\nBeat Saber: Billie Eilish - 'Therefore I Am'\nBeat Saber: Billie Eilish - 'you should see me in a crown'\nBeat Saber: Lady Gaga - 'Alejandro'\nBeat Saber: Lady Gaga - 'Bad Romance'\nBeat Saber: Lady Gaga - 'Born This Way'\nBeat Saber: Lady Gaga, Colby O\u2019Donis - 'Just Dance (feat. Colby O\u2019Donis)'\nBeat Saber: Lady Gaga - 'Paparazzi'\nBeat Saber: Lady Gaga - 'Poker Face'\nBeat Saber: Lady Gaga, Ariana Grande - 'Rain On Me (with Ariana Grande)'\nBeat Saber: Lady Gaga - 'Stupid Love'\nBeat Saber: Lady Gaga, Beyonc\u00e9 - 'Telephone (feat. Beyonc\u00e9)'\nBeat Saber: Lady Gaga - 'The Edge Of Glory'\nBeat Saber - Fall Out Boy - 'Centuries'\nBeat Saber - Fall Out Boy - 'Dance, Dance'\nBeat Saber - Fall Out Boy - 'I Don\u2019t Care'\nBeat Saber - Fall Out Boy - 'Immortals'\nBeat Saber - Fall Out Boy - 'Irresistible'\nBeat Saber - Fall Out Boy - 'My Songs Know What You Did In The Dark (Light Em Up)'\nBeat Saber - Fall Out Boy - 'This Ain\u2019t A Scene, It\u2019s An Arms Race'\nBeat Saber - Fall Out Boy - 'Thnks fr th Mmrs'\nBeat Saber - Marshmello - Alone\nBeat Saber - Martin Garrix - Animals\nBeat Saber - Bomfunk MC's - Freestyler\nBeat Saber - deadmau5 - Ghosts 'n' Stuff (feat. Rob Swire)\nBeat Saber - Madeon - Icarus\nBeat Saber - Darude - Sandstorm\nBeat Saber - Zedd - Stay The Night (feat. Hayley Williams)\nBeat Saber - Fatboy Slim - The Rockafeller Skank\nBeat Saber - Rudimental - Waiting All Night (feat. Ella Eyre)\nBeat Saber - Pendulum - Witchcraft\nBeat Saber - Lizzo - \"2 Be Loved (Am I Ready)\"\nBeat Saber - Lizzo - \"About Damn Time\"\nBeat Saber - Lizzo - \"Cuz I Love You\"\nBeat Saber - Lizzo - \"Everybody's Gay\"\nBeat Saber - Lizzo - \"Good As Hell\"\nBeat Saber - Lizzo - \"Juice\"\nBeat Saber - Lizzo - \"Tempo (feat. Missy Elliot)\"\nBeat Saber - Lizzo - \"Truth Hurts\"\nBeat Saber - Lizzo - \"Worship\"\nBeat Saber - The Weeknd - \"Blinding Lights\"\nBeat Saber - The Weeknd - \"Can't Feel My Face\"\nBeat Saber - The Weeknd - \"How Do I Make You Love Me?\"\nBeat Saber - The Weeknd - \"I Feel It Coming (Feat. Daft Punk)\"\nBeat Saber - The Weeknd, Kendrick Lamar - \"Pray For Me\"\nBeat Saber - The Weeknd - \"Sacrifice\"\nBeat Saber - The Weeknd - \"Save Your Tears\"\nBeat Saber - The Weeknd - \"Starboy\" (feat. Daft Punk)\nBeat Saber - The Weeknd - \"Take My Breath\"\nBeat Saber - The Weeknd - \"The Hills\"\nBeat Saber - Steppenwolf - \"Born To Be Wild\"\nBeat Saber - Survivor - \"Eye of the Tiger\"\nBeat Saber - Lynyrd Skynyrd - \"Free Bird\"\nBeat Saber - KISS - \"I Was Made For Lovin' You\"\nBeat Saber - The White Stripes - \"Seven Nation Army\"\nBeat Saber - Nirvana - \"Smells Like Teen Spirit\"\nBeat Saber - Guns N' Roses - \"Sweet Child O' Mine\"\nBeat Saber - Foo Fighters - \"The Pretender\"\nBeat Saber - Imagine Dragons - Bones\nBeat Saber - Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends)\nBeat Saber - Panic! At The Disco - \"Crazy = Genius\"\nBeat Saber - Panic! At The Disco - \"Dancing\u2019s Not A Crime\"\nBeat Saber - Panic! At The Disco - \"Hey Look Ma, I Made It\"\nBeat Saber - Panic! At The Disco - \"Say Amen (Saturday Night)\"\nBeat Saber - Panic! At The Disco - \"Sugar Soaker\"\nBeat Saber - Panic! At The Disco - \"Viva Las Vengeance\"\nBeat Saber - Queen - Another One Bites the Dust\nBeat Saber - Queen - Bohemian Rhapsody\nBeat Saber - Queen - Crazy Little Thing Called Love\nBeat Saber - Queen - Don\u2019t Stop Me Now\nBeat Saber - Queen - I Want It All\nBeat Saber - Queen - Killer Queen\nBeat Saber - Queen - One Vision\nBeat Saber - Queen - Somebody to Love\nBeat Saber - Queen - Stone Cold Crazy\nBeat Saber - Queen - We Are The Champions\nBeat Saber - Queen - We Will Rock You\nBeat Saber - The Weeknd - Die For You (Feat. Arianda Grande)\nBeat Saber - The Weeknd - Less Than Zero\nBeat Saber - Mike Shinoda - Already Over\nBeat Saber - Linkin Park - Crawling\nBeat Saber - Linkin Park - Fighting Myself\nBeat Saber - Mike Shinoda & Kaliee Morgue - In My Head\nBeat Saber - Linkin Park - Lost\nBeat Saber - Linkin Park - More The Victim\nBeat Saber - JAY-Z, Linkin Park - Numb/Encore\nBeat Saber - Fort Minor - Remember the Name (feat. Styles of Beyond)\nBeat Saber - The Rolling Stones - \"Angry\"\nBeat Saber - The Rolling Stones - \"Bite My Head Off\"\nBeat Saber - The Rolling Stones - \"Can\u2019t You Hear Me Knocking\"\nBeat Saber - The Rolling Stones - \"Gimme Shelter\"\nBeat Saber - The Rolling Stones - \"(I Can\u2019t Get No) Satisfaction\"\nBeat Saber - The Rolling Stones - \"Live by the Sword\"\nBeat Saber - The Rolling Stones - \"Mess it Up\"\nBeat Saber - The Rolling Stones - \"Paint It Black\"\nBeat Saber - The Rolling Stones - \"Start Me Up\"\nBeat Saber - The Rolling Stones - \"Sympathy For The Devil\"\nBeat Saber - The Rolling Stones - \"Whole Wide World\"\nBeat Saber - Daft Punk - \"Around The World\"\nBeat Saber - Daft Punk - \"Around The World / Harder Better Faster Stronger\"\nBeat Saber - Daft Punk - \"Da Funk / Daftendirekt\"\nBeat Saber - Daft Punk - \"Get Lucky (feat. Pharrell Williams and Nile Rodgers)\"\nBeat Saber - Daft Punk - \"Harder, Better, Faster, Stronger\"\nBeat Saber - Daft Punk - \"Lose Yourself to Dance (feat. Pharrell Williams)\"\nBeat Saber - Daft Punk - \"One More Time\"\nBeat Saber - Daft Punk - \"Technologic\"\nBeat Saber - Daft Punk - \"The Prime Time of Your Life/The Brainwasher/Rollin'/Alive (Live 2007)\"\nBeat Saber - Daft Punk - \"Veridis Quo\"\nBeat Saber - 2Pac - \"All Eyez On Me (feat. Big Syke)\"\nBeat Saber - Nicki Minaj - \"Anaconda\"\nBeat Saber - Snoop Dogg - \"Gin and Juice\"\nBeat Saber - Eminem - \"Godzilla (feat. Juice WRLD)\"\nBeat Saber - Outkast - \"Hey Ya!\"\nBeat Saber - The Notorious B.I.G. - \"Hypnotize\"\nBeat Saber - Dr Dre - \"Nuthin\u2019 But A \u201cG\u201d Thang\"\nBeat Saber - Grandmaster Flash & The Furious Five - \"The Message\"\nBeat Saber - Pop Smoke - \"The Woo (feat. 50 Cent, Roddy Ricch)\"\nBeat Saber - Britney Spears - \u2026Baby One More Time\nBeat Saber - Britney Spears - Circus\nBeat Saber - Britney Spears - Gimme More\nBeat Saber - Britney Spears - I\u2019m A Slave 4 U\nBeat Saber - Britney Spears - Me Against the Music (feat. Madonna)\nBeat Saber - Britney Spears - Oops!...I Did It Again\nBeat Saber - Britney Spears - Overprotected\nBeat Saber - Britney Spears x Will.I.AM - Scream and Shout (Will.I.AM)\nBeat Saber - Britney Spears - Till the World Ends - Till the World Ends\nBeat Saber - Britney Spears - Toxic\nBeat Saber - Britney Spears - Womanizer\nBeat Saber - Monstercat Mixtape 2 - Teminite & Skybreak - \"Accelerate\"\nBeat Saber - Monstercat Mixtape 2 - Excision & Dion Timmer - \"DABADABADABADABA\"\nBeat Saber - Monstercat Mixtape 2 - Grant & Ellis - \"Dead Man Walking\"\nBeat Saber - Monstercat Mixtape 2 - Bossfight - \"Endgame\"\nBeat Saber - Monstercat Mixtape 2 - Nitro Fun - \"Final Boss\"\nBeat Saber - Monstercat Mixtape 2 - Dyro x Conro - \"Memory Bank\"\nBeat Saber - Monstercat Mixtape 2 - F.O.O.L & Power Glove - \"Mercenary\"\nBeat Saber - Monstercat Mixtape 2 - Teddy Killerz & Pegboard Nerds - \"Pump\"\nBeat Saber - Monstercat Mixtape 2 - Tokyo Machine - \"RAD\"\nBeat Saber - Monstercat Mixtape 2 - \u00d6wnboss & Selva - \"RIOT\"\nBeat Saber - Monstercat Mixtape 2 - Sullivan King - \"Thrones of Blood\"\nBeat Saber - Monstercat Mixtape 2 - Alan Walker - \"Wake Up\"\nBeat Saber - Metallica - \"Atlas, Rise!\"\nBeat Saber - Metallica - \"Battery\"\nBeat Saber - Metallica - \"Blackened\"\nBeat Saber - Metallica - \"Creeping Death\"\nBeat Saber - Metallica - \"Enter Sandman\"\nBeat Saber - Metallica - \"Fade to Black\"\nBeat Saber - Metallica - \"For Whom the Bell Tolls\"\nBeat Saber - Metallica - \"Fuel\"\nBeat Saber - Metallica - \"Hit the Lights\"\nBeat Saber - Metallica - \"King Nothing\"\nBeat Saber - Metallica - \"Lux \u00c6terna\"\nBeat Saber - Metallica - \"Master of Puppets\"\nBeat Saber - Metallica - \"Nothing Else Matters\"\nBeat Saber - Metallica - \"One\"\nBeat Saber - Metallica - \"Sad But True\"\nBeat Saber - Metallica - \"Seek & Destroy\"\nBeat Saber - Metallica - \"The Unforgiven\"\nBeat Saber - Kendrick Lamar - \"Not Like Us\"",
             "count": 244,
             "priceData": {
                 "USD": {
@@ -2522,8 +2577,8 @@ var extrasData =
     "f1eab776-645c-42d1-b640-244cbf4a590d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 7254,
-            "positive": 6959,
+            "total": 7252,
+            "positive": 6957,
             "negative": 295
         }
     },
@@ -2543,6 +2598,7 @@ var extrasData =
             "negative": 62
         },
         "dlc": {
+            "description": "BETON BATH\n\nBETON BATH\n\nBETON BATH\n\nBETON BATH\n\nBETON BATH\n\nBETON BATH",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2588,6 +2644,7 @@ var extrasData =
             "negative": 46
         },
         "dlc": {
+            "description": "Beyond the Long Night: Original Soundtrack\n\nBeyond the Long Night: Original Soundtrack\n\nBeyond the Long Night: Original Soundtrack\n\nBeyond the Long Night: Original Soundtrack\n\nBeyond the Long Night: Original Soundtrack\n\nBeyond the Long Night: Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2633,6 +2690,7 @@ var extrasData =
             "negative": 9
         },
         "dlc": {
+            "description": "Music From Binaries\n\nMusic From Binaries\n\nMusic From Binaries\n\nMusic From Binaries\n\nMusic From Binaries\n\nMusic From Binaries",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2670,6 +2728,7 @@ var extrasData =
             "negative": 58
         },
         "dlc": {
+            "description": "BioGun Soundtrack\n\nBioGun Soundtrack\n\nBioGun Soundtrack\n\nBioGun Soundtrack\n\nBioGun Soundtrack\n\nBioGun Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2707,6 +2766,7 @@ var extrasData =
             "negative": 8694
         },
         "dlc": {
+            "description": "BioShock Infinite - Season Pass\nBioShock Infinite: Burial at Sea - Episode One\nBioShock Infinite: Burial at Sea - Episode Two\nBioShock Infinite: Clash in the Clouds\nBioshock Infinite: Columbia's Finest\nBioShock Infinite - Season Pass\nBioShock Infinite: Burial at Sea - Episode One\nBioShock Infinite: Burial at Sea - Episode Two\nBioShock Infinite: Clash in the Clouds\nBioshock Infinite: Columbia's Finest\nBioShock Infinite - Season Pass\nBioShock Infinite: Burial at Sea - Episode One\nBioShock Infinite: Burial at Sea - Episode Two\nBioShock Infinite: Clash in the Clouds\nBioshock Infinite: Columbia's Finest\nBioShock Infinite - Season Pass\nBioShock Infinite: Burial at Sea - Episode One\nBioShock Infinite: Burial at Sea - Episode Two\nBioShock Infinite: Clash in the Clouds\nBioshock Infinite: Columbia's Finest\nBioShock Infinite - Season Pass\nBioShock Infinite: Burial at Sea - Episode One\nBioShock Infinite: Burial at Sea - Episode Two\nBioShock Infinite: Clash in the Clouds\nBioshock Infinite: Columbia's Finest\nBioShock Infinite - Season Pass\nBioShock Infinite: Burial at Sea - Episode One\nBioShock Infinite: Burial at Sea - Episode Two\nBioShock Infinite: Clash in the Clouds\nBioshock Infinite: Columbia's Finest",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -2760,6 +2820,7 @@ var extrasData =
             "negative": 63
         },
         "dlc": {
+            "description": "BIT.TRIP.CORE Soundtrack\n\nBIT.TRIP.CORE Soundtrack\n\nBIT.TRIP.CORE Soundtrack\n\nBIT.TRIP.CORE Soundtrack\n\nBIT.TRIP.CORE Soundtrack\n\nBIT.TRIP.CORE Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2797,6 +2858,7 @@ var extrasData =
             "negative": 45
         },
         "dlc": {
+            "description": "BIT.TRIP.FATE Soundtrack\n\nBIT.TRIP.FATE Soundtrack\n\nBIT.TRIP.FATE Soundtrack\n\nBIT.TRIP.FATE Soundtrack\n\nBIT.TRIP.FATE Soundtrack\n\nBIT.TRIP.FATE Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2834,6 +2896,7 @@ var extrasData =
             "negative": 10
         },
         "dlc": {
+            "description": "BIT.TRIP RERUNNER Soundtrack\n\nBIT.TRIP RERUNNER Soundtrack\n\nBIT.TRIP RERUNNER Soundtrack\n\nBIT.TRIP RERUNNER Soundtrack\n\nBIT.TRIP RERUNNER Soundtrack\n\nBIT.TRIP RERUNNER Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2879,6 +2942,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "BLACK BIRD SoundTrack\n\nBLACK BIRD Premium Pack\n\nBLACK BIRD SoundTrack\n\nBLACK BIRD Premium Pack\n\nBLACK BIRD SoundTrack\n\nBLACK BIRD Premium Pack\n\nBLACK BIRD SoundTrack\n\nBLACK BIRD Premium Pack\n\nBLACK BIRD SoundTrack\n\nBLACK BIRD Premium Pack\n\nBLACK BIRD SoundTrack\n\nBLACK BIRD Premium Pack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -2916,6 +2980,7 @@ var extrasData =
             "negative": 150
         },
         "dlc": {
+            "description": "BLACKHOLE: Complete Edition Upgrade\nBLACKHOLE: Testing Laboratory\nBLACKHOLE: Original Soundtrack\nBLACKHOLE: Complete Edition Upgrade\nBLACKHOLE: Testing Laboratory\nBLACKHOLE: Original Soundtrack\nBLACKHOLE: Complete Edition Upgrade\nBLACKHOLE: Testing Laboratory\nBLACKHOLE: Original Soundtrack\nBLACKHOLE: Complete Edition Upgrade\nBLACKHOLE: Testing Laboratory\nBLACKHOLE: Original Soundtrack\nBLACKHOLE: Complete Edition Upgrade\nBLACKHOLE: Testing Laboratory\nBLACKHOLE: Original Soundtrack\nBLACKHOLE: Complete Edition Upgrade\nBLACKHOLE: Testing Laboratory\nBLACKHOLE: Original Soundtrack",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -2961,6 +3026,7 @@ var extrasData =
             "negative": 424
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -2993,11 +3059,12 @@ var extrasData =
     "395a38ab-1202-4feb-9210-cee1c8ddeb7b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 51410,
-            "positive": 46323,
-            "negative": 5087
+            "total": 51413,
+            "positive": 46325,
+            "negative": 5088
         },
         "dlc": {
+            "description": "Blasphemous - 'Alloy of Sin' Character Skin\nBlasphemous - Digital Artbook\nBlasphemous - Digital Comic\nBlasphemous - OST\nBlasphemous - 'Alloy of Sin' Character Skin\nBlasphemous - Digital Artbook\nBlasphemous - Digital Comic\nBlasphemous - OST\nBlasphemous - 'Alloy of Sin' Character Skin\nBlasphemous - Digital Artbook\nBlasphemous - Digital Comic\nBlasphemous - OST\nBlasphemous - 'Alloy of Sin' Character Skin\nBlasphemous - Digital Artbook\nBlasphemous - Digital Comic\nBlasphemous - OST\nBlasphemous - 'Alloy of Sin' Character Skin\nBlasphemous - Digital Artbook\nBlasphemous - Digital Comic\nBlasphemous - OST\nBlasphemous - 'Alloy of Sin' Character Skin\nBlasphemous - Digital Artbook\nBlasphemous - Digital Comic\nBlasphemous - OST",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -3035,6 +3102,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3072,6 +3140,7 @@ var extrasData =
             "negative": 666
         },
         "dlc": {
+            "description": "BlazBlue Centralfiction - Additional Playable Character JUBEI\n\nBlazBlue Centralfiction - Additional Playable Character JUBEI\n\nBlazBlue Centralfiction - Additional Playable Character JUBEI\n\nBlazBlue Centralfiction - Additional Playable Character JUBEI\n\nBlazBlue Centralfiction - Additional Playable Character JUBEI\n\nBlazBlue Centralfiction - Additional Playable Character JUBEI",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3125,6 +3194,7 @@ var extrasData =
             "negative": 407
         },
         "dlc": {
+            "description": "Blazing Beaks OST\n\nBlazing Beaks OST\n\nBlazing Beaks OST\n\nBlazing Beaks OST\n\nBlazing Beaks OST\n\nBlazing Beaks OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3162,6 +3232,7 @@ var extrasData =
             "negative": 217
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3215,6 +3286,7 @@ var extrasData =
             "negative": 13
         },
         "dlc": {
+            "description": "Blind Drive Original Soundtrack\n\nBlind Drive Original Soundtrack\n\nBlind Drive Original Soundtrack\n\nBlind Drive Original Soundtrack\n\nBlind Drive Original Soundtrack\n\nBlind Drive Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3252,6 +3324,7 @@ var extrasData =
             "negative": 17
         },
         "dlc": {
+            "description": "Blitz Breaker Soundtrack\n\nBlitz Breaker Soundtrack\n\nBlitz Breaker Soundtrack\n\nBlitz Breaker Soundtrack\n\nBlitz Breaker Soundtrack\n\nBlitz Breaker Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3313,6 +3386,7 @@ var extrasData =
             "negative": 723
         },
         "dlc": {
+            "description": "Bloody Trapland - Soundtrack\n\nBloody Trapland - Soundtrack\n\nBloody Trapland - Soundtrack\n\nBloody Trapland - Soundtrack\n\nBloody Trapland - Soundtrack\n\nBloody Trapland - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3350,6 +3424,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "BLUE REVOLVER Soundtrack\n\nBLUE REVOLVER Soundtrack\n\nBLUE REVOLVER Soundtrack\n\nBLUE REVOLVER Soundtrack\n\nBLUE REVOLVER Soundtrack\n\nBLUE REVOLVER Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3403,6 +3478,7 @@ var extrasData =
             "negative": 53
         },
         "dlc": {
+            "description": "Boomerang X Soundtrack\n\nBoomerang X Soundtrack\n\nBoomerang X Soundtrack\n\nBoomerang X Soundtrack\n\nBoomerang X Soundtrack\n\nBoomerang X Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3464,6 +3540,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "Bouncing Hero Soundtrack\n\nBouncing Hero Soundtrack\n\nBouncing Hero Soundtrack\n\nBouncing Hero Soundtrack\n\nBouncing Hero Soundtrack\n\nBouncing Hero Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3509,6 +3586,7 @@ var extrasData =
             "negative": 1021
         },
         "dlc": {
+            "description": "BPM: BULLETS PER MINUTE Soundtrack\n\nBPM: BULLETS PER MINUTE Soundtrack\n\nBPM: BULLETS PER MINUTE Soundtrack\n\nBPM: BULLETS PER MINUTE Soundtrack\n\nBPM: BULLETS PER MINUTE Soundtrack\n\nBPM: BULLETS PER MINUTE Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3549,11 +3627,12 @@ var extrasData =
     "39808dd6-0742-49e6-84f5-43bde8d9e3e8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5867,
-            "positive": 5573,
+            "total": 5868,
+            "positive": 5574,
             "negative": 294
         },
         "dlc": {
+            "description": "Bramble: The Mountain King Soundtrack\n\nDLC \"Bramble: The Mountain King Digital Artbook\"\n\nBramble: The Mountain King Soundtrack\n\nDLC \"Bramble: The Mountain King Digital Artbook\"\n\nBramble: The Mountain King Soundtrack\n\nDLC \"Bramble: The Mountain King Digital Artbook\"\n\nBramble: The Mountain King Soundtrack\n\nDLC \"Bramble: The Mountain King Digital Artbook\"\n\nBramble: The Mountain King Soundtrack\n\nDLC \"Bramble: The Mountain King Digital Artbook\"\n\nBramble: The Mountain King Soundtrack\n\nDLC \"Bramble: The Mountain King Digital Artbook\"",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -3594,11 +3673,12 @@ var extrasData =
     "c93b650a-c7f9-41cd-a0b3-c21da98aa84a": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 58816,
-            "positive": 57019,
+            "total": 58818,
+            "positive": 57021,
             "negative": 1797
         },
         "dlc": {
+            "description": "Broforce: The Soundtrack\n\nBroforce: The Soundtrack\n\nBroforce: The Soundtrack\n\nBroforce: The Soundtrack\n\nBroforce: The Soundtrack\n\nBroforce: The Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3636,6 +3716,7 @@ var extrasData =
             "negative": 36
         },
         "dlc": {
+            "description": "Brutal Orchestra Soundtrack\n\nBrutal Orchestra Soundtrack\n\nBrutal Orchestra Soundtrack\n\nBrutal Orchestra Soundtrack\n\nBrutal Orchestra Soundtrack\n\nBrutal Orchestra Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3681,6 +3762,7 @@ var extrasData =
             "negative": 9
         },
         "dlc": {
+            "description": "Bullet Heaven 2 Soundtrack\n\nBullet Heaven 2 Soundtrack\n\nBullet Heaven 2 Soundtrack\n\nBullet Heaven 2 Soundtrack\n\nBullet Heaven 2 Soundtrack\n\nBullet Heaven 2 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3718,6 +3800,7 @@ var extrasData =
             "negative": 3
         },
         "dlc": {
+            "description": "Bullet Hell Monday OST\n\nBullet Hell Monday OST\n\nBullet Hell Monday OST\n\nBullet Hell Monday OST\n\nBullet Hell Monday OST\n\nBullet Hell Monday OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3750,11 +3833,12 @@ var extrasData =
     "4b04f2cc-8342-4925-8889-fb164d551ac6": {
         "reviews": {
             "description": "Positive",
-            "total": 30,
-            "positive": 28,
+            "total": 31,
+            "positive": 29,
             "negative": 2
         },
         "dlc": {
+            "description": "Bullet Hell Monday: Black OST\n\nBullet Hell Monday: Black OST\n\nBullet Hell Monday: Black OST\n\nBullet Hell Monday: Black OST\n\nBullet Hell Monday: Black OST\n\nBullet Hell Monday: Black OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3792,6 +3876,7 @@ var extrasData =
             "negative": 11
         },
         "dlc": {
+            "description": "BULLET SOUL Original Soundtrack\n\nBULLET SOUL Original Soundtrack\n\nBULLET SOUL Original Soundtrack\n\nBULLET SOUL Original Soundtrack\n\nBULLET SOUL Original Soundtrack\n\nBULLET SOUL Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3829,6 +3914,7 @@ var extrasData =
             "negative": 199
         },
         "dlc": {
+            "description": "Bunny Hop League - Map Pack 1\n\nBunny Hop League - Map Pack 1\n\nBunny Hop League - Map Pack 1\n\nBunny Hop League - Map Pack 1\n\nBunny Hop League - Map Pack 1\n\nBunny Hop League - Map Pack 1",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3874,6 +3960,7 @@ var extrasData =
             "negative": 172
         },
         "dlc": {
+            "description": "BUTCHER - Extended Soundtrack\n\nBUTCHER - Extended Soundtrack\n\nBUTCHER - Extended Soundtrack\n\nBUTCHER - Extended Soundtrack\n\nBUTCHER - Extended Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -3911,6 +3998,7 @@ var extrasData =
             "negative": 12
         },
         "dlc": {
+            "description": "BZZZT Soundtrack\n\nBZZZT Soundtrack\n\nBZZZT Soundtrack\n\nBZZZT Soundtrack\n\nBZZZT Soundtrack\n\nBZZZT Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -3951,11 +4039,12 @@ var extrasData =
     "1656ddad-ea26-4229-b104-9454a166b84b": {
         "reviews": {
             "description": "Mixed",
-            "total": 28322,
-            "positive": 16934,
+            "total": 28324,
+            "positive": 16936,
             "negative": 11388
         },
         "dlc": {
+            "description": "Call of Duty\u00ae: Infinite Warfare - Season Pass\nCall of Duty\u00ae: Infinite Warfare - Method Man VO Pack\nCall of Duty\u00ae: Infinite Warfare - Ozzy Man Reviews VO Pack\nCall of Duty\u00ae: Infinite Warfare - Ken Jeong VO Pack\nCall of Duty\u00ae: Infinite Warfare - Grandma Knows Best VO Pack\nCall of Duty\u00ae: Infinite Warfare - Season Pass\nCall of Duty\u00ae: Infinite Warfare - Method Man VO Pack\nCall of Duty\u00ae: Infinite Warfare - Ozzy Man Reviews VO Pack\nCall of Duty\u00ae: Infinite Warfare - Ken Jeong VO Pack\nCall of Duty\u00ae: Infinite Warfare - Grandma Knows Best VO Pack\nCall of Duty\u00ae: Infinite Warfare - Season Pass\nCall of Duty\u00ae: Infinite Warfare - Method Man VO Pack\nCall of Duty\u00ae: Infinite Warfare - Ozzy Man Reviews VO Pack\nCall of Duty\u00ae: Infinite Warfare - Ken Jeong VO Pack\nCall of Duty\u00ae: Infinite Warfare - Grandma Knows Best VO Pack\nCall of Duty\u00ae: Infinite Warfare - Season Pass\nCall of Duty\u00ae: Infinite Warfare - Method Man VO Pack\nCall of Duty\u00ae: Infinite Warfare - Ozzy Man Reviews VO Pack\nCall of Duty\u00ae: Infinite Warfare - Ken Jeong VO Pack\nCall of Duty\u00ae: Infinite Warfare - Grandma Knows Best VO Pack\nCall of Duty\u00ae: Infinite Warfare - Season Pass\nCall of Duty\u00ae: Infinite Warfare - Method Man VO Pack\nCall of Duty\u00ae: Infinite Warfare - Ozzy Man Reviews VO Pack\nCall of Duty\u00ae: Infinite Warfare - Ken Jeong VO Pack\nCall of Duty\u00ae: Infinite Warfare - Grandma Knows Best VO Pack\nCall of Duty\u00ae: Infinite Warfare - Season Pass\nCall of Duty\u00ae: Infinite Warfare - Method Man VO Pack\nCall of Duty\u00ae: Infinite Warfare - Ozzy Man Reviews VO Pack\nCall of Duty\u00ae: Infinite Warfare - Ken Jeong VO Pack\nCall of Duty\u00ae: Infinite Warfare - Grandma Knows Best VO Pack",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -3988,11 +4077,12 @@ var extrasData =
     "04a173b6-f44d-4057-a191-7a02a99affa0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 58081,
-            "positive": 54111,
+            "total": 58082,
+            "positive": 54112,
             "negative": 3970
         },
         "dlc": {
+            "description": "Call of Duty\u00ae: Modern Warfare\u00ae 2 Stimulus Package\n\nCall of Duty\u00ae: Modern Warfare\u00ae 2 Resurgence Pack\n\nCall of Duty\u00ae: Modern Warfare\u00ae 2 Stimulus Package\n\nCall of Duty\u00ae: Modern Warfare\u00ae 2 Resurgence Pack\n\nCall of Duty\u00ae: Modern Warfare\u00ae 2 Stimulus Package\n\nCall of Duty\u00ae: Modern Warfare\u00ae 2 Resurgence Pack\n\nCall of Duty\u00ae: Modern Warfare\u00ae 2 Stimulus Package\n\nCall of Duty\u00ae: Modern Warfare\u00ae 2 Resurgence Pack\n\nCall of Duty\u00ae: Modern Warfare\u00ae 2 Stimulus Package\n\nCall of Duty\u00ae: Modern Warfare\u00ae 2 Resurgence Pack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -4021,19 +4111,20 @@ var extrasData =
     "650d2593-b879-4bbc-9abb-985e63c06d46": {
         "reviews": {
             "description": "Very Positive",
-            "total": 37909,
-            "positive": 33607,
+            "total": 37913,
+            "positive": 33611,
             "negative": 4302
         }
     },
     "07e374e7-d0bb-4046-90da-c7350d687d42": {
         "reviews": {
             "description": "Mixed",
-            "total": 14356,
+            "total": 14357,
             "positive": 7520,
-            "negative": 6836
+            "negative": 6837
         },
         "dlc": {
+            "description": "Call of Duty\u00ae: MWR Variety Map Pack\n\nCall of Duty\u00ae: MWR Variety Map Pack\n\nCall of Duty\u00ae: MWR Variety Map Pack\n\nCall of Duty\u00ae: MWR Variety Map Pack\n\nCall of Duty\u00ae: MWR Variety Map Pack\n\nCall of Duty\u00ae: MWR Variety Map Pack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -4066,9 +4157,9 @@ var extrasData =
     "6b382135-0a8c-4dba-b225-230a83940825": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 40614,
-            "positive": 38599,
-            "negative": 2015
+            "total": 40616,
+            "positive": 38600,
+            "negative": 2016
         }
     },
     "80a2cdf4-323c-49db-8617-dcb1edbecfd7": {
@@ -4106,11 +4197,12 @@ var extrasData =
     "d807b4a9-f957-444e-ab8e-2ea76a11cc17": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 125532,
-            "positive": 120676,
+            "total": 125533,
+            "positive": 120677,
             "negative": 4856
         },
         "dlc": {
+            "description": "Castle Crashers - Blacksmith Pack\n\nCastle Crashers - Pink Knight Pack\n\nCastle Crashers - Blacksmith Pack\n\nCastle Crashers - Pink Knight Pack\n\nCastle Crashers - Blacksmith Pack\n\nCastle Crashers - Pink Knight Pack\n\nCastle Crashers - Blacksmith Pack\n\nCastle Crashers - Pink Knight Pack\n\nCastle Crashers - Blacksmith Pack\n\nCastle Crashers - Pink Knight Pack\n\nCastle Crashers - Blacksmith Pack\n\nCastle Crashers - Pink Knight Pack",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -4148,6 +4240,7 @@ var extrasData =
             "negative": 46
         },
         "dlc": {
+            "description": "Castle of Shikigami - Soundtrack\n\nCastle of Shikigami - Evolution\n\nCastle of Shikigami - Soundtrack\n\nCastle of Shikigami - Evolution\n\nCastle of Shikigami - Soundtrack\n\nCastle of Shikigami - Evolution\n\nCastle of Shikigami - Soundtrack\n\nCastle of Shikigami - Evolution\n\nCastle of Shikigami - Soundtrack\n\nCastle of Shikigami - Evolution\n\nCastle of Shikigami - Soundtrack\n\nCastle of Shikigami - Evolution",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -4201,6 +4294,7 @@ var extrasData =
             "negative": 104
         },
         "dlc": {
+            "description": "Cathedral Soundtrack\n\nCathedral Soundtrack\n\nCathedral Soundtrack\n\nCathedral Soundtrack\n\nCathedral Soundtrack\n\nCathedral Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -4254,6 +4348,7 @@ var extrasData =
             "negative": 631
         },
         "dlc": {
+            "description": "Caveblazers Soundtrack\n\nCaveblazers - Arena Mode\n\nCaveblazers Soundtrack\n\nCaveblazers - Arena Mode\n\nCaveblazers Soundtrack\n\nCaveblazers - Arena Mode\n\nCaveblazers Soundtrack\n\nCaveblazers - Arena Mode\n\nCaveblazers Soundtrack\n\nCaveblazers - Arena Mode\n\nCaveblazers Soundtrack\n\nCaveblazers - Arena Mode",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -4294,11 +4389,12 @@ var extrasData =
     "1e866995-6fec-452e-81ba-1e8f8594f4ea": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 120371,
-            "positive": 117324,
-            "negative": 3047
+            "total": 120375,
+            "positive": 117327,
+            "negative": 3048
         },
         "dlc": {
+            "description": "Celeste Soundtrack\n\nCeleste Soundtrack\n\nCeleste Soundtrack\n\nCeleste Soundtrack\n\nCeleste Soundtrack\n\nCeleste Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -4352,6 +4448,7 @@ var extrasData =
             "negative": 6
         },
         "dlc": {
+            "description": "Chessplosion Soundtrack\n\nChessplosion Soundtrack\n\nChessplosion Soundtrack\n\nChessplosion Soundtrack\n\nChessplosion Soundtrack\n\nChessplosion Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -4389,6 +4486,7 @@ var extrasData =
             "negative": 93
         },
         "dlc": {
+            "description": "Chippy Soundtrack\n\nChippy Soundtrack\n\nChippy Soundtrack\n\nChippy Soundtrack\n\nChippy Soundtrack\n\nChippy Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -4421,8 +4519,8 @@ var extrasData =
     "03627781-543e-4d33-bf1e-bc2e53088083": {
         "reviews": {
             "description": "Very Positive",
-            "total": 15653,
-            "positive": 14280,
+            "total": 15654,
+            "positive": 14281,
             "negative": 1373
         }
     },
@@ -4434,6 +4532,7 @@ var extrasData =
             "negative": 297
         },
         "dlc": {
+            "description": "Chroma Squad - Soundtrack\n\nChroma Squad - Soundtrack\n\nChroma Squad - Soundtrack\n\nChroma Squad - Soundtrack\n\nChroma Squad - Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -4462,11 +4561,12 @@ var extrasData =
     "e5e4d649-ef15-4909-bd26-f19b6bce7706": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12245,
-            "positive": 11053,
+            "total": 12247,
+            "positive": 11055,
             "negative": 1192
         },
         "dlc": {
+            "description": "Chrono Ark - Summer Twilight\n\nChrono Ark - High Roller\n\nChrono Ark - Summer Twilight\n\nChrono Ark - High Roller\n\nChrono Ark - Summer Twilight\n\nChrono Ark - High Roller\n\nChrono Ark - Summer Twilight\n\nChrono Ark - High Roller\n\nChrono Ark - Summer Twilight\n\nChrono Ark - High Roller\n\nChrono Ark - Summer Twilight\n\nChrono Ark - High Roller",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -4504,6 +4604,7 @@ var extrasData =
             "negative": 19
         },
         "dlc": {
+            "description": "Circa Infinity Original Soundtrack\n\nCirca Infinity Original Soundtrack\n\nCirca Infinity Original Soundtrack\n\nCirca Infinity Original Soundtrack\n\nCirca Infinity Original Soundtrack\n\nCirca Infinity Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -4560,9 +4661,9 @@ var extrasData =
     "8fa87bf9-55df-48bd-8412-f9cb9094f7ec": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 33001,
-            "positive": 31958,
-            "negative": 1043
+            "total": 33006,
+            "positive": 31965,
+            "negative": 1041
         }
     },
     "b17bd0ef-95cd-4b17-a868-29eb4bdf7922": {
@@ -4581,6 +4682,7 @@ var extrasData =
             "negative": 125
         },
         "dlc": {
+            "description": "",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -4618,6 +4720,7 @@ var extrasData =
             "negative": 5
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -4650,11 +4753,12 @@ var extrasData =
     "d301043e-b889-48b0-8658-c68087561b49": {
         "reviews": {
             "description": "Very Positive",
-            "total": 17109,
-            "positive": 16002,
+            "total": 17110,
+            "positive": 16003,
             "negative": 1107
         },
         "dlc": {
+            "description": "Clustertruck OST\n\nClustertruck OST\n\nClustertruck OST\n\nClustertruck OST\n\nClustertruck OST\n\nClustertruck OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -4695,11 +4799,12 @@ var extrasData =
     "631f2d3d-a5f0-4e9f-a344-a0fc95537cfd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 57261,
-            "positive": 48286,
-            "negative": 8975
+            "total": 57262,
+            "positive": 48288,
+            "negative": 8974
         },
         "dlc": {
+            "description": "CODE VEIN - Season Pass\nCODE VEIN: Hellfire Knight\nCODE VEIN: Frozen Empress\nCODE VEIN: Lord of Thunder\nCODE VEIN - Season Pass\nCODE VEIN: Hellfire Knight\nCODE VEIN: Frozen Empress\nCODE VEIN: Lord of Thunder\nCODE VEIN - Season Pass\nCODE VEIN: Hellfire Knight\nCODE VEIN: Frozen Empress\nCODE VEIN: Lord of Thunder\nCODE VEIN - Season Pass\nCODE VEIN: Hellfire Knight\nCODE VEIN: Frozen Empress\nCODE VEIN: Lord of Thunder\nCODE VEIN - Season Pass\nCODE VEIN: Hellfire Knight\nCODE VEIN: Frozen Empress\nCODE VEIN: Lord of Thunder\nCODE VEIN - Season Pass\nCODE VEIN: Hellfire Knight\nCODE VEIN: Frozen Empress\nCODE VEIN: Lord of Thunder",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -4737,6 +4842,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "Color Jumper OST\n\nColor Jumper OST\n\nColor Jumper OST\n\nColor Jumper OST\n\nColor Jumper OST\n\nColor Jumper OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -4774,6 +4880,7 @@ var extrasData =
             "negative": 195
         },
         "dlc": {
+            "description": "Colt Canyon Soundtrack\n\nColt Canyon Soundtrack\n\nColt Canyon Soundtrack\n\nColt Canyon Soundtrack\n\nColt Canyon Soundtrack\n\nColt Canyon Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -4811,6 +4918,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "CometStriker Soundtrack\n\nCometStriker Soundtrack\n\nCometStriker Soundtrack\n\nCometStriker Soundtrack\n\nCometStriker Soundtrack\n\nCometStriker Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -4864,6 +4972,7 @@ var extrasData =
             "negative": 317
         },
         "dlc": {
+            "description": "Cook, Serve, Delicious! 2!! Original Soundtrack\n\nCook, Serve, Delicious! 2!! Original Soundtrack\n\nCook, Serve, Delicious! 2!! Original Soundtrack\n\nCook, Serve, Delicious! 2!! Original Soundtrack\n\nCook, Serve, Delicious! 2!! Original Soundtrack\n\nCook, Serve, Delicious! 2!! Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -4901,6 +5010,7 @@ var extrasData =
             "negative": 193
         },
         "dlc": {
+            "description": "Cook, Serve, Delicious! 3?! Soundtrack\n\nCook, Serve, Delicious! 3?! Soundtrack\n\nCook, Serve, Delicious! 3?! Soundtrack\n\nCook, Serve, Delicious! 3?! Soundtrack\n\nCook, Serve, Delicious! 3?! Soundtrack\n\nCook, Serve, Delicious! 3?! Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -4933,11 +5043,12 @@ var extrasData =
     "1cb060d9-d088-4ce3-b7f9-d7f29d589faf": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6651,
-            "positive": 5678,
+            "total": 6652,
+            "positive": 5679,
             "negative": 973
         },
         "dlc": {
+            "description": "Coromon Soundtrack\n\nCoromon Piano Collections\n\nCoromon Soundtrack\n\nCoromon Piano Collections\n\nCoromon Soundtrack\n\nCoromon Piano Collections\n\nCoromon Soundtrack\n\nCoromon Piano Collections\n\nCoromon Soundtrack\n\nCoromon Piano Collections\n\nCoromon Soundtrack\n\nCoromon Piano Collections",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -4991,6 +5102,7 @@ var extrasData =
             "negative": 21
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5023,9 +5135,9 @@ var extrasData =
     "2f1bd762-f732-4148-bb79-d94283881040": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 26812,
-            "positive": 26261,
-            "negative": 551
+            "total": 26814,
+            "positive": 26264,
+            "negative": 550
         }
     },
     "56fe730d-ffe1-4e58-9181-3b9e59786335": {
@@ -5036,6 +5148,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "Cranked Up - Soundtrack\n\nCranked Up - Soundtrack\n\nCranked Up - Soundtrack\n\nCranked Up - Soundtrack\n\nCranked Up - Soundtrack\n\nCranked Up - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5084,19 +5197,20 @@ var extrasData =
     "c23a06b2-9fc7-49ed-9b34-05e012cdd19a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 17996,
-            "positive": 16666,
+            "total": 17997,
+            "positive": 16667,
             "negative": 1330
         }
     },
     "853a5465-5c71-49c0-b294-7ab8525c9417": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6223,
+            "total": 6224,
             "positive": 5576,
-            "negative": 647
+            "negative": 648
         },
         "dlc": {
+            "description": "Crashlands Soundtrack\n\nCrashlands Soundtrack\n\nCrashlands Soundtrack\n\nCrashlands Soundtrack\n\nCrashlands Soundtrack\n\nCrashlands Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5134,6 +5248,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "Crimzon Clover World EXplosion - Complete Soundtrack\n\nCrimzon Clover World EXplosion - Complete Soundtrack\n\nCrimzon Clover World EXplosion - Complete Soundtrack\n\nCrimzon Clover World EXplosion - Complete Soundtrack\n\nCrimzon Clover World EXplosion - Complete Soundtrack\n\nCrimzon Clover World EXplosion - Complete Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5179,6 +5294,7 @@ var extrasData =
             "negative": 1162
         },
         "dlc": {
+            "description": "CrossCode Original Soundtrack\nCrossCode - Ninja Skin\nCrossCode: A New Home\nCrossCode Original Soundtrack EX\nCrossCode Manlea Skin\nCrossCode Original Soundtrack\nCrossCode - Ninja Skin\nCrossCode: A New Home\nCrossCode Original Soundtrack EX\nCrossCode Manlea Skin\nCrossCode Original Soundtrack\nCrossCode - Ninja Skin\nCrossCode: A New Home\nCrossCode Original Soundtrack EX\nCrossCode Manlea Skin\nCrossCode Original Soundtrack\nCrossCode - Ninja Skin\nCrossCode: A New Home\nCrossCode Original Soundtrack EX\nCrossCode Manlea Skin\nCrossCode Original Soundtrack\nCrossCode - Ninja Skin\nCrossCode: A New Home\nCrossCode Original Soundtrack EX\nCrossCode Manlea Skin\nCrossCode Original Soundtrack\nCrossCode - Ninja Skin\nCrossCode: A New Home\nCrossCode Original Soundtrack EX\nCrossCode Manlea Skin",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -5224,6 +5340,7 @@ var extrasData =
             "negative": 654
         },
         "dlc": {
+            "description": "Cruelty Squad Soundtrack\n\nCruelty Squad Soundtrack\n\nCruelty Squad Soundtrack\n\nCruelty Squad Soundtrack\n\nCruelty Squad Soundtrack\n\nCruelty Squad Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5269,6 +5386,7 @@ var extrasData =
             "negative": 602
         },
         "dlc": {
+            "description": "Crying Suns - Original Soundtrack\n\nCrying Suns - Digital Artbook\n\nCrying Suns - Original Soundtrack\n\nCrying Suns - Digital Artbook\n\nCrying Suns - Original Soundtrack\n\nCrying Suns - Digital Artbook\n\nCrying Suns - Original Soundtrack\n\nCrying Suns - Digital Artbook\n\nCrying Suns - Original Soundtrack\n\nCrying Suns - Digital Artbook\n\nCrying Suns - Original Soundtrack\n\nCrying Suns - Digital Artbook",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -5309,11 +5427,12 @@ var extrasData =
     "222dbb63-3e42-4bd8-9528-216dd1f82ffb": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 25103,
-            "positive": 24041,
+            "total": 25104,
+            "positive": 24042,
             "negative": 1062
         },
         "dlc": {
+            "description": "Crypt of the NecroDancer: Hatsune Miku Character DLC\nCrypt of the NecroDancer: SYNCHRONY\nCrypt of the NecroDancer: AMPLIFIED\nCrypt of the Necrodancer Original Danny Baranowsky Soundtrack\nCrypt of the NecroDancer Extended Soundtrack\nCrypt of the NecroDancer Extended Soundtrack 2\nCrypt of the NecroDancer: AMPLIFIED OST - Danny Baranowsky\nCrypt of the NecroDancer: AMPLIFIED OST - FamilyJules and A_Rival\nCrypt of the NecroDancer: AMPLIFIED OST - Virt and Girlfriend Records\nCrypt of the NecroDancer: AMPLIFIED OST - OC ReMix\nCrypt of the NecroDancer: AMPLIFIED OST - Chipzel\nCrypt of the NecroDancer Extras\nCrypt of the NecroDancer: Hatsune Miku Character DLC\nCrypt of the NecroDancer: SYNCHRONY\nCrypt of the NecroDancer: AMPLIFIED\nCrypt of the Necrodancer Original Danny Baranowsky Soundtrack\nCrypt of the NecroDancer Extended Soundtrack\nCrypt of the NecroDancer Extended Soundtrack 2\nCrypt of the NecroDancer: AMPLIFIED OST - Danny Baranowsky\nCrypt of the NecroDancer: AMPLIFIED OST - FamilyJules and A_Rival\nCrypt of the NecroDancer: AMPLIFIED OST - Virt and Girlfriend Records\nCrypt of the NecroDancer: AMPLIFIED OST - OC ReMix\nCrypt of the NecroDancer: AMPLIFIED OST - Chipzel\nCrypt of the NecroDancer Extras\nCrypt of the NecroDancer: Hatsune Miku Character DLC\nCrypt of the NecroDancer: SYNCHRONY\nCrypt of the NecroDancer: AMPLIFIED\nCrypt of the Necrodancer Original Danny Baranowsky Soundtrack\nCrypt of the NecroDancer Extended Soundtrack\nCrypt of the NecroDancer Extended Soundtrack 2\nCrypt of the NecroDancer: AMPLIFIED OST - Danny Baranowsky\nCrypt of the NecroDancer: AMPLIFIED OST - FamilyJules and A_Rival\nCrypt of the NecroDancer: AMPLIFIED OST - Virt and Girlfriend Records\nCrypt of the NecroDancer: AMPLIFIED OST - OC ReMix\nCrypt of the NecroDancer: AMPLIFIED OST - Chipzel\nCrypt of the NecroDancer Extras\nCrypt of the NecroDancer: Hatsune Miku Character DLC\nCrypt of the NecroDancer: SYNCHRONY\nCrypt of the NecroDancer: AMPLIFIED\nCrypt of the Necrodancer Original Danny Baranowsky Soundtrack\nCrypt of the NecroDancer Extended Soundtrack\nCrypt of the NecroDancer Extended Soundtrack 2\nCrypt of the NecroDancer: AMPLIFIED OST - Danny Baranowsky\nCrypt of the NecroDancer: AMPLIFIED OST - FamilyJules and A_Rival\nCrypt of the NecroDancer: AMPLIFIED OST - Virt and Girlfriend Records\nCrypt of the NecroDancer: AMPLIFIED OST - OC ReMix\nCrypt of the NecroDancer: AMPLIFIED OST - Chipzel\nCrypt of the NecroDancer Extras\nCrypt of the NecroDancer: Hatsune Miku Character DLC\nCrypt of the NecroDancer: SYNCHRONY\nCrypt of the NecroDancer: AMPLIFIED\nCrypt of the Necrodancer Original Danny Baranowsky Soundtrack\nCrypt of the NecroDancer Extended Soundtrack\nCrypt of the NecroDancer Extended Soundtrack 2\nCrypt of the NecroDancer: AMPLIFIED OST - Danny Baranowsky\nCrypt of the NecroDancer: AMPLIFIED OST - FamilyJules and A_Rival\nCrypt of the NecroDancer: AMPLIFIED OST - Virt and Girlfriend Records\nCrypt of the NecroDancer: AMPLIFIED OST - OC ReMix\nCrypt of the NecroDancer: AMPLIFIED OST - Chipzel\nCrypt of the NecroDancer Extras\nCrypt of the NecroDancer: Hatsune Miku Character DLC\nCrypt of the NecroDancer: SYNCHRONY\nCrypt of the NecroDancer: AMPLIFIED\nCrypt of the Necrodancer Original Danny Baranowsky Soundtrack\nCrypt of the NecroDancer Extended Soundtrack\nCrypt of the NecroDancer Extended Soundtrack 2\nCrypt of the NecroDancer: AMPLIFIED OST - Danny Baranowsky\nCrypt of the NecroDancer: AMPLIFIED OST - FamilyJules and A_Rival\nCrypt of the NecroDancer: AMPLIFIED OST - Virt and Girlfriend Records\nCrypt of the NecroDancer: AMPLIFIED OST - OC ReMix\nCrypt of the NecroDancer: AMPLIFIED OST - Chipzel\nCrypt of the NecroDancer Extras",
             "count": 12,
             "priceData": {
                 "USD": {
@@ -5354,11 +5473,12 @@ var extrasData =
     "7632d9d3-8d02-4af6-932c-0d7b59842e48": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 186398,
-            "positive": 179475,
-            "negative": 6923
+            "total": 186423,
+            "positive": 179501,
+            "negative": 6922
         },
         "dlc": {
+            "description": "Cuphead - The Delicious Last Course\nCuphead - Official Soundtrack\nCuphead DLC - Official Soundtrack\nCuphead - The Delicious Last Course\nCuphead - Official Soundtrack\nCuphead DLC - Official Soundtrack\nCuphead - The Delicious Last Course\nCuphead - Official Soundtrack\nCuphead DLC - Official Soundtrack\nCuphead - The Delicious Last Course\nCuphead - Official Soundtrack\nCuphead DLC - Official Soundtrack\nCuphead - The Delicious Last Course\nCuphead - Official Soundtrack\nCuphead DLC - Official Soundtrack\nCuphead - The Delicious Last Course\nCuphead - Official Soundtrack\nCuphead DLC - Official Soundtrack",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -5396,6 +5516,7 @@ var extrasData =
             "negative": 1357
         },
         "dlc": {
+            "description": "Curse of the Dead Gods - Original Soundtrack\n\nCurse of the Dead Gods - Original Soundtrack\n\nCurse of the Dead Gods - Original Soundtrack\n\nCurse of the Dead Gods - Original Soundtrack\n\nCurse of the Dead Gods - Original Soundtrack\n\nCurse of the Dead Gods - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5433,6 +5554,7 @@ var extrasData =
             "negative": 92
         },
         "dlc": {
+            "description": "Cursed Castilla (Maldita Castilla EX) Original Soundtrack\n\nCursed Castilla (Maldita Castilla EX) Original Soundtrack\n\nCursed Castilla (Maldita Castilla EX) Original Soundtrack\n\nCursed Castilla (Maldita Castilla EX) Original Soundtrack\n\nCursed Castilla (Maldita Castilla EX) Original Soundtrack\n\nCursed Castilla (Maldita Castilla EX) Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5478,6 +5600,7 @@ var extrasData =
             "negative": 191
         },
         "dlc": {
+            "description": "Cyber Hook - Lost Numbers DLC\n\nCyber Hook - Lost Numbers DLC\n\nCyber Hook - Lost Numbers DLC\n\nCyber Hook - Lost Numbers DLC\n\nCyber Hook - Lost Numbers DLC\n\nCyber Hook - Lost Numbers DLC",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5531,6 +5654,7 @@ var extrasData =
             "negative": 226
         },
         "dlc": {
+            "description": "Dandara: Trials of Fear Edition Soundtrack \ud83c\udfb5\n\nDandara: Trials of Fear Edition Soundtrack \ud83c\udfb5\n\nDandara: Trials of Fear Edition Soundtrack \ud83c\udfb5\n\nDandara: Trials of Fear Edition Soundtrack \ud83c\udfb5\n\nDandara: Trials of Fear Edition Soundtrack \ud83c\udfb5\n\nDandara: Trials of Fear Edition Soundtrack \ud83c\udfb5",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5584,6 +5708,7 @@ var extrasData =
             "negative": 9
         },
         "dlc": {
+            "description": "DANMAKAI: Red Forbidden Fruit Soundtrack\n\nDANMAKAI: Red Forbidden Fruit Soundtrack\n\nDANMAKAI: Red Forbidden Fruit Soundtrack\n\nDANMAKAI: Red Forbidden Fruit Soundtrack\n\nDANMAKAI: Red Forbidden Fruit Soundtrack\n\nDANMAKAI: Red Forbidden Fruit Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5645,6 +5770,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "Dap Soundtrack\n\nDap Soundtrack\n\nDap Soundtrack\n\nDap Soundtrack\n\nDap Soundtrack\n\nDap Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5682,6 +5808,7 @@ var extrasData =
             "negative": 134
         },
         "dlc": {
+            "description": "DARIUSBURST Chronicle Saviours - Side Arms Hyper Dyne\nDARIUSBURST Chronicle Saviours - Varth: Operation Thunderstorm\nDARIUSBURST Chronicle Saviours - Progear\nDARIUSBURST Chronicle Saviours - Battle Garegga\nDARIUSBURST Chronicle Saviours - Soukyuugurentai\nDARIUSBURST Chronicle Saviours - Mahoudaisakusen\nDARIUSBURST Chronicle Saviours - DoDonPachi Resurrection\nDARIUSBURST Chronicle Saviours - Deathsmiles\nDARIUSBURST Chronicle Saviours - ketsui\nDARIUSBURST Chronicle Saviours - Space Harrier\nDARIUSBURST Chronicle Saviours - Galaxy Force II\nDARIUSBURST Chronicle Saviours - Fantasy Zone\nDARIUSBURST Chronicle Saviours - Night Striker\nDARIUSBURST Chronicle Saviours - Metal Black\nDARIUSBURST Chronicle Saviours - RayForce\nDARIUSBURST Chronicle Saviours - Darius Odyssey Digital Guidebook\nDARIUSBURST Chronicle Saviours - Side Arms Hyper Dyne\nDARIUSBURST Chronicle Saviours - Varth: Operation Thunderstorm\nDARIUSBURST Chronicle Saviours - Progear\nDARIUSBURST Chronicle Saviours - Battle Garegga\nDARIUSBURST Chronicle Saviours - Soukyuugurentai\nDARIUSBURST Chronicle Saviours - Mahoudaisakusen\nDARIUSBURST Chronicle Saviours - DoDonPachi Resurrection\nDARIUSBURST Chronicle Saviours - Deathsmiles\nDARIUSBURST Chronicle Saviours - ketsui\nDARIUSBURST Chronicle Saviours - Space Harrier\nDARIUSBURST Chronicle Saviours - Galaxy Force II\nDARIUSBURST Chronicle Saviours - Fantasy Zone\nDARIUSBURST Chronicle Saviours - Night Striker\nDARIUSBURST Chronicle Saviours - Metal Black\nDARIUSBURST Chronicle Saviours - RayForce\nDARIUSBURST Chronicle Saviours - Darius Odyssey Digital Guidebook\nDARIUSBURST Chronicle Saviours - Side Arms Hyper Dyne\nDARIUSBURST Chronicle Saviours - Varth: Operation Thunderstorm\nDARIUSBURST Chronicle Saviours - Progear\nDARIUSBURST Chronicle Saviours - Battle Garegga\nDARIUSBURST Chronicle Saviours - Soukyuugurentai\nDARIUSBURST Chronicle Saviours - Mahoudaisakusen\nDARIUSBURST Chronicle Saviours - DoDonPachi Resurrection\nDARIUSBURST Chronicle Saviours - Deathsmiles\nDARIUSBURST Chronicle Saviours - ketsui\nDARIUSBURST Chronicle Saviours - Space Harrier\nDARIUSBURST Chronicle Saviours - Galaxy Force II\nDARIUSBURST Chronicle Saviours - Fantasy Zone\nDARIUSBURST Chronicle Saviours - Night Striker\nDARIUSBURST Chronicle Saviours - Metal Black\nDARIUSBURST Chronicle Saviours - RayForce\nDARIUSBURST Chronicle Saviours - Darius Odyssey Digital Guidebook\nDARIUSBURST Chronicle Saviours - Side Arms Hyper Dyne\nDARIUSBURST Chronicle Saviours - Varth: Operation Thunderstorm\nDARIUSBURST Chronicle Saviours - Progear\nDARIUSBURST Chronicle Saviours - Battle Garegga\nDARIUSBURST Chronicle Saviours - Soukyuugurentai\nDARIUSBURST Chronicle Saviours - Mahoudaisakusen\nDARIUSBURST Chronicle Saviours - DoDonPachi Resurrection\nDARIUSBURST Chronicle Saviours - Deathsmiles\nDARIUSBURST Chronicle Saviours - ketsui\nDARIUSBURST Chronicle Saviours - Space Harrier\nDARIUSBURST Chronicle Saviours - Galaxy Force II\nDARIUSBURST Chronicle Saviours - Fantasy Zone\nDARIUSBURST Chronicle Saviours - Night Striker\nDARIUSBURST Chronicle Saviours - Metal Black\nDARIUSBURST Chronicle Saviours - RayForce\nDARIUSBURST Chronicle Saviours - Darius Odyssey Digital Guidebook\nDARIUSBURST Chronicle Saviours - Side Arms Hyper Dyne\nDARIUSBURST Chronicle Saviours - Varth: Operation Thunderstorm\nDARIUSBURST Chronicle Saviours - Progear\nDARIUSBURST Chronicle Saviours - Battle Garegga\nDARIUSBURST Chronicle Saviours - Soukyuugurentai\nDARIUSBURST Chronicle Saviours - Mahoudaisakusen\nDARIUSBURST Chronicle Saviours - DoDonPachi Resurrection\nDARIUSBURST Chronicle Saviours - Deathsmiles\nDARIUSBURST Chronicle Saviours - ketsui\nDARIUSBURST Chronicle Saviours - Space Harrier\nDARIUSBURST Chronicle Saviours - Galaxy Force II\nDARIUSBURST Chronicle Saviours - Fantasy Zone\nDARIUSBURST Chronicle Saviours - Night Striker\nDARIUSBURST Chronicle Saviours - Metal Black\nDARIUSBURST Chronicle Saviours - RayForce\nDARIUSBURST Chronicle Saviours - Darius Odyssey Digital Guidebook\nDARIUSBURST Chronicle Saviours - Side Arms Hyper Dyne\nDARIUSBURST Chronicle Saviours - Varth: Operation Thunderstorm\nDARIUSBURST Chronicle Saviours - Progear\nDARIUSBURST Chronicle Saviours - Battle Garegga\nDARIUSBURST Chronicle Saviours - Soukyuugurentai\nDARIUSBURST Chronicle Saviours - Mahoudaisakusen\nDARIUSBURST Chronicle Saviours - DoDonPachi Resurrection\nDARIUSBURST Chronicle Saviours - Deathsmiles\nDARIUSBURST Chronicle Saviours - ketsui\nDARIUSBURST Chronicle Saviours - Space Harrier\nDARIUSBURST Chronicle Saviours - Galaxy Force II\nDARIUSBURST Chronicle Saviours - Fantasy Zone\nDARIUSBURST Chronicle Saviours - Night Striker\nDARIUSBURST Chronicle Saviours - Metal Black\nDARIUSBURST Chronicle Saviours - RayForce\nDARIUSBURST Chronicle Saviours - Darius Odyssey Digital Guidebook",
             "count": 16,
             "priceData": {
                 "USD": {
@@ -5719,6 +5846,7 @@ var extrasData =
             "negative": 581
         },
         "dlc": {
+            "description": "Dark Devotion Soundtrack\n\nDark Devotion Soundtrack\n\nDark Devotion Soundtrack\n\nDark Devotion Soundtrack\n\nDark Devotion Soundtrack\n\nDark Devotion Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5751,19 +5879,20 @@ var extrasData =
     "0a7ffb40-c98b-4478-a42e-2fce0cd90d95": {
         "reviews": {
             "description": "Very Positive",
-            "total": 116465,
-            "positive": 97867,
-            "negative": 18598
+            "total": 116471,
+            "positive": 97869,
+            "negative": 18602
         }
     },
     "0e001f7d-8448-4ca3-9442-c2e3423894cb": {
         "reviews": {
             "description": "Very Positive",
-            "total": 413239,
-            "positive": 389802,
-            "negative": 23437
+            "total": 413255,
+            "positive": 389816,
+            "negative": 23439
         },
         "dlc": {
+            "description": "DARK SOULS\u2122 III - Season Pass\nDARK SOULS\u2122 III - Ashes of Ariandel\u2122\nDARK SOULS\u2122 III - The Ringed City\u2122\nDARK SOULS\u2122 III - Season Pass\nDARK SOULS\u2122 III - Ashes of Ariandel\u2122\nDARK SOULS\u2122 III - The Ringed City\u2122\nDARK SOULS\u2122 III - Season Pass\nDARK SOULS\u2122 III - Ashes of Ariandel\u2122\nDARK SOULS\u2122 III - The Ringed City\u2122\nDARK SOULS\u2122 III - Season Pass\nDARK SOULS\u2122 III - Ashes of Ariandel\u2122\nDARK SOULS\u2122 III - The Ringed City\u2122\nDARK SOULS\u2122 III - Season Pass\nDARK SOULS\u2122 III - Ashes of Ariandel\u2122\nDARK SOULS\u2122 III - The Ringed City\u2122\nDARK SOULS\u2122 III - Season Pass\nDARK SOULS\u2122 III - Ashes of Ariandel\u2122\nDARK SOULS\u2122 III - The Ringed City\u2122",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -5796,9 +5925,9 @@ var extrasData =
     "ac228995-b1eb-4a4f-bec5-d58cd2ee776f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 128994,
-            "positive": 118867,
-            "negative": 10127
+            "total": 128999,
+            "positive": 118873,
+            "negative": 10126
         }
     },
     "22078d98-d884-4290-8f25-28971ac85963": {
@@ -5817,6 +5946,7 @@ var extrasData =
             "negative": 2187
         },
         "dlc": {
+            "description": "Darksiders Genesis - Digital Extras\n\nDarksiders Genesis - Digital Extras\n\nDarksiders Genesis - Digital Extras\n\nDarksiders Genesis - Digital Extras\n\nDarksiders Genesis - Digital Extras\n\nDarksiders Genesis - Digital Extras",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5849,11 +5979,12 @@ var extrasData =
     "c83937d2-7211-4223-a1fe-dc583236f38a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 21585,
-            "positive": 20498,
+            "total": 21586,
+            "positive": 20499,
             "negative": 1087
         },
         "dlc": {
+            "description": "Darkwood - Soundtrack\n\nDarkwood - Artbook\n\nDarkwood - Soundtrack\n\nDarkwood - Artbook\n\nDarkwood - Soundtrack\n\nDarkwood - Artbook\n\nDarkwood - Soundtrack\n\nDarkwood - Artbook\n\nDarkwood - Soundtrack\n\nDarkwood - Artbook\n\nDarkwood - Soundtrack\n\nDarkwood - Artbook",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -5907,6 +6038,7 @@ var extrasData =
             "negative": 24
         },
         "dlc": {
+            "description": "Dead Beats: Soundtrack of Dead\n\nDead Beats: Soundtrack of Dead\n\nDead Beats: Soundtrack of Dead\n\nDead Beats: Soundtrack of Dead\n\nDead Beats: Soundtrack of Dead\n\nDead Beats: Soundtrack of Dead",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -5939,11 +6071,12 @@ var extrasData =
     "b97a37a4-4aad-4e01-99e2-1c8bdb2fc5f5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 168199,
-            "positive": 163294,
-            "negative": 4905
+            "total": 168211,
+            "positive": 163305,
+            "negative": 4906
         },
         "dlc": {
+            "description": "Dead Cells: The Queen and the Sea\nDead Cells: Fatal Falls\nDead Cells: The Bad Seed\nDead Cells: Soundtrack\nDead Cells: Demake Soundtrack\nDead Cells: Return to Castlevania\nDead Cells: Return to Castlevania Soundtrack\nDead Cells: The Queen and the Sea\nDead Cells: Fatal Falls\nDead Cells: The Bad Seed\nDead Cells: Soundtrack\nDead Cells: Demake Soundtrack\nDead Cells: Return to Castlevania\nDead Cells: Return to Castlevania Soundtrack\nDead Cells: The Queen and the Sea\nDead Cells: Fatal Falls\nDead Cells: The Bad Seed\nDead Cells: Soundtrack\nDead Cells: Demake Soundtrack\nDead Cells: Return to Castlevania\nDead Cells: Return to Castlevania Soundtrack\nDead Cells: The Queen and the Sea\nDead Cells: Fatal Falls\nDead Cells: The Bad Seed\nDead Cells: Soundtrack\nDead Cells: Demake Soundtrack\nDead Cells: Return to Castlevania\nDead Cells: Return to Castlevania Soundtrack\nDead Cells: The Queen and the Sea\nDead Cells: Fatal Falls\nDead Cells: The Bad Seed\nDead Cells: Soundtrack\nDead Cells: Demake Soundtrack\nDead Cells: Return to Castlevania\nDead Cells: Return to Castlevania Soundtrack\nDead Cells: The Queen and the Sea\nDead Cells: Fatal Falls\nDead Cells: The Bad Seed\nDead Cells: Soundtrack\nDead Cells: Demake Soundtrack\nDead Cells: Return to Castlevania\nDead Cells: Return to Castlevania Soundtrack",
             "count": 8,
             "priceData": {
                 "USD": {
@@ -5976,11 +6109,12 @@ var extrasData =
     "2cd12053-0da3-424d-a84a-ee1ddeb38c88": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5770,
-            "positive": 5471,
+            "total": 5771,
+            "positive": 5472,
             "negative": 299
         },
         "dlc": {
+            "description": "Dead Estate Soundtrack\n\nDead Estate Soundtrack\n\nDead Estate Soundtrack\n\nDead Estate Soundtrack\n\nDead Estate Soundtrack\n\nDead Estate Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -6042,6 +6176,7 @@ var extrasData =
             "negative": 349
         },
         "dlc": {
+            "description": "Deadlink Soundtrack\n\nDeadlink Soundtrack\n\nDeadlink Soundtrack\n\nDeadlink Soundtrack\n\nDeadlink Soundtrack\n\nDeadlink Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -6079,6 +6214,7 @@ var extrasData =
             "negative": 59
         },
         "dlc": {
+            "description": "Death Crown \u2014 Demonic Menace\n\nDeath Crown \u2014 Soundtrack\n\nDeath Crown \u2014 Demonic Menace\n\nDeath Crown \u2014 Soundtrack\n\nDeath Crown \u2014 Demonic Menace\n\nDeath Crown \u2014 Soundtrack\n\nDeath Crown \u2014 Demonic Menace\n\nDeath Crown \u2014 Soundtrack\n\nDeath Crown \u2014 Demonic Menace\n\nDeath Crown \u2014 Soundtrack\n\nDeath Crown \u2014 Demonic Menace\n\nDeath Crown \u2014 Soundtrack",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -6111,11 +6247,12 @@ var extrasData =
     "b50e4d29-5241-4755-9078-42c50d23a765": {
         "reviews": {
             "description": "Very Positive",
-            "total": 148,
+            "total": 149,
             "positive": 146,
-            "negative": 2
+            "negative": 3
         },
         "dlc": {
+            "description": "Death of a Wish Soundtrack\n\nDeath of a Wish Soundtrack\n\nDeath of a Wish Soundtrack\n\nDeath of a Wish Soundtrack\n\nDeath of a Wish Soundtrack\n\nDeath of a Wish Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -6156,11 +6293,12 @@ var extrasData =
     "6734b594-d5c4-4522-b771-107d077ce9c5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 18636,
+            "total": 18637,
             "positive": 17416,
-            "negative": 1220
+            "negative": 1221
         },
         "dlc": {
+            "description": "Death's Door Soundtrack\n\nDeath's Door Soundtrack\n\nDeath's Door Soundtrack\n\nDeath's Door Soundtrack\n\nDeath's Door Soundtrack\n\nDeath's Door Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -6198,6 +6336,7 @@ var extrasData =
             "negative": 974
         },
         "dlc": {
+            "description": "Death's Gambit: Afterlife - Ashes of Vados\n\nDeath's Gambit: Afterlife Soundtrack\n\nDeath's Gambit: Afterlife - Ashes of Vados\n\nDeath's Gambit: Afterlife Soundtrack\n\nDeath's Gambit: Afterlife - Ashes of Vados\n\nDeath's Gambit: Afterlife Soundtrack\n\nDeath's Gambit: Afterlife - Ashes of Vados\n\nDeath's Gambit: Afterlife Soundtrack\n\nDeath's Gambit: Afterlife - Ashes of Vados\n\nDeath's Gambit: Afterlife Soundtrack\n\nDeath's Gambit: Afterlife - Ashes of Vados\n\nDeath's Gambit: Afterlife Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -6251,6 +6390,7 @@ var extrasData =
             "negative": 18
         },
         "dlc": {
+            "description": "Deathsmiles OST\nDeathsmiles Arrange Album\nDeathsmiles Manabu Namiki Selection Premium Arrange Album\nDeathsmiles OST\nDeathsmiles Arrange Album\nDeathsmiles Manabu Namiki Selection Premium Arrange Album\nDeathsmiles OST\nDeathsmiles Arrange Album\nDeathsmiles Manabu Namiki Selection Premium Arrange Album\nDeathsmiles OST\nDeathsmiles Arrange Album\nDeathsmiles Manabu Namiki Selection Premium Arrange Album\nDeathsmiles OST\nDeathsmiles Arrange Album\nDeathsmiles Manabu Namiki Selection Premium Arrange Album\nDeathsmiles OST\nDeathsmiles Arrange Album\nDeathsmiles Manabu Namiki Selection Premium Arrange Album",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -6288,6 +6428,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "Deathsmiles I\uff65II Additional Characters \"Gothic wa Mahou Otome\" 5 Characters Set\n\nGothic wa Mahou Otome \"Deathsmiles\" Respect Arrange Soundtrack\n\nDeathsmiles I\uff65II Additional Characters \"Gothic wa Mahou Otome\" 5 Characters Set\n\nGothic wa Mahou Otome \"Deathsmiles\" Respect Arrange Soundtrack\n\nDeathsmiles I\uff65II Additional Characters \"Gothic wa Mahou Otome\" 5 Characters Set\n\nGothic wa Mahou Otome \"Deathsmiles\" Respect Arrange Soundtrack\n\nDeathsmiles I\uff65II Additional Characters \"Gothic wa Mahou Otome\" 5 Characters Set\n\nGothic wa Mahou Otome \"Deathsmiles\" Respect Arrange Soundtrack\n\nDeathsmiles I\uff65II Additional Characters \"Gothic wa Mahou Otome\" 5 Characters Set\n\nGothic wa Mahou Otome \"Deathsmiles\" Respect Arrange Soundtrack\n\nDeathsmiles I\uff65II Additional Characters \"Gothic wa Mahou Otome\" 5 Characters Set\n\nGothic wa Mahou Otome \"Deathsmiles\" Respect Arrange Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -6325,6 +6466,7 @@ var extrasData =
             "negative": 49
         },
         "dlc": {
+            "description": "Deathstate Soundtrack\n\nDeathstate Soundtrack\n\nDeathstate Soundtrack\n\nDeathstate Soundtrack\n\nDeathstate Soundtrack\n\nDeathstate Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -6362,6 +6504,7 @@ var extrasData =
             "negative": 418
         },
         "dlc": {
+            "description": "DEEMO -Reborn- Prime Pack I\nDEEMO -Reborn- Prime Pack II\nDEEMO -Reborn- OST VOL.1\nDEEMO -Reborn- Prime Pack III\nDEEMO -Reborn- OST: Hidden Dreams Edition\nDEEMO -Reborn- Prime Pack IV\nDEEMO -Reborn- Taiko no Tatsujin Collaboration Collection\nDEEMO -Reborn- Prime Pack I\nDEEMO -Reborn- Prime Pack II\nDEEMO -Reborn- OST VOL.1\nDEEMO -Reborn- Prime Pack III\nDEEMO -Reborn- OST: Hidden Dreams Edition\nDEEMO -Reborn- Prime Pack IV\nDEEMO -Reborn- Taiko no Tatsujin Collaboration Collection\nDEEMO -Reborn- Prime Pack I\nDEEMO -Reborn- Prime Pack II\nDEEMO -Reborn- OST VOL.1\nDEEMO -Reborn- Prime Pack III\nDEEMO -Reborn- OST: Hidden Dreams Edition\nDEEMO -Reborn- Prime Pack IV\nDEEMO -Reborn- Taiko no Tatsujin Collaboration Collection\nDEEMO -Reborn- Prime Pack I\nDEEMO -Reborn- Prime Pack II\nDEEMO -Reborn- OST VOL.1\nDEEMO -Reborn- Prime Pack III\nDEEMO -Reborn- OST: Hidden Dreams Edition\nDEEMO -Reborn- Prime Pack IV\nDEEMO -Reborn- Taiko no Tatsujin Collaboration Collection\nDEEMO -Reborn- Prime Pack I\nDEEMO -Reborn- Prime Pack II\nDEEMO -Reborn- OST VOL.1\nDEEMO -Reborn- Prime Pack III\nDEEMO -Reborn- OST: Hidden Dreams Edition\nDEEMO -Reborn- Prime Pack IV\nDEEMO -Reborn- Taiko no Tatsujin Collaboration Collection\nDEEMO -Reborn- Prime Pack I\nDEEMO -Reborn- Prime Pack II\nDEEMO -Reborn- OST VOL.1\nDEEMO -Reborn- Prime Pack III\nDEEMO -Reborn- OST: Hidden Dreams Edition\nDEEMO -Reborn- Prime Pack IV\nDEEMO -Reborn- Taiko no Tatsujin Collaboration Collection",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -6394,11 +6537,12 @@ var extrasData =
     "4ec1cf22-63bf-404c-b094-98e7c14892d4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 342750,
-            "positive": 333337,
-            "negative": 9413
+            "total": 342759,
+            "positive": 333348,
+            "negative": 9411
         },
         "dlc": {
+            "description": "Deep Rock Galactic - Skullcrusher Pack\nDeep Rock Galactic - Order of the Deep Pack\nDeep Rock Galactic - Decontaminator Pack\nDeep Rock Galactic - Supporter II Upgrade\nDeep Rock Galactic - Biohazard Pack\nDeep Rock Galactic - Robot Rebellion Pack\nDeep Rock Galactic - Rival Tech Pack\nDeep Rock Galactic - Supporter Upgrade\nDeep Rock Galactic - Dark Future Pack\nDeep Rock Galactic - MegaCorp Pack\nDeep Rock Galactic - Roughneck Pack\nDeep Rock Galactic - Dawn of the Dread Pack\nDeep Rock Galactic - Original Soundtrack Volume I + II\nDeep Rock Galactic - Skullcrusher Pack\nDeep Rock Galactic - Order of the Deep Pack\nDeep Rock Galactic - Decontaminator Pack\nDeep Rock Galactic - Supporter II Upgrade\nDeep Rock Galactic - Biohazard Pack\nDeep Rock Galactic - Robot Rebellion Pack\nDeep Rock Galactic - Rival Tech Pack\nDeep Rock Galactic - Supporter Upgrade\nDeep Rock Galactic - Dark Future Pack\nDeep Rock Galactic - MegaCorp Pack\nDeep Rock Galactic - Roughneck Pack\nDeep Rock Galactic - Dawn of the Dread Pack\nDeep Rock Galactic - Original Soundtrack Volume I + II\nDeep Rock Galactic - Skullcrusher Pack\nDeep Rock Galactic - Order of the Deep Pack\nDeep Rock Galactic - Decontaminator Pack\nDeep Rock Galactic - Supporter II Upgrade\nDeep Rock Galactic - Biohazard Pack\nDeep Rock Galactic - Robot Rebellion Pack\nDeep Rock Galactic - Rival Tech Pack\nDeep Rock Galactic - Supporter Upgrade\nDeep Rock Galactic - Dark Future Pack\nDeep Rock Galactic - MegaCorp Pack\nDeep Rock Galactic - Roughneck Pack\nDeep Rock Galactic - Dawn of the Dread Pack\nDeep Rock Galactic - Original Soundtrack Volume I + II\nDeep Rock Galactic - Skullcrusher Pack\nDeep Rock Galactic - Order of the Deep Pack\nDeep Rock Galactic - Decontaminator Pack\nDeep Rock Galactic - Supporter II Upgrade\nDeep Rock Galactic - Biohazard Pack\nDeep Rock Galactic - Robot Rebellion Pack\nDeep Rock Galactic - Rival Tech Pack\nDeep Rock Galactic - Supporter Upgrade\nDeep Rock Galactic - Dark Future Pack\nDeep Rock Galactic - MegaCorp Pack\nDeep Rock Galactic - Roughneck Pack\nDeep Rock Galactic - Dawn of the Dread Pack\nDeep Rock Galactic - Original Soundtrack Volume I + II\nDeep Rock Galactic - Skullcrusher Pack\nDeep Rock Galactic - Order of the Deep Pack\nDeep Rock Galactic - Decontaminator Pack\nDeep Rock Galactic - Supporter II Upgrade\nDeep Rock Galactic - Biohazard Pack\nDeep Rock Galactic - Robot Rebellion Pack\nDeep Rock Galactic - Rival Tech Pack\nDeep Rock Galactic - Supporter Upgrade\nDeep Rock Galactic - Dark Future Pack\nDeep Rock Galactic - MegaCorp Pack\nDeep Rock Galactic - Roughneck Pack\nDeep Rock Galactic - Dawn of the Dread Pack\nDeep Rock Galactic - Original Soundtrack Volume I + II\nDeep Rock Galactic - Skullcrusher Pack\nDeep Rock Galactic - Order of the Deep Pack\nDeep Rock Galactic - Decontaminator Pack\nDeep Rock Galactic - Supporter II Upgrade\nDeep Rock Galactic - Biohazard Pack\nDeep Rock Galactic - Robot Rebellion Pack\nDeep Rock Galactic - Rival Tech Pack\nDeep Rock Galactic - Supporter Upgrade\nDeep Rock Galactic - Dark Future Pack\nDeep Rock Galactic - MegaCorp Pack\nDeep Rock Galactic - Roughneck Pack\nDeep Rock Galactic - Dawn of the Dread Pack\nDeep Rock Galactic - Original Soundtrack Volume I + II",
             "count": 13,
             "priceData": {
                 "USD": {
@@ -6436,6 +6580,7 @@ var extrasData =
             "negative": 142
         },
         "dlc": {
+            "description": "Defunct Soundtrack\n\nDefunct Soundtrack\n\nDefunct Soundtrack\n\nDefunct Soundtrack\n\nDefunct Soundtrack\n\nDefunct Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -6489,6 +6634,7 @@ var extrasData =
             "negative": 51
         },
         "dlc": {
+            "description": "DEMON'S TILT Collectors Pack\n\nDEMON'S TILT Collectors Pack\n\nDEMON'S TILT Collectors Pack\n\nDEMON'S TILT Collectors Pack\n\nDEMON'S TILT Collectors Pack\n\nDEMON'S TILT Collectors Pack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -6529,11 +6675,12 @@ var extrasData =
     "f4d85a0a-b909-4df1-9b32-7f95c2d826f7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 19186,
-            "positive": 18095,
+            "total": 19189,
+            "positive": 18098,
             "negative": 1091
         },
         "dlc": {
+            "description": "Descenders Soundtrack\n\nDescenders Soundtrack\n\nDescenders Soundtrack\n\nDescenders Soundtrack\n\nDescenders Soundtrack\n\nDescenders Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -6571,6 +6718,7 @@ var extrasData =
             "negative": 363
         },
         "dlc": {
+            "description": "Desktop Dungeons Soundtrack\n\nDesktop Dungeons Goatperson DLC\n\nDesktop Dungeons Soundtrack\n\nDesktop Dungeons Goatperson DLC\n\nDesktop Dungeons Soundtrack\n\nDesktop Dungeons Goatperson DLC\n\nDesktop Dungeons Soundtrack\n\nDesktop Dungeons Goatperson DLC\n\nDesktop Dungeons Soundtrack\n\nDesktop Dungeons Goatperson DLC\n\nDesktop Dungeons Soundtrack\n\nDesktop Dungeons Goatperson DLC",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -6603,11 +6751,12 @@ var extrasData =
     "a99983bc-33c1-471d-baff-024d9b8774b3": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3677,
-            "positive": 2861,
-            "negative": 816
+            "total": 3675,
+            "positive": 2860,
+            "negative": 815
         },
         "dlc": {
+            "description": "Despotism 3k - Soundtrack\n\nDespotism 3k - Soundtrack\n\nDespotism 3k - Soundtrack\n\nDespotism 3k - Soundtrack\n\nDespotism 3k - Soundtrack\n\nDespotism 3k - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -6653,6 +6802,7 @@ var extrasData =
             "negative": 98
         },
         "dlc": {
+            "description": "DESYNC: The Original Soundtrack - Volume 1 (Daniel Deluxe)\n\nDESYNC: The Original Soundtrack - Volume 2 (Volkor X)\n\nDESYNC: The Original Soundtrack - Volume 1 (Daniel Deluxe)\n\nDESYNC: The Original Soundtrack - Volume 2 (Volkor X)\n\nDESYNC: The Original Soundtrack - Volume 1 (Daniel Deluxe)\n\nDESYNC: The Original Soundtrack - Volume 2 (Volkor X)\n\nDESYNC: The Original Soundtrack - Volume 1 (Daniel Deluxe)\n\nDESYNC: The Original Soundtrack - Volume 2 (Volkor X)\n\nDESYNC: The Original Soundtrack - Volume 1 (Daniel Deluxe)\n\nDESYNC: The Original Soundtrack - Volume 2 (Volkor X)\n\nDESYNC: The Original Soundtrack - Volume 1 (Daniel Deluxe)\n\nDESYNC: The Original Soundtrack - Volume 2 (Volkor X)",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -6685,19 +6835,20 @@ var extrasData =
     "76b60daf-0df0-4855-a576-be5cb40e61a1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 28096,
+            "total": 28095,
             "positive": 25884,
-            "negative": 2212
+            "negative": 2211
         }
     },
     "01f6fc76-20b8-4de8-a8bd-19b19172d011": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 40820,
+            "total": 40821,
             "positive": 31015,
-            "negative": 9805
+            "negative": 9806
         },
         "dlc": {
+            "description": "Deus Ex: Mankind Divided - System Rift\nDeus Ex: Mankind Divided\u2122 DLC - A Criminal Past\nDeus Ex: Mankind Divided\u2122 DLC - Assault Pack\nDeus Ex: Mankind Divided\u2122 DLC - Tactical Pack\nDeus Ex: Mankind Divided\u2122 DLC - Season Pass\nDeus Ex: Mankind Divided - System Rift\nDeus Ex: Mankind Divided\u2122 DLC - A Criminal Past\nDeus Ex: Mankind Divided\u2122 DLC - Assault Pack\nDeus Ex: Mankind Divided\u2122 DLC - Tactical Pack\nDeus Ex: Mankind Divided\u2122 DLC - Season Pass\nDeus Ex: Mankind Divided - System Rift\nDeus Ex: Mankind Divided\u2122 DLC - A Criminal Past\nDeus Ex: Mankind Divided\u2122 DLC - Assault Pack\nDeus Ex: Mankind Divided\u2122 DLC - Tactical Pack\nDeus Ex: Mankind Divided\u2122 DLC - Season Pass\nDeus Ex: Mankind Divided - System Rift\nDeus Ex: Mankind Divided\u2122 DLC - A Criminal Past\nDeus Ex: Mankind Divided\u2122 DLC - Assault Pack\nDeus Ex: Mankind Divided\u2122 DLC - Tactical Pack\nDeus Ex: Mankind Divided - System Rift\nDeus Ex: Mankind Divided\u2122 DLC - A Criminal Past\nDeus Ex: Mankind Divided\u2122 DLC - Assault Pack\nDeus Ex: Mankind Divided\u2122 DLC - Tactical Pack\nDeus Ex: Mankind Divided\u2122 DLC - Season Pass\nDeus Ex: Mankind Divided - System Rift\nDeus Ex: Mankind Divided\u2122 DLC - A Criminal Past\nDeus Ex: Mankind Divided\u2122 DLC - Assault Pack\nDeus Ex: Mankind Divided\u2122 DLC - Tactical Pack\nDeus Ex: Mankind Divided\u2122 DLC - Season Pass",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -6759,6 +6910,7 @@ var extrasData =
             "negative": 15
         },
         "dlc": {
+            "description": "Devil Engine Ignition\n\nDevil Engine Original Soundtrack\n\nDevil Engine Ignition\n\nDevil Engine Original Soundtrack\n\nDevil Engine Ignition\n\nDevil Engine Original Soundtrack\n\nDevil Engine Ignition\n\nDevil Engine Original Soundtrack\n\nDevil Engine Ignition\n\nDevil Engine Original Soundtrack\n\nDevil Engine Ignition\n\nDevil Engine Original Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -6791,11 +6943,12 @@ var extrasData =
     "bacd841e-3086-4d92-a355-67cf515ddeb5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 145846,
-            "positive": 139975,
+            "total": 145856,
+            "positive": 139985,
             "negative": 5871
         },
         "dlc": {
+            "description": "Devil May Cry 5 - Playable Character: Vergil\nDevil May Cry 5 - Vergil Battle Track 4-Pack\nDevil May Cry 5 - Super Vergil Unlock\nDevil May Cry 5 - Vergil EX Provocation\nDevil May Cry 5 Original Soundtrack\nDevil May Cry 5 - 1 Blue Orb\nDevil May Cry 5 - 3 Blue Orbs\nDevil May Cry 5 - 5 Blue Orbs\nDevil May Cry 5 - 100000 Red Orbs\nDevil May Cry 5 - 200000 Red Orbs\nDevil May Cry 5 - 300000 Red Orbs\nDevil May Cry 5 - 500000 Red Orbs\nDevil May Cry 5 - 1000000 Red Orbs\nDevil May Cry 5 - Super Character 3-Pack\nDevil May Cry 5 - Taunt Trio\nDevil May Cry 5 - V & Vergil Alt Colors\nDevil May Cry 5 - Alt Hero Colors\nDevil May Cry 5 - Alt Heroine Colors\nDevil May Cry 5 - Alt Style Rank Announcers\nDevil May Cry 5 - Alt Title Calls\nDevil May Cry 5 - Live Action Cutscenes\nDevil May Cry 5 - DMC1 Battle Track 3-Pack\nDevil May Cry 5 - DMC2 Battle Track 3-Pack\nDevil May Cry 5 - DMC3 Battle Track 3-Pack\nDevil May Cry 5 - DMC4 Battle Track 3-Pack\nDevil May Cry 5 - Gerbera GP01\nDevil May Cry 5 - Pasta Breaker\nDevil May Cry 5 - Sweet Surrender\nDevil May Cry 5 - Mega Buster\nDevil May Cry 5 - Cavaliere R\nDevil May Cry 5 Vergil's Rebirth Sound Selection\nDevil May Cry 5 - Playable Character: Vergil\nDevil May Cry 5 - Vergil Battle Track 4-Pack\nDevil May Cry 5 - Super Vergil Unlock\nDevil May Cry 5 - Vergil EX Provocation\nDevil May Cry 5 Original Soundtrack\nDevil May Cry 5 - 1 Blue Orb\nDevil May Cry 5 - 3 Blue Orbs\nDevil May Cry 5 - 5 Blue Orbs\nDevil May Cry 5 - 100000 Red Orbs\nDevil May Cry 5 - 200000 Red Orbs\nDevil May Cry 5 - 300000 Red Orbs\nDevil May Cry 5 - 500000 Red Orbs\nDevil May Cry 5 - 1000000 Red Orbs\nDevil May Cry 5 - Super Character 3-Pack\nDevil May Cry 5 - Taunt Trio\nDevil May Cry 5 - V & Vergil Alt Colors\nDevil May Cry 5 - Alt Hero Colors\nDevil May Cry 5 - Alt Heroine Colors\nDevil May Cry 5 - Alt Style Rank Announcers\nDevil May Cry 5 - Alt Title Calls\nDevil May Cry 5 - Live Action Cutscenes\nDevil May Cry 5 - DMC1 Battle Track 3-Pack\nDevil May Cry 5 - DMC2 Battle Track 3-Pack\nDevil May Cry 5 - DMC3 Battle Track 3-Pack\nDevil May Cry 5 - DMC4 Battle Track 3-Pack\nDevil May Cry 5 - Gerbera GP01\nDevil May Cry 5 - Pasta Breaker\nDevil May Cry 5 - Sweet Surrender\nDevil May Cry 5 - Mega Buster\nDevil May Cry 5 - Cavaliere R\nDevil May Cry 5 Vergil's Rebirth Sound Selection\nDevil May Cry 5 - Playable Character: Vergil\nDevil May Cry 5 - Vergil Battle Track 4-Pack\nDevil May Cry 5 - Super Vergil Unlock\nDevil May Cry 5 - Vergil EX Provocation\nDevil May Cry 5 Original Soundtrack\nDevil May Cry 5 - 1 Blue Orb\nDevil May Cry 5 - 3 Blue Orbs\nDevil May Cry 5 - 5 Blue Orbs\nDevil May Cry 5 - 100000 Red Orbs\nDevil May Cry 5 - 200000 Red Orbs\nDevil May Cry 5 - 300000 Red Orbs\nDevil May Cry 5 - 500000 Red Orbs\nDevil May Cry 5 - 1000000 Red Orbs\nDevil May Cry 5 - Super Character 3-Pack\nDevil May Cry 5 - Taunt Trio\nDevil May Cry 5 - V & Vergil Alt Colors\nDevil May Cry 5 - Alt Hero Colors\nDevil May Cry 5 - Alt Heroine Colors\nDevil May Cry 5 - Alt Style Rank Announcers\nDevil May Cry 5 - Alt Title Calls\nDevil May Cry 5 - Live Action Cutscenes\nDevil May Cry 5 - DMC1 Battle Track 3-Pack\nDevil May Cry 5 - DMC2 Battle Track 3-Pack\nDevil May Cry 5 - DMC3 Battle Track 3-Pack\nDevil May Cry 5 - DMC4 Battle Track 3-Pack\nDevil May Cry 5 - Gerbera GP01\nDevil May Cry 5 - Pasta Breaker\nDevil May Cry 5 - Sweet Surrender\nDevil May Cry 5 - Mega Buster\nDevil May Cry 5 - Cavaliere R\nDevil May Cry 5 Vergil's Rebirth Sound Selection\nDevil May Cry 5 - Playable Character: Vergil\nDevil May Cry 5 - Vergil Battle Track 4-Pack\nDevil May Cry 5 - Super Vergil Unlock\nDevil May Cry 5 - Vergil EX Provocation\nDevil May Cry 5 Original Soundtrack\nDevil May Cry 5 - 1 Blue Orb\nDevil May Cry 5 - 3 Blue Orbs\nDevil May Cry 5 - 5 Blue Orbs\nDevil May Cry 5 - 100000 Red Orbs\nDevil May Cry 5 - 200000 Red Orbs\nDevil May Cry 5 - 300000 Red Orbs\nDevil May Cry 5 - 500000 Red Orbs\nDevil May Cry 5 - 1000000 Red Orbs\nDevil May Cry 5 - Super Character 3-Pack\nDevil May Cry 5 - Taunt Trio\nDevil May Cry 5 - V & Vergil Alt Colors\nDevil May Cry 5 - Alt Hero Colors\nDevil May Cry 5 - Alt Heroine Colors\nDevil May Cry 5 - Alt Style Rank Announcers\nDevil May Cry 5 - Alt Title Calls\nDevil May Cry 5 - Live Action Cutscenes\nDevil May Cry 5 - DMC1 Battle Track 3-Pack\nDevil May Cry 5 - DMC2 Battle Track 3-Pack\nDevil May Cry 5 - DMC3 Battle Track 3-Pack\nDevil May Cry 5 - DMC4 Battle Track 3-Pack\nDevil May Cry 5 - Gerbera GP01\nDevil May Cry 5 - Pasta Breaker\nDevil May Cry 5 - Sweet Surrender\nDevil May Cry 5 - Mega Buster\nDevil May Cry 5 - Cavaliere R\nDevil May Cry 5 Vergil's Rebirth Sound Selection\nDevil May Cry 5 - Playable Character: Vergil\nDevil May Cry 5 - Vergil Battle Track 4-Pack\nDevil May Cry 5 - Super Vergil Unlock\nDevil May Cry 5 - Vergil EX Provocation\nDevil May Cry 5 Original Soundtrack\nDevil May Cry 5 - 1 Blue Orb\nDevil May Cry 5 - 3 Blue Orbs\nDevil May Cry 5 - 5 Blue Orbs\nDevil May Cry 5 - 100000 Red Orbs\nDevil May Cry 5 - 200000 Red Orbs\nDevil May Cry 5 - 300000 Red Orbs\nDevil May Cry 5 - 500000 Red Orbs\nDevil May Cry 5 - 1000000 Red Orbs\nDevil May Cry 5 - Super Character 3-Pack\nDevil May Cry 5 - Taunt Trio\nDevil May Cry 5 - V & Vergil Alt Colors\nDevil May Cry 5 - Alt Hero Colors\nDevil May Cry 5 - Alt Heroine Colors\nDevil May Cry 5 - Alt Style Rank Announcers\nDevil May Cry 5 - Alt Title Calls\nDevil May Cry 5 - Live Action Cutscenes\nDevil May Cry 5 - DMC1 Battle Track 3-Pack\nDevil May Cry 5 - DMC2 Battle Track 3-Pack\nDevil May Cry 5 - DMC3 Battle Track 3-Pack\nDevil May Cry 5 - DMC4 Battle Track 3-Pack\nDevil May Cry 5 - Gerbera GP01\nDevil May Cry 5 - Pasta Breaker\nDevil May Cry 5 - Sweet Surrender\nDevil May Cry 5 - Mega Buster\nDevil May Cry 5 - Cavaliere R\nDevil May Cry 5 Vergil's Rebirth Sound Selection\nDevil May Cry 5 - Playable Character: Vergil\nDevil May Cry 5 - Vergil Battle Track 4-Pack\nDevil May Cry 5 - Super Vergil Unlock\nDevil May Cry 5 - Vergil EX Provocation\nDevil May Cry 5 Original Soundtrack\nDevil May Cry 5 - 1 Blue Orb\nDevil May Cry 5 - 3 Blue Orbs\nDevil May Cry 5 - 5 Blue Orbs\nDevil May Cry 5 - 100000 Red Orbs\nDevil May Cry 5 - 200000 Red Orbs\nDevil May Cry 5 - 300000 Red Orbs\nDevil May Cry 5 - 500000 Red Orbs\nDevil May Cry 5 - 1000000 Red Orbs\nDevil May Cry 5 - Super Character 3-Pack\nDevil May Cry 5 - Taunt Trio\nDevil May Cry 5 - V & Vergil Alt Colors\nDevil May Cry 5 - Alt Hero Colors\nDevil May Cry 5 - Alt Heroine Colors\nDevil May Cry 5 - Alt Style Rank Announcers\nDevil May Cry 5 - Alt Title Calls\nDevil May Cry 5 - Live Action Cutscenes\nDevil May Cry 5 - DMC1 Battle Track 3-Pack\nDevil May Cry 5 - DMC2 Battle Track 3-Pack\nDevil May Cry 5 - DMC3 Battle Track 3-Pack\nDevil May Cry 5 - DMC4 Battle Track 3-Pack\nDevil May Cry 5 - Gerbera GP01\nDevil May Cry 5 - Pasta Breaker\nDevil May Cry 5 - Sweet Surrender\nDevil May Cry 5 - Mega Buster\nDevil May Cry 5 - Cavaliere R\nDevil May Cry 5 Vergil's Rebirth Sound Selection",
             "count": 32,
             "priceData": {
                 "USD": {
@@ -6828,11 +6981,12 @@ var extrasData =
     "656aaa64-33bb-43f2-a9f6-cdadb678249a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 17038,
-            "positive": 15824,
+            "total": 17043,
+            "positive": 15829,
             "negative": 1214
         },
         "dlc": {
+            "description": "Devil May Cry Original Soundtrack\nDevil May Cry 2 Original Soundtrack\nDevil May Cry 3 Original Soundtrack\nDevil May Cry Original Soundtrack\nDevil May Cry 2 Original Soundtrack\nDevil May Cry 3 Original Soundtrack\nDevil May Cry Original Soundtrack\nDevil May Cry 2 Original Soundtrack\nDevil May Cry 3 Original Soundtrack\nDevil May Cry Original Soundtrack\nDevil May Cry 2 Original Soundtrack\nDevil May Cry 3 Original Soundtrack\nDevil May Cry Original Soundtrack\nDevil May Cry 2 Original Soundtrack\nDevil May Cry 3 Original Soundtrack\nDevil May Cry Original Soundtrack\nDevil May Cry 2 Original Soundtrack\nDevil May Cry 3 Original Soundtrack",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -6873,11 +7027,12 @@ var extrasData =
     "31c0cea6-9d6b-45fb-be0d-6cec0c3faffa": {
         "reviews": {
             "description": "Very Positive",
-            "total": 82499,
-            "positive": 75045,
+            "total": 82500,
+            "positive": 75046,
             "negative": 7454
         },
         "dlc": {
+            "description": "DEVOUR: Supporter Edition\n\nDEVOUR: Soundtrack\n\nDEVOUR: Supporter Edition\n\nDEVOUR: Soundtrack\n\nDEVOUR: Supporter Edition\n\nDEVOUR: Soundtrack\n\nDEVOUR: Supporter Edition\n\nDEVOUR: Soundtrack\n\nDEVOUR: Supporter Edition\n\nDEVOUR: Soundtrack\n\nDEVOUR: Supporter Edition\n\nDEVOUR: Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -6915,6 +7070,7 @@ var extrasData =
             "negative": 1161
         },
         "dlc": {
+            "description": "Dicey Dungeons - Soundtrack\n\nDicey Dungeons - Soundtrack\n\nDicey Dungeons - Soundtrack\n\nDicey Dungeons - Soundtrack\n\nDicey Dungeons - Soundtrack\n\nDicey Dungeons - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -6968,6 +7124,7 @@ var extrasData =
             "negative": 17
         },
         "dlc": {
+            "description": "Dimension Drive - Soundtrack\n\nDimension Drive - Soundtrack\n\nDimension Drive - Soundtrack\n\nDimension Drive - Soundtrack\n\nDimension Drive - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -7013,6 +7170,7 @@ var extrasData =
             "negative": 92
         },
         "dlc": {
+            "description": "Dino Run DX OST & Supporter Pack\n\nDino Run DX OST & Supporter Pack\n\nDino Run DX OST & Supporter Pack\n\nDino Run DX OST & Supporter Pack\n\nDino Run DX OST & Supporter Pack\n\nDino Run DX OST & Supporter Pack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -7045,11 +7203,12 @@ var extrasData =
     "56f76b8d-a1c7-4f17-ab1d-ac9e2fefa90b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 44521,
-            "positive": 39328,
-            "negative": 5193
+            "total": 44523,
+            "positive": 39329,
+            "negative": 5194
         },
         "dlc": {
+            "description": "DiRT Rally 2.0 - Porsche 911 RGT Rally Spec\nDiRT Rally 2.0 - H2 RWD Double Pack\nDiRT Rally 2.0 - Opel Kadett  C GT/E\nDiRT Rally 2.0 - Monte Carlo (Rally Location)\nDiRT Rally 2.0 - Sweden (Rally Location)\nDiRT Rally 2.0 - Germany (Rally Location)\nDiRT Rally 2.0 - Bikernieki, Latvia (Rallycross Track)\nDiRT Rally 2.0 - Estering, Germany (Rallycross Track)\nDiRT Rally 2.0 - \u0160KODA Fabia Rally\nDiRT Rally 2.0 - Citro\u00ebn C4 Rally\nDiRT Rally 2.0 - Subaru Impreza\nDiRT Rally 2.0 - BMW M1 Procar Rally\nDiRT Rally 2.0 - Opel Manta 400\nDiRT Rally 2.0 - Peugeot 205 T16 Rallycross\nDiRT Rally 2.0 - Ford RS200 Evolution\nDiRT Rally 2.0 - Porsche 911 SC RS\nDiRT Rally 2.0 - Lancia 037 Evo 2\nDiRT Rally 2.0 - Lancia Delta S4 RX\nDiRT Rally 2.0 - MG Metro 6R4 Rallycross\nDiRT Rally 2.0 - Ford Focus RS Rally 2007\nDiRT Rally 2.0 - SUBARU Impreza (2001)\nDiRT Rally 2.0 - Ford Focus RS Rally 2001\nDiRT Rally 2.0 - Peugeot 306 Maxi\nDiRT Rally 2.0 - Seat Ibiza Kit Car\nDiRT Rally 2.0 - Peugeot 206 Rally\nDiRT Rally 2.0 - Volkswagen Golf Kitcar\nDiRT Rally 2.0 - Renault Clio R.S. RX\nDiRT Rally 2.0 - Renault Megane R.S. RX\nDiRT Rally 2.0 - Ford Fiesta Rallycross (MK8)\nDiRT Rally 2.0 - Audi S1 EKS RX quattro\nDiRT Rally 2.0 - Ford Fiesta RXS Evo 5\nDiRT Rally 2.0 - MINI Cooper SX1\nDiRT Rally 2.0 - Peugeot 208 WRX\nDiRT Rally 2.0 - Seat Ibiza RX\nDiRT Rally 2.0 - Ford Fiesta Rallycross (STARD)\nDiRT Rally 2.0 - Greece (Rally Location)\nDiRT Rally 2.0 - Yas Marina Circuit, Abu Dhabi (Rallycross Track)\nDiRT Rally 2.0 - Finland (Rally Location)\nDiRT Rally 2.0 - Killarney International Raceway, South Africa (Rallycross Track)\nDiRT Rally 2.0 - Lydden Hill, UK (Rallycross Track)\nDiRT Rally 2.0 - Wales (Rally Location)\nDiRT Rally 2.0 Deluxe 2.0 (Season3+4)\nDiRT Rally 2.0 - Colin McRae: FLAT OUT Pack\nDiRT Rally 2.0 - Porsche 911 RGT Rally Spec\nDiRT Rally 2.0 - H2 RWD Double Pack\nDiRT Rally 2.0 - Opel Kadett  C GT/E\nDiRT Rally 2.0 - Monte Carlo (Rally Location)\nDiRT Rally 2.0 - Sweden (Rally Location)\nDiRT Rally 2.0 - Germany (Rally Location)\nDiRT Rally 2.0 - Bikernieki, Latvia (Rallycross Track)\nDiRT Rally 2.0 - Estering, Germany (Rallycross Track)\nDiRT Rally 2.0 - \u0160KODA Fabia Rally\nDiRT Rally 2.0 - Citro\u00ebn C4 Rally\nDiRT Rally 2.0 - Subaru Impreza\nDiRT Rally 2.0 - BMW M1 Procar Rally\nDiRT Rally 2.0 - Opel Manta 400\nDiRT Rally 2.0 - Peugeot 205 T16 Rallycross\nDiRT Rally 2.0 - Ford RS200 Evolution\nDiRT Rally 2.0 - Porsche 911 SC RS\nDiRT Rally 2.0 - Lancia 037 Evo 2\nDiRT Rally 2.0 - Lancia Delta S4 RX\nDiRT Rally 2.0 - MG Metro 6R4 Rallycross\nDiRT Rally 2.0 - Ford Focus RS Rally 2007\nDiRT Rally 2.0 - SUBARU Impreza (2001)\nDiRT Rally 2.0 - Ford Focus RS Rally 2001\nDiRT Rally 2.0 - Peugeot 306 Maxi\nDiRT Rally 2.0 - Seat Ibiza Kit Car\nDiRT Rally 2.0 - Peugeot 206 Rally\nDiRT Rally 2.0 - Volkswagen Golf Kitcar\nDiRT Rally 2.0 - Renault Clio R.S. RX\nDiRT Rally 2.0 - Renault Megane R.S. RX\nDiRT Rally 2.0 - Ford Fiesta Rallycross (MK8)\nDiRT Rally 2.0 - Audi S1 EKS RX quattro\nDiRT Rally 2.0 - Ford Fiesta RXS Evo 5\nDiRT Rally 2.0 - MINI Cooper SX1\nDiRT Rally 2.0 - Peugeot 208 WRX\nDiRT Rally 2.0 - Seat Ibiza RX\nDiRT Rally 2.0 - Ford Fiesta Rallycross (STARD)\nDiRT Rally 2.0 - Greece (Rally Location)\nDiRT Rally 2.0 - Yas Marina Circuit, Abu Dhabi (Rallycross Track)\nDiRT Rally 2.0 - Finland (Rally Location)\nDiRT Rally 2.0 - Killarney International Raceway, South Africa (Rallycross Track)\nDiRT Rally 2.0 - Lydden Hill, UK (Rallycross Track)\nDiRT Rally 2.0 - Wales (Rally Location)\nDiRT Rally 2.0 Deluxe 2.0 (Season3+4)\nDiRT Rally 2.0 - Colin McRae: FLAT OUT Pack\nDiRT Rally 2.0 - Porsche 911 RGT Rally Spec\nDiRT Rally 2.0 - H2 RWD Double Pack\nDiRT Rally 2.0 - Opel Kadett  C GT/E\nDiRT Rally 2.0 - Monte Carlo (Rally Location)\nDiRT Rally 2.0 - Sweden (Rally Location)\nDiRT Rally 2.0 - Germany (Rally Location)\nDiRT Rally 2.0 - Bikernieki, Latvia (Rallycross Track)\nDiRT Rally 2.0 - Estering, Germany (Rallycross Track)\nDiRT Rally 2.0 - \u0160KODA Fabia Rally\nDiRT Rally 2.0 - Citro\u00ebn C4 Rally\nDiRT Rally 2.0 - Subaru Impreza\nDiRT Rally 2.0 - BMW M1 Procar Rally\nDiRT Rally 2.0 - Opel Manta 400\nDiRT Rally 2.0 - Peugeot 205 T16 Rallycross\nDiRT Rally 2.0 - Ford RS200 Evolution\nDiRT Rally 2.0 - Porsche 911 SC RS\nDiRT Rally 2.0 - Lancia 037 Evo 2\nDiRT Rally 2.0 - Lancia Delta S4 RX\nDiRT Rally 2.0 - MG Metro 6R4 Rallycross\nDiRT Rally 2.0 - Ford Focus RS Rally 2007\nDiRT Rally 2.0 - SUBARU Impreza (2001)\nDiRT Rally 2.0 - Ford Focus RS Rally 2001\nDiRT Rally 2.0 - Peugeot 306 Maxi\nDiRT Rally 2.0 - Seat Ibiza Kit Car\nDiRT Rally 2.0 - Peugeot 206 Rally\nDiRT Rally 2.0 - Volkswagen Golf Kitcar\nDiRT Rally 2.0 - Renault Clio R.S. RX\nDiRT Rally 2.0 - Renault Megane R.S. RX\nDiRT Rally 2.0 - Ford Fiesta Rallycross (MK8)\nDiRT Rally 2.0 - Audi S1 EKS RX quattro\nDiRT Rally 2.0 - Ford Fiesta RXS Evo 5\nDiRT Rally 2.0 - MINI Cooper SX1\nDiRT Rally 2.0 - Peugeot 208 WRX\nDiRT Rally 2.0 - Seat Ibiza RX\nDiRT Rally 2.0 - Ford Fiesta Rallycross (STARD)\nDiRT Rally 2.0 - Greece (Rally Location)\nDiRT Rally 2.0 - Yas Marina Circuit, Abu Dhabi (Rallycross Track)\nDiRT Rally 2.0 - Finland (Rally Location)\nDiRT Rally 2.0 - Killarney International Raceway, South Africa (Rallycross Track)\nDiRT Rally 2.0 - Lydden Hill, UK (Rallycross Track)\nDiRT Rally 2.0 - Wales (Rally Location)\nDiRT Rally 2.0 Deluxe 2.0 (Season3+4)\nDiRT Rally 2.0 - Colin McRae: FLAT OUT Pack\nDiRT Rally 2.0 - Porsche 911 RGT Rally Spec\nDiRT Rally 2.0 - H2 RWD Double Pack\nDiRT Rally 2.0 - Opel Kadett  C GT/E\nDiRT Rally 2.0 - Monte Carlo (Rally Location)\nDiRT Rally 2.0 - Sweden (Rally Location)\nDiRT Rally 2.0 - Germany (Rally Location)\nDiRT Rally 2.0 - Bikernieki, Latvia (Rallycross Track)\nDiRT Rally 2.0 - Estering, Germany (Rallycross Track)\nDiRT Rally 2.0 - \u0160KODA Fabia Rally\nDiRT Rally 2.0 - Citro\u00ebn C4 Rally\nDiRT Rally 2.0 - Subaru Impreza\nDiRT Rally 2.0 - BMW M1 Procar Rally\nDiRT Rally 2.0 - Opel Manta 400\nDiRT Rally 2.0 - Peugeot 205 T16 Rallycross\nDiRT Rally 2.0 - Ford RS200 Evolution\nDiRT Rally 2.0 - Porsche 911 SC RS\nDiRT Rally 2.0 - Lancia 037 Evo 2\nDiRT Rally 2.0 - Lancia Delta S4 RX\nDiRT Rally 2.0 - MG Metro 6R4 Rallycross\nDiRT Rally 2.0 - Ford Focus RS Rally 2007\nDiRT Rally 2.0 - SUBARU Impreza (2001)\nDiRT Rally 2.0 - Ford Focus RS Rally 2001\nDiRT Rally 2.0 - Peugeot 306 Maxi\nDiRT Rally 2.0 - Seat Ibiza Kit Car\nDiRT Rally 2.0 - Peugeot 206 Rally\nDiRT Rally 2.0 - Volkswagen Golf Kitcar\nDiRT Rally 2.0 - Renault Clio R.S. RX\nDiRT Rally 2.0 - Renault Megane R.S. RX\nDiRT Rally 2.0 - Ford Fiesta Rallycross (MK8)\nDiRT Rally 2.0 - Audi S1 EKS RX quattro\nDiRT Rally 2.0 - Ford Fiesta RXS Evo 5\nDiRT Rally 2.0 - MINI Cooper SX1\nDiRT Rally 2.0 - Peugeot 208 WRX\nDiRT Rally 2.0 - Seat Ibiza RX\nDiRT Rally 2.0 - Ford Fiesta Rallycross (STARD)\nDiRT Rally 2.0 - Greece (Rally Location)\nDiRT Rally 2.0 - Yas Marina Circuit, Abu Dhabi (Rallycross Track)\nDiRT Rally 2.0 - Finland (Rally Location)\nDiRT Rally 2.0 - Killarney International Raceway, South Africa (Rallycross Track)\nDiRT Rally 2.0 - Lydden Hill, UK (Rallycross Track)\nDiRT Rally 2.0 - Wales (Rally Location)\nDiRT Rally 2.0 Deluxe 2.0 (Season3+4)\nDiRT Rally 2.0 - Colin McRae: FLAT OUT Pack\nDiRT Rally 2.0 - Porsche 911 RGT Rally Spec\nDiRT Rally 2.0 - H2 RWD Double Pack\nDiRT Rally 2.0 - Opel Kadett  C GT/E\nDiRT Rally 2.0 - Monte Carlo (Rally Location)\nDiRT Rally 2.0 - Sweden (Rally Location)\nDiRT Rally 2.0 - Germany (Rally Location)\nDiRT Rally 2.0 - Bikernieki, Latvia (Rallycross Track)\nDiRT Rally 2.0 - Estering, Germany (Rallycross Track)\nDiRT Rally 2.0 - \u0160KODA Fabia Rally\nDiRT Rally 2.0 - Citro\u00ebn C4 Rally\nDiRT Rally 2.0 - Subaru Impreza\nDiRT Rally 2.0 - BMW M1 Procar Rally\nDiRT Rally 2.0 - Opel Manta 400\nDiRT Rally 2.0 - Peugeot 205 T16 Rallycross\nDiRT Rally 2.0 - Ford RS200 Evolution\nDiRT Rally 2.0 - Porsche 911 SC RS\nDiRT Rally 2.0 - Lancia 037 Evo 2\nDiRT Rally 2.0 - Lancia Delta S4 RX\nDiRT Rally 2.0 - MG Metro 6R4 Rallycross\nDiRT Rally 2.0 - Ford Focus RS Rally 2007\nDiRT Rally 2.0 - SUBARU Impreza (2001)\nDiRT Rally 2.0 - Ford Focus RS Rally 2001\nDiRT Rally 2.0 - Peugeot 306 Maxi\nDiRT Rally 2.0 - Seat Ibiza Kit Car\nDiRT Rally 2.0 - Peugeot 206 Rally\nDiRT Rally 2.0 - Volkswagen Golf Kitcar\nDiRT Rally 2.0 - Renault Clio R.S. RX\nDiRT Rally 2.0 - Renault Megane R.S. RX\nDiRT Rally 2.0 - Ford Fiesta Rallycross (MK8)\nDiRT Rally 2.0 - Audi S1 EKS RX quattro\nDiRT Rally 2.0 - Ford Fiesta RXS Evo 5\nDiRT Rally 2.0 - MINI Cooper SX1\nDiRT Rally 2.0 - Peugeot 208 WRX\nDiRT Rally 2.0 - Seat Ibiza RX\nDiRT Rally 2.0 - Ford Fiesta Rallycross (STARD)\nDiRT Rally 2.0 - Greece (Rally Location)\nDiRT Rally 2.0 - Yas Marina Circuit, Abu Dhabi (Rallycross Track)\nDiRT Rally 2.0 - Finland (Rally Location)\nDiRT Rally 2.0 - Killarney International Raceway, South Africa (Rallycross Track)\nDiRT Rally 2.0 - Lydden Hill, UK (Rallycross Track)\nDiRT Rally 2.0 - Wales (Rally Location)\nDiRT Rally 2.0 Deluxe 2.0 (Season3+4)\nDiRT Rally 2.0 - Colin McRae: FLAT OUT Pack\nDiRT Rally 2.0 - Porsche 911 RGT Rally Spec\nDiRT Rally 2.0 - H2 RWD Double Pack\nDiRT Rally 2.0 - Opel Kadett  C GT/E\nDiRT Rally 2.0 - Monte Carlo (Rally Location)\nDiRT Rally 2.0 - Sweden (Rally Location)\nDiRT Rally 2.0 - Germany (Rally Location)\nDiRT Rally 2.0 - Bikernieki, Latvia (Rallycross Track)\nDiRT Rally 2.0 - Estering, Germany (Rallycross Track)\nDiRT Rally 2.0 - \u0160KODA Fabia Rally\nDiRT Rally 2.0 - Citro\u00ebn C4 Rally\nDiRT Rally 2.0 - Subaru Impreza\nDiRT Rally 2.0 - BMW M1 Procar Rally\nDiRT Rally 2.0 - Opel Manta 400\nDiRT Rally 2.0 - Peugeot 205 T16 Rallycross\nDiRT Rally 2.0 - Ford RS200 Evolution\nDiRT Rally 2.0 - Porsche 911 SC RS\nDiRT Rally 2.0 - Lancia 037 Evo 2\nDiRT Rally 2.0 - Lancia Delta S4 RX\nDiRT Rally 2.0 - MG Metro 6R4 Rallycross\nDiRT Rally 2.0 - Ford Focus RS Rally 2007\nDiRT Rally 2.0 - SUBARU Impreza (2001)\nDiRT Rally 2.0 - Ford Focus RS Rally 2001\nDiRT Rally 2.0 - Peugeot 306 Maxi\nDiRT Rally 2.0 - Seat Ibiza Kit Car\nDiRT Rally 2.0 - Peugeot 206 Rally\nDiRT Rally 2.0 - Volkswagen Golf Kitcar\nDiRT Rally 2.0 - Renault Clio R.S. RX\nDiRT Rally 2.0 - Renault Megane R.S. RX\nDiRT Rally 2.0 - Ford Fiesta Rallycross (MK8)\nDiRT Rally 2.0 - Audi S1 EKS RX quattro\nDiRT Rally 2.0 - Ford Fiesta RXS Evo 5\nDiRT Rally 2.0 - MINI Cooper SX1\nDiRT Rally 2.0 - Peugeot 208 WRX\nDiRT Rally 2.0 - Seat Ibiza RX\nDiRT Rally 2.0 - Ford Fiesta Rallycross (STARD)\nDiRT Rally 2.0 - Greece (Rally Location)\nDiRT Rally 2.0 - Yas Marina Circuit, Abu Dhabi (Rallycross Track)\nDiRT Rally 2.0 - Finland (Rally Location)\nDiRT Rally 2.0 - Killarney International Raceway, South Africa (Rallycross Track)\nDiRT Rally 2.0 - Lydden Hill, UK (Rallycross Track)\nDiRT Rally 2.0 - Wales (Rally Location)\nDiRT Rally 2.0 Deluxe 2.0 (Season3+4)\nDiRT Rally 2.0 - Colin McRae: FLAT OUT Pack",
             "count": 44,
             "priceData": {
                 "USD": {
@@ -7087,6 +7246,7 @@ var extrasData =
             "negative": 60
         },
         "dlc": {
+            "description": "Disc Room Soundtrack\n\nDisc Room Soundtrack\n\nDisc Room Soundtrack\n\nDisc Room Soundtrack\n\nDisc Room Soundtrack\n\nDisc Room Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -7119,11 +7279,12 @@ var extrasData =
     "e54077f4-c233-415f-8cd4-e32aaab4a86d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 82346,
-            "positive": 80403,
+            "total": 82348,
+            "positive": 80405,
             "negative": 1943
         },
         "dlc": {
+            "description": "Dishonored: The Brigmore Witches\nDishonored - Void Walker Arsenal\nDishonored - The Knife of Dunwall\nDishonored: Dunwall City Trials\nDishonored Soundtrack\nDishonored: The Brigmore Witches\nDishonored - Void Walker Arsenal\nDishonored - The Knife of Dunwall\nDishonored: Dunwall City Trials\nDishonored Soundtrack\nDishonored: The Brigmore Witches\nDishonored - Void Walker Arsenal\nDishonored - The Knife of Dunwall\nDishonored: Dunwall City Trials\nDishonored Soundtrack\nDishonored: The Brigmore Witches\nDishonored - Void Walker Arsenal\nDishonored - The Knife of Dunwall\nDishonored: Dunwall City Trials\nDishonored Soundtrack\nDishonored: The Brigmore Witches\nDishonored - Void Walker Arsenal\nDishonored - The Knife of Dunwall\nDishonored: Dunwall City Trials\nDishonored Soundtrack\nDishonored: The Brigmore Witches\nDishonored - Void Walker Arsenal\nDishonored - The Knife of Dunwall\nDishonored: Dunwall City Trials\nDishonored Soundtrack",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -7161,6 +7322,7 @@ var extrasData =
             "negative": 542
         },
         "dlc": {
+            "description": "Distance - Soundtrack & Art Book\n\nDistance - Soundtrack & Art Book\n\nDistance - Soundtrack & Art Book\n\nDistance - Soundtrack & Art Book\n\nDistance - Soundtrack & Art Book\n\nDistance - Soundtrack & Art Book",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -7206,6 +7368,7 @@ var extrasData =
             "negative": 41
         },
         "dlc": {
+            "description": "DoDonPachi Resurrection OST\nDoDonPachi Resurrection Arrange Album\nDoDonPachi Resurrection BLACK LABEL Original Sound Track\nDoDonPachi Resurrection BLACK LABEL Arrange Mode Album\nDoDonPachi Resurrection OST\nDoDonPachi Resurrection Arrange Album\nDoDonPachi Resurrection BLACK LABEL Original Sound Track\nDoDonPachi Resurrection BLACK LABEL Arrange Mode Album\nDoDonPachi Resurrection OST\nDoDonPachi Resurrection Arrange Album\nDoDonPachi Resurrection BLACK LABEL Original Sound Track\nDoDonPachi Resurrection BLACK LABEL Arrange Mode Album\nDoDonPachi Resurrection OST\nDoDonPachi Resurrection Arrange Album\nDoDonPachi Resurrection BLACK LABEL Original Sound Track\nDoDonPachi Resurrection BLACK LABEL Arrange Mode Album\nDoDonPachi Resurrection OST\nDoDonPachi Resurrection Arrange Album\nDoDonPachi Resurrection BLACK LABEL Original Sound Track\nDoDonPachi Resurrection BLACK LABEL Arrange Mode Album\nDoDonPachi Resurrection OST\nDoDonPachi Resurrection Arrange Album\nDoDonPachi Resurrection BLACK LABEL Original Sound Track\nDoDonPachi Resurrection BLACK LABEL Arrange Mode Album",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -7246,11 +7409,12 @@ var extrasData =
     "dcc5d1ff-675d-44f6-8411-88cb6dc513f1": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 206680,
-            "positive": 197455,
+            "total": 206699,
+            "positive": 197474,
             "negative": 9225
         },
         "dlc": {
+            "description": "DOOM Soundtrack\n\nDOOM Soundtrack\n\nDOOM Soundtrack\n\nDOOM Soundtrack\n\nDOOM Soundtrack\n\nDOOM Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -7283,11 +7447,12 @@ var extrasData =
     "5d268c17-5bd0-4eeb-b40f-adc3a0289072": {
         "reviews": {
             "description": "Very Positive",
-            "total": 202339,
-            "positive": 185048,
+            "total": 202351,
+            "positive": 185060,
             "negative": 17291
         },
         "dlc": {
+            "description": "DOOM Eternal: The Ancient Gods - Part One\nDOOM Eternal: The Ancient Gods - Part Two\nDOOM Eternal: The Rip and Tear Pack\nDOOM Eternal: Series Five Cosmetic Pack\nDOOM Eternal: Series Seven Cosmetic Pack\nDOOM Eternal: Series Six Cosmetic Pack\nDOOM Eternal: Series Four Cosmetic Pack\nDOOM Eternal: Cosplay Slayer Master Collection Cosmetic Pack \nDOOM Eternal: Series Three Cosmetic Pack \nMullet Slayer Master Collection Cosmetic Pack \nDOOM Eternal: Series Two Cosmetic Pack \nDOOM Eternal: Series One Cosmetic Pack\nDOOMicorn Master Collection Cosmetic Pack\nDOOM Eternal: The Ancient Gods - Part One\nDOOM Eternal: The Ancient Gods - Part Two\nDOOM Eternal: The Rip and Tear Pack\nDOOM Eternal: Series Five Cosmetic Pack\nDOOM Eternal: Series Seven Cosmetic Pack\nDOOM Eternal: Series Six Cosmetic Pack\nDOOM Eternal: Series Four Cosmetic Pack\nDOOM Eternal: Cosplay Slayer Master Collection Cosmetic Pack \nDOOM Eternal: Series Three Cosmetic Pack \nMullet Slayer Master Collection Cosmetic Pack \nDOOM Eternal: Series Two Cosmetic Pack \nDOOM Eternal: Series One Cosmetic Pack\nDOOMicorn Master Collection Cosmetic Pack\nDOOM Eternal: The Ancient Gods - Part One\nDOOM Eternal: The Ancient Gods - Part Two\nDOOM Eternal: The Rip and Tear Pack\nDOOM Eternal: Series Five Cosmetic Pack\nDOOM Eternal: Series Seven Cosmetic Pack\nDOOM Eternal: Series Six Cosmetic Pack\nDOOM Eternal: Series Four Cosmetic Pack\nDOOM Eternal: Cosplay Slayer Master Collection Cosmetic Pack \nDOOM Eternal: Series Three Cosmetic Pack \nMullet Slayer Master Collection Cosmetic Pack \nDOOM Eternal: Series Two Cosmetic Pack \nDOOM Eternal: Series One Cosmetic Pack\nDOOMicorn Master Collection Cosmetic Pack\nDOOM Eternal: The Ancient Gods - Part One\nDOOM Eternal: The Ancient Gods - Part Two\nDOOM Eternal: The Rip and Tear Pack\nDOOM Eternal: Series Five Cosmetic Pack\nDOOM Eternal: Series Seven Cosmetic Pack\nDOOM Eternal: Series Six Cosmetic Pack\nDOOM Eternal: Series Four Cosmetic Pack\nDOOM Eternal: Cosplay Slayer Master Collection Cosmetic Pack \nDOOM Eternal: Series Three Cosmetic Pack \nMullet Slayer Master Collection Cosmetic Pack \nDOOM Eternal: Series Two Cosmetic Pack \nDOOM Eternal: Series One Cosmetic Pack\nDOOMicorn Master Collection Cosmetic Pack\nDOOM Eternal: The Ancient Gods - Part One\nDOOM Eternal: The Ancient Gods - Part Two\nDOOM Eternal: The Rip and Tear Pack\nDOOM Eternal: Series Five Cosmetic Pack\nDOOM Eternal: Series Seven Cosmetic Pack\nDOOM Eternal: Series Six Cosmetic Pack\nDOOM Eternal: Series Four Cosmetic Pack\nDOOM Eternal: Cosplay Slayer Master Collection Cosmetic Pack \nDOOM Eternal: Series Three Cosmetic Pack \nMullet Slayer Master Collection Cosmetic Pack \nDOOM Eternal: Series Two Cosmetic Pack \nDOOM Eternal: Series One Cosmetic Pack\nDOOMicorn Master Collection Cosmetic Pack\nDOOM Eternal: The Ancient Gods - Part One\nDOOM Eternal: The Ancient Gods - Part Two\nDOOM Eternal: The Rip and Tear Pack\nDOOM Eternal: Series Five Cosmetic Pack\nDOOM Eternal: Series Seven Cosmetic Pack\nDOOM Eternal: Series Six Cosmetic Pack\nDOOM Eternal: Series Four Cosmetic Pack\nDOOM Eternal: Cosplay Slayer Master Collection Cosmetic Pack \nDOOM Eternal: Series Three Cosmetic Pack \nMullet Slayer Master Collection Cosmetic Pack \nDOOM Eternal: Series Two Cosmetic Pack \nDOOM Eternal: Series One Cosmetic Pack\nDOOMicorn Master Collection Cosmetic Pack",
             "count": 13,
             "priceData": {
                 "USD": {
@@ -7320,11 +7485,12 @@ var extrasData =
     "9d1b327f-9642-4553-9ebe-427b4e810759": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 27574,
-            "positive": 26618,
+            "total": 27575,
+            "positive": 26619,
             "negative": 956
         },
         "dlc": {
+            "description": "Dorfromantik Soundtrack Vol.1\n\nDorfromantik Soundtrack Vol. 2\n\nDorfromantik Soundtrack Vol.1\n\nDorfromantik Soundtrack Vol. 2\n\nDorfromantik Soundtrack Vol.1\n\nDorfromantik Soundtrack Vol. 2\n\nDorfromantik Soundtrack Vol.1\n\nDorfromantik Soundtrack Vol. 2\n\nDorfromantik Soundtrack Vol.1\n\nDorfromantik Soundtrack Vol. 2\n\nDorfromantik Soundtrack Vol.1\n\nDorfromantik Soundtrack Vol. 2",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -7370,6 +7536,7 @@ var extrasData =
             "negative": 46
         },
         "dlc": {
+            "description": "Double Kick Heroes - Original Sound Track Vol I & II\n\nDouble Kick Heroes - Original Sound Track Vol I & II\n\nDouble Kick Heroes - Original Sound Track Vol I & II\n\nDouble Kick Heroes - Original Sound Track Vol I & II\n\nDouble Kick Heroes - Original Sound Track Vol I & II\n\nDouble Kick Heroes - Original Sound Track Vol I & II",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -7455,6 +7622,7 @@ var extrasData =
             "negative": 46
         },
         "dlc": {
+            "description": "DragonFangZ - Extra Dungeon \"The Cave of Fangs\"\nDragonFangZ - Extra Dungeon \"The Inferno Hollow\"\nDragonFangZ - Extra Dungeon \"Friendship's Labyrinth\"\nDragonFangZ - Extra Dungeon \"The Cave of Fangs\"\nDragonFangZ - Extra Dungeon \"The Inferno Hollow\"\nDragonFangZ - Extra Dungeon \"Friendship's Labyrinth\"\nDragonFangZ - Extra Dungeon \"The Cave of Fangs\"\nDragonFangZ - Extra Dungeon \"The Inferno Hollow\"\nDragonFangZ - Extra Dungeon \"Friendship's Labyrinth\"\nDragonFangZ - Extra Dungeon \"The Cave of Fangs\"\nDragonFangZ - Extra Dungeon \"The Inferno Hollow\"\nDragonFangZ - Extra Dungeon \"Friendship's Labyrinth\"\nDragonFangZ - Extra Dungeon \"The Cave of Fangs\"\nDragonFangZ - Extra Dungeon \"The Inferno Hollow\"\nDragonFangZ - Extra Dungeon \"Friendship's Labyrinth\"\nDragonFangZ - Extra Dungeon \"The Cave of Fangs\"\nDragonFangZ - Extra Dungeon \"The Inferno Hollow\"\nDragonFangZ - Extra Dungeon \"Friendship's Labyrinth\"",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -7495,8 +7663,8 @@ var extrasData =
     "f7b44384-96d2-43d0-b0d2-83169b621c73": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1178,
-            "positive": 1146,
+            "total": 1179,
+            "positive": 1147,
             "negative": 32
         }
     },
@@ -7543,8 +7711,8 @@ var extrasData =
     "e3c308ea-6efc-4b98-9b44-6be55424f002": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 38463,
-            "positive": 37159,
+            "total": 38462,
+            "positive": 37158,
             "negative": 1304
         }
     },
@@ -7564,6 +7732,7 @@ var extrasData =
             "negative": 18
         },
         "dlc": {
+            "description": "DUCK: Dangerous Ultimate Cartridge Kidnapper Soundtrack\n\nDUCK: Dangerous Ultimate Cartridge Kidnapper Soundtrack\n\nDUCK: Dangerous Ultimate Cartridge Kidnapper Soundtrack\n\nDUCK: Dangerous Ultimate Cartridge Kidnapper Soundtrack\n\nDUCK: Dangerous Ultimate Cartridge Kidnapper Soundtrack\n\nDUCK: Dangerous Ultimate Cartridge Kidnapper Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -7604,8 +7773,8 @@ var extrasData =
     "bdba8d9b-7f96-45f4-aee7-4d34b2cc87d4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 813,
-            "positive": 770,
+            "total": 814,
+            "positive": 771,
             "negative": 43
         }
     },
@@ -7641,6 +7810,7 @@ var extrasData =
             "negative": 1983
         },
         "dlc": {
+            "description": "Dungeon of the ENDLESS\u2122 - Original Soundtrack\nDungeon of the ENDLESS\u2122 - Deep Freeze Add-on\nDungeon of the ENDLESS\u2122 - Rescue Team Add-on\nDungeon of the ENDLESS\u2122 - Original Soundtrack\nDungeon of the ENDLESS\u2122 - Deep Freeze Add-on\nDungeon of the ENDLESS\u2122 - Rescue Team Add-on\nDungeon of the ENDLESS\u2122 - Original Soundtrack\nDungeon of the ENDLESS\u2122 - Deep Freeze Add-on\nDungeon of the ENDLESS\u2122 - Rescue Team Add-on\nDungeon of the ENDLESS\u2122 - Original Soundtrack\nDungeon of the ENDLESS\u2122 - Deep Freeze Add-on\nDungeon of the ENDLESS\u2122 - Rescue Team Add-on\nDungeon of the ENDLESS\u2122 - Original Soundtrack\nDungeon of the ENDLESS\u2122 - Deep Freeze Add-on\nDungeon of the ENDLESS\u2122 - Rescue Team Add-on\nDungeon of the ENDLESS\u2122 - Original Soundtrack\nDungeon of the ENDLESS\u2122 - Deep Freeze Add-on\nDungeon of the ENDLESS\u2122 - Rescue Team Add-on",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -7673,11 +7843,12 @@ var extrasData =
     "e927578c-7d73-47fc-9eed-ee37212a5157": {
         "reviews": {
             "description": "Very Positive",
-            "total": 9282,
-            "positive": 8662,
+            "total": 9283,
+            "positive": 8663,
             "negative": 620
         },
         "dlc": {
+            "description": "Dungreed - Soundtrack\n\nDungreed - Soundtrack\n\nDungreed - Soundtrack\n\nDungreed - Soundtrack\n\nDungreed - Soundtrack\n\nDungreed - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -7723,6 +7894,7 @@ var extrasData =
             "negative": 283
         },
         "dlc": {
+            "description": "Fastfall - Dustforce Original Soundtrack\n\nFastfall - Dustforce Original Soundtrack\n\nFastfall - Dustforce Original Soundtrack\n\nFastfall - Dustforce Original Soundtrack\n\nFastfall - Dustforce Original Soundtrack\n\nFastfall - Dustforce Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -7760,6 +7932,7 @@ var extrasData =
             "negative": 21
         },
         "dlc": {
+            "description": "DYE: Original Soundtrack\n\nDYE: Original Soundtrack\n\nDYE: Original Soundtrack\n\nDYE: Original Soundtrack\n\nDYE: Original Soundtrack\n\nDYE: Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -7869,6 +8042,7 @@ var extrasData =
             "negative": 12
         },
         "dlc": {
+            "description": "SOUNDTRACK - El Tango de la Muerte\n\nSOUNDTRACK - El Tango de la Muerte\n\nSOUNDTRACK - El Tango de la Muerte\n\nSOUNDTRACK - El Tango de la Muerte\n\nSOUNDTRACK - El Tango de la Muerte\n\nSOUNDTRACK - El Tango de la Muerte",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -7917,11 +8091,12 @@ var extrasData =
     "06af14b9-161b-4d47-bf84-f028fe2a39ca": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1054901,
-            "positive": 979892,
-            "negative": 75009
+            "total": 1054952,
+            "positive": 979941,
+            "negative": 75011
         },
         "dlc": {
+            "description": "ELDEN RING Shadow of the Erdtree Premium Bundle\n\nELDEN RING Shadow of the Erdtree\n\nELDEN RING Shadow of the Erdtree Premium Bundle\n\nELDEN RING Shadow of the Erdtree\n\nELDEN RING Shadow of the Erdtree Premium Bundle\n\nELDEN RING Shadow of the Erdtree\n\nELDEN RING Shadow of the Erdtree Premium Bundle\n\nELDEN RING Shadow of the Erdtree\n\nELDEN RING Shadow of the Erdtree Premium Bundle\n\nELDEN RING Shadow of the Erdtree\n\nELDEN RING Shadow of the Erdtree Premium Bundle\n\nELDEN RING Shadow of the Erdtree",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -7959,6 +8134,7 @@ var extrasData =
             "negative": 370
         },
         "dlc": {
+            "description": "ELDERBORN Original Soundtrack\n\nELDERBORN - Digital Art Book\n\nELDERBORN Original Soundtrack\n\nELDERBORN - Digital Art Book\n\nELDERBORN Original Soundtrack\n\nELDERBORN - Digital Art Book\n\nELDERBORN Original Soundtrack\n\nELDERBORN - Digital Art Book\n\nELDERBORN Original Soundtrack\n\nELDERBORN - Digital Art Book\n\nELDERBORN Original Soundtrack\n\nELDERBORN - Digital Art Book",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -8004,6 +8180,7 @@ var extrasData =
             "negative": 268
         },
         "dlc": {
+            "description": "Eldritch Soundtrack\n\nEldritch Soundtrack\n\nEldritch Soundtrack\n\nEldritch Soundtrack\n\nEldritch Soundtrack\n\nEldritch Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8041,6 +8218,7 @@ var extrasData =
             "negative": 332
         },
         "dlc": {
+            "description": "Electronic Super Joy - Bonus Content Pack!\n\nElectronic Super Joy - A Hot Sticky Mess DLC\n\nElectronic Super Joy - Bonus Content Pack!\n\nElectronic Super Joy - A Hot Sticky Mess DLC\n\nElectronic Super Joy - Bonus Content Pack!\n\nElectronic Super Joy - A Hot Sticky Mess DLC\n\nElectronic Super Joy - Bonus Content Pack!\n\nElectronic Super Joy - A Hot Sticky Mess DLC\n\nElectronic Super Joy - Bonus Content Pack!\n\nElectronic Super Joy - A Hot Sticky Mess DLC\n\nElectronic Super Joy - Bonus Content Pack!\n\nElectronic Super Joy - A Hot Sticky Mess DLC",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -8094,6 +8272,7 @@ var extrasData =
             "negative": 374
         },
         "dlc": {
+            "description": "Ember Knights - Wrath of the Architect\n\nEmber Knights Soundtrack\n\nEmber Knights - Wrath of the Architect\n\nEmber Knights Soundtrack\n\nEmber Knights - Wrath of the Architect\n\nEmber Knights Soundtrack\n\nEmber Knights - Wrath of the Architect\n\nEmber Knights Soundtrack\n\nEmber Knights - Wrath of the Architect\n\nEmber Knights Soundtrack\n\nEmber Knights - Wrath of the Architect\n\nEmber Knights Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -8131,6 +8310,7 @@ var extrasData =
             "negative": 306
         },
         "dlc": {
+            "description": "En Garde! Soundtrack\n\nEn Garde! Soundtrack\n\nEn Garde! Soundtrack\n\nEn Garde! Soundtrack\n\nEn Garde! Soundtrack\n\nEn Garde! Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8163,11 +8343,12 @@ var extrasData =
     "c02ab048-9e97-4dc6-a93e-cad11ae6f613": {
         "reviews": {
             "description": "Very Positive",
-            "total": 39509,
-            "positive": 37132,
-            "negative": 2377
+            "total": 39514,
+            "positive": 37136,
+            "negative": 2378
         },
         "dlc": {
+            "description": "ENDER LILIES: Quietus of the Knights Original Soundtrack\n\nENDER LILIES: Quietus of the Knights Original Soundtrack\n\nENDER LILIES: Quietus of the Knights Original Soundtrack\n\nENDER LILIES: Quietus of the Knights Original Soundtrack\n\nENDER LILIES: Quietus of the Knights Original Soundtrack\n\nENDER LILIES: Quietus of the Knights Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8200,11 +8381,12 @@ var extrasData =
     "851ac2b3-eb04-409e-be71-af5f0b822e5b": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 13397,
-            "positive": 12810,
-            "negative": 587
+            "total": 13401,
+            "positive": 12812,
+            "negative": 589
         },
         "dlc": {
+            "description": "ENDER MAGNOLIA: Bloom in the Mist Soundtrack\n\nENDER MAGNOLIA: Bloom in the Mist Soundtrack\n\nENDER MAGNOLIA: Bloom in the Mist Soundtrack\n\nENDER MAGNOLIA: Bloom in the Mist Soundtrack\n\nENDER MAGNOLIA: Bloom in the Mist Soundtrack\n\nENDER MAGNOLIA: Bloom in the Mist Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8237,8 +8419,8 @@ var extrasData =
     "85e5d2d8-bdd0-4df3-8a60-8bc6d01ac0d5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 85464,
-            "positive": 81586,
+            "total": 85463,
+            "positive": 81585,
             "negative": 3878
         }
     },
@@ -8266,6 +8448,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "Functions - Ersatz Original Soundtrack\n\nFunctions - Ersatz Original Soundtrack\n\nFunctions - Ersatz Original Soundtrack\n\nFunctions - Ersatz Original Soundtrack\n\nFunctions - Ersatz Original Soundtrack\n\nFunctions - Ersatz Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8327,6 +8510,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "ESCHATOS - Arranged Soundtrack\n\nESCHATOS Original Soundtrack (Steam Edition)\n\nESCHATOS - Arranged Soundtrack\n\nESCHATOS Original Soundtrack (Steam Edition)\n\nESCHATOS - Arranged Soundtrack\n\nESCHATOS Original Soundtrack (Steam Edition)\n\nESCHATOS - Arranged Soundtrack\n\nESCHATOS Original Soundtrack (Steam Edition)\n\nESCHATOS - Arranged Soundtrack\n\nESCHATOS Original Soundtrack (Steam Edition)\n\nESCHATOS - Arranged Soundtrack\n\nESCHATOS Original Soundtrack (Steam Edition)",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -8372,6 +8556,7 @@ var extrasData =
             "negative": 11
         },
         "dlc": {
+            "description": "Evergate Soundtrack\n\nEvergate Soundtrack\n\nEvergate Soundtrack\n\nEvergate Soundtrack\n\nEvergate Soundtrack\n\nEvergate Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8404,11 +8589,12 @@ var extrasData =
     "3faa1091-47c1-4144-ae59-e0fbb8bc354c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 13394,
-            "positive": 12760,
+            "total": 13392,
+            "positive": 12758,
             "negative": 634
         },
         "dlc": {
+            "description": "Everhood Soundtrack\n\nEverhood Soundtrack\n\nEverhood Soundtrack\n\nEverhood Soundtrack\n\nEverhood Soundtrack\n\nEverhood Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8446,6 +8632,7 @@ var extrasData =
             "negative": 483
         },
         "dlc": {
+            "description": "Everhood 2 Soundtrack\n\nEverhood 2 Soundtrack\n\nEverhood 2 Soundtrack\n\nEverhood 2 Soundtrack\n\nEverhood 2 Soundtrack\n\nEverhood 2 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8483,6 +8670,7 @@ var extrasData =
             "negative": 2348
         },
         "dlc": {
+            "description": "EVERSPACE\u2122 - Encounters\n\nEVERSPACE\u2122 - Upgrade to Deluxe Edition\n\nEVERSPACE\u2122 - Encounters\n\nEVERSPACE\u2122 - Upgrade to Deluxe Edition\n\nEVERSPACE\u2122 - Encounters\n\nEVERSPACE\u2122 - Upgrade to Deluxe Edition\n\nEVERSPACE\u2122 - Encounters\n\nEVERSPACE\u2122 - Upgrade to Deluxe Edition\n\nEVERSPACE\u2122 - Encounters\n\nEVERSPACE\u2122 - Upgrade to Deluxe Edition\n\nEVERSPACE\u2122 - Encounters\n\nEVERSPACE\u2122 - Upgrade to Deluxe Edition",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -8528,6 +8716,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "Evorales Soundtrack\n\nEvorales Soundtrack\n\nEvorales Soundtrack\n\nEvorales Soundtrack\n\nEvorales Soundtrack\n\nEvorales Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8565,6 +8754,7 @@ var extrasData =
             "negative": 870
         },
         "dlc": {
+            "description": "Exit the Gungeon Soundtrack\n\nExit the Gungeon Soundtrack\n\nExit the Gungeon Soundtrack\n\nExit the Gungeon Soundtrack\n\nExit the Gungeon Soundtrack\n\nExit the Gungeon Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8602,6 +8792,7 @@ var extrasData =
             "negative": 454
         },
         "dlc": {
+            "description": "Exo One Soundtrack\n\nExo One Soundtrack\n\nExo One Soundtrack\n\nExo One Soundtrack\n\nExo One Soundtrack\n\nExo One Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8655,6 +8846,7 @@ var extrasData =
             "negative": 44
         },
         "dlc": {
+            "description": "Fallen Angel Soundtrack\n\nFallen Angel Soundtrack\n\nFallen Angel Soundtrack\n\nFallen Angel Soundtrack\n\nFallen Angel Soundtrack\n\nFallen Angel Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8692,6 +8884,7 @@ var extrasData =
             "negative": 165
         },
         "dlc": {
+            "description": "Fashion Police Squad Soundtrack\n\nFashion Police Squad Soundtrack\n\nFashion Police Squad Soundtrack\n\nFashion Police Squad Soundtrack\n\nFashion Police Squad Soundtrack\n\nFashion Police Squad Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8729,6 +8922,7 @@ var extrasData =
             "negative": 38
         },
         "dlc": {
+            "description": "Official Fenix Rage Game Soundtrack\n\nOfficial Fenix Rage Game Soundtrack\n\nOfficial Fenix Rage Game Soundtrack\n\nOfficial Fenix Rage Game Soundtrack\n\nOfficial Fenix Rage Game Soundtrack\n\nOfficial Fenix Rage Game Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8769,11 +8963,12 @@ var extrasData =
     "37770c9d-2600-44f9-aecf-436958019de8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3292,
+            "total": 3293,
             "positive": 3010,
-            "negative": 282
+            "negative": 283
         },
         "dlc": {
+            "description": "Fights in Tight Spaces: Original Soundtrack\n\nFights in Tight Spaces - Weapon of Choice\n\nFights in Tight Spaces: Original Soundtrack\n\nFights in Tight Spaces - Weapon of Choice\n\nFights in Tight Spaces: Original Soundtrack\n\nFights in Tight Spaces - Weapon of Choice\n\nFights in Tight Spaces: Original Soundtrack\n\nFights in Tight Spaces - Weapon of Choice\n\nFights in Tight Spaces: Original Soundtrack\n\nFights in Tight Spaces - Weapon of Choice\n\nFights in Tight Spaces: Original Soundtrack\n\nFights in Tight Spaces - Weapon of Choice",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -8806,11 +9001,12 @@ var extrasData =
     "d82090c5-f478-4fcd-83e0-0e3dc1b946c0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 37205,
-            "positive": 32995,
-            "negative": 4210
+            "total": 37208,
+            "positive": 32996,
+            "negative": 4212
         },
         "dlc": {
+            "description": "FINAL FANTASY VII REMAKE Original Soundtrack\nFINAL FANTASY VII REMAKE Original Soundtrack Plus\nFINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack\nFINAL FANTASY VII REMAKE Original Soundtrack\nFINAL FANTASY VII REMAKE Original Soundtrack Plus\nFINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack\nFINAL FANTASY VII REMAKE Original Soundtrack\nFINAL FANTASY VII REMAKE Original Soundtrack Plus\nFINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack\nFINAL FANTASY VII REMAKE Original Soundtrack\nFINAL FANTASY VII REMAKE Original Soundtrack Plus\nFINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack\nFINAL FANTASY VII REMAKE Original Soundtrack\nFINAL FANTASY VII REMAKE Original Soundtrack Plus\nFINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack\nFINAL FANTASY VII REMAKE Original Soundtrack\nFINAL FANTASY VII REMAKE Original Soundtrack Plus\nFINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -8856,6 +9052,7 @@ var extrasData =
             "negative": 170
         },
         "dlc": {
+            "description": "First Cut: Samurai Duel Soundtrack\n\nFirst Cut: Samurai Duel Soundtrack\n\nFirst Cut: Samurai Duel Soundtrack\n\nFirst Cut: Samurai Duel Soundtrack\n\nFirst Cut: Samurai Duel Soundtrack\n\nFirst Cut: Samurai Duel Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -8904,16 +9101,16 @@ var extrasData =
     "849b5379-3bdc-4b4a-a786-f916c6ed2022": {
         "reviews": {
             "description": "Very Positive",
-            "total": 14732,
-            "positive": 13667,
+            "total": 14733,
+            "positive": 13668,
             "negative": 1065
         }
     },
     "b95b6f0e-dd84-43cd-a483-66099b7604dc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 11652,
-            "positive": 10554,
+            "total": 11653,
+            "positive": 10555,
             "negative": 1098
         }
     },
@@ -8965,6 +9162,7 @@ var extrasData =
             "negative": 721
         },
         "dlc": {
+            "description": "FORCED Deluxe Content\n\nFORCED Original Soundtrack\n\nFORCED Deluxe Content\n\nFORCED Original Soundtrack\n\nFORCED Deluxe Content\n\nFORCED Original Soundtrack\n\nFORCED Deluxe Content\n\nFORCED Original Soundtrack\n\nFORCED Deluxe Content\n\nFORCED Original Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -9021,11 +9219,12 @@ var extrasData =
     "a57d1929-f26f-4b90-8917-3184977698f4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4744,
-            "positive": 4509,
+            "total": 4745,
+            "positive": 4510,
             "negative": 235
         },
         "dlc": {
+            "description": "Freedom Planet - Official Soundtrack\n\nFreedom Planet - Official Soundtrack\n\nFreedom Planet - Official Soundtrack\n\nFreedom Planet - Official Soundtrack\n\nFreedom Planet - Official Soundtrack\n\nFreedom Planet - Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9082,11 +9281,12 @@ var extrasData =
     "30fc3451-ad90-4603-b33e-4606c4783ba5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 123393,
-            "positive": 114165,
+            "total": 123400,
+            "positive": 114172,
             "negative": 9228
         },
         "dlc": {
+            "description": "Frostpunk: The Rifts\nFrostpunk: The Last Autumn\nFrostpunk: On The Edge\nFrostpunk Original Soundtrack\nFrostpunk Expansions Original Soundtrack\nFrostpunk: The Rifts\nFrostpunk: The Last Autumn\nFrostpunk: On The Edge\nFrostpunk Original Soundtrack\nFrostpunk Expansions Original Soundtrack\nFrostpunk: The Rifts\nFrostpunk: The Last Autumn\nFrostpunk: On The Edge\nFrostpunk Original Soundtrack\nFrostpunk Expansions Original Soundtrack\nFrostpunk: The Rifts\nFrostpunk: The Last Autumn\nFrostpunk: On The Edge\nFrostpunk Original Soundtrack\nFrostpunk Expansions Original Soundtrack\nFrostpunk: The Rifts\nFrostpunk: The Last Autumn\nFrostpunk: On The Edge\nFrostpunk Original Soundtrack\nFrostpunk Expansions Original Soundtrack\nFrostpunk: The Rifts\nFrostpunk: The Last Autumn\nFrostpunk: On The Edge\nFrostpunk Original Soundtrack\nFrostpunk Expansions Original Soundtrack",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -9124,6 +9324,7 @@ var extrasData =
             "negative": 3486
         },
         "dlc": {
+            "description": "FTL: Faster Than Light - Soundtrack\n\nFTL: Faster Than Light - Soundtrack\n\nFTL: Faster Than Light - Soundtrack\n\nFTL: Faster Than Light - Soundtrack\n\nFTL: Faster Than Light - Soundtrack\n\nFTL: Faster Than Light - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9169,6 +9370,7 @@ var extrasData =
             "negative": 1099
         },
         "dlc": {
+            "description": "Furi - Onnamusha\n\nFuri Original Soundtrack\n\nFuri - Onnamusha\n\nFuri Original Soundtrack\n\nFuri - Onnamusha\n\nFuri Original Soundtrack\n\nFuri - Onnamusha\n\nFuri Original Soundtrack\n\nFuri - Onnamusha\n\nFuri Original Soundtrack\n\nFuri - Onnamusha\n\nFuri Original Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -9206,6 +9408,7 @@ var extrasData =
             "negative": 322
         },
         "dlc": {
+            "description": "Fury Unleashed Soundtrack\n\nFury Unleashed Soundtrack\n\nFury Unleashed Soundtrack\n\nFury Unleashed Soundtrack\n\nFury Unleashed Soundtrack\n\nFury Unleashed Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9267,6 +9470,7 @@ var extrasData =
             "negative": 21
         },
         "dlc": {
+            "description": "Game Tengoku - Clarice\nGame Tengoku - Homura Banto\nGame Tengoku - Voice Mix\nGame Tengoku - TATSUJIN\nGame Tengoku - Clarice\nGame Tengoku - Homura Banto\nGame Tengoku - Voice Mix\nGame Tengoku - TATSUJIN\nGame Tengoku - Clarice\nGame Tengoku - Homura Banto\nGame Tengoku - Voice Mix\nGame Tengoku - TATSUJIN\nGame Tengoku - Clarice\nGame Tengoku - Homura Banto\nGame Tengoku - Voice Mix\nGame Tengoku - TATSUJIN\nGame Tengoku - Clarice\nGame Tengoku - Homura Banto\nGame Tengoku - Voice Mix\nGame Tengoku - TATSUJIN\nGame Tengoku - Clarice\nGame Tengoku - Homura Banto\nGame Tengoku - Voice Mix\nGame Tengoku - TATSUJIN",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -9312,6 +9516,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "Garbanzo Quest Soundtrack\n\nGarbanzo Quest Soundtrack\n\nGarbanzo Quest Soundtrack\n\nGarbanzo Quest Soundtrack\n\nGarbanzo Quest Soundtrack\n\nGarbanzo Quest Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9357,6 +9562,7 @@ var extrasData =
             "negative": 39
         },
         "dlc": {
+            "description": "Garlic Soundtrack\n\nGarlic Soundtrack\n\nGarlic Soundtrack\n\nGarlic Soundtrack\n\nGarlic Soundtrack\n\nGarlic Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9405,9 +9611,9 @@ var extrasData =
     "1f67cb6d-926b-4af5-877e-73d3050d4684": {
         "reviews": {
             "description": "Very Positive",
-            "total": 427383,
-            "positive": 398732,
-            "negative": 28651
+            "total": 427472,
+            "positive": 398817,
+            "negative": 28655
         }
     },
     "c2890535-acb2-415a-9b36-36c27394c250": {
@@ -9434,6 +9640,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "Get Tilted! :) - Official Soundtrack\n\nGet Tilted! :) - Official Soundtrack\n\nGet Tilted! :) - Official Soundtrack\n\nGet Tilted! :) - Official Soundtrack\n\nGet Tilted! :) - Official Soundtrack\n\nGet Tilted! :) - Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9479,6 +9686,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "Get-A-Grip Chip (Original Game Soundtrack)\n\nGet-A-Grip Chip (Original Game Soundtrack)\n\nGet-A-Grip Chip (Original Game Soundtrack)\n\nGet-A-Grip Chip (Original Game Soundtrack)\n\nGet-A-Grip Chip (Original Game Soundtrack)\n\nGet-A-Grip Chip (Original Game Soundtrack)",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9511,9 +9719,9 @@ var extrasData =
     "00e18e29-db63-44a2-964a-2d51771a5ae3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 76911,
-            "positive": 63410,
-            "negative": 13501
+            "total": 76915,
+            "positive": 63411,
+            "negative": 13504
         }
     },
     "73cccbab-366f-4265-be1d-27beb24d8392": {
@@ -9535,11 +9743,12 @@ var extrasData =
     "cf5d020d-4a16-4fa0-bfcf-ffb728ae3c14": {
         "reviews": {
             "description": "Very Positive",
-            "total": 63130,
-            "positive": 57697,
+            "total": 63132,
+            "positive": 57699,
             "negative": 5433
         },
         "dlc": {
+            "description": "Ghostrunner - Project_Hel\nGhostrunner - Winter Pack\nGhostrunner - Metal OX Pack\nGhostrunner - Neon Pack\nGhostrunner - Soundtrack\nGhostrunner - Digital Artbook\nGhostrunner - Halloween Pack\nGhostrunner - Project_Hel\nGhostrunner - Winter Pack\nGhostrunner - Metal OX Pack\nGhostrunner - Neon Pack\nGhostrunner - Soundtrack\nGhostrunner - Digital Artbook\nGhostrunner - Halloween Pack\nGhostrunner - Project_Hel\nGhostrunner - Winter Pack\nGhostrunner - Metal OX Pack\nGhostrunner - Neon Pack\nGhostrunner - Soundtrack\nGhostrunner - Digital Artbook\nGhostrunner - Halloween Pack\nGhostrunner - Project_Hel\nGhostrunner - Winter Pack\nGhostrunner - Metal OX Pack\nGhostrunner - Neon Pack\nGhostrunner - Soundtrack\nGhostrunner - Digital Artbook\nGhostrunner - Halloween Pack\nGhostrunner - Project_Hel\nGhostrunner - Winter Pack\nGhostrunner - Metal OX Pack\nGhostrunner - Neon Pack\nGhostrunner - Soundtrack\nGhostrunner - Digital Artbook\nGhostrunner - Halloween Pack\nGhostrunner - Project_Hel\nGhostrunner - Winter Pack\nGhostrunner - Metal OX Pack\nGhostrunner - Neon Pack\nGhostrunner - Soundtrack\nGhostrunner - Digital Artbook\nGhostrunner - Halloween Pack",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -9573,10 +9782,11 @@ var extrasData =
         "reviews": {
             "description": "Very Positive",
             "total": 9504,
-            "positive": 7667,
-            "negative": 1837
+            "positive": 7668,
+            "negative": 1836
         },
         "dlc": {
+            "description": "Ghostrunner 2 - Season Pass\nGhostrunner 2 - Anniversary Pack\nGhostrunner 2 - Endless Moto Mode\nGhostrunner 2 - Heat Pack\nGhostrunner 2 - Dragon Pack\nGhostrunner 2 - Ice Pack\nGhostrunner 2 Soundtrack\nGhostrunner 2 - Season Pass\nGhostrunner 2 - Anniversary Pack\nGhostrunner 2 - Endless Moto Mode\nGhostrunner 2 - Heat Pack\nGhostrunner 2 - Dragon Pack\nGhostrunner 2 - Ice Pack\nGhostrunner 2 Soundtrack\nGhostrunner 2 - Season Pass\nGhostrunner 2 - Anniversary Pack\nGhostrunner 2 - Endless Moto Mode\nGhostrunner 2 - Heat Pack\nGhostrunner 2 - Dragon Pack\nGhostrunner 2 - Ice Pack\nGhostrunner 2 Soundtrack\nGhostrunner 2 - Season Pass\nGhostrunner 2 - Anniversary Pack\nGhostrunner 2 - Endless Moto Mode\nGhostrunner 2 - Heat Pack\nGhostrunner 2 - Dragon Pack\nGhostrunner 2 - Ice Pack\nGhostrunner 2 Soundtrack\nGhostrunner 2 - Season Pass\nGhostrunner 2 - Anniversary Pack\nGhostrunner 2 - Endless Moto Mode\nGhostrunner 2 - Heat Pack\nGhostrunner 2 - Dragon Pack\nGhostrunner 2 - Ice Pack\nGhostrunner 2 Soundtrack\nGhostrunner 2 - Season Pass\nGhostrunner 2 - Anniversary Pack\nGhostrunner 2 - Endless Moto Mode\nGhostrunner 2 - Heat Pack\nGhostrunner 2 - Dragon Pack\nGhostrunner 2 - Ice Pack\nGhostrunner 2 Soundtrack",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -9614,6 +9824,7 @@ var extrasData =
             "negative": 236
         },
         "dlc": {
+            "description": "Ghosts 'n Goblins Resurrection Original Soundtrack\n\nGhosts 'n Goblins Resurrection Original Soundtrack\n\nGhosts 'n Goblins Resurrection Original Soundtrack\n\nGhosts 'n Goblins Resurrection Original Soundtrack\n\nGhosts 'n Goblins Resurrection Original Soundtrack\n\nGhosts 'n Goblins Resurrection Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9659,6 +9870,7 @@ var extrasData =
             "negative": 424
         },
         "dlc": {
+            "description": "Giana Sisters: Twisted Dreams - Original Soundtrack\n\nGiana Sisters: Twisted Dreams - Original Soundtrack\n\nGiana Sisters: Twisted Dreams - Original Soundtrack\n\nGiana Sisters: Twisted Dreams - Original Soundtrack\n\nGiana Sisters: Twisted Dreams - Original Soundtrack\n\nGiana Sisters: Twisted Dreams - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9704,6 +9916,7 @@ var extrasData =
             "negative": 13
         },
         "dlc": {
+            "description": "Gimmick! Special Edition Original Soundtrack\n\nGimmick! Special Edition Original Soundtrack\n\nGimmick! Special Edition Original Soundtrack\n\nGimmick! Special Edition Original Soundtrack\n\nGimmick! Special Edition Original Soundtrack\n\nGimmick! Special Edition Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9765,6 +9978,7 @@ var extrasData =
             "negative": 9
         },
         "dlc": {
+            "description": "Glyph Soundtrack\n\nGlyph Soundtrack\n\nGlyph Soundtrack\n\nGlyph Soundtrack\n\nGlyph Soundtrack\n\nGlyph Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9802,6 +10016,7 @@ var extrasData =
             "negative": 10
         },
         "dlc": {
+            "description": "God Damn The Garden Soundtrack\n\nGod Damn The Garden Soundtrack\n\nGod Damn The Garden Soundtrack\n\nGod Damn The Garden Soundtrack\n\nGod Damn The Garden Soundtrack\n\nGod Damn The Garden Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9834,9 +10049,9 @@ var extrasData =
     "acb39d1f-e5d3-4aff-8c87-445e68e33eb6": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 157836,
-            "positive": 151533,
-            "negative": 6303
+            "total": 157838,
+            "positive": 151534,
+            "negative": 6304
         }
     },
     "0da927de-a778-413c-b88d-af505bcb1cd4": {
@@ -9863,6 +10078,7 @@ var extrasData =
             "negative": 342
         },
         "dlc": {
+            "description": "Going Under Soundtrack\n\nGoing Under Soundtrack\n\nGoing Under Soundtrack\n\nGoing Under Soundtrack\n\nGoing Under Soundtrack\n\nGoing Under Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9900,6 +10116,7 @@ var extrasData =
             "negative": 261
         },
         "dlc": {
+            "description": "",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -9937,6 +10154,7 @@ var extrasData =
             "negative": 206
         },
         "dlc": {
+            "description": "Golf Gang Soundtrack\n\nGolf Gang Soundtrack\n\nGolf Gang Soundtrack\n\nGolf Gang Soundtrack\n\nGolf Gang Soundtrack\n\nGolf Gang Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -9974,6 +10192,7 @@ var extrasData =
             "negative": 400
         },
         "dlc": {
+            "description": "Golfing Over It with Alva Majo Soundtrack\n\nGolfing Over It with Alva Majo Soundtrack\n\nGolfing Over It with Alva Majo Soundtrack\n\nGolfing Over It with Alva Majo Soundtrack\n\nGolfing Over It with Alva Majo Soundtrack\n\nGolfing Over It with Alva Majo Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -10011,6 +10230,7 @@ var extrasData =
             "negative": 243
         },
         "dlc": {
+            "description": "GoNNER OST\n\nGoNNER OST\n\nGoNNER OST\n\nGoNNER OST\n\nGoNNER OST\n\nGoNNER OST",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -10048,6 +10268,7 @@ var extrasData =
             "negative": 7
         },
         "dlc": {
+            "description": "Gorescript - Original Soundtrack\n\nGorescript - Original Soundtrack\n\nGorescript - Original Soundtrack\n\nGorescript - Original Soundtrack\n\nGorescript - Original Soundtrack\n\nGorescript - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -10093,6 +10314,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "Graceful Explosion Machine Original Soundtrack\n\nGraceful Explosion Machine Original Soundtrack\n\nGraceful Explosion Machine Original Soundtrack\n\nGraceful Explosion Machine Original Soundtrack\n\nGraceful Explosion Machine Original Soundtrack\n\nGraceful Explosion Machine Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -10125,24 +10347,24 @@ var extrasData =
     "95eaae55-9caa-4de7-8e6a-ab02db5f7e0a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 174995,
-            "positive": 144321,
-            "negative": 30674
+            "total": 175007,
+            "positive": 144331,
+            "negative": 30676
         }
     },
     "cfbcee8c-3bf0-4a0b-8a3a-e295bb991a08": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5442,
-            "positive": 5068,
+            "total": 5443,
+            "positive": 5069,
             "negative": 374
         }
     },
     "4717fa6a-eef6-4144-ba49-ba2714209c1f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 974,
-            "positive": 894,
+            "total": 975,
+            "positive": 895,
             "negative": 80
         }
     },
@@ -10170,6 +10392,7 @@ var extrasData =
             "negative": 68
         },
         "dlc": {
+            "description": "Grapple Dog Soundtrack\n\nGrapple Dog Soundtrack\n\nGrapple Dog Soundtrack\n\nGrapple Dog Soundtrack\n\nGrapple Dog Soundtrack\n\nGrapple Dog Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -10231,6 +10454,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "Great Marble Adventure Soundtrack\n\nGreat Marble Adventure Soundtrack\n\nGreat Marble Adventure Soundtrack\n\nGreat Marble Adventure Soundtrack\n\nGreat Marble Adventure Soundtrack\n\nGreat Marble Adventure Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -10276,6 +10500,7 @@ var extrasData =
             "negative": 1223
         },
         "dlc": {
+            "description": "Gremlins, Inc. \u2013 Agents of Chaos\nGremlins, Inc. \u2013\u00a0Famous Figures\nGremlins, Inc. \u2013\u00a0Uninvited Guests\nGremlins, Inc. \u2013\u00a0Astral Gamblers\nGremlins, Inc. \u2013\u00a0Automated Competitors\nGremlins, Inc. \u2013 Original Soundtrack\nGremlins, Inc. \u2013\u00a0Digital Artbook\nGremlins, Inc. \u2013\u00a0Card Game, Print & Play Set\nGremlins, Inc. \u2013 Agents of Chaos\nGremlins, Inc. \u2013\u00a0Famous Figures\nGremlins, Inc. \u2013\u00a0Uninvited Guests\nGremlins, Inc. \u2013\u00a0Astral Gamblers\nGremlins, Inc. \u2013\u00a0Automated Competitors\nGremlins, Inc. \u2013 Original Soundtrack\nGremlins, Inc. \u2013\u00a0Digital Artbook\nGremlins, Inc. \u2013\u00a0Card Game, Print & Play Set\nGremlins, Inc. \u2013 Agents of Chaos\nGremlins, Inc. \u2013\u00a0Famous Figures\nGremlins, Inc. \u2013\u00a0Uninvited Guests\nGremlins, Inc. \u2013\u00a0Astral Gamblers\nGremlins, Inc. \u2013\u00a0Automated Competitors\nGremlins, Inc. \u2013 Original Soundtrack\nGremlins, Inc. \u2013\u00a0Digital Artbook\nGremlins, Inc. \u2013\u00a0Card Game, Print & Play Set\nGremlins, Inc. \u2013 Agents of Chaos\nGremlins, Inc. \u2013\u00a0Famous Figures\nGremlins, Inc. \u2013\u00a0Uninvited Guests\nGremlins, Inc. \u2013\u00a0Astral Gamblers\nGremlins, Inc. \u2013\u00a0Automated Competitors\nGremlins, Inc. \u2013 Original Soundtrack\nGremlins, Inc. \u2013\u00a0Digital Artbook\nGremlins, Inc. \u2013\u00a0Card Game, Print & Play Set\nGremlins, Inc. \u2013 Agents of Chaos\nGremlins, Inc. \u2013\u00a0Famous Figures\nGremlins, Inc. \u2013\u00a0Uninvited Guests\nGremlins, Inc. \u2013\u00a0Astral Gamblers\nGremlins, Inc. \u2013\u00a0Automated Competitors\nGremlins, Inc. \u2013 Original Soundtrack\nGremlins, Inc. \u2013\u00a0Digital Artbook\nGremlins, Inc. \u2013\u00a0Card Game, Print & Play Set\nGremlins, Inc. \u2013 Agents of Chaos\nGremlins, Inc. \u2013\u00a0Famous Figures\nGremlins, Inc. \u2013\u00a0Uninvited Guests\nGremlins, Inc. \u2013\u00a0Astral Gamblers\nGremlins, Inc. \u2013\u00a0Automated Competitors\nGremlins, Inc. \u2013 Original Soundtrack\nGremlins, Inc. \u2013\u00a0Digital Artbook\nGremlins, Inc. \u2013\u00a0Card Game, Print & Play Set",
             "count": 8,
             "priceData": {
                 "USD": {
@@ -10321,6 +10546,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "Grid Ranger Soundtrack\n\nGrid Ranger Soundtrack\n\nGrid Ranger Soundtrack\n\nGrid Ranger Soundtrack\n\nGrid Ranger Soundtrack\n\nGrid Ranger Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -10366,6 +10592,7 @@ var extrasData =
             "negative": 851
         },
         "dlc": {
+            "description": "GRIME - Soundtrack\n\nGRIME - Score (Ambiances from the Game)\n\nGRIME - Soundtrack\n\nGRIME - Score (Ambiances from the Game)\n\nGRIME - Soundtrack\n\nGRIME - Score (Ambiances from the Game)\n\nGRIME - Soundtrack\n\nGRIME - Score (Ambiances from the Game)\n\nGRIME - Soundtrack\n\nGRIME - Score (Ambiances from the Game)\n\nGRIME - Soundtrack\n\nGRIME - Score (Ambiances from the Game)",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -10403,6 +10630,7 @@ var extrasData =
             "negative": 17
         },
         "dlc": {
+            "description": "Grindstone Soundtrack Volume 1\n\nGrindstone Soundtrack Volume 2\n\nGrindstone Soundtrack Volume 1\n\nGrindstone Soundtrack Volume 2\n\nGrindstone Soundtrack Volume 1\n\nGrindstone Soundtrack Volume 2\n\nGrindstone Soundtrack Volume 1\n\nGrindstone Soundtrack Volume 2\n\nGrindstone Soundtrack Volume 1\n\nGrindstone Soundtrack Volume 2\n\nGrindstone Soundtrack Volume 1\n\nGrindstone Soundtrack Volume 2",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -10440,6 +10668,7 @@ var extrasData =
             "negative": 498
         },
         "dlc": {
+            "description": "Groove Coaster - Crazy Crazy Dancers\nGroove Coaster - Joker Junko Eienno Junka\nGroove Coaster - Mikakunin Gensou Coaster\nGroove Coaster - Sado Mami Holic\nGroove Coaster - Saisoku Saikou Shutter Girl\nGroove Coaster - Don\u2019t Die\nGroove Coaster - Fermion\nGroove Coaster - glory day\nGroove Coaster - OBLIVION\nGroove Coaster - U.A.D\nGroove Coaster - Captain Murasa [Tracy vs. Astronomical Mix]\nGroove Coaster - (K)Night of (K)Nights  feat. ytr -TOS Remix\nGroove Coaster - Secret God Matara -HYPER TECHNO MIX-\nGroove Coaster - Touhou Gaimaden\nGroove Coaster - GROOVE IT LUCKY (GC Mix)\nGroove Coaster - Itazura Sensation\nGroove Coaster - (K)Night of (K)Nights  Butaotome ver.\nGroove Coaster - Touhou Souchimai\nGroove Coaster - Good Night, Bad Luck.\nGroove Coaster - Groove Prayer -tpz Despair Remix-\nGroove Coaster - QLWA\nGroove Coaster - Satisfiction (Massive New Krew Remix)\nGroove Coaster - Asgore\nGroove Coaster - Bonetrousle\nGroove Coaster - Spider Dance\nGroove Coaster - Your Best Nightmare\nGroove Coaster - HB-axeleration\nGroove Coaster - Invader GIRL!\nGroove Coaster - PIXEL STAR\nGroove Coaster - Sweet Love\nGroove Coaster - Got more raves? -xiRemix-\nGroove Coaster - ouroboros -twin stroke of the end-\nGroove Coaster - Pegasus\nGroove Coaster - VELVET\nGroove Coaster - Finder\nGroove Coaster - Saishuu Kichiku Imouto Flandre S\nGroove Coaster - Scream Out!\nGroove Coaster - Touhou Chishinritsu\nGroove Coaster - FUJIN Rumble\nGroove Coaster - Jukusei Jozo Hakkosei\u25ce-Space Yogurt Earth-\nGroove Coaster - Little Higher\nGroove Coaster - Stratospheric Journey\nGroove Coaster - Crepe\u30fbto\u30fbme.\nGroove Coaster - Heisei Kaisei Dottensyan\nGroove Coaster - Lost Colors\nGroove Coaster - LOVER\u2605POP\nGroove Coaster - Be There\nGroove Coaster - Ignotus\nGroove Coaster - Metallic Punisher\nGroove Coaster - Modelista\nGroove Coaster - Singularity -Binary Enfold-\nGroove Coaster - Initial Initial Echo Ego\nGroove Coaster - Konohazuku\nGroove Coaster - Material of Puppets\nGroove Coaster - White World feat. Yu Oda\nGroove Coaster - Dream Coaster\nGroove Coaster - Help me, ERINNNNNN!! -Cranky remix-\nGroove Coaster - Kyouen\nGroove Coaster - Special Smile\nGroove Coaster - Crimson Phoenix\nGroove Coaster - GLITHCRE\nGroove Coaster - VOLT\nGroove Coaster - Xand-Roid\nGroove Coaster - Namcot Medley\nGroove Coaster - Dragon Spirit Medley\nGroove Coaster - Burning Force Medley\nGroove Coaster - RAVE WAR\nGroove Coaster - JINGAI CRISIS\nGroove Coaster - LOVE FOR YOU\nGroove Coaster - SACRIFICE feat. ayame (GC REFIX)\nGroove Coaster - Reversal Process\nGroove Coaster - CYBER Sparks\nGroove Coaster - ID\nGroove Coaster - Kodo, Koborenu Sake\nGroove Coaster - tete+a+tete\nGroove Coaster - And Then There Were None\nGroove Coaster - Cruel Moon NuMIX\nGroove Coaster - Kakoi naki yowa ichigo no tsukikage\nGroove Coaster - Touhou Onganmu\nGroove Coaster - Captain NEO -Confusion Mix-\nGroove Coaster - COSMIC AIR WAY -Trans Mountain Express MIX-\nGroove Coaster - say PaPa re:mix\nGroove Coaster - VISIONNERZ\nGroove Coaster - Battle Against a True Hero\nGroove Coaster - Death by Glamour\nGroove Coaster - Last Goodbye\nGroove Coaster - MEGALOVANIA\nGroove Coaster - GO BACK 2 YOUR RAVE\nGroove Coaster - B.B.K.K.B.K.K.\nGroove Coaster - BEFORE TEN ORB\nGroove Coaster - BURN ALT AIR\nGroove Coaster - KIKIKAIKAI\nGroove Coaster - DADDY MULK -Groove remix-\nGroove Coaster - freedom\nGroove Coaster - SHINDOI THE RIDE\nGroove Coaster - DOTTED 8TH\nGroove Coaster - Chururi Chururira\nGroove Coaster - Marry me,Nightmare\nGroove Coaster - APELIOTES\nGroove Coaster - Bad Apple!! feat. nomico\nGroove Coaster - Machibito ha kozu\nGroove Coaster - Kodoku na hana\nGroove Coaster - Night of Knights / Knight of Nights\nGroove Coaster - Crazy Crazy Dancers\nGroove Coaster - Joker Junko Eienno Junka\nGroove Coaster - Mikakunin Gensou Coaster\nGroove Coaster - Sado Mami Holic\nGroove Coaster - Saisoku Saikou Shutter Girl\nGroove Coaster - Don\u2019t Die\nGroove Coaster - Fermion\nGroove Coaster - glory day\nGroove Coaster - OBLIVION\nGroove Coaster - U.A.D\nGroove Coaster - Captain Murasa [Tracy vs. Astronomical Mix]\nGroove Coaster - (K)Night of (K)Nights  feat. ytr -TOS Remix\nGroove Coaster - Secret God Matara -HYPER TECHNO MIX-\nGroove Coaster - Touhou Gaimaden\nGroove Coaster - GROOVE IT LUCKY (GC Mix)\nGroove Coaster - Itazura Sensation\nGroove Coaster - (K)Night of (K)Nights  Butaotome ver.\nGroove Coaster - Touhou Souchimai\nGroove Coaster - Good Night, Bad Luck.\nGroove Coaster - Groove Prayer -tpz Despair Remix-\nGroove Coaster - QLWA\nGroove Coaster - Satisfiction (Massive New Krew Remix)\nGroove Coaster - Asgore\nGroove Coaster - Bonetrousle\nGroove Coaster - Spider Dance\nGroove Coaster - Your Best Nightmare\nGroove Coaster - HB-axeleration\nGroove Coaster - Invader GIRL!\nGroove Coaster - PIXEL STAR\nGroove Coaster - Sweet Love\nGroove Coaster - Got more raves? -xiRemix-\nGroove Coaster - ouroboros -twin stroke of the end-\nGroove Coaster - Pegasus\nGroove Coaster - VELVET\nGroove Coaster - Finder\nGroove Coaster - Saishuu Kichiku Imouto Flandre S\nGroove Coaster - Scream Out!\nGroove Coaster - Touhou Chishinritsu\nGroove Coaster - FUJIN Rumble\nGroove Coaster - Jukusei Jozo Hakkosei\u25ce-Space Yogurt Earth-\nGroove Coaster - Little Higher\nGroove Coaster - Stratospheric Journey\nGroove Coaster - Crepe\u30fbto\u30fbme.\nGroove Coaster - Heisei Kaisei Dottensyan\nGroove Coaster - Lost Colors\nGroove Coaster - LOVER\u2605POP\nGroove Coaster - Be There\nGroove Coaster - Ignotus\nGroove Coaster - Metallic Punisher\nGroove Coaster - Modelista\nGroove Coaster - Singularity -Binary Enfold-\nGroove Coaster - Initial Initial Echo Ego\nGroove Coaster - Konohazuku\nGroove Coaster - Material of Puppets\nGroove Coaster - White World feat. Yu Oda\nGroove Coaster - Dream Coaster\nGroove Coaster - Help me, ERINNNNNN!! -Cranky remix-\nGroove Coaster - Kyouen\nGroove Coaster - Special Smile\nGroove Coaster - Crimson Phoenix\nGroove Coaster - GLITHCRE\nGroove Coaster - VOLT\nGroove Coaster - Xand-Roid\nGroove Coaster - Namcot Medley\nGroove Coaster - Dragon Spirit Medley\nGroove Coaster - Burning Force Medley\nGroove Coaster - RAVE WAR\nGroove Coaster - JINGAI CRISIS\nGroove Coaster - LOVE FOR YOU\nGroove Coaster - SACRIFICE feat. ayame (GC REFIX)\nGroove Coaster - Reversal Process\nGroove Coaster - CYBER Sparks\nGroove Coaster - ID\nGroove Coaster - Kodo, Koborenu Sake\nGroove Coaster - tete+a+tete\nGroove Coaster - And Then There Were None\nGroove Coaster - Cruel Moon NuMIX\nGroove Coaster - Kakoi naki yowa ichigo no tsukikage\nGroove Coaster - Touhou Onganmu\nGroove Coaster - Captain NEO -Confusion Mix-\nGroove Coaster - COSMIC AIR WAY -Trans Mountain Express MIX-\nGroove Coaster - say PaPa re:mix\nGroove Coaster - VISIONNERZ\nGroove Coaster - Battle Against a True Hero\nGroove Coaster - Death by Glamour\nGroove Coaster - Last Goodbye\nGroove Coaster - MEGALOVANIA\nGroove Coaster - GO BACK 2 YOUR RAVE\nGroove Coaster - B.B.K.K.B.K.K.\nGroove Coaster - BEFORE TEN ORB\nGroove Coaster - BURN ALT AIR\nGroove Coaster - KIKIKAIKAI\nGroove Coaster - DADDY MULK -Groove remix-\nGroove Coaster - freedom\nGroove Coaster - SHINDOI THE RIDE\nGroove Coaster - DOTTED 8TH\nGroove Coaster - Chururi Chururira\nGroove Coaster - Marry me,Nightmare\nGroove Coaster - APELIOTES\nGroove Coaster - Bad Apple!! feat. nomico\nGroove Coaster - Machibito ha kozu\nGroove Coaster - Kodoku na hana\nGroove Coaster - Night of Knights / Knight of Nights\nGroove Coaster - Crazy Crazy Dancers\nGroove Coaster - Joker Junko Eienno Junka\nGroove Coaster - Mikakunin Gensou Coaster\nGroove Coaster - Sado Mami Holic\nGroove Coaster - Saisoku Saikou Shutter Girl\nGroove Coaster - Don\u2019t Die\nGroove Coaster - Fermion\nGroove Coaster - glory day\nGroove Coaster - OBLIVION\nGroove Coaster - U.A.D\nGroove Coaster - Captain Murasa [Tracy vs. Astronomical Mix]\nGroove Coaster - (K)Night of (K)Nights  feat. ytr -TOS Remix\nGroove Coaster - Secret God Matara -HYPER TECHNO MIX-\nGroove Coaster - Touhou Gaimaden\nGroove Coaster - GROOVE IT LUCKY (GC Mix)\nGroove Coaster - Itazura Sensation\nGroove Coaster - (K)Night of (K)Nights  Butaotome ver.\nGroove Coaster - Touhou Souchimai\nGroove Coaster - Good Night, Bad Luck.\nGroove Coaster - Groove Prayer -tpz Despair Remix-\nGroove Coaster - QLWA\nGroove Coaster - Satisfiction (Massive New Krew Remix)\nGroove Coaster - Asgore\nGroove Coaster - Bonetrousle\nGroove Coaster - Spider Dance\nGroove Coaster - Your Best Nightmare\nGroove Coaster - HB-axeleration\nGroove Coaster - Invader GIRL!\nGroove Coaster - PIXEL STAR\nGroove Coaster - Sweet Love\nGroove Coaster - Got more raves? -xiRemix-\nGroove Coaster - ouroboros -twin stroke of the end-\nGroove Coaster - Pegasus\nGroove Coaster - VELVET\nGroove Coaster - Finder\nGroove Coaster - Saishuu Kichiku Imouto Flandre S\nGroove Coaster - Scream Out!\nGroove Coaster - Touhou Chishinritsu\nGroove Coaster - FUJIN Rumble\nGroove Coaster - Jukusei Jozo Hakkosei\u25ce-Space Yogurt Earth-\nGroove Coaster - Little Higher\nGroove Coaster - Stratospheric Journey\nGroove Coaster - Crepe\u30fbto\u30fbme.\nGroove Coaster - Heisei Kaisei Dottensyan\nGroove Coaster - Lost Colors\nGroove Coaster - LOVER\u2605POP\nGroove Coaster - Be There\nGroove Coaster - Ignotus\nGroove Coaster - Metallic Punisher\nGroove Coaster - Modelista\nGroove Coaster - Singularity -Binary Enfold-\nGroove Coaster - Initial Initial Echo Ego\nGroove Coaster - Konohazuku\nGroove Coaster - Material of Puppets\nGroove Coaster - White World feat. Yu Oda\nGroove Coaster - Dream Coaster\nGroove Coaster - Help me, ERINNNNNN!! -Cranky remix-\nGroove Coaster - Kyouen\nGroove Coaster - Special Smile\nGroove Coaster - Crimson Phoenix\nGroove Coaster - GLITHCRE\nGroove Coaster - VOLT\nGroove Coaster - Xand-Roid\nGroove Coaster - Namcot Medley\nGroove Coaster - Dragon Spirit Medley\nGroove Coaster - Burning Force Medley\nGroove Coaster - RAVE WAR\nGroove Coaster - JINGAI CRISIS\nGroove Coaster - LOVE FOR YOU\nGroove Coaster - SACRIFICE feat. ayame (GC REFIX)\nGroove Coaster - Reversal Process\nGroove Coaster - CYBER Sparks\nGroove Coaster - ID\nGroove Coaster - Kodo, Koborenu Sake\nGroove Coaster - tete+a+tete\nGroove Coaster - And Then There Were None\nGroove Coaster - Cruel Moon NuMIX\nGroove Coaster - Kakoi naki yowa ichigo no tsukikage\nGroove Coaster - Touhou Onganmu\nGroove Coaster - Captain NEO -Confusion Mix-\nGroove Coaster - COSMIC AIR WAY -Trans Mountain Express MIX-\nGroove Coaster - say PaPa re:mix\nGroove Coaster - VISIONNERZ\nGroove Coaster - Battle Against a True Hero\nGroove Coaster - Death by Glamour\nGroove Coaster - Last Goodbye\nGroove Coaster - MEGALOVANIA\nGroove Coaster - GO BACK 2 YOUR RAVE\nGroove Coaster - B.B.K.K.B.K.K.\nGroove Coaster - BEFORE TEN ORB\nGroove Coaster - BURN ALT AIR\nGroove Coaster - KIKIKAIKAI\nGroove Coaster - DADDY MULK -Groove remix-\nGroove Coaster - freedom\nGroove Coaster - SHINDOI THE RIDE\nGroove Coaster - DOTTED 8TH\nGroove Coaster - Chururi Chururira\nGroove Coaster - Marry me,Nightmare\nGroove Coaster - APELIOTES\nGroove Coaster - Bad Apple!! feat. nomico\nGroove Coaster - Machibito ha kozu\nGroove Coaster - Kodoku na hana\nGroove Coaster - Night of Knights / Knight of Nights\nGroove Coaster - Crazy Crazy Dancers\nGroove Coaster - Joker Junko Eienno Junka\nGroove Coaster - Mikakunin Gensou Coaster\nGroove Coaster - Sado Mami Holic\nGroove Coaster - Saisoku Saikou Shutter Girl\nGroove Coaster - Don\u2019t Die\nGroove Coaster - Fermion\nGroove Coaster - glory day\nGroove Coaster - OBLIVION\nGroove Coaster - U.A.D\nGroove Coaster - Captain Murasa [Tracy vs. Astronomical Mix]\nGroove Coaster - (K)Night of (K)Nights  feat. ytr -TOS Remix\nGroove Coaster - Secret God Matara -HYPER TECHNO MIX-\nGroove Coaster - Touhou Gaimaden\nGroove Coaster - GROOVE IT LUCKY (GC Mix)\nGroove Coaster - Itazura Sensation\nGroove Coaster - (K)Night of (K)Nights  Butaotome ver.\nGroove Coaster - Touhou Souchimai\nGroove Coaster - Good Night, Bad Luck.\nGroove Coaster - Groove Prayer -tpz Despair Remix-\nGroove Coaster - QLWA\nGroove Coaster - Satisfiction (Massive New Krew Remix)\nGroove Coaster - Asgore\nGroove Coaster - Bonetrousle\nGroove Coaster - Spider Dance\nGroove Coaster - Your Best Nightmare\nGroove Coaster - HB-axeleration\nGroove Coaster - Invader GIRL!\nGroove Coaster - PIXEL STAR\nGroove Coaster - Sweet Love\nGroove Coaster - Got more raves? -xiRemix-\nGroove Coaster - ouroboros -twin stroke of the end-\nGroove Coaster - Pegasus\nGroove Coaster - VELVET\nGroove Coaster - Finder\nGroove Coaster - Saishuu Kichiku Imouto Flandre S\nGroove Coaster - Scream Out!\nGroove Coaster - Touhou Chishinritsu\nGroove Coaster - FUJIN Rumble\nGroove Coaster - Jukusei Jozo Hakkosei\u25ce-Space Yogurt Earth-\nGroove Coaster - Little Higher\nGroove Coaster - Stratospheric Journey\nGroove Coaster - Crepe\u30fbto\u30fbme.\nGroove Coaster - Heisei Kaisei Dottensyan\nGroove Coaster - Lost Colors\nGroove Coaster - LOVER\u2605POP\nGroove Coaster - Be There\nGroove Coaster - Ignotus\nGroove Coaster - Metallic Punisher\nGroove Coaster - Modelista\nGroove Coaster - Singularity -Binary Enfold-\nGroove Coaster - Initial Initial Echo Ego\nGroove Coaster - Konohazuku\nGroove Coaster - Material of Puppets\nGroove Coaster - White World feat. Yu Oda\nGroove Coaster - Dream Coaster\nGroove Coaster - Help me, ERINNNNNN!! -Cranky remix-\nGroove Coaster - Kyouen\nGroove Coaster - Special Smile\nGroove Coaster - Crimson Phoenix\nGroove Coaster - GLITHCRE\nGroove Coaster - VOLT\nGroove Coaster - Xand-Roid\nGroove Coaster - Namcot Medley\nGroove Coaster - Dragon Spirit Medley\nGroove Coaster - Burning Force Medley\nGroove Coaster - RAVE WAR\nGroove Coaster - JINGAI CRISIS\nGroove Coaster - LOVE FOR YOU\nGroove Coaster - SACRIFICE feat. ayame (GC REFIX)\nGroove Coaster - Reversal Process\nGroove Coaster - CYBER Sparks\nGroove Coaster - ID\nGroove Coaster - Kodo, Koborenu Sake\nGroove Coaster - tete+a+tete\nGroove Coaster - And Then There Were None\nGroove Coaster - Cruel Moon NuMIX\nGroove Coaster - Kakoi naki yowa ichigo no tsukikage\nGroove Coaster - Touhou Onganmu\nGroove Coaster - Captain NEO -Confusion Mix-\nGroove Coaster - COSMIC AIR WAY -Trans Mountain Express MIX-\nGroove Coaster - say PaPa re:mix\nGroove Coaster - VISIONNERZ\nGroove Coaster - Battle Against a True Hero\nGroove Coaster - Death by Glamour\nGroove Coaster - Last Goodbye\nGroove Coaster - MEGALOVANIA\nGroove Coaster - GO BACK 2 YOUR RAVE\nGroove Coaster - B.B.K.K.B.K.K.\nGroove Coaster - BEFORE TEN ORB\nGroove Coaster - BURN ALT AIR\nGroove Coaster - KIKIKAIKAI\nGroove Coaster - DADDY MULK -Groove remix-\nGroove Coaster - freedom\nGroove Coaster - SHINDOI THE RIDE\nGroove Coaster - DOTTED 8TH\nGroove Coaster - Chururi Chururira\nGroove Coaster - Marry me,Nightmare\nGroove Coaster - APELIOTES\nGroove Coaster - Bad Apple!! feat. nomico\nGroove Coaster - Machibito ha kozu\nGroove Coaster - Kodoku na hana\nGroove Coaster - Night of Knights / Knight of Nights\nGroove Coaster - Crazy Crazy Dancers\nGroove Coaster - Joker Junko Eienno Junka\nGroove Coaster - Mikakunin Gensou Coaster\nGroove Coaster - Sado Mami Holic\nGroove Coaster - Saisoku Saikou Shutter Girl\nGroove Coaster - Don\u2019t Die\nGroove Coaster - Fermion\nGroove Coaster - glory day\nGroove Coaster - OBLIVION\nGroove Coaster - U.A.D\nGroove Coaster - Captain Murasa [Tracy vs. Astronomical Mix]\nGroove Coaster - (K)Night of (K)Nights  feat. ytr -TOS Remix\nGroove Coaster - Secret God Matara -HYPER TECHNO MIX-\nGroove Coaster - Touhou Gaimaden\nGroove Coaster - GROOVE IT LUCKY (GC Mix)\nGroove Coaster - Itazura Sensation\nGroove Coaster - (K)Night of (K)Nights  Butaotome ver.\nGroove Coaster - Touhou Souchimai\nGroove Coaster - Good Night, Bad Luck.\nGroove Coaster - Groove Prayer -tpz Despair Remix-\nGroove Coaster - QLWA\nGroove Coaster - Satisfiction (Massive New Krew Remix)\nGroove Coaster - Asgore\nGroove Coaster - Bonetrousle\nGroove Coaster - Spider Dance\nGroove Coaster - Your Best Nightmare\nGroove Coaster - HB-axeleration\nGroove Coaster - Invader GIRL!\nGroove Coaster - PIXEL STAR\nGroove Coaster - Sweet Love\nGroove Coaster - Got more raves? -xiRemix-\nGroove Coaster - ouroboros -twin stroke of the end-\nGroove Coaster - Pegasus\nGroove Coaster - VELVET\nGroove Coaster - Finder\nGroove Coaster - Saishuu Kichiku Imouto Flandre S\nGroove Coaster - Scream Out!\nGroove Coaster - Touhou Chishinritsu\nGroove Coaster - FUJIN Rumble\nGroove Coaster - Jukusei Jozo Hakkosei\u25ce-Space Yogurt Earth-\nGroove Coaster - Little Higher\nGroove Coaster - Stratospheric Journey\nGroove Coaster - Crepe\u30fbto\u30fbme.\nGroove Coaster - Heisei Kaisei Dottensyan\nGroove Coaster - Lost Colors\nGroove Coaster - LOVER\u2605POP\nGroove Coaster - Be There\nGroove Coaster - Ignotus\nGroove Coaster - Metallic Punisher\nGroove Coaster - Modelista\nGroove Coaster - Singularity -Binary Enfold-\nGroove Coaster - Initial Initial Echo Ego\nGroove Coaster - Konohazuku\nGroove Coaster - Material of Puppets\nGroove Coaster - White World feat. Yu Oda\nGroove Coaster - Dream Coaster\nGroove Coaster - Help me, ERINNNNNN!! -Cranky remix-\nGroove Coaster - Kyouen\nGroove Coaster - Special Smile\nGroove Coaster - Crimson Phoenix\nGroove Coaster - GLITHCRE\nGroove Coaster - VOLT\nGroove Coaster - Xand-Roid\nGroove Coaster - Namcot Medley\nGroove Coaster - Dragon Spirit Medley\nGroove Coaster - Burning Force Medley\nGroove Coaster - RAVE WAR\nGroove Coaster - JINGAI CRISIS\nGroove Coaster - LOVE FOR YOU\nGroove Coaster - SACRIFICE feat. ayame (GC REFIX)\nGroove Coaster - Reversal Process\nGroove Coaster - CYBER Sparks\nGroove Coaster - ID\nGroove Coaster - Kodo, Koborenu Sake\nGroove Coaster - tete+a+tete\nGroove Coaster - And Then There Were None\nGroove Coaster - Cruel Moon NuMIX\nGroove Coaster - Kakoi naki yowa ichigo no tsukikage\nGroove Coaster - Touhou Onganmu\nGroove Coaster - Captain NEO -Confusion Mix-\nGroove Coaster - COSMIC AIR WAY -Trans Mountain Express MIX-\nGroove Coaster - say PaPa re:mix\nGroove Coaster - VISIONNERZ\nGroove Coaster - Battle Against a True Hero\nGroove Coaster - Death by Glamour\nGroove Coaster - Last Goodbye\nGroove Coaster - MEGALOVANIA\nGroove Coaster - GO BACK 2 YOUR RAVE\nGroove Coaster - B.B.K.K.B.K.K.\nGroove Coaster - BEFORE TEN ORB\nGroove Coaster - BURN ALT AIR\nGroove Coaster - KIKIKAIKAI\nGroove Coaster - DADDY MULK -Groove remix-\nGroove Coaster - freedom\nGroove Coaster - SHINDOI THE RIDE\nGroove Coaster - DOTTED 8TH\nGroove Coaster - Chururi Chururira\nGroove Coaster - Marry me,Nightmare\nGroove Coaster - APELIOTES\nGroove Coaster - Bad Apple!! feat. nomico\nGroove Coaster - Machibito ha kozu\nGroove Coaster - Kodoku na hana\nGroove Coaster - Night of Knights / Knight of Nights\nGroove Coaster - Crazy Crazy Dancers\nGroove Coaster - Joker Junko Eienno Junka\nGroove Coaster - Mikakunin Gensou Coaster\nGroove Coaster - Sado Mami Holic\nGroove Coaster - Saisoku Saikou Shutter Girl\nGroove Coaster - Don\u2019t Die\nGroove Coaster - Fermion\nGroove Coaster - glory day\nGroove Coaster - OBLIVION\nGroove Coaster - U.A.D\nGroove Coaster - Captain Murasa [Tracy vs. Astronomical Mix]\nGroove Coaster - (K)Night of (K)Nights  feat. ytr -TOS Remix\nGroove Coaster - Secret God Matara -HYPER TECHNO MIX-\nGroove Coaster - Touhou Gaimaden\nGroove Coaster - GROOVE IT LUCKY (GC Mix)\nGroove Coaster - Itazura Sensation\nGroove Coaster - (K)Night of (K)Nights  Butaotome ver.\nGroove Coaster - Touhou Souchimai\nGroove Coaster - Good Night, Bad Luck.\nGroove Coaster - Groove Prayer -tpz Despair Remix-\nGroove Coaster - QLWA\nGroove Coaster - Satisfiction (Massive New Krew Remix)\nGroove Coaster - Asgore\nGroove Coaster - Bonetrousle\nGroove Coaster - Spider Dance\nGroove Coaster - Your Best Nightmare\nGroove Coaster - HB-axeleration\nGroove Coaster - Invader GIRL!\nGroove Coaster - PIXEL STAR\nGroove Coaster - Sweet Love\nGroove Coaster - Got more raves? -xiRemix-\nGroove Coaster - ouroboros -twin stroke of the end-\nGroove Coaster - Pegasus\nGroove Coaster - VELVET\nGroove Coaster - Finder\nGroove Coaster - Saishuu Kichiku Imouto Flandre S\nGroove Coaster - Scream Out!\nGroove Coaster - Touhou Chishinritsu\nGroove Coaster - FUJIN Rumble\nGroove Coaster - Jukusei Jozo Hakkosei\u25ce-Space Yogurt Earth-\nGroove Coaster - Little Higher\nGroove Coaster - Stratospheric Journey\nGroove Coaster - Crepe\u30fbto\u30fbme.\nGroove Coaster - Heisei Kaisei Dottensyan\nGroove Coaster - Lost Colors\nGroove Coaster - LOVER\u2605POP\nGroove Coaster - Be There\nGroove Coaster - Ignotus\nGroove Coaster - Metallic Punisher\nGroove Coaster - Modelista\nGroove Coaster - Singularity -Binary Enfold-\nGroove Coaster - Initial Initial Echo Ego\nGroove Coaster - Konohazuku\nGroove Coaster - Material of Puppets\nGroove Coaster - White World feat. Yu Oda\nGroove Coaster - Dream Coaster\nGroove Coaster - Help me, ERINNNNNN!! -Cranky remix-\nGroove Coaster - Kyouen\nGroove Coaster - Special Smile\nGroove Coaster - Crimson Phoenix\nGroove Coaster - GLITHCRE\nGroove Coaster - VOLT\nGroove Coaster - Xand-Roid\nGroove Coaster - Namcot Medley\nGroove Coaster - Dragon Spirit Medley\nGroove Coaster - Burning Force Medley\nGroove Coaster - RAVE WAR\nGroove Coaster - JINGAI CRISIS\nGroove Coaster - LOVE FOR YOU\nGroove Coaster - SACRIFICE feat. ayame (GC REFIX)\nGroove Coaster - Reversal Process\nGroove Coaster - CYBER Sparks\nGroove Coaster - ID\nGroove Coaster - Kodo, Koborenu Sake\nGroove Coaster - tete+a+tete\nGroove Coaster - And Then There Were None\nGroove Coaster - Cruel Moon NuMIX\nGroove Coaster - Kakoi naki yowa ichigo no tsukikage\nGroove Coaster - Touhou Onganmu\nGroove Coaster - Captain NEO -Confusion Mix-\nGroove Coaster - COSMIC AIR WAY -Trans Mountain Express MIX-\nGroove Coaster - say PaPa re:mix\nGroove Coaster - VISIONNERZ\nGroove Coaster - Battle Against a True Hero\nGroove Coaster - Death by Glamour\nGroove Coaster - Last Goodbye\nGroove Coaster - MEGALOVANIA\nGroove Coaster - GO BACK 2 YOUR RAVE\nGroove Coaster - B.B.K.K.B.K.K.\nGroove Coaster - BEFORE TEN ORB\nGroove Coaster - BURN ALT AIR\nGroove Coaster - KIKIKAIKAI\nGroove Coaster - DADDY MULK -Groove remix-\nGroove Coaster - freedom\nGroove Coaster - SHINDOI THE RIDE\nGroove Coaster - DOTTED 8TH\nGroove Coaster - Chururi Chururira\nGroove Coaster - Marry me,Nightmare\nGroove Coaster - APELIOTES\nGroove Coaster - Bad Apple!! feat. nomico\nGroove Coaster - Machibito ha kozu\nGroove Coaster - Kodoku na hana\nGroove Coaster - Night of Knights / Knight of Nights",
             "count": 103,
             "priceData": {
                 "USD": {
@@ -10472,8 +10701,8 @@ var extrasData =
     "f9417583-4d74-46e4-8472-9365bc694297": {
         "reviews": {
             "description": "Very Positive",
-            "total": 62035,
-            "positive": 52307,
+            "total": 62037,
+            "positive": 52309,
             "negative": 9728
         }
     },
@@ -10485,6 +10714,7 @@ var extrasData =
             "negative": 282
         },
         "dlc": {
+            "description": "Guacamelee! 2 - Soundtrack\nGuacamelee! 2 - Three Enemigos Character Pack\nGuacamelee! 2 - The Proving Grounds (Challenge Level)\nGuacamelee! 2 - Soundtrack\nGuacamelee! 2 - Three Enemigos Character Pack\nGuacamelee! 2 - The Proving Grounds (Challenge Level)\nGuacamelee! 2 - Soundtrack\nGuacamelee! 2 - Three Enemigos Character Pack\nGuacamelee! 2 - The Proving Grounds (Challenge Level)\nGuacamelee! 2 - Soundtrack\nGuacamelee! 2 - Three Enemigos Character Pack\nGuacamelee! 2 - The Proving Grounds (Challenge Level)\nGuacamelee! 2 - Soundtrack\nGuacamelee! 2 - Three Enemigos Character Pack\nGuacamelee! 2 - The Proving Grounds (Challenge Level)\nGuacamelee! 2 - Soundtrack\nGuacamelee! 2 - Three Enemigos Character Pack\nGuacamelee! 2 - The Proving Grounds (Challenge Level)",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -10570,6 +10800,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "Gunborg: Dark Matters Soundtrack\n\nGunborg: Dark Matters Soundtrack\n\nGunborg: Dark Matters Soundtrack\n\nGunborg: Dark Matters Soundtrack\n\nGunborg: Dark Matters Soundtrack\n\nGunborg: Dark Matters Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -10607,6 +10838,7 @@ var extrasData =
             "negative": 6514
         },
         "dlc": {
+            "description": "Gunfire Reborn - Realm of Frost and Inkwash\nGunfire Reborn - Artisan and Magician\nGunfire Reborn - Visitors of Spirit Realm\nGunfire Reborn - Realm of Frost and Inkwash\nGunfire Reborn - Artisan and Magician\nGunfire Reborn - Visitors of Spirit Realm\nGunfire Reborn - Realm of Frost and Inkwash\nGunfire Reborn - Artisan and Magician\nGunfire Reborn - Visitors of Spirit Realm\nGunfire Reborn - Realm of Frost and Inkwash\nGunfire Reborn - Artisan and Magician\nGunfire Reborn - Visitors of Spirit Realm\nGunfire Reborn - Realm of Frost and Inkwash\nGunfire Reborn - Artisan and Magician\nGunfire Reborn - Visitors of Spirit Realm\nGunfire Reborn - Realm of Frost and Inkwash\nGunfire Reborn - Artisan and Magician\nGunfire Reborn - Visitors of Spirit Realm",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -10644,6 +10876,7 @@ var extrasData =
             "negative": 61
         },
         "dlc": {
+            "description": "Gunlocked - The 2nd Gunning\n\nGunlocked - The 2nd Gunning\n\nGunlocked - The 2nd Gunning\n\nGunlocked - The 2nd Gunning\n\nGunlocked - The 2nd Gunning\n\nGunlocked - The 2nd Gunning",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -10705,6 +10938,7 @@ var extrasData =
             "negative": 82
         },
         "dlc": {
+            "description": "HackyZack - Original Sountrack\n\nHackyZack - Original Sountrack\n\nHackyZack - Original Sountrack\n\nHackyZack - Original Sountrack\n\nHackyZack - Original Sountrack\n\nHackyZack - Original Sountrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -10737,11 +10971,12 @@ var extrasData =
     "847d86f5-65c6-4f68-b5a7-ed0c8de895f4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 279631,
-            "positive": 274724,
-            "negative": 4907
+            "total": 279642,
+            "positive": 274734,
+            "negative": 4908
         },
         "dlc": {
+            "description": "Hades Original Soundtrack\n\nHades Original Soundtrack\n\nHades Original Soundtrack\n\nHades Original Soundtrack\n\nHades Original Soundtrack\n\nHades Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -10782,11 +11017,12 @@ var extrasData =
     "6391af2f-26d4-44eb-a685-aeb3575f6825": {
         "reviews": {
             "description": "Very Positive",
-            "total": 241878,
-            "positive": 223454,
-            "negative": 18424
+            "total": 241887,
+            "positive": 223459,
+            "negative": 18428
         },
         "dlc": {
+            "description": "Halo: Reach\nHalo: Combat Evolved Anniversary\nHalo 2: Anniversary\nHalo 3\nHalo 3: ODST\nHalo 4\nHalo: Reach\nHalo: Combat Evolved Anniversary\nHalo 2: Anniversary\nHalo 3\nHalo 3: ODST\nHalo 4\nHalo: Reach\nHalo: Combat Evolved Anniversary\nHalo 2: Anniversary\nHalo 3\nHalo 3: ODST\nHalo 4\nHalo: Reach\nHalo: Combat Evolved Anniversary\nHalo 2: Anniversary\nHalo 3\nHalo 3: ODST\nHalo 4\nHalo: Reach\nHalo: Combat Evolved Anniversary\nHalo 2: Anniversary\nHalo 3\nHalo 3: ODST\nHalo 4\nHalo: Reach\nHalo: Combat Evolved Anniversary\nHalo 2: Anniversary\nHalo 3\nHalo 3: ODST\nHalo 4",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -10824,6 +11060,7 @@ var extrasData =
             "negative": 1125
         },
         "dlc": {
+            "description": "Hand of Fate : Wildcards\n\nHand of Fate Original Soundtrack\n\nHand of Fate : Wildcards\n\nHand of Fate Original Soundtrack\n\nHand of Fate : Wildcards\n\nHand of Fate Original Soundtrack\n\nHand of Fate : Wildcards\n\nHand of Fate Original Soundtrack\n\nHand of Fate : Wildcards\n\nHand of Fate Original Soundtrack\n\nHand of Fate : Wildcards\n\nHand of Fate Original Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -10856,8 +11093,8 @@ var extrasData =
     "6a2aa61b-8919-41c0-a0b6-6c0a68148524": {
         "reviews": {
             "description": "Very Positive",
-            "total": 774,
-            "positive": 678,
+            "total": 775,
+            "positive": 679,
             "negative": 96
         }
     },
@@ -10885,6 +11122,7 @@ var extrasData =
             "negative": 869
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -10930,6 +11168,7 @@ var extrasData =
             "negative": 3701
         },
         "dlc": {
+            "description": "Hatred: Subscribe or Die - comic book\n\nHatred : Black Label - comic book\n\nHatred: Subscribe or Die - comic book\n\nHatred : Black Label - comic book\n\nHatred: Subscribe or Die - comic book\n\nHatred : Black Label - comic book\n\nHatred: Subscribe or Die - comic book\n\nHatred : Black Label - comic book\n\nHatred: Subscribe or Die - comic book\n\nHatred : Black Label - comic book",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -10958,11 +11197,12 @@ var extrasData =
     "90675a65-03e1-4bdf-ba97-68f47cd8d30a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 18987,
-            "positive": 17862,
+            "total": 18989,
+            "positive": 17864,
             "negative": 1125
         },
         "dlc": {
+            "description": "Hatsune Miku: Project DIVA Mega Mix+ Item Unlock Key\n\nHatsune Miku: Project DIVA Mega Mix+ Extra Song Pack\n\nHatsune Miku: Project DIVA Mega Mix+ Item Unlock Key\n\nHatsune Miku: Project DIVA Mega Mix+ Extra Song Pack\n\nHatsune Miku: Project DIVA Mega Mix+ Item Unlock Key\n\nHatsune Miku: Project DIVA Mega Mix+ Extra Song Pack\n\nHatsune Miku: Project DIVA Mega Mix+ Item Unlock Key\n\nHatsune Miku: Project DIVA Mega Mix+ Extra Song Pack\n\nHatsune Miku: Project DIVA Mega Mix+ Item Unlock Key\n\nHatsune Miku: Project DIVA Mega Mix+ Extra Song Pack\n\nHatsune Miku: Project DIVA Mega Mix+ Item Unlock Key\n\nHatsune Miku: Project DIVA Mega Mix+ Extra Song Pack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -11000,6 +11240,7 @@ var extrasData =
             "negative": 1346
         },
         "dlc": {
+            "description": "Have a Nice Death Soundtrack\n\nHave a Nice Death Soundtrack\n\nHave a Nice Death Soundtrack\n\nHave a Nice Death Soundtrack\n\nHave a Nice Death Soundtrack\n\nHave a Nice Death Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -11045,6 +11286,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "Hazelnut Hex Soundtrack\n\nHazelnut Hex Soundtrack\n\nHazelnut Hex Soundtrack\n\nHazelnut Hex Soundtrack\n\nHazelnut Hex Soundtrack\n\nHazelnut Hex Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11090,6 +11332,7 @@ var extrasData =
             "negative": 174
         },
         "dlc": {
+            "description": "Heavenly Bodies - Cleanup DLC\n\nHeavenly Bodies - Cleanup DLC\n\nHeavenly Bodies - Cleanup DLC\n\nHeavenly Bodies - Cleanup DLC\n\nHeavenly Bodies - Cleanup DLC\n\nHeavenly Bodies - Cleanup DLC",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11127,6 +11370,7 @@ var extrasData =
             "negative": 279
         },
         "dlc": {
+            "description": "Heavy Bullets EP - Soundtrack\n\nHeavy Bullets EP - Soundtrack\n\nHeavy Bullets EP - Soundtrack\n\nHeavy Bullets EP - Soundtrack\n\nHeavy Bullets EP - Soundtrack\n\nHeavy Bullets EP - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11172,6 +11416,7 @@ var extrasData =
             "negative": 23
         },
         "dlc": {
+            "description": "Hell is Other Demons - Soundtrack\n\nHell is Other Demons - Soundtrack\n\nHell is Other Demons - Soundtrack\n\nHell is Other Demons - Soundtrack\n\nHell is Other Demons - Soundtrack\n\nHell is Other Demons - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11209,6 +11454,7 @@ var extrasData =
             "negative": 16
         },
         "dlc": {
+            "description": "Hell of an Office - Soundtrack\n\nHell of an Office - Soundtrack\n\nHell of an Office - Soundtrack\n\nHell of an Office - Soundtrack\n\nHell of an Office - Soundtrack\n\nHell of an Office - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11246,6 +11492,7 @@ var extrasData =
             "negative": 1155
         },
         "dlc": {
+            "description": "Hellpoint Soundtrack\nHellpoint Digital Artbook\nHellpoint: Blue Sun\nHellpoint Soundtrack\nHellpoint Digital Artbook\nHellpoint: Blue Sun\nHellpoint Soundtrack\nHellpoint Digital Artbook\nHellpoint: Blue Sun\nHellpoint Soundtrack\nHellpoint Digital Artbook\nHellpoint: Blue Sun\nHellpoint Soundtrack\nHellpoint Digital Artbook\nHellpoint: Blue Sun\nHellpoint Soundtrack\nHellpoint Digital Artbook\nHellpoint: Blue Sun",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -11283,6 +11530,7 @@ var extrasData =
             "negative": 26
         },
         "dlc": {
+            "description": "Hellsinker. Soundtrack + Music Data Upgrade\n\nHellsinker. Soundtrack + Music Data Upgrade\n\nHellsinker. Soundtrack + Music Data Upgrade\n\nHellsinker. Soundtrack + Music Data Upgrade\n\nHellsinker. Soundtrack + Music Data Upgrade\n\nHellsinker. Soundtrack + Music Data Upgrade",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11336,6 +11584,7 @@ var extrasData =
             "negative": 448
         },
         "dlc": {
+            "description": "Hextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 1: POP/STARZ\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 2: ZEGENDS NEVER DIE\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 3: GET ZINXED\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 1: POP/STARZ\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 2: ZEGENDS NEVER DIE\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 3: GET ZINXED\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 1: POP/STARZ\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 2: ZEGENDS NEVER DIE\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 3: GET ZINXED\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 1: POP/STARZ\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 2: ZEGENDS NEVER DIE\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 3: GET ZINXED\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 1: POP/STARZ\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 2: ZEGENDS NEVER DIE\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 3: GET ZINXED\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 1: POP/STARZ\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 2: ZEGENDS NEVER DIE\nHextech Mayhem: A League of Legends Story\u2122 - BOOMBOX 3: GET ZINXED",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -11368,11 +11617,12 @@ var extrasData =
     "4f4671a5-70e2-41c3-87dc-f93b67ae08c6": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 33338,
-            "positive": 32439,
+            "total": 33337,
+            "positive": 32438,
             "negative": 899
         },
         "dlc": {
+            "description": "Hi-Fi RUSH Deluxe Edition Upgrade Pack\nHi-Fi RUSH Original Game Soundtrack\nHi-Fi RUSH: Bossplay Costume Pack\nHi-Fi RUSH: Teamplay Costume Pack\nHi-Fi RUSH: Traditional Garb Costume Pack\nHi-Fi RUSH Deluxe Edition Upgrade Pack\nHi-Fi RUSH Original Game Soundtrack\nHi-Fi RUSH: Bossplay Costume Pack\nHi-Fi RUSH: Teamplay Costume Pack\nHi-Fi RUSH: Traditional Garb Costume Pack\nHi-Fi RUSH Deluxe Edition Upgrade Pack\nHi-Fi RUSH Original Game Soundtrack\nHi-Fi RUSH: Bossplay Costume Pack\nHi-Fi RUSH: Teamplay Costume Pack\nHi-Fi RUSH: Traditional Garb Costume Pack\nHi-Fi RUSH Deluxe Edition Upgrade Pack\nHi-Fi RUSH Original Game Soundtrack\nHi-Fi RUSH: Bossplay Costume Pack\nHi-Fi RUSH: Teamplay Costume Pack\nHi-Fi RUSH: Traditional Garb Costume Pack\nHi-Fi RUSH Deluxe Edition Upgrade Pack\nHi-Fi RUSH Original Game Soundtrack\nHi-Fi RUSH: Bossplay Costume Pack\nHi-Fi RUSH: Teamplay Costume Pack\nHi-Fi RUSH: Traditional Garb Costume Pack\nHi-Fi RUSH Deluxe Edition Upgrade Pack\nHi-Fi RUSH Original Game Soundtrack\nHi-Fi RUSH: Bossplay Costume Pack\nHi-Fi RUSH: Teamplay Costume Pack\nHi-Fi RUSH: Traditional Garb Costume Pack",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -11418,6 +11668,7 @@ var extrasData =
             "negative": 200
         },
         "dlc": {
+            "description": "High Hell Soundtrack by Doseone\n\nHigh Hell Soundtrack by Doseone\n\nHigh Hell Soundtrack by Doseone\n\nHigh Hell Soundtrack by Doseone\n\nHigh Hell Soundtrack by Doseone\n\nHigh Hell Soundtrack by Doseone",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11450,11 +11701,12 @@ var extrasData =
     "e9703281-3909-40f0-8075-9ddc796536c0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5240,
-            "positive": 4629,
+            "total": 5241,
+            "positive": 4630,
             "negative": 611
         },
         "dlc": {
+            "description": "Hob Official Soundtrack (FLAC+MP3)\n\nHob Official Soundtrack (FLAC+MP3)\n\nHob Official Soundtrack (FLAC+MP3)\n\nHob Official Soundtrack (FLAC+MP3)\n\nHob Official Soundtrack (FLAC+MP3)\n\nHob Official Soundtrack (FLAC+MP3)",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11511,11 +11763,12 @@ var extrasData =
     "ec1f8e58-b184-496c-a9aa-678876d9dc7b": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 415358,
-            "positive": 403054,
-            "negative": 12304
+            "total": 415385,
+            "positive": 403083,
+            "negative": 12302
         },
         "dlc": {
+            "description": "Hollow Knight - Official Soundtrack\n\nHollow Knight - Gods & Nightmares\n\nHollow Knight - Official Soundtrack\n\nHollow Knight - Gods & Nightmares\n\nHollow Knight - Official Soundtrack\n\nHollow Knight - Gods & Nightmares\n\nHollow Knight - Official Soundtrack\n\nHollow Knight - Gods & Nightmares\n\nHollow Knight - Official Soundtrack\n\nHollow Knight - Gods & Nightmares\n\nHollow Knight - Official Soundtrack\n\nHollow Knight - Gods & Nightmares",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -11561,6 +11814,7 @@ var extrasData =
             "negative": 7
         },
         "dlc": {
+            "description": "Big Brain Brian Content Pack\n\nHoplegs Soundtrack\n\nBig Brain Brian Content Pack\n\nHoplegs Soundtrack\n\nBig Brain Brian Content Pack\n\nHoplegs Soundtrack\n\nBig Brain Brian Content Pack\n\nHoplegs Soundtrack\n\nBig Brain Brian Content Pack\n\nHoplegs Soundtrack\n\nBig Brain Brian Content Pack\n\nHoplegs Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -11609,11 +11863,12 @@ var extrasData =
     "31bfc2a7-3ed7-467a-a46e-15464c3ab44c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 106267,
-            "positive": 103227,
-            "negative": 3040
+            "total": 106270,
+            "positive": 103232,
+            "negative": 3038
         },
         "dlc": {
+            "description": "Hotline Miami Soundtrack\n\nHotline Miami Soundtrack\n\nHotline Miami Soundtrack\n\nHotline Miami Soundtrack\n\nHotline Miami Soundtrack\n\nHotline Miami Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11646,11 +11901,12 @@ var extrasData =
     "0993071e-dafa-49fb-8351-e7fa2b0d6aa8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 66421,
-            "positive": 62537,
+            "total": 66427,
+            "positive": 62543,
             "negative": 3884
         },
         "dlc": {
+            "description": "Hotline Miami 2: Wrong Number - Soundtrack\n\nHotline Miami 2: Wrong Number - Soundtrack\n\nHotline Miami 2: Wrong Number - Soundtrack\n\nHotline Miami 2: Wrong Number - Soundtrack\n\nHotline Miami 2: Wrong Number - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11684,6 +11940,7 @@ var extrasData =
             "negative": 520
         },
         "dlc": {
+            "description": "Hotshot Racing The Official Soundtrack\n\nHotshot Racing The Official Soundtrack\n\nHotshot Racing The Official Soundtrack\n\nHotshot Racing The Official Soundtrack\n\nHotshot Racing The Official Soundtrack\n\nHotshot Racing The Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11724,11 +11981,12 @@ var extrasData =
     "450cd83d-5f5e-42b7-b5d7-4c31c681e574": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3740,
-            "positive": 3541,
+            "total": 3741,
+            "positive": 3542,
             "negative": 199
         },
         "dlc": {
+            "description": "HUNTDOWN Soundtrack\n\nHUNTDOWN Soundtrack\n\nHUNTDOWN Soundtrack\n\nHUNTDOWN Soundtrack\n\nHUNTDOWN Soundtrack\n\nHUNTDOWN Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11790,6 +12048,7 @@ var extrasData =
             "negative": 1225
         },
         "dlc": {
+            "description": "Hyper Light Drifter Original Soundtrack\n\nHyper Light Drifter Original Soundtrack\n\nHyper Light Drifter Original Soundtrack\n\nHyper Light Drifter Original Soundtrack\n\nHyper Light Drifter Original Soundtrack\n\nHyper Light Drifter Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11827,6 +12086,7 @@ var extrasData =
             "negative": 5
         },
         "dlc": {
+            "description": "HyperDot Soundtrack\n\nHyperDot Soundtrack\n\nHyperDot Soundtrack\n\nHyperDot Soundtrack\n\nHyperDot Soundtrack\n\nHyperDot Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11872,6 +12132,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "Hyperun Deluxe DLC\n\nHyperun Deluxe DLC\n\nHyperun Deluxe DLC\n\nHyperun Deluxe DLC\n\nHyperun Deluxe DLC\n\nHyperun Deluxe DLC",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11920,8 +12181,8 @@ var extrasData =
     "678ee54f-fdd8-48f9-8ad6-286e3c9715b5": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 5854,
-            "positive": 4553,
+            "total": 5853,
+            "positive": 4552,
             "negative": 1301
         }
     },
@@ -11933,6 +12194,7 @@ var extrasData =
             "negative": 807
         },
         "dlc": {
+            "description": "I Am Fish Soundtrack\n\nI Am Fish Soundtrack\n\nI Am Fish Soundtrack\n\nI Am Fish Soundtrack\n\nI Am Fish Soundtrack\n\nI Am Fish Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -11970,6 +12232,7 @@ var extrasData =
             "negative": 55
         },
         "dlc": {
+            "description": "I AM YOUR BEATS (Official OST for I Am Your Beast)\n\nI AM YOUR BEATS (Official OST for I Am Your Beast)\n\nI AM YOUR BEATS (Official OST for I Am Your Beast)\n\nI AM YOUR BEATS (Official OST for I Am Your Beast)\n\nI AM YOUR BEATS (Official OST for I Am Your Beast)\n\nI AM YOUR BEATS (Official OST for I Am Your Beast)",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12031,6 +12294,7 @@ var extrasData =
             "negative": 657
         },
         "dlc": {
+            "description": "ibb & obb - Original Soundtrack\n\nibb & obb - Original Soundtrack\n\nibb & obb - Original Soundtrack\n\nibb & obb - Original Soundtrack\n\nibb & obb - Original Soundtrack\n\nibb & obb - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12076,6 +12340,7 @@ var extrasData =
             "negative": 632
         },
         "dlc": {
+            "description": "Iconoclasts - Soundtrack\n\nIconoclasts - Soundtrack\n\nIconoclasts - Soundtrack\n\nIconoclasts - Soundtrack\n\nIconoclasts - Soundtrack\n\nIconoclasts - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12113,6 +12378,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "Idol Hell Soundtrack\n\nIdol Hell Soundtrack\n\nIdol Hell Soundtrack\n\nIdol Hell Soundtrack\n\nIdol Hell Soundtrack\n\nIdol Hell Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12158,6 +12424,7 @@ var extrasData =
             "negative": 315
         },
         "dlc": {
+            "description": "Immortal Redneck - Original Soundtrack\n\nImmortal Redneck - Digital Artbook\n\nImmortal Redneck - Original Soundtrack\n\nImmortal Redneck - Digital Artbook\n\nImmortal Redneck - Original Soundtrack\n\nImmortal Redneck - Digital Artbook\n\nImmortal Redneck - Original Soundtrack\n\nImmortal Redneck - Digital Artbook\n\nImmortal Redneck - Original Soundtrack\n\nImmortal Redneck - Digital Artbook\n\nImmortal Redneck - Original Soundtrack\n\nImmortal Redneck - Digital Artbook",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -12190,11 +12457,12 @@ var extrasData =
     "2a13022c-7098-4ecd-8459-3c93b1ab01cd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 547,
-            "positive": 506,
+            "total": 546,
+            "positive": 505,
             "negative": 41
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12243,9 +12511,9 @@ var extrasData =
     "be852ca3-ce4a-483a-8dfa-a45222a62c4e": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3252,
+            "total": 3253,
             "positive": 2313,
-            "negative": 939
+            "negative": 940
         }
     },
     "6ae87bdc-a20f-4309-838a-94d9c33133b1": {
@@ -12256,6 +12524,7 @@ var extrasData =
             "negative": 190
         },
         "dlc": {
+            "description": "Inertial Drift - Twilight Rivals DLC\n\nInertial Drift Soundtrack\n\nInertial Drift - Twilight Rivals DLC\n\nInertial Drift Soundtrack\n\nInertial Drift - Twilight Rivals DLC\n\nInertial Drift Soundtrack\n\nInertial Drift - Twilight Rivals DLC\n\nInertial Drift Soundtrack\n\nInertial Drift - Twilight Rivals DLC\n\nInertial Drift Soundtrack\n\nInertial Drift - Twilight Rivals DLC\n\nInertial Drift Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -12293,6 +12562,7 @@ var extrasData =
             "negative": 295
         },
         "dlc": {
+            "description": "INK - Soundtrack + Art\n\nINK - Soundtrack + Art\n\nINK - Soundtrack + Art\n\nINK - Soundtrack + Art\n\nINK - Soundtrack + Art\n\nINK - Soundtrack + Art",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12330,6 +12600,7 @@ var extrasData =
             "negative": 120
         },
         "dlc": {
+            "description": "Inkulinati - Supporter Pack\n\nInkulinati - Supporter Pack\n\nInkulinati - Supporter Pack\n\nInkulinati - Supporter Pack\n\nInkulinati - Supporter Pack\n\nInkulinati - Supporter Pack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -12399,6 +12670,7 @@ var extrasData =
             "negative": 179
         },
         "dlc": {
+            "description": "Insurmountable - Supporter Pack\n\nInsurmountable - Supporter Pack\n\nInsurmountable - Supporter Pack\n\nInsurmountable - Supporter Pack\n\nInsurmountable - Supporter Pack\n\nInsurmountable - Supporter Pack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12436,6 +12708,7 @@ var extrasData =
             "negative": 476
         },
         "dlc": {
+            "description": "Intravenous Soundtrack\n\nIntravenous Soundtrack\n\nIntravenous Soundtrack\n\nIntravenous Soundtrack\n\nIntravenous Soundtrack\n\nIntravenous Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12481,6 +12754,7 @@ var extrasData =
             "negative": 481
         },
         "dlc": {
+            "description": "Invisible, Inc. Contingency Plan\n\nInvisible, Inc. Soundtrack\n\nInvisible, Inc. Contingency Plan\n\nInvisible, Inc. Soundtrack\n\nInvisible, Inc. Contingency Plan\n\nInvisible, Inc. Soundtrack\n\nInvisible, Inc. Contingency Plan\n\nInvisible, Inc. Soundtrack\n\nInvisible, Inc. Contingency Plan\n\nInvisible, Inc. Soundtrack\n\nInvisible, Inc. Contingency Plan\n\nInvisible, Inc. Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -12526,6 +12800,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "iota soundtrack\n\niota soundtrack\n\niota soundtrack\n\niota soundtrack\n\niota soundtrack\n\niota soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12558,8 +12833,8 @@ var extrasData =
     "4eeaf4a6-cb29-4b4c-85a5-2db67ba1d865": {
         "reviews": {
             "description": "Very Positive",
-            "total": 16304,
-            "positive": 15425,
+            "total": 16305,
+            "positive": 15426,
             "negative": 879
         }
     },
@@ -12603,6 +12878,7 @@ var extrasData =
             "negative": 136
         },
         "dlc": {
+            "description": "Jamestown: Gunpowder, Treason, & Plot\n\nJamestown: Gunpowder, Treason, & Plot\n\nJamestown: Gunpowder, Treason, & Plot\n\nJamestown: Gunpowder, Treason, & Plot\n\nJamestown: Gunpowder, Treason, & Plot\n\nJamestown: Gunpowder, Treason, & Plot",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12640,6 +12916,7 @@ var extrasData =
             "negative": 25
         },
         "dlc": {
+            "description": "Jamestown+ OST\n\nJamestown+ OST\n\nJamestown+ OST\n\nJamestown+ OST\n\nJamestown+ OST\n\nJamestown+ OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12677,6 +12954,7 @@ var extrasData =
             "negative": 25
         },
         "dlc": {
+            "description": "JellyCar Worlds Original Soundtrack\n\nJellyCar Worlds Original Soundtrack\n\nJellyCar Worlds Original Soundtrack\n\nJellyCar Worlds Original Soundtrack\n\nJellyCar Worlds Original Soundtrack\n\nJellyCar Worlds Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12738,6 +13016,7 @@ var extrasData =
             "negative": 1905
         },
         "dlc": {
+            "description": "Jotun: Original Soundtrack\n\nJotun: Original Soundtrack\n\nJotun: Original Soundtrack\n\nJotun: Original Soundtrack\n\nJotun: Original Soundtrack\n\nJotun: Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12775,6 +13054,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "Journey of Johann - Soundtrack\n\nJourney of Johann - Soundtrack\n\nJourney of Johann - Soundtrack\n\nJourney of Johann - Soundtrack\n\nJourney of Johann - Soundtrack\n\nJourney of Johann - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12820,6 +13100,7 @@ var extrasData =
             "negative": 1222
         },
         "dlc": {
+            "description": "Jump King - Soundtrack\n\nJump King - Soundtrack\n\nJump King - Soundtrack\n\nJump King - Soundtrack\n\nJump King - Soundtrack\n\nJump King - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12873,6 +13154,7 @@ var extrasData =
             "negative": 64
         },
         "dlc": {
+            "description": "JumpJet Rex - Soundtrack\n\nJumpJet Rex - Soundtrack\n\nJumpJet Rex - Soundtrack\n\nJumpJet Rex - Soundtrack\n\nJumpJet Rex - Soundtrack\n\nJumpJet Rex - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12934,6 +13216,7 @@ var extrasData =
             "negative": 533
         },
         "dlc": {
+            "description": "Just Shapes & Beats - Monstercat Track Selection\n\nJust Shapes & Beats - Monstercat Track Selection\n\nJust Shapes & Beats - Monstercat Track Selection\n\nJust Shapes & Beats - Monstercat Track Selection\n\nJust Shapes & Beats - Monstercat Track Selection\n\nJust Shapes & Beats - Monstercat Track Selection",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -12979,6 +13262,7 @@ var extrasData =
             "negative": 53
         },
         "dlc": {
+            "description": "Kalimba - The Dark Void - Solo\n\nKalimba - The Dark Void - Coop\n\nKalimba - The Dark Void - Solo\n\nKalimba - The Dark Void - Coop\n\nKalimba - The Dark Void - Solo\n\nKalimba - The Dark Void - Coop\n\nKalimba - The Dark Void - Solo\n\nKalimba - The Dark Void - Coop\n\nKalimba - The Dark Void - Solo\n\nKalimba - The Dark Void - Coop\n\nKalimba - The Dark Void - Solo\n\nKalimba - The Dark Void - Coop",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -13016,6 +13300,7 @@ var extrasData =
             "negative": 352
         },
         "dlc": {
+            "description": "KAMITSUBAKI CITY ENSEMBLE - Extension Pack No.4  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.5  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack  feat. V.I.P with V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.6  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.7  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack \"HARDCORE TANO*C Remix\"\nKAMITSUBAKI CITY ENSEMBLE - Season Pass 2024\nKAMITSUBAKI CITY ENSEMBLE -Extension Pack No.1  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.2  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.3  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Season Pass Vol. 2\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.8  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.4  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.5  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack  feat. V.I.P with V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.6  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.7  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack \"HARDCORE TANO*C Remix\"\nKAMITSUBAKI CITY ENSEMBLE - Season Pass 2024\nKAMITSUBAKI CITY ENSEMBLE -Extension Pack No.1  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.2  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.3  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Season Pass Vol. 2\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.8  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.4  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.5  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack  feat. V.I.P with V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.6  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.7  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack \"HARDCORE TANO*C Remix\"\nKAMITSUBAKI CITY ENSEMBLE - Season Pass 2024\nKAMITSUBAKI CITY ENSEMBLE -Extension Pack No.1  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.2  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.3  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Season Pass Vol. 2\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.8  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.4  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.5  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack  feat. V.I.P with V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.6  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.7  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack \"HARDCORE TANO*C Remix\"\nKAMITSUBAKI CITY ENSEMBLE - Season Pass 2024\nKAMITSUBAKI CITY ENSEMBLE -Extension Pack No.1  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.2  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.3  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Season Pass Vol. 2\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.8  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.4  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.5  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack  feat. V.I.P with V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.6  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.7  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack \"HARDCORE TANO*C Remix\"\nKAMITSUBAKI CITY ENSEMBLE - Season Pass 2024\nKAMITSUBAKI CITY ENSEMBLE -Extension Pack No.1  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.2  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.3  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Season Pass Vol. 2\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.8  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.4  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.5  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack  feat. V.I.P with V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.6  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.7  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack \"HARDCORE TANO*C Remix\"\nKAMITSUBAKI CITY ENSEMBLE - Season Pass 2024\nKAMITSUBAKI CITY ENSEMBLE -Extension Pack No.1  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.2  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.3  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Season Pass Vol. 2\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.8  feat. V.I.P",
             "count": 12,
             "priceData": {
                 "USD": {
@@ -13053,6 +13338,7 @@ var extrasData =
             "negative": 19
         },
         "dlc": {
+            "description": "KAMUI Original Soundtrack\n\nKAMUI Original Soundtrack\n\nKAMUI Original Soundtrack\n\nKAMUI Original Soundtrack\n\nKAMUI Original Soundtrack\n\nKAMUI Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -13106,6 +13392,7 @@ var extrasData =
             "negative": 1395
         },
         "dlc": {
+            "description": "Katana ZERO Soundtrack\n\nKatana ZERO Soundtrack\n\nKatana ZERO Soundtrack\n\nKatana ZERO Soundtrack\n\nKatana ZERO Soundtrack\n\nKatana ZERO Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -13143,6 +13430,7 @@ var extrasData =
             "negative": 399
         },
         "dlc": {
+            "description": "Keep Talking and Nobody Explodes - Soundtrack\n\nKeep Talking and Nobody Explodes - Soundtrack\n\nKeep Talking and Nobody Explodes - Soundtrack\n\nKeep Talking and Nobody Explodes - Soundtrack\n\nKeep Talking and Nobody Explodes - Soundtrack\n\nKeep Talking and Nobody Explodes - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -13175,11 +13463,12 @@ var extrasData =
     "57bcb19c-1a43-4156-b66e-1d950a622006": {
         "reviews": {
             "description": "Very Positive",
-            "total": 15222,
-            "positive": 14019,
-            "negative": 1203
+            "total": 15224,
+            "positive": 14020,
+            "negative": 1204
         },
         "dlc": {
+            "description": "Kena: Bridge of Spirits Soundtrack\n\nKena: Bridge of Spirits Soundtrack\n\nKena: Bridge of Spirits Soundtrack\n\nKena: Bridge of Spirits Soundtrack\n\nKena: Bridge of Spirits Soundtrack\n\nKena: Bridge of Spirits Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -13217,6 +13506,7 @@ var extrasData =
             "negative": 88
         },
         "dlc": {
+            "description": "Kero Rhythm\n\nKero Rhythm\n\nKero Rhythm\n\nKero Rhythm\n\nKero Rhythm\n\nKero Rhythm",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -13254,6 +13544,7 @@ var extrasData =
             "negative": 174
         },
         "dlc": {
+            "description": "KeyWe - The 100th Grand Ol' Telepost Tournament\n\nKeyWe - Early Bird Pack\n\nKeyWe - The 100th Grand Ol' Telepost Tournament\n\nKeyWe - Early Bird Pack\n\nKeyWe - The 100th Grand Ol' Telepost Tournament\n\nKeyWe - Early Bird Pack\n\nKeyWe - The 100th Grand Ol' Telepost Tournament\n\nKeyWe - Early Bird Pack\n\nKeyWe - The 100th Grand Ol' Telepost Tournament\n\nKeyWe - Early Bird Pack\n\nKeyWe - The 100th Grand Ol' Telepost Tournament\n\nKeyWe - Early Bird Pack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -13299,6 +13590,7 @@ var extrasData =
             "negative": 90
         },
         "dlc": {
+            "description": "KILL KNIGHT Original Soundtrack\n\nKILL KNIGHT Original Soundtrack\n\nKILL KNIGHT Original Soundtrack\n\nKILL KNIGHT Original Soundtrack\n\nKILL KNIGHT Original Soundtrack\n\nKILL KNIGHT Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -13331,8 +13623,8 @@ var extrasData =
     "fa3112dd-e6ec-4406-8cbd-9c2bc9f1221d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2114,
-            "positive": 2005,
+            "total": 2115,
+            "positive": 2006,
             "negative": 109
         }
     },
@@ -13371,8 +13663,8 @@ var extrasData =
     "e223bcdd-30ff-424f-b4a8-267ab235f285": {
         "reviews": {
             "description": "Very Positive",
-            "total": 7573,
-            "positive": 6333,
+            "total": 7574,
+            "positive": 6334,
             "negative": 1240
         }
     },
@@ -13384,6 +13676,7 @@ var extrasData =
             "negative": 38
         },
         "dlc": {
+            "description": "Klang Soundtrack\n\nKlang Soundtrack\n\nKlang Soundtrack\n\nKlang Soundtrack\n\nKlang Soundtrack\n\nKlang Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -13445,6 +13738,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "Kombinera OST\n\nKombinera OST\n\nKombinera OST\n\nKombinera OST\n\nKombinera OST\n\nKombinera OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -13485,11 +13779,12 @@ var extrasData =
     "081c5f7d-b5c1-4f4d-9fa6-6eeafda71c20": {
         "reviews": {
             "description": "Very Positive",
-            "total": 35232,
-            "positive": 32704,
+            "total": 35234,
+            "positive": 32706,
             "negative": 2528
         },
         "dlc": {
+            "description": "KovaaK's Anime Pack\n\nKovaaK's Tracking Trainer\n\nKovaaK's Anime Pack\n\nKovaaK's Tracking Trainer\n\nKovaaK's Anime Pack\n\nKovaaK's Tracking Trainer\n\nKovaaK's Anime Pack\n\nKovaaK's Tracking Trainer\n\nKovaaK's Anime Pack\n\nKovaaK's Tracking Trainer\n\nKovaaK's Anime Pack\n\nKovaaK's Tracking Trainer",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -13527,6 +13822,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "Krimson Soundtrack\n\nKrimson Soundtrack\n\nKrimson Soundtrack\n\nKrimson Soundtrack\n\nKrimson Soundtrack\n\nKrimson Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -13564,6 +13860,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "Dream Phonograph -Kubinashi Recollection Original Soundtrack-\n\nDream Phonograph -Kubinashi Recollection Original Soundtrack-\n\nDream Phonograph -Kubinashi Recollection Original Soundtrack-\n\nDream Phonograph -Kubinashi Recollection Original Soundtrack-\n\nDream Phonograph -Kubinashi Recollection Original Soundtrack-\n\nDream Phonograph -Kubinashi Recollection Original Soundtrack-",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -13601,6 +13898,7 @@ var extrasData =
             "negative": 505
         },
         "dlc": {
+            "description": "La-Mulana Original Sound Track\n\nLa-Mulana Original Sound Track\n\nLa-Mulana Original Sound Track\n\nLa-Mulana Original Sound Track\n\nLa-Mulana Original Sound Track\n\nLa-Mulana Original Sound Track",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -13638,6 +13936,7 @@ var extrasData =
             "negative": 141
         },
         "dlc": {
+            "description": "LA-MULANA 2 Original Sound Track\n\nLa-Mulana 2 -The Tower of Oannes-\n\nLA-MULANA 2 Original Sound Track\n\nLa-Mulana 2 -The Tower of Oannes-\n\nLA-MULANA 2 Original Sound Track\n\nLa-Mulana 2 -The Tower of Oannes-\n\nLA-MULANA 2 Original Sound Track\n\nLa-Mulana 2 -The Tower of Oannes-\n\nLA-MULANA 2 Original Sound Track\n\nLa-Mulana 2 -The Tower of Oannes-\n\nLA-MULANA 2 Original Sound Track\n\nLa-Mulana 2 -The Tower of Oannes-",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -13683,6 +13982,7 @@ var extrasData =
             "negative": 86
         },
         "dlc": {
+            "description": "Last Command - Original Soundtrack\nLast Command - Digital Artbook\nLast Command - Extra Mode Pack\nLast Command - Original Soundtrack\nLast Command - Digital Artbook\nLast Command - Extra Mode Pack\nLast Command - Original Soundtrack\nLast Command - Digital Artbook\nLast Command - Extra Mode Pack\nLast Command - Original Soundtrack\nLast Command - Digital Artbook\nLast Command - Extra Mode Pack\nLast Command - Original Soundtrack\nLast Command - Digital Artbook\nLast Command - Extra Mode Pack\nLast Command - Original Soundtrack\nLast Command - Digital Artbook\nLast Command - Extra Mode Pack",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -13720,6 +14020,7 @@ var extrasData =
             "negative": 780
         },
         "dlc": {
+            "description": "Lawn Mowing Simulator - Dino Safari\n\nLawn Mowing Simulator - Ancient Britain\n\nLawn Mowing Simulator - Dino Safari\n\nLawn Mowing Simulator - Ancient Britain\n\nLawn Mowing Simulator - Dino Safari\n\nLawn Mowing Simulator - Ancient Britain\n\nLawn Mowing Simulator - Dino Safari\n\nLawn Mowing Simulator - Ancient Britain\n\nLawn Mowing Simulator - Dino Safari\n\nLawn Mowing Simulator - Ancient Britain\n\nLawn Mowing Simulator - Dino Safari\n\nLawn Mowing Simulator - Ancient Britain",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -13765,6 +14066,7 @@ var extrasData =
             "negative": 30
         },
         "dlc": {
+            "description": "Lenna's Inception Soundtrack\n\nLenna's Inception Soundtrack\n\nLenna's Inception Soundtrack\n\nLenna's Inception Soundtrack\n\nLenna's Inception Soundtrack\n\nLenna's Inception Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -13818,6 +14120,7 @@ var extrasData =
             "negative": 200
         },
         "dlc": {
+            "description": "Lethal League Blaze - Galileo the Funky Saxman outfit for Candyman\nLethal League Blaze - Late Stage Illmatic outfit for Dice\nLethal League Blaze - Soundtrack\nLethal League Blaze - Master of the Mountain outfit for Dust & Ashes\nLethal League Blaze - Firefighter Max Pressure outfit for Jet\nLethal League Blaze - Heavyduty R. Evolution outfit for Raptor\nLethal League Blaze - Nuclear Nourishment outfit for Toxic\nLethal League Blaze - Stereo Overdrive Arachnida outfit for Sonata\nLethal League Blaze - Gigahertz Visualizer X outfit for Doombox\nLethal League Blaze - Shining-Gold Super Winner outfit for Nitro\nLethal League Blaze - Insectoid Loneriding Mechranger outfit for Switch\nLethal League Blaze - Neopolis Devastator outfit for Grid\nLethal League Blaze - Ivory Puppet: Killer outfit for Latch\nLethal League Blaze - Galileo the Funky Saxman outfit for Candyman\nLethal League Blaze - Late Stage Illmatic outfit for Dice\nLethal League Blaze - Soundtrack\nLethal League Blaze - Master of the Mountain outfit for Dust & Ashes\nLethal League Blaze - Firefighter Max Pressure outfit for Jet\nLethal League Blaze - Heavyduty R. Evolution outfit for Raptor\nLethal League Blaze - Nuclear Nourishment outfit for Toxic\nLethal League Blaze - Stereo Overdrive Arachnida outfit for Sonata\nLethal League Blaze - Gigahertz Visualizer X outfit for Doombox\nLethal League Blaze - Shining-Gold Super Winner outfit for Nitro\nLethal League Blaze - Insectoid Loneriding Mechranger outfit for Switch\nLethal League Blaze - Neopolis Devastator outfit for Grid\nLethal League Blaze - Ivory Puppet: Killer outfit for Latch\nLethal League Blaze - Galileo the Funky Saxman outfit for Candyman\nLethal League Blaze - Late Stage Illmatic outfit for Dice\nLethal League Blaze - Soundtrack\nLethal League Blaze - Master of the Mountain outfit for Dust & Ashes\nLethal League Blaze - Firefighter Max Pressure outfit for Jet\nLethal League Blaze - Heavyduty R. Evolution outfit for Raptor\nLethal League Blaze - Nuclear Nourishment outfit for Toxic\nLethal League Blaze - Stereo Overdrive Arachnida outfit for Sonata\nLethal League Blaze - Gigahertz Visualizer X outfit for Doombox\nLethal League Blaze - Shining-Gold Super Winner outfit for Nitro\nLethal League Blaze - Insectoid Loneriding Mechranger outfit for Switch\nLethal League Blaze - Neopolis Devastator outfit for Grid\nLethal League Blaze - Ivory Puppet: Killer outfit for Latch\nLethal League Blaze - Galileo the Funky Saxman outfit for Candyman\nLethal League Blaze - Late Stage Illmatic outfit for Dice\nLethal League Blaze - Soundtrack\nLethal League Blaze - Master of the Mountain outfit for Dust & Ashes\nLethal League Blaze - Firefighter Max Pressure outfit for Jet\nLethal League Blaze - Heavyduty R. Evolution outfit for Raptor\nLethal League Blaze - Nuclear Nourishment outfit for Toxic\nLethal League Blaze - Stereo Overdrive Arachnida outfit for Sonata\nLethal League Blaze - Gigahertz Visualizer X outfit for Doombox\nLethal League Blaze - Shining-Gold Super Winner outfit for Nitro\nLethal League Blaze - Insectoid Loneriding Mechranger outfit for Switch\nLethal League Blaze - Neopolis Devastator outfit for Grid\nLethal League Blaze - Ivory Puppet: Killer outfit for Latch\nLethal League Blaze - Galileo the Funky Saxman outfit for Candyman\nLethal League Blaze - Late Stage Illmatic outfit for Dice\nLethal League Blaze - Soundtrack\nLethal League Blaze - Master of the Mountain outfit for Dust & Ashes\nLethal League Blaze - Firefighter Max Pressure outfit for Jet\nLethal League Blaze - Heavyduty R. Evolution outfit for Raptor\nLethal League Blaze - Nuclear Nourishment outfit for Toxic\nLethal League Blaze - Stereo Overdrive Arachnida outfit for Sonata\nLethal League Blaze - Gigahertz Visualizer X outfit for Doombox\nLethal League Blaze - Shining-Gold Super Winner outfit for Nitro\nLethal League Blaze - Insectoid Loneriding Mechranger outfit for Switch\nLethal League Blaze - Neopolis Devastator outfit for Grid\nLethal League Blaze - Ivory Puppet: Killer outfit for Latch\nLethal League Blaze - Galileo the Funky Saxman outfit for Candyman\nLethal League Blaze - Late Stage Illmatic outfit for Dice\nLethal League Blaze - Soundtrack\nLethal League Blaze - Master of the Mountain outfit for Dust & Ashes\nLethal League Blaze - Firefighter Max Pressure outfit for Jet\nLethal League Blaze - Heavyduty R. Evolution outfit for Raptor\nLethal League Blaze - Nuclear Nourishment outfit for Toxic\nLethal League Blaze - Stereo Overdrive Arachnida outfit for Sonata\nLethal League Blaze - Gigahertz Visualizer X outfit for Doombox\nLethal League Blaze - Shining-Gold Super Winner outfit for Nitro\nLethal League Blaze - Insectoid Loneriding Mechranger outfit for Switch\nLethal League Blaze - Neopolis Devastator outfit for Grid\nLethal League Blaze - Ivory Puppet: Killer outfit for Latch",
             "count": 13,
             "priceData": {
                 "USD": {
@@ -13855,6 +14158,7 @@ var extrasData =
             "negative": 61
         },
         "dlc": {
+            "description": "Levelhead Original Soundtrack\n\nLevelhead Original Soundtrack\n\nLevelhead Original Soundtrack\n\nLevelhead Original Soundtrack\n\nLevelhead Original Soundtrack\n\nLevelhead Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -13900,6 +14204,7 @@ var extrasData =
             "negative": 12
         },
         "dlc": {
+            "description": "Lichtspeer Soundtrack\n\nLichtspeer Soundtrack\n\nLichtspeer Soundtrack\n\nLichtspeer Soundtrack\n\nLichtspeer Soundtrack\n\nLichtspeer Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -13932,11 +14237,12 @@ var extrasData =
     "a2f42487-5b7f-4427-bbb3-cd7a047d6031": {
         "reviews": {
             "description": "Very Positive",
-            "total": 52368,
-            "positive": 48227,
+            "total": 52370,
+            "positive": 48229,
             "negative": 4141
         },
         "dlc": {
+            "description": "Lies of P : Deluxe Upgrade\n\nLies of P : Soundtrack\n\nLies of P : Deluxe Upgrade\n\nLies of P : Soundtrack\n\nLies of P : Deluxe Upgrade\n\nLies of P : Soundtrack\n\nLies of P : Deluxe Upgrade\n\nLies of P : Soundtrack\n\nLies of P : Deluxe Upgrade\n\nLies of P : Soundtrack\n\nLies of P : Deluxe Upgrade\n\nLies of P : Soundtrack",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -13998,6 +14304,7 @@ var extrasData =
             "negative": 27
         },
         "dlc": {
+            "description": "Lifeslide Soundtrack\n\nLifeslide Soundtrack\n\nLifeslide Soundtrack\n\nLifeslide Soundtrack\n\nLifeslide Soundtrack\n\nLifeslide Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -14035,6 +14342,7 @@ var extrasData =
             "negative": 18
         },
         "dlc": {
+            "description": "Light Fall - Soundtrack\n\nLight Fall - Soundtrack\n\nLight Fall - Soundtrack\n\nLight Fall - Soundtrack\n\nLight Fall - Soundtrack\n\nLight Fall - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -14075,8 +14383,8 @@ var extrasData =
     "0c503c16-eadc-44a9-97a2-10ce32aab0ff": {
         "reviews": {
             "description": "Very Positive",
-            "total": 57204,
-            "positive": 52973,
+            "total": 57207,
+            "positive": 52976,
             "negative": 4231
         }
     },
@@ -14104,6 +14412,7 @@ var extrasData =
             "negative": 5718
         },
         "dlc": {
+            "description": "Little Nightmares - Secrets of The Maw Expansion Pass\nLittle Nightmares The Depths DLC\nLittle Nightmares The Hideaway DLC\nLittle Nightmares The Residence DLC\nLittle Nightmares - Scarecrow Sack\nLittle Nightmares - Upside-down Teapot\nLittle Nightmares - Tengu Mask\nLittle Nightmares - Fox Mask\nLittle Nightmares \u2013 Original Soundtrack\nLittle Nightmares - Secrets of The Maw Expansion Pass\nLittle Nightmares The Depths DLC\nLittle Nightmares The Hideaway DLC\nLittle Nightmares The Residence DLC\nLittle Nightmares - Scarecrow Sack\nLittle Nightmares - Upside-down Teapot\nLittle Nightmares - Tengu Mask\nLittle Nightmares - Fox Mask\nLittle Nightmares \u2013 Original Soundtrack\nLittle Nightmares - Secrets of The Maw Expansion Pass\nLittle Nightmares The Depths DLC\nLittle Nightmares The Hideaway DLC\nLittle Nightmares The Residence DLC\nLittle Nightmares - Scarecrow Sack\nLittle Nightmares - Upside-down Teapot\nLittle Nightmares - Tengu Mask\nLittle Nightmares - Fox Mask\nLittle Nightmares \u2013 Original Soundtrack\nLittle Nightmares - Secrets of The Maw Expansion Pass\nLittle Nightmares The Depths DLC\nLittle Nightmares The Hideaway DLC\nLittle Nightmares The Residence DLC\nLittle Nightmares - Scarecrow Sack\nLittle Nightmares - Upside-down Teapot\nLittle Nightmares - Tengu Mask\nLittle Nightmares - Fox Mask\nLittle Nightmares \u2013 Original Soundtrack\nLittle Nightmares - Secrets of The Maw Expansion Pass\nLittle Nightmares The Depths DLC\nLittle Nightmares The Hideaway DLC\nLittle Nightmares The Residence DLC\nLittle Nightmares - Scarecrow Sack\nLittle Nightmares - Upside-down Teapot\nLittle Nightmares - Tengu Mask\nLittle Nightmares - Fox Mask\nLittle Nightmares \u2013 Original Soundtrack\nLittle Nightmares - Secrets of The Maw Expansion Pass\nLittle Nightmares The Depths DLC\nLittle Nightmares The Hideaway DLC\nLittle Nightmares The Residence DLC\nLittle Nightmares - Scarecrow Sack\nLittle Nightmares - Upside-down Teapot\nLittle Nightmares - Tengu Mask\nLittle Nightmares - Fox Mask\nLittle Nightmares \u2013 Original Soundtrack",
             "count": 9,
             "priceData": {
                 "USD": {
@@ -14141,6 +14450,7 @@ var extrasData =
             "negative": 142
         },
         "dlc": {
+            "description": "Little Noah: Scion of Paradise DLC 1: Avatar, Lilliput, and Accessory Pack\n\n\u30ea\u30c8\u30eb \u30ce\u30a2\u3000\u697d\u5712\u306e\u5f8c\u7d99\u8005\u3000DLC\u7b2c2\u5f3e \u30a2\u30cb\u30de\u30fb\u30a2\u30b9\u30c8\u30e9\u30eb\u30fb\u30a2\u30af\u30bb\u30b5\u30ea\u30d1\u30c3\u30af\n\nLittle Noah: Scion of Paradise DLC 1: Avatar, Lilliput, and Accessory Pack\n\n\u30ea\u30c8\u30eb \u30ce\u30a2\u3000\u697d\u5712\u306e\u5f8c\u7d99\u8005\u3000DLC\u7b2c2\u5f3e \u30a2\u30cb\u30de\u30fb\u30a2\u30b9\u30c8\u30e9\u30eb\u30fb\u30a2\u30af\u30bb\u30b5\u30ea\u30d1\u30c3\u30af\n\nLittle Noah: Scion of Paradise DLC 1: Avatar, Lilliput, and Accessory Pack\n\n\u30ea\u30c8\u30eb \u30ce\u30a2\u3000\u697d\u5712\u306e\u5f8c\u7d99\u8005\u3000DLC\u7b2c2\u5f3e \u30a2\u30cb\u30de\u30fb\u30a2\u30b9\u30c8\u30e9\u30eb\u30fb\u30a2\u30af\u30bb\u30b5\u30ea\u30d1\u30c3\u30af\n\nLittle Noah: Scion of Paradise DLC 1: Avatar, Lilliput, and Accessory Pack\n\n\u30ea\u30c8\u30eb \u30ce\u30a2\u3000\u697d\u5712\u306e\u5f8c\u7d99\u8005\u3000DLC\u7b2c2\u5f3e \u30a2\u30cb\u30de\u30fb\u30a2\u30b9\u30c8\u30e9\u30eb\u30fb\u30a2\u30af\u30bb\u30b5\u30ea\u30d1\u30c3\u30af\n\nLittle Noah: Scion of Paradise DLC 1: Avatar, Lilliput, and Accessory Pack\n\n\u30ea\u30c8\u30eb \u30ce\u30a2\u3000\u697d\u5712\u306e\u5f8c\u7d99\u8005\u3000DLC\u7b2c2\u5f3e \u30a2\u30cb\u30de\u30fb\u30a2\u30b9\u30c8\u30e9\u30eb\u30fb\u30a2\u30af\u30bb\u30b5\u30ea\u30d1\u30c3\u30af\n\nLittle Noah: Scion of Paradise DLC 1: Avatar, Lilliput, and Accessory Pack\n\n\u30ea\u30c8\u30eb \u30ce\u30a2\u3000\u697d\u5712\u306e\u5f8c\u7d99\u8005\u3000DLC\u7b2c2\u5f3e \u30a2\u30cb\u30de\u30fb\u30a2\u30b9\u30c8\u30e9\u30eb\u30fb\u30a2\u30af\u30bb\u30b5\u30ea\u30d1\u30c3\u30af",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -14178,6 +14488,7 @@ var extrasData =
             "negative": 1538
         },
         "dlc": {
+            "description": "Little Witch Nobeta Collector's Edition (Digital)\nLittle Witch Nobeta Original Soundtrack\nLittle Witch Nobeta - Bunny & Bear Muppet Skin Bundle\nLittle Witch Nobeta - Midnight Kitty, Chinese Dress & Nurse Skin Bundle\nLittle Witch Nobeta - Dragon Princess, Knitted Uniform & Land Mine Girl Skin Bundle\nLittle Witch Nobeta Collector's Edition (Digital)\nLittle Witch Nobeta Original Soundtrack\nLittle Witch Nobeta - Bunny & Bear Muppet Skin Bundle\nLittle Witch Nobeta - Midnight Kitty, Chinese Dress & Nurse Skin Bundle\nLittle Witch Nobeta - Dragon Princess, Knitted Uniform & Land Mine Girl Skin Bundle\nLittle Witch Nobeta Collector's Edition (Digital)\nLittle Witch Nobeta Original Soundtrack\nLittle Witch Nobeta - Bunny & Bear Muppet Skin Bundle\nLittle Witch Nobeta - Midnight Kitty, Chinese Dress & Nurse Skin Bundle\nLittle Witch Nobeta - Dragon Princess, Knitted Uniform & Land Mine Girl Skin Bundle\nLittle Witch Nobeta Collector's Edition (Digital)\nLittle Witch Nobeta Original Soundtrack\nLittle Witch Nobeta - Bunny & Bear Muppet Skin Bundle\nLittle Witch Nobeta - Midnight Kitty, Chinese Dress & Nurse Skin Bundle\nLittle Witch Nobeta - Dragon Princess, Knitted Uniform & Land Mine Girl Skin Bundle\nLittle Witch Nobeta Collector's Edition (Digital)\nLittle Witch Nobeta Original Soundtrack\nLittle Witch Nobeta - Bunny & Bear Muppet Skin Bundle\nLittle Witch Nobeta - Midnight Kitty, Chinese Dress & Nurse Skin Bundle\nLittle Witch Nobeta - Dragon Princess, Knitted Uniform & Land Mine Girl Skin Bundle\nLittle Witch Nobeta Collector's Edition (Digital)\nLittle Witch Nobeta Original Soundtrack\nLittle Witch Nobeta - Bunny & Bear Muppet Skin Bundle\nLittle Witch Nobeta - Midnight Kitty, Chinese Dress & Nurse Skin Bundle\nLittle Witch Nobeta - Dragon Princess, Knitted Uniform & Land Mine Girl Skin Bundle",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -14223,6 +14534,7 @@ var extrasData =
             "negative": 247
         },
         "dlc": {
+            "description": "Lonely Mountains: Downhill - Eldfjall Island\n\nLonely Mountains: Downhill - Soundtrack\n\nLonely Mountains: Downhill - Eldfjall Island\n\nLonely Mountains: Downhill - Soundtrack\n\nLonely Mountains: Downhill - Eldfjall Island\n\nLonely Mountains: Downhill - Soundtrack\n\nLonely Mountains: Downhill - Eldfjall Island\n\nLonely Mountains: Downhill - Soundtrack\n\nLonely Mountains: Downhill - Eldfjall Island\n\nLonely Mountains: Downhill - Soundtrack\n\nLonely Mountains: Downhill - Eldfjall Island\n\nLonely Mountains: Downhill - Soundtrack",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -14255,11 +14567,12 @@ var extrasData =
     "bb08f5c7-ac2c-4ba5-a101-14299a5826b5": {
         "reviews": {
             "description": "Mixed",
-            "total": 41973,
-            "positive": 27843,
-            "negative": 14130
+            "total": 41980,
+            "positive": 27848,
+            "negative": 14132
         },
         "dlc": {
+            "description": "Lords of the Fallen - Legendary Pack\n\nLords of the Fallen - Dark Crusader Starting Class\n\nLords of the Fallen - Legendary Pack\n\nLords of the Fallen - Dark Crusader Starting Class\n\nLords of the Fallen - Legendary Pack\n\nLords of the Fallen - Dark Crusader Starting Class\n\nLords of the Fallen - Legendary Pack\n\nLords of the Fallen - Dark Crusader Starting Class\n\nLords of the Fallen - Legendary Pack\n\nLords of the Fallen - Dark Crusader Starting Class\n\nLords of the Fallen - Legendary Pack\n\nLords of the Fallen - Dark Crusader Starting Class",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -14297,6 +14610,7 @@ var extrasData =
             "negative": 119
         },
         "dlc": {
+            "description": "Lorelei and the Laser Eyes - Original Soundtrack\n\nLorelei and the Laser Eyes - Original Soundtrack\n\nLorelei and the Laser Eyes - Original Soundtrack\n\nLorelei and the Laser Eyes - Original Soundtrack\n\nLorelei and the Laser Eyes - Original Soundtrack\n\nLorelei and the Laser Eyes - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -14390,6 +14704,7 @@ var extrasData =
             "negative": 11
         },
         "dlc": {
+            "description": "LOUD: My Trip to Japan DLC\n\nLOUD: My Trip to Japan DLC\n\nLOUD: My Trip to Japan DLC\n\nLOUD: My Trip to Japan DLC\n\nLOUD: My Trip to Japan DLC\n\nLOUD: My Trip to Japan DLC",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -14427,6 +14742,7 @@ var extrasData =
             "negative": 110
         },
         "dlc": {
+            "description": "LOVE Soundtrack\n\nLOVE: Moondogs and Other Toy Animals\n\nLOVE Soundtrack\n\nLOVE: Moondogs and Other Toy Animals\n\nLOVE Soundtrack\n\nLOVE: Moondogs and Other Toy Animals\n\nLOVE Soundtrack\n\nLOVE: Moondogs and Other Toy Animals\n\nLOVE Soundtrack\n\nLOVE: Moondogs and Other Toy Animals\n\nLOVE Soundtrack\n\nLOVE: Moondogs and Other Toy Animals",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -14464,6 +14780,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "kuso - Soundtrack Vol 1 + Collector's Content\nLOVE 2: kuso - Soundtrack Vol 2\nLOVE 2: kuso - Hat\nkuso - Soundtrack Vol 1 + Collector's Content\nLOVE 2: kuso - Soundtrack Vol 2\nLOVE 2: kuso - Hat\nkuso - Soundtrack Vol 1 + Collector's Content\nLOVE 2: kuso - Soundtrack Vol 2\nLOVE 2: kuso - Hat\nkuso - Soundtrack Vol 1 + Collector's Content\nLOVE 2: kuso - Soundtrack Vol 2\nLOVE 2: kuso - Hat\nkuso - Soundtrack Vol 1 + Collector's Content\nLOVE 2: kuso - Soundtrack Vol 2\nLOVE 2: kuso - Hat\nkuso - Soundtrack Vol 1 + Collector's Content\nLOVE 2: kuso - Soundtrack Vol 2\nLOVE 2: kuso - Hat",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -14501,6 +14818,7 @@ var extrasData =
             "negative": 3
         },
         "dlc": {
+            "description": "LOVE 3 Soundtrack\n\nLOVE 3 Soundtrack\n\nLOVE 3 Soundtrack\n\nLOVE 3 Soundtrack\n\nLOVE 3 Soundtrack\n\nLOVE 3 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -14538,6 +14856,7 @@ var extrasData =
             "negative": 253
         },
         "dlc": {
+            "description": "Lovely Planet OST\n\nLovely Planet OST\n\nLovely Planet OST\n\nLovely Planet OST\n\nLovely Planet OST\n\nLovely Planet OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -14607,6 +14926,7 @@ var extrasData =
             "negative": 36
         },
         "dlc": {
+            "description": "LUMINES REMASTERED Digital Deluxe DLC Bundle\n\nLUMINES REMASTERED Digital Deluxe DLC Bundle\n\nLUMINES REMASTERED Digital Deluxe DLC Bundle\n\nLUMINES REMASTERED Digital Deluxe DLC Bundle\n\nLUMINES REMASTERED Digital Deluxe DLC Bundle\n\nLUMINES REMASTERED Digital Deluxe DLC Bundle",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -14644,6 +14964,7 @@ var extrasData =
             "negative": 125
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -14676,8 +14997,8 @@ var extrasData =
     "fc978e2a-14ab-4687-939f-8222899613d3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12695,
-            "positive": 10868,
+            "total": 12696,
+            "positive": 10869,
             "negative": 1827
         }
     },
@@ -14705,6 +15026,7 @@ var extrasData =
             "negative": 61
         },
         "dlc": {
+            "description": "MagiCat Original Soundtrack\n\nMagiCat Original Soundtrack\n\nMagiCat Original Soundtrack\n\nMagiCat Original Soundtrack\n\nMagiCat Original Soundtrack\n\nMagiCat Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -14742,6 +15064,7 @@ var extrasData =
             "negative": 58
         },
         "dlc": {
+            "description": "Magicmaker - Soundtrack\n\nMagicmaker - Soundtrack\n\nMagicmaker - Soundtrack\n\nMagicmaker - Soundtrack\n\nMagicmaker - Soundtrack\n\nMagicmaker - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -14787,6 +15110,7 @@ var extrasData =
             "negative": 27
         },
         "dlc": {
+            "description": "Maiden and Spell Soundtrack\n\nMaiden and Spell Soundtrack\n\nMaiden and Spell Soundtrack\n\nMaiden and Spell Soundtrack\n\nMaiden and Spell Soundtrack\n\nMaiden and Spell Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -14824,6 +15148,7 @@ var extrasData =
             "negative": 19
         },
         "dlc": {
+            "description": "",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -14869,6 +15194,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -14914,6 +15240,7 @@ var extrasData =
             "negative": 80
         },
         "dlc": {
+            "description": "Master Spy OST\n\nMaster Spy OST\n\nMaster Spy OST\n\nMaster Spy OST\n\nMaster Spy OST\n\nMaster Spy OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -14947,8 +15274,8 @@ var extrasData =
         "reviews": {
             "description": "Very Positive",
             "total": 57022,
-            "positive": 49368,
-            "negative": 7654
+            "positive": 49367,
+            "negative": 7655
         }
     },
     "e28f6d20-4d96-4e90-8b18-5bb49d369370": {
@@ -14959,6 +15286,7 @@ var extrasData =
             "negative": 479
         },
         "dlc": {
+            "description": "Mega Man 11 Original Soundtrack\n\nMega Man 11 Original Soundtrack\n\nMega Man 11 Original Soundtrack\n\nMega Man 11 Original Soundtrack\n\nMega Man 11 Original Soundtrack\n\nMega Man 11 Original Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -14996,6 +15324,7 @@ var extrasData =
             "negative": 677
         },
         "dlc": {
+            "description": "Mega Man Sound Collection\nMega Man 2 Sound Collection\nMega Man 3 Sound Collection\nMega Man 4 Sound Collection\nMega Man 5 Sound Collection\nMega Man 6 Sound Collection\nMega Man Sound Collection\nMega Man 2 Sound Collection\nMega Man 3 Sound Collection\nMega Man 4 Sound Collection\nMega Man 5 Sound Collection\nMega Man 6 Sound Collection\nMega Man Sound Collection\nMega Man 2 Sound Collection\nMega Man 3 Sound Collection\nMega Man 4 Sound Collection\nMega Man 5 Sound Collection\nMega Man 6 Sound Collection\nMega Man Sound Collection\nMega Man 2 Sound Collection\nMega Man 3 Sound Collection\nMega Man 4 Sound Collection\nMega Man 5 Sound Collection\nMega Man 6 Sound Collection\nMega Man Sound Collection\nMega Man 2 Sound Collection\nMega Man 3 Sound Collection\nMega Man 4 Sound Collection\nMega Man 5 Sound Collection\nMega Man 6 Sound Collection\nMega Man Sound Collection\nMega Man 2 Sound Collection\nMega Man 3 Sound Collection\nMega Man 4 Sound Collection\nMega Man 5 Sound Collection\nMega Man 6 Sound Collection",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -15033,6 +15362,7 @@ var extrasData =
             "negative": 241
         },
         "dlc": {
+            "description": "Mega Man 7 Sound Collection\nMega Man 8 Sound Collection\nMega Man 9 Sound Collection\nMega Man 10 Sound Collection\nMega Man 7 Sound Collection\nMega Man 8 Sound Collection\nMega Man 9 Sound Collection\nMega Man 10 Sound Collection\nMega Man 7 Sound Collection\nMega Man 8 Sound Collection\nMega Man 9 Sound Collection\nMega Man 10 Sound Collection\nMega Man 7 Sound Collection\nMega Man 8 Sound Collection\nMega Man 9 Sound Collection\nMega Man 10 Sound Collection\nMega Man 7 Sound Collection\nMega Man 8 Sound Collection\nMega Man 9 Sound Collection\nMega Man 10 Sound Collection\nMega Man 7 Sound Collection\nMega Man 8 Sound Collection\nMega Man 9 Sound Collection\nMega Man 10 Sound Collection",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -15070,6 +15400,7 @@ var extrasData =
             "negative": 588
         },
         "dlc": {
+            "description": "Mega Man ZX Advent Original Soundtrack\nMega Man ZX Original Soundtrack\nMega Man Zero 4 Original Soundtrack\nMega Man Zero 3 Original Soundtrack\nMega Man Zero 2 Original Soundtrack\nMega Man Zero Original Soundtrack\nMega Man ZX Advent Original Soundtrack\nMega Man ZX Original Soundtrack\nMega Man Zero 4 Original Soundtrack\nMega Man Zero 3 Original Soundtrack\nMega Man Zero 2 Original Soundtrack\nMega Man Zero Original Soundtrack\nMega Man ZX Advent Original Soundtrack\nMega Man ZX Original Soundtrack\nMega Man Zero 4 Original Soundtrack\nMega Man Zero 3 Original Soundtrack\nMega Man Zero 2 Original Soundtrack\nMega Man Zero Original Soundtrack\nMega Man ZX Advent Original Soundtrack\nMega Man ZX Original Soundtrack\nMega Man Zero 4 Original Soundtrack\nMega Man Zero 3 Original Soundtrack\nMega Man Zero 2 Original Soundtrack\nMega Man Zero Original Soundtrack\nMega Man ZX Advent Original Soundtrack\nMega Man ZX Original Soundtrack\nMega Man Zero 4 Original Soundtrack\nMega Man Zero 3 Original Soundtrack\nMega Man Zero 2 Original Soundtrack\nMega Man Zero Original Soundtrack\nMega Man ZX Advent Original Soundtrack\nMega Man ZX Original Soundtrack\nMega Man Zero 4 Original Soundtrack\nMega Man Zero 3 Original Soundtrack\nMega Man Zero 2 Original Soundtrack\nMega Man Zero Original Soundtrack",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -15126,8 +15457,8 @@ var extrasData =
     "a69e3192-3ee0-45b2-8c90-86e724f63837": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2428,
-            "positive": 2092,
+            "total": 2427,
+            "positive": 2091,
             "negative": 336
         }
     },
@@ -15139,6 +15470,7 @@ var extrasData =
             "negative": 474
         },
         "dlc": {
+            "description": "METAL SLUG Soundtrack\n\nMETAL SLUG Soundtrack\n\nMETAL SLUG Soundtrack\n\nMETAL SLUG Soundtrack\n\nMETAL SLUG Soundtrack\n\nMETAL SLUG Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -15176,6 +15508,7 @@ var extrasData =
             "negative": 419
         },
         "dlc": {
+            "description": "METAL SLUG X Soundtrack\n\nMETAL SLUG X Soundtrack\n\nMETAL SLUG X Soundtrack\n\nMETAL SLUG X Soundtrack\n\nMETAL SLUG X Soundtrack\n\nMETAL SLUG X Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -15213,6 +15546,7 @@ var extrasData =
             "negative": 625
         },
         "dlc": {
+            "description": "Metal: Hellsinger - Dream of the Beast\nMetal: Hellsinger - Purgatory\nMetal: Hellsinger - Essential Hits Pack\nMetal: Hellsinger - Dream of the Beast\nMetal: Hellsinger - Purgatory\nMetal: Hellsinger - Essential Hits Pack\nMetal: Hellsinger - Dream of the Beast\nMetal: Hellsinger - Purgatory\nMetal: Hellsinger - Essential Hits Pack\nMetal: Hellsinger - Dream of the Beast\nMetal: Hellsinger - Purgatory\nMetal: Hellsinger - Essential Hits Pack\nMetal: Hellsinger - Dream of the Beast\nMetal: Hellsinger - Purgatory\nMetal: Hellsinger - Essential Hits Pack\nMetal: Hellsinger - Dream of the Beast\nMetal: Hellsinger - Purgatory\nMetal: Hellsinger - Essential Hits Pack",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -15250,6 +15584,7 @@ var extrasData =
             "negative": 80
         },
         "dlc": {
+            "description": "Krumit's Tale Soundtrack\n\nKrumit's Tale: Varfa the Ranger\n\nKrumit's Tale Soundtrack\n\nKrumit's Tale: Varfa the Ranger\n\nKrumit's Tale Soundtrack\n\nKrumit's Tale: Varfa the Ranger\n\nKrumit's Tale Soundtrack\n\nKrumit's Tale: Varfa the Ranger\n\nKrumit's Tale Soundtrack\n\nKrumit's Tale: Varfa the Ranger\n\nKrumit's Tale Soundtrack\n\nKrumit's Tale: Varfa the Ranger",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -15295,6 +15630,7 @@ var extrasData =
             "negative": 5
         },
         "dlc": {
+            "description": "Mibibli's Quest - Official Soundtrack\n\nMibibli's Quest - Official Soundtrack\n\nMibibli's Quest - Official Soundtrack\n\nMibibli's Quest - Official Soundtrack\n\nMibibli's Quest - Official Soundtrack\n\nMibibli's Quest - Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -15327,11 +15663,12 @@ var extrasData =
     "78309f28-e4f1-4bec-b3ed-cfa63122ee29": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2311,
-            "positive": 2061,
+            "total": 2312,
+            "positive": 2062,
             "negative": 250
         },
         "dlc": {
+            "description": "Midnight Fight Express Soundtrack\n\nMidnight Fight Express Soundtrack\n\nMidnight Fight Express Soundtrack\n\nMidnight Fight Express Soundtrack\n\nMidnight Fight Express Soundtrack\n\nMidnight Fight Express Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -15369,6 +15706,7 @@ var extrasData =
             "negative": 1660
         },
         "dlc": {
+            "description": "Mighty No. 9 - Retro Hero\n\nMighty No. 9 - Ray Expansion\n\nMighty No. 9 - Retro Hero\n\nMighty No. 9 - Ray Expansion\n\nMighty No. 9 - Retro Hero\n\nMighty No. 9 - Ray Expansion\n\nMighty No. 9 - Retro Hero\n\nMighty No. 9 - Ray Expansion\n\nMighty No. 9 - Retro Hero\n\nMighty No. 9 - Ray Expansion\n\nMighty No. 9 - Retro Hero\n\nMighty No. 9 - Ray Expansion",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -15417,8 +15755,8 @@ var extrasData =
     "dcd63490-9800-4ec4-a4ef-dd570240f7c3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 445,
-            "positive": 438,
+            "total": 446,
+            "positive": 439,
             "negative": 7
         }
     },
@@ -15430,6 +15768,7 @@ var extrasData =
             "negative": 71
         },
         "dlc": {
+            "description": "MindSeize - Official Soundtrack\n\nMindSeize - Digital Artbook\n\nMindSeize - Official Soundtrack\n\nMindSeize - Digital Artbook\n\nMindSeize - Official Soundtrack\n\nMindSeize - Digital Artbook\n\nMindSeize - Official Soundtrack\n\nMindSeize - Digital Artbook\n\nMindSeize - Official Soundtrack\n\nMindSeize - Digital Artbook\n\nMindSeize - Official Soundtrack\n\nMindSeize - Digital Artbook",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -15486,8 +15825,8 @@ var extrasData =
     "aea1d4db-a91c-440a-9cf5-7415fa36f280": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 15657,
-            "positive": 15050,
+            "total": 15658,
+            "positive": 15051,
             "negative": 607
         }
     },
@@ -15539,6 +15878,7 @@ var extrasData =
             "negative": 403
         },
         "dlc": {
+            "description": "MO:Astray Original Soundtrack\n\nMO:Astray Original Soundtrack\n\nMO:Astray Original Soundtrack\n\nMO:Astray Original Soundtrack\n\nMO:Astray Original Soundtrack\n\nMO:Astray Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -15584,6 +15924,7 @@ var extrasData =
             "negative": 212
         },
         "dlc": {
+            "description": "Momodora: Moonlit Farewell Official Soundtrack\n\nMomodora: Moonlit Farewell Official Soundtrack\n\nMomodora: Moonlit Farewell Official Soundtrack\n\nMomodora: Moonlit Farewell Official Soundtrack\n\nMomodora: Moonlit Farewell Official Soundtrack\n\nMomodora: Moonlit Farewell Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -15621,6 +15962,7 @@ var extrasData =
             "negative": 742
         },
         "dlc": {
+            "description": "Momodora: Reverie Under the Moonlight OST\n\nMomodora: Reverie Under the Moonlight OST\n\nMomodora: Reverie Under the Moonlight OST\n\nMomodora: Reverie Under the Moonlight OST\n\nMomodora: Reverie Under the Moonlight OST\n\nMomodora: Reverie Under the Moonlight OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -15658,6 +16000,7 @@ var extrasData =
             "negative": 872
         },
         "dlc": {
+            "description": "Monster Train: The Last Divinity DLC\n\nMonster Train Soundtrack\n\nMonster Train: The Last Divinity DLC\n\nMonster Train Soundtrack\n\nMonster Train: The Last Divinity DLC\n\nMonster Train Soundtrack\n\nMonster Train: The Last Divinity DLC\n\nMonster Train Soundtrack\n\nMonster Train: The Last Divinity DLC\n\nMonster Train Soundtrack\n\nMonster Train: The Last Divinity DLC\n\nMonster Train Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -15695,6 +16038,7 @@ var extrasData =
             "negative": 3
         },
         "dlc": {
+            "description": "MOONPONG: Tales of Epic Lunacy Soundtrack\n\nMOONPONG: Tales of Epic Lunacy Soundtrack\n\nMOONPONG: Tales of Epic Lunacy Soundtrack\n\nMOONPONG: Tales of Epic Lunacy Soundtrack\n\nMOONPONG: Tales of Epic Lunacy Soundtrack\n\nMOONPONG: Tales of Epic Lunacy Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -15727,11 +16071,12 @@ var extrasData =
     "869b0b40-e4c8-404e-8648-0b4ec86a55ed": {
         "reviews": {
             "description": "Mixed",
-            "total": 8591,
+            "total": 8592,
             "positive": 5955,
-            "negative": 2636
+            "negative": 2637
         },
         "dlc": {
+            "description": "Mortal Shell: The Virtuous Cycle\n\nMortal Shell: The Virtuous Cycle\n\nMortal Shell: The Virtuous Cycle\n\nMortal Shell: The Virtuous Cycle\n\nMortal Shell: The Virtuous Cycle\n\nMortal Shell: The Virtuous Cycle",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -15769,6 +16114,7 @@ var extrasData =
             "negative": 425
         },
         "dlc": {
+            "description": "Moto Racer 4 - Space Dasher\nMoto Racer 4 - The Truth\nMoto Racer 4 - Season Pass\nMoto Racer 4 - Sliced Peak\nMoto Racer 4 - Antique Antics\nMoto Racer 4 - Space Dasher\nMoto Racer 4 - The Truth\nMoto Racer 4 - Season Pass\nMoto Racer 4 - Sliced Peak\nMoto Racer 4 - Antique Antics\nMoto Racer 4 - Space Dasher\nMoto Racer 4 - The Truth\nMoto Racer 4 - Season Pass\nMoto Racer 4 - Sliced Peak\nMoto Racer 4 - Antique Antics\nMoto Racer 4 - Space Dasher\nMoto Racer 4 - The Truth\nMoto Racer 4 - Season Pass\nMoto Racer 4 - Sliced Peak\nMoto Racer 4 - Antique Antics\nMoto Racer 4 - Space Dasher\nMoto Racer 4 - The Truth\nMoto Racer 4 - Season Pass\nMoto Racer 4 - Sliced Peak\nMoto Racer 4 - Antique Antics\nMoto Racer 4 - Space Dasher\nMoto Racer 4 - The Truth\nMoto Racer 4 - Season Pass\nMoto Racer 4 - Sliced Peak\nMoto Racer 4 - Antique Antics",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -15806,6 +16152,7 @@ var extrasData =
             "negative": 425
         },
         "dlc": {
+            "description": "Moving Out - Movers in Paradise\nMoving Out - The Employees of the Month Pack\nMoving Out - Original Soundtrack\nMoving Out - Movers in Paradise\nMoving Out - The Employees of the Month Pack\nMoving Out - Original Soundtrack\nMoving Out - Movers in Paradise\nMoving Out - The Employees of the Month Pack\nMoving Out - Original Soundtrack\nMoving Out - Movers in Paradise\nMoving Out - The Employees of the Month Pack\nMoving Out - Original Soundtrack\nMoving Out - Movers in Paradise\nMoving Out - The Employees of the Month Pack\nMoving Out - Original Soundtrack\nMoving Out - Movers in Paradise\nMoving Out - The Employees of the Month Pack\nMoving Out - Original Soundtrack",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -15859,6 +16206,7 @@ var extrasData =
             "negative": 200
         },
         "dlc": {
+            "description": "Mr. Shifty OST\n\nMr. Shifty OST\n\nMr. Shifty OST\n\nMr. Shifty OST\n\nMr. Shifty OST\n\nMr. Shifty OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -15904,6 +16252,7 @@ var extrasData =
             "negative": 11
         },
         "dlc": {
+            "description": "Murasaki - Original Soundtrack\n\nMurasaki - Original Soundtrack\n\nMurasaki - Original Soundtrack\n\nMurasaki - Original Soundtrack\n\nMurasaki - Original Soundtrack\n\nMurasaki - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -15941,6 +16290,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "Murasaki Tsurugi - Original Soundtrack\n\nMurasaki Tsurugi - Original Soundtrack\n\nMurasaki Tsurugi - Original Soundtrack\n\nMurasaki Tsurugi - Original Soundtrack\n\nMurasaki Tsurugi - Original Soundtrack\n\nMurasaki Tsurugi - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -15973,11 +16323,12 @@ var extrasData =
     "6b161c1c-20f1-4e47-a951-d6cb48c7398a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 114887,
-            "positive": 104803,
-            "negative": 10084
+            "total": 114892,
+            "positive": 104807,
+            "negative": 10085
         },
         "dlc": {
+            "description": "Muse Dash - Muse Plus\n\nMuse Dash - Muse Plus\n\nMuse Dash - Muse Plus\n\nMuse Dash - Muse Plus\n\nMuse Dash - Muse Plus\n\nMuse Dash - Muse Plus",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16010,11 +16361,12 @@ var extrasData =
     "5c38966c-a509-46ec-b09a-8289bb8f655c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1413,
-            "positive": 1368,
+            "total": 1414,
+            "positive": 1369,
             "negative": 45
         },
         "dlc": {
+            "description": "Mushihimesama V1.5\nMushihimesama OST\nMushihimesama Special Arrange Album\nMushihimesama Cave Festival ver1.5 -Arrange Album-\nMushihimesama V1.5\nMushihimesama OST\nMushihimesama Special Arrange Album\nMushihimesama Cave Festival ver1.5 -Arrange Album-\nMushihimesama V1.5\nMushihimesama OST\nMushihimesama Special Arrange Album\nMushihimesama Cave Festival ver1.5 -Arrange Album-\nMushihimesama V1.5\nMushihimesama OST\nMushihimesama Special Arrange Album\nMushihimesama Cave Festival ver1.5 -Arrange Album-\nMushihimesama V1.5\nMushihimesama OST\nMushihimesama Special Arrange Album\nMushihimesama Cave Festival ver1.5 -Arrange Album-\nMushihimesama V1.5\nMushihimesama OST\nMushihimesama Special Arrange Album\nMushihimesama Cave Festival ver1.5 -Arrange Album-",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -16052,6 +16404,7 @@ var extrasData =
             "negative": 106
         },
         "dlc": {
+            "description": "Mushroom 11 Soundtrack - The Future Sound of London\n\nMushroom 11 Soundtrack - The Future Sound of London\n\nMushroom 11 Soundtrack - The Future Sound of London\n\nMushroom 11 Soundtrack - The Future Sound of London\n\nMushroom 11 Soundtrack - The Future Sound of London\n\nMushroom 11 Soundtrack - The Future Sound of London",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16089,6 +16442,7 @@ var extrasData =
             "negative": 677
         },
         "dlc": {
+            "description": "MUSYNX - Forever Friends\nMUSYNX - Stage Theme\nMUSYNX - HOUSE THEME\nMUSYNX - Japanese Cyber Theme\nMUSYNX -  Universe Theme\nMUSYNX - Shooting Game Theme\nMUSYNX - Forever Friends\nMUSYNX - Stage Theme\nMUSYNX - HOUSE THEME\nMUSYNX - Japanese Cyber Theme\nMUSYNX -  Universe Theme\nMUSYNX - Shooting Game Theme\nMUSYNX - Forever Friends\nMUSYNX - Stage Theme\nMUSYNX - HOUSE THEME\nMUSYNX - Japanese Cyber Theme\nMUSYNX -  Universe Theme\nMUSYNX - Shooting Game Theme\nMUSYNX - Forever Friends\nMUSYNX - Stage Theme\nMUSYNX - HOUSE THEME\nMUSYNX - Japanese Cyber Theme\nMUSYNX -  Universe Theme\nMUSYNX - Shooting Game Theme\nMUSYNX - Forever Friends\nMUSYNX - Stage Theme\nMUSYNX - HOUSE THEME\nMUSYNX - Japanese Cyber Theme\nMUSYNX -  Universe Theme\nMUSYNX - Shooting Game Theme\nMUSYNX - Forever Friends\nMUSYNX - Stage Theme\nMUSYNX - HOUSE THEME\nMUSYNX - Japanese Cyber Theme\nMUSYNX -  Universe Theme\nMUSYNX - Shooting Game Theme",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -16142,6 +16496,7 @@ var extrasData =
             "negative": 14
         },
         "dlc": {
+            "description": "Mute Crimson+ Soundtrack\n\nMute Crimson+ Soundtrack\n\nMute Crimson+ Soundtrack\n\nMute Crimson+ Soundtrack\n\nMute Crimson+ Soundtrack\n\nMute Crimson+ Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16174,11 +16529,12 @@ var extrasData =
     "8f312ee6-38f3-4661-ad28-79393fae123a": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 27514,
-            "positive": 26332,
+            "total": 27515,
+            "positive": 26333,
             "negative": 1182
         },
         "dlc": {
+            "description": "My Friend Pedro Soundtrack\n\nMy Friend Pedro Soundtrack\n\nMy Friend Pedro Soundtrack\n\nMy Friend Pedro Soundtrack\n\nMy Friend Pedro Soundtrack\n\nMy Friend Pedro Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16232,6 +16588,7 @@ var extrasData =
             "negative": 41
         },
         "dlc": {
+            "description": "NanoApostle Soundtrack\n\nNanoApostle Soundtrack\n\nNanoApostle Soundtrack\n\nNanoApostle Soundtrack\n\nNanoApostle Soundtrack\n\nNanoApostle Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16296,11 +16653,12 @@ var extrasData =
     "0576f721-9be1-4f9d-b296-6cb4627caf51": {
         "reviews": {
             "description": "Very Positive",
-            "total": 23131,
-            "positive": 19949,
-            "negative": 3182
+            "total": 23132,
+            "positive": 19951,
+            "negative": 3181
         },
         "dlc": {
+            "description": "Neon Abyss - Lovable Rogues Pack\nNeon Abyss - Alter Ego\nNeon Abyss Soundtrack\nNeon Abyss - Chrono Trap\nNeon Abyss - Lovable Rogues Pack\nNeon Abyss - Alter Ego\nNeon Abyss Soundtrack\nNeon Abyss - Chrono Trap\nNeon Abyss - Lovable Rogues Pack\nNeon Abyss - Alter Ego\nNeon Abyss Soundtrack\nNeon Abyss - Chrono Trap\nNeon Abyss - Lovable Rogues Pack\nNeon Abyss - Alter Ego\nNeon Abyss Soundtrack\nNeon Abyss - Chrono Trap\nNeon Abyss - Lovable Rogues Pack\nNeon Abyss - Alter Ego\nNeon Abyss Soundtrack\nNeon Abyss - Chrono Trap\nNeon Abyss - Lovable Rogues Pack\nNeon Abyss - Alter Ego\nNeon Abyss Soundtrack\nNeon Abyss - Chrono Trap",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -16333,11 +16691,12 @@ var extrasData =
     "23dfa792-591a-4f55-99ae-1c34180b22c8": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 17694,
+            "total": 17695,
             "positive": 17370,
-            "negative": 324
+            "negative": 325
         },
         "dlc": {
+            "description": "Neon White - Original Soundtrack\n\nNeon White - Original Soundtrack\n\nNeon White - Original Soundtrack\n\nNeon White - Original Soundtrack\n\nNeon White - Original Soundtrack\n\nNeon White - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16383,6 +16742,7 @@ var extrasData =
             "negative": 3
         },
         "dlc": {
+            "description": "NERVE Soundtrack\n\nNERVE Soundtrack\n\nNERVE Soundtrack\n\nNERVE Soundtrack\n\nNERVE Soundtrack\n\nNERVE Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16447,11 +16807,12 @@ var extrasData =
     "6bc41790-c17f-416a-b1d8-2422f76c303c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 28702,
-            "positive": 27307,
-            "negative": 1395
+            "total": 28705,
+            "positive": 27308,
+            "negative": 1397
         },
         "dlc": {
+            "description": "Nine Sols Soundtrack\n\nNine Sols Digital Art Book\n\nNine Sols Soundtrack\n\nNine Sols Digital Art Book\n\nNine Sols Soundtrack\n\nNine Sols Digital Art Book\n\nNine Sols Soundtrack\n\nNine Sols Digital Art Book\n\nNine Sols Soundtrack\n\nNine Sols Digital Art Book\n\nNine Sols Soundtrack\n\nNine Sols Digital Art Book",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -16497,6 +16858,7 @@ var extrasData =
             "negative": 33
         },
         "dlc": {
+            "description": "Ninjin: Clash of Carrots - Original Soundtrack\n\nNinjin: Clash of Carrots - Original Soundtrack\n\nNinjin: Clash of Carrots - Original Soundtrack\n\nNinjin: Clash of Carrots - Original Soundtrack\n\nNinjin: Clash of Carrots - Original Soundtrack\n\nNinjin: Clash of Carrots - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16529,16 +16891,16 @@ var extrasData =
     "629e1cf8-eb2e-482e-a933-2a45a1ba4306": {
         "reviews": {
             "description": "Very Positive",
-            "total": 45436,
+            "total": 45438,
             "positive": 39917,
-            "negative": 5519
+            "negative": 5521
         }
     },
     "ceeb091a-405b-40b0-a436-3337d90859a2": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 34867,
-            "positive": 27845,
+            "total": 34866,
+            "positive": 27844,
             "negative": 7022
         }
     },
@@ -16550,6 +16912,7 @@ var extrasData =
             "negative": 54
         },
         "dlc": {
+            "description": "Nitro Kid: Complete Soundtrack\n\nNitro Kid: Complete Soundtrack\n\nNitro Kid: Complete Soundtrack\n\nNitro Kid: Complete Soundtrack\n\nNitro Kid: Complete Soundtrack\n\nNitro Kid: Complete Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16595,6 +16958,7 @@ var extrasData =
             "negative": 6
         },
         "dlc": {
+            "description": "NOISZ re:||VERSE\nNOISZ episode G\nNOISZ Stellar Linkage Pack\nNOISZ DM Ashura Level Pack\nNOISZ HyuN Level Pack\nNOISZ Mini OST\nNOISZ re:||VERSE OST + booklet\nNOISZ re:||VERSE\nNOISZ episode G\nNOISZ Stellar Linkage Pack\nNOISZ DM Ashura Level Pack\nNOISZ HyuN Level Pack\nNOISZ Mini OST\nNOISZ re:||VERSE OST + booklet\nNOISZ re:||VERSE\nNOISZ episode G\nNOISZ Stellar Linkage Pack\nNOISZ DM Ashura Level Pack\nNOISZ HyuN Level Pack\nNOISZ Mini OST\nNOISZ re:||VERSE OST + booklet\nNOISZ re:||VERSE\nNOISZ episode G\nNOISZ Stellar Linkage Pack\nNOISZ DM Ashura Level Pack\nNOISZ HyuN Level Pack\nNOISZ Mini OST\nNOISZ re:||VERSE OST + booklet\nNOISZ re:||VERSE\nNOISZ episode G\nNOISZ Stellar Linkage Pack\nNOISZ DM Ashura Level Pack\nNOISZ HyuN Level Pack\nNOISZ Mini OST\nNOISZ re:||VERSE OST + booklet\nNOISZ re:||VERSE\nNOISZ episode G\nNOISZ Stellar Linkage Pack\nNOISZ DM Ashura Level Pack\nNOISZ HyuN Level Pack\nNOISZ Mini OST\nNOISZ re:||VERSE OST + booklet",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -16627,11 +16991,12 @@ var extrasData =
     "0c10c492-c431-41fb-9fbf-89526130b3f4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 78351,
-            "positive": 74639,
+            "total": 78355,
+            "positive": 74643,
             "negative": 3712
         },
         "dlc": {
+            "description": "Noita Official Soundtrack\n\nNoita Official Soundtrack\n\nNoita Official Soundtrack\n\nNoita Official Soundtrack\n\nNoita Official Soundtrack\n\nNoita Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16669,6 +17034,7 @@ var extrasData =
             "negative": 18
         },
         "dlc": {
+            "description": "\u300e\u9b3c\u592a\u90ce\u8a95\u751f \u30b2\u30b2\u30b2\u306e\u8b0e\u300f\u30b3\u30e9\u30dc\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\uff08\u9b3c\u592a\u90ce\u306e\u7236\u30fb\u6c34\u6728\uff09\n\n\u30ce\u30ed\u30a4\u30ab\u30b4 \u30b2\u30b2\u30b2\u306e\u591c Original Soundtrack\n\n\u300e\u9b3c\u592a\u90ce\u8a95\u751f \u30b2\u30b2\u30b2\u306e\u8b0e\u300f\u30b3\u30e9\u30dc\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\uff08\u9b3c\u592a\u90ce\u306e\u7236\u30fb\u6c34\u6728\uff09\n\n\u30ce\u30ed\u30a4\u30ab\u30b4 \u30b2\u30b2\u30b2\u306e\u591c Original Soundtrack\n\n\u300e\u9b3c\u592a\u90ce\u8a95\u751f \u30b2\u30b2\u30b2\u306e\u8b0e\u300f\u30b3\u30e9\u30dc\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\uff08\u9b3c\u592a\u90ce\u306e\u7236\u30fb\u6c34\u6728\uff09\n\n\u30ce\u30ed\u30a4\u30ab\u30b4 \u30b2\u30b2\u30b2\u306e\u591c Original Soundtrack\n\n\u300e\u9b3c\u592a\u90ce\u8a95\u751f \u30b2\u30b2\u30b2\u306e\u8b0e\u300f\u30b3\u30e9\u30dc\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\uff08\u9b3c\u592a\u90ce\u306e\u7236\u30fb\u6c34\u6728\uff09\n\n\u30ce\u30ed\u30a4\u30ab\u30b4 \u30b2\u30b2\u30b2\u306e\u591c Original Soundtrack\n\n\u300e\u9b3c\u592a\u90ce\u8a95\u751f \u30b2\u30b2\u30b2\u306e\u8b0e\u300f\u30b3\u30e9\u30dc\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\uff08\u9b3c\u592a\u90ce\u306e\u7236\u30fb\u6c34\u6728\uff09\n\n\u30ce\u30ed\u30a4\u30ab\u30b4 \u30b2\u30b2\u30b2\u306e\u591c Original Soundtrack\n\n\u300e\u9b3c\u592a\u90ce\u8a95\u751f \u30b2\u30b2\u30b2\u306e\u8b0e\u300f\u30b3\u30e9\u30dc\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\uff08\u9b3c\u592a\u90ce\u306e\u7236\u30fb\u6c34\u6728\uff09\n\n\u30ce\u30ed\u30a4\u30ab\u30b4 \u30b2\u30b2\u30b2\u306e\u591c Original Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -16730,6 +17096,7 @@ var extrasData =
             "negative": 700
         },
         "dlc": {
+            "description": "Nuclear Throne - Original Soundtrack by Jukio Kallio\n\nNuclear Throne - Original Soundtrack by Jukio Kallio\n\nNuclear Throne - Original Soundtrack by Jukio Kallio\n\nNuclear Throne - Original Soundtrack by Jukio Kallio\n\nNuclear Throne - Original Soundtrack by Jukio Kallio",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16767,6 +17134,7 @@ var extrasData =
             "negative": 163
         },
         "dlc": {
+            "description": "Nyaruru Soundtrack\n\nNyaruru Soundtrack\n\nNyaruru Soundtrack\n\nNyaruru Soundtrack\n\nNyaruru Soundtrack\n\nNyaruru Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16804,6 +17172,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "o---o Soundtrack\n\no---o Soundtrack\n\no---o Soundtrack\n\no---o Soundtrack\n\no---o Soundtrack\n\no---o Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16849,6 +17218,7 @@ var extrasData =
             "negative": 18
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -16894,6 +17264,7 @@ var extrasData =
             "negative": 495
         },
         "dlc": {
+            "description": "Oddworld: New 'n' Tasty - Alf's Escape DLC\nOddworld: New 'n' Tasty - Scrub Abe Costume\nOddworld: New 'n' Tasty - Official Soundtrack\nOddworld: Abe's Oddysee - Official Soundtrack\nOddworld: New 'n' Tasty - Alf's Escape DLC\nOddworld: New 'n' Tasty - Scrub Abe Costume\nOddworld: New 'n' Tasty - Official Soundtrack\nOddworld: Abe's Oddysee - Official Soundtrack\nOddworld: New 'n' Tasty - Alf's Escape DLC\nOddworld: New 'n' Tasty - Scrub Abe Costume\nOddworld: New 'n' Tasty - Official Soundtrack\nOddworld: Abe's Oddysee - Official Soundtrack\nOddworld: New 'n' Tasty - Alf's Escape DLC\nOddworld: New 'n' Tasty - Scrub Abe Costume\nOddworld: New 'n' Tasty - Official Soundtrack\nOddworld: Abe's Oddysee - Official Soundtrack\nOddworld: New 'n' Tasty - Alf's Escape DLC\nOddworld: New 'n' Tasty - Scrub Abe Costume\nOddworld: New 'n' Tasty - Official Soundtrack\nOddworld: Abe's Oddysee - Official Soundtrack\nOddworld: New 'n' Tasty - Alf's Escape DLC\nOddworld: New 'n' Tasty - Scrub Abe Costume\nOddworld: New 'n' Tasty - Official Soundtrack\nOddworld: Abe's Oddysee - Official Soundtrack",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -16971,6 +17342,7 @@ var extrasData =
             "negative": 71
         },
         "dlc": {
+            "description": "Old School Musical - Tales Of OSM OST\n\nOld School Musical - Chicken Party Mix\n\nOld School Musical - Tales Of OSM OST\n\nOld School Musical - Chicken Party Mix\n\nOld School Musical - Tales Of OSM OST\n\nOld School Musical - Chicken Party Mix\n\nOld School Musical - Tales Of OSM OST\n\nOld School Musical - Chicken Party Mix\n\nOld School Musical - Tales Of OSM OST\n\nOld School Musical - Chicken Party Mix\n\nOld School Musical - Tales Of OSM OST\n\nOld School Musical - Chicken Party Mix",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -17024,6 +17396,7 @@ var extrasData =
             "negative": 94
         },
         "dlc": {
+            "description": "OlliOlli2 Soundtrack\n\nOlliOlli2 Soundtrack\n\nOlliOlli2 Soundtrack\n\nOlliOlli2 Soundtrack\n\nOlliOlli2 Soundtrack\n\nOlliOlli2 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17069,6 +17442,7 @@ var extrasData =
             "negative": 17
         },
         "dlc": {
+            "description": "ONE BTN BOSSES Soundtrack\n\nONE BTN BOSSES Soundtrack\n\nONE BTN BOSSES Soundtrack\n\nONE BTN BOSSES Soundtrack\n\nONE BTN BOSSES Soundtrack\n\nONE BTN BOSSES Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17122,6 +17496,7 @@ var extrasData =
             "negative": 26
         },
         "dlc": {
+            "description": "One More Dungeon 2 Soundtrack\n\nOne More Dungeon 2 Soundtrack\n\nOne More Dungeon 2 Soundtrack\n\nOne More Dungeon 2 Soundtrack\n\nOne More Dungeon 2 Soundtrack\n\nOne More Dungeon 2 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17167,6 +17542,7 @@ var extrasData =
             "negative": 495
         },
         "dlc": {
+            "description": "One Step From Eden Soundtrack\n\nOne Step From Eden Soundtrack\n\nOne Step From Eden Soundtrack\n\nOne Step From Eden Soundtrack\n\nOne Step From Eden Soundtrack\n\nOne Step From Eden Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17204,6 +17580,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "One Wheel Guy Soundtrack\n\nOne Wheel Guy Soundtrack\n\nOne Wheel Guy Soundtrack\n\nOne Wheel Guy Soundtrack\n\nOne Wheel Guy Soundtrack\n\nOne Wheel Guy Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17265,6 +17642,7 @@ var extrasData =
             "negative": 5
         },
         "dlc": {
+            "description": "Operation STEEL Soundtrack\n\nOperation STEEL Soundtrack\n\nOperation STEEL Soundtrack\n\nOperation STEEL Soundtrack\n\nOperation STEEL Soundtrack\n\nOperation STEEL Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17305,11 +17683,12 @@ var extrasData =
     "1f710a58-25f6-4f40-aab1-efa9c88874c5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 66917,
-            "positive": 63731,
+            "total": 66921,
+            "positive": 63735,
             "negative": 3186
         },
         "dlc": {
+            "description": "Ori and the Blind Forest (Original Soundtrack)\n\nOri and the Blind Forest (Original Soundtrack)\n\nOri and the Blind Forest (Original Soundtrack)\n\nOri and the Blind Forest (Original Soundtrack)\n\nOri and the Blind Forest (Original Soundtrack)\n\nOri and the Blind Forest (Original Soundtrack)",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -17342,11 +17721,12 @@ var extrasData =
     "2330b737-ee21-4c36-a282-e3730553d457": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 136577,
-            "positive": 131886,
+            "total": 136580,
+            "positive": 131889,
             "negative": 4691
         },
         "dlc": {
+            "description": "Ori and the Will of the Wisps Soundtrack\n\nOri and the Will of the Wisps Soundtrack\n\nOri and the Will of the Wisps Soundtrack\n\nOri and the Will of the Wisps Soundtrack\n\nOri and the Will of the Wisps Soundtrack\n\nOri and the Will of the Wisps Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17384,6 +17764,7 @@ var extrasData =
             "negative": 235
         },
         "dlc": {
+            "description": "OTXO Soundtrack\n\nOTXO Soundtrack\n\nOTXO Soundtrack\n\nOTXO Soundtrack\n\nOTXO Soundtrack\n\nOTXO Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17421,6 +17802,7 @@ var extrasData =
             "negative": 131
         },
         "dlc": {
+            "description": "Our Darker Purpose - Soundtrack\n\nOur Darker Purpose - Soundtrack\n\nOur Darker Purpose - Soundtrack\n\nOur Darker Purpose - Soundtrack\n\nOur Darker Purpose - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17461,11 +17843,12 @@ var extrasData =
     "dbb075b3-a4cf-46ca-ae81-db8a8fee0a20": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 125596,
-            "positive": 121141,
-            "negative": 4455
+            "total": 125599,
+            "positive": 121145,
+            "negative": 4454
         },
         "dlc": {
+            "description": "Outlast: Whistleblower DLC\n\nOutlast: Whistleblower DLC\n\nOutlast: Whistleblower DLC\n\nOutlast: Whistleblower DLC\n\nOutlast: Whistleblower DLC\n\nOutlast: Whistleblower DLC",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17498,8 +17881,8 @@ var extrasData =
     "ea50306a-12d2-4654-889d-b37ea20407bc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 55450,
-            "positive": 50634,
+            "total": 55451,
+            "positive": 50635,
             "negative": 4816
         }
     },
@@ -17514,11 +17897,12 @@ var extrasData =
     "535d2f2f-ed84-4d60-92e6-1059440eee17": {
         "reviews": {
             "description": "Very Positive",
-            "total": 72702,
-            "positive": 65896,
-            "negative": 6806
+            "total": 72707,
+            "positive": 65902,
+            "negative": 6805
         },
         "dlc": {
+            "description": "Overcooked! 2 - Season Pass\nOvercooked! 2 - Night of the Hangry Horde\nOvercooked! 2 - Carnival of Chaos\nOvercooked! 2 - Campfire Cook Off\nOvercooked! 2 - Surf 'n' Turf\nOvercooked! 2 - Too Many Cooks Pack\nOvercooked! 2 - Season Pass\nOvercooked! 2 - Night of the Hangry Horde\nOvercooked! 2 - Carnival of Chaos\nOvercooked! 2 - Campfire Cook Off\nOvercooked! 2 - Surf 'n' Turf\nOvercooked! 2 - Too Many Cooks Pack\nOvercooked! 2 - Season Pass\nOvercooked! 2 - Night of the Hangry Horde\nOvercooked! 2 - Carnival of Chaos\nOvercooked! 2 - Campfire Cook Off\nOvercooked! 2 - Surf 'n' Turf\nOvercooked! 2 - Too Many Cooks Pack\nOvercooked! 2 - Season Pass\nOvercooked! 2 - Night of the Hangry Horde\nOvercooked! 2 - Carnival of Chaos\nOvercooked! 2 - Campfire Cook Off\nOvercooked! 2 - Surf 'n' Turf\nOvercooked! 2 - Too Many Cooks Pack\nOvercooked! 2 - Season Pass\nOvercooked! 2 - Night of the Hangry Horde\nOvercooked! 2 - Carnival of Chaos\nOvercooked! 2 - Campfire Cook Off\nOvercooked! 2 - Surf 'n' Turf\nOvercooked! 2 - Too Many Cooks Pack\nOvercooked! 2 - Season Pass\nOvercooked! 2 - Night of the Hangry Horde\nOvercooked! 2 - Carnival of Chaos\nOvercooked! 2 - Campfire Cook Off\nOvercooked! 2 - Surf 'n' Turf\nOvercooked! 2 - Too Many Cooks Pack",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -17564,6 +17948,7 @@ var extrasData =
             "negative": 7
         },
         "dlc": {
+            "description": "Overhaul Original Soundtrack\n\nOverhaul Original Soundtrack\n\nOverhaul Original Soundtrack\n\nOverhaul Original Soundtrack\n\nOverhaul Original Soundtrack\n\nOverhaul Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17601,6 +17986,7 @@ var extrasData =
             "negative": 12
         },
         "dlc": {
+            "description": "Overpass: Sites & Sounds Collection\n\nOverpass Soundtrack\n\nOverpass: Sites & Sounds Collection\n\nOverpass Soundtrack\n\nOverpass: Sites & Sounds Collection\n\nOverpass Soundtrack\n\nOverpass: Sites & Sounds Collection\n\nOverpass Soundtrack\n\nOverpass: Sites & Sounds Collection\n\nOverpass Soundtrack\n\nOverpass: Sites & Sounds Collection\n\nOverpass Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -17638,6 +18024,7 @@ var extrasData =
             "negative": 303
         },
         "dlc": {
+            "description": "Overture OST\n\nOverture OST\n\nOverture OST\n\nOverture OST\n\nOverture OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17694,9 +18081,9 @@ var extrasData =
     "69c28740-3189-4de7-8c5b-cf805f12ac22": {
         "reviews": {
             "description": "Very Positive",
-            "total": 41675,
+            "total": 41676,
             "positive": 36057,
-            "negative": 5618
+            "negative": 5619
         }
     },
     "06dafbb9-81a3-4621-b1a6-4ea40e95ad6f": {
@@ -17715,6 +18102,7 @@ var extrasData =
             "negative": 1219
         },
         "dlc": {
+            "description": "Paint the Town Red VR\n\nPaint the Town Red Soundtrack\n\nPaint the Town Red VR\n\nPaint the Town Red Soundtrack\n\nPaint the Town Red VR\n\nPaint the Town Red Soundtrack\n\nPaint the Town Red VR\n\nPaint the Town Red Soundtrack\n\nPaint the Town Red VR\n\nPaint the Town Red Soundtrack\n\nPaint the Town Red VR\n\nPaint the Town Red Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -17760,6 +18148,7 @@ var extrasData =
             "negative": 3
         },
         "dlc": {
+            "description": "Panic Porcupine Soundtrack\n\nPanic Porcupine Soundtrack\n\nPanic Porcupine Soundtrack\n\nPanic Porcupine Soundtrack\n\nPanic Porcupine Soundtrack\n\nPanic Porcupine Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17797,6 +18186,7 @@ var extrasData =
             "negative": 10
         },
         "dlc": {
+            "description": "Paperball - Secret Spy Pack\nPaperball - Deep Sea Pack\nPaperball - Cherry Sky Pack\nPaperball - Secret Spy Pack\nPaperball - Deep Sea Pack\nPaperball - Cherry Sky Pack\nPaperball - Secret Spy Pack\nPaperball - Deep Sea Pack\nPaperball - Cherry Sky Pack\nPaperball - Secret Spy Pack\nPaperball - Deep Sea Pack\nPaperball - Cherry Sky Pack\nPaperball - Secret Spy Pack\nPaperball - Deep Sea Pack\nPaperball - Cherry Sky Pack\nPaperball - Secret Spy Pack\nPaperball - Deep Sea Pack\nPaperball - Cherry Sky Pack",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -17842,6 +18232,7 @@ var extrasData =
             "negative": 169
         },
         "dlc": {
+            "description": "Patch Quest - Original Soundtrack\n\nPatch Quest - Original Soundtrack\n\nPatch Quest - Original Soundtrack\n\nPatch Quest - Original Soundtrack\n\nPatch Quest - Original Soundtrack\n\nPatch Quest - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17879,6 +18270,7 @@ var extrasData =
             "negative": 33
         },
         "dlc": {
+            "description": "Pato Box Original Soundtrack\n\nPato Box Original Soundtrack\n\nPato Box Original Soundtrack\n\nPato Box Original Soundtrack\n\nPato Box Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17916,6 +18308,7 @@ var extrasData =
             "negative": 6
         },
         "dlc": {
+            "description": "Pawarumi Original Soundtrack\n\nPawarumi Original Soundtrack\n\nPawarumi Original Soundtrack\n\nPawarumi Original Soundtrack\n\nPawarumi Original Soundtrack\n\nPawarumi Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -17953,6 +18346,7 @@ var extrasData =
             "negative": 85
         },
         "dlc": {
+            "description": "Pawnbarian - Original Soundtrack\n\nPawnbarian - Support the Developers & Gold Heroes\n\nPawnbarian - Original Soundtrack\n\nPawnbarian - Support the Developers & Gold Heroes\n\nPawnbarian - Original Soundtrack\n\nPawnbarian - Support the Developers & Gold Heroes\n\nPawnbarian - Original Soundtrack\n\nPawnbarian - Support the Developers & Gold Heroes\n\nPawnbarian - Original Soundtrack\n\nPawnbarian - Support the Developers & Gold Heroes\n\nPawnbarian - Original Soundtrack\n\nPawnbarian - Support the Developers & Gold Heroes",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -17985,11 +18379,12 @@ var extrasData =
     "557c467d-243c-4179-9fc9-6256f3cc071a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 662929,
-            "positive": 594175,
+            "total": 662933,
+            "positive": 594179,
             "negative": 68754
         },
         "dlc": {
+            "description": "PAYDAY 2: Crude Awakening Heist\nPAYDAY 2: Chinatown Music Pack\nPAYDAY 2: McShay Weapon Pack 4\nPAYDAY 2: Lawless Tailor Pack\nPAYDAY 2: Hostile Takeover Heist\nPAYDAY 2: McShay Weapon Pack 3\nPAYDAY 2: McShay Mod Pack\nPAYDAY 2: Street Smart Tailor Pack\nPAYDAY 2: Lost in Transit Heist\nPAYDAY 2: McShay Weapon Pack 2\nPAYDAY 2: High Octane Tailor Pack\nPAYDAY 2: Tijuana Music Pack\nPAYDAY 2: Midland Ranch Heist\nPAYDAY 2: McShay Weapon Pack\nPAYDAY 2: Southbound Tailor Pack\nPAYDAY 2: Mountain Master Heist\nPAYDAY 2: Golden Dagger Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 4\nPAYDAY 2: Winter Ghosts Tailor Pack\nPAYDAY 2: Black Cat Heist\nPAYDAY 2: Mega City Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 3\nPAYDAY 2: The Ukrainian Prisoner Heist\nPAYDAY 2: Guardians Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 2\nPAYDAY 2: Dragon Pack\nPAYDAY 2: Jiu Feng Smuggler Pack\nPAYDAY 2: Buluc's Mansion Heist\nPAYDAY 2: Tailor Pack 3\nPAYDAY 2: Weapon Color Pack 3\nPAYDAY 2: Gunslinger Weapon Pack\nPAYDAY 2: Breakfast in Tijuana Heist\nPAYDAY 2: Weapon Color Pack 2\nPAYDAY 2: Fugitive Weapon Pack\nPAYDAY 2: San Mart\u00edn Bank Heist\nPAYDAY 2: Federales Weapon Pack\nPAYDAY 2: Tailor Pack 2\nPAYDAY 2: Weapon Color Pack 1\nPAYDAY 2: Border Crossing Heist\nPAYDAY 2: Cartel Optics Mod Pack\nPAYDAY 2: h3h3 Character Pack\nPAYDAY 2: Tailor Pack 1\nPAYDAY 2: Gage Russian Weapon Pack\nPAYDAY 2: Scarface Heist\nPAYDAY 2: Gage Spec Ops Pack\nPAYDAY 2: The Biker Heist\nPAYDAY 2: Biker Character Pack\nPAYDAY 2: Sydney Character Pack\nPAYDAY 2: Wolf Pack\nPAYDAY 2: The Goat Simulator Heist\nPAYDAY 2: Gage Chivalry Pack\nPAYDAY 2: Yakuza Character Pack\nPAYDAY 2: Gage Ninja Pack\nPAYDAY 2: Sokol Character Pack\nPAYDAY 2: The Golden Grin Casino Heist\nPAYDAY 2: The Alesso Heist\nPAYDAY 2: The Butcher's Western Pack\nPAYDAY 2: The Butcher's BBQ Pack\nPAYDAY 2: The Butcher's AK/CAR Mod Pack\nPAYDAY 2: The OVERKILL Pack\nPAYDAY 2: Dragan Character Pack\nPAYDAY 2: The Bomb Heists\nPAYDAY 2: Clover Character Pack\nPAYDAY 2: The Diamond Heist\nPAYDAY 2: Gage Historical Pack\nPAYDAY 2: Hotline Miami\nPAYDAY 2: Gage Assault Pack\nPAYDAY 2: Gage Shotgun Pack\nPAYDAY 2: The Big Bank Heist\nPAYDAY 2: Gage Sniper Pack\nPAYDAY 2: Gage Mod Courier\nPAYDAY 2: Gage Weapon Pack #02\nPAYDAY 2: Gage Weapon Pack #01\nPAYDAY 2: Armored Transport\nPAYDAY 2: Crude Awakening Heist\nPAYDAY 2: Chinatown Music Pack\nPAYDAY 2: McShay Weapon Pack 4\nPAYDAY 2: Lawless Tailor Pack\nPAYDAY 2: Hostile Takeover Heist\nPAYDAY 2: McShay Weapon Pack 3\nPAYDAY 2: McShay Mod Pack\nPAYDAY 2: Street Smart Tailor Pack\nPAYDAY 2: Lost in Transit Heist\nPAYDAY 2: McShay Weapon Pack 2\nPAYDAY 2: High Octane Tailor Pack\nPAYDAY 2: Tijuana Music Pack\nPAYDAY 2: Midland Ranch Heist\nPAYDAY 2: McShay Weapon Pack\nPAYDAY 2: Southbound Tailor Pack\nPAYDAY 2: Mountain Master Heist\nPAYDAY 2: Golden Dagger Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 4\nPAYDAY 2: Winter Ghosts Tailor Pack\nPAYDAY 2: Black Cat Heist\nPAYDAY 2: Mega City Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 3\nPAYDAY 2: The Ukrainian Prisoner Heist\nPAYDAY 2: Guardians Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 2\nPAYDAY 2: Dragon Pack\nPAYDAY 2: Jiu Feng Smuggler Pack\nPAYDAY 2: Buluc's Mansion Heist\nPAYDAY 2: Tailor Pack 3\nPAYDAY 2: Weapon Color Pack 3\nPAYDAY 2: Gunslinger Weapon Pack\nPAYDAY 2: Breakfast in Tijuana Heist\nPAYDAY 2: Weapon Color Pack 2\nPAYDAY 2: Fugitive Weapon Pack\nPAYDAY 2: San Mart\u00edn Bank Heist\nPAYDAY 2: Federales Weapon Pack\nPAYDAY 2: Tailor Pack 2\nPAYDAY 2: Weapon Color Pack 1\nPAYDAY 2: Border Crossing Heist\nPAYDAY 2: Cartel Optics Mod Pack\nPAYDAY 2: h3h3 Character Pack\nPAYDAY 2: Tailor Pack 1\nPAYDAY 2: Gage Russian Weapon Pack\nPAYDAY 2: Scarface Heist\nPAYDAY 2: Gage Spec Ops Pack\nPAYDAY 2: The Biker Heist\nPAYDAY 2: Biker Character Pack\nPAYDAY 2: Sydney Character Pack\nPAYDAY 2: Wolf Pack\nPAYDAY 2: The Goat Simulator Heist\nPAYDAY 2: Gage Chivalry Pack\nPAYDAY 2: Yakuza Character Pack\nPAYDAY 2: Gage Ninja Pack\nPAYDAY 2: Sokol Character Pack\nPAYDAY 2: The Golden Grin Casino Heist\nPAYDAY 2: The Alesso Heist\nPAYDAY 2: The Butcher's Western Pack\nPAYDAY 2: The Butcher's BBQ Pack\nPAYDAY 2: The Butcher's AK/CAR Mod Pack\nPAYDAY 2: The OVERKILL Pack\nPAYDAY 2: Dragan Character Pack\nPAYDAY 2: The Bomb Heists\nPAYDAY 2: Clover Character Pack\nPAYDAY 2: The Diamond Heist\nPAYDAY 2: Gage Historical Pack\nPAYDAY 2: Hotline Miami\nPAYDAY 2: Gage Assault Pack\nPAYDAY 2: Gage Shotgun Pack\nPAYDAY 2: The Big Bank Heist\nPAYDAY 2: Gage Sniper Pack\nPAYDAY 2: Gage Mod Courier\nPAYDAY 2: Gage Weapon Pack #02\nPAYDAY 2: Gage Weapon Pack #01\nPAYDAY 2: Armored Transport\nPAYDAY 2: Crude Awakening Heist\nPAYDAY 2: Chinatown Music Pack\nPAYDAY 2: McShay Weapon Pack 4\nPAYDAY 2: Lawless Tailor Pack\nPAYDAY 2: Hostile Takeover Heist\nPAYDAY 2: McShay Weapon Pack 3\nPAYDAY 2: McShay Mod Pack\nPAYDAY 2: Street Smart Tailor Pack\nPAYDAY 2: Lost in Transit Heist\nPAYDAY 2: McShay Weapon Pack 2\nPAYDAY 2: High Octane Tailor Pack\nPAYDAY 2: Tijuana Music Pack\nPAYDAY 2: Midland Ranch Heist\nPAYDAY 2: McShay Weapon Pack\nPAYDAY 2: Southbound Tailor Pack\nPAYDAY 2: Mountain Master Heist\nPAYDAY 2: Golden Dagger Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 4\nPAYDAY 2: Winter Ghosts Tailor Pack\nPAYDAY 2: Black Cat Heist\nPAYDAY 2: Mega City Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 3\nPAYDAY 2: The Ukrainian Prisoner Heist\nPAYDAY 2: Guardians Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 2\nPAYDAY 2: Dragon Pack\nPAYDAY 2: Jiu Feng Smuggler Pack\nPAYDAY 2: Buluc's Mansion Heist\nPAYDAY 2: Tailor Pack 3\nPAYDAY 2: Weapon Color Pack 3\nPAYDAY 2: Gunslinger Weapon Pack\nPAYDAY 2: Breakfast in Tijuana Heist\nPAYDAY 2: Weapon Color Pack 2\nPAYDAY 2: Fugitive Weapon Pack\nPAYDAY 2: San Mart\u00edn Bank Heist\nPAYDAY 2: Federales Weapon Pack\nPAYDAY 2: Tailor Pack 2\nPAYDAY 2: Weapon Color Pack 1\nPAYDAY 2: Border Crossing Heist\nPAYDAY 2: Cartel Optics Mod Pack\nPAYDAY 2: h3h3 Character Pack\nPAYDAY 2: Tailor Pack 1\nPAYDAY 2: Gage Russian Weapon Pack\nPAYDAY 2: Scarface Heist\nPAYDAY 2: Gage Spec Ops Pack\nPAYDAY 2: The Biker Heist\nPAYDAY 2: Biker Character Pack\nPAYDAY 2: Sydney Character Pack\nPAYDAY 2: Wolf Pack\nPAYDAY 2: The Goat Simulator Heist\nPAYDAY 2: Gage Chivalry Pack\nPAYDAY 2: Yakuza Character Pack\nPAYDAY 2: Gage Ninja Pack\nPAYDAY 2: Sokol Character Pack\nPAYDAY 2: The Golden Grin Casino Heist\nPAYDAY 2: The Alesso Heist\nPAYDAY 2: The Butcher's Western Pack\nPAYDAY 2: The Butcher's BBQ Pack\nPAYDAY 2: The Butcher's AK/CAR Mod Pack\nPAYDAY 2: The OVERKILL Pack\nPAYDAY 2: Dragan Character Pack\nPAYDAY 2: The Bomb Heists\nPAYDAY 2: Clover Character Pack\nPAYDAY 2: The Diamond Heist\nPAYDAY 2: Gage Historical Pack\nPAYDAY 2: Hotline Miami\nPAYDAY 2: Gage Assault Pack\nPAYDAY 2: Gage Shotgun Pack\nPAYDAY 2: The Big Bank Heist\nPAYDAY 2: Gage Sniper Pack\nPAYDAY 2: Gage Mod Courier\nPAYDAY 2: Gage Weapon Pack #02\nPAYDAY 2: Gage Weapon Pack #01\nPAYDAY 2: Armored Transport\nPAYDAY 2: Crude Awakening Heist\nPAYDAY 2: Chinatown Music Pack\nPAYDAY 2: McShay Weapon Pack 4\nPAYDAY 2: Lawless Tailor Pack\nPAYDAY 2: Hostile Takeover Heist\nPAYDAY 2: McShay Weapon Pack 3\nPAYDAY 2: McShay Mod Pack\nPAYDAY 2: Street Smart Tailor Pack\nPAYDAY 2: Lost in Transit Heist\nPAYDAY 2: McShay Weapon Pack 2\nPAYDAY 2: High Octane Tailor Pack\nPAYDAY 2: Tijuana Music Pack\nPAYDAY 2: Midland Ranch Heist\nPAYDAY 2: McShay Weapon Pack\nPAYDAY 2: Southbound Tailor Pack\nPAYDAY 2: Mountain Master Heist\nPAYDAY 2: Golden Dagger Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 4\nPAYDAY 2: Winter Ghosts Tailor Pack\nPAYDAY 2: Black Cat Heist\nPAYDAY 2: Mega City Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 3\nPAYDAY 2: The Ukrainian Prisoner Heist\nPAYDAY 2: Guardians Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 2\nPAYDAY 2: Dragon Pack\nPAYDAY 2: Jiu Feng Smuggler Pack\nPAYDAY 2: Buluc's Mansion Heist\nPAYDAY 2: Tailor Pack 3\nPAYDAY 2: Weapon Color Pack 3\nPAYDAY 2: Gunslinger Weapon Pack\nPAYDAY 2: Breakfast in Tijuana Heist\nPAYDAY 2: Weapon Color Pack 2\nPAYDAY 2: Fugitive Weapon Pack\nPAYDAY 2: San Mart\u00edn Bank Heist\nPAYDAY 2: Federales Weapon Pack\nPAYDAY 2: Tailor Pack 2\nPAYDAY 2: Weapon Color Pack 1\nPAYDAY 2: Border Crossing Heist\nPAYDAY 2: Cartel Optics Mod Pack\nPAYDAY 2: h3h3 Character Pack\nPAYDAY 2: Tailor Pack 1\nPAYDAY 2: Gage Russian Weapon Pack\nPAYDAY 2: Scarface Heist\nPAYDAY 2: Gage Spec Ops Pack\nPAYDAY 2: The Biker Heist\nPAYDAY 2: Biker Character Pack\nPAYDAY 2: Sydney Character Pack\nPAYDAY 2: Wolf Pack\nPAYDAY 2: The Goat Simulator Heist\nPAYDAY 2: Gage Chivalry Pack\nPAYDAY 2: Yakuza Character Pack\nPAYDAY 2: Gage Ninja Pack\nPAYDAY 2: Sokol Character Pack\nPAYDAY 2: The Golden Grin Casino Heist\nPAYDAY 2: The Alesso Heist\nPAYDAY 2: The Butcher's Western Pack\nPAYDAY 2: The Butcher's BBQ Pack\nPAYDAY 2: The Butcher's AK/CAR Mod Pack\nPAYDAY 2: The OVERKILL Pack\nPAYDAY 2: Dragan Character Pack\nPAYDAY 2: The Bomb Heists\nPAYDAY 2: Clover Character Pack\nPAYDAY 2: The Diamond Heist\nPAYDAY 2: Gage Historical Pack\nPAYDAY 2: Hotline Miami\nPAYDAY 2: Gage Assault Pack\nPAYDAY 2: Gage Shotgun Pack\nPAYDAY 2: The Big Bank Heist\nPAYDAY 2: Gage Sniper Pack\nPAYDAY 2: Gage Mod Courier\nPAYDAY 2: Gage Weapon Pack #02\nPAYDAY 2: Gage Weapon Pack #01\nPAYDAY 2: Armored Transport\nPAYDAY 2: Crude Awakening Heist\nPAYDAY 2: Chinatown Music Pack\nPAYDAY 2: McShay Weapon Pack 4\nPAYDAY 2: Lawless Tailor Pack\nPAYDAY 2: Hostile Takeover Heist\nPAYDAY 2: McShay Weapon Pack 3\nPAYDAY 2: McShay Mod Pack\nPAYDAY 2: Street Smart Tailor Pack\nPAYDAY 2: Lost in Transit Heist\nPAYDAY 2: McShay Weapon Pack 2\nPAYDAY 2: High Octane Tailor Pack\nPAYDAY 2: Tijuana Music Pack\nPAYDAY 2: Midland Ranch Heist\nPAYDAY 2: McShay Weapon Pack\nPAYDAY 2: Southbound Tailor Pack\nPAYDAY 2: Mountain Master Heist\nPAYDAY 2: Golden Dagger Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 4\nPAYDAY 2: Winter Ghosts Tailor Pack\nPAYDAY 2: Black Cat Heist\nPAYDAY 2: Mega City Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 3\nPAYDAY 2: The Ukrainian Prisoner Heist\nPAYDAY 2: Guardians Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 2\nPAYDAY 2: Dragon Pack\nPAYDAY 2: Jiu Feng Smuggler Pack\nPAYDAY 2: Buluc's Mansion Heist\nPAYDAY 2: Tailor Pack 3\nPAYDAY 2: Weapon Color Pack 3\nPAYDAY 2: Gunslinger Weapon Pack\nPAYDAY 2: Breakfast in Tijuana Heist\nPAYDAY 2: Weapon Color Pack 2\nPAYDAY 2: Fugitive Weapon Pack\nPAYDAY 2: San Mart\u00edn Bank Heist\nPAYDAY 2: Federales Weapon Pack\nPAYDAY 2: Tailor Pack 2\nPAYDAY 2: Weapon Color Pack 1\nPAYDAY 2: Border Crossing Heist\nPAYDAY 2: Cartel Optics Mod Pack\nPAYDAY 2: h3h3 Character Pack\nPAYDAY 2: Tailor Pack 1\nPAYDAY 2: Gage Russian Weapon Pack\nPAYDAY 2: Scarface Heist\nPAYDAY 2: Gage Spec Ops Pack\nPAYDAY 2: The Biker Heist\nPAYDAY 2: Biker Character Pack\nPAYDAY 2: Sydney Character Pack\nPAYDAY 2: Wolf Pack\nPAYDAY 2: The Goat Simulator Heist\nPAYDAY 2: Gage Chivalry Pack\nPAYDAY 2: Yakuza Character Pack\nPAYDAY 2: Gage Ninja Pack\nPAYDAY 2: Sokol Character Pack\nPAYDAY 2: The Golden Grin Casino Heist\nPAYDAY 2: The Alesso Heist\nPAYDAY 2: The Butcher's Western Pack\nPAYDAY 2: The Butcher's BBQ Pack\nPAYDAY 2: The Butcher's AK/CAR Mod Pack\nPAYDAY 2: The OVERKILL Pack\nPAYDAY 2: Dragan Character Pack\nPAYDAY 2: The Bomb Heists\nPAYDAY 2: Clover Character Pack\nPAYDAY 2: The Diamond Heist\nPAYDAY 2: Gage Historical Pack\nPAYDAY 2: Hotline Miami\nPAYDAY 2: Gage Assault Pack\nPAYDAY 2: Gage Shotgun Pack\nPAYDAY 2: The Big Bank Heist\nPAYDAY 2: Gage Sniper Pack\nPAYDAY 2: Gage Mod Courier\nPAYDAY 2: Gage Weapon Pack #02\nPAYDAY 2: Gage Weapon Pack #01\nPAYDAY 2: Armored Transport\nPAYDAY 2: Crude Awakening Heist\nPAYDAY 2: Chinatown Music Pack\nPAYDAY 2: McShay Weapon Pack 4\nPAYDAY 2: Lawless Tailor Pack\nPAYDAY 2: Hostile Takeover Heist\nPAYDAY 2: McShay Weapon Pack 3\nPAYDAY 2: McShay Mod Pack\nPAYDAY 2: Street Smart Tailor Pack\nPAYDAY 2: Lost in Transit Heist\nPAYDAY 2: McShay Weapon Pack 2\nPAYDAY 2: High Octane Tailor Pack\nPAYDAY 2: Tijuana Music Pack\nPAYDAY 2: Midland Ranch Heist\nPAYDAY 2: McShay Weapon Pack\nPAYDAY 2: Southbound Tailor Pack\nPAYDAY 2: Mountain Master Heist\nPAYDAY 2: Golden Dagger Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 4\nPAYDAY 2: Winter Ghosts Tailor Pack\nPAYDAY 2: Black Cat Heist\nPAYDAY 2: Mega City Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 3\nPAYDAY 2: The Ukrainian Prisoner Heist\nPAYDAY 2: Guardians Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 2\nPAYDAY 2: Dragon Pack\nPAYDAY 2: Jiu Feng Smuggler Pack\nPAYDAY 2: Buluc's Mansion Heist\nPAYDAY 2: Tailor Pack 3\nPAYDAY 2: Weapon Color Pack 3\nPAYDAY 2: Gunslinger Weapon Pack\nPAYDAY 2: Breakfast in Tijuana Heist\nPAYDAY 2: Weapon Color Pack 2\nPAYDAY 2: Fugitive Weapon Pack\nPAYDAY 2: San Mart\u00edn Bank Heist\nPAYDAY 2: Federales Weapon Pack\nPAYDAY 2: Tailor Pack 2\nPAYDAY 2: Weapon Color Pack 1\nPAYDAY 2: Border Crossing Heist\nPAYDAY 2: Cartel Optics Mod Pack\nPAYDAY 2: h3h3 Character Pack\nPAYDAY 2: Tailor Pack 1\nPAYDAY 2: Gage Russian Weapon Pack\nPAYDAY 2: Scarface Heist\nPAYDAY 2: Gage Spec Ops Pack\nPAYDAY 2: The Biker Heist\nPAYDAY 2: Biker Character Pack\nPAYDAY 2: Sydney Character Pack\nPAYDAY 2: Wolf Pack\nPAYDAY 2: The Goat Simulator Heist\nPAYDAY 2: Gage Chivalry Pack\nPAYDAY 2: Yakuza Character Pack\nPAYDAY 2: Gage Ninja Pack\nPAYDAY 2: Sokol Character Pack\nPAYDAY 2: The Golden Grin Casino Heist\nPAYDAY 2: The Alesso Heist\nPAYDAY 2: The Butcher's Western Pack\nPAYDAY 2: The Butcher's BBQ Pack\nPAYDAY 2: The Butcher's AK/CAR Mod Pack\nPAYDAY 2: The OVERKILL Pack\nPAYDAY 2: Dragan Character Pack\nPAYDAY 2: The Bomb Heists\nPAYDAY 2: Clover Character Pack\nPAYDAY 2: The Diamond Heist\nPAYDAY 2: Gage Historical Pack\nPAYDAY 2: Hotline Miami\nPAYDAY 2: Gage Assault Pack\nPAYDAY 2: Gage Shotgun Pack\nPAYDAY 2: The Big Bank Heist\nPAYDAY 2: Gage Sniper Pack\nPAYDAY 2: Gage Mod Courier\nPAYDAY 2: Gage Weapon Pack #02\nPAYDAY 2: Gage Weapon Pack #01\nPAYDAY 2: Armored Transport",
             "count": 78,
             "priceData": {
                 "USD": {
@@ -18023,10 +18418,11 @@ var extrasData =
         "reviews": {
             "description": "Very Positive",
             "total": 40223,
-            "positive": 37569,
-            "negative": 2654
+            "positive": 37570,
+            "negative": 2653
         },
         "dlc": {
+            "description": "PAYDAY\u2122 The Heist: Wolfpack DLC\n\nPAYDAY: The Heist Soundtrack\n\nPAYDAY\u2122 The Heist: Wolfpack DLC\n\nPAYDAY: The Heist Soundtrack\n\nPAYDAY\u2122 The Heist: Wolfpack DLC\n\nPAYDAY: The Heist Soundtrack\n\nPAYDAY\u2122 The Heist: Wolfpack DLC\n\nPAYDAY: The Heist Soundtrack\n\nPAYDAY\u2122 The Heist: Wolfpack DLC\n\nPAYDAY: The Heist Soundtrack\n\nPAYDAY\u2122 The Heist: Wolfpack DLC\n\nPAYDAY: The Heist Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -18064,6 +18460,7 @@ var extrasData =
             "negative": 64
         },
         "dlc": {
+            "description": "Peaks of Yore - The Great Alps\n\nPeaks of Yore - The Great Alps\n\nPeaks of Yore - The Great Alps\n\nPeaks of Yore - The Great Alps\n\nPeaks of Yore - The Great Alps\n\nPeaks of Yore - The Great Alps",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18096,8 +18493,8 @@ var extrasData =
     "fc2a85fc-690c-4e44-8c07-3e60137b8a58": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 10849,
-            "positive": 10571,
+            "total": 10850,
+            "positive": 10572,
             "negative": 278
         }
     },
@@ -18117,6 +18514,7 @@ var extrasData =
             "negative": 136
         },
         "dlc": {
+            "description": "Pepper Grinder Soundtrack\n\nPepper Grinder Soundtrack\n\nPepper Grinder Soundtrack\n\nPepper Grinder Soundtrack\n\nPepper Grinder Soundtrack\n\nPepper Grinder Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18157,19 +18555,20 @@ var extrasData =
     "b2ca529b-1661-4bf7-849e-f95efe3859fd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3981,
-            "positive": 3455,
+            "total": 3982,
+            "positive": 3456,
             "negative": 526
         }
     },
     "a4525844-9b42-4b2b-ba36-4888ef14974c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 16292,
-            "positive": 14363,
+            "total": 16295,
+            "positive": 14366,
             "negative": 1929
         },
         "dlc": {
+            "description": "Persona\u00ae 5 Strikers - All-Out Attack Pack\n\nPersona\u00ae 5 Strikers - Legacy BGM Pack\n\nPersona\u00ae 5 Strikers - All-Out Attack Pack\n\nPersona\u00ae 5 Strikers - Legacy BGM Pack\n\nPersona\u00ae 5 Strikers - All-Out Attack Pack\n\nPersona\u00ae 5 Strikers - Legacy BGM Pack\n\nPersona\u00ae 5 Strikers - All-Out Attack Pack\n\nPersona\u00ae 5 Strikers - Legacy BGM Pack\n\nPersona\u00ae 5 Strikers - All-Out Attack Pack\n\nPersona\u00ae 5 Strikers - Legacy BGM Pack\n\nPersona\u00ae 5 Strikers - All-Out Attack Pack\n\nPersona\u00ae 5 Strikers - Legacy BGM Pack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -18223,6 +18622,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "Phantom Spark Soundtrack\n\nPhantom Spark Soundtrack\n\nPhantom Spark Soundtrack\n\nPhantom Spark Soundtrack\n\nPhantom Spark Soundtrack\n\nPhantom Spark Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18268,6 +18668,7 @@ var extrasData =
             "negative": 40
         },
         "dlc": {
+            "description": "Picayune Dreams Soundtrack\n\nPicayune Dreams Soundtrack\n\nPicayune Dreams Soundtrack\n\nPicayune Dreams Soundtrack\n\nPicayune Dreams Soundtrack\n\nPicayune Dreams Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18313,6 +18714,7 @@ var extrasData =
             "negative": 57
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18350,6 +18752,7 @@ var extrasData =
             "negative": 23
         },
         "dlc": {
+            "description": "Pivvot - Soundtrack (320kbps MP3)\n\nPivvot - Soundtrack (320kbps MP3)\n\nPivvot - Soundtrack (320kbps MP3)\n\nPivvot - Soundtrack (320kbps MP3)\n\nPivvot - Soundtrack (320kbps MP3)",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18390,11 +18793,12 @@ var extrasData =
     "50d89c40-3346-4ec2-a83e-6417c8630b72": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 66634,
-            "positive": 65540,
+            "total": 66639,
+            "positive": 65545,
             "negative": 1094
         },
         "dlc": {
+            "description": "Pizza Tower Soundtrack\n\nPizza Tower Soundtrack\n\nPizza Tower Soundtrack\n\nPizza Tower Soundtrack\n\nPizza Tower Soundtrack\n\nPizza Tower Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18432,6 +18836,7 @@ var extrasData =
             "negative": 13
         },
         "dlc": {
+            "description": "Planet Cube: Edge - OST\n\nPlanet Cube: Edge - OST\n\nPlanet Cube: Edge - OST\n\nPlanet Cube: Edge - OST\n\nPlanet Cube: Edge - OST\n\nPlanet Cube: Edge - OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18520,11 +18925,12 @@ var extrasData =
     "35d705c9-5dc5-4857-a35e-998da34bd760": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 177203,
-            "positive": 174494,
+            "total": 177214,
+            "positive": 174505,
             "negative": 2709
         },
         "dlc": {
+            "description": "",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -18557,11 +18963,12 @@ var extrasData =
     "58bba60a-6d41-43d8-ba3e-58bd25de62d4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 115867,
-            "positive": 112226,
-            "negative": 3641
+            "total": 115874,
+            "positive": 112234,
+            "negative": 3640
         },
         "dlc": {
+            "description": "POSTAL 2: Paradise Lost\n\nPOSTAL 2: Paradise Lost\n\nPOSTAL 2: Paradise Lost\n\nPOSTAL 2: Paradise Lost\n\nPOSTAL 2: Paradise Lost\n\nPOSTAL 2: Paradise Lost",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -18599,6 +19006,7 @@ var extrasData =
             "negative": 545
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18684,6 +19092,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18745,6 +19154,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "PuPaiPo Space DX - Soundtrack\n\nPuPaiPo Space DX - Soundtrack\n\nPuPaiPo Space DX - Soundtrack\n\nPuPaiPo Space DX - Soundtrack\n\nPuPaiPo Space DX - Soundtrack\n\nPuPaiPo Space DX - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18782,6 +19192,7 @@ var extrasData =
             "negative": 80
         },
         "dlc": {
+            "description": "pureya soundtrack\n\npureya soundtrack\n\npureya soundtrack\n\npureya soundtrack\n\npureya soundtrack\n\npureya soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18830,11 +19241,12 @@ var extrasData =
     "31e57700-1182-4cfc-83cc-549f7fb85ecc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1486,
-            "positive": 1306,
+            "total": 1487,
+            "positive": 1307,
             "negative": 180
         },
         "dlc": {
+            "description": "PUSS! \u3010\ufeff\u2644\u3011\uff4f\uff54\uff48\uff45\uff52\uff57\uff4f\uff52\uff4c\uff44\nPUSS! \uff53\uff4f\uff55\uff4e\uff44\uff54\uff52\uff41\uff43\uff4b\nPUSS! \u3010\ufeff\u2644\u3011\uff53\uff4f\uff55\uff4e\uff44\uff54\uff52\uff41\uff43\uff4b\nPUSS! \u3010\ufeff\u2644\u3011\uff4f\uff54\uff48\uff45\uff52\uff57\uff4f\uff52\uff4c\uff44\nPUSS! \uff53\uff4f\uff55\uff4e\uff44\uff54\uff52\uff41\uff43\uff4b\nPUSS! \u3010\ufeff\u2644\u3011\uff53\uff4f\uff55\uff4e\uff44\uff54\uff52\uff41\uff43\uff4b\nPUSS! \u3010\ufeff\u2644\u3011\uff4f\uff54\uff48\uff45\uff52\uff57\uff4f\uff52\uff4c\uff44\nPUSS! \uff53\uff4f\uff55\uff4e\uff44\uff54\uff52\uff41\uff43\uff4b\nPUSS! \u3010\ufeff\u2644\u3011\uff53\uff4f\uff55\uff4e\uff44\uff54\uff52\uff41\uff43\uff4b\nPUSS! \u3010\ufeff\u2644\u3011\uff4f\uff54\uff48\uff45\uff52\uff57\uff4f\uff52\uff4c\uff44\nPUSS! \uff53\uff4f\uff55\uff4e\uff44\uff54\uff52\uff41\uff43\uff4b\nPUSS! \u3010\ufeff\u2644\u3011\uff53\uff4f\uff55\uff4e\uff44\uff54\uff52\uff41\uff43\uff4b\nPUSS! \u3010\ufeff\u2644\u3011\uff4f\uff54\uff48\uff45\uff52\uff57\uff4f\uff52\uff4c\uff44\nPUSS! \uff53\uff4f\uff55\uff4e\uff44\uff54\uff52\uff41\uff43\uff4b\nPUSS! \u3010\ufeff\u2644\u3011\uff53\uff4f\uff55\uff4e\uff44\uff54\uff52\uff41\uff43\uff4b\nPUSS! \u3010\ufeff\u2644\u3011\uff4f\uff54\uff48\uff45\uff52\uff57\uff4f\uff52\uff4c\uff44\nPUSS! \uff53\uff4f\uff55\uff4e\uff44\uff54\uff52\uff41\uff43\uff4b\nPUSS! \u3010\ufeff\u2644\u3011\uff53\uff4f\uff55\uff4e\uff44\uff54\uff52\uff41\uff43\uff4b",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -18888,6 +19300,7 @@ var extrasData =
             "negative": 5
         },
         "dlc": {
+            "description": "Q - Original Game Soundtrack\n\nQ - Original Game Soundtrack\n\nQ - Original Game Soundtrack\n\nQ - Original Game Soundtrack\n\nQ - Original Game Soundtrack\n\nQ - Original Game Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18925,6 +19338,7 @@ var extrasData =
             "negative": 60
         },
         "dlc": {
+            "description": "Q  REMASTERED Original Soundtrack Vol.1\n\nQ  REMASTERED Original Soundtrack Vol.1\n\nQ  REMASTERED Original Soundtrack Vol.1\n\nQ  REMASTERED Original Soundtrack Vol.1\n\nQ  REMASTERED Original Soundtrack Vol.1\n\nQ  REMASTERED Original Soundtrack Vol.1",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -18970,6 +19384,7 @@ var extrasData =
             "negative": 324
         },
         "dlc": {
+            "description": "Quantum Conundrum: IKE-aramba!\nQuantum Conundrum: The Desmond Debacle\nQuantum Conundrum Soundtrack\nQuantum Conundrum: IKE-aramba!\nQuantum Conundrum: The Desmond Debacle\nQuantum Conundrum Soundtrack\nQuantum Conundrum: IKE-aramba!\nQuantum Conundrum: The Desmond Debacle\nQuantum Conundrum Soundtrack\nQuantum Conundrum: IKE-aramba!\nQuantum Conundrum: The Desmond Debacle\nQuantum Conundrum Soundtrack\nQuantum Conundrum: IKE-aramba!\nQuantum Conundrum: The Desmond Debacle\nQuantum Conundrum Soundtrack\nQuantum Conundrum: IKE-aramba!\nQuantum Conundrum: The Desmond Debacle\nQuantum Conundrum Soundtrack",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -19007,6 +19422,7 @@ var extrasData =
             "negative": 58
         },
         "dlc": {
+            "description": "Quantum Protocol Soundtrack\n\nQuantum Protocol Soundtrack\n\nQuantum Protocol Soundtrack\n\nQuantum Protocol Soundtrack\n\nQuantum Protocol Soundtrack\n\nQuantum Protocol Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -19052,6 +19468,7 @@ var extrasData =
             "negative": 237
         },
         "dlc": {
+            "description": "Rabbit and Steel Soundtrack\n\nRabbit and Steel Soundtrack\n\nRabbit and Steel Soundtrack\n\nRabbit and Steel Soundtrack\n\nRabbit and Steel Soundtrack\n\nRabbit and Steel Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -19097,6 +19514,7 @@ var extrasData =
             "negative": 501
         },
         "dlc": {
+            "description": "Rabi-Ribi - Is the order a DLC?\nRabi-Ribi - Cocoa Mode & Before Next Adventure\nRabi-Ribi - Digital Artbook\nRabi-Ribi - Original Soundtrack\nRabi-Ribi - Orchestra Music Mode & Skin\nRabi-Ribi - Orchestra Arrangement Soundtrack\nRabi-Ribi - Soundtrack 8-bit Remix\nRabi-Ribi - Is the order a DLC?\nRabi-Ribi - Cocoa Mode & Before Next Adventure\nRabi-Ribi - Digital Artbook\nRabi-Ribi - Original Soundtrack\nRabi-Ribi - Orchestra Music Mode & Skin\nRabi-Ribi - Orchestra Arrangement Soundtrack\nRabi-Ribi - Soundtrack 8-bit Remix\nRabi-Ribi - Is the order a DLC?\nRabi-Ribi - Cocoa Mode & Before Next Adventure\nRabi-Ribi - Digital Artbook\nRabi-Ribi - Original Soundtrack\nRabi-Ribi - Orchestra Music Mode & Skin\nRabi-Ribi - Orchestra Arrangement Soundtrack\nRabi-Ribi - Soundtrack 8-bit Remix\nRabi-Ribi - Is the order a DLC?\nRabi-Ribi - Cocoa Mode & Before Next Adventure\nRabi-Ribi - Digital Artbook\nRabi-Ribi - Original Soundtrack\nRabi-Ribi - Orchestra Music Mode & Skin\nRabi-Ribi - Orchestra Arrangement Soundtrack\nRabi-Ribi - Soundtrack 8-bit Remix\nRabi-Ribi - Is the order a DLC?\nRabi-Ribi - Cocoa Mode & Before Next Adventure\nRabi-Ribi - Digital Artbook\nRabi-Ribi - Original Soundtrack\nRabi-Ribi - Orchestra Music Mode & Skin\nRabi-Ribi - Orchestra Arrangement Soundtrack\nRabi-Ribi - Soundtrack 8-bit Remix\nRabi-Ribi - Is the order a DLC?\nRabi-Ribi - Cocoa Mode & Before Next Adventure\nRabi-Ribi - Digital Artbook\nRabi-Ribi - Original Soundtrack\nRabi-Ribi - Orchestra Music Mode & Skin\nRabi-Ribi - Orchestra Arrangement Soundtrack\nRabi-Ribi - Soundtrack 8-bit Remix",
             "count": 9,
             "priceData": {
                 "USD": {
@@ -19134,6 +19552,7 @@ var extrasData =
             "negative": 401
         },
         "dlc": {
+            "description": "Race The Sun Original Soundtrack\n\nSunrise\n\nRace The Sun Original Soundtrack\n\nSunrise\n\nRace The Sun Original Soundtrack\n\nSunrise\n\nRace The Sun Original Soundtrack\n\nSunrise\n\nRace The Sun Original Soundtrack\n\nSunrise\n\nRace The Sun Original Soundtrack\n\nSunrise",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -19179,6 +19598,7 @@ var extrasData =
             "negative": 7
         },
         "dlc": {
+            "description": "Radical Rabbit Stew Soundtrack\n\nRadical Rabbit Stew Soundtrack\n\nRadical Rabbit Stew Soundtrack\n\nRadical Rabbit Stew Soundtrack\n\nRadical Rabbit Stew Soundtrack\n\nRadical Rabbit Stew Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -19224,6 +19644,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "Ra\u00b2 | Soundtrack\n\nRa\u00b2 | Soundtrack\n\nRa\u00b2 | Soundtrack\n\nRa\u00b2 | Soundtrack\n\nRa\u00b2 | Soundtrack\n\nRa\u00b2 | Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -19269,6 +19690,7 @@ var extrasData =
             "negative": 49
         },
         "dlc": {
+            "description": "Rage in Peace - Soundtrack\n\nRage in Peace - Soundtrack\n\nRage in Peace - Soundtrack\n\nRage in Peace - Soundtrack\n\nRage in Peace - Soundtrack\n\nRage in Peace - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -19306,6 +19728,7 @@ var extrasData =
             "negative": 6
         },
         "dlc": {
+            "description": "Raiden IV x MIKADO remix Soundtrack\n\nRaiden IV x MIKADO remix Soundtrack\n\nRaiden IV x MIKADO remix Soundtrack\n\nRaiden IV x MIKADO remix Soundtrack\n\nRaiden IV x MIKADO remix Soundtrack\n\nRaiden IV x MIKADO remix Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -19346,11 +19769,12 @@ var extrasData =
     "71e93a1b-1e24-484c-8aaa-1685908ea0b4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 42168,
-            "positive": 39690,
+            "total": 42170,
+            "positive": 39692,
             "negative": 2478
         },
         "dlc": {
+            "description": "Rain World: The Watcher\nRain World: Downpour\nRain World - Soundtrack\nRain World: Downpour - Soundtrack\nRain World: The Watcher - Soundtrack\nRain World: The Watcher\nRain World: Downpour\nRain World - Soundtrack\nRain World: Downpour - Soundtrack\nRain World: The Watcher - Soundtrack\nRain World: The Watcher\nRain World: Downpour\nRain World - Soundtrack\nRain World: Downpour - Soundtrack\nRain World: The Watcher - Soundtrack\nRain World: The Watcher\nRain World: Downpour\nRain World - Soundtrack\nRain World: Downpour - Soundtrack\nRain World: The Watcher - Soundtrack\nRain World: The Watcher\nRain World: Downpour\nRain World - Soundtrack\nRain World: Downpour - Soundtrack\nRain World: The Watcher - Soundtrack\nRain World: The Watcher\nRain World: Downpour\nRain World - Soundtrack\nRain World: Downpour - Soundtrack\nRain World: The Watcher - Soundtrack",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -19388,6 +19812,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "Raindrops: Soulwind\n\nRaindrops: Soulwind\n\nRaindrops: Soulwind\n\nRaindrops: Soulwind\n\nRaindrops: Soulwind\n\nRaindrops: Soulwind",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -19433,6 +19858,7 @@ var extrasData =
             "negative": 9
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -19478,6 +19904,7 @@ var extrasData =
             "negative": 572
         },
         "dlc": {
+            "description": "Raw Data - OST\n\nRaw Data - OST\n\nRaw Data - OST\n\nRaw Data - OST\n\nRaw Data - OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -19526,11 +19953,12 @@ var extrasData =
     "9357297c-ae7d-4997-9472-a205bd602732": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6256,
-            "positive": 5174,
+            "total": 6261,
+            "positive": 5179,
             "negative": 1082
         },
         "dlc": {
+            "description": "Rebel Inc: Escalation - Dollars & Disasters\nRebel Inc: Escalation - Sand & Secrets\nRebel Inc: Escalation - Soundtrack\nRebel Inc: Escalation - Dollars & Disasters\nRebel Inc: Escalation - Sand & Secrets\nRebel Inc: Escalation - Soundtrack\nRebel Inc: Escalation - Dollars & Disasters\nRebel Inc: Escalation - Sand & Secrets\nRebel Inc: Escalation - Soundtrack\nRebel Inc: Escalation - Dollars & Disasters\nRebel Inc: Escalation - Sand & Secrets\nRebel Inc: Escalation - Soundtrack\nRebel Inc: Escalation - Dollars & Disasters\nRebel Inc: Escalation - Sand & Secrets\nRebel Inc: Escalation - Soundtrack\nRebel Inc: Escalation - Dollars & Disasters\nRebel Inc: Escalation - Sand & Secrets\nRebel Inc: Escalation - Soundtrack",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -19568,6 +19996,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "REDNEG ALLSTARS SWING-BY EDITION - Complete Artbook\n\nREDNEG ALLSTARS SWING-BY EDITION - Complete Artbook\n\nREDNEG ALLSTARS SWING-BY EDITION - Complete Artbook\n\nREDNEG ALLSTARS SWING-BY EDITION - Complete Artbook\n\nREDNEG ALLSTARS SWING-BY EDITION - Complete Artbook\n\nREDNEG ALLSTARS SWING-BY EDITION - Complete Artbook",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -19600,11 +20029,12 @@ var extrasData =
     "51741d94-2d19-4738-8a1f-887e0bd0e9fa": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1211,
-            "positive": 988,
+            "total": 1212,
+            "positive": 989,
             "negative": 223
         },
         "dlc": {
+            "description": "Redout 2 - Original Soundtrack\nRedout 2 - Season Pass\nRedout 2 - Summer Pack\nRedout 2 - Winter Pack\nRedout 2 - Original Soundtrack\nRedout 2 - Season Pass\nRedout 2 - Summer Pack\nRedout 2 - Winter Pack\nRedout 2 - Original Soundtrack\nRedout 2 - Season Pass\nRedout 2 - Summer Pack\nRedout 2 - Winter Pack\nRedout 2 - Original Soundtrack\nRedout 2 - Season Pass\nRedout 2 - Summer Pack\nRedout 2 - Winter Pack\nRedout 2 - Original Soundtrack\nRedout 2 - Season Pass\nRedout 2 - Summer Pack\nRedout 2 - Winter Pack\nRedout 2 - Original Soundtrack\nRedout 2 - Season Pass\nRedout 2 - Summer Pack\nRedout 2 - Winter Pack",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -19650,6 +20080,7 @@ var extrasData =
             "negative": 25
         },
         "dlc": {
+            "description": "RefleX Original Soundtrack\n\nRefleX Original Soundtrack\n\nRefleX Original Soundtrack\n\nRefleX Original Soundtrack\n\nRefleX Original Soundtrack\n\nRefleX Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -19687,6 +20118,7 @@ var extrasData =
             "negative": 3
         },
         "dlc": {
+            "description": "RefRain - prism memories - ORIGINAL SOUNDTRACK\n\nRefRain - prism memories - Chronicle Visual Book\n\nRefRain - prism memories - ORIGINAL SOUNDTRACK\n\nRefRain - prism memories - Chronicle Visual Book\n\nRefRain - prism memories - ORIGINAL SOUNDTRACK\n\nRefRain - prism memories - Chronicle Visual Book\n\nRefRain - prism memories - ORIGINAL SOUNDTRACK\n\nRefRain - prism memories - Chronicle Visual Book\n\nRefRain - prism memories - ORIGINAL SOUNDTRACK\n\nRefRain - prism memories - Chronicle Visual Book\n\nRefRain - prism memories - ORIGINAL SOUNDTRACK\n\nRefRain - prism memories - Chronicle Visual Book",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -19719,11 +20151,12 @@ var extrasData =
     "29fa4641-6af7-4758-83b2-0cfadb34e344": {
         "reviews": {
             "description": "Very Positive",
-            "total": 52770,
-            "positive": 44699,
+            "total": 52773,
+            "positive": 44702,
             "negative": 8071
         },
         "dlc": {
+            "description": "Remnant: From the Ashes - Swamps of Corsus\n\nRemnant: From the Ashes - Subject 2923\n\nRemnant: From the Ashes - Swamps of Corsus\n\nRemnant: From the Ashes - Subject 2923\n\nRemnant: From the Ashes - Swamps of Corsus\n\nRemnant: From the Ashes - Subject 2923\n\nRemnant: From the Ashes - Swamps of Corsus\n\nRemnant: From the Ashes - Subject 2923\n\nRemnant: From the Ashes - Swamps of Corsus\n\nRemnant: From the Ashes - Subject 2923\n\nRemnant: From the Ashes - Swamps of Corsus\n\nRemnant: From the Ashes - Subject 2923",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -19761,6 +20194,7 @@ var extrasData =
             "negative": 77
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -19793,19 +20227,20 @@ var extrasData =
     "01206a9d-7c9d-4b43-ab2d-ccf1822b7b17": {
         "reviews": {
             "description": "Very Positive",
-            "total": 26726,
-            "positive": 24572,
+            "total": 26727,
+            "positive": 24573,
             "negative": 2154
         }
     },
     "2282102c-cca7-46bd-b3b3-07c850bda822": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 172675,
-            "positive": 167469,
+            "total": 172682,
+            "positive": 167476,
             "negative": 5206
         },
         "dlc": {
+            "description": "Resident Evil 2 - Leon Costume: Arklay Sheriff\nResident Evil 2 - Leon Costume: Noir\nResident Evil 2 - Claire Costume: Military\nResident Evil 2 - Claire Costume: Noir\nResident Evil 2 - Claire Costume: Elza Walker\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Chris Model\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Jill Model\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Albert Model\nResident Evil 2 - Original Ver. Soundtrack Swap\nResident Evil 2 - All In-game Rewards Unlocked\nResident Evil 2 Original Soundtrack\nResident Evil 2 - Leon Costume: Arklay Sheriff\nResident Evil 2 - Leon Costume: Noir\nResident Evil 2 - Claire Costume: Military\nResident Evil 2 - Claire Costume: Noir\nResident Evil 2 - Claire Costume: Elza Walker\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Chris Model\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Jill Model\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Albert Model\nResident Evil 2 - Original Ver. Soundtrack Swap\nResident Evil 2 - All In-game Rewards Unlocked\nResident Evil 2 Original Soundtrack\nResident Evil 2 - Leon Costume: Arklay Sheriff\nResident Evil 2 - Leon Costume: Noir\nResident Evil 2 - Claire Costume: Military\nResident Evil 2 - Claire Costume: Noir\nResident Evil 2 - Claire Costume: Elza Walker\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Chris Model\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Jill Model\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Albert Model\nResident Evil 2 - Original Ver. Soundtrack Swap\nResident Evil 2 - All In-game Rewards Unlocked\nResident Evil 2 Original Soundtrack\nResident Evil 2 - Leon Costume: Arklay Sheriff\nResident Evil 2 - Leon Costume: Noir\nResident Evil 2 - Claire Costume: Military\nResident Evil 2 - Claire Costume: Noir\nResident Evil 2 - Claire Costume: Elza Walker\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Chris Model\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Jill Model\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Albert Model\nResident Evil 2 - Original Ver. Soundtrack Swap\nResident Evil 2 - All In-game Rewards Unlocked\nResident Evil 2 Original Soundtrack\nResident Evil 2 - Leon Costume: Arklay Sheriff\nResident Evil 2 - Leon Costume: Noir\nResident Evil 2 - Claire Costume: Military\nResident Evil 2 - Claire Costume: Noir\nResident Evil 2 - Claire Costume: Elza Walker\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Chris Model\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Jill Model\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Albert Model\nResident Evil 2 - Original Ver. Soundtrack Swap\nResident Evil 2 - All In-game Rewards Unlocked\nResident Evil 2 Original Soundtrack\nResident Evil 2 - Leon Costume: Arklay Sheriff\nResident Evil 2 - Leon Costume: Noir\nResident Evil 2 - Claire Costume: Military\nResident Evil 2 - Claire Costume: Noir\nResident Evil 2 - Claire Costume: Elza Walker\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Chris Model\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Jill Model\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Albert Model\nResident Evil 2 - Original Ver. Soundtrack Swap\nResident Evil 2 - All In-game Rewards Unlocked\nResident Evil 2 Original Soundtrack",
             "count": 13,
             "priceData": {
                 "USD": {
@@ -19838,11 +20273,12 @@ var extrasData =
     "970ecb86-18be-45c2-85be-15bdc7cfc358": {
         "reviews": {
             "description": "Very Positive",
-            "total": 91096,
-            "positive": 74414,
+            "total": 91102,
+            "positive": 74420,
             "negative": 16682
         },
         "dlc": {
+            "description": "RESIDENT EVIL 3 - Classic Costume Pack\nResident Evil 3 Special Soundtrack\nResident Evil 3 - All In-game Rewards Unlock\nResident Evil Resistance - Male Survivor Costume: Leon S. Kennedy\nResident Evil Resistance - Female Survivor Costume: Claire Redfield\nRESIDENT EVIL 3 - Classic Costume Pack\nResident Evil 3 Special Soundtrack\nResident Evil 3 - All In-game Rewards Unlock\nResident Evil Resistance - Male Survivor Costume: Leon S. Kennedy\nResident Evil Resistance - Female Survivor Costume: Claire Redfield\nRESIDENT EVIL 3 - Classic Costume Pack\nResident Evil 3 Special Soundtrack\nResident Evil 3 - All In-game Rewards Unlock\nResident Evil Resistance - Male Survivor Costume: Leon S. Kennedy\nResident Evil Resistance - Female Survivor Costume: Claire Redfield\nRESIDENT EVIL 3 - Classic Costume Pack\nResident Evil 3 Special Soundtrack\nResident Evil 3 - All In-game Rewards Unlock\nResident Evil Resistance - Male Survivor Costume: Leon S. Kennedy\nResident Evil Resistance - Female Survivor Costume: Claire Redfield\nRESIDENT EVIL 3 - Classic Costume Pack\nResident Evil 3 Special Soundtrack\nResident Evil 3 - All In-game Rewards Unlock\nResident Evil Resistance - Male Survivor Costume: Leon S. Kennedy\nResident Evil Resistance - Female Survivor Costume: Claire Redfield\nRESIDENT EVIL 3 - Classic Costume Pack\nResident Evil 3 Special Soundtrack\nResident Evil 3 - All In-game Rewards Unlock\nResident Evil Resistance - Male Survivor Costume: Leon S. Kennedy\nResident Evil Resistance - Female Survivor Costume: Claire Redfield",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -19875,11 +20311,12 @@ var extrasData =
     "adad0535-2c3a-413f-a2b3-fb67f0ad7728": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 181345,
-            "positive": 177185,
-            "negative": 4160
+            "total": 181365,
+            "positive": 177204,
+            "negative": 4161
         },
         "dlc": {
+            "description": "Resident Evil 4 - Separate Ways\nResident Evil 4 Original Soundtrack\nResident Evil 4 - The Mercenaries\nResident Evil 4 Treasure Map: Expansion\nResident Evil 4 Leon & Ashley Costumes: 'Casual'\nResident Evil 4 Leon & Ashley Costumes: 'Romantic'\nResident Evil 4 Leon Costume & Filter: 'Hero'\nResident Evil 4 Leon Costume & Filter: 'Villain'\nResident Evil 4 'Original Ver.' Soundtrack Swap\nResident Evil 4 Deluxe Weapon: 'Sentinel Nine'\nResident Evil 4 Deluxe Weapon: 'Skull Shaker'\nResident Evil 4 Leon Accessory: 'Sunglasses (Sporty)'\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (E)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (F)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x5 (A)\nResident Evil 4 Attach\u00e9 Case: 'Gold'\nResident Evil 4 Attach\u00e9 Case: 'Classic'\nResident Evil 4 Charm: 'Handgun Ammo'\nResident Evil 4 Charm: 'Green Herb'\nResident Evil 4 - Separate Ways\nResident Evil 4 Original Soundtrack\nResident Evil 4 - The Mercenaries\nResident Evil 4 Treasure Map: Expansion\nResident Evil 4 Leon & Ashley Costumes: 'Casual'\nResident Evil 4 Leon & Ashley Costumes: 'Romantic'\nResident Evil 4 Leon Costume & Filter: 'Hero'\nResident Evil 4 Leon Costume & Filter: 'Villain'\nResident Evil 4 'Original Ver.' Soundtrack Swap\nResident Evil 4 Deluxe Weapon: 'Sentinel Nine'\nResident Evil 4 Deluxe Weapon: 'Skull Shaker'\nResident Evil 4 Leon Accessory: 'Sunglasses (Sporty)'\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (E)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (F)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x5 (A)\nResident Evil 4 Attach\u00e9 Case: 'Gold'\nResident Evil 4 Attach\u00e9 Case: 'Classic'\nResident Evil 4 Charm: 'Handgun Ammo'\nResident Evil 4 Charm: 'Green Herb'\nResident Evil 4 - Separate Ways\nResident Evil 4 Original Soundtrack\nResident Evil 4 - The Mercenaries\nResident Evil 4 Treasure Map: Expansion\nResident Evil 4 Leon & Ashley Costumes: 'Casual'\nResident Evil 4 Leon & Ashley Costumes: 'Romantic'\nResident Evil 4 Leon Costume & Filter: 'Hero'\nResident Evil 4 Leon Costume & Filter: 'Villain'\nResident Evil 4 'Original Ver.' Soundtrack Swap\nResident Evil 4 Deluxe Weapon: 'Sentinel Nine'\nResident Evil 4 Deluxe Weapon: 'Skull Shaker'\nResident Evil 4 Leon Accessory: 'Sunglasses (Sporty)'\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (E)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (F)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x5 (A)\nResident Evil 4 Attach\u00e9 Case: 'Gold'\nResident Evil 4 Attach\u00e9 Case: 'Classic'\nResident Evil 4 Charm: 'Handgun Ammo'\nResident Evil 4 Charm: 'Green Herb'\nResident Evil 4 - Separate Ways\nResident Evil 4 Original Soundtrack\nResident Evil 4 - The Mercenaries\nResident Evil 4 Treasure Map: Expansion\nResident Evil 4 Leon & Ashley Costumes: 'Casual'\nResident Evil 4 Leon & Ashley Costumes: 'Romantic'\nResident Evil 4 Leon Costume & Filter: 'Hero'\nResident Evil 4 Leon Costume & Filter: 'Villain'\nResident Evil 4 'Original Ver.' Soundtrack Swap\nResident Evil 4 Deluxe Weapon: 'Sentinel Nine'\nResident Evil 4 Deluxe Weapon: 'Skull Shaker'\nResident Evil 4 Leon Accessory: 'Sunglasses (Sporty)'\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (E)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (F)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x5 (A)\nResident Evil 4 Attach\u00e9 Case: 'Gold'\nResident Evil 4 Attach\u00e9 Case: 'Classic'\nResident Evil 4 Charm: 'Handgun Ammo'\nResident Evil 4 Charm: 'Green Herb'\nResident Evil 4 - Separate Ways\nResident Evil 4 Original Soundtrack\nResident Evil 4 - The Mercenaries\nResident Evil 4 Treasure Map: Expansion\nResident Evil 4 Leon & Ashley Costumes: 'Casual'\nResident Evil 4 Leon & Ashley Costumes: 'Romantic'\nResident Evil 4 Leon Costume & Filter: 'Hero'\nResident Evil 4 Leon Costume & Filter: 'Villain'\nResident Evil 4 'Original Ver.' Soundtrack Swap\nResident Evil 4 Deluxe Weapon: 'Sentinel Nine'\nResident Evil 4 Deluxe Weapon: 'Skull Shaker'\nResident Evil 4 Leon Accessory: 'Sunglasses (Sporty)'\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (E)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (F)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x5 (A)\nResident Evil 4 Attach\u00e9 Case: 'Gold'\nResident Evil 4 Attach\u00e9 Case: 'Classic'\nResident Evil 4 Charm: 'Handgun Ammo'\nResident Evil 4 Charm: 'Green Herb'\nResident Evil 4 - Separate Ways\nResident Evil 4 Original Soundtrack\nResident Evil 4 - The Mercenaries\nResident Evil 4 Treasure Map: Expansion\nResident Evil 4 Leon & Ashley Costumes: 'Casual'\nResident Evil 4 Leon & Ashley Costumes: 'Romantic'\nResident Evil 4 Leon Costume & Filter: 'Hero'\nResident Evil 4 Leon Costume & Filter: 'Villain'\nResident Evil 4 'Original Ver.' Soundtrack Swap\nResident Evil 4 Deluxe Weapon: 'Sentinel Nine'\nResident Evil 4 Deluxe Weapon: 'Skull Shaker'\nResident Evil 4 Leon Accessory: 'Sunglasses (Sporty)'\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (E)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (F)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x5 (A)\nResident Evil 4 Attach\u00e9 Case: 'Gold'\nResident Evil 4 Attach\u00e9 Case: 'Classic'\nResident Evil 4 Charm: 'Handgun Ammo'\nResident Evil 4 Charm: 'Green Herb'",
             "count": 27,
             "priceData": {
                 "USD": {
@@ -19920,11 +20357,12 @@ var extrasData =
     "9a457867-09f2-4fc7-9258-91359f3a74f5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 97713,
-            "positive": 93086,
-            "negative": 4627
+            "total": 97715,
+            "positive": 93089,
+            "negative": 4626
         },
         "dlc": {
+            "description": "Not A Hero\nEnd of Zoe\nResident Evil 7 - Season Pass\nBanned Footage Vol.1\nBanned Footage Vol.2\nResident Evil 7 biohazard Original Soundtrack\nNot A Hero\nEnd of Zoe\nResident Evil 7 - Season Pass\nBanned Footage Vol.1\nBanned Footage Vol.2\nResident Evil 7 biohazard Original Soundtrack\nNot A Hero\nEnd of Zoe\nResident Evil 7 - Season Pass\nBanned Footage Vol.1\nBanned Footage Vol.2\nResident Evil 7 biohazard Original Soundtrack\nNot A Hero\nEnd of Zoe\nBanned Footage Vol.1\nBanned Footage Vol.2\nResident Evil 7 biohazard Original Soundtrack\nNot A Hero\nEnd of Zoe\nResident Evil 7 - Season Pass\nBanned Footage Vol.1\nBanned Footage Vol.2\nResident Evil 7 biohazard Original Soundtrack\nNot A Hero\nEnd of Zoe\nResident Evil 7 - Season Pass\nBanned Footage Vol.1\nBanned Footage Vol.2\nResident Evil 7 biohazard Original Soundtrack",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -19957,8 +20395,8 @@ var extrasData =
     "9dfff5f2-479b-48fc-aee1-a19cc28db7a5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8429,
-            "positive": 6911,
+            "total": 8432,
+            "positive": 6914,
             "negative": 1518
         }
     },
@@ -19970,6 +20408,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "Reverse x Reverse Original Soundtrack\n\nReverse x Reverse Original Soundtrack\n\nReverse x Reverse Original Soundtrack\n\nReverse x Reverse Original Soundtrack\n\nReverse x Reverse Original Soundtrack\n\nReverse x Reverse Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20007,6 +20446,7 @@ var extrasData =
             "negative": 399
         },
         "dlc": {
+            "description": "Revita Soundtrack\n\nRevita Soundtrack\n\nRevita Soundtrack\n\nRevita Soundtrack\n\nRevita Soundtrack\n\nRevita Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20092,6 +20532,7 @@ var extrasData =
             "negative": 46
         },
         "dlc": {
+            "description": "RHYTHM SPROUT Soundtrack\n\nRHYTHM SPROUT Soundtrack\n\nRHYTHM SPROUT Soundtrack\n\nRHYTHM SPROUT Soundtrack\n\nRHYTHM SPROUT Soundtrack\n\nRHYTHM SPROUT Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20161,6 +20602,7 @@ var extrasData =
             "negative": 407
         },
         "dlc": {
+            "description": "Ring of Pain Soundtrack\n\nRing of Pain Soundtrack\n\nRing of Pain Soundtrack\n\nRing of Pain Soundtrack\n\nRing of Pain Soundtrack\n\nRing of Pain Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20198,6 +20640,7 @@ var extrasData =
             "negative": 13
         },
         "dlc": {
+            "description": "Riptale Soundtrack\n\nRiptale Soundtrack\n\nRiptale Soundtrack\n\nRiptale Soundtrack\n\nRiptale Soundtrack\n\nRiptale Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20238,11 +20681,12 @@ var extrasData =
     "5bd04a9d-76a9-40c3-8890-3f4231372e65": {
         "reviews": {
             "description": "Very Positive",
-            "total": 136120,
-            "positive": 128024,
+            "total": 136122,
+            "positive": 128026,
             "negative": 8096
         },
         "dlc": {
+            "description": "Rise of the Tomb Raider 20 Year Celebration Pack\nBaba Yaga: The Temple of the Witch\nCold Darkness Awakened\nEndurance Mode\nRemnant Resistance Pack\nSparrowhawk Pack\nHope's Bastion Pack\nTactical Survivor Pack\nApex Predator Pack\nWilderness Survivor\nSiberian Ranger\nAncient Vanguard\nProphet's Legacy\nRise of the Tomb Raider 20 Year Celebration Pack\nBaba Yaga: The Temple of the Witch\nCold Darkness Awakened\nEndurance Mode\nRemnant Resistance Pack\nSparrowhawk Pack\nHope's Bastion Pack\nTactical Survivor Pack\nApex Predator Pack\nWilderness Survivor\nSiberian Ranger\nAncient Vanguard\nProphet's Legacy\nRise of the Tomb Raider 20 Year Celebration Pack\nBaba Yaga: The Temple of the Witch\nCold Darkness Awakened\nEndurance Mode\nRemnant Resistance Pack\nSparrowhawk Pack\nHope's Bastion Pack\nTactical Survivor Pack\nApex Predator Pack\nWilderness Survivor\nSiberian Ranger\nAncient Vanguard\nProphet's Legacy\nRise of the Tomb Raider 20 Year Celebration Pack\nBaba Yaga: The Temple of the Witch\nCold Darkness Awakened\nEndurance Mode\nRemnant Resistance Pack\nSparrowhawk Pack\nHope's Bastion Pack\nTactical Survivor Pack\nApex Predator Pack\nWilderness Survivor\nSiberian Ranger\nAncient Vanguard\nProphet's Legacy\nRise of the Tomb Raider 20 Year Celebration Pack\nBaba Yaga: The Temple of the Witch\nCold Darkness Awakened\nEndurance Mode\nRemnant Resistance Pack\nSparrowhawk Pack\nHope's Bastion Pack\nTactical Survivor Pack\nApex Predator Pack\nWilderness Survivor\nSiberian Ranger\nAncient Vanguard\nProphet's Legacy\nRise of the Tomb Raider 20 Year Celebration Pack\nBaba Yaga: The Temple of the Witch\nCold Darkness Awakened\nEndurance Mode\nRemnant Resistance Pack\nSparrowhawk Pack\nHope's Bastion Pack\nTactical Survivor Pack\nApex Predator Pack\nWilderness Survivor\nSiberian Ranger\nAncient Vanguard\nProphet's Legacy",
             "count": 13,
             "priceData": {
                 "USD": {
@@ -20280,6 +20724,7 @@ var extrasData =
             "negative": 32
         },
         "dlc": {
+            "description": "Rising Hell - Original Soundtrack (OST)\n\nRising Hell - Digital Artbook\n\nRising Hell - Original Soundtrack (OST)\n\nRising Hell - Digital Artbook\n\nRising Hell - Original Soundtrack (OST)\n\nRising Hell - Digital Artbook\n\nRising Hell - Original Soundtrack (OST)\n\nRising Hell - Digital Artbook\n\nRising Hell - Original Soundtrack (OST)\n\nRising Hell - Digital Artbook\n\nRising Hell - Original Soundtrack (OST)\n\nRising Hell - Digital Artbook",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -20317,6 +20762,7 @@ var extrasData =
             "negative": 1977
         },
         "dlc": {
+            "description": "Risk of Rain Soundtrack\n\nRisk of Rain Soundtrack\n\nRisk of Rain Soundtrack\n\nRisk of Rain Soundtrack\n\nRisk of Rain Soundtrack\n\nRisk of Rain Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20349,11 +20795,12 @@ var extrasData =
     "0ade411b-db3d-42ad-a5e8-d9748e57f062": {
         "reviews": {
             "description": "Very Positive",
-            "total": 312968,
-            "positive": 292556,
-            "negative": 20412
+            "total": 312983,
+            "positive": 292570,
+            "negative": 20413
         },
         "dlc": {
+            "description": "Risk of Rain 2: Seekers of the Storm\nRisk of Rain 2: Survivors of the Void\nRisk of Rain 2 Soundtrack\nRisk of Rain 2: Survivors of the Void - Soundtrack\nRisk of Rain 2: Seekers of the Storm - Soundtrack\nRisk of Rain 2: Seekers of the Storm\nRisk of Rain 2: Survivors of the Void\nRisk of Rain 2 Soundtrack\nRisk of Rain 2: Survivors of the Void - Soundtrack\nRisk of Rain 2: Seekers of the Storm - Soundtrack\nRisk of Rain 2: Seekers of the Storm\nRisk of Rain 2: Survivors of the Void\nRisk of Rain 2 Soundtrack\nRisk of Rain 2: Survivors of the Void - Soundtrack\nRisk of Rain 2: Seekers of the Storm - Soundtrack\nRisk of Rain 2: Seekers of the Storm\nRisk of Rain 2: Survivors of the Void\nRisk of Rain 2 Soundtrack\nRisk of Rain 2: Survivors of the Void - Soundtrack\nRisk of Rain 2: Seekers of the Storm - Soundtrack\nRisk of Rain 2: Seekers of the Storm\nRisk of Rain 2: Survivors of the Void\nRisk of Rain 2 Soundtrack\nRisk of Rain 2: Survivors of the Void - Soundtrack\nRisk of Rain 2: Seekers of the Storm - Soundtrack\nRisk of Rain 2: Seekers of the Storm\nRisk of Rain 2: Survivors of the Void\nRisk of Rain 2 Soundtrack\nRisk of Rain 2: Survivors of the Void - Soundtrack\nRisk of Rain 2: Seekers of the Storm - Soundtrack",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -20387,10 +20834,11 @@ var extrasData =
         "reviews": {
             "description": "Very Positive",
             "total": 27810,
-            "positive": 25079,
-            "negative": 2731
+            "positive": 25078,
+            "negative": 2732
         },
         "dlc": {
+            "description": "Risk of Rain Returns Soundtrack\n\nRisk of Rain Returns Soundtrack\n\nRisk of Rain Returns Soundtrack\n\nRisk of Rain Returns Soundtrack\n\nRisk of Rain Returns Soundtrack\n\nRisk of Rain Returns Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20428,6 +20876,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "Risk System - Deluxe Edition Content\n\nRisk System - Deluxe Edition Content\n\nRisk System - Deluxe Edition Content\n\nRisk System - Deluxe Edition Content\n\nRisk System - Deluxe Edition Content\n\nRisk System - Deluxe Edition Content",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20465,6 +20914,7 @@ var extrasData =
             "negative": 44
         },
         "dlc": {
+            "description": "RITE Original Soundtrack\n\nRITE Original Soundtrack\n\nRITE Original Soundtrack\n\nRITE Original Soundtrack\n\nRITE Original Soundtrack\n\nRITE Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20526,6 +20976,7 @@ var extrasData =
             "negative": 17
         },
         "dlc": {
+            "description": "Roah Soundtrack\n\nRoah Soundtrack\n\nRoah Soundtrack\n\nRoah Soundtrack\n\nRoah Soundtrack\n\nRoah Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20563,6 +21014,7 @@ var extrasData =
             "negative": 6
         },
         "dlc": {
+            "description": "Robbie Swifthand and the Orb of Mysteries - OST\n\nRobbie Swifthand and the Orb of Mysteries - OST\n\nRobbie Swifthand and the Orb of Mysteries - OST\n\nRobbie Swifthand and the Orb of Mysteries - OST\n\nRobbie Swifthand and the Orb of Mysteries - OST\n\nRobbie Swifthand and the Orb of Mysteries - OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20600,6 +21052,7 @@ var extrasData =
             "negative": 79
         },
         "dlc": {
+            "description": "ROBOBEAT Soundtrack\n\nROBOBEAT Soundtrack\n\nROBOBEAT Soundtrack\n\nROBOBEAT Soundtrack\n\nROBOBEAT Soundtrack\n\nROBOBEAT Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20632,11 +21085,12 @@ var extrasData =
     "15e7e8bf-dbd9-4e72-bb3a-585fa509da32": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21633,
-            "positive": 20650,
+            "total": 21635,
+            "positive": 20652,
             "negative": 983
         },
         "dlc": {
+            "description": "Roboquest: Soundtrack\n\nRoboquest: Soundtrack\n\nRoboquest: Soundtrack\n\nRoboquest: Soundtrack\n\nRoboquest: Soundtrack\n\nRoboquest: Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -20698,6 +21152,7 @@ var extrasData =
             "negative": 127
         },
         "dlc": {
+            "description": "Upgrade Rogue Glitch to Rogue Glitch Ultra\n\nUpgrade Rogue Glitch to Rogue Glitch Ultra\n\nUpgrade Rogue Glitch to Rogue Glitch Ultra\n\nUpgrade Rogue Glitch to Rogue Glitch Ultra\n\nUpgrade Rogue Glitch to Rogue Glitch Ultra\n\nUpgrade Rogue Glitch to Rogue Glitch Ultra",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20730,27 +21185,28 @@ var extrasData =
     "d48fe070-aaf4-46cc-8eb6-4471b110c4b9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 18473,
-            "positive": 17120,
+            "total": 18472,
+            "positive": 17119,
             "negative": 1353
         }
     },
     "bb1fa551-7757-49d1-a3fd-be3aa9d6fa4c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 14452,
+            "total": 14453,
             "positive": 13128,
-            "negative": 1324
+            "negative": 1325
         }
     },
     "d39bc0c4-b2c6-4af4-b811-23dd33d84b67": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3849,
-            "positive": 3227,
+            "total": 3850,
+            "positive": 3228,
             "negative": 622
         },
         "dlc": {
+            "description": "Roguebook - Heroes Skins Pack\nRoguebook - Alternate Art Pack\nRoguebook - The Art of Roguebook\nRoguebook - Original Soundtrack\nRoguebook - Fugoro, Merchant of Wonders\nRoguebook - Heroes Skins Pack\nRoguebook - Alternate Art Pack\nRoguebook - The Art of Roguebook\nRoguebook - Original Soundtrack\nRoguebook - Fugoro, Merchant of Wonders\nRoguebook - Heroes Skins Pack\nRoguebook - Alternate Art Pack\nRoguebook - The Art of Roguebook\nRoguebook - Original Soundtrack\nRoguebook - Fugoro, Merchant of Wonders\nRoguebook - Heroes Skins Pack\nRoguebook - Alternate Art Pack\nRoguebook - The Art of Roguebook\nRoguebook - Original Soundtrack\nRoguebook - Fugoro, Merchant of Wonders\nRoguebook - Heroes Skins Pack\nRoguebook - Alternate Art Pack\nRoguebook - The Art of Roguebook\nRoguebook - Original Soundtrack\nRoguebook - Fugoro, Merchant of Wonders\nRoguebook - Heroes Skins Pack\nRoguebook - Alternate Art Pack\nRoguebook - The Art of Roguebook\nRoguebook - Original Soundtrack\nRoguebook - Fugoro, Merchant of Wonders",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -20783,8 +21239,8 @@ var extrasData =
     "b1e90e70-74a0-4ec3-83d1-6eae858d3729": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2084,
-            "positive": 1890,
+            "total": 2085,
+            "positive": 1891,
             "negative": 194
         }
     },
@@ -20820,6 +21276,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "Rotund Rebound Original Soundtrack\n\nRotund Rebound Original Soundtrack\n\nRotund Rebound Original Soundtrack\n\nRotund Rebound Original Soundtrack\n\nRotund Rebound Original Soundtrack\n\nRotund Rebound Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20857,6 +21314,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "Rotund Takeoff Original Soundtrack\n\nRotund Takeoff Original Soundtrack\n\nRotund Takeoff Original Soundtrack\n\nRotund Takeoff Original Soundtrack\n\nRotund Takeoff Original Soundtrack\n\nRotund Takeoff Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20902,6 +21360,7 @@ var extrasData =
             "negative": 38
         },
         "dlc": {
+            "description": "Roundabout Deluxe Edition Content\n\nRoundabout Deluxe Edition Content\n\nRoundabout Deluxe Edition Content\n\nRoundabout Deluxe Edition Content\n\nRoundabout Deluxe Edition Content\n\nRoundabout Deluxe Edition Content",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20939,6 +21398,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "Roundabout 3 Soundtrack\n\nRoundabout 3 Soundtrack\n\nRoundabout 3 Soundtrack\n\nRoundabout 3 Soundtrack\n\nRoundabout 3 Soundtrack\n\nRoundabout 3 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -20976,6 +21436,7 @@ var extrasData =
             "negative": 1210
         },
         "dlc": {
+            "description": "RUINER Official Soundtrack\n\nRUINER Official Soundtrack\n\nRUINER Official Soundtrack\n\nRUINER Official Soundtrack\n\nRUINER Official Soundtrack\n\nRUINER Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21029,6 +21490,7 @@ var extrasData =
             "negative": 12
         },
         "dlc": {
+            "description": "RUN: The world in-between Soundtrack\n\nRUN: The world in-between Soundtrack\n\nRUN: The world in-between Soundtrack\n\nRUN: The world in-between Soundtrack\n\nRUN: The world in-between Soundtrack\n\nRUN: The world in-between Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21066,6 +21528,7 @@ var extrasData =
             "negative": 74
         },
         "dlc": {
+            "description": "Runner3 - Official Soundtrack\n\nRunner3 - Retro Challenge Soundtrack\n\nRunner3 - Official Soundtrack\n\nRunner3 - Retro Challenge Soundtrack\n\nRunner3 - Official Soundtrack\n\nRunner3 - Retro Challenge Soundtrack\n\nRunner3 - Official Soundtrack\n\nRunner3 - Retro Challenge Soundtrack\n\nRunner3 - Official Soundtrack\n\nRunner3 - Retro Challenge Soundtrack\n\nRunner3 - Official Soundtrack\n\nRunner3 - Retro Challenge Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -21111,6 +21574,7 @@ var extrasData =
             "negative": 6
         },
         "dlc": {
+            "description": "Russian Subway Dogs - Soundtrack\n\nRussian Subway Dogs - Soundtrack\n\nRussian Subway Dogs - Soundtrack\n\nRussian Subway Dogs - Soundtrack\n\nRussian Subway Dogs - Soundtrack\n\nRussian Subway Dogs - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21143,11 +21607,12 @@ var extrasData =
     "b5cfb737-310f-4427-8ea4-2674687a5c4a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1269,
-            "positive": 1137,
+            "total": 1270,
+            "positive": 1138,
             "negative": 132
         },
         "dlc": {
+            "description": "Rusted Moss Artbook\n\nRusted Moss Soundtrack\n\nRusted Moss Artbook\n\nRusted Moss Soundtrack\n\nRusted Moss Artbook\n\nRusted Moss Soundtrack\n\nRusted Moss Artbook\n\nRusted Moss Soundtrack\n\nRusted Moss Artbook\n\nRusted Moss Soundtrack\n\nRusted Moss Artbook\n\nRusted Moss Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -21204,8 +21669,8 @@ var extrasData =
     "d189bd84-f8d8-49a1-ba5b-929e717b7a15": {
         "reviews": {
             "description": "Very Positive",
-            "total": 20630,
-            "positive": 18462,
+            "total": 20632,
+            "positive": 18464,
             "negative": 2168
         }
     },
@@ -21220,11 +21685,12 @@ var extrasData =
     "b87adbf6-8114-4a6d-b756-dc580ee8468d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 35846,
-            "positive": 34904,
+            "total": 35850,
+            "positive": 34908,
             "negative": 942
         },
         "dlc": {
+            "description": "SANABI Soundtrack\n\nSANABI Soundtrack\n\nSANABI Soundtrack\n\nSANABI Soundtrack\n\nSANABI Soundtrack\n\nSANABI Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21286,6 +21752,7 @@ var extrasData =
             "negative": 220
         },
         "dlc": {
+            "description": "Savant - Alchemist (Soundtrack)\nSavant - Vario (Soundtrack)\nSavant - Cult (Soundtrack)\nSavant - Protos (Soundtrack)\nSavant - ZION (Soundtrack)\nSavant - VOID (Soundtrack)\nSavant - Alchemist (Soundtrack)\nSavant - Vario (Soundtrack)\nSavant - Cult (Soundtrack)\nSavant - Protos (Soundtrack)\nSavant - ZION (Soundtrack)\nSavant - VOID (Soundtrack)\nSavant - Alchemist (Soundtrack)\nSavant - Vario (Soundtrack)\nSavant - Cult (Soundtrack)\nSavant - Protos (Soundtrack)\nSavant - ZION (Soundtrack)\nSavant - VOID (Soundtrack)\nSavant - Alchemist (Soundtrack)\nSavant - Vario (Soundtrack)\nSavant - Cult (Soundtrack)\nSavant - Protos (Soundtrack)\nSavant - ZION (Soundtrack)\nSavant - VOID (Soundtrack)\nSavant - Alchemist (Soundtrack)\nSavant - Vario (Soundtrack)\nSavant - Cult (Soundtrack)\nSavant - Protos (Soundtrack)\nSavant - ZION (Soundtrack)\nSavant - VOID (Soundtrack)\nSavant - Alchemist (Soundtrack)\nSavant - Vario (Soundtrack)\nSavant - Cult (Soundtrack)\nSavant - Protos (Soundtrack)\nSavant - ZION (Soundtrack)\nSavant - VOID (Soundtrack)",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -21323,6 +21790,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "Save me Mr Tako Original Soundtrack\n\nSave me Mr Tako Original Soundtrack\n\nSave me Mr Tako Original Soundtrack\n\nSave me Mr Tako Original Soundtrack\n\nSave me Mr Tako Original Soundtrack\n\nSave me Mr Tako Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21376,6 +21844,7 @@ var extrasData =
             "negative": 265
         },
         "dlc": {
+            "description": "Sayonara Wild Hearts - Original Soundtrack\n\nSayonara Wild Hearts - Original Soundtrack\n\nSayonara Wild Hearts - Original Soundtrack\n\nSayonara Wild Hearts - Original Soundtrack\n\nSayonara Wild Hearts - Original Soundtrack\n\nSayonara Wild Hearts - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21429,6 +21898,7 @@ var extrasData =
             "negative": 380
         },
         "dlc": {
+            "description": "ScourgeBringer - Soundtrack\n\nScourgeBringer Supporter Pack\n\nScourgeBringer - Soundtrack\n\nScourgeBringer Supporter Pack\n\nScourgeBringer - Soundtrack\n\nScourgeBringer Supporter Pack\n\nScourgeBringer - Soundtrack\n\nScourgeBringer Supporter Pack\n\nScourgeBringer - Soundtrack\n\nScourgeBringer Supporter Pack\n\nScourgeBringer - Soundtrack\n\nScourgeBringer Supporter Pack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -21482,6 +21952,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "Scud Frenzy OST\n\nScud Frenzy OST\n\nScud Frenzy OST\n\nScud Frenzy OST\n\nScud Frenzy OST\n\nScud Frenzy OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21514,8 +21985,8 @@ var extrasData =
     "25667c9b-98bb-4e42-826d-d97d3a2c74ea": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 321474,
-            "positive": 306342,
+            "total": 321484,
+            "positive": 306352,
             "negative": 15132
         }
     },
@@ -21530,11 +22001,12 @@ var extrasData =
     "d72f3933-9a97-402b-a8fb-61b157ed0b04": {
         "reviews": {
             "description": "Very Positive",
-            "total": 27683,
-            "positive": 24460,
-            "negative": 3223
+            "total": 27685,
+            "positive": 24463,
+            "negative": 3222
         },
         "dlc": {
+            "description": "Serious Sam 3: Jewel of the Nile\n\nSerious Sam 3 Bonus Content DLC\n\nSerious Sam 3: Jewel of the Nile\n\nSerious Sam 3 Bonus Content DLC\n\nSerious Sam 3: Jewel of the Nile\n\nSerious Sam 3 Bonus Content DLC\n\nSerious Sam 3: Jewel of the Nile\n\nSerious Sam 3 Bonus Content DLC\n\nSerious Sam 3: Jewel of the Nile\n\nSerious Sam 3 Bonus Content DLC\n\nSerious Sam 3: Jewel of the Nile\n\nSerious Sam 3 Bonus Content DLC",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -21568,8 +22040,8 @@ var extrasData =
         "reviews": {
             "description": "Very Positive",
             "total": 16091,
-            "positive": 13423,
-            "negative": 2668
+            "positive": 13424,
+            "negative": 2667
         }
     },
     "11e5e8e3-f092-4674-8c9d-fd7d7eb4bdb9": {
@@ -21588,6 +22060,7 @@ var extrasData =
             "negative": 329
         },
         "dlc": {
+            "description": "Serious Sam: Siberian Mayhem Soundtrack\n\nSerious Sam: Siberian Mayhem Soundtrack\n\nSerious Sam: Siberian Mayhem Soundtrack\n\nSerious Sam: Siberian Mayhem Soundtrack\n\nSerious Sam: Siberian Mayhem Soundtrack\n\nSerious Sam: Siberian Mayhem Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21636,11 +22109,12 @@ var extrasData =
     "bff50fde-a66c-47ad-a683-98fce90d6306": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2961,
-            "positive": 2808,
+            "total": 2962,
+            "positive": 2809,
             "negative": 153
         },
         "dlc": {
+            "description": "SEUM: The Drunk Side of the Moon\n\nSEUM: Speedrunners from Hell - Soundtrack\n\nSEUM: The Drunk Side of the Moon\n\nSEUM: Speedrunners from Hell - Soundtrack\n\nSEUM: The Drunk Side of the Moon\n\nSEUM: Speedrunners from Hell - Soundtrack\n\nSEUM: The Drunk Side of the Moon\n\nSEUM: Speedrunners from Hell - Soundtrack\n\nSEUM: The Drunk Side of the Moon\n\nSEUM: Speedrunners from Hell - Soundtrack\n\nSEUM: The Drunk Side of the Moon\n\nSEUM: Speedrunners from Hell - Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -21678,6 +22152,7 @@ var extrasData =
             "negative": 182
         },
         "dlc": {
+            "description": "Shadow Corridor - DLC\n\nShadow Corridor - DLC\n\nShadow Corridor - DLC\n\nShadow Corridor - DLC\n\nShadow Corridor - DLC\n\nShadow Corridor - DLC",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21715,6 +22190,7 @@ var extrasData =
             "negative": 103
         },
         "dlc": {
+            "description": "Shadow Corridor 2 \u96e8\u30ce\u56db\u8469 Soundtrack\n\nShadow Corridor 2 \u96e8\u30ce\u56db\u8469 Soundtrack\n\nShadow Corridor 2 \u96e8\u30ce\u56db\u8469 Soundtrack\n\nShadow Corridor 2 \u96e8\u30ce\u56db\u8469 Soundtrack\n\nShadow Corridor 2 \u96e8\u30ce\u56db\u8469 Soundtrack\n\nShadow Corridor 2 \u96e8\u30ce\u56db\u8469 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21747,11 +22223,12 @@ var extrasData =
     "ac0fab33-fa22-44be-adec-d3614e5192c7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 26140,
-            "positive": 24061,
+            "total": 26142,
+            "positive": 24063,
             "negative": 2079
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21805,6 +22282,7 @@ var extrasData =
             "negative": 76
         },
         "dlc": {
+            "description": "Shattered Pixel Dungeon Soundtrack\n\nShattered Pixel Dungeon Soundtrack\n\nShattered Pixel Dungeon Soundtrack\n\nShattered Pixel Dungeon Soundtrack\n\nShattered Pixel Dungeon Soundtrack\n\nShattered Pixel Dungeon Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21842,6 +22320,7 @@ var extrasData =
             "negative": 21
         },
         "dlc": {
+            "description": "She Wants Me Dead - Track DLC\n\nShe Wants Me Dead - Track DLC\n\nShe Wants Me Dead - Track DLC\n\nShe Wants Me Dead - Track DLC\n\nShe Wants Me Dead - Track DLC\n\nShe Wants Me Dead - Track DLC",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21887,6 +22366,7 @@ var extrasData =
             "negative": 35
         },
         "dlc": {
+            "description": "Shikhondo(\u98df\u9b42\u5f92) - Original Sound Track\n\nShikhondo(\u98df\u9b42\u5f92) - Original Sound Track\n\nShikhondo(\u98df\u9b42\u5f92) - Original Sound Track\n\nShikhondo(\u98df\u9b42\u5f92) - Original Sound Track\n\nShikhondo(\u98df\u9b42\u5f92) - Original Sound Track",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21924,6 +22404,7 @@ var extrasData =
             "negative": 12
         },
         "dlc": {
+            "description": "Shikhondo: Youkai Rampage Original Soundtrack\n\nShikhondo: Youkai Rampage Original Soundtrack\n\nShikhondo: Youkai Rampage Original Soundtrack\n\nShikhondo: Youkai Rampage Original Soundtrack\n\nShikhondo: Youkai Rampage Original Soundtrack\n\nShikhondo: Youkai Rampage Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21961,6 +22442,7 @@ var extrasData =
             "negative": 323
         },
         "dlc": {
+            "description": "Shio - Original Soundtrack\n\nShio - Original Soundtrack\n\nShio - Original Soundtrack\n\nShio - Original Soundtrack\n\nShio - Original Soundtrack\n\nShio - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -21998,6 +22480,7 @@ var extrasData =
             "negative": 20
         },
         "dlc": {
+            "description": "Shipped Soundtrack\n\nShipped Soundtrack\n\nShipped Soundtrack\n\nShipped Soundtrack\n\nShipped Soundtrack\n\nShipped Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22035,6 +22518,7 @@ var extrasData =
             "negative": 26
         },
         "dlc": {
+            "description": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island Plus Pack\n\nShiren the Wanderer: The Mystery Dungeon of Serpentcoil Island Soundtrack\n\nShiren the Wanderer: The Mystery Dungeon of Serpentcoil Island Plus Pack\n\nShiren the Wanderer: The Mystery Dungeon of Serpentcoil Island Soundtrack\n\nShiren the Wanderer: The Mystery Dungeon of Serpentcoil Island Plus Pack\n\nShiren the Wanderer: The Mystery Dungeon of Serpentcoil Island Soundtrack\n\nShiren the Wanderer: The Mystery Dungeon of Serpentcoil Island Plus Pack\n\nShiren the Wanderer: The Mystery Dungeon of Serpentcoil Island Soundtrack\n\nShiren the Wanderer: The Mystery Dungeon of Serpentcoil Island Plus Pack\n\nShiren the Wanderer: The Mystery Dungeon of Serpentcoil Island Soundtrack\n\nShiren the Wanderer: The Mystery Dungeon of Serpentcoil Island Plus Pack\n\nShiren the Wanderer: The Mystery Dungeon of Serpentcoil Island Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -22080,6 +22564,7 @@ var extrasData =
             "negative": 5
         },
         "dlc": {
+            "description": "Shmups Skill Test Original Soundtrack\n\nShmups Skill Test Original Soundtrack\n\nShmups Skill Test Original Soundtrack\n\nShmups Skill Test Original Soundtrack\n\nShmups Skill Test Original Soundtrack\n\nShmups Skill Test Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22120,11 +22605,12 @@ var extrasData =
     "ee570edc-b9b9-4f3a-be8d-61c99027a554": {
         "reviews": {
             "description": "Very Positive",
-            "total": 250,
-            "positive": 243,
+            "total": 251,
+            "positive": 244,
             "negative": 7
         },
         "dlc": {
+            "description": "Shotgun Cop Man Soundtrack\n\nShotgun Cop Man Soundtrack\n\nShotgun Cop Man Soundtrack\n\nShotgun Cop Man Soundtrack\n\nShotgun Cop Man Soundtrack\n\nShotgun Cop Man Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22157,11 +22643,12 @@ var extrasData =
     "651632fe-874a-41f6-a379-f3896feb69ef": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6405,
-            "positive": 5872,
+            "total": 6406,
+            "positive": 5873,
             "negative": 533
         },
         "dlc": {
+            "description": "Shotgun King: The Final Checkmate Soundtrack\n\nShotgun King: The Final Checkmate Soundtrack\n\nShotgun King: The Final Checkmate Soundtrack\n\nShotgun King: The Final Checkmate Soundtrack\n\nShotgun King: The Final Checkmate Soundtrack\n\nShotgun King: The Final Checkmate Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22207,6 +22694,7 @@ var extrasData =
             "negative": 673
         },
         "dlc": {
+            "description": "Shovel Knight: Treasure Trove Soundtrack Collection\n\nShovel Knight: Treasure Trove Soundtrack Collection\n\nShovel Knight: Treasure Trove Soundtrack Collection\n\nShovel Knight: Treasure Trove Soundtrack Collection\n\nShovel Knight: Treasure Trove Soundtrack Collection\n\nShovel Knight: Treasure Trove Soundtrack Collection",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22244,6 +22732,7 @@ var extrasData =
             "negative": 52
         },
         "dlc": {
+            "description": "Shu Original Soundtrack\n\nShu Original Soundtrack\n\nShu Original Soundtrack\n\nShu Original Soundtrack\n\nShu Original Soundtrack\n\nShu Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22276,11 +22765,12 @@ var extrasData =
     "53c4e85f-4e43-4d51-823e-cabe21302e88": {
         "reviews": {
             "description": "Very Positive",
-            "total": 21045,
-            "positive": 19457,
-            "negative": 1588
+            "total": 21050,
+            "positive": 19461,
+            "negative": 1589
         },
         "dlc": {
+            "description": "Sifu Deluxe Cosmetic Pack\nThe Sound of Sifu\nThe Art of Sifu\nSifu Deluxe Cosmetic Pack\nThe Sound of Sifu\nThe Art of Sifu\nSifu Deluxe Cosmetic Pack\nThe Sound of Sifu\nThe Art of Sifu\nSifu Deluxe Cosmetic Pack\nThe Sound of Sifu\nThe Art of Sifu\nSifu Deluxe Cosmetic Pack\nThe Sound of Sifu\nThe Art of Sifu\nSifu Deluxe Cosmetic Pack\nThe Sound of Sifu\nThe Art of Sifu",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -22358,6 +22848,7 @@ var extrasData =
             "negative": 7
         },
         "dlc": {
+            "description": "Skeleton Boomerang - Vampire Hunter Mode\n\nSkeleton Boomerang - Vampire Hunter Mode\n\nSkeleton Boomerang - Vampire Hunter Mode\n\nSkeleton Boomerang - Vampire Hunter Mode\n\nSkeleton Boomerang - Vampire Hunter Mode\n\nSkeleton Boomerang - Vampire Hunter Mode",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22398,11 +22889,12 @@ var extrasData =
     "e14c381f-b333-4792-9bb7-0439f3d34860": {
         "reviews": {
             "description": "Very Positive",
-            "total": 54862,
-            "positive": 51181,
+            "total": 54865,
+            "positive": 51184,
             "negative": 3681
         },
         "dlc": {
+            "description": "Skul: The Hero Slayer - Mythology Pack\n\nSkul: The Hero Slayer Soundtrack\n\nSkul: The Hero Slayer - Mythology Pack\n\nSkul: The Hero Slayer Soundtrack\n\nSkul: The Hero Slayer - Mythology Pack\n\nSkul: The Hero Slayer Soundtrack\n\nSkul: The Hero Slayer - Mythology Pack\n\nSkul: The Hero Slayer Soundtrack\n\nSkul: The Hero Slayer - Mythology Pack\n\nSkul: The Hero Slayer Soundtrack\n\nSkul: The Hero Slayer - Mythology Pack\n\nSkul: The Hero Slayer Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -22440,6 +22932,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "SKULL CHAINZ Soundtrack\n\nSKULL CHAINZ Soundtrack\n\nSKULL CHAINZ Soundtrack\n\nSKULL CHAINZ Soundtrack\n\nSKULL CHAINZ Soundtrack\n\nSKULL CHAINZ Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22477,6 +22970,7 @@ var extrasData =
             "negative": 3755
         },
         "dlc": {
+            "description": "Skullgirls: Season 1 Pass\nSkullgirls: Umbrella\nSkullgirls: Annie\nSkullgirls: Original Soundtrack\nSkullgirls: Black Dahlia\nSkullgirls: Marie\nSkullgirls: Season 1 Pass\nSkullgirls: Umbrella\nSkullgirls: Annie\nSkullgirls: Original Soundtrack\nSkullgirls: Black Dahlia\nSkullgirls: Marie\nSkullgirls: Season 1 Pass\nSkullgirls: Umbrella\nSkullgirls: Annie\nSkullgirls: Original Soundtrack\nSkullgirls: Black Dahlia\nSkullgirls: Marie\nSkullgirls: Season 1 Pass\nSkullgirls: Umbrella\nSkullgirls: Annie\nSkullgirls: Original Soundtrack\nSkullgirls: Black Dahlia\nSkullgirls: Marie\nSkullgirls: Season 1 Pass\nSkullgirls: Umbrella\nSkullgirls: Annie\nSkullgirls: Original Soundtrack\nSkullgirls: Black Dahlia\nSkullgirls: Marie\nSkullgirls: Season 1 Pass\nSkullgirls: Umbrella\nSkullgirls: Annie\nSkullgirls: Original Soundtrack\nSkullgirls: Black Dahlia\nSkullgirls: Marie",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -22530,6 +23024,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "Sky Racket Original Soundtrack\n\nSky Racket Original Soundtrack\n\nSky Racket Original Soundtrack\n\nSky Racket Original Soundtrack\n\nSky Racket Original Soundtrack\n\nSky Racket Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22567,6 +23062,7 @@ var extrasData =
             "negative": 7
         },
         "dlc": {
+            "description": "Skybolt Zack: Soundtrack\n\nSkybolt Zack: Soundtrack\n\nSkybolt Zack: Soundtrack\n\nSkybolt Zack: Soundtrack\n\nSkybolt Zack: Soundtrack\n\nSkybolt Zack: Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22615,11 +23111,12 @@ var extrasData =
     "f5002235-3248-453d-93b8-b96736bb4712": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 181823,
-            "positive": 177815,
-            "negative": 4008
+            "total": 181841,
+            "positive": 177831,
+            "negative": 4010
         },
         "dlc": {
+            "description": "Slay the Spire - Soundtrack\n\nSlay the Spire - Soundtrack\n\nSlay the Spire - Soundtrack\n\nSlay the Spire - Soundtrack\n\nSlay the Spire - Soundtrack\n\nSlay the Spire - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22657,6 +23154,7 @@ var extrasData =
             "negative": 1067
         },
         "dlc": {
+            "description": "Slender: The Arrival Soundtrack\n\nSlender: The Arrival Soundtrack\n\nSlender: The Arrival Soundtrack\n\nSlender: The Arrival Soundtrack\n\nSlender: The Arrival Soundtrack\n\nSlender: The Arrival Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22694,6 +23192,7 @@ var extrasData =
             "negative": 47
         },
         "dlc": {
+            "description": "Slime-san - Official Soundtrack\n\nSlime-san - Official Soundtrack\n\nSlime-san - Official Soundtrack\n\nSlime-san - Official Soundtrack\n\nSlime-san - Official Soundtrack\n\nSlime-san - Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22795,6 +23294,7 @@ var extrasData =
             "negative": 115
         },
         "dlc": {
+            "description": "Solar Ash - Original Soundtrack\n\nSolar Ash - Original Soundtrack\n\nSolar Ash - Original Soundtrack\n\nSolar Ash - Original Soundtrack\n\nSolar Ash - Original Soundtrack\n\nSolar Ash - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22840,6 +23340,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "SomnaBuster Soundtrack\n\nSomnaBuster Soundtrack\n\nSomnaBuster Soundtrack\n\nSomnaBuster Soundtrack\n\nSomnaBuster Soundtrack\n\nSomnaBuster Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22885,6 +23386,7 @@ var extrasData =
             "negative": 1104
         },
         "dlc": {
+            "description": "Sonic and All-Stars Racing Transformed - Yogscast DLC\n\nSonic and All-Stars Racing Transformed - Yogscast DLC\n\nSonic and All-Stars Racing Transformed - Yogscast DLC\n\nSonic and All-Stars Racing Transformed - Yogscast DLC",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22913,11 +23415,12 @@ var extrasData =
     "55b8746d-0642-4d11-aca0-a9f8e7c4c6ef": {
         "reviews": {
             "description": "Very Positive",
-            "total": 25435,
-            "positive": 22680,
+            "total": 25434,
+            "positive": 22679,
             "negative": 2755
         },
         "dlc": {
+            "description": "SONIC ADVENTURE 2: BATTLE\n\nSONIC ADVENTURE 2: BATTLE\n\nSONIC ADVENTURE 2: BATTLE\n\nSONIC ADVENTURE 2: BATTLE\n\nSONIC ADVENTURE 2: BATTLE\n\nSONIC ADVENTURE 2: BATTLE",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -22963,6 +23466,7 @@ var extrasData =
             "negative": 3214
         },
         "dlc": {
+            "description": "",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -23008,6 +23512,7 @@ var extrasData =
             "negative": 1631
         },
         "dlc": {
+            "description": "Sonic Mania - Encore DLC\n\nSonic Mania - Encore DLC\n\nSonic Mania - Encore DLC\n\nSonic Mania - Encore DLC\n\nSonic Mania - Encore DLC\n\nSonic Mania - Encore DLC",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -23053,6 +23558,7 @@ var extrasData =
             "negative": 35
         },
         "dlc": {
+            "description": "Sora no Kakera - Sora Original Soundtrack\n\nCeleste - Sora Extra Soundtrack\n\nSora no Kakera - Sora Original Soundtrack\n\nCeleste - Sora Extra Soundtrack\n\nSora no Kakera - Sora Original Soundtrack\n\nCeleste - Sora Extra Soundtrack\n\nSora no Kakera - Sora Original Soundtrack\n\nCeleste - Sora Extra Soundtrack\n\nSora no Kakera - Sora Original Soundtrack\n\nCeleste - Sora Extra Soundtrack\n\nSora no Kakera - Sora Original Soundtrack\n\nCeleste - Sora Extra Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -23090,6 +23596,7 @@ var extrasData =
             "negative": 834
         },
         "dlc": {
+            "description": "Souldiers - OST\n\nSouldiers - Artbook\n\nSouldiers - OST\n\nSouldiers - Artbook\n\nSouldiers - OST\n\nSouldiers - Artbook\n\nSouldiers - OST\n\nSouldiers - Artbook\n\nSouldiers - OST\n\nSouldiers - Artbook\n\nSouldiers - OST\n\nSouldiers - Artbook",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -23143,6 +23650,7 @@ var extrasData =
             "negative": 9
         },
         "dlc": {
+            "description": "Soundodger 2 Soundtrack\n\nSoundodger 2 Soundtrack\n\nSoundodger 2 Soundtrack\n\nSoundodger 2 Soundtrack\n\nSoundodger 2 Soundtrack\n\nSoundodger 2 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -23180,6 +23688,7 @@ var extrasData =
             "negative": 82
         },
         "dlc": {
+            "description": "Soundodger+ Soundtrack\n\nSoundodger+ Soundtrack\n\nSoundodger+ Soundtrack\n\nSoundodger+ Soundtrack\n\nSoundodger+ Soundtrack\n\nSoundodger+ Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -23273,6 +23782,7 @@ var extrasData =
             "negative": 5
         },
         "dlc": {
+            "description": "Spectrolite Soundtrack\n\nSpectrolite Soundtrack\n\nSpectrolite Soundtrack\n\nSpectrolite Soundtrack\n\nSpectrolite Soundtrack\n\nSpectrolite Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -23318,6 +23828,7 @@ var extrasData =
             "negative": 30
         },
         "dlc": {
+            "description": "",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -23371,6 +23882,7 @@ var extrasData =
             "negative": 2215
         },
         "dlc": {
+            "description": "SpeedRunners - Civil Dispute! Character Pack\nSpeedRunners - Youtuber Pack 1\nSpeedRunners - Youtuber Pack 2\nSpeedRunners - Civil Dispute! Character Pack\nSpeedRunners - Youtuber Pack 1\nSpeedRunners - Youtuber Pack 2\nSpeedRunners - Civil Dispute! Character Pack\nSpeedRunners - Youtuber Pack 1\nSpeedRunners - Youtuber Pack 2\nSpeedRunners - Civil Dispute! Character Pack\nSpeedRunners - Youtuber Pack 1\nSpeedRunners - Youtuber Pack 2\nSpeedRunners - Civil Dispute! Character Pack\nSpeedRunners - Youtuber Pack 1\nSpeedRunners - Youtuber Pack 2\nSpeedRunners - Civil Dispute! Character Pack\nSpeedRunners - Youtuber Pack 1\nSpeedRunners - Youtuber Pack 2",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -23424,6 +23936,7 @@ var extrasData =
             "negative": 1423
         },
         "dlc": {
+            "description": "Spelunky 2 Soundtrack\n\nSpelunky 2 Soundtrack\n\nSpelunky 2 Soundtrack\n\nSpelunky 2 Soundtrack\n\nSpelunky 2 Soundtrack\n\nSpelunky 2 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -23461,6 +23974,7 @@ var extrasData =
             "negative": 416
         },
         "dlc": {
+            "description": "SpiderHeck - Show Your Support\n\nSpiderHeck - Show Your Support\n\nSpiderHeck - Show Your Support\n\nSpiderHeck - Show Your Support\n\nSpiderHeck - Show Your Support\n\nSpiderHeck - Show Your Support",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -23498,6 +24012,7 @@ var extrasData =
             "negative": 114
         },
         "dlc": {
+            "description": "Spin Rhythm XD - Supporter Pack\nSpin Rhythm XD Vol.1 (Original Sound Track)\nSpin Rhythm XD - Monstercat DLC\nSpin Rhythm XD - Chillhop DLC\nSpin Rhythm XD - Supporter Pack\nSpin Rhythm XD Vol.1 (Original Sound Track)\nSpin Rhythm XD - Monstercat DLC\nSpin Rhythm XD - Chillhop DLC\nSpin Rhythm XD - Supporter Pack\nSpin Rhythm XD Vol.1 (Original Sound Track)\nSpin Rhythm XD - Monstercat DLC\nSpin Rhythm XD - Chillhop DLC\nSpin Rhythm XD - Supporter Pack\nSpin Rhythm XD Vol.1 (Original Sound Track)\nSpin Rhythm XD - Monstercat DLC\nSpin Rhythm XD - Chillhop DLC\nSpin Rhythm XD - Supporter Pack\nSpin Rhythm XD Vol.1 (Original Sound Track)\nSpin Rhythm XD - Monstercat DLC\nSpin Rhythm XD - Chillhop DLC\nSpin Rhythm XD - Supporter Pack\nSpin Rhythm XD Vol.1 (Original Sound Track)\nSpin Rhythm XD - Monstercat DLC\nSpin Rhythm XD - Chillhop DLC",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -23551,6 +24066,7 @@ var extrasData =
             "negative": 15
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -23591,11 +24107,12 @@ var extrasData =
     "3ab06a37-44b3-46bc-8850-a3712a03bd4d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1119,
-            "positive": 1038,
+            "total": 1118,
+            "positive": 1037,
             "negative": 81
         },
         "dlc": {
+            "description": "Splasher - Official Soundtrack\n\nSplasher - Official Soundtrack\n\nSplasher - Official Soundtrack\n\nSplasher - Official Soundtrack\n\nSplasher - Official Soundtrack\n\nSplasher - Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -23633,6 +24150,7 @@ var extrasData =
             "negative": 6
         },
         "dlc": {
+            "description": "Splatter Soundtrack\n\nSplatter Soundtrack\n\nSplatter Soundtrack\n\nSplatter Soundtrack\n\nSplatter Soundtrack\n\nSplatter Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -23670,6 +24188,7 @@ var extrasData =
             "negative": 6
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -23771,6 +24290,7 @@ var extrasData =
             "negative": 14
         },
         "dlc": {
+            "description": "StarCrossed Soundtrack\n\nStarCrossed - Art Book & Comic\n\nStarCrossed Soundtrack\n\nStarCrossed - Art Book & Comic\n\nStarCrossed Soundtrack\n\nStarCrossed - Art Book & Comic\n\nStarCrossed Soundtrack\n\nStarCrossed - Art Book & Comic\n\nStarCrossed Soundtrack\n\nStarCrossed - Art Book & Comic\n\nStarCrossed Soundtrack\n\nStarCrossed - Art Book & Comic",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -23803,11 +24323,12 @@ var extrasData =
     "c98bced4-e6d7-4034-8e85-5208d1487f8d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 884480,
-            "positive": 870685,
-            "negative": 13795
+            "total": 884556,
+            "positive": 870760,
+            "negative": 13796
         },
         "dlc": {
+            "description": "Stardew Valley Soundtrack\n\nStardew Valley Soundtrack\n\nStardew Valley Soundtrack\n\nStardew Valley Soundtrack\n\nStardew Valley Soundtrack\n\nStardew Valley Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -23845,6 +24366,7 @@ var extrasData =
             "negative": 14
         },
         "dlc": {
+            "description": "Stardust Galaxy Warriors: Stellar Climax - Soundtrack\n\nStardust Galaxy Warriors: Stellar Climax - Soundtrack\n\nStardust Galaxy Warriors: Stellar Climax - Soundtrack\n\nStardust Galaxy Warriors: Stellar Climax - Soundtrack\n\nStardust Galaxy Warriors: Stellar Climax - Soundtrack\n\nStardust Galaxy Warriors: Stellar Climax - Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -23882,6 +24404,7 @@ var extrasData =
             "negative": 78
         },
         "dlc": {
+            "description": "STARWHAL Official Soundtrack\n\nSTARWHAL Official Soundtrack\n\nSTARWHAL Official Soundtrack\n\nSTARWHAL Official Soundtrack\n\nSTARWHAL Official Soundtrack\n\nSTARWHAL Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -23919,6 +24442,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "Stay Safe - Soundtrack\n\nStay Safe - Soundtrack\n\nStay Safe - Soundtrack\n\nStay Safe - Soundtrack\n\nStay Safe - Soundtrack\n\nStay Safe - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -23956,6 +24480,7 @@ var extrasData =
             "negative": 134
         },
         "dlc": {
+            "description": "Stealth Bastard Deluxe - The Teleporter Chambers\n\nStealth Bastard Deluxe - Soundtrack\n\nStealth Bastard Deluxe - The Teleporter Chambers\n\nStealth Bastard Deluxe - Soundtrack\n\nStealth Bastard Deluxe - The Teleporter Chambers\n\nStealth Bastard Deluxe - Soundtrack\n\nStealth Bastard Deluxe - The Teleporter Chambers\n\nStealth Bastard Deluxe - Soundtrack\n\nStealth Bastard Deluxe - The Teleporter Chambers\n\nStealth Bastard Deluxe - Soundtrack\n\nStealth Bastard Deluxe - The Teleporter Chambers\n\nStealth Bastard Deluxe - Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -23993,6 +24518,7 @@ var extrasData =
             "negative": 252
         },
         "dlc": {
+            "description": "Stealth Inc 2: A Game of Clones - Official Soundtrack\n\nStealth Inc 2: A Game of Clones - Official Soundtrack\n\nStealth Inc 2: A Game of Clones - Official Soundtrack\n\nStealth Inc 2: A Game of Clones - Official Soundtrack\n\nStealth Inc 2: A Game of Clones - Official Soundtrack\n\nStealth Inc 2: A Game of Clones - Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24025,11 +24551,12 @@ var extrasData =
     "a28536f3-626a-4aa3-85c1-543ad5ceef71": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 7577,
-            "positive": 7238,
+            "total": 7578,
+            "positive": 7239,
             "negative": 339
         },
         "dlc": {
+            "description": "SteamWorld Dig 2 OST Feat. El Huervo\n\nSteamWorld Dig 2 OST Feat. El Huervo\n\nSteamWorld Dig 2 OST Feat. El Huervo\n\nSteamWorld Dig 2 OST Feat. El Huervo\n\nSteamWorld Dig 2 OST Feat. El Huervo\n\nSteamWorld Dig 2 OST Feat. El Huervo",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24067,6 +24594,7 @@ var extrasData =
             "negative": 336
         },
         "dlc": {
+            "description": "SteamWorld Heist: The Outsider\nHatbox: Hatful Eight + 2 (SteamWorld Heist)\nMusic from SteamWorld Heist - Steam Powered Giraffe\nSteamWorld Heist: The Outsider\nHatbox: Hatful Eight + 2 (SteamWorld Heist)\nMusic from SteamWorld Heist - Steam Powered Giraffe\nSteamWorld Heist: The Outsider\nHatbox: Hatful Eight + 2 (SteamWorld Heist)\nMusic from SteamWorld Heist - Steam Powered Giraffe\nSteamWorld Heist: The Outsider\nHatbox: Hatful Eight + 2 (SteamWorld Heist)\nMusic from SteamWorld Heist - Steam Powered Giraffe\nSteamWorld Heist: The Outsider\nHatbox: Hatful Eight + 2 (SteamWorld Heist)\nMusic from SteamWorld Heist - Steam Powered Giraffe\nSteamWorld Heist: The Outsider\nHatbox: Hatful Eight + 2 (SteamWorld Heist)\nMusic from SteamWorld Heist - Steam Powered Giraffe",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -24104,6 +24632,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "Steel Vampire Original Soundtrack\n\nSteel Vampire Original Soundtrack\n\nSteel Vampire Original Soundtrack\n\nSteel Vampire Original Soundtrack\n\nSteel Vampire Original Soundtrack\n\nSteel Vampire Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24181,6 +24710,7 @@ var extrasData =
             "negative": 15
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24218,6 +24748,7 @@ var extrasData =
             "negative": 1689
         },
         "dlc": {
+            "description": "Strange Brigade - Season Pass\nStrange Brigade - Secret Service Weapons Pack\nStrange Brigade - Gentleman Explorer Character Pack\nStrange Brigade - Texas Cowboy Character Pack\nStrange Brigade - American Aviatrix Character Expansion Pack\nStrange Brigade - The Thrice Damned 1: Isle of the Dead\nStrange Brigade - The Thrice Damned 2: The Sunken Kingdom\nStrange Brigade - Japanese Naval Officer Character Expansion Pack\nStrange Brigade - Maharani Huntress Character Expansion Pack\nStrange Brigade - The Thrice Damned 3: Great Pyramid of Bes\nStrange Brigade - Season Pass\nStrange Brigade - Secret Service Weapons Pack\nStrange Brigade - Gentleman Explorer Character Pack\nStrange Brigade - Texas Cowboy Character Pack\nStrange Brigade - American Aviatrix Character Expansion Pack\nStrange Brigade - The Thrice Damned 1: Isle of the Dead\nStrange Brigade - The Thrice Damned 2: The Sunken Kingdom\nStrange Brigade - Japanese Naval Officer Character Expansion Pack\nStrange Brigade - Maharani Huntress Character Expansion Pack\nStrange Brigade - The Thrice Damned 3: Great Pyramid of Bes\nStrange Brigade - Season Pass\nStrange Brigade - Secret Service Weapons Pack\nStrange Brigade - Gentleman Explorer Character Pack\nStrange Brigade - Texas Cowboy Character Pack\nStrange Brigade - American Aviatrix Character Expansion Pack\nStrange Brigade - The Thrice Damned 1: Isle of the Dead\nStrange Brigade - The Thrice Damned 2: The Sunken Kingdom\nStrange Brigade - Japanese Naval Officer Character Expansion Pack\nStrange Brigade - Maharani Huntress Character Expansion Pack\nStrange Brigade - The Thrice Damned 3: Great Pyramid of Bes\nStrange Brigade - Season Pass\nStrange Brigade - Secret Service Weapons Pack\nStrange Brigade - Gentleman Explorer Character Pack\nStrange Brigade - Texas Cowboy Character Pack\nStrange Brigade - American Aviatrix Character Expansion Pack\nStrange Brigade - The Thrice Damned 1: Isle of the Dead\nStrange Brigade - The Thrice Damned 2: The Sunken Kingdom\nStrange Brigade - Japanese Naval Officer Character Expansion Pack\nStrange Brigade - Maharani Huntress Character Expansion Pack\nStrange Brigade - The Thrice Damned 3: Great Pyramid of Bes\nStrange Brigade - Season Pass\nStrange Brigade - Secret Service Weapons Pack\nStrange Brigade - Gentleman Explorer Character Pack\nStrange Brigade - Texas Cowboy Character Pack\nStrange Brigade - American Aviatrix Character Expansion Pack\nStrange Brigade - The Thrice Damned 1: Isle of the Dead\nStrange Brigade - The Thrice Damned 2: The Sunken Kingdom\nStrange Brigade - Japanese Naval Officer Character Expansion Pack\nStrange Brigade - Maharani Huntress Character Expansion Pack\nStrange Brigade - The Thrice Damned 3: Great Pyramid of Bes\nStrange Brigade - Season Pass\nStrange Brigade - Secret Service Weapons Pack\nStrange Brigade - Gentleman Explorer Character Pack\nStrange Brigade - Texas Cowboy Character Pack\nStrange Brigade - American Aviatrix Character Expansion Pack\nStrange Brigade - The Thrice Damned 1: Isle of the Dead\nStrange Brigade - The Thrice Damned 2: The Sunken Kingdom\nStrange Brigade - Japanese Naval Officer Character Expansion Pack\nStrange Brigade - Maharani Huntress Character Expansion Pack\nStrange Brigade - The Thrice Damned 3: Great Pyramid of Bes",
             "count": 10,
             "priceData": {
                 "USD": {
@@ -24287,6 +24818,7 @@ var extrasData =
             "negative": 90
         },
         "dlc": {
+            "description": "Struggling Soundtrack\n\nStruggling Soundtrack\n\nStruggling Soundtrack\n\nStruggling Soundtrack\n\nStruggling Soundtrack\n\nStruggling Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24324,6 +24856,7 @@ var extrasData =
             "negative": 16
         },
         "dlc": {
+            "description": "SUFFER Original Game Soundtrack\n\nSUFFER Original Game Soundtrack\n\nSUFFER Original Game Soundtrack\n\nSUFFER Original Game Soundtrack\n\nSUFFER Original Game Soundtrack\n\nSUFFER Original Game Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24361,6 +24894,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "SUFFER 2 Soundtrack\n\nSUFFER 2 Soundtrack\n\nSUFFER 2 Soundtrack\n\nSUFFER 2 Soundtrack\n\nSUFFER 2 Soundtrack\n\nSUFFER 2 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24406,6 +24940,7 @@ var extrasData =
             "negative": 7
         },
         "dlc": {
+            "description": "Summer Trip Cruise Soundtrack\n\nSummer Trip Cruise Soundtrack\n\nSummer Trip Cruise Soundtrack\n\nSummer Trip Cruise Soundtrack\n\nSummer Trip Cruise Soundtrack\n\nSummer Trip Cruise Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24443,6 +24978,7 @@ var extrasData =
             "negative": 36
         },
         "dlc": {
+            "description": "Sunblaze Soundtrack\n\nSunblaze Soundtrack\n\nSunblaze Soundtrack\n\nSunblaze Soundtrack\n\nSunblaze Soundtrack\n\nSunblaze Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24480,6 +25016,7 @@ var extrasData =
             "negative": 886
         },
         "dlc": {
+            "description": "Sundered: Eldritch Edition - OST\n\nSundered: Eldritch Edition - OST\n\nSundered: Eldritch Edition - OST\n\nSundered: Eldritch Edition - OST\n\nSundered: Eldritch Edition - OST\n\nSundered: Eldritch Edition - OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24541,6 +25078,7 @@ var extrasData =
             "negative": 25
         },
         "dlc": {
+            "description": "Super Alloy Ranger - Digital Artbook\n\nSuper Alloy Ranger - Digital Artbook\n\nSuper Alloy Ranger - Digital Artbook\n\nSuper Alloy Ranger - Digital Artbook\n\nSuper Alloy Ranger - Digital Artbook\n\nSuper Alloy Ranger - Digital Artbook",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24589,9 +25127,9 @@ var extrasData =
     "05d31dda-14ce-4b42-85d0-ce260a8379f0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 9871,
+            "total": 9872,
             "positive": 8560,
-            "negative": 1311
+            "negative": 1312
         }
     },
     "ef102261-6ec4-4325-819a-620f7b70c793": {
@@ -24602,6 +25140,7 @@ var extrasData =
             "negative": 3
         },
         "dlc": {
+            "description": "Super Cable Boy Soundtrack\n\nSuper Cable Boy Soundtrack\n\nSuper Cable Boy Soundtrack\n\nSuper Cable Boy Soundtrack\n\nSuper Cable Boy Soundtrack\n\nSuper Cable Boy Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24639,6 +25178,7 @@ var extrasData =
             "negative": 65
         },
         "dlc": {
+            "description": "Super Chibi Knight Original Sound Track (OST)\n\nSuper Chibi Knight Original Sound Track (OST)\n\nSuper Chibi Knight Original Sound Track (OST)\n\nSuper Chibi Knight Original Sound Track (OST)\n\nSuper Chibi Knight Original Sound Track (OST)\n\nSuper Chibi Knight Original Sound Track (OST)",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24692,6 +25232,7 @@ var extrasData =
             "negative": 7
         },
         "dlc": {
+            "description": "Super Crush KO Original Soundtrack\n\nSuper Crush KO Original Soundtrack\n\nSuper Crush KO Original Soundtrack\n\nSuper Crush KO Original Soundtrack\n\nSuper Crush KO Original Soundtrack\n\nSuper Crush KO Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24801,6 +25342,7 @@ var extrasData =
             "negative": 70
         },
         "dlc": {
+            "description": "Super House of Dead Ninjas: True Ninja Pack\n\nSuper House of Dead Ninjas: True Ninja Pack\n\nSuper House of Dead Ninjas: True Ninja Pack\n\nSuper House of Dead Ninjas: True Ninja Pack\n\nSuper House of Dead Ninjas: True Ninja Pack\n\nSuper House of Dead Ninjas: True Ninja Pack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24846,6 +25388,7 @@ var extrasData =
             "negative": 3
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24899,6 +25442,7 @@ var extrasData =
             "negative": 52
         },
         "dlc": {
+            "description": "Super Magbot: Original Soundtrack\n\nSuper Magbot: The Broken Worlds Original Soundtrack\n\nSuper Magbot: Original Soundtrack\n\nSuper Magbot: The Broken Worlds Original Soundtrack\n\nSuper Magbot: Original Soundtrack\n\nSuper Magbot: The Broken Worlds Original Soundtrack\n\nSuper Magbot: Original Soundtrack\n\nSuper Magbot: The Broken Worlds Original Soundtrack\n\nSuper Magbot: Original Soundtrack\n\nSuper Magbot: The Broken Worlds Original Soundtrack\n\nSuper Magbot: Original Soundtrack\n\nSuper Magbot: The Broken Worlds Original Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -24931,11 +25475,12 @@ var extrasData =
     "3a32bb28-8d9f-4af1-ae4e-9d0eab7d968d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 35484,
-            "positive": 33559,
+            "total": 35480,
+            "positive": 33555,
             "negative": 1925
         },
         "dlc": {
+            "description": "Super Meat Boy Race Mode\n\nSuper Meat Boy Race Mode\n\nSuper Meat Boy Race Mode\n\nSuper Meat Boy Race Mode\n\nSuper Meat Boy Race Mode\n\nSuper Meat Boy Race Mode",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -24973,6 +25518,7 @@ var extrasData =
             "negative": 705
         },
         "dlc": {
+            "description": "Super Meat Boy Forever Soundtrack\n\nSuper Meat Boy Forever Soundtrack\n\nSuper Meat Boy Forever Soundtrack\n\nSuper Meat Boy Forever Soundtrack\n\nSuper Meat Boy Forever Soundtrack\n\nSuper Meat Boy Forever Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25010,6 +25556,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "Super Mega Zero Soundtrack\n\nSuper Mega Zero Soundtrack\n\nSuper Mega Zero Soundtrack\n\nSuper Mega Zero Soundtrack\n\nSuper Mega Zero Soundtrack\n\nSuper Mega Zero Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25047,6 +25594,7 @@ var extrasData =
             "negative": 241
         },
         "dlc": {
+            "description": "Super Monkey Ball Banana Mania - Classic Soundtrack\nSuper Monkey Ball Banana Mania - Customization Pack\nSuper Monkey Ball Banana Mania - Classic Character Pack\nSuper Monkey Ball Banana Mania - SEGA Legends Pack\nSuper Monkey Ball Banana Mania - Classic Soundtrack\nSuper Monkey Ball Banana Mania - Customization Pack\nSuper Monkey Ball Banana Mania - Classic Character Pack\nSuper Monkey Ball Banana Mania - SEGA Legends Pack\nSuper Monkey Ball Banana Mania - Classic Soundtrack\nSuper Monkey Ball Banana Mania - Customization Pack\nSuper Monkey Ball Banana Mania - Classic Character Pack\nSuper Monkey Ball Banana Mania - SEGA Legends Pack\nSuper Monkey Ball Banana Mania - Classic Soundtrack\nSuper Monkey Ball Banana Mania - Customization Pack\nSuper Monkey Ball Banana Mania - Classic Character Pack\nSuper Monkey Ball Banana Mania - SEGA Legends Pack\nSuper Monkey Ball Banana Mania - Classic Soundtrack\nSuper Monkey Ball Banana Mania - Customization Pack\nSuper Monkey Ball Banana Mania - Classic Character Pack\nSuper Monkey Ball Banana Mania - SEGA Legends Pack\nSuper Monkey Ball Banana Mania - Classic Soundtrack\nSuper Monkey Ball Banana Mania - Customization Pack\nSuper Monkey Ball Banana Mania - Classic Character Pack\nSuper Monkey Ball Banana Mania - SEGA Legends Pack",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -25084,6 +25632,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25145,6 +25694,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "Super Puzzled Cat Soundtrack\n\nSuper Puzzled Cat Soundtrack\n\nSuper Puzzled Cat Soundtrack\n\nSuper Puzzled Cat Soundtrack\n\nSuper Puzzled Cat Soundtrack\n\nSuper Puzzled Cat Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25206,6 +25756,7 @@ var extrasData =
             "negative": 69
         },
         "dlc": {
+            "description": "Super Rude Bear Resurrection - Soundtrack\n\nSuper Rude Bear Resurrection - Soundtrack\n\nSuper Rude Bear Resurrection - Soundtrack\n\nSuper Rude Bear Resurrection - Soundtrack\n\nSuper Rude Bear Resurrection - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25243,6 +25794,7 @@ var extrasData =
             "negative": 25
         },
         "dlc": {
+            "description": "Super Sami Roll Soundtrack\n\nSuper Sami Roll Soundtrack\n\nSuper Sami Roll Soundtrack\n\nSuper Sami Roll Soundtrack\n\nSuper Sami Roll Soundtrack\n\nSuper Sami Roll Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25299,8 +25851,8 @@ var extrasData =
     "633d7ddf-c346-42c1-a5d6-9666f2a05e49": {
         "reviews": {
             "description": "Very Positive",
-            "total": 38744,
-            "positive": 35359,
+            "total": 38746,
+            "positive": 35361,
             "negative": 3385
         }
     },
@@ -25320,6 +25872,7 @@ var extrasData =
             "negative": 1867
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25352,11 +25905,12 @@ var extrasData =
     "71a9ee46-e8ff-4736-9c37-275536a9fec4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 30096,
-            "positive": 28470,
-            "negative": 1626
+            "total": 30098,
+            "positive": 28471,
+            "negative": 1627
         },
         "dlc": {
+            "description": "Superliminal Double-Album Soundtrack\n\nSuperliminal Double-Album Soundtrack\n\nSuperliminal Double-Album Soundtrack\n\nSuperliminal Double-Album Soundtrack\n\nSuperliminal Double-Album Soundtrack\n\nSuperliminal Double-Album Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25429,11 +25983,12 @@ var extrasData =
     "b52c64a3-79ca-4b70-9b0d-39f7cc45c53b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12708,
-            "positive": 11962,
+            "total": 12710,
+            "positive": 11964,
             "negative": 746
         },
         "dlc": {
+            "description": "SYNTHETIK - Supporter Pack\n\nSYNTHETIK - Supporter Pack\n\nSYNTHETIK - Supporter Pack\n\nSYNTHETIK - Supporter Pack\n\nSYNTHETIK - Supporter Pack\n\nSYNTHETIK - Supporter Pack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25471,6 +26026,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "System Purge Original Soundtrack\n\nSystem Purge Original Soundtrack\n\nSystem Purge Original Soundtrack\n\nSystem Purge Original Soundtrack\n\nSystem Purge Original Soundtrack\n\nSystem Purge Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25516,6 +26072,7 @@ var extrasData =
             "negative": 7
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25553,6 +26110,7 @@ var extrasData =
             "negative": 126
         },
         "dlc": {
+            "description": "Taiko no Tatsujin: Rhythm Festival - Anime Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Pops Collection\nTaiko no Tatsujin: Rhythm Festival - Vocaloid\u2122 Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Namco Game Music Pack\nTaiko no Tatsujin: Rhythm Festival - KASANE TETO Pack\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - DRAGON BALL Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - One Piece Anime 25th Anniversary Collab. Pack\nTaiko no Tatsujin: Rhythm Festival - ONE PIECE Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - 2000s Pops Pack\nTaiko no Tatsujin: Rhythm Festival - KAMEN RIDER Opening Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - SPY\u00d7FAMILY Pack\nTaiko no Tatsujin: Rhythm Festival - Anime Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Pops Collection\nTaiko no Tatsujin: Rhythm Festival - Vocaloid\u2122 Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Namco Game Music Pack\nTaiko no Tatsujin: Rhythm Festival - KASANE TETO Pack\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - DRAGON BALL Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - One Piece Anime 25th Anniversary Collab. Pack\nTaiko no Tatsujin: Rhythm Festival - ONE PIECE Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - 2000s Pops Pack\nTaiko no Tatsujin: Rhythm Festival - KAMEN RIDER Opening Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - SPY\u00d7FAMILY Pack\nTaiko no Tatsujin: Rhythm Festival - Anime Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Pops Collection\nTaiko no Tatsujin: Rhythm Festival - Vocaloid\u2122 Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Namco Game Music Pack\nTaiko no Tatsujin: Rhythm Festival - KASANE TETO Pack\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - DRAGON BALL Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - One Piece Anime 25th Anniversary Collab. Pack\nTaiko no Tatsujin: Rhythm Festival - ONE PIECE Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - 2000s Pops Pack\nTaiko no Tatsujin: Rhythm Festival - KAMEN RIDER Opening Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - SPY\u00d7FAMILY Pack\nTaiko no Tatsujin: Rhythm Festival - Anime Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Pops Collection\nTaiko no Tatsujin: Rhythm Festival - Vocaloid\u2122 Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Namco Game Music Pack\nTaiko no Tatsujin: Rhythm Festival - KASANE TETO Pack\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - DRAGON BALL Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - One Piece Anime 25th Anniversary Collab. Pack\nTaiko no Tatsujin: Rhythm Festival - ONE PIECE Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - 2000s Pops Pack\nTaiko no Tatsujin: Rhythm Festival - KAMEN RIDER Opening Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - SPY\u00d7FAMILY Pack\nTaiko no Tatsujin: Rhythm Festival - Anime Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Pops Collection\nTaiko no Tatsujin: Rhythm Festival - Vocaloid\u2122 Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Namco Game Music Pack\nTaiko no Tatsujin: Rhythm Festival - KASANE TETO Pack\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - DRAGON BALL Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - One Piece Anime 25th Anniversary Collab. Pack\nTaiko no Tatsujin: Rhythm Festival - ONE PIECE Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - 2000s Pops Pack\nTaiko no Tatsujin: Rhythm Festival - KAMEN RIDER Opening Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - SPY\u00d7FAMILY Pack\nTaiko no Tatsujin: Rhythm Festival - Anime Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Pops Collection\nTaiko no Tatsujin: Rhythm Festival - Vocaloid\u2122 Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Namco Game Music Pack\nTaiko no Tatsujin: Rhythm Festival - KASANE TETO Pack\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - DRAGON BALL Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - One Piece Anime 25th Anniversary Collab. Pack\nTaiko no Tatsujin: Rhythm Festival - ONE PIECE Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - 2000s Pops Pack\nTaiko no Tatsujin: Rhythm Festival - KAMEN RIDER Opening Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - SPY\u00d7FAMILY Pack",
             "count": 28,
             "priceData": {
                 "USD": {
@@ -25585,11 +26143,12 @@ var extrasData =
     "b5c37089-55a1-4cd5-81d4-1202bf2d649b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12341,
-            "positive": 10914,
+            "total": 12342,
+            "positive": 10915,
             "negative": 1427
         },
         "dlc": {
+            "description": "Tails of Iron - Crimson Knight DLC\nTails of Iron - Soundtrack\nTails of Iron - Artbook\nTails of Iron - Crimson Knight DLC\nTails of Iron - Soundtrack\nTails of Iron - Artbook\nTails of Iron - Crimson Knight DLC\nTails of Iron - Soundtrack\nTails of Iron - Artbook\nTails of Iron - Crimson Knight DLC\nTails of Iron - Soundtrack\nTails of Iron - Artbook\nTails of Iron - Crimson Knight DLC\nTails of Iron - Soundtrack\nTails of Iron - Artbook\nTails of Iron - Crimson Knight DLC\nTails of Iron - Soundtrack\nTails of Iron - Artbook",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -25627,6 +26186,7 @@ var extrasData =
             "negative": 63
         },
         "dlc": {
+            "description": "Taimumari: Soundtrack\n\nTaimumari: Soundtrack\n\nTaimumari: Soundtrack\n\nTaimumari: Soundtrack\n\nTaimumari: Soundtrack\n\nTaimumari: Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25664,6 +26224,7 @@ var extrasData =
             "negative": 330
         },
         "dlc": {
+            "description": "Tales of Maj'Eyal - Ashes of Urh'Rok\nTales of Maj'Eyal - Embers of Rage\nTales of Maj'Eyal - Forbidden Cults\nTales of Maj'Eyal - Ashes of Urh'Rok\nTales of Maj'Eyal - Embers of Rage\nTales of Maj'Eyal - Forbidden Cults\nTales of Maj'Eyal - Ashes of Urh'Rok\nTales of Maj'Eyal - Embers of Rage\nTales of Maj'Eyal - Forbidden Cults\nTales of Maj'Eyal - Ashes of Urh'Rok\nTales of Maj'Eyal - Embers of Rage\nTales of Maj'Eyal - Forbidden Cults\nTales of Maj'Eyal - Ashes of Urh'Rok\nTales of Maj'Eyal - Embers of Rage\nTales of Maj'Eyal - Forbidden Cults\nTales of Maj'Eyal - Ashes of Urh'Rok\nTales of Maj'Eyal - Embers of Rage\nTales of Maj'Eyal - Forbidden Cults",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -25765,6 +26326,7 @@ var extrasData =
             "negative": 770
         },
         "dlc": {
+            "description": "Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles\n\nTeenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock\n\nTeenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles\n\nTeenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock\n\nTeenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles\n\nTeenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock\n\nTeenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles\n\nTeenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock\n\nTeenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles\n\nTeenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock\n\nTeenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles\n\nTeenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -25810,6 +26372,7 @@ var extrasData =
             "negative": 9
         },
         "dlc": {
+            "description": "Temp Zero (Original Soundtrack)\n\nTemp Zero (Original Soundtrack)\n\nTemp Zero (Original Soundtrack)\n\nTemp Zero (Original Soundtrack)\n\nTemp Zero (Original Soundtrack)\n\nTemp Zero (Original Soundtrack)",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25871,6 +26434,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "Tetradecagon - Soundtrack\n\nTetradecagon - Soundtrack\n\nTetradecagon - Soundtrack\n\nTetradecagon - Soundtrack\n\nTetradecagon - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25908,6 +26472,7 @@ var extrasData =
             "negative": 403
         },
         "dlc": {
+            "description": "Tetris\u00ae Effect: Connected Digital Deluxe DLC\n\nTetris\u00ae Effect: Connected Original Soundtrack\n\nTetris\u00ae Effect: Connected Digital Deluxe DLC\n\nTetris\u00ae Effect: Connected Original Soundtrack\n\nTetris\u00ae Effect: Connected Digital Deluxe DLC\n\nTetris\u00ae Effect: Connected Original Soundtrack\n\nTetris\u00ae Effect: Connected Digital Deluxe DLC\n\nTetris\u00ae Effect: Connected Original Soundtrack\n\nTetris\u00ae Effect: Connected Digital Deluxe DLC\n\nTetris\u00ae Effect: Connected Original Soundtrack\n\nTetris\u00ae Effect: Connected Digital Deluxe DLC\n\nTetris\u00ae Effect: Connected Original Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -25940,8 +26505,8 @@ var extrasData =
     "c77a43b5-cd05-48c2-8f23-d7bc8e4d7e82": {
         "reviews": {
             "description": "Very Positive",
-            "total": 446,
-            "positive": 385,
+            "total": 447,
+            "positive": 386,
             "negative": 61
         }
     },
@@ -25961,6 +26526,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "The Adventures of Ten and Till Soundtrack\n\nThe Adventures of Ten and Till Soundtrack\n\nThe Adventures of Ten and Till Soundtrack\n\nThe Adventures of Ten and Till Soundtrack\n\nThe Adventures of Ten and Till Soundtrack\n\nThe Adventures of Ten and Till Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -25998,6 +26564,7 @@ var extrasData =
             "negative": 1710
         },
         "dlc": {
+            "description": "The Banner Saga - Soundtrack\n\nThe Banner Saga - Soundtrack\n\nThe Banner Saga - Soundtrack\n\nThe Banner Saga - Soundtrack\n\nThe Banner Saga - Soundtrack\n\nThe Banner Saga - Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -26030,9 +26597,9 @@ var extrasData =
     "7d99fc2d-2728-454e-a8e7-8d173f0f710c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1498,
+            "total": 1497,
             "positive": 1291,
-            "negative": 207
+            "negative": 206
         }
     },
     "ae6ba2d4-8d91-4b99-b192-0f00514f0ffa": {
@@ -26046,11 +26613,12 @@ var extrasData =
     "99d2b728-2c5d-47da-a42a-ccd1b8949525": {
         "reviews": {
             "description": "Very Positive",
-            "total": 60331,
-            "positive": 57259,
-            "negative": 3072
+            "total": 60335,
+            "positive": 57261,
+            "negative": 3074
         },
         "dlc": {
+            "description": "Binding of Isaac: Wrath of the Lamb\n\nBinding of Isaac: Wrath of the Lamb\n\nBinding of Isaac: Wrath of the Lamb\n\nBinding of Isaac: Wrath of the Lamb\n\nBinding of Isaac: Wrath of the Lamb\n\nBinding of Isaac: Wrath of the Lamb",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -26088,6 +26656,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "The Colorful Creature Official Soundtrack\nThe Colorful Creature - Dev Support 2\u20ac\nThe Colorful Creature - Dev Support 3\u20ac\nThe Colorful Creature - Dev Support 5\u20ac\nThe Colorful Creature SUPER SOUNDTRACK\nThe Colorful Creature Official Soundtrack\nThe Colorful Creature - Dev Support 2\u20ac\nThe Colorful Creature - Dev Support 3\u20ac\nThe Colorful Creature - Dev Support 5\u20ac\nThe Colorful Creature SUPER SOUNDTRACK\nThe Colorful Creature Official Soundtrack\nThe Colorful Creature - Dev Support 2\u20ac\nThe Colorful Creature - Dev Support 3\u20ac\nThe Colorful Creature - Dev Support 5\u20ac\nThe Colorful Creature SUPER SOUNDTRACK\nThe Colorful Creature Official Soundtrack\nThe Colorful Creature - Dev Support 2\u20ac\nThe Colorful Creature - Dev Support 3\u20ac\nThe Colorful Creature - Dev Support 5\u20ac\nThe Colorful Creature SUPER SOUNDTRACK\nThe Colorful Creature Official Soundtrack\nThe Colorful Creature - Dev Support 2\u20ac\nThe Colorful Creature - Dev Support 3\u20ac\nThe Colorful Creature - Dev Support 5\u20ac\nThe Colorful Creature SUPER SOUNDTRACK\nThe Colorful Creature Official Soundtrack\nThe Colorful Creature - Dev Support 2\u20ac\nThe Colorful Creature - Dev Support 3\u20ac\nThe Colorful Creature - Dev Support 5\u20ac\nThe Colorful Creature SUPER SOUNDTRACK",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -26125,6 +26694,7 @@ var extrasData =
             "negative": 559
         },
         "dlc": {
+            "description": "The Disappearing of Gensokyo: Youmu, Yuyuko Character Pack\nThe Disappearing of Gensokyo: Sakuya, Koishi, Suika Character Pack\nThe Disappearing of Gensokyo: Patchouli Character Pack\nThe Disappearing of Gensokyo: Kogasa, Iku Character Pack\nThe Disappearing of Gensokyo: Byakuren Character Pack\nThe Disappearing of Gensokyo: Youmu, Yuyuko Character Pack\nThe Disappearing of Gensokyo: Sakuya, Koishi, Suika Character Pack\nThe Disappearing of Gensokyo: Patchouli Character Pack\nThe Disappearing of Gensokyo: Kogasa, Iku Character Pack\nThe Disappearing of Gensokyo: Byakuren Character Pack\nThe Disappearing of Gensokyo: Youmu, Yuyuko Character Pack\nThe Disappearing of Gensokyo: Sakuya, Koishi, Suika Character Pack\nThe Disappearing of Gensokyo: Patchouli Character Pack\nThe Disappearing of Gensokyo: Kogasa, Iku Character Pack\nThe Disappearing of Gensokyo: Byakuren Character Pack\nThe Disappearing of Gensokyo: Youmu, Yuyuko Character Pack\nThe Disappearing of Gensokyo: Sakuya, Koishi, Suika Character Pack\nThe Disappearing of Gensokyo: Patchouli Character Pack\nThe Disappearing of Gensokyo: Kogasa, Iku Character Pack\nThe Disappearing of Gensokyo: Byakuren Character Pack\nThe Disappearing of Gensokyo: Youmu, Yuyuko Character Pack\nThe Disappearing of Gensokyo: Sakuya, Koishi, Suika Character Pack\nThe Disappearing of Gensokyo: Patchouli Character Pack\nThe Disappearing of Gensokyo: Kogasa, Iku Character Pack\nThe Disappearing of Gensokyo: Byakuren Character Pack\nThe Disappearing of Gensokyo: Youmu, Yuyuko Character Pack\nThe Disappearing of Gensokyo: Sakuya, Koishi, Suika Character Pack\nThe Disappearing of Gensokyo: Patchouli Character Pack\nThe Disappearing of Gensokyo: Kogasa, Iku Character Pack\nThe Disappearing of Gensokyo: Byakuren Character Pack",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -26170,6 +26740,7 @@ var extrasData =
             "negative": 931
         },
         "dlc": {
+            "description": "The Dungeon Of Naheulbeuk - Back To The Futon\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Season Pass\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos Soundtrack\nThe Dungeon Of Naheulbeuk - Splat Jaypak's Arenas\nThe Dungeon Of Naheulbeuk: Ruins Of Limis\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Goodies Pack\nThe Dungeon Of Naheulbeuk - Back To The Futon\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Season Pass\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos Soundtrack\nThe Dungeon Of Naheulbeuk - Splat Jaypak's Arenas\nThe Dungeon Of Naheulbeuk: Ruins Of Limis\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Goodies Pack\nThe Dungeon Of Naheulbeuk - Back To The Futon\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Season Pass\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos Soundtrack\nThe Dungeon Of Naheulbeuk - Splat Jaypak's Arenas\nThe Dungeon Of Naheulbeuk: Ruins Of Limis\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Goodies Pack\nThe Dungeon Of Naheulbeuk - Back To The Futon\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Season Pass\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos Soundtrack\nThe Dungeon Of Naheulbeuk - Splat Jaypak's Arenas\nThe Dungeon Of Naheulbeuk: Ruins Of Limis\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Goodies Pack\nThe Dungeon Of Naheulbeuk - Back To The Futon\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Season Pass\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos Soundtrack\nThe Dungeon Of Naheulbeuk - Splat Jaypak's Arenas\nThe Dungeon Of Naheulbeuk: Ruins Of Limis\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Goodies Pack\nThe Dungeon Of Naheulbeuk - Back To The Futon\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Season Pass\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos Soundtrack\nThe Dungeon Of Naheulbeuk - Splat Jaypak's Arenas\nThe Dungeon Of Naheulbeuk: Ruins Of Limis\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Goodies Pack",
             "count": 6,
             "priceData": {
                 "USD": {
@@ -26207,6 +26778,7 @@ var extrasData =
             "negative": 199
         },
         "dlc": {
+            "description": "The End is Nigh - Soundtrack\n\nThe End is Nigh - Soundtrack\n\nThe End is Nigh - Soundtrack\n\nThe End is Nigh - Soundtrack\n\nThe End is Nigh - Soundtrack\n\nThe End is Nigh - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -26247,11 +26819,12 @@ var extrasData =
     "a3092524-b7af-4bb3-b85a-bbbdaef37a5f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 30249,
-            "positive": 25774,
+            "total": 30253,
+            "positive": 25778,
             "negative": 4475
         },
         "dlc": {
+            "description": "The Evil Within: The Assignment\nThe Evil Within - The Consequence\nThe Evil Within: The Executioner\nThe Evil Within - Soundtrack\nThe Evil Within: The Assignment\nThe Evil Within - The Consequence\nThe Evil Within: The Executioner\nThe Evil Within - Soundtrack\nThe Evil Within: The Assignment\nThe Evil Within - The Consequence\nThe Evil Within: The Executioner\nThe Evil Within - Soundtrack\nThe Evil Within: The Assignment\nThe Evil Within - The Consequence\nThe Evil Within: The Executioner\nThe Evil Within - Soundtrack\nThe Evil Within: The Assignment\nThe Evil Within - The Consequence\nThe Evil Within: The Executioner\nThe Evil Within - Soundtrack\nThe Evil Within: The Assignment\nThe Evil Within - The Consequence\nThe Evil Within: The Executioner\nThe Evil Within - Soundtrack",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -26297,6 +26870,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -26342,6 +26916,7 @@ var extrasData =
             "negative": 178
         },
         "dlc": {
+            "description": "The King's Bird - Original Soundtrack\n\nThe King's Bird - Original Soundtrack\n\nThe King's Bird - Original Soundtrack\n\nThe King's Bird - Original Soundtrack\n\nThe King's Bird - Original Soundtrack\n\nThe King's Bird - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -26387,6 +26962,7 @@ var extrasData =
             "negative": 67
         },
         "dlc": {
+            "description": "The Legend of Dark Witch Soundtracks\n\nThe Legend of Dark Witch Soundtracks\n\nThe Legend of Dark Witch Soundtracks\n\nThe Legend of Dark Witch Soundtracks\n\nThe Legend of Dark Witch Soundtracks\n\nThe Legend of Dark Witch Soundtracks",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -26427,11 +27003,12 @@ var extrasData =
     "6c0f3d61-3046-48bd-88fd-5eac74f01306": {
         "reviews": {
             "description": "Very Positive",
-            "total": 11851,
-            "positive": 11051,
+            "total": 11852,
+            "positive": 11052,
             "negative": 800
         },
         "dlc": {
+            "description": "The Messenger Soundtrack - Disc I: The Past [8-Bit]\nThe Messenger Soundtrack - Disc II: The Future [16-Bit]\nThe Messenger EP by Keiji Yamagishi\nThe Messenger Soundtrack - Disc III: Picnic Panic\nThe Messenger Soundtrack - Disc I: The Past [8-Bit]\nThe Messenger Soundtrack - Disc II: The Future [16-Bit]\nThe Messenger EP by Keiji Yamagishi\nThe Messenger Soundtrack - Disc III: Picnic Panic\nThe Messenger Soundtrack - Disc I: The Past [8-Bit]\nThe Messenger Soundtrack - Disc II: The Future [16-Bit]\nThe Messenger EP by Keiji Yamagishi\nThe Messenger Soundtrack - Disc III: Picnic Panic\nThe Messenger Soundtrack - Disc I: The Past [8-Bit]\nThe Messenger Soundtrack - Disc II: The Future [16-Bit]\nThe Messenger EP by Keiji Yamagishi\nThe Messenger Soundtrack - Disc III: Picnic Panic\nThe Messenger Soundtrack - Disc I: The Past [8-Bit]\nThe Messenger Soundtrack - Disc II: The Future [16-Bit]\nThe Messenger EP by Keiji Yamagishi\nThe Messenger Soundtrack - Disc III: Picnic Panic\nThe Messenger Soundtrack - Disc I: The Past [8-Bit]\nThe Messenger Soundtrack - Disc II: The Future [16-Bit]\nThe Messenger EP by Keiji Yamagishi\nThe Messenger Soundtrack - Disc III: Picnic Panic",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -26469,6 +27046,7 @@ var extrasData =
             "negative": 65
         },
         "dlc": {
+            "description": "The Metronomicon - Soundtrack\nThe Metronomicon - Score\nThe Metronomicon - Chiptune Challenge Pack 1\nThe Metronomicon - Indie Game Challenge Pack 1\nThe Metronomicon - Chiptune Challenge Pack 2\nThe Metronomicon - J-Punch Challenge Pack\nThe Metronomicon - The End Records Challenge Pack\nThe Metronomicon - Soundtrack\nThe Metronomicon - Score\nThe Metronomicon - Chiptune Challenge Pack 1\nThe Metronomicon - Indie Game Challenge Pack 1\nThe Metronomicon - Chiptune Challenge Pack 2\nThe Metronomicon - J-Punch Challenge Pack\nThe Metronomicon - The End Records Challenge Pack\nThe Metronomicon - Soundtrack\nThe Metronomicon - Score\nThe Metronomicon - Chiptune Challenge Pack 1\nThe Metronomicon - Indie Game Challenge Pack 1\nThe Metronomicon - Chiptune Challenge Pack 2\nThe Metronomicon - J-Punch Challenge Pack\nThe Metronomicon - The End Records Challenge Pack\nThe Metronomicon - Soundtrack\nThe Metronomicon - Score\nThe Metronomicon - Chiptune Challenge Pack 1\nThe Metronomicon - Indie Game Challenge Pack 1\nThe Metronomicon - Chiptune Challenge Pack 2\nThe Metronomicon - J-Punch Challenge Pack\nThe Metronomicon - The End Records Challenge Pack\nThe Metronomicon - Soundtrack\nThe Metronomicon - Score\nThe Metronomicon - Chiptune Challenge Pack 1\nThe Metronomicon - Indie Game Challenge Pack 1\nThe Metronomicon - Chiptune Challenge Pack 2\nThe Metronomicon - J-Punch Challenge Pack\nThe Metronomicon - The End Records Challenge Pack\nThe Metronomicon - Soundtrack\nThe Metronomicon - Score\nThe Metronomicon - Chiptune Challenge Pack 1\nThe Metronomicon - Indie Game Challenge Pack 1\nThe Metronomicon - Chiptune Challenge Pack 2\nThe Metronomicon - J-Punch Challenge Pack\nThe Metronomicon - The End Records Challenge Pack",
             "count": 8,
             "priceData": {
                 "USD": {
@@ -26506,6 +27084,7 @@ var extrasData =
             "negative": 78
         },
         "dlc": {
+            "description": "The Next Penelope - Soundtrack\n\nThe Next Penelope - Soundtrack\n\nThe Next Penelope - Soundtrack\n\nThe Next Penelope - Soundtrack\n\nThe Next Penelope - Soundtrack\n\nThe Next Penelope - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -26575,6 +27154,7 @@ var extrasData =
             "negative": 2712
         },
         "dlc": {
+            "description": "The Surge - The Good, the Bad and the Augmented Expansion\nThe Surge - A Walk in the Park DLC\nThe Surge - CREO Special Employee Kit\nThe Surge - Fire & Ice Weapon Pack\nThe Surge - Cutting Edge Pack\nThe Surge - The Good, the Bad and the Augmented Expansion\nThe Surge - A Walk in the Park DLC\nThe Surge - CREO Special Employee Kit\nThe Surge - Fire & Ice Weapon Pack\nThe Surge - Cutting Edge Pack\nThe Surge - The Good, the Bad and the Augmented Expansion\nThe Surge - A Walk in the Park DLC\nThe Surge - CREO Special Employee Kit\nThe Surge - Fire & Ice Weapon Pack\nThe Surge - Cutting Edge Pack\nThe Surge - The Good, the Bad and the Augmented Expansion\nThe Surge - A Walk in the Park DLC\nThe Surge - CREO Special Employee Kit\nThe Surge - Fire & Ice Weapon Pack\nThe Surge - Cutting Edge Pack\nThe Surge - The Good, the Bad and the Augmented Expansion\nThe Surge - A Walk in the Park DLC\nThe Surge - CREO Special Employee Kit\nThe Surge - Fire & Ice Weapon Pack\nThe Surge - Cutting Edge Pack\nThe Surge - The Good, the Bad and the Augmented Expansion\nThe Surge - A Walk in the Park DLC\nThe Surge - CREO Special Employee Kit\nThe Surge - Fire & Ice Weapon Pack\nThe Surge - Cutting Edge Pack",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -26607,11 +27187,12 @@ var extrasData =
     "40849373-5f26-4115-93eb-e2645185480f": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8504,
-            "positive": 6506,
-            "negative": 1998
+            "total": 8507,
+            "positive": 6508,
+            "negative": 1999
         },
         "dlc": {
+            "description": "The Surge 2 - Season Pass\nThe Surge 2 - The Kraken Expansion\nThe Surge 2 - URBN Gear Pack\nThe Surge 2 - Public Enemy Weapon Pack\nThe Surge 2 - Jericho's Legacy Gear Pack\nThe Surge 2 - Season Pass\nThe Surge 2 - The Kraken Expansion\nThe Surge 2 - URBN Gear Pack\nThe Surge 2 - Public Enemy Weapon Pack\nThe Surge 2 - Jericho's Legacy Gear Pack\nThe Surge 2 - Season Pass\nThe Surge 2 - The Kraken Expansion\nThe Surge 2 - URBN Gear Pack\nThe Surge 2 - Public Enemy Weapon Pack\nThe Surge 2 - Jericho's Legacy Gear Pack\nThe Surge 2 - Season Pass\nThe Surge 2 - The Kraken Expansion\nThe Surge 2 - URBN Gear Pack\nThe Surge 2 - Public Enemy Weapon Pack\nThe Surge 2 - Jericho's Legacy Gear Pack\nThe Surge 2 - Season Pass\nThe Surge 2 - The Kraken Expansion\nThe Surge 2 - URBN Gear Pack\nThe Surge 2 - Public Enemy Weapon Pack\nThe Surge 2 - Jericho's Legacy Gear Pack\nThe Surge 2 - Season Pass\nThe Surge 2 - The Kraken Expansion\nThe Surge 2 - URBN Gear Pack\nThe Surge 2 - Public Enemy Weapon Pack\nThe Surge 2 - Jericho's Legacy Gear Pack",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -26649,6 +27230,7 @@ var extrasData =
             "negative": 275
         },
         "dlc": {
+            "description": "The Textorcist - Soundtrack\nThe Textorcist: The Village\nThe Textorcist: The Village - Soundtrack\nThe Textorcist - Soundtrack\nThe Textorcist: The Village\nThe Textorcist: The Village - Soundtrack\nThe Textorcist - Soundtrack\nThe Textorcist: The Village\nThe Textorcist: The Village - Soundtrack\nThe Textorcist - Soundtrack\nThe Textorcist: The Village\nThe Textorcist: The Village - Soundtrack\nThe Textorcist - Soundtrack\nThe Textorcist: The Village\nThe Textorcist: The Village - Soundtrack\nThe Textorcist - Soundtrack\nThe Textorcist: The Village\nThe Textorcist: The Village - Soundtrack",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -26686,6 +27268,7 @@ var extrasData =
             "negative": 18
         },
         "dlc": {
+            "description": "The Treehouse Man - Original Soundtrack\n\nThe Treehouse Man - Original Soundtrack\n\nThe Treehouse Man - Original Soundtrack\n\nThe Treehouse Man - Original Soundtrack\n\nThe Treehouse Man - Original Soundtrack\n\nThe Treehouse Man - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -26718,9 +27301,9 @@ var extrasData =
     "93847607-3a88-46a1-8834-c75482290eb0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 18912,
+            "total": 18913,
             "positive": 16050,
-            "negative": 2862
+            "negative": 2863
         }
     },
     "98e500cb-119d-458d-beb8-1f4901d32f29": {
@@ -26731,6 +27314,7 @@ var extrasData =
             "negative": 110
         },
         "dlc": {
+            "description": "The Wonderful 101: Remastered The Prince Vorkken\n\nThe Wonderful 101: Remastered The Prince Vorkken\n\nThe Wonderful 101: Remastered The Prince Vorkken\n\nThe Wonderful 101: Remastered The Prince Vorkken\n\nThe Wonderful 101: Remastered The Prince Vorkken\n\nThe Wonderful 101: Remastered The Prince Vorkken",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -26776,6 +27360,7 @@ var extrasData =
             "negative": 421
         },
         "dlc": {
+            "description": "They Bleed Pixels Soundtrack\n\nThey Bleed Pixels Soundtrack\n\nThey Bleed Pixels Soundtrack\n\nThey Bleed Pixels Soundtrack\n\nThey Bleed Pixels Soundtrack\n\nThey Bleed Pixels Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -26813,6 +27398,7 @@ var extrasData =
             "negative": 5920
         },
         "dlc": {
+            "description": "THIEF: The Bank Heist\nTHIEF DLC: The Forsaken - Challenge Map\nTHIEF DLC: Booster Pack - Opportunist\nTHIEF DLC: Booster Pack - Predator\nTHIEF DLC: Booster Pack - Ghost\nTHIEF: The Bank Heist\nTHIEF DLC: The Forsaken - Challenge Map\nTHIEF DLC: Booster Pack - Opportunist\nTHIEF DLC: Booster Pack - Predator\nTHIEF DLC: Booster Pack - Ghost\nTHIEF: The Bank Heist\nTHIEF DLC: The Forsaken - Challenge Map\nTHIEF DLC: Booster Pack - Opportunist\nTHIEF DLC: Booster Pack - Predator\nTHIEF DLC: Booster Pack - Ghost\nTHIEF: The Bank Heist\nTHIEF DLC: The Forsaken - Challenge Map\nTHIEF DLC: Booster Pack - Opportunist\nTHIEF DLC: Booster Pack - Predator\nTHIEF DLC: Booster Pack - Ghost\nThief: Japanese Language Pack\nTHIEF: The Bank Heist\nTHIEF DLC: The Forsaken - Challenge Map\nTHIEF DLC: Booster Pack - Opportunist\nTHIEF DLC: Booster Pack - Predator\nTHIEF DLC: Booster Pack - Ghost\nTHIEF: The Bank Heist\nTHIEF DLC: The Forsaken - Challenge Map\nTHIEF DLC: Booster Pack - Opportunist\nTHIEF DLC: Booster Pack - Predator\nTHIEF DLC: Booster Pack - Ghost",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -26850,6 +27436,7 @@ var extrasData =
             "negative": 82
         },
         "dlc": {
+            "description": "THOTH Soundtrack\n\nTHOTH Soundtrack\n\nTHOTH Soundtrack\n\nTHOTH Soundtrack\n\nTHOTH Soundtrack\n\nTHOTH Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -26887,6 +27474,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "Threes! Soundtrack\n\nThrees! Soundtrack\n\nThrees! Soundtrack\n\nThrees! Soundtrack\n\nThrees! Soundtrack\n\nThrees! Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -26932,6 +27520,7 @@ var extrasData =
             "negative": 346
         },
         "dlc": {
+            "description": "Thumper Soundtrack\n\nThumper Soundtrack\n\nThumper Soundtrack\n\nThumper Soundtrack\n\nThumper Soundtrack\n\nThumper Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -26985,6 +27574,7 @@ var extrasData =
             "negative": 1349
         },
         "dlc": {
+            "description": "Thymesia Original Soundtrack\n\nThymesia - Artbook\n\nThymesia Original Soundtrack\n\nThymesia - Artbook\n\nThymesia Original Soundtrack\n\nThymesia - Artbook\n\nThymesia Original Soundtrack\n\nThymesia - Artbook\n\nThymesia Original Soundtrack\n\nThymesia - Artbook\n\nThymesia Original Soundtrack\n\nThymesia - Artbook",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -27041,8 +27631,8 @@ var extrasData =
     "a861fa8d-f313-44b2-afc2-43340602438b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 11330,
-            "positive": 10568,
+            "total": 11331,
+            "positive": 10569,
             "negative": 762
         }
     },
@@ -27070,6 +27660,7 @@ var extrasData =
             "negative": 46
         },
         "dlc": {
+            "description": "Tiny Barbarian DX OST\n\nTiny Barbarian DX OST\n\nTiny Barbarian DX OST\n\nTiny Barbarian DX OST\n\nTiny Barbarian DX OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -27107,6 +27698,7 @@ var extrasData =
             "negative": 30
         },
         "dlc": {
+            "description": "Tiny Thor Soundtrack\n\nTiny Thor Soundtrack\n\nTiny Thor Soundtrack\n\nTiny Thor Soundtrack\n\nTiny Thor Soundtrack\n\nTiny Thor Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -27144,6 +27736,7 @@ var extrasData =
             "negative": 2763
         },
         "dlc": {
+            "description": "Titan Souls Soundtrack & Special Edition Content\n\nTitan Souls Soundtrack & Special Edition Content\n\nTitan Souls Soundtrack & Special Edition Content\n\nTitan Souls Soundtrack & Special Edition Content\n\nTitan Souls Soundtrack & Special Edition Content\n\nTitan Souls Soundtrack & Special Edition Content",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -27197,6 +27790,7 @@ var extrasData =
             "negative": 17
         },
         "dlc": {
+            "description": "Tobari and the Night of the Curious Moon Soundtrack\n\nTobari and the Night of the Curious Moon Soundtrack\n\nTobari and the Night of the Curious Moon Soundtrack\n\nTobari and the Night of the Curious Moon Soundtrack\n\nTobari and the Night of the Curious Moon Soundtrack\n\nTobari and the Night of the Curious Moon Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -27258,6 +27852,7 @@ var extrasData =
             "negative": 42
         },
         "dlc": {
+            "description": "Toodee and Topdee Soundtrack\n\nToodee and Topdee Soundtrack\n\nToodee and Topdee Soundtrack\n\nToodee and Topdee Soundtrack\n\nToodee and Topdee Soundtrack\n\nToodee and Topdee Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -27295,6 +27890,7 @@ var extrasData =
             "negative": 69
         },
         "dlc": {
+            "description": "Tormentor\u274cPunisher OST\n\nTormentor\u274cPunisher OST\n\nTormentor\u274cPunisher OST\n\nTormentor\u274cPunisher OST\n\nTormentor\u274cPunisher OST\n\nTormentor\u274cPunisher OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -27327,9 +27923,9 @@ var extrasData =
     "79b6bc3a-91b8-4489-a71b-70ec154d17a3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 174,
+            "total": 175,
             "positive": 145,
-            "negative": 29
+            "negative": 30
         }
     },
     "c22b0045-6a26-4e0c-9937-e5f5a3aee0d9": {
@@ -27364,6 +27960,7 @@ var extrasData =
             "negative": 392
         },
         "dlc": {
+            "description": "Touhou Danmaku Kagura Phantasia Lost - Unlock All Songs\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 1\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 2\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 3\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 4\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 5\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 6\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 7\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 8\nTouhou Danmaku Kagura Phantasia Lost Soundtrack\nTouhou Danmaku Kagura Phantasia Lost - Artbook\nTouhou Danmaku Kagura Phantasia Lost - Unlock All Songs\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 1\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 2\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 3\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 4\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 5\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 6\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 7\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 8\nTouhou Danmaku Kagura Phantasia Lost Soundtrack\nTouhou Danmaku Kagura Phantasia Lost - Artbook\nTouhou Danmaku Kagura Phantasia Lost - Unlock All Songs\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 1\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 2\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 3\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 4\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 5\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 6\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 7\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 8\nTouhou Danmaku Kagura Phantasia Lost Soundtrack\nTouhou Danmaku Kagura Phantasia Lost - Artbook\nTouhou Danmaku Kagura Phantasia Lost - Unlock All Songs\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 1\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 2\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 3\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 4\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 5\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 6\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 7\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 8\nTouhou Danmaku Kagura Phantasia Lost Soundtrack\nTouhou Danmaku Kagura Phantasia Lost - Artbook\nTouhou Danmaku Kagura Phantasia Lost - Unlock All Songs\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 1\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 2\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 3\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 4\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 5\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 6\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 7\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 8\nTouhou Danmaku Kagura Phantasia Lost Soundtrack\nTouhou Danmaku Kagura Phantasia Lost - Artbook\nTouhou Danmaku Kagura Phantasia Lost - Unlock All Songs\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 1\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 2\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 3\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 4\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack 5\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 6\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 7\nTouhou Danmaku Kagura Phantasia Lost - Extra Song Pack Vol. 8\nTouhou Danmaku Kagura Phantasia Lost Soundtrack\nTouhou Danmaku Kagura Phantasia Lost - Artbook",
             "count": 13,
             "priceData": {
                 "USD": {
@@ -27425,6 +28022,7 @@ var extrasData =
             "negative": 15
         },
         "dlc": {
+            "description": "\u4e1c\u65b9\u7948\u534e\u68a6\uff5eElegant Impermanence of Sakura Soundtrack\n\n\u4e1c\u65b9\u7948\u534e\u68a6\uff5eElegant Impermanence of Sakura Soundtrack\n\n\u4e1c\u65b9\u7948\u534e\u68a6\uff5eElegant Impermanence of Sakura Soundtrack\n\n\u4e1c\u65b9\u7948\u534e\u68a6\uff5eElegant Impermanence of Sakura Soundtrack\n\n\u4e1c\u65b9\u7948\u534e\u68a6\uff5eElegant Impermanence of Sakura Soundtrack\n\n\u4e1c\u65b9\u7948\u534e\u68a6\uff5eElegant Impermanence of Sakura Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -27513,11 +28111,12 @@ var extrasData =
     "6d210be2-50de-49f4-a533-8eb5fa0c6bbc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3408,
-            "positive": 3234,
+            "total": 3409,
+            "positive": 3235,
             "negative": 174
         },
         "dlc": {
+            "description": "TowerFall Dark World Expansion\n\nTowerFall Dark World Expansion\n\nTowerFall Dark World Expansion\n\nTowerFall Dark World Expansion\n\nTowerFall Dark World Expansion\n\nTowerFall Dark World Expansion",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -27555,6 +28154,7 @@ var extrasData =
             "negative": 11
         },
         "dlc": {
+            "description": "Trace Vector Soundtrack\n\nTrace Vector Soundtrack\n\nTrace Vector Soundtrack\n\nTrace Vector Soundtrack\n\nTrace Vector Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -27656,6 +28256,7 @@ var extrasData =
             "negative": 790
         },
         "dlc": {
+            "description": "Trek to Yomi Soundtrack\n\nTrek to Yomi Soundtrack\n\nTrek to Yomi Soundtrack\n\nTrek to Yomi Soundtrack\n\nTrek to Yomi Soundtrack\n\nTrek to Yomi Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -27688,11 +28289,12 @@ var extrasData =
     "f61954cd-1d07-4af4-b8cc-3db6a22f3b09": {
         "reviews": {
             "description": "Very Positive",
-            "total": 13935,
-            "positive": 13022,
+            "total": 13939,
+            "positive": 13026,
             "negative": 913
         },
         "dlc": {
+            "description": "Trepang2 - Season Pass\nTrepang2 - Survival Mode DLC\nTrepang2 - Soundtrack\nTrepang2 - Bladekisser DLC\nTrepang2 - Season Pass\nTrepang2 - Survival Mode DLC\nTrepang2 - Soundtrack\nTrepang2 - Bladekisser DLC\nTrepang2 - Season Pass\nTrepang2 - Survival Mode DLC\nTrepang2 - Soundtrack\nTrepang2 - Bladekisser DLC\nTrepang2 - Season Pass\nTrepang2 - Survival Mode DLC\nTrepang2 - Soundtrack\nTrepang2 - Bladekisser DLC\nTrepang2 - Season Pass\nTrepang2 - Survival Mode DLC\nTrepang2 - Soundtrack\nTrepang2 - Bladekisser DLC\nTrepang2 - Season Pass\nTrepang2 - Survival Mode DLC\nTrepang2 - Soundtrack\nTrepang2 - Bladekisser DLC",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -27746,6 +28348,7 @@ var extrasData =
             "negative": 764
         },
         "dlc": {
+            "description": "Trials Fusion Season Pass\nTrials Fusion - Awesome Level Max\nTrials Fusion - After the Incident\nTrials Fusion - Riders of the Rustlands\nTrials Fusion - Empire of the Sky\nTrials Fusion - Welcome to the Abyss\nTrials Fusion - Fault One Zero\nTrials Fusion - Fire in the Deep\nTrials Fusion Season Pass\nTrials Fusion - Awesome Level Max\nTrials Fusion - After the Incident\nTrials Fusion - Riders of the Rustlands\nTrials Fusion - Empire of the Sky\nTrials Fusion - Welcome to the Abyss\nTrials Fusion - Fault One Zero\nTrials Fusion - Fire in the Deep\nTrials Fusion Season Pass\nTrials Fusion - Awesome Level Max\nTrials Fusion - After the Incident\nTrials Fusion - Riders of the Rustlands\nTrials Fusion - Empire of the Sky\nTrials Fusion - Welcome to the Abyss\nTrials Fusion - Fault One Zero\nTrials Fusion - Fire in the Deep\nTrials Fusion Season Pass\nTrials Fusion - Awesome Level Max\nTrials Fusion - After the Incident\nTrials Fusion - Riders of the Rustlands\nTrials Fusion - Empire of the Sky\nTrials Fusion - Welcome to the Abyss\nTrials Fusion - Fault One Zero\nTrials Fusion - Fire in the Deep\nTrials Fusion Season Pass\nTrials Fusion - Awesome Level Max\nTrials Fusion - After the Incident\nTrials Fusion - Riders of the Rustlands\nTrials Fusion - Empire of the Sky\nTrials Fusion - Welcome to the Abyss\nTrials Fusion - Fault One Zero\nTrials Fusion - Fire in the Deep\nTrials Fusion Season Pass\nTrials Fusion - Awesome Level Max\nTrials Fusion - After the Incident\nTrials Fusion - Riders of the Rustlands\nTrials Fusion - Empire of the Sky\nTrials Fusion - Welcome to the Abyss\nTrials Fusion - Fault One Zero\nTrials Fusion - Fire in the Deep",
             "count": 8,
             "priceData": {
                 "USD": {
@@ -27799,6 +28402,7 @@ var extrasData =
             "negative": 1045
         },
         "dlc": {
+            "description": "Trials\u00ae Rising - Expansion Pass\nTrials\u00ae Rising Sixty-Six\nTrials\u00ae Rising - Crash & Sunburn\nTrials Rising - Starter Pack 2\nTrials\u00ae Rising - Expansion Pass\nTrials\u00ae Rising Sixty-Six\nTrials\u00ae Rising - Crash & Sunburn\nTrials Rising - Starter Pack 2\nTrials\u00ae Rising - Expansion Pass\nTrials\u00ae Rising Sixty-Six\nTrials\u00ae Rising - Crash & Sunburn\nTrials Rising - Starter Pack 2\nTrials\u00ae Rising - Expansion Pass\nTrials\u00ae Rising Sixty-Six\nTrials\u00ae Rising - Crash & Sunburn\nTrials Rising - Starter Pack 2\nTrials\u00ae Rising - Expansion Pass\nTrials\u00ae Rising Sixty-Six\nTrials\u00ae Rising - Crash & Sunburn\nTrials Rising - Starter Pack 2\nTrials\u00ae Rising - Expansion Pass\nTrials\u00ae Rising Sixty-Six\nTrials\u00ae Rising - Crash & Sunburn\nTrials Rising - Starter Pack 2",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -27836,6 +28440,7 @@ var extrasData =
             "negative": 1514
         },
         "dlc": {
+            "description": "Indie Friends Pack\nSpirit Animal Pack\nTricky Towers - Gem Bricks\nTricky Towers - Galaxy Bricks\nTricky Towers - Holographic Bricks\nTricky Towers - Candy Bricks\nIndie Friends Pack\nSpirit Animal Pack\nTricky Towers - Gem Bricks\nTricky Towers - Galaxy Bricks\nTricky Towers - Holographic Bricks\nTricky Towers - Candy Bricks\nIndie Friends Pack\nSpirit Animal Pack\nTricky Towers - Gem Bricks\nTricky Towers - Galaxy Bricks\nTricky Towers - Holographic Bricks\nTricky Towers - Candy Bricks\nIndie Friends Pack\nSpirit Animal Pack\nTricky Towers - Gem Bricks\nTricky Towers - Galaxy Bricks\nTricky Towers - Holographic Bricks\nTricky Towers - Candy Bricks\nIndie Friends Pack\nSpirit Animal Pack\nTricky Towers - Gem Bricks\nTricky Towers - Galaxy Bricks\nTricky Towers - Holographic Bricks\nTricky Towers - Candy Bricks\nIndie Friends Pack\nSpirit Animal Pack\nTricky Towers - Gem Bricks\nTricky Towers - Galaxy Bricks\nTricky Towers - Holographic Bricks\nTricky Towers - Candy Bricks",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -27873,6 +28478,7 @@ var extrasData =
             "negative": 200
         },
         "dlc": {
+            "description": "Wow I Might Refer To This As Tooting: The Trombone Champ Soundtrack Collection Vol. 1\n\nWow I Might Refer To This As Tooting: The Trombone Champ Soundtrack Collection Vol. 2\n\nWow I Might Refer To This As Tooting: The Trombone Champ Soundtrack Collection Vol. 1\n\nWow I Might Refer To This As Tooting: The Trombone Champ Soundtrack Collection Vol. 2\n\nWow I Might Refer To This As Tooting: The Trombone Champ Soundtrack Collection Vol. 1\n\nWow I Might Refer To This As Tooting: The Trombone Champ Soundtrack Collection Vol. 2\n\nWow I Might Refer To This As Tooting: The Trombone Champ Soundtrack Collection Vol. 1\n\nWow I Might Refer To This As Tooting: The Trombone Champ Soundtrack Collection Vol. 2\n\nWow I Might Refer To This As Tooting: The Trombone Champ Soundtrack Collection Vol. 1\n\nWow I Might Refer To This As Tooting: The Trombone Champ Soundtrack Collection Vol. 2\n\nWow I Might Refer To This As Tooting: The Trombone Champ Soundtrack Collection Vol. 1\n\nWow I Might Refer To This As Tooting: The Trombone Champ Soundtrack Collection Vol. 2",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -27918,6 +28524,7 @@ var extrasData =
             "negative": 48
         },
         "dlc": {
+            "description": "TumbleSeed - Original Soundtrack\n\nTumbleSeed - Original Soundtrack\n\nTumbleSeed - Original Soundtrack\n\nTumbleSeed - Original Soundtrack\n\nTumbleSeed - Original Soundtrack\n\nTumbleSeed - Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -27955,6 +28562,7 @@ var extrasData =
             "negative": 1262
         },
         "dlc": {
+            "description": "TUNIC (Original Game Soundtrack)\n\nTUNIC (Original Game Soundtrack)\n\nTUNIC (Original Game Soundtrack)\n\nTUNIC (Original Game Soundtrack)\n\nTUNIC (Original Game Soundtrack)\n\nTUNIC (Original Game Soundtrack)",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -27992,6 +28600,7 @@ var extrasData =
             "negative": 326
         },
         "dlc": {
+            "description": "Turbo Overkill (Selections from the Original Game Soundtrack)\n\nTurbo Overkill (Selections from the Original Game Soundtrack)\n\nTurbo Overkill (Selections from the Original Game Soundtrack)\n\nTurbo Overkill (Selections from the Original Game Soundtrack)\n\nTurbo Overkill (Selections from the Original Game Soundtrack)\n\nTurbo Overkill (Selections from the Original Game Soundtrack)",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28029,6 +28638,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "Turbo Shell Original Soundtrack\n\nTurbo Shell Original Soundtrack\n\nTurbo Shell Original Soundtrack\n\nTurbo Shell Original Soundtrack\n\nTurbo Shell Original Soundtrack\n\nTurbo Shell Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28090,6 +28700,7 @@ var extrasData =
             "negative": 12
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28127,6 +28738,7 @@ var extrasData =
             "negative": 469
         },
         "dlc": {
+            "description": "The Typing of the Dead: Overkill - Silver Screen DLC\nThe Typing of The Dead: Overkill - Shakespeare DLC\nThe Typing of the Dead: Overkill - Filth DLC\nThe Typing of the Dead: Overkill - Love at First Bite DLC\nThe Typing of the Dead: Overkill - Dancing with the Dead DLC\nThe Typing of the Dead: Overkill - Silver Screen DLC\nThe Typing of The Dead: Overkill - Shakespeare DLC\nThe Typing of the Dead: Overkill - Filth DLC\nThe Typing of the Dead: Overkill - Love at First Bite DLC\nThe Typing of the Dead: Overkill - Dancing with the Dead DLC\nThe Typing of the Dead: Overkill - Silver Screen DLC\nThe Typing of The Dead: Overkill - Shakespeare DLC\nThe Typing of the Dead: Overkill - Filth DLC\nThe Typing of the Dead: Overkill - Love at First Bite DLC\nThe Typing of the Dead: Overkill - Dancing with the Dead DLC\nThe Typing of the Dead: Overkill - Silver Screen DLC\nThe Typing of The Dead: Overkill - Shakespeare DLC\nThe Typing of the Dead: Overkill - Filth DLC\nThe Typing of the Dead: Overkill - Love at First Bite DLC\nThe Typing of the Dead: Overkill - Dancing with the Dead DLC\nThe Typing of the Dead: Overkill - Silver Screen DLC\nThe Typing of The Dead: Overkill - Shakespeare DLC\nThe Typing of the Dead: Overkill - Filth DLC\nThe Typing of the Dead: Overkill - Love at First Bite DLC\nThe Typing of the Dead: Overkill - Dancing with the Dead DLC",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -28160,6 +28772,7 @@ var extrasData =
             "negative": 116
         },
         "dlc": {
+            "description": "Typoman Soundtrack by SonicPicnic\n\nTypoman Soundtrack by SonicPicnic\n\nTypoman Soundtrack by SonicPicnic\n\nTypoman Soundtrack by SonicPicnic\n\nTypoman Soundtrack by SonicPicnic",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28197,6 +28810,7 @@ var extrasData =
             "negative": 33
         },
         "dlc": {
+            "description": "UDONGEIN X - Seiran\n\nUDONGEIN X Soundtrack\n\nUDONGEIN X - Seiran\n\nUDONGEIN X Soundtrack\n\nUDONGEIN X - Seiran\n\nUDONGEIN X Soundtrack\n\nUDONGEIN X - Seiran\n\nUDONGEIN X Soundtrack\n\nUDONGEIN X - Seiran\n\nUDONGEIN X Soundtrack\n\nUDONGEIN X - Seiran\n\nUDONGEIN X Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -28234,6 +28848,7 @@ var extrasData =
             "negative": 266
         },
         "dlc": {
+            "description": "UFO 50 Soundtrack\n\nUFO 50 Soundtrack\n\nUFO 50 Soundtrack\n\nUFO 50 Soundtrack\n\nUFO 50 Soundtrack\n\nUFO 50 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28274,11 +28889,12 @@ var extrasData =
     "c2b7c9a4-95cf-49ff-90df-be85c8f9f682": {
         "reviews": {
             "description": "Very Positive",
-            "total": 15694,
-            "positive": 14157,
+            "total": 15695,
+            "positive": 14158,
             "negative": 1537
         },
         "dlc": {
+            "description": "Ultra Street Fighter\u00ae IV Digital Upgrade\nUSFIV: 2014 Challengers Costume Pack\nUSFIV: Shoryuken Vacation Pack\nUSFIV: Brawler Vacation Pack\nUSFIV: Shadaloo Vacation Pack\nUSFIV: Classic Vacation Pack\nUSFIV: Femme Fatale Vacation Pack\nUSFIV: Challengers Vacation Pack 1\nUSFIV: Challengers Vacation Pack 2\nUSFIV: Arcade Challengers Vacation Pack\nUSFIV: 2014 Challengers Vacation Pack\nUSFIV: Complete Femme Fatale Pack (2011)\nUSFIV: Complete Shoryuken Pack (2011)\nUSFIV: Arcade Challengers Pack (2011)\nUSFIV: Complete Challengers 1 Pack (2011)\nUSFIV: Complete Challengers 2 Pack (2011)\nUSFIV: Complete Classic Pack (2011)\nUSFIV: Complete Shadoloo Pack (2011)\nUSFIV: Complete Brawler Pack (2011)\nUSFIV: Shoryuken Wild Pack\nUSFIV: Brawler Wild Pack\nUSFIV: Shadaloo Wild Pack\nUSFIV: Classic Wild Pack\nUSFIV: Femme Fatale Wild Pack\nUSFIV: Challengers Wild Pack 1\nUSFIV: Challengers Wild Pack 2\nUSFIV: Arcade Challengers Wild Pack\nUSFIV: 2014 Challengers Wild Pack\nUSFIV: Shoryuken Horror Pack\nUSFIV: Brawler Horror Pack\nUSFIV: Shadaloo Horror Pack\nUSFIV: Classic Horror Pack\nUSFIV: Femme Fatale Horror Pack\nUSFIV: Challengers Horror Pack 1\nUSFIV: Challengers Horror Pack 2\nUSFIV: Arcade Challengers Horror Pack\nUSFIV: 2014 Challengers Horror Pack\nUltra Street Fighter\u00ae IV Digital Upgrade\nUSFIV: 2014 Challengers Costume Pack\nUSFIV: Shoryuken Vacation Pack\nUSFIV: Brawler Vacation Pack\nUSFIV: Shadaloo Vacation Pack\nUSFIV: Classic Vacation Pack\nUSFIV: Femme Fatale Vacation Pack\nUSFIV: Challengers Vacation Pack 1\nUSFIV: Challengers Vacation Pack 2\nUSFIV: Arcade Challengers Vacation Pack\nUSFIV: 2014 Challengers Vacation Pack\nUSFIV: Complete Femme Fatale Pack (2011)\nUSFIV: Complete Shoryuken Pack (2011)\nUSFIV: Arcade Challengers Pack (2011)\nUSFIV: Complete Challengers 1 Pack (2011)\nUSFIV: Complete Challengers 2 Pack (2011)\nUSFIV: Complete Classic Pack (2011)\nUSFIV: Complete Shadoloo Pack (2011)\nUSFIV: Complete Brawler Pack (2011)\nUSFIV: Shoryuken Wild Pack\nUSFIV: Brawler Wild Pack\nUSFIV: Shadaloo Wild Pack\nUSFIV: Classic Wild Pack\nUSFIV: Femme Fatale Wild Pack\nUSFIV: Challengers Wild Pack 1\nUSFIV: Challengers Wild Pack 2\nUSFIV: Arcade Challengers Wild Pack\nUSFIV: 2014 Challengers Wild Pack\nUSFIV: Shoryuken Horror Pack\nUSFIV: Brawler Horror Pack\nUSFIV: Shadaloo Horror Pack\nUSFIV: Classic Horror Pack\nUSFIV: Femme Fatale Horror Pack\nUSFIV: Challengers Horror Pack 1\nUSFIV: Challengers Horror Pack 2\nUSFIV: Arcade Challengers Horror Pack\nUSFIV: 2014 Challengers Horror Pack\nUltra Street Fighter\u00ae IV Digital Upgrade\nUSFIV: 2014 Challengers Costume Pack\nUSFIV: Shoryuken Vacation Pack\nUSFIV: Brawler Vacation Pack\nUSFIV: Shadaloo Vacation Pack\nUSFIV: Classic Vacation Pack\nUSFIV: Femme Fatale Vacation Pack\nUSFIV: Challengers Vacation Pack 1\nUSFIV: Challengers Vacation Pack 2\nUSFIV: Arcade Challengers Vacation Pack\nUSFIV: 2014 Challengers Vacation Pack\nUSFIV: Complete Femme Fatale Pack (2011)\nUSFIV: Complete Shoryuken Pack (2011)\nUSFIV: Arcade Challengers Pack (2011)\nUSFIV: Complete Challengers 1 Pack (2011)\nUSFIV: Complete Challengers 2 Pack (2011)\nUSFIV: Complete Classic Pack (2011)\nUSFIV: Complete Shadoloo Pack (2011)\nUSFIV: Complete Brawler Pack (2011)\nUSFIV: Shoryuken Wild Pack\nUSFIV: Brawler Wild Pack\nUSFIV: Shadaloo Wild Pack\nUSFIV: Classic Wild Pack\nUSFIV: Femme Fatale Wild Pack\nUSFIV: Challengers Wild Pack 1\nUSFIV: Challengers Wild Pack 2\nUSFIV: Arcade Challengers Wild Pack\nUSFIV: 2014 Challengers Wild Pack\nUSFIV: Shoryuken Horror Pack\nUSFIV: Brawler Horror Pack\nUSFIV: Shadaloo Horror Pack\nUSFIV: Classic Horror Pack\nUSFIV: Femme Fatale Horror Pack\nUSFIV: Challengers Horror Pack 1\nUSFIV: Challengers Horror Pack 2\nUSFIV: Arcade Challengers Horror Pack\nUSFIV: 2014 Challengers Horror Pack\nUltra Street Fighter\u00ae IV Digital Upgrade\nUSFIV: 2014 Challengers Costume Pack\nUSFIV: Shoryuken Vacation Pack\nUSFIV: Brawler Vacation Pack\nUSFIV: Shadaloo Vacation Pack\nUSFIV: Classic Vacation Pack\nUSFIV: Femme Fatale Vacation Pack\nUSFIV: Challengers Vacation Pack 1\nUSFIV: Challengers Vacation Pack 2\nUSFIV: Arcade Challengers Vacation Pack\nUSFIV: 2014 Challengers Vacation Pack\nUSFIV: Complete Femme Fatale Pack (2011)\nUSFIV: Complete Shoryuken Pack (2011)\nUSFIV: Arcade Challengers Pack (2011)\nUSFIV: Complete Challengers 1 Pack (2011)\nUSFIV: Complete Challengers 2 Pack (2011)\nUSFIV: Complete Classic Pack (2011)\nUSFIV: Complete Shadoloo Pack (2011)\nUSFIV: Complete Brawler Pack (2011)\nUSFIV: Shoryuken Wild Pack\nUSFIV: Brawler Wild Pack\nUSFIV: Shadaloo Wild Pack\nUSFIV: Classic Wild Pack\nUSFIV: Femme Fatale Wild Pack\nUSFIV: Challengers Wild Pack 1\nUSFIV: Challengers Wild Pack 2\nUSFIV: Arcade Challengers Wild Pack\nUSFIV: 2014 Challengers Wild Pack\nUSFIV: Shoryuken Horror Pack\nUSFIV: Brawler Horror Pack\nUSFIV: Shadaloo Horror Pack\nUSFIV: Classic Horror Pack\nUSFIV: Femme Fatale Horror Pack\nUSFIV: Challengers Horror Pack 1\nUSFIV: Challengers Horror Pack 2\nUSFIV: Arcade Challengers Horror Pack\nUSFIV: 2014 Challengers Horror Pack\nUltra Street Fighter\u00ae IV Digital Upgrade\nUSFIV: 2014 Challengers Costume Pack\nUSFIV: Shoryuken Vacation Pack\nUSFIV: Brawler Vacation Pack\nUSFIV: Shadaloo Vacation Pack\nUSFIV: Classic Vacation Pack\nUSFIV: Femme Fatale Vacation Pack\nUSFIV: Challengers Vacation Pack 1\nUSFIV: Challengers Vacation Pack 2\nUSFIV: Arcade Challengers Vacation Pack\nUSFIV: 2014 Challengers Vacation Pack\nUSFIV: Complete Femme Fatale Pack (2011)\nUSFIV: Complete Shoryuken Pack (2011)\nUSFIV: Arcade Challengers Pack (2011)\nUSFIV: Complete Challengers 1 Pack (2011)\nUSFIV: Complete Challengers 2 Pack (2011)\nUSFIV: Complete Classic Pack (2011)\nUSFIV: Complete Shadoloo Pack (2011)\nUSFIV: Complete Brawler Pack (2011)\nUSFIV: Shoryuken Wild Pack\nUSFIV: Brawler Wild Pack\nUSFIV: Shadaloo Wild Pack\nUSFIV: Classic Wild Pack\nUSFIV: Femme Fatale Wild Pack\nUSFIV: Challengers Wild Pack 1\nUSFIV: Challengers Wild Pack 2\nUSFIV: Arcade Challengers Wild Pack\nUSFIV: 2014 Challengers Wild Pack\nUSFIV: Shoryuken Horror Pack\nUSFIV: Brawler Horror Pack\nUSFIV: Shadaloo Horror Pack\nUSFIV: Classic Horror Pack\nUSFIV: Femme Fatale Horror Pack\nUSFIV: Challengers Horror Pack 1\nUSFIV: Challengers Horror Pack 2\nUSFIV: Arcade Challengers Horror Pack\nUSFIV: 2014 Challengers Horror Pack\nUltra Street Fighter\u00ae IV Digital Upgrade\nUSFIV: 2014 Challengers Costume Pack\nUSFIV: Shoryuken Vacation Pack\nUSFIV: Brawler Vacation Pack\nUSFIV: Shadaloo Vacation Pack\nUSFIV: Classic Vacation Pack\nUSFIV: Femme Fatale Vacation Pack\nUSFIV: Challengers Vacation Pack 1\nUSFIV: Challengers Vacation Pack 2\nUSFIV: Arcade Challengers Vacation Pack\nUSFIV: 2014 Challengers Vacation Pack\nUSFIV: Complete Femme Fatale Pack (2011)\nUSFIV: Complete Shoryuken Pack (2011)\nUSFIV: Arcade Challengers Pack (2011)\nUSFIV: Complete Challengers 1 Pack (2011)\nUSFIV: Complete Challengers 2 Pack (2011)\nUSFIV: Complete Classic Pack (2011)\nUSFIV: Complete Shadoloo Pack (2011)\nUSFIV: Complete Brawler Pack (2011)\nUSFIV: Shoryuken Wild Pack\nUSFIV: Brawler Wild Pack\nUSFIV: Shadaloo Wild Pack\nUSFIV: Classic Wild Pack\nUSFIV: Femme Fatale Wild Pack\nUSFIV: Challengers Wild Pack 1\nUSFIV: Challengers Wild Pack 2\nUSFIV: Arcade Challengers Wild Pack\nUSFIV: 2014 Challengers Wild Pack\nUSFIV: Shoryuken Horror Pack\nUSFIV: Brawler Horror Pack\nUSFIV: Shadaloo Horror Pack\nUSFIV: Classic Horror Pack\nUSFIV: Femme Fatale Horror Pack\nUSFIV: Challengers Horror Pack 1\nUSFIV: Challengers Horror Pack 2\nUSFIV: Arcade Challengers Horror Pack\nUSFIV: 2014 Challengers Horror Pack",
             "count": 38,
             "priceData": {
                 "USD": {
@@ -28348,6 +28964,7 @@ var extrasData =
             "negative": 687
         },
         "dlc": {
+            "description": "Unepic - OST\n\nUnepic - OST\n\nUnepic - OST\n\nUnepic - OST\n\nUnepic - OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28388,11 +29005,12 @@ var extrasData =
     "c026c669-6f4d-4131-aa85-3e8740becfc3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 18651,
+            "total": 18652,
             "positive": 17412,
-            "negative": 1239
+            "negative": 1240
         },
         "dlc": {
+            "description": "Unrailed! - Supporter Pack\n\nUnrailed! - Supporter Pack\n\nUnrailed! - Supporter Pack\n\nUnrailed! - Supporter Pack\n\nUnrailed! - Supporter Pack\n\nUnrailed! - Supporter Pack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -28433,8 +29051,8 @@ var extrasData =
     "4582341b-a5bc-460a-bdef-b2f4351f96cc": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 7547,
-            "positive": 5982,
+            "total": 7549,
+            "positive": 5984,
             "negative": 1565
         }
     },
@@ -28446,6 +29064,7 @@ var extrasData =
             "negative": 132
         },
         "dlc": {
+            "description": "UNSIGHTED Soundtrack\n\nUNSIGHTED Soundtrack\n\nUNSIGHTED Soundtrack\n\nUNSIGHTED Soundtrack\n\nUNSIGHTED Soundtrack\n\nUNSIGHTED Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28491,6 +29110,7 @@ var extrasData =
             "negative": 153
         },
         "dlc": {
+            "description": "Unworthy - Soundtrack\n\nUnworthy - Soundtrack\n\nUnworthy - Soundtrack\n\nUnworthy - Soundtrack\n\nUnworthy - Soundtrack\n\nUnworthy - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28552,6 +29172,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "Vacant Kingdom Soundtrack\n\nVacant Kingdom Soundtrack\n\nVacant Kingdom Soundtrack\n\nVacant Kingdom Soundtrack\n\nVacant Kingdom Soundtrack\n\nVacant Kingdom Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28597,6 +29218,7 @@ var extrasData =
             "negative": 439
         },
         "dlc": {
+            "description": "Valfaris - Digital OST\n\nValfaris - Digital Art Book\n\nValfaris - Digital OST\n\nValfaris - Digital Art Book\n\nValfaris - Digital OST\n\nValfaris - Digital Art Book\n\nValfaris - Digital OST\n\nValfaris - Digital Art Book\n\nValfaris - Digital OST\n\nValfaris - Digital Art Book\n\nValfaris - Digital OST\n\nValfaris - Digital Art Book",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -28634,6 +29256,7 @@ var extrasData =
             "negative": 27
         },
         "dlc": {
+            "description": "Valfaris: Mecha Therion Soundtrack\n\nValfaris: Mecha Therion Soundtrack\n\nValfaris: Mecha Therion Soundtrack\n\nValfaris: Mecha Therion Soundtrack\n\nValfaris: Mecha Therion Soundtrack\n\nValfaris: Mecha Therion Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28666,11 +29289,12 @@ var extrasData =
     "b9bc0425-8162-48b7-86e9-4d1b85bc0477": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 22016,
-            "positive": 17020,
-            "negative": 4996
+            "total": 22019,
+            "positive": 17021,
+            "negative": 4998
         },
         "dlc": {
+            "description": "Vampyr - The Hunters Heirlooms DLC\n\nVampyr - The Hunters Heirlooms DLC\n\nVampyr - The Hunters Heirlooms DLC\n\nVampyr - The Hunters Heirlooms DLC\n\nVampyr - The Hunters Heirlooms DLC\n\nVampyr - The Hunters Heirlooms DLC",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28703,8 +29327,8 @@ var extrasData =
     "1e019628-b1d7-4b0c-9c6e-4927df4a1ae4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 7185,
-            "positive": 6421,
+            "total": 7184,
+            "positive": 6420,
             "negative": 764
         }
     },
@@ -28716,6 +29340,7 @@ var extrasData =
             "negative": 196
         },
         "dlc": {
+            "description": "Vault of the Void -- Developer Supporter Pack\n\nVault of the Void Soundtrack\n\nVault of the Void -- Developer Supporter Pack\n\nVault of the Void Soundtrack\n\nVault of the Void -- Developer Supporter Pack\n\nVault of the Void Soundtrack\n\nVault of the Void -- Developer Supporter Pack\n\nVault of the Void Soundtrack\n\nVault of the Void -- Developer Supporter Pack\n\nVault of the Void Soundtrack\n\nVault of the Void -- Developer Supporter Pack\n\nVault of the Void Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -28761,6 +29386,7 @@ var extrasData =
             "negative": 12
         },
         "dlc": {
+            "description": "Vectronom Original Soundtrack\n\nLevel Editor Exclusives Soundtrack\n\nVectronom Original Soundtrack\n\nLevel Editor Exclusives Soundtrack\n\nVectronom Original Soundtrack\n\nLevel Editor Exclusives Soundtrack\n\nVectronom Original Soundtrack\n\nLevel Editor Exclusives Soundtrack\n\nVectronom Original Soundtrack\n\nLevel Editor Exclusives Soundtrack\n\nVectronom Original Soundtrack\n\nLevel Editor Exclusives Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -28814,6 +29440,7 @@ var extrasData =
             "negative": 70
         },
         "dlc": {
+            "description": "Velocity\u00aeUltra - Soundtrack\n\nVelocity\u00aeUltra - Soundtrack\n\nVelocity\u00aeUltra - Soundtrack\n\nVelocity\u00aeUltra - Soundtrack\n\nVelocity\u00aeUltra - Soundtrack\n\nVelocity\u00aeUltra - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28851,6 +29478,7 @@ var extrasData =
             "negative": 82
         },
         "dlc": {
+            "description": "Verlet Swing OST\n\nVerlet Swing OST\n\nVerlet Swing OST\n\nVerlet Swing OST\n\nVerlet Swing OST\n\nVerlet Swing OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28891,11 +29519,12 @@ var extrasData =
     "842ed201-b7e3-441d-9e59-6be51089de03": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1653,
-            "positive": 1494,
+            "total": 1654,
+            "positive": 1495,
             "negative": 159
         },
         "dlc": {
+            "description": "Vivid Knight Original Soundtrack\n\nVivid Knight Original Soundtrack\n\nVivid Knight Original Soundtrack\n\nVivid Knight Original Soundtrack\n\nVivid Knight Original Soundtrack\n\nVivid Knight Original Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28949,6 +29578,7 @@ var extrasData =
             "negative": 215
         },
         "dlc": {
+            "description": "Elegy of the Stars -Void Stranger Original Soundtrack-\n\nElegy of the Stars -Void Stranger Original Soundtrack-\n\nElegy of the Stars -Void Stranger Original Soundtrack-\n\nElegy of the Stars -Void Stranger Original Soundtrack-\n\nElegy of the Stars -Void Stranger Original Soundtrack-\n\nElegy of the Stars -Void Stranger Original Soundtrack-",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -28981,8 +29611,8 @@ var extrasData =
     "7c564583-401b-418e-85d7-705696a1d29d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4281,
-            "positive": 4134,
+            "total": 4280,
+            "positive": 4133,
             "negative": 147
         }
     },
@@ -29034,6 +29664,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "Wand Wars - Soundtrack\n\nWand Wars - Soundtrack\n\nWand Wars - Soundtrack\n\nWand Wars - Soundtrack\n\nWand Wars - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29074,11 +29705,12 @@ var extrasData =
     "f1e663fb-cf49-4f86-b7f4-325bf872eed2": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 112600,
-            "positive": 79951,
-            "negative": 32649
+            "total": 112616,
+            "positive": 79965,
+            "negative": 32651
         },
         "dlc": {
+            "description": "Warhammer 40,000: Darktide - Imperial Edition Upgrade\n\nWarhammer 40,000: Darktide - Imperial Edition Upgrade\n\nWarhammer 40,000: Darktide - Imperial Edition Upgrade\n\nWarhammer 40,000: Darktide - Imperial Edition Upgrade\n\nWarhammer 40,000: Darktide - Imperial Edition Upgrade\n\nWarhammer 40,000: Darktide - Imperial Edition Upgrade",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -29111,11 +29743,12 @@ var extrasData =
     "13ed1e64-45a2-4022-b780-4d7535a6c2ba": {
         "reviews": {
             "description": "Very Positive",
-            "total": 133504,
-            "positive": 113297,
-            "negative": 20207
+            "total": 133510,
+            "positive": 113302,
+            "negative": 20208
         },
         "dlc": {
+            "description": "Warhammer: Vermintide 2 - Necromancer Career\nWarhammer: Vermintide 2 - Warrior Priest Career\nWarhammer: Vermintide 2 - Sister of the Thorn\nWarhammer: Vermintide 2 - Forgotten Relics Pack\nWarhammer: Vermintide 2 - Outcast Engineer Career\nWarhammer: Vermintide 2 - Grail Knight Career\nWarhammer: Vermintide 2 - Winds of Magic\nWarhammer: Vermintide 2 - Back to Ubersreik\nWarhammer: Vermintide 2 - Collector's Edition Upgrade\nWarhammer: Vermintide 2 - Shadows Over B\u00f6genhafen\nWarhammer: Vermintide 2 - Necromancer Career\nWarhammer: Vermintide 2 - Warrior Priest Career\nWarhammer: Vermintide 2 - Sister of the Thorn\nWarhammer: Vermintide 2 - Forgotten Relics Pack\nWarhammer: Vermintide 2 - Outcast Engineer Career\nWarhammer: Vermintide 2 - Grail Knight Career\nWarhammer: Vermintide 2 - Winds of Magic\nWarhammer: Vermintide 2 - Back to Ubersreik\nWarhammer: Vermintide 2 - Collector's Edition Upgrade\nWarhammer: Vermintide 2 - Shadows Over B\u00f6genhafen\nWarhammer: Vermintide 2 - Necromancer Career\nWarhammer: Vermintide 2 - Warrior Priest Career\nWarhammer: Vermintide 2 - Sister of the Thorn\nWarhammer: Vermintide 2 - Forgotten Relics Pack\nWarhammer: Vermintide 2 - Outcast Engineer Career\nWarhammer: Vermintide 2 - Grail Knight Career\nWarhammer: Vermintide 2 - Winds of Magic\nWarhammer: Vermintide 2 - Back to Ubersreik\nWarhammer: Vermintide 2 - Collector's Edition Upgrade\nWarhammer: Vermintide 2 - Shadows Over B\u00f6genhafen\nWarhammer: Vermintide 2 - Necromancer Career\nWarhammer: Vermintide 2 - Warrior Priest Career\nWarhammer: Vermintide 2 - Sister of the Thorn\nWarhammer: Vermintide 2 - Forgotten Relics Pack\nWarhammer: Vermintide 2 - Outcast Engineer Career\nWarhammer: Vermintide 2 - Grail Knight Career\nWarhammer: Vermintide 2 - Winds of Magic\nWarhammer: Vermintide 2 - Back to Ubersreik\nWarhammer: Vermintide 2 - Collector's Edition Upgrade\nWarhammer: Vermintide 2 - Shadows Over B\u00f6genhafen\nWarhammer: Vermintide 2 - Necromancer Career\nWarhammer: Vermintide 2 - Warrior Priest Career\nWarhammer: Vermintide 2 - Sister of the Thorn\nWarhammer: Vermintide 2 - Forgotten Relics Pack\nWarhammer: Vermintide 2 - Outcast Engineer Career\nWarhammer: Vermintide 2 - Grail Knight Career\nWarhammer: Vermintide 2 - Winds of Magic\nWarhammer: Vermintide 2 - Back to Ubersreik\nWarhammer: Vermintide 2 - Collector's Edition Upgrade\nWarhammer: Vermintide 2 - Shadows Over B\u00f6genhafen\nWarhammer: Vermintide 2 - Necromancer Career\nWarhammer: Vermintide 2 - Warrior Priest Career\nWarhammer: Vermintide 2 - Sister of the Thorn\nWarhammer: Vermintide 2 - Forgotten Relics Pack\nWarhammer: Vermintide 2 - Outcast Engineer Career\nWarhammer: Vermintide 2 - Grail Knight Career\nWarhammer: Vermintide 2 - Winds of Magic\nWarhammer: Vermintide 2 - Back to Ubersreik\nWarhammer: Vermintide 2 - Collector's Edition Upgrade\nWarhammer: Vermintide 2 - Shadows Over B\u00f6genhafen",
             "count": 20,
             "priceData": {
                 "USD": {
@@ -29161,6 +29794,7 @@ var extrasData =
             "negative": 369
         },
         "dlc": {
+            "description": "Waveform Soundtrack\n\nWaveform: Eris\n\nWaveform Soundtrack\n\nWaveform: Eris\n\nWaveform Soundtrack\n\nWaveform: Eris\n\nWaveform Soundtrack\n\nWaveform: Eris\n\nWaveform Soundtrack\n\nWaveform: Eris",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -29198,6 +29832,7 @@ var extrasData =
             "negative": 10
         },
         "dlc": {
+            "description": "WaveLand - Soundtrack\n\nWaveLand - Soundtrack\n\nWaveLand - Soundtrack\n\nWaveLand - Soundtrack\n\nWaveLand - Soundtrack\n\nWaveLand - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29243,6 +29878,7 @@ var extrasData =
             "negative": 0
         },
         "dlc": {
+            "description": "WE ARE DOOMED Soundtrack\n\nWE ARE DOOMED Soundtrack\n\nWE ARE DOOMED Soundtrack\n\nWE ARE DOOMED Soundtrack\n\nWE ARE DOOMED Soundtrack\n\nWE ARE DOOMED Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29280,6 +29916,7 @@ var extrasData =
             "negative": 97
         },
         "dlc": {
+            "description": "We Love Katamari REROLL+ Royal Reverie - Katamari Damacy Series Music Bundle\n\nWe Love Katamari REROLL+ Royal Reverie - Katamari Damacy Series Music Bundle\n\nWe Love Katamari REROLL+ Royal Reverie - Katamari Damacy Series Music Bundle\n\nWe Love Katamari REROLL+ Royal Reverie - Katamari Damacy Series Music Bundle\n\nWe Love Katamari REROLL+ Royal Reverie - Katamari Damacy Series Music Bundle\n\nWe Love Katamari REROLL+ Royal Reverie - Katamari Damacy Series Music Bundle",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29320,11 +29957,12 @@ var extrasData =
     "217382c2-1cf6-4412-81f1-c71f74cb4aa8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2455,
+            "total": 2456,
             "positive": 2082,
-            "negative": 373
+            "negative": 374
         },
         "dlc": {
+            "description": "Welcome to the Game - Hacker Mode\n\nWelcome to the Game - Hacker Mode\n\nWelcome to the Game - Hacker Mode\n\nWelcome to the Game - Hacker Mode\n\nWelcome to the Game - Hacker Mode\n\nWelcome to the Game - Hacker Mode",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29394,6 +30032,7 @@ var extrasData =
             "negative": 6
         },
         "dlc": {
+            "description": "Where Are My Friends? - Soundtrack\n\nWhere Are My Friends? - Soundtrack\n\nWhere Are My Friends? - Soundtrack\n\nWhere Are My Friends? - Soundtrack\n\nWhere Are My Friends? - Soundtrack\n\nWhere Are My Friends? - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29439,6 +30078,7 @@ var extrasData =
             "negative": 1438
         },
         "dlc": {
+            "description": "Wildfrost Soundtrack\n\nWildfrost Soundtrack\n\nWildfrost Soundtrack\n\nWildfrost Soundtrack\n\nWildfrost Soundtrack\n\nWildfrost Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29476,6 +30116,7 @@ var extrasData =
             "negative": 73
         },
         "dlc": {
+            "description": "Will You Snail? Soundtrack\n\nWill You Snail? Soundtrack\n\nWill You Snail? Soundtrack\n\nWill You Snail? Soundtrack\n\nWill You Snail? Soundtrack\n\nWill You Snail? Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29561,6 +30202,7 @@ var extrasData =
             "negative": 1884
         },
         "dlc": {
+            "description": "Wizard of Legend - Soundtrack\n\nWizard of Legend - Soundtrack\n\nWizard of Legend - Soundtrack\n\nWizard of Legend - Soundtrack\n\nWizard of Legend - Soundtrack\n\nWizard of Legend - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29593,11 +30235,12 @@ var extrasData =
     "845397fe-4f40-422c-b735-f6a8ca724d7d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 44459,
+            "total": 44460,
             "positive": 36052,
-            "negative": 8407
+            "negative": 8408
         },
         "dlc": {
+            "description": "Wolfenstein II: The Freedom Chronicles - Episode 1\nWolfenstein II: The Freedom Chronicles - Episode 2\nWolfenstein II: The Freedom Chronicles - Episode 3\nWolfenstein II: The Freedom Chronicles - Season Pass\nWolfenstein II: The Freedom Chronicles - Episode 1\nWolfenstein II: The Freedom Chronicles - Episode 2\nWolfenstein II: The Freedom Chronicles - Episode 3\nWolfenstein II: The Freedom Chronicles - Season Pass\nWolfenstein II: The Freedom Chronicles - Episode 1\nWolfenstein II: The Freedom Chronicles - Episode 2\nWolfenstein II: The Freedom Chronicles - Episode 3\nWolfenstein II: The Freedom Chronicles - Season Pass\nWolfenstein II: The Freedom Chronicles - Episode 1\nWolfenstein II: The Freedom Chronicles - Episode 2\nWolfenstein II: The Freedom Chronicles - Episode 3\nWolfenstein II: The Freedom Chronicles - Season Pass\nWolfenstein II: The Freedom Chronicles - Episode 1\nWolfenstein II: The Freedom Chronicles - Episode 2\nWolfenstein II: The Freedom Chronicles - Episode 3\nWolfenstein II: The Freedom Chronicles - Season Pass\nWolfenstein II: The Freedom Chronicles - Episode 1\nWolfenstein II: The Freedom Chronicles - Episode 2\nWolfenstein II: The Freedom Chronicles - Episode 3\nWolfenstein II: The Freedom Chronicles - Season Pass",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -29635,6 +30278,7 @@ var extrasData =
             "negative": 17
         },
         "dlc": {
+            "description": "Wonderputt Forever Soundtrack\n\nWonderputt Forever Soundtrack\n\nWonderputt Forever Soundtrack\n\nWonderputt Forever Soundtrack\n\nWonderputt Forever Soundtrack\n\nWonderputt Forever Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29672,6 +30316,7 @@ var extrasData =
             "negative": 63
         },
         "dlc": {
+            "description": "Wooden Sen'SeY Soundtrack\n\nWooden Sen'SeY Soundtrack\n\nWooden Sen'SeY Soundtrack\n\nWooden Sen'SeY Soundtrack\n\nWooden Sen'SeY Soundtrack\n\nWooden Sen'SeY Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29704,11 +30349,12 @@ var extrasData =
     "8501dbcb-efc7-47db-956d-24c8eb91391b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6146,
-            "positive": 5799,
+            "total": 6147,
+            "positive": 5800,
             "negative": 347
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29762,6 +30408,7 @@ var extrasData =
             "negative": 178
         },
         "dlc": {
+            "description": "Wrack - Soundtrack\n\nWrack - Soundtrack\n\nWrack - Soundtrack\n\nWrack - Soundtrack\n\nWrack - Soundtrack\n\nWrack - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29807,6 +30454,7 @@ var extrasData =
             "negative": 11
         },
         "dlc": {
+            "description": "Wunderling - Soundtrack\n\nWunderling - Soundtrack\n\nWunderling - Soundtrack\n\nWunderling - Soundtrack\n\nWunderling - Soundtrack\n\nWunderling - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -29868,6 +30516,7 @@ var extrasData =
             "negative": 3694
         },
         "dlc": {
+            "description": "XCOM: Enemy Within\nXCOM: Enemy Unknown - Slingshot Pack\nXCOM: Enemy Unknown - Elite Soldier Pack\nXCOM: Enemy Within\nXCOM: Enemy Unknown - Slingshot Pack\nXCOM: Enemy Unknown - Elite Soldier Pack\nXCOM: Enemy Within\nXCOM: Enemy Unknown - Slingshot Pack\nXCOM: Enemy Unknown - Elite Soldier Pack\nXCOM: Enemy Within\nXCOM: Enemy Unknown - Slingshot Pack\nXCOM: Enemy Unknown - Elite Soldier Pack\nXCOM: Enemy Within\nXCOM: Enemy Unknown - Slingshot Pack\nXCOM: Enemy Unknown - Elite Soldier Pack\nXCOM: Enemy Within\nXCOM: Enemy Unknown - Slingshot Pack\nXCOM: Enemy Unknown - Elite Soldier Pack",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -29900,11 +30549,12 @@ var extrasData =
     "0caef657-87fb-48a7-a964-1b84d7931cc2": {
         "reviews": {
             "description": "Very Positive",
-            "total": 101581,
-            "positive": 86075,
-            "negative": 15506
+            "total": 101587,
+            "positive": 86082,
+            "negative": 15505
         },
         "dlc": {
+            "description": "XCOM 2: War of the Chosen\nXCOM 2: Reinforcement Pack\nXCOM 2: War of the Chosen - Tactical Legacy Pack\nXCOM 2: Resistance Warrior Pack\nXCOM 2: War of the Chosen\nXCOM 2: Reinforcement Pack\nXCOM 2: War of the Chosen - Tactical Legacy Pack\nXCOM 2: Resistance Warrior Pack\nXCOM 2: War of the Chosen\nXCOM 2: Reinforcement Pack\nXCOM 2: War of the Chosen - Tactical Legacy Pack\nXCOM 2: Resistance Warrior Pack\nXCOM 2: War of the Chosen\nXCOM 2: Reinforcement Pack\nXCOM 2: War of the Chosen - Tactical Legacy Pack\nXCOM 2: Resistance Warrior Pack\nXCOM 2: War of the Chosen\nXCOM 2: Reinforcement Pack\nXCOM 2: War of the Chosen - Tactical Legacy Pack\nXCOM 2: Resistance Warrior Pack\nXCOM 2: War of the Chosen\nXCOM 2: Reinforcement Pack\nXCOM 2: War of the Chosen - Tactical Legacy Pack\nXCOM 2: Resistance Warrior Pack",
             "count": 7,
             "priceData": {
                 "USD": {
@@ -29953,8 +30603,8 @@ var extrasData =
     "6d764e44-57b6-46ac-90b2-1bb9de6e3e6e": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 73423,
-            "positive": 70235,
+            "total": 73428,
+            "positive": 70240,
             "negative": 3188
         }
     },
@@ -29966,6 +30616,7 @@ var extrasData =
             "negative": 6
         },
         "dlc": {
+            "description": "Yamafuda! 2nd station - Design Works YamaMook!\n\nYamafuda! 2nd station - Design Works YamaMook!\n\nYamafuda! 2nd station - Design Works YamaMook!\n\nYamafuda! 2nd station - Design Works YamaMook!\n\nYamafuda! 2nd station - Design Works YamaMook!\n\nYamafuda! 2nd station - Design Works YamaMook!",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30019,6 +30670,7 @@ var extrasData =
             "negative": 9
         },
         "dlc": {
+            "description": "Twilight Dance Party: Yoiyami Dancers Original Soundtrack Vol.1\n\nTwilight Dance Party: Yoiyami Dancers Original Soundtrack Vol.1\n\nTwilight Dance Party: Yoiyami Dancers Original Soundtrack Vol.1\n\nTwilight Dance Party: Yoiyami Dancers Original Soundtrack Vol.1\n\nTwilight Dance Party: Yoiyami Dancers Original Soundtrack Vol.1\n\nTwilight Dance Party: Yoiyami Dancers Original Soundtrack Vol.1",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30056,6 +30708,7 @@ var extrasData =
             "negative": 227
         },
         "dlc": {
+            "description": "Trowzer's Top Tonic Pack\nYooka-Laylee and the Kracklestone - Graphic Novel\nYooka-Laylee and the Impossible Lair - OST\nTrowzer's Top Tonic Pack\nYooka-Laylee and the Kracklestone - Graphic Novel\nYooka-Laylee and the Impossible Lair - OST\nTrowzer's Top Tonic Pack\nYooka-Laylee and the Kracklestone - Graphic Novel\nYooka-Laylee and the Impossible Lair - OST\nTrowzer's Top Tonic Pack\nYooka-Laylee and the Kracklestone - Graphic Novel\nYooka-Laylee and the Impossible Lair - OST\nTrowzer's Top Tonic Pack\nYooka-Laylee and the Kracklestone - Graphic Novel\nYooka-Laylee and the Impossible Lair - OST\nTrowzer's Top Tonic Pack\nYooka-Laylee and the Kracklestone - Graphic Novel\nYooka-Laylee and the Impossible Lair - OST",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -30093,6 +30746,7 @@ var extrasData =
             "negative": 3
         },
         "dlc": {
+            "description": "You Died BaNRY - Soundtrack\n\nYou Died BaNRY - Soundtrack\n\nYou Died BaNRY - Soundtrack\n\nYou Died BaNRY - Soundtrack\n\nYou Died BaNRY - Soundtrack\n\nYou Died BaNRY - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30138,6 +30792,7 @@ var extrasData =
             "negative": 100
         },
         "dlc": {
+            "description": "You Suck at Parking\u00ae Soundtrack\n\nYou Suck at Parking\u00ae Soundtrack\n\nYou Suck at Parking\u00ae Soundtrack\n\nYou Suck at Parking\u00ae Soundtrack\n\nYou Suck at Parking\u00ae Soundtrack\n\nYou Suck at Parking\u00ae Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30215,6 +30870,7 @@ var extrasData =
             "negative": 132
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30252,6 +30908,7 @@ var extrasData =
             "negative": 642
         },
         "dlc": {
+            "description": "Ys VIII: Lacrimosa of DANA - Advanced Accessory Set\nYs VIII: Lacrimosa of DANA - Bottled Potion Set\nYs VIII: Lacrimosa of DANA - Castaway Start Dash Set\nYs VIII: Lacrimosa of DANA - Economy Ingredient Set\nYs VIII: Lacrimosa of DANA - Elixir Set 1\nYs VIII: Lacrimosa of DANA - Elixir Set 2\nYs VIII: Lacrimosa of DANA - Elixir Set 3\nYs VIII: Lacrimosa of DANA - Elixir Set 4\nYs VIII: Lacrimosa of DANA - Elixir Set 5\nYs VIII: Lacrimosa of DANA - Fish Bait Set 1\nYs VIII: Lacrimosa of DANA - Fish Bait Set 2\nYs VIII: Lacrimosa of DANA - Fish Bait Set 3\nYs VIII: Lacrimosa of DANA - Laxia's \u201cEternian Scholar\u201d Costume\nYs VIII: Lacrimosa of DANA - Premium Material Set\nYs VIII: Lacrimosa of DANA - Ripe Fruit Set\nYs VIII: Lacrimosa of DANA - Status Recovery Set\nYs VIII: Lacrimosa of DANA - Tempest Set 1\nYs VIII: Lacrimosa of DANA - Tempest Set 2\nYs VIII: Lacrimosa of DANA - Tempest Set 3\nYs VIII: Lacrimosa of DANA - Tempest Set 4\nYs VIII: Lacrimosa of DANA - Tempest Set 5\nYs VIII: Lacrimosa of DANA - Useful Accessory Set\nYs VIII: Lacrimosa of DANA - Advanced Accessory Set\nYs VIII: Lacrimosa of DANA - Bottled Potion Set\nYs VIII: Lacrimosa of DANA - Castaway Start Dash Set\nYs VIII: Lacrimosa of DANA - Economy Ingredient Set\nYs VIII: Lacrimosa of DANA - Elixir Set 1\nYs VIII: Lacrimosa of DANA - Elixir Set 2\nYs VIII: Lacrimosa of DANA - Elixir Set 3\nYs VIII: Lacrimosa of DANA - Elixir Set 4\nYs VIII: Lacrimosa of DANA - Elixir Set 5\nYs VIII: Lacrimosa of DANA - Fish Bait Set 1\nYs VIII: Lacrimosa of DANA - Fish Bait Set 2\nYs VIII: Lacrimosa of DANA - Fish Bait Set 3\nYs VIII: Lacrimosa of DANA - Laxia's \u201cEternian Scholar\u201d Costume\nYs VIII: Lacrimosa of DANA - Premium Material Set\nYs VIII: Lacrimosa of DANA - Ripe Fruit Set\nYs VIII: Lacrimosa of DANA - Status Recovery Set\nYs VIII: Lacrimosa of DANA - Tempest Set 1\nYs VIII: Lacrimosa of DANA - Tempest Set 2\nYs VIII: Lacrimosa of DANA - Tempest Set 3\nYs VIII: Lacrimosa of DANA - Tempest Set 4\nYs VIII: Lacrimosa of DANA - Tempest Set 5\nYs VIII: Lacrimosa of DANA - Useful Accessory Set\nYs VIII: Lacrimosa of DANA - Advanced Accessory Set\nYs VIII: Lacrimosa of DANA - Bottled Potion Set\nYs VIII: Lacrimosa of DANA - Castaway Start Dash Set\nYs VIII: Lacrimosa of DANA - Economy Ingredient Set\nYs VIII: Lacrimosa of DANA - Elixir Set 1\nYs VIII: Lacrimosa of DANA - Elixir Set 2\nYs VIII: Lacrimosa of DANA - Elixir Set 3\nYs VIII: Lacrimosa of DANA - Elixir Set 4\nYs VIII: Lacrimosa of DANA - Elixir Set 5\nYs VIII: Lacrimosa of DANA - Fish Bait Set 1\nYs VIII: Lacrimosa of DANA - Fish Bait Set 2\nYs VIII: Lacrimosa of DANA - Fish Bait Set 3\nYs VIII: Lacrimosa of DANA - Laxia's \u201cEternian Scholar\u201d Costume\nYs VIII: Lacrimosa of DANA - Premium Material Set\nYs VIII: Lacrimosa of DANA - Ripe Fruit Set\nYs VIII: Lacrimosa of DANA - Status Recovery Set\nYs VIII: Lacrimosa of DANA - Tempest Set 1\nYs VIII: Lacrimosa of DANA - Tempest Set 2\nYs VIII: Lacrimosa of DANA - Tempest Set 3\nYs VIII: Lacrimosa of DANA - Tempest Set 4\nYs VIII: Lacrimosa of DANA - Tempest Set 5\nYs VIII: Lacrimosa of DANA - Useful Accessory Set\nYs VIII: Lacrimosa of DANA - Advanced Accessory Set\nYs VIII: Lacrimosa of DANA - Bottled Potion Set\nYs VIII: Lacrimosa of DANA - Castaway Start Dash Set\nYs VIII: Lacrimosa of DANA - Economy Ingredient Set\nYs VIII: Lacrimosa of DANA - Elixir Set 1\nYs VIII: Lacrimosa of DANA - Elixir Set 2\nYs VIII: Lacrimosa of DANA - Elixir Set 3\nYs VIII: Lacrimosa of DANA - Elixir Set 4\nYs VIII: Lacrimosa of DANA - Elixir Set 5\nYs VIII: Lacrimosa of DANA - Fish Bait Set 1\nYs VIII: Lacrimosa of DANA - Fish Bait Set 2\nYs VIII: Lacrimosa of DANA - Fish Bait Set 3\nYs VIII: Lacrimosa of DANA - Laxia's \u201cEternian Scholar\u201d Costume\nYs VIII: Lacrimosa of DANA - Premium Material Set\nYs VIII: Lacrimosa of DANA - Ripe Fruit Set\nYs VIII: Lacrimosa of DANA - Status Recovery Set\nYs VIII: Lacrimosa of DANA - Tempest Set 1\nYs VIII: Lacrimosa of DANA - Tempest Set 2\nYs VIII: Lacrimosa of DANA - Tempest Set 3\nYs VIII: Lacrimosa of DANA - Tempest Set 4\nYs VIII: Lacrimosa of DANA - Tempest Set 5\nYs VIII: Lacrimosa of DANA - Useful Accessory Set\nYs VIII: Lacrimosa of DANA - Advanced Accessory Set\nYs VIII: Lacrimosa of DANA - Bottled Potion Set\nYs VIII: Lacrimosa of DANA - Castaway Start Dash Set\nYs VIII: Lacrimosa of DANA - Economy Ingredient Set\nYs VIII: Lacrimosa of DANA - Elixir Set 1\nYs VIII: Lacrimosa of DANA - Elixir Set 2\nYs VIII: Lacrimosa of DANA - Elixir Set 3\nYs VIII: Lacrimosa of DANA - Elixir Set 4\nYs VIII: Lacrimosa of DANA - Elixir Set 5\nYs VIII: Lacrimosa of DANA - Fish Bait Set 1\nYs VIII: Lacrimosa of DANA - Fish Bait Set 2\nYs VIII: Lacrimosa of DANA - Fish Bait Set 3\nYs VIII: Lacrimosa of DANA - Laxia's \u201cEternian Scholar\u201d Costume\nYs VIII: Lacrimosa of DANA - Premium Material Set\nYs VIII: Lacrimosa of DANA - Ripe Fruit Set\nYs VIII: Lacrimosa of DANA - Status Recovery Set\nYs VIII: Lacrimosa of DANA - Tempest Set 1\nYs VIII: Lacrimosa of DANA - Tempest Set 2\nYs VIII: Lacrimosa of DANA - Tempest Set 3\nYs VIII: Lacrimosa of DANA - Tempest Set 4\nYs VIII: Lacrimosa of DANA - Tempest Set 5\nYs VIII: Lacrimosa of DANA - Useful Accessory Set\nYs VIII: Lacrimosa of DANA - Advanced Accessory Set\nYs VIII: Lacrimosa of DANA - Bottled Potion Set\nYs VIII: Lacrimosa of DANA - Castaway Start Dash Set\nYs VIII: Lacrimosa of DANA - Economy Ingredient Set\nYs VIII: Lacrimosa of DANA - Elixir Set 1\nYs VIII: Lacrimosa of DANA - Elixir Set 2\nYs VIII: Lacrimosa of DANA - Elixir Set 3\nYs VIII: Lacrimosa of DANA - Elixir Set 4\nYs VIII: Lacrimosa of DANA - Elixir Set 5\nYs VIII: Lacrimosa of DANA - Fish Bait Set 1\nYs VIII: Lacrimosa of DANA - Fish Bait Set 2\nYs VIII: Lacrimosa of DANA - Fish Bait Set 3\nYs VIII: Lacrimosa of DANA - Laxia's \u201cEternian Scholar\u201d Costume\nYs VIII: Lacrimosa of DANA - Premium Material Set\nYs VIII: Lacrimosa of DANA - Ripe Fruit Set\nYs VIII: Lacrimosa of DANA - Status Recovery Set\nYs VIII: Lacrimosa of DANA - Tempest Set 1\nYs VIII: Lacrimosa of DANA - Tempest Set 2\nYs VIII: Lacrimosa of DANA - Tempest Set 3\nYs VIII: Lacrimosa of DANA - Tempest Set 4\nYs VIII: Lacrimosa of DANA - Tempest Set 5\nYs VIII: Lacrimosa of DANA - Useful Accessory Set",
             "count": 25,
             "priceData": {
                 "USD": {
@@ -30308,8 +30965,8 @@ var extrasData =
     "aa8cdb6a-2bdd-4a49-b1eb-3ba80312666f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8426,
-            "positive": 7999,
+            "total": 8427,
+            "positive": 8000,
             "negative": 427
         }
     },
@@ -30321,6 +30978,7 @@ var extrasData =
             "negative": 45
         },
         "dlc": {
+            "description": "Zeepkist - King's Day DLC\n\nZeepkist - BOBO Tires DLC\n\nZeepkist - King's Day DLC\n\nZeepkist - BOBO Tires DLC\n\nZeepkist - King's Day DLC\n\nZeepkist - BOBO Tires DLC\n\nZeepkist - King's Day DLC\n\nZeepkist - BOBO Tires DLC\n\nZeepkist - King's Day DLC\n\nZeepkist - BOBO Tires DLC\n\nZeepkist - King's Day DLC\n\nZeepkist - BOBO Tires DLC",
             "count": 3,
             "priceData": {
                 "USD": {
@@ -30374,6 +31032,7 @@ var extrasData =
             "negative": 11
         },
         "dlc": {
+            "description": "Zenodyne R - Soundtrack\n\nZenodyne R - Soundtrack\n\nZenodyne R - Soundtrack\n\nZenodyne R - Soundtrack\n\nZenodyne R - Soundtrack\n\nZenodyne R - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30427,6 +31086,7 @@ var extrasData =
             "negative": 75
         },
         "dlc": {
+            "description": "ORANGE SOUNDS -ZeroRanger Original Soundtrack-\n\nORANGE SOUNDS -ZeroRanger Original Soundtrack-\n\nORANGE SOUNDS -ZeroRanger Original Soundtrack-\n\nORANGE SOUNDS -ZeroRanger Original Soundtrack-\n\nORANGE SOUNDS -ZeroRanger Original Soundtrack-\n\nORANGE SOUNDS -ZeroRanger Original Soundtrack-",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30520,6 +31180,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "\u2200kashicverse -pandemonic nightmare-\n\n\u2200kashicverse -pandemonic nightmare-\n\n\u2200kashicverse -pandemonic nightmare-\n\n\u2200kashicverse -pandemonic nightmare-\n\n\u2200kashicverse -pandemonic nightmare-\n\n\u2200kashicverse -pandemonic nightmare-",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30557,6 +31218,7 @@ var extrasData =
             "negative": 26
         },
         "dlc": {
+            "description": "\u4e1c\u65b9\u6816\u971e\u56ed ~ Blue devil in the\u00a0Belvedere. Soundtrack\n\n\u4e1c\u65b9\u6816\u971e\u56ed ~ Blue devil in the\u00a0Belvedere. Soundtrack\n\n\u4e1c\u65b9\u6816\u971e\u56ed ~ Blue devil in the\u00a0Belvedere. Soundtrack\n\n\u4e1c\u65b9\u6816\u971e\u56ed ~ Blue devil in the\u00a0Belvedere. Soundtrack\n\n\u4e1c\u65b9\u6816\u971e\u56ed ~ Blue devil in the\u00a0Belvedere. Soundtrack\n\n\u4e1c\u65b9\u6816\u971e\u56ed ~ Blue devil in the\u00a0Belvedere. Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30590,10 +31252,11 @@ var extrasData =
         "reviews": {
             "description": "Very Positive",
             "total": 83,
-            "positive": 71,
-            "negative": 12
+            "positive": 72,
+            "negative": 11
         },
         "dlc": {
+            "description": "\u4e1c\u65b9\u8fdc\u7a7a\u754c ~ Ultimate Vitality of Imagination Soundtrack\n\n\u4e1c\u65b9\u8fdc\u7a7a\u754c ~ Ultimate Vitality of Imagination Soundtrack\n\n\u4e1c\u65b9\u8fdc\u7a7a\u754c ~ Ultimate Vitality of Imagination Soundtrack\n\n\u4e1c\u65b9\u8fdc\u7a7a\u754c ~ Ultimate Vitality of Imagination Soundtrack\n\n\u4e1c\u65b9\u8fdc\u7a7a\u754c ~ Ultimate Vitality of Imagination Soundtrack\n\n\u4e1c\u65b9\u8fdc\u7a7a\u754c ~ Ultimate Vitality of Imagination Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30631,6 +31294,7 @@ var extrasData =
             "negative": 32
         },
         "dlc": {
+            "description": "\u4e1c\u65b9\u96ea\u83b2\u534e \uff5e Abyss Soul Lotus. Soundtrack\n\n\u4e1c\u65b9\u96ea\u83b2\u534e \uff5e Abyss Soul Lotus. Soundtrack\n\n\u4e1c\u65b9\u96ea\u83b2\u534e \uff5e Abyss Soul Lotus. Soundtrack\n\n\u4e1c\u65b9\u96ea\u83b2\u534e \uff5e Abyss Soul Lotus. Soundtrack\n\n\u4e1c\u65b9\u96ea\u83b2\u534e \uff5e Abyss Soul Lotus. Soundtrack\n\n\u4e1c\u65b9\u96ea\u83b2\u534e \uff5e Abyss Soul Lotus. Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30676,6 +31340,7 @@ var extrasData =
             "negative": 51
         },
         "dlc": {
+            "description": "\u6771\u65b9\u5e55\u83ef\u796d ~ Fantastic Danmaku Festival Soundtrack\n\n\u6771\u65b9\u5e55\u83ef\u796d ~ Fantastic Danmaku Festival Soundtrack\n\n\u6771\u65b9\u5e55\u83ef\u796d ~ Fantastic Danmaku Festival Soundtrack\n\n\u6771\u65b9\u5e55\u83ef\u796d ~ Fantastic Danmaku Festival Soundtrack\n\n\u6771\u65b9\u5e55\u83ef\u796d ~ Fantastic Danmaku Festival Soundtrack\n\n\u6771\u65b9\u5e55\u83ef\u796d ~ Fantastic Danmaku Festival Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30713,6 +31378,7 @@ var extrasData =
             "negative": 73
         },
         "dlc": {
+            "description": "TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II OST\n\nTouHou Makuka Sai ~ Fantastic Danmaku Festival Part II OST\n\nTouHou Makuka Sai ~ Fantastic Danmaku Festival Part II OST\n\nTouHou Makuka Sai ~ Fantastic Danmaku Festival Part II OST\n\nTouHou Makuka Sai ~ Fantastic Danmaku Festival Part II OST\n\nTouHou Makuka Sai ~ Fantastic Danmaku Festival Part II OST",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30758,6 +31424,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "\u6771\u65b9\u8d44\u5fd7\u758f ~ Immortal Immanuel. Soundtrack (\u4e1c\u65b9\u8d44\u5fd7\u758f)\n\n\u6771\u65b9\u8d44\u5fd7\u758f ~ Immortal Immanuel. Soundtrack (\u4e1c\u65b9\u8d44\u5fd7\u758f)\n\n\u6771\u65b9\u8d44\u5fd7\u758f ~ Immortal Immanuel. Soundtrack (\u4e1c\u65b9\u8d44\u5fd7\u758f)\n\n\u6771\u65b9\u8d44\u5fd7\u758f ~ Immortal Immanuel. Soundtrack (\u4e1c\u65b9\u8d44\u5fd7\u758f)\n\n\u6771\u65b9\u8d44\u5fd7\u758f ~ Immortal Immanuel. Soundtrack (\u4e1c\u65b9\u8d44\u5fd7\u758f)\n\n\u6771\u65b9\u8d44\u5fd7\u758f ~ Immortal Immanuel. Soundtrack (\u4e1c\u65b9\u8d44\u5fd7\u758f)",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30795,6 +31462,7 @@ var extrasData =
             "negative": 6
         },
         "dlc": {
+            "description": "\u6771\u65b9\u9006\u5999\u4e71 ~ Ephemeral Unnatural Balance - Soundtrack\n\n\u6771\u65b9\u9006\u5999\u4e71 ~ Ephemeral Unnatural Balance - Soundtrack\n\n\u6771\u65b9\u9006\u5999\u4e71 ~ Ephemeral Unnatural Balance - Soundtrack\n\n\u6771\u65b9\u9006\u5999\u4e71 ~ Ephemeral Unnatural Balance - Soundtrack\n\n\u6771\u65b9\u9006\u5999\u4e71 ~ Ephemeral Unnatural Balance - Soundtrack\n\n\u6771\u65b9\u9006\u5999\u4e71 ~ Ephemeral Unnatural Balance - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30883,11 +31551,12 @@ var extrasData =
     "4597fd09-c43c-4b7a-9a1b-14993eb01d70": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 13879,
-            "positive": 13378,
+            "total": 13881,
+            "positive": 13380,
             "negative": 501
         },
         "dlc": {
+            "description": "Awaria: Artbook + Babeczki Recipe\n\nAwaria: Artbook + Babeczki Recipe\n\nAwaria: Artbook + Babeczki Recipe\n\nAwaria: Artbook + Babeczki Recipe\n\nAwaria: Artbook + Babeczki Recipe\n\nAwaria: Artbook + Babeczki Recipe",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -30920,8 +31589,8 @@ var extrasData =
     "989b037e-7746-45a3-bf50-e86c190192a0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12086,
-            "positive": 11191,
+            "total": 12087,
+            "positive": 11192,
             "negative": 895
         }
     },
@@ -30957,6 +31626,7 @@ var extrasData =
             "negative": 3
         },
         "dlc": {
+            "description": "Bullet Hell Monday: Finale OST\n\nBullet Hell Monday: Finale OST -Original Selection-\n\nBullet Hell Monday: Finale OST\n\nBullet Hell Monday: Finale OST -Original Selection-\n\nBullet Hell Monday: Finale OST\n\nBullet Hell Monday: Finale OST -Original Selection-\n\nBullet Hell Monday: Finale OST\n\nBullet Hell Monday: Finale OST -Original Selection-\n\nBullet Hell Monday: Finale OST\n\nBullet Hell Monday: Finale OST -Original Selection-\n\nBullet Hell Monday: Finale OST\n\nBullet Hell Monday: Finale OST -Original Selection-",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -30997,11 +31667,12 @@ var extrasData =
     "f5911e24-699d-4cc1-a1cf-735d0f362e59": {
         "reviews": {
             "description": "Mixed",
-            "total": 713140,
-            "positive": 419015,
-            "negative": 294125
+            "total": 713202,
+            "positive": 419053,
+            "negative": 294149
         },
         "dlc": {
+            "description": "Call of Duty\u00ae: Black Ops 6 - BlackCell (Season 04)\nCall of Duty\u00ae: Black Ops 6 - Hella Fresh: Starter Pack\nCall of Duty League\u2122 - Atlanta FaZe Team Pack 2025\nCall of Duty League\u2122 - Boston Breach Team Pack 2025\nCall of Duty League\u2122 - Carolina Royal Ravens Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Guerrillas M8 Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Thieves Team Pack 2025\nCall of Duty League\u2122 - Miami Heretics Team Pack 2025\nCall of Duty League\u2122 - Minnesota ROKKR Team Pack 2025\nCall of Duty League\u2122 - Cloud9 New York Team Pack 2025\nCall of Duty League\u2122 - Vancouver Surge Team Pack 2025\nCall of Duty League\u2122 - OpTic Texas Team Pack 2025\nCall of Duty League\u2122 - Toronto Ultra Team Pack 2025\nCall of Duty League\u2122 - Vegas Falcons Team Pack 2025\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Nuptial Nightmare Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Ghost Punk Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Underboss Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Zodiac: Cancer Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Custom Molded Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Trash Talk 2.0 Ultra Skin Pro Pack\nCall of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Cyberjunkie: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Emerald Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Nova 6 Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tech Luxe Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Moto Freak Pro Pack\nCall of Duty Endowment (C.O.D.E.) Warrior Pack\nCall of Duty Endowment (C.O.D.E.) Direct Action Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Pumpkin Patch: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Cosmic Traveler: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Gunslinger Ghost\nCall of Duty\u00ae: Modern Warfare\u00ae II - Graffiti Tactical: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Griffin: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Demon Deer: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Valkyrie Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Manticore: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Itadakimasu: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Urban Veteran: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Dune Stalker: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Desert Rogue: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Protector Pack\nCall of Duty Endowment (C.O.D.E.) United Force: Tracer Pack\nCall of Duty\u00ae: Black Ops 6 - BlackCell (Season 04)\nCall of Duty\u00ae: Black Ops 6 - Hella Fresh: Starter Pack\nCall of Duty League\u2122 - Atlanta FaZe Team Pack 2025\nCall of Duty League\u2122 - Boston Breach Team Pack 2025\nCall of Duty League\u2122 - Carolina Royal Ravens Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Guerrillas M8 Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Thieves Team Pack 2025\nCall of Duty League\u2122 - Miami Heretics Team Pack 2025\nCall of Duty League\u2122 - Minnesota ROKKR Team Pack 2025\nCall of Duty League\u2122 - Cloud9 New York Team Pack 2025\nCall of Duty League\u2122 - Vancouver Surge Team Pack 2025\nCall of Duty League\u2122 - OpTic Texas Team Pack 2025\nCall of Duty League\u2122 - Toronto Ultra Team Pack 2025\nCall of Duty League\u2122 - Vegas Falcons Team Pack 2025\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Nuptial Nightmare Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Ghost Punk Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Underboss Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Zodiac: Cancer Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Custom Molded Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Trash Talk 2.0 Ultra Skin Pro Pack\nCall of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Cyberjunkie: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Emerald Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Nova 6 Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tech Luxe Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Moto Freak Pro Pack\nCall of Duty Endowment (C.O.D.E.) Warrior Pack\nCall of Duty Endowment (C.O.D.E.) Direct Action Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Pumpkin Patch: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Cosmic Traveler: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Gunslinger Ghost\nCall of Duty\u00ae: Modern Warfare\u00ae II - Graffiti Tactical: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Griffin: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Demon Deer: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Valkyrie Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Manticore: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Itadakimasu: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Urban Veteran: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Dune Stalker: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Desert Rogue: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Protector Pack\nCall of Duty Endowment (C.O.D.E.) United Force: Tracer Pack\nCall of Duty\u00ae: Black Ops 6 - BlackCell (Season 04)\nCall of Duty\u00ae: Black Ops 6 - Hella Fresh: Starter Pack\nCall of Duty League\u2122 - Atlanta FaZe Team Pack 2025\nCall of Duty League\u2122 - Boston Breach Team Pack 2025\nCall of Duty League\u2122 - Carolina Royal Ravens Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Guerrillas M8 Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Thieves Team Pack 2025\nCall of Duty League\u2122 - Miami Heretics Team Pack 2025\nCall of Duty League\u2122 - Minnesota ROKKR Team Pack 2025\nCall of Duty League\u2122 - Cloud9 New York Team Pack 2025\nCall of Duty League\u2122 - Vancouver Surge Team Pack 2025\nCall of Duty League\u2122 - OpTic Texas Team Pack 2025\nCall of Duty League\u2122 - Toronto Ultra Team Pack 2025\nCall of Duty League\u2122 - Vegas Falcons Team Pack 2025\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Nuptial Nightmare Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Ghost Punk Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Underboss Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Zodiac: Cancer Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Custom Molded Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Trash Talk 2.0 Ultra Skin Pro Pack\nCall of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Cyberjunkie: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Emerald Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Nova 6 Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tech Luxe Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Moto Freak Pro Pack\nCall of Duty Endowment (C.O.D.E.) Warrior Pack\nCall of Duty Endowment (C.O.D.E.) Direct Action Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Pumpkin Patch: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Cosmic Traveler: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Gunslinger Ghost\nCall of Duty\u00ae: Modern Warfare\u00ae II - Graffiti Tactical: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Griffin: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Demon Deer: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Valkyrie Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Manticore: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Itadakimasu: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Urban Veteran: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Dune Stalker: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Desert Rogue: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Protector Pack\nCall of Duty Endowment (C.O.D.E.) United Force: Tracer Pack\nCall of Duty\u00ae: Black Ops 6 - BlackCell (Season 04)\nCall of Duty\u00ae: Black Ops 6 - Hella Fresh: Starter Pack\nCall of Duty League\u2122 - Atlanta FaZe Team Pack 2025\nCall of Duty League\u2122 - Boston Breach Team Pack 2025\nCall of Duty League\u2122 - Carolina Royal Ravens Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Guerrillas M8 Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Thieves Team Pack 2025\nCall of Duty League\u2122 - Miami Heretics Team Pack 2025\nCall of Duty League\u2122 - Minnesota ROKKR Team Pack 2025\nCall of Duty League\u2122 - Cloud9 New York Team Pack 2025\nCall of Duty League\u2122 - Vancouver Surge Team Pack 2025\nCall of Duty League\u2122 - OpTic Texas Team Pack 2025\nCall of Duty League\u2122 - Toronto Ultra Team Pack 2025\nCall of Duty League\u2122 - Vegas Falcons Team Pack 2025\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Nuptial Nightmare Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Ghost Punk Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Underboss Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Zodiac: Cancer Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Custom Molded Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Trash Talk 2.0 Ultra Skin Pro Pack\nCall of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Cyberjunkie: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Emerald Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Nova 6 Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tech Luxe Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Moto Freak Pro Pack\nCall of Duty Endowment (C.O.D.E.) Warrior Pack\nCall of Duty Endowment (C.O.D.E.) Direct Action Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Pumpkin Patch: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Cosmic Traveler: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Gunslinger Ghost\nCall of Duty\u00ae: Modern Warfare\u00ae II - Graffiti Tactical: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Griffin: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Demon Deer: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Valkyrie Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Manticore: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Itadakimasu: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Urban Veteran: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Dune Stalker: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Desert Rogue: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Protector Pack\nCall of Duty Endowment (C.O.D.E.) United Force: Tracer Pack\nCall of Duty\u00ae: Black Ops 6 - BlackCell (Season 04)\nCall of Duty\u00ae: Black Ops 6 - Hella Fresh: Starter Pack\nCall of Duty League\u2122 - Atlanta FaZe Team Pack 2025\nCall of Duty League\u2122 - Boston Breach Team Pack 2025\nCall of Duty League\u2122 - Carolina Royal Ravens Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Guerrillas M8 Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Thieves Team Pack 2025\nCall of Duty League\u2122 - Miami Heretics Team Pack 2025\nCall of Duty League\u2122 - Minnesota ROKKR Team Pack 2025\nCall of Duty League\u2122 - Cloud9 New York Team Pack 2025\nCall of Duty League\u2122 - Vancouver Surge Team Pack 2025\nCall of Duty League\u2122 - OpTic Texas Team Pack 2025\nCall of Duty League\u2122 - Toronto Ultra Team Pack 2025\nCall of Duty League\u2122 - Vegas Falcons Team Pack 2025\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Nuptial Nightmare Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Ghost Punk Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Underboss Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Zodiac: Cancer Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Custom Molded Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Trash Talk 2.0 Ultra Skin Pro Pack\nCall of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Cyberjunkie: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Emerald Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Nova 6 Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tech Luxe Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Moto Freak Pro Pack\nCall of Duty Endowment (C.O.D.E.) Warrior Pack\nCall of Duty Endowment (C.O.D.E.) Direct Action Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Pumpkin Patch: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Cosmic Traveler: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Gunslinger Ghost\nCall of Duty\u00ae: Modern Warfare\u00ae II - Graffiti Tactical: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Griffin: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Demon Deer: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Valkyrie Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Manticore: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Itadakimasu: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Urban Veteran: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Dune Stalker: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Desert Rogue: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Protector Pack\nCall of Duty Endowment (C.O.D.E.) United Force: Tracer Pack\nCall of Duty\u00ae: Black Ops 6 - BlackCell (Season 04)\nCall of Duty\u00ae: Black Ops 6 - Hella Fresh: Starter Pack\nCall of Duty League\u2122 - Atlanta FaZe Team Pack 2025\nCall of Duty League\u2122 - Boston Breach Team Pack 2025\nCall of Duty League\u2122 - Carolina Royal Ravens Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Guerrillas M8 Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Thieves Team Pack 2025\nCall of Duty League\u2122 - Miami Heretics Team Pack 2025\nCall of Duty League\u2122 - Minnesota ROKKR Team Pack 2025\nCall of Duty League\u2122 - Cloud9 New York Team Pack 2025\nCall of Duty League\u2122 - Vancouver Surge Team Pack 2025\nCall of Duty League\u2122 - OpTic Texas Team Pack 2025\nCall of Duty League\u2122 - Toronto Ultra Team Pack 2025\nCall of Duty League\u2122 - Vegas Falcons Team Pack 2025\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Nuptial Nightmare Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Ghost Punk Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Underboss Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Zodiac: Cancer Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Custom Molded Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Trash Talk 2.0 Ultra Skin Pro Pack\nCall of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Cyberjunkie: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Emerald Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Nova 6 Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tech Luxe Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Moto Freak Pro Pack\nCall of Duty Endowment (C.O.D.E.) Warrior Pack\nCall of Duty Endowment (C.O.D.E.) Direct Action Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Pumpkin Patch: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Cosmic Traveler: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Gunslinger Ghost\nCall of Duty\u00ae: Modern Warfare\u00ae II - Graffiti Tactical: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Griffin: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Demon Deer: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Valkyrie Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Manticore: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Itadakimasu: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Urban Veteran: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Dune Stalker: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Desert Rogue: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Protector Pack\nCall of Duty Endowment (C.O.D.E.) United Force: Tracer Pack",
             "count": 42,
             "priceData": {
                 "USD": {
@@ -31063,6 +31734,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "Cognizer - Donation level 1\nCognizer - Donation level 2\nCognizer - Donation level 3\nCognizer - Donation level 4\nCognizer - Donation level 5\nCognizer - Donation level 1\nCognizer - Donation level 2\nCognizer - Donation level 3\nCognizer - Donation level 4\nCognizer - Donation level 5\nCognizer - Donation level 1\nCognizer - Donation level 2\nCognizer - Donation level 3\nCognizer - Donation level 4\nCognizer - Donation level 5\nCognizer - Donation level 1\nCognizer - Donation level 2\nCognizer - Donation level 3\nCognizer - Donation level 4\nCognizer - Donation level 5\nCognizer - Donation level 1\nCognizer - Donation level 2\nCognizer - Donation level 3\nCognizer - Donation level 4\nCognizer - Donation level 5\nCognizer - Donation level 1\nCognizer - Donation level 2\nCognizer - Donation level 3\nCognizer - Donation level 4\nCognizer - Donation level 5",
             "count": 5,
             "priceData": {
                 "USD": {
@@ -31108,6 +31780,7 @@ var extrasData =
             "negative": 99
         },
         "dlc": {
+            "description": "Crimzon Clover WORLD IGNITION - Superplay Strategy Guide\nCrimzon Clover WORLD IGNITION - Arranged Sound Track\nCrimzon Clover WORLD IGNITION - Arcade Poster Pack\nCrimzon Clover WORLD IGNITION - Soundtrack\nCrimzon Clover WORLD IGNITION - Superplay Strategy Guide\nCrimzon Clover WORLD IGNITION - Arranged Sound Track\nCrimzon Clover WORLD IGNITION - Arcade Poster Pack\nCrimzon Clover WORLD IGNITION - Soundtrack\nCrimzon Clover WORLD IGNITION - Superplay Strategy Guide\nCrimzon Clover WORLD IGNITION - Arranged Sound Track\nCrimzon Clover WORLD IGNITION - Arcade Poster Pack\nCrimzon Clover WORLD IGNITION - Soundtrack\nCrimzon Clover WORLD IGNITION - Superplay Strategy Guide\nCrimzon Clover WORLD IGNITION - Arranged Sound Track\nCrimzon Clover WORLD IGNITION - Arcade Poster Pack\nCrimzon Clover WORLD IGNITION - Soundtrack\nCrimzon Clover WORLD IGNITION - Superplay Strategy Guide\nCrimzon Clover WORLD IGNITION - Arranged Sound Track\nCrimzon Clover WORLD IGNITION - Arcade Poster Pack\nCrimzon Clover WORLD IGNITION - Soundtrack\nCrimzon Clover WORLD IGNITION - Superplay Strategy Guide\nCrimzon Clover WORLD IGNITION - Arranged Sound Track\nCrimzon Clover WORLD IGNITION - Arcade Poster Pack\nCrimzon Clover WORLD IGNITION - Soundtrack",
             "count": 4,
             "priceData": {
                 "USD": {
@@ -31161,6 +31834,7 @@ var extrasData =
             "negative": 35
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -31209,8 +31883,8 @@ var extrasData =
     "d5b52d31-5dee-4f0b-9fa8-3c41c76c0063": {
         "reviews": {
             "description": "Very Positive",
-            "total": 10412,
-            "positive": 9052,
+            "total": 10413,
+            "positive": 9053,
             "negative": 1360
         }
     },
@@ -31246,6 +31920,7 @@ var extrasData =
             "negative": 15
         },
         "dlc": {
+            "description": "Ducks Can Drive - Supporter Pack\n\nDucks Can Drive - Penguins Can Too\n\nDucks Can Drive - Supporter Pack\n\nDucks Can Drive - Penguins Can Too\n\nDucks Can Drive - Supporter Pack\n\nDucks Can Drive - Penguins Can Too\n\nDucks Can Drive - Supporter Pack\n\nDucks Can Drive - Penguins Can Too\n\nDucks Can Drive - Supporter Pack\n\nDucks Can Drive - Penguins Can Too\n\nDucks Can Drive - Supporter Pack\n\nDucks Can Drive - Penguins Can Too",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -31323,6 +31998,7 @@ var extrasData =
             "negative": 9
         },
         "dlc": {
+            "description": "Flem - Soundtrack\n\nFlem - Soundtrack\n\nFlem - Soundtrack\n\nFlem - Soundtrack\n\nFlem - Soundtrack\n\nFlem - Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -31376,6 +32052,7 @@ var extrasData =
             "negative": 9
         },
         "dlc": {
+            "description": "Gravity - Creator Bundle\n\nGravity - Creator Bundle\n\nGravity - Creator Bundle\n\nGravity - Creator Bundle\n\nGravity - Creator Bundle\n\nGravity - Creator Bundle",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -31432,8 +32109,8 @@ var extrasData =
     "56d0314e-a40a-4024-98d0-e05bb742ee6a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4830,
-            "positive": 4588,
+            "total": 4832,
+            "positive": 4590,
             "negative": 242
         }
     },
@@ -31469,6 +32146,7 @@ var extrasData =
             "negative": 59
         },
         "dlc": {
+            "description": "Khimera: Destroy all Monster Girls - Doctor's Assistant Costume\n\nKhimera: Destroy all Monster Girls - Doctor's Assistant Costume\n\nKhimera: Destroy all Monster Girls - Doctor's Assistant Costume\n\nKhimera: Destroy all Monster Girls - Doctor's Assistant Costume\n\nKhimera: Destroy all Monster Girls - Doctor's Assistant Costume\n\nKhimera: Destroy all Monster Girls - Doctor's Assistant Costume",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -31541,8 +32219,8 @@ var extrasData =
     "374d4bf9-c2f8-4032-aa54-5c11194287ab": {
         "reviews": {
             "description": "Very Positive",
-            "total": 175572,
-            "positive": 164340,
+            "total": 175578,
+            "positive": 164346,
             "negative": 11232
         }
     },
@@ -31562,6 +32240,7 @@ var extrasData =
             "negative": 287
         },
         "dlc": {
+            "description": "Neon Beats - A beat further\n\nNeon Beats - Original Soundtrack\n\nNeon Beats - A beat further\n\nNeon Beats - Original Soundtrack\n\nNeon Beats - A beat further\n\nNeon Beats - Original Soundtrack\n\nNeon Beats - A beat further\n\nNeon Beats - Original Soundtrack\n\nNeon Beats - A beat further\n\nNeon Beats - Original Soundtrack\n\nNeon Beats - A beat further\n\nNeon Beats - Original Soundtrack",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -31615,6 +32294,7 @@ var extrasData =
             "negative": 293
         },
         "dlc": {
+            "description": "V: Soundtrack\n\nCOLDTV\n\nV: Soundtrack\n\nCOLDTV\n\nV: Soundtrack\n\nCOLDTV\n\nV: Soundtrack\n\nCOLDTV\n\nCOLDTV\n\nV: Soundtrack\n\nCOLDTV",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -31652,6 +32332,7 @@ var extrasData =
             "negative": 24
         },
         "dlc": {
+            "description": "Overclocked - Official Soundtrack\n\nOverclocked - Official Soundtrack\n\nOverclocked - Official Soundtrack\n\nOverclocked - Official Soundtrack\n\nOverclocked - Official Soundtrack\n\nOverclocked - Official Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -31737,6 +32418,7 @@ var extrasData =
             "negative": 18
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -31785,17 +32467,17 @@ var extrasData =
     "a4687062-7145-4a6d-859c-f72a53f509c5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 26242,
-            "positive": 22042,
-            "negative": 4200
+            "total": 26245,
+            "positive": 22044,
+            "negative": 4201
         }
     },
     "7727645c-ac96-4314-93d4-fe0ef83487cc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 77876,
-            "positive": 66095,
-            "negative": 11781
+            "total": 77880,
+            "positive": 66096,
+            "negative": 11784
         }
     },
     "44dfdb5f-82e3-4f7c-9241-c4b8013a6d94": {
@@ -31814,6 +32496,7 @@ var extrasData =
             "negative": 3
         },
         "dlc": {
+            "description": "Sir Fallen: Supporter Pack\n\nSir Fallen: Shadows of the Phoenixheart\n\nSir Fallen: Supporter Pack\n\nSir Fallen: Shadows of the Phoenixheart\n\nSir Fallen: Supporter Pack\n\nSir Fallen: Shadows of the Phoenixheart\n\nSir Fallen: Supporter Pack\n\nSir Fallen: Shadows of the Phoenixheart\n\nSir Fallen: Supporter Pack\n\nSir Fallen: Shadows of the Phoenixheart\n\nSir Fallen: Supporter Pack\n\nSir Fallen: Shadows of the Phoenixheart",
             "count": 2,
             "priceData": {
                 "USD": {
@@ -31859,6 +32542,7 @@ var extrasData =
             "negative": 1621
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -31924,6 +32608,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "STAY - Supporter Pack\n\nSTAY - Supporter Pack\n\nSTAY - Supporter Pack\n\nSTAY - Supporter Pack\n\nSTAY - Supporter Pack\n\nSTAY - Supporter Pack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -31985,6 +32670,7 @@ var extrasData =
             "negative": 4
         },
         "dlc": {
+            "description": "Sympathia Soundtrack\n\nSympathia Soundtrack\n\nSympathia Soundtrack\n\nSympathia Soundtrack\n\nSympathia Soundtrack\n\nSympathia Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -32022,6 +32708,7 @@ var extrasData =
             "negative": 1
         },
         "dlc": {
+            "description": "TCSTRIKERS2 Soundtrack\n\nTCSTRIKERS2 Soundtrack\n\nTCSTRIKERS2 Soundtrack\n\nTCSTRIKERS2 Soundtrack\n\nTCSTRIKERS2 Soundtrack\n\nTCSTRIKERS2 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -32059,6 +32746,7 @@ var extrasData =
             "negative": 2
         },
         "dlc": {
+            "description": "TCSTRIKERS3 Soundtrack\n\nTCSTRIKERS3 Soundtrack\n\nTCSTRIKERS3 Soundtrack\n\nTCSTRIKERS3 Soundtrack\n\nTCSTRIKERS3 Soundtrack\n\nTCSTRIKERS3 Soundtrack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -32096,6 +32784,7 @@ var extrasData =
             "negative": 8
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -32141,6 +32830,7 @@ var extrasData =
             "negative": 21
         },
         "dlc": {
+            "description": "\u4e1c\u65b9\u6709\u9876\u5929\u68a6\u539f\u58f0\u4e13\u8f91\n\n\u4e1c\u65b9\u6709\u9876\u5929\u68a6\u539f\u58f0\u4e13\u8f91\n\n\u4e1c\u65b9\u6709\u9876\u5929\u68a6\u539f\u58f0\u4e13\u8f91\n\n\u4e1c\u65b9\u6709\u9876\u5929\u68a6\u539f\u58f0\u4e13\u8f91\n\n\u4e1c\u65b9\u6709\u9876\u5929\u68a6\u539f\u58f0\u4e13\u8f91\n\n\u4e1c\u65b9\u6709\u9876\u5929\u68a6\u539f\u58f0\u4e13\u8f91",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -32186,6 +32876,7 @@ var extrasData =
             "negative": 60
         },
         "dlc": {
+            "description": "Touhou Fantasia Fan Pack\n\nTouhou Fantasia Fan Pack\n\nTouhou Fantasia Fan Pack\n\nTouhou Fantasia Fan Pack\n\nTouhou Fantasia Fan Pack\n\nTouhou Fantasia Fan Pack",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -32226,16 +32917,16 @@ var extrasData =
     "71fdace3-e962-4725-bef3-c7534943ac1a": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 15936,
-            "positive": 12297,
+            "total": 15937,
+            "positive": 12298,
             "negative": 3639
         }
     },
     "66647036-1771-4f51-a233-ba6abf5aef32": {
         "reviews": {
             "description": "Very Positive",
-            "total": 23582,
-            "positive": 21225,
+            "total": 23584,
+            "positive": 21227,
             "negative": 2357
         }
     },
@@ -32250,8 +32941,8 @@ var extrasData =
     "bedaf17e-a054-4973-b2f6-71140fec4cbb": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 58232,
-            "positive": 55353,
+            "total": 58234,
+            "positive": 55355,
             "negative": 2879
         }
     },
@@ -32322,8 +33013,8 @@ var extrasData =
     "deee7db2-1d09-4af9-962a-fe70281f4241": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5673,
-            "positive": 5269,
+            "total": 5674,
+            "positive": 5270,
             "negative": 404
         }
     },
@@ -32346,11 +33037,12 @@ var extrasData =
     "6e505741-d18c-41ef-afc2-4135e74cfeab": {
         "reviews": {
             "description": "Very Positive",
-            "total": 10418,
-            "positive": 8638,
+            "total": 10419,
+            "positive": 8639,
             "negative": 1780
         },
         "dlc": {
+            "description": "Night of Full Moon - Pumpkin Lamp\nNight of Full Moon - Choice of Carpenter\uff08Classic\uff09\nNight of Full Moon - Apothecary's Blessing\uff08Classic\uff09\nNight of Full Moon - Memory Puzzle\nNight of Full Moon - Magic Curtain\uff08Classic\uff09\nNight of Full Moon - The Red Hood Diary\uff08Classic\uff09\nNight of Full Moon - Contract of Soul\uff08Classic\uff09\nNight of Full Moon - Gear of Fate\uff08Classic\uff09\nNight of Full Moon - Piggy Bank\nNight of Full Moon - Long\uff08Mirror\uff09\nNight of Full Moon - Ghost\uff08Mirror\uff09\nNight of Full Moon - Alchemist\uff08Mirror\uff09\nNight of Full Moon - Akolyth\uff08Mirror\uff09\nNight of Full Moon - Queen\uff08Wishing\uff09\nNight of Full Moon - Mechanic (Wishing)\nNight of Full Moon - Echoes of Nature\uff08Classic\uff09\nNight of Full Moon - Witcher\uff08Mirror\uff09\nNight of Full Moon - Wolf\uff08Mirror\uff09\nNight of Full Moon - Witch\uff08Wishing\uff09\nNight of Full Moon - Floriculturist\uff08Wishing\uff09\nNight of Full Moon - Pumpkin Lamp\nNight of Full Moon - Choice of Carpenter\uff08Classic\uff09\nNight of Full Moon - Apothecary's Blessing\uff08Classic\uff09\nNight of Full Moon - Memory Puzzle\nNight of Full Moon - Magic Curtain\uff08Classic\uff09\nNight of Full Moon - The Red Hood Diary\uff08Classic\uff09\nNight of Full Moon - Contract of Soul\uff08Classic\uff09\nNight of Full Moon - Gear of Fate\uff08Classic\uff09\nNight of Full Moon - Piggy Bank\nNight of Full Moon - Long\uff08Mirror\uff09\nNight of Full Moon - Ghost\uff08Mirror\uff09\nNight of Full Moon - Alchemist\uff08Mirror\uff09\nNight of Full Moon - Akolyth\uff08Mirror\uff09\nNight of Full Moon - Queen\uff08Wishing\uff09\nNight of Full Moon - Mechanic (Wishing)\nNight of Full Moon - Echoes of Nature\uff08Classic\uff09\nNight of Full Moon - Witcher\uff08Mirror\uff09\nNight of Full Moon - Wolf\uff08Mirror\uff09\nNight of Full Moon - Witch\uff08Wishing\uff09\nNight of Full Moon - Floriculturist\uff08Wishing\uff09\nNight of Full Moon - Pumpkin Lamp\nNight of Full Moon - Choice of Carpenter\uff08Classic\uff09\nNight of Full Moon - Apothecary's Blessing\uff08Classic\uff09\nNight of Full Moon - Memory Puzzle\nNight of Full Moon - Magic Curtain\uff08Classic\uff09\nNight of Full Moon - The Red Hood Diary\uff08Classic\uff09\nNight of Full Moon - Contract of Soul\uff08Classic\uff09\nNight of Full Moon - Gear of Fate\uff08Classic\uff09\nNight of Full Moon - Piggy Bank\nNight of Full Moon - Long\uff08Mirror\uff09\nNight of Full Moon - Ghost\uff08Mirror\uff09\nNight of Full Moon - Alchemist\uff08Mirror\uff09\nNight of Full Moon - Akolyth\uff08Mirror\uff09\nNight of Full Moon - Queen\uff08Wishing\uff09\nNight of Full Moon - Mechanic (Wishing)\nNight of Full Moon - Echoes of Nature\uff08Classic\uff09\nNight of Full Moon - Witcher\uff08Mirror\uff09\nNight of Full Moon - Wolf\uff08Mirror\uff09\nNight of Full Moon - Witch\uff08Wishing\uff09\nNight of Full Moon - Floriculturist\uff08Wishing\uff09\nNight of Full Moon - Pumpkin Lamp\nNight of Full Moon - Choice of Carpenter\uff08Classic\uff09\nNight of Full Moon - Apothecary's Blessing\uff08Classic\uff09\nNight of Full Moon - Memory Puzzle\nNight of Full Moon - Magic Curtain\uff08Classic\uff09\nNight of Full Moon - The Red Hood Diary\uff08Classic\uff09\nNight of Full Moon - Contract of Soul\uff08Classic\uff09\nNight of Full Moon - Gear of Fate\uff08Classic\uff09\nNight of Full Moon - Piggy Bank\nNight of Full Moon - Long\uff08Mirror\uff09\nNight of Full Moon - Ghost\uff08Mirror\uff09\nNight of Full Moon - Alchemist\uff08Mirror\uff09\nNight of Full Moon - Akolyth\uff08Mirror\uff09\nNight of Full Moon - Queen\uff08Wishing\uff09\nNight of Full Moon - Mechanic (Wishing)\nNight of Full Moon - Echoes of Nature\uff08Classic\uff09\nNight of Full Moon - Witcher\uff08Mirror\uff09\nNight of Full Moon - Wolf\uff08Mirror\uff09\nNight of Full Moon - Witch\uff08Wishing\uff09\nNight of Full Moon - Floriculturist\uff08Wishing\uff09\nNight of Full Moon - Pumpkin Lamp\nNight of Full Moon - Choice of Carpenter\uff08Classic\uff09\nNight of Full Moon - Apothecary's Blessing\uff08Classic\uff09\nNight of Full Moon - Memory Puzzle\nNight of Full Moon - Magic Curtain\uff08Classic\uff09\nNight of Full Moon - The Red Hood Diary\uff08Classic\uff09\nNight of Full Moon - Contract of Soul\uff08Classic\uff09\nNight of Full Moon - Gear of Fate\uff08Classic\uff09\nNight of Full Moon - Piggy Bank\nNight of Full Moon - Long\uff08Mirror\uff09\nNight of Full Moon - Ghost\uff08Mirror\uff09\nNight of Full Moon - Alchemist\uff08Mirror\uff09\nNight of Full Moon - Akolyth\uff08Mirror\uff09\nNight of Full Moon - Queen\uff08Wishing\uff09\nNight of Full Moon - Mechanic (Wishing)\nNight of Full Moon - Echoes of Nature\uff08Classic\uff09\nNight of Full Moon - Witcher\uff08Mirror\uff09\nNight of Full Moon - Wolf\uff08Mirror\uff09\nNight of Full Moon - Witch\uff08Wishing\uff09\nNight of Full Moon - Floriculturist\uff08Wishing\uff09\nNight of Full Moon - Pumpkin Lamp\nNight of Full Moon - Choice of Carpenter\uff08Classic\uff09\nNight of Full Moon - Apothecary's Blessing\uff08Classic\uff09\nNight of Full Moon - Memory Puzzle\nNight of Full Moon - Magic Curtain\uff08Classic\uff09\nNight of Full Moon - The Red Hood Diary\uff08Classic\uff09\nNight of Full Moon - Contract of Soul\uff08Classic\uff09\nNight of Full Moon - Gear of Fate\uff08Classic\uff09\nNight of Full Moon - Piggy Bank\nNight of Full Moon - Long\uff08Mirror\uff09\nNight of Full Moon - Ghost\uff08Mirror\uff09\nNight of Full Moon - Alchemist\uff08Mirror\uff09\nNight of Full Moon - Akolyth\uff08Mirror\uff09\nNight of Full Moon - Queen\uff08Wishing\uff09\nNight of Full Moon - Mechanic (Wishing)\nNight of Full Moon - Echoes of Nature\uff08Classic\uff09\nNight of Full Moon - Witcher\uff08Mirror\uff09\nNight of Full Moon - Wolf\uff08Mirror\uff09\nNight of Full Moon - Witch\uff08Wishing\uff09\nNight of Full Moon - Floriculturist\uff08Wishing\uff09",
             "count": 20,
             "priceData": {
                 "USD": {
@@ -32388,6 +33080,7 @@ var extrasData =
             "negative": 13
         },
         "dlc": {
+            "description": "",
             "count": 1,
             "priceData": {
                 "USD": {
@@ -32447,8 +33140,8 @@ var extrasDate =
     "day": 31,
     "month": 5,
     "year": 2025,
-    "hour": 11,
-    "minute": 25,
-    "second": 28,
-    "searchTime": 2167.6107556819916
+    "hour": 16,
+    "minute": 2,
+    "second": 1,
+    "searchTime": 2112.93700838089
 }
