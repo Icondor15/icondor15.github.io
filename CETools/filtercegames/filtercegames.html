@@ -118,16 +118,22 @@
             </svg> icondor.bsky.social <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
                 <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
             </svg></a> / <b>@icondor</b> on Discord.</p>
+            <sub style="font-size: 12px;">Daily Checks</sub><br>
             <sub id="Date">Last checked game database on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
             <sub id="userDate">Last checked user database on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
             <sub id="wishlistDate">Last checked wishlist info on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
+            <sub id="searchTime">Search time: <b>Loading...</b>.</sub><br>
+            <div style="margin: 5px;">
+                <sub style="font-size: 12px;">Weekly Checks (Done on Mondays!)</sub><br>
+                <sub id="extrasDate">Last checked Reviews & DLC info on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
+            </div>
             <sub id="totalTime">Total search time: <b>Loading...</b>.</sub><br>
             <sub style="font-size: 10px;">(If any data changed while the search was ongoing (Unlikely but not impossible) it may be slightly inaccurate.)</sub>
         </div>
         <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, document.body.scrollHeight);"><b>vvv Move to bottom vvv</b></span></div>
         <table id="MainTable" style="margin: auto; width: 100%; text-align: center; background-color:#ffffff;">
             <tr>
-                <td colspan="14">    
+                <td colspan="16">    
                     <p id="Count" style="margin: auto; padding: 15px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Games: Loading...</p>
                     <p id="CountCost" style="margin: auto; padding: 0px 15px 0px; font-size: 22px; font-weight: bold; text-align: center;">
                         Cost of Filtered: Loading...<br>
@@ -142,7 +148,7 @@
                 </td>
             </tr>
             <tr>
-                <td colspan="14">
+                <td colspan="16">
                     <table class="filterTitle" style="margin: auto; text-align: center; background-color: #e7e7e7;">
                         <tr>
                             <td colspan="8">
@@ -400,7 +406,7 @@
                 </td>
             </tr>
             <tr>
-                <td colspan="14">
+                <td colspan="16">
                     <table class="filterTitle" style="margin: auto; text-align: center;">
                         <tr>
                             <td colspan="2">
@@ -444,7 +450,7 @@
             <tr>
                 <td style="padding:0%; width:10%; background-color: #dddddd;">
                     <div class="button orderButton orderButtonReviewRating" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('reviewRating')">Rating (%)</div>
-                    <div class="button orderButton orderButtonReviewTotal" style="width:50%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('reviewTotal')">Total</div>
+                    <div class="button orderButton orderButtonReviewTotal" style="width:50%; float:right; border-left: solid 1px black;" onclick="orderFromButton = true; order('reviewTotal')">Total</div>
                 </td>
                 <td rowspan="2" class="button orderButton orderButtonName" onclick="orderFromButton = true; order('name')">Order By Name</td>
                 <td rowspan="2" class="button orderButton orderButtonGenre" onclick="orderFromButton = true; order('genre')">Order By Genre</td>
@@ -458,8 +464,15 @@
                     <div class="button orderButton orderButtonPlayersCompleted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersCompleted')">Completed</div>
                     <div class="button orderButton orderButtonCompletedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('completedPercentage')">%</div>
                 </td>
-                <td class="button orderButton orderButtonFinal" colspan="2" onclick="orderFromButton = true; order('final')">Order By Price</td>
-                <td class="button orderButton orderButtonCreatedAt" onclick="orderFromButton = true; order('createdAt')">Order By Date Added</td>
+                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div class="button orderButton orderButtonFinal" style="width:49.3%; float:left;" colspan="2" onclick="orderFromButton = true; order('final')">Price</div>
+                    <div class="button orderButton orderButtonDiscountPercent" style="width:50%; float:right; border-left: solid 1px black;" colspan="2" onclick="orderFromButton = true; order('discountPercent')">Sale (%)</div>
+                </td>
+                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div style="width:49.3%; float:left;" class="button orderButton orderButtonDlcCount" onclick="orderFromButton = true; order('dlcCount')">DLC Count</div>
+                    <div style="width:50%; float:right; border-left: solid 1px black;" class="button orderButton orderButtonDlcPrice" onclick="orderFromButton = true; order('dlcPrice')">DLC Price</div>
+                </td>
+                <td class="button orderButton orderButtonCreatedAt" onclick="orderFromButton = true; order('createdAt')">Date Added</td>
                 <td rowspan="2" class="button orderButton orderButtonPlatformId" onclick="orderFromButton = true; order('platformId')">Order By Id</td>
             </tr>
             <tr>
@@ -472,67 +485,89 @@
                     <div class="button orderButton orderButtonPlayersStarted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersStarted')">Unfinished</div>
                     <div class="button orderButton orderButtonStartedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('startedPercentage')">%</div>
                 </td>
-                <td class="button orderButton orderButtonDiscountPercent" colspan="2" onclick="orderFromButton = true; order('discountPercent')">Order By Sale %</td>
-                <td class="button orderButton orderButtonUpdatedAt" onclick="orderFromButton = true; order('updatedAt')">Order By Date Updated</td>
+                <td colspan="4" class="button orderButton orderButtonTotalPrice" colspan="2" onclick="orderFromButton = true; order('totalPrice')">Order By Total Price</td>
+                <td class="button orderButton orderButtonUpdatedAt" onclick="orderFromButton = true; order('updatedAt')">Date Updated</td>
             </tr>
             <tr style="font-weight: bold; user-select: none;">
-                <td>Platform / Reviews</td>
-                <td>
+                <td rowspan="2">Platform / Reviews</td>
+                <td rowspan="2">
                     Name<br>
                     <sub class="subtitle">(Click to copy the name!)</sub><br>
                     <sub class="subtitle">(Hover over the '𝓲' to view that game's information!)</sub>
                 </td>
-                <td>Genre</td>
-                <td colspan="2">Tier / Points<br>
+                <td rowspan="2">Genre</td>
+                <td rowspan="2" colspan="2">Tier / Points<br>
                     <sub class="subtitle">(Extra symbols show if the game has UNCLEARED and/or UNVALUED Objectives!)</sub>
                 </td>
-                <td colspan="2">
+                <td rowspan="2" colspan="2">
                     Objectives / Achievements<br>
                     <sub class="subtitle">(Hover over the POs/COs to view their info!)</sub>
                 </td>
-                <td colspan="3">Owners / Completions / Comp. %</td>
-                <td colspan="2">Current Price</td>
-                <td>
+                <td rowspan="2" colspan="3">Owners / Completions / Comp. %</td>
+                <td rowspan="2" colspan="2">Game Price</td>
+                <td colspan="2">DLC Data</td>
+                <td rowspan="2">
                     Date Added / Date Updated<br>
                     <sub class="subtitle">(Date Updated refers to internal CE stats, so it may refer to stat changes not visible here!)</sub>
                 </td>
-                <td>Links<br>
+                <td rowspan="2">Links<br>
                     <sub class="subtitle">(Opens in new tab!)</sub><br>
                     <sub class="subtitle">(Hover to view the ID!)</sub><br>
                     <sub id="idStringTop" class="subtitle">(Right Click to copy the ID!)</sub>
                 </td>
             </tr>
+            <tr style="font-weight: bold; user-select: none;">
+                <td>
+                    Count<br>
+                    <sub class="subtitle">(Hover over to view their names!)</sub>
+                </td>
+                <td>
+                    Price<br>
+                    <sub class="subtitle">(Only checked on mondays!)</sub>
+                </td>
+            </tr>
             <tr id="loading">
-                <td colspan="14">    
+                <td colspan="16">    
                     <p style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Loading...</p>
                 </td>
             </tr>
             <tr style="font-weight: bold; user-select: none;">
-                <td>Platform / Reviews</td>
-                <td>
+                <td rowspan="2">Platform / Reviews</td>
+                <td rowspan="2">
                     Name<br>
                     <sub class="subtitle">(Click to copy the name!)</sub><br>
                     <sub class="subtitle">(Hover over the '𝓲' to view that game's information!)</sub>
                 </td>
-                <td>Genre</td>
-                <td colspan="2">Tier / Points<br>
+                <td rowspan="2">Genre</td>
+                <td rowspan="2" colspan="2">Tier / Points<br>
                     <sub class="subtitle">(Extra symbols show if the game has UNCLEARED and/or UNVALUED Objectives!)</sub>
                 </td>
-                <td colspan="2">
+                <td rowspan="2" colspan="2">
                     Objectives / Achievements<br>
                     <sub class="subtitle">(Hover over the POs/COs to view their info!)</sub>
                 </td>
-                <td colspan="3">Owners / Completions / Comp. %</td>
-                <td colspan="2">Current Price</td>
+                <td rowspan="2" colspan="3">Owners / Completions / Comp. %</td>
+                <td rowspan="2" colspan="2">Game Price</td>
                 <td>
+                    Count<br>
+                    <sub class="subtitle">(Hover over to view their names!)</sub>
+                </td>
+                <td>
+                    Price<br>
+                    <sub class="subtitle">(Only checked on mondays!)</sub>
+                </td>
+                <td rowspan="2">
                     Date Added / Date Updated<br>
                     <sub class="subtitle">(Date Updated refers to internal CE stats, so it may refer to stat changes not visible here!)</sub>
                 </td>
-                <td>Links<br>
+                <td rowspan="2">Links<br>
                     <sub class="subtitle">(Opens in new tab!)</sub><br>
                     <sub class="subtitle">(Hover to view the ID!)</sub><br>
                     <sub id="idStringBottom" class="subtitle">(Right Click to copy the ID!)</sub>
                 </td>
+            </tr>
+            <tr style="font-weight: bold; user-select: none;">
+                <td colspan="2">DLC Data</td>
             </tr>
             <tr>
                 <td style="padding:0%; width:10%; background-color: #dddddd;">
@@ -551,8 +586,8 @@
                     <div class="button orderButton orderButtonPlayersCompleted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersCompleted')">Completed</div>
                     <div class="button orderButton orderButtonCompletedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('completedPercentage')">%</div>
                 </td>
-                <td class="button orderButton orderButtonFinal" colspan="2" onclick="orderFromButton = true; order('final')">Order By Price</td>
-                <td class="button orderButton orderButtonCreatedAt" onclick="orderFromButton = true; order('createdAt')">Order By Date Added</td>
+                <td colspan="4" class="button orderButton orderButtonTotalPrice" colspan="2" onclick="orderFromButton = true; order('totalPrice')">Order By Total Price</td>
+                <td class="button orderButton orderButtonCreatedAt" onclick="orderFromButton = true; order('createdAt')">Date Added</td>
                 <td rowspan="2" class="button orderButton orderButtonPlatformId" onclick="orderFromButton = true; order('platformId')">Order By Id</td>
             </tr>
             <tr>
@@ -565,8 +600,15 @@
                     <div class="button orderButton orderButtonPlayersStarted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersStarted')">Unfinished</div>
                     <div class="button orderButton orderButtonStartedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('startedPercentage')">%</div>
                 </td>
-                <td class="button orderButton orderButtonDiscountPercent" colspan="2" onclick="orderFromButton = true; order('discountPercent')">Order By Sale %</td>
-                <td class="button orderButton orderButtonUpdatedAt" onclick="orderFromButton = true; order('updatedAt')">Order By Date Updated</td>
+                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div class="button orderButton orderButtonFinal" style="width:49.3%; float:left;" colspan="2" onclick="orderFromButton = true; order('final')">Price</div>
+                    <div class="button orderButton orderButtonDiscountPercent" style="width:50%; float:right; border-left: solid 1px black;" colspan="2" onclick="orderFromButton = true; order('discountPercent')">Sale (%)</div>
+                </td>
+                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div style="width:49.3%; float:left;" class="button orderButton orderButtonDlcCount" onclick="orderFromButton = true; order('dlcCount')">DLC Count</div>
+                    <div style="width:50%; float:right; border-left: solid 1px black;" class="button orderButton orderButtonDlcPrice" onclick="orderFromButton = true; order('dlcPrice')">DLC Price</div>
+                </td>
+                <td class="button orderButton orderButtonUpdatedAt" onclick="orderFromButton = true; order('updatedAt')">Date Updated</td>
             </tr>
         </table>
         <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, 0);"><b>^^^ Move to top ^^^</b></span></div>
@@ -576,6 +618,7 @@
         <script src="../formattedList.js"></script>
         <script src="../formattedUserList.js"></script>
         <script src="../formattedWishlistList.js"></script>
+        <script src="../formattedExtrasList.js"></script>
         <script src="../compressionValues.js"></script>
 
         <script>
@@ -588,7 +631,11 @@
             document.getElementById("Date").innerHTML = "Last checked game database on: <b>" + date["day"] + "/" + date["month"] + "/" + date["year"] + "</b> at <b>" + date["hour"] + ":" + date["minute"] + ":" + date["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(date["searchTime"], 2) + "</b> seconds.";
             document.getElementById("userDate").innerHTML = "Last checked user database on: <b>" + userDate["day"] + "/" + userDate["month"] + "/" + userDate["year"] + "</b> at <b>" + userDate["hour"] + ":" + userDate["minute"] + ":" + userDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(userDate["searchTime"], 2) + "</b> seconds.";
             document.getElementById("wishlistDate").innerHTML = "Last checked wishlist info on: <b>" + wishlistDate["day"] + "/" + wishlistDate["month"] + "/" + wishlistDate["year"] + "</b> at <b>" + wishlistDate["hour"] + ":" + wishlistDate["minute"] + ":" + wishlistDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(wishlistDate["searchTime"], 2) + "</b> seconds.";
-            document.getElementById("totalTime").innerHTML = "Total search time: <b>~" + Math.round((date["searchTime"] + userDate["searchTime"] + wishlistDate["searchTime"])/60) + " minutes</b>.";
+            
+            document.getElementById("searchTime").innerHTML = "Search time: <b>~" + Math.round((date["searchTime"] + userDate["searchTime"] + wishlistDate["searchTime"])/60) + " minutes</b>.";
+
+            document.getElementById("extrasDate").innerHTML = "Last checked wishlist info on: <b>" + extrasDate["day"] + "/" + extrasDate["month"] + "/" + extrasDate["year"] + "</b> at <b>" + extrasDate["hour"] + ":" + extrasDate["minute"] + ":" + extrasDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(extrasDate["searchTime"], 2) + "</b> seconds.";
+            document.getElementById("totalTime").innerHTML = "Total search time: <b>~" + Math.round((date["searchTime"] + userDate["searchTime"] + wishlistDate["searchTime"] + extrasDate["searchTime"])/60) + " minutes</b>.";
             
             let timeStart = 0;
             //Literally everything else (More Important)
@@ -1577,12 +1624,12 @@
                         else {document.getElementById("ratingPercentageHigher").value = ratingPercentageHighBound.toString();}
                     }
 
-                    steamGames = steamGames.filter(obj => {return obj["reviews"]["positive"] / obj["reviews"]["total"] * 100 >= ratingPercentageLowBound})
+                    steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] / extrasData[obj["CEId"]]["reviews"]["total"] * 100 >= ratingPercentageLowBound})
                     
                     if(ratingPercentageLowBound <= ratingPercentageHighBound)
                     {
                         document.getElementById("ratingPercentageHigher").style.textDecoration = "none";
-                        steamGames = steamGames.filter(obj => {return obj["reviews"]["positive"] / obj["reviews"]["total"] * 100 <= ratingPercentageHighBound})
+                        steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] / extrasData[obj["CEId"]]["reviews"]["total"] * 100 <= ratingPercentageHighBound})
                     }
                     else {document.getElementById("ratingPercentageHigher").style.textDecoration = "line-through";}
 
@@ -1613,12 +1660,12 @@
                         else {document.getElementById("ratingTotalHigher").value = ratingTotalHighBound.toString();}
                     }
 
-                    steamGames = steamGames.filter(obj => {return obj["reviews"]["total"] >= ratingTotalLowBound})
+                    steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["total"] >= ratingTotalLowBound})
                     
                     if(ratingTotalLowBound <= ratingTotalHighBound)
                     {
                         document.getElementById("ratingTotalHigher").style.textDecoration = "none";
-                        steamGames = steamGames.filter(obj => {return obj["reviews"]["total"] <= ratingTotalHighBound})
+                        steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["total"] <= ratingTotalHighBound})
                     }
                     else {document.getElementById("ratingTotalHigher").style.textDecoration = "line-through";}
 
@@ -1649,12 +1696,12 @@
                         else {document.getElementById("ratingPositiveHigher").value = ratingPositiveHighBound.toString();}
                     }
 
-                    steamGames = steamGames.filter(obj => {return obj["reviews"]["positive"] >= ratingPositiveLowBound})
+                    steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] >= ratingPositiveLowBound})
                     
                     if(ratingPositiveLowBound <= ratingPositiveHighBound)
                     {
                         document.getElementById("ratingPositiveHigher").style.textDecoration = "none";
-                        steamGames = steamGames.filter(obj => {return obj["reviews"]["positive"] <= ratingPositiveHighBound})
+                        steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] <= ratingPositiveHighBound})
                     }
                     else {document.getElementById("ratingPositiveHigher").style.textDecoration = "line-through";}
 
@@ -1685,12 +1732,12 @@
                         else {document.getElementById("ratingNegativeHigher").value = ratingNegativeHighBound.toString();}
                     }
 
-                    steamGames = steamGames.filter(obj => {return obj["reviews"]["negative"] >= ratingNegativeLowBound})
+                    steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["negative"] >= ratingNegativeLowBound})
                     
                     if(ratingNegativeLowBound <= ratingNegativeHighBound)
                     {
                         document.getElementById("ratingNegativeHigher").style.textDecoration = "none";
-                        steamGames = steamGames.filter(obj => {return obj["reviews"]["negative"] <= ratingNegativeHighBound})
+                        steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["negative"] <= ratingNegativeHighBound})
                     }
                     else {document.getElementById("ratingNegativeHigher").style.textDecoration = "line-through";}
                     
@@ -1736,12 +1783,10 @@
 
                     if(activePrice == 1 || activePrice == 2)
                     {
-                        document.getElementById("currencyBox").style.opacity = 1/3;
                         document.getElementById("priceSale").style.opacity = 1/3;
                     }
                     else
                     {
-                        document.getElementById("currencyBox").style.opacity = 1;
                         document.getElementById("priceFilter").style.opacity = 1;
                         document.getElementById("priceSale").style.opacity = 1;
                     }
@@ -1780,14 +1825,64 @@
 
                     totalCost = totalCost/100;
                     initialCost = initialCost/100;
+
+                    var totalDlcCost = 0;
+                    var initialDlcCost = 0;
+
+                    filteredData.forEach(obj => {try{totalDlcCost += extrasData[obj["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]} catch{}})
+                    filteredData.forEach(obj => {try{initialDlcCost += extrasData[obj["CEId"]]["dlc"]["priceData"][activeCurrency]["initial"]} catch{}})
+
+                    totalDlcCost = totalDlcCost/100;
+                    initialDlcCost = initialDlcCost/100;
+
                     var priceDifference = toFixed(initialCost - totalCost, 2)
 
-                    if(activeCurrency == "USD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: $" + totalCost + "<br><span style='font-size:12px'>(No discount: $" + initialCost + " - Difference: $" + priceDifference + ")</span>"}
-                    else if(activeCurrency == "EUR") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: " + totalCost + "€" + " <br><span style='font-size:12px'>(No discount: " + initialCost + "€ - Difference: " + priceDifference + "€)</span>"}
-                    else if(activeCurrency == "GBP") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: £" + totalCost + " <br><span style='font-size:12px'>(No discount: £" + initialCost + " - Difference: £" + priceDifference + ")</span>"}
-                    else if(activeCurrency == "AUD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: A$" + totalCost + " <br><span style='font-size:12px'>(No discount: A$" + initialCost + " - Difference: A$" + priceDifference + ")</span>"}
-                    else if(activeCurrency == "CAD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: C$" + totalCost + " <br><span style='font-size:12px'>(No discount: C$" + initialCost + " - Difference: C$" + priceDifference + ")</span>"}
-                    else if(activeCurrency == "JPY") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: ¥" + totalCost + " <br><span style='font-size:12px'>(No discount: ¥" + initialCost + " - Difference: ¥" + priceDifference + ")</span>"}
+                    if(activeCurrency == "USD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: $" + totalCost +
+                    " <span style='font-size: 16px'>(+DLCs $" + totalDlcCost + " = <span style='text-decoration: underline;'>$" + (totalCost + totalDlcCost) +
+                    "</span>)</span><br><span style='font-size:12px'>(No discount: $" + initialCost + " - Difference: $" + priceDifference + ")</span>"}
+
+                    else if(activeCurrency == "EUR") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: " + totalCost +
+                    "€ <span style='font-size: 16px'>(+DLCs " + totalDlcCost + "€ = <span style='text-decoration: underline;'>" + (totalCost + totalDlcCost) +
+                    "€</span>)</span><br><span style='font-size:12px'>(No discount: " + initialCost + "€ - Difference: " + priceDifference + "€)</span>"}
+
+                    else if(activeCurrency == "GBP") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: £" + totalCost +
+                    " <span style='font-size: 16px'>(+DLCs £" + totalDlcCost + " = <span style='text-decoration: underline;'>£" + (totalCost + totalDlcCost) +
+                    "</span>)</span><br><span style='font-size:12px'>(No discount: £" + initialCost + " - Difference: £" + priceDifference + ")</span>"}
+
+                    else if(activeCurrency == "AUD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: A$" + totalCost +
+                    " <span style='font-size: 16px'>(+DLCs A$" + totalDlcCost + " = <span style='text-decoration: underline;'>A$" + (totalCost + totalDlcCost) +
+                    "</span>)</span><br><span style='font-size:12px'>(No discount: A$" + initialCost + " - Difference: A$" + priceDifference + ")</span>"}
+
+                    else if(activeCurrency == "CAD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: C$" + totalCost +
+                    " <span style='font-size: 16px'>(+DLCs C$" + totalDlcCost + " = <span style='text-decoration: underline;'>C$" + (totalCost + totalDlcCost) +
+                    "</span>)</span><br><span style='font-size:12px'>(No discount: C$" + initialCost + " - Difference: C$" + priceDifference + ")</span>"}
+
+                    else if(activeCurrency == "JPY") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: ¥" + totalCost +
+                    " <span style='font-size: 16px'>(+DLCs ¥" + totalDlcCost + " = <span style='text-decoration: underline;'>¥" + (totalCost + totalDlcCost) +
+                    "</span>)</span><br><span style='font-size:12px'>(No discount: ¥" + initialCost + " - Difference: ¥" + priceDifference + ")</span>"}
+                }
+                else if(filteredData.filter(obj => {return obj["gameType"] == 3}).length != filteredData.length)
+                {
+                    var totalDlcCost = 0;
+                    var initialDlcCost = 0;
+
+                    filteredData.forEach(obj => {try{totalDlcCost += extrasData[obj["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]} catch{}})
+                    filteredData.forEach(obj => {try{initialDlcCost += extrasData[obj["CEId"]]["dlc"]["priceData"][activeCurrency]["initial"]} catch{}})
+
+                    totalDlcCost = totalDlcCost/100;
+                    initialDlcCost = initialDlcCost/100;
+                    
+                    if(activeCurrency == "USD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: N/A <span style='font-size: 16px'>(DLCs $" + totalDlcCost + ")</span>"}
+
+                    else if(activeCurrency == "EUR") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: N/A <span style='font-size: 16px'>(DLCs " + totalDlcCost + "€)</span>"}
+
+                    else if(activeCurrency == "GBP") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: N/A <span style='font-size: 16px'>(DLCs £" + totalDlcCost + ")</span>"}
+
+                    else if(activeCurrency == "AUD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: N/A <span style='font-size: 16px'>(DLCs A$" + totalDlcCost + ")</span>"}
+
+                    else if(activeCurrency == "CAD") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: N/A <span style='font-size: 16px'>(DLCs C$" + totalDlcCost + ")</span>"}
+
+                    else if(activeCurrency == "JPY") {document.getElementById("CountCost").innerHTML = "Cost of Filtered: N/A <span style='font-size: 16px'>(DLCs ¥" + totalDlcCost + ")</span>"}
                 }
                 else {document.getElementById("CountCost").innerHTML = "Cost of Filtered: N/A"}
 
@@ -1821,7 +1916,7 @@
                     document.querySelectorAll('.orderButton').forEach(e => e.style.textDecoration = "none")
                     document.querySelectorAll('.orderButton').forEach(e => e.style.textUnderlineOffset = "");
                     document.querySelectorAll('.orderButton' + type[0].toUpperCase() + type.slice(1)).forEach(e => e.style.textDecoration = "underline dotted 3px");
-
+                    
                     if(lastOrder != type) {useReverseOrder = false;}
                     else if(lastOrder == type && useReverseOrder == true)
                     {
@@ -1971,9 +2066,9 @@
                         steamGames.reverse();
                         var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
                         
-                        steamGames.sort((a,b) => (a["reviews"]["total"] > b["reviews"]["total"]) ? 1 : ((b["reviews"]["total"] > a["reviews"]["total"]) ? -1 : 0));
+                        steamGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["total"] > extrasData[b["CEId"]]["reviews"]["total"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["total"] > extrasData[a["CEId"]]["reviews"]["total"]) ? -1 : 0));
                         
-                        steamGames.sort((a,b) => (a["reviews"]["positive"]/a["reviews"]["total"] > b["reviews"]["positive"]/b["reviews"]["total"]) ? 1 : ((b["reviews"]["positive"]/b["reviews"]["total"] > a["reviews"]["positive"]/a["reviews"]["total"]) ? -1 : 0));
+                        steamGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["positive"]/extrasData[a["CEId"]]["reviews"]["total"] > extrasData[b["CEId"]]["reviews"]["positive"]/extrasData[b["CEId"]]["reviews"]["total"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["positive"]/extrasData[b["CEId"]]["reviews"]["total"] > extrasData[a["CEId"]]["reviews"]["positive"]/extrasData[a["CEId"]]["reviews"]["total"]) ? -1 : 0));
 
                         if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
                         else {filteredData = RAGames.concat(steamGames);}
@@ -1983,7 +2078,7 @@
                         var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
                         var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
                         
-                        steamGames.sort((a,b) => (a["reviews"]["total"] > b["reviews"]["total"]) ? 1 : ((b["reviews"]["total"] > a["reviews"]["total"]) ? -1 : 0));
+                        steamGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["total"] > extrasData[b["CEId"]]["reviews"]["total"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["total"] > extrasData[a["CEId"]]["reviews"]["total"]) ? -1 : 0));
 
                         if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
                         else {filteredData = RAGames.concat(steamGames);}
@@ -1993,7 +2088,7 @@
                         var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
                         var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
                         
-                        steamGames.sort((a,b) => (a["reviews"]["positive"] > b["reviews"]["positive"]) ? 1 : ((b["reviews"]["positive"] > a["reviews"]["positive"]) ? -1 : 0));
+                        steamGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["positive"] > extrasData[b["CEId"]]["reviews"]["positive"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["positive"] > extrasData[a["CEId"]]["reviews"]["positive"]) ? -1 : 0));
 
                         if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
                         else {filteredData = RAGames.concat(steamGames);}
@@ -2003,10 +2098,95 @@
                         var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
                         var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
                         
-                        steamGames.sort((a,b) => (a["reviews"]["negative"] > b["reviews"]["negative"]) ? 1 : ((b["reviews"]["negative"] > a["reviews"]["negative"]) ? -1 : 0));
+                        steamGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["negative"] > extrasData[b["CEId"]]["reviews"]["negative"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["negative"] > extrasData[a["CEId"]]["reviews"]["negative"]) ? -1 : 0));
 
                         if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
                         else {filteredData = RAGames.concat(steamGames);}
+                    }
+                    else if(type == "dlcCount")
+                    {
+                        var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
+                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+
+                        var dlcGames = steamGames.filter(obj => {return obj.CEId in extrasData && "dlc" in extrasData[obj["CEId"]]})
+                        var nonDlcGames = steamGames.filter(obj => {return !(obj.CEId in extrasData && "dlc" in extrasData[obj["CEId"]])})
+                        
+                        dlcGames.sort((a,b) => (extrasData[a["CEId"]]["dlc"]["count"] > extrasData[b["CEId"]]["dlc"]["count"]) ? 1 : ((extrasData[b["CEId"]]["dlc"]["count"] > extrasData[a["CEId"]]["dlc"]["count"]) ? -1 : 0));
+
+                        if(!useReverseOrder) {filteredData = nonDlcGames.concat(dlcGames, RAGames);}
+                        else {filteredData = RAGames.concat(nonDlcGames, dlcGames);}
+                    }
+                    else if(type == "dlcCount")
+                    {
+                        var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
+                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+
+                        var dlcGames = steamGames.filter(obj => {return obj.CEId in extrasData && "dlc" in extrasData[obj["CEId"]]})
+                        var nonDlcGames = steamGames.filter(obj => {return !(obj.CEId in extrasData && "dlc" in extrasData[obj["CEId"]])})
+                        
+                        dlcGames.sort((a,b) => (extrasData[a["CEId"]]["dlc"]["count"] > extrasData[b["CEId"]]["dlc"]["count"]) ? 1 : ((extrasData[b["CEId"]]["dlc"]["count"] > extrasData[a["CEId"]]["dlc"]["count"]) ? -1 : 0));
+
+                        if(!useReverseOrder) {filteredData = nonDlcGames.concat(dlcGames, RAGames);}
+                        else {filteredData = RAGames.concat(nonDlcGames, dlcGames);}
+                    }
+                    else if(type == "dlcPrice")
+                    {
+                        var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
+                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+
+                        var dlcGames = steamGames.filter(obj => {return obj.CEId in extrasData && "dlc" in extrasData[obj["CEId"]]})
+                        var nonDlcGames = steamGames.filter(obj => {return !(obj.CEId in extrasData && "dlc" in extrasData[obj["CEId"]])})
+                        
+                        dlcGames.sort((a,b) => (extrasData[a["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] > extrasData[b["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]) ? 1 : ((extrasData[b["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] > extrasData[a["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]) ? -1 : 0));
+
+                        if(!useReverseOrder) {filteredData = nonDlcGames.concat(dlcGames, RAGames);}
+                        else {filteredData = RAGames.concat(nonDlcGames, dlcGames);}
+                    }
+                    else if(type == "totalPrice")
+                    {
+                        var steamGames = filteredData.filter(obj => {return obj.gameType != 3});
+                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3});
+
+                        steamGames.sort(compare);
+
+                        function compare(a, b) 
+                        {
+                            var valA = 0;
+                            var valB = 0;
+                            
+                            console.log(a["name"] + " - " + b["name"])
+
+                            if(a.CEId in extrasData && "dlc" in extrasData[a["CEId"]])
+                            {
+                                if(a.gameType == 0) {valA = a["priceData"][activeCurrency]["final"] + extrasData[a["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]}
+                                else {valA = extrasData[a["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]}
+                            }
+                            else if(a.gameType == 0) {valA = a["priceData"][activeCurrency]["final"];}
+
+                            if(b.CEId in extrasData && "dlc" in extrasData[b["CEId"]])
+                            {
+                                if(b.gameType == 0) {valB = b["priceData"][activeCurrency]["final"] + extrasData[b["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]}
+                                else {valB = extrasData[b["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]}
+                            }
+                            else if(b.gameType == 0) {valB = b["priceData"][activeCurrency]["final"];}
+
+                            if(valA > valB)
+                            {
+                                return 1;
+                            }
+                            else if(valA < valB)
+                            {
+                                return -1;
+                            }
+                            else
+                            {
+                                return 0;
+                            }
+                        }
+
+                        if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
+                        else {filteredData = RAGames.concat(steamGames);}
+                        
                     }
                     else
                     {
@@ -2047,7 +2227,7 @@
                 {
                     try
                     {
-                        var row1 = table.insertRow((i*2)+6);
+                        var row1 = table.insertRow((i*2)+7);
                     }
                     catch {break;}
                     row1.classList.add("replace");
@@ -2080,17 +2260,68 @@
                         cellDiscountPercentage.innerHTML = "<b>" + filteredData[i]["priceData"][activeCurrency]["discountPercent"] + "%</b>";
                         cellDiscountPercentage.style.backgroundColor = "#32A852";
                         cellDiscountPercentage.style.color = "#014A14";
-                        var cellAddedOn = row1.insertCell(12);
-                        var cellLinkSteam = row1.insertCell(13);
+                        var cellDlcCount = row1.insertCell(12);
+                        cellDlcCount.rowSpan = 2;
+                        if("dlc" in extrasData[filteredData[i]["CEId"]])
+                        {
+                            var cellDlcPrice = row1.insertCell(13);
+                            cellDlcPrice.rowSpan = 2;
+                            var cellAddedOn = row1.insertCell(14);
+                            var cellLinkSteam = row1.insertCell(15);
+
+                            if(extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] != 0)
+                            {
+                                cellBasePrice.rowSpan = 1;
+                                cellDiscountPercentage.rowSpan = 1;
+                                cellDlcPrice.rowSpan = 1;
+                                cellDlcCount.rowSpan = 1;
+                            }
+                        }
+                        else
+                        {
+                            cellDlcCount.colSpan = 2;
+                            var cellAddedOn = row1.insertCell(13);
+                            var cellLinkSteam = row1.insertCell(14);
+                        }
                     }
                     else
                     {
                         cellBasePrice.colSpan = 2;
-                        var cellAddedOn = row1.insertCell(11);
-                        var cellLinkSteam = row1.insertCell(12);
+                        if(filteredData[i]["gameType"] != 3)
+                        {
+                            var cellDlcCount = row1.insertCell(11);
+                            cellDlcCount.rowSpan = 2;
+                            if("dlc" in extrasData[filteredData[i]["CEId"]])
+                            {
+                                var cellDlcPrice = row1.insertCell(12);
+                                cellDlcPrice.rowSpan = 2;
+                                var cellAddedOn = row1.insertCell(13);
+                                var cellLinkSteam = row1.insertCell(14);
+
+                                if(filteredData[i]["gameType"] == 0 && activeCurrency in extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"] && extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] != 0)
+                                {
+                                    cellBasePrice.rowSpan = 1;
+                                    cellDlcPrice.rowSpan = 1;
+                                    cellDlcCount.rowSpan = 1;
+                                }
+                                
+                            }
+                            else
+                            {
+                                cellDlcCount.colSpan = 2;
+                                var cellAddedOn = row1.insertCell(12);
+                                var cellLinkSteam = row1.insertCell(13);
+                            }
+                        }
+                        else
+                        {   
+                            cellBasePrice.colSpan = 4;
+                            var cellAddedOn = row1.insertCell(11);
+                            var cellLinkSteam = row1.insertCell(12);
+                        }
                     }
 
-                    var row2 = table.insertRow(((i+1)*2)+5);
+                    var row2 = table.insertRow(((i+1)*2)+6);
                     row2.classList.add("replace");
                     if(filteredData[i]["gameType"] != 3)
                     {
@@ -2098,16 +2329,37 @@
                         var cellCommunity = row2.insertCell(1);
                         var cellPartialCompletion = row2.insertCell(2);
                         var cellPartialPercentage = row2.insertCell(3);
-                        var cellUpdatedOn = row2.insertCell(4);
-                        var cellLinkCE = row2.insertCell(5);
+                        
+                        if(filteredData[i]["gameType"] == 0 && "dlc" in extrasData[filteredData[i]["CEId"]] && activeCurrency in extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"] && extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] != 0)
+                        {
+                            var cellTotalPrice = row2.insertCell(4);
+                            cellTotalPrice.colSpan = 4;
+                            var cellUpdatedOn = row2.insertCell(5);
+                            var cellLinkCE = row2.insertCell(6);
+                        }
+                        else
+                        {
+                            var cellUpdatedOn = row2.insertCell(4);
+                            var cellLinkCE = row2.insertCell(5);
+                        }
                     }
                     else
                     {
                         var cellCommunity = row2.insertCell(0);
                         var cellPartialCompletion = row2.insertCell(1);
                         var cellPartialPercentage = row2.insertCell(2);
-                        var cellUpdatedOn = row2.insertCell(3);
-                        var cellLinkCE = row2.insertCell(4);
+
+                        if(filteredData[i]["gameType"] == 0 && "dlc" in extrasData[filteredData[i]["CEId"]] && activeCurrency in extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"] && extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] != 0)
+                        {
+                            var cellTotalPrice = row2.insertCell(3);
+                            var cellUpdatedOn = row2.insertCell(4);
+                            var cellLinkCE = row2.insertCell(5);
+                        }
+                        else
+                        {
+                            var cellUpdatedOn = row2.insertCell(3);
+                            var cellLinkCE = row2.insertCell(4);
+                        }
                     }
 
                         cellPartialCompletion.style.backgroundColor = "#FFCC0055";
@@ -2119,38 +2371,38 @@
                         cellPlatform.style.color = "#DDDDDD";
                         cellPlatform.style.backgroundColor = "#0F6EB888";
 
-                        if(filteredData[i]["reviews"]["total"] >= 10) {cellReviews.innerHTML = filteredData[i]["reviews"]["description"]}
-                        else {cellReviews.innerHTML = filteredData[i]["reviews"]["total"] + " User reviews"}
+                        if(extrasData[filteredData[i]["CEId"]]["reviews"]["total"] >= 10) {cellReviews.innerHTML = extrasData[filteredData[i]["CEId"]]["reviews"]["description"]}
+                        else {cellReviews.innerHTML = extrasData[filteredData[i]["CEId"]]["reviews"]["total"] + " User reviews"}
 
                         cellReviews.style.fontWeight = "bold";
 
-                        if(filteredData[i]["reviews"]["description"].includes("Positive"))
+                        if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Positive"))
                         {  
-                            if(filteredData[i]["reviews"]["description"].includes("Overwhelmingly")) {cellReviews.innerHTML += "!";}
+                            if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Overwhelmingly")) {cellReviews.innerHTML += "!";}
                             cellReviews.style.color = "#2222AA";
                             cellReviews.style.backgroundColor = "#66c0f499";
-                            if(filteredData[i]["reviews"]["description"].includes("Mostly"))
+                            if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Mostly"))
                             {
                                 cellReviews.style.color = "#1c7068";
                                 cellReviews.style.backgroundColor = "#6bd1c999";
                             }
                         }
-                        if(filteredData[i]["reviews"]["description"].includes("Mixed"))
+                        if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Mixed"))
                         {
                             cellReviews.style.color = "#a37a1d";
                             cellReviews.style.backgroundColor = "#edb85899";
                         }
-                        if(filteredData[i]["reviews"]["description"].includes("Negative"))
+                        if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Negative"))
                         {  
-                            if(filteredData[i]["reviews"]["description"].includes("Overwhelmingly") || filteredData[i]["reviews"]["description"].includes("Very")) {cellReviews.innerHTML += "...";}
+                            if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Overwhelmingly") || extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Very")) {cellReviews.innerHTML += "...";}
                             cellReviews.style.color = "#803614";
                             cellReviews.style.backgroundColor = "#c35c2c99";
                         }
 
-                        cellReviews.innerHTML += " <span class='subtitle' style='color:inherit' span title='Percentage of Positive Reviews'>(" + toFixed(filteredData[i]["reviews"]["positive"]/filteredData[i]["reviews"]["total"]*100, 2) + "%)</span>";
+                        cellReviews.innerHTML += " <span class='subtitle' style='color:inherit' span title='Percentage of Positive Reviews'>(" + toFixed(extrasData[filteredData[i]["CEId"]]["reviews"]["positive"]/extrasData[filteredData[i]["CEId"]]["reviews"]["total"]*100, 2) + "%)</span>";
 
-                        cellReviews.innerHTML += "<br><sub title='Total Reviews'>Total: " + filteredData[i]["reviews"]["total"] +  "</sub>";
-                        cellReviews.innerHTML += "<br><sub><span title='Positive Reviews' style='color:green'>+" + filteredData[i]["reviews"]["positive"] + "</span>/<span title='Negative Reviews' style='color:darkred'>-" + filteredData[i]["reviews"]["negative"] + "</span></sub>";
+                        cellReviews.innerHTML += "<br><sub title='Total Reviews'>Total: " + extrasData[filteredData[i]["CEId"]]["reviews"]["total"] +  "</sub>";
+                        cellReviews.innerHTML += "<br><sub><span title='Positive Reviews' style='color:green'>+" + extrasData[filteredData[i]["CEId"]]["reviews"]["positive"] + "</span>/<span title='Negative Reviews' style='color:darkred'>-" + extrasData[filteredData[i]["CEId"]]["reviews"]["negative"] + "</span></sub>";
                     }
                     else
                     {
@@ -2160,17 +2412,19 @@
 
                     cellName.innerHTML = "<span id='tmp'>" + filteredData[i]["name"] + "</span>";
                     if(Object.keys(filteredData[i]).includes("information")) {
-                        cellName.innerHTML += "<sup style='font-size: 18px;' id='tmp2'> 𝓲</sup>";
-                        var inf = document.getElementById("tmp2");
-                        inf.setAttribute("title", filteredData[i]["information"])
-                        inf.removeAttribute("id")
+                        let titleString = filteredData[i]["information"].replaceAll("'", "&apos;");
+                        cellName.innerHTML += "<sup title='" + titleString + "' style='font-size: 18px;'> 𝓲</sup>";
                     }
-                    if(loadImages) {cellName.style.backgroundImage = "url(" + filteredData[i]["header"] + ")";}
-                    cellName.style.backgroundSize = "100% 100%";
-                    cellName.style.backgroundBlendMode = "lighten";
-                    cellName.style.backgroundColor = "#ffffffd4";
-                    cellName.style.width = "184px";
-                    cellName.style.height = "86px";
+                    if(loadImages)
+                    {
+                        cellName.style.backgroundImage = "url(" + filteredData[i]["header"] + ")";
+                        cellName.style.backgroundSize = "100% 100%";
+                        cellName.style.backgroundBlendMode = "lighten";
+                        cellName.style.backgroundColor = "#ffffffd4";
+                        cellName.style.width = "184px";
+                        cellName.style.height = "86px";
+                    }
+                    
                     var p = document.getElementById("tmp");
                     p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i]["name"] + "')");
                     p.classList.add('textCopyable');
@@ -2390,6 +2644,128 @@
                         cellBasePrice.innerHTML = "N/A (Broken)";
                         cellBasePrice.style.backgroundColor = "#6B194D77";
                     }
+
+                    
+                    if(filteredData[i]["gameType"] != 3)
+                    {
+                        if(!("dlc" in extrasData[filteredData[i]["CEId"]]))
+                        {
+                            cellDlcCount.innerHTML = "N/A (No DLCs)";
+                            cellDlcCount.style.backgroundColor = "#7a596166";
+                        }
+                        else
+                        {
+                            let titleString = extrasData[filteredData[i]["CEId"]]["dlc"]["description"].replaceAll("'", "&apos;");
+                            cellDlcCount.innerHTML = "<b title='" + titleString + "'>" + extrasData[filteredData[i]["CEId"]]["dlc"]["count"] + "</b>";
+
+                            if(extrasData[filteredData[i]["CEId"]]["dlc"]["description"].toUpperCase().includes("SOUNDTRACK") || extrasData[filteredData[i]["CEId"]]["dlc"]["description"].toUpperCase().includes("OST"))
+                            {
+                                cellDlcCount.innerHTML += " <b style='font-size:18px;' title='There is a DLC with \"Soundtrack\" or \"OST\" in its name here.'>𝅘𝅥𝅮</b>";
+                            }
+                            cellDlcCount.style.backgroundColor = "#ff624a66";
+                            
+                            try{
+                                var basePrice = "";
+                                var salePrice = "";
+                                if(activeCurrency == "USD")
+                                {
+                                    basePrice = "$" + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["initial"]/100;
+                                    salePrice = "$" + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]/100;
+                                }
+                                else if(activeCurrency == "EUR")
+                                {
+                                    basePrice = extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["initial"]/100 + "€";
+                                    salePrice = extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]/100 + "€";
+                                }
+                                else if(activeCurrency == "GBP")
+                                {
+                                    basePrice = "£" + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["initial"]/100;
+                                    salePrice = "£" + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]/100;
+                                }
+                                else if(activeCurrency == "AUD")
+                                {
+                                    basePrice = "A$" + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["initial"]/100;
+                                    salePrice = "A$" + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]/100;
+                                }
+                                else if(activeCurrency == "JPY")
+                                {
+                                    basePrice = "¥" + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["initial"]/100;
+                                    salePrice = "¥" + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]/100;
+                                }
+                                else if(activeCurrency == "CAD")
+                                {
+                                    basePrice = "C$" + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["initial"]/100;
+                                    salePrice = "C$" + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]/100;
+                                }
+                                
+                                if(extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["initial"] != extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"])
+                                {
+                                    cellDlcPrice.innerHTML = "<p style='text-decoration: line-through 1.5px; margin-bottom: 3px;'>" + basePrice + "</p><b>" + salePrice + "</b>";
+                                    cellDlcPrice.style.backgroundColor = "#9bff4a66";
+                                    cellDlcPrice.style.color = "#4a7508";
+                                }
+                                else if(extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] == 0)
+                                {
+                                    cellDlcPrice.innerHTML = "<b>Free!</b>";
+                                    cellDlcPrice.style.backgroundColor = "#9bff4a66";
+                                    cellDlcPrice.style.color = "#4a7508";
+                                }
+                                else
+                                {
+                                    cellDlcPrice.innerHTML = basePrice;
+                                    cellDlcPrice.style.backgroundColor = "#ffba4a66";
+                                }
+                            }
+                            catch
+                            {
+                                cellDlcPrice.innerHTML = "N/A (Unavailable For " + activeCurrency + ")";
+                                cellDlcPrice.style.color = "#ffffff";
+                                cellDlcPrice.style.backgroundColor = "#000000aa";
+                            }
+                        }
+
+                        if(filteredData[i]["gameType"] == 0 && "dlc" in extrasData[filteredData[i]["CEId"]] && activeCurrency in extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"] && extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] != 0)
+                        {
+                            var totalPrice = "<b>Total: ";
+                            if(activeCurrency == "USD")
+                            {
+                                totalPrice += "$" + (filteredData[i]["priceData"][activeCurrency]["final"] + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"])/100;
+                            }
+                            else if(activeCurrency == "EUR")
+                            {
+                                totalPrice += (filteredData[i]["priceData"][activeCurrency]["final"] + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"])/100 + "€";
+                            }
+                            else if(activeCurrency == "GBP")
+                            {
+                                totalPrice += "£" + (filteredData[i]["priceData"][activeCurrency]["final"] + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"])/100;
+                            }
+                            else if(activeCurrency == "AUD")
+                            {
+                                totalPrice += "A$" + (filteredData[i]["priceData"][activeCurrency]["final"] + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"])/100;
+                            }
+                            else if(activeCurrency == "JPY")
+                            {
+                                totalPrice += "¥" + (filteredData[i]["priceData"][activeCurrency]["final"] + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"])/100;
+                            }
+                            else if(activeCurrency == "CAD")
+                            {
+                                totalPrice += "C$" + (filteredData[i]["priceData"][activeCurrency]["final"] + extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"])/100;
+                            }
+                            
+                            cellTotalPrice.innerHTML = totalPrice += "</b>";
+                            cellTotalPrice.style.color = "#22222299";
+                            if(filteredData[i]["priceData"][activeCurrency]["discountPercent"] == 0)
+                            {
+                                if(extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["initial"] != extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]) {cellTotalPrice.style.backgroundImage = "linear-gradient(to right, #FFFFFF00, #9bff4a66)";}
+                                else {cellTotalPrice.style.backgroundImage = "linear-gradient(to right, #FFFFFF00, #ffba4a66)";}
+                            }
+                            else
+                            {
+                                if(extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["initial"] != extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"]) {cellTotalPrice.style.backgroundImage = "linear-gradient(to right, #32A85266, #9bff4a66)";}
+                                else {cellTotalPrice.style.backgroundImage = "linear-gradient(to right, #32A85266, #ffba4a66)";}
+                            }
+                        }
+                    }
                     
                         
                     var createdDate = new Date(filteredData[i]["createdAt"])
@@ -2419,44 +2795,84 @@
 
                     if(filteredData[i]["gameType"] < 2)
                     {
-                        cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Steam ID: " + filteredData[i]["platformId"] + "' target='_blank' href='https://store.steampowered.com/app/" + filteredData[i]["platformId"] + "' style='font-weight: bold; color:#1D88C7'>Steam</a>";
-                        a = document.getElementById("tmpSteam");
-                        
-                        cellLinkSteam.innerHTML += "<br><a id='tmpSDB' target='_blank' style='font-weight: 800; font-family: Inter; font-size: 11px; color:#033d85'>" + steamDBIconString + " SteamDB</a>";
-                        var b = document.getElementById("tmpSDB");
-                        b.href = "https://steamdb.info/app/" + filteredData[i]["platformId"];
-                        b.removeAttribute("id");
+                        if(!linkReplaceId)
+                        {
+                            cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Steam ID: " + filteredData[i]["platformId"] +
+                            "' target='_blank' href='https://store.steampowered.com/app/" + filteredData[i]["platformId"] +
+                            "' onContextMenu='navigator.clipboard.writeText(\"" + filteredData[i]["platformId"] +
+                            "\")' class='textCopyable' style='font-weight: bold; color:#1D88C7'>Steam</a>";
+                        }
+                        else
+                        {
+                            cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Steam ID: " + filteredData[i]["platformId"] +
+                            "' target='_blank' href='https://store.steampowered.com/app/" + filteredData[i]["platformId"] +
+                            "' onContextMenu='navigator.clipboard.writeText(\"https://store.steampowered.com/app/" + filteredData[i]["platformId"] +
+                            "\")' class='textCopyable' style='font-weight: bold; color:#1D88C7'>Steam</a>";
+                        }
+
+                        cellLinkSteam.innerHTML += "<br><a id='tmpSDB' href='https://steamdb.info/app/" + filteredData[i]["platformId"] + "' target='_blank' style='font-weight: 800; font-family: Inter; font-size: 11px; color:#033d85'>" + steamDBIconString + " SteamDB</a>";
                     }
                     else if(filteredData[i]["gameType"] == 2)
                     {
-                        cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Steam ID: " + filteredData[i]["platformId"] + "' target='_blank' href='https://store.steampowered.com/app/" + filteredData[i]["platformId"] + "' target='_blank' style='font-weight: bold; color:#A31BB3'>Steam (Unavailable?)</a>";
-                        a = document.getElementById("tmpSteam");
-                        
-                        cellLinkSteam.innerHTML += "<br><a id='tmpSDB' target='_blank' style='font-weight: 800; font-family: Inter; font-size: 11px; color:#5f0987'>" + steamDBIconString + " SteamDB</a>";
-                        var b = document.getElementById("tmpSDB");
-                        b.href = "https://steamdb.info/app/" + filteredData[i]["platformId"];
-                        b.removeAttribute("id");
+                        if(!linkReplaceId)
+                        {
+                            cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Steam ID: " + filteredData[i]["platformId"] +
+                            "' target='_blank' href='https://store.steampowered.com/app/" + filteredData[i]["platformId"] +
+                            "' onContextMenu='navigator.clipboard.writeText(\"" + filteredData[i]["platformId"] +
+                            "\")' class='textCopyable' style='font-weight: bold; color:#A31BB3'>Steam (Unavailable?)</a>";
+                        }
+                        else
+                        {
+                            cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Steam ID: " + filteredData[i]["platformId"] +
+                            "' target='_blank' href='https://store.steampowered.com/app/" + filteredData[i]["platformId"] +
+                            "' onContextMenu='navigator.clipboard.writeText(\"https://store.steampowered.com/app/" + filteredData[i]["platformId"] +
+                            "\")' class='textCopyable' style='font-weight: bold; color:#A31BB3'>Steam (Unavailable?)</a>";
+                        }
+
+                        cellLinkSteam.innerHTML += "<br><a id='tmpSDB' href='https://steamdb.info/app/" + filteredData[i]["platformId"] + "' target='_blank' style='font-weight: 800; font-family: Inter; font-size: 11px; color:#5f0987'>" + steamDBIconString + " SteamDB</a>";
                     }
                     else if(filteredData[i]["gameType"] == 3)
                     {
                         cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Retro Achievements ID: " + filteredData[i]["platformId"] + "' target='_blank' href='https://retroachievements.org/game/" + filteredData[i]["platformId"] + "' target='_blank'><b style='color:#0F66DB'>Retro</b><b style='color:#eDB507'>Achievements</b></a>";
                         a = document.getElementById("tmpSteam");
+
+                        if(!linkReplaceId)
+                        {
+                            cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Retro Achievements ID: " + filteredData[i]["platformId"] +
+                            "' target='_blank' href='https://retroachievements.org/game/" + filteredData[i]["platformId"] +
+                            "' onContextMenu='navigator.clipboard.writeText(\"" + filteredData[i]["platformId"] +
+                            "\")' class='textCopyable' style='font-weight: bold;'><b style='color:#0F66DB'>Retro</b><b style='color:#eDB507'>Achievements</b></a>";
+                        }
+                        else
+                        {
+                            cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Retro Achievements ID: " + filteredData[i]["platformId"] +
+                            "' target='_blank' href='https://retroachievements.org/game/" + filteredData[i]["platformId"] +
+                            "' onContextMenu='navigator.clipboard.writeText(\"https://retroachievements.org/game/" + filteredData[i]["platformId"] +
+                            "\")' class='textCopyable' style='font-weight: bold;'><b style='color:#0F66DB'>Retro</b><b style='color:#eDB507'>Achievements</b></a>";
+                        }
                     }
                     else if(filteredData[i]["gameType"] == 4)
                     {
-                        cellLinkSteam.innerHTML = "<span id='tmpSteam' title='Steam ID (Broken): " + filteredData[i]["platformId"] + "' target='_blank' href='' style='font-weight: bold; color:#6B194D; user-select: none; text-decoration:line-through 1.5px;'>Steam (Broken)</span<>";
-                        a = document.getElementById("tmpSteam");
-                        
-                        cellLinkSteam.innerHTML += "<br><a id='tmpSDB' target='_blank' style='font-weight: 800; font-family: Inter; font-size: 11px; color:#3c1440'>" + steamDBIconString + " SteamDB</a>";
-                        var b = document.getElementById("tmpSDB");
-                        b.href = "https://steamdb.info/app/" + filteredData[i]["platformId"];
-                        b.removeAttribute("id");
+                        if(!linkReplaceId)
+                        {
+                            cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Steam ID (Broken): " + filteredData[i]["platformId"] +
+                            "' target='_blank' href='https://store.steampowered.com/app/" + filteredData[i]["platformId"] +
+                            "' onContextMenu='navigator.clipboard.writeText(\"" + filteredData[i]["platformId"] +
+                            "\")' class='textCopyable' style='font-weight: bold; color:#6B194D; text-decoration:line-through 1.5px;'>Steam (Broken)</a>";
+                        }
+                        else
+                        {
+                            cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Steam ID (Broken): " + filteredData[i]["platformId"] +
+                            "' target='_blank' href='https://store.steampowered.com/app/" + filteredData[i]["platformId"] +
+                            "' onContextMenu='navigator.clipboard.writeText(\"https://store.steampowered.com/app/" + filteredData[i]["platformId"] +
+                            "\")' class='textCopyable' style='font-weight: bold; color:#6B194D; text-decoration:line-through 1.5px;'>Steam (Broken)</a>";
+                        }
+
+                        cellLinkSteam.innerHTML += "<br><a id='tmpSDB' href='https://steamdb.info/app/" + filteredData[i]["platformId"] + "' target='_blank' style='font-weight: 800; font-family: Inter; font-size: 11px; color:#3c1440'>" + steamDBIconString + " SteamDB</a>";
                     }
 
-                    if(!linkReplaceId) {a.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + filteredData[i]["platformId"] + "')");}
-                    else {a.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + a.href + "')");}
+                    a = document.getElementById("tmpSteam");
                     a.addEventListener("contextmenu", (e) => {e.preventDefault()});
-                    a.classList.add('textCopyable');
                     a.removeAttribute("id");
 
                     cellLinkCE.innerHTML = "<a id='tmpCE' target='_blank' style='font-weight: bold; color:#000000'>Challenge Enthusiasts</a>";
