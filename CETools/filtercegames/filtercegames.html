@@ -2658,24 +2658,25 @@
                             let titleString = extrasData[filteredData[i]["CEId"]]["dlc"]["description"].replaceAll("'", "&apos;");
                             cellDlcCount.innerHTML = "<b title='" + titleString + "'>" + extrasData[filteredData[i]["CEId"]]["dlc"]["count"] + "</b>";
 
-                            if(extrasData[filteredData[i]["CEId"]]["dlc"]["description"].toUpperCase().includes("SOUNDTRACK") || extrasData[filteredData[i]["CEId"]]["dlc"]["description"].toUpperCase().includes("OST"))
+                            if(extrasData[filteredData[i]["CEId"]]["dlc"]["description"].toUpperCase().includes(" SOUNDTRACK") || extrasData[filteredData[i]["CEId"]]["dlc"]["description"].toUpperCase().includes(" OST"))
                             {
                                 cellDlcCount.innerHTML += " <b style='font-size:18px;' title='There is a DLC with \"Soundtrack\" or \"OST\" in its name here.'>𝅘𝅥𝅮</b>";
                             }
 
                             if(("information" in filteredData[i] && filteredData[i]["information"].toUpperCase().includes("DLC")) || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("DLC"))
                             {
+                                cellDlcCount.innerHTML += "<br>";
                                 if(("information" in filteredData[i] && (filteredData[i]["information"].toUpperCase().includes("DLC REQUIRED") || filteredData[i]["information"].toUpperCase().includes("DLCS REQUIRED"))) || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("DLC REQUIRED") || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("DLCS REQUIRED"))
                                 {
-                                     cellDlcCount.innerHTML += "<br><b title='A DLC is likely required for a PO.'>R</b>";
+                                     cellDlcCount.innerHTML += "<b title='A DLC is likely required for a PO.'>R</b>";
                                 }
                                 else if(("information" in filteredData[i] && (filteredData[i]["information"].toUpperCase().includes("DLC NOT REQUIRED") || filteredData[i]["information"].toUpperCase().includes("DLCS NOT REQUIRED"))) || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("DLC NOT REQUIRED") || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("DLCS NOT REQUIRED"))
                                 {
-                                     cellDlcCount.innerHTML += "<br><b title='A DLC is likely not required for a PO.' style='text-decoration: line-through;'>R</b>";
+                                     cellDlcCount.innerHTML += "<b title='A DLC is likely not required for a PO.' style='text-decoration: line-through;'>R</b>";
                                 }
                                 else
                                 {
-                                    cellDlcCount.innerHTML += "<br><b title='A DLC may be required for a PO.'>R?</b>";
+                                    cellDlcCount.innerHTML += "<b title='A DLC may be required for a PO.'>R?</b>";
                                 }
                             }
 
