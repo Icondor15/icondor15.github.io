@@ -634,7 +634,7 @@
             
             document.getElementById("searchTime").innerHTML = "Search time: <b>~" + Math.round((date["searchTime"] + userDate["searchTime"] + wishlistDate["searchTime"])/60) + " minutes</b>.";
 
-            document.getElementById("extrasDate").innerHTML = "Last checked wishlist info on: <b>" + extrasDate["day"] + "/" + extrasDate["month"] + "/" + extrasDate["year"] + "</b> at <b>" + extrasDate["hour"] + ":" + extrasDate["minute"] + ":" + extrasDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(extrasDate["searchTime"], 2) + "</b> seconds.";
+            document.getElementById("extrasDate").innerHTML = "Last checked Reviews & DLC info on: <b>" + extrasDate["day"] + "/" + extrasDate["month"] + "/" + extrasDate["year"] + "</b> at <b>" + extrasDate["hour"] + ":" + extrasDate["minute"] + ":" + extrasDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(extrasDate["searchTime"], 2) + "</b> seconds.";
             document.getElementById("totalTime").innerHTML = "Total search time: <b>~" + Math.round((date["searchTime"] + userDate["searchTime"] + wishlistDate["searchTime"] + extrasDate["searchTime"])/60) + " minutes</b>.";
             
             let timeStart = 0;
