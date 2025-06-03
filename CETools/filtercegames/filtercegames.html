@@ -383,16 +383,20 @@
                                     <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br>
                                     <table style="border:0px; text-align: center; width:85%; margin:auto;">
                                         <tr>
-                                            <td style="border:0px; width:33%">
-                                                <input id="unclearedOnly" type="checkbox" onclick="unclearedOnly()">Uncleareds Only</input>
-                                                <input id="unvaluedOnly" type="checkbox" onclick="unvaluedOnly()">Unvalueds Only</input><br>
+                                            <td colspan="2" style="border:0px; width:25%">
+                                                <input id="unclearedOnly" type="checkbox" onclick="unclearedOnly()">(Points) Uncleareds Only</input><br>
+                                                <input id="unvaluedOnly" type="checkbox" onclick="unvaluedOnly()">(Points) Unvalueds Only</input><br>
                                                 <sub class="subtitle">(Show only games that have "UNCLEARED" and/or "UNVALUED" in their Objectives' names, as well as games with point values that aren't multiples of 5)</sub>
                                             </td>
-                                            <td style="border:0px; width:33%">
+                                            <td colspan="2" style="border:0px; width:25%">
+                                                <input  id="RequiredDlc" type="checkbox" onchange="requiredDlc()">(DLC) Required DLCs Only</input><br>
+                                                <sub class="subtitle">(Show only games where having one or multiple DLCs may be required)</sub>
+                                            </td>
+                                            <td colspan="2" style="border:0px; width:25%">
                                                 <input  id="idToLink" type="checkbox" onchange="idToLink()">(Links) Copy Link > Copy ID</input><br>
                                                 <sub class="subtitle">(Useful to copy many IDs quickly)</sub>
                                             </td>
-                                            <td style="border:0px; width:33%">
+                                            <td colspan="2" style="border:0px; width:25%">
                                                 <input  id="invertFilters" type="checkbox" onchange="invertFilters()">Invert Filters</input><br>
                                                 <sub class="subtitle">(Check for all games that DON'T apply to the active filters.)</sub><br>
                                                 <sub class="subtitle">(May seem funky with many filters active, especially the user filter!)</sub>
@@ -653,6 +657,7 @@
             let usePointsFilter = false;
             let useUnclearedOnly = false;
             let useUnvaluedOnly = false;
+            let requiredDlcOnly = false;
             let linkReplaceId = true;
             let ownerFilterType = 0;
             let usePercentageCompletion = false;
@@ -996,6 +1001,12 @@
             {
                 if(useUnvaluedOnly == true) {useUnvaluedOnly = false;}
                 else if(useUnvaluedOnly == false) {useUnvaluedOnly = true;}
+                order(lastOrder);
+            }
+            function requiredDlc()
+            {
+                if(requiredDlcOnly == true) {requiredDlcOnly = false;}
+                else if(requiredDlcOnly == false) {requiredDlcOnly = true;}
                 order(lastOrder);
             }
             function idToLink()
@@ -1751,10 +1762,15 @@
                 if(useUnclearedOnly) {
                     filteredData = filteredData.filter(obj => {return obj.points > 0 && ((obj.points % 5 != 0 && obj.milestones.primaryText.toUpperCase().includes("UNCLEARED")|| obj.milestones.communityText.toUpperCase().includes("UNCLEARED")) || (obj.points % 5 != 0 && !(obj.milestones.primaryText.toUpperCase().includes("UNCLEARED") || obj.milestones.communityText.toUpperCase().includes("UNCLEARED")) && !obj.milestones.primaryText.toUpperCase().includes("UNVALUED")))}
                 )}
-
                 if(useUnvaluedOnly) {
                     filteredData = filteredData.filter(obj => {return obj.points > 0 && obj.points % 5 != 0 && obj.milestones.primaryText.toUpperCase().includes("UNVALUED")}
                 )}
+                
+                //Required DLCs only
+                if(requiredDlcOnly) {
+                    filteredData = filteredData.filter(obj => {return (("information" in obj && obj["information"].toUpperCase().includes("DLC")) || obj["milestones"]["primaryText"].toUpperCase().includes("DLC")) && !("information" in obj && (obj["information"].toUpperCase().includes("DLC NOT REQUIRED") || obj["information"].toUpperCase().includes("DLCS NOT REQUIRED"))) || obj["milestones"]["primaryText"].toUpperCase().includes("DLC NOT REQUIRED") || obj["milestones"]["primaryText"].toUpperCase().includes("DLCS NOT REQUIRED")})
+                }
+
                 if(useListOnly) {filteredData = filteredData.filter(obj => {return listData.includes(obj["CEId"])})}
                 
                 if(useInverseFilters)
@@ -2659,7 +2675,7 @@
                     else if(filteredData[i]["gameType"] == 3)
                     {
                         cellBasePrice.innerHTML = "N/A (RetroAchievements)";
-                        cellBasePrice.style.backgroundColor = "#33333366";
+                        cellBasePrice.style.backgroundImage = "linear-gradient(to right, #0d2d8c66, #82590c66)";
                     }
                     else if(filteredData[i]["gameType"] == 4)
                     {
@@ -2677,17 +2693,30 @@
                         }
                         else if(!("dlc" in extrasData[filteredData[i]["CEId"]]))
                         {
-                            cellDlcCount.innerHTML = "N/A (No DLCs)";
-                            cellDlcCount.style.backgroundColor = "#7a596166";
+                            if(("information" in filteredData[i] && filteredData[i]["information"].toUpperCase().includes("DLC")) || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("DLC"))
+                            {
+                                cellDlcCount.innerHTML = "N/A (Couldn't find DLCs<sup title='The Weekly Check may have not found any DLCs due to API limitations,\nthe game might have free extra content labelled as &apos;DLC&apos;,\nor DLCs may be bought via a third party or in-game payments.'>🛈</sup>)<br><span style='font-size:10px'>(The Information Box and/or POs mention DLCs)</span>";
+                                cellDlcCount.style.backgroundColor = "#a8715966";
+                            }
+                            else
+                            {
+                                cellDlcCount.innerHTML = "N/A (No DLCs)";
+                                cellDlcCount.style.backgroundColor = "#7a596166";
+                            }
                         }
                         else
                         {
                             let titleString = extrasData[filteredData[i]["CEId"]]["dlc"]["description"].replaceAll("'", "&apos;");
-                            cellDlcCount.innerHTML = "<b title='" + titleString + "'>" + extrasData[filteredData[i]["CEId"]]["dlc"]["count"] + "</b>";
+                            cellDlcCount.innerHTML = "<b style='margin: 0px 2px;' title='" + titleString + "'>" + extrasData[filteredData[i]["CEId"]]["dlc"]["count"] + "</b>";
 
                             if(extrasData[filteredData[i]["CEId"]]["dlc"]["description"].toUpperCase().includes(" SOUNDTRACK") || extrasData[filteredData[i]["CEId"]]["dlc"]["description"].toUpperCase().includes(" OST"))
                             {
-                                cellDlcCount.innerHTML += " <b style='font-size:18px;' title='There is a DLC with \"Soundtrack\" or \"OST\" in its name here.'>𝅘𝅥𝅮</b>";
+                                cellDlcCount.innerHTML += "<b style='font-size:18px;' title='There is a DLC with \"Soundtrack\" or \"OST\" in its name here.'>♪</b>";
+                            }
+
+                            if(extrasData[filteredData[i]["CEId"]]["dlc"]["description"].toUpperCase().includes("ARTBOOK"))
+                            {
+                                cellDlcCount.innerHTML += "<b style='font-size:16px;' title='There is a DLC with \"Artbook\" in its name here.'>✎</b>";
                             }
 
                             if(("information" in filteredData[i] && filteredData[i]["information"].toUpperCase().includes("DLC")) || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("DLC"))
