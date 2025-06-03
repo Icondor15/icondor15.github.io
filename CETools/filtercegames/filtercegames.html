@@ -1597,6 +1597,9 @@
                     var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
                     var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
 
+                    var reviewedGames = steamGames.filter(obj => {return obj.CEId in extrasData})
+                    var unreviewedGames = steamGames.filter(obj => {return !(obj.CEId in extrasData)})
+
                     //Filter by Review Percentage
                     var ratingPercentageLowBound = 0;
                     var ratingPercentageHighBound = 100;
@@ -1624,12 +1627,12 @@
                         else {document.getElementById("ratingPercentageHigher").value = ratingPercentageHighBound.toString();}
                     }
 
-                    steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] / extrasData[obj["CEId"]]["reviews"]["total"] * 100 >= ratingPercentageLowBound})
+                    reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] / extrasData[obj["CEId"]]["reviews"]["total"] * 100 >= ratingPercentageLowBound})
                     
                     if(ratingPercentageLowBound <= ratingPercentageHighBound)
                     {
                         document.getElementById("ratingPercentageHigher").style.textDecoration = "none";
-                        steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] / extrasData[obj["CEId"]]["reviews"]["total"] * 100 <= ratingPercentageHighBound})
+                        reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] / extrasData[obj["CEId"]]["reviews"]["total"] * 100 <= ratingPercentageHighBound})
                     }
                     else {document.getElementById("ratingPercentageHigher").style.textDecoration = "line-through";}
 
@@ -1660,12 +1663,12 @@
                         else {document.getElementById("ratingTotalHigher").value = ratingTotalHighBound.toString();}
                     }
 
-                    steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["total"] >= ratingTotalLowBound})
+                    reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["total"] >= ratingTotalLowBound})
                     
                     if(ratingTotalLowBound <= ratingTotalHighBound)
                     {
                         document.getElementById("ratingTotalHigher").style.textDecoration = "none";
-                        steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["total"] <= ratingTotalHighBound})
+                        reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["total"] <= ratingTotalHighBound})
                     }
                     else {document.getElementById("ratingTotalHigher").style.textDecoration = "line-through";}
 
@@ -1696,12 +1699,12 @@
                         else {document.getElementById("ratingPositiveHigher").value = ratingPositiveHighBound.toString();}
                     }
 
-                    steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] >= ratingPositiveLowBound})
+                    reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] >= ratingPositiveLowBound})
                     
                     if(ratingPositiveLowBound <= ratingPositiveHighBound)
                     {
                         document.getElementById("ratingPositiveHigher").style.textDecoration = "none";
-                        steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] <= ratingPositiveHighBound})
+                        reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] <= ratingPositiveHighBound})
                     }
                     else {document.getElementById("ratingPositiveHigher").style.textDecoration = "line-through";}
 
@@ -1732,16 +1735,16 @@
                         else {document.getElementById("ratingNegativeHigher").value = ratingNegativeHighBound.toString();}
                     }
 
-                    steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["negative"] >= ratingNegativeLowBound})
+                    reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["negative"] >= ratingNegativeLowBound})
                     
                     if(ratingNegativeLowBound <= ratingNegativeHighBound)
                     {
                         document.getElementById("ratingNegativeHigher").style.textDecoration = "none";
-                        steamGames = steamGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["negative"] <= ratingNegativeHighBound})
+                        reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["negative"] <= ratingNegativeHighBound})
                     }
                     else {document.getElementById("ratingNegativeHigher").style.textDecoration = "line-through";}
                     
-                    filteredData = steamGames.concat(RAGames);
+                    filteredData = reviewedGames.concat(unreviewedGames, RAGames);
                 }
 
                 //Filter by Uncleareds and Unvalueds
@@ -2063,45 +2066,56 @@
                     else if(type == "reviewRating")
                     {
                         var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
-                        steamGames.reverse();
                         var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
-                        
-                        steamGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["total"] > extrasData[b["CEId"]]["reviews"]["total"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["total"] > extrasData[a["CEId"]]["reviews"]["total"]) ? -1 : 0));
-                        
-                        steamGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["positive"]/extrasData[a["CEId"]]["reviews"]["total"] > extrasData[b["CEId"]]["reviews"]["positive"]/extrasData[b["CEId"]]["reviews"]["total"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["positive"]/extrasData[b["CEId"]]["reviews"]["total"] > extrasData[a["CEId"]]["reviews"]["positive"]/extrasData[a["CEId"]]["reviews"]["total"]) ? -1 : 0));
 
-                        if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
-                        else {filteredData = RAGames.concat(steamGames);}
+                        var reviewedGames = steamGames.filter(obj => {return obj.CEId in extrasData})
+                        var unreviewedGames = steamGames.filter(obj => {return !(obj.CEId in extrasData)})
+                        
+                        reviewedGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["total"] > extrasData[b["CEId"]]["reviews"]["total"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["total"] > extrasData[a["CEId"]]["reviews"]["total"]) ? -1 : 0));
+                        
+                        reviewedGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["positive"]/extrasData[a["CEId"]]["reviews"]["total"] > extrasData[b["CEId"]]["reviews"]["positive"]/extrasData[b["CEId"]]["reviews"]["total"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["positive"]/extrasData[b["CEId"]]["reviews"]["total"] > extrasData[a["CEId"]]["reviews"]["positive"]/extrasData[a["CEId"]]["reviews"]["total"]) ? -1 : 0));
+
+                        if(useReverseOrder != true) {filteredData = reviewedGames.concat(unreviewedGames, RAGames);}
+                        else {filteredData = RAGames.concat(unreviewedGames, reviewedGames);}
                     }
                     else if(type == "reviewTotal")
                     {
                         var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
                         var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
-                        
-                        steamGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["total"] > extrasData[b["CEId"]]["reviews"]["total"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["total"] > extrasData[a["CEId"]]["reviews"]["total"]) ? -1 : 0));
 
-                        if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
-                        else {filteredData = RAGames.concat(steamGames);}
+                        var reviewedGames = steamGames.filter(obj => {return obj.CEId in extrasData})
+                        var unreviewedGames = steamGames.filter(obj => {return !(obj.CEId in extrasData)})
+                        
+                        reviewedGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["total"] > extrasData[b["CEId"]]["reviews"]["total"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["total"] > extrasData[a["CEId"]]["reviews"]["total"]) ? -1 : 0));
+
+                        if(useReverseOrder != true) {filteredData = reviewedGames.concat(unreviewedGames, RAGames);}
+                        else {filteredData = RAGames.concat(unreviewedGames, reviewedGames);}
                     }
                     else if(type == "reviewPositive")
                     {
                         var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
                         var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
-                        
-                        steamGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["positive"] > extrasData[b["CEId"]]["reviews"]["positive"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["positive"] > extrasData[a["CEId"]]["reviews"]["positive"]) ? -1 : 0));
 
-                        if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
-                        else {filteredData = RAGames.concat(steamGames);}
+                        var reviewedGames = steamGames.filter(obj => {return obj.CEId in extrasData})
+                        var unreviewedGames = steamGames.filter(obj => {return !(obj.CEId in extrasData)})
+                        
+                        reviewedGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["positive"] > extrasData[b["CEId"]]["reviews"]["positive"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["positive"] > extrasData[a["CEId"]]["reviews"]["positive"]) ? -1 : 0));
+
+                        if(useReverseOrder != true) {filteredData = reviewedGames.concat(unreviewedGames, RAGames);}
+                        else {filteredData = RAGames.concat(unreviewedGames, reviewedGames);}
                     }
                     else if(type == "reviewNegative")
                     {
                         var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
                         var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
-                        
-                        steamGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["negative"] > extrasData[b["CEId"]]["reviews"]["negative"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["negative"] > extrasData[a["CEId"]]["reviews"]["negative"]) ? -1 : 0));
 
-                        if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
-                        else {filteredData = RAGames.concat(steamGames);}
+                        var reviewedGames = steamGames.filter(obj => {return obj.CEId in extrasData})
+                        var unreviewedGames = steamGames.filter(obj => {return !(obj.CEId in extrasData)})
+                        
+                        reviewedGames.sort((a,b) => (extrasData[a["CEId"]]["reviews"]["negative"] > extrasData[b["CEId"]]["reviews"]["negative"]) ? 1 : ((extrasData[b["CEId"]]["reviews"]["negative"] > extrasData[a["CEId"]]["reviews"]["negative"]) ? -1 : 0));
+
+                        if(useReverseOrder != true) {filteredData = reviewedGames.concat(unreviewedGames, RAGames);}
+                        else {filteredData = RAGames.concat(unreviewedGames, reviewedGames);}
                     }
                     else if(type == "dlcCount")
                     {
@@ -2199,7 +2213,7 @@
                 reloadCounter = 0;
                 reloadMax = (filteredData.length - (filteredData.length % reloadUnit))/ reloadUnit + 1;
                 document.getElementById("loadingText").innerHTML = "Loading Table...";
-                
+
                 clearInterval(generateLoop);
                 timeStart = Date.now();
                 generateLoop = setInterval(generateTable, 1);
@@ -2291,7 +2305,7 @@
                         {
                             var cellDlcCount = row1.insertCell(11);
                             cellDlcCount.rowSpan = 2;
-                            if("dlc" in extrasData[filteredData[i]["CEId"]])
+                            if(filteredData[i]["CEId"] in extrasData && "dlc" in extrasData[filteredData[i]["CEId"]])
                             {
                                 var cellDlcPrice = row1.insertCell(12);
                                 cellDlcPrice.rowSpan = 2;
@@ -2330,7 +2344,7 @@
                         var cellPartialCompletion = row2.insertCell(2);
                         var cellPartialPercentage = row2.insertCell(3);
                         
-                        if(filteredData[i]["gameType"] == 0 && "dlc" in extrasData[filteredData[i]["CEId"]] && activeCurrency in extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"] && extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] != 0)
+                        if(filteredData[i]["gameType"] == 0 && filteredData[i]["CEId"] in extrasData && "dlc" in extrasData[filteredData[i]["CEId"]] && activeCurrency in extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"] && extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] != 0)
                         {
                             var cellTotalPrice = row2.insertCell(4);
                             cellTotalPrice.colSpan = 4;
@@ -2371,38 +2385,46 @@
                         cellPlatform.style.color = "#DDDDDD";
                         cellPlatform.style.backgroundColor = "#0F6EB888";
 
-                        if(extrasData[filteredData[i]["CEId"]]["reviews"]["total"] >= 10) {cellReviews.innerHTML = extrasData[filteredData[i]["CEId"]]["reviews"]["description"]}
-                        else {cellReviews.innerHTML = extrasData[filteredData[i]["CEId"]]["reviews"]["total"] + " User reviews"}
-
-                        cellReviews.style.fontWeight = "bold";
-
-                        if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Positive"))
-                        {  
-                            if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Overwhelmingly")) {cellReviews.innerHTML += "!";}
-                            cellReviews.style.color = "#2222AA";
-                            cellReviews.style.backgroundColor = "#66c0f499";
-                            if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Mostly"))
-                            {
-                                cellReviews.style.color = "#1c7068";
-                                cellReviews.style.backgroundColor = "#6bd1c999";
-                            }
-                        }
-                        if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Mixed"))
+                        if(filteredData[i]["CEId"] in extrasData)
                         {
-                            cellReviews.style.color = "#a37a1d";
-                            cellReviews.style.backgroundColor = "#edb85899";
-                        }
-                        if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Negative"))
-                        {  
-                            if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Overwhelmingly") || extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Very")) {cellReviews.innerHTML += "...";}
-                            cellReviews.style.color = "#803614";
-                            cellReviews.style.backgroundColor = "#c35c2c99";
-                        }
+                            if(extrasData[filteredData[i]["CEId"]]["reviews"]["total"] >= 10) {cellReviews.innerHTML = extrasData[filteredData[i]["CEId"]]["reviews"]["description"]}
+                            else {cellReviews.innerHTML = extrasData[filteredData[i]["CEId"]]["reviews"]["total"] + " User reviews"}
 
-                        cellReviews.innerHTML += " <span class='subtitle' style='color:inherit' span title='Percentage of Positive Reviews'>(" + toFixed(extrasData[filteredData[i]["CEId"]]["reviews"]["positive"]/extrasData[filteredData[i]["CEId"]]["reviews"]["total"]*100, 2) + "%)</span>";
+                            cellReviews.style.fontWeight = "bold";
 
-                        cellReviews.innerHTML += "<br><sub title='Total Reviews'>Total: " + extrasData[filteredData[i]["CEId"]]["reviews"]["total"] +  "</sub>";
-                        cellReviews.innerHTML += "<br><sub><span title='Positive Reviews' style='color:green'>+" + extrasData[filteredData[i]["CEId"]]["reviews"]["positive"] + "</span>/<span title='Negative Reviews' style='color:darkred'>-" + extrasData[filteredData[i]["CEId"]]["reviews"]["negative"] + "</span></sub>";
+                            if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Positive"))
+                            {  
+                                if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Overwhelmingly")) {cellReviews.innerHTML += "!";}
+                                cellReviews.style.color = "#2222AA";
+                                cellReviews.style.backgroundColor = "#66c0f499";
+                                if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Mostly"))
+                                {
+                                    cellReviews.style.color = "#1c7068";
+                                    cellReviews.style.backgroundColor = "#6bd1c999";
+                                }
+                            }
+                            if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Mixed"))
+                            {
+                                cellReviews.style.color = "#a37a1d";
+                                cellReviews.style.backgroundColor = "#edb85899";
+                            }
+                            if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Negative"))
+                            {  
+                                if(extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Overwhelmingly") || extrasData[filteredData[i]["CEId"]]["reviews"]["description"].includes("Very")) {cellReviews.innerHTML += "...";}
+                                cellReviews.style.color = "#803614";
+                                cellReviews.style.backgroundColor = "#c35c2c99";
+                            }
+
+                            cellReviews.innerHTML += " <span class='subtitle' style='color:inherit' span title='Percentage of Positive Reviews'>(" + toFixed(extrasData[filteredData[i]["CEId"]]["reviews"]["positive"]/extrasData[filteredData[i]["CEId"]]["reviews"]["total"]*100, 2) + "%)</span>";
+
+                            cellReviews.innerHTML += "<br><sub title='Total Reviews'>Total: " + extrasData[filteredData[i]["CEId"]]["reviews"]["total"] +  "</sub>";
+                            cellReviews.innerHTML += "<br><sub><span title='Positive Reviews' style='color:green'>+" + extrasData[filteredData[i]["CEId"]]["reviews"]["positive"] + "</span>/<span title='Negative Reviews' style='color:darkred'>-" + extrasData[filteredData[i]["CEId"]]["reviews"]["negative"] + "</span></sub>";
+                        }
+                        else
+                        {
+                            cellReviews.innerHTML = "<b>Review Count Unknown</b><br><sub>Weekly Check hasn't occurred yet.</sub>";
+                                    cellReviews.style.backgroundColor = "#00000066";
+                        }
                     }
                     else
                     {
@@ -2648,7 +2670,12 @@
                     
                     if(filteredData[i]["gameType"] != 3)
                     {
-                        if(!("dlc" in extrasData[filteredData[i]["CEId"]]))
+                        if(!(filteredData[i]["CEId"] in extrasData))
+                        {
+                            cellDlcCount.innerHTML = "N/A (Weekly Check hasn't occurred yet)";
+                            cellDlcCount.style.backgroundColor = "#4f424599";
+                        }
+                        else if(!("dlc" in extrasData[filteredData[i]["CEId"]]))
                         {
                             cellDlcCount.innerHTML = "N/A (No DLCs)";
                             cellDlcCount.style.backgroundColor = "#7a596166";
@@ -2747,7 +2774,7 @@
                             }
                         }
 
-                        if(filteredData[i]["gameType"] == 0 && "dlc" in extrasData[filteredData[i]["CEId"]] && activeCurrency in extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"] && extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] != 0)
+                        if(filteredData[i]["gameType"] == 0 && filteredData[i]["CEId"] in extrasData && "dlc" in extrasData[filteredData[i]["CEId"]] && activeCurrency in extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"] && extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] != 0)
                         {
                             var totalPrice = "<b>Total: ";
                             if(activeCurrency == "USD")
