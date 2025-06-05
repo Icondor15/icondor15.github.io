@@ -484,7 +484,9 @@
                     if(Object.keys(filteredData[i]["requirements"]).length > 1)
                     {
                         var str = "";
-                        filteredData[i]["requirements"]["achievements"].forEach(val => {str += "<span title = '" + val["description"] + "' style='padding:3px; margin:3px; background-color: #FFFFFF88;'><img height='16px' style='position: relative; border: solid 1px black; top:3px;' src='" + val["icon"] + "'> " + val["name"] + "</span>";});
+                        if(loadImages) {filteredData[i]["requirements"]["achievements"].forEach(val => {str += "<span title = '" + val["description"] + "' style='padding:3px; margin:3px; background-color: #FFFFFF88;'><img height='16px' style='position: relative; border: solid 1px black; top:3px;' src='" + val["icon"] + "'> " + val["name"] + "</span>";});}
+                        else {filteredData[i]["requirements"]["achievements"].forEach(val => {str += "<span title = '" + val["description"] + "' style='padding:3px; margin:3px; background-color: #FFFFFF88;'>" + val["name"] + "</span>";});}
+                        
                         cellRequirementsFirst.innerHTML = str;
                         cellRequirementsSecond.innerHTML = filteredData[i]["requirements"]["custom"];
                     }
@@ -493,7 +495,8 @@
                         if(Object.keys(filteredData[i]["requirements"]).includes("achievements"))
                         {
                             var str = "";
-                            filteredData[i]["requirements"]["achievements"].forEach(val => {str += "<span title = '" + val["description"] + "' style='padding:3px; margin:3px; background-color: #FFFFFF88;'><img height='16px' style='position: relative; border: solid 1px black; top:3px;' src='" + val["icon"] + "'> " + val["name"] + "</span>";});
+                        if(loadImages) {filteredData[i]["requirements"]["achievements"].forEach(val => {str += "<span title = '" + val["description"] + "' style='padding:3px; margin:3px; background-color: #FFFFFF88;'><img height='16px' style='position: relative; border: solid 1px black; top:3px;' src='" + val["icon"] + "'> " + val["name"] + "</span>";});}
+                        else {filteredData[i]["requirements"]["achievements"].forEach(val => {str += "<span title = '" + val["description"] + "' style='padding:3px; margin:3px; background-color: #FFFFFF88;'>" + val["name"] + "</span>";});}
                             cellRequirementsFirst.innerHTML = str;
                         }
                         else {cellRequirementsFirst.innerHTML = filteredData[i]["requirements"]["custom"];}
