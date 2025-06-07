@@ -15,6 +15,10 @@
             user-select:none;
         }
 
+        html {
+            overflow-y: scroll;
+        }
+
         table {
         border:1px solid black;
         }
@@ -47,6 +51,15 @@
             background-color: #888888;
         }
 
+        .textCopyable:hover {
+            cursor:pointer;
+            text-decoration: underline;
+        }
+        .textCopyable:active {
+            cursor:pointer;
+            text-decoration: underline 2px;
+        }
+
         #secretLink {
             user-select: none;
             color:#d3ebe2;
@@ -70,63 +83,79 @@
                 <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
             </svg></a> / <b>@icondor</b> on Discord.</p>
         </div>
-        <table id="MainTable" style="margin: auto; width: 50%; text-align: center; background-color:#ffffff;">
-            <tr>
-                <td colspan="2">    
-                    <p id="Title" style="margin: auto; padding: 10px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">CETools</p>
-                    <sub>A website containing useful searching tools for the <a href="https://cedb.me/" target=”_blank” ><b>Challenge Enthusiasts <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
-                    </svg></b></a> website.</sub><br>
-                    <sub style="font-size: 10px; color:#bbbbbb">(All of these are updated semi-automatically! If you want me to push an update just message me on Discord! Be patient with me!)</sub>
-                </td>
-            </tr>
-            <tr>
-                <td style="margin: auto; width: 50%; height:50px; font-size: 20px;">
-                    <a href="./filtercegames/filtercegames.html"><b>Game List</b></a>
-                </td>
-                <td>
-                    A filterable list of games present in the CE database.
-                </td>
-            </tr>
-            <tr>
-                <td style="margin: auto; width: 50%; height:50px; font-size: 20px;">
-                    <a href="./filterceusers/filterceusers.html"><b>User List</b></a>
-                </td>
-                <td>
-                    A filterable list of users present in the CE leaderboards.
-                </td>
-            </tr>
-            <tr>
-                <td style="margin: auto; width: 50%; height:50px; font-size: 20px;">
-                    <a href="./filterceobjectives/filterceobjectives.html"><b>Objective List</b></a>
-                </td>
-                <td>
-                    A filterable list of objectives present in the CE leaderboards.
-                </td>
-            </tr>
-            <tr>
-                <td style="margin: auto; width: 50%; height: 50px; font-size: 20px;">
-                    <a href="./usefullists/usefullists.html"><b>Useful Lists List</b></a><br>
-                    <sub class="subtitle">(I should have called them "Groups" or something...)</sub>
-                </td>
-                <td>
-                    A list of lists <sub class="subtitle">(Ugh...)</sub> useful for site achievements! 
-                </td>
-            </tr>
-            <tr>
-                <td colspan="2">
-                    <p style="margin: auto;font-size: 25px; font-weight: bold; text-align: center;">Settings</p>
-                    <sub class="subtitle">(These are memorized!)</sub>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="2">
-                    <input type="checkbox" id="loadImagesCheckbox" checked onclick="setImages()">Load Images</input><br>
-                    <sub class="subtitle">(Turning this off can improve performace!)</sub>
-                </td>
-            </tr>
-        </table>
-        <hr style="color:black; width: 66%;">
+        <div style="margin: 0% 15%">
+            <table id="MainTable" style="margin: auto; width: 47.5%; text-align: center; background-color:#ffffff; float:left;">
+                <tr>
+                    <td colspan="2">    
+                        <p id="Title" style="margin: auto; padding: 10px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">CETools</p>
+                        <sub>A website containing useful searching tools for the <a href="https://cedb.me/" target=”_blank” ><b>Challenge Enthusiasts <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
+                        </svg></b></a> website.</sub><br>
+                        <sub style="font-size: 10px; color:#bbbbbb">(All of these are updated semi-automatically! If you want me to push an update just message me on Discord! Be patient with me!)</sub>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="margin: auto; width: 50%; height:50px; font-size: 20px;">
+                        <a href="./filtercegames/filtercegames.html"><b>Game List</b></a>
+                    </td>
+                    <td>
+                        A filterable list of games present in the CE database.
+                    </td>
+                </tr>
+                <tr>
+                    <td style="margin: auto; width: 50%; height:50px; font-size: 20px;">
+                        <a href="./filterceusers/filterceusers.html"><b>User List</b></a>
+                    </td>
+                    <td>
+                        A filterable list of users present in the CE leaderboards.
+                    </td>
+                </tr>
+                <tr>
+                    <td style="margin: auto; width: 50%; height:50px; font-size: 20px;">
+                        <a href="./filterceobjectives/filterceobjectives.html"><b>Objective List</b></a>
+                    </td>
+                    <td>
+                        A filterable list of objectives present in the CE leaderboards.
+                    </td>
+                </tr>
+                <tr>
+                    <td style="margin: auto; width: 50%; height: 50px; font-size: 20px;">
+                        <a href="./usefullists/usefullists.html"><b>Useful Lists List</b></a><br>
+                        <sub class="subtitle">(I should have called them "Groups" or something...)</sub>
+                    </td>
+                    <td>
+                        A list of lists <sub class="subtitle">(Ugh...)</sub> useful for site achievements! 
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <p style="margin: auto;font-size: 25px; font-weight: bold; text-align: center;">Settings</p>
+                        <sub class="subtitle">(These are memorized!)</sub>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input type="checkbox" id="loadImagesCheckbox" checked onclick="setImages()">Load Images</input><br>
+                        <sub class="subtitle">(Turning this off can improve performace!)</sub>
+                    </td>
+                </tr>
+            </table>
+            <table id="gameOfDayTable" style="margin: auto; width: 47.5%; max-width: 50%; max-height: 100%; text-align: center; background-color:#ffffff; float:right;">
+                <tr>
+                    <td colspan="6">
+                        <p id="Title" style="margin: auto; padding: 10px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">Game of The Day!</p>
+                        <b id="todayDate">(dd-mm-yyyy)</b><br>
+                        <sub>Shows a game that was uploaded to the CE Database today at least one year ago, or a random game!</sub>
+                    </td>
+                </tr>
+                <tr id="loading">
+                    <td colspan="6">
+                        <p style="margin: auto; padding: 10px 15px; font-size: 30px; font-weight: bold; text-align: center;">Loading...</p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <hr style="opacity: 0; width: 66%;">
         <table id="focusTable" style="margin: auto; width: 50%; text-align: center; background-color:#ffffff;">
             <tr>
                 <td colspan="24">
@@ -148,9 +177,14 @@
 
         <script src="./formattedUserList.js"></script>
         <script src="./formattedWishlistList.js"></script>
+        <script src="./gameOfDay.js"></script>
 
         <script>
             let exPlusList = ["992f86df-6327-47f7-ba0c-0212126c0aaf"];
+
+            var today = new Date()
+            document.getElementById("todayDate").innerHTML = "(" + today.getDate() + "-" + (today.getMonth()+1) + "-" + today.getFullYear() + ")";
+            generateTable();
 
             if(getCookie("userId"))
             {
@@ -454,6 +488,265 @@
                 setCookie("userId", "", -1);
             }
 
+            
+            function generateTable()
+            {
+                if(document.getElementById("loading") != null) {document.getElementById("loading").remove()}
+                var table = document.getElementById("gameOfDayTable");
+                
+                var row1 = table.insertRow(1);
+                row1.style.backgroundColor = "#e6e6e6";
+                var cellImage = row1.insertCell(0);
+                cellImage.colSpan = 3;
+                var cellName = row1.insertCell(1);
+                cellName.colSpan = 3;
+                
+                var rowPlatform = table.insertRow(2);
+                var cellPlatform = rowPlatform.insertCell(0);
+                cellPlatform.colSpan = 6;
+                if(gameOfDay["game"]["gameType"] != 3)
+                {
+                    cellPlatform.innerHTML = "<b>Steam</b>";
+                    cellPlatform.style.color = "#EEEEEE";
+                    cellPlatform.style.backgroundColor = "#0F6EB888";
+                }
+                else
+                {
+                    cellPlatform.innerHTML = "<b style='color:#187DF0'>Retro</b><b style='color:#FFC50F'>Achievements</b>";
+                    cellPlatform.style.backgroundColor = "#00000088";
+                }
+
+
+                var row2 = table.insertRow(3);
+                var cellGenreText = row2.insertCell(0);
+                var cellPointsText = row2.insertCell(1);
+                cellPointsText.colSpan = 2;
+                var cellPrimaryText = row2.insertCell(2);
+                var cellCommunityText = row2.insertCell(3);
+                var cellAchievementsText = row2.insertCell(4);
+
+                cellGenreText.innerHTML = "<b>Genre:</b>";
+                cellPointsText.innerHTML = "<b>Tier/Points:</b>";
+                cellPrimaryText.innerHTML = "<b>POs:</b>";
+                cellCommunityText.innerHTML = "<b>COs:</b>";
+                cellAchievementsText.innerHTML = "<b>Achievements:</b>";
+
+                var row3 = table.insertRow(4);
+                row3.style.backgroundColor = "#e6e6e6";
+                var cellGenre = row3.insertCell(0);
+                var cellTier = row3.insertCell(1);
+                var cellPoints = row3.insertCell(2);
+                var cellPrimary = row3.insertCell(3);
+                var cellCommunity = row3.insertCell(4);
+                var cellAchievements = row3.insertCell(5);
+                
+                var row4 = table.insertRow(5);
+                var cellOwnersText = row4.insertCell(0);
+                cellOwnersText.colSpan = 2;
+                var cellFullCompletionText = row4.insertCell(1);
+                cellFullCompletionText.colSpan = 2;
+                var cellPartialCompletionText = row4.insertCell(2);
+                cellPartialCompletionText.colSpan = 2;
+                
+                cellOwnersText.innerHTML = "<b>Owners:</b>";
+                cellFullCompletionText.innerHTML = "<b>Completed:</b>";
+                cellPartialCompletionText.innerHTML = "<b>Unfinished:</b>";
+
+                var row5 = table.insertRow(6);
+                row5.style.backgroundColor = "#e6e6e6";
+                var cellOwners = row5.insertCell(0);
+                cellOwners.colSpan = 2;
+                cellOwners.style.width = "33.3%";
+                var cellFullCompletion = row5.insertCell(1);
+                cellFullCompletion.style.backgroundColor = "#00FF0055";
+                cellFullCompletion.style.width = "16.6%";
+                var cellCompletionPercentage = row5.insertCell(2);
+                cellCompletionPercentage.style.backgroundColor = "#00FF0055";
+                cellCompletionPercentage.style.width = "16.6%";
+                var cellPartialCompletion = row5.insertCell(3);
+                cellPartialCompletion.style.backgroundColor = "#FFCC0055";
+                cellPartialCompletion.style.width = "16.6%";
+                var cellPartialPercentage = row5.insertCell(4);
+                cellPartialPercentage.style.backgroundColor = "#FFCC0055";
+                cellPartialPercentage.style.width = "16.6%";
+
+                if(gameOfDay["game"]["gameType"] != 3)
+                {
+
+                }
+
+                var rowLinksText = table.insertRow(table.rows.length);
+                var cellLinksText = rowLinksText.insertCell(0);
+                cellLinksText.colSpan = 6;
+                cellLinksText.innerHTML = "<b>Links:</b>";
+
+                var rowLinks = table.insertRow(table.rows.length);
+                rowLinks.style.backgroundColor = "#e6e6e6";
+                var cellLinkSteam = rowLinks.insertCell(0);
+                cellLinkSteam.colSpan = 3;
+                var cellLinkCE = rowLinks.insertCell(1);
+                cellLinkCE.colSpan = 3;
+
+
+                cellImage.innerHTML = "<img style='width:100%;' src='" + gameOfDay["game"]["header"] + "' />"; 
+                cellImage.style = "width:50%; padding: 0px;";
+                
+                cellName.innerHTML = "<b id='tmp'>" + gameOfDay["game"]["name"] + "</b>";
+
+                if(Object.keys(gameOfDay["game"]).includes("information")) {
+                    let titleString = gameOfDay["game"]["information"].replaceAll("'", "&apos;");
+                    cellName.innerHTML += "<sup title='" + titleString + "' style='font-size: 18px;'> 𝓲</sup>";
+                }
+                cellName.innerHTML += "<br><span class='subtitle'>(Click to copy to clipboard!)</span>";
+                
+                var p = document.getElementById("tmp");
+                p.setAttribute("onClick", "navigator.clipboard.writeText('" + gameOfDay["game"]["name"] + "')");
+                p.classList.add('textCopyable');
+                p.removeAttribute("id");
+                
+                cellGenre.innerHTML = gameOfDay["game"]["genre"];
+
+                switch(gameOfDay["game"]["genre"]){
+                    case "Action":
+                        cellGenre.style.backgroundColor = "#FF000033";
+                        break;
+                    case "Arcade":
+                        cellGenre.style.backgroundColor = "#0000FF33";
+                        break;
+                    case "Bullet Hell":
+                        cellGenre.style.backgroundColor = "#FF00FF33";
+                        break;
+                    case "First-Person":
+                        cellGenre.style.backgroundColor = "#FF990033";
+                        break;
+                    case "Platformer":
+                        cellGenre.style.backgroundColor = "#00FF0033";
+                        break;
+                    case "Strategy":
+                        cellGenre.style.backgroundColor = "#FFFF0033";
+                        break;
+                }
+
+                cellTier.innerHTML = "T" + gameOfDay["game"]["tier"];
+                switch(gameOfDay["game"]["tier"]){
+                    case 0:
+                        cellTier.style.backgroundColor = "#C5CBD388";
+                        break;
+                    case 1:
+                        cellTier.style.backgroundColor = "#5DC11888";
+                        break;
+                    case 2:
+                        cellTier.style.backgroundColor = "#F2CF2488";
+                        break;
+                    case 3:
+                        cellTier.style.backgroundColor = "#FF6F2188";
+                        break;
+                    case 4:
+                        cellTier.style.backgroundColor = "#FF242488";
+                        break;
+                    case 5:
+                        cellTier.style.backgroundColor = "#D504E088";
+                        break;
+                    case 6:
+                        cellTier.style.backgroundColor = "#00000088";
+                        cellTier.style.color = "#FFFFFF";
+                        break;
+                    case 7:
+                        cellTier.style.backgroundColor = "#D6D6D6";
+                        cellTier.style.color = "#787878";
+                        cellTier.style.fontWeight = "Bold";
+                        break;
+                }
+                
+                cellPoints.innerHTML = gameOfDay["game"]["points"] + "★";
+
+                
+                cellPrimary.innerHTML = gameOfDay["game"]["milestones"]["primary"];
+                if(gameOfDay["game"]["milestones"]["primary"] != 0) {cellPrimary.style.backgroundColor = "#0000FF44"}
+                if(gameOfDay["game"]["milestones"]["primaryText"] != "") {cellPrimary.title = gameOfDay["game"]["milestones"]["primaryText"]}
+                else {cellPrimary.style.backgroundColor = "#00004433"}
+
+                cellCommunity.innerHTML = gameOfDay["game"]["milestones"]["community"];
+                if(gameOfDay["game"]["milestones"]["community"] != 0) {cellCommunity.style.backgroundColor = "#9900FF44"}
+                if(gameOfDay["game"]["milestones"]["communityText"] != "") {cellCommunity.title = gameOfDay["game"]["milestones"]["communityText"]}
+                else {cellCommunity.style.backgroundColor = "#44004433"}
+
+                cellAchievements.innerHTML = gameOfDay["game"]["milestones"]["achievements"];
+                if(gameOfDay["game"]["milestones"]["achievements"] != 0) {cellAchievements.style.backgroundColor= "#FF00FF44";}
+                else {cellAchievements.style = "font-weight: bold; background-color: #66006644";}
+
+                
+                cellOwners.innerHTML = gameOfDay["game"]["playersTotal"];
+                cellFullCompletion.innerHTML = gameOfDay["game"]["playersCompleted"];
+                cellPartialCompletion.innerHTML = gameOfDay["game"]["playersStarted"];
+                
+                if(gameOfDay["game"]["playersTotal"] > 0)
+                {
+                    cellCompletionPercentage.innerHTML = toFixed(gameOfDay["game"]["playersCompleted"] / gameOfDay["game"]["playersTotal"] * 100, 1) + "%";
+                    cellPartialPercentage.innerHTML = toFixed(gameOfDay["game"]["playersStarted"] / gameOfDay["game"]["playersTotal"] * 100, 1) + "%";
+                }
+                else
+                {
+                    cellCompletionPercentage.innerHTML = "0%";
+                    cellPartialPercentage.innerHTML = "0%";
+                }
+
+                var steamDBIconString = '<svg fill="currentColor" height="10" icon-name="external-outline" viewBox="0 0 50.3 50.3" width="10" xmlns="http://www.w3.org/2000/svg"><path class="st0" d="M25.1,0C12,0,1.2,4.7,0,10.6l14,2.6c1.1-0.4,2.4-0.5,3.8-0.5l6.6-3.9c-0.1-1,0.5-2,1.8-2.8\nC28.1,4.8,31,4.1,34,4.1c2,0,4.1,0.3,5.9,0.9c4.4,1.5,5.4,4.4,2.2,6.4c-2,1.3-5.2,2-8.4,1.9l-8.6,3.1c-0.1,0.6-0.5,1.2-1.3,1.8\nc-2.3,1.5-6.8,1.8-10.1,0.7c-1.4-0.5-2.4-1.2-2.7-1.9L1,15.1c0.9,1.4,2.4,2.7,4.2,3.8C2,20.8,0,23.2,0,25.7c0,2.5,1.9,4.8,5.1,6.7\nC1.9,34.3,0,36.6,0,39.1c0,6.2,11.2,11.2,25.1,11.2c13.9,0,25.1-5,25.1-11.2c0-2.5-1.9-4.8-5.1-6.7c3.2-1.9,5.1-4.2,5.1-6.7\nc0-2.6-2-4.9-5.3-6.8c3.3-2,5.2-4.5,5.2-7.1C50.2,5.3,39,0,25.1,0z M34.1,5.6c-2,0-4,0.5-5.3,1.3c-2.2,1.4-1.5,3.3,1.5,4.4\ns7.1,0.7,9.3-0.7c2.2-1.4,1.5-3.3-1.5-4.3C36.8,5.8,35.4,5.6,34.1,5.6L34.1,5.6z M34.2,6.2c2.9,0,5.2,1.1,5.2,2.4s-2.3,2.4-5.2,2.4\nS29,10,29,8.7S31.3,6.2,34.2,6.2z M17.8,13.5c-0.6,0-1.2,0.1-1.8,0.2l3.6,0.7c2.2,0.4,3.2,1.6,2.4,2.6c-0.9,1-3.4,1.5-5.5,1.1\nl-3.5-0.7c0.4,0.4,0.9,0.7,1.7,0.9c2.5,0.9,6,0.6,7.9-0.6c1.8-1.2,1.3-2.8-1.3-3.7C20.2,13.7,18.9,13.5,17.8,13.5z M42.8,20v3.7\nc0,4.3-7.9,7.8-17.7,7.8c-9.8,0-17.7-3.5-17.7-7.8v-3.6c4.5,2.1,10.8,3.4,17.6,3.4C32,23.5,38.3,22.2,42.8,20L42.8,20z M42.8,33.6\nv3.5c0,4.3-7.9,7.8-17.7,7.8c-9.8,0-17.7-3.5-17.7-7.8v-3.5c4.6,2,10.8,3.2,17.7,3.2S38.3,35.6,42.8,33.6z"></path></svg>' 
+                        
+                var a;
+
+                if(gameOfDay["game"]["gameType"] < 2)
+                {
+                    cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Steam ID: " + gameOfDay["game"]["platformId"] +
+                    "' target='_blank' href='https://store.steampowered.com/app/" + gameOfDay["game"]["platformId"] +
+                    "' onContextMenu='navigator.clipboard.writeText(\"" + gameOfDay["game"]["platformId"] +
+                    "\")' class='textCopyable' style='font-weight: bold; color:#1D88C7'>Steam</a>";
+
+                    cellLinkSteam.innerHTML += "<br><a id='tmpSDB' href='https://steamdb.info/app/" + gameOfDay["game"]["platformId"] + "' target='_blank' style='font-weight: 800; font-family: Inter; font-size: 11px; color:#033d85'>" + steamDBIconString + " SteamDB</a>";
+                }
+                else if(gameOfDay["game"]["gameType"] == 2)
+                {
+                    cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Steam ID: " + gameOfDay["game"]["platformId"] +
+                    "' target='_blank' href='https://store.steampowered.com/app/" + gameOfDay["game"]["platformId"] +
+                    "' onContextMenu='navigator.clipboard.writeText(\"" + gameOfDay["game"]["platformId"] +
+                    "\")' class='textCopyable' style='font-weight: bold; color:#A31BB3'>Steam (Unavailable?)</a>";
+
+                    cellLinkSteam.innerHTML += "<br><a id='tmpSDB' href='https://steamdb.info/app/" + gameOfDay["game"]["platformId"] + "' target='_blank' style='font-weight: 800; font-family: Inter; font-size: 11px; color:#5f0987'>" + steamDBIconString + " SteamDB</a>";
+                }
+                else if(gameOfDay["game"]["gameType"] == 3)
+                {
+                    cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Retro Achievements ID: " + gameOfDay["game"]["platformId"] +
+                    "' target='_blank' href='https://retroachievements.org/game/" + gameOfDay["game"]["platformId"] +
+                    "' onContextMenu='navigator.clipboard.writeText(\"" + gameOfDay["game"]["platformId"] +
+                    "\")' class='textCopyable' style='font-weight: bold;'><b style='color:#0F66DB'>Retro</b><b style='color:#eDB507'>Achievements</b></a>";
+                }
+                else if(gameOfDay["game"]["gameType"] == 4)
+                {
+                    cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Steam ID (Broken): " + gameOfDay["game"]["platformId"] +
+                    "' target='_blank' href='https://store.steampowered.com/app/" + gameOfDay["game"]["platformId"] +
+                    "' onContextMenu='navigator.clipboard.writeText(\"" + gameOfDay["game"]["platformId"] +
+                    "\")' class='textCopyable' style='font-weight: bold; color:#6B194D; text-decoration:line-through 1.5px;'>Steam (Broken)</a>";
+
+                    cellLinkSteam.innerHTML += "<br><a id='tmpSDB' href='https://steamdb.info/app/" + gameOfDay["game"]["platformId"] + "' target='_blank' style='font-weight: 800; font-family: Inter; font-size: 11px; color:#3c1440'>" + steamDBIconString + " SteamDB</a>";
+                }
+
+                a = document.getElementById("tmpSteam");
+                a.addEventListener("contextmenu", (e) => {e.preventDefault()});
+                a.removeAttribute("id");
+
+                cellLinkCE.innerHTML = "<a id='tmpCE' target='_blank' style='font-weight: bold; color:#000000'>Challenge Enthusiasts</a>";
+                var b = document.getElementById("tmpCE");
+                b.href = "https://cedb.me/game/" + gameOfDay["game"]["CEId"];
+                
+                b.setAttribute("onContextMenu", "navigator.clipboard.writeText('" + gameOfDay["game"]["CEId"] + "')");
+
+                b.addEventListener("contextmenu", (e) => {e.preventDefault()});
+                b.title = "Challenge Enthusiasts ID: " + gameOfDay["game"]["CEId"];
+                b.classList.add('textCopyable');
+                b.removeAttribute("id");
+
+            }
+
             function setCookie(cname, cvalue, exdays)
             {
                 const d = new Date();
@@ -480,6 +773,12 @@
                     }
                 }
                 return "";
+            }
+
+            //Function to truncate numbers
+            function toFixed(num, fixed) {
+                var re = new RegExp('^-?\\d+(?:\.\\d{0,' + (fixed || -1) + '})?');
+                return num.toString().match(re)[0];
             }
         </script>
     </body>
