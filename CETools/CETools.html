@@ -144,7 +144,7 @@
                 <tr>
                     <td colspan="6">
                         <p id="Title" style="margin: auto; padding: 10px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">Game of The Day!</p>
-                        <b id="todayDate">(dd-mm-yyyy)</b><br>
+                        <b id="todayDate">(yyyy-mm-dd)</b><br>
                         <sub>Shows a game that was uploaded to the CE Database today at least one year ago, or a random game!</sub>
                     </td>
                 </tr>
@@ -182,8 +182,7 @@
         <script>
             let exPlusList = ["992f86df-6327-47f7-ba0c-0212126c0aaf"];
 
-            var today = new Date()
-            document.getElementById("todayDate").innerHTML = "(" + today.getDate() + "-" + (today.getMonth()+1) + "-" + today.getFullYear() + ")";
+            document.getElementById("todayDate").innerHTML = "(" + gameOfDayDate + ")";
             generateTable();
 
             if(getCookie("userId"))
@@ -588,7 +587,7 @@
                 cellLinkCE.colSpan = 3;
 
 
-                cellImage.innerHTML = "<img style='width:100%;' src='" + gameOfDay["game"]["header"] + "' />"; 
+                cellImage.innerHTML = "<img style='width:100%;' src='" + gameOfDay["game"]["header"] + "' onerror='this.remove()' />"; 
                 cellImage.style = "width:50%; padding: 0px;";
                 
                 cellName.innerHTML = "<b id='tmp'>" + gameOfDay["game"]["name"] + "</b>";
