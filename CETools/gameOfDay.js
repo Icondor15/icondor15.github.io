@@ -23,3 +23,4 @@ var gameOfDay =
         }
     }
 }
+var gameOfDayDate = 2025-06-08
