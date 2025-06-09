@@ -1,26 +1,66 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 3,
-        "platformId": 20510,
-        "CEId": "8d55aa59-6358-4aab-bf8e-cf3a21326581",
-        "name": "Taiko no Tatsujin: Waku Waku Anime Matsuri",
-        "header": "https://i.imgur.com/jMIqDWA.png",
-        "genre": "Arcade",
-        "tier": 1,
-        "points": 10,
-        "createdAt": "2024-06-08T19:53:54.000Z",
-        "updatedAt": "2025-05-24T21:45:49.000Z",
-        "playersCompleted": 1,
+        "gameType": 0,
+        "platformId": 1159450,
+        "CEId": "a2a176d3-40ae-412b-a690-faba912064d3",
+        "name": "Hayfever",
+        "header": "https://steamcdn-a.akamaihd.net/steam/apps/1159450/header.jpg?t=1583498702",
+        "genre": "Platformer",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2020-06-09T19:30:19.000Z",
+        "updatedAt": "2025-06-08T19:48:04.000Z",
+        "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 3,
+        "playersTotal": 56,
+        "priceData": {
+            "USD": {
+                "initial": 1499,
+                "final": 1499,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1249,
+                "final": 1249,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1139,
+                "final": 1139,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 148000,
+                "final": 148000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 2150,
+                "final": 2150,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1749,
+                "final": 1749,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
             "primary": 1,
-            "primaryText": "Oni Mastery [10\u2605]\nAchieve a full combo on every song on Oni difficulty.",
+            "primaryText": "Bless You [20\u2605]\nAchieve 100% in-game completion.",
             "community": 0,
             "communityText": "",
-            "achievements": 98
+            "achievements": 30
+        }
+    },
+    "extras": {
+        "reviews": {
+            "description": "Very Positive",
+            "total": 54,
+            "positive": 51,
+            "negative": 3
         }
     }
 }
-var gameOfDayDate = '2025-06-08'
+var gameOfDayDate = '2025-06-09'
