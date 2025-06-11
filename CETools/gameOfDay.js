@@ -2,65 +2,96 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 217270,
-        "CEId": "6f98bdad-bd2e-4861-9e3f-7d7d510cde3e",
-        "name": "Karateka",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/217270/header.jpg?t=1580746358",
-        "genre": "Action",
+        "platformId": 663130,
+        "CEId": "d852a7ba-a2e2-4efb-a748-3879708d43f2",
+        "name": "Game Tengoku CruisinMix Special",
+        "header": "https://steamcdn-a.akamaihd.net/steam/apps/663130/header.jpg?t=1697063945",
+        "genre": "Bullet Hell",
         "tier": 2,
         "points": 20,
-        "createdAt": "2023-06-10T19:38:19.000Z",
+        "createdAt": "2024-06-11T05:18:28.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 0,
-        "playersTotal": 49,
+        "playersCompleted": 1,
+        "playersStarted": 1,
+        "playersTotal": 20,
         "priceData": {
             "USD": {
-                "initial": 399,
-                "final": 399,
+                "initial": 2999,
+                "final": 2999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 399,
-                "final": 399,
+                "initial": 2899,
+                "final": 2899,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 289,
-                "final": 289,
+                "initial": 2499,
+                "final": 2499,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 41000,
-                "final": 41000,
+                "initial": 303500,
+                "final": 303500,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 595,
-                "final": 595,
+                "initial": 4395,
+                "final": 4395,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 465,
-                "final": 465,
+                "initial": 3899,
+                "final": 3899,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Path of the Martial Artist [20\u2605]\nReach the final boss without getting hit once. / Beat the final boss as the \"True Love\" character. ",
+            "primary": 2,
+            "primaryText": "Wreck-It Yui  [10\u2605]\nBeat both loops of Arcade mode without continuing on Normal or higher.\n\nCruisin Lore [10\u2605]\nClear the game in Arrange mode without continuing on Normal or higher.",
             "community": 0,
             "communityText": "",
-            "achievements": 12
-        }
+            "achievements": 17
+        },
+        "information": "Play on \"usertest\" branch to avoid freezes."
     },
     "extras": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 372,
-            "positive": 263,
-            "negative": 109
+            "total": 92,
+            "positive": 71,
+            "negative": 21
+        },
+        "dlc": {
+            "description": "Game Tengoku - Clarice\n\nGame Tengoku - Homura Banto\n\nGame Tengoku - Voice Mix\n\nGame Tengoku - TATSUJIN",
+            "count": 4,
+            "priceData": {
+                "USD": {
+                    "initial": 3996,
+                    "final": 3996
+                },
+                "EUR": {
+                    "initial": 3900,
+                    "final": 3900
+                },
+                "GBP": {
+                    "initial": 3400,
+                    "final": 3400
+                },
+                "JPY": {
+                    "initial": 440000,
+                    "final": 440000
+                },
+                "AUD": {
+                    "initial": 5800,
+                    "final": 5800
+                },
+                "CAD": {
+                    "initial": 5196,
+                    "final": 5196
+                }
+            }
         }
     }
 }
-var gameOfDayDate = '2025-06-10'
+var gameOfDayDate = '2025-06-11'
