@@ -142,6 +142,11 @@
                     <p id="CountPoints" style="margin: auto; padding: 0px 15px 15px; font-size: 22px; font-weight: bold; text-align: center;">Points of Filtered: Loading...</p>
                     <p id="loadingText" style="margin: -10px auto auto; font-size: 16px; font-weight: bold; text-align: center;">Loading Table...</p>
                     <div style="margin: 10px auto 3px;">
+                        <p style="margin: -3px auto 2px; padding: 2px;"><sub>Random Game Button</sub></p>
+                        <span class="button" id="randomGameButton" style="width:125px; padding: 0px 10px; border:2px solid black;" onclick="randomGame()" >Gimmie a random game!</span><br>
+                    </div>
+                    <sub class="subtitle">(Opens the CE page of a random game from the current filtered ones.)</sub>
+                    <div style="margin: 10px auto 3px;">
                         <span class="button" style="width:125px; padding: 0px 10px; border:2px solid black;" onclick="window.location.href = 'filtercegames.html';" >Reset</span><br>
                     </div>
                     <sub class="subtitle">(Necessary to remove any User or Wishlist Filter from the User List, or List from a link!)</sub>
@@ -1205,7 +1210,69 @@
                 order(lastOrder);
             }
 
+            randomText();
 
+            function randomText()
+            {
+                var rngButton = document.getElementById("randomGameButton");
+                var rngText = ["Gimmie a random game!", "RNG me", "I'm feelin' Lucky!", "PLEASE SOMETHING GOOD", "Surely this will end well...", "Wait this isn't the #casino roll", "Less interesting than a spinning wheel ngl", "You'll get the right DD this time", "I'm not addicted I swear!", "Special 1", "Special 2", "Special 3", "<b>BOLD RNG</b>", "Pick a game, any game!", "I had fun writing these randomized button messages hehe...", "The code that randomizes this text is longer than the code that actually chooses a game btw."]
+                var chosenValue = Math.floor(Math.random() * rngText.length)
+                switch(chosenValue)
+                {
+                    case 9:
+                        chosenValue = "[1 in " + filteredData.length + "] chance to get the game you want!"; 
+                        break;
+                    case 10:
+                        var game = filteredData[Math.floor(Math.random() * filteredData.length)];
+                        chosenValue = "Maybe you'll get [" + game["name"] + "]... Who knows!";
+                        break;
+                    case 11:
+                        var paidGames = filteredData.filter(obj => {return obj.gameType == 0})
+                        if(paidGames.length == 0) {chosenValue = "Hey, these games don't got a price!";}
+                        else
+                        {
+                            var game = paidGames[Math.floor(Math.random() * paidGames.length)];
+                            switch(activeCurrency)
+                            {
+                                case "USD":
+                                    chosenValue = "Comes at the cost of [$" + game["priceData"][activeCurrency]["final"]/100 + "]... or maybe it doesn't!";
+                                    break;
+                                case "EUR":
+                                    chosenValue = "Comes at the cost of [" + game["priceData"][activeCurrency]["final"]/100 + "€]... or maybe it doesn't!";
+                                    break;
+                                case "GBP":
+                                    chosenValue = "Comes at the cost of [£" + game["priceData"][activeCurrency]["final"]/100 + "]... or maybe it doesn't!";
+                                    break;
+                                case "AUD":
+                                    chosenValue = "Comes at the cost of [A$" + game["priceData"][activeCurrency]["final"]/100 + "]... or maybe it doesn't!";
+                                    break;
+                                case "CAD":
+                                    chosenValue = "Comes at the cost of [C$" + game["priceData"][activeCurrency]["final"]/100 + "]... or maybe it doesn't!";
+                                    break;
+                                case "JPY":
+                                    chosenValue = "Comes at the cost of [¥" + game["priceData"][activeCurrency]["final"]/100 + "]... or maybe it doesn't!";
+                                    break;
+                            }
+                        }
+                        break;
+                    default:
+                        chosenValue = rngText[chosenValue];
+                        break;
+                }
+                var rngTextNone = ["Nothing to roll!", "Where's all the games?", "Hey what gives? I got nothing!", "Unlimited Bacon..?", "Where's Soundodger 2?!", "IS ANYONE THERE??", "Guess you have to play outside :v", "<b style='font-size: 10px'>¯\\_(ツ)_/¯</b>", "M-Maybe change filters..?", "Condor was here... But the games? They were not.", "Have you checked under the couch?", "Where is everyone? :C"]
+                if(filteredData.length <= 0) {chosenValue = rngTextNone[Math.floor(Math.random() * rngTextNone.length)];}
+                rngButton.innerHTML = chosenValue;
+            }
+
+            function randomGame()
+            {
+                if(filteredData.length > 0)
+                {
+                    var game = filteredData[Math.floor(Math.random() * filteredData.length)];
+                    window.open("https://cedb.me/game/" + game["CEId"]);
+                }
+                randomText();
+            }
 
 
             function filterData()
@@ -1601,7 +1668,7 @@
                 }
                 }
                 else {document.getElementById("unfinishedHigher").style.textDecoration = "line-through";}
-                
+
                 
                 if(activePlatform != 2)
                 {
@@ -1924,6 +1991,8 @@
 
                 if(filteredData.length != data.length || (activeCurrency == "AUD" || activeCurrency == "JPY")) {document.getElementById("filterActivity").innerHTML = "Filters (Active!)"}
                 else {document.getElementById("filterActivity").innerHTML = "Filters"}
+                
+                randomText();
             }
 
             function order(type)
@@ -2392,7 +2461,7 @@
                         }
                     }
 
-                        cellPartialCompletion.style.backgroundColor = "#FFCC0055";
+                    cellPartialCompletion.style.backgroundColor = "#FFCC0055";
                     cellPartialPercentage.style.backgroundColor = "#FFCC0055";
 
                     if(filteredData[i]["gameType"] != 3)
@@ -2608,6 +2677,8 @@
                         cellCompletionPercentage.innerHTML = "0%";
                         cellPartialPercentage.innerHTML = "0%";
                     }
+
+
                     if(filteredData[i]["gameType"] == 0)
                     {
                         try{
@@ -2912,9 +2983,6 @@
                     }
                     else if(filteredData[i]["gameType"] == 3)
                     {
-                        cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Retro Achievements ID: " + filteredData[i]["platformId"] + "' target='_blank' href='https://retroachievements.org/game/" + filteredData[i]["platformId"] + "' target='_blank'><b style='color:#0F66DB'>Retro</b><b style='color:#eDB507'>Achievements</b></a>";
-                        a = document.getElementById("tmpSteam");
-
                         if(!linkReplaceId)
                         {
                             cellLinkSteam.innerHTML = "<a id='tmpSteam' title='Retro Achievements ID: " + filteredData[i]["platformId"] +
