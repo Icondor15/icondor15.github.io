@@ -2361,7 +2361,7 @@
                         cellDiscountPercentage.style.color = "#014A14";
                         var cellDlcCount = row1.insertCell(12);
                         cellDlcCount.rowSpan = 2;
-                        if("dlc" in extrasData[filteredData[i]["CEId"]])
+                        if(filteredData[i]["CEId"] in extrasData && "dlc" in extrasData[filteredData[i]["CEId"]])
                         {
                             var cellDlcPrice = row1.insertCell(13);
                             cellDlcPrice.rowSpan = 2;
