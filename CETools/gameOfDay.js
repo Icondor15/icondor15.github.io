@@ -1,26 +1,66 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 3,
-        "platformId": 11320,
-        "CEId": "09846c29-9d16-44ac-aa4b-b7cba5656b9f",
-        "name": "Gran Turismo",
-        "header": "https://i.imgur.com/oALEFek.png",
-        "genre": "Arcade",
-        "tier": 1,
-        "points": 15,
-        "createdAt": "2024-06-14T19:14:19.000Z",
+        "gameType": 0,
+        "platformId": 963450,
+        "CEId": "8b9fcbe3-b305-4eb4-a9e4-868c8b2f0d48",
+        "name": "The Eternal Castle [REMASTERED]",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/963450/header.jpg?t=1587515231",
+        "genre": "Action",
+        "tier": 2,
+        "points": 26,
+        "createdAt": "2024-06-15T00:19:51.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 4,
-        "playersStarted": 0,
-        "playersTotal": 10,
+        "playersCompleted": 0,
+        "playersStarted": 2,
+        "playersTotal": 26,
+        "priceData": {
+            "USD": {
+                "initial": 999,
+                "final": 999,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 599,
+                "final": 599,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 599,
+                "final": 599,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 98700,
+                "final": 98700,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1450,
+                "final": 1450,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1149,
+                "final": 1149,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Certified 90's Driver [15\u2605]\nObtain every gold medal in all license tests.",
-            "community": 1,
-            "communityText": "Licensed to Refill\nComplete all primary objectives from all site-listed games in the Gran Turismo franchise. See verification requirements for complete list.",
-            "achievements": 68
+            "primary": 2,
+            "primaryText": "2-Bit Tyrant [20\u2605]\nProve yourself.\n\nThe Eternal Gamer (PARTIALLY UNCLEARED)[6\u2605 (Partial: 5\u2605)]\nFinish the third run.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 35
+        }
+    },
+    "extras": {
+        "reviews": {
+            "description": "Very Positive",
+            "total": 743,
+            "positive": 645,
+            "negative": 98
         }
     }
 }
-var gameOfDayDate = '2025-06-14'
+var gameOfDayDate = '2025-06-15'
