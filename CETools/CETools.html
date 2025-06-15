@@ -660,6 +660,24 @@
                 cellPoints.innerHTML = gameOfDay["game"]["points"] + "★";
 
                 
+                if(gameOfDay["game"]["points"] > 0)
+                {
+                    if(gameOfDay["game"]["points"] % 5 > 0 || gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("UNVALUED") || gameOfDay["game"]["milestones"]["communityText"].toUpperCase().includes("UNCLEARED"))
+                    {
+                        cellPoints.innerHTML += "&hairsp;&hairsp;";
+                    }
+                    if(gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || gameOfDay["game"]["milestones"]["communityText"].toUpperCase().includes("UNCLEARED")) {cellPoints.innerHTML += "<b style='color:#cf1150' title='This game has UNCLEARED objectives.'>Ȼ</b>"}
+                    if(gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("UNVALUED")) {cellPoints.innerHTML += "<b style='color:#1179cf' title='This game has UNVALUED objectives.'>Ꝟ</b>"}
+
+                    if(
+                        !(gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || gameOfDay["game"]["milestones"]["communityText"].toUpperCase().includes("UNCLEARED"))
+                        && !gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("UNVALUED")
+                        && gameOfDay["game"]["points"] % 5 > 0
+                    ) 
+                    {cellPoints.innerHTML += "<b style='color:#cf1150' title='This game could have Potentially UNCLEARED objectives.\n(The Point value is a non-multiple of 5 but no Objective has \"UNCLEARED\" or \"UNVALUED\" on it.)'>Ȼ?</b>"}
+                }
+
+                
                 cellPrimary.innerHTML = gameOfDay["game"]["milestones"]["primary"];
                 if(gameOfDay["game"]["milestones"]["primary"] != 0) {cellPrimary.style.backgroundColor = "#0000FF44"}
                 if(gameOfDay["game"]["milestones"]["primaryText"] != "") {cellPrimary.title = gameOfDay["game"]["milestones"]["primaryText"]}
