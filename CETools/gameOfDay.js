@@ -2,18 +2,18 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 907670,
-        "CEId": "ce890e5f-851c-438d-863f-a0cabe4b19ad",
-        "name": "Super Crush KO",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/907670/header.jpg?t=1619758080",
+        "platformId": 1296360,
+        "CEId": "7c803d43-96f8-40db-b841-c1f25e101020",
+        "name": "Archvale",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1296360/header.jpg?t=1638464703",
         "genre": "Action",
-        "tier": 2,
-        "points": 20,
-        "createdAt": "2023-06-16T06:34:28.000Z",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2024-06-10T09:16:28.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
         "playersCompleted": 1,
-        "playersStarted": 3,
-        "playersTotal": 18,
+        "playersStarted": 0,
+        "playersTotal": 30,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -21,76 +21,46 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1479,
-                "final": 1479,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1279,
-                "final": 1279,
+                "initial": 1199,
+                "final": 1199,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 170000,
-                "final": 170000,
+                "initial": 152000,
+                "final": 152000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2195,
-                "final": 2195,
+                "initial": 2150,
+                "final": 2150,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1949,
-                "final": 1949,
+                "initial": 1749,
+                "final": 1749,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Spectacular+ [15\u2605]\nAchieve S+ rank on all levels.\n\nRobot Crusher [5\u2605]\nProve yourself.",
+            "primary": 1,
+            "primaryText": "Arch of Valor [5\u2605]\nSeparately, complete every trial and beat the game on Hard.",
             "community": 0,
             "communityText": "",
-            "achievements": 20
+            "achievements": 40
         }
     },
     "extras": {
         "reviews": {
             "description": "Very Positive",
-            "total": 210,
-            "positive": 203,
-            "negative": 7
-        },
-        "dlc": {
-            "description": "Super Crush KO Original Soundtrack",
-            "count": 1,
-            "priceData": {
-                "USD": {
-                    "initial": 699,
-                    "final": 699
-                },
-                "EUR": {
-                    "initial": 569,
-                    "final": 569
-                },
-                "GBP": {
-                    "initial": 519,
-                    "final": 519
-                },
-                "JPY": {
-                    "initial": 72000,
-                    "final": 72000
-                },
-                "AUD": {
-                    "initial": 995,
-                    "final": 995
-                },
-                "CAD": {
-                    "initial": 799,
-                    "final": 799
-                }
-            }
+            "total": 2242,
+            "positive": 1992,
+            "negative": 250
         }
     }
 }
-var gameOfDayDate = '2025-06-16'
+var gameOfDayDate = '2025-06-17'
