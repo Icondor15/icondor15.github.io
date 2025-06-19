@@ -1,34 +1,96 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 1625450,
-        "CEId": "374d4bf9-c2f8-4032-aa54-5c11194287ab",
-        "name": "Muck",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1625450/header.jpg?t=1625163481",
-        "genre": "First-Person",
-        "tier": 1,
-        "points": 15,
-        "createdAt": "2023-06-18T17:22:03.000Z",
+        "gameType": 0,
+        "platformId": 434660,
+        "CEId": "4d09b04c-33f5-4c96-8a5d-a7789af95758",
+        "name": "Octahedron: Transfixed Edition",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/434660/header.jpg?t=1611252086",
+        "genre": "Platformer",
+        "tier": 5,
+        "points": 220,
+        "createdAt": "2022-06-19T07:16:16.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 4,
-        "playersStarted": 16,
-        "playersTotal": 613,
+        "playersCompleted": 2,
+        "playersStarted": 3,
+        "playersTotal": 106,
+        "priceData": {
+            "USD": {
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 999,
+                "final": 999,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 143000,
+                "final": 143000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1550,
+                "final": 1550,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1449,
+                "final": 1449,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
-            "primary": 2,
-            "primaryText": "What the Actual Muck? [10\u2605]\nSeparately, beat the game with all players using only a rock as their weapon and tool, and without picking up any power-ups (any difficulty). / Beat the game alone without taking damage on at least \u201cNormal\u201d difficulty. \n\nSwift Escape [5\u2605]\nBeat the game in less than 10 days on \"Gamer\" difficulty. / Beat the game in less than 8 days (any difficulty). ",
-            "community": 2,
-            "communityText": "Collective Endeavor\nBeat a run with 8 players in which none of them takes any damage. \n\nKing of Muck\nIn a single run and on at least \u201cNormal\u201d difficulty, beat the game using only a rock as your tool and weapon, without picking up any power-ups and without taking damage.",
-            "achievements": 49
+            "primary": 3,
+            "primaryText": "Carpe D8 [200\u2605]\nComplete the game on Rogue Extra difficulty.\n\nGeometric Wizard [10\u2605]\nObtain the Deus Hitless and Time+ medals on every level.\n\nSeizure Warning [10\u2605]\nProve yourself.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 35
         }
     },
     "extras": {
         "reviews": {
             "description": "Very Positive",
-            "total": 175916,
-            "positive": 164646,
-            "negative": 11270
+            "total": 188,
+            "positive": 170,
+            "negative": 18
+        },
+        "dlc": {
+            "description": "OCTAHEDRON: Collector's Upgrade",
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "EUR": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "GBP": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "JPY": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "AUD": {
+                    "initial": 0,
+                    "final": 0
+                },
+                "CAD": {
+                    "initial": 0,
+                    "final": 0
+                }
+            }
         }
     }
 }
-var gameOfDayDate = '2025-06-18'
+var gameOfDayDate = '2025-06-19'
