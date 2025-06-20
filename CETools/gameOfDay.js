@@ -2,95 +2,95 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 434660,
-        "CEId": "4d09b04c-33f5-4c96-8a5d-a7789af95758",
-        "name": "Octahedron: Transfixed Edition",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/434660/header.jpg?t=1611252086",
-        "genre": "Platformer",
-        "tier": 5,
-        "points": 220,
-        "createdAt": "2022-06-19T07:16:16.000Z",
+        "platformId": 200010,
+        "CEId": "c3affeb9-1707-4ac8-bcd8-4102e251a31b",
+        "name": "Quantum Conundrum",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/200010/header.jpg?t=1576110892",
+        "genre": "First-Person",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2022-09-26T07:41:50.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 3,
-        "playersTotal": 106,
+        "playersCompleted": 12,
+        "playersStarted": 1,
+        "playersTotal": 150,
         "priceData": {
             "USD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 899,
+                "final": 899,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 899,
+                "final": 899,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 999,
-                "final": 999,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 143000,
-                "final": 143000,
+                "initial": 91400,
+                "final": 91400,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1550,
-                "final": 1550,
+                "initial": 1295,
+                "final": 1295,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1449,
-                "final": 1449,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Carpe D8 [200\u2605]\nComplete the game on Rogue Extra difficulty.\n\nGeometric Wizard [10\u2605]\nObtain the Deus Hitless and Time+ medals on every level.\n\nSeizure Warning [10\u2605]\nProve yourself.",
+            "primary": 2,
+            "primaryText": "Phase Two [10\u2605]\nSeparately, complete all levels in the DLC campaign with the shifts goal, within the goal time, and without dying.\n\nWelcome To My Manor, Manor [10\u2605]\nSeparately, complete all levels in the main game with the shifts goal, within the goal time, and without dying.",
             "community": 0,
             "communityText": "",
-            "achievements": 35
+            "achievements": 25
         }
     },
     "extras": {
         "reviews": {
             "description": "Very Positive",
-            "total": 188,
-            "positive": 170,
-            "negative": 18
+            "total": 2071,
+            "positive": 1748,
+            "negative": 323
         },
         "dlc": {
-            "description": "OCTAHEDRON: Collector's Upgrade",
-            "count": 1,
+            "description": "Quantum Conundrum: IKE-aramba!\n\nQuantum Conundrum: The Desmond Debacle\n\nQuantum Conundrum Soundtrack",
+            "count": 3,
             "priceData": {
                 "USD": {
-                    "initial": 0,
-                    "final": 0
+                    "initial": 1097,
+                    "final": 1097
                 },
                 "EUR": {
-                    "initial": 0,
-                    "final": 0
+                    "initial": 1097,
+                    "final": 1097
                 },
                 "GBP": {
-                    "initial": 0,
-                    "final": 0
+                    "initial": 797,
+                    "final": 797
                 },
                 "JPY": {
-                    "initial": 0,
-                    "final": 0
+                    "initial": 111500,
+                    "final": 111500
                 },
                 "AUD": {
-                    "initial": 0,
-                    "final": 0
+                    "initial": 1595,
+                    "final": 1595
                 },
                 "CAD": {
-                    "initial": 0,
-                    "final": 0
+                    "initial": 1207,
+                    "final": 1207
                 }
             }
         }
     }
 }
-var gameOfDayDate = '2025-06-19'
+var gameOfDayDate = '2025-06-20'
