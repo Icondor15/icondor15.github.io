@@ -21353,6 +21353,60 @@ var data =
     },
     {
         "gameType": 0,
+        "platformId": 674520,
+        "CEId": "df0fe4d5-269b-4b85-a262-0135597d0a69",
+        "name": "Fight'N Rage",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674520/header.jpg?t=1676503282",
+        "genre": "Action",
+        "tier": 1,
+        "points": 11,
+        "createdAt": "2025-06-21T08:10:20.000Z",
+        "updatedAt": "2025-06-21T08:12:37.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 0,
+        "priceData": {
+            "USD": {
+                "initial": 1999,
+                "final": 1999,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1950,
+                "final": 1950,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1675,
+                "final": 1675,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 230000,
+                "final": 230000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 2950,
+                "final": 2950,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 2599,
+                "final": 2599,
+                "discountPercent": 0
+            }
+        },
+        "milestones": {
+            "primary": 2,
+            "primaryText": "More Than Fair [10\u2605]\nBeat Arcade Mode on Unfair.\n\nMutant Masher (UNCLEARED) [1\u2605]\nProve yourself.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 20
+        }
+    },
+    {
+        "gameType": 0,
         "platformId": 1265820,
         "CEId": "37770c9d-2600-44f9-aecf-436958019de8",
         "name": "Fights in Tight Spaces",
@@ -23611,6 +23665,60 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 46
+        }
+    },
+    {
+        "gameType": 0,
+        "platformId": 1323470,
+        "CEId": "7dc3eac9-9de0-458b-ba5e-96e7d6dabaf0",
+        "name": "GetsuFumaDen: Undying Moon",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1323470/header.jpg?t=1692175042",
+        "genre": "Action",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2025-06-21T08:17:50.000Z",
+        "updatedAt": "2025-06-21T08:18:26.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 0,
+        "priceData": {
+            "USD": {
+                "initial": 2499,
+                "final": 2499,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 2499,
+                "final": 2499,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1999,
+                "final": 1999,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 272800,
+                "final": 272800,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 3595,
+                "final": 3595,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 3299,
+                "final": 3299,
+                "discountPercent": 0
+            }
+        },
+        "milestones": {
+            "primary": 1,
+            "primaryText": "Getsu Clan's Sucessor [5\u2605]\nComplete the game on Devotee difficulty.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 55
         }
     },
     {
@@ -26600,8 +26708,8 @@ var data =
         "createdAt": "2025-06-17T07:06:52.000Z",
         "updatedAt": "2025-06-17T08:46:46.000Z",
         "playersCompleted": 0,
-        "playersStarted": 1,
-        "playersTotal": 3,
+        "playersStarted": 2,
+        "playersTotal": 4,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -35665,8 +35773,8 @@ var data =
         "points": 70,
         "createdAt": "2024-04-14T00:15:21.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 6,
-        "playersStarted": 9,
+        "playersCompleted": 7,
+        "playersStarted": 8,
         "playersTotal": 61,
         "priceData": {
             "USD": {
@@ -37065,7 +37173,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-24T00:25:06.000Z",
-        "updatedAt": "2025-06-08T19:48:04.000Z",
+        "updatedAt": "2025-06-21T09:05:30.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 74,
@@ -41527,6 +41635,61 @@ var data =
             "communityText": "",
             "achievements": 19
         }
+    },
+    {
+        "gameType": 0,
+        "platformId": 274270,
+        "CEId": "3f2b2f4f-e6a2-495b-8337-a73680c83e66",
+        "name": "NOT A HERO",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274270/header.jpg?t=1714393203",
+        "genre": "Action",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2025-06-21T08:29:56.000Z",
+        "updatedAt": "2025-06-21T09:09:25.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 0,
+        "priceData": {
+            "USD": {
+                "initial": 1999,
+                "final": 1999,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1950,
+                "final": 1950,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1675,
+                "final": 1675,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 230000,
+                "final": 230000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 2950,
+                "final": 2950,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 2599,
+                "final": 2599,
+                "discountPercent": 0
+            }
+        },
+        "milestones": {
+            "primary": 1,
+            "primaryText": "Gunpoint Politics [5\u2605]\nComplete all objectives in all levels, including both campaigns and the secret levels.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 17
+        },
+        "information": "Secret levels cannot be accessed directly through the main menu, but rather by their respective secret doors. \n\nThe required secret levels are:\n-Tall And Thin.\n-Yippie-Kai-Ay.\n-Henderson Apocalypse.\n-Dojo a Gogo."
     },
     {
         "gameType": 0,
@@ -64146,7 +64309,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-08-11T19:19:40.000Z",
-        "updatedAt": "2025-06-08T19:48:04.000Z",
+        "updatedAt": "2025-06-21T08:16:18.000Z",
         "playersCompleted": 15,
         "playersStarted": 7,
         "playersTotal": 60,
@@ -64184,7 +64347,7 @@ var data =
         },
         "milestones": {
             "primary": 3,
-            "primaryText": "Carambola King [25\u2605]\nComplete every level, collect all fruits and talk with every NPC in the entire game.\n\nSprint-tastic Kitty [10\u2605]\nBeat the game within 1 hour and 30 minutes.\n\nMischievous Egg Hunter [5\u2605]\nBeat the game. ",
+            "primaryText": "Carambola King [30\u2605]\nComplete every level, collect all fruits and talk with every NPC in the entire game.\n\nSprint-tastic Kitty [5\u2605]\nBeat the game within 1 hour and 30 minutes.\n\nMischievous Egg Hunter [5\u2605]\nBeat the game. ",
             "community": 0,
             "communityText": "",
             "achievements": 45
@@ -72243,7 +72406,7 @@ var data =
         "createdAt": "2022-10-05T00:26:03.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
         "playersCompleted": 5,
-        "playersStarted": 5,
+        "playersStarted": 6,
         "playersTotal": 75,
         "priceData": {
             "USD": {
@@ -79322,7 +79485,7 @@ var data =
         "points": 80,
         "createdAt": "2020-01-28T09:33:15.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 42,
+        "playersCompleted": 43,
         "playersStarted": 7,
         "playersTotal": 345,
         "milestones": {
@@ -79436,7 +79599,7 @@ var data =
         "updatedAt": "2025-06-08T19:48:04.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 53,
+        "playersTotal": 54,
         "milestones": {
             "primary": 1,
             "primaryText": "Directionally Challenged [10\u2605]\nSeparately, complete all time trials and beat the game in under 1 hour.",
@@ -82759,8 +82922,8 @@ var date =
     "day": 21,
     "month": 6,
     "year": 2025,
-    "hour": 9,
-    "minute": 2,
-    "second": 33,
-    "searchTime": 616.5241568088531
+    "hour": 11,
+    "minute": 53,
+    "second": 30,
+    "searchTime": 783.3901360034943
 }
