@@ -2,22 +2,22 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 200010,
-        "CEId": "c3affeb9-1707-4ac8-bcd8-4102e251a31b",
-        "name": "Quantum Conundrum",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/200010/header.jpg?t=1576110892",
-        "genre": "First-Person",
-        "tier": 2,
-        "points": 20,
-        "createdAt": "2022-09-26T07:41:50.000Z",
+        "platformId": 253750,
+        "CEId": "3ad152d0-13e1-4e5c-b4b0-a59f3911a316",
+        "name": "Ikaruga",
+        "header": "https://steamcdn-a.akamaihd.net/steam/apps/253750/header.jpg?t=1447358720",
+        "genre": "Bullet Hell",
+        "tier": 4,
+        "points": 115,
+        "createdAt": "2020-06-21T09:13:08.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 12,
-        "playersStarted": 1,
-        "playersTotal": 150,
+        "playersCompleted": 11,
+        "playersStarted": 10,
+        "playersTotal": 279,
         "priceData": {
             "USD": {
-                "initial": 899,
-                "final": 899,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
@@ -31,66 +31,36 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 91400,
-                "final": 91400,
+                "initial": 98000,
+                "final": 98000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1295,
-                "final": 1295,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1099,
+                "final": 1099,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Phase Two [10\u2605]\nSeparately, complete all levels in the DLC campaign with the shifts goal, within the goal time, and without dying.\n\nWelcome To My Manor, Manor [10\u2605]\nSeparately, complete all levels in the main game with the shifts goal, within the goal time, and without dying.",
-            "community": 0,
-            "communityText": "",
+            "primaryText": "Kuro to Shiro [100\u2605]\nComplete all chapters in any mode with a grade of S++.\n\nButsutekkai [15\u2605]\nClear the game in any mode without using Continue.",
+            "community": 2,
+            "communityText": "Color Eater\nClear the game in any mode without continues and without shooting at all.\n\nMetempsychosis\nBeat the game in double play without using continues. (Any difficulty)",
             "achievements": 25
         }
     },
     "extras": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2071,
-            "positive": 1748,
-            "negative": 323
-        },
-        "dlc": {
-            "description": "Quantum Conundrum: IKE-aramba!\n\nQuantum Conundrum: The Desmond Debacle\n\nQuantum Conundrum Soundtrack",
-            "count": 3,
-            "priceData": {
-                "USD": {
-                    "initial": 1097,
-                    "final": 1097
-                },
-                "EUR": {
-                    "initial": 1097,
-                    "final": 1097
-                },
-                "GBP": {
-                    "initial": 797,
-                    "final": 797
-                },
-                "JPY": {
-                    "initial": 111500,
-                    "final": 111500
-                },
-                "AUD": {
-                    "initial": 1595,
-                    "final": 1595
-                },
-                "CAD": {
-                    "initial": 1207,
-                    "final": 1207
-                }
-            }
+            "total": 2225,
+            "positive": 2106,
+            "negative": 119
         }
     }
 }
-var gameOfDayDate = '2025-06-20'
+var gameOfDayDate = '2025-06-21'
