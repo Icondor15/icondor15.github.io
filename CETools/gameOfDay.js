@@ -2,65 +2,65 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 223810,
-        "CEId": "e77c672e-3f9a-4509-9e73-2bd09d93348c",
-        "name": "Ys I",
-        "header": "https://steamcdn-a.akamaihd.net/steam/apps/223810/header.jpg?t=1589525326",
-        "genre": "Action",
+        "platformId": 1876560,
+        "CEId": "5dc49366-4bc0-45ea-886a-76bb50e64fae",
+        "name": "Save the Reactor",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1876560/header.jpg?t=1656496630",
+        "genre": "Arcade",
         "tier": 1,
         "points": 15,
-        "createdAt": "2020-06-25T19:48:15.000Z",
+        "createdAt": "2022-06-26T10:32:40.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 46,
-        "playersStarted": 0,
-        "playersTotal": 149,
+        "playersCompleted": 15,
+        "playersStarted": 9,
+        "playersTotal": 51,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 1499,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1199,
-                "final": 1199,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 999,
-                "final": 999,
+                "initial": 429,
+                "final": 429,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 148000,
-                "final": 148000,
+                "initial": 58000,
+                "final": 58000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 750,
+                "final": 750,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1699,
-                "final": 1699,
+                "initial": 649,
+                "final": 649,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Adol Begins [15\u2605]\nComplete Ys I on Nightmare difficulty. / Complete Ys I Time Attack.",
-            "community": 1,
-            "communityText": "Adol the Red\nComplete all primary objectives from all site-listed games in the Ys franchise. See verification requirements for complete list.",
-            "achievements": 17
+            "primary": 2,
+            "primaryText": "Did It All For The Cookie [10\u2605]\nGet the gold medal in Endless Mode by scoring 3300 points or more.\n\nOrdinary Janitor [5\u2605]\nGet the bronze medal in Endless Mode by scoring 2500 points or more. / Produce 4500 energy on Day 10.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 21
         }
     },
     "extras": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2748,
-            "positive": 2446,
-            "negative": 302
+            "total": 118,
+            "positive": 112,
+            "negative": 6
         }
     }
 }
-var gameOfDayDate = '2025-06-25'
+var gameOfDayDate = '2025-06-26'
