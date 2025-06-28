@@ -2,65 +2,66 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1566410,
-        "CEId": "7d0aae8e-6d89-490d-9ef4-ae9ad428cc4a",
-        "name": "Touhou Kouryudou ~ Unconnected Marketeers.",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1566410/header.jpg?t=1621839528",
-        "genre": "Bullet Hell",
-        "tier": 3,
-        "points": 65,
-        "createdAt": "2023-06-27T00:26:39.000Z",
+        "platformId": 1358090,
+        "CEId": "a59989ce-0420-46f9-8546-aad3750f34b7",
+        "name": "Open Hexagon",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1358090/header.jpg?t=1635861372",
+        "genre": "Arcade",
+        "tier": 5,
+        "points": 220,
+        "createdAt": "2021-06-28T08:58:16.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 5,
-        "playersStarted": 12,
-        "playersTotal": 75,
+        "playersCompleted": 39,
+        "playersStarted": 18,
+        "playersTotal": 300,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "initial": 499,
+                "final": 324,
+                "discountPercent": 35
             },
             "EUR": {
-                "initial": 1249,
-                "final": 1249,
-                "discountPercent": 0
+                "initial": 399,
+                "final": 259,
+                "discountPercent": 35
             },
             "GBP": {
-                "initial": 1139,
-                "final": 1139,
-                "discountPercent": 0
+                "initial": 399,
+                "final": 259,
+                "discountPercent": 35
             },
             "JPY": {
-                "initial": 154000,
-                "final": 154000,
-                "discountPercent": 0
+                "initial": 52000,
+                "final": 33800,
+                "discountPercent": 35
             },
             "AUD": {
-                "initial": 2150,
-                "final": 2150,
-                "discountPercent": 0
+                "initial": 750,
+                "final": 487,
+                "discountPercent": 35
             },
             "CAD": {
-                "initial": 1749,
-                "final": 1749,
-                "discountPercent": 0
+                "initial": 569,
+                "final": 369,
+                "discountPercent": 35
             }
         },
         "milestones": {
-            "primary": 4,
-            "primaryText": "Black Monday [40\u2605]\nBeat the game on Lunatic without deaths.\n\nMarket Crash [15\u2605]\nBeat the game on Lunatic without continues.\n\nCentipede Slayer [5\u2605]\nBeat the Extra mode.\n\nShopping Spree [5\u2605]\nBeat the game on Normal or higher without continues.",
-            "community": 2,
-            "communityText": "Golden Centipede\nBeat the Extra mode without dying, bombing and equipping cards.\n\nOut of Stock\nBeat the game on Lunatic without dying, bombing and equipping cards.",
-            "achievements": 0
-        }
+            "primary": 2,
+            "primaryText": "Shapeshifter[170\u2605 (Partial: 50\u2605)]\nComplete all levels at the highest difficulty multiplier.\n\nMultidimensional [50\u2605]\nComplete all levels.",
+            "community": 4,
+            "communityText": "Murder God\nComplete \"Murder\" from the Garbage custom level pack at the highest difficulty multiplier.\n\nMurder Master\nComplete \"Murder\" from the Garbage custom level pack.\n\nVanity God\nComplete \"Dark Matter\", \"Bass Slut\", and \"Berserk\" from the Vanity custom level pack at the highest difficulty multiplier.\n\nVanity Master\nComplete \"Dark Matter\", \"Bass Slut\", and \"Berserk\" from the Vanity custom level pack.",
+            "achievements": 48
+        },
+        "information": "Replay files can be found through <Program Files (x86)\\Steam\\steamapps\\common\\Open Hexagon\\Replays>. Make sure to select the game executable as the default application for opening the replay files."
     },
     "extras": {
         "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 1776,
-            "positive": 1738,
-            "negative": 38
+            "description": "Very Positive",
+            "total": 447,
+            "positive": 433,
+            "negative": 14
         }
     }
 }
-var gameOfDayDate = '2025-06-27'
+var gameOfDayDate = '2025-06-28'
