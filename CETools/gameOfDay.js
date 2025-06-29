@@ -2,66 +2,65 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1358090,
-        "CEId": "a59989ce-0420-46f9-8546-aad3750f34b7",
-        "name": "Open Hexagon",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1358090/header.jpg?t=1635861372",
+        "platformId": 1606210,
+        "CEId": "15eafeba-cdd5-4b79-9caf-b3bf4b60ff63",
+        "name": "Heck Deck",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1606210/header.jpg?t=1641916235",
         "genre": "Arcade",
-        "tier": 5,
-        "points": 220,
-        "createdAt": "2021-06-28T08:58:16.000Z",
+        "tier": 1,
+        "points": 16,
+        "createdAt": "2022-06-29T01:36:21.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 39,
-        "playersStarted": 18,
-        "playersTotal": 300,
+        "playersCompleted": 0,
+        "playersStarted": 4,
+        "playersTotal": 37,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 324,
-                "discountPercent": 35
+                "initial": 399,
+                "final": 79,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 399,
-                "final": 259,
-                "discountPercent": 35
+                "final": 79,
+                "discountPercent": 80
             },
             "GBP": {
-                "initial": 399,
-                "final": 259,
-                "discountPercent": 35
+                "initial": 289,
+                "final": 57,
+                "discountPercent": 80
             },
             "JPY": {
-                "initial": 52000,
-                "final": 33800,
-                "discountPercent": 35
+                "initial": 41000,
+                "final": 8200,
+                "discountPercent": 80
             },
             "AUD": {
-                "initial": 750,
-                "final": 487,
-                "discountPercent": 35
+                "initial": 595,
+                "final": 119,
+                "discountPercent": 80
             },
             "CAD": {
-                "initial": 569,
-                "final": 369,
-                "discountPercent": 35
+                "initial": 465,
+                "final": 93,
+                "discountPercent": 80
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Shapeshifter[170\u2605 (Partial: 50\u2605)]\nComplete all levels at the highest difficulty multiplier.\n\nMultidimensional [50\u2605]\nComplete all levels.",
-            "community": 4,
-            "communityText": "Murder God\nComplete \"Murder\" from the Garbage custom level pack at the highest difficulty multiplier.\n\nMurder Master\nComplete \"Murder\" from the Garbage custom level pack.\n\nVanity God\nComplete \"Dark Matter\", \"Bass Slut\", and \"Berserk\" from the Vanity custom level pack at the highest difficulty multiplier.\n\nVanity Master\nComplete \"Dark Matter\", \"Bass Slut\", and \"Berserk\" from the Vanity custom level pack.",
-            "achievements": 48
-        },
-        "information": "Replay files can be found through <Program Files (x86)\\Steam\\steamapps\\common\\Open Hexagon\\Replays>. Make sure to select the game executable as the default application for opening the replay files."
+            "primary": 3,
+            "primaryText": "Bullet Heck (UNCLEARED) [1\u2605]\nBeat real time mode as all characters without deaths.\n\nYou Only Heck Once [10\u2605]\nBeat the game as all characters without dying. / Clear the real time mode without dying.\n\nSUPERHECK [5\u2605]\nBeat the game as all characters. / Clear the real time mode.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 19
+        }
     },
     "extras": {
         "reviews": {
             "description": "Very Positive",
-            "total": 447,
-            "positive": 433,
-            "negative": 14
+            "total": 62,
+            "positive": 57,
+            "negative": 5
         }
     }
 }
-var gameOfDayDate = '2025-06-28'
+var gameOfDayDate = '2025-06-29'
