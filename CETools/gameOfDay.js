@@ -2,65 +2,65 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2228030,
-        "CEId": "b84c079f-d721-4baa-8d51-07876c632131",
-        "name": "Dr. Fetus' Mean Meat Machine",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2228030/header.jpg?t=1687769270",
+        "platformId": 233150,
+        "CEId": "90954c44-0e5c-433e-876f-a06f609d2b17",
+        "name": "LUFTRAUSERS",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/233150/header.jpg?t=1615922153",
         "genre": "Arcade",
         "tier": 1,
         "points": 10,
-        "createdAt": "2023-06-30T02:17:38.000Z",
+        "createdAt": "2022-07-01T20:52:18.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 8,
+        "playersCompleted": 22,
         "playersStarted": 0,
-        "playersTotal": 55,
+        "playersTotal": 196,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 119,
-                "discountPercent": 88
+                "final": 199,
+                "discountPercent": 80
             },
             "EUR": {
-                "initial": 999,
-                "final": 119,
-                "discountPercent": 88
+                "initial": 975,
+                "final": 195,
+                "discountPercent": 80
             },
             "GBP": {
-                "initial": 799,
-                "final": 95,
-                "discountPercent": 88
+                "initial": 850,
+                "final": 170,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 120000,
-                "final": 14400,
-                "discountPercent": 88
+                "final": 24000,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 1450,
-                "final": 174,
-                "discountPercent": 88
+                "final": 290,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 1299,
-                "final": 155,
-                "discountPercent": 88
+                "final": 259,
+                "discountPercent": 80
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Meat Flipper [10\u2605]\nGet the A+ Rank on all Levels",
+            "primaryText": "Flying Ace [10\u2605]\nBeat all missions and launch the [CLASSIFIED].",
             "community": 0,
             "communityText": "",
-            "achievements": 30
+            "achievements": 12
         }
     },
     "extras": {
         "reviews": {
-            "description": "Mixed",
-            "total": 220,
-            "positive": 143,
-            "negative": 77
+            "description": "Very Positive",
+            "total": 4428,
+            "positive": 4022,
+            "negative": 406
         }
     }
 }
-var gameOfDayDate = '2025-06-30'
+var gameOfDayDate = '2025-07-01'
