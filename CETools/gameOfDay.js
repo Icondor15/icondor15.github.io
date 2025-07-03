@@ -2,65 +2,95 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 774181,
-        "CEId": "28977539-4671-4634-8683-b5a192bf0059",
-        "name": "Rhythm Doctor",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/774181/header.jpg?t=1656535686",
-        "genre": "Arcade",
+        "platformId": 1472540,
+        "CEId": "115d23f3-cc07-41d9-949b-26defdc5b6f0",
+        "name": "Save me Mr Tako: Definitive Edition",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1472540/header.jpg?t=1687264251",
+        "genre": "Platformer",
         "tier": 1,
         "points": 15,
-        "createdAt": "2022-07-02T21:17:05.000Z",
+        "createdAt": "2023-07-03T23:33:03.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 40,
+        "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 298,
+        "playersTotal": 14,
         "priceData": {
             "USD": {
-                "initial": 1599,
-                "final": 1439,
-                "discountPercent": 10
+                "initial": 1499,
+                "final": 749,
+                "discountPercent": 50
             },
             "EUR": {
-                "initial": 1579,
-                "final": 1421,
-                "discountPercent": 10
+                "initial": 1249,
+                "final": 624,
+                "discountPercent": 50
             },
             "GBP": {
-                "initial": 1349,
-                "final": 1214,
-                "discountPercent": 10
+                "initial": 1139,
+                "final": 569,
+                "discountPercent": 50
             },
             "JPY": {
-                "initial": 180000,
-                "final": 162000,
-                "discountPercent": 10
+                "initial": 152000,
+                "final": 76000,
+                "discountPercent": 50
             },
             "AUD": {
-                "initial": 2350,
-                "final": 2115,
-                "discountPercent": 10
+                "initial": 2150,
+                "final": 1075,
+                "discountPercent": 50
             },
             "CAD": {
-                "initial": 2079,
-                "final": 1871,
-                "discountPercent": 10
+                "initial": 1749,
+                "final": 874,
+                "discountPercent": 50
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Polyrhythmic Practitioner [15\u2605]\nGet an S+ rank on every song.",
+            "primaryText": "Hattako [15\u2605]\nBeat all the bosses consecutively in Boss Mode. / Beat the game without seeing the Game Over screen.",
             "community": 0,
             "communityText": "",
-            "achievements": 24
+            "achievements": 55
         }
     },
     "extras": {
         "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 21283,
-            "positive": 20951,
-            "negative": 332
+            "description": "Positive",
+            "total": 43,
+            "positive": 35,
+            "negative": 8
+        },
+        "dlc": {
+            "description": "Save me Mr Tako Original Soundtrack",
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 599,
+                    "final": 599
+                },
+                "EUR": {
+                    "initial": 499,
+                    "final": 499
+                },
+                "GBP": {
+                    "initial": 479,
+                    "final": 479
+                },
+                "JPY": {
+                    "initial": 62000,
+                    "final": 62000
+                },
+                "AUD": {
+                    "initial": 850,
+                    "final": 850
+                },
+                "CAD": {
+                    "initial": 669,
+                    "final": 669
+                }
+            }
         }
     }
 }
-var gameOfDayDate = '2025-07-02'
+var gameOfDayDate = '2025-07-03'
