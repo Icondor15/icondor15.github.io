@@ -1,26 +1,66 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 3,
-        "platformId": 17650,
-        "CEId": "f9773360-2f64-4cbb-9231-8631e936e42d",
-        "name": "Olympic Trials",
-        "header": "https://i.imgur.com/abJpmzj.png",
+        "gameType": 0,
+        "platformId": 597760,
+        "CEId": "aa8cdb6a-2bdd-4a49-b1eb-3ba80312666f",
+        "name": "Yuppie Psycho: Executive Edition",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/597760/header.jpg?t=1684727165",
         "genre": "Arcade",
         "tier": 1,
         "points": 5,
-        "createdAt": "2024-07-07T05:05:32.000Z",
+        "createdAt": "2023-07-08T22:22:25.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 4,
+        "playersTotal": 135,
+        "priceData": {
+            "USD": {
+                "initial": 1699,
+                "final": 679,
+                "discountPercent": 60
+            },
+            "EUR": {
+                "initial": 1699,
+                "final": 679,
+                "discountPercent": 60
+            },
+            "GBP": {
+                "initial": 1699,
+                "final": 679,
+                "discountPercent": 60
+            },
+            "JPY": {
+                "initial": 190000,
+                "final": 76000,
+                "discountPercent": 60
+            },
+            "AUD": {
+                "initial": 2495,
+                "final": 998,
+                "discountPercent": 60
+            },
+            "CAD": {
+                "initial": 2199,
+                "final": 879,
+                "discountPercent": 60
+            }
+        },
         "milestones": {
             "primary": 1,
-            "primaryText": "Olympic Visionary [5\u2605]\nBeat the world record in all 6 events and finish a full game loop.",
+            "primaryText": "They Keep Jamming Anyways [5\u2605]\nDon't use any photocopiers during the game.",
             "community": 0,
             "communityText": "",
-            "achievements": 9
+            "achievements": 48
+        }
+    },
+    "extras": {
+        "reviews": {
+            "description": "Very Positive",
+            "total": 8540,
+            "positive": 8110,
+            "negative": 430
         }
     }
 }
-var gameOfDayDate = '2025-07-07'
+var gameOfDayDate = '2025-07-08'
