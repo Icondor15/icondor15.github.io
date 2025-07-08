@@ -665,10 +665,11 @@
                 
                 if(gameOfDay["game"]["points"] > 0)
                 {
-                    if(gameOfDay["game"]["points"] % 5 > 0 || gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("UNVALUED") || gameOfDay["game"]["milestones"]["communityText"].toUpperCase().includes("UNCLEARED"))
+                    if(gameOfDay["game"]["points"] % 5 > 0 || gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("UNVALUED") || gameOfDay["game"]["milestones"]["communityText"].toUpperCase().includes("UNCLEARED") || gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("(S)") || gameOfDay["game"]["milestones"]["communityText"].toUpperCase().includes("(S)"))
                     {
                         cellPoints.innerHTML += "&hairsp;&hairsp;";
                     }
+                    if(gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("(S)") || gameOfDay["game"]["milestones"]["communityText"].toUpperCase().includes("(S)")) {cellPoints.innerHTML += "<b style='color:#15b02c' title='One or more objectives in this game will become a &apos;Secondary Objective&apos; upon their release!'>S</b>"}
                     if(gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || gameOfDay["game"]["milestones"]["communityText"].toUpperCase().includes("UNCLEARED")) {cellPoints.innerHTML += "<b style='color:#cf1150' title='This game has UNCLEARED objectives.'>Ȼ</b>"}
                     if(gameOfDay["game"]["milestones"]["primaryText"].toUpperCase().includes("UNVALUED")) {cellPoints.innerHTML += "<b style='color:#1179cf' title='This game has UNVALUED objectives.'>Ꝟ</b>"}
 
