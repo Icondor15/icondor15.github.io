@@ -2,65 +2,65 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 597760,
-        "CEId": "aa8cdb6a-2bdd-4a49-b1eb-3ba80312666f",
-        "name": "Yuppie Psycho: Executive Edition",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/597760/header.jpg?t=1684727165",
-        "genre": "Arcade",
-        "tier": 1,
-        "points": 5,
-        "createdAt": "2023-07-08T22:22:25.000Z",
+        "platformId": 349680,
+        "CEId": "c956a227-1f07-46f9-9127-7fe0d4d27537",
+        "name": "Supercharged Robot VULKAISER",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/349680/header.jpg?t=1598071324",
+        "genre": "Bullet Hell",
+        "tier": 2,
+        "points": 25,
+        "createdAt": "2022-07-09T11:13:26.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 7,
+        "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 135,
+        "playersTotal": 55,
         "priceData": {
             "USD": {
-                "initial": 1699,
-                "final": 679,
+                "initial": 499,
+                "final": 199,
                 "discountPercent": 60
             },
             "EUR": {
-                "initial": 1699,
-                "final": 679,
+                "initial": 499,
+                "final": 199,
                 "discountPercent": 60
             },
             "GBP": {
-                "initial": 1699,
-                "final": 679,
+                "initial": 429,
+                "final": 171,
                 "discountPercent": 60
             },
             "JPY": {
-                "initial": 190000,
-                "final": 76000,
+                "initial": 49800,
+                "final": 19900,
                 "discountPercent": 60
             },
             "AUD": {
-                "initial": 2495,
-                "final": 998,
+                "initial": 750,
+                "final": 300,
                 "discountPercent": 60
             },
             "CAD": {
-                "initial": 2199,
-                "final": 879,
+                "initial": 649,
+                "final": 259,
                 "discountPercent": 60
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "They Keep Jamming Anyways [5\u2605]\nDon't use any photocopiers during the game.",
+            "primaryText": "GO, GO, VULKAISER! [25\u2605]\nClear the game in Super-Hard Mode.",
             "community": 0,
             "communityText": "",
-            "achievements": 48
+            "achievements": 33
         }
     },
     "extras": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8540,
-            "positive": 8110,
-            "negative": 430
+            "total": 320,
+            "positive": 300,
+            "negative": 20
         }
     }
 }
-var gameOfDayDate = '2025-07-08'
+var gameOfDayDate = '2025-07-09'
