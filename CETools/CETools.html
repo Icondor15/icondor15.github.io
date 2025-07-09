@@ -147,6 +147,8 @@
                 <tr>
                     <td colspan="6">
                         <p id="Title" style="margin: auto; padding: 10px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">Game of The Day!</p>
+                        <input type="checkbox" id="bestGameCheckbox" onclick="setBestGame()">Best Game Only Mode</input><br>
+                        <sub class="subtitle">(Shows only the best game ever!)</sub><br>
                         <b id="todayDate">(yyyy-mm-dd)</b><br>
                         <sub>Shows a game that was uploaded to the CE Database today at least one year ago, or a random game!</sub>
                     </td>
@@ -180,13 +182,15 @@
 
         <script src="./formattedUserList.js"></script>
         <script src="./formattedWishlistList.js"></script>
+        <script src="./formattedList.js"></script>
         <script src="./gameOfDay.js"></script>
 
         <script>
             let exPlusList = ["992f86df-6327-47f7-ba0c-0212126c0aaf"];
 
+            let trueGameOfDay = gameOfDay["game"];
+
             document.getElementById("todayDate").innerHTML = "(" + gameOfDayDate + ")";
-            generateTable();
 
             if(getCookie("userId"))
             {
@@ -196,12 +200,37 @@
 
             if(getCookie("loadImages"))
             {
-                if(getCookie("loadImages") == "true") {document.getElementById("loadImagesCheckbox").checked = true;}
+                if(getCookie("loadImages") == "true") {document.getElementById("loadImagesCheckbox").setAttribute("checked", true);}
                 else {document.getElementById("loadImagesCheckbox").removeAttribute("checked");}
 
                 setCookie("loadImages", getCookie("loadImages"), 90);
             }
             else {setCookie("loadImages", "true", 90);}
+
+            if(getCookie("bestGameOnly"))
+            {
+                if(getCookie("bestGameOnly") == "true")
+                {
+                    document.getElementById("bestGameCheckbox").setAttribute("checked", true);
+
+                    for(let i = 0; i < data.length; i++)
+                    {
+                        gameOfDay["game"] = data[i];
+                        if(gameOfDay["game"]["name"] == "Hazelnut Hex") {break;}
+                        else {continue;}
+                    }
+                }
+                else
+                {
+                    document.getElementById("bestGameCheckbox").removeAttribute("checked");
+                    gameOfDay["game"] = trueGameOfDay;
+                    document.getElementById("todayDate").innerHTML = "(" + gameOfDayDate + ")";
+                }
+                setCookie("bestGameOnly", getCookie("bestGameOnly"), 90);
+            }
+            else {setCookie("bestGameOnly", "false", 90);}
+
+            generateTable();
 
             function setImages()
             {
@@ -216,6 +245,32 @@
                     document.getElementById("loadImagesCheckbox").setAttribute("checked", true);
                 }
                 
+            }
+
+            function setBestGame()
+            {
+                if(document.getElementById("bestGameCheckbox").hasAttribute("checked"))
+                {
+                    setCookie("bestGameOnly", "false", 90);
+                    document.getElementById("bestGameCheckbox").removeAttribute("checked");
+                    
+                    gameOfDay["game"] = trueGameOfDay;
+                    document.getElementById("todayDate").innerHTML = "(" + gameOfDayDate + ")";
+                }
+                else
+                {
+                    setCookie("bestGameOnly", "true", 90);
+                    document.getElementById("bestGameCheckbox").setAttribute("checked", true);
+                    
+                    for(let i = 0; i < data.length; i++)
+                    {
+                        gameOfDay["game"] = data[i];
+                        if(gameOfDay["game"]["name"] == "Hazelnut Hex") {break;}
+                        else {continue;}
+                    }
+                    document.getElementById("todayDate").innerHTML = "(2023-11-30)";
+                }
+                generateTable();
             }
 
             function setUser()
@@ -493,8 +548,12 @@
             
             function generateTable()
             {
-                if(document.getElementById("loading") != null) {document.getElementById("loading").remove()}
                 var table = document.getElementById("gameOfDayTable");
+                if(document.getElementById("loading") != null) {document.getElementById("loading").remove()}
+                else
+                {
+                    for(let i = 1; i < 9; i++) {table.deleteRow(1);}
+                }
                 
                 var row1 = table.insertRow(1);
                 row1.style.backgroundColor = "#e6e6e6";
