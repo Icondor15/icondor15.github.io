@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 250580,
-        "CEId": "057827ec-de03-4d6c-9791-509255e1970d",
-        "name": "Paranautical Activity: Deluxe Atonement Edition",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/250580/header.jpg?t=1593028220",
-        "genre": "First-Person",
-        "tier": 2,
-        "points": 25,
-        "createdAt": "2024-07-12T04:07:18.000Z",
+        "platformId": 2390650,
+        "CEId": "1fa27e34-8c82-4e71-aaf7-140d878e1f91",
+        "name": "Boomeraxe",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2390650/header.jpg?t=1708058799",
+        "genre": "Bullet Hell",
+        "tier": 1,
+        "points": 10,
+        "createdAt": "2024-07-13T06:37:34.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 0,
-        "playersTotal": 95,
+        "playersCompleted": 1,
+        "playersStarted": 2,
+        "playersTotal": 9,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 199,
+                "final": 199,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 699,
-                "final": 699,
+                "initial": 199,
+                "final": 199,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 699,
-                "final": 699,
+                "initial": 169,
+                "final": 169,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 98000,
-                "final": 98000,
+                "initial": 23500,
+                "final": 23500,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 295,
+                "final": 295,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1099,
-                "final": 1099,
+                "initial": 259,
+                "final": 259,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Picky Eater [15\u2605]\nBeat the game without taking any items.\n\nAtonement [10\u2605]\nProve yourself.",
+            "primaryText": "Return to Sender [5\u2605]\nWin a run without taking any powerups.\n\nIt Axes and Comes Backses [5\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
-            "achievements": 45
+            "achievements": 12
         }
     }
 }
-var gameOfDayDate = '2025-07-12'
+var gameOfDayDate = '2025-07-13'
