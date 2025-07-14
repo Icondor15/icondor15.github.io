@@ -1,0 +1,1588 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="icon" type="image/x-icon" href="./Favicon.ico">
+        <style>
+            :root {
+                color-scheme: light dark;
+            }
+
+            ::placeholder {
+                opacity: 0.66;
+            }
+
+            * {
+                scroll-behavior: smooth;
+                font-family: Helvetica, Arial, sans-serif;
+                user-select: none;
+                -webkit-user-select: none;
+            }
+
+            hr {
+                border-top: 1px solid #00000033;
+                min-width: 850px;
+                width: 80%;
+            }
+            hr.alt {
+                opacity: 0.5;
+                min-width: 600px;
+                width: 66%;
+            }
+            
+            body, input, button, textarea {
+                background-color: light-dark(#fffbed, #4f4d4d);
+            }
+
+            a {
+                color: light-dark(rgb(255, 96, 154), rgb(255, 226, 122));
+                text-decoration: none;
+            }
+            a:hover {
+                color: light-dark(rgb(216, 4, 43), rgb(255, 168, 86));
+                text-decoration: underline;
+            }
+            a:active {
+                color: light-dark(rgb(176, 0, 32), rgb(255, 122, 50));
+            }
+
+            table {
+                margin:auto;
+            }
+
+            input, button, textarea, .item {
+                border: 1px light-dark(black, white) solid;
+                border-radius: 2px;
+            }
+
+            button[disabled], input[disabled] {
+                filter:brightness(0.75);
+            }
+            input[list] {
+                background-image: url('data:image/svg+xml;utf8,<svg width="8" height="8" xmlns="http://www.w3.org/2000/svg"><polygon points="0 0 8 0 4 6 0 0" fill="black" /></svg>');
+                background-repeat: no-repeat;
+                background-position-x: calc(100% - 7.5px);
+                background-position-y: 66%;
+            }
+            button:hover:not([disabled]) {
+                cursor:pointer;
+                filter:brightness(0.80);
+            }
+            button:active:not([disabled]) {
+                filter:brightness(0.50);
+            }
+
+            select:hover:not([disabled]) {
+                cursor:pointer;
+            }
+
+            ul ul {
+                padding-left: 20px;
+            }
+
+            .copyableText {
+                font-size:12px;
+            }
+            .copyableText:hover {
+                text-decoration: underline;
+                cursor: pointer;
+            }
+
+            .hand:hover {
+                cursor:grab;
+            }
+
+            #resetButtonArea :hover {
+                border-color: red;
+                color: red;
+            }
+
+            #sidebar {
+                position:fixed; 
+                top:2vh; 
+                z-index: 20;
+                height:96%;
+                width:380px;
+                left: -350px;
+                transition: left 0.3s ease-in-out;
+
+                text-align: left;
+                background-color: light-dark(#fffbedaa, #4f4d4daa);
+                border: 2px solid;
+                border-left: 0px;
+                border-radius: 0px 10px 10px 0px;
+            }
+
+            #sidebar > * {
+                padding-left:30px;
+                background-color: #00000000;
+            }
+
+            #sidebar:hover, #sidebar:focus, #sidebar:active {
+                 left:0px;
+            }
+
+            #sidebar > #sideText {
+                padding-left: 0px;
+                opacity: 1;
+                 transition: opacity 0.1s ease-in-out;
+            }
+
+            #sidebar:hover > #sideText, #sidebar:focus > #sideText, #sidebar:active > #sideText {
+                opacity: 0;
+            }
+        </style>
+    </head>
+    <body style="text-align: center;">
+        <!--Reset Button-->
+        <div id="resetButtonArea">
+            <button style="position:absolute; right:10px; top: 10px;" onclick="resetSheet(0)">Reset Sheet</button>
+        </div>
+
+        <!--Sidebar-->
+        <div id="sidebar" ontouchstart="">
+            <span id="sideText" style="float:right; position: relative; top: 50%; right:-33px; transform:rotate(90deg);"><b>^ Jump to... ^ </b></span>
+            <h3>Jump to...<br><a href="#">^ Top ^</a></h3>
+            <ul>
+                <li><a href="#ClassLevelDomain">Class - Level - Domain</a></li>
+                <li><a href="#BaseCharacterInfo">Base Character Info</a></li>
+                <li><a href="#Traits">Traits</a></li>
+                <li><a href="#EvasionAndArmorScore">Evasion & Armor Score</a></li>
+                <li><a href="#DamageAndHealth">Damage & Health</a></li>
+                <ul>
+                    <li><a href="#DamageThresholds">Damage Thresholds</a></li>
+                    <li><a href="#HitPointsAndStress">Hit Points & Stress</a></li>
+                </ul>
+                <li><a href="#Hope">Hope</a></li>
+                <li><a href="#Experience">Experience</a></li>
+                <li><a href="#ClassFeature">Class Feature</a></li>
+                <li><a href="#ActiveWeapons">Active Weapons</a></li>
+                <ul>
+                    <li><a href="#Proficiency">Proficiency</a></li>
+                    <li><a href="#PrimaryWeapon">Primary Weapon</a></li>
+                    <li><a href="#SecondaryWeapon">Secondary Weapon</a></li>
+                </ul>
+                <li><a href="#ActiveArmor">Active Armor</a></li>
+                <li><a href="#Inventory">Inventory</a></li>
+                <ul>
+                    <li><a href="#InventoryWeapons">Inventory Weapons</a></li>
+                </ul>
+                <li><a href="#Gold">Gold</a></li>
+                <li><a href="#AdditionalNotes">Additional Notes</a></li>
+            </ul>
+        </div>
+
+        <!--Title-->
+        <h1 style="margin: 10px;"><img src="./Favicon.ico" style="height: 1.7em; position:relative; top:0.45em"> Daggerheart Digital Character Sheet!</h1>
+        <h3>A digital character sheet for storing all your character's info easily!</h3>
+        <span class="copyableText" style="opacity:0.5; margin:px;" onclick="navigator.clipboard.writeText('-').then().catch();">If you're using a mobile device, you might be unable to type in the minus sign (-) in number inputs!<br>Since I can't fix that, click here to copy a minus sign (-) to paste in number inputs!</span><br>
+        
+
+        <!--Class + Level + Domains-->
+        <a name="ClassLevelDomain" class="anchor"></a>
+        <h2>Class - Level - Domain</h2>
+        <label for="inputClass"><b>Class/Subclass:</b></label>
+        <input id="inputClass" name="class" list="classes" style="width:250px;">
+        <datalist id="classes">
+            <option value="Bard - Troubadour"></option>
+            <option value="Bard - Wordsmith"></option>
+            <option value="Druid - Warden of the Elements"></option>
+            <option value="Druid - Warden of Renewal"></option>
+            <option value="Guardian - Stalwart"></option>
+            <option value="Guardian - Vengeance"></option>
+            <option value="Ranger - Beasthound"></option>
+            <option value="Ranger - Wayfinder"></option>
+            <option value="Rogue - Nightwalker"></option>
+            <option value="Rogue - Syndicate"></option>
+            <option value="Seraph - Winged Sentinel"></option>
+            <option value="Seraph - Divine Wielder"></option>
+            <option value="Sorcerer - Elemental Origin"></option>
+            <option value="Sorcerer - Primal Origin"></option>
+            <option value="Warrior - Call of the Brave"></option>
+            <option value="Warrior - Call of the Slayer"></option>
+            <option value="Wizard - School of Knowledge"></option>
+            <option value="Wizard - School of War"></option>
+        </datalist>
+        <label for="inputLevel"><b>Level:</b></label>
+        <input id="inputLevel" name="level" type="number" style="width:40px; font-size: 20px;" value="1" min="1">
+        <br>
+        <span style="font-size: 12px; position: relative; top:3px; opacity: 0.5;">Setting a Class from the default ones provided will automatically change some starting stats!<br>This will apply only if they're empty!</span>
+
+        <p><label for="inputDomain1">Your Domains are:</label> <input id="inputDomain1" name="domain1" type="text" style="width:100px; font-weight: bold;" list="domains"> <label for="inputDomain2">&</label> <input id="inputDomain2" name="domain2" type="text" style="width:100px; font-weight: bold;" list="domains">.</p>
+
+        <datalist id="domains">
+            <option value="Arcana"></option>
+            <option value="Blade"></option>
+            <option value="Bone"></option>
+            <option value="Codex"></option>
+            <option value="Grace"></option>
+            <option value="Midnight"></option>
+            <option value="Sage"></option>
+            <option value="Splendor"></option>
+            <option value="Valor"></option>
+        </datalist>
+        
+        <hr>
+
+        <a name="BaseCharacterInfo" class="anchor"></a>
+        <h2>Base Character Info</h2>
+
+        <!--Name + Pronouns + Heritage-->
+        <table>
+            <tr>
+                <td><label for="inputName">Name</label></td>
+                <td> <label for="inputPronouns">Pronouns</label></td>
+            </tr>
+            <tr>
+                <td><input id="inputName" name="name" type="text"></td>
+                <td><input id="inputPronouns" name="pronouns" type="text"></td>
+            </tr>
+            <tr>
+                <td colspan="2"><b>vv Heritage vv</b></td>
+            </tr>
+            <tr>
+                <td><label for="inputCommunity">Community</label></td>
+                <td><label for="inputAncestry">Ancestry</label></td>
+            </tr>
+            <tr>
+                <td><input id="inputCommunity" name="community" type="text"></td>
+                <td><input id="inputAncestry" name="ancestry" type="text"></td>
+            </tr>
+        </table>
+
+        <hr>
+        
+        <a name="Traits" class="anchor"></a>
+        <h2>Traits</h2>
+        
+        <!--Trait Scores-->
+        <table style="width:850px;">
+            <tr style="text-align: center; font-weight: bold;">
+                <td colspan="3">
+                    Agility
+                    <input type="checkbox" id="inputTraitAgilityMark" name="traitAgilityMark" style="scale:1.25;">
+                </td>
+                <td colspan="3">
+                    Strength
+                    <input type="checkbox" id="inputTraitStrengthMark" name="traitStrengthMark" style="scale:1.25;">
+                </td>
+                <td colspan="3">
+                    Finesse
+                    <input type="checkbox" id="inputTraitFinesseMark" name="traitFinesseMark" style="scale:1.25;">
+                </td>
+                <td colspan="3">
+                    Instinct
+                    <input type="checkbox" id="inputTraitInstinctMark" name="traitInstinctMark" style="scale:1.25;">
+                </td>
+                <td colspan="3">
+                    Presence
+                    <input type="checkbox" id="inputTraitPresenceMark" name="traitPresenceMark" style="scale:1.25;">
+                </td>
+                <td colspan="3">
+                    Knowledge
+                    <input type="checkbox" id="inputTraitKnowledgeMark" name="traitKnowledgeMark" style="scale:1.25;">
+                </td>
+            </tr>
+            <tr style="text-align: center;">
+                <td><label for="inputTraitAgility">Base</label></td>
+                <td colspan="2"></td>
+                <td><label for="inputTraitStrength">Base</label></td>
+                <td colspan="2"></td>
+                <td><label for="inputTraitFinesse">Base</label></td>
+                <td colspan="2"></td>
+                <td><label for="inputTraitInstinct">Base</label></td>
+                <td colspan="2"></td>
+                <td><label for="inputTraitPresence">Base</label></td>
+                <td colspan="2"></td>
+                <td><label for="inputTraitKnowledge">Base</label></td>
+                <td colspan="2"></td>
+            </tr>
+            <tr style="text-align: center;">
+                <td><input id="inputTraitAgility" name="traitAgility" type="number" style="width:50px" value="0"></td>
+                <td rowspan="2" style="width:5px;"><b>=</b></td>
+                <td rowspan="2" style="font-size: 25px;"><b  id="finalTraitAgility">0</b></td>
+
+                <td><input id="inputTraitStrength" name="traitStrength" type="number" style="width:50px" value="0"></td>
+                <td rowspan="2" style="width:5px;"><b>=</b></td>
+                <td rowspan="2" style="font-size: 25px;"><b  id="finalTraitStrength">0</b></td>
+
+                <td><input id="inputTraitFinesse" name="traitFinesse" type="number" style="width:50px" value="0"></td>
+                <td rowspan="2" style="width:5px;"><b>=</b></td>
+                <td rowspan="2" style="font-size: 25px;"><b  id="finalTraitFinesse">0</b></td>
+
+                <td><input id="inputTraitInstinct" name="traitInstinct" type="number" style="width:50px" value="0"></td>
+                <td rowspan="2" style="width:5px;"><b>=</b></td>
+                <td rowspan="2" style="font-size: 25px;"><b  id="finalTraitInstinct">0</b></td>
+
+                <td><input id="inputTraitPresence" name="traitPresence" type="number" style="width:50px" value="0"></td>
+                <td rowspan="2" style="width:5px;"><b>=</b></td>
+                <td rowspan="2" style="font-size: 25px;"><b  id="finalTraitPresence">0</b></td>
+
+                <td><input id="inputTraitKnowledge" name="traitKnowledge" type="number" style="width:50px" value="0"></td>
+                <td rowspan="2" style="width:5px;"><b>=</b></td>
+                <td rowspan="2" style="font-size: 25px;"><b  id="finalTraitKnowledge">0</b></td>
+            </tr>
+            <tr style="text-align: center;">
+                <td><input id="inputTraitAgilityModifier" name="traitAgilityModifier" type="number" style="width:50px" placeholder="0"></td>
+                <td><input id="inputTraitStrengthModifier" name="traitStrengthModifier" type="number" style="width:50px" placeholder="0"></td>
+                <td><input id="inputTraitFinesseModifier" name="traitFinesseModifier" type="number" style="width:50px" placeholder="0"></td>
+                <td><input id="inputTraitInstinctModifier" name="traitInstinctModifier" type="number" style="width:50px" placeholder="0"></td>
+                <td><input id="inputTraitPresenceModifier" name="traitPresenceModifier" type="number" style="width:50px" placeholder="0"></td>
+                <td><input id="inputTraitKnowledgeModifier" name="traitKnowledgeModifier" type="number" style="width:50px" placeholder="0"></td>
+            </tr>
+            <tr style="text-align: center;">
+                <td><label for="inputTraitAgilityModifier">Modifier</label></td>
+                <td colspan="2"></td>
+                <td><label for="inputTraitStrengthModifier">Modifier</label></td>
+                <td colspan="2"></td>
+                <td><label for="inputTraitFinesseModifier">Modifier</label></td>
+                <td colspan="2"></td>
+                <td><label for="inputTraitInstinctModifier">Modifier</label></td>
+                <td colspan="2"></td>
+                <td><label for="inputTraitPresenceModifier">Modifier</label></td>
+                <td colspan="2"></td>
+                <td><label for="inputTraitKnowledgeModifier">Modifier</label></td>
+                <td colspan="2"></td>
+            </tr>
+            <tr style="text-align: center; font-size: 11px; opacity: 0.5;">
+                <td colspan="3">Sprint<br>Leap<br>Maneuver</td>
+                <td colspan="3">Lift<br>Smash<br>Grapple</td>
+                <td colspan="3">Control<br>Hide<br>Tinker</td>
+                <td colspan="3">Perceive<br>Sense<br>Navigate</td>
+                <td colspan="3">Charm<br>Perform<br>Deceive</td>
+                <td colspan="3">Recall<br>Analyze<br>Comprehend</td>
+            </tr>
+        </table>
+        
+        <hr>
+
+        <!--Evasion + Armor-->
+
+        <a name="EvasionAndArmorScore" class="anchor"></a>
+        <h2>Evasion & Armor Score</h2>
+
+        <table>
+            <tr>
+                <td><label for="inputBaseEvasion">Base Evasion</label></td>
+                <td><label for="inputBaseArmor">Base Armor</label></td>
+                <td rowspan="5" style="font-size: 40px; font-weight: bolder; padding:25px">></td>
+                <td style="width:125px;"><b>Final Evasion</b></td>
+                <td style="width:125px;"><b>Final Armor</b></td>
+                <td style="width:100px;"><b>Armor Slots</b></td>
+            </tr>
+            <tr>
+                <td><input id="inputBaseEvasion" name="baseEvasion" type="number" style="width:50px" placeholder="0" min="0"></td>
+                <td title="This value can't be altered here!"><input class="noSave" id="inputBaseArmor" name="baseArmor" type="number" style="width:50px" placeholder="0" disabled></td>
+                <td rowspan="4" style="font-size: 40px; font-weight: bolder; padding-bottom:23px" id="finalEvasion">0</td>
+                <td rowspan="4" style="font-size: 40px; font-weight: bolder; padding-bottom:23px; line-height: 1rem;" id="finalArmor">0</td>
+                <td rowspan="3">
+                    <input id="inputArmorSlot1" name="armorSlot1" type="checkbox" style="scale:1.33;">
+                    <input id="inputArmorSlot2" name="armorSlot2" type="checkbox" style="scale:1.33;">
+                    <input id="inputArmorSlot3" name="armorSlot3" type="checkbox" style="scale:1.33;">
+                    <br>
+                    <input id="inputArmorSlot4" name="armorSlot4" type="checkbox" style="scale:1.33;">
+                    <input id="inputArmorSlot5" name="armorSlot5" type="checkbox" style="scale:1.33;">
+                    <input id="inputArmorSlot6" name="armorSlot6" type="checkbox" style="scale:1.33;">
+                    <br>
+                    <input id="inputArmorSlot7" name="armorSlot7" type="checkbox" style="scale:1.33;">
+                    <input id="inputArmorSlot8" name="armorSlot8" type="checkbox" style="scale:1.33;">
+                    <input id="inputArmorSlot9" name="armorSlot9" type="checkbox" style="scale:1.33;">
+                    <br>
+                    <input id="inputArmorSlot10" name="armorSlot10" type="checkbox" style="scale:1.33;">
+                    <input id="inputArmorSlot11" name="armorSlot11" type="checkbox" style="scale:1.33;">
+                    <input id="inputArmorSlot12" name="armorSlot12" type="checkbox" style="scale:1.33;">
+                    <br>
+                </td>
+            </tr>
+            <tr style="font-size: 12px;">
+                <td>Starting value depends<br>on Class</td>
+                <td>Changed in<br>'<a href="#ActiveArmor">Active Armor</a>' Base Score</td>
+            </tr>
+            <tr style="text-align: center;">
+                <td><input id="inputEvasionModifier" name="evasionModifier" type="number" style="width:50px" placeholder="0"></td>
+                <td><input id="inputArmorModifier" name="armorModifier" type="number" style="width:50px" placeholder="0"></td>
+            </tr>
+            <tr>
+                <td><label for="inputEvasionModifier">Evasion Modifier</label></td>
+                <td><label for="inputArmorModifier">Armor Modifier</label></td>
+                <td><button onclick="repairAllArmorSlots()">Repair All</button></td>
+            </tr>
+        </table>
+        
+        <hr>
+
+        <!--Damage & Health-->
+        <a name="DamageAndHealth" class="anchor"></a>
+        <h2>Damage & Health</h2>
+        
+        <a name="DamageThresholds" class="anchor"></a>
+        <h3 style="margin:0px;">
+            Damage Thresholds
+            <br>
+            <span style="font-size: 12px; font-weight: normal; position:relative; top: -5px;">
+                Base Values are changed in '<a href="#ActiveArmor">Active Armor</a>' Base Thresholds
+                <br>
+                The Severe Damage Threshold is always at least 1 bigger than the Major Damage Threshold
+            </span>
+        </h3>
+        
+        <label>Optional 'Massive Damage' Rule: </label><input style="scale:1.3;" type="checkbox" id="inputOptionalMassiveDamage" name="optionalMassiveDamage">
+
+        <table style="width:650px;">
+            <tr>
+                <td colspan="2"></td>
+                <td>
+                    Base
+                    <span style="font-size: 11px; opacity: 0.5;">+ Level</span>
+                </td>
+                <td colspan="4"></td>
+                <td>
+                    Base
+                    <span style="font-size: 11px; opacity: 0.5;">+ Level</span>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="2"><b>Minor<br>Damage</b></td>
+                <td rowspan="2"><b><</b></td>
+                <td title="This value can't be altered here!"><input class="noSave" id="inputBaseArmorThresholdLow" name="baseArmorThresholdLow" type="number" style="width:50px" placeholder="0" disabled></td>
+                <td rowspan="2"><b>=</b></td>
+                <td rowspan="2" style="font-size: 25px;"><b id="finalArmorThresholdLow">0</b></td>
+
+                <td rowspan="2"><b>Major<br>Damage</b></td>
+                <td rowspan="2"><</td>
+                <td title="This value can't be altered here!"><input class="noSave" id="inputBaseArmorThresholdHigh" name="baseArmorThresholdHigh" type="number" style="width:50px" placeholder="0" disabled></td>
+                <td rowspan="2"><b>=</b></td>
+                <td rowspan="2" style="font-size: 25px;"><b id="finalArmorThresholdHigh">0</b></td>
+
+                <td rowspan="2"><b>Severe<br>Damage</b></td>
+                
+                <td class="optionalMassiveDamageElements" rowspan="2"><b><</b></td>
+                <td class="optionalMassiveDamageElements" rowspan="2" style="font-size: 25px;"><b id="finalArmorThresholdMassive">0</b></td>
+                <td class="optionalMassiveDamageElements" rowspan="2"><b>Massive<br>Damage</b></td>
+            </tr>
+            <tr>
+                <td><input id="inputArmorThresholdLowModifier" name="armorThresholdLowModifier" type="number" style="width:50px" placeholder="0"></td>
+
+                <td><input id="inputArmorThresholdHighModifier" name="armorThresholdHighModifier" type="number" style="width:50px" placeholder="0"></td>
+            </tr>
+            <tr>
+                <td colspan="2"></td>
+                <td><label for="inputArmorThresholdLowModifier">Modifier</label></td>
+                <td colspan="4"></td>
+                <td><label for="inputArmorThresholdHighModifier">Modifier</label></td>
+            </tr>
+            <tr style="text-align: center; font-size: 11px; opacity: 0.5;">
+                <td>Mark 1 HP</td>
+                <td colspan="4"></td>
+                <td>Mark 2 HP</td>
+                <td colspan="4"></td>
+                <td>Mark 3 HP</td>
+                <td class="optionalMassiveDamageElements" colspan="2"></td>
+                <td class="optionalMassiveDamageElements">Mark 4 HP</td>
+        </table>
+
+        <hr class="alt">
+
+        <a name="HitPointsAndStress" class="anchor"></a>
+        <table style="width: 150px;">
+            <tr>
+                <td colspan="7">
+                    <h3>Hit Points & Stress</h3>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="inputHitPoints">HP</label></td>
+                <td></td>
+                <td><label for="inputMaxHitPoints">Max HP</label></td>
+                <td></td>
+                <td><label for="inputStress">Stress</label></td>
+                <td></td>
+                <td><label for="inputMaxStress">Max Stress</label></td>
+            </tr>
+            <tr style="font-size: 25px;">
+                <td><input id="inputHitPoints" name="hitPoints" type="number"  style="width:50px; font-size: inherit;" min="0" placeholder="0"></td>
+                <td>/</td>
+                <td><input id="inputMaxHitPoints" name="maxHitPoints" type="number" style="width:50px; font-size: inherit;" min="0" placeholder="0"></td>
+
+                <td style="opacity:0;">Wa</td>
+
+                <td><input id="inputStress" name="stress" type="number"  style="width:50px; font-size: inherit;" min="0" placeholder="0"></td>
+                <td>/</td>
+                <td><input id="inputMaxStress" name="maxStress" type="number" style="width:50px; font-size: inherit;" min="0" placeholder="0"></td>
+            </tr>
+            <tr>
+                <td colspan="3"><button onclick="fullHealHitPoints()">Full Heal</button></td>
+                <td></td>
+                <td colspan="3"><button onclick="fullHealStress()">Fully De-stress</button></td>
+            </tr>
+        </table>
+
+        
+        <hr>
+
+        <!--Hope + Hope Feature-->
+        <a name="Hope" class="anchor"></a>
+        <table style="width:350px;">
+            <tr>
+                <td colspan="6">
+                    <h2>Hope</h2>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="checkbox" style="scale:2" id="inputHope1" name="hope1">
+                </td>
+                <td>
+                    <input type="checkbox" style="scale:2" id="inputHope2" name="hope2">
+                </td>
+                <td>
+                    <input type="checkbox" style="scale:2" id="inputHope3" name="hope3">
+                </td>
+                <td>
+                    <input type="checkbox" style="scale:2" id="inputHope4" name="hope4">
+                </td>
+                <td>
+                    <input type="checkbox" style="scale:2" id="inputHope5" name="hope5">
+                </td>
+                <td>
+                    <input type="checkbox" style="scale:2" id="inputHope6" name="hope6">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="6"><hr style="min-width: 0px; width:100%;"></td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="checkbox" style="scale:2" id="inputScar1" name="scar1">
+                </td>
+                <td>
+                    <input type="checkbox" style="scale:2" id="inputScar2" name="scar2">
+                </td>
+                <td>
+                    <input type="checkbox" style="scale:2" id="inputScar3" name="scar3">
+                </td>
+                <td>
+                    <input type="checkbox" style="scale:2" id="inputScar4" name="scar4">
+                </td>
+                <td>
+                    <input type="checkbox" style="scale:2" id="inputScar5" name="scar5">
+                </td>
+                <td>
+                    <input type="checkbox" style="scale:2" id="inputScar6" name="scar6">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="6" style="padding-top:10px;"><b>Scars</b></td>
+            </tr>
+        </table>
+
+        <hr class="alt">
+
+        <h3><label for="inputHopeFeature">Hope Feature:</label></h3>
+        <textarea cols="75" rows="3" id="inputHopeFeature" name="hopeFeature"></textarea>
+
+        
+        <hr>
+        <!--Experience-->
+        <a name="Experience" class="anchor"></a>
+        <h2>Experience</h2>
+        
+        <table>
+            <tr>
+                <td>Names:</td>
+                <td></td>
+                <td>Modifiers:</td>
+            </tr>
+            <tr>
+                <td><input type="text" style="width:400px" id="inputExperience1" name="experience1"></td>
+                <td style="position:relative; left:6px;">+</td>
+                <td><input id="inputExperienceModifier1" name="experienceModifier1" type="number" style="width:50px" placeholder="0" min="0"></td>
+            </tr>
+            <tr>
+                <td><input type="text" style="width:400px" id="inputExperience2" name="experience2"></td>
+                <td style="position:relative; left:6px;">+</td>
+                <td><input id="inputExperienceModifier2" name="experienceModifier2" type="number" style="width:50px" placeholder="0" min="0"></td>
+            </tr>
+            <tr>
+                <td><input type="text" style="width:400px" id="inputExperience3" name="experience3"></td>
+                <td style="position:relative; left:6px;">+</td>
+                <td><input id="inputExperienceModifier3" name="experienceModifier3" type="number" style="width:50px" placeholder="0" min="0"></td>
+            </tr>
+            <tr>
+                <td><input type="text" style="width:400px" id="inputExperience4" name="experience4"></td>
+                <td style="position:relative; left:6px;">+</td>
+                <td><input id="inputExperienceModifier4" name="experienceModifier4" type="number" style="width:50px" placeholder="0" min="0"></td>
+            </tr>
+            <tr>
+                <td><input type="text" style="width:400px" id="inputExperience5" name="experience5"></td>
+                <td style="position:relative; left:6px;">+</td>
+                <td><input id="inputExperienceModifier5" name="experienceModifier5" type="number" style="width:50px" placeholder="0" min="0"></td>
+            </tr>
+        </table>
+
+        
+        <hr>
+
+        <!--Class Feature-->
+        <a name="ClassFeature" class="anchor"></a>
+        <h2><label for="inputClassFeature">Class Feature</label></h2>
+        
+        <textarea id="inputClassFeature" name="classFeature" type="text"  cols="80" rows="15"></textarea>
+        
+        <hr>
+
+        <!--Active Weapons-->
+        <a name="ActiveWeapons" class="anchor"></a>
+        <h2>Active Weapons</h2>
+        <a name="Proficiency" class="anchor"></a>
+        <h3>Proficiency</h3>
+        <table style="width:120px;">
+            <tr>
+                <td><label for="inputBaseWeaponProficiency">Base</label></td>
+            </tr>
+            <tr>
+                <td><input id="inputBaseWeaponProficiency" name="baseWeaponProficiency" type="number" style="width:50px" placeholder="1" value="1" min="1"></td>
+                <td rowspan="2"><b>=</b></td>
+                <td rowspan="2" style="font-size: 25px;"><b id="finalWeaponProficiency">0</b></td>
+
+            </tr>
+            <tr>
+                <td><input id="inputWeaponProficiencyModifier" name="weaponProficiencyModifier" type="number" style="width:50px" placeholder="0"></td>
+            </tr>
+            <tr>
+                <td><label for="inputWeaponProficiencyModifier">Modifier</label></td>
+            </tr>
+        </table>
+        <span style="font-size: 12px;">
+            Remember to update the damage values when this changes!
+        </span>
+
+        <hr class="alt">
+
+        <h3>
+            <a name="PrimaryWeapon" style="position:relative; bottom:40px;" class="anchor"></a>
+            Primary Weapon 
+            <table style="width:100px; display:inline-table;">
+                <tr>
+                    <td>
+                        <label for="inputActivePrimaryWeaponLeftHand">
+                            <svg class="hand" fill="currentColor" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M432.8,211.44h0c-15.52-8.82-34.91-2.28-43.31,13.68l-41.38,84.41a7,7,0,0,1-8.93,3.43h0a7,7,0,0,1-4.41-6.52V72c0-13.91-12.85-24-26.77-24s-26,10.09-26,24V228.64A11.24,11.24,0,0,1,271.21,240,11,11,0,0,1,260,229V24c0-13.91-10.94-24-24.86-24S210,10.09,210,24V228.64A11.24,11.24,0,0,1,199.21,240,11,11,0,0,1,188,229V56c0-13.91-12.08-24-26-24s-26,11.09-26,25V244.64A11.24,11.24,0,0,1,125.21,256,11,11,0,0,1,114,245V120c0-13.91-11.08-24-25-24s-25.12,10.22-25,24V336c0,117.41,72,176,160,176h16c88,0,115.71-39.6,136-88l68.71-169C451.33,237,448.31,220.25,432.8,211.44Z"></path></g></svg>
+                        </label>
+                    </td>
+                    <td>
+                        <label for="inputActivePrimaryWeaponRightHand">
+                            <svg class="hand" fill="currentColor" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M79.2,211.44h0c15.52-8.82,34.91-2.28,43.31,13.68l41.38,84.41a7,7,0,0,0,8.93,3.43h0a7,7,0,0,0,4.41-6.52V72c0-13.91,12.85-24,26.77-24s26,10.09,26,24V228.64A11.24,11.24,0,0,0,240.79,240,11,11,0,0,0,252,229V24c0-13.91,10.94-24,24.86-24S302,10.09,302,24V228.64A11.24,11.24,0,0,0,312.79,240,11,11,0,0,0,324,229V56c0-13.91,12.08-24,26-24s26,11.09,26,25V244.64A11.24,11.24,0,0,0,386.79,256,11,11,0,0,0,398,245V120c0-13.91,11.08-24,25-24s25.12,10.22,25,24V336c0,117.41-72,176-160,176H272c-88,0-115.71-39.6-136-88L67.33,255C60.67,237,63.69,220.25,79.2,211.44Z"></path></g></svg>
+                        </label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="checkbox" style="scale:1.5;" id="inputActiveWeaponPrimaryLeftHand" name="activeWeaponPrimaryLeftHand">
+                    </td>
+                    <td>
+                        <input type="checkbox" style="scale:1.5;" id="inputActiveWeaponPrimaryRightHand" name="activeWeaponPrimaryRightHand">
+                    </td>
+                </tr>
+            </table>
+        </h3>
+        <p>
+            <label for="inputActiveWeaponPrimaryName">Name:</label>
+            <input id="inputActiveWeaponPrimaryName" name="activeWeaponPrimaryName" type="text" style="width:250px;">
+            <label for="inputActiveWeaponPrimaryTrait">Trait:</label>
+            <select id="inputActiveWeaponPrimaryTrait" name="activeWeaponPrimaryTrait">
+                <option></option>
+                <option>Agility</option>
+                <option>Strength</option>
+                <option>Finesse</option>
+                <option>Insinct</option>
+                <option>Presence</option>
+                <option>Knowledge</option>
+            </select>
+            
+            <label for="inputActiveWeaponPrimaryRange">Range:</label>
+            <input id="inputActiveWeaponPrimaryRange" name="activeWeaponPrimaryRange" list="weaponRange" style="width:125px;">
+        </p>
+        <p>
+            <label for="inputActiveWeaponPrimaryDamage">Damage Dice:</label>
+            <input id="inputActiveWeaponPrimaryDamage" name="activeWeaponPrimaryDamage" type="text" style="width:100px">
+
+            <label for="inputActiveWeaponPrimaryDamageType">Damage Type:</label>
+            <input id="inputActiveWeaponPrimaryDamageType" name="activeWeaponPrimaryDamageType" list="damageType" style="width:125px;">
+            <label for="inputActiveWeaponPrimaryBurden">Burden:</label>
+            <select id="inputActiveWeaponPrimaryBurden" name="activeWeaponPrimaryBurden">
+                <option></option>
+                <option>One-Handed</option>
+                <option>Two-Handed</option>
+            </select>
+        </p>
+        <label for="inputActiveWeaponPrimaryFeature">Feature:</label><br>
+        <textarea id="inputActiveWeaponPrimaryFeature" name="activeWeaponPrimaryFeature" type="text"  cols="60" rows="3"></textarea>
+
+        <hr class="alt">
+        
+        <div style="position:relative; padding: 2px 0px;">
+            <svg class="twoHandedLock" xmlns="http://www.w3.org/2000/svg" style="position:absolute; left:0px; width:100%; height: 100%; z-index:1;">
+                <rect width="100%" height="100%" x="0" y="0" rx="20" ry="20" fill="#00000044" />
+            </svg>
+            <h2 class="twoHandedLock" style="position: absolute; z-index:2; margin:0px; bottom:50%; left: calc(50% - attr(width)); width:100%; filter: drop-shadow(0px 0px 7px light-dark(white, black)) drop-shadow(0px 0px 5px light-dark(white, black)) drop-shadow(0px 0px 5px light-dark(white, black));">Primary Weapon is Two-Handed!</h2>
+            <h3>
+                <a name="SecondaryWeapon" style="position:relative; bottom:40px;" class="anchor"></a>
+                <span>Secondary Weapon</span>
+                <table style="width:100px; display:inline-table;">
+                    <tr>
+                        <td>
+                            <label for="inputActiveSecondaryWeaponLeftHand">
+                                <svg class="hand" fill="currentColor" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M432.8,211.44h0c-15.52-8.82-34.91-2.28-43.31,13.68l-41.38,84.41a7,7,0,0,1-8.93,3.43h0a7,7,0,0,1-4.41-6.52V72c0-13.91-12.85-24-26.77-24s-26,10.09-26,24V228.64A11.24,11.24,0,0,1,271.21,240,11,11,0,0,1,260,229V24c0-13.91-10.94-24-24.86-24S210,10.09,210,24V228.64A11.24,11.24,0,0,1,199.21,240,11,11,0,0,1,188,229V56c0-13.91-12.08-24-26-24s-26,11.09-26,25V244.64A11.24,11.24,0,0,1,125.21,256,11,11,0,0,1,114,245V120c0-13.91-11.08-24-25-24s-25.12,10.22-25,24V336c0,117.41,72,176,160,176h16c88,0,115.71-39.6,136-88l68.71-169C451.33,237,448.31,220.25,432.8,211.44Z"></path></g></svg>
+                            </label>
+                        </td>
+                        <td>
+                            <label for="inputActiveSecondaryWeaponRightHand">
+                                <svg class="hand" fill="currentColor" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M79.2,211.44h0c15.52-8.82,34.91-2.28,43.31,13.68l41.38,84.41a7,7,0,0,0,8.93,3.43h0a7,7,0,0,0,4.41-6.52V72c0-13.91,12.85-24,26.77-24s26,10.09,26,24V228.64A11.24,11.24,0,0,0,240.79,240,11,11,0,0,0,252,229V24c0-13.91,10.94-24,24.86-24S302,10.09,302,24V228.64A11.24,11.24,0,0,0,312.79,240,11,11,0,0,0,324,229V56c0-13.91,12.08-24,26-24s26,11.09,26,25V244.64A11.24,11.24,0,0,0,386.79,256,11,11,0,0,0,398,245V120c0-13.91,11.08-24,25-24s25.12,10.22,25,24V336c0,117.41-72,176-160,176H272c-88,0-115.71-39.6-136-88L67.33,255C60.67,237,63.69,220.25,79.2,211.44Z"></path></g></svg>
+                            </label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="checkbox" style="scale:1.5;" id="inputActiveWeaponSecondaryLeftHand" name="activeWeaponSecondaryLeftHand">
+                        </td>
+                        <td>
+                            <input type="checkbox" style="scale:1.5;" id="inputActiveWeaponSecondaryRightHand" name="activeWeaponSecondaryRightHand">
+                        </td>
+                    </tr>
+                </table>
+            </h3>
+            <p>
+                <label for="inputActiveWeaponSecondaryName">Name:</label>
+                <input id="inputActiveWeaponSecondaryName" name="activeWeaponSecondaryName" type="text" style="width:250px;">
+                <label for="inputActiveWeaponSecondaryTrait">Trait:</label>
+                <select id="inputActiveWeaponSecondaryTrait" name="activeWeaponSecondaryTrait">
+                    <option></option>
+                    <option>Agility</option>
+                    <option>Strength</option>
+                    <option>Finesse</option>
+                    <option>Insinct</option>
+                    <option>Presence</option>
+                    <option>Knowledge</option>
+                </select>
+                
+                <label for="inputActiveWeaponSecondaryRange">Range:</label>
+                <input id="inputActiveWeaponSecondaryRange" name="activeWeaponSecondaryRange" list="weaponRange" style="width:125px;">
+            </p>
+            <p>
+                <label for="inputActiveWeaponSecondaryDamage">Damage Dice:</label>
+                <input id="inputActiveWeaponSecondaryDamage" name="activeWeaponSecondaryDamage" type="text" style="width:100px">
+
+                <label for="inputActiveWeaponSecondaryDamageType">Damage Type:</label>
+                <input id="inputActiveWeaponSecondaryDamageType" name="activeWeaponSecondaryDamageType" list="damageType" style="width:125px;">
+                <label for="inputActiveWeaponSecondaryBurden">Burden:</label>
+                <select class="nosave" id="inputActiveWeaponSecondaryBurden" name="activeWeaponSecondaryBurden" value="One-Handed" disabled>
+                    <option>One-Handed</option>
+                </select>
+            </p>
+            <label for="inputActiveWeaponSecondaryFeature">Feature:</label><br>
+            <textarea id="inputActiveWeaponSecondaryFeature" name="activeWeaponSecondaryFeature" type="text"  cols="60" rows="3"></textarea>
+        </div>
+        
+        <hr>
+
+        <!--Active Armor-->
+        <a name="ActiveArmor" class="anchor"></a>
+        <h2>Active Armor</h2>
+        <p>
+            <label for="inputActiveArmorName">Name:</label>
+            <input id="inputActiveArmorName" name="activeArmorName" type="text" style="width:250px;">
+            <label for="inputActiveArmorThresholdLow">Base Thresholds:</label>
+            <input id="inputActiveArmorThresholdLow" name="activeArmorThresholdLow" type="number" min="0" placeholder="0" style="width: 35px;">
+            <label for="inputActiveArmorThresholdHigh">/</label>
+            <input id="inputActiveArmorThresholdHigh" name="activeArmorThresholdHigh" type="number" min="0" placeholder="0" style="width: 35px;">
+            <label for="inputActiveArmorScore">Base Score:</label>
+            <input id="inputActiveArmorScore" name="activeArmorScore" type="number" min="0" placeholder="0" style="width: 35px;">
+        </p>
+        <label for="inputActiveArmorFeature">Feature:</label><br>
+        <textarea id="inputActiveArmorFeature" name="activeArmorFeature" type="text"  cols="60" rows="3"></textarea>
+
+        <hr>
+
+        <!--Inventory-->
+        <a name="Inventory" class="anchor"></a>
+        <h2>Inventory</h2>
+        <textarea id="inputInventoryItems" name="inventoryItems" type="text"  cols="80" rows="15"></textarea>
+
+        
+        <a name="InventoryWeapons" style="position:relative; bottom:-25px;" class="anchor"></a>
+        <h3>Inventory Weapons</h3>
+        <h3>
+            <div style="display:inline-block">
+                <select id="inputInventoryWeapon1Type" name="inventoryWeapon1Type" style="font-size: large; font-weight: bold;">
+                    <option></option>
+                    <option>Primary</option>
+                    <option>Secondary</option>
+                </select> Weapon 
+                <br>
+                <button id="switchWeaponButton1" onclick="switchWeapon(1)">Switch With Active Weapon</button>
+            </div>
+            <table style="width:100px; display:inline-table;">
+                <tr>
+                    <td>
+                        <label for="inputInventoryWeapon1LeftHand">
+                            <svg class="hand" fill="currentColor" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M432.8,211.44h0c-15.52-8.82-34.91-2.28-43.31,13.68l-41.38,84.41a7,7,0,0,1-8.93,3.43h0a7,7,0,0,1-4.41-6.52V72c0-13.91-12.85-24-26.77-24s-26,10.09-26,24V228.64A11.24,11.24,0,0,1,271.21,240,11,11,0,0,1,260,229V24c0-13.91-10.94-24-24.86-24S210,10.09,210,24V228.64A11.24,11.24,0,0,1,199.21,240,11,11,0,0,1,188,229V56c0-13.91-12.08-24-26-24s-26,11.09-26,25V244.64A11.24,11.24,0,0,1,125.21,256,11,11,0,0,1,114,245V120c0-13.91-11.08-24-25-24s-25.12,10.22-25,24V336c0,117.41,72,176,160,176h16c88,0,115.71-39.6,136-88l68.71-169C451.33,237,448.31,220.25,432.8,211.44Z"></path></g></svg>
+                        </label>
+                    </td>
+                    <td>
+                        <label for="inputInventoryWeapon1RightHand">
+                            <svg class="hand" fill="currentColor" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M79.2,211.44h0c15.52-8.82,34.91-2.28,43.31,13.68l41.38,84.41a7,7,0,0,0,8.93,3.43h0a7,7,0,0,0,4.41-6.52V72c0-13.91,12.85-24,26.77-24s26,10.09,26,24V228.64A11.24,11.24,0,0,0,240.79,240,11,11,0,0,0,252,229V24c0-13.91,10.94-24,24.86-24S302,10.09,302,24V228.64A11.24,11.24,0,0,0,312.79,240,11,11,0,0,0,324,229V56c0-13.91,12.08-24,26-24s26,11.09,26,25V244.64A11.24,11.24,0,0,0,386.79,256,11,11,0,0,0,398,245V120c0-13.91,11.08-24,25-24s25.12,10.22,25,24V336c0,117.41-72,176-160,176H272c-88,0-115.71-39.6-136-88L67.33,255C60.67,237,63.69,220.25,79.2,211.44Z"></path></g></svg>
+                        </label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="checkbox" style="scale:1.5;" id="inputInventoryWeapon1LeftHand" name="inventoryWeaponLeftHand">
+                    </td>
+                    <td>
+                        <input type="checkbox" style="scale:1.5;" id="inputInventoryWeapon1RightHand" name="inventoryWeaponRightHand">
+                    </td>
+                </tr>
+            </table>
+        </h3>
+        <p>
+            <label for="inputInventoryWeapon1Name">Name:</label>
+            <input id="inputInventoryWeapon1Name" name="inventoryWeapon1Name" type="text" style="width:250px;">
+            <label for="inputInventoryWeapon1Trait">Trait:</label>
+            <select id="inputInventoryWeapon1Trait" name="inventoryWeapon1Trait">
+                <option></option>
+                <option>Agility</option>
+                <option>Strength</option>
+                <option>Finesse</option>
+                <option>Insinct</option>
+                <option>Presence</option>
+                <option>Knowledge</option>
+            </select>
+            
+            <label for="inputInventoryWeapon1Range">Range:</label>
+            <input id="inputInventoryWeapon1Range" name="inventoryWeapon1Range" list="weaponRange" style="width:125px;">
+        </p>
+        <p>
+            <label for="inputInventoryWeapon1Damage">Damage Dice:</label>
+            <input id="inputInventoryWeapon1Damage" name="inventoryWeapon1Damage" type="text" style="width:100px">
+
+            <label for="inputInventoryWeapon1DamageType">Damage Type:</label>
+            <input id="inputInventoryWeapon1DamageType" name="inventoryWeapon1DamageType" list="damageType" style="width:125px;">
+            <label for="inputInventoryWeapon1Burden">Burden:</label>
+            <select id="inputInventoryWeapon1Burden" name="inventoryWeapon1Burden">
+                <option></option>
+                <option>One-Handed</option>
+                <option>Two-Handed</option>
+            </select>
+        </p>
+        <label for="inputInventoryWeapon1Feature">Feature:</label><br>
+        <textarea id="inputInventoryWeapon1Feature" name="inventoryWeapon1Feature" type="text"  cols="60" rows="3"></textarea>
+
+        <hr class="alt">
+        
+        <h3>
+            <div style="display:inline-block">
+                <select id="inputInventoryWeapon2Type" name="inventoryWeapon2Type" style="font-size: large; font-weight: bold;">
+                    <option></option>
+                    <option>Primary</option>
+                    <option>Secondary</option>
+                </select> Weapon 
+                <br>
+                <button id="switchWeaponButton2" onclick="switchWeapon(2)">Switch With Active Weapon</button>
+            </div>
+            <table style="width:100px; display:inline-table;">
+                <tr>
+                    <td>
+                        <label for="inputInventoryWeapon2LeftHand">
+                            <svg class="hand" fill="currentColor" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M432.8,211.44h0c-15.52-8.82-34.91-2.28-43.31,13.68l-41.38,84.41a7,7,0,0,1-8.93,3.43h0a7,7,0,0,1-4.41-6.52V72c0-13.91-12.85-24-26.77-24s-26,10.09-26,24V228.64A11.24,11.24,0,0,1,271.21,240,11,11,0,0,1,260,229V24c0-13.91-10.94-24-24.86-24S210,10.09,210,24V228.64A11.24,11.24,0,0,1,199.21,240,11,11,0,0,1,188,229V56c0-13.91-12.08-24-26-24s-26,11.09-26,25V244.64A11.24,11.24,0,0,1,125.21,256,11,11,0,0,1,114,245V120c0-13.91-11.08-24-25-24s-25.12,10.22-25,24V336c0,117.41,72,176,160,176h16c88,0,115.71-39.6,136-88l68.71-169C451.33,237,448.31,220.25,432.8,211.44Z"></path></g></svg>
+                        </label>
+                    </td>
+                    <td>
+                        <label for="inputInventoryWeapon2RightHand">
+                            <svg class="hand" fill="currentColor" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M79.2,211.44h0c15.52-8.82,34.91-2.28,43.31,13.68l41.38,84.41a7,7,0,0,0,8.93,3.43h0a7,7,0,0,0,4.41-6.52V72c0-13.91,12.85-24,26.77-24s26,10.09,26,24V228.64A11.24,11.24,0,0,0,240.79,240,11,11,0,0,0,252,229V24c0-13.91,10.94-24,24.86-24S302,10.09,302,24V228.64A11.24,11.24,0,0,0,312.79,240,11,11,0,0,0,324,229V56c0-13.91,12.08-24,26-24s26,11.09,26,25V244.64A11.24,11.24,0,0,0,386.79,256,11,11,0,0,0,398,245V120c0-13.91,11.08-24,25-24s25.12,10.22,25,24V336c0,117.41-72,176-160,176H272c-88,0-115.71-39.6-136-88L67.33,255C60.67,237,63.69,220.25,79.2,211.44Z"></path></g></svg>
+                        </label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="checkbox" style="scale:1.5;" id="inputInventoryWeapon2LeftHand" name="inventoryWeaponLeftHand">
+                    </td>
+                    <td>
+                        <input type="checkbox" style="scale:1.5;" id="inputInventoryWeapon2RightHand" name="inventoryWeaponRightHand">
+                    </td>
+                </tr>
+            </table>
+        </h3>
+        <p>
+            <label for="inputInventoryWeapon2Name">Name:</label>
+            <input id="inputInventoryWeapon2Name" name="inventoryWeapon2Name" type="text" style="width:250px;">
+            <label for="inputInventoryWeapon2Trait">Trait:</label>
+            <select id="inputInventoryWeapon2Trait" name="inventoryWeapon2Trait">
+                <option></option>
+                <option>Agility</option>
+                <option>Strength</option>
+                <option>Finesse</option>
+                <option>Insinct</option>
+                <option>Presence</option>
+                <option>Knowledge</option>
+            </select>
+            
+            <label for="inputInventoryWeapon2Range">Range:</label>
+            <input id="inputInventoryWeapon2Range" name="inventoryWeapon2Range" list="weaponRange" style="width:125px;">
+        </p>
+        <p>
+            <label for="inputInventoryWeapon2Damage">Damage Dice:</label>
+            <input id="inputInventoryWeapon2Damage" name="inventoryWeapon2Damage" type="text" style="width:100px">
+
+            <label for="inputInventoryWeapon2DamageType">Damage Type:</label>
+            <input id="inputInventoryWeapon2DamageType" name="inventoryWeapon2DamageType" list="damageType" style="width:125px;">
+            <label for="inputInventoryWeapon2Burden">Burden:</label>
+            <select id="inputInventoryWeapon2Burden" name="inventoryWeapon2Burden">
+                <option></option>
+                <option>One-Handed</option>
+                <option>Two-Handed</option>
+            </select>
+        </p>
+        <label for="inputInventoryWeapon2Feature">Feature:</label><br>
+        <textarea id="inputInventoryWeapon2Feature" name="inventoryWeapon2Feature" type="text"  cols="60" rows="3"></textarea>
+
+        <hr>
+
+        <!--Gold-->
+        <a name="Gold" class="anchor"></a>
+        <h2>Gold</h2>
+        <label>Optional 'Coins' Rule: </label><input style="scale:1.3;" type="checkbox" id="inputOptionalCoins" name="optionalCoins">
+        <table style="width:300px;">
+            <tr>
+                <td id="optionalGoldCoinsLabel" style="display:none; width:25%;"><label for="inputGoldCoins">Coins</label></td>
+                <td style="width:25%;"><label for="inputGoldHandfuls">Handfuls</label></td>
+                <td style="width:25%;"><label for="inputGoldBags">Bags</label></td>
+                <td style="width:25%;"><label id="goldChestLabel" for="inputGoldChest">Chest</label></td>
+            </tr>
+            <tr style="font-size: 25px;">
+                <td id="optionalGoldCoins" style="display:none;"><input id="inputGoldCoins" name="goldCoins" type="number" style="width:60px; font-size: inherit;" min="0" placeholder="0"></td>
+                <td><input id="inputGoldHandfuls" name="goldHandfuls" type="number" style="width:60px; font-size: inherit;" min="0" placeholder="0"></td>
+                <td><input id="inputGoldBags" name="goldBags" type="number" style="width:60px; font-size: inherit;" min="0" placeholder="0"></td>
+                <td><input id="inputGoldChest" name="goldChest" type="number" style="width:60px; font-size: inherit;" min="0" placeholder="0"></td>
+            </tr>
+            <tr>
+                <td colspan="4"><button onclick="goldQuickPack()">Quick Pack</button></td>
+            </tr>
+        </table>
+
+        <hr>
+
+        <!--Notes-->
+        <a name="AdditionalNotes" class="anchor"></a>
+        <h2><label for="inputAdditionalNotes">Additional Notes</label></h2>
+        
+        <textarea id="inputAdditionalNotes" name="additionalNotes" type="text"  cols="80" rows="15"></textarea>
+
+
+        <!--Footer-->
+        <br>
+        <br>
+
+        <footer style="background-color: light-dark(#fffbedaa, #4f4d4daa); border: 2px solid; border-bottom: 0px; border-radius: 10px 10px 0px 0px; position:sticky; bottom:0px; float:right; right:20px; width:200px; height:80px; padding:7px; z-index:20;">
+            <button style="margin: 4px;" onclick="downloadSheet()">Download Sheet Data</button>
+            <input class="noSave" style="display:none;" id="uploadFileInput" type="file" accept=".txt,.json">
+            <button style="margin: 4px;" onclick="uploadSheet()">Upload Sheet Data</button>
+            <br>
+            <span style="font-size: 11px;">Uploading replaces current sheet!!!</span>
+        </footer>
+        
+
+        <!--Weapon Datalists-->
+        <datalist id="weaponRange">
+            <option value="Melee"></option>
+            <option value="Very Close"></option>
+            <option value="Close"></option>
+            <option value="Far"></option>
+            <option value="Very Far"></option>
+        </datalist>
+        <datalist id="damageType">
+            <option value="Physical (Phy)"></option>
+            <option value="Magic (Mag)"></option>
+        </datalist>
+        
+
+        <!--Script starts below this point!-->
+
+
+
+        <script>
+            //Find all inputs
+            var inputs = document.getElementsByTagName("input");
+            Array.from(inputs).forEach(element => {
+                if(!element.classList.contains("noSave"))
+                {
+                    if(element.type != "checkbox")
+                    {
+                        element.setAttribute("oninput", "saveData(\"" + element.name + "\", this.value)");
+                    }
+                    else
+                    {
+                        element.setAttribute("oninput", "saveData(\"" + element.name + "\", this.checked)");
+                    }
+                    element.setAttribute("autocomplete", "off");
+                }
+            });
+
+            var textAreas = document.getElementsByTagName("textarea");
+            Array.from(textAreas).forEach(element => {
+                if(!element.classList.contains("noSave"))
+                {
+                    element.setAttribute("oninput", "saveData(\"" + element.name + "\", this.value)");
+                }
+            });
+
+            var selects = document.getElementsByTagName("select");
+            Array.from(selects).forEach(element => {
+                if(!element.classList.contains("noSave"))
+                {
+                    element.setAttribute("onchange", "saveData(\"" + element.name + "\", this.value)");
+                }
+            });
+
+            //Make a list of input types
+            var types = [];
+            Array.from(inputs).forEach(element => {
+                types.push(element.name);
+            });
+            Array.from(textAreas).forEach(element => {
+                types.push(element.name);
+            });
+            Array.from(selects).forEach(element => {
+                types.push(element.name);
+            });
+
+
+            function saveData(type, value)
+            {
+                additionalChecks();
+
+                if(value != false) {localStorage.setItem(type, value);}
+                else {localStorage.removeItem(type);}
+            }
+
+            loadData();
+            function loadData()
+            {
+                types.forEach(type => {
+                    checkId = "input" + capitalize(type);
+                    try
+                    {
+                        //Firefox emptying of inputs if resetting (Level is always present as 1)
+                        var isFirefox = typeof InstallTrigger !== 'undefined';
+                        if(isFirefox && window.localStorage.length == 1)
+                        {
+                            if(document.getElementById(checkId).type != "checkbox")
+                            {
+                                if(document.getElementById(checkId).tagName != "SELECT")
+                                {
+                                    document.getElementById(checkId).value = "";
+                                }
+                            }
+                            else
+                            {
+                                document.getElementById(checkId).checked = false;
+                            }
+                        }
+
+                        if(localStorage.getItem(type) != null)
+                        {
+                            if(document.getElementById(checkId).type != "checkbox")
+                            {
+                                document.getElementById(checkId).value = localStorage.getItem(type);
+                            }
+                            else
+                            {
+                                document.getElementById(checkId).checked = localStorage.getItem(type);
+                            }
+                        }
+                    }
+                    catch {}
+                })
+
+                additionalChecks();
+            }
+
+            function additionalChecks()
+            {
+                //Stop sub-0 values
+                const applicableInputs = ["baseEvasion", "hitPoints", "maxHitPoints", "stress", "maxStress", "experienceModifier1", "experienceModifier2", "experienceModifier3", "experienceModifier4", "experienceModifier5", "activeArmorThresholdLow", "activeArmorThresholdHigh", "activeArmorScore", "goldCoins", "goldHandfuls", "goldBags", "goldChest"]
+                
+                for(let i = 0; i < applicableInputs.length; i++)
+                {
+                    if(document.getElementById("input" + capitalize(applicableInputs[i])).value < document.getElementById("input" + capitalize(applicableInputs[i])).min) 
+                    {
+                        document.getElementById("input" + capitalize(applicableInputs[i])).value = document.getElementById("input" + capitalize(applicableInputs[i])).min;
+                        localStorage.removeItem(applicableInputs[i])
+                    }
+                }
+
+                //Set Domains if original class
+                const classes = ["Bard", "Wizard", "Seraph", "Guardian", "Warrior", "Ranger", "Druid", "Sorcerer", "Rogue"];
+                const domains = ["Grace", "Codex", "Splendor", "Valor", "Blade", "Bone", "Sage", "Arcana", "Midnight", "Grace"];
+                const startEvasion = [10, 11, 9, 9, 11, 12, 10, 10, 12];
+                const startHP = [5, 5, 7, 7, 6, 6, 6, 6, 6];
+                let selectedClass = document.getElementById("inputClass").value;
+
+                for(let i = 0; i < classes.length; i++)
+                {
+                    if(selectedClass.toUpperCase().includes(classes[i].toUpperCase()))
+                    {
+                        //Set Domains
+                        if(localStorage.getItem("_FLAG_CLASS_DOMAINS_SET") == null)
+                        {
+                            document.getElementById("inputDomain1").value = domains[i];
+                            localStorage.setItem("domain1", domains[i]);
+                            document.getElementById("inputDomain2").value = domains[i+1];
+                            localStorage.setItem("domain2", domains[i+1]);
+
+                            localStorage.setItem("_FLAG_CLASS_DOMAINS_SET", true);
+                        }
+
+                        //Set other stats if empty
+                        document.getElementById("inputBaseEvasion").placeholder = startEvasion[i];
+                        if(localStorage.getItem("_FLAG_CLASS_EVASION_SET") == null)
+                        {
+                            if(document.getElementById("inputBaseEvasion").value  == 0)
+                            {
+                                document.getElementById("inputBaseEvasion").value = startEvasion[i];
+                                localStorage.setItem("baseEvasion", startEvasion[i]);
+                            }
+                            localStorage.setItem("_FLAG_CLASS_EVASION_SET", true);
+                        }
+
+                        if(localStorage.getItem("_FLAG_CLASS_HP_SET") == null)
+                        {
+                            if(document.getElementById("inputMaxHitPoints").value  == 0)
+                            {
+                                document.getElementById("inputMaxHitPoints").value = startHP[i];
+                                localStorage.setItem("maxHitPoints", startHP[i]);
+
+                                document.getElementById("inputHitPoints").value = startHP[i];
+                                localStorage.setItem("hitPoints", startHP[i]);
+                            }
+                            localStorage.setItem("_FLAG_CLASS_HP_SET", true);
+                        }
+
+                        if(localStorage.getItem("_FLAG_CLASS_STRESS_SET") == null)
+                        {
+                            if(document.getElementById("inputMaxStress").value  == 0)
+                            {
+                                document.getElementById("inputMaxStress").value = 6;
+                                localStorage.setItem("maxStress", 6);
+
+                                document.getElementById("inputStress").value = 6;
+                                localStorage.setItem("stress", 6);
+                            }
+                            localStorage.setItem("_FLAG_CLASS_STRESS_SET", true);
+                        }
+                        break;
+                    }
+                    else
+                    {
+                            localStorage.removeItem("_FLAG_CLASS_DOMAINS_SET");
+                            localStorage.removeItem("_FLAG_CLASS_EVASION_SET");
+                            localStorage.removeItem("_FLAG_CLASS_HP_SET");
+                            localStorage.removeItem("_FLAG_CLASS_STRESS_SET");
+                    }
+                }
+
+                //Change title to character's name
+                if(document.getElementById("inputName").value != "") {document.title = document.getElementById("inputName").value + "'s Character Sheet";}
+                else {document.title = "Daggerheart Character Sheet";}
+
+
+                //Set Final Trait Values
+                const traits = ["Agility", "Strength", "Finesse", "Instinct", "Presence", "Knowledge"]
+
+                for(let i = 0; i < traits.length; i++)
+                {
+                    let str = -(-document.getElementById("inputTrait" + traits[i]).value - document.getElementById("inputTrait" + traits[i] + "Modifier").value)
+
+                    if(str > 0) {str = "+" + str}
+                    document.getElementById("finalTrait" + traits[i]).innerHTML = str;
+                }
+
+
+                //Set Base Armor
+                document.getElementById("inputBaseArmor").value = document.getElementById("inputActiveArmorScore").value;
+
+                //Set Final Evasion
+                document.getElementById("finalEvasion").innerHTML = -(-document.getElementById("inputBaseEvasion").value - document.getElementById("inputEvasionModifier").value);
+                
+                //Set Final Armor
+                let armorValue = -(-document.getElementById("inputBaseArmor").value - document.getElementById("inputArmorModifier").value);
+
+                let armorString = armorValue;
+
+                if(armorValue > 12) {
+                    armorString = "12<br><span style='font-weight:normal; font-size:1rem; text-decoration:line-through;'>" + armorValue + "</span>";
+
+                    document.getElementById("finalArmor").style.paddingBottom = "0px";
+                }
+                else if(armorValue < 0) {
+                    armorString = "0<br><span style='font-weight:normal; font-size:1rem; text-decoration:line-through;'>" + armorValue + "</span>";
+
+                    document.getElementById("finalArmor").style.paddingBottom = "0px";
+                }
+                else
+                {
+                    document.getElementById("finalArmor").style.paddingBottom = "23px";
+                }
+
+                document.getElementById("finalArmor").innerHTML = armorString;
+
+                //Set Armor Slots
+                var armorSlots = armorValue;
+                if(armorSlots < 0) {armorSlots = 0;}
+                else if (armorSlots > 12) {armorSlots = 12;}
+
+                for(let i = 1; i <= armorSlots; i++)
+                {
+                    document.getElementById("inputArmorSlot" + i).disabled = false;
+                }
+
+                for(let i = armorSlots+1; i <= 12; i++)
+                {
+                    document.getElementById("inputArmorSlot" + i).disabled = true;
+                }
+
+                //set Damage Threshold values
+                let inputBaseLow = document.getElementById("inputBaseArmorThresholdLow");
+                let inputBaseHigh = document.getElementById("inputBaseArmorThresholdHigh");
+
+                let inputActiveLow = document.getElementById("inputActiveArmorThresholdLow");
+                let inputActiveHigh = document.getElementById("inputActiveArmorThresholdHigh");
+                
+                inputBaseLow.value = -(-inputActiveLow.value - document.getElementById("inputLevel").value);
+                inputBaseHigh.value = -(-inputActiveHigh.value - document.getElementById("inputLevel").value);
+
+
+                let finalLow = document.getElementById("finalArmorThresholdLow");
+                let finalHigh = document.getElementById("finalArmorThresholdHigh");
+                
+                finalLow.innerHTML = -(-
+                inputBaseLow.value - 
+                document.getElementById("inputArmorThresholdLowModifier").value)
+                finalHigh.innerHTML = -(-
+                inputBaseHigh.value - 
+                document.getElementById("inputArmorThresholdHighModifier").value)
+
+                if(finalLow.innerHTML - finalHigh.innerHTML >= 0)
+                {
+                    finalHigh.innerHTML = -(-finalLow.innerHTML - 1);
+                }
+
+                document.getElementById("finalArmorThresholdMassive").innerHTML = document.getElementById("finalArmorThresholdHigh").innerHTML*2;
+
+                //Hide Massive Damage
+                let massiveDamageActive = document.getElementById("inputOptionalMassiveDamage");
+                const massiveDamageElements = document.getElementsByClassName("optionalMassiveDamageElements");
+
+                if(massiveDamageActive.checked == true)
+                {
+                    Array.from(massiveDamageElements).forEach(element => {
+                        element.style.display = "revert";
+                    })
+                }
+                else
+                {
+                    Array.from(massiveDamageElements).forEach(element => {
+                        element.style.display = "none";
+                    })
+                }
+
+
+                //HP & Stress Calculations
+                let inputHP = document.getElementById("inputHitPoints");
+                let inputMaxHP = document.getElementById("inputMaxHitPoints");
+
+                if(inputMaxHP.value - inputHP.value < 0) {inputHP.value = inputMaxHP.value;}
+
+                let inputStress = document.getElementById("inputStress");
+                let inputMaxStress = document.getElementById("inputMaxStress");
+
+                if(inputMaxStress.value - inputStress.value < 0) {inputStress.value = inputMaxStress.value;}
+
+
+                //Scars remove hope slots
+                for(var i = 1; i <= 6; i++)
+                {
+                    if(document.getElementById("inputScar" + i).checked)
+                    {
+                        document.getElementById("inputHope" + i).removeAttribute("checked")
+                        document.getElementById("inputHope" + i).setAttribute("disabled", null);
+                    }
+                    else
+                    {
+                        document.getElementById("inputHope" + i).removeAttribute("disabled");
+                    }
+                }
+
+                //Alter Chest text
+                if(document.getElementById("inputGoldChest").value > 1) {document.getElementById("goldChestLabel").innerHTML = "Chests"}
+                else {document.getElementById("goldChestLabel").innerHTML = "Chest"}
+
+
+                //Show coins
+                if(document.getElementById("inputOptionalCoins").checked == true)
+                {
+                    document.getElementById("optionalGoldCoinsLabel").style.display = "revert";
+                    document.getElementById("optionalGoldCoins").style.display = "revert";
+                }
+                else
+                {
+                    document.getElementById("optionalGoldCoinsLabel").style.display = "none";
+                    document.getElementById("optionalGoldCoins").style.display = "none";
+                }
+
+                //Final weapon proficiency
+                var proficiency = -(-document.getElementById("inputBaseWeaponProficiency").value - document.getElementById("inputWeaponProficiencyModifier").value)
+                
+                if(proficiency < 1) {document.getElementById("finalWeaponProficiency").innerHTML = 1 + "<br><span style='text-decoration: line-through; font-weight:normal; font-size:14px;'>" + proficiency + "</span>";}
+                else {document.getElementById("finalWeaponProficiency").innerHTML = proficiency}
+
+                //Lock secondary weapon
+                var lockingElements = document.getElementsByClassName("twoHandedLock");
+                if(document.getElementById("inputActiveWeaponPrimaryBurden").value == "Two-Handed")
+                {
+                    Array.from(lockingElements).forEach(element => {
+                        element.style.display = "revert";
+                    })
+                }
+                else
+                {
+                    Array.from(lockingElements).forEach(element => {
+                        element.style.display = "none";
+                    })
+                }
+
+                //Inventory weapon lock switching
+                if(document.getElementById("inputInventoryWeapon1Type").value == "") {document.getElementById("switchWeaponButton1").setAttribute("disabled", true)}
+                else {document.getElementById("switchWeaponButton1").removeAttribute("disabled");}
+
+                if(document.getElementById("inputInventoryWeapon2Type").value == "") {document.getElementById("switchWeaponButton2").setAttribute("disabled", true)}
+                else {document.getElementById("switchWeaponButton2").removeAttribute("disabled");}
+            }
+
+
+
+            //sheet buttons
+            function repairAllArmorSlots()
+            {
+                for(let i = 1; i <= 12; i++)
+                {
+                    document.getElementById("inputArmorSlot" + i).checked = false;
+                    localStorage.removeItem("armorSlot" + i);
+                }
+            }
+
+            function fullHealHitPoints()
+            {
+                document.getElementById("inputHitPoints").value = document.getElementById("inputMaxHitPoints").value;
+                localStorage.setItem("hitPoints", document.getElementById("inputMaxHitPoints").value);
+            }
+            function fullHealStress()
+            {
+                document.getElementById("inputStress").value = document.getElementById("inputMaxStress").value;
+                localStorage.setItem("stress", document.getElementById("inputMaxStress").value);
+            }
+
+            function goldQuickPack()
+            {
+                var coins = document.getElementById("inputGoldCoins").value;
+                var handfuls = document.getElementById("inputGoldHandfuls").value;
+                var bags = document.getElementById("inputGoldBags").value;
+                var chest = document.getElementById("inputGoldChest").value;
+
+                handfuls -= -Math.floor(coins/10);
+                coins -= Math.floor(coins/10)*10;
+                
+                bags -= -Math.floor(handfuls/10);
+                handfuls -= Math.floor(handfuls/10)*10;
+
+                chest -= -Math.floor(bags/10);
+                bags -= Math.floor(bags/10)*10;
+
+                document.getElementById("inputGoldCoins").value = coins;
+                document.getElementById("inputGoldHandfuls").value = handfuls;
+                document.getElementById("inputGoldBags").value = bags;
+                document.getElementById("inputGoldChest").value = chest;
+
+                saveData("goldCoins", coins);
+                saveData("goldHandfuls", handfuls);
+                saveData("goldBags", bags);
+                saveData("goldChest", chest);
+            }
+
+            function switchWeapon(slot) {
+                //Starting Variables
+                const inventoryType = "inputInventoryWeapon" + slot;
+                const weaponType = document.getElementById(inventoryType + "Type").value;
+                const activeType = "inputActiveWeapon" + weaponType;
+
+                const textComponents = ["Name", "Trait", "Range", "Damage", "DamageType", "Burden", "Feature"];
+                textComponents.forEach(currentComponent => {
+                    if(currentComponent == "Burden" && weaponType == "Secondary") {return}
+                    var temporaryHolding = document.getElementById(activeType + currentComponent).value;
+                    document.getElementById(activeType + currentComponent).value = document.getElementById(inventoryType + currentComponent).value;
+                    document.getElementById(inventoryType + currentComponent).value = temporaryHolding;
+
+                    saveData("activeWeapon" + weaponType + currentComponent, document.getElementById(activeType + currentComponent).value);
+                    saveData("inventoryWeapon" + slot + currentComponent, document.getElementById(inventoryType + currentComponent).value);
+                })
+
+                const checkboxes = ["LeftHand", "RightHand"];
+                checkboxes.forEach(currentComponent => {
+                    var temporaryHolding = document.getElementById(activeType + currentComponent).checked;
+                    document.getElementById(activeType + currentComponent).checked = document.getElementById(inventoryType + currentComponent).checked;
+                    document.getElementById(inventoryType + currentComponent).checked = temporaryHolding;
+
+                    saveData("activeWeapon" + weaponType + currentComponent, document.getElementById(activeType + currentComponent).checked);
+                    saveData("inventoryWeapon" + slot + currentComponent, document.getElementById(inventoryType + currentComponent).checked);
+                })
+            }
+
+
+
+            //Other Buttons
+            //Reset Sheet Buttons
+            function resetSheet(stage)
+            {
+                function killButtons()
+                {
+                    document.getElementById("resetSure1").remove();
+                    document.getElementById("resetSure2").remove();
+                    document.getElementById("resetSure3").remove();
+                    document.getElementById("resetSure4").remove();
+                }
+
+                switch (stage)
+                {
+                    case 0:
+                        if(document.getElementById("resetSure1") == null)
+                        {
+                            document.getElementById("resetButtonArea").innerHTML += '<button id="resetSure1" style="position:absolute; right:10px; top: 35px;" onclick="resetSheet(1)">Are you sure?</button>';
+                            setTimeout(killButtons, 10000);
+                        }
+                        break;
+                    case 1:
+                        if(document.getElementById("resetSure2") == null)
+                        {
+                            document.getElementById("resetButtonArea").innerHTML += '<button id="resetSure2" style="position:absolute; right:10px; top: 60px;" onclick="resetSheet(2)">Are you REALLY sure?</button>';
+                        }
+                        break;
+                    case 2:
+                        if(document.getElementById("resetSure3") == null)
+                        {
+                            document.getElementById("resetButtonArea").innerHTML += '<button id="resetSure3" style="position:absolute; right:10px; top: 85px;" onclick="resetSheet(3)">Last warning-<br>There\'s no coming back.</button>';
+                        }
+                        break;
+                    case 3:
+                        if(document.getElementById("resetSure4") == null)
+                        {
+                            document.getElementById("resetButtonArea").innerHTML += '<button id="resetSure4" style="position:absolute; right:10px; top: 125px;" onclick="resetSheet(4)">TRULY Reset Sheet</button>';
+                        }
+                        break;
+                    case 4:
+                        localStorage.clear();
+                        window.location.reload();
+                        localStorage.setItem("level", 1);
+                        break;
+                }
+            }
+
+            //Download Sheet Button
+            function downloadSheet()
+            {
+                let sheet = {};
+                for(let i = 0; i < localStorage.length; i++)
+                {
+                    sheet[localStorage.key(i)] = localStorage.getItem(localStorage.key(i));
+                }
+
+
+                let str = localStorage.getItem("name") ?? "Daggerheart Character Sheet";
+
+                let today = new Date().toISOString();
+                str += " - " + today.replaceAll(":", ".").replaceAll("T", " - ").slice(0, -5);
+
+                download(str += ".json", JSON.stringify(sheet, null, "\t"));
+            }
+
+            //Upload Sheet Button + Controls
+            var fileInput = document.getElementById("uploadFileInput");
+            fileInput.addEventListener("change", handleFileSelection);
+            
+            function uploadSheet()
+            {
+                document.getElementById("uploadFileInput").click();
+            }
+
+            function handleFileSelection(event)
+            {
+                const file = event.target.files[0];
+
+                // Validate file existence and type
+                if (!file) {
+                    console.log("No file selected. Please choose a file.", "error");
+                    return;
+                }
+
+                if (!file.type.startsWith("text/plain") && !file.type.startsWith("application/json")) {
+                    console.log("Unsupported file type. Please select a text file.", "error");
+                    return;
+                }
+
+                // Read the file
+                const reader = new FileReader();
+                reader.onload = () => {
+                    
+                    localStorage.clear();
+                    localStorage.setItem("level", 1);
+                    let fileObject = JSON.parse(reader.result);
+                    for(var i = 0; i < Object.keys(fileObject).length; i++)
+                    {
+                        proprieties = Object.keys(fileObject);
+
+                        saveData(proprieties[i], fileObject[proprieties[i]]);
+                    }
+
+                    loadData();
+                };
+                
+                reader.readAsText(file);
+            }
+
+
+            //Other Functions
+
+            //Download function
+            function download(filename, text)
+            {
+                var element = document.createElement('a');
+                element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+                element.setAttribute('download', filename);
+
+                element.style.display = 'none';
+                document.body.appendChild(element);
+
+                element.click();
+
+                document.body.removeChild(element);
+            }
+
+            //Capitalize first letter in word
+            function capitalize(word) {return word.charAt(0).toUpperCase() + word.slice(1);}
+
+            //Removes Hashtag on the link when clicking one.
+            removeHash();
+            
+            function removeHash () { 
+                history.pushState("", document.title, window.location.pathname + window.location.search);
+            }
+        </script>
+    </body>
+</html>
