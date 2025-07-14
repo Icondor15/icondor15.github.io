@@ -146,7 +146,7 @@
     <body style="text-align: center;">
         <!--Reset Button-->
         <div id="resetButtonArea">
-            <button style="position:absolute; right:10px; top: 10px;" onclick="resetSheet(0)">Reset Sheet</button>
+            <button style="position:absolute; right:10px; top: 10px; z-index: 20;" onclick="resetSheet(0)">Reset Sheet</button>
         </div>
         
         <p style="font-size:7px; text-align:center; position:absolute; left: 5px; top: -3px;"><a id="secretLink" target="_blank" href="https://github.com/Icondor15/icondor15.github.io">Secret link to Github page!</a></p>
@@ -191,7 +191,7 @@
         <h1 style="margin: 10px;"><img src="./Favicon.ico" style="height: 1.7em; position:relative; top:0.45em"> Daggerheart Digital Character Sheet!</h1>
         <h3 style="margin-bottom: 6px;">A digital character sheet for storing all your character's info easily!</h3>
         <h5 style="margin-top: 0px; font-weight: normal; opacity: 0.75;">All the info written here is saved automatically and locally within your browser! (All info can be lost when clearing Site Data!)<br>There's also options to download and re-upload saved Character Sheets at the bottom right to be sure your character data is safely stored!</h5>
-        <span class="copyableText" style="opacity:0.5; margin:px;" onclick="navigator.clipboard.writeText('-').then().catch();">If you're using a mobile device, you might be unable to type in the minus sign (-) in number inputs!<br>Since I can't fix that, click here to copy a minus sign (-) to paste in number inputs!</span><br>
+        <span class="copyableText" style="opacity:0.5; margin: 0px;" onclick="navigator.clipboard.writeText('-').then().catch();">If you're using a mobile device, you might be unable to type in the minus sign (-) in number inputs!<br>Since I can't fix that, click here to copy a minus sign (-) to paste in number inputs!</span><br>
         
 
         <!--Class + Level + Domains-->
@@ -1481,26 +1481,26 @@
                     case 0:
                         if(document.getElementById("resetSure1") == null)
                         {
-                            document.getElementById("resetButtonArea").innerHTML += '<button id="resetSure1" style="position:absolute; right:10px; top: 35px;" onclick="resetSheet(1)">Are you sure?</button>';
+                            document.getElementById("resetButtonArea").innerHTML += '<button id="resetSure1" style="position:absolute; right:10px; top: 35px; z-index: 20;" onclick="resetSheet(1)">Are you sure?</button>';
                             setTimeout(killButtons, 10000);
                         }
                         break;
                     case 1:
                         if(document.getElementById("resetSure2") == null)
                         {
-                            document.getElementById("resetButtonArea").innerHTML += '<button id="resetSure2" style="position:absolute; right:10px; top: 60px;" onclick="resetSheet(2)">Are you REALLY sure?</button>';
+                            document.getElementById("resetButtonArea").innerHTML += '<button id="resetSure2" style="position:absolute; right:10px; top: 60px; z-index: 20;" onclick="resetSheet(2)">Are you REALLY sure?</button>';
                         }
                         break;
                     case 2:
                         if(document.getElementById("resetSure3") == null)
                         {
-                            document.getElementById("resetButtonArea").innerHTML += '<button id="resetSure3" style="position:absolute; right:10px; top: 85px;" onclick="resetSheet(3)">Last warning-<br>There\'s no coming back.</button>';
+                            document.getElementById("resetButtonArea").innerHTML += '<button id="resetSure3" style="position:absolute; right:10px; top: 85px; z-index: 20;" onclick="resetSheet(3)">Last warning-<br>There\'s no coming back.</button>';
                         }
                         break;
                     case 3:
                         if(document.getElementById("resetSure4") == null)
                         {
-                            document.getElementById("resetButtonArea").innerHTML += '<button id="resetSure4" style="position:absolute; right:10px; top: 125px;" onclick="resetSheet(4)">TRULY Reset Sheet</button>';
+                            document.getElementById("resetButtonArea").innerHTML += '<button id="resetSure4" style="position:absolute; right:10px; top: 125px; z-index: 20;" onclick="resetSheet(4)">TRULY Reset Sheet</button>';
                         }
                         break;
                     case 4:
