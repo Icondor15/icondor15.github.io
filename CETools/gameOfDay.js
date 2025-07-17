@@ -2,57 +2,58 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1797680,
-        "CEId": "67572fba-5a2b-45fe-ad40-2a8ff2dd7f26",
-        "name": "Wee Tanks!",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1797680/header.jpg?t=1688732888",
-        "genre": "Action",
-        "tier": 4,
-        "points": 185,
-        "createdAt": "2023-07-16T20:24:38.000Z",
+        "platformId": 2326350,
+        "CEId": "d1cddef6-5077-4bdd-afe6-431d10248fa1",
+        "name": "Grey Area",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2326350/header.jpg?t=1694769595",
+        "genre": "Platformer",
+        "tier": 2,
+        "points": 30,
+        "createdAt": "2024-07-17T07:34:08.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 1,
-        "playersStarted": 9,
-        "playersTotal": 74,
+        "playersCompleted": 2,
+        "playersStarted": 0,
+        "playersTotal": 7,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1950,
+                "final": 1950,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 899,
-                "final": 899,
+                "initial": 1675,
+                "final": 1675,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 120000,
-                "final": 120000,
+                "initial": 230000,
+                "final": 230000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 2950,
+                "final": 2950,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 2599,
+                "final": 2599,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "One Last Weep [125\u2605]\nFinish the full campaign on any difficulty without getting killed once. / Complete the True Run challenge solo on grandpa difficulty.\n\nLucky Cadet [45\u2605]\nFinish the full campaign on at least kid difficulty in one session. / Defeat the King Tank on adult difficulty without any armor.\n\nCrisis Core [15\u2605]\nObtain all achievements in survival mode.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 51
-        }
+            "primary": 2,
+            "primaryText": "Greybound [25\u2605]\nBeat the game on Punished difficulty.\n\nCausal Defect [5\u2605]\nReach the alternate ending on any difficulty.",
+            "community": 1,
+            "communityText": "50 Shades of Grey Area\nReach the alternate ending on Punished difficulty.",
+            "achievements": 17
+        },
+        "information": "Reaching the alternate ending requires unlocking and beating the secret level, which requires finding all collectibles and then using the soul attack ability on the Goddess of Ichor.\n\nIn regards to CO proof, the bunny jump ability automatically recharges on Punished difficulty exclusively."
     }
 }
-var gameOfDayDate = '2025-07-16'
+var gameOfDayDate = '2025-07-17'
