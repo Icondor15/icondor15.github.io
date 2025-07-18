@@ -33,7 +33,7 @@
             hr.alt {
                 opacity: 0.5;
                 min-width: 600px;
-                width: 66%;
+                width: 60%;
             }
             
             body, input, button, textarea {
@@ -97,6 +97,45 @@
             .hand:hover {
                 cursor:grab;
             }
+
+            .container {
+                display: flex;
+                margin: 5px 20px;
+                justify-content: center;
+                gap: 25px;
+                flex-wrap: wrap;
+            }
+
+            .card {
+                background-color: rgb(128,128,128);
+                border: 1px solid;
+                width: 120px;
+                border-radius: 4px;
+            }
+
+            .cardImage {
+                position:relative;
+                width:120px;
+                aspect-ratio: 5/7;
+                border-radius: 3px;
+                background-color:#00000066;
+
+                transition:
+                    all 0.2s ease-in-out,
+                    z-index 1s ease-in-out;
+                scale: 1;
+                box-shadow: 0px 0px 0px #000000;
+                z-index: 5;
+            }
+            .cardImage:hover, .cardImage:focus, .cardImage:active {
+                scale: 2.2;
+                box-shadow: 0px 0px 10px #000000;
+                z-index: 20;
+                transition:
+                    all 0.2s ease-in-out,    
+                    z-index 0s ease-in-out;
+            }
+
 
             #resetButtonArea :hover {
                 border-color: red;
@@ -174,6 +213,9 @@
                         <li><a href="#HitPointsAndStress">Hit Points & Stress</a></li>
                     </ul>
                     <li><a href="#Hope">Hope</a></li>
+                    <ul>
+                    <li><a href="#HopeFeature">Hope Feature</a></li>
+                    </ul>
                     <li><a href="#Experience">Experience</a></li>
                     <li><a href="#ClassFeature">Class Feature</a></li>
                     <li><a href="#ActiveWeapons">Active Weapons</a></li>
@@ -191,11 +233,17 @@
                     <li><a href="#AdditionalNotes">Additional Notes</a></li>
                     <li style="opacity:0;"></li>
                 </ul>
+                <h3><a href="#Cards">Cards</a></h3>
+                <ul>
+                    <li><a href="#HeritageAndSubclasses">Heritage and Subclasses</a></li>
+                    <li><a href="#Loadout">Loadout</a></li>
+                    <li><a href="#Vault">Vault</a></li>
+                </ul>
             </div>
         </div>
 
         <!--Title-->
-        <span style="opacity:0.5; margin: 0px; font-size: x-small;">I am not affiliated with Critical Role or Darrington Press, This is a personal project made mostly for me and my friends.</span>
+        <span style="opacity:0.5; margin: 0px; font-size: x-small;">I am not affiliated with Critical Role or Darrington Press, This is a personal project made mostly for me and my friends.<br>Support Daggerheart at <a href="https://www.daggerheart.com" target="_blank">www.daggerheart.com</a></span>
         <h1 style="margin: 10px;"><img src="./Favicon.ico" style="height: 1.7em; position:relative; top:0.45em"> Daggerheart Digital Character Sheet!</h1>
         <h3 style="margin-bottom: 6px;">A digital character sheet for storing all your character's info easily!</h3>
         <h5 style="margin-top: 0px; font-weight: normal; opacity: 0.75;">All the info written here is saved automatically and locally within your browser! (All info can be lost when clearing Site Data!)<br>There's also options to download and re-upload saved Character Sheets at the bottom right to be sure your character data is safely stored!</h5>
@@ -602,6 +650,7 @@
 
         <hr class="alt">
 
+        <a name="HopeFeature" class="anchor"></a>
         <h3><label for="inputHopeFeature">Hope Feature:</label></h3>
         <textarea cols="75" rows="3" id="inputHopeFeature" name="hopeFeature"></textarea>
 
@@ -829,7 +878,7 @@
 
         <!--Inventory-->
         <a name="Inventory" class="anchor"></a>
-        <h2>Inventory</h2>
+        <h2><label for="inputInventoryItems">Inventory</label></h2>
         <textarea id="inputInventoryItems" name="inventoryItems" type="text"  cols="80" rows="15"></textarea>
 
         
@@ -1001,6 +1050,48 @@
         
         <textarea id="inputAdditionalNotes" name="additionalNotes" type="text"  cols="80" rows="15"></textarea>
 
+        <hr>
+        
+        <!--Cards-->
+        <a name="Cards" class="anchor"></a>
+        <h1>Cards</h1>
+        <p style="margin: auto 25px;">To add Cards, insert the link to the image of the card you want to add in the text box below, and click one of the two buttons underneath.<br>If the image doesn't show, you might have a broken or expired link!</p>
+        <h5 style="margin: 3px; font-weight: normal; opacity: 0.66;">
+            Hover with the mouse, or tap on the cards on mobile to expand them! 
+        </h5>
+        <br>
+        <label for="inputAddCard"><span style="font-size: large; font-weight: bold;">Add Card</span><br>Image Link:</label>
+        <input class="noSave" id="inputAddCard" style="width:300px"><br>
+        <div style="margin: 10px;">
+            <button onclick="addCard(0)">Add to Heritage and Subclasses</button>
+            <button onclick="addCard(1)">Add to Vault</button>
+        </div>
+        <h5 style="margin: 3px; font-weight: normal; opacity: 0.66;">
+            You can find the DH Core cards <a href="https://filegarden.com/users/6680666b8e4b2e5feaa4e3e9/garden/#aHj1V1iQNGA4ODvO" target="_blank">Here</a>. (Taken from the print-friendly versions on the Daggerheart website.)
+            <br>(For custom cards, you can use any image/file hosting service of your choosing.)
+        </h5>
+
+        <a name="HeritageAndSubclasses" class="anchor"></a>
+        <div style="background-color: #00000033; padding: 5px;border-radius: 20px; margin: 10px 35px">
+            <h2>Heritage And Subclasses</h2>
+            <div class="container" id="cardsHeritageSubclass">
+            </div>
+        </div>
+
+        <a name="Loadout" class="anchor"></a>
+        <div style="background-color: #00000033; padding: 5px;border-radius: 20px; margin: 10px 35px">
+            <h2 id="loadoutText">Loadout (0/5)</h2>
+            <div class="container" id="cardsLoadout">
+            </div>
+        </div>
+        
+        <a name="Vault" class="anchor"></a>
+        <div style="background-color: #00000033; padding: 5px;border-radius: 20px; margin: 10px 35px">
+            <h2>Vault</h2>
+            <div class="container" id="cardsVault">
+            </div>
+        </div>
+        
 
         <!--Footer-->
         <br>
@@ -1034,6 +1125,11 @@
 
 
         <script>
+            //Card variables
+            var heritageSubclassCards = [];
+            var vaultCards = [];
+            var loadoutCards = [];
+
             //Find all inputs
             var inputs = document.getElementsByTagName("input");
             Array.from(inputs).forEach(element => {
@@ -1126,6 +1222,26 @@
                     }
                     catch {}
                 })
+
+                //Load cards
+                if(localStorage.getItem("heritageSubclassCards") != null)
+                {
+                    heritageSubclassCards = JSON.parse(localStorage.getItem("heritageSubclassCards"));
+
+                    heritageSubclassCards.forEach(element => {loadCard(0, element)});
+                }
+                if(localStorage.getItem("vaultCards") != null)
+                {
+                    vaultCards = JSON.parse(localStorage.getItem("vaultCards"))
+
+                    vaultCards.forEach(element => {loadCard(1, element)});
+                }
+                if(localStorage.getItem("loadoutCards") != null)
+                {
+                    loadoutCards = JSON.parse(localStorage.getItem("loadoutCards"))
+
+                    loadoutCards.forEach(element => {loadCard(2, element)});
+                }
 
                 additionalChecks();
             }
@@ -1470,7 +1586,169 @@
                 })
             }
 
+            //Add card
+            //Via Textbox
+            function addCard(type)
+            {
+                if(document.getElementById("inputAddCard").value == "") {return;}
 
+                //Heritage and Subclasses
+                if(type == 0)
+                {
+                    document.getElementById("cardsHeritageSubclass").innerHTML += "<div class='card'>" + 
+                        "<img class='cardImage' alt='Couldn&apos;t find image! Maybe the link is broken or expired?' src='" + document.getElementById("inputAddCard").value + "' />" + 
+                        "<button onclick='removeCard(this.parentElement)' style='margin:8px; font-size: 1.05em; font-weight: bold; color: #FF4444; border-color: #FF4444'>🗑 Delete</button>" +
+                    "</div>";
+
+                    heritageSubclassCards[heritageSubclassCards.length] = document.getElementById("inputAddCard").value;
+
+                    localStorage.setItem("heritageSubclassCards", '["' + heritageSubclassCards.join('","') + '"]');
+
+                    document.getElementById("inputAddCard").value = "";
+                }
+                //Vault
+                else if(type == 1)
+                {
+                    document.getElementById("cardsVault").innerHTML += "<div class='card'>" + 
+                        "<button onclick='swapCard(this.parentElement)' style='margin:8px; font-size: 1.05em; font-weight: bold;'>⇅ Swap</button>" +
+                        "<img class='cardImage' alt='Couldn&apos;t find image! Maybe the link is broken or expired?' src='" + document.getElementById("inputAddCard").value + "' />" + 
+                        "<button onclick='removeCard(this.parentElement)' style='margin:8px; font-size: 1.05em; font-weight: bold; color: #FF4444; border-color: #FF4444'>🗑 Delete</button>" +
+                    "</div>";
+
+                    vaultCards[vaultCards.length] = document.getElementById("inputAddCard").value;
+
+                    localStorage.setItem("vaultCards", '["' + vaultCards.join('","') + '"]');
+
+                    document.getElementById("inputAddCard").value = "";
+                }
+            }
+            //Via storage
+            function loadCard(type, string)
+            {
+                //Heritage and Subclasses
+                if(type == 0)
+                {
+                    document.getElementById("cardsHeritageSubclass").innerHTML += "<div class='card'>" + 
+                        "<img class='cardImage' alt='Couldn&apos;t find image! Maybe the link is broken or expired?' src='" + string + "' />" + 
+                        "<button onclick='removeCard(this.parentElement)' style='margin:8px; font-size: 1.05em; font-weight: bold; color: #FF4444; border-color: #FF4444'>🗑 Delete</button>" +
+                    "</div>";
+                }
+                //Vault
+                else if(type == 1)
+                {
+                    document.getElementById("cardsVault").innerHTML += "<div class='card'>" +  
+                        "<button onclick='swapCard(this.parentElement)' style='margin:8px; font-size: 1.05em; font-weight: bold;'>⇅ Swap</button>" +
+                        "<img class='cardImage' alt='Couldn&apos;t find image! Maybe the link is broken or expired?' src='" + string + "' />" + 
+                        "<button onclick='removeCard(this.parentElement)' style='margin:8px; font-size: 1.05em; font-weight: bold; color: #FF4444; border-color: #FF4444'>🗑 Delete</button>" +
+                    "</div>";
+                }
+                //Vault
+                else if(type == 2)
+                {
+                    document.getElementById("cardsLoadout").innerHTML += "<div class='card'>" +  
+                        "<button onclick='swapCard(this.parentElement)' style='margin:8px; font-size: 1.05em; font-weight: bold;'>⇅ Swap</button>" +
+                        "<img class='cardImage' alt='Couldn&apos;t find image! Maybe the link is broken or expired?' src='" + string + "' />" + 
+                        "<button onclick='removeCard(this.parentElement)' style='margin:8px; font-size: 1.05em; font-weight: bold; color: #FF4444; border-color: #FF4444'>🗑 Delete</button>" +
+                    "</div>";
+                }
+
+                if(loadoutCards.length < 6) {document.getElementById("loadoutText").innerHTML = "Loadout (" + loadoutCards.length + "/5)";}
+                else {document.getElementById("loadoutText").innerHTML = "<span style='color: #FF4444'>!! Loadout (" + loadoutCards.length + "/5) !!<br>Too many!</span>";}
+                
+            }
+            //Via Swapping
+            function swapCard(element) {
+                //Get card link
+                var cardString;
+                Array.from(element.children).forEach(el => {
+                    if(el.tagName == "IMG") {cardString = el.src}
+                })
+
+                //Check if Vault or Loadout
+                if(element.parentElement.id == "cardsVault") 
+                {
+                    document.getElementById("cardsLoadout").innerHTML += element.outerHTML;
+
+                    loadoutCards[loadoutCards.length] = cardString;
+                    localStorage.setItem("loadoutCards", '["' + loadoutCards.join('","') + '"]');
+                }
+                else
+                {
+                    document.getElementById("cardsVault").innerHTML += element.outerHTML;
+
+                    vaultCards[vaultCards.length] = cardString;
+                    localStorage.setItem("vaultCards", '["' + vaultCards.join('","') + '"]');
+                }
+                removeCard(element);
+                
+                
+                if(loadoutCards.length < 6) {document.getElementById("loadoutText").innerHTML = "Loadout (" + loadoutCards.length + "/5)";}
+                else {document.getElementById("loadoutText").innerHTML = "<span style='color: #FF4444'>!! Loadout (" + loadoutCards.length + "/5) !!<br>Too many!</span>";}
+            }
+
+            //remove card
+            function removeCard(element)
+            {
+                //Heritage and Subclasses
+                if(element.parentElement.id == "cardsHeritageSubclass") 
+                {
+                    var cards = document.getElementById("cardsHeritageSubclass").children;
+
+                    var i = 0;
+                    Array.from(cards).forEach(confront => {
+                        if(confront == element)
+                        {
+                            element.remove();
+
+                            heritageSubclassCards.splice(i, 1);
+                            
+                            if(heritageSubclassCards.length > 0) {localStorage.setItem("heritageSubclassCards", '["' + heritageSubclassCards.join('","') + '"]');}
+                            else {localStorage.removeItem("heritageSubclassCards");}
+                        }
+                        i++;
+                    })
+                }
+                else if(element.parentElement.id == "cardsVault") 
+                {
+                    var cards = document.getElementById("cardsVault").children;
+
+                    var i = 0;
+                    Array.from(cards).forEach(confront => {
+                        if(confront == element)
+                        {
+                            element.remove();
+
+                            vaultCards.splice(i, 1);
+                            
+                            if(vaultCards.length > 0) {localStorage.setItem("vaultCards", '["' + vaultCards.join('","') + '"]');}
+                            else {localStorage.removeItem("vaultCards");}
+                        }
+                        i++;
+                    })
+                }
+                else if(element.parentElement.id == "cardsLoadout") 
+                {
+                    var cards = document.getElementById("cardsLoadout").children;
+
+                    var i = 0;
+                    Array.from(cards).forEach(confront => {
+                        if(confront == element)
+                        {
+                            element.remove();
+
+                            loadoutCards.splice(i, 1);
+                            
+                            if(loadoutCards.length > 0) {localStorage.setItem("loadoutCards", '["' + loadoutCards.join('","') + '"]');}
+                            else {localStorage.removeItem("loadoutCards");}
+                        }
+                        i++;
+                    })
+                }
+                
+                
+                if(loadoutCards.length < 6) {document.getElementById("loadoutText").innerHTML = "Loadout (" + loadoutCards.length + "/5)";}
+                else {document.getElementById("loadoutText").innerHTML = "<span style='color: #FF4444'>!! Loadout (" + loadoutCards.length + "/5) !!<br>Too many!</span>";}
+            }
 
             //Other Buttons
             //Reset Sheet Buttons
