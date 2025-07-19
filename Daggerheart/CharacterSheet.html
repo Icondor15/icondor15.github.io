@@ -1413,7 +1413,9 @@
 
                 if(finalLow.innerHTML - finalHigh.innerHTML >= 0)
                 {
-                    finalHigh.innerHTML = -(-finalLow.innerHTML - 1);
+                    if(finalLow.innerHTML == document.getElementById("inputLevel").value)
+                    {finalHigh.innerHTML = document.getElementById("inputLevel").value * 2}
+                    else {finalHigh.innerHTML = -(-finalLow.innerHTML - 1);}
                 }
 
                 document.getElementById("finalArmorThresholdMassive").innerHTML = document.getElementById("finalArmorThresholdHigh").innerHTML*2;
@@ -1797,8 +1799,8 @@
                         break;
                     case 4:
                         localStorage.clear();
-                        window.location.reload();
                         localStorage.setItem("level", 1);
+                        window.location.reload();
                         break;
                 }
             }
