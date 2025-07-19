@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2860150,
-        "CEId": "1017571b-2377-492e-b991-df1ab23720c4",
-        "name": "Asteroid Drift",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2860150/header.jpg?t=1718004677",
+        "platformId": 1766810,
+        "CEId": "586ffe39-18a4-42ed-8f0e-293dedc66a88",
+        "name": "SnOut 2",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1766810/header.jpg?t=1645531215",
         "genre": "Arcade",
-        "tier": 1,
-        "points": 5,
-        "createdAt": "2024-07-18T02:52:02.000Z",
+        "tier": 3,
+        "points": 50,
+        "createdAt": "2022-07-19T05:54:53.000Z",
         "updatedAt": "2025-06-08T19:48:04.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 0,
-        "playersTotal": 6,
+        "playersCompleted": 1,
+        "playersStarted": 2,
+        "playersTotal": 14,
         "priceData": {
             "USD": {
-                "initial": 299,
-                "final": 299,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 299,
-                "final": 299,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 249,
-                "final": 249,
+                "initial": 339,
+                "final": 339,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 35000,
-                "final": 35000,
+                "initial": 47000,
+                "final": 47000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 450,
-                "final": 450,
+                "initial": 595,
+                "final": 595,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 389,
-                "final": 389,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Fasteroid [5\u2605]\nAchieve a Divine time on all levels.",
-            "community": 1,
-            "communityText": "In the Nick of Time\nBeat Nick's Time of 7:21:64.",
-            "achievements": 32
+            "primary": 2,
+            "primaryText": "Anaconda [40\u2605]\nAchieve 10,000 points in a single Endless Mode run.\n\nFusion-Ha [10\u2605]\nProve yourself.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 13
         }
     }
 }
-var gameOfDayDate = '2025-07-18'
+var gameOfDayDate = '2025-07-19'
