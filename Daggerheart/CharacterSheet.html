@@ -204,7 +204,17 @@
                 <h3>Jump to...<br><a href="#">^ Top ^</a></h3>
                 <ul>
                     <li><a href="#ClassLevelDomain">Class - Level - Domain</a></li>
-                    <li><a href="#BaseCharacterInfo">Base Character Info</a></li>
+                    <li><a href="#CharacterInformation">Character Information</a></li>
+                    <ul>
+                        <li><a href="#BasicInformation">Basic Information</a></li>
+                        <li><a href="#ExtraInformation">Extra Information</a></li>
+                    <ul>
+                        <li><a href="#PhysicalDescription">Physical Description</a></li>
+                        <li><a href="#Backstory">Backstory / Lore</a></li>
+                        <li><a href="#Connections">Connections</a></li>
+                        <li><a href="#CharacterImage">Character Image</a></li>
+                    </ul>
+                    </ul>
                     <li><a href="#Traits">Traits</a></li>
                     <li><a href="#EvasionAndArmorScore">Evasion & Armor Score</a></li>
                     <li><a href="#DamageAndHealth">Damage & Health</a></li>
@@ -296,38 +306,58 @@
         
         <hr>
 
-        <a name="BaseCharacterInfo" class="anchor"></a>
-        <h2>Base Character Info</h2>
-
         <!--Name + Pronouns + Heritage-->
+        <a name="CharacterInformation" class="anchor"></a>
+        <h2>Character Information</h2>
+
+        <a name="BasicInformation" class="anchor"></a>
+        <h3>Basic Information</h3>
         <table>
             <tr>
                 <td><label for="inputName">Name</label></td>
                 <td> <label for="inputPronouns">Pronouns</label></td>
-            </tr>
-            <tr>
-                <td><input id="inputName" name="name" type="text"></td>
-                <td><input id="inputPronouns" name="pronouns" type="text"></td>
-            </tr>
-            <tr>
-                <td colspan="2"><b>vv Heritage vv</b></td>
-            </tr>
-            <tr>
                 <td><label for="inputCommunity">Community</label></td>
                 <td><label for="inputAncestry">Ancestry</label></td>
             </tr>
             <tr>
+                <td><input id="inputName" name="name" type="text"></td>
+                <td><input id="inputPronouns" name="pronouns" type="text"></td>
                 <td><input id="inputCommunity" name="community" type="text"></td>
                 <td><input id="inputAncestry" name="ancestry" type="text"></td>
             </tr>
         </table>
 
+        <hr class="alt">
+
+        <!--Extra info-->
+        <a name="ExtraInformation" class="anchor"></a>
+        <h3>Extra Information</h3>
+
+        <a name="PhysicalDescription" class="anchor"></a>
+        <h3 style="margin-top: 5px; margin-bottom:2px;"><label for="inputPhysicalDescription">Physical Description</label></h3>
+        <textarea cols="75" rows="6" id="inputPhysicalDescription" name="physicalDescription"></textarea>
+
+        <a name="Backstory" style="position:relative; bottom:-20px;" class="anchor"></a>
+        <h3 style="margin-top: 5px; margin-bottom:2px;"><label for="inputBackstory">Backstory / Lore</label></h3>
+        <textarea cols="75" rows="6" id="inputBackstory" name="backstory"></textarea>
+
+        <a name="Connections" style="position:relative; bottom:-20px;" class="anchor"></a>
+        <h3 style="margin-top: 5px; margin-bottom:2px;"><label for="inputConnections">Connections</label></h3>
+        <textarea cols="75" rows="6" id="inputConnections" name="connections"></textarea>
+        <br>
+        
+        <a name="CharacterImage" class="anchor"></a>
+        <h3 style="margin-top: 5px; margin-bottom:2px;"><label for="inputCharacterImage">Character Image (Image Link)</label></h3>
+        <input style="width:500px;" type="text" id="inputCharacterImage" name="characterImage">
+        <br>
+        <img id="characterImageView" style="margin-top:10px; object-fit:contain; max-height: 450px; max-width: 500px;" alt="Image Link Invalid!">
+
         <hr>
         
+        <!--Trait Scores-->
         <a name="Traits" class="anchor"></a>
         <h2>Traits</h2>
         
-        <!--Trait Scores-->
         <table style="width:850px;">
             <tr style="text-align: center; font-weight: bold;">
                 <td colspan="3">
@@ -1061,7 +1091,7 @@
         </h5>
         <br>
         <label for="inputAddCard"><span style="font-size: large; font-weight: bold;">Add Card</span><br>Image Link:</label>
-        <input class="noSave" id="inputAddCard" style="width:300px"><br>
+        <input class="noSave" id="inputAddCard" style="width:500px"><br>
         <div style="margin: 10px;">
             <button onclick="addCard(0)">Add to Heritage and Subclasses</button>
             <button onclick="addCard(1)">Add to Vault</button>
@@ -1333,6 +1363,16 @@
                 //Change title to character's name
                 if(document.getElementById("inputName").value != "") {document.title = document.getElementById("inputName").value + "'s Character Sheet";}
                 else {document.title = "Daggerheart Character Sheet";}
+
+                //Set character image
+                if(document.getElementById("inputCharacterImage").value != "")
+                {
+                    document.getElementById("characterImageView").src = document.getElementById("inputCharacterImage").value;
+                    document.getElementById("characterImageView").style.display = "revert";
+                }
+                else {
+                    document.getElementById("characterImageView").style.display = "none";
+                }
 
 
                 //Set Final Trait Values
