@@ -10,7 +10,7 @@ var gameOfDay =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-07-21T04:59:30.000Z",
-        "updatedAt": "2025-06-08T19:48:04.000Z",
+        "updatedAt": "2025-07-20T17:38:01.000Z",
         "playersCompleted": 8,
         "playersStarted": 1,
         "playersTotal": 15,
