@@ -1,27 +1,58 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 3,
-        "platformId": 13772,
-        "CEId": "faa802aa-2730-439b-9422-22f3cad60cf3",
-        "name": "Kururin Paradise",
-        "header": "https://upload.cedb.me/MCDIIR.png",
+        "gameType": 0,
+        "platformId": 1410600,
+        "CEId": "3819697c-6048-49a6-8eae-e4a6cd0b225d",
+        "name": "MIRAY",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1410600/header.jpg?t=1679712426",
         "genre": "Arcade",
         "tier": 3,
-        "points": 40,
-        "createdAt": "2024-07-21T04:59:30.000Z",
+        "points": 50,
+        "createdAt": "2024-07-22T17:27:56.000Z",
         "updatedAt": "2025-07-20T17:38:01.000Z",
-        "playersCompleted": 8,
-        "playersStarted": 1,
-        "playersTotal": 15,
+        "playersCompleted": 7,
+        "playersStarted": 10,
+        "playersTotal": 33,
+        "priceData": {
+            "USD": {
+                "initial": 699,
+                "final": 699,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 569,
+                "final": 569,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 519,
+                "final": 519,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 72000,
+                "final": 72000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 995,
+                "final": 995,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 799,
+                "final": 799,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
             "primary": 3,
-            "primaryText": "Like Father, Like Son [20\u2605]\nBeat all of Totorin's times.\n\nOne Helirin of a Show [10\u2605]\nGet a Perfect in every stage in Neo Land.\n\nTrouble in Paradise [10\u2605]\nGet a Perfect in every stage in the first four worlds in Adventure mode, and every stage in Challenge mode.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 69
-        },
-        "information": "The final 4x levels in Adventure Mode (the \"One Helirin of a Show\" PO), and Challenge Lvl 11 levels in Challenge Mode unlock when all previous levels in that mode have a perfect (no hit) rating.\n\nLike Father, Like Son - Totorin's times become visible in game after beating all of the Baron's times (\"B\" on the leaderboard). The achievement will not unlock if there are tied times, even if the leaderboard shows your name first.\n\nAll dad/Totorin times can be found here:\nhttps://docs.google.com/spreadsheets/d/1qRX1DIkDDytZr3c3M5zpcHooht9SwxkXODjNqy1h1nI"
+            "primaryText": "Mirror Master [25\u2605]\nClear all songs on hardmode with no misses.\n\nAngular Artist [15\u2605]\nClear all three extra songs with no misses.\n\nRhythmic Reflector [10\u2605]\nClear songs 1 through 15 and Ending with no misses.",
+            "community": 1,
+            "communityText": "Lightspeed Legend\nClear all songs on 2x speed with no misses.",
+            "achievements": 59
+        }
     }
 }
-var gameOfDayDate = '2025-07-21'
+var gameOfDayDate = '2025-07-22'
