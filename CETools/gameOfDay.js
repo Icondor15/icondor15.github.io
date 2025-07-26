@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 268500,
-        "CEId": "0caef657-87fb-48a7-a964-1b84d7931cc2",
-        "name": "XCOM\u00ae 2",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/268500/header.jpg?t=1646157374",
-        "genre": "Strategy",
+        "platformId": 1701520,
+        "CEId": "a8783c0a-ac89-4d33-ae1d-1b387c10bd42",
+        "name": "Afterimage",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1701520/header.jpg?t=1669795839",
+        "genre": "Action",
         "tier": 3,
-        "points": 45,
-        "createdAt": "2022-07-25T16:16:32.000Z",
+        "points": 55,
+        "createdAt": "2023-07-26T23:57:01.000Z",
         "updatedAt": "2025-07-20T17:38:01.000Z",
         "playersCompleted": 2,
-        "playersStarted": 8,
-        "playersTotal": 437,
+        "playersStarted": 1,
+        "playersTotal": 169,
         "priceData": {
             "USD": {
-                "initial": 5999,
-                "final": 299,
-                "discountPercent": 95
+                "initial": 2499,
+                "final": 2499,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 4999,
-                "final": 249,
-                "discountPercent": 95
+                "initial": 2499,
+                "final": 2499,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 3499,
-                "final": 174,
-                "discountPercent": 95
+                "initial": 2099,
+                "final": 2099,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 700000,
-                "final": 35000,
-                "discountPercent": 95
+                "initial": 280000,
+                "final": 280000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 8995,
-                "final": 449,
-                "discountPercent": 95
+                "initial": 3595,
+                "final": 3595,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 7999,
-                "final": 399,
-                "discountPercent": 95
+                "initial": 2999,
+                "final": 2999,
+                "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Immortal Commander[35\u2605 (Partial: 10\u2605)]\nProve yourself.\n\nFirst-Rate Fighter [10\u2605]\nEarn a gold medal on every campaign mission in the DLC.",
+            "primary": 3,
+            "primaryText": "Pantheon of Engardin [30\u2605]\nDefeat the All Bosses Tag Match in Trial of Soul with a \"Perfect\" hit score.\n\nTitan Vanquisher [15\u2605]\nDefeat all bosses individually in Trial of Soul with \"Perfect\" hit scores.\n\nTrials of the Ancient [10\u2605]\nDefeat all boss Combinations in Trial of Soul with \"Perfect\" hit scores.",
             "community": 0,
             "communityText": "",
-            "achievements": 88
+            "achievements": 46
         }
     }
 }
-var gameOfDayDate = '2025-07-25'
+var gameOfDayDate = '2025-07-26'
