@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1701520,
-        "CEId": "a8783c0a-ac89-4d33-ae1d-1b387c10bd42",
-        "name": "Afterimage",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1701520/header.jpg?t=1669795839",
-        "genre": "Action",
-        "tier": 3,
-        "points": 55,
-        "createdAt": "2023-07-26T23:57:01.000Z",
+        "platformId": 1098470,
+        "CEId": "c551d6fb-051f-493c-943e-2d328fb60ab5",
+        "name": "The Gardener and the Wild Vines",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1098470/header.jpg?t=1704498429",
+        "genre": "Platformer",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2024-07-27T04:42:37.000Z",
         "updatedAt": "2025-07-20T17:38:01.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 1,
-        "playersTotal": 169,
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 4,
         "priceData": {
             "USD": {
-                "initial": 2499,
-                "final": 2499,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 2499,
-                "final": 2499,
+                "initial": 819,
+                "final": 819,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 2099,
-                "final": 2099,
+                "initial": 719,
+                "final": 719,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 280000,
-                "final": 280000,
+                "initial": 101000,
+                "final": 101000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 3595,
-                "final": 3595,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 1149,
+                "final": 1149,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Pantheon of Engardin [30\u2605]\nDefeat the All Bosses Tag Match in Trial of Soul with a \"Perfect\" hit score.\n\nTitan Vanquisher [15\u2605]\nDefeat all bosses individually in Trial of Soul with \"Perfect\" hit scores.\n\nTrials of the Ancient [10\u2605]\nDefeat all boss Combinations in Trial of Soul with \"Perfect\" hit scores.",
+            "primary": 1,
+            "primaryText": "Plant Powered [5\u2605]\nObtain 3 stars on all Challenge levels.",
             "community": 0,
             "communityText": "",
-            "achievements": 46
+            "achievements": 22
         }
     }
 }
-var gameOfDayDate = '2025-07-26'
+var gameOfDayDate = '2025-07-27'
