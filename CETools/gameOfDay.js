@@ -2,22 +2,22 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1098470,
-        "CEId": "c551d6fb-051f-493c-943e-2d328fb60ab5",
-        "name": "The Gardener and the Wild Vines",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1098470/header.jpg?t=1704498429",
-        "genre": "Platformer",
+        "platformId": 915130,
+        "CEId": "eb5ea9b7-d22c-457e-b0c9-15464edbcc4e",
+        "name": "\u4e1c\u65b9\u9f99\u9690\u8ac7 ~ Touhou Chaos of Black Loong",
+        "header": "https://steamcdn-a.akamaihd.net/steam/apps/915130/header.jpg?t=1619810625",
+        "genre": "Bullet Hell",
         "tier": 1,
-        "points": 5,
-        "createdAt": "2024-07-27T04:42:37.000Z",
+        "points": 15,
+        "createdAt": "2024-07-28T23:25:11.000Z",
         "updatedAt": "2025-07-20T17:38:01.000Z",
-        "playersCompleted": 0,
+        "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 4,
+        "playersTotal": 10,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 990,
+                "final": 990,
                 "discountPercent": 0
             },
             "EUR": {
@@ -31,8 +31,8 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 101000,
-                "final": 101000,
+                "initial": 100000,
+                "final": 100000,
                 "discountPercent": 0
             },
             "AUD": {
@@ -47,12 +47,12 @@ var gameOfDay =
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Plant Powered [5\u2605]\nObtain 3 stars on all Challenge levels.",
+            "primary": 2,
+            "primaryText": "Imperishable Loong [10\u2605]\nBeat the game on Lunatic without using continues.\n\nTag Teamer [5\u2605]\nBeat the game on Normal or higher without using continues. / Beat the Extra mode.",
             "community": 0,
             "communityText": "",
-            "achievements": 22
+            "achievements": 0
         }
     }
 }
-var gameOfDayDate = '2025-07-27'
+var gameOfDayDate = '2025-07-28'
