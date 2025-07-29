@@ -1,58 +1,26 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 915130,
-        "CEId": "eb5ea9b7-d22c-457e-b0c9-15464edbcc4e",
-        "name": "\u4e1c\u65b9\u9f99\u9690\u8ac7 ~ Touhou Chaos of Black Loong",
-        "header": "https://steamcdn-a.akamaihd.net/steam/apps/915130/header.jpg?t=1619810625",
-        "genre": "Bullet Hell",
-        "tier": 1,
-        "points": 15,
-        "createdAt": "2024-07-28T23:25:11.000Z",
+        "gameType": 3,
+        "platformId": 25493,
+        "CEId": "9b209163-a21a-462d-875e-f3cdd97dbe8e",
+        "name": "Kururin Squash!",
+        "header": "https://i.imgur.com/yZJhd8E.png",
+        "genre": "Arcade",
+        "tier": 2,
+        "points": 25,
+        "createdAt": "2024-07-29T14:33:28.000Z",
         "updatedAt": "2025-07-20T17:38:01.000Z",
-        "playersCompleted": 4,
+        "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 10,
-        "priceData": {
-            "USD": {
-                "initial": 990,
-                "final": 990,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 819,
-                "final": 819,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 719,
-                "final": 719,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 100000,
-                "final": 100000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 1149,
-                "final": 1149,
-                "discountPercent": 0
-            }
-        },
+        "playersTotal": 13,
         "milestones": {
             "primary": 2,
-            "primaryText": "Imperishable Loong [10\u2605]\nBeat the game on Lunatic without using continues.\n\nTag Teamer [5\u2605]\nBeat the game on Normal or higher without using continues. / Beat the Extra mode.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 0
+            "primaryText": "Squash the Competition [15\u2605]\nGet Perfect in all stages\n\nDad Would be Proud [10\u2605]\nBeat all Dad times in Adventure mode.",
+            "community": 1,
+            "communityText": "Super Player\nBeat all times shown in the \"Super Guide\" videos.",
+            "achievements": 66
         }
     }
 }
-var gameOfDayDate = '2025-07-28'
+var gameOfDayDate = '2025-07-29'
