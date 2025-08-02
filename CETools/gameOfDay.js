@@ -2,53 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 251130,
-        "CEId": "51431149-3450-45a5-b574-b223800b5d76",
-        "name": "Chroma Squad",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/251130/header.jpg?t=1601931904",
+        "platformId": 621930,
+        "CEId": "8ee114fb-b5d7-4897-ab15-334d00f283a4",
+        "name": "Attack of the Earthlings",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/621930/header.jpg?t=1568795123",
         "genre": "Strategy",
         "tier": 1,
         "points": 5,
-        "createdAt": "2022-08-01T17:42:22.000Z",
+        "createdAt": "2022-08-02T05:16:30.000Z",
         "updatedAt": "2025-07-20T17:38:01.000Z",
-        "playersCompleted": 10,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 224,
+        "playersTotal": 49,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 80
             },
             "EUR": {
-                "initial": 1479,
-                "final": 1479,
-                "discountPercent": 0
+                "initial": 1259,
+                "final": 251,
+                "discountPercent": 80
             },
             "GBP": {
-                "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "initial": 1150,
+                "final": 230,
+                "discountPercent": 80
+            },
+            "JPY": {
+                "initial": 155000,
+                "final": 31000,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 439,
+                "discountPercent": 80
             },
             "CAD": {
-                "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "initial": 1699,
+                "final": 339,
+                "discountPercent": 80
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mighty Morphin' Power Rainbow [5\u2605]\nComplete the game on \"Challenging\" difficulty.",
+            "primaryText": "Certified Misanthrope [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
-            "achievements": 43
-        },
-        "information": "Curated on Steam: https://store.steampowered.com/app/251130/Chroma_Squad/?curator_clanid=36185934"
+            "achievements": 37
+        }
     }
 }
-var gameOfDayDate = '2025-08-01'
+var gameOfDayDate = '2025-08-02'
