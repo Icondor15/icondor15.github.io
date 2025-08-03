@@ -2,57 +2,58 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 621930,
-        "CEId": "8ee114fb-b5d7-4897-ab15-334d00f283a4",
-        "name": "Attack of the Earthlings",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/621930/header.jpg?t=1568795123",
-        "genre": "Strategy",
-        "tier": 1,
-        "points": 5,
-        "createdAt": "2022-08-02T05:16:30.000Z",
+        "platformId": 2622220,
+        "CEId": "30fad515-6312-4fae-a3d0-5c8e97df64b3",
+        "name": "AVOID",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2622220/header.jpg?t=1720856641",
+        "genre": "Arcade",
+        "tier": 4,
+        "points": 130,
+        "createdAt": "2024-08-03T22:14:19.000Z",
         "updatedAt": "2025-07-20T17:38:01.000Z",
-        "playersCompleted": 3,
-        "playersStarted": 0,
-        "playersTotal": 49,
+        "playersCompleted": 1,
+        "playersStarted": 3,
+        "playersTotal": 17,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 299,
-                "discountPercent": 80
+                "initial": 999,
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 1259,
-                "final": 251,
-                "discountPercent": 80
+                "initial": 975,
+                "final": 975,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 1150,
-                "final": 230,
-                "discountPercent": 80
+                "initial": 850,
+                "final": 850,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 155000,
-                "final": 31000,
-                "discountPercent": 80
+                "initial": 120000,
+                "final": 120000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 2195,
-                "final": 439,
-                "discountPercent": 80
+                "initial": 1450,
+                "final": 1450,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 1699,
-                "final": 339,
-                "discountPercent": 80
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Certified Misanthrope [5\u2605]\nProve yourself.",
+            "primary": 4,
+            "primaryText": "T\u039eMP\u00d8R\u0394L \u0394N\u00d8M\u0394LY [45\u2605]\nPlay through each tempo in a row without dying.\n\nD\u0394NCING IN TH\u039e V\u00d8ID [45\u2605]\nComplete all sectors in Hardcore mode at x2.00 tempo\n\nG\u00d8 TH\u039e DIST\u0394NC\u039e [30\u2605]\nProve yourself.\n\nPRIM\u0394RY \u00d8BJ\u039eCTIV\u039e [10\u2605]\nComplete all sectors in normal mode at x2.00 tempo",
             "community": 0,
             "communityText": "",
-            "achievements": 37
-        }
+            "achievements": 45
+        },
+        "information": "Note: if you're attempting the \"T\u039eMP\u00d8R\u0394L \u0394N\u00d8M\u0394LY\" PO, you might want to return to menu every time you fail a run instead of restarting. There are reported issues with earning its achievement otherwise."
     }
 }
-var gameOfDayDate = '2025-08-02'
+var gameOfDayDate = '2025-08-03'
