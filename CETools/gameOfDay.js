@@ -2,58 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2622220,
-        "CEId": "30fad515-6312-4fae-a3d0-5c8e97df64b3",
-        "name": "AVOID",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2622220/header.jpg?t=1720856641",
+        "platformId": 2383520,
+        "CEId": "ffd9ea1f-0323-4056-aee5-f1cb0c48a96c",
+        "name": "Ziggy's Labyrinth",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2383520/header.jpg?t=1719641404",
         "genre": "Arcade",
-        "tier": 4,
-        "points": 130,
-        "createdAt": "2024-08-03T22:14:19.000Z",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2024-08-04T21:34:44.000Z",
         "updatedAt": "2025-07-20T17:38:01.000Z",
-        "playersCompleted": 1,
-        "playersStarted": 3,
-        "playersTotal": 17,
+        "playersCompleted": 3,
+        "playersStarted": 0,
+        "playersTotal": 3,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 975,
-                "final": 975,
+                "initial": 689,
+                "final": 689,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 850,
-                "final": 850,
+                "initial": 589,
+                "final": 589,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 120000,
-                "final": 120000,
+                "initial": 80000,
+                "final": 80000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 1025,
+                "final": 1025,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 899,
+                "final": 899,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 4,
-            "primaryText": "T\u039eMP\u00d8R\u0394L \u0394N\u00d8M\u0394LY [45\u2605]\nPlay through each tempo in a row without dying.\n\nD\u0394NCING IN TH\u039e V\u00d8ID [45\u2605]\nComplete all sectors in Hardcore mode at x2.00 tempo\n\nG\u00d8 TH\u039e DIST\u0394NC\u039e [30\u2605]\nProve yourself.\n\nPRIM\u0394RY \u00d8BJ\u039eCTIV\u039e [10\u2605]\nComplete all sectors in normal mode at x2.00 tempo",
-            "community": 0,
-            "communityText": "",
-            "achievements": 45
-        },
-        "information": "Note: if you're attempting the \"T\u039eMP\u00d8R\u0394L \u0394N\u00d8M\u0394LY\" PO, you might want to return to menu every time you fail a run instead of restarting. There are reported issues with earning its achievement otherwise."
+            "primary": 2,
+            "primaryText": "Apple of the Snake's Eye [15\u2605]\nComplete the Master course in Normal Mode with limited lives enabled.\n\nEnter the Snake Pit [5\u2605]\nComplete the Expert course in Normal Mode with limited lives enabled.",
+            "community": 1,
+            "communityText": "Ouroboros\nFill out all 10 maps in Classic Mode.",
+            "achievements": 0
+        }
     }
 }
-var gameOfDayDate = '2025-08-03'
+var gameOfDayDate = '2025-08-04'
