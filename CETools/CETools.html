@@ -140,6 +140,9 @@
                     <td colspan="2">
                         <input type="checkbox" id="loadImagesCheckbox" checked onclick="setImages()">Load Images</input><br>
                         <sub class="subtitle">(Turning this off can improve performace!)</sub>
+                        <br>
+                        <input type="checkbox" id="loadMasoCheckbox" onclick="setMaso()">Load <a href="https://masochist.me/">Masochist.me</a> Content</input><br>
+                        <sub class="subtitle">(Load additional info from the 'Masochist.me' challenge website!)</sub>
                     </td>
                 </tr>
             </table>
@@ -207,6 +210,15 @@
             }
             else {setCookie("loadImages", "true", 90);}
 
+            if(getCookie("loadMaso"))
+            {
+                if(getCookie("loadMaso") == "true") {document.getElementById("loadMasoCheckbox").setAttribute("checked", true);}
+                else {document.getElementById("loadMasoCheckbox").removeAttribute("checked");}
+
+                setCookie("loadMaso", getCookie("loadMaso"), 90);
+            }
+            else {setCookie("loadMaso", "true", 90);}
+
             if(getCookie("bestGameOnly"))
             {
                 if(getCookie("bestGameOnly") == "true")
@@ -243,6 +255,21 @@
                 {
                     setCookie("loadImages", "true", 90);
                     document.getElementById("loadImagesCheckbox").setAttribute("checked", true);
+                }
+                
+            }
+
+            function setMaso()
+            {
+                if(document.getElementById("loadMasoCheckbox").hasAttribute("checked"))
+                {
+                    setCookie("loadMaso", "false", 90);
+                    document.getElementById("loaMasosCheckbox").removeAttribute("checked");
+                }
+                else
+                {
+                    setCookie("loadMaso", "true", 90);
+                    document.getElementById("loadMasoCheckbox").setAttribute("checked", true);
                 }
                 
             }
