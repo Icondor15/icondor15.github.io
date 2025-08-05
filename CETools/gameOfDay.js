@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2383520,
-        "CEId": "ffd9ea1f-0323-4056-aee5-f1cb0c48a96c",
-        "name": "Ziggy's Labyrinth",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2383520/header.jpg?t=1719641404",
-        "genre": "Arcade",
-        "tier": 2,
-        "points": 20,
-        "createdAt": "2024-08-04T21:34:44.000Z",
+        "platformId": 1515490,
+        "CEId": "0b5b2ae4-0b88-4612-843c-7e10b839f18b",
+        "name": "System Purge",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1515490/header.jpg?t=1649142136",
+        "genre": "Platformer",
+        "tier": 1,
+        "points": 10,
+        "createdAt": "2022-08-05T11:39:33.000Z",
         "updatedAt": "2025-07-20T17:38:01.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 3,
+        "playersTotal": 30,
         "priceData": {
             "USD": {
-                "initial": 699,
-                "final": 699,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 689,
-                "final": 689,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 589,
-                "final": 589,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 80000,
-                "final": 80000,
+                "initial": 52000,
+                "final": 52000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1025,
-                "final": 1025,
+                "initial": 750,
+                "final": 750,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 899,
-                "final": 899,
+                "initial": 569,
+                "final": 569,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Apple of the Snake's Eye [15\u2605]\nComplete the Master course in Normal Mode with limited lives enabled.\n\nEnter the Snake Pit [5\u2605]\nComplete the Expert course in Normal Mode with limited lives enabled.",
-            "community": 1,
-            "communityText": "Ouroboros\nFill out all 10 maps in Classic Mode.",
-            "achievements": 0
+            "primary": 1,
+            "primaryText": "Closed the Loop [10\u2605]\nFinish speedrun mode in under 40 minutes and 3 or less deaths.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 18
         }
     }
 }
-var gameOfDayDate = '2025-08-04'
+var gameOfDayDate = '2025-08-05'
