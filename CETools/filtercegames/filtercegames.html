@@ -9,9 +9,17 @@
         
         <title>CE Games List</title>
         <link rel="icon" type="image/x-icon" href="favicon.png">
+
+        <!--Fonts-->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100;1,14..32,100&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+        
         <style>
             * {
                 font-family: 'Tahoma', Helvetica, sans-serif;
@@ -24,6 +32,10 @@
             }
             td {
                 border:2px solid black;
+            }
+            .masoRow > td {
+                border-top-style: dotted;
+                border-top-width: 3px;
             }
 
             a {
@@ -638,6 +650,7 @@
         <script src="../formattedUserList.js"></script>
         <script src="../formattedWishlistList.js"></script>
         <script src="../formattedExtrasList.js"></script>
+        <script src="../formattedMasoInfo.js"></script>
         <script src="../compressionValues.js"></script>
 
         <script>
@@ -656,6 +669,14 @@
             document.getElementById("extrasDate").innerHTML = "Last checked Reviews & DLC info on: <b>" + extrasDate["day"] + "/" + extrasDate["month"] + "/" + extrasDate["year"] + "</b> at <b>" + extrasDate["hour"] + ":" + extrasDate["minute"] + ":" + extrasDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(extrasDate["searchTime"], 2) + "</b> seconds.";
             document.getElementById("totalTime").innerHTML = "Total search time: <b>~" + Math.round((date["searchTime"] + userDate["searchTime"] + wishlistDate["searchTime"] + extrasDate["searchTime"])/60) + " minutes</b>.";
             
+            const masoTiers = [
+                '<svg xmlns="http:www.w3.org/2000/svg" width="32px" height="32px" fill="#FFFFFF" viewBox="0 0 512 512"><path d="M16 0H144c5.3 0 10.3 2.7 13.3 7.1l81.1 121.6c-49.5 4.1-94 25.6-127.6 58.3L2.7 24.9C-.6 20-.9 13.7 1.9 8.5S10.1 0 16 0zM509.3 24.9L401.2 187.1c-33.5-32.7-78.1-54.2-127.6-58.3L354.7 7.1c3-4.5 8-7.1 13.3-7.1H496c5.9 0 11.3 3.2 14.1 8.5s2.5 11.5-.8 16.4zM432 336c0 97.2-78.8 176-176 176s-176-78.8-176-176s78.8-176 176-176s176 78.8 176 176zM264.4 241.1c-3.4-7-13.3-7-16.8 0l-22.4 45.4c-1.4 2.8-4 4.7-7 5.1L168 298.9c-7.7 1.1-10.7 10.5-5.2 16l36.3 35.4c2.2 2.2 3.2 5.2 2.7 8.3l-8.6 49.9c-1.3 7.6 6.7 13.5 13.6 9.9l44.8-23.6c2.7-1.4 6-1.4 8.7 0l44.8 23.6c6.9 3.6 14.9-2.2 13.6-9.9l-8.6-49.9c-.5-3 .5-6.1 2.7-8.3l36.3-35.4c5.6-5.4 2.5-14.8-5.2-16l-50.1-7.3c-3-.4-5.7-2.4-7-5.1l-22.4-45.4z"></path></svg>',
+                '<svg xmlns="http:www.w3.org/2000/svg" width="32px" height="32px" fill="#FFFFFF" viewBox="0 0 512 512"><path d="M470.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L192 338.7 425.4 105.4c12.5-12.5 32.8-12.5 45.3 0z"></path></svg>',
+                '<svg xmlns="http:www.w3.org/2000/svg" width="32px" height="32px" fill="#FFFFFF" viewBox="0 0 512 512"><path d="M208 32c0-17.7 14.3-32 32-32h32c17.7 0 32 14.3 32 32V172.9l122-70.4c15.3-8.8 34.9-3.6 43.7 11.7l16 27.7c8.8 15.3 3.6 34.9-11.7 43.7L352 256l122 70.4c15.3 8.8 20.5 28.4 11.7 43.7l-16 27.7c-8.8 15.3-28.4 20.6-43.7 11.7L304 339.1V480c0 17.7-14.3 32-32 32H240c-17.7 0-32-14.3-32-32V339.1L86 409.6c-15.3 8.8-34.9 3.6-43.7-11.7l-16-27.7c-8.8-15.3-3.6-34.9 11.7-43.7L160 256 38 185.6c-15.3-8.8-20.5-28.4-11.7-43.7l16-27.7C51.1 98.8 70.7 93.6 86 102.4l122 70.4V32z"></path></svg>',
+                '<svg xmlns="http:www.w3.org/2000/svg" width="32px" height="32px" fill="#FFFFFF" viewBox="0 0 576 512"><path d="M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z"></path></svg>',
+                '<svg xmlns="http:www.w3.org/2000/svg" width="32px" height="32px" fill="#FFFFFF" viewBox="0 0 576 512"><path d="M288 376.4l.1-.1 26.4 14.1 85.2 45.5-16.5-97.6-4.8-28.7 20.7-20.5 70.1-69.3-96.1-14.2-29.3-4.3-12.9-26.6L288.1 86.9l-.1 .3V376.4zm175.1 98.3c2 12-3 24.2-12.9 31.3s-23 8-33.8 2.3L288.1 439.8 159.8 508.3C149 514 135.9 513.1 126 506s-14.9-19.3-12.9-31.3L137.8 329 33.6 225.9c-8.6-8.5-11.7-21.2-7.9-32.7s13.7-19.9 25.7-21.7L195 150.3 259.4 18c5.4-11 16.5-18 28.8-18s23.4 7 28.8 18l64.3 132.3 143.6 21.2c12 1.8 22 10.2 25.7 21.7s.7 24.2-7.9 32.7L438.5 329l24.6 145.7z"></path></svg>',
+                '<svg xmlns="http:www.w3.org/2000/svg" width="32px" height="32px" fill="#FFFFFF" viewBox="0 0 576 512"><path d="M316.9 18C311.6 7 300.4 0 288.1 0s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329 113.2 474.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329 542.7 225.9c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7L381.2 150.3 316.9 18z"></path></svg>']
+
             let timeStart = 0;
             //Literally everything else (More Important)
             let lastOrder = "points";
@@ -687,7 +708,9 @@
             //Load Image Cookie
             let loadImages = true;
             if(getCookie("loadImages") == "false") {loadImages = false;}
-            
+            //Load Masochist.me Content Cookie
+            let loadMaso = false;
+            if(getCookie("loadMaso") == "true") {loadMaso = true;}
 
             let listControls = false;
             let listData = [];
@@ -2353,7 +2376,7 @@
                 {
                     try
                     {
-                        var row1 = table.insertRow((i*2)+7);
+                        var row1 = table.insertRow(table.rows.length-4);
                     }
                     catch {break;}
                     row1.classList.add("replace");
@@ -2447,49 +2470,93 @@
                         }
                     }
 
-                    var row2 = table.insertRow(((i+1)*2)+6);
+                    var row2 = table.insertRow(table.rows.length-4);
                     row2.classList.add("replace");
                     if(filteredData[i]["gameType"] != 3)
                     {
-                        var cellReviews = row2.insertCell(0);
-                        var cellCommunity = row2.insertCell(1);
-                        var cellPartialCompletion = row2.insertCell(2);
-                        var cellPartialPercentage = row2.insertCell(3);
-                        
-                        if(filteredData[i]["gameType"] == 0 && filteredData[i]["CEId"] in extrasData && "dlc" in extrasData[filteredData[i]["CEId"]] && activeCurrency in extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"] && extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] != 0)
-                        {
-                            var cellTotalPrice = row2.insertCell(4);
-                            cellTotalPrice.colSpan = 4;
-                            var cellUpdatedOn = row2.insertCell(5);
-                            var cellLinkCE = row2.insertCell(6);
-                        }
-                        else
-                        {
-                            var cellUpdatedOn = row2.insertCell(4);
-                            var cellLinkCE = row2.insertCell(5);
-                        }
+                        var cellReviews = row2.insertCell(row2.cells.length);
                     }
-                    else
+                    var cellCommunity = row2.insertCell(row2.cells.length);
+                    var cellPartialCompletion = row2.insertCell(row2.cells.length);
+                    var cellPartialPercentage = row2.insertCell(row2.cells.length);
+                    
+                    if(filteredData[i]["gameType"] == 0 && filteredData[i]["CEId"] in extrasData && "dlc" in extrasData[filteredData[i]["CEId"]] && activeCurrency in extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"] && extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] != 0)
                     {
-                        var cellCommunity = row2.insertCell(0);
-                        var cellPartialCompletion = row2.insertCell(1);
-                        var cellPartialPercentage = row2.insertCell(2);
-
-                        if(filteredData[i]["gameType"] == 0 && "dlc" in extrasData[filteredData[i]["CEId"]] && activeCurrency in extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"] && extrasData[filteredData[i]["CEId"]]["dlc"]["priceData"][activeCurrency]["final"] != 0)
-                        {
-                            var cellTotalPrice = row2.insertCell(3);
-                            var cellUpdatedOn = row2.insertCell(4);
-                            var cellLinkCE = row2.insertCell(5);
-                        }
-                        else
-                        {
-                            var cellUpdatedOn = row2.insertCell(3);
-                            var cellLinkCE = row2.insertCell(4);
-                        }
+                        var cellTotalPrice = row2.insertCell(row2.cells.length);
+                        cellTotalPrice.colSpan = 4;
                     }
+                    var cellUpdatedOn = row2.insertCell(row2.cells.length);
+                    var cellLinkCE = row2.insertCell(row2.cells.length);
 
                     cellPartialCompletion.style.backgroundColor = "#FFCC0055";
                     cellPartialPercentage.style.backgroundColor = "#FFCC0055";
+
+                    //Maso Info
+                    if(loadMaso)
+                    {
+                        if(filteredData[i]["gameType"] != 3 && filteredData[i]["platformId"].toString() in masoData)
+                        {
+                            var masoGame = masoData[filteredData[i]["platformId"].toString()];
+                            var row3 = table.insertRow(table.rows.length-4);
+                            row3.classList.add("replace", "masoRow");
+                            row3.style.backgroundImage = "linear-gradient(180deg,#FFFFFF33 0%, #00000000 100%), linear-gradient(90deg,rgba(143, 3, 26, 0.8) 0%, rgba(40, 42, 74, 0.8) 75%)";
+                            row3.style.backgroundBlendMode = "lighten";
+                            row3.style.color = "#FFFFFF";
+                            row3.style.wordBreak = "break-word";
+                            var cellMasoInfo = row3.insertCell(row3.cells.length);
+                            cellMasoInfo.innerHTML = "<b style='position:relative; top:-7.5px;'>⇁ ⇁ ⇁ ⇁ ⇁</b><br><span style='font-size: 13px;'>MASOCHIST.ME<br>INFO</span>";
+                            cellMasoInfo.style = "font-family:\'Raleway\',Verdana,sans-serif; letter-spacing: 0.15rem;";
+                            var cellMasoDescription = row3.insertCell(row3.cells.length);
+                            cellMasoDescription.style.maxWidth = "400px";
+                            var cellMasoTier = row3.insertCell(row3.cells.length);
+                            cellMasoTier.colSpan = "2";
+                            var cellMasoPoints = row3.insertCell(row3.cells.length);
+                            var cellMasoBadges = row3.insertCell(row3.cells.length);
+                            cellMasoBadges.colSpan = "2";
+                            var cellMasoOwners = row3.insertCell(row3.cells.length);
+                            var cellMasoCompletions = row3.insertCell(row3.cells.length);
+                            var cellMasoCompletionPercentage = row3.insertCell(row3.cells.length);
+                            var cellMasoPlaytime = row3.insertCell(row3.cells.length);
+                            cellMasoPlaytime.colSpan = "3";
+                            var cellMasoNewest = row3.insertCell(row3.cells.length);
+                            cellMasoNewest.colSpan = "2";
+                            var cellMasoLink = row3.insertCell(row3.cells.length);
+
+                            cellMasoDescription.innerHTML = 'Description:<br><b>"' + masoGame["description"] + '"</b>';
+                            cellMasoTier.innerHTML = masoTiers[masoGame["tier"]] + "<br>(Tier " + masoGame["tier"] + ")";
+
+                            if("badges" in masoGame)
+                            {
+                                cellMasoBadges.innerHTML = "Badges: <b>" + masoGame["badges"]["count"] + "</b><br>(" + masoGame["badges"]["points"] + ' <svg style="position:relative; top:2.5px;" xmlns="http:www.w3.org/2000/svg" width="14px" height="14px" fill="#FFFFFF" viewBox="0 0 512 512"><path d="M256 512c141.4 0 256-114.6 256-256S397.4 0 256 0S0 114.6 0 256S114.6 512 256 512zM232 344V280H168c-13.3 0-24-10.7-24-24s10.7-24 24-24h64V168c0-13.3 10.7-24 24-24s24 10.7 24 24v64h64c13.3 0 24 10.7 24 24s-10.7 24-24 24H280v64c0 13.3-10.7 24-24 24s-24-10.7-24-24z"></path></svg>)';
+                            }
+                            else {cellMasoBadges.innerHTML = "Badges: <b>N/A</b>"}
+
+                            switch (masoGame["tier"])
+                            {
+                                case "4":
+                                    cellMasoPoints.innerHTML = "6";
+                                    break;
+                                case "5":
+                                    cellMasoPoints.innerHTML = "10";
+                                    break;
+                                default:
+                                    cellMasoPoints.innerHTML = masoGame["tier"];
+                                    break;
+                            }
+                            cellMasoPoints.innerHTML += ' <svg style="position:relative; top:2.5px;" xmlns="http:www.w3.org/2000/svg" width="14px" height="14px" fill="#FFFFFF" viewBox="0 0 512 512"><path d="M256 512c141.4 0 256-114.6 256-256S397.4 0 256 0S0 114.6 0 256S114.6 512 256 512zM232 344V280H168c-13.3 0-24-10.7-24-24s10.7-24 24-24h64V168c0-13.3 10.7-24 24-24s24 10.7 24 24v64h64c13.3 0 24 10.7 24 24s-10.7 24-24 24H280v64c0 13.3-10.7 24-24 24s-24-10.7-24-24z"></path></svg>';
+
+                            cellMasoOwners.innerHTML = masoGame["owners"];
+                            cellMasoCompletions.innerHTML = "<b>" + masoGame["completions"] + "</b>";
+                            cellMasoCompletionPercentage.innerHTML = toFixed(masoGame["completions"] / masoGame["owners"] * 100, 1) + "%";
+
+                            cellMasoPlaytime.innerHTML = "Average Playtime<sup title='For getting 100% Achievement completion.\n(Doesn&apos;t include badges.)'>🛈</sup>:<br><b>" + toFixed(masoGame["playtime"], 2) + " Hours</b>"
+
+                            var masoNewestDate = new Date(masoGame["newestCompletion"])
+                            cellMasoNewest.innerHTML = "Newest Completion:<br><b>" + masoNewestDate.getDate() + "/" + (masoNewestDate.getMonth()+1) + "/" + masoNewestDate.getFullYear() + " - " + masoNewestDate.getHours() + ":" + masoNewestDate.getMinutes() + ":" + masoNewestDate.getSeconds() + " (GMT+" + masoNewestDate.getTimezoneOffset()/60*-1 + "</b>)";
+
+                            cellMasoLink.innerHTML = "<a target='_blank' style='color:#FFFFFF; font-family:\"Raleway\",Verdana,sans-serif; font-weight:600; letter-spacing: 0.1rem;' href='https://masochist.me/game/" + filteredData[i]["platformId"] + "?tab=leaderboards'>MASOCHIST.ME</a>";
+                        }
+                    }
 
                     if(filteredData[i]["gameType"] != 3)
                     {
