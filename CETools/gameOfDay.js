@@ -1,26 +1,58 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 2088520,
-        "CEId": "44dfdb5f-82e3-4f7c-9241-c4b8013a6d94",
-        "name": "Shooting Game KARI",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2088520/header.jpg?t=1664197661",
-        "genre": "Bullet Hell",
-        "tier": 3,
-        "points": 55,
-        "createdAt": "2022-08-06T16:08:40.000Z",
+        "gameType": 0,
+        "platformId": 982220,
+        "CEId": "81b955a8-1398-4c78-9892-088bb1bcab40",
+        "name": "Globesweeper",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/982220/header.jpg?t=1667200580",
+        "genre": "Strategy",
+        "tier": 2,
+        "points": 25,
+        "createdAt": "2023-08-07T16:34:34.000Z",
         "updatedAt": "2025-07-20T17:38:01.000Z",
-        "playersCompleted": 10,
-        "playersStarted": 3,
-        "playersTotal": 134,
+        "playersCompleted": 44,
+        "playersStarted": 24,
+        "playersTotal": 133,
+        "priceData": {
+            "USD": {
+                "initial": 299,
+                "final": 299,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 299,
+                "final": 299,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 249,
+                "final": 249,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 35000,
+                "final": 35000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 450,
+                "final": 450,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 389,
+                "final": 389,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
             "primary": 2,
-            "primaryText": "This is Shooting Game [35\u2605]\nBeat the extra boss on Hard.\n\nPrimary Objective KIBISH\u012a [20\u2605]\nClear the game on hard. / Clear the game without taking damage.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 8
+            "primaryText": "Myriahedral Triathlon [15\u2605]\nComplete a colossal triangle game with at least standard mine density.\n\nAround the World in 52 Minutes [10\u2605]\nComplete a colossal globe within 52 minutes and 35.7 seconds.",
+            "community": 1,
+            "communityText": "Salt Mine\nComplete a colossal triangle game with insane mine density.",
+            "achievements": 16
         }
     }
 }
-var gameOfDayDate = '2025-08-06'
+var gameOfDayDate = '2025-08-07'
