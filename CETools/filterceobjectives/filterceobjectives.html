@@ -142,6 +142,12 @@
                                 <input type="text" style="width:300px" id="nameFilterBox" autocomplete="off" onchange onpropertychange onkeyuponpaste oninput="searchName()" name="name"></input><br>
                                 <input type="checkbox" id="nameFilterCase" onclick="caseSensitive()">Case Sensitive</input>
                             </td>
+                            <td id="pointsFilter">
+                                <b>Points:</b><br>
+                                <input type="number" id="pointLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
+                                ≤ <b>x</b> ≤
+                                <input type="number" id="pointHigher" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
+                            </td>
                             <td id="extraFilter">
                                 <b>Extras & Non-Filters:</b><br>
                                 <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br><br>
@@ -155,14 +161,15 @@
                 </td>
             </tr>
             <tr>
+                <td colspan="2" class="button" onclick="order('gameName')">Order By Game Name</td>
                 <td class="button" onclick="order('community')">Order By Type</td>
                 <td></td>
                 <td class="button" onclick="order('name')">Order By Name</td>
                 <td class="button" onclick="order('points')">Order By Points</td>
                 <td></td>
-                <td colspan="2" class="button" onclick="order('gameName')">Order By Game Name</td>
             </tr>
             <tr style="font-weight: bold;">
+                <td colspan="2">Challenge Enthusiasts</td>
                 <td rowspan="2">Type</td>
                 <td rowspan="2">Icon</td>
                 <td rowspan="2">
@@ -174,11 +181,10 @@
                     Requirements (Achievements and/or Proof)<br>
                     <sub class="subtitle">(Hover over achievements to read their description!)</sub>
                 </td>
-                <td colspan="2">Challenge Enthusiasts</td>
             </tr>
             <tr style="font-weight: bold;">
                 <td>
-                    Game/ID<br>
+                    Game/Game ID<br>
                     <sub class="subtitle">(Click to copy!)</sub>
                 </td>
                 <td>Link</td>
@@ -189,6 +195,11 @@
                 </td>
             </tr>
             <tr style="font-weight: bold;">
+                <td>
+                    Game/Game ID<br>
+                    <sub class="subtitle">(Click to copy!)</sub>
+                </td>
+                <td>Link</td>
                 <td rowspan="2">Type</td>
                 <td rowspan="2">Icon</td>
                 <td rowspan="2">
@@ -200,22 +211,17 @@
                     Requirements (Achievements and/or Proof)<br>
                     <sub class="subtitle">(Hover over achievements to read their description!)</sub>
                 </td>
-                <td>
-                    Game/ID<br>
-                    <sub class="subtitle">(Click to copy!)</sub>
-                </td>
-                <td>Link</td>
             </tr>
             <tr style="font-weight: bold;">
                 <td colspan="2">Challenge Enthusiasts</td>
             </tr>
             <tr>
+                <td colspan="2" class="button" onclick="order('gameName')">Order By Game Name</td>
                 <td class="button" onclick="order('community')">Order By Type</td>
                 <td></td>
                 <td class="button" onclick="order('name')">Order By Name</td>
                 <td class="button" onclick="order('points')">Order By Points</td>
                 <td></td>
-                <td colspan="2" class="button" onclick="order('gameName')">Order By Game Name</td>
             </tr>
         </table>
         <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, 0);"><b>^^^ Move to top ^^^</b></span></div>
@@ -289,6 +295,8 @@
                 order(lastOrder);
             }
             
+            function changePoints() {order(lastOrder);}
+            
             function idToLink()
             {
                 if(linkReplaceId == true) {linkReplaceId = false;}
@@ -313,6 +321,7 @@
                 var primary = objectiveData.filter(obj => {return !obj.community})
                 var community = objectiveData.filter(obj => {return obj.community})
 
+                //Type filter
                 if(activeType == 0)
                 {
                     filteredData = primary.concat(community);
@@ -326,6 +335,7 @@
                     filteredData = community;
                 }
 
+                //Text filter
                 if(caseSensitivity)
                 {
                     filteredData = filteredData.filter(val => {return val[activeText].includes(filterText)})
@@ -334,6 +344,42 @@
                 {
                     filteredData = filteredData.filter(val => {return val[activeText].toUpperCase().includes(filterText)})
                 }
+
+                //Filter by points
+                var lowBound = 0;
+                var highBound = 10000;
+                
+                var min = document.getElementById("pointLower").valueAsNumber;
+                var max = document.getElementById("pointHigher").valueAsNumber;
+
+                if(document.getElementById("pointLower").value != "")
+                {
+                    if(min >= 0)
+                    {
+                        lowBound = min;
+                        if(lowBound > 10000) {min == 9999}
+                    }
+                    else {document.getElementById("pointLower").value = lowBound.toString();}
+                }
+
+                if(document.getElementById("pointHigher").value != "")
+                {
+                    if(max <= 10000)
+                    {
+                        highBound = max;
+                        if(highBound < 0) {max == 1}
+                    }
+                    else {document.getElementById("pointHigher").value = highBound.toString();}
+                }
+
+                filteredData = filteredData.filter(obj => {return obj.points >= lowBound})
+
+                if(lowBound <= highBound)
+                {
+                    document.getElementById("pointHigher").style.textDecoration = "none";
+                    filteredData = filteredData.filter(obj => {return obj.points <= highBound})
+                }
+                else {document.getElementById("pointHigher").style.textDecoration = "line-through";}
             }
 
             function order(type)
@@ -408,32 +454,25 @@
                     }
                     catch {break;}
                     row1.classList.add("replace");
-                    var cellType = row1.insertCell(0);
-                    cellType.rowSpan = 2;
-                    var cellIcon = row1.insertCell(1);
-                    cellIcon.rowSpan = 2;
-                    var cellName = row1.insertCell(2);
-                    var cellPoints = row1.insertCell(3);
-                    cellPoints.rowSpan = 2;
-                    var cellRequirementsFirst = row1.insertCell(4);
-                    var cellGameName = row1.insertCell(5);
-                    var cellCELink = row1.insertCell(6);
+                    var cellGameName = row1.insertCell(row1.cells.length);
+                    var cellCELink = row1.insertCell(row1.cells.length);
                     cellCELink.rowSpan = 2;
+                    var cellType = row1.insertCell(row1.cells.length);
+                    cellType.rowSpan = 2;
+                    var cellIcon = row1.insertCell(row1.cells.length);
+                    cellIcon.rowSpan = 2;
+                    var cellName = row1.insertCell(row1.cells.length);
+                    var cellPoints = row1.insertCell(row1.cells.length);
+                    cellPoints.rowSpan = 2;
+                    var cellRequirementsFirst = row1.insertCell(row1.cells.length);
 
 
                     var row2 = table.insertRow(((i+1)*2)+4);
                     row2.classList.add("replace");
-                    var cellDescription = row2.insertCell(0);
-                    if(Object.keys(filteredData[i]["requirements"]).length > 1)
-                    {
-                        var cellRequirementsSecond = row2.insertCell(1);
-                        var cellGameId = row2.insertCell(2);
-                    }
-                    else
-                    {
-                        cellRequirementsFirst.rowSpan = 2;
-                        var cellGameId = row2.insertCell(1);
-                    }
+                    var cellGameId = row2.insertCell(row2.cells.length);
+                    var cellDescription = row2.insertCell(row2.cells.length);
+                    if(Object.keys(filteredData[i]["requirements"]).length > 1) {var cellRequirementsSecond = row2.insertCell(row2.cells.length);}
+                    else {cellRequirementsFirst.rowSpan = 2;}
 
                     if(!filteredData[i]["community"])
                     {
