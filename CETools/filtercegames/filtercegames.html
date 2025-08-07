@@ -2725,11 +2725,11 @@
 
                     if(filteredData[i]["points"] > 0)
                     {
-                        if(filteredData[i]["points"] % 5 > 0 || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("UNVALUED") || filteredData[i]["milestones"]["communityText"].toUpperCase().includes("UNCLEARED") || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("(S)") || filteredData[i]["milestones"]["communityText"].toUpperCase().includes("(S)"))
+                        if(filteredData[i]["points"] % 5 > 0 || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("UNVALUED") || filteredData[i]["milestones"]["communityText"].toUpperCase().includes("UNCLEARED") || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("(S)") || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("(SO)") || filteredData[i]["milestones"]["communityText"].toUpperCase().includes("(S)") || filteredData[i]["milestones"]["communityText"].toUpperCase().includes("(SO)"))
                         {
                             cellPoints.innerHTML += "<br>";
                         }
-                        if(filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("(S)") || filteredData[i]["milestones"]["communityText"].toUpperCase().includes("(S)")) {cellPoints.innerHTML += "<b style='color:#15b02c' title='One or more objectives in this game will become a &apos;Secondary Objective&apos; upon their release!'>S</b>"}
+                        if(filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("(S)") || filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("(SO)") || filteredData[i]["milestones"]["communityText"].toUpperCase().includes("(S)") || filteredData[i]["milestones"]["communityText"].toUpperCase().includes("(SO)")) {cellPoints.innerHTML += "<b style='color:#15b02c' title='One or more objectives in this game will become a &apos;Secondary Objective&apos; upon their release!'>S</b>"}
                         if(filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || filteredData[i]["milestones"]["communityText"].toUpperCase().includes("UNCLEARED")) {cellPoints.innerHTML += "<b style='color:#cf1150' title='This game has UNCLEARED objectives.'>Ȼ</b>"}
                         if(filteredData[i]["milestones"]["primaryText"].toUpperCase().includes("UNVALUED")) {cellPoints.innerHTML += "<b style='color:#1179cf' title='This game has UNVALUED objectives.'>Ꝟ</b>"}
 
