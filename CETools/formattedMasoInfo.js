@@ -480,9 +480,9 @@ var masoData =
         "description": "\u2606  Dawn of the Tumblr noses",
         "tier": "3",
         "owners": 163,
-        "completions": 52,
-        "playtime": 99.47532051282055,
-        "newestCompletion": "2025-04-22T01:52:35.000Z"
+        "completions": 53,
+        "playtime": 98.5169811320755,
+        "newestCompletion": "2025-05-01T20:21:01.000Z"
     },
     "532170": {
         "description": "\u2733 Top 10 unique movements betrayals",
@@ -1189,7 +1189,7 @@ var masoData =
         "tier": "5",
         "owners": 161,
         "completions": 19,
-        "playtime": 1302.5833333333337,
+        "playtime": 1306.4131578947372,
         "newestCompletion": "2024-02-26T23:57:59.000Z",
         "badges": {
             "count": 3,
@@ -1937,7 +1937,7 @@ var masoData =
         "tier": "5",
         "owners": 64,
         "completions": 10,
-        "playtime": 222.32166666666666,
+        "playtime": 223.60333333333332,
         "newestCompletion": "2024-07-01T10:27:42.000Z",
         "badges": {
             "count": 2,
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 101,
         "completions": 29,
-        "playtime": 89.3,
+        "playtime": 89.4609195402299,
         "newestCompletion": "2025-03-16T20:09:05.000Z",
         "badges": {
             "count": 2,
@@ -2236,9 +2236,9 @@ var masoData =
         "description": "\u272a 2 Stands for twice the \u2665\u2665\u2665\u2665\u2665\u2665\u2665\u2665",
         "tier": "4",
         "owners": 106,
-        "completions": 47,
-        "playtime": 251.39680851063832,
-        "newestCompletion": "2025-01-13T18:46:02.000Z",
+        "completions": 48,
+        "playtime": 248.02604166666666,
+        "newestCompletion": "2025-06-06T16:31:25.000Z",
         "badges": {
             "count": 1,
             "points": 10
@@ -2900,9 +2900,9 @@ var masoData =
         "description": "\u2733 420? What does that mean? Are you alright?",
         "tier": "2",
         "owners": 52,
-        "completions": 29,
-        "playtime": 8.317241379310344,
-        "newestCompletion": "2025-04-21T04:59:16.000Z"
+        "completions": 30,
+        "playtime": 8.145,
+        "newestCompletion": "2025-07-25T02:19:14.000Z"
     },
     "1225610": {
         "description": "\ud83c\udf1fThe Akashic Records don't mention how brutal this shmup is",
@@ -3483,7 +3483,7 @@ var masoData =
     "1475840": {
         "description": "Beets to game to",
         "tier": "1",
-        "owners": 46,
+        "owners": 47,
         "completions": 17,
         "playtime": 11.174509803921568,
         "newestCompletion": "2025-01-08T22:48:21.000Z"
@@ -4471,7 +4471,7 @@ var masoData =
     "2099440": {
         "description": "Ancient techbros' ultimate showdown",
         "tier": "1",
-        "owners": 6,
+        "owners": 7,
         "completions": 3,
         "playtime": 11.544444444444444,
         "newestCompletion": "2025-08-06T16:11:54.000Z"
