@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 3065720,
-        "CEId": "82c5249d-6175-4012-ab79-321f82b9e29d",
-        "name": "life is not auto",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/3065720/header.jpg?t=1720085434",
-        "genre": "Arcade",
-        "tier": 2,
-        "points": 20,
-        "createdAt": "2024-08-09T00:57:17.000Z",
+        "platformId": 1375400,
+        "CEId": "a5785166-0669-4dbf-adc7-72ca73a91449",
+        "name": "Ghosts 'n Goblins Resurrection",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1375400/header.jpg?t=1622520631",
+        "genre": "Action",
+        "tier": 1,
+        "points": 10,
+        "createdAt": "2021-08-10T23:46:04.000Z",
         "updatedAt": "2025-07-20T17:38:01.000Z",
-        "playersCompleted": 5,
+        "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 14,
+        "playersTotal": 45,
         "priceData": {
             "USD": {
-                "initial": 399,
-                "final": 239,
-                "discountPercent": 40
+                "initial": 2999,
+                "final": 2999,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 399,
-                "final": 239,
-                "discountPercent": 40
+                "initial": 2999,
+                "final": 2999,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 339,
-                "final": 203,
-                "discountPercent": 40
+                "initial": 2498,
+                "final": 2498,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 47000,
-                "final": 28200,
-                "discountPercent": 40
+                "initial": 399000,
+                "final": 399000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 595,
-                "final": 357,
-                "discountPercent": 40
+                "initial": 4494,
+                "final": 4494,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 499,
-                "final": 299,
-                "discountPercent": 40
+                "initial": 4999,
+                "final": 4999,
+                "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mr. Auto [20\u2605]\nAchieve all perfects, on all levels, on hard mode / Complete 3 rounds of the challenge",
+            "primaryText": "Congraturation [10\u2605]\nObtain the true ending.",
             "community": 0,
             "communityText": "",
-            "achievements": 45
+            "achievements": 31
         }
     }
 }
-var gameOfDayDate = '2025-08-09'
+var gameOfDayDate = '2025-08-10'
