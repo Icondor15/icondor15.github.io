@@ -273,7 +273,7 @@ var masoData =
         "tier": "1",
         "owners": 63,
         "completions": 22,
-        "playtime": 32.93560606060606,
+        "playtime": 32.94318181818182,
         "newestCompletion": "2025-08-01T03:39:47.000Z",
         "badges": {
             "count": 1,
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 232,
         "completions": 120,
-        "playtime": 191.92000000000007,
+        "playtime": 191.9230555555556,
         "newestCompletion": "2024-12-15T03:28:51.000Z",
         "badges": {
             "count": 2,
@@ -975,7 +975,7 @@ var masoData =
     "207350": {
         "description": "\u272a They told me RPG\"s are for casuls",
         "tier": "4",
-        "owners": 44,
+        "owners": 45,
         "completions": 9,
         "playtime": 188.27777777777774,
         "newestCompletion": "2025-04-04T14:14:45.000Z"
@@ -1051,7 +1051,7 @@ var masoData =
     "207320": {
         "description": "\u272a I don\"t remember JRPGs being this tough...",
         "tier": "4",
-        "owners": 34,
+        "owners": 35,
         "completions": 10,
         "playtime": 91.88333333333334,
         "newestCompletion": "2025-04-13T16:36:36.000Z"
@@ -1260,9 +1260,9 @@ var masoData =
         "description": "\u2606 Boss rush extravaganza",
         "tier": "3",
         "owners": 185,
-        "completions": 39,
-        "playtime": 25.787606837606834,
-        "newestCompletion": "2025-06-20T23:43:34.000Z"
+        "completions": 40,
+        "playtime": 25.657083333333333,
+        "newestCompletion": "2025-08-09T09:48:06.000Z"
     },
     "262390": {
         "description": "\ud83c\udf1f Speedrunning taken to the extreme in a beautiful 3D environment. Get the DLC only if you enjoy pain and suffering.",
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 214,
         "completions": 62,
-        "playtime": 60.56720430107525,
+        "playtime": 60.56908602150536,
         "newestCompletion": "2025-03-20T18:42:44.000Z"
     },
     "317710": {
@@ -1808,9 +1808,9 @@ var masoData =
         "description": "\u2606 I thought simple is better",
         "tier": "3",
         "owners": 51,
-        "completions": 20,
-        "playtime": 13.861666666666668,
-        "newestCompletion": "2024-08-07T20:31:49.000Z"
+        "completions": 21,
+        "playtime": 14.588095238095239,
+        "newestCompletion": "2025-04-30T20:38:33.000Z"
     },
     "1054710": {
         "description": "Sponsored by Katy Parry",
@@ -2587,7 +2587,7 @@ var masoData =
     "1222340": {
         "description": "\u2606 Super Feet Boy",
         "tier": "3",
-        "owners": 23,
+        "owners": 24,
         "completions": 9,
         "playtime": 16.80185185185185,
         "newestCompletion": "2025-07-21T09:31:47.000Z"
@@ -2700,9 +2700,9 @@ var masoData =
         "description": "\u272a Before &amp; After Plastic Surgeries",
         "tier": "4",
         "owners": 30,
-        "completions": 5,
-        "playtime": 48.29666666666667,
-        "newestCompletion": "2025-01-06T19:48:57.000Z"
+        "completions": 6,
+        "playtime": 44.574999999999996,
+        "newestCompletion": "2025-07-03T00:05:38.000Z"
     },
     "1375400": {
         "description": "Get the knife!!",
@@ -3081,7 +3081,7 @@ var masoData =
         "tier": "3",
         "owners": 156,
         "completions": 42,
-        "playtime": 198.95158730158727,
+        "playtime": 199.5773809523809,
         "newestCompletion": "2025-06-20T10:37:29.000Z"
     },
     "456390": {
@@ -3383,7 +3383,7 @@ var masoData =
     "1487270": {
         "description": "\u2733 What your antivirus does behind the lines",
         "tier": "2",
-        "owners": 25,
+        "owners": 26,
         "completions": 10,
         "playtime": 17.003333333333334,
         "newestCompletion": "2023-08-23T19:45:42.000Z"
@@ -3453,7 +3453,7 @@ var masoData =
         "tier": "4",
         "owners": 25,
         "completions": 8,
-        "playtime": 41.21875,
+        "playtime": 41.233333333333334,
         "newestCompletion": "2025-03-14T16:26:36.000Z"
     },
     "811970": {
@@ -4087,7 +4087,7 @@ var masoData =
     "1010890": {
         "description": "\ud83c\udf96\ufe0f \u272a *meows aggressively*",
         "tier": "0",
-        "owners": 54,
+        "owners": 55,
         "completions": 8,
         "playtime": 10.08125,
         "newestCompletion": "2025-07-02T21:37:11.000Z",
@@ -4411,7 +4411,7 @@ var masoData =
     "2474690": {
         "description": "Wreckfast",
         "tier": "1",
-        "owners": 15,
+        "owners": 16,
         "completions": 3,
         "playtime": 3.555555555555556,
         "newestCompletion": "2025-07-13T21:12:28.000Z"
@@ -4471,7 +4471,7 @@ var masoData =
     "2099440": {
         "description": "Ancient techbros' ultimate showdown",
         "tier": "1",
-        "owners": 7,
+        "owners": 9,
         "completions": 3,
         "playtime": 11.544444444444444,
         "newestCompletion": "2025-08-06T16:11:54.000Z"
