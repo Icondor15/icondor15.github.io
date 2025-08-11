@@ -683,7 +683,7 @@ var masoData =
     "423230": {
         "description": "\u2733 An angry name for a game with the calmest character",
         "tier": "2",
-        "owners": 126,
+        "owners": 127,
         "completions": 40,
         "playtime": 49.09749999999998,
         "newestCompletion": "2025-06-25T22:21:12.000Z"
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 242,
         "completions": 177,
-        "playtime": 223.8283427495292,
+        "playtime": 223.8290960451978,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -992,8 +992,8 @@ var masoData =
         "description": "\ud83c\udf1f Your End Is Nigh",
         "tier": "5",
         "owners": 194,
-        "completions": 19,
-        "playtime": 264.1771929824561,
+        "completions": 20,
+        "playtime": 261.9775,
         "newestCompletion": "2025-07-31T22:59:32.000Z",
         "badges": {
             "count": 1,
@@ -4311,7 +4311,7 @@ var masoData =
     "2694420": {
         "description": "\u2606 Hellishly Wicked",
         "tier": "3",
-        "owners": 10,
+        "owners": 11,
         "completions": 3,
         "playtime": 53.45555555555555,
         "newestCompletion": "2025-01-24T02:58:22.000Z"
