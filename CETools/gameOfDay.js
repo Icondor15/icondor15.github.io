@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1375400,
-        "CEId": "a5785166-0669-4dbf-adc7-72ca73a91449",
-        "name": "Ghosts 'n Goblins Resurrection",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1375400/header.jpg?t=1622520631",
-        "genre": "Action",
+        "platformId": 274290,
+        "CEId": "0da927de-a778-413c-b88d-af505bcb1cd4",
+        "name": "Gods Will Be Watching",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/274290/header.jpg?t=1684858773",
+        "genre": "Strategy",
         "tier": 1,
         "points": 10,
-        "createdAt": "2021-08-10T23:46:04.000Z",
+        "createdAt": "2023-08-11T12:22:38.000Z",
         "updatedAt": "2025-07-20T17:38:01.000Z",
-        "playersCompleted": 6,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 45,
+        "playersTotal": 114,
         "priceData": {
             "USD": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 975,
+                "final": 975,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 2498,
-                "final": 2498,
+                "initial": 850,
+                "final": 850,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 399000,
-                "final": 399000,
+                "initial": 120000,
+                "final": 120000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 4494,
-                "final": 4494,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 4999,
-                "final": 4999,
+                "initial": 1299,
+                "final": 1299,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Congraturation [10\u2605]\nObtain the true ending.",
+            "primaryText": "Big Heavens [10\u2605]\nEarn all achievements in the game.",
             "community": 0,
             "communityText": "",
-            "achievements": 31
+            "achievements": 35
         }
     }
 }
-var gameOfDayDate = '2025-08-10'
+var gameOfDayDate = '2025-08-11'
