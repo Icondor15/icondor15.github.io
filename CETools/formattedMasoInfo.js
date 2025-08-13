@@ -3152,9 +3152,9 @@ var masoData =
         "description": "mega monster girls",
         "tier": "1",
         "owners": 54,
-        "completions": 11,
-        "playtime": 29.413636363636353,
-        "newestCompletion": "2025-03-17T11:28:08.000Z",
+        "completions": 12,
+        "playtime": 27.338888888888878,
+        "newestCompletion": "2025-08-12T07:18:08.000Z",
         "badges": {
             "count": 1,
             "points": 1
