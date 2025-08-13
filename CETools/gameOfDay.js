@@ -1,27 +1,58 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 3,
-        "platformId": 14853,
-        "CEId": "efc10f10-df8e-46b6-932a-d83d46019cfb",
-        "name": "Pokemon Mystery Dungeon: Explorers of Sky",
-        "header": "https://i.imgur.com/pNHvp0g.png",
+        "gameType": 0,
+        "platformId": 1127500,
+        "CEId": "3abab330-f9dd-40ce-9454-1ea0410ef1c9",
+        "name": "Mini Motorways",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/header.jpg?t=1658798925",
         "genre": "Strategy",
-        "tier": 2,
-        "points": 25,
-        "createdAt": "2024-08-12T16:29:35.000Z",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2022-07-26T06:14:01.000Z",
         "updatedAt": "2025-07-20T17:38:01.000Z",
-        "playersCompleted": 1,
-        "playersStarted": 2,
-        "playersTotal": 17,
-        "milestones": {
-            "primary": 4,
-            "primaryText": "Destiny's Ascent [10\u2605]\nClear Destiny Tower.\n\nPerfect Purist [5\u2605]\nClear Zero Isle South.\n\nAdept Purist [5\u2605]\nClear Zero Isle East and Zero Isle West.\n\nCenter of the Earth [5\u2605]\nClear Zero Isle North and Zero Isle Center.",
-            "community": 1,
-            "communityText": "No Stone Left Unturned\nReach Guildmaster Rank and recruit all Pokemon.",
-            "achievements": 130
+        "playersCompleted": 10,
+        "playersStarted": 0,
+        "playersTotal": 162,
+        "priceData": {
+            "USD": {
+                "initial": 999,
+                "final": 999,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 819,
+                "final": 819,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 719,
+                "final": 719,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 101000,
+                "final": 101000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1450,
+                "final": 1450,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1149,
+                "final": 1149,
+                "discountPercent": 0
+            }
         },
-        "information": "For those interested in RA mastery: there are 5 missable achievements."
+        "milestones": {
+            "primary": 1,
+            "primaryText": "Vroom [5\u2605]\nComplete all driver count achievements. / Complete all challenge achievements.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 94
+        }
     }
 }
-var gameOfDayDate = '2025-08-12'
+var gameOfDayDate = '2025-08-13'
