@@ -564,9 +564,9 @@ var masoData =
         "description": "\u2733 Sign our petition for easier difficulty modes",
         "tier": "2",
         "owners": 52,
-        "completions": 21,
-        "playtime": 21.676190476190477,
-        "newestCompletion": "2024-10-26T05:04:23.000Z"
+        "completions": 22,
+        "playtime": 21.570454545454545,
+        "newestCompletion": "2025-08-10T02:12:54.000Z"
     },
     "613190": {
         "description": "Worth",
@@ -1660,9 +1660,9 @@ var masoData =
         "description": "Sequel of The Skype",
         "tier": "1",
         "owners": 122,
-        "completions": 56,
-        "playtime": 20.818452380952383,
-        "newestCompletion": "2025-01-28T09:52:14.000Z"
+        "completions": 57,
+        "playtime": 20.82953216374269,
+        "newestCompletion": "2025-07-30T02:49:55.000Z"
     },
     "609420": {
         "description": "\ud83c\udf1f Give Up",
@@ -1695,7 +1695,7 @@ var masoData =
     "233610": {
         "description": "A road comes in all kind of shapes",
         "tier": "1",
-        "owners": 44,
+        "owners": 45,
         "completions": 7,
         "playtime": 27.507142857142856,
         "newestCompletion": "2023-01-25T08:30:14.000Z"
@@ -3348,9 +3348,9 @@ var masoData =
         "description": "\u2733 Epilogue for a Prologue for a Vacant Kingdom",
         "tier": "2",
         "owners": 25,
-        "completions": 8,
-        "playtime": 9.920833333333333,
-        "newestCompletion": "2025-07-08T21:37:38.000Z"
+        "completions": 9,
+        "playtime": 9.87037037037037,
+        "newestCompletion": "2025-08-14T06:27:07.000Z"
     },
     "1167630": {
         "description": "Reversed IKEA",
@@ -3415,7 +3415,7 @@ var masoData =
     "1378990": {
         "description": "\u2606 It's about time we curated this",
         "tier": "3",
-        "owners": 34,
+        "owners": 35,
         "completions": 10,
         "playtime": 83.14333333333335,
         "newestCompletion": "2025-06-17T01:15:00.000Z",
@@ -3748,9 +3748,9 @@ var masoData =
         "description": "When the luck of the draw gets dicey",
         "tier": "1",
         "owners": 83,
-        "completions": 26,
-        "playtime": 72.6352564102564,
-        "newestCompletion": "2025-05-23T16:20:28.000Z"
+        "completions": 27,
+        "playtime": 72.0141975308642,
+        "newestCompletion": "2025-07-25T09:11:45.000Z"
     },
     "1035950": {
         "description": "baby don't hurt me, don't hurt me, no more",
@@ -4471,7 +4471,7 @@ var masoData =
     "2099440": {
         "description": "Ancient techbros' ultimate showdown",
         "tier": "1",
-        "owners": 11,
+        "owners": 12,
         "completions": 3,
         "playtime": 11.544444444444444,
         "newestCompletion": "2025-08-06T16:11:54.000Z"
