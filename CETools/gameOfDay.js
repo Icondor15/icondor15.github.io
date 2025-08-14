@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1127500,
-        "CEId": "3abab330-f9dd-40ce-9454-1ea0410ef1c9",
-        "name": "Mini Motorways",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/header.jpg?t=1658798925",
-        "genre": "Strategy",
+        "platformId": 1301230,
+        "CEId": "79d73929-1a91-4695-8626-e6503b384c2b",
+        "name": "Astrodogs",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1301230/header.jpg?t=1617894064",
+        "genre": "Arcade",
         "tier": 1,
-        "points": 5,
-        "createdAt": "2022-07-26T06:14:01.000Z",
+        "points": 10,
+        "createdAt": "2022-08-14T02:49:48.000Z",
         "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 10,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 162,
+        "playersTotal": 19,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1299,
+                "final": 1299,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 819,
-                "final": 819,
+                "initial": 1079,
+                "final": 1079,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 719,
-                "final": 719,
+                "initial": 1029,
+                "final": 1029,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 101000,
-                "final": 101000,
+                "initial": 132000,
+                "final": 132000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 1850,
+                "final": 1850,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 1449,
+                "final": 1449,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Vroom [5\u2605]\nComplete all driver count achievements. / Complete all challenge achievements.",
+            "primaryText": "Star Doge [10\u2605]\nGet all S ranks.",
             "community": 0,
             "communityText": "",
-            "achievements": 94
+            "achievements": 15
         }
     }
 }
-var gameOfDayDate = '2025-08-13'
+var gameOfDayDate = '2025-08-14'
