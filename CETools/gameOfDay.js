@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 243360,
-        "CEId": "ba80ac2a-186d-4b55-8981-d4bce6a34663",
-        "name": "TrackMania\u00b2 Valley",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/243360/header.jpg?t=1588603133",
+        "platformId": 355410,
+        "CEId": "8dbcbd75-1add-4b8d-8f67-57d2dc5aa74d",
+        "name": "Radium",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/355410/header.jpg?t=1487141967",
         "genre": "Arcade",
-        "tier": 3,
-        "points": 40,
-        "createdAt": "2022-08-29T07:21:24.000Z",
+        "tier": 1,
+        "points": 15,
+        "createdAt": "2023-08-17T18:02:31.000Z",
         "updatedAt": "2025-08-13T06:36:01.000Z",
         "playersCompleted": 7,
-        "playersStarted": 4,
-        "playersTotal": 77,
+        "playersStarted": 0,
+        "playersTotal": 46,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 99,
+                "final": 99,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 99,
+                "final": 99,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1699,
-                "final": 1699,
+                "initial": 89,
+                "final": 89,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 264000,
-                "final": 264000,
+                "initial": 12000,
+                "final": 12000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2995,
-                "final": 2995,
+                "initial": 150,
+                "final": 150,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 129,
+                "final": 129,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Well-Stacked in Tracks [30\u2605]\nObtain 65 Author Medals.\n\nRoad Rager [10\u2605]\nObtain 65 Gold Medals.",
-            "community": 3,
-            "communityText": "Alpine All-Star\nGet all Author Medals in the TM1 Alpine Title Pack.\n\nSpeed All-Star\nGet all Author Medals in the TM1 Speed Title Pack.\n\nValley All-Star\nGet all Author Medals in the StarTrack Title Pack.",
-            "achievements": 0
+            "primary": 1,
+            "primaryText": "Atomic Physicist [15\u2605]\nObtain 3 points on all 130 levels.",
+            "community": 1,
+            "communityText": "Quantum Entanglement\nComplete all primary objectives from all site-listed games in the Radium franchise. See verification requirements for complete list.",
+            "achievements": 20
         }
     }
 }
-var gameOfDayDate = '2025-08-16'
+var gameOfDayDate = '2025-08-17'
