@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 355410,
-        "CEId": "8dbcbd75-1add-4b8d-8f67-57d2dc5aa74d",
-        "name": "Radium",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/355410/header.jpg?t=1487141967",
+        "platformId": 643880,
+        "CEId": "256ec130-6f8c-46f6-b0e3-d690b9ea9f92",
+        "name": "Strikey Sisters",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/643880/header.jpg?t=1667211591",
         "genre": "Arcade",
         "tier": 1,
-        "points": 15,
-        "createdAt": "2023-08-17T18:02:31.000Z",
+        "points": 10,
+        "createdAt": "2023-08-18T21:19:34.000Z",
         "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 7,
+        "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 46,
+        "playersTotal": 110,
         "priceData": {
             "USD": {
-                "initial": 99,
-                "final": 99,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 99,
-                "final": 99,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 89,
-                "final": 89,
+                "initial": 899,
+                "final": 899,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 12000,
-                "final": 12000,
+                "initial": 120000,
+                "final": 120000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 150,
-                "final": 150,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 129,
-                "final": 129,
+                "initial": 1299,
+                "final": 1299,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Atomic Physicist [15\u2605]\nObtain 3 points on all 130 levels.",
-            "community": 1,
-            "communityText": "Quantum Entanglement\nComplete all primary objectives from all site-listed games in the Radium franchise. See verification requirements for complete list.",
-            "achievements": 20
+            "primaryText": "Brick Breaker Siblings [10\u2605]\nProve yourself.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 10
         }
     }
 }
-var gameOfDayDate = '2025-08-17'
+var gameOfDayDate = '2025-08-18'
