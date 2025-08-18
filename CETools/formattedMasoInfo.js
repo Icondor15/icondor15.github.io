@@ -1453,7 +1453,7 @@ var masoData =
         "tier": "1",
         "owners": 24,
         "completions": 11,
-        "playtime": 7.95909090909091,
+        "playtime": 7.96060606060606,
         "newestCompletion": "2025-07-12T05:03:45.000Z"
     },
     "1040490": {
