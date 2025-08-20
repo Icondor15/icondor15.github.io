@@ -236,9 +236,9 @@ var masoData =
         "description": "\u2733 There it\"s curated now",
         "tier": "2",
         "owners": 147,
-        "completions": 56,
-        "playtime": 37.91636904761905,
-        "newestCompletion": "2025-06-11T18:36:57.000Z",
+        "completions": 57,
+        "playtime": 38.062573099415204,
+        "newestCompletion": "2025-08-18T16:39:03.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -257,7 +257,7 @@ var masoData =
         "tier": "4",
         "owners": 141,
         "completions": 17,
-        "playtime": 199.5813725490196,
+        "playtime": 199.73529411764704,
         "newestCompletion": "2025-07-09T20:10:01.000Z"
     },
     "795570": {
@@ -683,7 +683,7 @@ var masoData =
     "423230": {
         "description": "\u2733 An angry name for a game with the calmest character",
         "tier": "2",
-        "owners": 128,
+        "owners": 129,
         "completions": 40,
         "playtime": 49.09749999999998,
         "newestCompletion": "2025-06-25T22:21:12.000Z"
@@ -1189,7 +1189,7 @@ var masoData =
         "tier": "5",
         "owners": 161,
         "completions": 19,
-        "playtime": 1306.4131578947372,
+        "playtime": 1306.526315789474,
         "newestCompletion": "2024-02-26T23:57:59.000Z",
         "badges": {
             "count": 3,
@@ -1201,7 +1201,7 @@ var masoData =
         "tier": "3",
         "owners": 110,
         "completions": 31,
-        "playtime": 61.74193548387097,
+        "playtime": 61.74247311827957,
         "newestCompletion": "2024-06-16T17:38:33.000Z"
     },
     "422970": {
@@ -1365,7 +1365,7 @@ var masoData =
         "tier": "2",
         "owners": 195,
         "completions": 140,
-        "playtime": 21.719047619047608,
+        "playtime": 21.720714285714273,
         "newestCompletion": "2025-05-07T15:58:21.000Z"
     },
     "211260": {
@@ -1653,7 +1653,7 @@ var masoData =
         "tier": "1",
         "owners": 29,
         "completions": 18,
-        "playtime": 7.012962962962963,
+        "playtime": 7.03611111111111,
         "newestCompletion": "2024-02-02T05:48:32.000Z"
     },
     "764790": {
@@ -2197,7 +2197,7 @@ var masoData =
         "tier": "3",
         "owners": 40,
         "completions": 12,
-        "playtime": 55.67638888888889,
+        "playtime": 55.699999999999996,
         "newestCompletion": "2025-04-27T11:56:17.000Z"
     },
     "382560": {
@@ -2221,7 +2221,7 @@ var masoData =
         "tier": "3",
         "owners": 64,
         "completions": 12,
-        "playtime": 22.345833333333335,
+        "playtime": 22.35972222222222,
         "newestCompletion": "2025-06-17T19:47:34.000Z"
     },
     "1130410": {
@@ -2285,7 +2285,7 @@ var masoData =
         "tier": "1",
         "owners": 63,
         "completions": 14,
-        "playtime": 7.342857142857142,
+        "playtime": 7.363095238095236,
         "newestCompletion": "2025-02-14T05:09:51.000Z"
     },
     "1037020": {
@@ -2629,7 +2629,7 @@ var masoData =
         "tier": "5",
         "owners": 104,
         "completions": 22,
-        "playtime": 584.1530303030304,
+        "playtime": 584.1666666666667,
         "newestCompletion": "2024-06-17T15:47:58.000Z",
         "badges": {
             "count": 1,
@@ -3113,15 +3113,15 @@ var masoData =
         "tier": "1",
         "owners": 27,
         "completions": 8,
-        "playtime": 8.139583333333333,
+        "playtime": 8.147916666666667,
         "newestCompletion": "2023-11-03T19:47:43.000Z"
     },
     "220160": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f Trial your might",
         "tier": "0",
         "owners": 54,
-        "completions": 4,
-        "playtime": 114.475,
+        "completions": 5,
+        "playtime": 114.33333333333333,
         "newestCompletion": "2025-05-27T07:22:07.000Z",
         "badges": {
             "count": 2,
@@ -3225,7 +3225,7 @@ var masoData =
         "tier": "3",
         "owners": 113,
         "completions": 56,
-        "playtime": 75.29940476190475,
+        "playtime": 75.30059523809523,
         "newestCompletion": "2025-03-21T07:21:41.000Z",
         "badges": {
             "count": 1,
@@ -3537,7 +3537,7 @@ var masoData =
         "tier": "2",
         "owners": 92,
         "completions": 32,
-        "playtime": 47.02812500000001,
+        "playtime": 47.09895833333334,
         "newestCompletion": "2025-07-07T00:32:13.000Z"
     },
     "1442170": {
@@ -3601,7 +3601,7 @@ var masoData =
         "tier": "3",
         "owners": 23,
         "completions": 5,
-        "playtime": 47.410000000000004,
+        "playtime": 47.86,
         "newestCompletion": "2025-04-23T16:00:07.000Z"
     },
     "1272680": {
@@ -3749,7 +3749,7 @@ var masoData =
         "tier": "1",
         "owners": 83,
         "completions": 27,
-        "playtime": 72.0141975308642,
+        "playtime": 72.01604938271603,
         "newestCompletion": "2025-07-25T09:11:45.000Z"
     },
     "1035950": {
@@ -3841,7 +3841,7 @@ var masoData =
         "tier": "2",
         "owners": 30,
         "completions": 5,
-        "playtime": 137.52333333333334,
+        "playtime": 137.66,
         "newestCompletion": "2023-11-05T07:53:12.000Z",
         "badges": {
             "count": 1,
@@ -3896,9 +3896,9 @@ var masoData =
         "description": "\ud83c\udf1f \ud83d\udc80 DANGER! HIGH VOLTAGE! \ud83d\udc80",
         "tier": "5",
         "owners": 32,
-        "completions": 2,
-        "playtime": 1551.5833333333335,
-        "newestCompletion": "2025-01-12T23:29:51.000Z",
+        "completions": 3,
+        "playtime": 1458.4833333333336,
+        "newestCompletion": "2025-02-26T13:13:46.000Z",
         "badges": {
             "count": 3,
             "points": 40
@@ -3964,9 +3964,9 @@ var masoData =
         "description": "Run Fast, Dodge Faster",
         "tier": "1",
         "owners": 25,
-        "completions": 9,
-        "playtime": 27.238888888888887,
-        "newestCompletion": "2024-12-09T13:58:19.000Z"
+        "completions": 10,
+        "playtime": 25.339999999999996,
+        "newestCompletion": "2025-08-19T10:30:25.000Z"
     },
     "1293170": {
         "description": "404: Tagline not found",
@@ -4181,7 +4181,7 @@ var masoData =
         "tier": "2",
         "owners": 32,
         "completions": 9,
-        "playtime": 58.67777777777778,
+        "playtime": 58.681481481481484,
         "newestCompletion": "2025-02-07T23:33:50.000Z"
     },
     "1304420": {
@@ -4205,7 +4205,7 @@ var masoData =
         "tier": "4",
         "owners": 42,
         "completions": 7,
-        "playtime": 203.19761904761904,
+        "playtime": 211.68571428571428,
         "newestCompletion": "2025-02-25T14:58:10.000Z",
         "badges": {
             "count": 1,
@@ -4329,7 +4329,7 @@ var masoData =
         "tier": "1",
         "owners": 51,
         "completions": 25,
-        "playtime": 3.4459999999999993,
+        "playtime": 3.446666666666666,
         "newestCompletion": "2025-08-06T04:41:49.000Z"
     },
     "412670": {
@@ -4471,9 +4471,17 @@ var masoData =
     "2099440": {
         "description": "Ancient techbros' ultimate showdown",
         "tier": "1",
-        "owners": 14,
-        "completions": 3,
-        "playtime": 11.544444444444444,
+        "owners": 15,
+        "completions": 4,
+        "playtime": 11.079166666666666,
         "newestCompletion": "2025-08-06T16:11:54.000Z"
+    },
+    "2825180": {
+        "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
+        "tier": "1",
+        "owners": 1,
+        "completions": 1,
+        "playtime": 9.583333333333334,
+        "newestCompletion": "2025-06-30T19:11:30.000Z"
     }
 }
