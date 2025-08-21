@@ -1,26 +1,58 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 1333090,
-        "CEId": "ff73f8f0-e5c6-4c90-9702-add88b698e03",
-        "name": "Gravity",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1333090/header.jpg?t=1686975474",
-        "genre": "Arcade",
-        "tier": 2,
-        "points": 30,
-        "createdAt": "2022-08-20T20:02:48.000Z",
+        "gameType": 0,
+        "platformId": 657000,
+        "CEId": "6a514ba5-8c76-4eb2-8034-8d9915a56e7c",
+        "name": "Rising Hell",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/657000/header.jpg?t=1723621704",
+        "genre": "Action",
+        "tier": 1,
+        "points": 14,
+        "createdAt": "2024-08-21T21:37:46.000Z",
         "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 3,
-        "playersStarted": 9,
-        "playersTotal": 152,
+        "playersCompleted": 0,
+        "playersStarted": 3,
+        "playersTotal": 48,
+        "priceData": {
+            "USD": {
+                "initial": 999,
+                "final": 999,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 975,
+                "final": 975,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 850,
+                "final": 850,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 120000,
+                "final": 120000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1450,
+                "final": 1450,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Space-Time Anomaly [15\u2605]\nComplete the Zeta Pack.\n\nGravitron [15\u2605]\nComplete all other official level packs.",
-            "community": 2,
-            "communityText": "F = G(m1m2/r^2)\nReach the teleporter in \"The Ultimate Trial\".\n\nThe Sign of Zeta\nComplete the Zeta Pack without dying.",
-            "achievements": 23
+            "primary": 5,
+            "primaryText": "Burn the Gates (UNCLEARED) [1\u2605]\nBeat all challenges on the maximum difficulty.\n\nJudgement Falls (UNCLEARED) [1\u2605]\nBeat Agony 24 with each character.\n\nRaise Hell (UNCLEARED) [1\u2605]\nObtain an S rank on all challenges on the maximum difficulty.\n\nUnderworld Usurper (UNCLEARED) [1\u2605]\nBeat Agony 24.\n\nMephisto's Puppet [10\u2605]\nDefeat all bosses and complete all challenges.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 34
         }
     }
 }
-var gameOfDayDate = '2025-08-20'
+var gameOfDayDate = '2025-08-21'
