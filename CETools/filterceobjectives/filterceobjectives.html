@@ -161,8 +161,6 @@
                             <td id="extraFilter">
                                 <b>Extras & Non-Filters:</b><br>
                                 <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br><br>
-                                <input  id="idToLink" type="checkbox" onchange="idToLink()">(CE > ID) Copy ID > Copy Link</input><br>
-                                <sub class="subtitle">(Useful to copy many links quickly)</sub><br>
                                 <input id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
                                 <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub><br>
                             </td>
@@ -194,8 +192,8 @@
             </tr>
             <tr style="font-weight: bold;">
                 <td>
-                    Game/Game ID<br>
-                    <sub class="subtitle">(Click to copy!)</sub>
+                    Game/Game Genre<br>
+                    <sub class="subtitle">(Click to copy the name!)</sub>
                 </td>
                 <td>Link</td>
             </tr>
@@ -206,8 +204,8 @@
             </tr>
             <tr style="font-weight: bold;">
                 <td>
-                    Game/Game ID<br>
-                    <sub class="subtitle">(Click to copy!)</sub>
+                    Game/Game Genre<br>
+                    <sub class="subtitle">(Click to copy the name!)</sub>
                 </td>
                 <td>Link</td>
                 <td rowspan="2">Type</td>
@@ -261,7 +259,6 @@
             let activeGenre = [true, true, true, true, true, true];
             let filterText = "";
             let caseSensitivity = false;
-            let linkReplaceId = false;
             let useReverseOrder = false;
             
             //Load Image Cookie
@@ -359,12 +356,6 @@
             
             function changePoints() {order(lastOrder);}
             
-            function idToLink()
-            {
-                if(linkReplaceId == true) {linkReplaceId = false;}
-                else {linkReplaceId = true;}
-                order(lastOrder);
-            }
             function staffOnly()
             {
                 if(useStaffOnly == true) {useStaffOnly = false;}
