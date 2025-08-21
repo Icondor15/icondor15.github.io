@@ -142,6 +142,16 @@
                                 <input type="text" style="width:300px" id="nameFilterBox" autocomplete="off" onchange onpropertychange onkeyuponpaste oninput="searchName()" name="name"></input><br>
                                 <input type="checkbox" id="nameFilterCase" onclick="caseSensitive()">Case Sensitive</input>
                             </td>
+                            <td colspan="2"  id="genreFilter">
+                                <b>Genre:</b><br>
+                                <input type="checkbox" id="genreAll" onclick="changeGenre(-1)" checked="true">All</input><br>
+                                <input type="checkbox" id="genreAction" onclick="changeGenre(0)">Action</input>
+                                <input type="checkbox" id="genreArcade" onclick="changeGenre(1)">Arcade</input><br>
+                                <input type="checkbox" id="genreBHell" onclick="changeGenre(2)">Bullet Hell</input>
+                                <input type="checkbox" id="genreFPerson" onclick="changeGenre(3)">First-Person</input><br>
+                                <input type="checkbox" id="genrePlatformer" onclick="changeGenre(4)">Platformer</input>
+                                <input type="checkbox" id="genreStrategy" onclick="changeGenre(5)">Strategy</input>
+                            </td>
                             <td id="pointsFilter">
                                 <b>Points:</b><br>
                                 <input type="number" id="pointLower" min="0" max="10000" onchange onpropertychange onkeyuponpaste oninput="changePoints()"></input>
@@ -228,6 +238,7 @@
         
         <p style="font-size:7px; text-align:center;"><a id="secretLink" target="_blank" href="https://github.com/Icondor15/icondor15.github.io">Secret link to Github page!</a></p>
 
+        <script src="../formattedList.js"></script>
         <script src="../formattedObjectiveList.js"></script>
 
         <script>
@@ -247,6 +258,7 @@
             //filter variables
             let activeType = 0;
             let activeText = "name";
+            let activeGenre = [true, true, true, true, true, true];
             let filterText = "";
             let caseSensitivity = false;
             let linkReplaceId = false;
@@ -292,6 +304,56 @@
                 {
                    filterText = document.getElementById("nameFilterBox").value.toUpperCase();
                 }
+                order(lastOrder);
+            }
+            
+            function changeGenre(genre)
+            {
+                if(genre == -1)
+                {
+                    if(!activeGenre.every(Boolean))
+                    {
+                        document.getElementById("genreAction").checked = false;
+                        document.getElementById("genreArcade").checked = false;
+                        document.getElementById("genreBHell").checked = false;
+                        document.getElementById("genreFPerson").checked = false;
+                        document.getElementById("genrePlatformer").checked = false;
+                        document.getElementById("genreStrategy").checked = false;
+                        activeGenre = [true, true, true, true, true, true]; //1:Action; 2:Arcade; 3:Bullet Hell; 4:First-Person; 5:Platformer; 6:Strategy
+                    }
+                    else {document.getElementById("genreAll").checked = true;}
+                }
+                else
+                {
+                    document.getElementById("genreAll").checked = false;
+                    if(activeGenre.every(x => x))
+                    {
+                        activeGenre = [false, false, false, false, false, false];
+                        activeGenre[genre] = true;
+                    }
+                    else
+                    {
+                        if(activeGenre[genre] == true) {activeGenre[genre] = false;}
+                        else {activeGenre[genre] = true;}
+                        
+                        if(activeGenre.every(x => !x))
+                        {
+                            document.getElementById("genreAll").checked = true;
+                            activeGenre = [true, true, true, true, true, true];
+                        }
+                        else if(activeGenre.every(x => x))
+                        {
+                            document.getElementById("genreAll").checked = true;
+                            document.getElementById("genreAction").checked = false;
+                            document.getElementById("genreArcade").checked = false;
+                            document.getElementById("genreBHell").checked = false;
+                            document.getElementById("genreFPerson").checked = false;
+                            document.getElementById("genrePlatformer").checked = false;
+                            document.getElementById("genreStrategy").checked = false;
+                        }
+                    }
+                }
+                
                 order(lastOrder);
             }
             
@@ -344,6 +406,47 @@
                 {
                     filteredData = filteredData.filter(val => {return val[activeText].toUpperCase().includes(filterText)})
                 }
+                
+                //filter by genre
+                var filteredGenre = [[],[],[],[],[],[]]; 
+                for(let i = 0; i < activeGenre.length; i++)
+                {
+                    if(activeGenre[i] == true)
+                    {
+                        switch(i){
+                            case 0:
+                                filteredGenre[i] = filteredData.filter(obj => {return findGame(obj) == "Action"})
+                                break;
+                            case 1:
+                                filteredGenre[i] = filteredData.filter(obj => {return findGame(obj) == "Arcade"})
+                                break;
+                            case 2:
+                                filteredGenre[i] = filteredData.filter(obj => {return findGame(obj) == "Bullet Hell"})
+                                break;
+                            case 3:
+                                filteredGenre[i] = filteredData.filter(obj => {return findGame(obj) == "First-Person"})
+                                break;
+                            case 4:
+                                filteredGenre[i] = filteredData.filter(obj => {return findGame(obj) == "Platformer"})
+                                break;
+                            case 5:
+                                filteredGenre[i] = filteredData.filter(obj => {return findGame(obj) == "Strategy"})
+                                break;
+                        }
+                    }
+
+                    function findGame(obj)
+                    {
+                        for(let j = 0; j < data.length; j++)
+                        {
+                            if(data[j]["CEId"] == obj["gameId"])
+                            {
+                                return data[j]["genre"];
+                            }
+                        }
+                    }
+                }
+                filteredData = filteredGenre.flat(1);
 
                 //Filter by points
                 var lowBound = 0;
@@ -469,7 +572,7 @@
 
                     var row2 = table.insertRow(((i+1)*2)+4);
                     row2.classList.add("replace");
-                    var cellGameId = row2.insertCell(row2.cells.length);
+                    var cellGameGenre = row2.insertCell(row2.cells.length);
                     var cellDescription = row2.insertCell(row2.cells.length);
                     if(Object.keys(filteredData[i]["requirements"]).length > 1) {var cellRequirementsSecond = row2.insertCell(row2.cells.length);}
                     else {cellRequirementsFirst.rowSpan = 2;}
@@ -545,22 +648,37 @@
                     p.title = "Click to copy the name to clipboard!";
                     p.id = null;
 
-                    cellGameId.innerHTML = "<span id='tmp'>" + filteredData[i]["gameId"] + "</span>";
-                    var p = document.getElementById("tmp");
-                    p.classList.add('textCopyable');
-                    if(!linkReplaceId)
-                    {
-                        p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i]["gameName"] + "')");
-                        p.title = "Click to copy the ID to clipboard!";
-                    }
-                    else
-                    {
-                        p.setAttribute("onClick", "navigator.clipboard.writeText('https://cedb.me/game/" + filteredData[i]["gameName"] + "')");
-                        p.title = "Click to copy the Link to clipboard!";
-                    }
-                    p.id = null;
+                    cellGameGenre.innerHTML = "<span id='tmp'>" + filteredData[i]["gameId"] + "</span>";
 
-
+                    for(let j = 0; j < data.length; j++)
+                    {
+                        if(data[j]["CEId"] == filteredData[i]["gameId"])
+                        {
+                            cellGameGenre.innerHTML = data[j]["genre"];
+                            switch(data[j]["genre"])
+                            {
+                                case "Action":
+                                    cellGameGenre.style.backgroundColor = "#FF000033";
+                                    break;
+                                case "Arcade":
+                                    cellGameGenre.style.backgroundColor = "#0000FF33";
+                                    break;
+                                case "Bullet Hell":
+                                    cellGameGenre.style.backgroundColor = "#FF00FF33";
+                                    break;
+                                case "First-Person":
+                                    cellGameGenre.style.backgroundColor = "#FF990033";
+                                    break;
+                                case "Platformer":
+                                    cellGameGenre.style.backgroundColor = "#00FF0033";
+                                    break;
+                                case "Strategy":
+                                    cellGameGenre.style.backgroundColor = "#FFFF0033";
+                                    break;
+                            }
+                            break;
+                        }
+                    }
 
                     cellCELink.innerHTML = "<a target='_blank' href='https://cedb.me/game/" + filteredData[i]["gameId"] + "'><b style='color: #000'>CE</b></a>";
 
