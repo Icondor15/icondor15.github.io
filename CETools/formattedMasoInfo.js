@@ -656,9 +656,9 @@ var masoData =
         "description": "\u2733 Who needs a story anyway?",
         "tier": "2",
         "owners": 112,
-        "completions": 29,
-        "playtime": 42.33505747126438,
-        "newestCompletion": "2025-05-02T06:55:06.000Z"
+        "completions": 30,
+        "playtime": 41.7738888888889,
+        "newestCompletion": "2025-08-06T04:36:39.000Z"
     },
     "356400": {
         "description": "\u2733 Feel the rhythm, time the rhythm",
@@ -2443,7 +2443,7 @@ var masoData =
     "820540": {
         "description": "Red is your new favorite color",
         "tier": "1",
-        "owners": 13,
+        "owners": 14,
         "completions": 5,
         "playtime": 17.633333333333333,
         "newestCompletion": "2023-06-10T06:10:07.000Z",
@@ -3028,14 +3028,6 @@ var masoData =
         "playtime": 19.385714285714283,
         "newestCompletion": "2023-04-10T13:32:31.000Z"
     },
-    "1057090": {
-        "description": "\u2733 now with actual combat",
-        "tier": "2",
-        "owners": 118,
-        "completions": 35,
-        "playtime": 36.579523809523806,
-        "newestCompletion": "2024-07-13T09:12:07.000Z"
-    },
     "658780": {
         "description": "explosive poop",
         "tier": "1",
@@ -3052,14 +3044,6 @@ var masoData =
         "playtime": 21.144444444444442,
         "newestCompletion": "2024-03-29T23:52:11.000Z"
     },
-    "1245620": {
-        "description": "\u2733 why is it always fort, night",
-        "tier": "2",
-        "owners": 105,
-        "completions": 63,
-        "playtime": 194.49444444444444,
-        "newestCompletion": "2025-07-26T08:37:09.000Z"
-    },
     "1190170": {
         "description": "\u2606 The definitive arcade-style skateboarding experience",
         "tier": "3",
@@ -3067,14 +3051,6 @@ var masoData =
         "completions": 3,
         "playtime": 45.40555555555556,
         "newestCompletion": "2023-10-17T06:11:47.000Z"
-    },
-    "1115050": {
-        "description": "\u2606 make sure to turn off the voice volume",
-        "tier": "3",
-        "owners": 43,
-        "completions": 13,
-        "playtime": 22.210256410256413,
-        "newestCompletion": "2025-05-31T21:18:45.000Z"
     },
     "646570": {
         "description": "\u2606 Slay your cards right",
