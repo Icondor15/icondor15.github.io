@@ -221,7 +221,7 @@ var masoData =
         "tier": "5",
         "owners": 124,
         "completions": 34,
-        "playtime": 61.705392156862736,
+        "playtime": 62.08774509803922,
         "newestCompletion": "2024-10-19T05:53:44.000Z"
     },
     "703720": {
@@ -943,9 +943,9 @@ var masoData =
     "240720": {
         "description": "\u2733 Can you?",
         "tier": "2",
-        "owners": 178,
-        "completions": 92,
-        "playtime": 33.55217391304349,
+        "owners": 179,
+        "completions": 93,
+        "playtime": 33.23458781362009,
         "newestCompletion": "2025-07-26T13:11:01.000Z"
     },
     "510620": {
@@ -1181,7 +1181,7 @@ var masoData =
         "tier": "3",
         "owners": 53,
         "completions": 18,
-        "playtime": 39.26666666666667,
+        "playtime": 40.79166666666667,
         "newestCompletion": "2024-02-11T17:20:23.000Z"
     },
     "230270": {
@@ -1199,7 +1199,7 @@ var masoData =
     "247140": {
         "description": "\u2606 A rhythmic bullet hell, not for the weak of heart ;)",
         "tier": "3",
-        "owners": 110,
+        "owners": 111,
         "completions": 31,
         "playtime": 61.74247311827957,
         "newestCompletion": "2024-06-16T17:38:33.000Z"
@@ -1279,7 +1279,7 @@ var masoData =
     "321560": {
         "description": "\u2733 Time attacks from hell",
         "tier": "2",
-        "owners": 80,
+        "owners": 81,
         "completions": 26,
         "playtime": 25.82115384615384,
         "newestCompletion": "2024-01-26T10:38:51.000Z",
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 240,
         "completions": 71,
-        "playtime": 125.0269953051643,
+        "playtime": 125.03990610328634,
         "newestCompletion": "2025-06-14T23:14:40.000Z"
     },
     "557340": {
@@ -1745,7 +1745,7 @@ var masoData =
         "tier": "5",
         "owners": 92,
         "completions": 33,
-        "playtime": 50.21969696969696,
+        "playtime": 50.27777777777777,
         "newestCompletion": "2025-02-17T16:52:52.000Z"
     },
     "846870": {
@@ -1825,7 +1825,7 @@ var masoData =
         "tier": "2",
         "owners": 105,
         "completions": 45,
-        "playtime": 47.60888888888888,
+        "playtime": 48.37074074074073,
         "newestCompletion": "2025-07-16T20:33:49.000Z",
         "badges": {
             "count": 1,
@@ -1929,7 +1929,7 @@ var masoData =
         "tier": "3",
         "owners": 92,
         "completions": 19,
-        "playtime": 30.478947368421046,
+        "playtime": 30.81315789473684,
         "newestCompletion": "2025-05-30T16:18:16.000Z"
     },
     "210870": {
@@ -2247,7 +2247,7 @@ var masoData =
     "1154810": {
         "description": "\u2733 F",
         "tier": "2",
-        "owners": 104,
+        "owners": 105,
         "completions": 28,
         "playtime": 33.94702380952381,
         "newestCompletion": "2025-05-20T11:23:59.000Z"
@@ -2507,7 +2507,7 @@ var masoData =
     "1273540": {
         "description": "I dig it.",
         "tier": "1",
-        "owners": 14,
+        "owners": 15,
         "completions": 9,
         "playtime": 7.044444444444443,
         "newestCompletion": "2023-01-07T00:34:32.000Z"
@@ -2787,7 +2787,7 @@ var masoData =
     "1184480": {
         "description": "\u2733 Don\"t expect any \"d\u00e9j\u00e0 vu\" in this gameplay",
         "tier": "2",
-        "owners": 26,
+        "owners": 27,
         "completions": 2,
         "playtime": 20.816666666666666,
         "newestCompletion": "2024-07-26T06:55:21.000Z"
@@ -3201,7 +3201,7 @@ var masoData =
         "tier": "3",
         "owners": 113,
         "completions": 56,
-        "playtime": 75.42559523809523,
+        "playtime": 75.45386904761904,
         "newestCompletion": "2025-03-21T07:21:41.000Z",
         "badges": {
             "count": 1,
@@ -3707,7 +3707,7 @@ var masoData =
     "2138710": {
         "description": "\u2733 Nothing good ever comes from revenge",
         "tier": "2",
-        "owners": 54,
+        "owners": 55,
         "completions": 8,
         "playtime": 102.99791666666667,
         "newestCompletion": "2025-07-22T01:59:55.000Z"
@@ -3724,9 +3724,9 @@ var masoData =
         "description": "When the luck of the draw gets dicey",
         "tier": "1",
         "owners": 83,
-        "completions": 27,
-        "playtime": 72.01604938271603,
-        "newestCompletion": "2025-07-25T09:11:45.000Z"
+        "completions": 28,
+        "playtime": 70.77738095238094,
+        "newestCompletion": "2025-08-24T16:09:59.000Z"
     },
     "1035950": {
         "description": "baby don't hurt me, don't hurt me, no more",
@@ -4087,7 +4087,7 @@ var masoData =
     "1860350": {
         "description": "\u272a Dreaming day and night",
         "tier": "4",
-        "owners": 36,
+        "owners": 37,
         "completions": 6,
         "playtime": 29.058333333333337,
         "newestCompletion": "2024-09-21T21:09:26.000Z"
@@ -4139,7 +4139,7 @@ var masoData =
     "453300": {
         "description": "heal pls",
         "tier": "1",
-        "owners": 18,
+        "owners": 19,
         "completions": 9,
         "playtime": 5.859259259259259,
         "newestCompletion": "2025-07-06T20:29:19.000Z"
@@ -4267,7 +4267,7 @@ var masoData =
     "363440": {
         "description": "\u2733 That's Mega, Man",
         "tier": "2",
-        "owners": 60,
+        "owners": 61,
         "completions": 11,
         "playtime": 53.374242424242425,
         "newestCompletion": "2025-01-01T10:44:45.000Z"
@@ -4335,7 +4335,7 @@ var masoData =
     "1345860": {
         "description": "Grapple Doggo ",
         "tier": "1",
-        "owners": 24,
+        "owners": 25,
         "completions": 13,
         "playtime": 17.66410256410256,
         "newestCompletion": "2025-03-19T05:23:33.000Z"
@@ -4455,9 +4455,9 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 7,
-        "completions": 6,
-        "playtime": 9.577777777777778,
-        "newestCompletion": "2025-08-18T17:32:32.000Z"
+        "owners": 10,
+        "completions": 8,
+        "playtime": 9.104166666666666,
+        "newestCompletion": "2025-08-25T05:05:32.000Z"
     }
 }
