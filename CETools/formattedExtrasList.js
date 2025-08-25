@@ -57,17 +57,17 @@ var extrasData =
     "2e0a208c-fc31-447b-a96e-e01c3c4bf6fa": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3215,
+            "total": 3214,
             "positive": 2522,
-            "negative": 693
+            "negative": 692
         }
     },
     "c04662d6-fdcc-4b55-918b-f1d1eb0d25de": {
         "reviews": {
             "description": "Very Positive",
-            "total": 744,
-            "positive": 613,
-            "negative": 131
+            "total": 746,
+            "positive": 614,
+            "negative": 132
         }
     },
     "9cf4364b-02ca-42d4-a094-6f9264a2a5ab": {
@@ -81,8 +81,8 @@ var extrasData =
     "50f3310d-04b0-4619-9c43-d0aa689f1303": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4622,
-            "positive": 4275,
+            "total": 4625,
+            "positive": 4278,
             "negative": 347
         },
         "dlc": {
@@ -91,27 +91,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 499,
-                    "final": 99
+                    "final": 499
                 },
                 "EUR": {
                     "initial": 499,
-                    "final": 99
+                    "final": 499
                 },
                 "GBP": {
                     "initial": 429,
-                    "final": 85
+                    "final": 429
                 },
                 "JPY": {
                     "initial": 58000,
-                    "final": 11600
+                    "final": 58000
                 },
                 "AUD": {
                     "initial": 750,
-                    "final": 150
+                    "final": 750
                 },
                 "CAD": {
                     "initial": 649,
-                    "final": 129
+                    "final": 649
                 }
             }
         }
@@ -119,8 +119,8 @@ var extrasData =
     "47ea5508-05cd-487e-99b8-81ddf629b7d4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4422,
-            "positive": 4035,
+            "total": 4426,
+            "positive": 4039,
             "negative": 387
         },
         "dlc": {
@@ -157,8 +157,8 @@ var extrasData =
     "0de65d43-2497-450a-9089-a0b20552605a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2582,
-            "positive": 2348,
+            "total": 2587,
+            "positive": 2353,
             "negative": 234
         },
         "dlc": {
@@ -211,9 +211,9 @@ var extrasData =
     "4408b00f-eac4-4a5f-98f3-0ed3897e73a4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1484,
+            "total": 1483,
             "positive": 1339,
-            "negative": 145
+            "negative": 144
         },
         "dlc": {
             "description": "64.0 Soundtrack",
@@ -249,8 +249,8 @@ var extrasData =
     "b8d32f16-c5f9-4cc7-a902-2adab70b65ec": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2699,
-            "positive": 2064,
+            "total": 2711,
+            "positive": 2076,
             "negative": 635
         }
     },
@@ -303,9 +303,9 @@ var extrasData =
     "22177e06-2002-488a-8c90-fe3ff3849647": {
         "reviews": {
             "description": "Very Positive",
-            "total": 75294,
-            "positive": 70787,
-            "negative": 4507
+            "total": 75427,
+            "positive": 70915,
+            "negative": 4512
         },
         "dlc": {
             "description": "A Dance of Fire and Ice - Neo Cosmos\n\nA Dance of Fire and Ice OST\n\nA Dance of Fire and Ice - Neo Cosmos OST",
@@ -341,8 +341,8 @@ var extrasData =
     "0cdd8085-d61f-429b-a9e7-32e2ce0e73e8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4662,
-            "positive": 4135,
+            "total": 4677,
+            "positive": 4150,
             "negative": 527
         }
     },
@@ -357,8 +357,8 @@ var extrasData =
     "21144d8d-c943-4130-8349-6e768220cfc9": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 52069,
-            "positive": 50937,
+            "total": 52118,
+            "positive": 50986,
             "negative": 1132
         },
         "dlc": {
@@ -395,8 +395,8 @@ var extrasData =
     "2a5b3141-335d-468e-8d64-28b48d599324": {
         "reviews": {
             "description": "Very Positive",
-            "total": 230,
-            "positive": 185,
+            "total": 231,
+            "positive": 186,
             "negative": 45
         }
     },
@@ -563,9 +563,9 @@ var extrasData =
     "56310e0d-1a01-4a88-b540-496b4a1efe21": {
         "reviews": {
             "description": "Very Positive",
-            "total": 28935,
-            "positive": 26495,
-            "negative": 2440
+            "total": 28934,
+            "positive": 26493,
+            "negative": 2441
         }
     },
     "1b59d51b-f444-419b-a73d-a42dcd88f38f": {
@@ -595,8 +595,8 @@ var extrasData =
     "08c33343-8e72-402f-8592-e36adb54f41e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 927,
-            "positive": 771,
+            "total": 929,
+            "positive": 773,
             "negative": 156
         },
         "dlc": {
@@ -633,17 +633,17 @@ var extrasData =
     "08a44c43-cf9c-4fef-b695-0b9e57a66802": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3063,
-            "positive": 2693,
-            "negative": 370
+            "total": 3067,
+            "positive": 2696,
+            "negative": 371
         }
     },
     "98efcdf2-ab5b-40f2-a9a2-928724a5e31f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3228,
-            "positive": 2891,
-            "negative": 337
+            "total": 3230,
+            "positive": 2894,
+            "negative": 336
         },
         "dlc": {
             "description": "Aces and Adventures - Luck of the Paw",
@@ -717,8 +717,8 @@ var extrasData =
     "920a6690-59e3-410a-b9de-1d19a389c80b": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 140,
-            "positive": 111,
+            "total": 141,
+            "positive": 112,
             "negative": 29
         },
         "dlc": {
@@ -727,27 +727,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 499,
-                    "final": 499
+                    "final": 124
                 },
                 "EUR": {
                     "initial": 499,
-                    "final": 499
+                    "final": 124
                 },
                 "GBP": {
                     "initial": 399,
-                    "final": 399
+                    "final": 99
                 },
                 "JPY": {
                     "initial": 58000,
-                    "final": 58000
+                    "final": 14500
                 },
                 "AUD": {
                     "initial": 750,
-                    "final": 750
+                    "final": 187
                 },
                 "CAD": {
                     "initial": 649,
-                    "final": 649
+                    "final": 162
                 }
             }
         }
@@ -755,9 +755,9 @@ var extrasData =
     "025d2bfa-8a1b-4a48-9b3c-62ba34f88a09": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 1822,
-            "positive": 1383,
-            "negative": 439
+            "total": 1820,
+            "positive": 1382,
+            "negative": 438
         },
         "dlc": {
             "description": "Aeterna Noctis: Virtuoso\n\nAeterna Noctis: Official Soundtrack\n\nAeterna Chronicles: Sprout of Hate\n\nAeterna Noctis: Artistic Map\n\nAeterna Noctis: Exclusive Wallpapers\n\nAeterna Noctis: Concert of the Night\n\nAeterna Noctis \"Virtuoso\": Soundtrack",
@@ -765,27 +765,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 4893,
-                    "final": 4893
+                    "final": 1518
                 },
                 "EUR": {
                     "initial": 4643,
-                    "final": 4643
+                    "final": 1456
                 },
                 "GBP": {
                     "initial": 4003,
-                    "final": 4003
+                    "final": 1252
                 },
                 "JPY": {
                     "initial": 541000,
-                    "final": 541000
+                    "final": 166000
                 },
                 "AUD": {
                     "initial": 7194,
-                    "final": 7194
+                    "final": 2238
                 },
                 "CAD": {
                     "initial": 6103,
-                    "final": 6103
+                    "final": 1868
                 }
             }
         }
@@ -831,9 +831,9 @@ var extrasData =
     "a8783c0a-ac89-4d33-ae1d-1b387c10bd42": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8734,
-            "positive": 6782,
-            "negative": 1952
+            "total": 8766,
+            "positive": 6805,
+            "negative": 1961
         },
         "dlc": {
             "description": "Afterimage: Soundtrack\n\nAfterimage: Artbook",
@@ -869,9 +869,9 @@ var extrasData =
     "474b83ec-50e9-49c0-b9b1-e5a2245fe47b": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 611,
+            "total": 612,
             "positive": 478,
-            "negative": 133
+            "negative": 134
         }
     },
     "30b7a3a7-460e-46b4-8ed6-3acba5585d2c": {
@@ -915,8 +915,8 @@ var extrasData =
     "febdee99-bbee-4787-abc1-bad267e2165a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2186,
-            "positive": 1900,
+            "total": 2187,
+            "positive": 1901,
             "negative": 286
         },
         "dlc": {
@@ -925,27 +925,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 799,
-                    "final": 799
+                    "final": 599
                 },
                 "EUR": {
                     "initial": 659,
-                    "final": 659
+                    "final": 494
                 },
                 "GBP": {
                     "initial": 579,
-                    "final": 579
+                    "final": 434
                 },
                 "JPY": {
                     "initial": 82000,
-                    "final": 82000
+                    "final": 61500
                 },
                 "AUD": {
                     "initial": 1150,
-                    "final": 1150
+                    "final": 862
                 },
                 "CAD": {
                     "initial": 899,
-                    "final": 899
+                    "final": 674
                 }
             }
         }
@@ -953,24 +953,24 @@ var extrasData =
     "8575702b-cd01-4139-a381-9eca9f2f9cbc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2657,
-            "positive": 2180,
+            "total": 2656,
+            "positive": 2179,
             "negative": 477
         }
     },
     "be30c038-87e7-42bb-a737-2b8babcdeec2": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1096,
-            "positive": 961,
+            "total": 1099,
+            "positive": 964,
             "negative": 135
         }
     },
     "5de045de-c895-4ffa-a9b2-2b18160ad07f": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2806,
-            "positive": 2681,
+            "total": 2809,
+            "positive": 2684,
             "negative": 125
         },
         "dlc": {
@@ -1007,8 +1007,8 @@ var extrasData =
     "4f672da8-31d4-4825-b12b-6c62872c7920": {
         "reviews": {
             "description": "Very Positive",
-            "total": 305,
-            "positive": 260,
+            "total": 306,
+            "positive": 261,
             "negative": 45
         },
         "dlc": {
@@ -1045,8 +1045,8 @@ var extrasData =
     "3cd446b2-4d4f-47f4-9af8-6ad2bd2edb2f": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4391,
-            "positive": 4181,
+            "total": 4399,
+            "positive": 4189,
             "negative": 210
         },
         "dlc": {
@@ -1083,17 +1083,17 @@ var extrasData =
     "eb98fde8-9415-4438-b2c2-6b09ed162310": {
         "reviews": {
             "description": "Positive",
-            "total": 43,
-            "positive": 43,
+            "total": 44,
+            "positive": 44,
             "negative": 0
         }
     },
     "32e57fc5-c04e-442f-b29b-3d90c999407d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 61684,
-            "positive": 57487,
-            "negative": 4197
+            "total": 61782,
+            "positive": 57579,
+            "negative": 4203
         },
         "dlc": {
             "description": "Alien: Isolation - Last Survivor\n\nAlien: Isolation - Crew Expendable\n\nAlien: Isolation - The Trigger\n\nAlien: Isolation - Lost Contact\n\nAlien: Isolation - Safe Haven\n\nAlien: Isolation - Corporate Lockdown\n\nAlien: Isolation - Trauma",
@@ -1137,9 +1137,9 @@ var extrasData =
     "a685ad98-c39b-402c-a448-6568aae0d33d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 20246,
-            "positive": 18464,
-            "negative": 1782
+            "total": 20272,
+            "positive": 18488,
+            "negative": 1784
         },
         "dlc": {
             "description": "Aliens vs. Predator Swarm Map Pack\n\nAliens vs Predator\u2122 Bughunt Map Pack",
@@ -1179,9 +1179,9 @@ var extrasData =
     "334ed197-891b-40cb-b23d-8953130d4ab3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 153,
+            "total": 154,
             "positive": 132,
-            "negative": 21
+            "negative": 22
         },
         "dlc": {
             "description": "ALLTYNEX Second Original Soundtrack",
@@ -1217,24 +1217,24 @@ var extrasData =
     "86b06c47-f3fa-49af-b820-7c43b5b716d3": {
         "reviews": {
             "description": "Mixed",
-            "total": 466,
-            "positive": 302,
+            "total": 467,
+            "positive": 303,
             "negative": 164
         }
     },
     "d7e7a54e-78cb-4504-99c8-afa06a028920": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 10773,
-            "positive": 8601,
-            "negative": 2172
+            "total": 10766,
+            "positive": 8595,
+            "negative": 2171
         }
     },
     "4fc06678-bd5c-4915-a70e-5877f004f686": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 858,
-            "positive": 686,
+            "total": 859,
+            "positive": 687,
             "negative": 172
         },
         "dlc": {
@@ -1243,27 +1243,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 399,
-                    "final": 67
+                    "final": 399
                 },
                 "EUR": {
                     "initial": 399,
-                    "final": 67
+                    "final": 399
                 },
                 "GBP": {
                     "initial": 339,
-                    "final": 57
+                    "final": 339
                 },
                 "JPY": {
                     "initial": 47000,
-                    "final": 7900
+                    "final": 47000
                 },
                 "AUD": {
                     "initial": 595,
-                    "final": 101
+                    "final": 595
                 },
                 "CAD": {
                     "initial": 499,
-                    "final": 84
+                    "final": 499
                 }
             }
         }
@@ -1271,17 +1271,17 @@ var extrasData =
     "3ea54fc2-86aa-4a7f-b7bf-480a3a429c5b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 76,
-            "positive": 71,
+            "total": 77,
+            "positive": 72,
             "negative": 5
         }
     },
     "3a6ed67e-e16c-48d8-a98a-afc0d9d91aa4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1153,
-            "positive": 1134,
-            "negative": 19
+            "total": 1157,
+            "positive": 1137,
+            "negative": 20
         },
         "dlc": {
             "description": "Ambidextro Soundtrack",
@@ -1317,17 +1317,17 @@ var extrasData =
     "18401dcf-9eb3-4356-bd26-5e004dd5894d": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8796,
-            "positive": 6763,
-            "negative": 2033
+            "total": 8804,
+            "positive": 6772,
+            "negative": 2032
         }
     },
     "2594b0b7-2198-41b4-97f4-ad8469bc5dd2": {
         "reviews": {
             "description": "Very Positive",
-            "total": 9705,
-            "positive": 9063,
-            "negative": 642
+            "total": 9786,
+            "positive": 9136,
+            "negative": 650
         }
     },
     "0f130d6a-d955-41b9-85ad-bb9fb26316cb": {
@@ -1387,16 +1387,16 @@ var extrasData =
     "127c7f28-8644-4e49-bda4-6118520cf17f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 177,
-            "positive": 165,
+            "total": 179,
+            "positive": 167,
             "negative": 12
         }
     },
     "fa1ea06b-1c60-4827-bdc0-8b69dd7c963a": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1488,
-            "positive": 1472,
+            "total": 1493,
+            "positive": 1477,
             "negative": 16
         },
         "dlc": {
@@ -1433,9 +1433,9 @@ var extrasData =
     "2929c6cc-6f31-47e9-9ebd-f8e1e428ec12": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3275,
-            "positive": 3066,
-            "negative": 209
+            "total": 3301,
+            "positive": 3089,
+            "negative": 212
         },
         "dlc": {
             "description": "Anger Foot Soundtrack",
@@ -1471,8 +1471,8 @@ var extrasData =
     "2ede7bcf-66b2-4531-b396-c351f063e4ba": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3143,
-            "positive": 2776,
+            "total": 3144,
+            "positive": 2777,
             "negative": 367
         },
         "dlc": {
@@ -1509,9 +1509,9 @@ var extrasData =
     "a2fd702d-8896-4e0e-88e6-84104898ff8f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 707,
-            "positive": 671,
-            "negative": 36
+            "total": 710,
+            "positive": 673,
+            "negative": 37
         },
         "dlc": {
             "description": "Angry Video Game Nerd I & II Deluxe Official Soundtrack",
@@ -1601,8 +1601,8 @@ var extrasData =
     "9de86b88-6632-40e8-b7d2-592fee970bd7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3595,
-            "positive": 3407,
+            "total": 3600,
+            "positive": 3412,
             "negative": 188
         }
     },
@@ -1655,17 +1655,17 @@ var extrasData =
     "abc893e5-4253-4c55-87f6-80fc41b740ac": {
         "reviews": {
             "description": "Very Positive",
-            "total": 201,
-            "positive": 181,
-            "negative": 20
+            "total": 203,
+            "positive": 182,
+            "negative": 21
         }
     },
     "7c803d43-96f8-40db-b841-c1f25e101020": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2279,
-            "positive": 2023,
-            "negative": 256
+            "total": 2286,
+            "positive": 2029,
+            "negative": 257
         }
     },
     "1b0215d8-b457-411b-af70-50a839dcff04": {
@@ -1679,9 +1679,9 @@ var extrasData =
     "036b16db-e20b-4b51-a0bf-e3ecfb5b5e26": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 9261,
+            "total": 9258,
             "positive": 7354,
-            "negative": 1907
+            "negative": 1904
         },
         "dlc": {
             "description": "Arizona Sunshine\u00ae - The Damned DLC\n\nArizona Sunshine\u00ae - Dead Man DLC",
@@ -1725,9 +1725,9 @@ var extrasData =
     "65ae7665-90dd-4ba7-b05d-7f5fbe34cc69": {
         "reviews": {
             "description": "Very Positive",
-            "total": 78454,
-            "positive": 71764,
-            "negative": 6690
+            "total": 78628,
+            "positive": 71932,
+            "negative": 6696
         }
     },
     "211bb6fa-4564-4cd0-9a7b-4b8c9773434e": {
@@ -1741,9 +1741,9 @@ var extrasData =
     "9da48765-df04-4164-a800-1ac9ef601f10": {
         "reviews": {
             "description": "Mixed",
-            "total": 3631,
-            "positive": 2459,
-            "negative": 1172
+            "total": 3634,
+            "positive": 2461,
+            "negative": 1173
         },
         "dlc": {
             "description": "Ashen - Nightstorm Isle\n\nAshen - Original Soundtrack",
@@ -1751,27 +1751,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1698,
-                    "final": 1698
+                    "final": 648
                 },
                 "EUR": {
                     "initial": 1578,
-                    "final": 1578
+                    "final": 602
                 },
                 "GBP": {
                     "initial": 1358,
-                    "final": 1358
+                    "final": 518
                 },
                 "JPY": {
                     "initial": 231000,
-                    "final": 231000
+                    "final": 88500
                 },
                 "AUD": {
                     "initial": 2544,
-                    "final": 2544
+                    "final": 972
                 },
                 "CAD": {
                     "initial": 2278,
-                    "final": 2278
+                    "final": 868
                 }
             }
         }
@@ -1779,8 +1779,8 @@ var extrasData =
     "bc6f75f4-aa1e-49f4-b6ed-cda881e165db": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1969,
-            "positive": 1854,
+            "total": 1971,
+            "positive": 1856,
             "negative": 115
         },
         "dlc": {
@@ -1825,9 +1825,9 @@ var extrasData =
     "9a150566-1646-4371-b28a-dddb7d392427": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1262,
-            "positive": 1136,
-            "negative": 126
+            "total": 1267,
+            "positive": 1142,
+            "negative": 125
         },
         "dlc": {
             "description": "Astalon: Tears of the Earth - Original Sound Version\n\nAstalon: Tears of the Earth - Super Arrange Version\n\nAstalon: Tears of the Earth - Art and Creation\n\nAstalon: Tears of the Earth - Bonus Tracks",
@@ -1863,9 +1863,9 @@ var extrasData =
     "4cf3194e-d3e8-425c-8674-2bcf43f16ab8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1580,
-            "positive": 1393,
-            "negative": 187
+            "total": 1581,
+            "positive": 1395,
+            "negative": 186
         },
         "dlc": {
             "description": "Astebreed - Original Soundtrack",
@@ -1933,8 +1933,8 @@ var extrasData =
     "c2b6cff7-c82d-42b2-8b22-8636ba431137": {
         "reviews": {
             "description": "Very Positive",
-            "total": 435,
-            "positive": 422,
+            "total": 438,
+            "positive": 425,
             "negative": 13
         },
         "dlc": {
@@ -1943,27 +1943,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 999,
-                    "final": 999
+                    "final": 249
                 },
                 "EUR": {
                     "initial": 819,
-                    "final": 819
+                    "final": 204
                 },
                 "GBP": {
                     "initial": 719,
-                    "final": 719
+                    "final": 179
                 },
                 "JPY": {
                     "initial": 101000,
-                    "final": 101000
+                    "final": 25200
                 },
                 "AUD": {
                     "initial": 1450,
-                    "final": 1450
+                    "final": 362
                 },
                 "CAD": {
                     "initial": 1149,
-                    "final": 1149
+                    "final": 287
                 }
             }
         }
@@ -1971,9 +1971,9 @@ var extrasData =
     "3427ac7d-17dc-43c3-a2dd-a91964588743": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5794,
-            "positive": 5345,
-            "negative": 449
+            "total": 5815,
+            "positive": 5364,
+            "negative": 451
         },
         "dlc": {
             "description": "Atomicrops: Reap What You Crow\n\nAtomicrops: Deerly Beloved\n\nAtomicrops Soundtrack\n\nAtomicrops: Invasive Species\n\nAtomicrops: Doom & Bloom\n\nAtomicrops: Feline Good",
@@ -1981,27 +1981,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1697,
-                    "final": 1697
+                    "final": 707
                 },
                 "EUR": {
                     "initial": 1697,
-                    "final": 1697
+                    "final": 707
                 },
                 "GBP": {
                     "initial": 1447,
-                    "final": 1447
+                    "final": 604
                 },
                 "JPY": {
                     "initial": 196000,
-                    "final": 196000
+                    "final": 82000
                 },
                 "AUD": {
                     "initial": 2525,
-                    "final": 2525
+                    "final": 1057
                 },
                 "CAD": {
                     "initial": 2197,
-                    "final": 2197
+                    "final": 917
                 }
             }
         }
@@ -2047,8 +2047,8 @@ var extrasData =
     "8ee114fb-b5d7-4897-ab15-334d00f283a4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 420,
-            "positive": 356,
+            "total": 421,
+            "positive": 357,
             "negative": 64
         },
         "dlc": {
@@ -2223,9 +2223,9 @@ var extrasData =
     "0cb578fd-154a-4f50-887c-fe7343d637eb": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6199,
-            "positive": 5627,
-            "negative": 572
+            "total": 6205,
+            "positive": 5631,
+            "negative": 574
         },
         "dlc": {
             "description": "Axiom Verge Original Soundtrack",
@@ -2277,9 +2277,9 @@ var extrasData =
     "51cca7e6-dcad-40da-88d7-1ea0d592d5b2": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1697,
-            "positive": 1446,
-            "negative": 251
+            "total": 1703,
+            "positive": 1449,
+            "negative": 254
         },
         "dlc": {
             "description": "AZURE STRIKER GUNVOLT OFFICIAL SOUNDTRACK\n\nAZURE PHOSPHORESCENCE",
@@ -2358,12 +2358,20 @@ var extrasData =
             }
         }
     },
+    "5c1f9b00-4965-47e1-9d0b-68b94c1bd507": {
+        "reviews": {
+            "description": "Positive",
+            "total": 18,
+            "positive": 18,
+            "negative": 0
+        }
+    },
     "5e57393b-c95a-44c5-807b-ed0c8db8066a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12483,
-            "positive": 11632,
-            "negative": 851
+            "total": 12527,
+            "positive": 11673,
+            "negative": 854
         },
         "dlc": {
             "description": "Bad North: Jotunn Edition Deluxe Edition Upgrade",
@@ -2371,27 +2379,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 699,
-                    "final": 699
+                    "final": 139
                 },
                 "EUR": {
                     "initial": 699,
-                    "final": 699
+                    "final": 139
                 },
                 "GBP": {
                     "initial": 589,
-                    "final": 589
+                    "final": 117
                 },
                 "JPY": {
                     "initial": 80000,
-                    "final": 80000
+                    "final": 16000
                 },
                 "AUD": {
                     "initial": 1025,
-                    "final": 1025
+                    "final": 205
                 },
                 "CAD": {
                     "initial": 899,
-                    "final": 899
+                    "final": 179
                 }
             }
         }
@@ -2400,8 +2408,8 @@ var extrasData =
         "reviews": {
             "description": "Very Positive",
             "total": 3113,
-            "positive": 2669,
-            "negative": 444
+            "positive": 2668,
+            "negative": 445
         },
         "dlc": {
             "description": "BADLAND: Game of the Year Edition - Digital Art Booklet & Ambient Soundtrack",
@@ -2445,9 +2453,9 @@ var extrasData =
     "56be6b0c-365c-4741-a60f-84743133a55a": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 165974,
-            "positive": 162611,
-            "negative": 3363
+            "total": 166713,
+            "positive": 163337,
+            "negative": 3376
         },
         "dlc": {
             "description": "Balatro Soundtrack",
@@ -2491,25 +2499,25 @@ var extrasData =
     "8d34839e-5283-4f79-8a66-5780c2156bd9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 352,
-            "positive": 337,
+            "total": 353,
+            "positive": 338,
             "negative": 15
         }
     },
     "35553cb6-a911-4680-8314-99382d4c0fb4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2315,
-            "positive": 1984,
-            "negative": 331
+            "total": 2314,
+            "positive": 1982,
+            "negative": 332
         }
     },
     "b11d8153-0284-4596-b8fa-1d43ff5df428": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 37538,
-            "positive": 35799,
-            "negative": 1739
+            "total": 37550,
+            "positive": 35810,
+            "negative": 1740
         },
         "dlc": {
             "description": "Bastion: Original Soundtrack",
@@ -2545,8 +2553,8 @@ var extrasData =
     "85a1c8c0-bf0e-485e-ac32-81d790a5582e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 275,
-            "positive": 264,
+            "total": 278,
+            "positive": 267,
             "negative": 11
         },
         "dlc": {
@@ -2583,17 +2591,17 @@ var extrasData =
     "e5a1b221-67c4-4ade-9e29-fa1a3e072e6d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 75876,
-            "positive": 73093,
-            "negative": 2783
+            "total": 76099,
+            "positive": 73304,
+            "negative": 2795
         }
     },
     "36d54726-10e7-4691-8023-546c9b28923b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 143347,
-            "positive": 127335,
-            "negative": 16012
+            "total": 143690,
+            "positive": 127674,
+            "negative": 16016
         },
         "dlc": {
             "description": "Batman\u2122: Arkham Knight Season Pass\nBatman\u2122: Arkham Knight - A Matter of Family\nBatman\u2122: Arkham Knight - Harley Quinn Story Pack\nBatman\u2122: Arkham Knight - Red Hood Story Pack\nBatman\u2122: Arkham Knight - Prototype Batmobile Skin\nBatman\u2122: Arkham Knight - Batman Classic TV Series Batmobile Pack\nBatman\u2122: Arkham Knight - 1st Appearance Batman Skin\nBatman\u2122: Arkham Knight - Bat-Family Skin Pack\nBatman\u2122: Arkham Knight - 1989 Movie Batmobile Pack\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #1\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #2\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #3\nBatman\u2122: Arkham Knight - Crime Fighter Challenge Pack #4\nBatman\u2122: Arkham Knight Crime Fighter Challenge Pack #5\nBatman\u2122: Arkham Knight - GCPD Lockdown\nBatman\u2122: Arkham Knight - 2008 Tumbler Batmobile Pack\nBatman\u2122: Arkham Knight - Catwoman's Revenge\nBatman\u2122: Arkham Knight - Robin and Batmobile Skins Pack\nBatman\u2122: Arkham Knight - WayneTech Track Pack\nBatman\u2122: Arkham Knight - A Flip of a Coin\nBatman\u2122: Arkham Knight - Season of Infamy: Most Wanted Expansion\nBatman\u2122: Arkham Knight - 1970s Batman Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Riddler Themed Batmobile Skin\nBatman\u2122: Arkham Knight - Original Arkham Batmobile",
@@ -2645,17 +2653,17 @@ var extrasData =
     "c9dda468-5ade-4cbf-9ed2-3bdd3a0d5e68": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 71821,
-            "positive": 69816,
-            "negative": 2005
+            "total": 71840,
+            "positive": 69832,
+            "negative": 2008
         }
     },
     "97594e7f-bde8-4f71-b4eb-32cd81675b66": {
         "reviews": {
             "description": "Very Positive",
-            "total": 29489,
-            "positive": 27258,
-            "negative": 2231
+            "total": 29526,
+            "positive": 27291,
+            "negative": 2235
         }
     },
     "c5cf600d-93b1-46a7-b077-04dd43e2d4f8": {
@@ -2677,9 +2685,9 @@ var extrasData =
     "f11fa5a4-7c04-4cca-8c15-0f03abf8ede1": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 74874,
-            "positive": 71566,
-            "negative": 3308
+            "total": 74909,
+            "positive": 71597,
+            "negative": 3312
         },
         "dlc": {
             "description": "Beat Saber - Kaydence & Timbaland - \"Dumb Thingz\"\nBeat Saber - Sid Tipton & Timbaland - \"Has A Meaning\"\nBeat Saber - Wavezswavesz - \"While We\u2019re Young\"\nBeat Saber - Nash Overstreet, Karra & Common Strangers - \"What I Like\"\nBeat Saber - Bruno Martini & Timbaland - \"Famous ft. Jake Davis\"\nBeat Saber - Green Day - \"American Idiot\"\nBeat Saber - Green Day - \"Father of All...\"\nBeat Saber - Green Day - \"Boulevard Of Broken Dreams\"\nBeat Saber - Green Day - \"Holiday\"\nBeat Saber - Green Day - \"Fire, Ready, Aim\"\nBeat Saber - Green Day - \"Minority\"\nBeat Saber - Tokyo Machine \u2013 \"PLAY\"\nBeat Saber - Stephen Walking \u2013 \"Glide\"\nBeat Saber - Slushii \u2013 \"LUV U NEED U\"\nBeat Saber - Tokyo Machine \u2013 \"ROCK IT\"\nBeat Saber - Dion Timmer \u2013 \"Shiawase\"\nBeat Saber - Slushii & Dion Timmer \u2013 \"Test Me\"\nBeat Saber - Panic! at the Disco - \"The Greatest Show\"\nBeat Saber - Panic! at the Disco - \"Emperor's New Clothes\"\nBeat Saber - Panic! at the Disco - \"Victorious\"\nBeat Saber - Panic! at the Disco - \"High Hopes\"\nBeat Saber - Imagine Dragons - \"Bad Liar\"\nBeat Saber - Imagine Dragons - \"Believer\"\nBeat Saber - Imagine Dragons - \"Digital\"\nBeat Saber - Imagine Dragons - \"It's Time\"\nBeat Saber - Imagine Dragons - \"Machine\"\nBeat Saber - Imagine Dragons - \"Natural\"\nBeat Saber - Imagine Dragons - \"Radioactive\"\nBeat Saber - Imagine Dragons - \"Thunder\"\nBeat Saber - Imagine Dragons - \"Warriors\"\nBeat Saber - Imagine Dragons - \"Whatever It Takes\"\nBeat Saber - Aero Chord - \"Boundless\"\nBeat Saber - Pegboard Nerds - \"Emoji VIP\"\nBeat Saber - Tokyo Machine - \"EPIC\"\nBeat Saber - Muzzy - \"Feeling Stronger (feat. Charlotte Colley)\"\nBeat Saber - RIOT - \"Overkill\"\nBeat Saber - Rogue - \"Rattlesnake\"\nBeat Saber - Stonebank - \"Stronger (feat. Emel)\"\nBeat Saber - Kayzo - \"This Time\"\nBeat Saber - Tristam - \"Till It's Over\"\nBeat Saber - Feint - \"We Won't Be Alone (feat. Laura Brehm)\"\nBeat Saber - Linkin Park - \"Bleed It Out\"\nBeat Saber - Linkin Park - \"Breaking the Habit\"\nBeat Saber - Linkin Park - \"Faint\"\nBeat Saber - Linkin Park - \"Given Up\"\nBeat Saber - Linkin Park - \"In the End\"\nBeat Saber - Linkin Park - \"New Divide\"\nBeat Saber - Linkin Park - \"Numb\"\nBeat Saber - Linkin Park - \"One Step Closer\"\nBeat Saber - Linkin Park - \"Papercut\"\nBeat Saber - Linkin Park - \"Somewhere I Belong\"\nBeat Saber - Linkin Park - \"What I've Done\"\nBeat Saber - BTS - \"Blood Sweat & Tears\"\nBeat Saber - BTS - \"Boy With Luv (feat. Halsey)\"\nBeat Saber - BTS - \"Burning Up (Fire)\"\nBeat Saber - BTS - \"Dionysus\"\nBeat Saber - BTS - \"DNA\"\nBeat Saber - BTS - \"Dope\"\nBeat Saber - BTS - \"Dynamite\"\nBeat Saber - BTS - \"FAKE LOVE\"\nBeat Saber - BTS - \"IDOL\"\nBeat Saber - BTS - \"MIC Drop (Steve Aoki Remix)\"\nBeat Saber - BTS - \"Not Today\"\nBeat Saber - BTS - \"UGH!\"\nBeat Saber - OneRepublic - \"Counting Stars\"\nBeat Saber - Kendrick Lamar - \"DNA.\"\nBeat Saber: The Pussycat Dolls \u2013 'Don't Cha'\nBeat Saber: LMFAO ft. Lauren Bennett, GoonRock \u2013 'Party Rock Anthem'\nBeat Saber: Limp Bizkit  \u2013 'Rollin\u2019 (Air Raid Vehicle)'\nBeat Saber: Maroon 5 \u2013 'Sugar'\nBeat Saber: Gwen Stefani \u2013 'The Sweet Escape ft. Akon'\nBeat Saber: Skrillex \u2013 'Bangarang (feat. Sirah)'\nBeat Saber: Skrillex, Starrah & Four Tet \u2013 'Butterflies'\nBeat Saber: Skrillex, Justin Bieber & Don Toliver \u2013 'Don\u2019t Go'\nBeat Saber: Skrillex \u2013 'First of the Year (Equinox) '\nBeat Saber: Skrillex \u2013 'Ragga Bomb (feat. Ragga Twins)'\nBeat Saber: Skrillex \u2013 'Rock \u2018n\u2019 Roll (Will Take You to the Mountain)'\nBeat Saber: Skrillex \u2013 'Scary Monsters and Nice Sprites'\nBeat Saber: Skrillex & Wolfgang Gartner \u2013 'The Devil\u2019s Den '\nBeat Saber: Billie Eilish - 'all the good girls go to hell'\nBeat Saber: Billie Eilish - 'bad guy'\nBeat Saber: Billie Eilish - 'bellyache'\nBeat Saber: Billie Eilish - 'bury a friend'\nBeat Saber: Billie Eilish - 'Happier Than Ever'\nBeat Saber: Billie Eilish - 'I Didn't Change My Number'\nBeat Saber: Billie Eilish - 'NDA'\nBeat Saber: Billie Eilish - 'Oxytocin'\nBeat Saber: Billie Eilish - 'Therefore I Am'\nBeat Saber: Billie Eilish - 'you should see me in a crown'\nBeat Saber: Lady Gaga - 'Alejandro'\nBeat Saber: Lady Gaga - 'Bad Romance'\nBeat Saber: Lady Gaga - 'Born This Way'\nBeat Saber: Lady Gaga, Colby O\u2019Donis - 'Just Dance (feat. Colby O\u2019Donis)'\nBeat Saber: Lady Gaga - 'Paparazzi'\nBeat Saber: Lady Gaga - 'Poker Face'\nBeat Saber: Lady Gaga, Ariana Grande - 'Rain On Me (with Ariana Grande)'\nBeat Saber: Lady Gaga - 'Stupid Love'\nBeat Saber: Lady Gaga, Beyonc\u00e9 - 'Telephone (feat. Beyonc\u00e9)'\nBeat Saber: Lady Gaga - 'The Edge Of Glory'\nBeat Saber - Fall Out Boy - 'Centuries'\nBeat Saber - Fall Out Boy - 'Dance, Dance'\nBeat Saber - Fall Out Boy - 'I Don\u2019t Care'\nBeat Saber - Fall Out Boy - 'Immortals'\nBeat Saber - Fall Out Boy - 'Irresistible'\nBeat Saber - Fall Out Boy - 'My Songs Know What You Did In The Dark (Light Em Up)'\nBeat Saber - Fall Out Boy - 'This Ain\u2019t A Scene, It\u2019s An Arms Race'\nBeat Saber - Fall Out Boy - 'Thnks fr th Mmrs'\nBeat Saber - Marshmello - Alone\nBeat Saber - Martin Garrix - Animals\nBeat Saber - Bomfunk MC's - Freestyler\nBeat Saber - deadmau5 - Ghosts 'n' Stuff (feat. Rob Swire)\nBeat Saber - Madeon - Icarus\nBeat Saber - Darude - Sandstorm\nBeat Saber - Zedd - Stay The Night (feat. Hayley Williams)\nBeat Saber - Fatboy Slim - The Rockafeller Skank\nBeat Saber - Rudimental - Waiting All Night (feat. Ella Eyre)\nBeat Saber - Pendulum - Witchcraft\nBeat Saber - Lizzo - \"2 Be Loved (Am I Ready)\"\nBeat Saber - Lizzo - \"About Damn Time\"\nBeat Saber - Lizzo - \"Cuz I Love You\"\nBeat Saber - Lizzo - \"Everybody's Gay\"\nBeat Saber - Lizzo - \"Good As Hell\"\nBeat Saber - Lizzo - \"Juice\"\nBeat Saber - Lizzo - \"Tempo (feat. Missy Elliot)\"\nBeat Saber - Lizzo - \"Truth Hurts\"\nBeat Saber - Lizzo - \"Worship\"\nBeat Saber - The Weeknd - \"Blinding Lights\"\nBeat Saber - The Weeknd - \"Can't Feel My Face\"\nBeat Saber - The Weeknd - \"How Do I Make You Love Me?\"\nBeat Saber - The Weeknd - \"I Feel It Coming (Feat. Daft Punk)\"\nBeat Saber - The Weeknd, Kendrick Lamar - \"Pray For Me\"\nBeat Saber - The Weeknd - \"Sacrifice\"\nBeat Saber - The Weeknd - \"Save Your Tears\"\nBeat Saber - The Weeknd - \"Starboy\" (feat. Daft Punk)\nBeat Saber - The Weeknd - \"Take My Breath\"\nBeat Saber - The Weeknd - \"The Hills\"\nBeat Saber - Steppenwolf - \"Born To Be Wild\"\nBeat Saber - Survivor - \"Eye of the Tiger\"\nBeat Saber - Lynyrd Skynyrd - \"Free Bird\"\nBeat Saber - KISS - \"I Was Made For Lovin' You\"\nBeat Saber - The White Stripes - \"Seven Nation Army\"\nBeat Saber - Nirvana - \"Smells Like Teen Spirit\"\nBeat Saber - Guns N' Roses - \"Sweet Child O' Mine\"\nBeat Saber - Foo Fighters - \"The Pretender\"\nBeat Saber - Imagine Dragons - Bones\nBeat Saber - Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends)\nBeat Saber - Panic! At The Disco - \"Crazy = Genius\"\nBeat Saber - Panic! At The Disco - \"Dancing\u2019s Not A Crime\"\nBeat Saber - Panic! At The Disco - \"Hey Look Ma, I Made It\"\nBeat Saber - Panic! At The Disco - \"Say Amen (Saturday Night)\"\nBeat Saber - Panic! At The Disco - \"Sugar Soaker\"\nBeat Saber - Panic! At The Disco - \"Viva Las Vengeance\"\nBeat Saber - Queen - Another One Bites the Dust\nBeat Saber - Queen - Bohemian Rhapsody\nBeat Saber - Queen - Crazy Little Thing Called Love\nBeat Saber - Queen - Don\u2019t Stop Me Now\nBeat Saber - Queen - I Want It All\nBeat Saber - Queen - Killer Queen\nBeat Saber - Queen - One Vision\nBeat Saber - Queen - Somebody to Love\nBeat Saber - Queen - Stone Cold Crazy\nBeat Saber - Queen - We Are The Champions\nBeat Saber - Queen - We Will Rock You\nBeat Saber - The Weeknd - Die For You (Feat. Arianda Grande)\nBeat Saber - The Weeknd - Less Than Zero\nBeat Saber - Mike Shinoda - Already Over\nBeat Saber - Linkin Park - Crawling\nBeat Saber - Linkin Park - Fighting Myself\nBeat Saber - Mike Shinoda & Kaliee Morgue - In My Head\nBeat Saber - Linkin Park - Lost\nBeat Saber - Linkin Park - More The Victim\nBeat Saber - JAY-Z, Linkin Park - Numb/Encore\nBeat Saber - Fort Minor - Remember the Name (feat. Styles of Beyond)\nBeat Saber - The Rolling Stones - \"Angry\"\nBeat Saber - The Rolling Stones - \"Bite My Head Off\"\nBeat Saber - The Rolling Stones - \"Can\u2019t You Hear Me Knocking\"\nBeat Saber - The Rolling Stones - \"Gimme Shelter\"\nBeat Saber - The Rolling Stones - \"(I Can\u2019t Get No) Satisfaction\"\nBeat Saber - The Rolling Stones - \"Live by the Sword\"\nBeat Saber - The Rolling Stones - \"Mess it Up\"\nBeat Saber - The Rolling Stones - \"Paint It Black\"\nBeat Saber - The Rolling Stones - \"Start Me Up\"\nBeat Saber - The Rolling Stones - \"Sympathy For The Devil\"\nBeat Saber - The Rolling Stones - \"Whole Wide World\"\nBeat Saber - Daft Punk - \"Around The World\"\nBeat Saber - Daft Punk - \"Around The World / Harder Better Faster Stronger\"\nBeat Saber - Daft Punk - \"Da Funk / Daftendirekt\"\nBeat Saber - Daft Punk - \"Get Lucky (feat. Pharrell Williams and Nile Rodgers)\"\nBeat Saber - Daft Punk - \"Harder, Better, Faster, Stronger\"\nBeat Saber - Daft Punk - \"Lose Yourself to Dance (feat. Pharrell Williams)\"\nBeat Saber - Daft Punk - \"One More Time\"\nBeat Saber - Daft Punk - \"Technologic\"\nBeat Saber - Daft Punk - \"The Prime Time of Your Life/The Brainwasher/Rollin'/Alive (Live 2007)\"\nBeat Saber - Daft Punk - \"Veridis Quo\"\nBeat Saber - 2Pac - \"All Eyez On Me (feat. Big Syke)\"\nBeat Saber - Nicki Minaj - \"Anaconda\"\nBeat Saber - Snoop Dogg - \"Gin and Juice\"\nBeat Saber - Eminem - \"Godzilla (feat. Juice WRLD)\"\nBeat Saber - Outkast - \"Hey Ya!\"\nBeat Saber - The Notorious B.I.G. - \"Hypnotize\"\nBeat Saber - Dr Dre - \"Nuthin\u2019 But A \u201cG\u201d Thang\"\nBeat Saber - Grandmaster Flash & The Furious Five - \"The Message\"\nBeat Saber - Pop Smoke - \"The Woo (feat. 50 Cent, Roddy Ricch)\"\nBeat Saber - Britney Spears - \u2026Baby One More Time\nBeat Saber - Britney Spears - Circus\nBeat Saber - Britney Spears - Gimme More\nBeat Saber - Britney Spears - I\u2019m A Slave 4 U\nBeat Saber - Britney Spears - Me Against the Music (feat. Madonna)\nBeat Saber - Britney Spears - Oops!...I Did It Again\nBeat Saber - Britney Spears - Overprotected\nBeat Saber - Britney Spears x Will.I.AM - Scream and Shout (Will.I.AM)\nBeat Saber - Britney Spears - Till the World Ends - Till the World Ends\nBeat Saber - Britney Spears - Toxic\nBeat Saber - Britney Spears - Womanizer\nBeat Saber - Monstercat Mixtape 2 - Teminite & Skybreak - \"Accelerate\"\nBeat Saber - Monstercat Mixtape 2 - Excision & Dion Timmer - \"DABADABADABADABA\"\nBeat Saber - Monstercat Mixtape 2 - Grant & Ellis - \"Dead Man Walking\"\nBeat Saber - Monstercat Mixtape 2 - Bossfight - \"Endgame\"\nBeat Saber - Monstercat Mixtape 2 - Nitro Fun - \"Final Boss\"\nBeat Saber - Monstercat Mixtape 2 - Dyro x Conro - \"Memory Bank\"\nBeat Saber - Monstercat Mixtape 2 - F.O.O.L & Power Glove - \"Mercenary\"\nBeat Saber - Monstercat Mixtape 2 - Teddy Killerz & Pegboard Nerds - \"Pump\"\nBeat Saber - Monstercat Mixtape 2 - Tokyo Machine - \"RAD\"\nBeat Saber - Monstercat Mixtape 2 - \u00d6wnboss & Selva - \"RIOT\"\nBeat Saber - Monstercat Mixtape 2 - Sullivan King - \"Thrones of Blood\"\nBeat Saber - Monstercat Mixtape 2 - Alan Walker - \"Wake Up\"\nBeat Saber - Metallica - \"Atlas, Rise!\"\nBeat Saber - Metallica - \"Battery\"\nBeat Saber - Metallica - \"Blackened\"\nBeat Saber - Metallica - \"Creeping Death\"\nBeat Saber - Metallica - \"Enter Sandman\"\nBeat Saber - Metallica - \"Fade to Black\"\nBeat Saber - Metallica - \"For Whom the Bell Tolls\"\nBeat Saber - Metallica - \"Fuel\"\nBeat Saber - Metallica - \"Hit the Lights\"\nBeat Saber - Metallica - \"King Nothing\"\nBeat Saber - Metallica - \"Lux \u00c6terna\"\nBeat Saber - Metallica - \"Master of Puppets\"\nBeat Saber - Metallica - \"Nothing Else Matters\"\nBeat Saber - Metallica - \"One\"\nBeat Saber - Metallica - \"Sad But True\"\nBeat Saber - Metallica - \"Seek & Destroy\"\nBeat Saber - Metallica - \"The Unforgiven\"\nBeat Saber - Kendrick Lamar - \"Not Like Us\"\nBeat Saber - Lady Gaga - \"Abracadabra\"",
@@ -2715,24 +2723,24 @@ var extrasData =
     "f1eab776-645c-42d1-b640-244cbf4a590d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 7419,
-            "positive": 7119,
+            "total": 7423,
+            "positive": 7123,
             "negative": 300
         }
     },
     "d69d749e-d203-42c6-aeb1-7ae81361e01c": {
         "reviews": {
             "description": "Positive",
-            "total": 27,
-            "positive": 25,
+            "total": 28,
+            "positive": 26,
             "negative": 2
         }
     },
     "7aa332da-f6ab-4583-a733-6a98b263fee0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1217,
-            "positive": 1153,
+            "total": 1220,
+            "positive": 1156,
             "negative": 64
         },
         "dlc": {
@@ -2861,8 +2869,8 @@ var extrasData =
     "dbe8351b-b62f-40ec-884d-c0f3471d06cc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 548,
-            "positive": 476,
+            "total": 551,
+            "positive": 479,
             "negative": 72
         },
         "dlc": {
@@ -2899,9 +2907,9 @@ var extrasData =
     "bf95781c-7d08-4afb-b3c1-8d1791832b97": {
         "reviews": {
             "description": "Very Positive",
-            "total": 141786,
-            "positive": 132603,
-            "negative": 9183
+            "total": 141847,
+            "positive": 132662,
+            "negative": 9185
         },
         "dlc": {
             "description": "BioShock Infinite - Season Pass\n\nBioShock Infinite: Burial at Sea - Episode One\n\nBioShock Infinite: Burial at Sea - Episode Two\n\nBioShock Infinite: Clash in the Clouds\n\nBioshock Infinite: Columbia's Finest",
@@ -2937,16 +2945,16 @@ var extrasData =
     "ba3b5d7a-12fd-419d-9e81-980703cb810a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 9173,
-            "positive": 7893,
-            "negative": 1280
+            "total": 9203,
+            "positive": 7916,
+            "negative": 1287
         }
     },
     "3a1cce1b-d69a-4593-bc63-91ccd29838f5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 867,
-            "positive": 700,
+            "total": 866,
+            "positive": 699,
             "negative": 167
         }
     },
@@ -2963,27 +2971,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 599,
-                    "final": 299
+                    "final": 599
                 },
                 "EUR": {
                     "initial": 599,
-                    "final": 299
+                    "final": 599
                 },
                 "GBP": {
                     "initial": 479,
-                    "final": 239
+                    "final": 479
                 },
                 "JPY": {
                     "initial": 59800,
-                    "final": 29900
+                    "final": 59800
                 },
                 "AUD": {
                     "initial": 850,
-                    "final": 425
+                    "final": 850
                 },
                 "CAD": {
                     "initial": 649,
-                    "final": 324
+                    "final": 649
                 }
             }
         }
@@ -3001,27 +3009,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 599,
-                    "final": 299
+                    "final": 599
                 },
                 "EUR": {
                     "initial": 599,
-                    "final": 299
+                    "final": 599
                 },
                 "GBP": {
                     "initial": 479,
-                    "final": 239
+                    "final": 479
                 },
                 "JPY": {
                     "initial": 59800,
-                    "final": 29900
+                    "final": 59800
                 },
                 "AUD": {
                     "initial": 850,
-                    "final": 425
+                    "final": 850
                 },
                 "CAD": {
                     "initial": 649,
-                    "final": 324
+                    "final": 649
                 }
             }
         }
@@ -3029,9 +3037,9 @@ var extrasData =
     "c05667ab-3b49-422e-a15e-d887d7f65544": {
         "reviews": {
             "description": "Very Positive",
-            "total": 379,
-            "positive": 369,
-            "negative": 10
+            "total": 381,
+            "positive": 370,
+            "negative": 11
         },
         "dlc": {
             "description": "BIT.TRIP RERUNNER Soundtrack",
@@ -3039,27 +3047,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 499,
-                    "final": 249
+                    "final": 499
                 },
                 "EUR": {
                     "initial": 499,
-                    "final": 249
+                    "final": 499
                 },
                 "GBP": {
                     "initial": 429,
-                    "final": 214
+                    "final": 429
                 },
                 "JPY": {
                     "initial": 58000,
-                    "final": 29000
+                    "final": 58000
                 },
                 "AUD": {
                     "initial": 750,
-                    "final": 375
+                    "final": 750
                 },
                 "CAD": {
                     "initial": 649,
-                    "final": 324
+                    "final": 649
                 }
             }
         }
@@ -3067,9 +3075,9 @@ var extrasData =
     "ed562131-c414-4a72-9244-0b1fcf47d4cd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3922,
-            "positive": 3363,
-            "negative": 559
+            "total": 3924,
+            "positive": 3364,
+            "negative": 560
         }
     },
     "df8446cd-f08d-48e5-8da4-75326eafa7eb": {
@@ -3113,9 +3121,9 @@ var extrasData =
     "683ee2b6-2e88-4baa-9c59-21dc17728868": {
         "reviews": {
             "description": "Positive",
-            "total": 43,
+            "total": 44,
             "positive": 37,
-            "negative": 6
+            "negative": 7
         },
         "dlc": {
             "description": "Black Hole Hazard Soundtrack",
@@ -3151,9 +3159,9 @@ var extrasData =
     "649bff75-da8d-47cb-8741-2cc11701b608": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1058,
+            "total": 1059,
             "positive": 903,
-            "negative": 155
+            "negative": 156
         },
         "dlc": {
             "description": "BLACKHOLE: Complete Edition Upgrade\n\nBLACKHOLE: Testing Laboratory\n\nBLACKHOLE: Original Soundtrack\n\nBLACKHOLE: Challenge Vault",
@@ -3189,16 +3197,16 @@ var extrasData =
     "f2fc5552-36af-48fa-b026-cf5182685d34": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2341,
-            "positive": 2120,
-            "negative": 221
+            "total": 2347,
+            "positive": 2125,
+            "negative": 222
         }
     },
     "6a7528dc-0347-4e31-a21a-209abdbebb51": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3157,
-            "positive": 2732,
+            "total": 3156,
+            "positive": 2731,
             "negative": 425
         },
         "dlc": {
@@ -3235,9 +3243,9 @@ var extrasData =
     "395a38ab-1202-4feb-9210-cee1c8ddeb7b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 55715,
-            "positive": 50022,
-            "negative": 5693
+            "total": 55965,
+            "positive": 50245,
+            "negative": 5720
         },
         "dlc": {
             "description": "Blasphemous - 'Alloy of Sin' Character Skin\n\nBlasphemous - Digital Artbook\n\nBlasphemous - Digital Comic\n\nBlasphemous - OST",
@@ -3311,8 +3319,8 @@ var extrasData =
     "e1045fb5-0258-49d8-91c3-499f6e319a2f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 11221,
-            "positive": 10545,
+            "total": 11239,
+            "positive": 10563,
             "negative": 676
         },
         "dlc": {
@@ -3349,8 +3357,8 @@ var extrasData =
     "c3e64254-b463-4de8-bcd8-bbe0efd74bf6": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2844,
-            "positive": 2584,
+            "total": 2845,
+            "positive": 2585,
             "negative": 260
         }
     },
@@ -3403,8 +3411,8 @@ var extrasData =
     "f8ce4462-7b4f-4a35-b566-7dcbf0816008": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1809,
-            "positive": 1582,
+            "total": 1813,
+            "positive": 1586,
             "negative": 227
         },
         "dlc": {
@@ -3441,8 +3449,8 @@ var extrasData =
     "2f7cfb3e-0c58-46f0-8f08-84ac39451abb": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1885,
-            "positive": 1748,
+            "total": 1886,
+            "positive": 1749,
             "negative": 137
         }
     },
@@ -3454,11 +3462,19 @@ var extrasData =
             "negative": 39
         }
     },
+    "c9f3e174-0fae-40f3-a660-de88a56a4ce7": {
+        "reviews": {
+            "description": "Very Positive",
+            "total": 98,
+            "positive": 96,
+            "negative": 2
+        }
+    },
     "26184a07-46f8-439f-954e-74b050a891c4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 337,
-            "positive": 324,
+            "total": 338,
+            "positive": 325,
             "negative": 13
         },
         "dlc": {
@@ -3495,8 +3511,8 @@ var extrasData =
     "63ce8493-2c26-4deb-9626-82e547b47831": {
         "reviews": {
             "description": "Very Positive",
-            "total": 153,
-            "positive": 136,
+            "total": 152,
+            "positive": 135,
             "negative": 17
         },
         "dlc": {
@@ -3549,17 +3565,17 @@ var extrasData =
     "cf3b5e1d-9b28-4571-9e0a-1f7c76822cb2": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4314,
-            "positive": 4074,
+            "total": 4316,
+            "positive": 4076,
             "negative": 240
         }
     },
     "4e7f25f5-47a1-496c-a3e7-ab4b06a03d4f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3991,
+            "total": 3990,
             "positive": 3270,
-            "negative": 721
+            "negative": 720
         },
         "dlc": {
             "description": "Bloody Trapland - Soundtrack",
@@ -3595,8 +3611,8 @@ var extrasData =
     "17c144fc-978d-460b-8cb0-76fac57034f1": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 782,
-            "positive": 774,
+            "total": 784,
+            "positive": 776,
             "negative": 8
         },
         "dlc": {
@@ -3641,8 +3657,8 @@ var extrasData =
     "51d7bbd1-69a2-4c12-9c05-274285ba0cd7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 306,
-            "positive": 277,
+            "total": 307,
+            "positive": 278,
             "negative": 29
         }
     },
@@ -3757,9 +3773,9 @@ var extrasData =
     "66b12511-7552-4121-84d5-d60ac73efe23": {
         "reviews": {
             "description": "Very Positive",
-            "total": 11182,
-            "positive": 10145,
-            "negative": 1037
+            "total": 11189,
+            "positive": 10151,
+            "negative": 1038
         },
         "dlc": {
             "description": "BPM: BULLETS PER MINUTE Soundtrack",
@@ -3795,17 +3811,17 @@ var extrasData =
     "3f469144-aa2e-448d-ade6-1c7a3bf9ec19": {
         "reviews": {
             "description": "Very Positive",
-            "total": 9793,
-            "positive": 9148,
-            "negative": 645
+            "total": 9802,
+            "positive": 9154,
+            "negative": 648
         }
     },
     "39808dd6-0742-49e6-84f5-43bde8d9e3e8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6222,
-            "positive": 5901,
-            "negative": 321
+            "total": 6251,
+            "positive": 5928,
+            "negative": 323
         },
         "dlc": {
             "description": "Bramble: The Mountain King Soundtrack\n\nDLC \"Bramble: The Mountain King Digital Artbook\"",
@@ -3849,9 +3865,9 @@ var extrasData =
     "c93b650a-c7f9-41cd-a0b3-c21da98aa84a": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 59277,
-            "positive": 57458,
-            "negative": 1819
+            "total": 59300,
+            "positive": 57480,
+            "negative": 1820
         },
         "dlc": {
             "description": "Broforce: The Soundtrack",
@@ -3887,9 +3903,9 @@ var extrasData =
     "819a4b0e-41f6-4207-b1ea-9f699db82d9b": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 100825,
-            "positive": 97389,
-            "negative": 3436
+            "total": 101040,
+            "positive": 97597,
+            "negative": 3443
         },
         "dlc": {
             "description": "Brotato: Abyssal Terrors\n\nBrotato Soundtrack",
@@ -3897,27 +3913,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 898,
-                    "final": 898
+                    "final": 718
                 },
                 "EUR": {
                     "initial": 898,
-                    "final": 898
+                    "final": 718
                 },
                 "GBP": {
                     "initial": 768,
-                    "final": 768
+                    "final": 614
                 },
                 "JPY": {
                     "initial": 105000,
-                    "final": 105000
+                    "final": 84000
                 },
                 "AUD": {
                     "initial": 1345,
-                    "final": 1345
+                    "final": 1076
                 },
                 "CAD": {
                     "initial": 1148,
-                    "final": 1148
+                    "final": 918
                 }
             }
         }
@@ -3925,8 +3941,8 @@ var extrasData =
     "b8f556db-9dad-4c38-b389-3340b1de2ec0": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1838,
-            "positive": 1802,
+            "total": 1846,
+            "positive": 1810,
             "negative": 36
         },
         "dlc": {
@@ -3971,8 +3987,8 @@ var extrasData =
     "6bd79f05-d56d-469d-a657-978d588c39fc": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 502,
-            "positive": 492,
+            "total": 503,
+            "positive": 493,
             "negative": 10
         },
         "dlc": {
@@ -4095,27 +4111,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 499,
-                    "final": 299
+                    "final": 499
                 },
                 "EUR": {
                     "initial": 499,
-                    "final": 299
+                    "final": 499
                 },
                 "GBP": {
                     "initial": 399,
-                    "final": 239
+                    "final": 399
                 },
                 "JPY": {
                     "initial": 49800,
-                    "final": 29800
+                    "final": 49800
                 },
                 "AUD": {
                     "initial": 750,
-                    "final": 450
+                    "final": 750
                 },
                 "CAD": {
                     "initial": 549,
-                    "final": 329
+                    "final": 549
                 }
             }
         }
@@ -4123,8 +4139,8 @@ var extrasData =
     "5d3e3747-a88c-4c8f-a320-d0dffdd23caf": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 704,
-            "positive": 503,
+            "total": 705,
+            "positive": 504,
             "negative": 201
         },
         "dlc": {
@@ -4158,6 +4174,14 @@ var extrasData =
             }
         }
     },
+    "46442df4-6ac4-4b6a-96e6-45e92dd7949e": {
+        "reviews": {
+            "description": "Very Positive",
+            "total": 340,
+            "positive": 337,
+            "negative": 3
+        }
+    },
     "316e2956-7e06-4da4-a795-bcbc369ee218": {
         "reviews": {
             "description": "Mostly Positive",
@@ -4169,8 +4193,8 @@ var extrasData =
     "5a6cc489-86ff-4009-8bf2-5dba61bc913e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1302,
-            "positive": 1125,
+            "total": 1303,
+            "positive": 1126,
             "negative": 177
         },
         "dlc": {
@@ -4207,8 +4231,8 @@ var extrasData =
     "1c957f86-a960-4d6a-8c0a-3b4a421aed33": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1009,
-            "positive": 953,
+            "total": 1012,
+            "positive": 956,
             "negative": 56
         },
         "dlc": {
@@ -4217,27 +4241,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 499,
-                    "final": 499
+                    "final": 324
                 },
                 "EUR": {
                     "initial": 499,
-                    "final": 499
+                    "final": 324
                 },
                 "GBP": {
                     "initial": 429,
-                    "final": 429
+                    "final": 278
                 },
                 "JPY": {
                     "initial": 58000,
-                    "final": 58000
+                    "final": 37700
                 },
                 "AUD": {
                     "initial": 750,
-                    "final": 750
+                    "final": 487
                 },
                 "CAD": {
                     "initial": 649,
-                    "final": 649
+                    "final": 421
                 }
             }
         }
@@ -4245,17 +4269,55 @@ var extrasData =
     "ea5c1827-79de-466d-82aa-f5b5e256c524": {
         "reviews": {
             "description": "Very Positive",
-            "total": 51009,
-            "positive": 47117,
-            "negative": 3892
+            "total": 51046,
+            "positive": 47153,
+            "negative": 3893
+        }
+    },
+    "725b36e1-3d73-4d1e-b8a6-4373895d79cb": {
+        "reviews": {
+            "description": "Very Positive",
+            "total": 218325,
+            "positive": 184429,
+            "negative": 33896
+        },
+        "dlc": {
+            "description": "Call of Duty\u00ae: Black Ops III - Zombies Chronicles\n\nCall of Duty\u00ae: Black Ops III - Season Pass\n\nCall of Duty\u00ae: Black Ops III - The Giant Zombies Map\n\nCall of Duty\u00ae: Black Ops III - C.O.D.E. Warriors Personalization Pack\n\nCall of Duty\u00ae: Black Ops III - C.O.D.E. Valor Calling Cards\n\nCall of Duty\u00ae: Black Ops III - C.O.D.E. Double Duty Pack\n\nCall of Duty\u00ae: Black Ops III - Der Eisendrache Zombies Map\n\nCall of Duty\u00ae: Black Ops III - Zetsubou No Shima Zombies Map\n\nCall of Duty\u00ae: Black Ops III - Gorod Krovi Zombies Map\n\nCall of Duty\u00ae: Black Ops III - Revelations Zombies Map",
+            "count": 7,
+            "priceData": {
+                "USD": {
+                    "initial": 12990,
+                    "final": 12990
+                },
+                "EUR": {
+                    "initial": 11793,
+                    "final": 11793
+                },
+                "GBP": {
+                    "initial": 9372,
+                    "final": 9372
+                },
+                "JPY": {
+                    "initial": 1768000,
+                    "final": 1768000
+                },
+                "AUD": {
+                    "initial": 18870,
+                    "final": 18870
+                },
+                "CAD": {
+                    "initial": 15333,
+                    "final": 15333
+                }
+            }
         }
     },
     "1656ddad-ea26-4229-b104-9454a166b84b": {
         "reviews": {
             "description": "Mixed",
-            "total": 28671,
-            "positive": 17209,
-            "negative": 11462
+            "total": 28704,
+            "positive": 17232,
+            "negative": 11472
         },
         "dlc": {
             "description": "Call of Duty\u00ae: Infinite Warfare - Season Pass\n\nCall of Duty\u00ae: Infinite Warfare - UK Special Forces VO Pack\n\nCall of Duty\u00ae: Infinite Warfare - Method Man VO Pack\n\nCall of Duty\u00ae: Infinite Warfare - Ozzy Man Reviews VO Pack\n\nCall of Duty\u00ae: Infinite Warfare - Ken Jeong VO Pack\n\nCall of Duty\u00ae: Infinite Warfare - Grandma Knows Best VO Pack",
@@ -4291,9 +4353,9 @@ var extrasData =
     "04a173b6-f44d-4057-a191-7a02a99affa0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 58583,
-            "positive": 54600,
-            "negative": 3983
+            "total": 58618,
+            "positive": 54631,
+            "negative": 3987
         },
         "dlc": {
             "description": "Call of Duty\u00ae: Modern Warfare\u00ae 2 Stimulus Package\n\nCall of Duty\u00ae: Modern Warfare\u00ae 2 Resurgence Pack",
@@ -4325,17 +4387,17 @@ var extrasData =
     "650d2593-b879-4bbc-9abb-985e63c06d46": {
         "reviews": {
             "description": "Very Positive",
-            "total": 38277,
-            "positive": 33958,
-            "negative": 4319
+            "total": 38295,
+            "positive": 33978,
+            "negative": 4317
         }
     },
     "07e374e7-d0bb-4046-90da-c7350d687d42": {
         "reviews": {
             "description": "Mixed",
-            "total": 14647,
-            "positive": 7720,
-            "negative": 6927
+            "total": 14655,
+            "positive": 7730,
+            "negative": 6925
         },
         "dlc": {
             "description": "Call of Duty\u00ae: MWR Variety Map Pack",
@@ -4371,24 +4433,24 @@ var extrasData =
     "6b382135-0a8c-4dba-b225-230a83940825": {
         "reviews": {
             "description": "Very Positive",
-            "total": 41417,
-            "positive": 39338,
-            "negative": 2079
+            "total": 41490,
+            "positive": 39406,
+            "negative": 2084
         }
     },
     "80a2cdf4-323c-49db-8617-dcb1edbecfd7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 292,
+            "total": 293,
             "positive": 257,
-            "negative": 35
+            "negative": 36
         }
     },
     "99040d21-e416-4d94-a98b-82044a33c587": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 1086,
-            "positive": 826,
+            "total": 1087,
+            "positive": 827,
             "negative": 260
         }
     },
@@ -4411,9 +4473,9 @@ var extrasData =
     "d807b4a9-f957-444e-ab8e-2ea76a11cc17": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 128642,
-            "positive": 123694,
-            "negative": 4948
+            "total": 129051,
+            "positive": 124097,
+            "negative": 4954
         },
         "dlc": {
             "description": "Castle Crashers - Painter Boss Paradise\n\nCastle Crashers - Blacksmith Pack\n\nCastle Crashers - Pink Knight Pack",
@@ -4487,25 +4549,25 @@ var extrasData =
     "4ec53840-b25e-4fb6-a043-9432e78c83b6": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2444,
-            "positive": 2055,
-            "negative": 389
+            "total": 2447,
+            "positive": 2057,
+            "negative": 390
         }
     },
     "db6ad89c-2c33-4c35-b57e-f1df7ed97966": {
         "reviews": {
             "description": "Very Positive",
-            "total": 9524,
-            "positive": 7703,
-            "negative": 1821
+            "total": 9541,
+            "positive": 7714,
+            "negative": 1827
         }
     },
     "623776a6-cec8-4017-be64-5d5e30072ee1": {
         "reviews": {
             "description": "Mostly Positive",
             "total": 427,
-            "positive": 319,
-            "negative": 108
+            "positive": 318,
+            "negative": 109
         },
         "dlc": {
             "description": "Cathedral Soundtrack",
@@ -4541,24 +4603,24 @@ var extrasData =
     "f28c6458-c4db-4ca2-868e-ecafd000b8ff": {
         "reviews": {
             "description": "Very Positive",
-            "total": 10177,
-            "positive": 8887,
-            "negative": 1290
+            "total": 10184,
+            "positive": 8891,
+            "negative": 1293
         }
     },
     "d415208e-0b56-43e5-a4fc-f8d350953cb9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 7721,
-            "positive": 7175,
-            "negative": 546
+            "total": 7728,
+            "positive": 7181,
+            "negative": 547
         }
     },
     "89a5a76e-3c0a-47ac-945f-99e189e8fc0a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4413,
-            "positive": 3776,
+            "total": 4415,
+            "positive": 3778,
             "negative": 637
         },
         "dlc": {
@@ -4603,9 +4665,9 @@ var extrasData =
     "1e866995-6fec-452e-81ba-1e8f8594f4ea": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 125206,
-            "positive": 122015,
-            "negative": 3191
+            "total": 125822,
+            "positive": 122608,
+            "negative": 3214
         },
         "dlc": {
             "description": "Celeste Soundtrack",
@@ -4641,8 +4703,8 @@ var extrasData =
     "1659bc66-f7e3-4f74-aadd-8316a1a18ae4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 115,
-            "positive": 105,
+            "total": 117,
+            "positive": 107,
             "negative": 10
         }
     },
@@ -4657,8 +4719,8 @@ var extrasData =
     "85625097-df03-4922-9b46-516461d9883a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 145,
-            "positive": 139,
+            "total": 146,
+            "positive": 140,
             "negative": 6
         },
         "dlc": {
@@ -4695,8 +4757,8 @@ var extrasData =
     "49018728-d19c-48d7-b3cd-d60bfa3f1088": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1109,
-            "positive": 1013,
+            "total": 1110,
+            "positive": 1014,
             "negative": 96
         },
         "dlc": {
@@ -4705,27 +4767,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 499,
-                    "final": 499
+                    "final": 299
                 },
                 "EUR": {
                     "initial": 399,
-                    "final": 399
+                    "final": 239
                 },
                 "GBP": {
                     "initial": 399,
-                    "final": 399
+                    "final": 239
                 },
                 "JPY": {
                     "initial": 52000,
-                    "final": 52000
+                    "final": 31200
                 },
                 "AUD": {
                     "initial": 750,
-                    "final": 750
+                    "final": 450
                 },
                 "CAD": {
                     "initial": 569,
-                    "final": 569
+                    "final": 341
                 }
             }
         }
@@ -4733,17 +4795,17 @@ var extrasData =
     "03627781-543e-4d33-bf1e-bc2e53088083": {
         "reviews": {
             "description": "Very Positive",
-            "total": 15881,
-            "positive": 14474,
-            "negative": 1407
+            "total": 15886,
+            "positive": 14478,
+            "negative": 1408
         }
     },
     "51431149-3450-45a5-b574-b223800b5d76": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4453,
-            "positive": 4155,
-            "negative": 298
+            "total": 4459,
+            "positive": 4159,
+            "negative": 300
         },
         "dlc": {
             "description": "Chroma Squad - Soundtrack\n\nChroma Squad - Episode Editor",
@@ -4775,9 +4837,9 @@ var extrasData =
     "e5e4d649-ef15-4909-bd26-f19b6bce7706": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12535,
-            "positive": 11317,
-            "negative": 1218
+            "total": 12562,
+            "positive": 11340,
+            "negative": 1222
         },
         "dlc": {
             "description": "Chrono Ark - Summer Twilight\n\nChrono Ark - High Roller",
@@ -4875,9 +4937,9 @@ var extrasData =
     "8fa87bf9-55df-48bd-8412-f9cb9094f7ec": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 34093,
-            "positive": 33020,
-            "negative": 1073
+            "total": 34157,
+            "positive": 33072,
+            "negative": 1085
         }
     },
     "b17bd0ef-95cd-4b17-a868-29eb4bdf7922": {
@@ -4967,9 +5029,9 @@ var extrasData =
     "d301043e-b889-48b0-8658-c68087561b49": {
         "reviews": {
             "description": "Very Positive",
-            "total": 17440,
-            "positive": 16304,
-            "negative": 1136
+            "total": 17452,
+            "positive": 16318,
+            "negative": 1134
         },
         "dlc": {
             "description": "Clustertruck OST",
@@ -5013,9 +5075,9 @@ var extrasData =
     "631f2d3d-a5f0-4e9f-a344-a0fc95537cfd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 58269,
-            "positive": 49000,
-            "negative": 9269
+            "total": 58340,
+            "positive": 49058,
+            "negative": 9282
         },
         "dlc": {
             "description": "CODE VEIN - Season Pass\n\nCODE VEIN: Hellfire Knight\n\nCODE VEIN: Frozen Empress\n\nCODE VEIN: Lord of Thunder",
@@ -5023,27 +5085,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 5496,
-                    "final": 3996
+                    "final": 5496
                 },
                 "EUR": {
                     "initial": 5496,
-                    "final": 3996
+                    "final": 5496
                 },
                 "GBP": {
                     "initial": 4396,
-                    "final": 3196
+                    "final": 4396
                 },
                 "JPY": {
                     "initial": 610500,
-                    "final": 453600
+                    "final": 610500
                 },
                 "AUD": {
                     "initial": 8480,
-                    "final": 6236
+                    "final": 8480
                 },
                 "CAD": {
                     "initial": 7296,
-                    "final": 5346
+                    "final": 7296
                 }
             }
         }
@@ -5089,9 +5151,9 @@ var extrasData =
     "019e4494-d54e-4432-a101-8455253e231a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1854,
-            "positive": 1640,
-            "negative": 214
+            "total": 1872,
+            "positive": 1654,
+            "negative": 218
         },
         "dlc": {
             "description": "Colt Canyon Soundtrack",
@@ -5127,8 +5189,8 @@ var extrasData =
     "60b028eb-256a-4803-b015-6508ddc2457e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 59,
-            "positive": 58,
+            "total": 60,
+            "positive": 59,
             "negative": 1
         },
         "dlc": {
@@ -5173,16 +5235,16 @@ var extrasData =
     "c0b7d70d-c1fa-4afd-93fd-1db0dc265d6d": {
         "reviews": {
             "description": "Mixed",
-            "total": 26,
+            "total": 27,
             "positive": 18,
-            "negative": 8
+            "negative": 9
         }
     },
     "d6edd54e-e5b6-443d-a576-09c5be1634a4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2961,
-            "positive": 2642,
+            "total": 2964,
+            "positive": 2645,
             "negative": 319
         },
         "dlc": {
@@ -5219,8 +5281,8 @@ var extrasData =
     "9241fe50-3061-47c7-8a4d-4969e55e8398": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2186,
-            "positive": 1991,
+            "total": 2189,
+            "positive": 1994,
             "negative": 195
         },
         "dlc": {
@@ -5257,9 +5319,9 @@ var extrasData =
     "1cb060d9-d088-4ce3-b7f9-d7f29d589faf": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6936,
-            "positive": 5903,
-            "negative": 1033
+            "total": 6962,
+            "positive": 5923,
+            "negative": 1039
         },
         "dlc": {
             "description": "Coromon Soundtrack\n\nCoromon Piano Collections",
@@ -5267,27 +5329,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1398,
-                    "final": 1398
+                    "final": 1013
                 },
                 "EUR": {
                     "initial": 1298,
-                    "final": 1298
+                    "final": 940
                 },
                 "GBP": {
                     "initial": 1098,
-                    "final": 1098
+                    "final": 795
                 },
                 "JPY": {
                     "initial": 160000,
-                    "final": 160000
+                    "final": 116000
                 },
                 "AUD": {
                     "initial": 2050,
-                    "final": 2050
+                    "final": 1485
                 },
                 "CAD": {
                     "initial": 1798,
-                    "final": 1798
+                    "final": 1303
                 }
             }
         }
@@ -5295,9 +5357,9 @@ var extrasData =
     "d123c8a9-a9bb-4360-8666-1ce84c046f4a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 406,
-            "positive": 374,
-            "negative": 32
+            "total": 408,
+            "positive": 375,
+            "negative": 33
         }
     },
     "c8720214-3986-4720-b390-1b0279d30485": {
@@ -5349,9 +5411,9 @@ var extrasData =
     "2f1bd762-f732-4148-bb79-d94283881040": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 27534,
-            "positive": 26964,
-            "negative": 570
+            "total": 27580,
+            "positive": 27013,
+            "negative": 567
         }
     },
     "56fe730d-ffe1-4e58-9181-3b9e59786335": {
@@ -5403,25 +5465,25 @@ var extrasData =
     "f9e8d2a5-80b1-453b-874b-3621e2e97d71": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3425,
-            "positive": 2970,
-            "negative": 455
+            "total": 3444,
+            "positive": 2986,
+            "negative": 458
         }
     },
     "c23a06b2-9fc7-49ed-9b34-05e012cdd19a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 20036,
-            "positive": 18471,
-            "negative": 1565
+            "total": 20112,
+            "positive": 18544,
+            "negative": 1568
         }
     },
     "853a5465-5c71-49c0-b294-7ab8525c9417": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6325,
-            "positive": 5664,
-            "negative": 661
+            "total": 6331,
+            "positive": 5668,
+            "negative": 663
         },
         "dlc": {
             "description": "Crashlands Soundtrack",
@@ -5457,8 +5519,8 @@ var extrasData =
     "197d8bb9-8fb5-4015-b32a-4cecec7a3c42": {
         "reviews": {
             "description": "Very Positive",
-            "total": 318,
-            "positive": 310,
+            "total": 319,
+            "positive": 311,
             "negative": 8
         },
         "dlc": {
@@ -5467,27 +5529,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 799,
-                    "final": 319
+                    "final": 799
                 },
                 "EUR": {
                     "initial": 779,
-                    "final": 311
+                    "final": 779
                 },
                 "GBP": {
                     "initial": 669,
-                    "final": 267
+                    "final": 669
                 },
                 "JPY": {
                     "initial": 82000,
-                    "final": 32800
+                    "final": 82000
                 },
                 "AUD": {
                     "initial": 1179,
-                    "final": 471
+                    "final": 1179
                 },
                 "CAD": {
                     "initial": 1049,
-                    "final": 419
+                    "final": 1049
                 }
             }
         }
@@ -5503,9 +5565,9 @@ var extrasData =
     "7281733e-4b55-4eab-8478-2b22ba95ed12": {
         "reviews": {
             "description": "Very Positive",
-            "total": 17066,
-            "positive": 15878,
-            "negative": 1188
+            "total": 17089,
+            "positive": 15900,
+            "negative": 1189
         },
         "dlc": {
             "description": "CrossCode Original Soundtrack\n\nCrossCode - Ninja Skin\n\nCrossCode: A New Home\n\nCrossCode Original Soundtrack EX\n\nCrossCode Manlea Skin",
@@ -5549,9 +5611,9 @@ var extrasData =
     "4bee903a-79bf-4992-ad58-5def2d3aa99f": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21363,
-            "positive": 20681,
-            "negative": 682
+            "total": 21401,
+            "positive": 20714,
+            "negative": 687
         },
         "dlc": {
             "description": "Cruelty Squad Soundtrack",
@@ -5587,17 +5649,17 @@ var extrasData =
     "f7b13c84-0849-45c3-8aad-62fa551b0cb5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1037,
-            "positive": 912,
+            "total": 1036,
+            "positive": 911,
             "negative": 125
         }
     },
     "16c5c355-9b1a-455a-aa6c-23193b501351": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4303,
-            "positive": 3695,
-            "negative": 608
+            "total": 4312,
+            "positive": 3703,
+            "negative": 609
         },
         "dlc": {
             "description": "Crying Suns - Original Soundtrack\n\nCrying Suns - Digital Artbook",
@@ -5605,27 +5667,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 998,
-                    "final": 398
+                    "final": 998
                 },
                 "EUR": {
                     "initial": 898,
-                    "final": 358
+                    "final": 898
                 },
                 "GBP": {
                     "initial": 898,
-                    "final": 358
+                    "final": 898
                 },
                 "JPY": {
                     "initial": 104000,
-                    "final": 41600
+                    "final": 104000
                 },
                 "AUD": {
                     "initial": 1500,
-                    "final": 600
+                    "final": 1500
                 },
                 "CAD": {
                     "initial": 1138,
-                    "final": 454
+                    "final": 1138
                 }
             }
         }
@@ -5633,17 +5695,17 @@ var extrasData =
     "c4fd2101-f21d-4d91-bc5b-241d9fbe77ba": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2144,
-            "positive": 2092,
-            "negative": 52
+            "total": 2177,
+            "positive": 2123,
+            "negative": 54
         }
     },
     "222dbb63-3e42-4bd8-9528-216dd1f82ffb": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 25674,
-            "positive": 24545,
-            "negative": 1129
+            "total": 25693,
+            "positive": 24561,
+            "negative": 1132
         },
         "dlc": {
             "description": "Crypt of the NecroDancer: Hatsune Miku Character DLC\n\nCrypt of the NecroDancer: SYNCHRONY\n\nCrypt of the NecroDancer: AMPLIFIED\n\nCrypt of the Necrodancer Original Danny Baranowsky Soundtrack\n\nCrypt of the NecroDancer Extended Soundtrack\n\nCrypt of the NecroDancer Extended Soundtrack 2\n\nCrypt of the NecroDancer: AMPLIFIED OST - Danny Baranowsky\n\nCrypt of the NecroDancer: AMPLIFIED OST - FamilyJules and A_Rival\n\nCrypt of the NecroDancer: AMPLIFIED OST - Virt and Girlfriend Records\n\nCrypt of the NecroDancer: AMPLIFIED OST - OC ReMix\n\nCrypt of the NecroDancer: AMPLIFIED OST - Chipzel\n\nCrypt of the NecroDancer Extras",
@@ -5687,9 +5749,9 @@ var extrasData =
     "7632d9d3-8d02-4af6-932c-0d7b59842e48": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 192522,
-            "positive": 185370,
-            "negative": 7152
+            "total": 192858,
+            "positive": 185704,
+            "negative": 7154
         },
         "dlc": {
             "description": "Cuphead - The Delicious Last Course\n\nCuphead - Official Soundtrack\n\nCuphead DLC - Official Soundtrack",
@@ -5725,8 +5787,8 @@ var extrasData =
     "04bd6f98-7896-4cbf-8812-2082c786a497": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8676,
-            "positive": 7293,
+            "total": 8684,
+            "positive": 7301,
             "negative": 1383
         },
         "dlc": {
@@ -5763,8 +5825,8 @@ var extrasData =
     "f7080b34-e135-4900-b6f0-5cd34e792ee4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 636,
-            "positive": 543,
+            "total": 637,
+            "positive": 544,
             "negative": 93
         },
         "dlc": {
@@ -5801,17 +5863,17 @@ var extrasData =
     "59eec2ca-fc0a-4f4e-b652-5389f94ee3c2": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 126,
+            "total": 127,
             "positive": 93,
-            "negative": 33
+            "negative": 34
         }
     },
     "ce8ac365-fdbc-4c86-8543-bab271fa4b17": {
         "reviews": {
-            "description": "Overwhelmingly Positive",
-            "total": 3969,
-            "positive": 3771,
-            "negative": 198
+            "description": "Very Positive",
+            "total": 3976,
+            "positive": 3776,
+            "negative": 200
         },
         "dlc": {
             "description": "Cyber Hook - Lost Numbers DLC",
@@ -5847,8 +5909,8 @@ var extrasData =
     "1c84aedf-48e3-4e60-8e55-7bc5678e4992": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1438,
-            "positive": 1202,
+            "total": 1441,
+            "positive": 1205,
             "negative": 236
         }
     },
@@ -5979,8 +6041,8 @@ var extrasData =
     "7938a2f0-a471-402f-a02c-f7d17a03155a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 148,
-            "positive": 139,
+            "total": 149,
+            "positive": 140,
             "negative": 9
         },
         "dlc": {
@@ -6017,9 +6079,9 @@ var extrasData =
     "1ae64844-3c2d-485e-8fbe-3cbb2afa1428": {
         "reviews": {
             "description": "Very Positive",
-            "total": 782,
-            "positive": 646,
-            "negative": 136
+            "total": 786,
+            "positive": 649,
+            "negative": 137
         },
         "dlc": {
             "description": "DARIUSBURST Chronicle Saviours - Side Arms Hyper Dyne\nDARIUSBURST Chronicle Saviours - Varth: Operation Thunderstorm\nDARIUSBURST Chronicle Saviours - Progear\nDARIUSBURST Chronicle Saviours - Battle Garegga\nDARIUSBURST Chronicle Saviours - Soukyuugurentai\nDARIUSBURST Chronicle Saviours - Mahoudaisakusen\nDARIUSBURST Chronicle Saviours - DoDonPachi Resurrection\nDARIUSBURST Chronicle Saviours - Deathsmiles\nDARIUSBURST Chronicle Saviours - ketsui\nDARIUSBURST Chronicle Saviours - Space Harrier\nDARIUSBURST Chronicle Saviours - Galaxy Force II\nDARIUSBURST Chronicle Saviours - Fantasy Zone\nDARIUSBURST Chronicle Saviours - Night Striker\nDARIUSBURST Chronicle Saviours - Metal Black\nDARIUSBURST Chronicle Saviours - RayForce\nDARIUSBURST Chronicle Saviours - Darius Odyssey Digital Guidebook",
@@ -6027,27 +6089,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 8984,
-                    "final": 4034
+                    "final": 8984
                 },
                 "EUR": {
                     "initial": 8964,
-                    "final": 4020
+                    "final": 8964
                 },
                 "GBP": {
                     "initial": 7714,
-                    "final": 3460
+                    "final": 7714
                 },
                 "JPY": {
                     "initial": 911200,
-                    "final": 408400
+                    "final": 911200
                 },
                 "AUD": {
                     "initial": 13445,
-                    "final": 6036
+                    "final": 13445
                 },
                 "CAD": {
                     "initial": 11684,
-                    "final": 5249
+                    "final": 11684
                 }
             }
         }
@@ -6055,9 +6117,9 @@ var extrasData =
     "33919e7d-e394-4b2a-9f5c-c4934e94555c": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2371,
-            "positive": 1780,
-            "negative": 591
+            "total": 2373,
+            "positive": 1781,
+            "negative": 592
         },
         "dlc": {
             "description": "Dark Devotion Soundtrack",
@@ -6093,17 +6155,17 @@ var extrasData =
     "0a7ffb40-c98b-4478-a42e-2fce0cd90d95": {
         "reviews": {
             "description": "Very Positive",
-            "total": 119428,
-            "positive": 100317,
-            "negative": 19111
+            "total": 119661,
+            "positive": 100518,
+            "negative": 19143
         }
     },
     "0e001f7d-8448-4ca3-9442-c2e3423894cb": {
         "reviews": {
             "description": "Very Positive",
-            "total": 418533,
-            "positive": 394839,
-            "negative": 23694
+            "total": 418914,
+            "positive": 395196,
+            "negative": 23718
         },
         "dlc": {
             "description": "DARK SOULS\u2122 III - Season Pass\n\nDARK SOULS\u2122 III - Ashes of Ariandel\u2122\n\nDARK SOULS\u2122 III - The Ringed City\u2122",
@@ -6139,9 +6201,9 @@ var extrasData =
     "ac228995-b1eb-4a4f-bec5-d58cd2ee776f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 133938,
-            "positive": 123535,
-            "negative": 10403
+            "total": 134303,
+            "positive": 123877,
+            "negative": 10426
         }
     },
     "22078d98-d884-4290-8f25-28971ac85963": {
@@ -6155,9 +6217,9 @@ var extrasData =
     "db856d1f-deac-4797-88a4-2f6310037dfd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12640,
-            "positive": 10382,
-            "negative": 2258
+            "total": 12658,
+            "positive": 10396,
+            "negative": 2262
         },
         "dlc": {
             "description": "Darksiders Genesis - Digital Extras",
@@ -6193,9 +6255,9 @@ var extrasData =
     "c83937d2-7211-4223-a1fe-dc583236f38a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 22134,
-            "positive": 21018,
-            "negative": 1116
+            "total": 22169,
+            "positive": 21051,
+            "negative": 1118
         },
         "dlc": {
             "description": "Darkwood - Soundtrack\n\nDarkwood - Artbook",
@@ -6247,8 +6309,8 @@ var extrasData =
     "1914f149-5eeb-4671-9874-4b907692c68b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 270,
-            "positive": 246,
+            "total": 271,
+            "positive": 247,
             "negative": 24
         },
         "dlc": {
@@ -6285,9 +6347,9 @@ var extrasData =
     "b97a37a4-4aad-4e01-99e2-1c8bdb2fc5f5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 171502,
-            "positive": 166478,
-            "negative": 5024
+            "total": 171703,
+            "positive": 166668,
+            "negative": 5035
         },
         "dlc": {
             "description": "Dead Cells: The Queen and the Sea\n\nDead Cells: Fatal Falls\n\nDead Cells: The Bad Seed\n\nDead Cells: Rise of the Giant\n\nDead Cells: Soundtrack\n\nDead Cells: Demake Soundtrack\n\nDead Cells: Return to Castlevania\n\nDead Cells: Return to Castlevania Soundtrack",
@@ -6323,9 +6385,9 @@ var extrasData =
     "2cd12053-0da3-424d-a84a-ee1ddeb38c88": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5922,
-            "positive": 5611,
-            "negative": 311
+            "total": 5937,
+            "positive": 5625,
+            "negative": 312
         },
         "dlc": {
             "description": "Dead Estate Soundtrack",
@@ -6361,16 +6423,16 @@ var extrasData =
     "2d159713-6aa9-4a8c-a0af-45db7a020f93": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 5460,
-            "positive": 5232,
+            "total": 5464,
+            "positive": 5236,
             "negative": 228
         }
     },
     "b784b995-4bc3-453b-bdf7-13856a652883": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2035,
-            "positive": 1731,
+            "total": 2034,
+            "positive": 1730,
             "negative": 304
         }
     },
@@ -6385,9 +6447,9 @@ var extrasData =
     "913e64a8-1279-4d8b-90ba-f02fabe780e7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3486,
-            "positive": 3120,
-            "negative": 366
+            "total": 3499,
+            "positive": 3128,
+            "negative": 371
         },
         "dlc": {
             "description": "Deadlink Soundtrack",
@@ -6423,8 +6485,8 @@ var extrasData =
     "fea372c8-901b-444e-b0a6-96288ca9c0d4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 564,
-            "positive": 503,
+            "total": 565,
+            "positive": 504,
             "negative": 61
         },
         "dlc": {
@@ -6507,9 +6569,9 @@ var extrasData =
     "6734b594-d5c4-4522-b771-107d077ce9c5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 19201,
-            "positive": 17925,
-            "negative": 1276
+            "total": 19259,
+            "positive": 17981,
+            "negative": 1278
         },
         "dlc": {
             "description": "Death's Door Soundtrack\n\nDeath's Door Artbook",
@@ -6517,27 +6579,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1000,
-                    "final": 500
+                    "final": 1000
                 },
                 "EUR": {
                     "initial": 900,
-                    "final": 450
+                    "final": 900
                 },
                 "GBP": {
                     "initial": 720,
-                    "final": 360
+                    "final": 720
                 },
                 "JPY": {
                     "initial": 104000,
-                    "final": 52000
+                    "final": 104000
                 },
                 "AUD": {
                     "initial": 1400,
-                    "final": 700
+                    "final": 1400
                 },
                 "CAD": {
                     "initial": 1120,
-                    "final": 560
+                    "final": 1120
                 }
             }
         }
@@ -6545,9 +6607,9 @@ var extrasData =
     "f1b8c985-eee9-4550-a4a4-ce8400f09df0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5345,
-            "positive": 4345,
-            "negative": 1000
+            "total": 5347,
+            "positive": 4346,
+            "negative": 1001
         },
         "dlc": {
             "description": "Death's Gambit: Afterlife - Ashes of Vados\n\nDeath's Gambit: Afterlife Soundtrack",
@@ -6599,8 +6661,8 @@ var extrasData =
     "a774fef0-fb99-4f11-8cc5-ac39c9591220": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 559,
-            "positive": 540,
+            "total": 563,
+            "positive": 544,
             "negative": 19
         },
         "dlc": {
@@ -6609,27 +6671,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1497,
-                    "final": 747
+                    "final": 1497
                 },
                 "EUR": {
                     "initial": 1497,
-                    "final": 747
+                    "final": 1497
                 },
                 "GBP": {
                     "initial": 1287,
-                    "final": 642
+                    "final": 1287
                 },
                 "JPY": {
                     "initial": 152100,
-                    "final": 75900
+                    "final": 152100
                 },
                 "AUD": {
                     "initial": 2250,
-                    "final": 1125
+                    "final": 2250
                 },
                 "CAD": {
                     "initial": 1947,
-                    "final": 972
+                    "final": 1947
                 }
             }
         }
@@ -6637,8 +6699,8 @@ var extrasData =
     "d88b865b-b991-4d5f-bc05-5d6193470b87": {
         "reviews": {
             "description": "Very Positive",
-            "total": 95,
-            "positive": 91,
+            "total": 96,
+            "positive": 92,
             "negative": 4
         },
         "dlc": {
@@ -6713,8 +6775,8 @@ var extrasData =
     "071209da-f9f9-4cfa-aae3-0d7f9811ba9f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3258,
-            "positive": 2837,
+            "total": 3261,
+            "positive": 2840,
             "negative": 421
         },
         "dlc": {
@@ -6751,9 +6813,9 @@ var extrasData =
     "4ec1cf22-63bf-404c-b094-98e7c14892d4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 350026,
-            "positive": 340367,
-            "negative": 9659
+            "total": 350457,
+            "positive": 340780,
+            "negative": 9677
         },
         "dlc": {
             "description": "Deep Rock Galactic - Skullcrusher Pack\n\nDeep Rock Galactic - Order of the Deep Pack\n\nDeep Rock Galactic - Decontaminator Pack\n\nDeep Rock Galactic - Supporter II Upgrade\n\nDeep Rock Galactic - Biohazard Pack\n\nDeep Rock Galactic - Robot Rebellion Pack\n\nDeep Rock Galactic - Rival Tech Pack\n\nDeep Rock Galactic - Supporter Upgrade\n\nDeep Rock Galactic - Dark Future Pack\n\nDeep Rock Galactic - MegaCorp Pack\n\nDeep Rock Galactic - Roughneck Pack\n\nDeep Rock Galactic - Dawn of the Dread Pack\n\nDeep Rock Galactic - Original Soundtrack Volume I + II",
@@ -6789,8 +6851,8 @@ var extrasData =
     "359bfad1-2d36-4cbd-9a0e-cc1ac4c1d671": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 718,
-            "positive": 574,
+            "total": 719,
+            "positive": 575,
             "negative": 144
         },
         "dlc": {
@@ -6827,9 +6889,9 @@ var extrasData =
     "790590f1-b29b-4357-8e0f-51df2dde00ab": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 69189,
-            "positive": 68211,
-            "negative": 978
+            "total": 70722,
+            "positive": 69720,
+            "negative": 1002
         },
         "dlc": {
             "description": "DELTARUNE Soundtrack",
@@ -6873,16 +6935,16 @@ var extrasData =
     "676db75b-a0ff-4bb2-9d89-857bc748df83": {
         "reviews": {
             "description": "Very Positive",
-            "total": 777,
-            "positive": 627,
-            "negative": 150
+            "total": 781,
+            "positive": 630,
+            "negative": 151
         }
     },
     "cc266788-f70d-4342-9659-b552c8900f96": {
         "reviews": {
             "description": "Very Positive",
-            "total": 935,
-            "positive": 883,
+            "total": 936,
+            "positive": 884,
             "negative": 52
         },
         "dlc": {
@@ -6927,9 +6989,9 @@ var extrasData =
     "f4d85a0a-b909-4df1-9b32-7f95c2d826f7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 20302,
-            "positive": 19161,
-            "negative": 1141
+            "total": 20374,
+            "positive": 19228,
+            "negative": 1146
         },
         "dlc": {
             "description": "Descenders Soundtrack",
@@ -6965,9 +7027,9 @@ var extrasData =
     "3ae88663-19d9-4e13-8622-7986aaee9cbc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2292,
-            "positive": 1926,
-            "negative": 366
+            "total": 2299,
+            "positive": 1930,
+            "negative": 369
         },
         "dlc": {
             "description": "Desktop Dungeons Soundtrack\n\nDesktop Dungeons Goatperson DLC",
@@ -7003,9 +7065,9 @@ var extrasData =
     "a99983bc-33c1-471d-baff-024d9b8774b3": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3712,
-            "positive": 2881,
-            "negative": 831
+            "total": 3717,
+            "positive": 2884,
+            "negative": 833
         },
         "dlc": {
             "description": "Despotism 3k - Soundtrack",
@@ -7087,17 +7149,17 @@ var extrasData =
     "76b60daf-0df0-4855-a576-be5cb40e61a1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 28412,
-            "positive": 26168,
-            "negative": 2244
+            "total": 28435,
+            "positive": 26184,
+            "negative": 2251
         }
     },
     "01f6fc76-20b8-4de8-a8bd-19b19172d011": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 41056,
-            "positive": 31241,
-            "negative": 9815
+            "total": 41080,
+            "positive": 31264,
+            "negative": 9816
         },
         "dlc": {
             "description": "Deus Ex: Mankind Divided - System Rift\n\nDeus Ex: Mankind Divided\u2122 DLC - A Criminal Past\n\nDeus Ex: Mankind Divided\u2122 DLC - Assault Pack\n\nDeus Ex: Mankind Divided\u2122 DLC - Tactical Pack\n\nDeus Ex: Mankind Divided\u2122 DLC - Season Pass\n\nDeus Ex: Mankind Divided\u2122 Japanese Language Pack",
@@ -7141,17 +7203,17 @@ var extrasData =
     "af99607e-c1a3-4d86-a688-e9b8041e5f9f": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 704,
-            "positive": 698,
+            "total": 715,
+            "positive": 709,
             "negative": 6
         }
     },
     "f572d3dd-20b2-4ef2-9dfb-067201c408fd": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 9139,
-            "positive": 8704,
-            "negative": 435
+            "total": 9148,
+            "positive": 8712,
+            "negative": 436
         }
     },
     "163eec0f-9799-42b8-9830-5bf2de116994": {
@@ -7195,9 +7257,9 @@ var extrasData =
     "bacd841e-3086-4d92-a355-67cf515ddeb5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 152017,
-            "positive": 145940,
-            "negative": 6077
+            "total": 152509,
+            "positive": 146409,
+            "negative": 6100
         },
         "dlc": {
             "description": "Devil May Cry 5 - Playable Character: Vergil\nDevil May Cry 5 - Vergil Battle Track 4-Pack\nDevil May Cry 5 - Super Vergil Unlock\nDevil May Cry 5 - Vergil EX Provocation\nDevil May Cry 5 Original Soundtrack\nDevil May Cry 5 - 1 Blue Orb\nDevil May Cry 5 - 3 Blue Orbs\nDevil May Cry 5 - 5 Blue Orbs\nDevil May Cry 5 - 100000 Red Orbs\nDevil May Cry 5 - 200000 Red Orbs\nDevil May Cry 5 - 300000 Red Orbs\nDevil May Cry 5 - 500000 Red Orbs\nDevil May Cry 5 - 1000000 Red Orbs\nDevil May Cry 5 - Super Character 3-Pack\nDevil May Cry 5 - Taunt Trio\nDevil May Cry 5 - V & Vergil Alt Colors\nDevil May Cry 5 - Alt Hero Colors\nDevil May Cry 5 - Alt Heroine Colors\nDevil May Cry 5 - Alt Style Rank Announcers\nDevil May Cry 5 - Alt Title Calls\nDevil May Cry 5 - Live Action Cutscenes\nDevil May Cry 5 - DMC1 Battle Track 3-Pack\nDevil May Cry 5 - DMC2 Battle Track 3-Pack\nDevil May Cry 5 - DMC3 Battle Track 3-Pack\nDevil May Cry 5 - DMC4 Battle Track 3-Pack\nDevil May Cry 5 - Gerbera GP01\nDevil May Cry 5 - Pasta Breaker\nDevil May Cry 5 - Sweet Surrender\nDevil May Cry 5 - Mega Buster\nDevil May Cry 5 - Cavaliere R\nDevil May Cry 5 - Monkey Business\nDevil May Cry 5 Vergil's Rebirth Sound Selection",
@@ -7205,27 +7267,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 14269,
-                    "final": 10689
+                    "final": 14269
                 },
                 "EUR": {
                     "initial": 14269,
-                    "final": 10689
+                    "final": 14269
                 },
                 "GBP": {
                     "initial": 11657,
-                    "final": 8709
+                    "final": 11657
                 },
                 "JPY": {
                     "initial": 1712800,
-                    "final": 1324000
+                    "final": 1712800
                 },
                 "AUD": {
                     "initial": 20476,
-                    "final": 15209
+                    "final": 20476
                 },
                 "CAD": {
                     "initial": 22819,
-                    "final": 16787
+                    "final": 22819
                 }
             }
         }
@@ -7233,9 +7295,9 @@ var extrasData =
     "656aaa64-33bb-43f2-a9f6-cdadb678249a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 18537,
-            "positive": 17246,
-            "negative": 1291
+            "total": 18647,
+            "positive": 17348,
+            "negative": 1299
         },
         "dlc": {
             "description": "DMCHDC Theme Stylish!\n\nDevil May Cry Original Soundtrack\n\nDevil May Cry 2 Original Soundtrack\n\nDevil May Cry 3 Original Soundtrack",
@@ -7279,9 +7341,9 @@ var extrasData =
     "31c0cea6-9d6b-45fb-be0d-6cec0c3faffa": {
         "reviews": {
             "description": "Very Positive",
-            "total": 83221,
-            "positive": 75640,
-            "negative": 7581
+            "total": 83278,
+            "positive": 75688,
+            "negative": 7590
         },
         "dlc": {
             "description": "DEVOUR: Supporter Edition\n\nDEVOUR: Soundtrack",
@@ -7317,9 +7379,9 @@ var extrasData =
     "7149f02d-a4bf-44ca-a571-7a3eafa3b8b6": {
         "reviews": {
             "description": "Very Positive",
-            "total": 11229,
-            "positive": 10052,
-            "negative": 1177
+            "total": 11239,
+            "positive": 10059,
+            "negative": 1180
         },
         "dlc": {
             "description": "Dicey Dungeons - Soundtrack",
@@ -7371,9 +7433,9 @@ var extrasData =
     "867440a4-2298-4a6a-853f-a4889bfa530d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 101,
+            "total": 102,
             "positive": 83,
-            "negative": 18
+            "negative": 19
         },
         "dlc": {
             "description": "Dimension Drive - Soundtrack",
@@ -7409,8 +7471,8 @@ var extrasData =
     "d5acf4b4-bfa3-4059-8ca2-2cfabb353ac9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 871,
-            "positive": 784,
+            "total": 872,
+            "positive": 785,
             "negative": 87
         },
         "dlc": {
@@ -7455,8 +7517,8 @@ var extrasData =
     "3cea3a49-ab0e-41b5-ab57-c1ffb999b5e9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1541,
-            "positive": 1443,
+            "total": 1539,
+            "positive": 1441,
             "negative": 98
         },
         "dlc": {
@@ -7493,8 +7555,8 @@ var extrasData =
     "56f76b8d-a1c7-4f17-ab1d-ac9e2fefa90b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 45250,
-            "positive": 40011,
+            "total": 45304,
+            "positive": 40065,
             "negative": 5239
         },
         "dlc": {
@@ -7531,8 +7593,8 @@ var extrasData =
     "01c4fa87-42ec-41ab-9957-dc8dbec8e527": {
         "reviews": {
             "description": "Very Positive",
-            "total": 994,
-            "positive": 930,
+            "total": 995,
+            "positive": 931,
             "negative": 64
         },
         "dlc": {
@@ -7569,9 +7631,9 @@ var extrasData =
     "e54077f4-c233-415f-8cd4-e32aaab4a86d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 83172,
-            "positive": 81196,
-            "negative": 1976
+            "total": 83253,
+            "positive": 81270,
+            "negative": 1983
         },
         "dlc": {
             "description": "Dishonored: The Brigmore Witches\n\nDishonored - Void Walker Arsenal\n\nDishonored - The Knife of Dunwall\n\nDishonored: Dunwall City Trials\n\nDishonored Soundtrack",
@@ -7607,8 +7669,8 @@ var extrasData =
     "643dac16-68ce-414d-b221-eed5e9fb7162": {
         "reviews": {
             "description": "Very Positive",
-            "total": 7305,
-            "positive": 6749,
+            "total": 7310,
+            "positive": 6754,
             "negative": 556
         },
         "dlc": {
@@ -7653,8 +7715,8 @@ var extrasData =
     "e1b61d7f-1ad8-46b1-86fc-20bd5f403978": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 983,
-            "positive": 942,
+            "total": 986,
+            "positive": 945,
             "negative": 41
         },
         "dlc": {
@@ -7663,27 +7725,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 2296,
-                    "final": 1606
+                    "final": 2296
                 },
                 "EUR": {
                     "initial": 2266,
-                    "final": 1585
+                    "final": 2266
                 },
                 "GBP": {
                     "initial": 1926,
-                    "final": 1347
+                    "final": 1926
                 },
                 "JPY": {
                     "initial": 233400,
-                    "final": 163200
+                    "final": 233400
                 },
                 "AUD": {
                     "initial": 3387,
-                    "final": 2370
+                    "final": 3387
                 },
                 "CAD": {
                     "initial": 2986,
-                    "final": 2089
+                    "final": 2986
                 }
             }
         }
@@ -7691,8 +7753,8 @@ var extrasData =
     "d054a81e-a31b-4d7a-81e6-2a2ae4f5cb42": {
         "reviews": {
             "description": "Very Positive",
-            "total": 265,
-            "positive": 254,
+            "total": 268,
+            "positive": 257,
             "negative": 11
         },
         "dlc": {
@@ -7729,9 +7791,9 @@ var extrasData =
     "dcc5d1ff-675d-44f6-8411-88cb6dc513f1": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 210633,
-            "positive": 201241,
-            "negative": 9392
+            "total": 210829,
+            "positive": 201433,
+            "negative": 9396
         },
         "dlc": {
             "description": "DOOM Soundtrack",
@@ -7767,17 +7829,17 @@ var extrasData =
     "28f8bdc8-7a44-48f2-932e-47c58e57bff3": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 25865,
-            "positive": 24963,
-            "negative": 902
+            "total": 25927,
+            "positive": 25023,
+            "negative": 904
         }
     },
     "5d268c17-5bd0-4eeb-b40f-adc3a0289072": {
         "reviews": {
             "description": "Very Positive",
-            "total": 205975,
-            "positive": 188425,
-            "negative": 17550
+            "total": 206178,
+            "positive": 188612,
+            "negative": 17566
         },
         "dlc": {
             "description": "DOOM Eternal: The Ancient Gods - Part One\n\nDOOM Eternal: The Ancient Gods - Part Two\n\nDOOM Eternal: The Rip and Tear Pack\n\nDOOM Eternal: Series Five Cosmetic Pack\n\nDOOM Eternal: Series Seven Cosmetic Pack\n\nDOOM Eternal: Series Six Cosmetic Pack\n\nDOOM Eternal: Series Four Cosmetic Pack\n\nDOOM Eternal: Cosplay Slayer Master Collection Cosmetic Pack \n\nDOOM Eternal: Series Three Cosmetic Pack \n\nMullet Slayer Master Collection Cosmetic Pack \n\nDOOM Eternal: Series Two Cosmetic Pack \n\nDOOM Eternal: Series One Cosmetic Pack\n\nDOOMicorn Master Collection Cosmetic Pack",
@@ -7813,9 +7875,9 @@ var extrasData =
     "282eac56-698b-41ee-a53d-7e44c38abeb5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 26846,
-            "positive": 23455,
-            "negative": 3391
+            "total": 27097,
+            "positive": 23671,
+            "negative": 3426
         },
         "dlc": {
             "description": "DOOM: The Dark Ages - Premium Upgrade",
@@ -7851,9 +7913,9 @@ var extrasData =
     "9d1b327f-9642-4553-9ebe-427b4e810759": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 27896,
-            "positive": 26921,
-            "negative": 975
+            "total": 27922,
+            "positive": 26946,
+            "negative": 976
         },
         "dlc": {
             "description": "Dorfromantik Soundtrack Vol.1\n\nDorfromantik Soundtrack Vol. 2",
@@ -7897,8 +7959,8 @@ var extrasData =
     "41288331-ee96-4e5a-a51b-4179133c0188": {
         "reviews": {
             "description": "Very Positive",
-            "total": 261,
-            "positive": 214,
+            "total": 260,
+            "positive": 213,
             "negative": 47
         },
         "dlc": {
@@ -7951,16 +8013,16 @@ var extrasData =
     "4ae515b7-97b6-40a6-98d5-9822fa31de98": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 8291,
-            "positive": 8009,
+            "total": 8298,
+            "positive": 8016,
             "negative": 282
         }
     },
     "b84c079f-d721-4baa-8d51-07876c632131": {
         "reviews": {
             "description": "Mixed",
-            "total": 244,
-            "positive": 160,
+            "total": 245,
+            "positive": 161,
             "negative": 84
         }
     },
@@ -7975,9 +8037,9 @@ var extrasData =
     "48479e99-9365-48af-b06a-4fc4f8294e3c": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 669,
-            "positive": 517,
-            "negative": 152
+            "total": 671,
+            "positive": 518,
+            "negative": 153
         }
     },
     "002616e1-928c-40f8-90b3-7b2cdf9f57e2": {
@@ -8021,8 +8083,8 @@ var extrasData =
     "8aa24a57-015d-4e7c-a937-c7ade09b499e": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 980,
-            "positive": 943,
+            "total": 981,
+            "positive": 944,
             "negative": 37
         },
         "dlc": {
@@ -8059,9 +8121,9 @@ var extrasData =
     "2e8d4686-44a7-44a4-8381-1ad0ad034df3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1571,
-            "positive": 1299,
-            "negative": 272
+            "total": 1576,
+            "positive": 1303,
+            "negative": 273
         }
     },
     "72a90222-f641-417d-845e-6cf7c040ee1f": {
@@ -8075,8 +8137,8 @@ var extrasData =
     "f7b44384-96d2-43d0-b0d2-83169b621c73": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1378,
-            "positive": 1334,
+            "total": 1385,
+            "positive": 1341,
             "negative": 44
         }
     },
@@ -8107,25 +8169,25 @@ var extrasData =
     "0044943b-c753-4227-941d-0e78f0f4e85e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 263,
-            "positive": 222,
+            "total": 264,
+            "positive": 223,
             "negative": 41
         }
     },
     "d16de42b-6caf-490b-a0db-57b54c2d95d6": {
         "reviews": {
             "description": "Very Positive",
-            "total": 224,
+            "total": 226,
             "positive": 185,
-            "negative": 39
+            "negative": 41
         }
     },
     "72f008e8-723e-4191-9624-5d6efe0d1a1e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 408,
-            "positive": 359,
-            "negative": 49
+            "total": 411,
+            "positive": 360,
+            "negative": 51
         },
         "dlc": {
             "description": "Drums Rock: Green Day - 'American Idiot'\nDrums Rock: Green Day - 'Holiday'\nDrums Rock: Simple Plan - 'Welcome to My Life'\nDrums Rock: The Offspring - 'You\u2019re Gonna Go Far, Kid'\nDrums Rock: Undertale - 'MEGALOVANIA'\nDrums Rock: Disturbed - 'Down with the Sickness'\nDrums Rock: Undertale - 'Hopes And Dreams'\nDrums Rock: Pantera - 'Walk'\nDrums Rock: Spacehog - 'In the Meantime'\nDrums Rock: Lit - 'My Own Worst Enemy'\nDrums Rock: Collective Soul - 'Shine'\nDrums Rock: Simple Plan - 'Shut Up!'\nDrums Rock: Simple Plan - 'Crazy'\nDrums Rock: Simple Plan - 'Time to Say Goodbye'\nDrums Rock: HammerFall - 'Hearts On Fire'\nDrums Rock: Twilight Force - 'Twilight Force'\nDrums Rock: Battle Beast - 'King for a Day'\nDrums Rock: Fifth Angel - 'When Angels Kill'\nDrums Rock: NorthTale - 'Higher'\nDrums Rock: Blind Guardian - 'Blood Of The Elves'\nDrums Rock: Green Day - 'The American Dream Is Killing Me'\nDrums Rock: The Proclaimers - 'I'm Gonna Be (500 Miles)'\nDrums Rock: Disturbed - 'Stricken'\nDrums Rock: Pantera - '5 Minutes Alone'\nDrums Rock: Disturbed - 'Ten Thousand Fists'\nDrums Rock: Alestorm - 'Keelhauled'\nDrums Rock: Gloryhammer - 'Hootsforce'\nDrums Rock: Delain - 'Stardust'\nDrums Rock: Northward - 'While Love Died'\nDrums Rock: Feuerschwanz - 'Das Elfte Gebot'\nDrums Rock: Angus McSix - 'Master of the Universe'\nDrums Rock: Alter Bridge - 'Silver Tongue'\nDrums Rock: Powerwolf - 'Army of the Night'\nDrums Rock: Jinjer - 'Pisces'\nDrums Rock: Samurai - 'Chippin\u2019 In'\nDrums Rock: Samurai - 'Never Fade Away'\nDrums Rock: Samurai - 'The Ballad of Buck Ravers'\nDrums Rock: Samurai - 'A Like Supreme'\nDrums Rock: Linkin Park - 'In the End'\nDrums Rock: Linkin Park - 'Numb'\nDrums Rock: Linkin Park - 'Faint'\nDrums Rock: Linkin Park - 'Somewhere I Belong'\nDrums Rock: Linkin Park - 'One Step Closer'\nDrums Rock: KANA-BOON - 'Silhouette'\nDrums Rock: TK from Ling tosite sigure - 'unravel'\nDrums Rock: Who-ya Extended - 'VIVID VICE'\nDrums Rock: Yoko Takahashi - 'The Cruel Angel's Thesis'",
@@ -8133,27 +8195,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 9353,
-                    "final": 9103
+                    "final": 9353
                 },
                 "EUR": {
                     "initial": 9353,
-                    "final": 9103
+                    "final": 9353
                 },
                 "GBP": {
                     "initial": 7943,
-                    "final": 7728
+                    "final": 7943
                 },
                 "JPY": {
                     "initial": 1104500,
-                    "final": 1075000
+                    "final": 1104500
                 },
                 "AUD": {
                     "initial": 13865,
-                    "final": 13495
+                    "final": 13865
                 },
                 "CAD": {
                     "initial": 12173,
-                    "final": 11848
+                    "final": 12173
                 }
             }
         }
@@ -8161,8 +8223,8 @@ var extrasData =
     "e3c308ea-6efc-4b98-9b44-6be55424f002": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 38588,
-            "positive": 37278,
+            "total": 38601,
+            "positive": 37291,
             "negative": 1310
         }
     },
@@ -8215,16 +8277,16 @@ var extrasData =
     "15c76d0d-8105-4610-88f7-6aba244a386c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 7475,
-            "positive": 6554,
-            "negative": 921
+            "total": 7486,
+            "positive": 6563,
+            "negative": 923
         }
     },
     "bdba8d9b-7f96-45f4-aee7-4d34b2cc87d4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 820,
-            "positive": 776,
+            "total": 819,
+            "positive": 775,
             "negative": 44
         }
     },
@@ -8247,17 +8309,17 @@ var extrasData =
     "d31aa34f-855c-4566-821d-79a3147aba94": {
         "reviews": {
             "description": "Very Positive",
-            "total": 215,
-            "positive": 206,
+            "total": 216,
+            "positive": 207,
             "negative": 9
         }
     },
     "fc7fbe60-d534-41c6-a566-76eadc6767e1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 13792,
-            "positive": 11791,
-            "negative": 2001
+            "total": 13799,
+            "positive": 11797,
+            "negative": 2002
         },
         "dlc": {
             "description": "Dungeon of the ENDLESS\u2122 - Original Soundtrack\n\nDungeon of the ENDLESS\u2122 - Deep Freeze Add-on\n\nDungeon of the ENDLESS\u2122 - Australium Update\n\nDungeon of the ENDLESS\u2122 - Death Gamble Update\n\nDungeon of the ENDLESS\u2122 - Rescue Team Add-on\n\nDungeon of the ENDLESS\u2122 - Organic Matters Update\n\nDungeon of the ENDLESS\u2122 - Digital Artbook",
@@ -8293,9 +8355,9 @@ var extrasData =
     "e927578c-7d73-47fc-9eed-ee37212a5157": {
         "reviews": {
             "description": "Very Positive",
-            "total": 9368,
-            "positive": 8742,
-            "negative": 626
+            "total": 9373,
+            "positive": 8748,
+            "negative": 625
         },
         "dlc": {
             "description": "Dungreed - Soundtrack",
@@ -8339,8 +8401,8 @@ var extrasData =
     "50faeeb7-afd2-459d-946c-94b9b9b88b5d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2346,
-            "positive": 2063,
+            "total": 2349,
+            "positive": 2066,
             "negative": 283
         },
         "dlc": {
@@ -8415,8 +8477,8 @@ var extrasData =
     "d94de3f2-12b5-49d8-a9d4-005796a1a890": {
         "reviews": {
             "description": "Very Positive",
-            "total": 243,
-            "positive": 223,
+            "total": 245,
+            "positive": 225,
             "negative": 20
         }
     },
@@ -8447,8 +8509,8 @@ var extrasData =
     "01ff5c8f-fd3e-4f7e-a8da-1cc30198ae86": {
         "reviews": {
             "description": "Very Positive",
-            "total": 109,
-            "positive": 101,
+            "total": 110,
+            "positive": 102,
             "negative": 8
         },
         "dlc": {
@@ -8457,27 +8519,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1998,
-                    "final": 1998
+                    "final": 498
                 },
                 "EUR": {
                     "initial": 1998,
-                    "final": 1998
+                    "final": 498
                 },
                 "GBP": {
                     "initial": 1700,
-                    "final": 1700
+                    "final": 424
                 },
                 "JPY": {
                     "initial": 240000,
-                    "final": 240000
+                    "final": 60000
                 },
                 "AUD": {
                     "initial": 2900,
-                    "final": 2900
+                    "final": 724
                 },
                 "CAD": {
                     "initial": 2598,
-                    "final": 2598
+                    "final": 648
                 }
             }
         }
@@ -8485,9 +8547,9 @@ var extrasData =
     "21f58fea-75de-4064-ae4e-38077f538cb8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2212,
-            "positive": 2034,
-            "negative": 178
+            "total": 2214,
+            "positive": 2035,
+            "negative": 179
         }
     },
     "8f9a223b-cd2e-4600-b216-a04d9c68ba0b": {
@@ -8579,9 +8641,9 @@ var extrasData =
     "06af14b9-161b-4d47-bf84-f028fe2a39ca": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1080215,
-            "positive": 1003766,
-            "negative": 76449
+            "total": 1081945,
+            "positive": 1005434,
+            "negative": 76511
         },
         "dlc": {
             "description": "ELDEN RING Shadow of the Erdtree Premium Bundle\n\nELDEN RING Shadow of the Erdtree",
@@ -8617,9 +8679,9 @@ var extrasData =
     "3b1bcce0-4491-4d54-80be-e228791bc27e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 134562,
-            "positive": 110468,
-            "negative": 24094
+            "total": 136524,
+            "positive": 112164,
+            "negative": 24360
         },
         "dlc": {
             "description": "ELDEN RING NIGHTREIGN - Deluxe Upgrade Pack",
@@ -8655,8 +8717,8 @@ var extrasData =
     "2754d0dc-590b-4bdf-bd02-c54467093d8e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2817,
-            "positive": 2437,
+            "total": 2822,
+            "positive": 2442,
             "negative": 380
         },
         "dlc": {
@@ -8693,16 +8755,16 @@ var extrasData =
     "0b47b11d-d98d-4e5b-8b39-4eb176843ba2": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3899,
-            "positive": 2854,
-            "negative": 1045
+            "total": 3906,
+            "positive": 2859,
+            "negative": 1047
         }
     },
     "b015cba1-eddd-4e35-b7ce-21a61a29f7c9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2202,
-            "positive": 1933,
+            "total": 2203,
+            "positive": 1934,
             "negative": 269
         },
         "dlc": {
@@ -8739,9 +8801,9 @@ var extrasData =
     "ad45442a-0cf1-43d2-9f3e-0b08b718e628": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3297,
-            "positive": 2964,
-            "negative": 333
+            "total": 3299,
+            "positive": 2965,
+            "negative": 334
         },
         "dlc": {
             "description": "Electronic Super Joy - Bonus Content Pack!\n\nElectronic Super Joy - A Hot Sticky Mess DLC",
@@ -8793,9 +8855,9 @@ var extrasData =
     "bdd1b48b-2199-4d23-aaa7-fea72ec00c6f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6334,
-            "positive": 5949,
-            "negative": 385
+            "total": 6346,
+            "positive": 5960,
+            "negative": 386
         },
         "dlc": {
             "description": "Ember Knights - Wrath of the Architect\n\nEmber Knights Soundtrack",
@@ -8831,9 +8893,9 @@ var extrasData =
     "9d6b1b9e-fab1-4537-971c-453d147f746a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3774,
-            "positive": 3445,
-            "negative": 329
+            "total": 3789,
+            "positive": 3456,
+            "negative": 333
         },
         "dlc": {
             "description": "En Garde! Soundtrack",
@@ -8869,9 +8931,9 @@ var extrasData =
     "c02ab048-9e97-4dc6-a93e-cad11ae6f613": {
         "reviews": {
             "description": "Very Positive",
-            "total": 40550,
-            "positive": 38100,
-            "negative": 2450
+            "total": 40739,
+            "positive": 38277,
+            "negative": 2462
         },
         "dlc": {
             "description": "ENDER LILIES: Quietus of the Knights Original Soundtrack",
@@ -8907,9 +8969,9 @@ var extrasData =
     "851ac2b3-eb04-409e-be71-af5f0b822e5b": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 14422,
-            "positive": 13770,
-            "negative": 652
+            "total": 14554,
+            "positive": 13898,
+            "negative": 656
         },
         "dlc": {
             "description": "ENDER MAGNOLIA: Bloom in the Mist Soundtrack",
@@ -8945,9 +9007,9 @@ var extrasData =
     "85e5d2d8-bdd0-4df3-8a60-8bc6d01ac0d5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 86443,
-            "positive": 82464,
-            "negative": 3979
+            "total": 86497,
+            "positive": 82512,
+            "negative": 3985
         }
     },
     "f726715b-f46d-49f0-a512-83632d26bdbc": {
@@ -8961,9 +9023,9 @@ var extrasData =
     "fcb2bef9-e847-4390-9c12-6315fa149e3f": {
         "reviews": {
             "description": "Positive",
-            "total": 39,
-            "positive": 39,
-            "negative": 0
+            "total": 41,
+            "positive": 40,
+            "negative": 1
         }
     },
     "44c87004-c152-4aaf-b754-14dd805a978f": {
@@ -9023,17 +9085,17 @@ var extrasData =
     "e5c143b7-7d85-4e59-a0e0-5f7ccaf4922c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 447,
-            "positive": 428,
+            "total": 446,
+            "positive": 427,
             "negative": 19
         }
     },
     "fe3319e1-e122-4154-aa4d-68e29b737606": {
         "reviews": {
             "description": "Very Positive",
-            "total": 268,
-            "positive": 260,
-            "negative": 8
+            "total": 270,
+            "positive": 261,
+            "negative": 9
         },
         "dlc": {
             "description": "ESCHATOS - Arranged Soundtrack\n\nESCHATOS Original Soundtrack (Steam Edition)",
@@ -9041,27 +9103,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1298,
-                    "final": 698
+                    "final": 1298
                 },
                 "EUR": {
                     "initial": 1278,
-                    "final": 688
+                    "final": 1278
                 },
                 "GBP": {
                     "initial": 1098,
-                    "final": 591
+                    "final": 1098
                 },
                 "JPY": {
                     "initial": 139300,
-                    "final": 75400
+                    "final": 139300
                 },
                 "AUD": {
                     "initial": 1929,
-                    "final": 1039
+                    "final": 1929
                 },
                 "CAD": {
                     "initial": 1698,
-                    "final": 913
+                    "final": 1698
                 }
             }
         }
@@ -9115,9 +9177,9 @@ var extrasData =
     "3faa1091-47c1-4144-ae59-e0fbb8bc354c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 13570,
-            "positive": 12921,
-            "negative": 649
+            "total": 13590,
+            "positive": 12942,
+            "negative": 648
         },
         "dlc": {
             "description": "Everhood Soundtrack",
@@ -9125,27 +9187,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 999,
-                    "final": 749
+                    "final": 999
                 },
                 "EUR": {
                     "initial": 999,
-                    "final": 749
+                    "final": 999
                 },
                 "GBP": {
                     "initial": 999,
-                    "final": 749
+                    "final": 999
                 },
                 "JPY": {
                     "initial": 98000,
-                    "final": 73500
+                    "final": 98000
                 },
                 "AUD": {
                     "initial": 1450,
-                    "final": 1087
+                    "final": 1450
                 },
                 "CAD": {
                     "initial": 1099,
-                    "final": 824
+                    "final": 1099
                 }
             }
         }
@@ -9153,9 +9215,9 @@ var extrasData =
     "321e41af-fbc6-4cc3-878a-603004861e12": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2041,
-            "positive": 1526,
-            "negative": 515
+            "total": 2049,
+            "positive": 1532,
+            "negative": 517
         },
         "dlc": {
             "description": "Everhood 2 Soundtrack",
@@ -9191,9 +9253,9 @@ var extrasData =
     "ec4172f6-8262-4146-8924-19a6b37e9f4e": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 11105,
-            "positive": 8726,
-            "negative": 2379
+            "total": 11109,
+            "positive": 8729,
+            "negative": 2380
         },
         "dlc": {
             "description": "EVERSPACE\u2122 - Encounters\n\nEVERSPACE\u2122 - Upgrade to Deluxe Edition",
@@ -9229,8 +9291,8 @@ var extrasData =
     "ac0b410d-20c7-47c7-8ed5-e6291c3f87f9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 468,
-            "positive": 410,
+            "total": 469,
+            "positive": 411,
             "negative": 58
         }
     },
@@ -9313,9 +9375,9 @@ var extrasData =
     "39c14553-79be-4e08-84c6-5fae6c5f862a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4808,
-            "positive": 4332,
-            "negative": 476
+            "total": 4817,
+            "positive": 4340,
+            "negative": 477
         },
         "dlc": {
             "description": "Exo One Soundtrack",
@@ -9351,17 +9413,17 @@ var extrasData =
     "260e26af-4953-4d48-bfc3-a249837abd01": {
         "reviews": {
             "description": "Very Positive",
-            "total": 61,
-            "positive": 59,
+            "total": 62,
+            "positive": 60,
             "negative": 2
         }
     },
     "00330c84-4e4f-4b52-b275-4809596aaf3a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 75,
+            "total": 74,
             "positive": 66,
-            "negative": 9
+            "negative": 8
         }
     },
     "b34df342-e454-4d72-9154-c76a27fd4cd6": {
@@ -9405,9 +9467,9 @@ var extrasData =
     "633ec626-b1a3-4564-a270-2678e627db59": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1430,
-            "positive": 1260,
-            "negative": 170
+            "total": 1434,
+            "positive": 1263,
+            "negative": 171
         },
         "dlc": {
             "description": "Fashion Police Squad Soundtrack",
@@ -9453,27 +9515,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 199,
-                    "final": 99
+                    "final": 199
                 },
                 "EUR": {
                     "initial": 199,
-                    "final": 99
+                    "final": 199
                 },
                 "GBP": {
                     "initial": 159,
-                    "final": 79
+                    "final": 159
                 },
                 "JPY": {
                     "initial": 19800,
-                    "final": 9900
+                    "final": 19800
                 },
                 "AUD": {
                     "initial": 295,
-                    "final": 147
+                    "final": 295
                 },
                 "CAD": {
                     "initial": 219,
-                    "final": 109
+                    "final": 219
                 }
             }
         }
@@ -9481,8 +9543,8 @@ var extrasData =
     "e63469ee-64ba-4f85-9267-eeafe2c8d778": {
         "reviews": {
             "description": "Positive",
-            "total": 38,
-            "positive": 37,
+            "total": 44,
+            "positive": 43,
             "negative": 1
         }
     },
@@ -9497,8 +9559,8 @@ var extrasData =
     "df0fe4d5-269b-4b85-a262-0135597d0a69": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2996,
-            "positive": 2733,
+            "total": 2999,
+            "positive": 2736,
             "negative": 263
         },
         "dlc": {
@@ -9535,8 +9597,8 @@ var extrasData =
     "37770c9d-2600-44f9-aecf-436958019de8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3497,
-            "positive": 3174,
+            "total": 3502,
+            "positive": 3179,
             "negative": 323
         },
         "dlc": {
@@ -9573,9 +9635,9 @@ var extrasData =
     "d82090c5-f478-4fcd-83e0-0e3dc1b946c0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 38926,
-            "positive": 34441,
-            "negative": 4485
+            "total": 39014,
+            "positive": 34516,
+            "negative": 4498
         },
         "dlc": {
             "description": "FINAL FANTASY VII REMAKE Original Soundtrack\n\nFINAL FANTASY VII REMAKE Original Soundtrack Plus\n\nFINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack",
@@ -9611,17 +9673,17 @@ var extrasData =
     "16d16e46-a967-42ae-a82a-d1b42a842356": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 1001,
+            "total": 1000,
             "positive": 749,
-            "negative": 252
+            "negative": 251
         }
     },
     "edaa5e7e-b27a-40d3-a826-2b55fe2b3a33": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1652,
-            "positive": 1475,
-            "negative": 177
+            "total": 1655,
+            "positive": 1479,
+            "negative": 176
         },
         "dlc": {
             "description": "First Cut: Samurai Duel Soundtrack",
@@ -9657,8 +9719,8 @@ var extrasData =
     "55238c9c-5e27-4d1e-a31a-5d397e8b8c8a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 164,
-            "positive": 152,
+            "total": 165,
+            "positive": 153,
             "negative": 12
         }
     },
@@ -9673,17 +9735,17 @@ var extrasData =
     "849b5379-3bdc-4b4a-a786-f916c6ed2022": {
         "reviews": {
             "description": "Very Positive",
-            "total": 15085,
-            "positive": 14000,
-            "negative": 1085
+            "total": 15110,
+            "positive": 14024,
+            "negative": 1086
         }
     },
     "b95b6f0e-dd84-43cd-a483-66099b7604dc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 11803,
-            "positive": 10674,
-            "negative": 1129
+            "total": 11812,
+            "positive": 10681,
+            "negative": 1131
         }
     },
     "e728297f-d814-4440-89ee-2da8dcf9851c": {
@@ -9710,11 +9772,49 @@ var extrasData =
             "negative": 10
         }
     },
+    "792a0967-bb3a-4524-8bc1-1d896d14a216": {
+        "reviews": {
+            "description": "Positive",
+            "total": 10,
+            "positive": 10,
+            "negative": 0
+        },
+        "dlc": {
+            "description": "Fly Me To The Home! Soundtrack",
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 399,
+                    "final": 399
+                },
+                "EUR": {
+                    "initial": 399,
+                    "final": 399
+                },
+                "GBP": {
+                    "initial": 339,
+                    "final": 339
+                },
+                "JPY": {
+                    "initial": 47000,
+                    "final": 47000
+                },
+                "AUD": {
+                    "initial": 595,
+                    "final": 595
+                },
+                "CAD": {
+                    "initial": 499,
+                    "final": 499
+                }
+            }
+        }
+    },
     "c84357b4-5c20-40c9-aab0-164c2462cfcd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 504,
-            "positive": 437,
+            "total": 503,
+            "positive": 436,
             "negative": 67
         },
         "dlc": {
@@ -9767,8 +9867,8 @@ var extrasData =
     "489f3b46-e8fb-4096-b44b-275f2d660c23": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2783,
-            "positive": 2062,
+            "total": 2782,
+            "positive": 2061,
             "negative": 721
         },
         "dlc": {
@@ -9805,9 +9905,9 @@ var extrasData =
     "a3131b96-2f97-4c7f-80f7-b5f18f9282e4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 936,
-            "positive": 865,
-            "negative": 71
+            "total": 938,
+            "positive": 866,
+            "negative": 72
         }
     },
     "46e87e0e-6336-4a94-91a2-7370b03a859d": {
@@ -9875,8 +9975,8 @@ var extrasData =
     "50f1fbd3-aa45-44c7-87c3-94acad04523c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 397,
-            "positive": 377,
+            "total": 398,
+            "positive": 378,
             "negative": 20
         }
     },
@@ -9891,9 +9991,9 @@ var extrasData =
     "30fc3451-ad90-4603-b33e-4606c4783ba5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 125384,
-            "positive": 116066,
-            "negative": 9318
+            "total": 125504,
+            "positive": 116187,
+            "negative": 9317
         },
         "dlc": {
             "description": "Frostpunk: The Rifts\n\nFrostpunk: The Last Autumn\n\nFrostpunk: On The Edge\n\nFrostpunk Original Soundtrack\n\nFrostpunk Digital Artbook\n\nFrostpunk Expansions Original Soundtrack\n\nCircles EP: Frostpunk Edition",
@@ -9967,9 +10067,9 @@ var extrasData =
     "07f1f861-9e2a-4606-966d-bf2b9312348e": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 75788,
-            "positive": 72222,
-            "negative": 3566
+            "total": 75833,
+            "positive": 72259,
+            "negative": 3574
         },
         "dlc": {
             "description": "FTL: Faster Than Light - Soundtrack",
@@ -10013,9 +10113,9 @@ var extrasData =
     "13983ef6-551b-4b56-858a-878c14663746": {
         "reviews": {
             "description": "Very Positive",
-            "total": 13091,
-            "positive": 11805,
-            "negative": 1286
+            "total": 13110,
+            "positive": 11820,
+            "negative": 1290
         },
         "dlc": {
             "description": "Furi - Onnamusha\n\nFuri Original Soundtrack\n\nFuri - Digital Artbook",
@@ -10051,17 +10151,17 @@ var extrasData =
     "9450e816-e85f-4b34-b8ec-993b9daa1ede": {
         "reviews": {
             "description": "Very Positive",
-            "total": 396,
-            "positive": 363,
+            "total": 397,
+            "positive": 364,
             "negative": 33
         }
     },
     "d41ad53d-5994-4092-80ea-6172ab8fed8f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2706,
-            "positive": 2371,
-            "negative": 335
+            "total": 2708,
+            "positive": 2372,
+            "negative": 336
         },
         "dlc": {
             "description": "Fury Unleashed Soundtrack",
@@ -10121,8 +10221,8 @@ var extrasData =
     "d852a7ba-a2e2-4efb-a748-3879708d43f2": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 94,
-            "positive": 74,
+            "total": 95,
+            "positive": 75,
             "negative": 20
         },
         "dlc": {
@@ -10131,27 +10231,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 3996,
-                    "final": 1996
+                    "final": 3996
                 },
                 "EUR": {
                     "initial": 3900,
-                    "final": 1948
+                    "final": 3900
                 },
                 "GBP": {
                     "initial": 3400,
-                    "final": 1700
+                    "final": 3400
                 },
                 "JPY": {
                     "initial": 440000,
-                    "final": 220000
+                    "final": 440000
                 },
                 "AUD": {
                     "initial": 5800,
-                    "final": 2900
+                    "final": 5800
                 },
                 "CAD": {
                     "initial": 5196,
-                    "final": 2596
+                    "final": 5196
                 }
             }
         }
@@ -10167,8 +10267,8 @@ var extrasData =
     "76ee4be2-007a-4df5-a452-a4fb040553e1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 388,
-            "positive": 383,
+            "total": 390,
+            "positive": 385,
             "negative": 5
         },
         "dlc": {
@@ -10205,9 +10305,9 @@ var extrasData =
     "1e2b4f12-228a-4786-8876-f04faba55134": {
         "reviews": {
             "description": "Very Positive",
-            "total": 14652,
-            "positive": 12841,
-            "negative": 1811
+            "total": 14657,
+            "positive": 12844,
+            "negative": 1813
         }
     },
     "44fb7709-ae78-4d42-98db-b5d94f91e365": {
@@ -10267,16 +10367,16 @@ var extrasData =
     "1f67cb6d-926b-4af5-877e-73d3050d4684": {
         "reviews": {
             "description": "Very Positive",
-            "total": 454736,
-            "positive": 423800,
-            "negative": 30936
+            "total": 456281,
+            "positive": 425221,
+            "negative": 31060
         }
     },
     "c2890535-acb2-415a-9b36-36c27394c250": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1535,
-            "positive": 1377,
+            "total": 1536,
+            "positive": 1378,
             "negative": 158
         }
     },
@@ -10329,9 +10429,9 @@ var extrasData =
     "91419d6e-9a44-4990-8b5e-30abdc71c90b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2856,
-            "positive": 2551,
-            "negative": 305
+            "total": 2877,
+            "positive": 2568,
+            "negative": 309
         }
     },
     "fbc64727-02af-4607-8f29-c50d93d8723b": {
@@ -10383,16 +10483,16 @@ var extrasData =
     "00e18e29-db63-44a2-964a-2d51771a5ae3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 78154,
-            "positive": 64381,
-            "negative": 13773
+            "total": 78213,
+            "positive": 64429,
+            "negative": 13784
         }
     },
     "73cccbab-366f-4265-be1d-27beb24d8392": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1291,
-            "positive": 1074,
+            "total": 1298,
+            "positive": 1081,
             "negative": 217
         }
     },
@@ -10407,9 +10507,9 @@ var extrasData =
     "cf5d020d-4a16-4fa0-bfcf-ffb728ae3c14": {
         "reviews": {
             "description": "Very Positive",
-            "total": 63899,
-            "positive": 58390,
-            "negative": 5509
+            "total": 63958,
+            "positive": 58433,
+            "negative": 5525
         },
         "dlc": {
             "description": "Ghostrunner - Project_Hel\n\nGhostrunner - Winter Pack\n\nGhostrunner - Metal OX Pack\n\nGhostrunner - Neon Pack\n\nGhostrunner - Soundtrack\n\nGhostrunner - Digital Artbook\n\nGhostrunner - Halloween Pack",
@@ -10417,27 +10517,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 3993,
-                    "final": 1993
+                    "final": 3993
                 },
                 "EUR": {
                     "initial": 3893,
-                    "final": 1943
+                    "final": 3893
                 },
                 "GBP": {
                     "initial": 3473,
-                    "final": 1733
+                    "final": 3473
                 },
                 "JPY": {
                     "initial": 407200,
-                    "final": 203600
+                    "final": 407200
                 },
                 "AUD": {
                     "initial": 5994,
-                    "final": 2996
+                    "final": 5994
                 },
                 "CAD": {
                     "initial": 5443,
-                    "final": 2718
+                    "final": 5443
                 }
             }
         }
@@ -10445,9 +10545,9 @@ var extrasData =
     "9e2656bd-090a-43d4-992d-49511cd978b1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 9971,
-            "positive": 8021,
-            "negative": 1950
+            "total": 10011,
+            "positive": 8057,
+            "negative": 1954
         },
         "dlc": {
             "description": "Ghostrunner 2 - Season Pass\n\nGhostrunner 2 - Anniversary Pack\n\nGhostrunner 2 - Endless Moto Mode\n\nGhostrunner 2 - Heat Pack\n\nGhostrunner 2 - Dragon Pack\n\nGhostrunner 2 - Ice Pack\n\nGhostrunner 2 Soundtrack",
@@ -10455,27 +10555,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 5293,
-                    "final": 3173
+                    "final": 5293
                 },
                 "EUR": {
                     "initial": 5293,
-                    "final": 3173
+                    "final": 5293
                 },
                 "GBP": {
                     "initial": 4193,
-                    "final": 2513
+                    "final": 4193
                 },
                 "JPY": {
                     "initial": 630000,
-                    "final": 378000
+                    "final": 630000
                 },
                 "AUD": {
                     "initial": 7665,
-                    "final": 4599
+                    "final": 7665
                 },
                 "CAD": {
                     "initial": 6943,
-                    "final": 4163
+                    "final": 6943
                 }
             }
         }
@@ -10483,9 +10583,9 @@ var extrasData =
     "a5785166-0669-4dbf-adc7-72ca73a91449": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 1158,
-            "positive": 912,
-            "negative": 246
+            "total": 1166,
+            "positive": 919,
+            "negative": 247
         },
         "dlc": {
             "description": "Ghosts 'n Goblins Resurrection Original Soundtrack",
@@ -10521,8 +10621,8 @@ var extrasData =
     "f4e2b776-dc1b-4d75-bf12-6b9d688a9277": {
         "reviews": {
             "description": "Very Positive",
-            "total": 91,
-            "positive": 90,
+            "total": 92,
+            "positive": 91,
             "negative": 1
         }
     },
@@ -10613,8 +10713,8 @@ var extrasData =
     "3e990150-eb31-4463-8919-74cfcd824ba7": {
         "reviews": {
             "description": "Mixed",
-            "total": 483,
-            "positive": 278,
+            "total": 484,
+            "positive": 279,
             "negative": 205
         }
     },
@@ -10629,8 +10729,8 @@ var extrasData =
     "81b955a8-1398-4c78-9892-088bb1bcab40": {
         "reviews": {
             "description": "Very Positive",
-            "total": 325,
-            "positive": 293,
+            "total": 326,
+            "positive": 294,
             "negative": 32
         }
     },
@@ -10713,33 +10813,33 @@ var extrasData =
     "acb39d1f-e5d3-4aff-8c87-445e68e33eb6": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 161704,
-            "positive": 155195,
-            "negative": 6509
+            "total": 161967,
+            "positive": 155435,
+            "negative": 6532
         }
     },
     "0da927de-a778-413c-b88d-af505bcb1cd4": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2889,
-            "positive": 2034,
-            "negative": 855
+            "total": 2893,
+            "positive": 2037,
+            "negative": 856
         }
     },
     "1609f25e-60bf-4d3e-8fdc-9daf19b367e3": {
         "reviews": {
             "description": "Mixed",
-            "total": 236,
-            "positive": 153,
+            "total": 237,
+            "positive": 154,
             "negative": 83
         }
     },
     "bd4f1822-cb18-4929-a469-f378c5520214": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3782,
-            "positive": 3437,
-            "negative": 345
+            "total": 3791,
+            "positive": 3444,
+            "negative": 347
         },
         "dlc": {
             "description": "Going Under Soundtrack",
@@ -10775,9 +10875,9 @@ var extrasData =
     "1b8d9991-e77a-46e7-ae22-3b68cb3fa527": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1437,
-            "positive": 1164,
-            "negative": 273
+            "total": 1441,
+            "positive": 1167,
+            "negative": 274
         },
         "dlc": {
             "description": "Golf Club Nostalgia- Main Theme\n\nGolf Club Nostalgia - Wallpapers",
@@ -10813,8 +10913,8 @@ var extrasData =
     "919b0103-d11c-4f8d-aa2e-d0fd1c95a5bc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1353,
-            "positive": 1136,
+            "total": 1354,
+            "positive": 1137,
             "negative": 217
         },
         "dlc": {
@@ -10889,8 +10989,8 @@ var extrasData =
     "57bf2d54-3730-432f-9ae0-801b8a70193f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1322,
-            "positive": 1078,
+            "total": 1323,
+            "positive": 1079,
             "negative": 244
         },
         "dlc": {
@@ -11011,33 +11111,33 @@ var extrasData =
     "95eaae55-9caa-4de7-8e6a-ab02db5f7e0a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 179631,
-            "positive": 148280,
-            "negative": 31351
+            "total": 179994,
+            "positive": 148609,
+            "negative": 31385
         }
     },
     "cfbcee8c-3bf0-4a0b-8a3a-e295bb991a08": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6247,
-            "positive": 5831,
-            "negative": 416
+            "total": 6329,
+            "positive": 5910,
+            "negative": 419
         }
     },
     "4717fa6a-eef6-4144-ba49-ba2714209c1f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1052,
-            "positive": 970,
+            "total": 1054,
+            "positive": 972,
             "negative": 82
         }
     },
     "cf271e89-9171-4ef3-bcb8-756f45fc1a6f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1557,
-            "positive": 1478,
-            "negative": 79
+            "total": 1569,
+            "positive": 1489,
+            "negative": 80
         }
     },
     "56da7817-792e-42cc-9434-9d75073db134": {
@@ -11051,9 +11151,9 @@ var extrasData =
     "9dda4581-5c83-4151-9bc2-cbb9f773a8c7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 676,
-            "positive": 606,
-            "negative": 70
+            "total": 685,
+            "positive": 610,
+            "negative": 75
         },
         "dlc": {
             "description": "Grapple Dog Soundtrack",
@@ -11061,27 +11161,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 599,
-                    "final": 203
+                    "final": 599
                 },
                 "EUR": {
                     "initial": 499,
-                    "final": 169
+                    "final": 499
                 },
                 "GBP": {
                     "initial": 479,
-                    "final": 162
+                    "final": 479
                 },
                 "JPY": {
                     "initial": 62000,
-                    "final": 21000
+                    "final": 62000
                 },
                 "AUD": {
                     "initial": 850,
-                    "final": 289
+                    "final": 850
                 },
                 "CAD": {
                     "initial": 669,
-                    "final": 227
+                    "final": 669
                 }
             }
         }
@@ -11167,8 +11267,8 @@ var extrasData =
     "1cce229f-3004-4d6c-89d1-fc8fd136c897": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8317,
-            "positive": 7071,
+            "total": 8323,
+            "positive": 7077,
             "negative": 1246
         },
         "dlc": {
@@ -11259,9 +11359,9 @@ var extrasData =
     "7d6e2143-b1e6-47f8-8cf6-bdc83d761325": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5932,
-            "positive": 5058,
-            "negative": 874
+            "total": 5944,
+            "positive": 5069,
+            "negative": 875
         },
         "dlc": {
             "description": "GRIME - Soundtrack\n\nGRIME - Score (Ambiances from the Game)",
@@ -11297,9 +11397,9 @@ var extrasData =
     "6b902e87-7795-499f-ad12-920e005afee4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 282,
-            "positive": 262,
-            "negative": 20
+            "total": 285,
+            "positive": 264,
+            "negative": 21
         },
         "dlc": {
             "description": "Grindstone Soundtrack Volume 1\n\nGrindstone Soundtrack Volume 2",
@@ -11335,9 +11435,9 @@ var extrasData =
     "a3f590e7-261b-4ba6-8abf-198bd92c2ecc": {
         "reviews": {
             "description": "Mixed",
-            "total": 1560,
-            "positive": 1050,
-            "negative": 510
+            "total": 1562,
+            "positive": 1051,
+            "negative": 511
         },
         "dlc": {
             "description": "Groove Coaster - Crazy Crazy Dancers\nGroove Coaster - Joker Junko Eienno Junka\nGroove Coaster - Mikakunin Gensou Coaster\nGroove Coaster - Sado Mami Holic\nGroove Coaster - Saisoku Saikou Shutter Girl\nGroove Coaster - Don\u2019t Die\nGroove Coaster - Fermion\nGroove Coaster - glory day\nGroove Coaster - OBLIVION\nGroove Coaster - U.A.D\nGroove Coaster - Captain Murasa [Tracy vs. Astronomical Mix]\nGroove Coaster - (K)Night of (K)Nights  feat. ytr -TOS Remix\nGroove Coaster - Secret God Matara -HYPER TECHNO MIX-\nGroove Coaster - Touhou Gaimaden\nGroove Coaster - GROOVE IT LUCKY (GC Mix)\nGroove Coaster - Itazura Sensation\nGroove Coaster - (K)Night of (K)Nights  Butaotome ver.\nGroove Coaster - Touhou Souchimai\nGroove Coaster - Good Night, Bad Luck.\nGroove Coaster - Groove Prayer -tpz Despair Remix-\nGroove Coaster - QLWA\nGroove Coaster - Satisfiction (Massive New Krew Remix)\nGroove Coaster - Asgore\nGroove Coaster - Bonetrousle\nGroove Coaster - Spider Dance\nGroove Coaster - Your Best Nightmare\nGroove Coaster - HB-axeleration\nGroove Coaster - Invader GIRL!\nGroove Coaster - PIXEL STAR\nGroove Coaster - Sweet Love\nGroove Coaster - Got more raves? -xiRemix-\nGroove Coaster - ouroboros -twin stroke of the end-\nGroove Coaster - Pegasus\nGroove Coaster - VELVET\nGroove Coaster - Finder\nGroove Coaster - Saishuu Kichiku Imouto Flandre S\nGroove Coaster - Scream Out!\nGroove Coaster - Touhou Chishinritsu\nGroove Coaster - FUJIN Rumble\nGroove Coaster - Jukusei Jozo Hakkosei\u25ce-Space Yogurt Earth-\nGroove Coaster - Little Higher\nGroove Coaster - Stratospheric Journey\nGroove Coaster - Crepe\u30fbto\u30fbme.\nGroove Coaster - Heisei Kaisei Dottensyan\nGroove Coaster - Lost Colors\nGroove Coaster - LOVER\u2605POP\nGroove Coaster - Be There\nGroove Coaster - Ignotus\nGroove Coaster - Metallic Punisher\nGroove Coaster - Modelista\nGroove Coaster - Singularity -Binary Enfold-\nGroove Coaster - Initial Initial Echo Ego\nGroove Coaster - Konohazuku\nGroove Coaster - Material of Puppets\nGroove Coaster - White World feat. Yu Oda\nGroove Coaster - Dream Coaster\nGroove Coaster - Help me, ERINNNNNN!! -Cranky remix-\nGroove Coaster - Kyouen\nGroove Coaster - Special Smile\nGroove Coaster - Crimson Phoenix\nGroove Coaster - GLITHCRE\nGroove Coaster - VOLT\nGroove Coaster - Xand-Roid\nGroove Coaster - Namcot Medley\nGroove Coaster - Dragon Spirit Medley\nGroove Coaster - Burning Force Medley\nGroove Coaster - RAVE WAR\nGroove Coaster - JINGAI CRISIS\nGroove Coaster - LOVE FOR YOU\nGroove Coaster - SACRIFICE feat. ayame (GC REFIX)\nGroove Coaster - Reversal Process\nGroove Coaster - CYBER Sparks\nGroove Coaster - ID\nGroove Coaster - Kodo, Koborenu Sake\nGroove Coaster - tete+a+tete\nGroove Coaster - And Then There Were None\nGroove Coaster - Cruel Moon NuMIX\nGroove Coaster - Kakoi naki yowa ichigo no tsukikage\nGroove Coaster - Touhou Onganmu\nGroove Coaster - Captain NEO -Confusion Mix-\nGroove Coaster - COSMIC AIR WAY -Trans Mountain Express MIX-\nGroove Coaster - say PaPa re:mix\nGroove Coaster - VISIONNERZ\nGroove Coaster - Battle Against a True Hero\nGroove Coaster - Death by Glamour\nGroove Coaster - Last Goodbye\nGroove Coaster - MEGALOVANIA\nGroove Coaster - GO BACK 2 YOUR RAVE\nGroove Coaster - B.B.K.K.B.K.K.\nGroove Coaster - BEFORE TEN ORB\nGroove Coaster - BURN ALT AIR\nGroove Coaster - KIKIKAIKAI\nGroove Coaster - DADDY MULK -Groove remix-\nGroove Coaster - freedom\nGroove Coaster - SHINDOI THE RIDE\nGroove Coaster - DOTTED 8TH\nGroove Coaster - Chururi Chururira\nGroove Coaster - Marry me,Nightmare\nGroove Coaster - APELIOTES\nGroove Coaster - Bad Apple!! feat. nomico\nGroove Coaster - Machibito ha kozu\nGroove Coaster - Kodoku na hana\nGroove Coaster - Night of Knights / Knight of Nights",
@@ -11345,27 +11445,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 20497,
-                    "final": 15347
+                    "final": 20497
                 },
                 "EUR": {
                     "initial": 20497,
-                    "final": 15347
+                    "final": 20497
                 },
                 "GBP": {
                     "initial": 17407,
-                    "final": 12978
+                    "final": 17407
                 },
                 "JPY": {
                     "initial": 2101200,
-                    "final": 1575900
+                    "final": 2101200
                 },
                 "AUD": {
                     "initial": 30385,
-                    "final": 22763
+                    "final": 30385
                 },
                 "CAD": {
                     "initial": 26677,
-                    "final": 19982
+                    "final": 26677
                 }
             }
         }
@@ -11373,16 +11473,16 @@ var extrasData =
     "f9417583-4d74-46e4-8472-9365bc694297": {
         "reviews": {
             "description": "Very Positive",
-            "total": 63127,
-            "positive": 53165,
-            "negative": 9962
+            "total": 63178,
+            "positive": 53202,
+            "negative": 9976
         }
     },
     "c11ca766-d7e2-4d88-b7f7-6bf9c296ab24": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3185,
-            "positive": 2904,
+            "total": 3186,
+            "positive": 2905,
             "negative": 281
         },
         "dlc": {
@@ -11419,24 +11519,24 @@ var extrasData =
     "492bafd5-851f-45ed-9d17-126ac4d43e6a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6786,
-            "positive": 6282,
+            "total": 6790,
+            "positive": 6286,
             "negative": 504
         }
     },
     "0586a3e0-735d-4601-a301-40224973fe2d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 429,
-            "positive": 377,
+            "total": 430,
+            "positive": 378,
             "negative": 52
         }
     },
     "451fd27d-d7dd-4a37-a654-1849d5fa81ec": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 7292,
-            "positive": 7020,
+            "total": 7297,
+            "positive": 7025,
             "negative": 272
         }
     },
@@ -11459,8 +11559,8 @@ var extrasData =
     "80decc1f-bef9-40d7-92e5-6da7b26b5d83": {
         "reviews": {
             "description": "Very Positive",
-            "total": 72,
-            "positive": 69,
+            "total": 73,
+            "positive": 70,
             "negative": 3
         }
     },
@@ -11505,9 +11605,9 @@ var extrasData =
     "bd3b5df5-89e7-496d-b1b5-ca2503cf9921": {
         "reviews": {
             "description": "Very Positive",
-            "total": 99790,
-            "positive": 93213,
-            "negative": 6577
+            "total": 99874,
+            "positive": 93296,
+            "negative": 6578
         },
         "dlc": {
             "description": "Gunfire Reborn - Echoes From Primal Grove\n\nGunfire Reborn - Realm of Frost and Inkwash\n\nGunfire Reborn - Artisan and Magician\n\nGunfire Reborn - Visitors of Spirit Realm",
@@ -11543,8 +11643,8 @@ var extrasData =
     "e797cb7a-27c1-49d0-a12b-3fe2d752dbda": {
         "reviews": {
             "description": "Very Positive",
-            "total": 487,
-            "positive": 423,
+            "total": 488,
+            "positive": 424,
             "negative": 64
         },
         "dlc": {
@@ -11553,27 +11653,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 299,
-                    "final": 299
+                    "final": 149
                 },
                 "EUR": {
                     "initial": 299,
-                    "final": 299
+                    "final": 149
                 },
                 "GBP": {
                     "initial": 249,
-                    "final": 249
+                    "final": 124
                 },
                 "JPY": {
                     "initial": 35000,
-                    "final": 35000
+                    "final": 17500
                 },
                 "AUD": {
                     "initial": 450,
-                    "final": 450
+                    "final": 225
                 },
                 "CAD": {
                     "initial": 389,
-                    "final": 389
+                    "final": 194
                 }
             }
         }
@@ -11581,8 +11681,8 @@ var extrasData =
     "80fb883b-230a-4f9a-9637-d42ebe582549": {
         "reviews": {
             "description": "Very Positive",
-            "total": 194,
-            "positive": 179,
+            "total": 198,
+            "positive": 183,
             "negative": 15
         },
         "dlc": {
@@ -11619,16 +11719,16 @@ var extrasData =
     "bc1af358-f54e-4f08-a197-762edebd2d57": {
         "reviews": {
             "description": "Very Positive",
-            "total": 197,
-            "positive": 190,
+            "total": 198,
+            "positive": 191,
             "negative": 7
         }
     },
     "b9b319ef-94f4-4801-ada4-f59db54a1b60": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1024,
-            "positive": 936,
+            "total": 1025,
+            "positive": 937,
             "negative": 88
         }
     },
@@ -11681,9 +11781,9 @@ var extrasData =
     "847d86f5-65c6-4f68-b5a7-ed0c8de895f4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 283494,
-            "positive": 278448,
-            "negative": 5046
+            "total": 283726,
+            "positive": 278673,
+            "negative": 5053
         },
         "dlc": {
             "description": "Hades Original Soundtrack",
@@ -11719,17 +11819,17 @@ var extrasData =
     "e235fb6a-3b7e-42be-ab03-b5834719d9a9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3031,
-            "positive": 2716,
-            "negative": 315
+            "total": 3071,
+            "positive": 2748,
+            "negative": 323
         }
     },
     "6391af2f-26d4-44eb-a685-aeb3575f6825": {
         "reviews": {
             "description": "Very Positive",
-            "total": 244768,
-            "positive": 225978,
-            "negative": 18790
+            "total": 245027,
+            "positive": 226203,
+            "negative": 18824
         },
         "dlc": {
             "description": "Halo: Reach\n\nHalo: Combat Evolved Anniversary\n\nHalo 2: Anniversary\n\nHalo 3\n\nHalo 3: ODST\n\nHalo 4",
@@ -11765,8 +11865,8 @@ var extrasData =
     "f082d3be-6633-4c32-a7ea-870edac5aeb9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 10587,
-            "positive": 9453,
+            "total": 10589,
+            "positive": 9455,
             "negative": 1134
         },
         "dlc": {
@@ -11803,8 +11903,8 @@ var extrasData =
     "6a2aa61b-8919-41c0-a0b6-6c0a68148524": {
         "reviews": {
             "description": "Very Positive",
-            "total": 789,
-            "positive": 692,
+            "total": 786,
+            "positive": 689,
             "negative": 97
         }
     },
@@ -11827,9 +11927,9 @@ var extrasData =
     "2ccddc1f-ab60-4b40-9d22-09c07e943414": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4835,
-            "positive": 3955,
-            "negative": 880
+            "total": 4839,
+            "positive": 3958,
+            "negative": 881
         },
         "dlc": {
             "description": "Hard Reset: Exile DLC",
@@ -11873,9 +11973,9 @@ var extrasData =
     "78861008-9de2-4808-8ae6-2300ede92a07": {
         "reviews": {
             "description": "Very Positive",
-            "total": 23295,
-            "positive": 19434,
-            "negative": 3861
+            "total": 23369,
+            "positive": 19498,
+            "negative": 3871
         },
         "dlc": {
             "description": "Hatred: Subscribe or Die - comic book\n\nHatred : Black Label - comic book",
@@ -11907,9 +12007,9 @@ var extrasData =
     "90675a65-03e1-4bdf-ba97-68f47cd8d30a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 19845,
-            "positive": 18696,
-            "negative": 1149
+            "total": 19898,
+            "positive": 18745,
+            "negative": 1153
         },
         "dlc": {
             "description": "Hatsune Miku: Project DIVA Mega Mix+ Item Unlock Key\n\nHatsune Miku: Project DIVA Mega Mix+ Extra Song Pack",
@@ -11945,9 +12045,9 @@ var extrasData =
     "ddd9c722-8428-44ff-b4dd-ee29c11b28a4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 10063,
-            "positive": 8691,
-            "negative": 1372
+            "total": 10066,
+            "positive": 8695,
+            "negative": 1371
         },
         "dlc": {
             "description": "Have a Nice Death Soundtrack\n\nHave a Nice Death - Digital Artbook",
@@ -12037,9 +12137,9 @@ var extrasData =
     "94243607-ce48-4b1c-bd4b-bf36b4af3b00": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4007,
-            "positive": 3825,
-            "negative": 182
+            "total": 4012,
+            "positive": 3829,
+            "negative": 183
         },
         "dlc": {
             "description": "Heavenly Bodies - Cleanup DLC",
@@ -12075,9 +12175,9 @@ var extrasData =
     "d43820d9-01ce-480a-aca4-3231e1ab24a5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1538,
-            "positive": 1259,
-            "negative": 279
+            "total": 1540,
+            "positive": 1260,
+            "negative": 280
         },
         "dlc": {
             "description": "Heavy Bullets EP - Soundtrack",
@@ -12121,8 +12221,8 @@ var extrasData =
     "84c6f0d2-fd3f-44c1-bb7a-5b02a52f76c9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 320,
-            "positive": 297,
+            "total": 321,
+            "positive": 298,
             "negative": 23
         },
         "dlc": {
@@ -12197,8 +12297,8 @@ var extrasData =
     "20000e35-317d-4f7e-aeb7-6f7c900e0272": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 4343,
-            "positive": 3173,
+            "total": 4344,
+            "positive": 3174,
             "negative": 1170
         },
         "dlc": {
@@ -12273,16 +12373,16 @@ var extrasData =
     "0eabba06-5b60-43d0-9714-e25be97c5547": {
         "reviews": {
             "description": "Very Positive",
-            "total": 219,
-            "positive": 213,
+            "total": 222,
+            "positive": 216,
             "negative": 6
         }
     },
     "e5b91554-215a-41b9-8974-e921044b2081": {
         "reviews": {
             "description": "Very Positive",
-            "total": 379,
-            "positive": 361,
+            "total": 380,
+            "positive": 362,
             "negative": 18
         }
     },
@@ -12335,9 +12435,9 @@ var extrasData =
     "4f4671a5-70e2-41c3-87dc-f93b67ae08c6": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 33700,
-            "positive": 32781,
-            "negative": 919
+            "total": 33731,
+            "positive": 32809,
+            "negative": 922
         },
         "dlc": {
             "description": "Hi-Fi RUSH Deluxe Edition Upgrade Pack\n\nHi-Fi RUSH Original Game Soundtrack\n\nHi-Fi RUSH: Bossplay Costume Pack\n\nHi-Fi RUSH: Teamplay Costume Pack\n\nHi-Fi RUSH: Traditional Garb Costume Pack\n\nHi-Fi RUSH B-Sides",
@@ -12373,17 +12473,17 @@ var extrasData =
     "18f5b9b3-4cd6-4930-82b2-3f732b351038": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 288,
-            "positive": 219,
+            "total": 289,
+            "positive": 220,
             "negative": 69
         }
     },
     "1bfa67c1-e30b-46e7-9e20-4d5608e99c13": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1492,
-            "positive": 1287,
-            "negative": 205
+            "total": 1494,
+            "positive": 1290,
+            "negative": 204
         },
         "dlc": {
             "description": "High Hell Soundtrack by Doseone",
@@ -12419,9 +12519,9 @@ var extrasData =
     "e9703281-3909-40f0-8075-9ddc796536c0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5282,
-            "positive": 4667,
-            "negative": 615
+            "total": 5286,
+            "positive": 4669,
+            "negative": 617
         },
         "dlc": {
             "description": "Hob Official Soundtrack (FLAC+MP3)",
@@ -12457,8 +12557,8 @@ var extrasData =
     "b708fd70-da32-442e-876f-4bdbaec1e923": {
         "reviews": {
             "description": "Very Positive",
-            "total": 797,
-            "positive": 737,
+            "total": 801,
+            "positive": 741,
             "negative": 60
         }
     },
@@ -12473,9 +12573,9 @@ var extrasData =
     "ec1f8e58-b184-496c-a9aa-678876d9dc7b": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 429561,
-            "positive": 416754,
-            "negative": 12807
+            "total": 432700,
+            "positive": 419843,
+            "negative": 12857
         },
         "dlc": {
             "description": "Hollow Knight - Official Soundtrack\n\nHollow Knight - Gods & Nightmares",
@@ -12565,17 +12665,17 @@ var extrasData =
     "c4dbc40a-3f0c-484c-a406-035e9b8eab24": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5918,
-            "positive": 5514,
-            "negative": 404
+            "total": 5921,
+            "positive": 5516,
+            "negative": 405
         }
     },
     "31bfc2a7-3ed7-467a-a46e-15464c3ab44c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 108834,
-            "positive": 105677,
-            "negative": 3157
+            "total": 109074,
+            "positive": 105911,
+            "negative": 3163
         },
         "dlc": {
             "description": "Hotline Miami Soundtrack",
@@ -12611,9 +12711,9 @@ var extrasData =
     "0993071e-dafa-49fb-8351-e7fa2b0d6aa8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 68226,
-            "positive": 64213,
-            "negative": 4013
+            "total": 68411,
+            "positive": 64388,
+            "negative": 4023
         },
         "dlc": {
             "description": "Hotline Miami 2: Wrong Number - Soundtrack",
@@ -12645,8 +12745,8 @@ var extrasData =
     "0fa1244a-8a02-4296-867a-4223fe4885d5": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2224,
-            "positive": 1696,
+            "total": 2228,
+            "positive": 1700,
             "negative": 528
         },
         "dlc": {
@@ -12691,8 +12791,8 @@ var extrasData =
     "450cd83d-5f5e-42b7-b5d7-4c31c681e574": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3827,
-            "positive": 3626,
+            "total": 3837,
+            "positive": 3636,
             "negative": 201
         },
         "dlc": {
@@ -12745,17 +12845,17 @@ var extrasData =
     "a5a57dd8-8dc5-4f83-8438-801321969d41": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3034,
-            "positive": 2860,
-            "negative": 174
+            "total": 3041,
+            "positive": 2866,
+            "negative": 175
         }
     },
     "2fd3b039-1434-4d7d-a22a-5900358fae70": {
         "reviews": {
             "description": "Very Positive",
-            "total": 18010,
-            "positive": 16773,
-            "negative": 1237
+            "total": 18052,
+            "positive": 16808,
+            "negative": 1244
         },
         "dlc": {
             "description": "Hyper Light Drifter Original Soundtrack",
@@ -12829,8 +12929,8 @@ var extrasData =
     "0783e71a-eade-4803-a961-87ae7e277978": {
         "reviews": {
             "description": "Very Positive",
-            "total": 457,
-            "positive": 439,
+            "total": 458,
+            "positive": 440,
             "negative": 18
         }
     },
@@ -12891,16 +12991,16 @@ var extrasData =
     "678ee54f-fdd8-48f9-8ad6-286e3c9715b5": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 5882,
-            "positive": 4564,
+            "total": 5884,
+            "positive": 4566,
             "negative": 1318
         }
     },
     "58f7e1e6-3248-40c2-b7be-5edabf6cdae1": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3136,
-            "positive": 2287,
+            "total": 3148,
+            "positive": 2299,
             "negative": 849
         },
         "dlc": {
@@ -12937,9 +13037,9 @@ var extrasData =
     "f54a5dc4-9e51-4679-bcbf-f93a228d3614": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4170,
-            "positive": 4103,
-            "negative": 67
+            "total": 4209,
+            "positive": 4141,
+            "negative": 68
         },
         "dlc": {
             "description": "I AM YOUR BEATS (Official OST for I Am Your Beast)",
@@ -12983,24 +13083,24 @@ var extrasData =
     "42866274-ca97-4243-9d51-51948f54d68d": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 238,
+            "total": 239,
             "positive": 179,
-            "negative": 59
+            "negative": 60
         }
     },
     "d7a3d2ca-c07f-4aca-b3c2-dac8736795ce": {
         "reviews": {
             "description": "Very Positive",
-            "total": 169,
+            "total": 170,
             "positive": 155,
-            "negative": 14
+            "negative": 15
         }
     },
     "b0c4c8b6-abda-4862-9f8a-b6e4fcb76487": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6650,
-            "positive": 5982,
+            "total": 6653,
+            "positive": 5985,
             "negative": 668
         },
         "dlc": {
@@ -13045,9 +13145,9 @@ var extrasData =
     "cacb7f38-f6a6-4fab-bf4f-b70d9a6ef21c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4774,
-            "positive": 4126,
-            "negative": 648
+            "total": 4783,
+            "positive": 4134,
+            "negative": 649
         },
         "dlc": {
             "description": "Iconoclasts - Soundtrack",
@@ -13055,36 +13155,36 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 899,
-                    "final": 899
+                    "final": 224
                 },
                 "EUR": {
                     "initial": 879,
-                    "final": 879
+                    "final": 219
                 },
                 "GBP": {
                     "initial": 749,
-                    "final": 749
+                    "final": 187
                 },
                 "JPY": {
                     "initial": 100000,
-                    "final": 100000
+                    "final": 25000
                 },
                 "AUD": {
                     "initial": 1319,
-                    "final": 1319
+                    "final": 329
                 },
                 "CAD": {
                     "initial": 1179,
-                    "final": 1179
+                    "final": 294
                 }
             }
         }
     },
     "170a311c-43db-4863-bc61-f063614cd1e1": {
         "reviews": {
-            "description": "1 user reviews",
-            "total": 1,
-            "positive": 1,
+            "description": "2 user reviews",
+            "total": 2,
+            "positive": 2,
             "negative": 0
         },
         "dlc": {
@@ -13159,17 +13259,17 @@ var extrasData =
     "3ad152d0-13e1-4e5c-b4b0-a59f3911a316": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2245,
-            "positive": 2125,
+            "total": 2250,
+            "positive": 2130,
             "negative": 120
         }
     },
     "3f7762c5-f958-4477-ac25-da113acf08e6": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3220,
+            "total": 3219,
             "positive": 2898,
-            "negative": 322
+            "negative": 321
         },
         "dlc": {
             "description": "Immortal Redneck - Original Soundtrack\n\nImmortal Redneck - Digital Artbook",
@@ -13205,9 +13305,9 @@ var extrasData =
     "2a13022c-7098-4ecd-8459-3c93b1ab01cd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 555,
-            "positive": 512,
-            "negative": 43
+            "total": 557,
+            "positive": 513,
+            "negative": 44
         },
         "dlc": {
             "description": "Impaler Gold Soundtrack",
@@ -13259,17 +13359,17 @@ var extrasData =
     "be852ca3-ce4a-483a-8dfa-a45222a62c4e": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3401,
-            "positive": 2413,
-            "negative": 988
+            "total": 3407,
+            "positive": 2416,
+            "negative": 991
         }
     },
     "6ae87bdc-a20f-4309-838a-94d9c33133b1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1480,
-            "positive": 1266,
-            "negative": 214
+            "total": 1491,
+            "positive": 1276,
+            "negative": 215
         },
         "dlc": {
             "description": "Inertial Drift - Twilight Rivals DLC\n\nInertial Drift Soundtrack",
@@ -13305,8 +13405,8 @@ var extrasData =
     "b4ed62be-7552-4fd9-a029-9a8f32c4565f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1575,
-            "positive": 1279,
+            "total": 1576,
+            "positive": 1280,
             "negative": 296
         },
         "dlc": {
@@ -13343,9 +13443,9 @@ var extrasData =
     "f17c151a-241e-4e47-a228-0197849a996d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 966,
-            "positive": 834,
-            "negative": 132
+            "total": 974,
+            "positive": 840,
+            "negative": 134
         },
         "dlc": {
             "description": "Inkulinati - Supporter Pack\n\nInkulinati - Original Soundtrack",
@@ -13353,27 +13453,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 999,
-                    "final": 999
+                    "final": 349
                 },
                 "EUR": {
                     "initial": 999,
-                    "final": 999
+                    "final": 349
                 },
                 "GBP": {
                     "initial": 899,
-                    "final": 899
+                    "final": 314
                 },
                 "JPY": {
                     "initial": 145000,
-                    "final": 145000
+                    "final": 50700
                 },
                 "AUD": {
                     "initial": 1495,
-                    "final": 1495
+                    "final": 523
                 },
                 "CAD": {
                     "initial": 1349,
-                    "final": 1349
+                    "final": 472
                 }
             }
         }
@@ -13402,6 +13502,44 @@ var extrasData =
             "negative": 78
         }
     },
+    "7b40692a-c9cd-4540-9e47-6942fb02c321": {
+        "reviews": {
+            "description": "Overwhelmingly Positive",
+            "total": 135061,
+            "positive": 130860,
+            "negative": 4201
+        },
+        "dlc": {
+            "description": "Inscryption Soundtrack",
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 399,
+                    "final": 399
+                },
+                "EUR": {
+                    "initial": 399,
+                    "final": 399
+                },
+                "GBP": {
+                    "initial": 299,
+                    "final": 299
+                },
+                "JPY": {
+                    "initial": 41000,
+                    "final": 41000
+                },
+                "AUD": {
+                    "initial": 595,
+                    "final": 595
+                },
+                "CAD": {
+                    "initial": 449,
+                    "final": 449
+                }
+            }
+        }
+    },
     "7bd73dc9-f406-4aca-815a-f69dbd9e51b6": {
         "reviews": {
             "description": "Very Positive",
@@ -13413,8 +13551,8 @@ var extrasData =
     "f0106021-568b-4bc0-9fa4-62e1c4e0d8b2": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 895,
-            "positive": 713,
+            "total": 896,
+            "positive": 714,
             "negative": 182
         },
         "dlc": {
@@ -13423,27 +13561,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 999,
-                    "final": 999
+                    "final": 499
                 },
                 "EUR": {
                     "initial": 799,
-                    "final": 799
+                    "final": 399
                 },
                 "GBP": {
                     "initial": 699,
-                    "final": 699
+                    "final": 349
                 },
                 "JPY": {
                     "initial": 110000,
-                    "final": 110000
+                    "final": 55000
                 },
                 "AUD": {
                     "initial": 1399,
-                    "final": 1399
+                    "final": 699
                 },
                 "CAD": {
                     "initial": 1200,
-                    "final": 1200
+                    "final": 600
                 }
             }
         }
@@ -13451,9 +13589,9 @@ var extrasData =
     "0701886d-5002-4850-ae10-d14dd0191403": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4953,
-            "positive": 4463,
-            "negative": 490
+            "total": 4984,
+            "positive": 4486,
+            "negative": 498
         },
         "dlc": {
             "description": "Intravenous Soundtrack",
@@ -13497,9 +13635,9 @@ var extrasData =
     "01cb7f0b-3aa5-450e-9ecc-e7a341597536": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5646,
-            "positive": 5161,
-            "negative": 485
+            "total": 5651,
+            "positive": 5165,
+            "negative": 486
         },
         "dlc": {
             "description": "Invisible, Inc. Contingency Plan\n\nInvisible, Inc. Soundtrack",
@@ -13581,33 +13719,33 @@ var extrasData =
     "4eeaf4a6-cb29-4b4c-85a5-2db67ba1d865": {
         "reviews": {
             "description": "Very Positive",
-            "total": 16426,
-            "positive": 15530,
-            "negative": 896
+            "total": 16430,
+            "positive": 15532,
+            "negative": 898
         }
     },
     "bfe63068-5399-4617-8ffe-263d0cc4b601": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2145,
-            "positive": 2106,
+            "total": 2149,
+            "positive": 2110,
             "negative": 39
         }
     },
     "417acf66-e743-4138-a67b-59058503e262": {
         "reviews": {
             "description": "Very Positive",
-            "total": 378,
+            "total": 379,
             "positive": 342,
-            "negative": 36
+            "negative": 37
         }
     },
     "2a4c0465-9c2f-49d7-8307-22d99ccd9d88": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1322,
-            "positive": 1214,
-            "negative": 108
+            "total": 1324,
+            "positive": 1215,
+            "negative": 109
         }
     },
     "a9ad487a-333e-430a-975d-5c791ffc4c66": {
@@ -13697,8 +13835,8 @@ var extrasData =
     "b03c99b8-1205-42bc-9631-be0be8f9458f": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 941,
-            "positive": 915,
+            "total": 943,
+            "positive": 917,
             "negative": 26
         },
         "dlc": {
@@ -13735,17 +13873,17 @@ var extrasData =
     "7854630c-6075-4ee9-a7d7-ff74e04faa6a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 58,
-            "positive": 53,
+            "total": 59,
+            "positive": 54,
             "negative": 5
         }
     },
     "c4b0b053-a3d4-4141-8e9d-71871353da03": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1111,
-            "positive": 1029,
-            "negative": 82
+            "total": 1115,
+            "positive": 1032,
+            "negative": 83
         }
     },
     "e48b2224-ad9a-4d12-b308-b75c82e8e595": {
@@ -13756,12 +13894,20 @@ var extrasData =
             "negative": 2
         }
     },
+    "01036048-9542-4030-88e8-c427a4237e5e": {
+        "reviews": {
+            "description": "Very Positive",
+            "total": 88,
+            "positive": 77,
+            "negative": 11
+        }
+    },
     "86e01ceb-2f0c-4ba7-8789-595d24cd53b1": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8461,
-            "positive": 6542,
-            "negative": 1919
+            "total": 8465,
+            "positive": 6544,
+            "negative": 1921
         },
         "dlc": {
             "description": "Jotun: Original Soundtrack",
@@ -13769,27 +13915,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 999,
-                    "final": 149
+                    "final": 999
                 },
                 "EUR": {
                     "initial": 975,
-                    "final": 146
+                    "final": 975
                 },
                 "GBP": {
                     "initial": 850,
-                    "final": 127
+                    "final": 850
                 },
                 "JPY": {
                     "initial": 120000,
-                    "final": 18000
+                    "final": 120000
                 },
                 "AUD": {
                     "initial": 1450,
-                    "final": 217
+                    "final": 1450
                 },
                 "CAD": {
                     "initial": 1299,
-                    "final": 194
+                    "final": 1299
                 }
             }
         }
@@ -13835,17 +13981,17 @@ var extrasData =
     "e1d58683-6a0d-4922-95db-9528eb66b85a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3633,
-            "positive": 3189,
+            "total": 3634,
+            "positive": 3190,
             "negative": 444
         }
     },
     "4217e27f-a6c9-4389-b219-8711a25b0886": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12498,
-            "positive": 11254,
-            "negative": 1244
+            "total": 12534,
+            "positive": 11284,
+            "negative": 1250
         },
         "dlc": {
             "description": "Jump King - Soundtrack",
@@ -13943,8 +14089,8 @@ var extrasData =
     "f2571e56-0b55-472d-a318-9c8775c4c5eb": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 23261,
-            "positive": 22689,
+            "total": 23313,
+            "positive": 22741,
             "negative": 572
         },
         "dlc": {
@@ -13953,27 +14099,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 599,
-                    "final": 599
+                    "final": 359
                 },
                 "EUR": {
                     "initial": 499,
-                    "final": 499
+                    "final": 299
                 },
                 "GBP": {
                     "initial": 479,
-                    "final": 479
+                    "final": 287
                 },
                 "JPY": {
                     "initial": 62000,
-                    "final": 62000
+                    "final": 37200
                 },
                 "AUD": {
                     "initial": 850,
-                    "final": 850
+                    "final": 510
                 },
                 "CAD": {
                     "initial": 669,
-                    "final": 669
+                    "final": 401
                 }
             }
         }
@@ -13989,9 +14135,9 @@ var extrasData =
     "f89b05d3-1243-4153-838d-6731208298f5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 632,
-            "positive": 575,
-            "negative": 57
+            "total": 634,
+            "positive": 576,
+            "negative": 58
         },
         "dlc": {
             "description": "Kalimba - The Dark Void - Solo\n\nKalimba - The Dark Void - Coop",
@@ -14028,8 +14174,8 @@ var extrasData =
         "reviews": {
             "description": "Mixed",
             "total": 1235,
-            "positive": 854,
-            "negative": 381
+            "positive": 855,
+            "negative": 380
         },
         "dlc": {
             "description": "KAMITSUBAKI CITY ENSEMBLE - Extension Pack No.4  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.5  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack  feat. V.I.P with V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.6  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.7  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack \"HARDCORE TANO*C Remix\"\nKAMITSUBAKI CITY ENSEMBLE - Season Pass 2024\nKAMITSUBAKI CITY ENSEMBLE -Extension Pack No.1  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.2  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.3  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Season Pass Vol. 2\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.8  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.9  feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack  feat. ASU\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.10  feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extra Pack  feat. ARU\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.11 feat. V.W.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.12 feat. V.I.P\nKAMITSUBAKI CITY ENSEMBLE - Extension Pack No.13 feat. V.W.P",
@@ -14103,25 +14249,25 @@ var extrasData =
     "6f98bdad-bd2e-4861-9e3f-7d7d510cde3e": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 374,
+            "total": 375,
             "positive": 265,
-            "negative": 109
+            "negative": 110
         }
     },
     "2d59032b-6074-4fab-87de-fdd0e31b7b4d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6167,
-            "positive": 5751,
-            "negative": 416
+            "total": 6180,
+            "positive": 5765,
+            "negative": 415
         }
     },
     "1d41d4eb-b72f-42cf-a02c-e356edb5442e": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 72314,
-            "positive": 70885,
-            "negative": 1429
+            "total": 72408,
+            "positive": 70978,
+            "negative": 1430
         },
         "dlc": {
             "description": "Katana ZERO Soundtrack",
@@ -14157,9 +14303,9 @@ var extrasData =
     "bcc69398-dfb1-44a6-89b2-248b101c7035": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 16007,
-            "positive": 15592,
-            "negative": 415
+            "total": 16027,
+            "positive": 15611,
+            "negative": 416
         },
         "dlc": {
             "description": "Keep Talking and Nobody Explodes - Soundtrack",
@@ -14195,8 +14341,8 @@ var extrasData =
     "57bcb19c-1a43-4156-b66e-1d950a622006": {
         "reviews": {
             "description": "Very Positive",
-            "total": 15583,
-            "positive": 14338,
+            "total": 15601,
+            "positive": 14356,
             "negative": 1245
         },
         "dlc": {
@@ -14233,8 +14379,8 @@ var extrasData =
     "a095da2a-05c7-419a-b4bd-9890bcb5b937": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1452,
-            "positive": 1361,
+            "total": 1453,
+            "positive": 1362,
             "negative": 91
         },
         "dlc": {
@@ -14271,9 +14417,9 @@ var extrasData =
     "2ba9d050-5da3-47df-8878-6f54ecb2da7a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1917,
-            "positive": 1736,
-            "negative": 181
+            "total": 1923,
+            "positive": 1741,
+            "negative": 182
         },
         "dlc": {
             "description": "KeyWe - The 100th Grand Ol' Telepost Tournament\n\nKeyWe - Early Bird Pack",
@@ -14317,9 +14463,9 @@ var extrasData =
     "64312957-bbd9-4476-9146-5834a97690e5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1661,
-            "positive": 1565,
-            "negative": 96
+            "total": 1678,
+            "positive": 1581,
+            "negative": 97
         },
         "dlc": {
             "description": "KILL KNIGHT Original Soundtrack",
@@ -14355,9 +14501,9 @@ var extrasData =
     "fa3112dd-e6ec-4406-8cbd-9c2bc9f1221d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2411,
-            "positive": 2287,
-            "negative": 124
+            "total": 2437,
+            "positive": 2310,
+            "negative": 127
         }
     },
     "50002fa2-2d45-4455-8879-59d3380b77f4": {
@@ -14371,8 +14517,8 @@ var extrasData =
     "6e2f3ac9-588f-40f9-b006-f9c91b1e55b4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 464,
-            "positive": 453,
+            "total": 466,
+            "positive": 455,
             "negative": 11
         }
     },
@@ -14395,24 +14541,24 @@ var extrasData =
     "46d964eb-3baa-471a-9df4-55c99e4cef55": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1290,
-            "positive": 1231,
-            "negative": 59
+            "total": 1303,
+            "positive": 1243,
+            "negative": 60
         }
     },
     "e223bcdd-30ff-424f-b4a8-267ab235f285": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8022,
-            "positive": 6768,
-            "negative": 1254
+            "total": 8077,
+            "positive": 6817,
+            "negative": 1260
         }
     },
     "3163bac7-6291-4a10-8e21-df8b2a116f88": {
         "reviews": {
             "description": "Positive",
-            "total": 24,
-            "positive": 22,
+            "total": 25,
+            "positive": 23,
             "negative": 2
         },
         "dlc": {
@@ -14421,27 +14567,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 399,
-                    "final": 399
+                    "final": 119
                 },
                 "EUR": {
                     "initial": 399,
-                    "final": 399
+                    "final": 119
                 },
                 "GBP": {
                     "initial": 339,
-                    "final": 339
+                    "final": 101
                 },
                 "JPY": {
                     "initial": 47000,
-                    "final": 47000
+                    "final": 14100
                 },
                 "AUD": {
                     "initial": 595,
-                    "final": 595
+                    "final": 178
                 },
                 "CAD": {
                     "initial": 499,
-                    "final": 499
+                    "final": 149
                 }
             }
         }
@@ -14495,16 +14641,16 @@ var extrasData =
     "ebae404f-0ea1-4b51-b624-949bc0c90aef": {
         "reviews": {
             "description": "Very Positive",
-            "total": 228,
-            "positive": 215,
+            "total": 229,
+            "positive": 216,
             "negative": 13
         }
     },
     "445c29a1-2357-4d51-8157-3a27aa77c8c5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 658,
-            "positive": 563,
+            "total": 657,
+            "positive": 562,
             "negative": 95
         }
     },
@@ -14521,27 +14667,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 299,
-                    "final": 104
+                    "final": 299
                 },
                 "EUR": {
                     "initial": 299,
-                    "final": 104
+                    "final": 299
                 },
                 "GBP": {
                     "initial": 209,
-                    "final": 73
+                    "final": 209
                 },
                 "JPY": {
                     "initial": 31000,
-                    "final": 10800
+                    "final": 31000
                 },
                 "AUD": {
                     "initial": 450,
-                    "final": 157
+                    "final": 450
                 },
                 "CAD": {
                     "initial": 339,
-                    "final": 118
+                    "final": 339
                 }
             }
         }
@@ -14557,9 +14703,9 @@ var extrasData =
     "081c5f7d-b5c1-4f4d-9fa6-6eeafda71c20": {
         "reviews": {
             "description": "Very Positive",
-            "total": 36176,
-            "positive": 33608,
-            "negative": 2568
+            "total": 36282,
+            "positive": 33708,
+            "negative": 2574
         },
         "dlc": {
             "description": "KovaaK's Anime Pack\n\nKovaaK's Tracking Trainer",
@@ -14671,8 +14817,8 @@ var extrasData =
     "33dad5f5-db18-408f-b85f-466cd20653c7": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2493,
-            "positive": 1987,
+            "total": 2494,
+            "positive": 1988,
             "negative": 506
         },
         "dlc": {
@@ -14709,8 +14855,8 @@ var extrasData =
     "b02ef375-b497-497f-b254-80247634e1d6": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1002,
-            "positive": 862,
+            "total": 1003,
+            "positive": 863,
             "negative": 140
         },
         "dlc": {
@@ -14747,16 +14893,16 @@ var extrasData =
     "3f17a484-790f-4f15-860e-164585c93a75": {
         "reviews": {
             "description": "Positive",
-            "total": 29,
-            "positive": 27,
+            "total": 30,
+            "positive": 28,
             "negative": 2
         }
     },
     "1abf89db-7a49-4493-a866-ad6bb3f403b5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2110,
-            "positive": 2022,
+            "total": 2112,
+            "positive": 2024,
             "negative": 88
         },
         "dlc": {
@@ -14793,8 +14939,8 @@ var extrasData =
     "b834061d-34b8-4c73-8017-d65780e2ead3": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2781,
-            "positive": 1982,
+            "total": 2784,
+            "positive": 1985,
             "negative": 799
         },
         "dlc": {
@@ -14877,24 +15023,24 @@ var extrasData =
     "bb4ce5e7-6d78-4a89-8fbd-97cbd46904d3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 419,
-            "positive": 386,
+            "total": 420,
+            "positive": 387,
             "negative": 33
         }
     },
     "44db292a-ff55-4549-8708-5e256eb68636": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6065,
-            "positive": 5714,
+            "total": 6067,
+            "positive": 5716,
             "negative": 351
         }
     },
     "c416132f-7098-435f-b752-523da1a3cda5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 6461,
-            "positive": 6264,
+            "total": 6463,
+            "positive": 6266,
             "negative": 197
         },
         "dlc": {
@@ -14931,8 +15077,8 @@ var extrasData =
     "3fa0356b-f027-48e6-8923-d279b6e65b7b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1022,
-            "positive": 960,
+            "total": 1021,
+            "positive": 959,
             "negative": 62
         },
         "dlc": {
@@ -15015,9 +15161,9 @@ var extrasData =
     "a2f42487-5b7f-4427-bbb3-cd7a047d6031": {
         "reviews": {
             "description": "Very Positive",
-            "total": 64109,
-            "positive": 58932,
-            "negative": 5177
+            "total": 64605,
+            "positive": 59380,
+            "negative": 5225
         },
         "dlc": {
             "description": "Lies of P: Overture\n\nLies of P: Prince of Krat Cosmetics Pack\n\nLies of P : Soundtrack",
@@ -15053,8 +15199,8 @@ var extrasData =
     "29fad05c-e3dd-4eb4-9a61-c8e4bce1a47b": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2420,
-            "positive": 2322,
+            "total": 2422,
+            "positive": 2324,
             "negative": 98
         }
     },
@@ -15069,9 +15215,9 @@ var extrasData =
     "646379a8-6012-4091-9488-61c6e090c963": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3544,
-            "positive": 2716,
-            "negative": 828
+            "total": 3546,
+            "positive": 2717,
+            "negative": 829
         }
     },
     "8c6551c6-e391-46c6-a028-db438c2e6ef0": {
@@ -15153,41 +15299,41 @@ var extrasData =
     "dac3414d-7f7f-4903-a33b-eb6a13ffd032": {
         "reviews": {
             "description": "Very Positive",
-            "total": 144,
-            "positive": 144,
+            "total": 146,
+            "positive": 146,
             "negative": 0
         }
     },
     "0c503c16-eadc-44a9-97a2-10ce32aab0ff": {
         "reviews": {
             "description": "Very Positive",
-            "total": 58294,
-            "positive": 53916,
-            "negative": 4378
+            "total": 58378,
+            "positive": 53989,
+            "negative": 4389
         }
     },
     "d699c43c-dee3-422e-a48f-0827db4afa3d": {
         "reviews": {
             "description": "Positive",
-            "total": 11,
+            "total": 12,
             "positive": 11,
-            "negative": 0
+            "negative": 1
         }
     },
     "5a89f6cf-656d-4c5c-845f-ce0efd5a7c7a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 677,
-            "positive": 636,
+            "total": 680,
+            "positive": 639,
             "negative": 41
         }
     },
     "f8532223-4bd9-4da4-965b-d48aef58df94": {
         "reviews": {
             "description": "Very Positive",
-            "total": 112015,
-            "positive": 106164,
-            "negative": 5851
+            "total": 112130,
+            "positive": 106273,
+            "negative": 5857
         },
         "dlc": {
             "description": "Little Nightmares - Secrets of The Maw Expansion Pass\n\nLittle Nightmares The Depths DLC\n\nLittle Nightmares The Hideaway DLC\n\nLittle Nightmares The Residence DLC\n\nLittle Nightmares - Scarecrow Sack\n\nLittle Nightmares - Upside-down Teapot\n\nLittle Nightmares - Tengu Mask\n\nLittle Nightmares - Fox Mask\n\nLittle Nightmares \u2013 Original Soundtrack",
@@ -15223,9 +15369,9 @@ var extrasData =
     "67c55dc9-3856-4d3d-829a-6dec2715a96a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2008,
-            "positive": 1858,
-            "negative": 150
+            "total": 2015,
+            "positive": 1864,
+            "negative": 151
         },
         "dlc": {
             "description": "Little Noah: Scion of Paradise DLC 1: Avatar, Lilliput, and Accessory Pack\n\n\u30ea\u30c8\u30eb \u30ce\u30a2\u3000\u697d\u5712\u306e\u5f8c\u7d99\u8005\u3000DLC\u7b2c2\u5f3e \u30a2\u30cb\u30de\u30fb\u30a2\u30b9\u30c8\u30e9\u30eb\u30fb\u30a2\u30af\u30bb\u30b5\u30ea\u30d1\u30c3\u30af",
@@ -15261,9 +15407,9 @@ var extrasData =
     "dc9e2542-0e9d-448c-94cd-dc388826e419": {
         "reviews": {
             "description": "Very Positive",
-            "total": 9886,
-            "positive": 8339,
-            "negative": 1547
+            "total": 9888,
+            "positive": 8340,
+            "negative": 1548
         },
         "dlc": {
             "description": "Little Witch Nobeta Collector's Edition (Digital)\n\nLittle Witch Nobeta Original Soundtrack\n\nLittle Witch Nobeta - Bunny & Bear Muppet Skin Bundle\n\nLittle Witch Nobeta - Midnight Kitty, Chinese Dress & Nurse Skin Bundle\n\nLittle Witch Nobeta - Dragon Princess, Knitted Uniform & Land Mine Girl Skin Bundle",
@@ -15299,17 +15445,17 @@ var extrasData =
     "b4f611f8-60ff-4d7d-b2b8-b173333d7ea1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1027,
-            "positive": 865,
+            "total": 1029,
+            "positive": 867,
             "negative": 162
         }
     },
     "13a9fa4e-a31e-40f7-a12c-e0311f8f209d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2814,
-            "positive": 2556,
-            "negative": 258
+            "total": 2818,
+            "positive": 2558,
+            "negative": 260
         },
         "dlc": {
             "description": "Lonely Mountains: Downhill - Eldfjall Island\n\nLonely Mountains: Downhill - Soundtrack\n\nLonely Mountains: Downhill - Riley's Return\n\nLonely Mountains: Downhill - Misty Peak\n\nLonely Mountains: Downhill - Rivera's Revenge\n\nLonely Mountains: Downhill - Redmoor Falls",
@@ -15345,9 +15491,9 @@ var extrasData =
     "bb08f5c7-ac2c-4ba5-a101-14299a5826b5": {
         "reviews": {
             "description": "Mixed",
-            "total": 43887,
-            "positive": 29207,
-            "negative": 14680
+            "total": 44173,
+            "positive": 29409,
+            "negative": 14764
         },
         "dlc": {
             "description": "Lords of the Fallen - Legendary Pack\n\nLords of the Fallen - Dark Crusader Starting Class",
@@ -15383,9 +15529,9 @@ var extrasData =
     "1911cbc7-33a1-4c08-9cf7-10ba362b133e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2418,
-            "positive": 2278,
-            "negative": 140
+            "total": 2434,
+            "positive": 2295,
+            "negative": 139
         },
         "dlc": {
             "description": "Lorelei and the Laser Eyes - Original Soundtrack",
@@ -15393,27 +15539,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 999,
-                    "final": 999
+                    "final": 749
                 },
                 "EUR": {
                     "initial": 929,
-                    "final": 929
+                    "final": 696
                 },
                 "GBP": {
                     "initial": 799,
-                    "final": 799
+                    "final": 599
                 },
                 "JPY": {
                     "initial": 135000,
-                    "final": 135000
+                    "final": 101200
                 },
                 "AUD": {
                     "initial": 1495,
-                    "final": 1495
+                    "final": 1121
                 },
                 "CAD": {
                     "initial": 1349,
-                    "final": 1349
+                    "final": 1011
                 }
             }
         }
@@ -15429,25 +15575,25 @@ var extrasData =
     "da7c5dc4-861a-4b46-b6fb-6f1a91185667": {
         "reviews": {
             "description": "Very Positive",
-            "total": 177,
-            "positive": 145,
+            "total": 180,
+            "positive": 148,
             "negative": 32
         }
     },
     "d019971d-d4e4-4578-96bd-4dc991a9326b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 246,
-            "positive": 203,
+            "total": 247,
+            "positive": 204,
             "negative": 43
         }
     },
     "e856964a-bf6c-4552-9da8-49ae596ce9ef": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 81,
+            "total": 82,
             "positive": 64,
-            "negative": 17
+            "negative": 18
         }
     },
     "f5d6c619-aa00-41f9-a2cc-665bb11270ba": {
@@ -15469,9 +15615,9 @@ var extrasData =
     "20389b02-9741-4456-afcf-f605bcf90075": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5495,
-            "positive": 4709,
-            "negative": 786
+            "total": 5503,
+            "positive": 4714,
+            "negative": 789
         }
     },
     "f918d346-5a60-4a8e-a707-d1c465689d2b": {
@@ -15553,8 +15699,8 @@ var extrasData =
     "b4a79b58-82e7-4e67-b811-ec4d30835f08": {
         "reviews": {
             "description": "Very Positive",
-            "total": 212,
-            "positive": 203,
+            "total": 213,
+            "positive": 204,
             "negative": 9
         },
         "dlc": {
@@ -15629,9 +15775,9 @@ var extrasData =
     "387739c8-9a21-470c-be07-34768aa55be0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2678,
-            "positive": 2425,
-            "negative": 253
+            "total": 2676,
+            "positive": 2422,
+            "negative": 254
         },
         "dlc": {
             "description": "Lovely Planet OST",
@@ -15675,9 +15821,9 @@ var extrasData =
     "46cea5ca-0787-494c-8cef-558f327b76b0": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 152,
+            "total": 151,
             "positive": 115,
-            "negative": 37
+            "negative": 36
         }
     },
     "515aeb2f-bee8-4a17-a4f3-e55016217e3e": {
@@ -15691,8 +15837,8 @@ var extrasData =
     "90954c44-0e5c-433e-876f-a06f609d2b17": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4437,
-            "positive": 4029,
+            "total": 4438,
+            "positive": 4030,
             "negative": 408
         }
     },
@@ -15775,33 +15921,33 @@ var extrasData =
     "fc978e2a-14ab-4687-939f-8222899613d3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12764,
-            "positive": 10919,
-            "negative": 1845
+            "total": 12766,
+            "positive": 10918,
+            "negative": 1848
         }
     },
     "9c6729e1-7044-4ed3-a5ac-e8f2eb2f6e3f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 268,
-            "positive": 236,
-            "negative": 32
+            "total": 270,
+            "positive": 237,
+            "negative": 33
         }
     },
     "529c285f-771d-4f16-9043-2be7cdf226f1": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 144,
-            "positive": 110,
+            "total": 145,
+            "positive": 111,
             "negative": 34
         }
     },
     "1d009b6d-1d85-41d1-b9ee-aeb5338581b1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 659,
-            "positive": 598,
-            "negative": 61
+            "total": 664,
+            "positive": 602,
+            "negative": 62
         },
         "dlc": {
             "description": "MagiCat Original Soundtrack",
@@ -15837,8 +15983,8 @@ var extrasData =
     "d6a93fb3-6321-4e8a-b80c-9ef11775088c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 599,
-            "positive": 542,
+            "total": 598,
+            "positive": 541,
             "negative": 57
         },
         "dlc": {
@@ -15875,16 +16021,16 @@ var extrasData =
     "d39341ae-7e98-41e9-98b7-fe1b4784cb09": {
         "reviews": {
             "description": "Very Positive",
-            "total": 931,
-            "positive": 873,
-            "negative": 58
+            "total": 937,
+            "positive": 878,
+            "negative": 59
         }
     },
     "4b204d8e-2d76-4dd2-86fa-266bb56ab535": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 858,
-            "positive": 829,
+            "total": 860,
+            "positive": 831,
             "negative": 29
         },
         "dlc": {
@@ -15921,8 +16067,8 @@ var extrasData =
     "eebc13de-78ce-47d3-8ca8-eb4d03cb8bd6": {
         "reviews": {
             "description": "Very Positive",
-            "total": 211,
-            "positive": 187,
+            "total": 212,
+            "positive": 188,
             "negative": 24
         },
         "dlc": {
@@ -15959,8 +16105,8 @@ var extrasData =
     "28c9d825-595c-4ed0-ab98-33cbc0785576": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1037,
-            "positive": 962,
+            "total": 1036,
+            "positive": 961,
             "negative": 75
         }
     },
@@ -16013,16 +16159,16 @@ var extrasData =
     "d0406ec0-8b86-4516-8a09-deb9c6ab055b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 534,
-            "positive": 505,
+            "total": 537,
+            "positive": 508,
             "negative": 29
         }
     },
     "42633477-6588-4243-8feb-0662dff7cea9": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 387,
-            "positive": 304,
+            "total": 388,
+            "positive": 305,
             "negative": 83
         },
         "dlc": {
@@ -16059,16 +16205,16 @@ var extrasData =
     "e1c2e037-de07-47a3-9bd1-3e30cc98f235": {
         "reviews": {
             "description": "Very Positive",
-            "total": 58133,
-            "positive": 50362,
-            "negative": 7771
+            "total": 58259,
+            "positive": 50472,
+            "negative": 7787
         }
     },
     "e28f6d20-4d96-4e90-8b18-5bb49d369370": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4656,
-            "positive": 4164,
+            "total": 4662,
+            "positive": 4170,
             "negative": 492
         },
         "dlc": {
@@ -16105,9 +16251,9 @@ var extrasData =
     "419fc861-8c46-456b-8936-f5916a31d462": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4878,
-            "positive": 4199,
-            "negative": 679
+            "total": 4884,
+            "positive": 4204,
+            "negative": 680
         },
         "dlc": {
             "description": "Mega Man Sound Collection\n\nMega Man 2 Sound Collection\n\nMega Man 3 Sound Collection\n\nMega Man 4 Sound Collection\n\nMega Man 5 Sound Collection\n\nMega Man 6 Sound Collection",
@@ -16143,9 +16289,9 @@ var extrasData =
     "f8517c43-8de2-4e71-89d2-f0065dee36fa": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1565,
-            "positive": 1323,
-            "negative": 242
+            "total": 1572,
+            "positive": 1326,
+            "negative": 246
         },
         "dlc": {
             "description": "Mega Man 7 Sound Collection\n\nMega Man 8 Sound Collection\n\nMega Man 9 Sound Collection\n\nMega Man 10 Sound Collection",
@@ -16181,9 +16327,9 @@ var extrasData =
     "a27109df-3c27-410e-9947-915d2634a866": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2468,
+            "total": 2467,
             "positive": 1869,
-            "negative": 599
+            "negative": 598
         },
         "dlc": {
             "description": "Mega Man Zero/ZX Legacy Collection - Mega Man Zero/ZX Reploid Remixes\n\nMega Man ZX Advent Original Soundtrack\n\nMega Man ZX Original Soundtrack\n\nMega Man Zero 4 Original Soundtrack\n\nMega Man Zero 3 Original Soundtrack\n\nMega Man Zero 2 Original Soundtrack\n\nMega Man Zero Original Soundtrack",
@@ -16219,9 +16365,9 @@ var extrasData =
     "463f2415-71d9-4ccb-8569-86f623401530": {
         "reviews": {
             "description": "Very Positive",
-            "total": 7330,
-            "positive": 6961,
-            "negative": 369
+            "total": 7339,
+            "positive": 6968,
+            "negative": 371
         }
     },
     "55372512-755d-4848-92fa-2731a45b5857": {
@@ -16235,33 +16381,33 @@ var extrasData =
     "b3e7f083-fc7d-459f-b564-850580aa4958": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 85040,
-            "positive": 81652,
-            "negative": 3388
+            "total": 85146,
+            "positive": 81756,
+            "negative": 3390
         }
     },
     "1040f54f-9ccb-4e28-8777-2a757bb0d4f5": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3680,
-            "positive": 2896,
-            "negative": 784
+            "total": 3697,
+            "positive": 2914,
+            "negative": 783
         }
     },
     "a69e3192-3ee0-45b2-8c90-86e724f63837": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2793,
-            "positive": 2427,
-            "negative": 366
+            "total": 2816,
+            "positive": 2448,
+            "negative": 368
         }
     },
     "1be7132e-148b-4a74-bd2f-e0d3f407246e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4564,
-            "positive": 4076,
-            "negative": 488
+            "total": 4575,
+            "positive": 4086,
+            "negative": 489
         },
         "dlc": {
             "description": "METAL SLUG Soundtrack",
@@ -16297,9 +16443,9 @@ var extrasData =
     "5d6f2e97-7218-4376-b14d-33f4f011f78f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3626,
-            "positive": 3195,
-            "negative": 431
+            "total": 3636,
+            "positive": 3202,
+            "negative": 434
         },
         "dlc": {
             "description": "METAL SLUG X Soundtrack",
@@ -16335,9 +16481,9 @@ var extrasData =
     "30e16434-716d-4b76-8bff-07c4c8be170e": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 16020,
-            "positive": 15373,
-            "negative": 647
+            "total": 16038,
+            "positive": 15390,
+            "negative": 648
         },
         "dlc": {
             "description": "Metal: Hellsinger - Dream of the Beast\n\nMetal: Hellsinger - Purgatory\n\nMetal: Hellsinger - Essential Hits Pack",
@@ -16457,9 +16603,9 @@ var extrasData =
     "78309f28-e4f1-4bec-b3ed-cfa63122ee29": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2416,
-            "positive": 2159,
-            "negative": 257
+            "total": 2435,
+            "positive": 2174,
+            "negative": 261
         },
         "dlc": {
             "description": "Midnight Fight Express Soundtrack",
@@ -16467,27 +16613,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 799,
-                    "final": 559
+                    "final": 799
                 },
                 "EUR": {
                     "initial": 799,
-                    "final": 559
+                    "final": 799
                 },
                 "GBP": {
                     "initial": 649,
-                    "final": 454
+                    "final": 649
                 },
                 "JPY": {
                     "initial": 79000,
-                    "final": 55300
+                    "final": 79000
                 },
                 "AUD": {
                     "initial": 1195,
-                    "final": 836
+                    "final": 1195
                 },
                 "CAD": {
                     "initial": 1099,
-                    "final": 769
+                    "final": 1099
                 }
             }
         }
@@ -16533,24 +16679,24 @@ var extrasData =
     "71d059f5-c6f4-4eed-bde2-b044d190179d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 76,
-            "positive": 71,
+            "total": 77,
+            "positive": 72,
             "negative": 5
         }
     },
     "f6462444-2797-4ad1-b9c6-839671a9e551": {
         "reviews": {
             "description": "Very Positive",
-            "total": 66,
-            "positive": 62,
+            "total": 67,
+            "positive": 63,
             "negative": 4
         }
     },
     "dcd63490-9800-4ec4-a4ef-dd570240f7c3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 479,
-            "positive": 472,
+            "total": 483,
+            "positive": 476,
             "negative": 7
         }
     },
@@ -16619,16 +16765,16 @@ var extrasData =
     "aea1d4db-a91c-440a-9cf5-7415fa36f280": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 15859,
-            "positive": 15240,
-            "negative": 619
+            "total": 15874,
+            "positive": 15254,
+            "negative": 620
         }
     },
     "3abab330-f9dd-40ce-9454-1ea0410ef1c9": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21960,
-            "positive": 21130,
+            "total": 21997,
+            "positive": 21167,
             "negative": 830
         }
     },
@@ -16651,24 +16797,24 @@ var extrasData =
     "eb8c9910-a3cf-4f4d-b768-7fffcdd86308": {
         "reviews": {
             "description": "Very Positive",
-            "total": 112,
-            "positive": 102,
+            "total": 111,
+            "positive": 101,
             "negative": 10
         }
     },
     "bca5df9f-22ef-4bfa-9ebb-3edeb1759b78": {
         "reviews": {
             "description": "Very Positive",
-            "total": 262,
-            "positive": 257,
+            "total": 263,
+            "positive": 258,
             "negative": 5
         }
     },
     "8c92197d-249b-4446-8636-c758779463a9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4966,
-            "positive": 4556,
+            "total": 4968,
+            "positive": 4558,
             "negative": 410
         },
         "dlc": {
@@ -16713,9 +16859,9 @@ var extrasData =
     "f2b43481-5675-4785-b27f-5596893c2207": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2825,
-            "positive": 2603,
-            "negative": 222
+            "total": 2828,
+            "positive": 2605,
+            "negative": 223
         },
         "dlc": {
             "description": "Momodora: Moonlit Farewell Official Soundtrack",
@@ -16751,9 +16897,9 @@ var extrasData =
     "971e23ef-f40f-4f50-aa9f-ba5ccf4e6d91": {
         "reviews": {
             "description": "Very Positive",
-            "total": 11307,
-            "positive": 10553,
-            "negative": 754
+            "total": 11318,
+            "positive": 10563,
+            "negative": 755
         },
         "dlc": {
             "description": "Momodora: Reverie Under the Moonlight OST",
@@ -16789,8 +16935,8 @@ var extrasData =
     "6abf7a67-82ad-4843-95e1-38f51fda347c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 22103,
-            "positive": 21207,
+            "total": 22118,
+            "positive": 21222,
             "negative": 896
         },
         "dlc": {
@@ -16827,8 +16973,8 @@ var extrasData =
     "7d71c6b0-5ffe-4c5e-b8dd-6e44ef803a96": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3537,
-            "positive": 3206,
+            "total": 3538,
+            "positive": 3207,
             "negative": 331
         },
         "dlc": {
@@ -16903,9 +17049,9 @@ var extrasData =
     "869b0b40-e4c8-404e-8648-0b4ec86a55ed": {
         "reviews": {
             "description": "Mixed",
-            "total": 10246,
-            "positive": 6956,
-            "negative": 3290
+            "total": 10291,
+            "positive": 6977,
+            "negative": 3314
         },
         "dlc": {
             "description": "Mortal Shell: The Virtuous Cycle",
@@ -16979,8 +17125,8 @@ var extrasData =
     "02b0f595-281d-41a4-93ba-98dc669c2c17": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2122,
-            "positive": 1691,
+            "total": 2127,
+            "positive": 1696,
             "negative": 431
         },
         "dlc": {
@@ -17033,8 +17179,8 @@ var extrasData =
     "f24bff96-21a9-4af2-93b1-da948b0f9e6a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1693,
-            "positive": 1493,
+            "total": 1694,
+            "positive": 1494,
             "negative": 200
         },
         "dlc": {
@@ -17079,8 +17225,8 @@ var extrasData =
     "49138677-18a3-4238-9c44-f8bd35503fe4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 124,
-            "positive": 113,
+            "total": 125,
+            "positive": 114,
             "negative": 11
         },
         "dlc": {
@@ -17155,9 +17301,9 @@ var extrasData =
     "6b161c1c-20f1-4e47-a951-d6cb48c7398a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 116280,
-            "positive": 106139,
-            "negative": 10141
+            "total": 116352,
+            "positive": 106207,
+            "negative": 10145
         },
         "dlc": {
             "description": "Muse Dash - Muse Plus",
@@ -17193,8 +17339,8 @@ var extrasData =
     "5c38966c-a509-46ec-b09a-8289bb8f655c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1445,
-            "positive": 1400,
+            "total": 1447,
+            "positive": 1402,
             "negative": 45
         },
         "dlc": {
@@ -17203,27 +17349,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1996,
-                    "final": 1596
+                    "final": 1996
                 },
                 "EUR": {
                     "initial": 1996,
-                    "final": 1596
+                    "final": 1996
                 },
                 "GBP": {
                     "initial": 1716,
-                    "final": 1372
+                    "final": 1716
                 },
                 "JPY": {
                     "initial": 202800,
-                    "final": 162000
+                    "final": 202800
                 },
                 "AUD": {
                     "initial": 3000,
-                    "final": 2400
+                    "final": 3000
                 },
                 "CAD": {
                     "initial": 2596,
-                    "final": 2076
+                    "final": 2596
                 }
             }
         }
@@ -17269,9 +17415,9 @@ var extrasData =
     "4faaba0b-c835-4e53-91c6-619e562cd145": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6341,
-            "positive": 5654,
-            "negative": 687
+            "total": 6339,
+            "positive": 5653,
+            "negative": 686
         },
         "dlc": {
             "description": "MUSYNX - Forever Friends\n\nMUSYNX - Stage Theme\n\nMUSYNX - HOUSE THEME\n\nMUSYNX - Japanese Cyber Theme\n\nMUSYNX -  Universe Theme\n\nMUSYNX - BGA PACKAGE\n\nMUSYNX - Shooting Game Theme",
@@ -17307,8 +17453,8 @@ var extrasData =
     "3a59669d-3cef-4e91-8cd0-62f50d01c0d4": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 612,
-            "positive": 456,
+            "total": 613,
+            "positive": 457,
             "negative": 156
         }
     },
@@ -17361,9 +17507,9 @@ var extrasData =
     "8f312ee6-38f3-4661-ad28-79393fae123a": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 27788,
-            "positive": 26598,
-            "negative": 1190
+            "total": 27803,
+            "positive": 26612,
+            "negative": 1191
         },
         "dlc": {
             "description": "My Friend Pedro Soundtrack",
@@ -17399,24 +17545,24 @@ var extrasData =
     "1b3b090a-625f-40a4-9c61-c5f73fa3f430": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3244,
-            "positive": 3040,
+            "total": 3247,
+            "positive": 3043,
             "negative": 204
         }
     },
     "b30d6b97-43d0-4a18-b620-cc2f631c986b": {
         "reviews": {
-            "description": "7 user reviews",
-            "total": 7,
-            "positive": 7,
+            "description": "8 user reviews",
+            "total": 8,
+            "positive": 8,
             "negative": 0
         }
     },
     "2d1e8f62-de86-45a4-878b-7a6ca0522ebc": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 926,
-            "positive": 883,
+            "total": 932,
+            "positive": 889,
             "negative": 43
         },
         "dlc": {
@@ -17425,27 +17571,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 299,
-                    "final": 224
+                    "final": 299
                 },
                 "EUR": {
                     "initial": 299,
-                    "final": 224
+                    "final": 299
                 },
                 "GBP": {
                     "initial": 249,
-                    "final": 186
+                    "final": 249
                 },
                 "JPY": {
                     "initial": 35000,
-                    "final": 26200
+                    "final": 35000
                 },
                 "AUD": {
                     "initial": 450,
-                    "final": 337
+                    "final": 450
                 },
                 "CAD": {
                     "initial": 389,
-                    "final": 291
+                    "final": 389
                 }
             }
         }
@@ -17485,9 +17631,9 @@ var extrasData =
     "0576f721-9be1-4f9d-b296-6cb4627caf51": {
         "reviews": {
             "description": "Very Positive",
-            "total": 23291,
-            "positive": 20051,
-            "negative": 3240
+            "total": 23310,
+            "positive": 20066,
+            "negative": 3244
         },
         "dlc": {
             "description": "Neon Abyss - Lovable Rogues Pack\n\nNeon Abyss - Alter Ego\n\nNeon Abyss Soundtrack\n\nNeon Abyss - Chrono Trap",
@@ -17495,27 +17641,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1496,
-                    "final": 746
+                    "final": 1496
                 },
                 "EUR": {
                     "initial": 1496,
-                    "final": 746
+                    "final": 1496
                 },
                 "GBP": {
                     "initial": 1206,
-                    "final": 601
+                    "final": 1206
                 },
                 "JPY": {
                     "initial": 154500,
-                    "final": 77200
+                    "final": 154500
                 },
                 "AUD": {
                     "initial": 2235,
-                    "final": 1116
+                    "final": 2235
                 },
                 "CAD": {
                     "initial": 1728,
-                    "final": 862
+                    "final": 1728
                 }
             }
         }
@@ -17523,9 +17669,9 @@ var extrasData =
     "23dfa792-591a-4f55-99ae-1c34180b22c8": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 18235,
-            "positive": 17895,
-            "negative": 340
+            "total": 18269,
+            "positive": 17926,
+            "negative": 343
         },
         "dlc": {
             "description": "Neon White - Original Soundtrack",
@@ -17533,27 +17679,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 999,
-                    "final": 999
+                    "final": 499
                 },
                 "EUR": {
                     "initial": 929,
-                    "final": 929
+                    "final": 464
                 },
                 "GBP": {
                     "initial": 799,
-                    "final": 799
+                    "final": 399
                 },
                 "JPY": {
                     "initial": 135000,
-                    "final": 135000
+                    "final": 67500
                 },
                 "AUD": {
                     "initial": 1495,
-                    "final": 1495
+                    "final": 747
                 },
                 "CAD": {
                     "initial": 1349,
-                    "final": 1349
+                    "final": 674
                 }
             }
         }
@@ -17561,8 +17707,8 @@ var extrasData =
     "aea1e6f9-a0fc-40e4-beb6-d962e65538b7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 729,
-            "positive": 646,
+            "total": 728,
+            "positive": 645,
             "negative": 83
         }
     },
@@ -17615,17 +17761,17 @@ var extrasData =
     "7c27ea8d-ad3c-4a61-888b-6fe8519a0e2a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2134,
-            "positive": 1856,
+            "total": 2136,
+            "positive": 1858,
             "negative": 278
         }
     },
     "22575e2e-e226-4dab-86c5-45c6f35e1abb": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2954,
+            "total": 2955,
             "positive": 2612,
-            "negative": 342
+            "negative": 343
         }
     },
     "41d71ad7-e281-46d7-a552-bfb683750416": {
@@ -17639,9 +17785,9 @@ var extrasData =
     "6bc41790-c17f-416a-b1d8-2422f76c303c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 31633,
-            "positive": 30060,
-            "negative": 1573
+            "total": 31819,
+            "positive": 30234,
+            "negative": 1585
         },
         "dlc": {
             "description": "Nine Sols Soundtrack\n\nNine Sols Digital Art Book",
@@ -17677,9 +17823,9 @@ var extrasData =
     "11eeab09-8572-4555-b182-343fa0539b3a": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 102,
+            "total": 103,
             "positive": 73,
-            "negative": 29
+            "negative": 30
         }
     },
     "ae24fb3e-43a7-41c9-aa64-6c51ec5f805e": {
@@ -17723,17 +17869,17 @@ var extrasData =
     "629e1cf8-eb2e-482e-a933-2a45a1ba4306": {
         "reviews": {
             "description": "Very Positive",
-            "total": 46751,
-            "positive": 41019,
-            "negative": 5732
+            "total": 46874,
+            "positive": 41117,
+            "negative": 5757
         }
     },
     "ceeb091a-405b-40b0-a436-3337d90859a2": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 35607,
-            "positive": 28376,
-            "negative": 7231
+            "total": 35649,
+            "positive": 28410,
+            "negative": 7239
         }
     },
     "3ac6028f-ba9c-46de-89b1-5f69494d6295": {
@@ -17777,16 +17923,16 @@ var extrasData =
     "6ddb8e2a-8a88-41be-b588-de5a276086c8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 129,
-            "positive": 118,
+            "total": 128,
+            "positive": 117,
             "negative": 11
         }
     },
     "39f6d210-1320-49ca-8038-964cc4fe4ad8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 125,
-            "positive": 118,
+            "total": 126,
+            "positive": 119,
             "negative": 7
         },
         "dlc": {
@@ -17823,9 +17969,9 @@ var extrasData =
     "0c10c492-c431-41fb-9fbf-89526130b3f4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 80655,
-            "positive": 76806,
-            "negative": 3849
+            "total": 80870,
+            "positive": 77003,
+            "negative": 3867
         },
         "dlc": {
             "description": "Noita Official Soundtrack",
@@ -17861,9 +18007,9 @@ var extrasData =
     "bb5ed3a9-e649-4977-873c-5a2230c12b93": {
         "reviews": {
             "description": "Very Positive",
-            "total": 106,
+            "total": 107,
             "positive": 90,
-            "negative": 16
+            "negative": 17
         },
         "dlc": {
             "description": "\u300e\u9b3c\u592a\u90ce\u8a95\u751f \u30b2\u30b2\u30b2\u306e\u8b0e\u300f\u30b3\u30e9\u30dc\u30b3\u30b9\u30c1\u30e5\u30fc\u30e0\uff08\u9b3c\u592a\u90ce\u306e\u7236\u30fb\u6c34\u6728\uff09\n\n\u30ce\u30ed\u30a4\u30ab\u30b4 \u30b2\u30b2\u30b2\u306e\u591c Original Soundtrack",
@@ -17915,8 +18061,8 @@ var extrasData =
     "3f2b2f4f-e6a2-495b-8337-a73680c83e66": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2030,
-            "positive": 1765,
+            "total": 2031,
+            "positive": 1766,
             "negative": 265
         }
     },
@@ -17931,9 +18077,9 @@ var extrasData =
     "560f90ca-7cc0-421e-8082-41cd3e178827": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 18163,
-            "positive": 17461,
-            "negative": 702
+            "total": 18178,
+            "positive": 17475,
+            "negative": 703
         },
         "dlc": {
             "description": "Nuclear Throne - Original Soundtrack by Jukio Kallio",
@@ -17969,9 +18115,9 @@ var extrasData =
     "a088700a-9de9-4e92-9ecd-b2ecb9df66c9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1675,
-            "positive": 1506,
-            "negative": 169
+            "total": 1685,
+            "positive": 1515,
+            "negative": 170
         },
         "dlc": {
             "description": "Nyaruru Soundtrack",
@@ -17979,27 +18125,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 399,
-                    "final": 339
+                    "final": 399
                 },
                 "EUR": {
                     "initial": 399,
-                    "final": 339
+                    "final": 399
                 },
                 "GBP": {
                     "initial": 339,
-                    "final": 288
+                    "final": 339
                 },
                 "JPY": {
                     "initial": 47000,
-                    "final": 39900
+                    "final": 47000
                 },
                 "AUD": {
                     "initial": 595,
-                    "final": 505
+                    "final": 595
                 },
                 "CAD": {
                     "initial": 499,
-                    "final": 424
+                    "final": 499
                 }
             }
         }
@@ -18099,9 +18245,9 @@ var extrasData =
     "247f746b-b7e9-49c6-a430-98f78fce2876": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3524,
-            "positive": 3020,
-            "negative": 504
+            "total": 3531,
+            "positive": 3025,
+            "negative": 506
         },
         "dlc": {
             "description": "Oddworld: New 'n' Tasty - Alf's Escape DLC\n\nOddworld: New 'n' Tasty - Scrub Abe Costume\n\nOddworld: New 'n' Tasty - Official Soundtrack\n\nOddworld: Abe's Oddysee - Official Soundtrack\n\nOddworld: New 'n' Tasty - 720p Movies Pack",
@@ -18287,27 +18433,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 299,
-                    "final": 299
+                    "final": 209
                 },
                 "EUR": {
                     "initial": 279,
-                    "final": 279
+                    "final": 195
                 },
                 "GBP": {
                     "initial": 239,
-                    "final": 239
+                    "final": 167
                 },
                 "JPY": {
                     "initial": 33000,
-                    "final": 33000
+                    "final": 23100
                 },
                 "AUD": {
                     "initial": 449,
-                    "final": 449
+                    "final": 314
                 },
                 "CAD": {
                     "initial": 389,
-                    "final": 389
+                    "final": 272
                 }
             }
         }
@@ -18315,8 +18461,8 @@ var extrasData =
     "f53c019a-7478-40ab-847b-75f74483cae0": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 16292,
-            "positive": 15955,
+            "total": 16295,
+            "positive": 15958,
             "negative": 337
         }
     },
@@ -18341,27 +18487,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 299,
-                    "final": 119
+                    "final": 299
                 },
                 "EUR": {
                     "initial": 299,
-                    "final": 119
+                    "final": 299
                 },
                 "GBP": {
                     "initial": 249,
-                    "final": 99
+                    "final": 249
                 },
                 "JPY": {
                     "initial": 35000,
-                    "final": 14000
+                    "final": 35000
                 },
                 "AUD": {
                     "initial": 450,
-                    "final": 180
+                    "final": 450
                 },
                 "CAD": {
                     "initial": 389,
-                    "final": 155
+                    "final": 389
                 }
             }
         }
@@ -18377,9 +18523,9 @@ var extrasData =
     "742a51d5-e5f1-4d80-84fb-08bd0ea13a32": {
         "reviews": {
             "description": "Very Positive",
-            "total": 7478,
-            "positive": 6982,
-            "negative": 496
+            "total": 7491,
+            "positive": 6993,
+            "negative": 498
         },
         "dlc": {
             "description": "One Step From Eden Soundtrack",
@@ -18469,8 +18615,8 @@ var extrasData =
     "a59989ce-0420-46f9-8546-aad3750f34b7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 454,
-            "positive": 439,
+            "total": 456,
+            "positive": 441,
             "negative": 15
         }
     },
@@ -18515,17 +18661,17 @@ var extrasData =
     "5ab3d9ae-a1e6-4606-b6a7-207b9c304ee7": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1410,
-            "positive": 1390,
+            "total": 1420,
+            "positive": 1400,
             "negative": 20
         }
     },
     "1f710a58-25f6-4f40-aab1-efa9c88874c5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 67834,
-            "positive": 64588,
-            "negative": 3246
+            "total": 67881,
+            "positive": 64633,
+            "negative": 3248
         },
         "dlc": {
             "description": "Ori and the Blind Forest (Original Soundtrack)\n\nOri and the Blind Forest (Additional Soundtrack)",
@@ -18561,9 +18707,9 @@ var extrasData =
     "2330b737-ee21-4c36-a282-e3730553d457": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 138302,
-            "positive": 133528,
-            "negative": 4774
+            "total": 138411,
+            "positive": 133630,
+            "negative": 4781
         },
         "dlc": {
             "description": "Ori and the Will of the Wisps Soundtrack",
@@ -18599,9 +18745,9 @@ var extrasData =
     "f0cd2fd5-dee7-47d2-9fe2-cddc5ec77138": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3514,
-            "positive": 3265,
-            "negative": 249
+            "total": 3523,
+            "positive": 3273,
+            "negative": 250
         },
         "dlc": {
             "description": "OTXO Soundtrack",
@@ -18638,8 +18784,8 @@ var extrasData =
         "reviews": {
             "description": "Very Positive",
             "total": 733,
-            "positive": 600,
-            "negative": 133
+            "positive": 599,
+            "negative": 134
         },
         "dlc": {
             "description": "Our Darker Purpose - Soundtrack",
@@ -18683,9 +18829,9 @@ var extrasData =
     "dbb075b3-a4cf-46ca-ae81-db8a8fee0a20": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 127443,
-            "positive": 122917,
-            "negative": 4526
+            "total": 127637,
+            "positive": 123102,
+            "negative": 4535
         },
         "dlc": {
             "description": "Outlast: Whistleblower DLC",
@@ -18721,9 +18867,9 @@ var extrasData =
     "ea50306a-12d2-4654-889d-b37ea20407bc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 58474,
-            "positive": 53324,
-            "negative": 5150
+            "total": 58606,
+            "positive": 53434,
+            "negative": 5172
         }
     },
     "9ef9628e-6f00-43e1-9ade-ea6b831776db": {
@@ -18737,9 +18883,9 @@ var extrasData =
     "cb546dc4-30ca-46fe-bcdb-d648df1e8462": {
         "reviews": {
             "description": "Very Positive",
-            "total": 15317,
-            "positive": 13826,
-            "negative": 1491
+            "total": 15316,
+            "positive": 13824,
+            "negative": 1492
         },
         "dlc": {
             "description": "Overcooked - The Lost Morsel",
@@ -18775,9 +18921,9 @@ var extrasData =
     "535d2f2f-ed84-4d60-92e6-1059440eee17": {
         "reviews": {
             "description": "Very Positive",
-            "total": 74844,
-            "positive": 67829,
-            "negative": 7015
+            "total": 75071,
+            "positive": 68028,
+            "negative": 7043
         },
         "dlc": {
             "description": "Overcooked! 2 - Season Pass\n\nOvercooked! 2 - Night of the Hangry Horde\n\nOvercooked! 2 - Carnival of Chaos\n\nOvercooked! 2 - Campfire Cook Off\n\nOvercooked! 2 - Surf 'n' Turf\n\nOvercooked! 2 - Too Many Cooks Pack",
@@ -18859,8 +19005,8 @@ var extrasData =
     "9d88ce61-8497-4053-a9b7-a8f7a71acc80": {
         "reviews": {
             "description": "Very Positive",
-            "total": 123,
-            "positive": 110,
+            "total": 124,
+            "positive": 111,
             "negative": 13
         },
         "dlc": {
@@ -18869,27 +19015,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 798,
-                    "final": 798
+                    "final": 278
                 },
                 "EUR": {
                     "initial": 798,
-                    "final": 798
+                    "final": 278
                 },
                 "GBP": {
                     "initial": 678,
-                    "final": 678
+                    "final": 237
                 },
                 "JPY": {
                     "initial": 93000,
-                    "final": 93000
+                    "final": 32500
                 },
                 "AUD": {
                     "initial": 1200,
-                    "final": 1200
+                    "final": 419
                 },
                 "CAD": {
                     "initial": 1038,
-                    "final": 1038
+                    "final": 363
                 }
             }
         }
@@ -18935,9 +19081,9 @@ var extrasData =
     "5dca4b83-b275-46b5-bef5-8b0f9bee0e07": {
         "reviews": {
             "description": "Very Positive",
-            "total": 237,
+            "total": 238,
             "positive": 202,
-            "negative": 35
+            "negative": 36
         }
     },
     "cb971599-b1a0-4feb-a4d2-0c665fa99242": {
@@ -18951,17 +19097,17 @@ var extrasData =
     "3f305891-7f81-43be-8aa4-a23bfa646cec": {
         "reviews": {
             "description": "Mixed",
-            "total": 2341,
-            "positive": 1635,
-            "negative": 706
+            "total": 2347,
+            "positive": 1638,
+            "negative": 709
         }
     },
     "69c28740-3189-4de7-8c5b-cf805f12ac22": {
         "reviews": {
             "description": "Very Positive",
-            "total": 41836,
-            "positive": 36173,
-            "negative": 5663
+            "total": 41849,
+            "positive": 36183,
+            "negative": 5666
         }
     },
     "06dafbb9-81a3-4621-b1a6-4ea40e95ad6f": {
@@ -18975,9 +19121,9 @@ var extrasData =
     "841a87d2-da4f-436b-ada8-1d4ba520ef97": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 30241,
-            "positive": 28997,
-            "negative": 1244
+            "total": 30290,
+            "positive": 29042,
+            "negative": 1248
         },
         "dlc": {
             "description": "Paint the Town Red VR\n\nPaint the Town Red Soundtrack",
@@ -19105,9 +19251,9 @@ var extrasData =
     "fe6b2222-24d0-4c29-94a5-000eeb62dee2": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2680,
-            "positive": 2509,
-            "negative": 171
+            "total": 2683,
+            "positive": 2511,
+            "negative": 172
         },
         "dlc": {
             "description": "Patch Quest - Original Soundtrack",
@@ -19191,27 +19337,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 599,
-                    "final": 299
+                    "final": 599
                 },
                 "EUR": {
                     "initial": 599,
-                    "final": 299
+                    "final": 599
                 },
                 "GBP": {
                     "initial": 479,
-                    "final": 239
+                    "final": 479
                 },
                 "JPY": {
                     "initial": 62000,
-                    "final": 31000
+                    "final": 62000
                 },
                 "AUD": {
                     "initial": 850,
-                    "final": 425
+                    "final": 850
                 },
                 "CAD": {
                     "initial": 669,
-                    "final": 334
+                    "final": 669
                 }
             }
         }
@@ -19219,8 +19365,8 @@ var extrasData =
     "ec8c1228-59d5-42d0-a7c6-2284540feef3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 831,
-            "positive": 745,
+            "total": 833,
+            "positive": 747,
             "negative": 86
         },
         "dlc": {
@@ -19257,12 +19403,12 @@ var extrasData =
     "557c467d-243c-4179-9fc9-6256f3cc071a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 664352,
-            "positive": 595573,
+            "total": 664407,
+            "positive": 595628,
             "negative": 68779
         },
         "dlc": {
-            "description": "PAYDAY 2: Crude Awakening Heist\nPAYDAY 2: Chinatown Music Pack\nPAYDAY 2: McShay Weapon Pack 4\nPAYDAY 2: Lawless Tailor Pack\nPAYDAY 2: Hostile Takeover Heist\nPAYDAY 2: McShay Weapon Pack 3\nPAYDAY 2: McShay Mod Pack\nPAYDAY 2: Street Smart Tailor Pack\nPAYDAY 2: Lost in Transit Heist\nPAYDAY 2: McShay Weapon Pack 2\nPAYDAY 2: High Octane Tailor Pack\nPAYDAY 2: Tijuana Music Pack\nPAYDAY 2: Midland Ranch Heist\nPAYDAY 2: McShay Weapon Pack\nPAYDAY 2: Southbound Tailor Pack\nPAYDAY 2: Mountain Master Heist\nPAYDAY 2: Golden Dagger Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 4\nPAYDAY 2: Winter Ghosts Tailor Pack\nPAYDAY 2: Black Cat Heist\nPAYDAY 2: Mega City Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 3\nPAYDAY 2: The Ukrainian Prisoner Heist\nPAYDAY 2: Guardians Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 2\nPAYDAY 2: Dragon Pack\nPAYDAY 2: Jiu Feng Smuggler Pack\nPAYDAY 2: Buluc's Mansion Heist\nPAYDAY 2: Tailor Pack 3\nPAYDAY 2: Weapon Color Pack 3\nPAYDAY 2: Gunslinger Weapon Pack\nPAYDAY 2: Breakfast in Tijuana Heist\nPAYDAY 2: Weapon Color Pack 2\nPAYDAY 2: Fugitive Weapon Pack\nPAYDAY 2: San Mart\u00edn Bank Heist\nPAYDAY 2: Federales Weapon Pack\nPAYDAY 2: Tailor Pack 2\nPAYDAY 2: Weapon Color Pack 1\nPAYDAY 2 VR\nPAYDAY 2: Border Crossing Heist\nPAYDAY 2: Cartel Optics Mod Pack\nPAYDAY 2: h3h3 Character Pack\nPAYDAY 2: Tailor Pack 1\nPAYDAY 2: Gage Russian Weapon Pack\nPAYDAY 2: Scarface Heist\nPAYDAY 2: Gage Spec Ops Pack\nPAYDAY 2: The Biker Heist\nPAYDAY 2: Biker Character Pack\nPAYDAY 2: Sydney Character Pack\nPAYDAY 2: Wolf Pack\nPAYDAY 2: The Goat Simulator Heist\nPAYDAY 2: Gage Chivalry Pack\nPAYDAY 2: Yakuza Character Pack\nPAYDAY 2: Gage Ninja Pack\nPAYDAY 2: Sokol Character Pack\nPAYDAY 2: The Golden Grin Casino Heist\nPAYDAY 2: The Alesso Heist\nPAYDAY 2: The OVERKILL B-Sides Soundtrack\nPAYDAY 2: The Butcher's Western Pack\nPAYDAY 2: The Butcher's BBQ Pack\nPAYDAY 2: The Butcher's AK/CAR Mod Pack\nPAYDAY 2: The OVERKILL Pack\nPAYDAY 2: Dragan Character Pack\nPAYDAY 2: The Bomb Heists\nPAYDAY 2: Clover Character Pack\nPAYDAY 2: The Diamond Heist\nPAYDAY 2: Gage Historical Pack\nPAYDAY 2: Hotline Miami\nPAYDAY 2: Gage Assault Pack\nPAYDAY 2: Gage Shotgun Pack\nPAYDAY 2: The Big Bank Heist\nPAYDAY 2: Gage Sniper Pack\nPAYDAY 2: Gage Mod Courier\nPAYDAY 2: Gage Weapon Pack #02\nPAYDAY 2: A Merry Payday Christmas Soundtrack\nPAYDAY 2: Gage Weapon Pack #01\nPAYDAY 2: Armored Transport\nPAYDAY 2: The Official Soundtrack",
+            "description": "PAYDAY 2: Crude Awakening Heist\nPAYDAY 2: Chinatown Music Pack\nPAYDAY 2: McShay Weapon Pack 4\nPAYDAY 2: Lawless Tailor Pack\nPAYDAY 2: Hostile Takeover Heist\nPAYDAY 2: McShay Weapon Pack 3\nPAYDAY 2: McShay Mod Pack\nPAYDAY 2: Street Smart Tailor Pack\nPAYDAY 2: Lost in Transit Heist\nPAYDAY 2: McShay Weapon Pack 2\nPAYDAY 2: High Octane Tailor Pack\nPAYDAY 2: Tijuana Music Pack\nPAYDAY 2: Midland Ranch Heist\nPAYDAY 2: McShay Weapon Pack\nPAYDAY 2: Southbound Tailor Pack\nPAYDAY 2: Mountain Master Heist\nPAYDAY 2: Golden Dagger Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 4\nPAYDAY 2: Winter Ghosts Tailor Pack\nPAYDAY 2: Black Cat Heist\nPAYDAY 2: Mega City Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 3\nPAYDAY 2: The Ukrainian Prisoner Heist\nPAYDAY 2: Guardians Tailor Pack\nPAYDAY 2: Jiu Feng Smuggler Pack 2\nPAYDAY 2: Dragon Pack\nPAYDAY 2: Jiu Feng Smuggler Pack\nPAYDAY 2: Buluc's Mansion Heist\nPAYDAY 2: Tailor Pack 3\nPAYDAY 2: Weapon Color Pack 3\nPAYDAY 2: Gunslinger Weapon Pack\nPAYDAY 2: Breakfast in Tijuana Heist\nPAYDAY 2: Weapon Color Pack 2\nPAYDAY 2: Fugitive Weapon Pack\nPAYDAY 2: San Mart\u00edn Bank Heist\nPAYDAY 2: Federales Weapon Pack\nPAYDAY 2: Tailor Pack 2\nPAYDAY 2: Weapon Color Pack 1\nPAYDAY 2: Border Crossing Heist\nPAYDAY 2: Cartel Optics Mod Pack\nPAYDAY 2: h3h3 Character Pack\nPAYDAY 2: Tailor Pack 1\nPAYDAY 2: Gage Russian Weapon Pack\nPAYDAY 2: Scarface Heist\nPAYDAY 2: Gage Spec Ops Pack\nPAYDAY 2: The Biker Heist\nPAYDAY 2: Biker Character Pack\nPAYDAY 2: Sydney Character Pack\nPAYDAY 2: Wolf Pack\nPAYDAY 2: The Goat Simulator Heist\nPAYDAY 2: Gage Chivalry Pack\nPAYDAY 2: Yakuza Character Pack\nPAYDAY 2: Gage Ninja Pack\nPAYDAY 2: Sokol Character Pack\nPAYDAY 2: The Golden Grin Casino Heist\nPAYDAY 2: The Alesso Heist\nPAYDAY 2: The OVERKILL B-Sides Soundtrack\nPAYDAY 2: The Butcher's Western Pack\nPAYDAY 2: The Butcher's BBQ Pack\nPAYDAY 2: The Butcher's AK/CAR Mod Pack\nPAYDAY 2: The OVERKILL Pack\nPAYDAY 2: Dragan Character Pack\nPAYDAY 2: The Bomb Heists\nPAYDAY 2: Clover Character Pack\nPAYDAY 2: The Diamond Heist\nPAYDAY 2: Gage Historical Pack\nPAYDAY 2: Hotline Miami\nPAYDAY 2: Gage Assault Pack\nPAYDAY 2: Gage Shotgun Pack\nPAYDAY 2: The Big Bank Heist\nPAYDAY 2: Gage Sniper Pack\nPAYDAY 2: Gage Mod Courier\nPAYDAY 2: Gage Weapon Pack #02\nPAYDAY 2: A Merry Payday Christmas Soundtrack\nPAYDAY 2: Gage Weapon Pack #01\nPAYDAY 2: Armored Transport\nPAYDAY 2: The Official Soundtrack\nPAYDAY 2 VR",
             "count": 78,
             "priceData": {
                 "USD": {
@@ -19295,9 +19441,9 @@ var extrasData =
     "d5eb5c07-2a2e-4312-ae4b-d2c393400d06": {
         "reviews": {
             "description": "Very Positive",
-            "total": 40469,
-            "positive": 37795,
-            "negative": 2674
+            "total": 40478,
+            "positive": 37802,
+            "negative": 2676
         },
         "dlc": {
             "description": "PAYDAY\u2122 The Heist: Wolfpack DLC\n\nPAYDAY: The Heist Soundtrack",
@@ -19333,16 +19479,16 @@ var extrasData =
     "2122531e-7f5a-4c96-a329-28c3f12aa94d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 107510,
-            "positive": 100509,
-            "negative": 7001
+            "total": 122638,
+            "positive": 114713,
+            "negative": 7925
         }
     },
     "511d2ddd-c6b1-48ec-9ec2-f5597b3f131c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3102,
-            "positive": 3031,
+            "total": 3115,
+            "positive": 3044,
             "negative": 71
         },
         "dlc": {
@@ -19379,24 +19525,24 @@ var extrasData =
     "fc2a85fc-690c-4e44-8c07-3e60137b8a58": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 11626,
-            "positive": 11327,
+            "total": 11681,
+            "positive": 11382,
             "negative": 299
         }
     },
     "02efdfd7-887f-45d2-bf7b-c8bc5698dfb0": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2824,
-            "positive": 2729,
+            "total": 2829,
+            "positive": 2734,
             "negative": 95
         }
     },
     "169145ac-065e-4499-8aa5-b793337a9a16": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1064,
-            "positive": 917,
+            "total": 1069,
+            "positive": 922,
             "negative": 147
         },
         "dlc": {
@@ -19441,17 +19587,17 @@ var extrasData =
     "b2ca529b-1661-4bf7-849e-f95efe3859fd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4153,
-            "positive": 3617,
+            "total": 4165,
+            "positive": 3629,
             "negative": 536
         }
     },
     "a4525844-9b42-4b2b-ba36-4888ef14974c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 16709,
-            "positive": 14681,
-            "negative": 2028
+            "total": 16751,
+            "positive": 14712,
+            "negative": 2039
         },
         "dlc": {
             "description": "Persona\u00ae 5 Strikers - All-Out Attack Pack\n\nPersona\u00ae 5 Strikers - Legacy BGM Pack",
@@ -19495,16 +19641,16 @@ var extrasData =
     "a43b5ec1-bc33-4130-ba6e-0d3141d22d14": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1634,
-            "positive": 1475,
+            "total": 1633,
+            "positive": 1474,
             "negative": 159
         }
     },
     "7dcb3557-802b-4531-89a8-763bdc9b3fad": {
         "reviews": {
             "description": "Very Positive",
-            "total": 186,
-            "positive": 180,
+            "total": 190,
+            "positive": 184,
             "negative": 6
         },
         "dlc": {
@@ -19549,8 +19695,8 @@ var extrasData =
     "cbbbc23d-c2b9-4e91-99f2-0ac449eb32cb": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3485,
-            "positive": 3440,
+            "total": 3501,
+            "positive": 3456,
             "negative": 45
         },
         "dlc": {
@@ -19587,8 +19733,8 @@ var extrasData =
     "a5df6091-89d8-404a-bba1-10e93550c292": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1388,
-            "positive": 1344,
+            "total": 1392,
+            "positive": 1348,
             "negative": 44
         }
     },
@@ -19633,9 +19779,9 @@ var extrasData =
     "8ea84fe2-bb9d-4fc8-a3da-918f5c69fe6b": {
         "reviews": {
             "description": "Positive",
-            "total": 40,
+            "total": 41,
             "positive": 37,
-            "negative": 3
+            "negative": 4
         }
     },
     "4ace62d0-2f5c-45ca-8390-0169d648f281": {
@@ -19687,8 +19833,8 @@ var extrasData =
     "50d89c40-3346-4ec2-a83e-6417c8630b72": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 67593,
-            "positive": 66471,
+            "total": 67641,
+            "positive": 66519,
             "negative": 1122
         },
         "dlc": {
@@ -19763,9 +19909,9 @@ var extrasData =
     "34a1c10a-a086-47b2-ac7f-994808188a63": {
         "reviews": {
             "description": "Very Positive",
-            "total": 23946,
-            "positive": 22724,
-            "negative": 1222
+            "total": 24002,
+            "positive": 22777,
+            "negative": 1225
         }
     },
     "e504a6d1-d146-46e4-9b5f-fe94e56a3916": {
@@ -19811,9 +19957,9 @@ var extrasData =
     "aa2711fd-7d14-45b1-9db9-838c5d855272": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6131,
-            "positive": 5123,
-            "negative": 1008
+            "total": 6141,
+            "positive": 5132,
+            "negative": 1009
         }
     },
     "642ad5b1-8ce1-4627-b1ff-0e8e5e1f5410": {
@@ -19824,20 +19970,28 @@ var extrasData =
             "negative": 74
         }
     },
+    "b2061008-ed4c-45e5-9e53-3528b28095c1": {
+        "reviews": {
+            "description": "Very Positive",
+            "total": 67,
+            "positive": 67,
+            "negative": 0
+        }
+    },
     "46067c7f-8757-421f-be39-85e70d8ecf18": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 390,
+            "total": 391,
             "positive": 305,
-            "negative": 85
+            "negative": 86
         }
     },
     "35d705c9-5dc5-4857-a35e-998da34bd760": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 181526,
-            "positive": 178765,
-            "negative": 2761
+            "total": 181780,
+            "positive": 179018,
+            "negative": 2762
         },
         "dlc": {
             "description": "Portal Soundtrack\n\nPortal with RTX",
@@ -19873,8 +20027,8 @@ var extrasData =
     "58bba60a-6d41-43d8-ba3e-58bd25de62d4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 119798,
-            "positive": 116097,
+            "total": 119983,
+            "positive": 116282,
             "negative": 3701
         },
         "dlc": {
@@ -19911,9 +20065,9 @@ var extrasData =
     "109aefc8-6dfe-4b57-aea2-65e8ab33849f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 7030,
-            "positive": 6460,
-            "negative": 570
+            "total": 7054,
+            "positive": 6482,
+            "negative": 572
         },
         "dlc": {
             "description": "POSTAL Redux - Official Soundtrack",
@@ -19949,16 +20103,16 @@ var extrasData =
     "36a16992-03e3-466c-a29c-344fc96d0c41": {
         "reviews": {
             "description": "Very Positive",
-            "total": 834,
-            "positive": 750,
+            "total": 836,
+            "positive": 752,
             "negative": 84
         }
     },
     "12c95a05-221f-49ab-95e7-9a928f485c03": {
         "reviews": {
             "description": "Very Positive",
-            "total": 404,
-            "positive": 331,
+            "total": 405,
+            "positive": 332,
             "negative": 73
         }
     },
@@ -19973,24 +20127,24 @@ var extrasData =
     "4095099a-70e2-4319-9822-0c76939f5bcd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1399,
-            "positive": 1294,
+            "total": 1402,
+            "positive": 1297,
             "negative": 105
         }
     },
     "3a8edd29-7dd3-479c-a856-b5fad9d88b2a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 92,
-            "positive": 87,
+            "total": 93,
+            "positive": 88,
             "negative": 5
         }
     },
     "97fcd97e-70ce-4a39-927d-d050e181acbd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5687,
-            "positive": 4950,
+            "total": 5691,
+            "positive": 4954,
             "negative": 737
         },
         "dlc": {
@@ -20027,9 +20181,9 @@ var extrasData =
     "b7ff0ee7-713d-41bb-ad03-c4956e50eff6": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 724,
-            "positive": 699,
-            "negative": 25
+            "total": 733,
+            "positive": 707,
+            "negative": 26
         }
     },
     "915f593b-f92d-4b70-9637-889ed9dfb697": {
@@ -20081,9 +20235,9 @@ var extrasData =
     "6981b2c6-209c-457f-9733-8cec6f9891ba": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 15841,
-            "positive": 15363,
-            "negative": 478
+            "total": 15924,
+            "positive": 15442,
+            "negative": 482
         },
         "dlc": {
             "description": "Pseudoregalia Original Soundtrack",
@@ -20119,17 +20273,17 @@ var extrasData =
     "68de8163-a070-4fdc-a845-9f06ffecb82f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 220,
-            "positive": 192,
+            "total": 224,
+            "positive": 196,
             "negative": 28
         }
     },
     "fa852e1e-59d3-4dd8-bea1-72bc3c572ebe": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 939,
-            "positive": 705,
-            "negative": 234
+            "total": 942,
+            "positive": 707,
+            "negative": 235
         }
     },
     "446ad264-b5cb-4f8a-bfa6-34a30685bf37": {
@@ -20227,8 +20381,8 @@ var extrasData =
     "31e57700-1182-4cfc-83cc-549f7fb85ecc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1505,
-            "positive": 1324,
+            "total": 1508,
+            "positive": 1327,
             "negative": 181
         },
         "dlc": {
@@ -20265,8 +20419,8 @@ var extrasData =
     "6078595e-f017-49bf-b962-d289a5e38001": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2621,
-            "positive": 2146,
+            "total": 2627,
+            "positive": 2152,
             "negative": 475
         }
     },
@@ -20319,9 +20473,9 @@ var extrasData =
     "4f5f309e-3875-461d-b883-a710046e5581": {
         "reviews": {
             "description": "Very Positive",
-            "total": 407,
-            "positive": 343,
-            "negative": 64
+            "total": 409,
+            "positive": 344,
+            "negative": 65
         },
         "dlc": {
             "description": "Q REMASTERED Original Soundtrack Vol.1",
@@ -20357,17 +20511,17 @@ var extrasData =
     "d0816c59-df93-4609-9efb-6bb26cd4ea4f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 507,
-            "positive": 472,
-            "negative": 35
+            "total": 509,
+            "positive": 473,
+            "negative": 36
         }
     },
     "c3affeb9-1707-4ac8-bcd8-4102e251a31b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2082,
-            "positive": 1759,
-            "negative": 323
+            "total": 2085,
+            "positive": 1761,
+            "negative": 324
         },
         "dlc": {
             "description": "Quantum Conundrum: IKE-aramba!\n\nQuantum Conundrum: The Desmond Debacle\n\nQuantum Conundrum Soundtrack",
@@ -20375,27 +20529,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1097,
-                    "final": 665
+                    "final": 1097
                 },
                 "EUR": {
                     "initial": 1097,
-                    "final": 665
+                    "final": 1097
                 },
                 "GBP": {
                     "initial": 797,
-                    "final": 509
+                    "final": 797
                 },
                 "JPY": {
                     "initial": 111500,
-                    "final": 67700
+                    "final": 111500
                 },
                 "AUD": {
                     "initial": 1595,
-                    "final": 947
+                    "final": 1595
                 },
                 "CAD": {
                     "initial": 1207,
-                    "final": 733
+                    "final": 1207
                 }
             }
         }
@@ -20403,8 +20557,8 @@ var extrasData =
     "6189562e-95d9-4867-a45f-90257dd6ef66": {
         "reviews": {
             "description": "Very Positive",
-            "total": 627,
-            "positive": 568,
+            "total": 629,
+            "positive": 570,
             "negative": 59
         },
         "dlc": {
@@ -20449,8 +20603,8 @@ var extrasData =
     "f10ddec9-49cc-43d2-8149-3e960eb7acd4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 8983,
-            "positive": 8739,
+            "total": 9006,
+            "positive": 8762,
             "negative": 244
         },
         "dlc": {
@@ -20495,9 +20649,9 @@ var extrasData =
     "f349949e-5606-48c8-b9a0-12a78d9ed71f": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 11940,
-            "positive": 11426,
-            "negative": 514
+            "total": 11949,
+            "positive": 11432,
+            "negative": 517
         },
         "dlc": {
             "description": "Rabi-Ribi - Is the order a DLC?\n\nRabi-Ribi - Cocoa Mode & Before Next Adventure\n\nRabi-Ribi - Digital Artbook\n\nRabi-Ribi - Original Soundtrack\n\nRabi-Ribi - Orchestra Music Mode & Skin\n\nRabi-Ribi - Orchestra Arrangement Soundtrack\n\nRabi-Ribi - Cicini's Halloween!\n\nRabi-Ribi - Tevi x Rabi-Ribi Collab Costume Skin\n\nRabi-Ribi - Soundtrack 8-bit Remix",
@@ -20533,9 +20687,9 @@ var extrasData =
     "1f0ce3d0-f919-4e76-9a86-f1b5dd0e74e7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6302,
-            "positive": 5896,
-            "negative": 406
+            "total": 6304,
+            "positive": 5899,
+            "negative": 405
         },
         "dlc": {
             "description": "Race The Sun Original Soundtrack\n\nSunrise",
@@ -20671,9 +20825,9 @@ var extrasData =
     "2ef84e31-28e2-4b2e-8c97-e4a613d3389a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 399,
-            "positive": 348,
-            "negative": 51
+            "total": 401,
+            "positive": 349,
+            "negative": 52
         },
         "dlc": {
             "description": "Rage in Peace - Soundtrack",
@@ -20755,9 +20909,9 @@ var extrasData =
     "71e93a1b-1e24-484c-8aaa-1685908ea0b4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 44436,
-            "positive": 41814,
-            "negative": 2622
+            "total": 44573,
+            "positive": 41943,
+            "negative": 2630
         },
         "dlc": {
             "description": "Rain World: The Watcher\n\nRain World: Downpour\n\nRain World - Soundtrack\n\nRain World: Downpour - Soundtrack\n\nRain World: The Watcher - Soundtrack",
@@ -20831,8 +20985,8 @@ var extrasData =
     "be6971c7-f5bf-4fad-970f-9ac7a3f08f63": {
         "reviews": {
             "description": "Very Positive",
-            "total": 53,
-            "positive": 48,
+            "total": 54,
+            "positive": 49,
             "negative": 5
         }
     },
@@ -20923,8 +21077,8 @@ var extrasData =
     "63aa6f43-5699-4dca-b3c3-2a798d779db1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 157,
-            "positive": 146,
+            "total": 158,
+            "positive": 147,
             "negative": 11
         }
     },
@@ -20939,9 +21093,9 @@ var extrasData =
     "ed24952c-ab02-4adb-8305-fdf54e0166de": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 289359,
-            "positive": 219292,
-            "negative": 70067
+            "total": 290573,
+            "positive": 220139,
+            "negative": 70434
         },
         "dlc": {
             "description": "Ready or Not: Home Invasion\n\nReady or Not: Official Soundtrack\n\nReady or Not: Dark Waters",
@@ -20977,9 +21131,9 @@ var extrasData =
     "9357297c-ae7d-4997-9472-a205bd602732": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6548,
+            "total": 6552,
             "positive": 5384,
-            "negative": 1164
+            "negative": 1168
         },
         "dlc": {
             "description": "Rebel Inc: Escalation - Dollars & Disasters\n\nRebel Inc: Escalation - Sand & Secrets\n\nRebel Inc: Escalation - Soundtrack",
@@ -21025,27 +21179,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 299,
-                    "final": 209
+                    "final": 299
                 },
                 "EUR": {
                     "initial": 299,
-                    "final": 209
+                    "final": 299
                 },
                 "GBP": {
                     "initial": 249,
-                    "final": 174
+                    "final": 249
                 },
                 "JPY": {
                     "initial": 35000,
-                    "final": 24500
+                    "final": 35000
                 },
                 "AUD": {
                     "initial": 450,
-                    "final": 315
+                    "final": 450
                 },
                 "CAD": {
                     "initial": 389,
-                    "final": 272
+                    "final": 389
                 }
             }
         }
@@ -21053,9 +21207,9 @@ var extrasData =
     "51741d94-2d19-4738-8a1f-887e0bd0e9fa": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1263,
-            "positive": 1037,
-            "negative": 226
+            "total": 1266,
+            "positive": 1039,
+            "negative": 227
         },
         "dlc": {
             "description": "Redout 2 - Veloce Livery\n\nRedout 2 - Original Soundtrack\n\nRedout 2 - Season Pass\n\nRedout 2 - Summer Pack\n\nRedout 2 - Winter Pack",
@@ -21147,27 +21301,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1498,
-                    "final": 1048
+                    "final": 1498
                 },
                 "EUR": {
                     "initial": 1474,
-                    "final": 1031
+                    "final": 1474
                 },
                 "GBP": {
                     "initial": 1279,
-                    "final": 895
+                    "final": 1279
                 },
                 "JPY": {
                     "initial": 150500,
-                    "final": 105200
+                    "final": 150500
                 },
                 "AUD": {
                     "initial": 2200,
-                    "final": 1540
+                    "final": 2200
                 },
                 "CAD": {
                     "initial": 1948,
-                    "final": 1363
+                    "final": 1948
                 }
             }
         }
@@ -21175,9 +21329,9 @@ var extrasData =
     "29fa4641-6af7-4758-83b2-0cfadb34e344": {
         "reviews": {
             "description": "Very Positive",
-            "total": 53241,
-            "positive": 45084,
-            "negative": 8157
+            "total": 53260,
+            "positive": 45100,
+            "negative": 8160
         },
         "dlc": {
             "description": "Remnant: From the Ashes - Swamps of Corsus\n\nRemnant: From the Ashes - Subject 2923",
@@ -21213,8 +21367,8 @@ var extrasData =
     "34d2896e-0109-4b87-b4e1-ddb882a9905c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 644,
-            "positive": 566,
+            "total": 645,
+            "positive": 567,
             "negative": 78
         },
         "dlc": {
@@ -21251,17 +21405,17 @@ var extrasData =
     "01206a9d-7c9d-4b43-ab2d-ccf1822b7b17": {
         "reviews": {
             "description": "Very Positive",
-            "total": 27949,
-            "positive": 25716,
-            "negative": 2233
+            "total": 28048,
+            "positive": 25814,
+            "negative": 2234
         }
     },
     "2282102c-cca7-46bd-b3b3-07c850bda822": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 178284,
-            "positive": 172913,
-            "negative": 5371
+            "total": 178765,
+            "positive": 173379,
+            "negative": 5386
         },
         "dlc": {
             "description": "Resident Evil 2 - Leon Costume: Arklay Sheriff\n\nResident Evil 2 - Leon Costume: Noir\n\nResident Evil 2 - Leon Costume: 98'\n\nResident Evil 2 - Claire Costume: Military\n\nResident Evil 2 - Claire Costume: Noir\n\nResident Evil 2 - Claire Costume: Elza Walker\n\nResident Evil 2 - Claire Costume: 98'\n\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Chris Model\n\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Jill Model\n\nResident Evil 2 - Deluxe Weapon: Samurai Edge - Albert Model\n\nResident Evil 2 - Original Ver. Soundtrack Swap\n\nResident Evil 2 - All In-game Rewards Unlocked\n\nResident Evil 2 Original Soundtrack",
@@ -21269,27 +21423,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 4789,
-                    "final": 3889
+                    "final": 4789
                 },
                 "EUR": {
                     "initial": 4789,
-                    "final": 3889
+                    "final": 4789
                 },
                 "GBP": {
                     "initial": 3902,
-                    "final": 3156
+                    "final": 3902
                 },
                 "JPY": {
                     "initial": 535700,
-                    "final": 443600
+                    "final": 535700
                 },
                 "AUD": {
                     "initial": 7269,
-                    "final": 5910
+                    "final": 7269
                 },
                 "CAD": {
                     "initial": 7989,
-                    "final": 6314
+                    "final": 7989
                 }
             }
         }
@@ -21297,9 +21451,9 @@ var extrasData =
     "970ecb86-18be-45c2-85be-15bdc7cfc358": {
         "reviews": {
             "description": "Very Positive",
-            "total": 94049,
-            "positive": 77020,
-            "negative": 17029
+            "total": 94316,
+            "positive": 77247,
+            "negative": 17069
         },
         "dlc": {
             "description": "RESIDENT EVIL 3 - Classic Costume Pack\n\nResident Evil 3 Special Soundtrack\n\nResident Evil 3 - All In-game Rewards Unlock\n\nResident Evil Resistance - Male Survivor Costume: Leon S. Kennedy\n\nResident Evil Resistance - Female Survivor Costume: Claire Redfield",
@@ -21307,27 +21461,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 3295,
-                    "final": 2845
+                    "final": 3295
                 },
                 "EUR": {
                     "initial": 3295,
-                    "final": 2845
+                    "final": 3295
                 },
                 "GBP": {
                     "initial": 2644,
-                    "final": 2279
+                    "final": 2644
                 },
                 "JPY": {
                     "initial": 390000,
-                    "final": 345000
+                    "final": 390000
                 },
                 "AUD": {
                     "initial": 5017,
-                    "final": 4336
+                    "final": 5017
                 },
                 "CAD": {
                     "initial": 5495,
-                    "final": 4595
+                    "final": 5495
                 }
             }
         }
@@ -21335,9 +21489,9 @@ var extrasData =
     "adad0535-2c3a-413f-a2b3-fb67f0ad7728": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 192382,
-            "positive": 187977,
-            "negative": 4405
+            "total": 193417,
+            "positive": 188990,
+            "negative": 4427
         },
         "dlc": {
             "description": "Resident Evil 4 - Separate Ways\nResident Evil 4 Original Soundtrack\nResident Evil 4 - The Mercenaries\nResident Evil 4 Treasure Map: Expansion\nResident Evil 4 Leon & Ashley Costumes: 'Casual'\nResident Evil 4 Leon & Ashley Costumes: 'Romantic'\nResident Evil 4 Leon Costume & Filter: 'Hero'\nResident Evil 4 Leon Costume & Filter: 'Villain'\nResident Evil 4 'Original Ver.' Soundtrack Swap\nResident Evil 4 Deluxe Weapon: 'Sentinel Nine'\nResident Evil 4 Deluxe Weapon: 'Skull Shaker'\nResident Evil 4 Leon Accessory: 'Sunglasses (Sporty)'\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (E)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x1 (F)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (A)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (B)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (C)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x3 (D)\nResident Evil 4 Weapon Exclusive Upgrade Ticket x5 (A)\nResident Evil 4 Attach\u00e9 Case: 'Gold'\nResident Evil 4 Attach\u00e9 Case: 'Classic'\nResident Evil 4 Charm: 'Handgun Ammo'\nResident Evil 4 Charm: 'Green Herb'",
@@ -21345,27 +21499,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 21073,
-                    "final": 14073
+                    "final": 21073
                 },
                 "EUR": {
                     "initial": 21073,
-                    "final": 14073
+                    "final": 21073
                 },
                 "GBP": {
                     "initial": 17420,
-                    "final": 11591
+                    "final": 17420
                 },
                 "JPY": {
                     "initial": 2413000,
-                    "final": 1658300
+                    "final": 2413000
                 },
                 "AUD": {
                     "initial": 31502,
-                    "final": 20967
+                    "final": 31502
                 },
                 "CAD": {
                     "initial": 32123,
-                    "final": 21860
+                    "final": 32123
                 }
             }
         }
@@ -21373,17 +21527,55 @@ var extrasData =
     "3aa4a76f-2c49-436a-89df-20151640da8a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 84666,
-            "positive": 79198,
-            "negative": 5468
+            "total": 84877,
+            "positive": 79397,
+            "negative": 5480
+        }
+    },
+    "5ad5712d-30c5-488f-82f2-42faace9e07a": {
+        "reviews": {
+            "description": "Very Positive",
+            "total": 51330,
+            "positive": 44761,
+            "negative": 6569
+        },
+        "dlc": {
+            "description": "Resident Evil 5 - UNTOLD STORIES BUNDLE",
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 1499,
+                    "final": 1499
+                },
+                "EUR": {
+                    "initial": 1499,
+                    "final": 1499
+                },
+                "GBP": {
+                    "initial": 1198,
+                    "final": 1198
+                },
+                "JPY": {
+                    "initial": 151800,
+                    "final": 151800
+                },
+                "AUD": {
+                    "initial": 2294,
+                    "final": 2294
+                },
+                "CAD": {
+                    "initial": 1999,
+                    "final": 1999
+                }
+            }
         }
     },
     "9a457867-09f2-4fc7-9258-91359f3a74f5": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 102823,
-            "positive": 97988,
-            "negative": 4835
+            "total": 103239,
+            "positive": 98388,
+            "negative": 4851
         },
         "dlc": {
             "description": "Not A Hero\n\nEnd of Zoe\n\nResident Evil 7 - Season Pass\n\nBanned Footage Vol.1\n\nBanned Footage Vol.2\n\nResident Evil 7 biohazard Original Soundtrack",
@@ -21391,27 +21583,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 15994,
-                    "final": 4744
+                    "final": 15994
                 },
                 "EUR": {
                     "initial": 15994,
-                    "final": 4744
+                    "final": 15994
                 },
                 "GBP": {
                     "initial": 12991,
-                    "final": 3844
+                    "final": 12991
                 },
                 "JPY": {
                     "initial": 1446500,
-                    "final": 541500
+                    "final": 1446500
                 },
                 "AUD": {
                     "initial": 24066,
-                    "final": 7135
+                    "final": 24066
                 },
                 "CAD": {
                     "initial": 21844,
-                    "final": 6469
+                    "final": 21844
                 }
             }
         }
@@ -21419,9 +21611,9 @@ var extrasData =
     "9dfff5f2-479b-48fc-aee1-a19cc28db7a5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8673,
-            "positive": 7112,
-            "negative": 1561
+            "total": 8694,
+            "positive": 7132,
+            "negative": 1562
         }
     },
     "66f5c64b-093e-4118-8b40-7096737ce90a": {
@@ -21465,8 +21657,8 @@ var extrasData =
     "208f2524-e870-4161-980d-6f81e431ab7e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2284,
-            "positive": 1881,
+            "total": 2287,
+            "positive": 1884,
             "negative": 403
         },
         "dlc": {
@@ -21527,9 +21719,9 @@ var extrasData =
     "28977539-4671-4634-8683-b5a192bf0059": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 21450,
-            "positive": 21111,
-            "negative": 339
+            "total": 21472,
+            "positive": 21134,
+            "negative": 338
         }
     },
     "3c570bec-43ab-4829-b91b-a6b5c528c119": {
@@ -21551,8 +21743,8 @@ var extrasData =
     "fb1ef8b0-a9b0-4f4b-a0f3-843397e4c906": {
         "reviews": {
             "description": "Very Positive",
-            "total": 736,
-            "positive": 688,
+            "total": 739,
+            "positive": 691,
             "negative": 48
         },
         "dlc": {
@@ -21597,17 +21789,17 @@ var extrasData =
     "81ce0fce-af1d-4ab9-bdce-2bb1c62554b7": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2347,
-            "positive": 1744,
+            "total": 2350,
+            "positive": 1747,
             "negative": 603
         }
     },
     "473fc1c0-fe8b-4049-93ad-f25af100d664": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3827,
-            "positive": 3633,
-            "negative": 194
+            "total": 3859,
+            "positive": 3664,
+            "negative": 195
         },
         "dlc": {
             "description": "Rift of the NecroDancer: hololive - \"BIBBIDIBA\"\nRift of the NecroDancer: hololive - \"REFLECT\"\nRift of the NecroDancer: hololive - \"Ahoy!! \u6211\u3089\u5b9d\u9418\u6d77\u8cca\u56e3\u2606\"\nRift of the NecroDancer: hololive - \"Play Dice!\"\nRift of the NecroDancer: hololive - \"Carbonated Love\"\nRift of the NecroDancer: Hatsune Miku - \"Too Real\"\nRift of the NecroDancer: Hatsune Miku - \"M@GICAL\u2606CURE! LOVE \u2665 SHOT!\"\nRift of the NecroDancer: Hatsune Miku - \"Radiant Revival\"\nRift of the NecroDancer: Hatsune Miku - \"Intergalactic Bound\"\nRift of the NecroDancer: Hatsune Miku - \"Just 1dB Louder\"\nRift of the NecroDancer: Hatsune Miku - \"MikuFiesta\"\nRift of the NecroDancer: Supporter Upgrade\nRift of the NecroDancer: Pizza Tower - \"It's Pizza Time!\"\nRift of the NecroDancer: Pizza Tower - \"The Death That I Deservioli\"\nRift of the NecroDancer: Pizza Tower - \"Unexpectancy, Pt. 3\"\nRift of the NecroDancer: Pizza Tower - \"World Wide Noise\"\nRift of the NecroDancer: OST - Volume 1\nRift of the NecroDancer: Celeste - \"Scattered and Lost\"\nRift of the NecroDancer: Celeste - \"Reach for the Summit\"\nRift of the NecroDancer: Celeste - \"Confronting Myself\"\nRift of the NecroDancer: Celeste - \"Resurrections\"\nRift of the NecroDancer: Everhood - \"The Final Battle\"\nRift of the NecroDancer: Everhood - \"Feisty Flowers\"\nRift of the NecroDancer: Everhood - \"Revenge\"\nRift of the NecroDancer: Everhood - \"Why Oh You Are LOVE\"\nRift of the NecroDancer: Everhood - \"Powers of Destruction\"",
@@ -21615,27 +21807,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 5677,
-                    "final": 5097
+                    "final": 5677
                 },
                 "EUR": {
                     "initial": 5653,
-                    "final": 5073
+                    "final": 5653
                 },
                 "GBP": {
                     "initial": 4828,
-                    "final": 4335
+                    "final": 4828
                 },
                 "JPY": {
                     "initial": 671500,
-                    "final": 602700
+                    "final": 671500
                 },
                 "AUD": {
                     "initial": 8395,
-                    "final": 7533
+                    "final": 8395
                 },
                 "CAD": {
                     "initial": 7387,
-                    "final": 6633
+                    "final": 7387
                 }
             }
         }
@@ -21659,9 +21851,9 @@ var extrasData =
     "9f270605-375b-4f31-a3fd-6fa7d5c4cb98": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4846,
-            "positive": 4433,
-            "negative": 413
+            "total": 4865,
+            "positive": 4451,
+            "negative": 414
         },
         "dlc": {
             "description": "Ring of Pain Soundtrack",
@@ -21735,17 +21927,17 @@ var extrasData =
     "e3a51e57-54e9-406c-8532-9aa6c75f39cf": {
         "reviews": {
             "description": "Mixed",
-            "total": 904,
+            "total": 903,
             "positive": 626,
-            "negative": 278
+            "negative": 277
         }
     },
     "5bd04a9d-76a9-40c3-8890-3f4231372e65": {
         "reviews": {
             "description": "Very Positive",
-            "total": 138504,
-            "positive": 130273,
-            "negative": 8231
+            "total": 138666,
+            "positive": 130428,
+            "negative": 8238
         },
         "dlc": {
             "description": "Rise of the Tomb Raider 20 Year Celebration Pack\n\nBaba Yaga: The Temple of the Witch\n\nCold Darkness Awakened\n\nEndurance Mode\n\nRemnant Resistance Pack\n\nSparrowhawk Pack\n\nHope's Bastion Pack\n\nTactical Survivor Pack\n\nApex Predator Pack\n\nWilderness Survivor\n\nSiberian Ranger\n\nAncient Vanguard\n\nProphet's Legacy",
@@ -21819,9 +22011,9 @@ var extrasData =
     "e8e6fd4f-e3d3-4012-9645-adc0816a2bbb": {
         "reviews": {
             "description": "Very Positive",
-            "total": 29670,
-            "positive": 27637,
-            "negative": 2033
+            "total": 29684,
+            "positive": 27647,
+            "negative": 2037
         },
         "dlc": {
             "description": "Risk of Rain Soundtrack",
@@ -21857,9 +22049,9 @@ var extrasData =
     "0ade411b-db3d-42ad-a5e8-d9748e57f062": {
         "reviews": {
             "description": "Very Positive",
-            "total": 318661,
-            "positive": 297552,
-            "negative": 21109
+            "total": 319141,
+            "positive": 298000,
+            "negative": 21141
         },
         "dlc": {
             "description": "Risk of Rain 2: Seekers of the Storm\n\nRisk of Rain 2: Survivors of the Void\n\nRisk of Rain 2 Soundtrack\n\nRisk of Rain 2: Survivors of the Void - Soundtrack\n\nRisk of Rain 2: Alloyed Collective\n\nRisk of Rain 2: Seekers of the Storm - Soundtrack",
@@ -21867,27 +22059,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 5095,
-                    "final": 5095
+                    "final": 4045
                 },
                 "EUR": {
                     "initial": 4708,
-                    "final": 4708
+                    "final": 3658
                 },
                 "GBP": {
                     "initial": 3958,
-                    "final": 3958
+                    "final": 3118
                 },
                 "JPY": {
                     "initial": 520000,
-                    "final": 520000
+                    "final": 413600
                 },
                 "AUD": {
                     "initial": 7360,
-                    "final": 7360
+                    "final": 5822
                 },
                 "CAD": {
                     "initial": 5798,
-                    "final": 5798
+                    "final": 4608
                 }
             }
         }
@@ -21895,9 +22087,9 @@ var extrasData =
     "4c5271e1-3f6b-4308-a357-278604828a62": {
         "reviews": {
             "description": "Very Positive",
-            "total": 27989,
-            "positive": 25180,
-            "negative": 2809
+            "total": 28022,
+            "positive": 25206,
+            "negative": 2816
         },
         "dlc": {
             "description": "Risk of Rain Returns Soundtrack",
@@ -21971,8 +22163,8 @@ var extrasData =
     "51b213d9-0cfd-4bfe-bdcd-730d504aee24": {
         "reviews": {
             "description": "Very Positive",
-            "total": 329,
-            "positive": 285,
+            "total": 330,
+            "positive": 286,
             "negative": 44
         },
         "dlc": {
@@ -22017,8 +22209,8 @@ var extrasData =
     "6d0b175f-0e5c-440f-b6d7-6ad1562d5186": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1004,
-            "positive": 844,
+            "total": 1006,
+            "positive": 846,
             "negative": 160
         }
     },
@@ -22109,8 +22301,8 @@ var extrasData =
     "54c7c46a-48f9-47f1-b6e7-536153c37690": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1657,
-            "positive": 1572,
+            "total": 1658,
+            "positive": 1573,
             "negative": 85
         },
         "dlc": {
@@ -22147,9 +22339,9 @@ var extrasData =
     "15e7e8bf-dbd9-4e72-bb3a-585fa509da32": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 22382,
-            "positive": 21354,
-            "negative": 1028
+            "total": 22449,
+            "positive": 21414,
+            "negative": 1035
         },
         "dlc": {
             "description": "Roboquest: Soundtrack\n\nRoboquest - Digital Art Book",
@@ -22185,8 +22377,8 @@ var extrasData =
     "5af3a6c6-90c9-4a06-85cb-6e680ddde54d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3832,
-            "positive": 3519,
+            "total": 3834,
+            "positive": 3521,
             "negative": 313
         }
     },
@@ -22201,17 +22393,17 @@ var extrasData =
     "81d72fd5-75c3-40c9-92fa-2afa81c7dc31": {
         "reviews": {
             "description": "Very Positive",
-            "total": 194,
-            "positive": 193,
+            "total": 195,
+            "positive": 194,
             "negative": 1
         }
     },
     "e5c5534f-5c89-4e6c-845a-d3d7ab05f256": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1597,
+            "total": 1598,
             "positive": 1465,
-            "negative": 132
+            "negative": 133
         },
         "dlc": {
             "description": "Upgrade Rogue Glitch to Rogue Glitch Ultra",
@@ -22247,25 +22439,25 @@ var extrasData =
     "d48fe070-aaf4-46cc-8eb6-4471b110c4b9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 18520,
-            "positive": 17155,
-            "negative": 1365
+            "total": 18525,
+            "positive": 17158,
+            "negative": 1367
         }
     },
     "bb1fa551-7757-49d1-a3fd-be3aa9d6fa4c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 14581,
-            "positive": 13249,
-            "negative": 1332
+            "total": 14592,
+            "positive": 13259,
+            "negative": 1333
         }
     },
     "d39bc0c4-b2c6-4af4-b811-23dd33d84b67": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3913,
-            "positive": 3290,
-            "negative": 623
+            "total": 3931,
+            "positive": 3305,
+            "negative": 626
         },
         "dlc": {
             "description": "Roguebook - Heroes Skins Pack\n\nRoguebook - Alternate Art Pack\n\nRoguebook - The Art of Roguebook\n\nRoguebook - Original Soundtrack\n\nRoguebook - Fugoro, Merchant of Wonders",
@@ -22301,24 +22493,24 @@ var extrasData =
     "b1e90e70-74a0-4ec3-83d1-6eae858d3729": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2146,
-            "positive": 1923,
-            "negative": 223
+            "total": 2149,
+            "positive": 1925,
+            "negative": 224
         }
     },
     "a6b31a51-a8bb-4571-adb8-8f7c47804ec0": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 419,
-            "positive": 334,
+            "total": 420,
+            "positive": 335,
             "negative": 85
         }
     },
     "f3622d64-791a-407d-8564-a579cb68de87": {
         "reviews": {
             "description": "Very Positive",
-            "total": 115,
-            "positive": 108,
+            "total": 116,
+            "positive": 109,
             "negative": 7
         }
     },
@@ -22417,8 +22609,8 @@ var extrasData =
     "95b3eba5-f199-415d-abaf-b66cbbf5b132": {
         "reviews": {
             "description": "Very Positive",
-            "total": 601,
-            "positive": 563,
+            "total": 600,
+            "positive": 562,
             "negative": 38
         },
         "dlc": {
@@ -22493,8 +22685,8 @@ var extrasData =
     "11916b2b-09f8-4108-a276-9372acebf18c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 11663,
-            "positive": 10437,
+            "total": 11673,
+            "positive": 10447,
             "negative": 1226
         },
         "dlc": {
@@ -22595,27 +22787,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1498,
-                    "final": 748
+                    "final": 1498
                 },
                 "EUR": {
                     "initial": 1218,
-                    "final": 608
+                    "final": 1218
                 },
                 "GBP": {
                     "initial": 1118,
-                    "final": 558
+                    "final": 1118
                 },
                 "JPY": {
                     "initial": 153000,
-                    "final": 76500
+                    "final": 153000
                 },
                 "AUD": {
                     "initial": 2200,
-                    "final": 1100
+                    "final": 2200
                 },
                 "CAD": {
                     "initial": 1718,
-                    "final": 858
+                    "final": 1718
                 }
             }
         }
@@ -22669,9 +22861,9 @@ var extrasData =
     "b5cfb737-310f-4427-8ea4-2674687a5c4a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1349,
-            "positive": 1208,
-            "negative": 141
+            "total": 1355,
+            "positive": 1215,
+            "negative": 140
         },
         "dlc": {
             "description": "Rusted Moss Artbook\n\nRusted Moss Soundtrack",
@@ -22731,9 +22923,9 @@ var extrasData =
     "d189bd84-f8d8-49a1-ba5b-929e717b7a15": {
         "reviews": {
             "description": "Very Positive",
-            "total": 20870,
-            "positive": 18671,
-            "negative": 2199
+            "total": 20882,
+            "positive": 18682,
+            "negative": 2200
         }
     },
     "58f3a81d-31ae-44f0-9ee1-35c7fe7071db": {
@@ -22747,9 +22939,9 @@ var extrasData =
     "b87adbf6-8114-4a6d-b756-dc580ee8468d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 37155,
-            "positive": 36170,
-            "negative": 985
+            "total": 37243,
+            "positive": 36257,
+            "negative": 986
         },
         "dlc": {
             "description": "SANABI Soundtrack",
@@ -22785,24 +22977,24 @@ var extrasData =
     "ac120268-4041-4234-be07-7fc1ebf34e01": {
         "reviews": {
             "description": "Very Positive",
-            "total": 140,
-            "positive": 131,
+            "total": 139,
+            "positive": 130,
             "negative": 9
         }
     },
     "c5d73eca-ba3f-47a6-8bdf-02f579c81353": {
         "reviews": {
             "description": "Very Positive",
-            "total": 241,
-            "positive": 221,
+            "total": 242,
+            "positive": 222,
             "negative": 20
         }
     },
     "a6293afe-29f3-432a-97ff-fe8712248193": {
         "reviews": {
             "description": "Very Positive",
-            "total": 319,
-            "positive": 268,
+            "total": 320,
+            "positive": 269,
             "negative": 51
         }
     },
@@ -22817,8 +23009,8 @@ var extrasData =
     "6360b1aa-fbe6-4919-80be-846efe4ae060": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2796,
-            "positive": 2576,
+            "total": 2797,
+            "positive": 2577,
             "negative": 220
         },
         "dlc": {
@@ -22901,16 +23093,16 @@ var extrasData =
     "9b367456-4a64-488c-b6df-c7c0c26ce914": {
         "reviews": {
             "description": "Very Positive",
-            "total": 165,
-            "positive": 156,
+            "total": 166,
+            "positive": 157,
             "negative": 9
         }
     },
     "e0b1d8e4-33d5-418b-be9f-58d13ab1af61": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 8446,
-            "positive": 8176,
+            "total": 8450,
+            "positive": 8180,
             "negative": 270
         },
         "dlc": {
@@ -22947,8 +23139,8 @@ var extrasData =
     "8429d649-882c-4760-9f00-d9f229a5c401": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 300,
-            "positive": 227,
+            "total": 301,
+            "positive": 228,
             "negative": 73
         }
     },
@@ -22964,8 +23156,8 @@ var extrasData =
         "reviews": {
             "description": "Very Positive",
             "total": 3083,
-            "positive": 2677,
-            "negative": 406
+            "positive": 2678,
+            "negative": 405
         },
         "dlc": {
             "description": "ScourgeBringer - Soundtrack\n\nScourgeBringer Supporter Pack",
@@ -23009,8 +23201,8 @@ var extrasData =
     "66fe501a-f832-4dc6-b02c-45f6cfdb03a1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1264,
-            "positive": 1124,
+            "total": 1268,
+            "positive": 1128,
             "negative": 140
         }
     },
@@ -23055,9 +23247,9 @@ var extrasData =
     "25667c9b-98bb-4e42-826d-d97d3a2c74ea": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 329709,
-            "positive": 314111,
-            "negative": 15598
+            "total": 330338,
+            "positive": 314717,
+            "negative": 15621
         }
     },
     "732d4583-5334-402e-a115-08d9f355218a": {
@@ -23071,9 +23263,9 @@ var extrasData =
     "d72f3933-9a97-402b-a8fb-61b157ed0b04": {
         "reviews": {
             "description": "Very Positive",
-            "total": 27867,
-            "positive": 24612,
-            "negative": 3255
+            "total": 27874,
+            "positive": 24616,
+            "negative": 3258
         },
         "dlc": {
             "description": "Serious Sam 3: Jewel of the Nile\n\nSerious Sam 3 Bonus Content DLC",
@@ -23109,25 +23301,25 @@ var extrasData =
     "bcef0c70-bef5-4c12-8cd9-17ba43d22d95": {
         "reviews": {
             "description": "Very Positive",
-            "total": 16402,
-            "positive": 13690,
-            "negative": 2712
+            "total": 16417,
+            "positive": 13701,
+            "negative": 2716
         }
     },
     "11e5e8e3-f092-4674-8c9d-fd7d7eb4bdb9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8309,
-            "positive": 7752,
-            "negative": 557
+            "total": 8314,
+            "positive": 7754,
+            "negative": 560
         }
     },
     "0e6514ab-2bce-4ff7-a1de-32c70a6f9835": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4533,
-            "positive": 4196,
-            "negative": 337
+            "total": 4544,
+            "positive": 4206,
+            "negative": 338
         },
         "dlc": {
             "description": "Serious Sam: Siberian Mayhem Soundtrack",
@@ -23163,8 +23355,8 @@ var extrasData =
     "54aea550-c367-4cf0-9ad2-0b5dea2aed62": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 244,
-            "positive": 187,
+            "total": 245,
+            "positive": 188,
             "negative": 57
         }
     },
@@ -23179,8 +23371,8 @@ var extrasData =
     "bff50fde-a66c-47ad-a683-98fce90d6306": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2985,
-            "positive": 2831,
+            "total": 2986,
+            "positive": 2832,
             "negative": 154
         },
         "dlc": {
@@ -23217,9 +23409,9 @@ var extrasData =
     "aa911d83-3b96-4141-b808-f6a23fa29489": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2029,
-            "positive": 1841,
-            "negative": 188
+            "total": 2038,
+            "positive": 1851,
+            "negative": 187
         },
         "dlc": {
             "description": "Shadow Corridor - DLC",
@@ -23255,9 +23447,9 @@ var extrasData =
     "20322d61-5f6d-4725-9469-66df9fd455e5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 813,
-            "positive": 712,
-            "negative": 101
+            "total": 829,
+            "positive": 727,
+            "negative": 102
         },
         "dlc": {
             "description": "Shadow Corridor 2 \u96e8\u30ce\u56db\u8469 Soundtrack\n\nShadow Corridor 2  DLC - \u30d2\u30b0\u30e9\u30b7\u306e\u56de\u5eca\u30fb\u8ffd\u52a0\u30ab\u30eb\u30bf",
@@ -23293,17 +23485,17 @@ var extrasData =
     "835abc39-a266-411f-9f34-4ef5e3c21ba6": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1404,
-            "positive": 1320,
-            "negative": 84
+            "total": 1410,
+            "positive": 1325,
+            "negative": 85
         }
     },
     "ac0fab33-fa22-44be-adec-d3614e5192c7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 26288,
-            "positive": 24192,
-            "negative": 2096
+            "total": 26302,
+            "positive": 24202,
+            "negative": 2100
         },
         "dlc": {
             "description": "Shadow Warrior: Special Edition Upgrade",
@@ -23339,8 +23531,8 @@ var extrasData =
     "f49a8fac-f5d5-497c-a672-003947e9e548": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2902,
-            "positive": 2695,
+            "total": 2908,
+            "positive": 2701,
             "negative": 207
         }
     },
@@ -23355,9 +23547,9 @@ var extrasData =
     "55e4d7f8-9951-4863-bf6e-afd859998125": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1701,
-            "positive": 1619,
-            "negative": 82
+            "total": 1714,
+            "positive": 1631,
+            "negative": 83
         },
         "dlc": {
             "description": "Shattered Pixel Dungeon Soundtrack",
@@ -23515,8 +23707,8 @@ var extrasData =
     "e2b9863c-44ff-4c72-b69f-3cc5d9e08c03": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 1537,
-            "positive": 1212,
+            "total": 1538,
+            "positive": 1213,
             "negative": 325
         },
         "dlc": {
@@ -23553,8 +23745,8 @@ var extrasData =
     "a855e787-3bef-4473-bd5b-55be68ffa4e4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 618,
-            "positive": 598,
+            "total": 619,
+            "positive": 599,
             "negative": 20
         },
         "dlc": {
@@ -23591,8 +23783,8 @@ var extrasData =
     "f1efad3d-6da5-4c8c-b64a-288e04734425": {
         "reviews": {
             "description": "Very Positive",
-            "total": 298,
-            "positive": 266,
+            "total": 299,
+            "positive": 267,
             "negative": 32
         },
         "dlc": {
@@ -23629,9 +23821,9 @@ var extrasData =
     "d5fa9983-ebaa-4faf-8c5a-f537c15c0f77": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 855,
-            "positive": 654,
-            "negative": 201
+            "total": 857,
+            "positive": 658,
+            "negative": 199
         }
     },
     "9a78d14f-7e4a-4aa9-8488-54295f8c8a3b": {
@@ -23647,27 +23839,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 499,
-                    "final": 299
+                    "final": 499
                 },
                 "EUR": {
                     "initial": 499,
-                    "final": 299
+                    "final": 499
                 },
                 "GBP": {
                     "initial": 429,
-                    "final": 257
+                    "final": 429
                 },
                 "JPY": {
                     "initial": 50900,
-                    "final": 30500
+                    "final": 50900
                 },
                 "AUD": {
                     "initial": 750,
-                    "final": 450
+                    "final": 750
                 },
                 "CAD": {
                     "initial": 649,
-                    "final": 389
+                    "final": 649
                 }
             }
         }
@@ -23683,8 +23875,8 @@ var extrasData =
     "ee570edc-b9b9-4f3a-be8d-61c99027a554": {
         "reviews": {
             "description": "Very Positive",
-            "total": 406,
-            "positive": 395,
+            "total": 408,
+            "positive": 397,
             "negative": 11
         },
         "dlc": {
@@ -23721,9 +23913,9 @@ var extrasData =
     "651632fe-874a-41f6-a379-f3896feb69ef": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6556,
-            "positive": 6008,
-            "negative": 548
+            "total": 6569,
+            "positive": 6018,
+            "negative": 551
         },
         "dlc": {
             "description": "Shotgun King: The Final Checkmate Soundtrack",
@@ -23767,9 +23959,9 @@ var extrasData =
     "f243c055-9657-4e64-8e64-492d27f03e1f": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 16291,
-            "positive": 15591,
-            "negative": 700
+            "total": 16303,
+            "positive": 15605,
+            "negative": 698
         },
         "dlc": {
             "description": "Shovel Knight: Treasure Trove Soundtrack Collection",
@@ -23815,27 +24007,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 299,
-                    "final": 299
+                    "final": 149
                 },
                 "EUR": {
                     "initial": 299,
-                    "final": 299
+                    "final": 149
                 },
                 "GBP": {
                     "initial": 249,
-                    "final": 249
+                    "final": 124
                 },
                 "JPY": {
                     "initial": 35000,
-                    "final": 35000
+                    "final": 17500
                 },
                 "AUD": {
                     "initial": 450,
-                    "final": 450
+                    "final": 225
                 },
                 "CAD": {
                     "initial": 389,
-                    "final": 389
+                    "final": 194
                 }
             }
         }
@@ -23843,9 +24035,9 @@ var extrasData =
     "53c4e85f-4e43-4d51-823e-cabe21302e88": {
         "reviews": {
             "description": "Very Positive",
-            "total": 22646,
-            "positive": 20881,
-            "negative": 1765
+            "total": 22781,
+            "positive": 21000,
+            "negative": 1781
         },
         "dlc": {
             "description": "Sifu Deluxe Cosmetic Pack\n\nThe Sound of Sifu\n\nThe Art of Sifu",
@@ -23889,9 +24081,9 @@ var extrasData =
     "0935082f-3189-4d1a-9230-d1ba41badffa": {
         "reviews": {
             "description": "Mixed",
-            "total": 644,
-            "positive": 419,
-            "negative": 225
+            "total": 646,
+            "positive": 420,
+            "negative": 226
         }
     },
     "056e10c5-3640-4fd7-876a-a8000637e7d8": {
@@ -23905,24 +24097,24 @@ var extrasData =
     "99c70f13-e67c-4163-b20a-91f7fdf0e08f": {
         "reviews": {
             "description": "Mixed",
-            "total": 993,
-            "positive": 643,
+            "total": 995,
+            "positive": 645,
             "negative": 350
         }
     },
     "27231b8f-889d-4b78-9286-ff0cf434d97a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 188,
-            "positive": 180,
+            "total": 189,
+            "positive": 181,
             "negative": 8
         }
     },
     "f0577c2f-0ead-4fa0-822d-5af8efdbf361": {
         "reviews": {
             "description": "Very Positive",
-            "total": 176,
-            "positive": 169,
+            "total": 177,
+            "positive": 170,
             "negative": 7
         },
         "dlc": {
@@ -23967,9 +24159,9 @@ var extrasData =
     "e14c381f-b333-4792-9bb7-0439f3d34860": {
         "reviews": {
             "description": "Very Positive",
-            "total": 55525,
-            "positive": 51803,
-            "negative": 3722
+            "total": 55579,
+            "positive": 51853,
+            "negative": 3726
         },
         "dlc": {
             "description": "Skul: The Hero Slayer - Mythology Pack\n\nSkul: The Hero Slayer Soundtrack",
@@ -24043,9 +24235,9 @@ var extrasData =
     "6d74d6f6-7717-4827-aa3e-de0d2b0b9129": {
         "reviews": {
             "description": "Very Positive",
-            "total": 31501,
-            "positive": 27710,
-            "negative": 3791
+            "total": 31507,
+            "positive": 27715,
+            "negative": 3792
         },
         "dlc": {
             "description": "Skullgirls: Season 1 Pass\n\nSkullgirls: Umbrella\n\nSkullgirls: Annie\n\nSkullgirls: Original Soundtrack\n\nSkullgirls: Digital Art Compendium\n\nSkullgirls: Black Dahlia\n\nSkullgirls: Marie",
@@ -24089,8 +24281,8 @@ var extrasData =
     "0821c9da-3d94-4e05-9bfc-44f5f4ca8739": {
         "reviews": {
             "description": "Very Positive",
-            "total": 660,
-            "positive": 566,
+            "total": 661,
+            "positive": 567,
             "negative": 94
         }
     },
@@ -24173,25 +24365,25 @@ var extrasData =
     "cea7a0a1-859e-4b54-b4ae-89e5b9f2ff4a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 138,
+            "total": 139,
             "positive": 117,
-            "negative": 21
+            "negative": 22
         }
     },
     "ea897b12-27bd-43cd-a04e-9ae4a06b9f08": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1811,
-            "positive": 1651,
-            "negative": 160
+            "total": 1820,
+            "positive": 1659,
+            "negative": 161
         }
     },
     "f5002235-3248-453d-93b8-b96736bb4712": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 187053,
-            "positive": 182865,
-            "negative": 4188
+            "total": 187458,
+            "positive": 183266,
+            "negative": 4192
         },
         "dlc": {
             "description": "Slay the Spire - Soundtrack",
@@ -24227,8 +24419,8 @@ var extrasData =
     "5d413ab9-5a78-4f6b-a897-e223a48847bc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 9076,
-            "positive": 7999,
+            "total": 9075,
+            "positive": 7998,
             "negative": 1077
         },
         "dlc": {
@@ -24319,8 +24511,8 @@ var extrasData =
     "5d0991e8-46fa-48c9-a555-63e46d52fcd3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 83,
-            "positive": 79,
+            "total": 85,
+            "positive": 81,
             "negative": 4
         }
     },
@@ -24335,8 +24527,8 @@ var extrasData =
     "2eb68ba5-37b4-447e-b015-1ffaaa64efb8": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3221,
-            "positive": 2573,
+            "total": 3220,
+            "positive": 2572,
             "negative": 648
         }
     },
@@ -24367,8 +24559,8 @@ var extrasData =
     "8089c7b4-1638-4ed9-ad97-cc4a2f03286d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1294,
-            "positive": 1178,
+            "total": 1296,
+            "positive": 1180,
             "negative": 116
         },
         "dlc": {
@@ -24377,27 +24569,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 999,
-                    "final": 999
+                    "final": 499
                 },
                 "EUR": {
                     "initial": 929,
-                    "final": 929
+                    "final": 464
                 },
                 "GBP": {
                     "initial": 799,
-                    "final": 799
+                    "final": 399
                 },
                 "JPY": {
                     "initial": 135000,
-                    "final": 135000
+                    "final": 67500
                 },
                 "AUD": {
                     "initial": 1495,
-                    "final": 1495
+                    "final": 747
                 },
                 "CAD": {
                     "initial": 1349,
-                    "final": 1349
+                    "final": 674
                 }
             }
         }
@@ -24413,8 +24605,8 @@ var extrasData =
     "fc60e1fe-a571-4b73-9926-91708fbb5c2e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 107,
-            "positive": 105,
+            "total": 108,
+            "positive": 106,
             "negative": 2
         },
         "dlc": {
@@ -24459,9 +24651,9 @@ var extrasData =
     "15dad01b-d40b-4c41-a635-4025f440edc5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 17265,
-            "positive": 16144,
-            "negative": 1121
+            "total": 17273,
+            "positive": 16151,
+            "negative": 1122
         },
         "dlc": {
             "description": "Sonic and All-Stars Racing Transformed - Yogscast DLC",
@@ -24493,9 +24685,9 @@ var extrasData =
     "55b8746d-0642-4d11-aca0-a9f8e7c4c6ef": {
         "reviews": {
             "description": "Very Positive",
-            "total": 26003,
-            "positive": 23190,
-            "negative": 2813
+            "total": 26039,
+            "positive": 23224,
+            "negative": 2815
         },
         "dlc": {
             "description": "SONIC ADVENTURE 2: BATTLE",
@@ -24531,17 +24723,17 @@ var extrasData =
     "15e19c86-8a9b-409a-9f21-1da650e1b94c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 17094,
-            "positive": 15636,
-            "negative": 1458
+            "total": 17127,
+            "positive": 15668,
+            "negative": 1459
         }
     },
     "c7b42e5c-0519-4734-a517-0d1708cd1b47": {
         "reviews": {
             "description": "Mixed",
-            "total": 8041,
-            "positive": 4788,
-            "negative": 3253
+            "total": 8045,
+            "positive": 4789,
+            "negative": 3256
         },
         "dlc": {
             "description": "Sanic T-Shirts DLC\n\nPersona 5 Costume DLC\n\nShadow Costume DLC\n\nEpisode Shadow DLC\n\nSEGA Pack DLC\n\nSuper Sonic DLC",
@@ -24577,17 +24769,17 @@ var extrasData =
     "8f991572-ee0e-4d33-a3e7-43d8c804b7e7": {
         "reviews": {
             "description": "Mixed",
-            "total": 5037,
-            "positive": 3145,
-            "negative": 1892
+            "total": 5042,
+            "positive": 3148,
+            "negative": 1894
         }
     },
     "6b5832bb-74ab-4c09-b20e-aad4afbd8e5c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 26380,
-            "positive": 24732,
-            "negative": 1648
+            "total": 26394,
+            "positive": 24748,
+            "negative": 1646
         },
         "dlc": {
             "description": "Sonic Mania - Encore DLC",
@@ -24623,9 +24815,9 @@ var extrasData =
     "95fa3a05-6beb-4ebc-8ec1-0c614293dfdd": {
         "reviews": {
             "description": "Mixed",
-            "total": 3504,
-            "positive": 1413,
-            "negative": 2091
+            "total": 3508,
+            "positive": 1412,
+            "negative": 2096
         }
     },
     "70c9bccc-9d37-413c-a80c-f0360df7f387": {
@@ -24669,9 +24861,9 @@ var extrasData =
     "cca83e28-7e1a-4a61-a6de-77fa30cfdc24": {
         "reviews": {
             "description": "Mixed",
-            "total": 2753,
-            "positive": 1886,
-            "negative": 867
+            "total": 2759,
+            "positive": 1889,
+            "negative": 870
         },
         "dlc": {
             "description": "Souldiers - OST\n\nSouldiers - Artbook",
@@ -24715,9 +24907,9 @@ var extrasData =
     "db7c0ad7-2f6c-43c3-9cf6-2cac551cee66": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 1091,
+            "total": 1092,
             "positive": 819,
-            "negative": 272
+            "negative": 273
         }
     },
     "7918bc97-0c7b-48f9-b833-e9d781b91b95": {
@@ -24733,27 +24925,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 799,
-                    "final": 799
+                    "final": 359
                 },
                 "EUR": {
                     "initial": 779,
-                    "final": 779
+                    "final": 350
                 },
                 "GBP": {
                     "initial": 669,
-                    "final": 669
+                    "final": 301
                 },
                 "JPY": {
                     "initial": 92000,
-                    "final": 92000
+                    "final": 41400
                 },
                 "AUD": {
                     "initial": 1179,
-                    "final": 1179
+                    "final": 530
                 },
                 "CAD": {
                     "initial": 1049,
-                    "final": 1049
+                    "final": 472
                 }
             }
         }
@@ -24761,8 +24953,8 @@ var extrasData =
     "bb77e5e6-3121-4fc5-8b1d-b3d965bad952": {
         "reviews": {
             "description": "Very Positive",
-            "total": 812,
-            "positive": 729,
+            "total": 811,
+            "positive": 728,
             "negative": 83
         },
         "dlc": {
@@ -24771,27 +24963,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 299,
-                    "final": 299
+                    "final": 89
                 },
                 "EUR": {
                     "initial": 299,
-                    "final": 299
+                    "final": 89
                 },
                 "GBP": {
                     "initial": 199,
-                    "final": 199
+                    "final": 59
                 },
                 "JPY": {
                     "initial": 29800,
-                    "final": 29800
+                    "final": 8900
                 },
                 "AUD": {
                     "initial": 450,
-                    "final": 450
+                    "final": 135
                 },
                 "CAD": {
                     "initial": 329,
-                    "final": 329
+                    "final": 98
                 }
             }
         }
@@ -24815,8 +25007,8 @@ var extrasData =
     "39fa3467-ce89-44d9-b316-f3440520e020": {
         "reviews": {
             "description": "Very Positive",
-            "total": 243,
-            "positive": 218,
+            "total": 245,
+            "positive": 220,
             "negative": 25
         }
     },
@@ -24893,9 +25085,9 @@ var extrasData =
     "1f1f23e6-ee09-4029-8973-b6ab79552e17": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 164,
+            "total": 165,
             "positive": 131,
-            "negative": 33
+            "negative": 34
         }
     },
     "39e75a1a-5f37-4bff-8c1c-e77aeafce9cc": {
@@ -24955,9 +25147,9 @@ var extrasData =
     "f07bc03c-472d-4042-addf-03de29dbf080": {
         "reviews": {
             "description": "Very Positive",
-            "total": 36837,
-            "positive": 34623,
-            "negative": 2214
+            "total": 36844,
+            "positive": 34628,
+            "negative": 2216
         },
         "dlc": {
             "description": "SpeedRunners - Civil Dispute! Character Pack\n\nSpeedRunners - Youtuber Pack 1\n\nSpeedRunners - Youtuber Pack 2",
@@ -25001,17 +25193,17 @@ var extrasData =
     "09fbf7f1-f244-4d42-be42-69a77d360ec5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 16353,
-            "positive": 15058,
-            "negative": 1295
+            "total": 16356,
+            "positive": 15060,
+            "negative": 1296
         }
     },
     "3f2fc86a-dd04-4d7d-bd38-21522ce7865f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 20735,
-            "positive": 19284,
-            "negative": 1451
+            "total": 20750,
+            "positive": 19295,
+            "negative": 1455
         },
         "dlc": {
             "description": "Spelunky 2 Soundtrack",
@@ -25047,8 +25239,8 @@ var extrasData =
     "80acd6d1-1c21-42c2-8d16-3425655b579f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5732,
-            "positive": 5302,
+            "total": 5735,
+            "positive": 5305,
             "negative": 430
         },
         "dlc": {
@@ -25085,8 +25277,8 @@ var extrasData =
     "1b1be0c6-5088-4f26-8c1a-2b92a989efbe": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4075,
-            "positive": 3961,
+            "total": 4081,
+            "positive": 3967,
             "negative": 114
         },
         "dlc": {
@@ -25123,8 +25315,8 @@ var extrasData =
     "179162b0-62a4-458c-8938-59afe45bf59d": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 87,
-            "positive": 69,
+            "total": 88,
+            "positive": 70,
             "negative": 18
         }
     },
@@ -25139,8 +25331,8 @@ var extrasData =
     "ebae4e00-5212-47ab-8789-e3fdce846428": {
         "reviews": {
             "description": "Very Positive",
-            "total": 410,
-            "positive": 394,
+            "total": 411,
+            "positive": 395,
             "negative": 16
         },
         "dlc": {
@@ -25355,8 +25547,8 @@ var extrasData =
     "66b4a1be-b77e-4a2b-9872-ac695081e091": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2981,
-            "positive": 2885,
+            "total": 2991,
+            "positive": 2895,
             "negative": 96
         }
     },
@@ -25401,9 +25593,9 @@ var extrasData =
     "c98bced4-e6d7-4034-8e85-5208d1487f8d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 918598,
-            "positive": 904233,
-            "negative": 14365
+            "total": 921045,
+            "positive": 906654,
+            "negative": 14391
         },
         "dlc": {
             "description": "Stardew Valley Soundtrack",
@@ -25477,8 +25669,8 @@ var extrasData =
     "d6e07abc-58d9-4ffa-a436-6525e90235be": {
         "reviews": {
             "description": "Very Positive",
-            "total": 698,
-            "positive": 621,
+            "total": 699,
+            "positive": 622,
             "negative": 77
         },
         "dlc": {
@@ -25553,8 +25745,8 @@ var extrasData =
     "64bfa238-9f21-494e-954a-b4ca5210499f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1184,
-            "positive": 1048,
+            "total": 1185,
+            "positive": 1049,
             "negative": 136
         },
         "dlc": {
@@ -25629,9 +25821,9 @@ var extrasData =
     "a28536f3-626a-4aa3-85c1-543ad5ceef71": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 8157,
-            "positive": 7785,
-            "negative": 372
+            "total": 8184,
+            "positive": 7811,
+            "negative": 373
         },
         "dlc": {
             "description": "SteamWorld Dig 2 OST Feat. El Huervo",
@@ -25667,9 +25859,9 @@ var extrasData =
     "32f4eafa-dd04-4d7b-8b5f-88993b39a075": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5941,
-            "positive": 5588,
-            "negative": 353
+            "total": 5948,
+            "positive": 5594,
+            "negative": 354
         },
         "dlc": {
             "description": "SteamWorld Heist: The Outsider\n\nHatbox: Hatful Eight + 2 (SteamWorld Heist)\n\nHatbox: Three 4 Free (SteamWorld Heist)\n\nMusic from SteamWorld Heist - Steam Powered Giraffe",
@@ -25751,9 +25943,9 @@ var extrasData =
     "83ed997b-212c-4976-a279-4e8101a122bb": {
         "reviews": {
             "description": "Very Positive",
-            "total": 938,
-            "positive": 823,
-            "negative": 115
+            "total": 940,
+            "positive": 824,
+            "negative": 116
         }
     },
     "eaec4ce7-3af4-41f3-ab7c-d18060f7548d": {
@@ -25821,9 +26013,9 @@ var extrasData =
     "93cdb4e2-141d-497e-8857-86f411d9cdb4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 10796,
-            "positive": 9097,
-            "negative": 1699
+            "total": 10801,
+            "positive": 9101,
+            "negative": 1700
         },
         "dlc": {
             "description": "Strange Brigade - Season Pass\n\nStrange Brigade - Secret Service Weapons Pack\n\nStrange Brigade - Gentleman Explorer Character Pack\n\nStrange Brigade - Texas Cowboy Character Pack\n\nStrange Brigade - American Aviatrix Character Expansion Pack\n\nStrange Brigade - The Thrice Damned 1: Isle of the Dead\n\nStrange Brigade - The Thrice Damned 2: The Sunken Kingdom\n\nStrange Brigade - Japanese Naval Officer Character Expansion Pack\n\nStrange Brigade - Maharani Huntress Character Expansion Pack\n\nStrange Brigade - The Thrice Damned 3: Great Pyramid of Bes",
@@ -25883,16 +26075,16 @@ var extrasData =
     "256ec130-6f8c-46f6-b0e3-d690b9ea9f92": {
         "reviews": {
             "description": "Very Positive",
-            "total": 888,
+            "total": 889,
             "positive": 790,
-            "negative": 98
+            "negative": 99
         }
     },
     "911f85af-c11e-4933-9882-f6a0f56cbb7c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 679,
-            "positive": 590,
+            "total": 680,
+            "positive": 591,
             "negative": 89
         },
         "dlc": {
@@ -25901,27 +26093,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 999,
-                    "final": 999
+                    "final": 499
                 },
                 "EUR": {
                     "initial": 999,
-                    "final": 999
+                    "final": 499
                 },
                 "GBP": {
                     "initial": 799,
-                    "final": 799
+                    "final": 399
                 },
                 "JPY": {
                     "initial": 101000,
-                    "final": 101000
+                    "final": 50500
                 },
                 "AUD": {
                     "initial": 1450,
-                    "final": 1450
+                    "final": 725
                 },
                 "CAD": {
                     "initial": 1149,
-                    "final": 1149
+                    "final": 574
                 }
             }
         }
@@ -26089,9 +26281,9 @@ var extrasData =
     "e55d67c0-7198-4cfe-a06c-e6b29e695a0f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5005,
-            "positive": 4104,
-            "negative": 901
+            "total": 5016,
+            "positive": 4111,
+            "negative": 905
         },
         "dlc": {
             "description": "Sundered: Eldritch Edition - OST",
@@ -26099,27 +26291,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 999,
-                    "final": 149
+                    "final": 999
                 },
                 "EUR": {
                     "initial": 975,
-                    "final": 146
+                    "final": 975
                 },
                 "GBP": {
                     "initial": 850,
-                    "final": 127
+                    "final": 850
                 },
                 "JPY": {
                     "initial": 120000,
-                    "final": 18000
+                    "final": 120000
                 },
                 "AUD": {
                     "initial": 1450,
-                    "final": 217
+                    "final": 1450
                 },
                 "CAD": {
                     "initial": 1299,
-                    "final": 194
+                    "final": 1299
                 }
             }
         }
@@ -26151,8 +26343,8 @@ var extrasData =
     "2344f80a-d718-4300-ac4c-797e126f097c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 325,
-            "positive": 299,
+            "total": 326,
+            "positive": 300,
             "negative": 26
         },
         "dlc": {
@@ -26205,9 +26397,9 @@ var extrasData =
     "05d31dda-14ce-4b42-85d0-ce260a8379f0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 10194,
-            "positive": 8825,
-            "negative": 1369
+            "total": 10221,
+            "positive": 8846,
+            "negative": 1375
         }
     },
     "ef102261-6ec4-4325-819a-620f7b70c793": {
@@ -26251,8 +26443,8 @@ var extrasData =
     "c94a0769-2ea6-42bb-9e50-d766080e1bd8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 485,
-            "positive": 417,
+            "total": 486,
+            "positive": 418,
             "negative": 68
         },
         "dlc": {
@@ -26289,17 +26481,17 @@ var extrasData =
     "6699e6ad-ac54-4af1-a592-142f48ceeb70": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 5063,
-            "positive": 4874,
-            "negative": 189
+            "total": 5077,
+            "positive": 4886,
+            "negative": 191
         }
     },
     "cab0da6c-23e3-4f9d-8ad4-6dcdcc84fc8d": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 423,
-            "positive": 330,
-            "negative": 93
+            "total": 427,
+            "positive": 333,
+            "negative": 94
         }
     },
     "ce890e5f-851c-438d-863f-a0cabe4b19ad": {
@@ -26359,16 +26551,16 @@ var extrasData =
     "8342ba10-667e-4776-a343-840e3c659cdb": {
         "reviews": {
             "description": "Positive",
-            "total": 30,
-            "positive": 29,
+            "total": 31,
+            "positive": 30,
             "negative": 1
         }
     },
     "737d9bce-2530-4a7d-ad96-49cab2a4164b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 156,
-            "positive": 144,
+            "total": 155,
+            "positive": 143,
             "negative": 12
         }
     },
@@ -26391,9 +26583,9 @@ var extrasData =
     "b895c098-e2b1-4073-ba4c-e55fbd50d2b9": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 24759,
-            "positive": 23982,
-            "negative": 777
+            "total": 24770,
+            "positive": 23991,
+            "negative": 779
         }
     },
     "e17a963d-bc43-4286-98bf-bc9c43ab1d83": {
@@ -26515,8 +26707,8 @@ var extrasData =
     "81e61570-a500-4dec-8e9f-3fa2c9b2796a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 374,
-            "positive": 320,
+            "total": 377,
+            "positive": 323,
             "negative": 54
         },
         "dlc": {
@@ -26525,27 +26717,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 798,
-                    "final": 198
+                    "final": 798
                 },
                 "EUR": {
                     "initial": 798,
-                    "final": 198
+                    "final": 798
                 },
                 "GBP": {
                     "initial": 698,
-                    "final": 174
+                    "final": 698
                 },
                 "JPY": {
                     "initial": 83000,
-                    "final": 20700
+                    "final": 83000
                 },
                 "AUD": {
                     "initial": 1200,
-                    "final": 299
+                    "final": 1200
                 },
                 "CAD": {
                     "initial": 908,
-                    "final": 226
+                    "final": 908
                 }
             }
         }
@@ -26553,9 +26745,9 @@ var extrasData =
     "3a32bb28-8d9f-4af1-ae4e-9d0eab7d968d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 35961,
-            "positive": 33997,
-            "negative": 1964
+            "total": 35975,
+            "positive": 34009,
+            "negative": 1966
         },
         "dlc": {
             "description": "Super Meat Boy Race Mode",
@@ -26591,9 +26783,9 @@ var extrasData =
     "b6d65b4d-43e0-4547-9439-810f581b01fb": {
         "reviews": {
             "description": "Mixed",
-            "total": 1660,
-            "positive": 930,
-            "negative": 730
+            "total": 1657,
+            "positive": 928,
+            "negative": 729
         },
         "dlc": {
             "description": "Super Meat Boy Forever Soundtrack",
@@ -26667,8 +26859,8 @@ var extrasData =
     "2a785e59-1fe8-49eb-b573-402c4b80d5d4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1490,
-            "positive": 1240,
+            "total": 1489,
+            "positive": 1239,
             "negative": 250
         },
         "dlc": {
@@ -26767,9 +26959,9 @@ var extrasData =
     "613b36b7-db4f-435d-bc58-747b4c39def4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 133,
-            "positive": 131,
-            "negative": 2
+            "total": 136,
+            "positive": 133,
+            "negative": 3
         },
         "dlc": {
             "description": "Super Puzzled Cat Soundtrack",
@@ -26805,9 +26997,9 @@ var extrasData =
     "95f0aaf7-806a-4376-a79d-9fa61e49ffc7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 211,
-            "positive": 175,
-            "negative": 36
+            "total": 213,
+            "positive": 176,
+            "negative": 37
         }
     },
     "ea3ed105-f3fd-49ba-8abd-6db5928a1fd0": {
@@ -26913,8 +27105,8 @@ var extrasData =
     "bdd27d21-028d-430e-9ddd-b8b112e530c1": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 70,
-            "positive": 51,
+            "total": 71,
+            "positive": 52,
             "negative": 19
         }
     },
@@ -26929,25 +27121,25 @@ var extrasData =
     "633d7ddf-c346-42c1-a5d6-9666f2a05e49": {
         "reviews": {
             "description": "Very Positive",
-            "total": 39050,
-            "positive": 35652,
+            "total": 39063,
+            "positive": 35665,
             "negative": 3398
         }
     },
     "21f7d48b-7f70-4a34-8960-4d1320b28fc2": {
         "reviews": {
             "description": "Very Positive",
-            "total": 9213,
-            "positive": 7557,
-            "negative": 1656
+            "total": 9220,
+            "positive": 7561,
+            "negative": 1659
         }
     },
     "d227fc8d-cfc0-481f-b58c-266c95a927fd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12141,
-            "positive": 10244,
-            "negative": 1897
+            "total": 12151,
+            "positive": 10251,
+            "negative": 1900
         },
         "dlc": {
             "description": "SUPERHOT: MIND CONTROL DELETE Soundtrack",
@@ -26983,9 +27175,9 @@ var extrasData =
     "71a9ee46-e8ff-4736-9c37-275536a9fec4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 30647,
-            "positive": 28987,
-            "negative": 1660
+            "total": 30686,
+            "positive": 29023,
+            "negative": 1663
         },
         "dlc": {
             "description": "Superliminal Double-Album Soundtrack",
@@ -27037,9 +27229,9 @@ var extrasData =
     "5b850aee-4ee8-43dd-8e6d-054f4d1666e1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 16535,
-            "positive": 13591,
-            "negative": 2944
+            "total": 16548,
+            "positive": 13598,
+            "negative": 2950
         }
     },
     "539cff04-7157-4a17-9181-5713f26b3ab9": {
@@ -27053,24 +27245,24 @@ var extrasData =
     "a29b9402-f55f-4650-b520-c1a35751424e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5703,
-            "positive": 5319,
-            "negative": 384
+            "total": 5724,
+            "positive": 5339,
+            "negative": 385
         }
     },
     "84d8ae66-58ba-490c-ad50-44b27a151a4a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 196,
-            "positive": 175,
-            "negative": 21
+            "total": 200,
+            "positive": 178,
+            "negative": 22
         }
     },
     "b52c64a3-79ca-4b70-9b0d-39f7cc45c53b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12792,
-            "positive": 12036,
+            "total": 12797,
+            "positive": 12041,
             "negative": 756
         },
         "dlc": {
@@ -27107,8 +27299,8 @@ var extrasData =
     "0b5b2ae4-0b88-4612-843c-7e10b839f18b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 183,
-            "positive": 176,
+            "total": 184,
+            "positive": 177,
             "negative": 7
         },
         "dlc": {
@@ -27145,16 +27337,16 @@ var extrasData =
     "6364af71-93b3-437d-8989-41cc74e597ec": {
         "reviews": {
             "description": "Very Positive",
-            "total": 281,
-            "positive": 271,
+            "total": 282,
+            "positive": 272,
             "negative": 10
         }
     },
     "02d4e307-8ef7-4e3c-b729-8ec59caf564c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 57,
-            "positive": 50,
+            "total": 59,
+            "positive": 52,
             "negative": 7
         },
         "dlc": {
@@ -27191,9 +27383,9 @@ var extrasData =
     "92c8c25e-67e2-4bb3-a666-77971669932b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1112,
-            "positive": 951,
-            "negative": 161
+            "total": 1123,
+            "positive": 961,
+            "negative": 162
         },
         "dlc": {
             "description": "Taiko no Tatsujin: Rhythm Festival - Anime Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Pops Collection\nTaiko no Tatsujin: Rhythm Festival - Vocaloid\u2122 Songs Collection\nTaiko no Tatsujin: Rhythm Festival - Namco Game Music Pack\nTaiko no Tatsujin: Rhythm Festival - KAGAMINE RIN, KAGAMINE LEN Pack\nTaiko no Tatsujin: Rhythm Festival - Timeless Hits Pack\nTaiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - KASANE TETO Pack\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack\nTaiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - DRAGON BALL Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - One Piece Anime 25th Anniversary Collab. Pack\nTaiko no Tatsujin: Rhythm Festival - ONE PIECE Anime Songs Pack\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 3\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 4\nTaiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 5\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 1\nTaiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 2\nTaiko no Tatsujin: Rhythm Festival - 2000s Pops Pack\nTaiko no Tatsujin: Rhythm Festival - KAMEN RIDER Opening Theme Songs Pack\nTaiko no Tatsujin: Rhythm Festival - SPY\u00d7FAMILY Pack",
@@ -27229,9 +27421,9 @@ var extrasData =
     "b5c37089-55a1-4cd5-81d4-1202bf2d649b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12757,
-            "positive": 11269,
-            "negative": 1488
+            "total": 12783,
+            "positive": 11290,
+            "negative": 1493
         },
         "dlc": {
             "description": "Tails of Iron - Crimson Knight DLC\n\nTails of Iron - Soundtrack\n\nTails of Iron - Artbook",
@@ -27267,8 +27459,8 @@ var extrasData =
     "7a442e2c-a4d6-4050-a257-5cd0bfb33771": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 304,
-            "positive": 240,
+            "total": 305,
+            "positive": 241,
             "negative": 64
         },
         "dlc": {
@@ -27277,27 +27469,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 199,
-                    "final": 99
+                    "final": 199
                 },
                 "EUR": {
                     "initial": 199,
-                    "final": 99
+                    "final": 199
                 },
                 "GBP": {
                     "initial": 169,
-                    "final": 84
+                    "final": 169
                 },
                 "JPY": {
                     "initial": 23500,
-                    "final": 11700
+                    "final": 23500
                 },
                 "AUD": {
                     "initial": 295,
-                    "final": 147
+                    "final": 295
                 },
                 "CAD": {
                     "initial": 259,
-                    "final": 129
+                    "final": 259
                 }
             }
         }
@@ -27305,8 +27497,8 @@ var extrasData =
     "278d11dd-b071-4f84-b230-7cca7f38cafc": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 6813,
-            "positive": 6476,
+            "total": 6816,
+            "positive": 6479,
             "negative": 337
         },
         "dlc": {
@@ -27367,49 +27559,49 @@ var extrasData =
     "6b59c0ef-4973-4766-85c9-7a04ae185204": {
         "reviews": {
             "description": "Very Positive",
-            "total": 367,
-            "positive": 306,
-            "negative": 61
+            "total": 368,
+            "positive": 308,
+            "negative": 60
         }
     },
     "104bd545-7ba7-4825-a618-f85586bfb8d3": {
         "reviews": {
             "description": "Very Positive",
             "total": 316,
-            "positive": 279,
-            "negative": 37
+            "positive": 278,
+            "negative": 38
         }
     },
     "0691dcc6-5d17-4223-80f0-a9c74da1c0f5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 565,
-            "positive": 522,
+            "total": 566,
+            "positive": 523,
             "negative": 43
         }
     },
     "97024af3-5ddb-4c59-81bc-42aecb40e9e4": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 3396,
-            "positive": 2494,
-            "negative": 902
+            "total": 3398,
+            "positive": 2495,
+            "negative": 903
         }
     },
     "1b2a5997-9812-4099-bcb7-b215e17de447": {
         "reviews": {
             "description": "Very Positive",
-            "total": 91,
-            "positive": 84,
+            "total": 93,
+            "positive": 86,
             "negative": 7
         }
     },
     "f191e27e-6a6e-4323-b35a-442c32819b05": {
         "reviews": {
             "description": "Very Positive",
-            "total": 13924,
-            "positive": 13144,
-            "negative": 780
+            "total": 13933,
+            "positive": 13154,
+            "negative": 779
         },
         "dlc": {
             "description": "Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles\n\nTeenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock",
@@ -27507,8 +27699,8 @@ var extrasData =
     "c8963b90-9a90-4adb-939f-9491fd1e5fe3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 158,
-            "positive": 158,
+            "total": 159,
+            "positive": 159,
             "negative": 0
         }
     },
@@ -27553,9 +27745,9 @@ var extrasData =
     "d28e20d0-b092-45c6-8c5b-25e448b09215": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8167,
-            "positive": 7749,
-            "negative": 418
+            "total": 8178,
+            "positive": 7759,
+            "negative": 419
         },
         "dlc": {
             "description": "Tetris\u00ae Effect: Connected Digital Deluxe DLC\n\nTetris\u00ae Effect: Connected Original Soundtrack",
@@ -27591,17 +27783,55 @@ var extrasData =
     "c77a43b5-cd05-48c2-8f23-d7bc8e4d7e82": {
         "reviews": {
             "description": "Very Positive",
-            "total": 473,
-            "positive": 407,
+            "total": 478,
+            "positive": 412,
             "negative": 66
+        }
+    },
+    "61591deb-f0bb-4635-b8a6-d5552384ebbb": {
+        "reviews": {
+            "description": "Very Positive",
+            "total": 3629,
+            "positive": 3249,
+            "negative": 380
+        },
+        "dlc": {
+            "description": "TEVI - Original Soundtrack",
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 699,
+                    "final": 699
+                },
+                "EUR": {
+                    "initial": 689,
+                    "final": 689
+                },
+                "GBP": {
+                    "initial": 589,
+                    "final": 589
+                },
+                "JPY": {
+                    "initial": 100000,
+                    "final": 100000
+                },
+                "AUD": {
+                    "initial": 1025,
+                    "final": 1025
+                },
+                "CAD": {
+                    "initial": 899,
+                    "final": 899
+                }
+            }
         }
     },
     "9bab3269-84b0-4638-ab62-6602b3238552": {
         "reviews": {
             "description": "Very Positive",
-            "total": 165,
+            "total": 166,
             "positive": 153,
-            "negative": 12
+            "negative": 13
         }
     },
     "41de5d7a-ceb7-45d8-87f5-29578dcad454": {
@@ -27645,8 +27875,8 @@ var extrasData =
     "5b566f77-c2a7-4312-96cd-109d5c163d46": {
         "reviews": {
             "description": "Very Positive",
-            "total": 15576,
-            "positive": 13859,
+            "total": 15580,
+            "positive": 13863,
             "negative": 1717
         },
         "dlc": {
@@ -27683,9 +27913,9 @@ var extrasData =
     "7d99fc2d-2728-454e-a8e7-8d173f0f710c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1515,
+            "total": 1517,
             "positive": 1311,
-            "negative": 204
+            "negative": 206
         }
     },
     "ae6ba2d4-8d91-4b99-b192-0f00514f0ffa": {
@@ -27699,9 +27929,9 @@ var extrasData =
     "99d2b728-2c5d-47da-a42a-ccd1b8949525": {
         "reviews": {
             "description": "Very Positive",
-            "total": 60787,
-            "positive": 57663,
-            "negative": 3124
+            "total": 60814,
+            "positive": 57685,
+            "negative": 3129
         },
         "dlc": {
             "description": "Binding of Isaac: Wrath of the Lamb",
@@ -27783,9 +28013,9 @@ var extrasData =
     "4d4ff35b-dac3-4372-8272-15d0fbb14132": {
         "reviews": {
             "description": "Very Positive",
-            "total": 438,
-            "positive": 427,
-            "negative": 11
+            "total": 444,
+            "positive": 434,
+            "negative": 10
         }
     },
     "38f9d39b-6b50-4bb8-91a5-83fc815c2163": {
@@ -27829,17 +28059,17 @@ var extrasData =
     "e192ebe3-7144-4bb2-b498-524830611cae": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1606,
-            "positive": 1524,
-            "negative": 82
+            "total": 1615,
+            "positive": 1532,
+            "negative": 83
         }
     },
     "94e05c0b-ff23-46b1-aca9-bae9058466a8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 7573,
-            "positive": 6631,
-            "negative": 942
+            "total": 7592,
+            "positive": 6644,
+            "negative": 948
         },
         "dlc": {
             "description": "The Dungeon Of Naheulbeuk - Back To The Futon\n\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Season Pass\n\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos Soundtrack\n\nThe Dungeon Of Naheulbeuk - Splat Jaypak's Arenas\n\nThe Dungeon Of Naheulbeuk: Ruins Of Limis\n\nThe Dungeon Of Naheulbeuk: The Amulet Of Chaos - Goodies Pack",
@@ -27847,27 +28077,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 7794,
-                    "final": 2784
+                    "final": 7794
                 },
                 "EUR": {
                     "initial": 7794,
-                    "final": 2784
+                    "final": 7794
                 },
                 "GBP": {
                     "initial": 5934,
-                    "final": 2121
+                    "final": 5934
                 },
                 "JPY": {
                     "initial": 809000,
-                    "final": 289800
+                    "final": 809000
                 },
                 "AUD": {
                     "initial": 11245,
-                    "final": 4023
+                    "final": 11245
                 },
                 "CAD": {
                     "initial": 8914,
-                    "final": 3187
+                    "final": 8914
                 }
             }
         }
@@ -27875,9 +28105,9 @@ var extrasData =
     "2f6ee5c4-671e-46a1-86a2-2658c609246d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3146,
-            "positive": 2939,
-            "negative": 207
+            "total": 3149,
+            "positive": 2941,
+            "negative": 208
         },
         "dlc": {
             "description": "The End is Nigh - Soundtrack",
@@ -27913,17 +28143,17 @@ var extrasData =
     "8b9fcbe3-b305-4eb4-a9e4-868c8b2f0d48": {
         "reviews": {
             "description": "Very Positive",
-            "total": 747,
-            "positive": 648,
+            "total": 748,
+            "positive": 649,
             "negative": 99
         }
     },
     "a3092524-b7af-4bb3-b85a-bbbdaef37a5f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 30842,
-            "positive": 26273,
-            "negative": 4569
+            "total": 30895,
+            "positive": 26321,
+            "negative": 4574
         },
         "dlc": {
             "description": "The Evil Within: The Assignment\n\nThe Evil Within - The Consequence\n\nThe Evil Within: The Executioner\n\nThe Evil Within - Soundtrack",
@@ -27959,17 +28189,17 @@ var extrasData =
     "2dd524ca-1c99-4a3d-bd6c-44a01279eb7f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 29321,
-            "positive": 27038,
+            "total": 29357,
+            "positive": 27074,
             "negative": 2283
         }
     },
     "1ec3cc07-7b89-42d2-8ca5-c2dbcb1abc13": {
         "reviews": {
             "description": "Very Positive",
-            "total": 23336,
-            "positive": 19268,
-            "negative": 4068
+            "total": 23571,
+            "positive": 19485,
+            "negative": 4086
         },
         "dlc": {
             "description": "The First Berserker: Khazan Deluxe Bonus\n\nThe First Berserker: Khazan Sound Track & Art Book",
@@ -28127,9 +28357,9 @@ var extrasData =
     "a0d3a472-f4df-41c2-a3a2-2e96a60f68e3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2624,
-            "positive": 2246,
-            "negative": 378
+            "total": 2627,
+            "positive": 2248,
+            "negative": 379
         }
     },
     "194666e1-0c6a-432e-ab24-74a1dbc3a2cd": {
@@ -28181,16 +28411,16 @@ var extrasData =
     "613e0c31-a97c-4aa4-a4d6-5f46cf4ae812": {
         "reviews": {
             "description": "Positive",
-            "total": 17,
-            "positive": 15,
+            "total": 18,
+            "positive": 16,
             "negative": 2
         }
     },
     "6c0f3d61-3046-48bd-88fd-5eac74f01306": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12225,
-            "positive": 11386,
+            "total": 12246,
+            "positive": 11407,
             "negative": 839
         },
         "dlc": {
@@ -28303,8 +28533,8 @@ var extrasData =
     "49ebe0dc-a6fd-44c8-9a01-aabf0ed98c69": {
         "reviews": {
             "description": "Very Positive",
-            "total": 469,
-            "positive": 388,
+            "total": 470,
+            "positive": 389,
             "negative": 81
         }
     },
@@ -28319,9 +28549,9 @@ var extrasData =
     "320cf073-420b-4ae1-9756-cffc45a53e06": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2751,
-            "positive": 2361,
-            "negative": 390
+            "total": 2778,
+            "positive": 2381,
+            "negative": 397
         },
         "dlc": {
             "description": "The Plucky Squire Soundtrack\n\nThe Plucky Squire - Digital Art Book",
@@ -28373,9 +28603,9 @@ var extrasData =
     "9885e972-2a91-4391-88dc-13c67f0a3c01": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 11153,
-            "positive": 8388,
-            "negative": 2765
+            "total": 11168,
+            "positive": 8396,
+            "negative": 2772
         },
         "dlc": {
             "description": "The Surge - The Good, the Bad and the Augmented Expansion\n\nThe Surge - A Walk in the Park DLC\n\nThe Surge - CREO Special Employee Kit\n\nThe Surge - Fire & Ice Weapon Pack\n\nThe Surge - Cutting Edge Pack",
@@ -28411,8 +28641,8 @@ var extrasData =
     "40849373-5f26-4115-93eb-e2645185480f": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 8693,
-            "positive": 6631,
+            "total": 8698,
+            "positive": 6636,
             "negative": 2062
         },
         "dlc": {
@@ -28449,9 +28679,9 @@ var extrasData =
     "e9b3ca3e-bdb4-4e49-86b3-305d7bc5b00f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1544,
-            "positive": 1256,
-            "negative": 288
+            "total": 1549,
+            "positive": 1262,
+            "negative": 287
         },
         "dlc": {
             "description": "The Textorcist - Soundtrack\n\nThe Textorcist: The Village\n\nThe Textorcist: The Village - Soundtrack",
@@ -28459,27 +28689,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 997,
-                    "final": 232
+                    "final": 997
                 },
                 "EUR": {
                     "initial": 997,
-                    "final": 232
+                    "final": 997
                 },
                 "GBP": {
                     "initial": 837,
-                    "final": 196
+                    "final": 837
                 },
                 "JPY": {
                     "initial": 116500,
-                    "final": 27300
+                    "final": 116500
                 },
                 "AUD": {
                     "initial": 1495,
-                    "final": 350
+                    "final": 1495
                 },
                 "CAD": {
                     "initial": 1297,
-                    "final": 303
+                    "final": 1297
                 }
             }
         }
@@ -28525,16 +28755,16 @@ var extrasData =
     "93847607-3a88-46a1-8834-c75482290eb0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 19289,
-            "positive": 16335,
-            "negative": 2954
+            "total": 19321,
+            "positive": 16363,
+            "negative": 2958
         }
     },
     "98e500cb-119d-458d-beb8-1f4901d32f29": {
         "reviews": {
             "description": "Very Positive",
-            "total": 859,
-            "positive": 744,
+            "total": 861,
+            "positive": 746,
             "negative": 115
         },
         "dlc": {
@@ -28571,8 +28801,8 @@ var extrasData =
     "92b8ec28-1282-4113-9fb7-1e078996fa00": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 796,
-            "positive": 786,
+            "total": 798,
+            "positive": 788,
             "negative": 10
         }
     },
@@ -28580,8 +28810,8 @@ var extrasData =
         "reviews": {
             "description": "Very Positive",
             "total": 2527,
-            "positive": 2103,
-            "negative": 424
+            "positive": 2102,
+            "negative": 425
         },
         "dlc": {
             "description": "They Bleed Pixels Soundtrack",
@@ -28617,9 +28847,9 @@ var extrasData =
     "cdcc1402-4bae-4552-b07c-62f70590d263": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 23389,
-            "positive": 17438,
-            "negative": 5951
+            "total": 23397,
+            "positive": 17445,
+            "negative": 5952
         },
         "dlc": {
             "description": "THIEF: The Bank Heist\n\nTHIEF DLC: The Forsaken - Challenge Map\n\nTHIEF DLC: Booster Pack - Opportunist\n\nTHIEF DLC: Booster Pack - Predator\n\nTHIEF DLC: Booster Pack - Ghost\n\nThief: Japanese Language Pack",
@@ -28655,8 +28885,8 @@ var extrasData =
     "240ae2b0-cb95-4db2-b511-2f108aff686f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 509,
-            "positive": 426,
+            "total": 510,
+            "positive": 427,
             "negative": 83
         },
         "dlc": {
@@ -28665,27 +28895,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 499,
-                    "final": 99
+                    "final": 499
                 },
                 "EUR": {
                     "initial": 499,
-                    "final": 99
+                    "final": 499
                 },
                 "GBP": {
                     "initial": 429,
-                    "final": 85
+                    "final": 429
                 },
                 "JPY": {
                     "initial": 58000,
-                    "final": 11600
+                    "final": 58000
                 },
                 "AUD": {
                     "initial": 750,
-                    "final": 150
+                    "final": 750
                 },
                 "CAD": {
                     "initial": 649,
-                    "final": 129
+                    "final": 649
                 }
             }
         }
@@ -28739,9 +28969,9 @@ var extrasData =
     "ab6f6ce4-97c7-4e3b-ac66-a0574e4ac062": {
         "reviews": {
             "description": "Very Positive",
-            "total": 4246,
-            "positive": 3895,
-            "negative": 351
+            "total": 4252,
+            "positive": 3899,
+            "negative": 353
         },
         "dlc": {
             "description": "Thumper Soundtrack",
@@ -28749,27 +28979,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 999,
-                    "final": 349
+                    "final": 999
                 },
                 "EUR": {
                     "initial": 999,
-                    "final": 349
+                    "final": 999
                 },
                 "GBP": {
                     "initial": 699,
-                    "final": 244
+                    "final": 699
                 },
                 "JPY": {
                     "initial": 98000,
-                    "final": 34300
+                    "final": 98000
                 },
                 "AUD": {
                     "initial": 1450,
-                    "final": 507
+                    "final": 1450
                 },
                 "CAD": {
                     "initial": 1099,
-                    "final": 384
+                    "final": 1099
                 }
             }
         }
@@ -28793,9 +29023,9 @@ var extrasData =
     "43ddf3a2-9905-4c4f-ae0b-01e761e1372a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8860,
-            "positive": 7410,
-            "negative": 1450
+            "total": 8882,
+            "positive": 7424,
+            "negative": 1458
         },
         "dlc": {
             "description": "Thymesia Original Soundtrack\n\nThymesia - Artbook",
@@ -28855,9 +29085,9 @@ var extrasData =
     "a861fa8d-f313-44b2-afc2-43340602438b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 11338,
-            "positive": 10570,
-            "negative": 768
+            "total": 11334,
+            "positive": 10565,
+            "negative": 769
         }
     },
     "4a9f7e74-2e61-46e6-b788-66a42b212d86": {
@@ -28955,9 +29185,9 @@ var extrasData =
     "2c48916a-d8e6-45ba-a990-3bc55ea15355": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 13233,
-            "positive": 10453,
-            "negative": 2780
+            "total": 13239,
+            "positive": 10458,
+            "negative": 2781
         },
         "dlc": {
             "description": "Titan Souls Soundtrack & Special Edition Content",
@@ -29047,8 +29277,8 @@ var extrasData =
     "6407b83d-e8b9-4257-ad3d-c2e183fbb91b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 504,
-            "positive": 435,
+            "total": 505,
+            "positive": 436,
             "negative": 69
         }
     },
@@ -29071,9 +29301,9 @@ var extrasData =
     "a94b644f-ff63-482a-95aa-8c522cde6990": {
         "reviews": {
             "description": "Very Positive",
-            "total": 777,
-            "positive": 730,
-            "negative": 47
+            "total": 781,
+            "positive": 733,
+            "negative": 48
         },
         "dlc": {
             "description": "Toodee and Topdee Soundtrack",
@@ -29171,16 +29401,16 @@ var extrasData =
     "b7630e28-f5bd-4a90-8556-942bcdfbaf58": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 672,
-            "positive": 655,
+            "total": 684,
+            "positive": 667,
             "negative": 17
         }
     },
     "251e0184-1172-43b8-bc42-bcbffc5b3b4b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2066,
-            "positive": 1665,
+            "total": 2081,
+            "positive": 1680,
             "negative": 401
         },
         "dlc": {
@@ -29189,27 +29419,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 12485,
-                    "final": 12485
+                    "final": 8805
                 },
                 "EUR": {
                     "initial": 12315,
-                    "final": 12315
+                    "final": 8685
                 },
                 "GBP": {
                     "initial": 10515,
-                    "final": 10515
+                    "final": 7413
                 },
                 "JPY": {
                     "initial": 1856100,
-                    "final": 1856100
+                    "final": 1293600
                 },
                 "AUD": {
                     "initial": 18324,
-                    "final": 18324
+                    "final": 12930
                 },
                 "CAD": {
                     "initial": 16055,
-                    "final": 16055
+                    "final": 11329
                 }
             }
         }
@@ -29217,24 +29447,24 @@ var extrasData =
     "640ccbd6-4937-4cf1-a7ea-1f7dde259c8c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1286,
-            "positive": 1269,
+            "total": 1319,
+            "positive": 1302,
             "negative": 17
         }
     },
     "2f07787d-e2e3-45f7-959e-7fbc8dabcb1c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 283,
-            "positive": 279,
-            "negative": 4
+            "total": 286,
+            "positive": 281,
+            "negative": 5
         }
     },
     "c4e82c1c-0ba0-4a84-9e95-86cb6db7e171": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1389,
-            "positive": 1362,
+            "total": 1405,
+            "positive": 1378,
             "negative": 27
         }
     },
@@ -29279,48 +29509,48 @@ var extrasData =
     "3f00f07d-ae63-4668-a90e-ce8630c917f2": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1027,
-            "positive": 999,
+            "total": 1030,
+            "positive": 1002,
             "negative": 28
         }
     },
     "60214de1-63fb-448c-bc8a-dbba1af5e769": {
         "reviews": {
             "description": "Very Positive",
-            "total": 389,
-            "positive": 383,
+            "total": 392,
+            "positive": 386,
             "negative": 6
         }
     },
     "7d0aae8e-6d89-490d-9ef4-ae9ad428cc4a": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1786,
-            "positive": 1745,
-            "negative": 41
+            "total": 1792,
+            "positive": 1752,
+            "negative": 40
         }
     },
     "b91662b1-1b77-4b85-b6a1-5a7aff9d8ce0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 367,
-            "positive": 351,
+            "total": 371,
+            "positive": 355,
             "negative": 16
         }
     },
     "30ef9ce8-cf7b-4c82-8c15-17d4a20be5b7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 379,
-            "positive": 363,
-            "negative": 16
+            "total": 384,
+            "positive": 366,
+            "negative": 18
         }
     },
     "2f907622-a2be-450d-a2aa-9a5ac1818b7f": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4500,
-            "positive": 4433,
+            "total": 4505,
+            "positive": 4438,
             "negative": 67
         }
     },
@@ -29335,9 +29565,9 @@ var extrasData =
     "6d210be2-50de-49f4-a533-8eb5fa0c6bbc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3444,
-            "positive": 3269,
-            "negative": 175
+            "total": 3450,
+            "positive": 3274,
+            "negative": 176
         },
         "dlc": {
             "description": "TowerFall Dark World Expansion",
@@ -29411,17 +29641,17 @@ var extrasData =
     "5337f128-8ca1-4cf8-9032-73ab63616c24": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2653,
-            "positive": 2512,
+            "total": 2654,
+            "positive": 2513,
             "negative": 141
         }
     },
     "56b11b90-aa75-41b6-8378-ef243d0e865b": {
         "reviews": {
             "description": "Mixed",
-            "total": 1557,
+            "total": 1556,
             "positive": 1028,
-            "negative": 529
+            "negative": 528
         }
     },
     "6e6edb7f-6def-45d1-af53-8af86535282f": {
@@ -29435,24 +29665,24 @@ var extrasData =
     "031d6e17-ee00-4762-8cea-d4bb5419d14a": {
         "reviews": {
             "description": "Mixed",
-            "total": 298,
-            "positive": 192,
+            "total": 297,
+            "positive": 191,
             "negative": 106
         }
     },
     "bf9f47c9-e668-4a9a-9483-de0de5d33223": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6598,
-            "positive": 5856,
-            "negative": 742
+            "total": 6597,
+            "positive": 5853,
+            "negative": 744
         }
     },
     "ba80ac2a-186d-4b55-8981-d4bce6a34663": {
         "reviews": {
             "description": "Very Positive",
-            "total": 615,
-            "positive": 496,
+            "total": 614,
+            "positive": 495,
             "negative": 119
         }
     },
@@ -29475,9 +29705,9 @@ var extrasData =
     "e3f715a2-b645-4e6f-8d3c-df8c92d4672d": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2818,
-            "positive": 2000,
-            "negative": 818
+            "total": 2828,
+            "positive": 2008,
+            "negative": 820
         },
         "dlc": {
             "description": "Trek to Yomi Soundtrack",
@@ -29513,9 +29743,9 @@ var extrasData =
     "f61954cd-1d07-4af4-b8cc-3db6a22f3b09": {
         "reviews": {
             "description": "Very Positive",
-            "total": 14798,
-            "positive": 13817,
-            "negative": 981
+            "total": 14867,
+            "positive": 13880,
+            "negative": 987
         },
         "dlc": {
             "description": "Trepang2 - Season Pass\n\nTrepang2 - Survival Mode DLC\n\nTrepang2 - Soundtrack\n\nTrepang2 - Bladekisser DLC",
@@ -29559,16 +29789,16 @@ var extrasData =
     "c65c5160-1eeb-4ffe-bf59-891e4eb68579": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 2336,
-            "positive": 1760,
+            "total": 2337,
+            "positive": 1761,
             "negative": 576
         }
     },
     "b94450d9-99a1-4139-abca-8cbb86493535": {
         "reviews": {
             "description": "Mixed",
-            "total": 2373,
-            "positive": 1595,
+            "total": 2374,
+            "positive": 1596,
             "negative": 778
         },
         "dlc": {
@@ -29621,8 +29851,8 @@ var extrasData =
     "1e9a0bcc-4211-4ec4-8e93-6cc275dab6db": {
         "reviews": {
             "description": "Mixed",
-            "total": 2947,
-            "positive": 1867,
+            "total": 2952,
+            "positive": 1872,
             "negative": 1080
         },
         "dlc": {
@@ -29659,9 +29889,9 @@ var extrasData =
     "1007daa0-7424-4c8f-88b5-15e06693b842": {
         "reviews": {
             "description": "Very Positive",
-            "total": 15814,
-            "positive": 14292,
-            "negative": 1522
+            "total": 15815,
+            "positive": 14291,
+            "negative": 1524
         },
         "dlc": {
             "description": "Indie Friends Pack\n\nSpirit Animal Pack\n\nTricky Towers - Gem Bricks\n\nTricky Towers - Galaxy Bricks\n\nTricky Towers - Holographic Bricks\n\nTricky Towers - Candy Bricks\n\nTricky Towers - Original Soundtrack",
@@ -29669,27 +29899,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 894,
-                    "final": 894
+                    "final": 624
                 },
                 "EUR": {
                     "initial": 894,
-                    "final": 894
+                    "final": 624
                 },
                 "GBP": {
                     "initial": 774,
-                    "final": 774
+                    "final": 540
                 },
                 "JPY": {
                     "initial": 106500,
-                    "final": 106500
+                    "final": 74500
                 },
                 "AUD": {
                     "initial": 1345,
-                    "final": 1345
+                    "final": 941
                 },
                 "CAD": {
                     "initial": 1164,
-                    "final": 1164
+                    "final": 813
                 }
             }
         }
@@ -29697,8 +29927,8 @@ var extrasData =
     "566c0c0c-3cf3-4c42-8f57-75b42481647c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 10205,
-            "positive": 9995,
+            "total": 10237,
+            "positive": 10027,
             "negative": 210
         },
         "dlc": {
@@ -29781,9 +30011,9 @@ var extrasData =
     "544e8a12-3cc5-4ce6-8018-dfa962f1fd45": {
         "reviews": {
             "description": "Very Positive",
-            "total": 15764,
-            "positive": 14443,
-            "negative": 1321
+            "total": 15804,
+            "positive": 14479,
+            "negative": 1325
         },
         "dlc": {
             "description": "TUNIC (Original Game Soundtrack)",
@@ -29819,9 +30049,9 @@ var extrasData =
     "0815306d-01e5-4030-9c3c-6d67570b89d1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6666,
-            "positive": 6320,
-            "negative": 346
+            "total": 6683,
+            "positive": 6336,
+            "negative": 347
         },
         "dlc": {
             "description": "Turbo Overkill (Selections from the Original Game Soundtrack)",
@@ -29829,27 +30059,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 999,
-                    "final": 549
+                    "final": 999
                 },
                 "EUR": {
                     "initial": 975,
-                    "final": 536
+                    "final": 975
                 },
                 "GBP": {
                     "initial": 850,
-                    "final": 467
+                    "final": 850
                 },
                 "JPY": {
                     "initial": 120000,
-                    "final": 66000
+                    "final": 120000
                 },
                 "AUD": {
                     "initial": 1450,
-                    "final": 797
+                    "final": 1450
                 },
                 "CAD": {
                     "initial": 1299,
-                    "final": 714
+                    "final": 1299
                 }
             }
         }
@@ -29957,9 +30187,9 @@ var extrasData =
     "c07bb0bf-b830-4229-aab6-0cf8ca5ad7e8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3827,
-            "positive": 3354,
-            "negative": 473
+            "total": 3834,
+            "positive": 3362,
+            "negative": 472
         },
         "dlc": {
             "description": "The Typing of the Dead: Overkill - Silver Screen DLC\n\nThe Typing of The Dead: Overkill - Shakespeare DLC\n\nThe Typing of the Dead: Overkill - Filth DLC\n\nThe Typing of the Dead: Overkill - Love at First Bite DLC\n\nThe Typing of the Dead: Overkill - Dancing with the Dead DLC",
@@ -29991,8 +30221,8 @@ var extrasData =
     "cbd13d9b-2118-40db-9f70-114b3a10f86b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 839,
-            "positive": 722,
+            "total": 838,
+            "positive": 721,
             "negative": 117
         },
         "dlc": {
@@ -30067,9 +30297,9 @@ var extrasData =
     "3dd5dd44-94e6-4a79-b067-5890cd6f4d73": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 6549,
-            "positive": 6255,
-            "negative": 294
+            "total": 6569,
+            "positive": 6276,
+            "negative": 293
         },
         "dlc": {
             "description": "UFO 50 Soundtrack",
@@ -30113,9 +30343,9 @@ var extrasData =
     "c2b7c9a4-95cf-49ff-90df-be85c8f9f682": {
         "reviews": {
             "description": "Very Positive",
-            "total": 16033,
-            "positive": 14471,
-            "negative": 1562
+            "total": 16065,
+            "positive": 14498,
+            "negative": 1567
         },
         "dlc": {
             "description": "Ultra Street Fighter\u00ae IV Digital Upgrade\nUSFIV: 2014 Challengers Costume Pack\nUSFIV: All-in 2011 Costume Pack\nUSFIV: Shoryuken Vacation Pack\nUSFIV: Brawler Vacation Pack\nUSFIV: Shadaloo Vacation Pack\nUSFIV: Classic Vacation Pack\nUSFIV: Femme Fatale Vacation Pack\nUSFIV: Challengers Vacation Pack 1\nUSFIV: Challengers Vacation Pack 2\nUSFIV: Arcade Challengers Vacation Pack\nUSFIV: 2014 Challengers Vacation Pack\nUSFIV: Complete Femme Fatale Pack (2011)\nUSFIV: Complete Shoryuken Pack (2011)\nUSFIV: Arcade Challengers Pack (2011)\nUSFIV: Complete Challengers 1 Pack (2011)\nUSFIV: Complete Challengers 2 Pack (2011)\nUSFIV: Complete Classic Pack (2011)\nUSFIV: Complete Shadoloo Pack (2011)\nUSFIV: Complete Brawler Pack (2011)\nUSFIV: Shoryuken Wild Pack\nUSFIV: Brawler Wild Pack\nUSFIV: Shadaloo Wild Pack\nUSFIV: Classic Wild Pack\nUSFIV: Femme Fatale Wild Pack\nUSFIV: Challengers Wild Pack 1\nUSFIV: Challengers Wild Pack 2\nUSFIV: Arcade Challengers Wild Pack\nUSFIV: 2014 Challengers Wild Pack\nUSFIV: Shoryuken Horror Pack\nUSFIV: Brawler Horror Pack\nUSFIV: Shadaloo Horror Pack\nUSFIV: Classic Horror Pack\nUSFIV: Femme Fatale Horror Pack\nUSFIV: Challengers Horror Pack 1\nUSFIV: Challengers Horror Pack 2\nUSFIV: Arcade Challengers Horror Pack\nUSFIV: 2014 Challengers Horror Pack",
@@ -30159,8 +30389,8 @@ var extrasData =
     "d4a63dd5-1e76-4f60-925f-5b64b28f6e37": {
         "reviews": {
             "description": "Very Positive",
-            "total": 223,
-            "positive": 207,
+            "total": 224,
+            "positive": 208,
             "negative": 16
         }
     },
@@ -30175,16 +30405,16 @@ var extrasData =
     "f05f01b0-bc91-49c4-9c50-b428dfe692a0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 94,
-            "positive": 87,
+            "total": 96,
+            "positive": 89,
             "negative": 7
         }
     },
     "da803a2c-69d5-4e66-aa40-d52ee38a873a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8014,
-            "positive": 7323,
+            "total": 8016,
+            "positive": 7325,
             "negative": 691
         },
         "dlc": {
@@ -30221,17 +30451,17 @@ var extrasData =
     "b35f483f-43f3-4787-afe8-7615c6f52282": {
         "reviews": {
             "description": "Very Positive",
-            "total": 80,
-            "positive": 80,
+            "total": 81,
+            "positive": 81,
             "negative": 0
         }
     },
     "c026c669-6f4d-4131-aa85-3e8740becfc3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 18937,
-            "positive": 17661,
-            "negative": 1276
+            "total": 18957,
+            "positive": 17680,
+            "negative": 1277
         },
         "dlc": {
             "description": "Unrailed! - Supporter Pack\n\nUnrailed! - Soundtrack: Underwater EP",
@@ -30267,25 +30497,25 @@ var extrasData =
     "79b127e4-8362-4fa7-b8fd-5354515c7dc7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5115,
-            "positive": 4626,
-            "negative": 489
+            "total": 5118,
+            "positive": 4628,
+            "negative": 490
         }
     },
     "4582341b-a5bc-460a-bdef-b2f4351f96cc": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 7800,
-            "positive": 6163,
-            "negative": 1637
+            "total": 7813,
+            "positive": 6172,
+            "negative": 1641
         }
     },
     "d5863239-58a1-4f49-b8ac-4772d7a6fdc9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1959,
-            "positive": 1822,
-            "negative": 137
+            "total": 1969,
+            "positive": 1830,
+            "negative": 139
         },
         "dlc": {
             "description": "UNSIGHTED Soundtrack",
@@ -30293,27 +30523,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 999,
-                    "final": 799
+                    "final": 999
                 },
                 "EUR": {
                     "initial": 819,
-                    "final": 655
+                    "final": 819
                 },
                 "GBP": {
                     "initial": 719,
-                    "final": 575
+                    "final": 719
                 },
                 "JPY": {
                     "initial": 101000,
-                    "final": 80800
+                    "final": 101000
                 },
                 "AUD": {
                     "initial": 1450,
-                    "final": 1160
+                    "final": 1450
                 },
                 "CAD": {
                     "initial": 1149,
-                    "final": 919
+                    "final": 1149
                 }
             }
         }
@@ -30321,16 +30551,16 @@ var extrasData =
     "a5252cda-034d-4ec4-8ccc-029817aef04a": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 22540,
-            "positive": 21606,
-            "negative": 934
+            "total": 22595,
+            "positive": 21657,
+            "negative": 938
         }
     },
     "ddf046b5-50ac-4af6-9e96-ac07b26ebfb6": {
         "reviews": {
             "description": "Very Positive",
-            "total": 817,
-            "positive": 661,
+            "total": 818,
+            "positive": 662,
             "negative": 156
         },
         "dlc": {
@@ -30360,6 +30590,44 @@ var extrasData =
                 "CAD": {
                     "initial": 1149,
                     "final": 1149
+                }
+            }
+        }
+    },
+    "285b50c4-4439-4c65-a646-cc66bd7fddec": {
+        "reviews": {
+            "description": "Positive",
+            "total": 22,
+            "positive": 22,
+            "negative": 0
+        },
+        "dlc": {
+            "description": "Upstream Soundtrack",
+            "count": 1,
+            "priceData": {
+                "USD": {
+                    "initial": 199,
+                    "final": 199
+                },
+                "EUR": {
+                    "initial": 195,
+                    "final": 195
+                },
+                "GBP": {
+                    "initial": 169,
+                    "final": 169
+                },
+                "JPY": {
+                    "initial": 23500,
+                    "final": 23500
+                },
+                "AUD": {
+                    "initial": 200,
+                    "final": 200
+                },
+                "CAD": {
+                    "initial": 259,
+                    "final": 259
                 }
             }
         }
@@ -30437,9 +30705,9 @@ var extrasData =
     "c8c5f2d0-518a-4539-ab45-27cd6246e073": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2561,
-            "positive": 2114,
-            "negative": 447
+            "total": 2563,
+            "positive": 2115,
+            "negative": 448
         },
         "dlc": {
             "description": "Valfaris - Digital OST\n\nValfaris - Digital Art Book",
@@ -30475,8 +30743,8 @@ var extrasData =
     "73b43c5e-d713-4be7-8033-03c918fc60de": {
         "reviews": {
             "description": "Very Positive",
-            "total": 372,
-            "positive": 343,
+            "total": 373,
+            "positive": 344,
             "negative": 29
         },
         "dlc": {
@@ -30513,9 +30781,9 @@ var extrasData =
     "b9bc0425-8162-48b7-86e9-4d1b85bc0477": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 22461,
-            "positive": 17372,
-            "negative": 5089
+            "total": 22482,
+            "positive": 17389,
+            "negative": 5093
         },
         "dlc": {
             "description": "Vampyr - The Hunters Heirlooms DLC",
@@ -30551,17 +30819,17 @@ var extrasData =
     "1e019628-b1d7-4b0c-9c6e-4927df4a1ae4": {
         "reviews": {
             "description": "Very Positive",
-            "total": 7294,
-            "positive": 6513,
-            "negative": 781
+            "total": 7300,
+            "positive": 6517,
+            "negative": 783
         }
     },
     "29ddddcf-2420-4cff-8e93-491957d24880": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2783,
-            "positive": 2581,
-            "negative": 202
+            "total": 2790,
+            "positive": 2587,
+            "negative": 203
         },
         "dlc": {
             "description": "Vault of the Void -- Developer Supporter Pack\n\nVault of the Void Soundtrack",
@@ -30569,27 +30837,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1198,
-                    "final": 598
+                    "final": 1198
                 },
                 "EUR": {
                     "initial": 1068,
-                    "final": 533
+                    "final": 1068
                 },
                 "GBP": {
                     "initial": 948,
-                    "final": 473
+                    "final": 948
                 },
                 "JPY": {
                     "initial": 130000,
-                    "final": 65000
+                    "final": 130000
                 },
                 "AUD": {
                     "initial": 1745,
-                    "final": 872
+                    "final": 1745
                 },
                 "CAD": {
                     "initial": 1448,
-                    "final": 723
+                    "final": 1448
                 }
             }
         }
@@ -30605,8 +30873,8 @@ var extrasData =
     "bea9282a-4185-4f44-8d94-2af8db936912": {
         "reviews": {
             "description": "Very Positive",
-            "total": 310,
-            "positive": 297,
+            "total": 311,
+            "positive": 298,
             "negative": 13
         },
         "dlc": {
@@ -30659,8 +30927,8 @@ var extrasData =
     "bd1391d9-45de-4213-9784-6b40b049461c": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 263,
-            "positive": 193,
+            "total": 262,
+            "positive": 192,
             "negative": 70
         },
         "dlc": {
@@ -30743,8 +31011,8 @@ var extrasData =
     "842ed201-b7e3-441d-9e59-6be51089de03": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1664,
-            "positive": 1501,
+            "total": 1670,
+            "positive": 1507,
             "negative": 163
         },
         "dlc": {
@@ -30781,8 +31049,8 @@ var extrasData =
     "adafe461-da2e-49b4-93fd-536274ed8854": {
         "reviews": {
             "description": "Very Positive",
-            "total": 404,
-            "positive": 396,
+            "total": 406,
+            "positive": 398,
             "negative": 8
         }
     },
@@ -30797,9 +31065,9 @@ var extrasData =
     "d9a10ee7-8363-4710-b6de-83554acf68e1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2682,
-            "positive": 2434,
-            "negative": 248
+            "total": 2724,
+            "positive": 2474,
+            "negative": 250
         },
         "dlc": {
             "description": "Elegy of the Stars -Void Stranger Original Soundtrack-",
@@ -30835,16 +31103,16 @@ var extrasData =
     "7c564583-401b-418e-85d7-705696a1d29d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4418,
-            "positive": 4267,
-            "negative": 151
+            "total": 4426,
+            "positive": 4273,
+            "negative": 153
         }
     },
     "bb0b4d8b-803e-418b-9ed3-6d33c5e189fd": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2419,
-            "positive": 1968,
+            "total": 2418,
+            "positive": 1967,
             "negative": 451
         }
     },
@@ -30867,8 +31135,8 @@ var extrasData =
     "e7b09b01-e52f-443e-97a3-cd1aac854b3f": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 10148,
-            "positive": 9771,
+            "total": 10153,
+            "positive": 9776,
             "negative": 377
         }
     },
@@ -30921,17 +31189,17 @@ var extrasData =
     "a48cbaa2-a0b4-4f28-b711-0bf5c85af610": {
         "reviews": {
             "description": "Mixed",
-            "total": 1723,
-            "positive": 1156,
-            "negative": 567
+            "total": 1729,
+            "positive": 1160,
+            "negative": 569
         }
     },
     "f1e663fb-cf49-4f86-b7f4-325bf872eed2": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 118410,
-            "positive": 84329,
-            "negative": 34081
+            "total": 118612,
+            "positive": 84448,
+            "negative": 34164
         },
         "dlc": {
             "description": "Warhammer 40,000: Darktide - Imperial Edition Upgrade\n\nWarhammer 40,000: Darktide - Arbites Class\n\nWarhammer 40,000: Darktide - Arbites Class Deluxe Edition\n\nWarhammer 40,000: Darktide - Arbites Class Cosmetic Upgrade",
@@ -30967,9 +31235,9 @@ var extrasData =
     "13ed1e64-45a2-4022-b780-4d7535a6c2ba": {
         "reviews": {
             "description": "Very Positive",
-            "total": 134640,
-            "positive": 114279,
-            "negative": 20361
+            "total": 134713,
+            "positive": 114348,
+            "negative": 20365
         },
         "dlc": {
             "description": "Warhammer: Vermintide 2 - Versus\nWarhammer: Vermintide 2 - Necromancer Career\nWarhammer: Vermintide 2 - Necromancer Cosmetic Upgrade\nWarhammer: Vermintide 2 - Warrior Priest Career\nWarhammer: Vermintide 2 - Warrior Priest Cosmetic Upgrade\nWarhammer: Vermintide 2 - Sister of the Thorn\nWarhammer: Vermintide 2 - Sister of the Thorn Cosmetic Upgrade\nWarhammer: Vermintide 2 - Chaos Wastes\nWarhammer: Vermintide 2 - Forgotten Relics Pack\nWarhammer: Vermintide 2 - Outcast Engineer Cosmetic Upgrade\nWarhammer: Vermintide 2 - Outcast Engineer Career\nWarhammer: Vermintide 2 - Grail Knight Cosmetic Upgrade\nWarhammer: Vermintide 2 - Grail Knight Career\nWarhammer: Vermintide 2 - Winds of Magic\nWarhammer: Vermintide 2 - Back to Ubersreik\nWarhammer: Vermintide 2 - Collector's Edition Upgrade\nWarhammer: Vermintide 2 - Shadows Over B\u00f6genhafen\nWarhammer: Vermintide 2 - A Treacherous Adventure\nWarhammer: Vermintide 2 - Karak Azgaraz\nWarhammer: Vermintide 2 - Verminous Dreams",
@@ -31013,9 +31281,9 @@ var extrasData =
     "0a4a0a74-352d-432a-9b24-b721f9e4a3ad": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2138,
+            "total": 2139,
             "positive": 1769,
-            "negative": 369
+            "negative": 370
         },
         "dlc": {
             "description": "Waveform Soundtrack\n\nWaveform: Eris",
@@ -31135,9 +31403,9 @@ var extrasData =
     "316118c4-2ea7-416e-a4c0-94bb21cc20f0": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2236,
-            "positive": 2137,
-            "negative": 99
+            "total": 2268,
+            "positive": 2167,
+            "negative": 101
         },
         "dlc": {
             "description": "We Love Katamari REROLL+ Royal Reverie - Katamari Damacy Series Music Bundle",
@@ -31145,27 +31413,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1999,
-                    "final": 499
+                    "final": 1999
                 },
                 "EUR": {
                     "initial": 1999,
-                    "final": 499
+                    "final": 1999
                 },
                 "GBP": {
                     "initial": 1699,
-                    "final": 424
+                    "final": 1699
                 },
                 "JPY": {
                     "initial": 275000,
-                    "final": 68700
+                    "final": 275000
                 },
                 "AUD": {
                     "initial": 2995,
-                    "final": 748
+                    "final": 2995
                 },
                 "CAD": {
                     "initial": 2699,
-                    "final": 674
+                    "final": 2699
                 }
             }
         }
@@ -31173,17 +31441,17 @@ var extrasData =
     "67572fba-5a2b-45fe-ad40-2a8ff2dd7f26": {
         "reviews": {
             "description": "Very Positive",
-            "total": 538,
-            "positive": 493,
+            "total": 542,
+            "positive": 497,
             "negative": 45
         }
     },
     "217382c2-1cf6-4412-81f1-c71f74cb4aa8": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2486,
-            "positive": 2108,
-            "negative": 378
+            "total": 2489,
+            "positive": 2109,
+            "negative": 380
         },
         "dlc": {
             "description": "Welcome to the Game - Hacker Mode",
@@ -31219,8 +31487,8 @@ var extrasData =
     "e762ddcc-1316-413f-8d5d-fa7622e3deba": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3274,
-            "positive": 2772,
+            "total": 3282,
+            "positive": 2780,
             "negative": 502
         }
     },
@@ -31235,17 +31503,17 @@ var extrasData =
     "9bdad456-70d1-42b6-b4d6-f317c7fd39b7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 71,
-            "positive": 63,
+            "total": 72,
+            "positive": 64,
             "negative": 8
         }
     },
     "818fc063-ff18-424f-a137-aba61c12ef18": {
         "reviews": {
             "description": "Very Positive",
-            "total": 710,
-            "positive": 614,
-            "negative": 96
+            "total": 712,
+            "positive": 615,
+            "negative": 97
         }
     },
     "da5df49d-bcd4-48f0-a662-f10be68185ea": {
@@ -31297,9 +31565,9 @@ var extrasData =
     "04cc44cb-0041-4294-aa4c-bd9d9224b990": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8320,
-            "positive": 6862,
-            "negative": 1458
+            "total": 8340,
+            "positive": 6884,
+            "negative": 1456
         },
         "dlc": {
             "description": "Wildfrost Soundtrack",
@@ -31336,8 +31604,8 @@ var extrasData =
         "reviews": {
             "description": "Overwhelmingly Positive",
             "total": 2751,
-            "positive": 2675,
-            "negative": 76
+            "positive": 2676,
+            "negative": 75
         },
         "dlc": {
             "description": "Will You Snail? Soundtrack",
@@ -31397,16 +31665,16 @@ var extrasData =
     "3d999d03-139f-4c0f-9f38-c133fb20efda": {
         "reviews": {
             "description": "Very Positive",
-            "total": 197,
+            "total": 196,
             "positive": 175,
-            "negative": 22
+            "negative": 21
         }
     },
     "b5a46b96-0e23-43af-907f-78e813908d67": {
         "reviews": {
             "description": "Very Positive",
-            "total": 143,
-            "positive": 132,
+            "total": 144,
+            "positive": 133,
             "negative": 11
         }
     },
@@ -31421,9 +31689,9 @@ var extrasData =
     "5e24270b-d52d-436a-aa1f-e7e4946bdafe": {
         "reviews": {
             "description": "Very Positive",
-            "total": 20643,
-            "positive": 18731,
-            "negative": 1912
+            "total": 20668,
+            "positive": 18751,
+            "negative": 1917
         },
         "dlc": {
             "description": "Wizard of Legend - Soundtrack",
@@ -31459,9 +31727,9 @@ var extrasData =
     "a3941987-5902-472d-84ec-83e821ba9078": {
         "reviews": {
             "description": "Mixed",
-            "total": 28044,
-            "positive": 13706,
-            "negative": 14338
+            "total": 28065,
+            "positive": 13724,
+            "negative": 14341
         },
         "dlc": {
             "description": "Wo Long: Fallen Dynasty Season Pass\n\nWo Long: Fallen Dynasty Battle of Zhongyuan\n\nWo Long: Fallen Dynasty Conqueror of Jiangdong\n\nWo Long: Fallen Dynasty Upheaval in Jingxiang",
@@ -31497,9 +31765,9 @@ var extrasData =
     "845397fe-4f40-422c-b735-f6a8ca724d7d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 45463,
-            "positive": 36861,
-            "negative": 8602
+            "total": 45570,
+            "positive": 36952,
+            "negative": 8618
         },
         "dlc": {
             "description": "Wolfenstein II: The Freedom Chronicles - Episode 1\n\nWolfenstein II: The Freedom Chronicles - Episode 2\n\nWolfenstein II: The Freedom Chronicles - Episode 3\n\nWolfenstein II: The Freedom Chronicles - Season Pass",
@@ -31611,8 +31879,8 @@ var extrasData =
     "8501dbcb-efc7-47db-956d-24c8eb91391b": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6241,
-            "positive": 5890,
+            "total": 6243,
+            "positive": 5892,
             "negative": 351
         },
         "dlc": {
@@ -31657,16 +31925,16 @@ var extrasData =
     "5ce8d5c1-f229-4450-b322-ada3f42e38d5": {
         "reviews": {
             "description": "Positive",
-            "total": 25,
-            "positive": 25,
+            "total": 26,
+            "positive": 26,
             "negative": 0
         }
     },
     "4a3df667-7729-4914-927e-27122eede48a": {
         "reviews": {
             "description": "Mixed",
-            "total": 585,
-            "positive": 408,
+            "total": 587,
+            "positive": 410,
             "negative": 177
         },
         "dlc": {
@@ -31711,8 +31979,8 @@ var extrasData =
     "afb8a630-dd42-4537-a072-df4167b31826": {
         "reviews": {
             "description": "Very Positive",
-            "total": 182,
-            "positive": 171,
+            "total": 183,
+            "positive": 172,
             "negative": 11
         },
         "dlc": {
@@ -31749,8 +32017,8 @@ var extrasData =
     "fe9c6fa0-1a18-4df2-9130-ea795a1e5aa1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5784,
-            "positive": 5462,
+            "total": 5790,
+            "positive": 5468,
             "negative": 322
         }
     },
@@ -31765,17 +32033,17 @@ var extrasData =
     "24b4ba78-2255-4ef8-a18d-9e3a50cc5787": {
         "reviews": {
             "description": "Very Positive",
-            "total": 106,
-            "positive": 102,
+            "total": 107,
+            "positive": 103,
             "negative": 4
         }
     },
     "8127e699-4f5e-4ddb-815a-1cc96e15a44d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 56900,
-            "positive": 53013,
-            "negative": 3887
+            "total": 56929,
+            "positive": 53037,
+            "negative": 3892
         },
         "dlc": {
             "description": "XCOM: Enemy Within\n\nXCOM: Enemy Unknown - Slingshot Pack\n\nXCOM: Enemy Unknown - Elite Soldier Pack",
@@ -31811,9 +32079,9 @@ var extrasData =
     "0caef657-87fb-48a7-a964-1b84d7931cc2": {
         "reviews": {
             "description": "Very Positive",
-            "total": 103425,
-            "positive": 87076,
-            "negative": 16349
+            "total": 103527,
+            "positive": 87171,
+            "negative": 16356
         },
         "dlc": {
             "description": "XCOM 2: War of the Chosen\n\nXCOM 2: Reinforcement Pack\n\nXCOM 2: War of the Chosen - Tactical Legacy Pack\n\nXCOM 2: Shen's Last Gift\n\nXCOM 2: Alien Hunters\n\nXCOM 2: Anarchy's Children\n\nXCOM 2: Resistance Warrior Pack",
@@ -31865,8 +32133,8 @@ var extrasData =
     "cda43dad-11f4-4876-ae47-cab471a75b43": {
         "reviews": {
             "description": "Very Positive",
-            "total": 55,
-            "positive": 54,
+            "total": 56,
+            "positive": 55,
             "negative": 1
         },
         "dlc": {
@@ -31903,9 +32171,9 @@ var extrasData =
     "6d764e44-57b6-46ac-90b2-1bb9de6e3e6e": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 74313,
-            "positive": 71103,
-            "negative": 3210
+            "total": 74375,
+            "positive": 71161,
+            "negative": 3214
         }
     },
     "f005d504-a234-4523-82cb-0b4607f6e235": {
@@ -31949,24 +32217,24 @@ var extrasData =
     "91b63ab4-15a9-43f6-8997-fb542767356f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 101,
+            "total": 102,
             "positive": 90,
-            "negative": 11
+            "negative": 12
         }
     },
     "c37c4d5d-5058-41a4-962b-d6ab0302d96e": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1355,
-            "positive": 1327,
+            "total": 1359,
+            "positive": 1331,
             "negative": 28
         }
     },
     "43d68032-5c98-4bec-8142-7b39e1bca64b": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 626,
-            "positive": 616,
+            "total": 627,
+            "positive": 617,
             "negative": 10
         },
         "dlc": {
@@ -32003,9 +32271,9 @@ var extrasData =
     "8a9c8f92-d732-4b5d-bbc2-e31e758b530e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1304,
-            "positive": 1063,
-            "negative": 241
+            "total": 1310,
+            "positive": 1067,
+            "negative": 243
         },
         "dlc": {
             "description": "Trowzer's Top Tonic Pack\n\nYooka-Laylee and the Kracklestone - Graphic Novel\n\nYooka-Laylee and the Impossible Lair - OST",
@@ -32013,27 +32281,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 2597,
-                    "final": 537
+                    "final": 2597
                 },
                 "EUR": {
                     "initial": 2397,
-                    "final": 497
+                    "final": 2397
                 },
                 "GBP": {
                     "initial": 2097,
-                    "final": 432
+                    "final": 2097
                 },
                 "JPY": {
                     "initial": 264000,
-                    "final": 54800
+                    "final": 264000
                 },
                 "AUD": {
                     "initial": 3740,
-                    "final": 777
+                    "final": 3740
                 },
                 "CAD": {
                     "initial": 2963,
-                    "final": 614
+                    "final": 2963
                 }
             }
         }
@@ -32087,9 +32355,9 @@ var extrasData =
     "5864387c-8447-408e-83cd-79982db7bdde": {
         "reviews": {
             "description": "Very Positive",
-            "total": 753,
-            "positive": 647,
-            "negative": 106
+            "total": 755,
+            "positive": 648,
+            "negative": 107
         },
         "dlc": {
             "description": "You Suck at Parking\u00ae Soundtrack",
@@ -32133,41 +32401,41 @@ var extrasData =
     "caa1817c-b802-4a7d-9f98-046ca7160eb9": {
         "reviews": {
             "description": "Very Positive",
-            "total": 122,
-            "positive": 118,
+            "total": 123,
+            "positive": 119,
             "negative": 4
         }
     },
     "e77c672e-3f9a-4509-9e73-2bd09d93348c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2786,
-            "positive": 2479,
-            "negative": 307
+            "total": 2787,
+            "positive": 2481,
+            "negative": 306
         }
     },
     "80266d6e-e413-40f2-9f99-1e81c2b653d2": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 508,
-            "positive": 485,
+            "total": 509,
+            "positive": 486,
             "negative": 23
         }
     },
     "be895e91-9503-4d71-af30-0b558f0a5c72": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3428,
-            "positive": 3191,
-            "negative": 237
+            "total": 3432,
+            "positive": 3194,
+            "negative": 238
         }
     },
     "ded6ecc6-23ce-4965-91d0-d4504206976e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1360,
-            "positive": 1220,
-            "negative": 140
+            "total": 1363,
+            "positive": 1222,
+            "negative": 141
         },
         "dlc": {
             "description": "Ys VI - Material Collection",
@@ -32203,9 +32471,9 @@ var extrasData =
     "f92a34e3-4b1e-4f4c-87d1-a16aed8ee8a0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6436,
-            "positive": 5784,
-            "negative": 652
+            "total": 6448,
+            "positive": 5795,
+            "negative": 653
         },
         "dlc": {
             "description": "Ys VIII: Lacrimosa of DANA - Free Set 1\nYs VIII: Lacrimosa of DANA - Advanced Accessory Set\nYs VIII: Lacrimosa of DANA - Bottled Potion Set\nYs VIII: Lacrimosa of DANA - Castaway Start Dash Set\nYs VIII: Lacrimosa of DANA - Economy Ingredient Set\nYs VIII: Lacrimosa of DANA - Elixir Set 1\nYs VIII: Lacrimosa of DANA - Elixir Set 2\nYs VIII: Lacrimosa of DANA - Elixir Set 3\nYs VIII: Lacrimosa of DANA - Elixir Set 4\nYs VIII: Lacrimosa of DANA - Elixir Set 5\nYs VIII: Lacrimosa of DANA - Fish Bait Set 1\nYs VIII: Lacrimosa of DANA - Fish Bait Set 2\nYs VIII: Lacrimosa of DANA - Fish Bait Set 3\nYs VIII: Lacrimosa of DANA - Free Set 2\nYs VIII: Lacrimosa of DANA - Laxia's \u201cEternian Scholar\u201d Costume\nYs VIII: Lacrimosa of DANA - Premium Material Set\nYs VIII: Lacrimosa of DANA - Ripe Fruit Set\nYs VIII: Lacrimosa of DANA - Status Recovery Set\nYs VIII: Lacrimosa of DANA - HQ Texture Pack\nYs VIII: Lacrimosa of DANA - Tempest Set 1\nYs VIII: Lacrimosa of DANA - Tempest Set 2\nYs VIII: Lacrimosa of DANA - Tempest Set 3\nYs VIII: Lacrimosa of DANA - Tempest Set 4\nYs VIII: Lacrimosa of DANA - Tempest Set 5\nYs VIII: Lacrimosa of DANA - Useful Accessory Set",
@@ -32241,16 +32509,16 @@ var extrasData =
     "c79122bc-5f0a-46a8-acea-c6edcab8768e": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1972,
-            "positive": 1851,
+            "total": 1976,
+            "positive": 1855,
             "negative": 121
         }
     },
     "94441651-0630-44a1-a07b-626e5a4144f2": {
         "reviews": {
             "description": "Very Positive",
-            "total": 63,
-            "positive": 58,
+            "total": 64,
+            "positive": 59,
             "negative": 5
         }
     },
@@ -32265,16 +32533,16 @@ var extrasData =
     "aa8cdb6a-2bdd-4a49-b1eb-3ba80312666f": {
         "reviews": {
             "description": "Very Positive",
-            "total": 8661,
-            "positive": 8223,
-            "negative": 438
+            "total": 8677,
+            "positive": 8237,
+            "negative": 440
         }
     },
     "5c01adf7-f3ab-4a64-b964-828eb457d71c": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1598,
-            "positive": 1552,
+            "total": 1601,
+            "positive": 1555,
             "negative": 46
         },
         "dlc": {
@@ -32381,9 +32649,9 @@ var extrasData =
     "5fd38c1a-c388-46a2-bc26-da4b83bb6cbb": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1933,
-            "positive": 1855,
-            "negative": 78
+            "total": 1948,
+            "positive": 1869,
+            "negative": 79
         },
         "dlc": {
             "description": "ORANGE SOUNDS -ZeroRanger Original Soundtrack-",
@@ -32419,9 +32687,9 @@ var extrasData =
     "7d72903a-66c2-4490-8fea-3bbfcecf7a3d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3904,
-            "positive": 3336,
-            "negative": 568
+            "total": 3908,
+            "positive": 3339,
+            "negative": 569
         }
     },
     "ffd9ea1f-0323-4056-aee5-f1cb0c48a96c": {
@@ -32451,17 +32719,17 @@ var extrasData =
     "4ac81312-f142-4fdf-b461-0ed989b070c1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2964,
-            "positive": 2814,
-            "negative": 150
+            "total": 2974,
+            "positive": 2823,
+            "negative": 151
         }
     },
     "f722baf5-4c1a-4fa3-9482-5ce6db203c73": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2398,
-            "positive": 1980,
-            "negative": 418
+            "total": 2411,
+            "positive": 1991,
+            "negative": 420
         }
     },
     "07968eba-cf6e-4735-bc7a-1561944f6d84": {
@@ -32635,9 +32903,9 @@ var extrasData =
     "5c8d026f-7782-48b0-8ecc-d79c210d1b91": {
         "reviews": {
             "description": "Very Positive",
-            "total": 37443,
-            "positive": 34852,
-            "negative": 2591
+            "total": 37487,
+            "positive": 34890,
+            "negative": 2597
         },
         "dlc": {
             "description": "\u6696\u96ea Warm Snow - \u70ec\u68a6\n\nWarm Snow - The End Of Karma\n\n\u6696\u96ea Warm Snow - \u5b98\u65b9\u7f8e\u672f\u8bbe\u5b9a\u96c6\n\n\u6696\u96ea Warm Snow Soundtrack",
@@ -32711,8 +32979,8 @@ var extrasData =
     "181f90a2-15ff-40b3-a41b-c861dc39f9e7": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 2519,
-            "positive": 2445,
+            "total": 2518,
+            "positive": 2444,
             "negative": 74
         },
         "dlc": {
@@ -32757,8 +33025,8 @@ var extrasData =
     "e88a8007-169d-4aba-8148-045ffa8902c3": {
         "reviews": {
             "description": "Very Positive",
-            "total": 101,
-            "positive": 96,
+            "total": 102,
+            "positive": 97,
             "negative": 5
         },
         "dlc": {
@@ -32889,9 +33157,9 @@ var extrasData =
     "4597fd09-c43c-4b7a-9a1b-14993eb01d70": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 15022,
-            "positive": 14471,
-            "negative": 551
+            "total": 15087,
+            "positive": 14532,
+            "negative": 555
         },
         "dlc": {
             "description": "Awaria: Artbook + Babeczki Recipe",
@@ -32927,9 +33195,9 @@ var extrasData =
     "989b037e-7746-45a3-bf50-e86c190192a0": {
         "reviews": {
             "description": "Very Positive",
-            "total": 12850,
-            "positive": 11890,
-            "negative": 960
+            "total": 12907,
+            "positive": 11941,
+            "negative": 966
         }
     },
     "66011c02-3adb-460b-b20b-98cc0bc6e55c": {
@@ -32997,45 +33265,45 @@ var extrasData =
     "d8226935-eb6c-491f-aac2-d6db16691de7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 50,
-            "positive": 40,
+            "total": 51,
+            "positive": 41,
             "negative": 10
         }
     },
     "f5911e24-699d-4cc1-a1cf-735d0f362e59": {
         "reviews": {
             "description": "Mixed",
-            "total": 730039,
-            "positive": 429315,
-            "negative": 300724
+            "total": 730998,
+            "positive": 429789,
+            "negative": 301209
         },
         "dlc": {
             "description": "Call of Duty\u00ae: Black Ops 6 - BlackCell (Season 05)\nCall of Duty\u00ae: Black Ops 6 - Tracer Pack: ReANIMEted Ultra Skin\nCall of Duty\u00ae: Black Ops 6 - Hella Fresh: Starter Pack\nCall of Duty League\u2122 - Atlanta FaZe Team Pack 2025\nCall of Duty League\u2122 - Boston Breach Team Pack 2025\nCall of Duty League\u2122 - Carolina Royal Ravens Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Guerrillas M8 Team Pack 2025\nCall of Duty League\u2122 - Los Angeles Thieves Team Pack 2025\nCall of Duty League\u2122 - Miami Heretics Team Pack 2025\nCall of Duty League\u2122 - Minnesota ROKKR Team Pack 2025\nCall of Duty League\u2122 - Cloud9 New York Team Pack 2025\nCall of Duty League\u2122 - Vancouver Surge Team Pack 2025\nCall of Duty League\u2122 - OpTic Texas Team Pack 2025\nCall of Duty League\u2122 - Toronto Ultra Team Pack 2025\nCall of Duty League\u2122 - Vegas Falcons Team Pack 2025\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Nuptial Nightmare Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Ghost Punk Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Underboss Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Zodiac: Cancer Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Custom Molded Ultra Skin Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tracer Pack: Trash Talk 2.0 Ultra Skin Pro Pack\nCall of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Cyberjunkie: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Emerald Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Nova 6 Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Tech Luxe Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae III - Moto Freak Pro Pack\nCall of Duty Endowment (C.O.D.E.) Warrior Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Pumpkin Patch: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Cosmic Traveler: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Gunslinger Ghost\nCall of Duty\u00ae: Modern Warfare\u00ae II - Graffiti Tactical: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Griffin: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Demon Deer: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Valkyrie Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Manticore: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Itadakimasu: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Urban Veteran: Pro Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Dune Stalker: Starter Pack\nCall of Duty\u00ae: Modern Warfare\u00ae II - Desert Rogue: Pro Pack\nCall of Duty Endowment (C.O.D.E.) - Protector Pack\nCall of Duty\u00ae: Black Ops 7",
             "count": 42,
             "priceData": {
                 "USD": {
-                    "initial": 66859,
-                    "final": 66859
+                    "initial": 73858,
+                    "final": 73858
                 },
                 "EUR": {
-                    "initial": 66859,
-                    "final": 66859
+                    "initial": 74858,
+                    "final": 74858
                 },
                 "GBP": {
-                    "initial": 56159,
-                    "final": 56159
+                    "initial": 63158,
+                    "final": 63158
                 },
                 "JPY": {
-                    "initial": 9801000,
-                    "final": 9801000
+                    "initial": 10781000,
+                    "final": 10781000
                 },
                 "AUD": {
-                    "initial": 106895,
-                    "final": 106895
+                    "initial": 117890,
+                    "final": 117890
                 },
                 "CAD": {
-                    "initial": 90009,
-                    "final": 90009
+                    "initial": 99008,
+                    "final": 99008
                 }
             }
         }
@@ -33043,9 +33311,9 @@ var extrasData =
     "38fe51b2-1a16-4ae6-a2df-42a89115b6b5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 268,
+            "total": 266,
             "positive": 239,
-            "negative": 29
+            "negative": 27
         }
     },
     "95dc81da-a00b-48f0-9d44-a6298fd22d4d": {
@@ -33105,8 +33373,8 @@ var extrasData =
     "3600d04d-f319-4763-be11-08fb24970c15": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3508,
-            "positive": 3024,
+            "total": 3507,
+            "positive": 3023,
             "negative": 484
         }
     },
@@ -33123,27 +33391,27 @@ var extrasData =
             "priceData": {
                 "USD": {
                     "initial": 1996,
-                    "final": 656
+                    "final": 1996
                 },
                 "EUR": {
                     "initial": 1966,
-                    "final": 648
+                    "final": 1966
                 },
                 "GBP": {
                     "initial": 1686,
-                    "final": 556
+                    "final": 1686
                 },
                 "JPY": {
                     "initial": 212200,
-                    "final": 70900
+                    "final": 212200
                 },
                 "AUD": {
                     "initial": 2958,
-                    "final": 976
+                    "final": 2958
                 },
                 "CAD": {
                     "initial": 2606,
-                    "final": 856
+                    "final": 2606
                 }
             }
         }
@@ -33213,17 +33481,17 @@ var extrasData =
     "cea0c0ab-a21a-4999-b3e0-1c8d3675be36": {
         "reviews": {
             "description": "Positive",
-            "total": 48,
-            "positive": 45,
+            "total": 49,
+            "positive": 46,
             "negative": 3
         }
     },
     "d5b52d31-5dee-4f0b-9fa8-3c41c76c0063": {
         "reviews": {
             "description": "Very Positive",
-            "total": 10519,
-            "positive": 9138,
-            "negative": 1381
+            "total": 10531,
+            "positive": 9149,
+            "negative": 1382
         }
     },
     "f9db2921-9f5b-445f-844a-ca03c0763c6b": {
@@ -33253,9 +33521,9 @@ var extrasData =
     "47a3bdc4-7079-4546-816e-df12399a5ed4": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 629,
-            "positive": 613,
-            "negative": 16
+            "total": 634,
+            "positive": 617,
+            "negative": 17
         },
         "dlc": {
             "description": "Ducks Can Drive - Supporter Pack\n\nDucks Can Drive - Penguins Can Too",
@@ -33299,9 +33567,9 @@ var extrasData =
     "f41bff5d-ae5a-4338-bc19-a0a42939dcf2": {
         "reviews": {
             "description": "Very Positive",
-            "total": 3381,
-            "positive": 2817,
-            "negative": 564
+            "total": 3386,
+            "positive": 2820,
+            "negative": 566
         }
     },
     "4b07fa14-ef52-43ed-ae1e-2d10efd1f721": {
@@ -33315,8 +33583,8 @@ var extrasData =
     "af0c4032-0b74-4ae0-965d-cf92ce22d0ce": {
         "reviews": {
             "description": "Very Positive",
-            "total": 649,
-            "positive": 602,
+            "total": 648,
+            "positive": 601,
             "negative": 47
         }
     },
@@ -33439,8 +33707,8 @@ var extrasData =
     "56d0314e-a40a-4024-98d0-e05bb742ee6a": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 4897,
-            "positive": 4653,
+            "total": 4907,
+            "positive": 4663,
             "negative": 244
         }
     },
@@ -33479,16 +33747,16 @@ var extrasData =
     "af2b8722-5e8f-464c-8ec2-a3e1b178f9b3": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 41,
-            "positive": 32,
+            "total": 42,
+            "positive": 33,
             "negative": 9
         }
     },
     "9a2bf4db-adb5-4419-9423-74992b0467d1": {
         "reviews": {
             "description": "Positive",
-            "total": 12,
-            "positive": 10,
+            "total": 13,
+            "positive": 11,
             "negative": 2
         }
     },
@@ -33541,8 +33809,8 @@ var extrasData =
     "651051b5-6878-49d8-afa9-8c23c63ee518": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 48,
-            "positive": 38,
+            "total": 47,
+            "positive": 37,
             "negative": 10
         }
     },
@@ -33557,8 +33825,8 @@ var extrasData =
     "2105b7d4-3612-4e55-9fff-765a7c986854": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 1725,
-            "positive": 1672,
+            "total": 1726,
+            "positive": 1673,
             "negative": 53
         }
     },
@@ -33573,25 +33841,25 @@ var extrasData =
     "374d4bf9-c2f8-4032-aa54-5c11194287ab": {
         "reviews": {
             "description": "Very Positive",
-            "total": 177323,
-            "positive": 165864,
-            "negative": 11459
+            "total": 177459,
+            "positive": 165974,
+            "negative": 11485
         }
     },
     "dad688bf-50f4-4294-a58d-b234c64598fd": {
         "reviews": {
             "description": "Positive",
-            "total": 31,
-            "positive": 30,
+            "total": 32,
+            "positive": 31,
             "negative": 1
         }
     },
     "5ad1ad21-86eb-42fb-ab1d-f66f6ea62ab2": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 6528,
-            "positive": 6236,
-            "negative": 292
+            "total": 6532,
+            "positive": 6241,
+            "negative": 291
         },
         "dlc": {
             "description": "Neon Beats - A beat further\n\nNeon Beats - Original Soundtrack",
@@ -33627,32 +33895,32 @@ var extrasData =
     "db21aec8-327f-45ba-bc59-579775c34092": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2477,
-            "positive": 2234,
+            "total": 2478,
+            "positive": 2235,
             "negative": 243
         }
     },
     "fd5b4a3a-d11f-4a59-9dd7-ddb94fe6e2ef": {
         "reviews": {
             "description": "Very Positive",
-            "total": 1931,
+            "total": 1932,
             "positive": 1668,
-            "negative": 263
+            "negative": 264
         }
     },
     "9609f3e1-71b2-45f9-a42d-91c0a65cd608": {
         "reviews": {
             "description": "Positive",
-            "total": 18,
-            "positive": 17,
+            "total": 19,
+            "positive": 18,
             "negative": 1
         }
     },
     "2ace7fe2-a941-4b50-a0f7-ed56a6f0f6d6": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5445,
-            "positive": 5151,
+            "total": 5447,
+            "positive": 5153,
             "negative": 294
         },
         "dlc": {
@@ -33735,17 +34003,17 @@ var extrasData =
     "5381856b-3256-4ff6-914b-6cfd1b6e3813": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2525,
-            "positive": 2387,
+            "total": 2532,
+            "positive": 2394,
             "negative": 138
         }
     },
     "00731d5c-6db8-4f90-99a8-66d3871c9f35": {
         "reviews": {
             "description": "Very Positive",
-            "total": 60,
+            "total": 61,
             "positive": 54,
-            "negative": 6
+            "negative": 7
         }
     },
     "8a77237e-2293-4838-a297-5357e131fdde": {
@@ -33767,8 +34035,8 @@ var extrasData =
     "6f60a578-2524-4d07-8db6-2f7a85d63f6d": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 3460,
-            "positive": 3319,
+            "total": 3463,
+            "positive": 3322,
             "negative": 141
         }
     },
@@ -33813,8 +34081,8 @@ var extrasData =
     "91796946-6a46-41e5-930c-f607897e126d": {
         "reviews": {
             "description": "Very Positive",
-            "total": 64,
-            "positive": 59,
+            "total": 65,
+            "positive": 60,
             "negative": 5
         },
         "dlc": {
@@ -33822,28 +34090,28 @@ var extrasData =
             "count": 1,
             "priceData": {
                 "USD": {
-                    "initial": 0,
-                    "final": 0
+                    "initial": 499,
+                    "final": 299
                 },
                 "EUR": {
-                    "initial": 0,
-                    "final": 0
+                    "initial": 499,
+                    "final": 299
                 },
                 "GBP": {
-                    "initial": 0,
-                    "final": 0
+                    "initial": 429,
+                    "final": 257
                 },
                 "JPY": {
-                    "initial": 0,
-                    "final": 0
+                    "initial": 58000,
+                    "final": 34800
                 },
                 "AUD": {
-                    "initial": 0,
-                    "final": 0
+                    "initial": 750,
+                    "final": 450
                 },
                 "CAD": {
-                    "initial": 0,
-                    "final": 0
+                    "initial": 649,
+                    "final": 389
                 }
             }
         }
@@ -33859,24 +34127,24 @@ var extrasData =
     "a4687062-7145-4a6d-859c-f72a53f509c5": {
         "reviews": {
             "description": "Very Positive",
-            "total": 26864,
-            "positive": 22542,
-            "negative": 4322
+            "total": 26911,
+            "positive": 22584,
+            "negative": 4327
         }
     },
     "7727645c-ac96-4314-93d4-fe0ef83487cc": {
         "reviews": {
             "description": "Very Positive",
-            "total": 79248,
-            "positive": 67222,
-            "negative": 12026
+            "total": 79373,
+            "positive": 67321,
+            "negative": 12052
         }
     },
     "44dfdb5f-82e3-4f7c-9241-c4b8013a6d94": {
         "reviews": {
             "description": "Very Positive",
-            "total": 65,
-            "positive": 62,
+            "total": 66,
+            "positive": 63,
             "negative": 3
         }
     },
@@ -33921,17 +34189,17 @@ var extrasData =
     "06acefb2-00eb-41e0-9811-69fd41aafb29": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2228,
-            "positive": 2030,
-            "negative": 198
+            "total": 2232,
+            "positive": 2033,
+            "negative": 199
         }
     },
     "7f4f39bb-7a08-477f-9fc8-ec8c92b7f6e1": {
         "reviews": {
             "description": "Very Positive",
-            "total": 25284,
-            "positive": 23658,
-            "negative": 1626
+            "total": 25295,
+            "positive": 23665,
+            "negative": 1630
         },
         "dlc": {
             "description": "Sonic Generations - Casino Night DLC",
@@ -33971,9 +34239,9 @@ var extrasData =
     "023cb554-ee6d-4775-ab78-301c802414f7": {
         "reviews": {
             "description": "Very Positive",
-            "total": 55202,
-            "positive": 51548,
-            "negative": 3654
+            "total": 55214,
+            "positive": 51559,
+            "negative": 3655
         }
     },
     "40efe891-d06d-455a-805a-24aaf1feb3ee": {
@@ -34041,8 +34309,8 @@ var extrasData =
     "516a6e62-65a9-4722-847e-44e14b6b7a8a": {
         "reviews": {
             "description": "Very Positive",
-            "total": 6473,
-            "positive": 5761,
+            "total": 6471,
+            "positive": 5759,
             "negative": 712
         }
     },
@@ -34056,10 +34324,10 @@ var extrasData =
     },
     "b6c466f3-8a57-47f5-b135-ac296a4d8b5f": {
         "reviews": {
-            "description": "Positive",
-            "total": 22,
+            "description": "Mostly Positive",
+            "total": 23,
             "positive": 18,
-            "negative": 4
+            "negative": 5
         },
         "dlc": {
             "description": "Sympathia Soundtrack",
@@ -34301,48 +34569,48 @@ var extrasData =
     "287e2162-94a9-4aa6-86a1-c77408bce434": {
         "reviews": {
             "description": "Very Positive",
-            "total": 266,
-            "positive": 261,
-            "negative": 5
+            "total": 268,
+            "positive": 262,
+            "negative": 6
         }
     },
     "71fdace3-e962-4725-bef3-c7534943ac1a": {
         "reviews": {
             "description": "Mostly Positive",
-            "total": 17078,
-            "positive": 13182,
-            "negative": 3896
+            "total": 17134,
+            "positive": 13230,
+            "negative": 3904
         }
     },
     "66647036-1771-4f51-a233-ba6abf5aef32": {
         "reviews": {
             "description": "Very Positive",
-            "total": 23692,
-            "positive": 21324,
-            "negative": 2368
+            "total": 23696,
+            "positive": 21330,
+            "negative": 2366
         }
     },
     "2bdc089e-1eec-4825-95c1-52a6ef6e9860": {
         "reviews": {
             "description": "Very Positive",
-            "total": 83,
-            "positive": 74,
+            "total": 84,
+            "positive": 75,
             "negative": 9
         }
     },
     "bedaf17e-a054-4973-b2f6-71140fec4cbb": {
         "reviews": {
             "description": "Overwhelmingly Positive",
-            "total": 58991,
-            "positive": 56045,
-            "negative": 2946
+            "total": 59058,
+            "positive": 56109,
+            "negative": 2949
         }
     },
     "bd925beb-28de-4411-877e-78f95305540c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 195,
-            "positive": 180,
+            "total": 194,
+            "positive": 179,
             "negative": 15
         }
     },
@@ -34357,9 +34625,9 @@ var extrasData =
     "493bdf6a-3596-4f16-ac67-de8372682370": {
         "reviews": {
             "description": "Very Positive",
-            "total": 2453,
-            "positive": 2291,
-            "negative": 162
+            "total": 2487,
+            "positive": 2324,
+            "negative": 163
         }
     },
     "25802506-0659-4427-9b4b-3044262d4e0f": {
@@ -34397,16 +34665,16 @@ var extrasData =
     "6cadf0ed-5fe6-48bb-a290-afdc6b36774c": {
         "reviews": {
             "description": "Very Positive",
-            "total": 73,
-            "positive": 64,
+            "total": 74,
+            "positive": 65,
             "negative": 9
         }
     },
     "deee7db2-1d09-4af9-962a-fe70281f4241": {
         "reviews": {
             "description": "Very Positive",
-            "total": 5682,
-            "positive": 5277,
+            "total": 5685,
+            "positive": 5280,
             "negative": 405
         }
     },
@@ -34429,9 +34697,9 @@ var extrasData =
     "6e505741-d18c-41ef-afc2-4135e74cfeab": {
         "reviews": {
             "description": "Very Positive",
-            "total": 10502,
-            "positive": 8664,
-            "negative": 1838
+            "total": 10520,
+            "positive": 8673,
+            "negative": 1847
         },
         "dlc": {
             "description": "Night of Full Moon - Pumpkin Lamp\nNight of Full Moon - Choice of Carpenter\uff08Classic\uff09\nNight of Full Moon - Apothecary's Blessing\uff08Classic\uff09\nNight of Full Moon - Memory Puzzle\nNight of Full Moon - Magic Curtain\uff08Classic\uff09\nNight of Full Moon - The Red Hood Diary\uff08Classic\uff09\nNight of Full Moon - Contract of Soul\uff08Classic\uff09\nNight of Full Moon - Gear of Fate\uff08Classic\uff09\nNight of Full Moon - Piggy Bank\nNight of Full Moon - Long\uff08Mirror\uff09\nNight of Full Moon - Ghost\uff08Mirror\uff09\nNight of Full Moon - Alchemist\uff08Mirror\uff09\nNight of Full Moon - Akolyth\uff08Mirror\uff09\nNight of Full Moon - Queen\uff08Wishing\uff09\nNight of Full Moon - Mechanic (Wishing)\nNight of Full Moon - Echoes of Nature\uff08Classic\uff09\nNight of Full Moon - Witcher\uff08Mirror\uff09\nNight of Full Moon - Wolf\uff08Mirror\uff09\nNight of Full Moon - Witch\uff08Wishing\uff09\nNight of Full Moon - Floriculturist\uff08Wishing\uff09\nNight of Full Moon - Nobody\uff08Wishing\uff09",
@@ -34529,11 +34797,11 @@ var extrasData =
 }
 var extrasDate =
 {
-    "day": 18,
+    "day": 25,
     "month": 8,
     "year": 2025,
-    "hour": 12,
-    "minute": 22,
-    "second": 21,
-    "searchTime": 1799.9605162143707
+    "hour": 9,
+    "minute": 16,
+    "second": 3,
+    "searchTime": 1875.9640769958496
 }
