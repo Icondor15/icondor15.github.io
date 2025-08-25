@@ -2,58 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1001970,
-        "CEId": "b852615d-311d-4622-8476-fc0b25a47430",
-        "name": "Rhythmy",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1001970/header.jpg?t=1622385883",
-        "genre": "Bullet Hell",
-        "tier": 3,
-        "points": 40,
-        "createdAt": "2022-04-12T23:46:53.000Z",
+        "platformId": 78000,
+        "CEId": "f1eab776-645c-42d1-b640-244cbf4a590d",
+        "name": "Bejeweled\u00ae 3",
+        "header": "https://steamcdn-a.akamaihd.net/steam/apps/78000/header.jpg?t=1584804978",
+        "genre": "Arcade",
+        "tier": 1,
+        "points": 15,
+        "createdAt": "2020-08-25T17:35:19.000Z",
         "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 55,
         "playersStarted": 0,
-        "playersTotal": 13,
+        "playersTotal": 337,
         "priceData": {
             "USD": {
-                "initial": 899,
-                "final": 899,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 739,
-                "final": 739,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 619,
-                "final": 619,
+                "initial": 425,
+                "final": 425,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 93000,
-                "final": 93000,
+                "initial": 49800,
+                "final": 49800,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1295,
-                "final": 1295,
+                "initial": 750,
+                "final": 750,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1029,
-                "final": 1029,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Mutator Master [40\u2605]\nComplete every level with \"All Mutators Challenge\" enabled.",
+            "primaryText": "Bedazzling [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
-            "achievements": 60
-        },
-        "information": "Game is balanced around its last update from 2021, while still on Early Access."
+            "achievements": 65
+        }
     }
 }
-var gameOfDayDate = '2025-08-24'
+var gameOfDayDate = '2025-08-25'
