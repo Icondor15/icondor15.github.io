@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 242,
         "completions": 177,
-        "playtime": 223.88672316384182,
+        "playtime": 223.88841807909608,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -993,7 +993,7 @@ var masoData =
         "tier": "5",
         "owners": 194,
         "completions": 20,
-        "playtime": 261.9775,
+        "playtime": 262.1883333333334,
         "newestCompletion": "2025-07-31T22:59:32.000Z",
         "badges": {
             "count": 1,
@@ -1379,7 +1379,7 @@ var masoData =
     "237740": {
         "description": "\ud83c\udf1f An Angry video game nerd training program.",
         "tier": "5",
-        "owners": 65,
+        "owners": 66,
         "completions": 7,
         "playtime": 59.392857142857146,
         "newestCompletion": "2025-07-12T20:05:16.000Z"
@@ -2331,7 +2331,7 @@ var masoData =
     "409660": {
         "description": "\u2733 Ugh, my poor fingies, man",
         "tier": "2",
-        "owners": 44,
+        "owners": 45,
         "completions": 9,
         "playtime": 15.651851851851855,
         "newestCompletion": "2025-07-17T16:35:49.000Z"
@@ -3312,9 +3312,9 @@ var masoData =
         "description": "\u2733 LSDD",
         "tier": "2",
         "owners": 105,
-        "completions": 37,
-        "playtime": 91.8346846846847,
-        "newestCompletion": "2025-08-01T23:06:16.000Z",
+        "completions": 38,
+        "playtime": 89.68684210526317,
+        "newestCompletion": "2025-08-26T22:45:42.000Z",
         "badges": {
             "count": 3,
             "points": 21
