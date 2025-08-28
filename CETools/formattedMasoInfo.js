@@ -3052,6 +3052,14 @@ var masoData =
         "playtime": 45.40555555555556,
         "newestCompletion": "2023-10-17T06:11:47.000Z"
     },
+    "1115050": {
+        "description": "\u2606 make sure to turn off the voice volume",
+        "tier": "3",
+        "owners": 43,
+        "completions": 13,
+        "playtime": 22.210256410256413,
+        "newestCompletion": "2025-05-31T21:18:45.000Z"
+    },
     "646570": {
         "description": "\u2606 Slay your cards right",
         "tier": "3",
