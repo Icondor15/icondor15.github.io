@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 283080,
-        "CEId": "c94a0769-2ea6-42bb-9e50-d766080e1bd8",
-        "name": "Super Chibi Knight",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/283080/header.jpg?t=1568743916",
-        "genre": "Action",
-        "tier": 1,
-        "points": 10,
-        "createdAt": "2022-08-28T21:06:10.000Z",
+        "platformId": 243360,
+        "CEId": "ba80ac2a-186d-4b55-8981-d4bce6a34663",
+        "name": "TrackMania\u00b2 Valley",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/243360/header.jpg?t=1588603133",
+        "genre": "Arcade",
+        "tier": 3,
+        "points": 40,
+        "createdAt": "2022-08-29T07:21:24.000Z",
         "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 12,
-        "playersStarted": 0,
-        "playersTotal": 88,
+        "playersCompleted": 8,
+        "playersStarted": 4,
+        "playersTotal": 79,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 499,
-                "final": 499,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 429,
-                "final": 429,
+                "initial": 1699,
+                "final": 1699,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 58000,
-                "final": 58000,
+                "initial": 264000,
+                "final": 264000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 750,
-                "final": 750,
+                "initial": 2995,
+                "final": 2995,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 649,
-                "final": 649,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Knight of Legend [10\u2605]\nProve yourself.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 72
+            "primary": 2,
+            "primaryText": "Well-Stacked in Tracks [30\u2605]\nObtain 65 Author Medals.\n\nRoad Rager [10\u2605]\nObtain 65 Gold Medals.",
+            "community": 3,
+            "communityText": "Alpine All-Star\nGet all Author Medals in the TM1 Alpine Title Pack.\n\nSpeed All-Star\nGet all Author Medals in the TM1 Speed Title Pack.\n\nValley All-Star\nGet all Author Medals in the StarTrack Title Pack.",
+            "achievements": 0
         }
     }
 }
-var gameOfDayDate = '2025-08-28'
+var gameOfDayDate = '2025-08-29'
