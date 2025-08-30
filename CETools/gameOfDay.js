@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 243360,
-        "CEId": "ba80ac2a-186d-4b55-8981-d4bce6a34663",
-        "name": "TrackMania\u00b2 Valley",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/243360/header.jpg?t=1588603133",
-        "genre": "Arcade",
+        "platformId": 864060,
+        "CEId": "28c9d825-595c-4ed0-ab98-33cbc0785576",
+        "name": "Marble It Up! Ultra",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/864060/header.jpg?t=1692476208",
+        "genre": "Platformer",
         "tier": 3,
-        "points": 40,
-        "createdAt": "2022-08-29T07:21:24.000Z",
+        "points": 50,
+        "createdAt": "2023-08-30T20:40:56.000Z",
         "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 8,
-        "playersStarted": 4,
-        "playersTotal": 79,
+        "playersCompleted": 11,
+        "playersStarted": 1,
+        "playersTotal": 67,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 2999,
+                "final": 2999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 2999,
+                "final": 2999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1699,
-                "final": 1699,
+                "initial": 2499,
+                "final": 2499,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 264000,
-                "final": 264000,
+                "initial": 340000,
+                "final": 340000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2995,
-                "final": 2995,
+                "initial": 4395,
+                "final": 4395,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 3899,
+                "final": 3899,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Well-Stacked in Tracks [30\u2605]\nObtain 65 Author Medals.\n\nRoad Rager [10\u2605]\nObtain 65 Gold Medals.",
-            "community": 3,
-            "communityText": "Alpine All-Star\nGet all Author Medals in the TM1 Alpine Title Pack.\n\nSpeed All-Star\nGet all Author Medals in the TM1 Speed Title Pack.\n\nValley All-Star\nGet all Author Medals in the StarTrack Title Pack.",
-            "achievements": 0
+            "primaryText": "Crystal Ball [40\u2605]\nObtain the diamond medal on every level.\n\nB-Roll [10\u2605]\nCollect all hidden trophies.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 85
         }
     }
 }
-var gameOfDayDate = '2025-08-29'
+var gameOfDayDate = '2025-08-30'
