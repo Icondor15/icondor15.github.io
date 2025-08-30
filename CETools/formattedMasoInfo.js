@@ -1308,9 +1308,9 @@ var masoData =
         "description": "\u2733 High precision platformer with a very high learning curve. Completing it is just the first step...",
         "tier": "2",
         "owners": 159,
-        "completions": 69,
-        "playtime": 214.3545893719807,
-        "newestCompletion": "2025-01-13T01:08:10.000Z",
+        "completions": 70,
+        "playtime": 212.44285714285715,
+        "newestCompletion": "2025-08-29T21:26:24.000Z",
         "badges": {
             "count": 2,
             "points": 15
@@ -4403,10 +4403,10 @@ var masoData =
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
-        "owners": 32,
-        "completions": 14,
-        "playtime": 29.271428571428572,
-        "newestCompletion": "2025-06-03T07:14:37.000Z"
+        "owners": 33,
+        "completions": 15,
+        "playtime": 29.874444444444446,
+        "newestCompletion": "2025-06-13T18:04:59.000Z"
     },
     "3445580": {
         "description": "\u2606 Where are the waifus????",
@@ -4465,7 +4465,7 @@ var masoData =
         "tier": "1",
         "owners": 10,
         "completions": 8,
-        "playtime": 9.104166666666666,
+        "playtime": 9.23125,
         "newestCompletion": "2025-08-25T05:05:32.000Z"
     }
 }
