@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 864060,
-        "CEId": "28c9d825-595c-4ed0-ab98-33cbc0785576",
-        "name": "Marble It Up! Ultra",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/864060/header.jpg?t=1692476208",
-        "genre": "Platformer",
-        "tier": 3,
-        "points": 50,
-        "createdAt": "2023-08-30T20:40:56.000Z",
+        "platformId": 1647920,
+        "CEId": "73b43c5e-d713-4be7-8033-03c918fc60de",
+        "name": "Valfaris: Mecha Therion",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1647920/header.jpg?t=1724775738",
+        "genre": "Bullet Hell",
+        "tier": 1,
+        "points": 10,
+        "createdAt": "2024-08-31T07:23:10.000Z",
         "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 11,
-        "playersStarted": 1,
-        "playersTotal": 67,
+        "playersCompleted": 2,
+        "playersStarted": 0,
+        "playersTotal": 44,
         "priceData": {
             "USD": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 2450,
+                "final": 2450,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 2499,
-                "final": 2499,
+                "initial": 2099,
+                "final": 2099,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 340000,
-                "final": 340000,
+                "initial": 280000,
+                "final": 280000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 4395,
-                "final": 4395,
+                "initial": 3650,
+                "final": 3650,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 3899,
-                "final": 3899,
+                "initial": 3250,
+                "final": 3250,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Crystal Ball [40\u2605]\nObtain the diamond medal on every level.\n\nB-Roll [10\u2605]\nCollect all hidden trophies.",
+            "primary": 1,
+            "primaryText": "Full Mecha Mayhem [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
-            "achievements": 85
+            "achievements": 44
         }
     }
 }
-var gameOfDayDate = '2025-08-30'
+var gameOfDayDate = '2025-08-31'
