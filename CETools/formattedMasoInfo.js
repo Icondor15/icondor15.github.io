@@ -760,8 +760,8 @@ var masoData =
         "description": "\u2733 It has Assist mode for a reason",
         "tier": "2",
         "owners": 242,
-        "completions": 177,
-        "playtime": 224.15574387947274,
+        "completions": 178,
+        "playtime": 223.38080524344574,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1164,9 +1164,9 @@ var masoData =
         "description": "\u2606 If Super Hexagon and Velocibox had a baby, it would be sacrified to summon this demon lord.",
         "tier": "3",
         "owners": 112,
-        "completions": 40,
-        "playtime": 14.985416666666662,
-        "newestCompletion": "2025-08-02T21:44:07.000Z"
+        "completions": 41,
+        "playtime": 15.592682926829264,
+        "newestCompletion": "2025-08-30T16:34:42.000Z"
     },
     "440550": {
         "description": "\u2733 A forgettable story",
@@ -1267,7 +1267,7 @@ var masoData =
     "262390": {
         "description": "\ud83c\udf1f Speedrunning taken to the extreme in a beautiful 3D environment. Get the DLC only if you enjoy pain and suffering.",
         "tier": "5",
-        "owners": 72,
+        "owners": 73,
         "completions": 6,
         "playtime": 120.09166666666665,
         "newestCompletion": "2024-03-10T18:25:49.000Z",
@@ -1415,10 +1415,10 @@ var masoData =
     "460950": {
         "description": "\u2733 Video games are art\u2122",
         "tier": "2",
-        "owners": 140,
-        "completions": 63,
-        "playtime": 36.64550264550265,
-        "newestCompletion": "2025-01-14T14:09:16.000Z",
+        "owners": 141,
+        "completions": 64,
+        "playtime": 36.30833333333334,
+        "newestCompletion": "2025-08-19T20:19:56.000Z",
         "badges": {
             "count": 2,
             "points": 20
@@ -1711,7 +1711,7 @@ var masoData =
     "1120950": {
         "description": "The Deluxe Ultimate Definitive Complete Classic Edition",
         "tier": "1",
-        "owners": 55,
+        "owners": 56,
         "completions": 41,
         "playtime": 6.79959349593496,
         "newestCompletion": "2025-05-26T03:45:26.000Z"
@@ -1823,7 +1823,7 @@ var masoData =
     "731490": {
         "description": "\u2733 W O A H",
         "tier": "2",
-        "owners": 105,
+        "owners": 106,
         "completions": 45,
         "playtime": 48.37074074074073,
         "newestCompletion": "2025-07-16T20:33:49.000Z",
@@ -1935,7 +1935,7 @@ var masoData =
     "210870": {
         "description": "\ud83c\udf1f Prepare for a long VACation after you\"ll get Mega F*****",
         "tier": "5",
-        "owners": 64,
+        "owners": 65,
         "completions": 10,
         "playtime": 223.60333333333332,
         "newestCompletion": "2024-07-01T10:27:42.000Z",
@@ -2147,7 +2147,7 @@ var masoData =
     "1322650": {
         "description": "\u2733 Not playing RITE is wrong.",
         "tier": "2",
-        "owners": 88,
+        "owners": 89,
         "completions": 73,
         "playtime": 9.83538812785388,
         "newestCompletion": "2025-07-27T06:18:10.000Z"
@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 106,
         "completions": 48,
-        "playtime": 248.04548611111113,
+        "playtime": 248.12881944444447,
         "newestCompletion": "2025-06-06T16:31:25.000Z",
         "badges": {
             "count": 1,
@@ -2284,9 +2284,9 @@ var masoData =
         "description": "The best that 3D grappling has to offer",
         "tier": "1",
         "owners": 63,
-        "completions": 14,
-        "playtime": 7.363095238095236,
-        "newestCompletion": "2025-02-14T05:09:51.000Z"
+        "completions": 15,
+        "playtime": 7.36222222222222,
+        "newestCompletion": "2025-08-30T16:38:28.000Z"
     },
     "1037020": {
         "description": "\u2606 Redefines the FAST in Fast-Paced",
@@ -2443,7 +2443,7 @@ var masoData =
     "820540": {
         "description": "Red is your new favorite color",
         "tier": "1",
-        "owners": 14,
+        "owners": 15,
         "completions": 5,
         "playtime": 17.633333333333333,
         "newestCompletion": "2023-06-10T06:10:07.000Z",
@@ -2931,7 +2931,7 @@ var masoData =
     "1651960": {
         "description": "\u272a who fed ziggs",
         "tier": "4",
-        "owners": 18,
+        "owners": 19,
         "completions": 4,
         "playtime": 36.35,
         "newestCompletion": "2021-12-14T14:44:10.000Z"
@@ -2951,7 +2951,7 @@ var masoData =
     "1358090": {
         "description": "\ud83c\udf1f You'll need some new eyes after this game",
         "tier": "5",
-        "owners": 76,
+        "owners": 77,
         "completions": 20,
         "playtime": 164.91333333333333,
         "newestCompletion": "2024-07-11T14:56:21.000Z",
@@ -2965,7 +2965,7 @@ var masoData =
         "tier": "3",
         "owners": 33,
         "completions": 12,
-        "playtime": 24.5125,
+        "playtime": 26.380555555555556,
         "newestCompletion": "2024-09-18T03:41:27.000Z"
     },
     "465200": {
@@ -3183,7 +3183,7 @@ var masoData =
     "938980": {
         "description": "A snack well hidden in a well",
         "tier": "1",
-        "owners": 47,
+        "owners": 48,
         "completions": 38,
         "playtime": 4.239912280701755,
         "newestCompletion": "2025-07-13T20:23:53.000Z"
@@ -3691,7 +3691,7 @@ var masoData =
     "22000": {
         "description": "Old but Goold",
         "tier": "1",
-        "owners": 80,
+        "owners": 81,
         "completions": 12,
         "playtime": 15.575000000000001,
         "newestCompletion": "2024-08-02T13:57:55.000Z"
@@ -4124,22 +4124,22 @@ var masoData =
         "description": "American Assist Mode",
         "tier": "1",
         "owners": 22,
-        "completions": 5,
-        "playtime": 20.286666666666665,
-        "newestCompletion": "2025-06-30T16:58:10.000Z"
+        "completions": 6,
+        "playtime": 19.291666666666664,
+        "newestCompletion": "2025-08-30T11:53:06.000Z"
     },
     "2144740": {
         "description": "Why did the other baseball team hire a paranormal investigator?",
         "tier": "1",
         "owners": 43,
-        "completions": 8,
-        "playtime": 16.666666666666668,
-        "newestCompletion": "2025-01-15T02:16:04.000Z"
+        "completions": 9,
+        "playtime": 16.374074074074073,
+        "newestCompletion": "2025-08-28T23:28:39.000Z"
     },
     "2204170": {
         "description": "\u2733 Gonna blow your mind away",
         "tier": "2",
-        "owners": 23,
+        "owners": 24,
         "completions": 11,
         "playtime": 55.356060606060616,
         "newestCompletion": "2024-06-24T03:52:10.000Z"
@@ -4187,7 +4187,7 @@ var masoData =
     "1147860": {
         "description": "\u272a The n++ of race games",
         "tier": "4",
-        "owners": 42,
+        "owners": 43,
         "completions": 7,
         "playtime": 211.68571428571428,
         "newestCompletion": "2025-02-25T14:58:10.000Z",
@@ -4375,7 +4375,7 @@ var masoData =
     "1640890": {
         "description": "Damn, you work there?!",
         "tier": "1",
-        "owners": 9,
+        "owners": 10,
         "completions": 6,
         "playtime": 14.263888888888888,
         "newestCompletion": "2025-06-21T11:32:42.000Z"
@@ -4395,7 +4395,7 @@ var masoData =
     "2474690": {
         "description": "Wreckfast",
         "tier": "1",
-        "owners": 17,
+        "owners": 18,
         "completions": 3,
         "playtime": 3.555555555555556,
         "newestCompletion": "2025-07-13T21:12:28.000Z"
@@ -4404,9 +4404,9 @@ var masoData =
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
         "owners": 33,
-        "completions": 15,
-        "playtime": 29.874444444444446,
-        "newestCompletion": "2025-06-13T18:04:59.000Z"
+        "completions": 16,
+        "playtime": 29.659375,
+        "newestCompletion": "2025-07-06T15:26:20.000Z"
     },
     "3445580": {
         "description": "\u2606 Where are the waifus????",
@@ -4455,7 +4455,7 @@ var masoData =
     "2099440": {
         "description": "Ancient techbros' ultimate showdown",
         "tier": "1",
-        "owners": 17,
+        "owners": 18,
         "completions": 4,
         "playtime": 11.1125,
         "newestCompletion": "2025-08-06T16:11:54.000Z"
@@ -4463,9 +4463,9 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 10,
-        "completions": 8,
-        "playtime": 9.23125,
+        "owners": 11,
+        "completions": 9,
+        "playtime": 8.905555555555555,
         "newestCompletion": "2025-08-25T05:05:32.000Z"
     }
 }
