@@ -49,7 +49,7 @@ var masoData =
         "tier": "1",
         "owners": 58,
         "completions": 44,
-        "playtime": 4.653030303030303,
+        "playtime": 4.6863636363636365,
         "newestCompletion": "2024-10-09T23:16:15.000Z"
     },
     "259530": {
@@ -183,9 +183,9 @@ var masoData =
     "268910": {
         "description": "The Dark Souls of Platform Games",
         "tier": "1",
-        "owners": 174,
+        "owners": 175,
         "completions": 83,
-        "playtime": 41.947991967871495,
+        "playtime": 41.96204819277109,
         "newestCompletion": "2025-07-28T16:36:33.000Z",
         "badges": {
             "count": 1,
@@ -196,9 +196,9 @@ var masoData =
         "description": "\u272a I Wanna be the Bleeding Marshmallow Head",
         "tier": "4",
         "owners": 59,
-        "completions": 10,
-        "playtime": 21.776666666666667,
-        "newestCompletion": "2024-05-13T22:51:50.000Z"
+        "completions": 11,
+        "playtime": 22.565151515151516,
+        "newestCompletion": "2025-08-31T14:20:03.000Z"
     },
     "319480": {
         "description": "Give me a sec",
@@ -945,7 +945,7 @@ var masoData =
         "tier": "2",
         "owners": 179,
         "completions": 93,
-        "playtime": 33.23458781362009,
+        "playtime": 33.25537634408604,
         "newestCompletion": "2025-07-26T13:11:01.000Z"
     },
     "510620": {
@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 106,
         "completions": 48,
-        "playtime": 248.12881944444447,
+        "playtime": 248.14861111111114,
         "newestCompletion": "2025-06-06T16:31:25.000Z",
         "badges": {
             "count": 1,
@@ -2480,9 +2480,9 @@ var masoData =
         "description": "Start with the first game, or don\"t--I\"m not your mother",
         "tier": "1",
         "owners": 98,
-        "completions": 55,
-        "playtime": 1.6290909090909087,
-        "newestCompletion": "2025-07-21T02:15:26.000Z",
+        "completions": 56,
+        "playtime": 1.6244047619047615,
+        "newestCompletion": "2025-08-30T16:24:29.000Z",
         "badges": {
             "count": 1,
             "points": 1
@@ -3853,7 +3853,7 @@ var masoData =
         "tier": "3",
         "owners": 14,
         "completions": 6,
-        "playtime": 18.058333333333334,
+        "playtime": 18.083333333333332,
         "newestCompletion": "2024-07-19T16:23:08.000Z"
     },
     "1294420": {
@@ -3965,7 +3965,7 @@ var masoData =
         "tier": "3",
         "owners": 114,
         "completions": 11,
-        "playtime": 408.8712121212122,
+        "playtime": 408.92272727272734,
         "newestCompletion": "2025-02-09T16:05:47.000Z"
     },
     "718010": {
@@ -4412,9 +4412,9 @@ var masoData =
         "description": "\u2606 Where are the waifus????",
         "tier": "3",
         "owners": 10,
-        "completions": 2,
-        "playtime": 10.975000000000001,
-        "newestCompletion": "2025-04-25T14:38:41.000Z"
+        "completions": 3,
+        "playtime": 10.238888888888889,
+        "newestCompletion": "2025-07-24T15:31:31.000Z"
     },
     "1388770": {
         "description": "Finland Pain Simulator",
