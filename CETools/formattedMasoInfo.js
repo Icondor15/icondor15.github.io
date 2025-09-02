@@ -185,7 +185,7 @@ var masoData =
         "tier": "1",
         "owners": 175,
         "completions": 83,
-        "playtime": 41.96204819277109,
+        "playtime": 41.99819277108435,
         "newestCompletion": "2025-07-28T16:36:33.000Z",
         "badges": {
             "count": 1,
@@ -237,7 +237,7 @@ var masoData =
         "tier": "2",
         "owners": 147,
         "completions": 57,
-        "playtime": 38.062573099415204,
+        "playtime": 38.68128654970761,
         "newestCompletion": "2025-08-18T16:39:03.000Z",
         "badges": {
             "count": 1,
@@ -303,7 +303,7 @@ var masoData =
     "253230": {
         "description": "Thank god for mods and EZ mode",
         "tier": "1",
-        "owners": 139,
+        "owners": 140,
         "completions": 41,
         "playtime": 130.63130081300815,
         "newestCompletion": "2024-07-19T16:20:48.000Z",
@@ -395,7 +395,7 @@ var masoData =
     "439490": {
         "description": "\ud83c\udf1f Reach the Summit",
         "tier": "5",
-        "owners": 67,
+        "owners": 68,
         "completions": 2,
         "playtime": 61.375,
         "newestCompletion": "2025-06-04T20:34:39.000Z"
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 232,
         "completions": 120,
-        "playtime": 192.19527777777782,
+        "playtime": 192.19972222222225,
         "newestCompletion": "2024-12-15T03:28:51.000Z",
         "badges": {
             "count": 2,
@@ -685,7 +685,7 @@ var masoData =
         "tier": "2",
         "owners": 129,
         "completions": 40,
-        "playtime": 49.09749999999998,
+        "playtime": 49.102499999999985,
         "newestCompletion": "2025-06-25T22:21:12.000Z"
     },
     "360740": {
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 242,
         "completions": 178,
-        "playtime": 223.38080524344574,
+        "playtime": 223.3982209737828,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1529,7 +1529,7 @@ var masoData =
         "tier": "2",
         "owners": 105,
         "completions": 61,
-        "playtime": 76.7530054644809,
+        "playtime": 76.75765027322407,
         "newestCompletion": "2025-01-14T22:44:01.000Z"
     },
     "447150": {
@@ -2323,7 +2323,7 @@ var masoData =
     "384690": {
         "description": "\u2733 really fishing for children",
         "tier": "2",
-        "owners": 49,
+        "owners": 50,
         "completions": 12,
         "playtime": 17.104166666666664,
         "newestCompletion": "2025-02-28T23:19:03.000Z"
@@ -3065,7 +3065,7 @@ var masoData =
         "tier": "3",
         "owners": 156,
         "completions": 42,
-        "playtime": 199.6523809523809,
+        "playtime": 199.6615079365079,
         "newestCompletion": "2025-06-20T10:37:29.000Z"
     },
     "456390": {
@@ -3521,7 +3521,7 @@ var masoData =
         "tier": "2",
         "owners": 92,
         "completions": 32,
-        "playtime": 47.14166666666667,
+        "playtime": 47.145833333333336,
         "newestCompletion": "2025-07-07T00:32:13.000Z"
     },
     "1442170": {
@@ -3717,7 +3717,7 @@ var masoData =
         "tier": "2",
         "owners": 55,
         "completions": 8,
-        "playtime": 102.99791666666667,
+        "playtime": 105.23958333333333,
         "newestCompletion": "2025-07-22T01:59:55.000Z"
     },
     "1820570": {
