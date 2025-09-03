@@ -2031,7 +2031,7 @@ var masoData =
     "320140": {
         "description": "\u2733 SKRRT SKRRT",
         "tier": "2",
-        "owners": 56,
+        "owners": 57,
         "completions": 15,
         "playtime": 12.47888888888889,
         "newestCompletion": "2023-12-15T03:05:29.000Z"
@@ -2155,7 +2155,7 @@ var masoData =
     "940710": {
         "description": "\u272a Yippee-ki-yay, Motherf****",
         "tier": "4",
-        "owners": 49,
+        "owners": 50,
         "completions": 5,
         "playtime": 50.89,
         "newestCompletion": "2025-03-01T09:03:29.000Z"
@@ -4455,7 +4455,7 @@ var masoData =
     "2099440": {
         "description": "Ancient techbros' ultimate showdown",
         "tier": "1",
-        "owners": 18,
+        "owners": 19,
         "completions": 4,
         "playtime": 11.1125,
         "newestCompletion": "2025-08-06T16:11:54.000Z"
