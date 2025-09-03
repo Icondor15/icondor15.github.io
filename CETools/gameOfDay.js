@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1003590,
-        "CEId": "d28e20d0-b092-45c6-8c5b-25e448b09215",
-        "name": "Tetris\u00ae Effect: Connected",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1003590/header.jpg?t=1629881521",
-        "genre": "Arcade",
-        "tier": 6,
-        "points": 600,
-        "createdAt": "2021-09-02T00:55:07.000Z",
+        "platformId": 1261960,
+        "CEId": "da2d40fc-95ed-4eda-9492-dc50e85499b3",
+        "name": "STRIKERS 1945",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1261960/header.jpg?t=1611907317",
+        "genre": "Bullet Hell",
+        "tier": 4,
+        "points": 105,
+        "createdAt": "2022-09-03T03:39:46.000Z",
         "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 15,
-        "playersStarted": 89,
-        "playersTotal": 289,
+        "playersCompleted": 5,
+        "playersStarted": 1,
+        "playersTotal": 29,
         "priceData": {
             "USD": {
-                "initial": 3999,
-                "final": 3999,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 3399,
-                "final": 3399,
+                "initial": 899,
+                "final": 899,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 3099,
-                "final": 3099,
+                "initial": 719,
+                "final": 719,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 450000,
-                "final": 450000,
+                "initial": 99000,
+                "final": 99000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 5695,
-                "final": 5695,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 4549,
-                "final": 4549,
+                "initial": 1149,
+                "final": 1149,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 5,
-            "primaryText": "Tetrified [425\u2605]\nClear Master Mode.\n\nSeriously Godlike [75\u2605]\nGet an SS rank everywhere possible.\n\nSeriously Skilled [60\u2605]\nGet an S rank everywhere possible.\n\nConnected [25\u2605]\nDefeat Area 5 Tetrimidion with SS rank.\n\nCome Follow Me [15\u2605]\nProve yourself.",
-            "community": 8,
-            "communityText": "Devoted Sprinter\nClear Sprint Mode in under 60 seconds.\n\nElite Sprinter\nClear Sprint Mode in under 50 seconds.\n\nGodlike Sprinter\nClear Sprint Mode in under 40 seconds. \n\nGrand Master Guardian\nReach Tier 10 in multiplayer.\n\nInfinitris Ascendant\nClear 23 lines in one zone (not in multiplayer).\n\nMaxed Out Master\nClear the non-endless Master Mode with 303 total lines. \n\nRainbow Connection\nEarn an SS rank in multiplayer Zone Battle, Score Attack, Classic Score Attack, and Connected Vs as the Boss.\n\nZodiac Maniac\nDefeat Area 5 Tetrimidion in Maniac Mode with SS rank.",
-            "achievements": 43
+            "primary": 3,
+            "primaryText": "Literally 1945 [80\u2605]\nClear both loops of the game.\n\nHeavy Weapon [15\u2605]\nClear the game on the maximum difficulty level without using continues.\n\nSupreme Squad [10\u2605]\nClear the game on easy or higher with all gold medals on all characters.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 32
         }
     }
 }
-var gameOfDayDate = '2025-09-02'
+var gameOfDayDate = '2025-09-03'
