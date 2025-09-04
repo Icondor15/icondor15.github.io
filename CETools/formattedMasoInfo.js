@@ -96,9 +96,9 @@ var masoData =
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
         "owners": 35,
-        "completions": 9,
-        "playtime": 7.762962962962963,
-        "newestCompletion": "2024-11-23T21:14:28.000Z"
+        "completions": 10,
+        "playtime": 7.436666666666666,
+        "newestCompletion": "2025-08-22T15:28:25.000Z"
     },
     "774561": {
         "description": "Shmup meets style",
@@ -404,9 +404,9 @@ var masoData =
         "description": "Don\"t lose your head",
         "tier": "1",
         "owners": 93,
-        "completions": 34,
-        "playtime": 7.987254901960781,
-        "newestCompletion": "2024-12-15T03:48:29.000Z"
+        "completions": 35,
+        "playtime": 7.946666666666663,
+        "newestCompletion": "2025-09-03T10:23:04.000Z"
     },
     "242820": {
         "description": "\u2733 420",
@@ -1060,9 +1060,9 @@ var masoData =
         "description": "\u272a RIVE means split or tear apart violently, that includes your monitor.",
         "tier": "4",
         "owners": 67,
-        "completions": 5,
-        "playtime": 47.59333333333333,
-        "newestCompletion": "2024-04-09T11:43:45.000Z"
+        "completions": 6,
+        "playtime": 45.025,
+        "newestCompletion": "2025-09-03T11:54:19.000Z"
     },
     "211360": {
         "description": "\u2733 Pretends to be a puzzle game",
@@ -1173,7 +1173,7 @@ var masoData =
         "tier": "2",
         "owners": 84,
         "completions": 30,
-        "playtime": 15.132777777777777,
+        "playtime": 15.158333333333331,
         "newestCompletion": "2024-01-21T12:39:10.000Z"
     },
     "285820": {
@@ -1356,9 +1356,9 @@ var masoData =
         "description": "\u272a A super fast paced plaformer that takes you into the depths of a deadly dungeon.Packed with enemies, minibosses, and TONS of unlocks.",
         "tier": "4",
         "owners": 128,
-        "completions": 29,
-        "playtime": 51.87931034482758,
-        "newestCompletion": "2025-03-05T22:03:17.000Z"
+        "completions": 30,
+        "playtime": 51.7761111111111,
+        "newestCompletion": "2025-08-26T11:07:28.000Z"
     },
     "221640": {
         "description": "\u2733 Just one more try\u2122",
@@ -2619,7 +2619,7 @@ var masoData =
     "390720": {
         "description": "That\"s axolotl destruction",
         "tier": "1",
-        "owners": 50,
+        "owners": 51,
         "completions": 15,
         "playtime": 8.834444444444445,
         "newestCompletion": "2024-04-13T15:52:20.000Z"
@@ -2699,7 +2699,7 @@ var masoData =
     "598550": {
         "description": "\u272a Before &amp; After Plastic Surgeries",
         "tier": "4",
-        "owners": 30,
+        "owners": 31,
         "completions": 6,
         "playtime": 44.574999999999996,
         "newestCompletion": "2025-07-03T00:05:38.000Z"
@@ -4463,9 +4463,9 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 11,
-        "completions": 9,
-        "playtime": 8.905555555555555,
+        "owners": 13,
+        "completions": 10,
+        "playtime": 8.499999999999998,
         "newestCompletion": "2025-08-25T05:05:32.000Z"
     }
 }
