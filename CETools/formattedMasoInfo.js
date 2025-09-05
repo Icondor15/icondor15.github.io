@@ -141,7 +141,7 @@ var masoData =
         "tier": "1",
         "owners": 153,
         "completions": 75,
-        "playtime": 8.660222222222222,
+        "playtime": 8.745111111111111,
         "newestCompletion": "2025-08-02T22:02:19.000Z",
         "badges": {
             "count": 1,
@@ -273,7 +273,7 @@ var masoData =
         "tier": "1",
         "owners": 64,
         "completions": 22,
-        "playtime": 32.94318181818182,
+        "playtime": 32.961363636363636,
         "newestCompletion": "2025-08-01T03:39:47.000Z",
         "badges": {
             "count": 1,
@@ -428,9 +428,9 @@ var masoData =
         "description": "\u2733 No longer casual \u02c3\u0323\u0323\u0325\u2313\u02c2\u0323\u0323\u0325",
         "tier": "2",
         "owners": 232,
-        "completions": 120,
-        "playtime": 192.19972222222225,
-        "newestCompletion": "2024-12-15T03:28:51.000Z",
+        "completions": 121,
+        "playtime": 191.0256198347108,
+        "newestCompletion": "2025-09-04T20:48:49.000Z",
         "badges": {
             "count": 2,
             "points": 12
@@ -480,9 +480,9 @@ var masoData =
         "description": "\u2606  Dawn of the Tumblr noses",
         "tier": "3",
         "owners": 163,
-        "completions": 53,
-        "playtime": 98.5169811320755,
-        "newestCompletion": "2025-05-01T20:21:01.000Z"
+        "completions": 54,
+        "playtime": 98.53425925925929,
+        "newestCompletion": "2025-09-04T21:01:21.000Z"
     },
     "532170": {
         "description": "\u2733 Top 10 unique movements betrayals",
@@ -684,9 +684,9 @@ var masoData =
         "description": "\u2733 An angry name for a game with the calmest character",
         "tier": "2",
         "owners": 129,
-        "completions": 40,
-        "playtime": 49.102499999999985,
-        "newestCompletion": "2025-06-25T22:21:12.000Z"
+        "completions": 41,
+        "playtime": 48.11585365853657,
+        "newestCompletion": "2025-09-04T20:25:34.000Z"
     },
     "360740": {
         "description": "\u2733 Well diving simulator",
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 242,
         "completions": 178,
-        "playtime": 223.3982209737828,
+        "playtime": 223.4045880149813,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -993,7 +993,7 @@ var masoData =
         "tier": "5",
         "owners": 194,
         "completions": 20,
-        "playtime": 262.1883333333334,
+        "playtime": 262.20250000000004,
         "newestCompletion": "2025-07-31T22:59:32.000Z",
         "badges": {
             "count": 1,
@@ -1577,7 +1577,7 @@ var masoData =
         "tier": "3",
         "owners": 121,
         "completions": 32,
-        "playtime": 111.0578125,
+        "playtime": 111.17708333333333,
         "newestCompletion": "2025-06-05T03:49:58.000Z",
         "badges": {
             "count": 1,
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 101,
         "completions": 31,
-        "playtime": 86.76612903225806,
+        "playtime": 86.90107526881721,
         "newestCompletion": "2025-08-27T18:23:40.000Z",
         "badges": {
             "count": 2,
@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 106,
         "completions": 48,
-        "playtime": 248.14861111111114,
+        "playtime": 248.28055555555557,
         "newestCompletion": "2025-06-06T16:31:25.000Z",
         "badges": {
             "count": 1,
@@ -2411,7 +2411,7 @@ var masoData =
     "1147560": {
         "description": "\u2606 It\"s all in the head",
         "tier": "3",
-        "owners": 43,
+        "owners": 44,
         "completions": 7,
         "playtime": 96.06190476190477,
         "newestCompletion": "2025-01-23T01:01:51.000Z"
@@ -2629,7 +2629,7 @@ var masoData =
         "tier": "5",
         "owners": 104,
         "completions": 22,
-        "playtime": 584.1666666666667,
+        "playtime": 584.1674242424243,
         "newestCompletion": "2024-06-17T15:47:58.000Z",
         "badges": {
             "count": 1,
@@ -2859,7 +2859,7 @@ var masoData =
     "1123770": {
         "description": "\u272a A great game cursed only by its final achievement",
         "tier": "4",
-        "owners": 67,
+        "owners": 68,
         "completions": 15,
         "playtime": 90.29666666666665,
         "newestCompletion": "2025-06-13T15:15:34.000Z"
@@ -2889,7 +2889,7 @@ var masoData =
         "tier": "1",
         "owners": 118,
         "completions": 37,
-        "playtime": 32.84504504504505,
+        "playtime": 33.07297297297297,
         "newestCompletion": "2025-04-01T04:26:58.000Z",
         "badges": {
             "count": 1,
@@ -3137,7 +3137,7 @@ var masoData =
         "tier": "1",
         "owners": 54,
         "completions": 12,
-        "playtime": 27.338888888888878,
+        "playtime": 31.49166666666666,
         "newestCompletion": "2025-08-12T07:18:08.000Z",
         "badges": {
             "count": 1,
@@ -3369,7 +3369,7 @@ var masoData =
         "tier": "2",
         "owners": 26,
         "completions": 10,
-        "playtime": 17.003333333333334,
+        "playtime": 17.651666666666667,
         "newestCompletion": "2023-08-23T19:45:42.000Z"
     },
     "2016580": {
@@ -3411,10 +3411,10 @@ var masoData =
     "669340": {
         "description": "The Secret Cosmonautical Community.",
         "tier": "1",
-        "owners": 10,
-        "completions": 6,
-        "playtime": 11.233333333333334,
-        "newestCompletion": "2025-05-27T05:07:28.000Z"
+        "owners": 11,
+        "completions": 7,
+        "playtime": 10.983333333333334,
+        "newestCompletion": "2025-09-03T01:55:39.000Z"
     },
     "2216320": {
         "description": "\u272a Deliver Easter eggs on the North Pole and drift around snow banks without dropping an egg. The time-trial challenges are snow joke in this eggspansion.",
@@ -3583,7 +3583,7 @@ var masoData =
     "1316910": {
         "description": "\u2606 Ready? Go!",
         "tier": "3",
-        "owners": 23,
+        "owners": 24,
         "completions": 5,
         "playtime": 47.86,
         "newestCompletion": "2025-04-23T16:00:07.000Z"
@@ -3669,7 +3669,7 @@ var masoData =
         "tier": "3",
         "owners": 26,
         "completions": 7,
-        "playtime": 36.04285714285714,
+        "playtime": 36.357142857142854,
         "newestCompletion": "2025-01-18T14:42:57.000Z"
     },
     "956140": {
@@ -3957,7 +3957,7 @@ var masoData =
         "tier": "1",
         "owners": 34,
         "completions": 12,
-        "playtime": 6.177777777777778,
+        "playtime": 6.705555555555557,
         "newestCompletion": "2025-07-24T15:48:56.000Z"
     },
     "1114940": {
@@ -4035,7 +4035,7 @@ var masoData =
     "2169300": {
         "description": "Touch Boulder, Get Dizzy",
         "tier": "1",
-        "owners": 6,
+        "owners": 7,
         "completions": 5,
         "playtime": 6.283333333333333,
         "newestCompletion": "2024-07-30T20:31:01.000Z"
@@ -4455,7 +4455,7 @@ var masoData =
     "2099440": {
         "description": "Ancient techbros' ultimate showdown",
         "tier": "1",
-        "owners": 19,
+        "owners": 20,
         "completions": 4,
         "playtime": 11.1125,
         "newestCompletion": "2025-08-06T16:11:54.000Z"
@@ -4463,9 +4463,17 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 13,
+        "owners": 16,
         "completions": 10,
         "playtime": 8.499999999999998,
         "newestCompletion": "2025-08-25T05:05:32.000Z"
+    },
+    "1030300": {
+        "description": "Silksong",
+        "tier": "6",
+        "owners": 7,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
     }
 }
