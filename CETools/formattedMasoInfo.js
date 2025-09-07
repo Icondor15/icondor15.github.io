@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 233,
         "completions": 121,
-        "playtime": 191.0256198347108,
+        "playtime": 192.853305785124,
         "newestCompletion": "2025-09-04T20:48:49.000Z",
         "badges": {
             "count": 2,
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 243,
         "completions": 178,
-        "playtime": 224.02771535580524,
+        "playtime": 224.03623595505616,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -945,7 +945,7 @@ var masoData =
         "tier": "2",
         "owners": 180,
         "completions": 94,
-        "playtime": 33.16436170212767,
+        "playtime": 33.171099290780155,
         "newestCompletion": "2025-07-26T13:11:01.000Z"
     },
     "510620": {
@@ -1209,7 +1209,7 @@ var masoData =
         "tier": "5",
         "owners": 188,
         "completions": 65,
-        "playtime": 194.0317948717949,
+        "playtime": 194.03512820512822,
         "newestCompletion": "2025-05-04T19:59:47.000Z",
         "badges": {
             "count": 1,
@@ -1309,7 +1309,7 @@ var masoData =
         "tier": "2",
         "owners": 159,
         "completions": 70,
-        "playtime": 212.45785714285714,
+        "playtime": 216.88500000000002,
         "newestCompletion": "2025-08-29T21:26:24.000Z",
         "badges": {
             "count": 2,
@@ -2221,7 +2221,7 @@ var masoData =
         "tier": "3",
         "owners": 64,
         "completions": 12,
-        "playtime": 22.35972222222222,
+        "playtime": 22.63611111111111,
         "newestCompletion": "2025-06-17T19:47:34.000Z"
     },
     "1130410": {
@@ -2629,7 +2629,7 @@ var masoData =
         "tier": "5",
         "owners": 104,
         "completions": 22,
-        "playtime": 584.1674242424243,
+        "playtime": 584.6545454545455,
         "newestCompletion": "2024-06-17T15:47:58.000Z",
         "badges": {
             "count": 1,
@@ -2803,7 +2803,7 @@ var masoData =
     "1211110": {
         "description": "\u272a Petal Crush my soul",
         "tier": "4",
-        "owners": 39,
+        "owners": 40,
         "completions": 9,
         "playtime": 76.53703703703704,
         "newestCompletion": "2023-08-07T12:53:15.000Z",
@@ -2887,7 +2887,7 @@ var masoData =
     "774171": {
         "description": "Waifu Smash",
         "tier": "1",
-        "owners": 119,
+        "owners": 120,
         "completions": 37,
         "playtime": 33.07297297297297,
         "newestCompletion": "2025-04-01T04:26:58.000Z",
@@ -3813,7 +3813,7 @@ var masoData =
         "tier": "2",
         "owners": 114,
         "completions": 12,
-        "playtime": 251.59722222222226,
+        "playtime": 251.82222222222222,
         "newestCompletion": "2025-03-13T19:45:26.000Z",
         "badges": {
             "count": 1,
@@ -3823,7 +3823,7 @@ var masoData =
     "1400910": {
         "description": "\u2733 Soundblocker+",
         "tier": "2",
-        "owners": 30,
+        "owners": 32,
         "completions": 5,
         "playtime": 137.66,
         "newestCompletion": "2023-11-05T07:53:12.000Z",
@@ -4455,7 +4455,7 @@ var masoData =
     "2099440": {
         "description": "Ancient techbros' ultimate showdown",
         "tier": "1",
-        "owners": 20,
+        "owners": 21,
         "completions": 4,
         "playtime": 11.1125,
         "newestCompletion": "2025-08-06T16:11:54.000Z"
@@ -4463,7 +4463,7 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 17,
+        "owners": 18,
         "completions": 10,
         "playtime": 8.499999999999998,
         "newestCompletion": "2025-08-25T05:05:32.000Z"
@@ -4471,7 +4471,7 @@ var masoData =
     "1030300": {
         "description": "Silksong",
         "tier": "6",
-        "owners": 9,
+        "owners": 11,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
