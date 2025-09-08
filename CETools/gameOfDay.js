@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 969200,
-        "CEId": "e01e34c0-1f0c-483d-a0b2-7fba2954e356",
-        "name": "OkunoKA Madness",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/969200/header.jpg?t=1692364837",
-        "genre": "Platformer",
-        "tier": 3,
-        "points": 60,
-        "createdAt": "2024-09-07T18:17:44.000Z",
+        "platformId": 2394650,
+        "CEId": "c4fd2101-f21d-4d91-bc5b-241d9fbe77ba",
+        "name": "Crypt Custodian",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2394650/header.jpg?t=1725594331",
+        "genre": "Action",
+        "tier": 1,
+        "points": 15,
+        "createdAt": "2024-09-08T18:16:45.000Z",
         "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 0,
+        "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 2,
+        "playersTotal": 13,
         "priceData": {
             "USD": {
-                "initial": 899,
-                "final": 899,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 739,
-                "final": 739,
+                "initial": 1950,
+                "final": 1950,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 619,
-                "final": 619,
+                "initial": 1575,
+                "final": 1575,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 93000,
-                "final": 93000,
+                "initial": 286000,
+                "final": 286000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1295,
-                "final": 1295,
+                "initial": 2950,
+                "final": 2950,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1029,
-                "final": 1029,
+                "initial": 2599,
+                "final": 2599,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "King of Ka [45\u2605]\nSeparately, complete each world in Time Attack mode without dying.\n\nSpirit Saviour [15\u2605]\n100% the game.",
+            "primary": 1,
+            "primaryText": "Respect the Dead [15\u2605]\nAchieve an S+ rank on every boss for every difficulty in Boss Rush mode.",
             "community": 0,
             "communityText": "",
-            "achievements": 27
+            "achievements": 48
         }
     }
 }
-var gameOfDayDate = '2025-09-07'
+var gameOfDayDate = '2025-09-08'
