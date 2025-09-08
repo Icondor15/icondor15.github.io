@@ -4471,7 +4471,7 @@ var masoData =
     "1030300": {
         "description": "Silksong",
         "tier": "6",
-        "owners": 11,
+        "owners": 12,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
