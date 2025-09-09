@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 243,
         "completions": 178,
-        "playtime": 224.03623595505616,
+        "playtime": 224.20243445692884,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1209,7 +1209,7 @@ var masoData =
         "tier": "5",
         "owners": 188,
         "completions": 65,
-        "playtime": 194.03512820512822,
+        "playtime": 194.03897435897437,
         "newestCompletion": "2025-05-04T19:59:47.000Z",
         "badges": {
             "count": 1,
@@ -1407,7 +1407,7 @@ var masoData =
     "264200": {
         "description": "\u272a How fast is your hand-eye coordination?Test your resolve with this progressively faster and harder game.",
         "tier": "4",
-        "owners": 117,
+        "owners": 118,
         "completions": 19,
         "playtime": 68.90263157894736,
         "newestCompletion": "2024-05-19T23:51:51.000Z"
@@ -1475,7 +1475,7 @@ var masoData =
     "1061090": {
         "description": "\ud83c\udf1f The Virgin Shovel knight VS the Chad Jump King",
         "tier": "5",
-        "owners": 130,
+        "owners": 131,
         "completions": 36,
         "playtime": 281.03240740740745,
         "newestCompletion": "2025-06-16T07:54:51.000Z",
@@ -2753,7 +2753,7 @@ var masoData =
         "tier": "3",
         "owners": 59,
         "completions": 19,
-        "playtime": 180.83771929824562,
+        "playtime": 181.18245614035087,
         "newestCompletion": "2025-06-21T16:16:20.000Z",
         "badges": {
             "count": 2,
@@ -3209,7 +3209,7 @@ var masoData =
         "tier": "3",
         "owners": 113,
         "completions": 56,
-        "playtime": 75.45386904761904,
+        "playtime": 75.55565476190475,
         "newestCompletion": "2025-03-21T07:21:41.000Z",
         "badges": {
             "count": 1,
@@ -3521,7 +3521,7 @@ var masoData =
         "tier": "2",
         "owners": 92,
         "completions": 32,
-        "playtime": 47.145833333333336,
+        "playtime": 47.2,
         "newestCompletion": "2025-07-07T00:32:13.000Z"
     },
     "1442170": {
@@ -3891,7 +3891,7 @@ var masoData =
     "871720": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f Your average night shift",
         "tier": "0",
-        "owners": 60,
+        "owners": 61,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null,
@@ -4327,7 +4327,7 @@ var masoData =
     "3044100": {
         "description": "\u272a Tier 4",
         "tier": "4",
-        "owners": 10,
+        "owners": 11,
         "completions": 4,
         "playtime": 48.8625,
         "newestCompletion": "2025-07-09T16:10:23.000Z"
@@ -4337,7 +4337,7 @@ var masoData =
         "tier": "2",
         "owners": 10,
         "completions": 3,
-        "playtime": 40.77222222222222,
+        "playtime": 42.06666666666667,
         "newestCompletion": "2025-05-03T14:34:21.000Z"
     },
     "1345860": {
