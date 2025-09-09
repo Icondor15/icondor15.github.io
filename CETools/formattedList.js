@@ -10,7 +10,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-11T23:48:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -64,10 +64,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-27T02:35:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 5,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 50,
+        "playersTotal": 51,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -118,7 +118,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-12-28T16:02:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 73,
         "playersStarted": 0,
         "playersTotal": 134,
@@ -172,7 +172,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:08:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 79,
         "playersStarted": 0,
         "playersTotal": 581,
@@ -226,10 +226,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:12:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 43,
         "playersStarted": 0,
-        "playersTotal": 212,
+        "playersTotal": 213,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -280,7 +280,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-07T02:19:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -334,10 +334,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:06:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 112,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 113,
         "playersStarted": 0,
-        "playersTotal": 461,
+        "playersTotal": 462,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -388,10 +388,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2024-06-09T23:35:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 126,
+        "playersTotal": 127,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -443,7 +443,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-07-05T05:22:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -498,7 +498,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-12-04T04:50:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
         "playersTotal": 71,
@@ -552,7 +552,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-11-25T19:10:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -606,7 +606,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:56:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 45,
         "playersStarted": 0,
         "playersTotal": 256,
@@ -660,7 +660,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-18T22:08:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 90,
@@ -714,40 +714,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-20T15:35:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 58,
+        "playersTotal": 59,
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 99,
-                "discountPercent": 80
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 499,
-                "final": 99,
-                "discountPercent": 80
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 399,
-                "final": 79,
-                "discountPercent": 80
+                "final": 399,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 49800,
-                "final": 9900,
-                "discountPercent": 80
+                "final": 49800,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 750,
-                "final": 150,
-                "discountPercent": 80
+                "final": 750,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 549,
-                "final": 109,
-                "discountPercent": 80
+                "final": 549,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -768,7 +768,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2025-03-12T18:00:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 11,
@@ -817,10 +817,10 @@ var data =
         "tier": 5,
         "points": 270,
         "createdAt": "2020-01-28T09:40:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
-        "playersStarted": 317,
-        "playersTotal": 990,
+        "playersStarted": 318,
+        "playersTotal": 993,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -871,7 +871,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-03-08T15:10:02.000Z",
-        "updatedAt": "2025-08-31T07:04:18.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 51,
         "playersTotal": 86,
@@ -925,7 +925,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-07-05T04:08:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -979,10 +979,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:12:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 103,
-        "playersTotal": 787,
+        "playersTotal": 790,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -1034,7 +1034,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-16T02:22:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 78,
@@ -1089,7 +1089,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:32:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 61,
@@ -1143,7 +1143,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-17T13:23:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -1197,7 +1197,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:20:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -1251,7 +1251,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-22T02:25:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -1305,7 +1305,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-01-04T08:59:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 87,
@@ -1359,10 +1359,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:07:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 81,
         "playersStarted": 0,
-        "playersTotal": 727,
+        "playersTotal": 728,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -1413,10 +1413,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-11T18:08:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 7,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 29,
+        "playersTotal": 30,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -1467,7 +1467,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-03T05:58:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -1522,7 +1522,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-17T13:23:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -1576,10 +1576,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-18T16:22:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 178,
+        "playersTotal": 180,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -1630,8 +1630,8 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:46:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 39,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 40,
         "playersStarted": 0,
         "playersTotal": 250,
         "priceData": {
@@ -1684,10 +1684,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-04T16:31:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 126,
+        "playersTotal": 127,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -1738,7 +1738,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:30:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 203,
@@ -1792,7 +1792,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-21T04:06:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -1847,7 +1847,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2022-10-24T11:18:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 10,
         "playersTotal": 99,
@@ -1902,7 +1902,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-03-11T14:34:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 26,
@@ -1956,10 +1956,10 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2023-07-26T23:57:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 183,
+        "playersTotal": 185,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -2010,7 +2010,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-06-09T11:19:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 85,
@@ -2064,10 +2064,10 @@ var data =
         "tier": 4,
         "points": 140,
         "createdAt": "2022-11-10T03:27:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
-        "playersStarted": 26,
-        "playersTotal": 171,
+        "playersStarted": 27,
+        "playersTotal": 172,
         "priceData": {
             "USD": {
                 "initial": 680,
@@ -2118,7 +2118,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-06-25T06:34:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -2172,7 +2172,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-12-30T19:53:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 17,
         "playersTotal": 230,
@@ -2226,10 +2226,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-04T09:28:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 39,
+        "playersTotal": 40,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -2280,7 +2280,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:52:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 62,
         "playersStarted": 0,
         "playersTotal": 171,
@@ -2334,40 +2334,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-02T07:10:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 19,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 1199,
+                "discountPercent": 40
             },
             "EUR": {
                 "initial": 1950,
-                "final": 1950,
-                "discountPercent": 0
+                "final": 1170,
+                "discountPercent": 40
             },
             "GBP": {
                 "initial": 1675,
-                "final": 1675,
-                "discountPercent": 0
+                "final": 1005,
+                "discountPercent": 40
             },
             "JPY": {
                 "initial": 198000,
-                "final": 198000,
-                "discountPercent": 0
+                "final": 118800,
+                "discountPercent": 40
             },
             "AUD": {
                 "initial": 2950,
-                "final": 2950,
-                "discountPercent": 0
+                "final": 1770,
+                "discountPercent": 40
             },
             "CAD": {
                 "initial": 2599,
-                "final": 2599,
-                "discountPercent": 0
+                "final": 1559,
+                "discountPercent": 40
             }
         },
         "milestones": {
@@ -2388,7 +2388,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-13T06:21:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 128,
@@ -2442,7 +2442,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-09T03:51:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -2496,7 +2496,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-05-05T04:29:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 42,
         "playersTotal": 362,
@@ -2550,7 +2550,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T18:38:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -2604,7 +2604,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-11T16:07:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 102,
@@ -2653,7 +2653,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-03-20T15:56:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -2707,10 +2707,10 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-07-26T15:59:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 5,
-        "playersTotal": 92,
+        "playersTotal": 93,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -2761,40 +2761,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-04-14T18:41:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 54,
         "playersStarted": 0,
-        "playersTotal": 218,
+        "playersTotal": 219,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 99,
-                "discountPercent": 90
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 819,
-                "final": 81,
-                "discountPercent": 90
+                "final": 819,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 719,
-                "final": 71,
-                "discountPercent": 90
+                "final": 719,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 101000,
-                "final": 10100,
-                "discountPercent": 90
+                "final": 101000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1450,
-                "final": 145,
-                "discountPercent": 90
+                "final": 1450,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1149,
-                "final": 114,
-                "discountPercent": 90
+                "final": 1149,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -2815,10 +2815,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-15T17:58:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
-        "playersTotal": 276,
+        "playersTotal": 277,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -2869,7 +2869,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T18:54:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 142,
@@ -2923,10 +2923,10 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2024-10-16T01:27:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 24,
+        "playersTotal": 25,
         "priceData": {
             "USD": {
                 "initial": 899,
@@ -2978,10 +2978,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2025-07-05T04:09:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 32,
+        "playersTotal": 33,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -3032,10 +3032,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-02-29T21:34:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 218,
+        "playersTotal": 220,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -3086,10 +3086,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-08-01T06:08:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 59,
+        "playersTotal": 60,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -3140,7 +3140,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-02-03T04:21:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -3194,7 +3194,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-08T19:30:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 148,
@@ -3248,7 +3248,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-08-19T16:48:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 148,
@@ -3302,10 +3302,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-22T00:45:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 39,
+        "playersTotal": 40,
         "priceData": {
             "USD": {
                 "initial": 1799,
@@ -3356,7 +3356,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-08-26T01:54:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 20,
@@ -3411,7 +3411,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-05T20:27:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -3465,10 +3465,10 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2020-01-28T09:35:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 3,
-        "playersTotal": 201,
+        "playersTotal": 202,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -3519,7 +3519,7 @@ var data =
         "tier": 4,
         "points": 122,
         "createdAt": "2022-09-02T05:36:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 36,
@@ -3573,7 +3573,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T18:52:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 122,
@@ -3627,10 +3627,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-01-10T21:02:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 9,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 71,
+        "playersTotal": 72,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -3681,40 +3681,40 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2025-05-15T17:18:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 4,
         "priceData": {
             "USD": {
                 "initial": 799,
-                "final": 535,
-                "discountPercent": 33
+                "final": 799,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 779,
-                "final": 521,
-                "discountPercent": 33
+                "final": 779,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 669,
-                "final": 448,
-                "discountPercent": 33
+                "final": 669,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 92000,
-                "final": 61600,
-                "discountPercent": 33
+                "final": 92000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1179,
-                "final": 789,
-                "discountPercent": 33
+                "final": 1179,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1049,
-                "final": 702,
-                "discountPercent": 33
+                "final": 1049,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -3735,7 +3735,7 @@ var data =
         "tier": 5,
         "points": 225,
         "createdAt": "2020-01-28T10:03:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 23,
         "playersTotal": 260,
@@ -3789,7 +3789,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:49:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 89,
@@ -3843,7 +3843,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:43:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -3897,40 +3897,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-07T20:02:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 34,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 899,
-                "final": 899,
-                "discountPercent": 0
+                "final": 179,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 170,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "final": 24000,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 259,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
+                "final": 219,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -3952,10 +3952,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-06-10T09:16:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 36,
+        "playersTotal": 37,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -4006,7 +4006,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-30T18:42:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 5,
         "playersTotal": 36,
@@ -4060,7 +4060,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-09-02T23:03:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 4,
         "playersTotal": 51,
@@ -4115,10 +4115,10 @@ var data =
         "tier": 3,
         "points": 51,
         "createdAt": "2023-05-10T17:04:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 31,
+        "playersTotal": 32,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -4169,7 +4169,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-09-17T06:06:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 53,
         "playersStarted": 0,
         "playersTotal": 193,
@@ -4223,7 +4223,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-15T22:52:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -4277,7 +4277,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-17T00:51:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -4331,7 +4331,7 @@ var data =
         "tier": 3,
         "points": 52,
         "createdAt": "2021-01-21T21:04:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 13,
         "playersTotal": 150,
@@ -4385,10 +4385,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-01-23T17:17:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
-        "playersTotal": 14,
+        "playersTotal": 15,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -4439,7 +4439,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-08-11T01:07:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 94,
@@ -4493,10 +4493,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-05-18T14:48:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 143,
+        "playersTotal": 145,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -4547,7 +4547,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-18T02:52:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -4601,7 +4601,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-14T02:49:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -4655,7 +4655,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-09T17:07:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -4709,7 +4709,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-11T16:26:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -4763,7 +4763,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-11-10T05:17:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 52,
@@ -4817,10 +4817,10 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2021-05-14T06:58:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
-        "playersTotal": 283,
+        "playersTotal": 285,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -4871,7 +4871,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:54:18.000Z",
-        "updatedAt": "2025-09-04T03:07:04.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 35,
         "playersStarted": 0,
         "playersTotal": 187,
@@ -4925,40 +4925,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-08-02T05:16:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 50,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 1259,
-                "final": 1259,
-                "discountPercent": 0
+                "final": 251,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 1150,
-                "final": 1150,
-                "discountPercent": 0
+                "final": 230,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 155000,
-                "final": 155000,
-                "discountPercent": 0
+                "final": 31000,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 439,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 1699,
-                "final": 1699,
-                "discountPercent": 0
+                "final": 339,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -4979,7 +4979,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-31T06:47:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -5033,7 +5033,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-03-30T20:15:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 20,
@@ -5088,7 +5088,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-12T13:50:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -5142,7 +5142,7 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2024-08-03T22:14:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 17,
@@ -5197,40 +5197,40 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T10:01:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 2,
         "playersTotal": 146,
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 99,
-                "discountPercent": 80
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 499,
-                "final": 99,
-                "discountPercent": 80
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 399,
-                "final": 79,
-                "discountPercent": 80
+                "final": 399,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 49800,
-                "final": 9900,
-                "discountPercent": 80
+                "final": 49800,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 750,
-                "final": 150,
-                "discountPercent": 80
+                "final": 750,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 549,
-                "final": 109,
-                "discountPercent": 80
+                "final": 549,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -5251,7 +5251,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-12-21T08:39:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -5305,40 +5305,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T19:12:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
-        "playersTotal": 254,
+        "playersTotal": 257,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 999,
-                "discountPercent": 50
+                "final": 1999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1799,
-                "final": 899,
-                "discountPercent": 50
+                "final": 1799,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1499,
-                "final": 749,
-                "discountPercent": 50
+                "final": 1499,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 198000,
-                "final": 99000,
-                "discountPercent": 50
+                "final": 198000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2895,
-                "final": 1447,
-                "discountPercent": 50
+                "final": 2895,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 2199,
-                "final": 1099,
-                "discountPercent": 50
+                "final": 2199,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -5359,7 +5359,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-10T15:57:22.000Z",
-        "updatedAt": "2025-09-07T16:52:00.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -5414,7 +5414,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-06-25T18:47:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -5468,7 +5468,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-23T12:06:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 103,
@@ -5522,7 +5522,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-04T08:00:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -5576,7 +5576,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-07T14:18:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -5630,7 +5630,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-08-19T05:55:49.000Z",
-        "updatedAt": "2025-08-19T05:58:00.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 0,
@@ -5684,7 +5684,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-18T02:32:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 10,
         "playersTotal": 165,
@@ -5738,40 +5738,40 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2022-06-12T10:24:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 210,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 99,
-                "discountPercent": 90
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 999,
-                "final": 99,
-                "discountPercent": 90
+                "final": 999,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 699,
-                "final": 69,
-                "discountPercent": 90
+                "final": 699,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 98000,
-                "final": 9800,
-                "discountPercent": 90
+                "final": 98000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1450,
-                "final": 145,
-                "discountPercent": 90
+                "final": 1450,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1099,
-                "final": 109,
-                "discountPercent": 90
+                "final": 1099,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -5792,7 +5792,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:57:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 98,
@@ -5846,10 +5846,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-16T22:40:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 51,
-        "playersStarted": 37,
-        "playersTotal": 518,
+        "playersStarted": 38,
+        "playersTotal": 524,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -5900,7 +5900,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-09-07T08:46:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 5,
         "playersTotal": 27,
@@ -5955,10 +5955,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2022-11-14T02:57:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 7,
-        "playersTotal": 46,
+        "playersTotal": 47,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -6009,7 +6009,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:41:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 44,
         "playersStarted": 0,
         "playersTotal": 267,
@@ -6063,10 +6063,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-01T18:07:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 102,
         "playersStarted": 0,
-        "playersTotal": 580,
+        "playersTotal": 581,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -6117,7 +6117,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2025-01-18T15:09:44.000Z",
-        "updatedAt": "2025-08-19T18:37:30.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 8,
         "playersTotal": 31,
@@ -6171,10 +6171,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-07-05T04:48:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 34,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 35,
         "playersStarted": 0,
-        "playersTotal": 156,
+        "playersTotal": 159,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -6226,10 +6226,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-08-27T21:37:04.000Z",
-        "updatedAt": "2025-08-28T02:03:54.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
-        "playersStarted": 8,
-        "playersTotal": 65,
+        "playersStarted": 9,
+        "playersTotal": 68,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -6280,10 +6280,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-12-21T04:52:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 239,
+        "playersTotal": 242,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -6334,7 +6334,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2024-09-07T22:24:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 10,
@@ -6388,40 +6388,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:48:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 9,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 60
             },
             "EUR": {
                 "initial": 975,
-                "final": 975,
-                "discountPercent": 0
+                "final": 390,
+                "discountPercent": 60
             },
             "GBP": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 340,
+                "discountPercent": 60
             },
             "JPY": {
                 "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "final": 48000,
+                "discountPercent": 60
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 580,
+                "discountPercent": 60
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 519,
+                "discountPercent": 60
             }
         },
         "milestones": {
@@ -6442,10 +6442,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-10-24T16:00:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
-        "playersStarted": 108,
-        "playersTotal": 928,
+        "playersStarted": 109,
+        "playersTotal": 931,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -6496,10 +6496,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2023-11-26T21:21:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 16,
-        "playersTotal": 369,
+        "playersTotal": 372,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -6550,7 +6550,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-11-30T20:24:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -6604,7 +6604,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-17T15:21:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -6658,7 +6658,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2024-11-25T18:28:38.000Z",
-        "updatedAt": "2025-08-30T00:35:33.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 36,
         "playersTotal": 173,
@@ -6712,10 +6712,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-08-25T17:35:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 55,
         "playersStarted": 0,
-        "playersTotal": 344,
+        "playersTotal": 345,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -6766,7 +6766,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-03-06T04:53:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -6820,10 +6820,10 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2023-04-11T14:42:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 33,
-        "playersStarted": 54,
-        "playersTotal": 173,
+        "playersStarted": 55,
+        "playersTotal": 174,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -6874,35 +6874,35 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-02-14T22:57:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 41,
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 249,
-                "discountPercent": 50
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 499,
-                "final": 249,
-                "discountPercent": 50
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 429,
-                "final": 214,
-                "discountPercent": 50
+                "final": 429,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 750,
-                "final": 375,
-                "discountPercent": 50
+                "final": 750,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 649,
-                "final": 324,
-                "discountPercent": 50
+                "final": 649,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -6923,7 +6923,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-11-27T05:15:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -6977,40 +6977,40 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2022-09-19T08:44:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
-        "playersTotal": 54,
+        "playersTotal": 55,
         "priceData": {
             "USD": {
                 "initial": 399,
-                "final": 399,
-                "discountPercent": 0
+                "final": 79,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 399,
-                "final": 399,
-                "discountPercent": 0
+                "final": 79,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 339,
-                "final": 339,
-                "discountPercent": 0
+                "final": 67,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 47000,
-                "final": 47000,
-                "discountPercent": 0
+                "final": 9400,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 595,
-                "final": 595,
-                "discountPercent": 0
+                "final": 119,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -7031,40 +7031,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-20T00:18:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 62,
+        "playersTotal": 63,
         "priceData": {
             "USD": {
                 "initial": 1199,
-                "final": 119,
-                "discountPercent": 90
+                "final": 1199,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1199,
-                "final": 119,
-                "discountPercent": 90
+                "final": 1199,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 999,
-                "final": 99,
-                "discountPercent": 90
+                "final": 999,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 140000,
-                "final": 14000,
-                "discountPercent": 90
+                "final": 140000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1775,
-                "final": 177,
-                "discountPercent": 90
+                "final": 1775,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1549,
-                "final": 154,
-                "discountPercent": 90
+                "final": 1549,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -7085,7 +7085,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-09T15:25:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -7139,10 +7139,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-01-29T19:16:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 31,
-        "playersTotal": 710,
+        "playersTotal": 713,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -7193,10 +7193,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-19T01:23:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 24,
-        "playersTotal": 178,
+        "playersTotal": 180,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -7247,7 +7247,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T10:04:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 8,
         "playersTotal": 229,
@@ -7301,7 +7301,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-20T21:51:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 117,
@@ -7355,7 +7355,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-20T21:52:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 121,
@@ -7409,7 +7409,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-10-10T23:37:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -7463,10 +7463,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:29:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 46,
         "playersStarted": 0,
-        "playersTotal": 401,
+        "playersTotal": 403,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -7517,7 +7517,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-01-25T02:14:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 33,
@@ -7571,35 +7571,35 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-06-16T18:04:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 10,
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 89,
-                "discountPercent": 82
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 499,
-                "final": 89,
-                "discountPercent": 82
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 399,
-                "final": 71,
-                "discountPercent": 82
+                "final": 399,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 49800,
-                "final": 8900,
-                "discountPercent": 82
+                "final": 49800,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 549,
-                "final": 98,
-                "discountPercent": 82
+                "final": 549,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -7620,7 +7620,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:24:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 166,
@@ -7674,7 +7674,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-10-09T00:41:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -7728,7 +7728,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:31:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 80,
@@ -7782,10 +7782,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:25:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 110,
         "playersStarted": 0,
-        "playersTotal": 749,
+        "playersTotal": 754,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -7836,7 +7836,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-11-29T06:52:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -7890,7 +7890,7 @@ var data =
         "tier": 3,
         "points": 67,
         "createdAt": "2024-04-09T00:01:43.000Z",
-        "updatedAt": "2025-08-25T02:36:06.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 13,
         "playersTotal": 117,
@@ -7944,7 +7944,7 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2025-01-19T08:39:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -7999,7 +7999,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-09T11:13:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -8053,40 +8053,40 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-04-16T22:44:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 21,
         "playersTotal": 192,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 374,
-                "discountPercent": 75
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1499,
-                "final": 374,
-                "discountPercent": 75
+                "final": 1499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1199,
-                "final": 299,
-                "discountPercent": 75
+                "final": 1199,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 152000,
-                "final": 38000,
-                "discountPercent": 75
+                "final": 152000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2150,
-                "final": 537,
-                "discountPercent": 75
+                "final": 2150,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1749,
-                "final": 437,
-                "discountPercent": 75
+                "final": 1749,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -8107,7 +8107,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:19:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 147,
@@ -8161,10 +8161,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T08:31:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
-        "playersTotal": 225,
+        "playersTotal": 226,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -8215,10 +8215,10 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2020-06-23T11:03:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 7,
-        "playersTotal": 193,
+        "playersTotal": 194,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -8269,7 +8269,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2025-08-19T20:29:46.000Z",
-        "updatedAt": "2025-08-20T20:54:24.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -8323,7 +8323,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-12-14T00:31:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 57,
@@ -8377,7 +8377,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:49:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 120,
@@ -8431,7 +8431,7 @@ var data =
         "tier": 3,
         "points": 41,
         "createdAt": "2024-01-26T11:24:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 23,
@@ -8485,10 +8485,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-05-18T15:54:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 4,
-        "playersTotal": 34,
+        "playersTotal": 35,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -8539,7 +8539,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-18T19:39:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 126,
@@ -8593,40 +8593,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-02T19:13:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 253,
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 124,
-                "discountPercent": 75
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 499,
-                "final": 124,
-                "discountPercent": 75
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 429,
-                "final": 107,
-                "discountPercent": 75
+                "final": 429,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 58000,
-                "final": 14500,
-                "discountPercent": 75
+                "final": 58000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 750,
-                "final": 187,
-                "discountPercent": 75
+                "final": 750,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 649,
-                "final": 162,
-                "discountPercent": 75
+                "final": 649,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -8647,10 +8647,10 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:01:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 37,
-        "playersTotal": 190,
+        "playersTotal": 192,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -8701,7 +8701,7 @@ var data =
         "tier": 5,
         "points": 335,
         "createdAt": "2021-01-18T19:00:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 55,
         "playersTotal": 245,
@@ -8755,7 +8755,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-02-27T22:53:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 44,
@@ -8809,7 +8809,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2021-07-26T20:19:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 32,
         "playersStarted": 4,
         "playersTotal": 159,
@@ -8863,7 +8863,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-13T06:37:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 10,
@@ -8917,7 +8917,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:42:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 127,
         "playersStarted": 0,
         "playersTotal": 230,
@@ -8971,7 +8971,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:44:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 58,
         "playersStarted": 0,
         "playersTotal": 200,
@@ -9025,7 +9025,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-04-21T01:40:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 8,
         "playersTotal": 56,
@@ -9079,7 +9079,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T17:32:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 93,
@@ -9133,10 +9133,10 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-11-21T15:13:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 30,
-        "playersTotal": 451,
+        "playersTotal": 453,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -9187,10 +9187,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-01-10T20:54:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 80,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 81,
         "playersStarted": 0,
-        "playersTotal": 462,
+        "playersTotal": 463,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -9241,7 +9241,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-26T18:59:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -9295,7 +9295,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-09-02T06:56:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 6,
@@ -9349,10 +9349,10 @@ var data =
         "tier": 1,
         "points": 18,
         "createdAt": "2025-01-09T15:16:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
-        "playersStarted": 52,
-        "playersTotal": 191,
+        "playersStarted": 53,
+        "playersTotal": 195,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -9403,10 +9403,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-07-05T05:05:09.000Z",
-        "updatedAt": "2025-08-15T23:56:07.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 113,
+        "playersTotal": 116,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -9458,7 +9458,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-04-08T12:49:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 2,
         "playersTotal": 57,
@@ -9512,7 +9512,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-01-24T09:45:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -9566,10 +9566,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-23T11:37:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
-        "playersTotal": 138,
+        "playersTotal": 139,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -9620,10 +9620,10 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2022-09-27T16:59:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 22,
+        "playersTotal": 23,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -9674,10 +9674,10 @@ var data =
         "tier": 3,
         "points": 46,
         "createdAt": "2024-03-08T04:07:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
-        "playersTotal": 10,
+        "playersTotal": 11,
         "priceData": {
             "USD": {
                 "initial": 899,
@@ -9728,10 +9728,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-01T16:41:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 29,
+        "playersTotal": 30,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -9782,7 +9782,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-03-22T15:13:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 31,
         "playersStarted": 10,
         "playersTotal": 113,
@@ -9836,7 +9836,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2025-08-18T23:27:56.000Z",
-        "updatedAt": "2025-08-19T03:12:28.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 7,
@@ -9891,7 +9891,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-04-14T19:06:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -9945,7 +9945,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:33:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 150,
@@ -9999,7 +9999,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-23T18:30:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -10053,7 +10053,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-03T18:55:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 91,
@@ -10102,10 +10102,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-08-19T23:48:26.000Z",
-        "updatedAt": "2025-08-20T02:32:39.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 40,
+        "playersTotal": 42,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -10156,9 +10156,9 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2025-01-03T17:49:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
-        "playersStarted": 8,
+        "playersStarted": 9,
         "playersTotal": 40,
         "priceData": {
             "USD": {
@@ -10210,7 +10210,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-14T22:07:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 38,
         "playersStarted": 11,
         "playersTotal": 110,
@@ -10260,7 +10260,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T20:29:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 6,
         "playersTotal": 89,
@@ -10314,7 +10314,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2023-05-19T00:36:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 37,
         "playersTotal": 83,
@@ -10368,7 +10368,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-01T19:02:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 76,
         "playersStarted": 0,
         "playersTotal": 674,
@@ -10422,7 +10422,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-09-24T06:17:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 97,
@@ -10476,7 +10476,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-02-15T21:53:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -10530,7 +10530,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-04-02T15:14:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -10584,7 +10584,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-03-02T21:35:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 20,
@@ -10638,10 +10638,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-22T19:30:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 22,
         "playersStarted": 152,
-        "playersTotal": 1058,
+        "playersTotal": 1063,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -10692,10 +10692,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2021-02-28T18:03:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
-        "playersTotal": 43,
+        "playersTotal": 44,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -10746,7 +10746,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-05T13:12:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 125,
@@ -10796,7 +10796,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-02T20:03:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 139,
@@ -10845,40 +10845,40 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:31:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 96,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 524,
-                "discountPercent": 65
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1479,
-                "final": 517,
-                "discountPercent": 65
+                "final": 1479,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1279,
-                "final": 447,
-                "discountPercent": 65
+                "final": 1279,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 170000,
-                "final": 59500,
-                "discountPercent": 65
+                "final": 170000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2195,
-                "final": 768,
-                "discountPercent": 65
+                "final": 2195,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1949,
-                "final": 682,
-                "discountPercent": 65
+                "final": 1949,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -10899,10 +10899,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-06-06T01:10:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 3,
-        "playersTotal": 285,
+        "playersTotal": 286,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -10948,10 +10948,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-01-28T09:31:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 40,
         "playersStarted": 0,
-        "playersTotal": 492,
+        "playersTotal": 494,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -11002,7 +11002,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2021-10-08T23:48:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 20,
         "playersTotal": 326,
@@ -11057,7 +11057,7 @@ var data =
         "tier": 2,
         "points": 32,
         "createdAt": "2024-03-18T11:20:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 30,
@@ -11111,10 +11111,10 @@ var data =
         "tier": 5,
         "points": 250,
         "createdAt": "2020-01-28T06:52:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 76,
-        "playersStarted": 728,
-        "playersTotal": 1853,
+        "playersStarted": 730,
+        "playersTotal": 1861,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -11165,7 +11165,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:02:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 50,
         "playersStarted": 0,
         "playersTotal": 98,
@@ -11219,7 +11219,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-06T16:37:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -11273,7 +11273,7 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2022-07-22T10:21:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 13,
         "playersTotal": 55,
@@ -11328,7 +11328,7 @@ var data =
         "tier": 5,
         "points": 300,
         "createdAt": "2020-01-28T08:58:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 26,
         "playersTotal": 164,
@@ -11382,7 +11382,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-02-11T07:18:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 46,
@@ -11436,10 +11436,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-08-01T17:42:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 237,
+        "playersTotal": 238,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -11486,7 +11486,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2024-05-26T04:49:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 7,
         "playersTotal": 83,
@@ -11540,10 +11540,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:57:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 131,
+        "playersTotal": 132,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -11594,7 +11594,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-20T03:07:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -11648,7 +11648,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-04-16T13:49:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -11702,7 +11702,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-04-22T20:06:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 4,
         "playersTotal": 40,
@@ -11756,7 +11756,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-02-17T17:05:48.000Z",
-        "updatedAt": "2025-08-20T00:18:14.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 2,
         "playersTotal": 110,
@@ -11810,40 +11810,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-29T19:06:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 11,
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 324,
+                "discountPercent": 35
             },
             "EUR": {
                 "initial": 399,
-                "final": 399,
-                "discountPercent": 0
+                "final": 259,
+                "discountPercent": 35
             },
             "GBP": {
                 "initial": 399,
-                "final": 399,
-                "discountPercent": 0
+                "final": 259,
+                "discountPercent": 35
             },
             "JPY": {
                 "initial": 52000,
-                "final": 52000,
-                "discountPercent": 0
+                "final": 33800,
+                "discountPercent": 35
             },
             "AUD": {
                 "initial": 750,
-                "final": 750,
-                "discountPercent": 0
+                "final": 487,
+                "discountPercent": 35
             },
             "CAD": {
                 "initial": 569,
-                "final": 569,
-                "discountPercent": 0
+                "final": 369,
+                "discountPercent": 35
             }
         },
         "milestones": {
@@ -11864,10 +11864,10 @@ var data =
         "tier": 5,
         "points": 280,
         "createdAt": "2020-01-28T09:35:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 7,
-        "playersTotal": 180,
+        "playersTotal": 181,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -11918,7 +11918,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-03-08T04:07:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -11972,10 +11972,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:06:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 312,
         "playersStarted": 0,
-        "playersTotal": 641,
+        "playersTotal": 642,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -12026,7 +12026,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-06-30T19:04:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -12080,10 +12080,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T05:58:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 54,
         "playersStarted": 0,
-        "playersTotal": 345,
+        "playersTotal": 348,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -12134,7 +12134,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-12-22T21:05:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -12188,10 +12188,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-06-25T19:03:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 1,
-        "playersTotal": 234,
+        "playersTotal": 235,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -12242,40 +12242,40 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2022-07-31T00:46:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 32,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 494,
+                "discountPercent": 67
             },
             "EUR": {
                 "initial": 1479,
-                "final": 1479,
-                "discountPercent": 0
+                "final": 488,
+                "discountPercent": 67
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 422,
+                "discountPercent": 67
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 56100,
+                "discountPercent": 67
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 724,
+                "discountPercent": 67
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 643,
+                "discountPercent": 67
             }
         },
         "milestones": {
@@ -12296,7 +12296,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-04-24T20:02:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 4,
         "playersTotal": 22,
@@ -12350,7 +12350,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-11-25T09:17:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -12404,7 +12404,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:58:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 13,
         "playersTotal": 317,
@@ -12458,10 +12458,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-19T20:00:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 286,
+        "playersTotal": 287,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -12512,7 +12512,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-02T19:05:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
         "playersTotal": 147,
@@ -12566,7 +12566,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-06T17:54:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -12621,7 +12621,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-08-08T22:40:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 28,
         "playersTotal": 79,
@@ -12675,7 +12675,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-04T13:19:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 67,
@@ -12729,10 +12729,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2024-11-03T19:10:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 3,
-        "playersTotal": 92,
+        "playersTotal": 93,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -12784,7 +12784,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-27T02:41:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 11,
@@ -12838,7 +12838,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-08-10T17:12:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -12892,7 +12892,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-11-10T22:07:34.000Z",
-        "updatedAt": "2025-08-31T05:06:12.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 23,
         "playersTotal": 124,
@@ -12941,10 +12941,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T07:16:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 36,
         "playersStarted": 81,
-        "playersTotal": 557,
+        "playersTotal": 561,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -12995,7 +12995,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2021-01-17T18:56:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 165,
@@ -13049,10 +13049,10 @@ var data =
         "tier": 5,
         "points": 234,
         "createdAt": "2023-03-25T21:16:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 16,
-        "playersTotal": 74,
+        "playersTotal": 75,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -13104,10 +13104,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-10-18T19:51:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 16,
+        "playersTotal": 17,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -13158,10 +13158,10 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2024-04-23T14:33:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 247,
+        "playersTotal": 249,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -13213,7 +13213,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-13T01:15:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -13267,10 +13267,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-02-17T17:16:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 7,
-        "playersTotal": 201,
+        "playersTotal": 202,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -13321,7 +13321,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-18T14:27:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 20,
         "playersTotal": 240,
@@ -13375,10 +13375,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-05-12T09:47:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 216,
+        "playersTotal": 217,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -13429,7 +13429,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-08T18:16:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -13483,10 +13483,10 @@ var data =
         "tier": 6,
         "points": 700,
         "createdAt": "2020-01-28T10:05:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
-        "playersStarted": 243,
-        "playersTotal": 1267,
+        "playersStarted": 244,
+        "playersTotal": 1271,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -13537,7 +13537,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-11-09T06:42:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -13591,10 +13591,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T06:23:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 79,
-        "playersStarted": 251,
-        "playersTotal": 1138,
+        "playersStarted": 252,
+        "playersTotal": 1141,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -13646,7 +13646,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2021-12-14T00:29:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 12,
         "playersTotal": 269,
@@ -13700,40 +13700,40 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:29:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 148,
         "priceData": {
             "USD": {
                 "initial": 1199,
-                "final": 1199,
-                "discountPercent": 0
+                "final": 779,
+                "discountPercent": 35
             },
             "EUR": {
                 "initial": 1199,
-                "final": 1199,
-                "discountPercent": 0
+                "final": 779,
+                "discountPercent": 35
             },
             "GBP": {
                 "initial": 899,
-                "final": 899,
-                "discountPercent": 0
+                "final": 584,
+                "discountPercent": 35
             },
             "JPY": {
                 "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "final": 78000,
+                "discountPercent": 35
             },
             "AUD": {
                 "initial": 1799,
-                "final": 1799,
-                "discountPercent": 0
+                "final": 1169,
+                "discountPercent": 35
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 844,
+                "discountPercent": 35
             }
         },
         "milestones": {
@@ -13754,7 +13754,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T06:14:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 88,
@@ -13808,10 +13808,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-09-29T09:21:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 152,
         "playersStarted": 0,
-        "playersTotal": 432,
+        "playersTotal": 433,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -13862,7 +13862,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-18T14:36:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -13916,7 +13916,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-06-16T23:42:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 1,
         "playersTotal": 18,
@@ -13970,10 +13970,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:16:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 237,
+        "playersTotal": 238,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -14024,7 +14024,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-05-17T18:28:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -14078,7 +14078,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-04-13T18:05:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -14132,40 +14132,40 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-03-28T07:38:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 67,
+        "playersTotal": 68,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 649,
-                "discountPercent": 35
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 975,
-                "final": 633,
-                "discountPercent": 35
+                "final": 975,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 850,
-                "final": 552,
-                "discountPercent": 35
+                "final": 850,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 120000,
-                "final": 78000,
-                "discountPercent": 35
+                "final": 120000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1450,
-                "final": 942,
-                "discountPercent": 35
+                "final": 1450,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1299,
-                "final": 844,
-                "discountPercent": 35
+                "final": 1299,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -14186,7 +14186,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2023-04-09T01:55:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 10,
         "playersTotal": 57,
@@ -14240,10 +14240,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:53:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 13,
-        "playersTotal": 153,
+        "playersTotal": 155,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -14294,10 +14294,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-04-14T12:46:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 83,
+        "playersTotal": 84,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -14348,7 +14348,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-12T00:17:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 35,
@@ -14402,10 +14402,10 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2023-10-29T17:56:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 53,
+        "playersTotal": 54,
         "priceData": {
             "USD": {
                 "initial": 4999,
@@ -14456,7 +14456,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:27:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 118,
@@ -14510,7 +14510,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-01-05T08:39:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 232,
         "playersTotal": 545,
@@ -14564,10 +14564,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T06:29:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 57,
-        "playersStarted": 394,
-        "playersTotal": 980,
+        "playersStarted": 395,
+        "playersTotal": 984,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -14619,10 +14619,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-01-05T08:24:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 46,
         "playersStarted": 188,
-        "playersTotal": 549,
+        "playersTotal": 550,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -14673,7 +14673,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-29T17:48:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -14727,7 +14727,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-02-26T08:39:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 91,
@@ -14781,40 +14781,40 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-09-22T08:52:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 11,
-        "playersTotal": 244,
+        "playersTotal": 245,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 374,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 1479,
-                "final": 1479,
-                "discountPercent": 0
+                "final": 369,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 319,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 42500,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 548,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 487,
+                "discountPercent": 75
             }
         },
         "milestones": {
@@ -14835,7 +14835,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-11-27T03:10:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -14884,10 +14884,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-19T04:48:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
-        "playersTotal": 52,
+        "playersTotal": 53,
         "priceData": {
             "USD": {
                 "initial": 199,
@@ -14938,7 +14938,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T08:46:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 45,
         "playersTotal": 199,
@@ -14993,10 +14993,10 @@ var data =
         "tier": 4,
         "points": 135,
         "createdAt": "2020-01-28T08:42:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
-        "playersStarted": 42,
-        "playersTotal": 866,
+        "playersStarted": 43,
+        "playersTotal": 871,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -15048,7 +15048,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-28T21:57:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 187,
@@ -15102,10 +15102,10 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2020-01-28T10:03:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 19,
-        "playersTotal": 269,
+        "playersTotal": 270,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -15157,10 +15157,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T08:08:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
-        "playersTotal": 203,
+        "playersTotal": 204,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -15211,7 +15211,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-10T06:37:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 44,
@@ -15260,7 +15260,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-08-07T16:32:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 6,
         "playersTotal": 97,
@@ -15314,7 +15314,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-07T20:23:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -15368,7 +15368,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-08T18:44:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -15422,7 +15422,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-10-20T21:21:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -15476,10 +15476,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T17:51:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 97,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 98,
         "playersStarted": 0,
-        "playersTotal": 321,
+        "playersTotal": 323,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -15530,7 +15530,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:36:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 254,
@@ -15584,7 +15584,7 @@ var data =
         "tier": 5,
         "points": 350,
         "createdAt": "2023-04-08T12:28:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 5,
         "playersTotal": 28,
@@ -15638,7 +15638,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-08T22:05:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -15692,7 +15692,7 @@ var data =
         "tier": 5,
         "points": 310,
         "createdAt": "2020-06-21T08:52:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 19,
         "playersTotal": 162,
@@ -15746,10 +15746,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-09-01T03:32:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
-        "playersTotal": 24,
+        "playersTotal": 25,
         "priceData": {
             "USD": {
                 "initial": 3990,
@@ -15800,7 +15800,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-10-18T21:39:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 40,
@@ -15854,7 +15854,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2020-12-14T19:50:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 28,
         "playersTotal": 125,
@@ -15908,40 +15908,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-02-08T16:32:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 105,
         "playersStarted": 0,
-        "playersTotal": 936,
+        "playersTotal": 940,
         "priceData": {
             "USD": {
                 "initial": 2999,
-                "final": 2999,
-                "discountPercent": 0
+                "final": 989,
+                "discountPercent": 67
             },
             "EUR": {
                 "initial": 2999,
-                "final": 2999,
-                "discountPercent": 0
+                "final": 989,
+                "discountPercent": 67
             },
             "GBP": {
                 "initial": 2499,
-                "final": 2499,
-                "discountPercent": 0
+                "final": 824,
+                "discountPercent": 67
             },
             "JPY": {
                 "initial": 309000,
-                "final": 309000,
-                "discountPercent": 0
+                "final": 101900,
+                "discountPercent": 67
             },
             "AUD": {
                 "initial": 4495,
-                "final": 4495,
-                "discountPercent": 0
+                "final": 1483,
+                "discountPercent": 67
             },
             "CAD": {
                 "initial": 3499,
-                "final": 3499,
-                "discountPercent": 0
+                "final": 1154,
+                "discountPercent": 67
             }
         },
         "milestones": {
@@ -15963,7 +15963,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-10T19:47:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 74,
@@ -16017,10 +16017,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-06-30T07:45:48.000Z",
-        "updatedAt": "2025-08-21T23:37:28.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 5,
-        "playersTotal": 116,
+        "playersTotal": 122,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -16072,7 +16072,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-02T13:41:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -16127,7 +16127,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-20T04:20:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 209,
@@ -16181,7 +16181,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-08T21:43:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 55,
@@ -16235,7 +16235,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-11-18T14:00:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -16289,7 +16289,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-07-02T23:15:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 8,
         "playersTotal": 238,
@@ -16343,10 +16343,10 @@ var data =
         "tier": 6,
         "points": 450,
         "createdAt": "2022-09-26T08:04:52.000Z",
-        "updatedAt": "2025-08-23T21:09:53.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 8,
-        "playersTotal": 549,
+        "playersTotal": 551,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -16398,7 +16398,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-20T04:06:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 489,
@@ -16452,40 +16452,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-17T15:25:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 20,
         "priceData": {
             "USD": {
                 "initial": 599,
-                "final": 599,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 249,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 479,
-                "final": 479,
-                "discountPercent": 0
+                "final": 239,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 62000,
-                "final": 62000,
-                "discountPercent": 0
+                "final": 31000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 425,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 669,
-                "final": 669,
-                "discountPercent": 0
+                "final": 334,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -16506,7 +16506,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2020-04-14T19:45:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 10,
         "playersTotal": 88,
@@ -16560,10 +16560,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-09-18T22:32:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 31,
         "playersStarted": 0,
-        "playersTotal": 397,
+        "playersTotal": 399,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -16614,7 +16614,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-09-19T14:16:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 1,
         "playersTotal": 329,
@@ -16668,7 +16668,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-31T21:23:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -16722,7 +16722,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2024-12-21T07:29:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 4,
         "playersTotal": 36,
@@ -16776,40 +16776,40 @@ var data =
         "tier": 5,
         "points": 375,
         "createdAt": "2020-01-28T00:45:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 110,
         "playersTotal": 733,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 449,
+                "discountPercent": 55
             },
             "EUR": {
                 "initial": 799,
-                "final": 799,
-                "discountPercent": 0
+                "final": 359,
+                "discountPercent": 55
             },
             "GBP": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 314,
+                "discountPercent": 55
             },
             "JPY": {
                 "initial": 99900,
-                "final": 99900,
-                "discountPercent": 0
+                "final": 44900,
+                "discountPercent": 55
             },
             "AUD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 449,
+                "discountPercent": 55
             },
             "CAD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 449,
+                "discountPercent": 55
             }
         },
         "milestones": {
@@ -16830,10 +16830,10 @@ var data =
         "tier": 3,
         "points": 73,
         "createdAt": "2023-12-29T18:14:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 23,
+        "playersTotal": 24,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -16885,10 +16885,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-06-25T19:35:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 12,
-        "playersTotal": 451,
+        "playersTotal": 453,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -16939,10 +16939,10 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-09-27T06:48:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 15,
-        "playersTotal": 288,
+        "playersTotal": 289,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -16993,7 +16993,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-05-24T15:08:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -17047,7 +17047,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2024-04-02T23:51:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 149,
@@ -17101,10 +17101,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-01-31T03:54:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 57,
         "playersStarted": 0,
-        "playersTotal": 414,
+        "playersTotal": 415,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -17155,10 +17155,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-10-28T03:12:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 78,
+        "playersTotal": 79,
         "priceData": {
             "USD": {
                 "initial": 199,
@@ -17209,7 +17209,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:53:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 86,
@@ -17263,7 +17263,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-03-02T21:17:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 35,
@@ -17317,7 +17317,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2025-07-24T22:55:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 6,
@@ -17372,7 +17372,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-11-17T22:48:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -17426,40 +17426,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-10-25T00:06:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 217,
         "priceData": {
             "USD": {
                 "initial": 599,
-                "final": 203,
-                "discountPercent": 66
+                "final": 599,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 589,
-                "final": 200,
-                "discountPercent": 66
+                "final": 589,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 499,
-                "final": 169,
-                "discountPercent": 66
+                "final": 499,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 70000,
-                "final": 23800,
-                "discountPercent": 66
+                "final": 70000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 879,
-                "final": 298,
-                "discountPercent": 66
+                "final": 879,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 779,
-                "final": 264,
-                "discountPercent": 66
+                "final": 779,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -17480,7 +17480,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2025-03-16T08:52:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 102,
@@ -17534,10 +17534,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-10-26T19:34:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
-        "playersStarted": 131,
-        "playersTotal": 312,
+        "playersStarted": 132,
+        "playersTotal": 313,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -17588,10 +17588,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T08:11:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 55,
         "playersStarted": 0,
-        "playersTotal": 636,
+        "playersTotal": 637,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -17642,10 +17642,10 @@ var data =
         "tier": 1,
         "points": 12,
         "createdAt": "2020-01-28T09:51:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 12,
-        "playersTotal": 224,
+        "playersTotal": 225,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -17696,7 +17696,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-13T21:36:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -17750,10 +17750,10 @@ var data =
         "tier": 6,
         "points": 710,
         "createdAt": "2020-03-14T12:55:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 16,
-        "playersTotal": 225,
+        "playersTotal": 227,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -17805,40 +17805,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-02T16:36:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 69,
         "priceData": {
             "USD": {
                 "initial": 799,
-                "final": 639,
-                "discountPercent": 20
+                "final": 799,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 799,
-                "final": 639,
-                "discountPercent": 20
+                "final": 799,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 699,
-                "final": 559,
-                "discountPercent": 20
+                "final": 699,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 92000,
-                "final": 73600,
-                "discountPercent": 20
+                "final": 92000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1179,
-                "final": 943,
-                "discountPercent": 20
+                "final": 1179,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1049,
-                "final": 839,
-                "discountPercent": 20
+                "final": 1049,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -17859,10 +17859,10 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2024-07-15T18:38:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 457,
+        "playersTotal": 462,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -17913,10 +17913,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-06-30T02:21:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 121,
+        "playersTotal": 124,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -17967,10 +17967,10 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2021-09-24T05:16:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 6,
-        "playersTotal": 680,
+        "playersTotal": 682,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -18021,7 +18021,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2025-07-19T02:49:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -18075,10 +18075,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-04-12T14:36:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
-        "playersTotal": 178,
+        "playersTotal": 179,
         "priceData": {
             "USD": {
                 "initial": 1399,
@@ -18129,7 +18129,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2024-01-18T20:41:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 11,
         "playersTotal": 43,
@@ -18183,7 +18183,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-11-10T22:07:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 61,
@@ -18237,7 +18237,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-06-15T00:47:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -18291,7 +18291,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-21T05:09:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -18345,10 +18345,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:48:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 182,
         "playersStarted": 0,
-        "playersTotal": 760,
+        "playersTotal": 763,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -18399,10 +18399,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-06-30T02:17:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 75,
+        "playersTotal": 77,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -18453,10 +18453,10 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-09-01T15:41:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 18,
+        "playersTotal": 19,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -18507,7 +18507,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-23T04:36:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 35,
@@ -18561,7 +18561,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-09-08T17:25:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -18615,10 +18615,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-08-01T02:41:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 13,
+        "playersTotal": 14,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -18669,7 +18669,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-06-17T19:48:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -18723,7 +18723,7 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2024-01-13T20:56:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 14,
         "playersTotal": 88,
@@ -18777,7 +18777,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-04-08T11:18:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 218,
@@ -18831,7 +18831,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:00:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -18885,10 +18885,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-05-15T17:51:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 31,
         "playersStarted": 0,
-        "playersTotal": 266,
+        "playersTotal": 267,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -18939,7 +18939,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-22T20:28:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -18993,40 +18993,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T08:17:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 52,
+        "playersTotal": 53,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 374,
-                "discountPercent": 75
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1249,
-                "final": 312,
-                "discountPercent": 75
+                "final": 1249,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1139,
-                "final": 284,
-                "discountPercent": 75
+                "final": 1139,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 152000,
-                "final": 38000,
-                "discountPercent": 75
+                "final": 152000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2150,
-                "final": 537,
-                "discountPercent": 75
+                "final": 2150,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1749,
-                "final": 437,
-                "discountPercent": 75
+                "final": 1749,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -19047,7 +19047,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-09T16:27:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -19101,40 +19101,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-07-05T07:09:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 11,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 999,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 999,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 1799,
-                "final": 1799,
-                "discountPercent": 0
+                "final": 899,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 229900,
-                "final": 229900,
-                "discountPercent": 0
+                "final": 114900,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 2999,
-                "final": 2999,
-                "discountPercent": 0
+                "final": 1499,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 2599,
-                "final": 2599,
-                "discountPercent": 0
+                "final": 1299,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -19156,10 +19156,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-04-13T18:46:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 32,
         "playersStarted": 52,
-        "playersTotal": 540,
+        "playersTotal": 541,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -19210,7 +19210,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-11-05T00:24:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -19265,7 +19265,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-19T16:04:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -19319,10 +19319,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-19T17:03:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
-        "playersTotal": 207,
+        "playersTotal": 209,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -19368,10 +19368,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-06-06T02:53:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 15,
-        "playersTotal": 135,
+        "playersTotal": 136,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -19422,7 +19422,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:43:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 67,
@@ -19476,7 +19476,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-01-23T16:52:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -19530,7 +19530,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-01T06:24:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -19584,10 +19584,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-12-05T06:36:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 9,
-        "playersTotal": 539,
+        "playersTotal": 540,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -19638,7 +19638,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2024-01-16T07:47:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 70,
@@ -19692,7 +19692,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:51:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 3,
         "playersTotal": 15,
@@ -19746,10 +19746,10 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2020-01-28T09:25:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
-        "playersStarted": 99,
-        "playersTotal": 567,
+        "playersStarted": 100,
+        "playersTotal": 568,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -19800,10 +19800,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:21:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
-        "playersTotal": 156,
+        "playersTotal": 157,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -19854,7 +19854,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-18T18:02:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 86,
@@ -19908,7 +19908,7 @@ var data =
         "tier": 4,
         "points": 105,
         "createdAt": "2020-01-28T08:40:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 5,
         "playersTotal": 106,
@@ -19962,7 +19962,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-04-18T02:05:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -20016,7 +20016,7 @@ var data =
         "tier": 1,
         "points": 8,
         "createdAt": "2025-03-16T07:53:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -20070,7 +20070,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-08-01T03:53:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -20124,10 +20124,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-03T22:32:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 19,
-        "playersTotal": 304,
+        "playersTotal": 306,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -20178,40 +20178,40 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2021-08-08T16:52:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 1,
         "playersTotal": 45,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 649,
+                "discountPercent": 35
             },
             "EUR": {
                 "initial": 975,
-                "final": 975,
-                "discountPercent": 0
+                "final": 633,
+                "discountPercent": 35
             },
             "GBP": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 552,
+                "discountPercent": 35
             },
             "JPY": {
                 "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "final": 78000,
+                "discountPercent": 35
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 942,
+                "discountPercent": 35
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 844,
+                "discountPercent": 35
             }
         },
         "milestones": {
@@ -20232,40 +20232,40 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-01-06T12:15:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 22,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 649,
+                "discountPercent": 35
             },
             "EUR": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 649,
+                "discountPercent": 35
             },
             "GBP": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 649,
+                "discountPercent": 35
             },
             "JPY": {
                 "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "final": 78000,
+                "discountPercent": 35
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 942,
+                "discountPercent": 35
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 844,
+                "discountPercent": 35
             }
         },
         "milestones": {
@@ -20286,40 +20286,40 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2023-04-12T22:45:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 19,
         "priceData": {
             "USD": {
                 "initial": 1199,
-                "final": 1199,
-                "discountPercent": 0
+                "final": 779,
+                "discountPercent": 35
             },
             "EUR": {
                 "initial": 1199,
-                "final": 1199,
-                "discountPercent": 0
+                "final": 779,
+                "discountPercent": 35
             },
             "GBP": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 649,
+                "discountPercent": 35
             },
             "JPY": {
                 "initial": 140000,
-                "final": 140000,
-                "discountPercent": 0
+                "final": 91000,
+                "discountPercent": 35
             },
             "AUD": {
                 "initial": 1775,
-                "final": 1775,
-                "discountPercent": 0
+                "final": 1153,
+                "discountPercent": 35
             },
             "CAD": {
                 "initial": 1549,
-                "final": 1549,
-                "discountPercent": 0
+                "final": 1006,
+                "discountPercent": 35
             }
         },
         "milestones": {
@@ -20340,7 +20340,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-08T17:46:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -20394,7 +20394,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-04T06:12:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -20449,7 +20449,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2020-09-04T15:14:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 8,
         "playersTotal": 23,
@@ -20504,7 +20504,7 @@ var data =
         "tier": 7,
         "points": 925,
         "createdAt": "2020-05-27T15:30:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 25,
         "playersTotal": 92,
@@ -20558,10 +20558,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-05T05:42:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 57,
-        "playersStarted": 372,
-        "playersTotal": 942,
+        "playersStarted": 374,
+        "playersTotal": 949,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -20612,10 +20612,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-07-05T04:26:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 48,
         "playersStarted": 0,
-        "playersTotal": 97,
+        "playersTotal": 98,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -20666,10 +20666,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-17T21:22:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 102,
+        "playersTotal": 103,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -20720,7 +20720,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-08-08T17:15:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 2,
         "playersTotal": 266,
@@ -20774,7 +20774,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-18T07:33:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 98,
@@ -20828,10 +20828,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:21:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 49,
         "playersStarted": 0,
-        "playersTotal": 309,
+        "playersTotal": 310,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -20882,7 +20882,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-11T14:33:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 6,
         "playersTotal": 73,
@@ -20936,7 +20936,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:47:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 58,
         "playersStarted": 0,
         "playersTotal": 136,
@@ -20990,10 +20990,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-07-25T22:21:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 44,
+        "playersTotal": 45,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -21044,7 +21044,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-02-08T07:37:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 55,
@@ -21098,10 +21098,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-10T16:22:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
-        "playersStarted": 146,
-        "playersTotal": 364,
+        "playersStarted": 147,
+        "playersTotal": 368,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -21152,7 +21152,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2025-04-14T03:21:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 34,
         "playersTotal": 55,
@@ -21206,10 +21206,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-04-14T18:46:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 238,
         "playersStarted": 0,
-        "playersTotal": 1164,
+        "playersTotal": 1169,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -21261,40 +21261,40 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2024-12-25T03:08:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 5,
         "playersTotal": 24,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 975,
-                "final": 975,
-                "discountPercent": 0
+                "final": 487,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 425,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "final": 60000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 725,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 649,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -21315,10 +21315,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2022-09-06T17:37:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 50,
         "playersStarted": 0,
-        "playersTotal": 134,
+        "playersTotal": 135,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -21369,7 +21369,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:18:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -21423,10 +21423,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:27:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
-        "playersTotal": 169,
+        "playersTotal": 170,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -21477,7 +21477,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-05T11:51:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -21531,7 +21531,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-18T18:46:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 83,
@@ -21585,10 +21585,10 @@ var data =
         "tier": 3,
         "points": 52,
         "createdAt": "2022-12-18T00:02:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
-        "playersTotal": 69,
+        "playersTotal": 70,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -21639,10 +21639,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-13T21:34:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
-        "playersTotal": 233,
+        "playersTotal": 234,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -21693,10 +21693,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-08-10T18:30:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 48,
+        "playersTotal": 49,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -21747,10 +21747,10 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2021-05-24T14:43:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 19,
-        "playersTotal": 661,
+        "playersTotal": 664,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -21801,7 +21801,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-03-16T09:05:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -21855,7 +21855,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-23T19:38:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 114,
@@ -21909,7 +21909,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-10-18T05:26:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 15,
@@ -21963,7 +21963,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-03-27T06:01:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -22017,7 +22017,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-11T00:17:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 15,
         "playersTotal": 209,
@@ -22071,7 +22071,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-17T03:35:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -22125,7 +22125,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2025-04-21T06:22:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -22179,7 +22179,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2020-01-28T08:12:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 51,
         "playersStarted": 13,
         "playersTotal": 194,
@@ -22233,7 +22233,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-03-01T16:44:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 7,
@@ -22287,7 +22287,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-06-21T21:13:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 97,
@@ -22341,7 +22341,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-04-23T03:47:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 70,
@@ -22395,7 +22395,7 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2025-07-28T22:54:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 1,
@@ -22449,7 +22449,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-20T22:00:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -22503,10 +22503,10 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2025-06-21T08:10:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 49,
+        "playersTotal": 50,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -22557,7 +22557,7 @@ var data =
         "tier": 2,
         "points": 22,
         "createdAt": "2022-10-08T03:23:56.000Z",
-        "updatedAt": "2025-08-16T20:21:38.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
         "playersTotal": 74,
@@ -22611,10 +22611,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-08-08T04:25:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 102,
+        "playersTotal": 103,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -22665,10 +22665,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-29T12:18:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
-        "playersTotal": 171,
+        "playersTotal": 172,
         "priceData": {
             "USD": {
                 "initial": 187,
@@ -22719,7 +22719,7 @@ var data =
         "tier": 1,
         "points": 13,
         "createdAt": "2024-09-07T18:44:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 8,
@@ -22773,7 +22773,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T18:32:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -22827,7 +22827,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:16:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 57,
@@ -22873,6 +22873,60 @@ var data =
     },
     {
         "gameType": 0,
+        "platformId": 332800,
+        "CEId": "4ebd3f97-a120-4961-89f4-ea1bd3de16cc",
+        "name": "Five Nights at Freddy's 2",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332800/header.jpg?t=1579635993",
+        "genre": "Arcade",
+        "tier": 1,
+        "points": 10,
+        "createdAt": "2025-09-08T23:40:32.000Z",
+        "updatedAt": "2025-09-09T03:26:26.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 0,
+        "priceData": {
+            "USD": {
+                "initial": 799,
+                "final": 799,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 799,
+                "final": 799,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 579,
+                "final": 579,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 82000,
+                "final": 82000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1150,
+                "final": 1150,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 899,
+                "final": 899,
+                "discountPercent": 0
+            }
+        },
+        "milestones": {
+            "primary": 1,
+            "primaryText": "Toy Exorcist [10\u2605]\nComplete Golden Freddy mode.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 0
+        }
+    },
+    {
+        "gameType": 0,
         "platformId": 388090,
         "CEId": "849b5379-3bdc-4b4a-a786-f916c6ed2022",
         "name": "Five Nights at Freddy's 4",
@@ -22881,7 +22935,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-08-01T21:15:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 152,
@@ -22935,7 +22989,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-07T17:00:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 109,
@@ -22989,40 +23043,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T19:54:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 137,
+        "playersTotal": 138,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 669,
-                "discountPercent": 33
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 999,
-                "final": 669,
-                "discountPercent": 33
+                "final": 999,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 850,
-                "final": 569,
-                "discountPercent": 33
+                "final": 850,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 120000,
-                "final": 80400,
-                "discountPercent": 33
+                "final": 120000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1450,
-                "final": 971,
-                "discountPercent": 33
+                "final": 1450,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1299,
-                "final": 870,
-                "discountPercent": 33
+                "final": 1299,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -23043,7 +23097,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-10T05:39:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 2,
         "playersTotal": 22,
@@ -23097,7 +23151,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-12-28T16:03:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 53,
         "playersStarted": 0,
         "playersTotal": 93,
@@ -23151,7 +23205,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-08-19T17:49:00.000Z",
-        "updatedAt": "2025-08-31T07:49:07.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -23205,7 +23259,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-06-28T07:21:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 31,
@@ -23259,10 +23313,10 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-12-29T18:57:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 34,
+        "playersTotal": 35,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -23313,10 +23367,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T12:18:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 52,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 53,
         "playersStarted": 0,
-        "playersTotal": 133,
+        "playersTotal": 134,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -23367,7 +23421,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-18T15:06:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -23421,7 +23475,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-29T19:21:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 29,
         "playersTotal": 79,
@@ -23470,40 +23524,40 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-14T20:21:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 153,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 254,
-                "discountPercent": 83
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1499,
-                "final": 254,
-                "discountPercent": 83
+                "final": 1499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1279,
-                "final": 217,
-                "discountPercent": 83
+                "final": 1279,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 170000,
-                "final": 28900,
-                "discountPercent": 83
+                "final": 170000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2195,
-                "final": 373,
-                "discountPercent": 83
+                "final": 2195,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1949,
-                "final": 331,
-                "discountPercent": 83
+                "final": 1949,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -23524,7 +23578,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-02-22T19:16:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 49,
@@ -23578,7 +23632,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T19:28:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 225,
@@ -23632,7 +23686,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-03-29T05:07:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -23687,7 +23741,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-15T21:51:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -23741,7 +23795,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-08-03T18:11:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -23795,7 +23849,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-10-18T20:22:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 7,
         "playersTotal": 316,
@@ -23850,40 +23904,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-07-14T04:57:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 10,
         "priceData": {
             "USD": {
                 "initial": 899,
-                "final": 269,
-                "discountPercent": 70
+                "final": 899,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 899,
-                "final": 269,
-                "discountPercent": 70
+                "final": 899,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 749,
-                "final": 224,
-                "discountPercent": 70
+                "final": 749,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 98000,
-                "final": 29400,
-                "discountPercent": 70
+                "final": 98000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1319,
-                "final": 395,
-                "discountPercent": 70
+                "final": 1319,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1179,
-                "final": 353,
-                "discountPercent": 70
+                "final": 1179,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -23904,40 +23958,40 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2022-08-09T21:59:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 41,
-        "playersTotal": 695,
+        "playersTotal": 699,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 299,
-                "discountPercent": 70
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 999,
-                "final": 299,
-                "discountPercent": 70
+                "final": 999,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 699,
-                "final": 209,
-                "discountPercent": 70
+                "final": 699,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 98000,
-                "final": 29400,
-                "discountPercent": 70
+                "final": 98000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1450,
-                "final": 435,
-                "discountPercent": 70
+                "final": 1450,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1099,
-                "final": 329,
-                "discountPercent": 70
+                "final": 1099,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -23959,7 +24013,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2025-01-01T22:50:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 16,
@@ -24013,10 +24067,10 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T08:35:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
-        "playersStarted": 72,
-        "playersTotal": 540,
+        "playersStarted": 73,
+        "playersTotal": 543,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -24067,7 +24121,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-14T01:59:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 229,
@@ -24121,7 +24175,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-01-01T20:04:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 346,
@@ -24175,10 +24229,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:40:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
-        "playersTotal": 48,
+        "playersTotal": 49,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -24229,7 +24283,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-12-08T09:18:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -24283,7 +24337,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:38:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 59,
         "playersStarted": 0,
         "playersTotal": 118,
@@ -24337,10 +24391,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-06-11T05:18:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
-        "playersTotal": 21,
+        "playersTotal": 22,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -24392,7 +24446,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-07T01:26:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -24446,7 +24500,7 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2024-11-10T18:57:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 6,
         "playersTotal": 23,
@@ -24500,7 +24554,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-05-13T18:45:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 54,
         "playersTotal": 404,
@@ -24554,7 +24608,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T15:04:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 54,
@@ -24608,7 +24662,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-28T21:50:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 78,
@@ -24657,7 +24711,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-03T10:39:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -24711,10 +24765,10 @@ var data =
         "tier": 5,
         "points": 275,
         "createdAt": "2020-04-09T12:05:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 39,
         "playersStarted": 628,
-        "playersTotal": 1533,
+        "playersTotal": 1537,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -24765,7 +24819,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T05:00:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 8,
         "playersTotal": 128,
@@ -24819,7 +24873,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-08-02T17:56:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 3,
         "playersTotal": 17,
@@ -24873,7 +24927,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2025-02-26T08:33:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 16,
@@ -24927,7 +24981,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2024-12-21T08:34:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 8,
         "playersTotal": 43,
@@ -24981,7 +25035,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-08-05T23:24:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -25035,7 +25089,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-06-21T08:17:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -25089,10 +25143,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:50:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 600,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 601,
         "playersStarted": 0,
-        "playersTotal": 1300,
+        "playersTotal": 1303,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -25144,7 +25198,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-03-09T18:58:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -25198,7 +25252,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-09-12T01:11:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -25252,7 +25306,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-08-10T17:42:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 50,
         "playersTotal": 452,
@@ -25307,7 +25361,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-03-26T02:25:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 12,
         "playersTotal": 149,
@@ -25361,7 +25415,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T23:46:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -25415,40 +25469,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-15T16:43:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 20,
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 324,
-                "discountPercent": 35
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 499,
-                "final": 324,
-                "discountPercent": 35
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 429,
-                "final": 278,
-                "discountPercent": 35
+                "final": 429,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 58000,
-                "final": 37700,
-                "discountPercent": 35
+                "final": 58000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 750,
-                "final": 487,
-                "discountPercent": 35
+                "final": 750,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 649,
-                "final": 421,
-                "discountPercent": 35
+                "final": 649,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -25469,10 +25523,10 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:33:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 337,
+        "playersTotal": 338,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -25523,40 +25577,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-17T22:48:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 162,
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 99,
-                "discountPercent": 80
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 499,
-                "final": 99,
-                "discountPercent": 80
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 449,
-                "final": 89,
-                "discountPercent": 80
+                "final": 449,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 59800,
-                "final": 11900,
-                "discountPercent": 80
+                "final": 59800,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 750,
-                "final": 150,
-                "discountPercent": 80
+                "final": 750,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 699,
-                "final": 139,
-                "discountPercent": 80
+                "final": 699,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -25577,7 +25631,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T21:00:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -25631,7 +25685,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-10T01:30:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 84,
@@ -25686,7 +25740,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-11T15:34:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -25740,7 +25794,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-08-07T16:34:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 46,
         "playersStarted": 25,
         "playersTotal": 137,
@@ -25794,7 +25848,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-06-07T19:18:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -25848,7 +25902,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-05T02:34:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -25902,7 +25956,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-06-12T10:24:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 2,
         "playersTotal": 264,
@@ -25956,7 +26010,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-11T12:22:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 120,
@@ -26010,7 +26064,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-22T22:32:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -26064,10 +26118,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2021-05-15T17:16:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 45,
-        "playersTotal": 466,
+        "playersTotal": 469,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -26118,7 +26172,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-08-26T23:57:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 76,
@@ -26172,10 +26226,10 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2022-06-11T10:03:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
-        "playersTotal": 262,
+        "playersTotal": 263,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -26226,7 +26280,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:40:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 40,
         "playersTotal": 159,
@@ -26280,7 +26334,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:18:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 42,
         "playersStarted": 0,
         "playersTotal": 324,
@@ -26334,7 +26388,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-04-25T20:13:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 2,
         "playersTotal": 48,
@@ -26388,7 +26442,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-10-14T23:18:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -26442,7 +26496,7 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2021-11-23T14:55:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
         "playersTotal": 33,
@@ -26496,10 +26550,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-29T20:57:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 38,
         "playersStarted": 3,
-        "playersTotal": 403,
+        "playersTotal": 404,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -26550,7 +26604,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-11-25T18:42:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -26604,7 +26658,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-11-25T18:44:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -26658,7 +26712,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-11-25T18:43:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -26712,7 +26766,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:17:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 99,
@@ -26766,10 +26820,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-31T10:01:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
-        "playersTotal": 85,
+        "playersTotal": 86,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -26820,7 +26874,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-05-02T14:15:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -26874,7 +26928,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-10-11T20:36:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -26928,7 +26982,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2025-07-24T23:00:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -26982,10 +27036,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-08T20:02:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 85,
+        "playersTotal": 86,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -27036,7 +27090,7 @@ var data =
         "tier": 4,
         "points": 160,
         "createdAt": "2023-12-18T16:31:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 6,
         "playersTotal": 26,
@@ -27090,7 +27144,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2025-05-15T18:18:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 15,
@@ -27144,10 +27198,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-09-08T20:55:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 98,
+        "playersTotal": 99,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -27198,7 +27252,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-07-17T07:34:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -27253,40 +27307,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-05-15T18:05:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 4,
         "priceData": {
             "USD": {
                 "initial": 399,
-                "final": 255,
-                "discountPercent": 36
+                "final": 399,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 399,
-                "final": 255,
-                "discountPercent": 36
+                "final": 399,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 299,
-                "final": 191,
-                "discountPercent": 36
+                "final": 299,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 45000,
-                "final": 28800,
-                "discountPercent": 36
+                "final": 45000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 595,
-                "final": 380,
-                "discountPercent": 36
+                "final": 595,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 499,
-                "final": 319,
-                "discountPercent": 36
+                "final": 499,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -27307,7 +27361,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-27T22:15:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -27361,40 +27415,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-16T19:09:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 177,
         "priceData": {
             "USD": {
                 "initial": 2499,
-                "final": 2499,
-                "discountPercent": 0
+                "final": 1124,
+                "discountPercent": 55
             },
             "EUR": {
                 "initial": 2099,
-                "final": 2099,
-                "discountPercent": 0
+                "final": 944,
+                "discountPercent": 55
             },
             "GBP": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 877,
+                "discountPercent": 55
             },
             "JPY": {
                 "initial": 257000,
-                "final": 257000,
-                "discountPercent": 0
+                "final": 115600,
+                "discountPercent": 55
             },
             "AUD": {
                 "initial": 3595,
-                "final": 3595,
-                "discountPercent": 0
+                "final": 1617,
+                "discountPercent": 55
             },
             "CAD": {
                 "initial": 2899,
-                "final": 2899,
-                "discountPercent": 0
+                "final": 1304,
+                "discountPercent": 55
             }
         },
         "milestones": {
@@ -27415,7 +27469,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-03-11T15:50:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 28,
@@ -27469,10 +27523,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2025-08-31T05:51:15.000Z",
-        "updatedAt": "2025-08-31T15:41:10.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 22,
+        "playersTotal": 23,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -27523,7 +27577,7 @@ var data =
         "tier": 6,
         "points": 550,
         "createdAt": "2020-03-20T20:43:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 10,
         "playersTotal": 163,
@@ -27577,40 +27631,40 @@ var data =
         "tier": 4,
         "points": 140,
         "createdAt": "2023-01-16T08:05:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 4,
-        "playersTotal": 191,
+        "playersTotal": 193,
         "priceData": {
             "USD": {
                 "initial": 3999,
-                "final": 3999,
-                "discountPercent": 0
+                "final": 1519,
+                "discountPercent": 62
             },
             "EUR": {
                 "initial": 3999,
-                "final": 3999,
-                "discountPercent": 0
+                "final": 1519,
+                "discountPercent": 62
             },
             "GBP": {
                 "initial": 3499,
-                "final": 3499,
-                "discountPercent": 0
+                "final": 1329,
+                "discountPercent": 62
             },
             "JPY": {
                 "initial": 399000,
-                "final": 399000,
-                "discountPercent": 0
+                "final": 151600,
+                "discountPercent": 62
             },
             "AUD": {
                 "initial": 5499,
-                "final": 5499,
-                "discountPercent": 0
+                "final": 2089,
+                "discountPercent": 62
             },
             "CAD": {
                 "initial": 4499,
-                "final": 4499,
-                "discountPercent": 0
+                "final": 1709,
+                "discountPercent": 62
             }
         },
         "milestones": {
@@ -27631,10 +27685,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:20:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 44,
         "playersStarted": 6,
-        "playersTotal": 272,
+        "playersTotal": 273,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -27685,10 +27739,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-28T21:59:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 76,
         "playersStarted": 0,
-        "playersTotal": 634,
+        "playersTotal": 636,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -27739,7 +27793,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-02-09T16:58:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -27793,10 +27847,10 @@ var data =
         "tier": 3,
         "points": 61,
         "createdAt": "2024-04-28T19:52:18.000Z",
-        "updatedAt": "2025-08-18T20:14:27.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 155,
+        "playersTotal": 156,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -27847,7 +27901,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-11-25T04:55:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -27901,10 +27955,10 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2022-09-09T19:55:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 10,
-        "playersTotal": 32,
+        "playersTotal": 33,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -27955,10 +28009,10 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2022-09-01T17:18:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
-        "playersTotal": 26,
+        "playersTotal": 27,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -28009,7 +28063,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-29T05:14:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -28063,10 +28117,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-10-15T13:15:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 5,
-        "playersTotal": 191,
+        "playersTotal": 193,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -28118,7 +28172,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-12-24T14:54:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -28172,7 +28226,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-06-17T07:06:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 8,
@@ -28226,10 +28280,10 @@ var data =
         "tier": 2,
         "points": 36,
         "createdAt": "2023-03-01T07:33:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 7,
-        "playersTotal": 24,
+        "playersTotal": 25,
         "priceData": {
             "USD": {
                 "initial": 1799,
@@ -28280,10 +28334,10 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2021-05-17T18:27:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 5,
-        "playersTotal": 176,
+        "playersTotal": 177,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -28334,7 +28388,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-11T00:45:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -28388,7 +28442,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T09:04:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 9,
         "playersTotal": 182,
@@ -28442,10 +28496,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-06-09T19:39:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 93,
-        "playersStarted": 190,
-        "playersTotal": 1064,
+        "playersStarted": 191,
+        "playersTotal": 1071,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -28496,10 +28550,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-01-04T09:59:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 7,
-        "playersTotal": 212,
+        "playersTotal": 213,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -28550,10 +28604,10 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2022-05-03T02:51:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 24,
-        "playersTotal": 609,
+        "playersTotal": 611,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -28604,40 +28658,40 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-04-09T20:26:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 1,
         "playersTotal": 168,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 399,
-                "discountPercent": 80
+                "final": 1999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1999,
-                "final": 399,
-                "discountPercent": 80
+                "final": 1999,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1499,
-                "final": 299,
-                "discountPercent": 80
+                "final": 1499,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 198000,
-                "final": 39600,
-                "discountPercent": 80
+                "final": 198000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1999,
-                "final": 399,
-                "discountPercent": 80
+                "final": 1999,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1999,
-                "final": 399,
-                "discountPercent": 80
+                "final": 1999,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -28658,7 +28712,7 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2024-01-26T15:04:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 8,
         "playersTotal": 96,
@@ -28712,7 +28766,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-11-01T19:19:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -28766,7 +28820,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-12T23:18:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 1,
         "playersTotal": 36,
@@ -28820,10 +28874,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-05-02T19:32:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 271,
+        "playersTotal": 273,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -28874,7 +28928,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-09-07T21:45:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -28928,35 +28982,35 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-06-09T19:05:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 178,
+        "playersTotal": 179,
         "priceData": {
             "USD": {
                 "initial": 599,
-                "final": 599,
-                "discountPercent": 0
+                "final": 203,
+                "discountPercent": 66
             },
             "EUR": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 169,
+                "discountPercent": 66
             },
             "GBP": {
                 "initial": 479,
-                "final": 479,
-                "discountPercent": 0
+                "final": 162,
+                "discountPercent": 66
             },
             "JPY": {
                 "initial": 62000,
-                "final": 62000,
-                "discountPercent": 0
+                "final": 21000,
+                "discountPercent": 66
             },
             "CAD": {
                 "initial": 669,
-                "final": 669,
-                "discountPercent": 0
+                "final": 227,
+                "discountPercent": 66
             }
         },
         "milestones": {
@@ -28977,10 +29031,10 @@ var data =
         "tier": 6,
         "points": 600,
         "createdAt": "2022-08-20T17:53:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 16,
-        "playersTotal": 240,
+        "playersTotal": 243,
         "priceData": {
             "USD": {
                 "initial": 3939,
@@ -29032,7 +29086,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-05-18T03:29:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 119,
@@ -29086,7 +29140,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T19:30:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 66,
@@ -29140,7 +29194,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-06-30T16:14:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 57,
@@ -29195,7 +29249,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-12-14T00:30:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 88,
         "playersStarted": 0,
         "playersTotal": 137,
@@ -29249,7 +29303,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-08-11T12:44:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -29303,7 +29357,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-01-17T02:42:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 198,
@@ -29357,7 +29411,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-06-29T01:36:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 42,
@@ -29411,7 +29465,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:46:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 13,
         "playersTotal": 100,
@@ -29465,7 +29519,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-10-14T13:33:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
         "playersTotal": 25,
@@ -29519,7 +29573,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-09T06:18:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 188,
@@ -29573,10 +29627,10 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2021-02-19T03:44:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 136,
+        "playersTotal": 137,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -29627,7 +29681,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-07-05T07:48:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -29681,7 +29735,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-23T20:57:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 46,
         "playersStarted": 0,
         "playersTotal": 76,
@@ -29735,40 +29789,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-29T04:55:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
         "priceData": {
             "USD": {
                 "initial": 1299,
-                "final": 493,
-                "discountPercent": 62
+                "final": 1299,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1299,
-                "final": 493,
-                "discountPercent": 62
+                "final": 1299,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1099,
-                "final": 417,
-                "discountPercent": 62
+                "final": 1099,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 150000,
-                "final": 57000,
-                "discountPercent": 62
+                "final": 150000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1895,
-                "final": 720,
-                "discountPercent": 62
+                "final": 1895,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1699,
-                "final": 645,
-                "discountPercent": 62
+                "final": 1699,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -29789,7 +29843,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-02-27T23:01:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -29843,7 +29897,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-02-26T17:07:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 8,
         "playersTotal": 297,
@@ -29897,10 +29951,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-27T01:27:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 33,
+        "playersTotal": 34,
         "priceData": {
             "USD": {
                 "initial": 1099,
@@ -29951,7 +30005,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:02:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 92,
         "playersStarted": 0,
         "playersTotal": 200,
@@ -30005,7 +30059,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-11T00:32:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 207,
@@ -30059,10 +30113,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-18T07:42:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 18,
+        "playersTotal": 19,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -30113,7 +30167,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-01T01:36:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 9,
@@ -30167,10 +30221,10 @@ var data =
         "tier": 5,
         "points": 300,
         "createdAt": "2020-01-28T08:26:42.000Z",
-        "updatedAt": "2025-08-19T20:55:03.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
-        "playersStarted": 664,
-        "playersTotal": 1757,
+        "playersStarted": 667,
+        "playersTotal": 1765,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -30222,7 +30276,7 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2020-01-28T06:42:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 224,
@@ -30271,7 +30325,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-23T20:55:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 38,
@@ -30325,10 +30379,10 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-12-02T08:14:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 24,
         "playersStarted": 5,
-        "playersTotal": 141,
+        "playersTotal": 142,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -30379,40 +30433,40 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-06-29T16:17:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 202,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 599,
+                "discountPercent": 70
             },
             "EUR": {
                 "initial": 1679,
-                "final": 1679,
-                "discountPercent": 0
+                "final": 503,
+                "discountPercent": 70
             },
             "GBP": {
                 "initial": 1549,
-                "final": 1549,
-                "discountPercent": 0
+                "final": 464,
+                "discountPercent": 70
             },
             "JPY": {
                 "initial": 205000,
-                "final": 205000,
-                "discountPercent": 0
+                "final": 61500,
+                "discountPercent": 70
             },
             "AUD": {
                 "initial": 2895,
-                "final": 2895,
-                "discountPercent": 0
+                "final": 868,
+                "discountPercent": 70
             },
             "CAD": {
                 "initial": 2279,
-                "final": 2279,
-                "discountPercent": 0
+                "final": 683,
+                "discountPercent": 70
             }
         },
         "milestones": {
@@ -30433,10 +30487,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-06-09T17:51:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 279,
         "playersStarted": 0,
-        "playersTotal": 988,
+        "playersTotal": 992,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -30487,10 +30541,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:49:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 119,
-        "playersTotal": 782,
+        "playersTotal": 784,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -30536,10 +30590,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-06-19T23:11:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 180,
+        "playersTotal": 181,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -30590,7 +30644,7 @@ var data =
         "tier": 5,
         "points": 250,
         "createdAt": "2022-08-10T12:59:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 10,
         "playersTotal": 82,
@@ -30644,7 +30698,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2021-08-10T22:20:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 102,
@@ -30698,7 +30752,7 @@ var data =
         "tier": 2,
         "points": 29,
         "createdAt": "2024-06-23T05:21:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
         "playersTotal": 45,
@@ -30753,7 +30807,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-04-28T08:09:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 23,
@@ -30808,40 +30862,40 @@ var data =
         "tier": 6,
         "points": 530,
         "createdAt": "2022-09-28T19:44:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 58,
         "playersTotal": 300,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 674,
+                "discountPercent": 55
             },
             "EUR": {
                 "initial": 1249,
-                "final": 1249,
-                "discountPercent": 0
+                "final": 562,
+                "discountPercent": 55
             },
             "GBP": {
                 "initial": 1139,
-                "final": 1139,
-                "discountPercent": 0
+                "final": 512,
+                "discountPercent": 55
             },
             "JPY": {
                 "initial": 149900,
-                "final": 149900,
-                "discountPercent": 0
+                "final": 67400,
+                "discountPercent": 55
             },
             "AUD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 674,
+                "discountPercent": 55
             },
             "CAD": {
                 "initial": 1699,
-                "final": 1699,
-                "discountPercent": 0
+                "final": 764,
+                "discountPercent": 55
             }
         },
         "milestones": {
@@ -30862,10 +30916,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:36:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 44,
         "playersStarted": 0,
-        "playersTotal": 517,
+        "playersTotal": 518,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -30916,7 +30970,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-06-09T19:41:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -30970,7 +31024,7 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2022-04-05T13:54:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 45,
         "playersTotal": 218,
@@ -31025,40 +31079,40 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-01-28T10:00:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 7,
         "playersTotal": 82,
         "priceData": {
             "USD": {
                 "initial": 599,
-                "final": 599,
-                "discountPercent": 0
+                "final": 479,
+                "discountPercent": 20
             },
             "EUR": {
                 "initial": 589,
-                "final": 589,
-                "discountPercent": 0
+                "final": 471,
+                "discountPercent": 20
             },
             "GBP": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 20
             },
             "JPY": {
                 "initial": 70000,
-                "final": 70000,
-                "discountPercent": 0
+                "final": 56000,
+                "discountPercent": 20
             },
             "AUD": {
                 "initial": 879,
-                "final": 879,
-                "discountPercent": 0
+                "final": 703,
+                "discountPercent": 20
             },
             "CAD": {
                 "initial": 779,
-                "final": 779,
-                "discountPercent": 0
+                "final": 623,
+                "discountPercent": 20
             }
         },
         "milestones": {
@@ -31079,7 +31133,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T10:00:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 91,
@@ -31133,10 +31187,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:03:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 48,
+        "playersTotal": 49,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -31187,10 +31241,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:58:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 330,
+        "playersTotal": 331,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -31241,40 +31295,40 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2022-04-06T20:52:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 9,
-        "playersTotal": 275,
+        "playersTotal": 276,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 599,
+                "discountPercent": 70
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 599,
+                "discountPercent": 70
             },
             "GBP": {
                 "initial": 1599,
-                "final": 1599,
-                "discountPercent": 0
+                "final": 479,
+                "discountPercent": 70
             },
             "JPY": {
                 "initial": 205000,
-                "final": 205000,
-                "discountPercent": 0
+                "final": 61500,
+                "discountPercent": 70
             },
             "AUD": {
                 "initial": 2895,
-                "final": 2895,
-                "discountPercent": 0
+                "final": 868,
+                "discountPercent": 70
             },
             "CAD": {
                 "initial": 2279,
-                "final": 2279,
-                "discountPercent": 0
+                "final": 683,
+                "discountPercent": 70
             }
         },
         "milestones": {
@@ -31295,7 +31349,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-05T20:18:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -31349,40 +31403,40 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2025-03-10T08:10:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
         "priceData": {
             "USD": {
                 "initial": 1299,
-                "final": 493,
-                "discountPercent": 62
+                "final": 1299,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1279,
-                "final": 486,
-                "discountPercent": 62
+                "final": 1279,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1099,
-                "final": 417,
-                "discountPercent": 62
+                "final": 1099,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 150000,
-                "final": 57000,
-                "discountPercent": 62
+                "final": 150000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1895,
-                "final": 720,
-                "discountPercent": 62
+                "final": 1895,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1699,
-                "final": 645,
-                "discountPercent": 62
+                "final": 1699,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -31403,7 +31457,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-10-16T01:15:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 27,
@@ -31457,7 +31511,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:32:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 31,
         "playersStarted": 4,
         "playersTotal": 138,
@@ -31511,10 +31565,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-10-24T15:54:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 35,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 36,
         "playersStarted": 0,
-        "playersTotal": 324,
+        "playersTotal": 325,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -31565,40 +31619,40 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-01-24T22:03:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
         "priceData": {
             "USD": {
                 "initial": 899,
-                "final": 899,
-                "discountPercent": 0
+                "final": 359,
+                "discountPercent": 60
             },
             "EUR": {
                 "initial": 849,
-                "final": 849,
-                "discountPercent": 0
+                "final": 339,
+                "discountPercent": 60
             },
             "GBP": {
                 "initial": 749,
-                "final": 749,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 60
             },
             "JPY": {
                 "initial": 100000,
-                "final": 100000,
-                "discountPercent": 0
+                "final": 40000,
+                "discountPercent": 60
             },
             "AUD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 519,
+                "discountPercent": 60
             },
             "CAD": {
                 "initial": 1149,
-                "final": 1149,
-                "discountPercent": 0
+                "final": 459,
+                "discountPercent": 60
             }
         },
         "milestones": {
@@ -31619,7 +31673,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T04:46:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 29,
         "playersTotal": 271,
@@ -31673,7 +31727,7 @@ var data =
         "tier": 3,
         "points": 47,
         "createdAt": "2025-08-16T17:03:24.000Z",
-        "updatedAt": "2025-08-19T23:32:06.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 4,
@@ -31728,7 +31782,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-07-10T04:47:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -31782,10 +31836,10 @@ var data =
         "tier": 4,
         "points": 115,
         "createdAt": "2020-06-21T09:13:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 10,
-        "playersTotal": 307,
+        "playersTotal": 309,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -31836,7 +31890,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-09-03T14:06:34.000Z",
-        "updatedAt": "2025-09-03T14:08:58.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 0,
@@ -31890,10 +31944,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-04-14T20:01:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 224,
+        "playersTotal": 225,
         "priceData": {
             "USD": {
                 "initial": 1995,
@@ -31944,7 +31998,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-05T20:23:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -31998,7 +32052,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-07-18T04:48:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -32052,7 +32106,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-04-09T05:54:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -32106,7 +32160,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-11T14:36:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 155,
@@ -32160,7 +32214,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-09-24T06:24:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 121,
@@ -32214,10 +32268,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:28:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 29,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 30,
         "playersStarted": 0,
-        "playersTotal": 227,
+        "playersTotal": 228,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -32268,10 +32322,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-19T18:06:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 69,
+        "playersTotal": 70,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -32322,7 +32376,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2021-05-15T00:12:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 10,
         "playersTotal": 85,
@@ -32376,7 +32430,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-06-21T01:16:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 152,
@@ -32430,7 +32484,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-01-17T18:57:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -32484,10 +32538,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-08-23T21:11:34.000Z",
-        "updatedAt": "2025-08-23T21:28:07.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
-        "playersTotal": 99,
+        "playersTotal": 109,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -32538,7 +32592,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-15T18:06:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 119,
@@ -32592,7 +32646,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-18T01:01:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 35,
@@ -32646,7 +32700,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-09-09T00:44:53.000Z",
-        "updatedAt": "2025-09-06T21:48:57.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 451,
@@ -32700,7 +32754,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T17:37:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -32754,7 +32808,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-08-02T05:02:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 202,
@@ -32809,7 +32863,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-10-19T02:14:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 8,
         "playersTotal": 127,
@@ -32863,7 +32917,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-15T04:13:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -32917,10 +32971,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-04-13T17:11:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 120,
+        "playersTotal": 121,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -32971,7 +33025,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-01T12:43:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -33025,10 +33079,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T19:43:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
-        "playersTotal": 65,
+        "playersTotal": 66,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -33079,7 +33133,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-23T14:18:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 121,
@@ -33133,7 +33187,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-10-24T17:14:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -33187,10 +33241,10 @@ var data =
         "tier": 5,
         "points": 340,
         "createdAt": "2020-01-28T09:01:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 9,
-        "playersTotal": 219,
+        "playersTotal": 220,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -33241,40 +33295,40 @@ var data =
         "tier": 4,
         "points": 140,
         "createdAt": "2022-11-23T00:50:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 45,
+        "playersTotal": 46,
         "priceData": {
             "USD": {
                 "initial": 1799,
-                "final": 1799,
-                "discountPercent": 0
+                "final": 899,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 749,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 1399,
-                "final": 1399,
-                "discountPercent": 0
+                "final": 699,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 184000,
-                "final": 184000,
-                "discountPercent": 0
+                "final": 92000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 2595,
-                "final": 2595,
-                "discountPercent": 0
+                "final": 1297,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 2049,
-                "final": 2049,
-                "discountPercent": 0
+                "final": 1024,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -33295,7 +33349,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-05-30T00:52:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 70,
@@ -33350,10 +33404,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-11-15T16:56:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 5,
-        "playersTotal": 52,
+        "playersTotal": 53,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -33404,10 +33458,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-06-09T19:31:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 1,
-        "playersTotal": 62,
+        "playersTotal": 63,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -33458,7 +33512,7 @@ var data =
         "tier": 4,
         "points": 105,
         "createdAt": "2022-09-24T05:33:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 10,
@@ -33512,7 +33566,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2025-08-18T21:49:49.000Z",
-        "updatedAt": "2025-08-21T19:09:06.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -33566,10 +33620,10 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-01-28T08:39:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
-        "playersTotal": 526,
+        "playersTotal": 527,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -33620,7 +33674,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-02-23T14:17:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -33674,7 +33728,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-02-26T08:41:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -33728,10 +33782,10 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2020-01-28T09:35:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 53,
-        "playersStarted": 148,
-        "playersTotal": 783,
+        "playersStarted": 149,
+        "playersTotal": 784,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -33782,10 +33836,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:52:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
-        "playersTotal": 77,
+        "playersTotal": 78,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -33836,7 +33890,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-01-29T20:22:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -33890,7 +33944,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-23T19:07:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 173,
@@ -33944,7 +33998,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T11:46:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 98,
@@ -33998,10 +34052,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-01-03T21:24:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
         "playersStarted": 136,
-        "playersTotal": 471,
+        "playersTotal": 473,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -34052,7 +34106,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-09-24T06:12:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 21,
@@ -34106,7 +34160,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-12-22T20:37:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -34160,7 +34214,7 @@ var data =
         "tier": 3,
         "points": 51,
         "createdAt": "2024-11-25T19:31:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 5,
         "playersTotal": 45,
@@ -34214,10 +34268,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-08-01T23:05:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 12,
-        "playersTotal": 112,
+        "playersTotal": 113,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -34268,7 +34322,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-10T19:38:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 58,
@@ -34322,10 +34376,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-03T20:40:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 312,
+        "playersTotal": 313,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -34377,10 +34431,10 @@ var data =
         "tier": 5,
         "points": 215,
         "createdAt": "2020-01-28T08:33:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 122,
-        "playersTotal": 668,
+        "playersTotal": 670,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -34431,10 +34485,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-15T03:57:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 86,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 87,
         "playersStarted": 0,
-        "playersTotal": 525,
+        "playersTotal": 527,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -34485,7 +34539,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-27T03:58:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 67,
@@ -34539,10 +34593,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:19:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
-        "playersTotal": 277,
+        "playersTotal": 278,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -34593,7 +34647,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-27T06:24:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 77,
@@ -34648,7 +34702,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-01-18T07:30:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -34702,7 +34756,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2024-11-25T09:22:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -34756,7 +34810,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-07-18T03:40:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 33,
@@ -34810,10 +34864,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-16T22:32:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
-        "playersTotal": 20,
+        "playersTotal": 21,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -34859,7 +34913,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-26T16:02:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -34913,7 +34967,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:05:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 42,
@@ -34967,7 +35021,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-10-02T10:22:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 13,
         "playersTotal": 106,
@@ -35022,10 +35076,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-07-25T23:35:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 20,
+        "playersTotal": 21,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -35076,10 +35130,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-12T05:16:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 87,
+        "playersTotal": 88,
         "priceData": {
             "USD": {
                 "initial": 4999,
@@ -35130,7 +35184,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-07-05T04:01:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -35184,7 +35238,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-06-10T00:08:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 29,
@@ -35238,7 +35292,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-19T17:19:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -35292,7 +35346,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-15T23:02:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -35346,7 +35400,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-05T22:57:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -35400,7 +35454,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-06T04:19:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -35455,7 +35509,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-12-27T00:11:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -35509,10 +35563,10 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2023-09-22T04:30:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 23,
-        "playersTotal": 253,
+        "playersTotal": 254,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -35564,7 +35618,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-05-16T05:30:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -35618,7 +35672,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-09T10:05:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
         "playersTotal": 27,
@@ -35672,10 +35726,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:26:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
-        "playersTotal": 337,
+        "playersTotal": 338,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -35726,10 +35780,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:26:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
-        "playersTotal": 113,
+        "playersTotal": 114,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -35780,7 +35834,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-26T21:21:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 84,
         "playersStarted": 0,
         "playersTotal": 131,
@@ -35834,7 +35888,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-11-20T04:20:12.000Z",
-        "updatedAt": "2025-08-15T23:16:25.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 34,
         "playersTotal": 135,
@@ -35889,7 +35943,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-11T00:12:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 167,
@@ -35943,10 +35997,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-08-17T20:24:31.000Z",
-        "updatedAt": "2025-08-31T17:00:23.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 106,
+        "playersTotal": 110,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -35997,10 +36051,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2025-08-17T19:56:23.000Z",
-        "updatedAt": "2025-09-06T18:22:52.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 5,
-        "playersTotal": 206,
+        "playersTotal": 216,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -36052,7 +36106,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-09-16T21:22:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 9,
@@ -36106,7 +36160,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-07-10T15:56:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 4,
         "playersTotal": 52,
@@ -36160,7 +36214,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-02-17T04:42:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 46,
@@ -36214,10 +36268,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-30T22:07:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 47,
         "playersStarted": 0,
-        "playersTotal": 375,
+        "playersTotal": 376,
         "priceData": {
             "USD": {
                 "initial": 1399,
@@ -36268,7 +36322,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-30T22:16:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 77,
         "playersStarted": 0,
         "playersTotal": 314,
@@ -36322,7 +36376,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-10-26T19:07:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 188,
@@ -36376,7 +36430,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-10-03T23:02:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -36430,7 +36484,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-05-14T06:57:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 57,
@@ -36484,10 +36538,10 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2023-10-03T23:01:37.000Z",
-        "updatedAt": "2025-08-19T18:34:57.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 64,
-        "playersTotal": 125,
+        "playersTotal": 126,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -36538,7 +36592,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-17T01:43:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 96,
@@ -36592,7 +36646,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-08-09T00:57:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -36646,7 +36700,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-18T02:30:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -36700,7 +36754,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-20T00:06:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -36754,7 +36808,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T18:58:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 63,
@@ -36808,10 +36862,10 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2023-01-09T03:22:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 11,
-        "playersTotal": 57,
+        "playersTotal": 58,
         "priceData": {
             "USD": {
                 "initial": 1399,
@@ -36862,10 +36916,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T12:54:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 187,
         "playersStarted": 0,
-        "playersTotal": 932,
+        "playersTotal": 933,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -36916,7 +36970,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-15T09:04:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -36970,7 +37024,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-10-06T13:36:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 91,
@@ -37024,10 +37078,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-01T19:48:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 76,
         "playersStarted": 0,
-        "playersTotal": 1307,
+        "playersTotal": 1308,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -37078,10 +37132,10 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2023-01-25T15:30:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 2,
-        "playersTotal": 88,
+        "playersTotal": 89,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -37132,10 +37186,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-09-17T05:51:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 7,
-        "playersTotal": 135,
+        "playersTotal": 136,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -37186,40 +37240,40 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-05-18T22:33:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 8,
-        "playersTotal": 138,
+        "playersTotal": 139,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 799,
+                "discountPercent": 60
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 799,
+                "discountPercent": 60
             },
             "GBP": {
                 "initial": 1599,
-                "final": 1599,
-                "discountPercent": 0
+                "final": 639,
+                "discountPercent": 60
             },
             "JPY": {
                 "initial": 205000,
-                "final": 205000,
-                "discountPercent": 0
+                "final": 82000,
+                "discountPercent": 60
             },
             "AUD": {
                 "initial": 2895,
-                "final": 2895,
-                "discountPercent": 0
+                "final": 1158,
+                "discountPercent": 60
             },
             "CAD": {
                 "initial": 2279,
-                "final": 2279,
-                "discountPercent": 0
+                "final": 911,
+                "discountPercent": 60
             }
         },
         "milestones": {
@@ -37240,7 +37294,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-12T02:03:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 96,
@@ -37294,7 +37348,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2023-11-10T06:33:29.000Z",
-        "updatedAt": "2025-08-16T02:18:41.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 56,
@@ -37348,10 +37402,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-06-06T17:23:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 41,
+        "playersTotal": 42,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -37402,7 +37456,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2022-10-22T13:42:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 3,
         "playersTotal": 96,
@@ -37456,7 +37510,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-08T13:13:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 37,
         "playersStarted": 0,
         "playersTotal": 84,
@@ -37510,10 +37564,10 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-03-23T02:07:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 40,
         "playersStarted": 36,
-        "playersTotal": 173,
+        "playersTotal": 174,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -37564,10 +37618,10 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2024-04-14T00:15:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 7,
-        "playersTotal": 64,
+        "playersTotal": 65,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -37618,7 +37672,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2024-06-10T03:58:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 2,
         "playersTotal": 33,
@@ -37672,7 +37726,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-08T18:26:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -37726,10 +37780,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-04-06T01:07:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 74,
+        "playersTotal": 75,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -37780,7 +37834,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-03-09T00:07:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 45,
@@ -37835,10 +37889,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:14:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 143,
         "playersStarted": 0,
-        "playersTotal": 343,
+        "playersTotal": 345,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -37889,10 +37943,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:07:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 50,
         "playersStarted": 27,
-        "playersTotal": 227,
+        "playersTotal": 228,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -37943,7 +37997,7 @@ var data =
         "tier": 4,
         "points": 175,
         "createdAt": "2021-12-08T00:05:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 27,
         "playersTotal": 119,
@@ -37997,10 +38051,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T08:08:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 159,
         "playersStarted": 0,
-        "playersTotal": 461,
+        "playersTotal": 462,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -38051,7 +38105,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-06-09T19:52:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 19,
         "playersTotal": 202,
@@ -38105,7 +38159,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:07:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 78,
         "playersStarted": 0,
         "playersTotal": 212,
@@ -38159,7 +38213,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2021-11-15T20:39:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 25,
         "playersTotal": 70,
@@ -38213,10 +38267,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-01T20:52:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
-        "playersTotal": 211,
+        "playersTotal": 213,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -38267,7 +38321,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-12-28T16:03:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 25,
         "playersStarted": 4,
         "playersTotal": 147,
@@ -38321,10 +38375,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-29T17:52:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 4,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 13,
+        "playersTotal": 14,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -38375,7 +38429,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-09-04T19:27:09.000Z",
-        "updatedAt": "2025-09-04T23:43:16.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 0,
@@ -38429,7 +38483,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-02-22T08:27:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 7,
         "playersTotal": 63,
@@ -38484,7 +38538,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-05T00:22:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 49,
@@ -38538,7 +38592,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-04-13T21:44:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -38592,7 +38646,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:11:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 31,
         "playersStarted": 30,
         "playersTotal": 249,
@@ -38646,7 +38700,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-10T05:13:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -38700,7 +38754,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-13T20:40:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 42,
@@ -38754,10 +38808,10 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-06-09T19:27:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 26,
-        "playersTotal": 230,
+        "playersTotal": 231,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -38808,40 +38862,40 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-15T18:01:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 10,
         "playersTotal": 42,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 599,
-                "discountPercent": 60
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1499,
-                "final": 599,
-                "discountPercent": 60
+                "final": 1499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1299,
-                "final": 519,
-                "discountPercent": 60
+                "final": 1299,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 98000,
-                "final": 39200,
-                "discountPercent": 60
+                "final": 98000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2150,
-                "final": 860,
-                "discountPercent": 60
+                "final": 2150,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1749,
-                "final": 699,
-                "discountPercent": 60
+                "final": 1749,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -38862,7 +38916,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-08-30T20:40:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 1,
         "playersTotal": 69,
@@ -38916,7 +38970,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2025-06-18T11:28:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -38965,7 +39019,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-26T15:59:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 45,
@@ -39019,7 +39073,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-24T00:25:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 88,
@@ -39073,40 +39127,40 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-07-04T00:36:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 95,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 90
             },
             "EUR": {
                 "initial": 899,
-                "final": 899,
-                "discountPercent": 0
+                "final": 89,
+                "discountPercent": 90
             },
             "GBP": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 69,
+                "discountPercent": 90
             },
             "JPY": {
                 "initial": 98000,
-                "final": 98000,
-                "discountPercent": 0
+                "final": 9800,
+                "discountPercent": 90
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 145,
+                "discountPercent": 90
             },
             "CAD": {
                 "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
+                "final": 109,
+                "discountPercent": 90
             }
         },
         "milestones": {
@@ -39128,7 +39182,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-06-03T14:14:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 269,
@@ -39182,7 +39236,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-12-28T03:10:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 193,
@@ -39236,10 +39290,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-14T18:28:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 35,
         "playersStarted": 0,
-        "playersTotal": 443,
+        "playersTotal": 445,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -39290,7 +39344,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2023-10-19T06:22:43.000Z",
-        "updatedAt": "2025-08-21T02:23:11.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 13,
         "playersTotal": 188,
@@ -39344,10 +39398,10 @@ var data =
         "tier": 2,
         "points": 27,
         "createdAt": "2023-10-19T05:50:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 6,
-        "playersTotal": 113,
+        "playersTotal": 114,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -39398,7 +39452,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-07-03T20:57:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 156,
@@ -39452,7 +39506,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-03T17:49:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -39506,10 +39560,10 @@ var data =
         "tier": 3,
         "points": 46,
         "createdAt": "2020-01-28T08:41:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 40,
-        "playersTotal": 538,
+        "playersTotal": 539,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -39555,7 +39609,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-06-13T04:22:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -39609,7 +39663,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-11-18T03:41:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -39663,7 +39717,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-09-03T13:58:02.000Z",
-        "updatedAt": "2025-09-03T17:28:11.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -39717,10 +39771,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-10-19T22:54:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 43,
         "playersStarted": 0,
-        "playersTotal": 177,
+        "playersTotal": 178,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -39771,10 +39825,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-12T21:54:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 215,
+        "playersTotal": 216,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -39825,10 +39879,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-04T20:39:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 192,
+        "playersTotal": 193,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -39879,10 +39933,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-10-14T20:09:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 4,
-        "playersTotal": 45,
+        "playersTotal": 46,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -39933,7 +39987,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-26T07:57:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 82,
@@ -39987,40 +40041,40 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2025-01-20T08:38:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 20,
         "priceData": {
             "USD": {
                 "initial": 599,
-                "final": 239,
-                "discountPercent": 60
+                "final": 599,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 499,
-                "final": 199,
-                "discountPercent": 60
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 479,
-                "final": 191,
-                "discountPercent": 60
+                "final": 479,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 62000,
-                "final": 24800,
-                "discountPercent": 60
+                "final": 62000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 850,
-                "final": 340,
-                "discountPercent": 60
+                "final": 850,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 669,
-                "final": 267,
-                "discountPercent": 60
+                "final": 669,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -40041,7 +40095,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-09-19T14:05:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 114,
@@ -40095,7 +40149,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-09-10T18:47:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 78,
@@ -40149,7 +40203,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T05:24:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 39,
         "playersStarted": 0,
         "playersTotal": 100,
@@ -40203,7 +40257,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-22T19:55:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 50,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -40257,7 +40311,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-04-28T22:30:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 46,
@@ -40311,7 +40365,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2021-04-29T10:54:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 71,
@@ -40365,7 +40419,7 @@ var data =
         "tier": 5,
         "points": 350,
         "createdAt": "2022-02-28T01:41:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 6,
         "playersTotal": 55,
@@ -40419,7 +40473,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-10-06T12:17:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -40473,7 +40527,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-01-17T18:57:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 96,
@@ -40527,10 +40581,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-26T06:08:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
-        "playersTotal": 365,
+        "playersTotal": 366,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -40581,7 +40635,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-07-26T06:14:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 171,
@@ -40635,7 +40689,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-24T20:26:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -40689,7 +40743,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2024-07-22T17:27:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 10,
         "playersTotal": 34,
@@ -40743,7 +40797,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-23T17:20:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 2,
         "playersTotal": 12,
@@ -40797,40 +40851,40 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-04-15T00:33:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 70,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 499,
-                "discountPercent": 50
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 999,
-                "final": 499,
-                "discountPercent": 50
+                "final": 999,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 899,
-                "final": 449,
-                "discountPercent": 50
+                "final": 899,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 110000,
-                "final": 55000,
-                "discountPercent": 50
+                "final": 110000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1600,
-                "final": 800,
-                "discountPercent": 50
+                "final": 1600,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1149,
-                "final": 574,
-                "discountPercent": 50
+                "final": 1149,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -40851,10 +40905,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:09:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 58,
         "playersStarted": 0,
-        "playersTotal": 315,
+        "playersTotal": 316,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -40905,7 +40959,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2025-04-23T15:47:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -40954,10 +41008,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-16T23:37:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 57,
+        "playersTotal": 58,
         "priceData": {
             "USD": {
                 "initial": 1699,
@@ -41008,10 +41062,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T12:01:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 79,
         "playersStarted": 0,
-        "playersTotal": 465,
+        "playersTotal": 468,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -41062,10 +41116,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-08-03T22:01:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 20,
-        "playersTotal": 299,
+        "playersTotal": 301,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -41116,40 +41170,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-07-05T07:47:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 43,
+        "playersTotal": 44,
         "priceData": {
             "USD": {
                 "initial": 1799,
-                "final": 1799,
-                "discountPercent": 0
+                "final": 359,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 1199,
-                "final": 1199,
-                "discountPercent": 0
+                "final": 239,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 178000,
-                "final": 178000,
-                "discountPercent": 0
+                "final": 35600,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 2595,
-                "final": 2595,
-                "discountPercent": 0
+                "final": 519,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -41170,7 +41224,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-18T14:12:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -41224,7 +41278,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-08-26T17:12:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 2,
         "playersTotal": 172,
@@ -41279,40 +41333,40 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-02-29T18:30:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 47,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 149,
+                "discountPercent": 90
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 149,
+                "discountPercent": 90
             },
             "GBP": {
                 "initial": 1139,
-                "final": 1139,
-                "discountPercent": 0
+                "final": 113,
+                "discountPercent": 90
             },
             "JPY": {
                 "initial": 152000,
-                "final": 152000,
-                "discountPercent": 0
+                "final": 15200,
+                "discountPercent": 90
             },
             "AUD": {
                 "initial": 2150,
-                "final": 2150,
-                "discountPercent": 0
+                "final": 215,
+                "discountPercent": 90
             },
             "CAD": {
                 "initial": 1749,
-                "final": 1749,
-                "discountPercent": 0
+                "final": 174,
+                "discountPercent": 90
             }
         },
         "milestones": {
@@ -41334,10 +41388,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-27T06:24:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 1,
-        "playersTotal": 188,
+        "playersTotal": 190,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -41388,7 +41442,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-16T04:53:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 58,
@@ -41437,7 +41491,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2023-10-24T23:11:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 2,
         "playersTotal": 54,
@@ -41491,10 +41545,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:53:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
-        "playersTotal": 215,
+        "playersTotal": 216,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -41545,7 +41599,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-12-27T00:08:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 70,
@@ -41599,10 +41653,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-02-16T20:58:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 4,
-        "playersTotal": 100,
+        "playersTotal": 101,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -41653,7 +41707,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-03-16T02:24:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
         "playersTotal": 47,
@@ -41707,10 +41761,10 @@ var data =
         "tier": 6,
         "points": 585,
         "createdAt": "2021-10-25T15:11:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 39,
-        "playersTotal": 1187,
+        "playersTotal": 1191,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -41761,10 +41815,10 @@ var data =
         "tier": 5,
         "points": 325,
         "createdAt": "2020-01-28T08:58:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 31,
-        "playersTotal": 236,
+        "playersTotal": 238,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -41815,7 +41869,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-11T17:09:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 124,
@@ -41869,10 +41923,10 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2022-09-26T19:55:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 52,
-        "playersTotal": 320,
+        "playersTotal": 321,
         "priceData": {
             "USD": {
                 "initial": 399,
@@ -41923,7 +41977,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-24T15:31:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 87,
@@ -41977,7 +42031,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-02-24T15:32:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -42031,40 +42085,40 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:28:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 44,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 749,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 1479,
-                "final": 1479,
-                "discountPercent": 0
+                "final": 739,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 639,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 85000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 1097,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 974,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -42085,7 +42139,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:19:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 28,
         "playersTotal": 362,
@@ -42139,10 +42193,10 @@ var data =
         "tier": 6,
         "points": 565,
         "createdAt": "2020-01-28T09:37:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 25,
         "playersStarted": 59,
-        "playersTotal": 614,
+        "playersTotal": 616,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -42194,7 +42248,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-10-28T22:16:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -42248,7 +42302,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-01-02T07:15:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -42302,7 +42356,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:20:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 6,
         "playersTotal": 44,
@@ -42356,7 +42410,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2023-04-27T23:35:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 24,
@@ -42410,7 +42464,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:47:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 77,
@@ -42464,7 +42518,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-24T01:44:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -42518,10 +42572,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-09-01T21:56:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 320,
+        "playersTotal": 321,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -42572,10 +42626,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2022-06-24T23:32:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 90,
-        "playersStarted": 92,
-        "playersTotal": 444,
+        "playersStarted": 93,
+        "playersTotal": 446,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -42627,7 +42681,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-02-04T20:29:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 137,
@@ -42681,7 +42735,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-26T19:04:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -42735,7 +42789,7 @@ var data =
         "tier": 5,
         "points": 300,
         "createdAt": "2020-01-28T09:36:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 29,
         "playersTotal": 179,
@@ -42789,7 +42843,7 @@ var data =
         "tier": 4,
         "points": 165,
         "createdAt": "2020-06-25T18:54:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 11,
         "playersTotal": 292,
@@ -42843,10 +42897,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T18:57:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 38,
         "playersStarted": 0,
-        "playersTotal": 204,
+        "playersTotal": 205,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -42897,7 +42951,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-11-18T03:04:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 31,
@@ -42951,10 +43005,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-12-17T05:00:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 38,
-        "playersStarted": 51,
-        "playersTotal": 187,
+        "playersStarted": 54,
+        "playersTotal": 191,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -43006,7 +43060,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:14:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 85,
@@ -43060,7 +43114,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-03-26T21:59:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 57,
@@ -43114,7 +43168,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-02-14T11:04:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
         "playersTotal": 223,
@@ -43168,7 +43222,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T08:37:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 32,
         "playersTotal": 263,
@@ -43222,7 +43276,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2025-05-26T00:20:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -43276,7 +43330,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-05-18T15:32:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 59,
         "playersStarted": 0,
         "playersTotal": 96,
@@ -43330,10 +43384,10 @@ var data =
         "tier": 6,
         "points": 505,
         "createdAt": "2021-10-10T16:32:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 24,
-        "playersTotal": 93,
+        "playersTotal": 94,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -43384,10 +43438,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-01-17T02:29:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 28,
-        "playersStarted": 195,
-        "playersTotal": 854,
+        "playersStarted": 196,
+        "playersTotal": 858,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -43438,7 +43492,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-05-15T18:21:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -43492,7 +43546,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-11-19T14:30:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -43546,7 +43600,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2021-05-14T14:39:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 36,
@@ -43600,10 +43654,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-06-21T08:29:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 34,
+        "playersTotal": 35,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -43655,7 +43709,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:30:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -43709,7 +43763,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2020-04-13T19:34:57.000Z",
-        "updatedAt": "2025-08-27T20:32:19.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 93,
         "playersTotal": 651,
@@ -43763,7 +43817,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2023-09-26T04:07:09.000Z",
-        "updatedAt": "2025-08-28T03:05:35.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 48,
@@ -43817,7 +43871,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-12T23:07:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -43871,7 +43925,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2023-11-18T19:06:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 42,
@@ -43925,7 +43979,7 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2022-06-19T07:16:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 4,
         "playersTotal": 119,
@@ -43979,7 +44033,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:22:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 146,
@@ -44033,7 +44087,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-01T19:55:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 217,
@@ -44087,7 +44141,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T10:02:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 72,
@@ -44141,7 +44195,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:18:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 162,
@@ -44190,7 +44244,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2024-09-07T18:17:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -44244,7 +44298,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-18T03:31:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -44298,7 +44352,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-20T22:19:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -44352,7 +44406,7 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2020-01-28T09:46:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 39,
         "playersTotal": 216,
@@ -44406,7 +44460,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-06T11:33:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 191,
@@ -44460,7 +44514,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-02-28T23:50:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 220,
@@ -44514,7 +44568,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:55:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 180,
@@ -44568,7 +44622,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:57:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 145,
@@ -44622,7 +44676,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-04-18T02:37:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -44676,10 +44730,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T10:04:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 37,
         "playersStarted": 0,
-        "playersTotal": 546,
+        "playersTotal": 547,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -44730,7 +44784,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-28T19:34:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 40,
@@ -44784,7 +44838,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-29T18:07:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -44838,7 +44892,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-14T23:47:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -44892,10 +44946,10 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2020-06-09T18:03:09.000Z",
-        "updatedAt": "2025-08-31T17:46:58.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 38,
-        "playersTotal": 531,
+        "playersTotal": 533,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -44946,7 +45000,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-27T19:07:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -45000,10 +45054,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:09:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
-        "playersTotal": 168,
+        "playersTotal": 169,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -45054,7 +45108,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:39:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 107,
         "playersStarted": 0,
         "playersTotal": 238,
@@ -45108,10 +45162,10 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2021-06-28T08:58:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 40,
         "playersStarted": 18,
-        "playersTotal": 318,
+        "playersTotal": 319,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -45163,10 +45217,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-10-28T22:17:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 1,
-        "playersTotal": 20,
+        "playersTotal": 21,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -45217,7 +45271,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-02T00:44:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 44,
@@ -45271,10 +45325,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T06:49:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 103,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 104,
         "playersStarted": 0,
-        "playersTotal": 997,
+        "playersTotal": 1000,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -45325,10 +45379,10 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2022-06-07T02:48:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
-        "playersStarted": 115,
-        "playersTotal": 653,
+        "playersStarted": 116,
+        "playersTotal": 657,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -45379,40 +45433,40 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-06-10T01:11:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 148,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 749,
-                "discountPercent": 50
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1249,
-                "final": 624,
-                "discountPercent": 50
+                "final": 1249,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1139,
-                "final": 569,
-                "discountPercent": 50
+                "final": 1139,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 152000,
-                "final": 76000,
-                "discountPercent": 50
+                "final": 152000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2150,
-                "final": 1075,
-                "discountPercent": 50
+                "final": 2150,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1749,
-                "final": 874,
-                "discountPercent": 50
+                "final": 1749,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -45433,7 +45487,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2021-10-24T16:29:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 61,
@@ -45482,40 +45536,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-24T01:16:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 100,
         "priceData": {
             "USD": {
                 "initial": 1799,
-                "final": 1799,
-                "discountPercent": 0
+                "final": 179,
+                "discountPercent": 90
             },
             "EUR": {
                 "initial": 1799,
-                "final": 1799,
-                "discountPercent": 0
+                "final": 179,
+                "discountPercent": 90
             },
             "GBP": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 149,
+                "discountPercent": 90
             },
             "JPY": {
                 "initial": 200000,
-                "final": 200000,
-                "discountPercent": 0
+                "final": 20000,
+                "discountPercent": 90
             },
             "AUD": {
                 "initial": 2650,
-                "final": 2650,
-                "discountPercent": 0
+                "final": 265,
+                "discountPercent": 90
             },
             "CAD": {
                 "initial": 2349,
-                "final": 2349,
-                "discountPercent": 0
+                "final": 234,
+                "discountPercent": 90
             }
         },
         "milestones": {
@@ -45536,7 +45590,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-10T16:59:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 60,
         "playersStarted": 1,
         "playersTotal": 752,
@@ -45590,7 +45644,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-10T17:28:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 368,
@@ -45644,7 +45698,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:49:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 24,
@@ -45693,10 +45747,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-07-05T05:37:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 21,
-        "playersTotal": 86,
+        "playersTotal": 88,
         "priceData": {
             "USD": {
                 "initial": 1699,
@@ -45747,10 +45801,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-05-13T18:41:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 40,
-        "playersTotal": 500,
+        "playersTotal": 502,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -45802,7 +45856,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-05T02:00:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -45856,7 +45910,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-21T23:01:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -45910,7 +45964,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T10:01:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -45965,7 +46019,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T08:38:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 22,
         "playersTotal": 270,
@@ -46014,7 +46068,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:30:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 16,
         "playersTotal": 55,
@@ -46068,7 +46122,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-14T00:52:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -46123,7 +46177,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-05-08T14:45:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 13,
         "playersTotal": 492,
@@ -46177,7 +46231,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-27T02:35:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 9,
         "playersTotal": 219,
@@ -46231,40 +46285,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-10-02T10:23:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 27,
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 249,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 249,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 429,
-                "final": 429,
-                "discountPercent": 0
+                "final": 214,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 58000,
-                "final": 58000,
-                "discountPercent": 0
+                "final": 29000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 750,
-                "final": 750,
-                "discountPercent": 0
+                "final": 375,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 649,
-                "final": 649,
-                "discountPercent": 0
+                "final": 324,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -46285,10 +46339,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-04-10T08:26:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 5,
-        "playersTotal": 108,
+        "playersTotal": 110,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -46339,7 +46393,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-11T23:49:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -46393,7 +46447,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-10-31T04:44:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -46447,7 +46501,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2020-04-03T18:24:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 10,
         "playersTotal": 126,
@@ -46501,7 +46555,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-07-12T04:07:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 107,
@@ -46555,7 +46609,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-09-04T23:43:52.000Z",
-        "updatedAt": "2025-09-05T05:17:16.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -46609,40 +46663,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-18T13:59:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 177,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
+                "final": 219,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 190000,
-                "final": 190000,
-                "discountPercent": 0
+                "final": 38000,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 2099,
-                "final": 2099,
-                "discountPercent": 0
+                "final": 419,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 1799,
-                "final": 1799,
-                "discountPercent": 0
+                "final": 359,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -46663,7 +46717,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-02-13T14:29:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -46717,10 +46771,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:00:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 33,
+        "playersTotal": 34,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -46771,10 +46825,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-06-14T18:09:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 26,
         "playersStarted": 2,
-        "playersTotal": 226,
+        "playersTotal": 227,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -46825,10 +46879,10 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2023-07-11T05:53:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 39,
         "playersStarted": 20,
-        "playersTotal": 1206,
+        "playersTotal": 1211,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -46879,10 +46933,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-07-02T20:55:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 53,
         "playersStarted": 8,
-        "playersTotal": 493,
+        "playersTotal": 495,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -46933,10 +46987,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-07-26T08:48:41.000Z",
-        "updatedAt": "2025-08-21T19:07:46.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 40,
-        "playersTotal": 177,
+        "playersTotal": 181,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -46987,7 +47041,7 @@ var data =
         "tier": 5,
         "points": 375,
         "createdAt": "2023-11-26T22:22:38.000Z",
-        "updatedAt": "2025-08-30T00:05:17.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 48,
         "playersTotal": 130,
@@ -47041,10 +47095,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-11-12T17:36:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 26,
         "playersStarted": 9,
-        "playersTotal": 439,
+        "playersTotal": 441,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -47095,10 +47149,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2023-01-15T08:15:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 1,
-        "playersTotal": 293,
+        "playersTotal": 295,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -47149,10 +47203,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-04T20:14:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 35,
+        "playersTotal": 36,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -47203,7 +47257,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-11-10T03:31:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 18,
@@ -47257,7 +47311,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2025-05-15T22:08:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 48,
@@ -47311,10 +47365,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-11-10T05:18:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 168,
+        "playersTotal": 170,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -47365,7 +47419,7 @@ var data =
         "tier": 5,
         "points": 300,
         "createdAt": "2021-10-24T16:58:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 11,
         "playersTotal": 128,
@@ -47419,7 +47473,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-09-24T06:10:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 118,
@@ -47473,7 +47527,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-01-25T03:11:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -47527,7 +47581,7 @@ var data =
         "tier": 3,
         "points": 51,
         "createdAt": "2023-09-16T20:59:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 76,
@@ -47581,7 +47635,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-03-05T16:45:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 74,
@@ -47635,7 +47689,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-04T03:30:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 109,
         "playersStarted": 0,
         "playersTotal": 182,
@@ -47689,7 +47743,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-23T19:49:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 66,
@@ -47743,7 +47797,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-06-22T08:54:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -47797,10 +47851,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:45:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
-        "playersTotal": 76,
+        "playersTotal": 77,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -47846,10 +47900,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-03T20:37:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 101,
+        "playersTotal": 102,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -47900,10 +47954,10 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2023-02-19T08:17:11.000Z",
-        "updatedAt": "2025-08-21T20:17:43.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
-        "playersStarted": 116,
-        "playersTotal": 452,
+        "playersStarted": 117,
+        "playersTotal": 454,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -47954,7 +48008,7 @@ var data =
         "tier": 4,
         "points": 95,
         "createdAt": "2023-07-31T21:52:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 38,
@@ -48008,10 +48062,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2025-07-22T05:20:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
-        "playersStarted": 10,
-        "playersTotal": 74,
+        "playersStarted": 11,
+        "playersTotal": 76,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -48062,7 +48116,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-07T23:59:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -48116,7 +48170,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-01-28T09:29:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -48170,10 +48224,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-07-14T05:04:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 3,
+        "playersTotal": 4,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -48224,7 +48278,7 @@ var data =
         "tier": 5,
         "points": 350,
         "createdAt": "2023-06-28T03:59:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 29,
         "playersTotal": 119,
@@ -48279,7 +48333,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2025-05-27T03:27:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 9,
@@ -48333,10 +48387,10 @@ var data =
         "tier": 5,
         "points": 375,
         "createdAt": "2021-06-24T21:07:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 107,
-        "playersStarted": 248,
-        "playersTotal": 741,
+        "playersStarted": 249,
+        "playersTotal": 743,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -48387,7 +48441,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:47:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 10,
         "playersTotal": 122,
@@ -48441,7 +48495,7 @@ var data =
         "tier": 1,
         "points": 13,
         "createdAt": "2025-08-21T00:19:28.000Z",
-        "updatedAt": "2025-08-24T21:43:41.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 21,
@@ -48495,10 +48549,10 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-07-17T22:32:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
-        "playersTotal": 152,
+        "playersTotal": 153,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -48549,10 +48603,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-24T00:09:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 437,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 438,
         "playersStarted": 0,
-        "playersTotal": 1737,
+        "playersTotal": 1744,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -48603,10 +48657,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-02-14T18:44:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 32,
-        "playersTotal": 556,
+        "playersTotal": 558,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -48658,7 +48712,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T21:52:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 263,
@@ -48712,7 +48766,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-09T03:37:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -48766,40 +48820,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-06-04T14:32:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 83,
         "priceData": {
             "USD": {
                 "initial": 799,
-                "final": 199,
-                "discountPercent": 75
+                "final": 799,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 779,
-                "final": 194,
-                "discountPercent": 75
+                "final": 779,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 669,
-                "final": 167,
-                "discountPercent": 75
+                "final": 669,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 92000,
-                "final": 23000,
-                "discountPercent": 75
+                "final": 92000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1179,
-                "final": 294,
-                "discountPercent": 75
+                "final": 1179,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1049,
-                "final": 262,
-                "discountPercent": 75
+                "final": 1049,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -48820,7 +48874,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-05-19T00:29:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -48874,7 +48928,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:37:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 207,
         "playersStarted": 0,
         "playersTotal": 353,
@@ -48928,7 +48982,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-06-25T19:04:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 40,
@@ -48982,10 +49036,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-06-09T15:56:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 71,
+        "playersTotal": 72,
         "priceData": {
             "USD": {
                 "initial": 1200,
@@ -49036,7 +49090,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-07T22:10:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -49090,7 +49144,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-06T16:54:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 58,
@@ -49144,7 +49198,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2024-03-29T03:12:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 2,
         "playersTotal": 44,
@@ -49198,10 +49252,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-07-26T08:00:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 60,
+        "playersTotal": 63,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -49253,7 +49307,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2024-11-05T02:12:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 8,
@@ -49307,7 +49361,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-09-04T16:45:44.000Z",
-        "updatedAt": "2025-09-05T18:00:46.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -49356,7 +49410,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-11T04:56:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -49410,7 +49464,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T19:44:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 10,
         "playersTotal": 23,
@@ -49464,7 +49518,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-11-01T01:01:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 74,
         "playersStarted": 0,
         "playersTotal": 202,
@@ -49518,7 +49572,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-17T22:47:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -49572,7 +49626,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-04-18T02:41:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -49626,10 +49680,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-17T23:27:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 62,
         "playersStarted": 0,
-        "playersTotal": 231,
+        "playersTotal": 232,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -49680,10 +49734,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-01-28T01:48:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 39,
         "playersStarted": 28,
-        "playersTotal": 255,
+        "playersTotal": 256,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -49734,10 +49788,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-01-28T01:47:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 29,
         "playersStarted": 24,
-        "playersTotal": 210,
+        "playersTotal": 211,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -49788,7 +49842,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-03-27T20:42:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 7,
         "playersTotal": 30,
@@ -49842,7 +49896,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2023-07-24T20:59:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 1,
         "playersTotal": 71,
@@ -49896,10 +49950,10 @@ var data =
         "tier": 7,
         "points": 800,
         "createdAt": "2020-06-13T14:34:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 18,
-        "playersTotal": 158,
+        "playersTotal": 160,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -49951,7 +50005,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-09-26T07:41:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 1,
         "playersTotal": 167,
@@ -50005,7 +50059,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-21T04:29:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -50059,7 +50113,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-02-06T00:06:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -50113,10 +50167,10 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2024-07-28T23:38:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 63,
-        "playersTotal": 190,
+        "playersTotal": 191,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -50168,7 +50222,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-21T04:18:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -50222,10 +50276,10 @@ var data =
         "tier": 5,
         "points": 275,
         "createdAt": "2020-01-28T08:44:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 91,
-        "playersTotal": 497,
+        "playersTotal": 500,
         "priceData": {
             "USD": {
                 "initial": 1799,
@@ -50277,7 +50331,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:56:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 348,
@@ -50331,7 +50385,7 @@ var data =
         "tier": 5,
         "points": 270,
         "createdAt": "2022-11-20T13:04:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 11,
         "playersTotal": 68,
@@ -50385,7 +50439,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-12-28T16:02:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 9,
         "playersTotal": 86,
@@ -50439,7 +50493,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-08-17T18:02:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -50493,7 +50547,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-09-24T06:00:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 46,
@@ -50547,7 +50601,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-03-14T07:15:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 3,
@@ -50601,7 +50655,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:32:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 129,
@@ -50655,10 +50709,10 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2023-11-19T17:40:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
-        "playersTotal": 4,
+        "playersTotal": 5,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -50709,7 +50763,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-04-27T17:53:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -50763,40 +50817,40 @@ var data =
         "tier": 4,
         "points": 116,
         "createdAt": "2022-10-04T23:30:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
-        "playersStarted": 98,
-        "playersTotal": 676,
+        "playersStarted": 99,
+        "playersTotal": 680,
         "priceData": {
             "USD": {
                 "initial": 2499,
-                "final": 2499,
-                "discountPercent": 0
+                "final": 1124,
+                "discountPercent": 55
             },
             "EUR": {
                 "initial": 2450,
-                "final": 2450,
-                "discountPercent": 0
+                "final": 1102,
+                "discountPercent": 55
             },
             "GBP": {
                 "initial": 2099,
-                "final": 2099,
-                "discountPercent": 0
+                "final": 944,
+                "discountPercent": 55
             },
             "JPY": {
                 "initial": 280000,
-                "final": 280000,
-                "discountPercent": 0
+                "final": 126000,
+                "discountPercent": 55
             },
             "AUD": {
                 "initial": 3650,
-                "final": 3650,
-                "discountPercent": 0
+                "final": 1642,
+                "discountPercent": 55
             },
             "CAD": {
                 "initial": 3250,
-                "final": 3250,
-                "discountPercent": 0
+                "final": 1462,
+                "discountPercent": 55
             }
         },
         "milestones": {
@@ -50818,7 +50872,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-08T15:14:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -50872,7 +50926,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2025-01-28T21:51:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -50926,7 +50980,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-11-25T07:29:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 3,
@@ -50980,7 +51034,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-30T20:35:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
         "playersTotal": 68,
@@ -51034,7 +51088,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-06T18:40:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 61,
@@ -51089,7 +51143,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-10-26T16:39:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 39,
         "playersStarted": 0,
         "playersTotal": 120,
@@ -51143,7 +51197,7 @@ var data =
         "tier": 2,
         "points": 36,
         "createdAt": "2025-02-26T08:49:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 7,
@@ -51198,10 +51252,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2025-07-19T21:16:13.000Z",
-        "updatedAt": "2025-08-25T03:12:04.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
-        "playersTotal": 33,
+        "playersTotal": 34,
         "priceData": {
             "USD": {
                 "initial": 4999,
@@ -51253,40 +51307,40 @@ var data =
         "tier": 3,
         "points": 51,
         "createdAt": "2023-07-11T06:06:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 141,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 449,
+                "discountPercent": 70
             },
             "EUR": {
                 "initial": 1479,
-                "final": 1479,
-                "discountPercent": 0
+                "final": 443,
+                "discountPercent": 70
             },
             "GBP": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 383,
+                "discountPercent": 70
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 51000,
+                "discountPercent": 70
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 658,
+                "discountPercent": 70
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 584,
+                "discountPercent": 70
             }
         },
         "milestones": {
@@ -51308,7 +51362,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2024-06-30T20:14:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 4,
         "playersTotal": 29,
@@ -51362,40 +51416,40 @@ var data =
         "tier": 3,
         "points": 46,
         "createdAt": "2024-03-29T05:09:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 20,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 999,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 999,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 1649,
-                "final": 1649,
-                "discountPercent": 0
+                "final": 824,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 232000,
-                "final": 232000,
-                "discountPercent": 0
+                "final": 116000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 2795,
-                "final": 2795,
-                "discountPercent": 0
+                "final": 1397,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 2549,
-                "final": 2549,
-                "discountPercent": 0
+                "final": 1274,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -51416,7 +51470,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-10-13T06:46:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 3,
         "playersTotal": 17,
@@ -51470,10 +51524,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-24T15:06:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 104,
+        "playersTotal": 106,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -51525,10 +51579,10 @@ var data =
         "tier": 2,
         "points": 38,
         "createdAt": "2024-08-31T07:45:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
-        "playersTotal": 33,
+        "playersTotal": 34,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -51579,7 +51633,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-02-17T18:22:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
         "playersTotal": 331,
@@ -51633,10 +51687,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:22:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
-        "playersTotal": 325,
+        "playersTotal": 326,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -51687,7 +51741,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-07-26T16:46:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 408,
@@ -51741,10 +51795,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-05-18T03:01:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 73,
-        "playersTotal": 420,
+        "playersTotal": 421,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -51795,10 +51849,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-03T10:28:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 69,
         "playersStarted": 0,
-        "playersTotal": 352,
+        "playersTotal": 353,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -51849,10 +51903,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-11T00:18:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 14,
-        "playersTotal": 152,
+        "playersTotal": 153,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -51903,10 +51957,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-03T10:29:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 85,
-        "playersTotal": 490,
+        "playersTotal": 491,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -51957,10 +52011,10 @@ var data =
         "tier": 2,
         "points": 75,
         "createdAt": "2025-08-20T01:49:01.000Z",
-        "updatedAt": "2025-09-04T18:11:53.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 65,
+        "playersTotal": 67,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -52011,7 +52065,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-03-03T10:53:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 50,
         "playersTotal": 411,
@@ -52065,7 +52119,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-03-08T23:10:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -52119,7 +52173,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T09:22:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 8,
         "playersTotal": 66,
@@ -52173,7 +52227,7 @@ var data =
         "tier": 4,
         "points": 95,
         "createdAt": "2024-09-29T19:12:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 9,
         "playersTotal": 127,
@@ -52228,10 +52282,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:49:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 188,
+        "playersTotal": 189,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -52282,7 +52336,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-12-04T15:36:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 23,
@@ -52337,7 +52391,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-26T23:49:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -52391,10 +52445,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-02T21:17:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 41,
         "playersStarted": 0,
-        "playersTotal": 322,
+        "playersTotal": 324,
         "priceData": {
             "USD": {
                 "initial": 1599,
@@ -52445,10 +52499,10 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2022-04-23T16:24:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 14,
-        "playersTotal": 60,
+        "playersTotal": 61,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -52499,7 +52553,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-24T23:43:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -52553,7 +52607,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-02-05T14:23:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 26,
         "playersStarted": 16,
         "playersTotal": 129,
@@ -52607,7 +52661,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-04-12T23:46:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -52662,7 +52716,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-03-16T08:23:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -52716,7 +52770,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2025-05-21T19:09:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 9,
         "playersTotal": 84,
@@ -52771,7 +52825,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-12T05:50:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 35,
@@ -52825,7 +52879,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:10:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 8,
         "playersTotal": 47,
@@ -52880,10 +52934,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-10-06T08:56:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 6,
-        "playersTotal": 322,
+        "playersTotal": 323,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -52934,7 +52988,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2020-01-28T08:44:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 72,
@@ -52988,10 +53042,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:17:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 116,
+        "playersTotal": 117,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -53042,10 +53096,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-06T21:49:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 35,
         "playersStarted": 18,
-        "playersTotal": 441,
+        "playersTotal": 442,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -53096,7 +53150,7 @@ var data =
         "tier": 1,
         "points": 14,
         "createdAt": "2024-08-21T21:37:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 49,
@@ -53150,10 +53204,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:25:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 35,
         "playersStarted": 196,
-        "playersTotal": 825,
+        "playersTotal": 827,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -53204,10 +53258,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-08-25T13:13:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 236,
-        "playersTotal": 1267,
+        "playersTotal": 1273,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -53259,10 +53313,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-11-26T22:54:20.000Z",
-        "updatedAt": "2025-09-01T18:18:53.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 44,
-        "playersTotal": 302,
+        "playersTotal": 304,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -53313,10 +53367,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:55:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 22,
+        "playersTotal": 23,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -53367,7 +53421,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-25T19:06:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 147,
         "playersStarted": 0,
         "playersTotal": 254,
@@ -53421,10 +53475,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:53:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 33,
+        "playersTotal": 34,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -53475,7 +53529,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:39:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 229,
@@ -53529,7 +53583,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-02-20T22:15:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -53583,7 +53637,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T08:41:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -53637,7 +53691,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-10-10T15:37:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -53691,7 +53745,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-05-30T19:54:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -53745,10 +53799,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-11-23T18:17:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 32,
         "playersStarted": 0,
-        "playersTotal": 218,
+        "playersTotal": 219,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -53799,7 +53853,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-01T19:41:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
         "playersTotal": 174,
@@ -53853,7 +53907,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-10T15:06:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -53907,7 +53961,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-11-10T20:02:25.000Z",
-        "updatedAt": "2025-08-19T05:17:08.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -53962,7 +54016,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-01-18T15:00:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -54016,10 +54070,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:23:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 92,
-        "playersStarted": 31,
-        "playersTotal": 560,
+        "playersStarted": 32,
+        "playersTotal": 562,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -54070,7 +54124,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-05-22T19:29:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 38,
         "playersTotal": 223,
@@ -54124,7 +54178,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-10-06T12:29:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 117,
@@ -54178,40 +54232,40 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-09-02T01:44:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 10,
         "playersTotal": 206,
         "priceData": {
             "USD": {
                 "initial": 2999,
-                "final": 749,
-                "discountPercent": 75
+                "final": 2999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 2999,
-                "final": 749,
-                "discountPercent": 75
+                "final": 2999,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 2499,
-                "final": 624,
-                "discountPercent": 75
+                "final": 2499,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 418000,
-                "final": 104500,
-                "discountPercent": 75
+                "final": 418000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 4495,
-                "final": 1123,
-                "discountPercent": 75
+                "final": 4495,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 3999,
-                "final": 999,
-                "discountPercent": 75
+                "final": 3999,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -54232,7 +54286,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-13T19:53:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 90,
@@ -54286,7 +54340,7 @@ var data =
         "tier": 4,
         "points": 165,
         "createdAt": "2024-07-13T01:39:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 29,
@@ -54341,7 +54395,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-05-21T22:51:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -54396,7 +54450,7 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2023-02-15T02:44:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -54450,7 +54504,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-09-11T07:18:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -54504,7 +54558,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-29T17:11:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 8,
         "playersTotal": 58,
@@ -54558,7 +54612,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-22T14:46:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 68,
@@ -54612,7 +54666,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-09-05T21:38:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 33,
@@ -54666,7 +54720,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-09-05T09:23:17.000Z",
-        "updatedAt": "2025-09-05T17:43:41.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -54720,7 +54774,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-05-18T14:33:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 273,
@@ -54774,7 +54828,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:12:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 9,
         "playersTotal": 91,
@@ -54829,7 +54883,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-05-03T19:29:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 2,
         "playersTotal": 24,
@@ -54883,7 +54937,7 @@ var data =
         "tier": 5,
         "points": 230,
         "createdAt": "2022-09-11T06:15:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 23,
         "playersTotal": 119,
@@ -54937,10 +54991,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:19:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
-        "playersTotal": 105,
+        "playersTotal": 106,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -54991,7 +55045,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-03-25T14:50:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -55045,10 +55099,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-12-31T18:22:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 25,
+        "playersTotal": 26,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -55099,10 +55153,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-05-02T16:43:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 14,
-        "playersTotal": 75,
+        "playersTotal": 76,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -55153,7 +55207,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-29T19:10:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 146,
@@ -55207,7 +55261,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-10-15T03:34:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -55261,7 +55315,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:03:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -55310,7 +55364,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T06:03:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 59,
         "playersStarted": 0,
         "playersTotal": 316,
@@ -55364,7 +55418,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-09-26T14:17:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 15,
@@ -55418,10 +55472,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-11-26T21:43:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 59,
         "playersStarted": 0,
-        "playersTotal": 216,
+        "playersTotal": 217,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -55472,7 +55526,7 @@ var data =
         "tier": 2,
         "points": 23,
         "createdAt": "2025-07-22T17:59:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 6,
@@ -55526,7 +55580,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-04-10T10:21:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -55580,10 +55634,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-07-25T04:12:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 81,
+        "playersTotal": 82,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -55635,7 +55689,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-09T17:20:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -55689,40 +55743,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:41:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 55,
         "playersStarted": 0,
-        "playersTotal": 239,
+        "playersTotal": 240,
         "priceData": {
             "USD": {
                 "initial": 199,
-                "final": 99,
-                "discountPercent": 50
+                "final": 199,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 199,
-                "final": 99,
-                "discountPercent": 50
+                "final": 199,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 169,
-                "final": 84,
-                "discountPercent": 50
+                "final": 169,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 23500,
-                "final": 11700,
-                "discountPercent": 50
+                "final": 23500,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 295,
-                "final": 147,
-                "discountPercent": 50
+                "final": 295,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 259,
-                "final": 129,
-                "discountPercent": 50
+                "final": 259,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -55743,7 +55797,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-07-03T23:33:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -55797,7 +55851,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-06-26T10:32:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 9,
         "playersTotal": 56,
@@ -55851,7 +55905,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-03-20T09:48:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 147,
@@ -55905,40 +55959,40 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-14T02:34:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 33,
         "playersTotal": 142,
         "priceData": {
             "USD": {
                 "initial": 1299,
-                "final": 779,
-                "discountPercent": 40
+                "final": 1299,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1199,
-                "final": 719,
-                "discountPercent": 40
+                "final": 1199,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1039,
-                "final": 623,
-                "discountPercent": 40
+                "final": 1039,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 175000,
-                "final": 105000,
-                "discountPercent": 40
+                "final": 175000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1949,
-                "final": 1169,
-                "discountPercent": 40
+                "final": 1949,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1749,
-                "final": 1049,
-                "discountPercent": 40
+                "final": 1749,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -55959,7 +56013,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-07-22T14:49:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -56013,7 +56067,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2022-01-05T18:19:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -56067,7 +56121,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-05-15T17:14:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 14,
         "playersTotal": 372,
@@ -56121,7 +56175,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-07-24T17:09:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 35,
@@ -56175,7 +56229,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2023-04-11T01:11:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 15,
@@ -56229,7 +56283,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-01T18:58:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -56283,10 +56337,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:36:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 29,
-        "playersStarted": 239,
-        "playersTotal": 715,
+        "playersStarted": 240,
+        "playersTotal": 716,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -56337,7 +56391,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-20T17:12:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -56392,10 +56446,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-05-19T21:14:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 15,
-        "playersTotal": 329,
+        "playersTotal": 330,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -56446,7 +56500,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-24T15:04:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 2,
         "playersTotal": 91,
@@ -56500,10 +56554,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-08-28T17:19:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 21,
-        "playersTotal": 354,
+        "playersTotal": 355,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -56554,7 +56608,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-06T11:45:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 9,
         "playersTotal": 63,
@@ -56608,7 +56662,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-11-30T01:54:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 3,
         "playersTotal": 42,
@@ -56662,7 +56716,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-11T00:56:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -56716,10 +56770,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T04:25:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 80,
         "playersStarted": 12,
-        "playersTotal": 386,
+        "playersTotal": 387,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -56770,7 +56824,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-02-07T22:27:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -56824,7 +56878,7 @@ var data =
         "tier": 5,
         "points": 220,
         "createdAt": "2024-04-23T14:25:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 1,
         "playersTotal": 26,
@@ -56878,7 +56932,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-06-19T02:57:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -56932,10 +56986,10 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2024-06-11T04:25:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 17,
-        "playersTotal": 277,
+        "playersTotal": 278,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -56986,7 +57040,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-28T06:13:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 250,
@@ -57040,7 +57094,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-03-08T22:41:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -57094,7 +57148,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-11-10T06:23:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 17,
@@ -57148,7 +57202,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-09T19:43:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -57202,7 +57256,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-26T01:53:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -57256,10 +57310,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2025-02-01T04:39:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
-        "playersTotal": 19,
+        "playersTotal": 20,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -57310,7 +57364,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2025-05-16T00:16:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -57364,40 +57418,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T17:49:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 20,
         "priceData": {
             "USD": {
                 "initial": 1199,
-                "final": 359,
-                "discountPercent": 70
+                "final": 1199,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1199,
-                "final": 359,
-                "discountPercent": 70
+                "final": 1199,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 899,
-                "final": 269,
-                "discountPercent": 70
+                "final": 899,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 118000,
-                "final": 35400,
-                "discountPercent": 70
+                "final": 118000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1695,
-                "final": 508,
-                "discountPercent": 70
+                "final": 1695,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1299,
-                "final": 389,
-                "discountPercent": 70
+                "final": 1299,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -57418,7 +57472,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-30T01:53:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -57472,40 +57526,40 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2025-02-04T23:54:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 13,
         "priceData": {
             "USD": {
                 "initial": 3999,
-                "final": 3199,
-                "discountPercent": 20
+                "final": 3999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 3999,
-                "final": 3199,
-                "discountPercent": 20
+                "final": 3999,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 3499,
-                "final": 2799,
-                "discountPercent": 20
+                "final": 3499,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 598000,
-                "final": 478400,
-                "discountPercent": 20
+                "final": 598000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 5850,
-                "final": 4680,
-                "discountPercent": 20
+                "final": 5850,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 4999,
-                "final": 3999,
-                "discountPercent": 20
+                "final": 4999,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -57526,40 +57580,40 @@ var data =
         "tier": 5,
         "points": 260,
         "createdAt": "2023-04-12T14:35:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 19,
         "playersTotal": 151,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 399,
-                "discountPercent": 80
+                "final": 1999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1999,
-                "final": 399,
-                "discountPercent": 80
+                "final": 1999,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1799,
-                "final": 359,
-                "discountPercent": 80
+                "final": 1799,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 298000,
-                "final": 59600,
-                "discountPercent": 80
+                "final": 298000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 3000,
-                "final": 600,
-                "discountPercent": 80
+                "final": 3000,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 2519,
-                "final": 503,
-                "discountPercent": 80
+                "final": 2519,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -57581,7 +57635,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T17:47:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -57635,7 +57689,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2022-04-13T00:01:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 10,
@@ -57689,7 +57743,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-05-15T18:16:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -57743,7 +57797,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-23T21:12:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 262,
@@ -57797,7 +57851,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-07T19:03:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -57851,10 +57905,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:27:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 47,
-        "playersTotal": 460,
+        "playersTotal": 462,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -57905,7 +57959,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-07-29T19:17:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 113,
@@ -57959,40 +58013,40 @@ var data =
         "tier": 4,
         "points": 185,
         "createdAt": "2023-04-17T12:15:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 34,
         "playersTotal": 208,
         "priceData": {
             "USD": {
                 "initial": 3999,
-                "final": 3999,
-                "discountPercent": 0
+                "final": 1599,
+                "discountPercent": 60
             },
             "EUR": {
                 "initial": 3999,
-                "final": 3999,
-                "discountPercent": 0
+                "final": 1599,
+                "discountPercent": 60
             },
             "GBP": {
                 "initial": 3199,
-                "final": 3199,
-                "discountPercent": 0
+                "final": 1279,
+                "discountPercent": 60
             },
             "JPY": {
                 "initial": 418000,
-                "final": 418000,
-                "discountPercent": 0
+                "final": 167200,
+                "discountPercent": 60
             },
             "AUD": {
                 "initial": 5999,
-                "final": 5999,
-                "discountPercent": 0
+                "final": 2399,
+                "discountPercent": 60
             },
             "CAD": {
                 "initial": 4399,
-                "final": 4399,
-                "discountPercent": 0
+                "final": 1759,
+                "discountPercent": 60
             }
         },
         "milestones": {
@@ -58014,7 +58068,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-11-07T20:55:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -58068,10 +58122,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-01T06:24:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 162,
+        "playersTotal": 163,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -58123,7 +58177,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-01-26T18:31:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -58177,7 +58231,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T05:16:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 61,
@@ -58231,7 +58285,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-09-17T15:05:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 23,
@@ -58285,7 +58339,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T09:06:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 12,
         "playersTotal": 46,
@@ -58339,40 +58393,40 @@ var data =
         "tier": 2,
         "points": 27,
         "createdAt": "2024-11-29T23:18:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
-        "playersTotal": 22,
+        "playersTotal": 23,
         "priceData": {
             "USD": {
                 "initial": 799,
-                "final": 559,
-                "discountPercent": 30
+                "final": 799,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 779,
-                "final": 545,
-                "discountPercent": 30
+                "final": 779,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 669,
-                "final": 468,
-                "discountPercent": 30
+                "final": 669,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 92000,
-                "final": 64400,
-                "discountPercent": 30
+                "final": 92000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1179,
-                "final": 825,
-                "discountPercent": 30
+                "final": 1179,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1049,
-                "final": 734,
-                "discountPercent": 30
+                "final": 1049,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -58393,10 +58447,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-05-14T14:39:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 273,
+        "playersTotal": 274,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -58447,7 +58501,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-10-28T03:18:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -58501,10 +58555,10 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2025-02-15T22:10:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 263,
+        "playersTotal": 265,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -58555,7 +58609,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-02-12T14:25:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -58604,7 +58658,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-27T10:56:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -58658,7 +58712,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T19:33:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -58712,7 +58766,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T09:59:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 3,
         "playersTotal": 43,
@@ -58766,40 +58820,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-20T20:00:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 48,
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 249,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 399,
-                "final": 399,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 399,
-                "final": 399,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 52000,
-                "final": 52000,
-                "discountPercent": 0
+                "final": 26000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 750,
-                "final": 750,
-                "discountPercent": 0
+                "final": 375,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 569,
-                "final": 569,
-                "discountPercent": 0
+                "final": 284,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -58820,7 +58874,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-11-09T03:33:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 5,
         "playersTotal": 21,
@@ -58874,10 +58928,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-07-28T00:07:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 53,
-        "playersStarted": 201,
-        "playersTotal": 1065,
+        "playersStarted": 202,
+        "playersTotal": 1072,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -58929,7 +58983,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-25T20:07:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 187,
@@ -58983,40 +59037,40 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:24:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 212,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 149,
+                "discountPercent": 90
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 149,
+                "discountPercent": 90
             },
             "GBP": {
                 "initial": 1139,
-                "final": 1139,
-                "discountPercent": 0
+                "final": 113,
+                "discountPercent": 90
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 17000,
+                "discountPercent": 90
             },
             "AUD": {
                 "initial": 2195,
-                "final": 2195,
-                "discountPercent": 0
+                "final": 219,
+                "discountPercent": 90
             },
             "CAD": {
                 "initial": 1949,
-                "final": 1949,
-                "discountPercent": 0
+                "final": 194,
+                "discountPercent": 90
             }
         },
         "milestones": {
@@ -59037,7 +59091,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-05-07T01:54:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -59091,7 +59145,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-05-15T18:04:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -59145,7 +59199,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:53:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -59199,7 +59253,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-04-14T03:29:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -59253,40 +59307,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-05-18T15:43:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 52,
         "playersStarted": 0,
-        "playersTotal": 515,
+        "playersTotal": 516,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 1599,
-                "final": 1599,
-                "discountPercent": 0
+                "final": 319,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 205000,
-                "final": 205000,
-                "discountPercent": 0
+                "final": 41000,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 2895,
-                "final": 2895,
-                "discountPercent": 0
+                "final": 579,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 2299,
-                "final": 2299,
-                "discountPercent": 0
+                "final": 459,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -59307,7 +59361,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-07-19T05:54:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 15,
@@ -59361,7 +59415,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2021-06-24T21:07:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -59415,7 +59469,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:50:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 67,
@@ -59469,10 +59523,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-12-31T23:38:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 28,
+        "playersTotal": 29,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -59523,7 +59577,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-02-10T08:31:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -59577,7 +59631,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-05-21T23:38:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -59631,10 +59685,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:38:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
-        "playersTotal": 31,
+        "playersTotal": 32,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -59685,10 +59739,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-04-14T16:40:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 33,
         "playersStarted": 8,
-        "playersTotal": 341,
+        "playersTotal": 342,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -59734,10 +59788,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T09:25:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
-        "playersTotal": 520,
+        "playersTotal": 522,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -59788,10 +59842,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-18T22:46:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 40,
         "playersStarted": 0,
-        "playersTotal": 483,
+        "playersTotal": 485,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -59842,7 +59896,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-20T03:44:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 90,
@@ -59897,7 +59951,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-18T02:08:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 164,
@@ -59951,10 +60005,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-21T15:00:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 47,
         "playersStarted": 0,
-        "playersTotal": 407,
+        "playersTotal": 408,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -60005,7 +60059,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-10T06:38:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
         "playersTotal": 178,
@@ -60054,7 +60108,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:54:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 100,
@@ -60108,7 +60162,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-05-15T18:13:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -60162,7 +60216,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-09-07T22:20:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -60216,7 +60270,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-10-11T10:44:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 76,
@@ -60270,10 +60324,10 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2023-07-31T21:52:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
-        "playersTotal": 102,
+        "playersTotal": 103,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -60325,7 +60379,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:55:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 48,
         "playersStarted": 0,
         "playersTotal": 394,
@@ -60379,7 +60433,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-27T00:34:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -60433,7 +60487,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-05-13T20:53:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 63,
@@ -60487,10 +60541,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-11-15T20:33:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 51,
+        "playersTotal": 52,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -60541,7 +60595,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-10-14T14:46:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -60595,7 +60649,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-21T04:54:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 24,
@@ -60649,7 +60703,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-03-06T16:02:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -60703,7 +60757,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-04T04:02:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 97,
@@ -60757,7 +60811,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-09T00:35:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 20,
@@ -60811,7 +60865,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2022-04-20T15:38:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 81,
@@ -60865,7 +60919,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-05-18T16:13:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 52,
@@ -60919,7 +60973,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-15T17:55:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -60973,7 +61027,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-22T01:28:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -61027,10 +61081,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-03-30T01:33:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 65,
         "playersStarted": 0,
-        "playersTotal": 620,
+        "playersTotal": 621,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -61081,7 +61135,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-18T14:12:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 26,
@@ -61135,10 +61189,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:27:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 104,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 105,
         "playersStarted": 0,
-        "playersTotal": 700,
+        "playersTotal": 703,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -61189,10 +61243,10 @@ var data =
         "tier": 5,
         "points": 320,
         "createdAt": "2020-12-04T14:05:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 35,
         "playersStarted": 145,
-        "playersTotal": 461,
+        "playersTotal": 464,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -61243,10 +61297,10 @@ var data =
         "tier": 1,
         "points": 17,
         "createdAt": "2022-12-04T04:44:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
-        "playersTotal": 45,
+        "playersTotal": 46,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -61297,10 +61351,10 @@ var data =
         "tier": 6,
         "points": 420,
         "createdAt": "2021-12-27T00:19:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 43,
-        "playersTotal": 235,
+        "playersTotal": 236,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -61351,7 +61405,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2025-07-30T22:24:36.000Z",
-        "updatedAt": "2025-09-04T04:14:10.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -61406,7 +61460,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-25T01:02:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 32,
         "playersStarted": 0,
         "playersTotal": 75,
@@ -61460,7 +61514,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-18T06:35:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -61515,7 +61569,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-08-10T23:17:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 49,
@@ -61569,7 +61623,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-09-29T02:35:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 120,
@@ -61623,10 +61677,10 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:34:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 1,
-        "playersTotal": 360,
+        "playersTotal": 361,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -61677,7 +61731,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-06-13T10:42:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -61731,7 +61785,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2021-01-17T21:06:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -61785,7 +61839,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-06-05T16:53:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 4,
         "playersTotal": 58,
@@ -61839,7 +61893,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-16T05:54:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 28,
@@ -61888,7 +61942,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-02T09:34:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -61942,7 +61996,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:29:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
         "playersTotal": 130,
@@ -61996,40 +62050,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-27T21:19:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 6,
         "priceData": {
             "USD": {
                 "initial": 599,
-                "final": 599,
-                "discountPercent": 0
+                "final": 269,
+                "discountPercent": 55
             },
             "EUR": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 224,
+                "discountPercent": 55
             },
             "GBP": {
                 "initial": 479,
-                "final": 479,
-                "discountPercent": 0
+                "final": 215,
+                "discountPercent": 55
             },
             "JPY": {
                 "initial": 62000,
-                "final": 62000,
-                "discountPercent": 0
+                "final": 27900,
+                "discountPercent": 55
             },
             "AUD": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 382,
+                "discountPercent": 55
             },
             "CAD": {
                 "initial": 669,
-                "final": 669,
-                "discountPercent": 0
+                "final": 301,
+                "discountPercent": 55
             }
         },
         "milestones": {
@@ -62050,7 +62104,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:04:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
         "playersTotal": 169,
@@ -62104,7 +62158,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-04-02T19:21:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -62158,10 +62212,10 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T08:57:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 28,
-        "playersTotal": 254,
+        "playersTotal": 255,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -62213,7 +62267,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-07T01:09:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 52,
@@ -62267,10 +62321,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-12T20:20:15.000Z",
-        "updatedAt": "2025-09-04T18:15:58.000Z",
-        "playersCompleted": 109,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 110,
         "playersStarted": 0,
-        "playersTotal": 1175,
+        "playersTotal": 1182,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -62321,10 +62375,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-07-27T02:02:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 18,
+        "playersTotal": 19,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -62375,7 +62429,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-07T21:09:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 84,
@@ -62429,7 +62483,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2023-04-13T11:20:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 10,
@@ -62483,7 +62537,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-12-28T21:50:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 232,
@@ -62537,7 +62591,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-07T21:57:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 161,
@@ -62591,7 +62645,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-14T17:50:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 32,
         "playersStarted": 0,
         "playersTotal": 568,
@@ -62645,40 +62699,40 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-12-12T05:49:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 269,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 1139,
-                "final": 1139,
-                "discountPercent": 0
+                "final": 227,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 152000,
-                "final": 152000,
-                "discountPercent": 0
+                "final": 30400,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 2150,
-                "final": 2150,
-                "discountPercent": 0
+                "final": 430,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 1749,
-                "final": 1749,
-                "discountPercent": 0
+                "final": 349,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -62700,10 +62754,10 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2023-02-05T17:48:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 6,
-        "playersTotal": 63,
+        "playersTotal": 64,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -62755,7 +62809,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2023-10-13T02:54:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 6,
         "playersTotal": 17,
@@ -62809,10 +62863,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-13T06:32:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
-        "playersTotal": 91,
+        "playersTotal": 92,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -62863,7 +62917,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-03-04T23:12:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 2,
         "playersTotal": 81,
@@ -62917,10 +62971,10 @@ var data =
         "tier": 5,
         "points": 230,
         "createdAt": "2021-08-08T18:48:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
-        "playersStarted": 122,
-        "playersTotal": 212,
+        "playersStarted": 123,
+        "playersTotal": 213,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -62971,7 +63025,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:08:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -63025,7 +63079,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:51:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 54,
@@ -63079,10 +63133,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-09T19:42:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
-        "playersTotal": 261,
+        "playersTotal": 262,
         "priceData": {
             "USD": {
                 "initial": 4999,
@@ -63133,7 +63187,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2025-03-16T07:41:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -63187,7 +63241,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-09-08T20:26:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -63241,10 +63295,10 @@ var data =
         "tier": 4,
         "points": 105,
         "createdAt": "2022-09-03T03:39:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 29,
+        "playersTotal": 30,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -63295,7 +63349,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-18T21:19:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 113,
@@ -63349,10 +63403,10 @@ var data =
         "tier": 4,
         "points": 135,
         "createdAt": "2024-07-30T01:18:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 93,
+        "playersTotal": 94,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -63403,10 +63457,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-01T21:28:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 17,
+        "playersTotal": 18,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -63457,10 +63511,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-23T09:10:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 6,
+        "playersTotal": 7,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -63511,7 +63565,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:45:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 70,
@@ -63565,40 +63619,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-11-26T01:18:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 11,
         "priceData": {
             "USD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 324,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 324,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
+                "final": 274,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 150000,
-                "final": 150000,
-                "discountPercent": 0
+                "final": 37500,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 1895,
-                "final": 1895,
-                "discountPercent": 0
+                "final": 473,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 1699,
-                "final": 1699,
-                "discountPercent": 0
+                "final": 424,
+                "discountPercent": 75
             }
         },
         "milestones": {
@@ -63619,7 +63673,7 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2021-06-26T20:48:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 27,
         "playersTotal": 302,
@@ -63673,10 +63727,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-05-18T14:54:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 24,
-        "playersTotal": 294,
+        "playersTotal": 295,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -63727,40 +63781,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-27T17:54:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 44,
         "priceData": {
             "USD": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 349,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 689,
-                "final": 689,
-                "discountPercent": 0
+                "final": 344,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 589,
-                "final": 589,
-                "discountPercent": 0
+                "final": 294,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 80000,
-                "final": 80000,
-                "discountPercent": 0
+                "final": 40000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 1025,
-                "final": 1025,
-                "discountPercent": 0
+                "final": 512,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 899,
-                "final": 899,
-                "discountPercent": 0
+                "final": 449,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -63781,40 +63835,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-10T16:36:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 10,
         "priceData": {
             "USD": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 349,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 689,
-                "final": 689,
-                "discountPercent": 0
+                "final": 344,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 589,
-                "final": 589,
-                "discountPercent": 0
+                "final": 294,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 80000,
-                "final": 80000,
-                "discountPercent": 0
+                "final": 40000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 1025,
-                "final": 1025,
-                "discountPercent": 0
+                "final": 512,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 899,
-                "final": 899,
-                "discountPercent": 0
+                "final": 449,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -63835,7 +63889,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-08T13:32:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 86,
@@ -63889,7 +63943,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2023-05-13T20:45:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 5,
         "playersTotal": 34,
@@ -63943,7 +63997,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-21T04:00:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -63997,7 +64051,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-10T21:22:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -64051,40 +64105,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-06-21T17:25:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 112,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 899,
+                "discountPercent": 40
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 899,
+                "discountPercent": 40
             },
             "GBP": {
                 "initial": 1199,
-                "final": 1199,
-                "discountPercent": 0
+                "final": 719,
+                "discountPercent": 40
             },
             "JPY": {
                 "initial": 170000,
-                "final": 170000,
-                "discountPercent": 0
+                "final": 102000,
+                "discountPercent": 40
             },
             "AUD": {
                 "initial": 2249,
-                "final": 2249,
-                "discountPercent": 0
+                "final": 1349,
+                "discountPercent": 40
             },
             "CAD": {
                 "initial": 1799,
-                "final": 1799,
-                "discountPercent": 0
+                "final": 1079,
+                "discountPercent": 40
             }
         },
         "milestones": {
@@ -64105,7 +64159,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-07-14T11:55:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -64159,7 +64213,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-28T21:06:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 88,
@@ -64213,7 +64267,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-11-15T20:34:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 49,
         "playersStarted": 0,
         "playersTotal": 151,
@@ -64267,7 +64321,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-08-27T00:02:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 8,
         "playersTotal": 75,
@@ -64322,7 +64376,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-16T06:34:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
         "playersTotal": 23,
@@ -64376,7 +64430,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-03-29T02:49:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -64430,7 +64484,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-10T22:07:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -64484,7 +64538,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-07-07T11:20:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 8,
         "playersTotal": 52,
@@ -64538,7 +64592,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-26T01:52:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
         "playersTotal": 119,
@@ -64592,7 +64646,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2024-04-26T02:36:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 8,
@@ -64646,7 +64700,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-07T22:16:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -64700,10 +64754,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:23:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 462,
         "playersStarted": 0,
-        "playersTotal": 1097,
+        "playersTotal": 1099,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -64754,10 +64808,10 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2021-09-24T06:36:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 2,
-        "playersTotal": 74,
+        "playersTotal": 75,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -64808,10 +64862,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-07-22T01:18:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 63,
+        "playersTotal": 64,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -64862,10 +64916,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:34:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 35,
         "playersStarted": 3,
-        "playersTotal": 353,
+        "playersTotal": 355,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -64917,40 +64971,40 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-08-09T16:47:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 19,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 749,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 1249,
-                "final": 1249,
-                "discountPercent": 0
+                "final": 624,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 149900,
-                "final": 149900,
-                "discountPercent": 0
+                "final": 74900,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 1995,
-                "final": 1995,
-                "discountPercent": 0
+                "final": 997,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 1749,
-                "final": 1749,
-                "discountPercent": 0
+                "final": 874,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -64971,7 +65025,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-24T02:38:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -65025,7 +65079,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:07:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 19,
         "playersTotal": 98,
@@ -65079,7 +65133,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2021-10-25T00:33:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 1,
         "playersTotal": 53,
@@ -65133,7 +65187,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2021-08-08T17:42:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 29,
         "playersStarted": 15,
         "playersTotal": 269,
@@ -65187,10 +65241,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T06:33:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 71,
-        "playersStarted": 247,
-        "playersTotal": 1439,
+        "playersStarted": 249,
+        "playersTotal": 1443,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -65241,7 +65295,7 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2022-01-13T21:35:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 10,
         "playersTotal": 331,
@@ -65295,40 +65349,40 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-07-21T02:08:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 3,
         "playersTotal": 35,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 819,
-                "final": 819,
-                "discountPercent": 0
+                "final": 409,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 719,
-                "final": 719,
-                "discountPercent": 0
+                "final": 359,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 101000,
-                "final": 101000,
-                "discountPercent": 0
+                "final": 50500,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 725,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 1149,
-                "final": 1149,
-                "discountPercent": 0
+                "final": 574,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -65349,7 +65403,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-02-24T00:24:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 1,
         "playersTotal": 138,
@@ -65403,7 +65457,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-07-28T12:26:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 18,
@@ -65457,7 +65511,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-09-12T20:20:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -65511,7 +65565,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-05-22T04:45:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -65565,7 +65619,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:17:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 39,
         "playersStarted": 0,
         "playersTotal": 182,
@@ -65619,7 +65673,7 @@ var data =
         "tier": 2,
         "points": 50,
         "createdAt": "2025-03-02T18:18:39.000Z",
-        "updatedAt": "2025-08-18T20:26:36.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 2,
         "playersTotal": 13,
@@ -65673,7 +65727,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2024-08-19T16:48:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 9,
@@ -65727,7 +65781,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-08-01T16:37:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -65776,7 +65830,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-11-25T09:11:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -65831,7 +65885,7 @@ var data =
         "tier": 6,
         "points": 600,
         "createdAt": "2020-01-28T09:30:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 12,
         "playersTotal": 126,
@@ -65885,7 +65939,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-10-14T23:59:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -65939,7 +65993,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-07-21T05:25:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -65993,7 +66047,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-28T19:39:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -66047,10 +66101,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-07-09T11:13:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 58,
+        "playersTotal": 59,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -66101,10 +66155,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T08:09:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 167,
-        "playersStarted": 29,
-        "playersTotal": 722,
+        "playersStarted": 30,
+        "playersTotal": 724,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -66155,7 +66209,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-08-11T19:19:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
         "playersTotal": 206,
@@ -66210,10 +66264,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-02-29T21:42:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 69,
-        "playersTotal": 308,
+        "playersTotal": 310,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -66264,10 +66318,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-01-10T20:57:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 107,
         "playersStarted": 0,
-        "playersTotal": 549,
+        "playersTotal": 551,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -66318,7 +66372,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-19T20:53:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -66373,7 +66427,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-19T04:46:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 66,
@@ -66422,7 +66476,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-01T19:16:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 32,
         "playersStarted": 0,
         "playersTotal": 482,
@@ -66476,7 +66530,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-09-03T14:03:28.000Z",
-        "updatedAt": "2025-09-03T19:20:10.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -66530,7 +66584,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T09:15:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -66584,40 +66638,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-07-27T05:39:59.000Z",
-        "updatedAt": "2025-08-19T17:12:43.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 28,
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 524,
-                "discountPercent": 65
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1479,
-                "final": 517,
-                "discountPercent": 65
+                "final": 1479,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1279,
-                "final": 447,
-                "discountPercent": 65
+                "final": 1279,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 170000,
-                "final": 59500,
-                "discountPercent": 65
+                "final": 170000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2195,
-                "final": 768,
-                "discountPercent": 65
+                "final": 2195,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1949,
-                "final": 682,
-                "discountPercent": 65
+                "final": 1949,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -66639,40 +66693,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-18T20:29:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 23,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 95
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 95
             },
             "GBP": {
                 "initial": 1699,
-                "final": 1699,
-                "discountPercent": 0
+                "final": 84,
+                "discountPercent": 95
             },
             "JPY": {
                 "initial": 230000,
-                "final": 230000,
-                "discountPercent": 0
+                "final": 11500,
+                "discountPercent": 95
             },
             "AUD": {
                 "initial": 2950,
-                "final": 2950,
-                "discountPercent": 0
+                "final": 147,
+                "discountPercent": 95
             },
             "CAD": {
                 "initial": 2599,
-                "final": 2599,
-                "discountPercent": 0
+                "final": 129,
+                "discountPercent": 95
             }
         },
         "milestones": {
@@ -66694,10 +66748,10 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2023-11-10T05:17:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 242,
+        "playersTotal": 244,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -66748,7 +66802,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-05T11:39:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -66802,7 +66856,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-10-24T23:47:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 68,
@@ -66856,7 +66910,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2023-10-30T00:49:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -66910,40 +66964,40 @@ var data =
         "tier": 3,
         "points": 63,
         "createdAt": "2024-11-27T08:18:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 11,
         "playersTotal": 45,
         "priceData": {
             "USD": {
                 "initial": 4999,
-                "final": 3499,
-                "discountPercent": 30
+                "final": 4999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 4999,
-                "final": 3499,
-                "discountPercent": 30
+                "final": 4999,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 4499,
-                "final": 3149,
-                "discountPercent": 30
+                "final": 4499,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 657800,
-                "final": 460400,
-                "discountPercent": 30
+                "final": 657800,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 6995,
-                "final": 4896,
-                "discountPercent": 30
+                "final": 6995,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 6699,
-                "final": 4689,
-                "discountPercent": 30
+                "final": 6699,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -66965,7 +67019,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2022-03-21T01:35:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 87,
@@ -67019,7 +67073,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-06-09T18:29:37.000Z",
-        "updatedAt": "2025-08-20T22:01:43.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 116,
@@ -67073,10 +67127,10 @@ var data =
         "tier": 6,
         "points": 499,
         "createdAt": "2023-07-24T01:15:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 18,
-        "playersTotal": 202,
+        "playersTotal": 203,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -67128,7 +67182,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-08-11T19:19:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 8,
         "playersTotal": 63,
@@ -67182,7 +67236,7 @@ var data =
         "tier": 5,
         "points": 325,
         "createdAt": "2022-04-22T03:29:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 62,
@@ -67236,7 +67290,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-03-24T04:57:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -67290,7 +67344,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-12T12:39:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 1,
         "playersTotal": 34,
@@ -67344,10 +67398,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-01-22T11:02:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 25,
+        "playersTotal": 26,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -67398,7 +67452,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-20T15:55:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 9,
         "playersTotal": 39,
@@ -67452,7 +67506,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-05-13T18:46:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 12,
         "playersTotal": 96,
@@ -67506,40 +67560,40 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-09-25T21:35:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 85,
+        "playersTotal": 86,
         "priceData": {
             "USD": {
                 "initial": 199,
-                "final": 199,
-                "discountPercent": 0
+                "final": 59,
+                "discountPercent": 70
             },
             "EUR": {
                 "initial": 199,
-                "final": 199,
-                "discountPercent": 0
+                "final": 59,
+                "discountPercent": 70
             },
             "GBP": {
                 "initial": 169,
-                "final": 169,
-                "discountPercent": 0
+                "final": 50,
+                "discountPercent": 70
             },
             "JPY": {
                 "initial": 23500,
-                "final": 23500,
-                "discountPercent": 0
+                "final": 7000,
+                "discountPercent": 70
             },
             "AUD": {
                 "initial": 295,
-                "final": 295,
-                "discountPercent": 0
+                "final": 88,
+                "discountPercent": 70
             },
             "CAD": {
                 "initial": 259,
-                "final": 259,
-                "discountPercent": 0
+                "final": 77,
+                "discountPercent": 70
             }
         },
         "milestones": {
@@ -67560,7 +67614,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-04-09T20:06:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 8,
         "playersTotal": 51,
@@ -67614,7 +67668,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-04-16T22:54:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -67668,7 +67722,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2022-07-24T01:59:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 44,
@@ -67722,7 +67776,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:43:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -67776,7 +67830,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-18T13:49:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -67830,7 +67884,7 @@ var data =
         "tier": 5,
         "points": 290,
         "createdAt": "2024-11-27T06:46:55.000Z",
-        "updatedAt": "2025-08-16T20:19:06.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 12,
         "playersTotal": 37,
@@ -67885,7 +67939,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:44:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
         "playersTotal": 33,
@@ -67934,7 +67988,7 @@ var data =
         "tier": 6,
         "points": 600,
         "createdAt": "2021-09-02T00:55:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 88,
         "playersTotal": 291,
@@ -67988,7 +68042,7 @@ var data =
         "tier": 4,
         "points": 171,
         "createdAt": "2025-05-26T01:58:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 8,
         "playersTotal": 24,
@@ -68042,10 +68096,10 @@ var data =
         "tier": 2,
         "points": 27,
         "createdAt": "2025-08-19T05:58:29.000Z",
-        "updatedAt": "2025-08-19T16:37:47.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 10,
-        "playersTotal": 31,
+        "playersTotal": 33,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -68097,7 +68151,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2021-12-27T00:34:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 74,
@@ -68151,10 +68205,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-02-11T05:52:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 13,
+        "playersTotal": 14,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -68205,7 +68259,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-08-01T19:59:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 151,
@@ -68259,10 +68313,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-11-30T20:42:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 72,
-        "playersTotal": 426,
+        "playersTotal": 427,
         "priceData": {
             "USD": {
                 "initial": 399,
@@ -68313,7 +68367,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-10-25T00:02:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -68367,10 +68421,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-04-12T21:23:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 126,
         "playersStarted": 40,
-        "playersTotal": 772,
+        "playersTotal": 776,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -68422,7 +68476,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-07-05T04:12:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -68471,7 +68525,7 @@ var data =
         "tier": 4,
         "points": 125,
         "createdAt": "2023-12-26T14:43:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 25,
@@ -68525,7 +68579,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-07-27T08:19:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -68579,7 +68633,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-03T19:14:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 47,
@@ -68633,7 +68687,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-09T21:48:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -68687,7 +68741,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2024-09-07T22:11:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 84,
@@ -68741,10 +68795,10 @@ var data =
         "tier": 5,
         "points": 350,
         "createdAt": "2020-01-28T09:36:45.000Z",
-        "updatedAt": "2025-08-29T00:59:35.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
-        "playersStarted": 136,
-        "playersTotal": 722,
+        "playersStarted": 138,
+        "playersTotal": 724,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -68781,7 +68835,7 @@ var data =
             "primary": 4,
             "primaryText": "Iron God[260\u2605 (Partial: 70\u2605)]\nComplete the main game with zero deaths.\n\nSuper Mega Player [45\u2605]\nComplete The Super Mega Cart with 1000 rings. / Complete The Super Mega Cart without dying.\n\nUnbreakable [25\u2605]\nSeparately; finish all glitch carts without dying.\n\nUndying [20\u2605]\nBeat the full game and all carts.",
             "community": 7,
-            "communityText": "Apocalypse Collector\nComplete the game without dying while obtaining all collectibles.\n\nIt's Not Glitched, You Just Gotta Blow In It\nComplete all glitch carts in a row without dying (in any order).\n\nKing of the Cart\nCollect all rings in the Super Mega Cart without dying.\n\nMade of Cancer\nComplete an any% deathless run without using quit to menu.\n\nMetastatic Survivor\nComplete each chapter (separately) without dying and while collecting everything (including carts and mega tumors).\n\nSpike Tales - Unbreakable-er\nComplete Spike Tales without dying and without using any skips.\n\nThe End is Now\nObtain 152% completion on a save file without dying.",
+            "communityText": "The End is Now\nObtain 152% completion on a save file without dying.\n\nApocalypse Collector\nComplete the game without dying while obtaining all collectibles.\n\nMetastatic Survivor\nComplete each chapter (separately) without dying and while collecting everything (including carts and mega tumors).\n\nMade of Cancer\nComplete an any% deathless run without using quit to menu.\n\nIt's Not Glitched, You Just Gotta Blow In It\nComplete all glitch carts in a row without dying (in any order).\n\nKing of the Cart\nCollect all rings in the Super Mega Cart without dying.\n\nSpike Tales - Unbreakable-er\nComplete Spike Tales without dying and without using any skips.",
             "achievements": 106
         }
     },
@@ -68795,7 +68849,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2024-06-15T00:19:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 29,
@@ -68849,7 +68903,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2023-05-13T21:09:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 3,
         "playersTotal": 212,
@@ -68903,7 +68957,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-11-10T05:19:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 150,
@@ -68957,7 +69011,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2025-08-16T17:22:08.000Z",
-        "updatedAt": "2025-08-16T22:36:02.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 5,
@@ -69011,7 +69065,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-27T04:42:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -69065,7 +69119,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2024-09-20T14:14:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 10,
@@ -69119,7 +69173,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:05:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
         "playersTotal": 276,
@@ -69173,7 +69227,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-08-15T00:33:30.000Z",
-        "updatedAt": "2025-08-17T11:38:48.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -69227,7 +69281,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-02-29T22:17:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -69281,7 +69335,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-06-17T18:41:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -69335,7 +69389,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-02-07T22:27:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 71,
@@ -69389,7 +69443,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-07-18T02:37:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -69443,10 +69497,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:11:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 109,
         "playersStarted": 0,
-        "playersTotal": 471,
+        "playersTotal": 474,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -69498,40 +69552,40 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-02-22T20:15:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 103,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 1950,
-                "final": 1950,
-                "discountPercent": 0
+                "final": 390,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 1675,
-                "final": 1675,
-                "discountPercent": 0
+                "final": 335,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 230000,
-                "final": 230000,
-                "discountPercent": 0
+                "final": 46000,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 2950,
-                "final": 2950,
-                "discountPercent": 0
+                "final": 590,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 2599,
-                "final": 2599,
-                "discountPercent": 0
+                "final": 519,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -69552,7 +69606,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-10-24T23:53:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 110,
@@ -69606,40 +69660,40 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-03-30T00:23:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 31,
+        "playersTotal": 32,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 975,
-                "final": 975,
-                "discountPercent": 0
+                "final": 487,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 425,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "final": 60000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 725,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 649,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -69660,7 +69714,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-20T02:18:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -69714,7 +69768,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2025-08-15T00:47:37.000Z",
-        "updatedAt": "2025-08-16T22:36:02.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 8,
@@ -69768,7 +69822,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-12-24T14:43:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -69822,7 +69876,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2025-09-03T00:18:48.000Z",
-        "updatedAt": "2025-09-03T04:49:48.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 0,
@@ -69876,10 +69930,10 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2020-01-28T09:22:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 14,
-        "playersTotal": 203,
+        "playersTotal": 204,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -69930,10 +69984,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-17T01:51:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 266,
+        "playersTotal": 267,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -69984,10 +70038,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T05:37:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 207,
+        "playersTotal": 208,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -70038,10 +70092,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:51:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 52,
         "playersStarted": 0,
-        "playersTotal": 404,
+        "playersTotal": 406,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -70092,40 +70146,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-04T10:18:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 45,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 249,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 249,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 212,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "final": 30000,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 362,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 324,
+                "discountPercent": 75
             }
         },
         "milestones": {
@@ -70146,10 +70200,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-30T05:58:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 207,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 208,
         "playersStarted": 0,
-        "playersTotal": 724,
+        "playersTotal": 727,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -70200,7 +70254,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-06-09T19:47:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 32,
@@ -70254,10 +70308,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-03T23:55:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 3,
-        "playersTotal": 56,
+        "playersTotal": 57,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -70308,10 +70362,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:40:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 3,
-        "playersTotal": 434,
+        "playersTotal": 437,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -70362,7 +70416,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-04-14T11:36:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 312,
@@ -70416,7 +70470,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:50:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 38,
         "playersStarted": 0,
         "playersTotal": 280,
@@ -70470,7 +70524,7 @@ var data =
         "tier": 6,
         "points": 475,
         "createdAt": "2024-02-07T03:40:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 55,
         "playersTotal": 115,
@@ -70525,7 +70579,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-07-09T19:29:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 30,
@@ -70579,10 +70633,10 @@ var data =
         "tier": 4,
         "points": 170,
         "createdAt": "2020-01-28T09:54:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 42,
-        "playersTotal": 269,
+        "playersTotal": 270,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -70633,7 +70687,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-17T23:13:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -70687,7 +70741,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:13:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -70741,7 +70795,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-05T09:09:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
         "playersTotal": 95,
@@ -70795,7 +70849,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-06-19T17:02:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 65,
@@ -70849,7 +70903,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-11T22:03:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -70903,7 +70957,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2025-01-19T03:48:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 4,
@@ -70957,10 +71011,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-04-14T16:35:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 208,
+        "playersTotal": 209,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -71011,7 +71065,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-06-07T03:11:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 49,
@@ -71065,7 +71119,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-06-09T19:37:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 33,
@@ -71119,7 +71173,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2020-01-28T09:23:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 57,
@@ -71173,40 +71227,40 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-25T22:10:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 17,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 1675,
-                "final": 1675,
-                "discountPercent": 0
+                "final": 418,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 230000,
-                "final": 230000,
-                "discountPercent": 0
+                "final": 57500,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 2950,
-                "final": 2950,
-                "discountPercent": 0
+                "final": 737,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 2599,
-                "final": 2599,
-                "discountPercent": 0
+                "final": 649,
+                "discountPercent": 75
             }
         },
         "milestones": {
@@ -71227,10 +71281,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T08:38:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 69,
-        "playersStarted": 12,
-        "playersTotal": 990,
+        "playersStarted": 13,
+        "playersTotal": 993,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -71281,7 +71335,7 @@ var data =
         "tier": 5,
         "points": 250,
         "createdAt": "2021-10-24T18:05:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 9,
         "playersTotal": 99,
@@ -71335,7 +71389,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2021-09-11T08:05:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 1,
         "playersTotal": 24,
@@ -71389,10 +71443,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-06-21T07:54:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 34,
+        "playersTotal": 35,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -71443,7 +71497,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-09-24T06:14:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 104,
@@ -71497,7 +71551,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-12-13T03:02:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -71552,7 +71606,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-08T00:23:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -71606,7 +71660,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-12-18T15:45:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 124,
@@ -71660,7 +71714,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T10:02:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 22,
         "playersStarted": 10,
         "playersTotal": 192,
@@ -71714,40 +71768,40 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-04-29T17:50:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 28,
         "priceData": {
             "USD": {
                 "initial": 1199,
-                "final": 1199,
-                "discountPercent": 0
+                "final": 179,
+                "discountPercent": 85
             },
             "EUR": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 149,
+                "discountPercent": 85
             },
             "GBP": {
                 "initial": 929,
-                "final": 929,
-                "discountPercent": 0
+                "final": 139,
+                "discountPercent": 85
             },
             "JPY": {
                 "initial": 122000,
-                "final": 122000,
-                "discountPercent": 0
+                "final": 18300,
+                "discountPercent": 85
             },
             "AUD": {
                 "initial": 1695,
-                "final": 1695,
-                "discountPercent": 0
+                "final": 254,
+                "discountPercent": 85
             },
             "CAD": {
                 "initial": 1349,
-                "final": 1349,
-                "discountPercent": 0
+                "final": 202,
+                "discountPercent": 85
             }
         },
         "milestones": {
@@ -71768,10 +71822,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-07-30T00:56:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 55,
+        "playersTotal": 56,
         "priceData": {
             "USD": {
                 "initial": 1099,
@@ -71822,10 +71876,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-07-23T05:09:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 45,
+        "playersTotal": 46,
         "priceData": {
             "USD": {
                 "initial": 1099,
@@ -71876,7 +71930,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-12-08T01:16:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 9,
         "playersTotal": 73,
@@ -71930,7 +71984,7 @@ var data =
         "tier": 3,
         "points": 52,
         "createdAt": "2024-10-09T07:37:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 8,
         "playersTotal": 64,
@@ -71984,7 +72038,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-08-19T01:38:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 13,
         "playersTotal": 97,
@@ -72038,7 +72092,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-18T05:59:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 2,
         "playersTotal": 26,
@@ -72093,10 +72147,10 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2023-01-12T07:04:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 11,
-        "playersTotal": 74,
+        "playersTotal": 75,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -72147,7 +72201,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-02-14T00:13:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 5,
         "playersTotal": 24,
@@ -72201,10 +72255,10 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2023-04-14T22:43:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 8,
-        "playersTotal": 50,
+        "playersTotal": 51,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -72255,10 +72309,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-01-08T21:57:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 7,
-        "playersTotal": 62,
+        "playersTotal": 63,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -72309,10 +72363,10 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2023-06-27T00:26:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 16,
-        "playersTotal": 86,
+        "playersTotal": 87,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -72363,7 +72417,7 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2023-11-20T03:51:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 6,
         "playersTotal": 46,
@@ -72417,10 +72471,10 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-12-17T23:53:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 8,
-        "playersTotal": 56,
+        "playersTotal": 57,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -72471,10 +72525,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-04-01T08:05:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 2,
-        "playersTotal": 67,
+        "playersTotal": 68,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -72525,7 +72579,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-01-05T01:14:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -72579,10 +72633,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-08-28T07:22:40.000Z",
-        "updatedAt": "2025-08-31T06:36:59.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
-        "playersTotal": 22,
+        "playersTotal": 26,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -72633,10 +72687,10 @@ var data =
         "tier": 4,
         "points": 175,
         "createdAt": "2020-06-09T19:24:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 17,
-        "playersTotal": 248,
+        "playersTotal": 250,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -72687,7 +72741,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-09-24T06:03:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 2,
         "playersTotal": 46,
@@ -72737,7 +72791,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2023-03-13T23:27:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 8,
         "playersTotal": 70,
@@ -72792,7 +72846,7 @@ var data =
         "tier": 7,
         "points": 1100,
         "createdAt": "2023-03-14T12:35:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 12,
         "playersTotal": 63,
@@ -72846,7 +72900,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-03-05T19:56:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 2,
         "playersTotal": 74,
@@ -72900,7 +72954,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-03-08T00:55:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 2,
         "playersTotal": 38,
@@ -72954,7 +73008,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-07-13T21:32:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 6,
         "playersTotal": 160,
@@ -73008,7 +73062,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-08-29T07:21:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 4,
         "playersTotal": 79,
@@ -73062,7 +73116,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-26T22:50:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -73116,7 +73170,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-26T11:04:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 33,
@@ -73170,7 +73224,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-11-17T10:48:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 73,
@@ -73224,40 +73278,40 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2025-02-26T07:45:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 89,
         "priceData": {
             "USD": {
-                "initial": 3499,
-                "final": 1399,
-                "discountPercent": 60
+                "initial": 2999,
+                "final": 2999,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 3499,
-                "final": 1399,
-                "discountPercent": 60
+                "initial": 2999,
+                "final": 2999,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 2999,
-                "final": 1199,
-                "discountPercent": 60
+                "initial": 2499,
+                "final": 2499,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 399900,
-                "final": 159900,
-                "discountPercent": 60
+                "initial": 349900,
+                "final": 349900,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 5195,
-                "final": 2078,
-                "discountPercent": 60
+                "initial": 4495,
+                "final": 4495,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 4499,
-                "final": 1799,
-                "discountPercent": 60
+                "initial": 3899,
+                "final": 3899,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -73279,7 +73333,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2022-05-18T16:54:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 3,
         "playersTotal": 60,
@@ -73328,7 +73382,7 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2022-02-05T23:51:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 22,
         "playersStarted": 26,
         "playersTotal": 173,
@@ -73383,7 +73437,7 @@ var data =
         "tier": 6,
         "points": 400,
         "createdAt": "2022-02-05T23:47:27.000Z",
-        "updatedAt": "2025-08-17T16:01:26.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 29,
         "playersTotal": 204,
@@ -73438,7 +73492,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:41:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -73492,7 +73546,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-02-14T06:48:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 48,
@@ -73546,10 +73600,10 @@ var data =
         "tier": 7,
         "points": 800,
         "createdAt": "2022-03-24T18:58:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 46,
-        "playersTotal": 297,
+        "playersTotal": 299,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -73601,10 +73655,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-10-24T17:28:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 45,
         "playersStarted": 0,
-        "playersTotal": 365,
+        "playersTotal": 366,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -73655,7 +73709,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2025-08-27T20:23:53.000Z",
-        "updatedAt": "2025-08-31T00:32:00.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 4,
@@ -73709,7 +73763,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-05-13T18:00:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 37,
         "playersStarted": 0,
         "playersTotal": 243,
@@ -73763,7 +73817,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-07-22T22:52:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -73817,10 +73871,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-09-25T21:48:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 100,
+        "playersTotal": 101,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -73871,10 +73925,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-04-14T03:13:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 123,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 127,
         "playersStarted": 0,
-        "playersTotal": 242,
+        "playersTotal": 246,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -73925,7 +73979,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-20T03:36:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 80,
@@ -73979,7 +74033,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-01-08T13:03:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -74033,7 +74087,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2024-01-23T14:24:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 18,
@@ -74087,7 +74141,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-09-13T22:47:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 39,
@@ -74142,7 +74196,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-10T15:49:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 7,
         "playersTotal": 34,
@@ -74196,7 +74250,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-04-13T17:58:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -74250,7 +74304,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-06-09T18:59:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 19,
         "playersTotal": 144,
@@ -74299,10 +74353,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T18:56:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 87,
+        "playersTotal": 89,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -74353,10 +74407,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-06-01T09:51:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 86,
+        "playersTotal": 87,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -74407,10 +74461,10 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2024-12-17T08:51:03.000Z",
-        "updatedAt": "2025-08-15T23:19:51.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 4,
-        "playersTotal": 111,
+        "playersTotal": 113,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -74462,7 +74516,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-11-10T05:14:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 6,
         "playersTotal": 28,
@@ -74516,10 +74570,10 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2024-09-08T22:04:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 161,
+        "playersTotal": 162,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -74571,7 +74625,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-05-06T14:41:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 40,
@@ -74626,7 +74680,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-03-20T09:48:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
         "playersTotal": 168,
@@ -74680,7 +74734,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2023-03-23T09:53:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 35,
@@ -74734,7 +74788,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T09:31:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 155,
@@ -74788,7 +74842,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-09T20:23:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 201,
@@ -74842,7 +74896,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-09T15:48:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -74896,10 +74950,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-25T20:19:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 490,
+        "playersTotal": 493,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -74950,10 +75004,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-26T23:52:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 161,
+        "playersTotal": 162,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -75004,10 +75058,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2021-12-02T02:30:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 226,
+        "playersTotal": 227,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -75058,10 +75112,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-10-19T00:56:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 96,
+        "playersTotal": 97,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -75112,10 +75166,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-19T20:15:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 69,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 70,
         "playersStarted": 0,
-        "playersTotal": 235,
+        "playersTotal": 236,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -75166,10 +75220,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:19:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
-        "playersTotal": 88,
+        "playersTotal": 89,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -75220,7 +75274,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-08-19T04:32:43.000Z",
-        "updatedAt": "2025-08-31T07:49:07.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -75274,7 +75328,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-28T19:58:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 83,
@@ -75328,7 +75382,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-07T17:37:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 34,
@@ -75382,7 +75436,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-19T02:41:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -75436,7 +75490,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-10-11T03:03:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 41,
@@ -75490,7 +75544,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-01-17T22:24:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 133,
@@ -75544,10 +75598,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:32:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
-        "playersTotal": 316,
+        "playersTotal": 317,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -75598,7 +75652,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-31T07:23:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 46,
@@ -75652,7 +75706,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-05-01T19:45:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 198,
@@ -75706,7 +75760,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:34:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 24,
         "playersTotal": 216,
@@ -75760,7 +75814,7 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2022-10-05T00:26:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 5,
         "playersTotal": 81,
@@ -75814,7 +75868,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-18T23:33:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -75868,10 +75922,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-06-09T19:45:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 56,
         "playersStarted": 0,
-        "playersTotal": 151,
+        "playersTotal": 152,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -75922,10 +75976,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T09:55:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
-        "playersTotal": 194,
+        "playersTotal": 195,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -75976,40 +76030,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-02-05T04:46:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 59,
         "priceData": {
             "USD": {
                 "initial": 1299,
-                "final": 259,
-                "discountPercent": 80
+                "final": 1299,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1279,
-                "final": 255,
-                "discountPercent": 80
+                "final": 1279,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1099,
-                "final": 219,
-                "discountPercent": 80
+                "final": 1099,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 150000,
-                "final": 30000,
-                "discountPercent": 80
+                "final": 150000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1895,
-                "final": 379,
-                "discountPercent": 80
+                "final": 1895,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1699,
-                "final": 339,
-                "discountPercent": 80
+                "final": 1699,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -76030,10 +76084,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-14T23:59:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 143,
+        "playersTotal": 144,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -76084,10 +76138,10 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2020-01-28T07:36:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 50,
         "playersStarted": 24,
-        "playersTotal": 398,
+        "playersTotal": 399,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -76138,7 +76192,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-04-08T10:20:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -76192,7 +76246,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2024-04-13T21:08:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 7,
         "playersTotal": 65,
@@ -76246,7 +76300,7 @@ var data =
         "tier": 1,
         "points": 18,
         "createdAt": "2024-06-26T00:44:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 22,
@@ -76300,10 +76354,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-05-23T04:12:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 35,
         "playersStarted": 7,
-        "playersTotal": 121,
+        "playersTotal": 122,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -76354,10 +76408,10 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2024-03-08T04:06:30.000Z",
-        "updatedAt": "2025-08-20T10:25:10.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 103,
+        "playersTotal": 105,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -76409,10 +76463,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-07-14T23:40:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 10,
-        "playersTotal": 259,
+        "playersTotal": 260,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -76464,10 +76518,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:32:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
-        "playersTotal": 209,
+        "playersTotal": 210,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -76518,7 +76572,7 @@ var data =
         "tier": 4,
         "points": 115,
         "createdAt": "2024-03-24T01:18:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 8,
@@ -76573,7 +76627,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2022-10-11T23:50:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 39,
@@ -76627,10 +76681,10 @@ var data =
         "tier": 4,
         "points": 100,
         "createdAt": "2020-01-28T09:32:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 62,
-        "playersStarted": 96,
-        "playersTotal": 1102,
+        "playersStarted": 97,
+        "playersTotal": 1105,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -76681,7 +76735,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-05-05T00:17:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 14,
@@ -76735,10 +76789,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-18T22:05:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 17,
+        "playersTotal": 18,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -76789,7 +76843,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-27T20:35:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 37,
@@ -76843,10 +76897,10 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2024-10-29T04:12:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 134,
+        "playersTotal": 135,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -76897,10 +76951,10 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2024-10-14T14:53:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 471,
+        "playersTotal": 473,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -76951,7 +77005,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-11-10T05:18:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 6,
         "playersTotal": 34,
@@ -77005,10 +77059,10 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2020-01-28T10:01:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 283,
+        "playersTotal": 284,
         "priceData": {
             "USD": {
                 "initial": 199,
@@ -77059,10 +77113,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:17:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
-        "playersTotal": 87,
+        "playersTotal": 88,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -77113,7 +77167,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-05T14:36:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 24,
@@ -77167,7 +77221,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-04T08:15:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -77221,7 +77275,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-12-22T20:58:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 116,
@@ -77275,7 +77329,7 @@ var data =
         "tier": 4,
         "points": 185,
         "createdAt": "2023-07-16T20:24:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 10,
         "playersTotal": 75,
@@ -77329,7 +77383,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-04-11T01:10:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 54,
@@ -77383,7 +77437,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-04-11T01:11:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 43,
@@ -77437,7 +77491,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-19T00:43:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 18,
@@ -77491,7 +77545,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-12-04T02:03:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -77545,7 +77599,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-18T03:01:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 22,
@@ -77599,7 +77653,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2025-02-26T08:30:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -77653,7 +77707,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-12T03:38:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -77707,40 +77761,40 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-05-26T01:38:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 8,
         "playersTotal": 51,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1199,
-                "discountPercent": 40
+                "final": 1999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1949,
-                "final": 1169,
-                "discountPercent": 40
+                "final": 1949,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1675,
-                "final": 1005,
-                "discountPercent": 40
+                "final": 1675,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 230000,
-                "final": 138000,
-                "discountPercent": 40
+                "final": 230000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2950,
-                "final": 1770,
-                "discountPercent": 40
+                "final": 2950,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 2599,
-                "final": 1559,
-                "discountPercent": 40
+                "final": 2599,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -77762,10 +77816,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-03-17T00:17:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 25,
         "playersStarted": 2,
-        "playersTotal": 171,
+        "playersTotal": 172,
         "priceData": {
             "USD": {
                 "initial": 1099,
@@ -77816,7 +77870,7 @@ var data =
         "tier": 4,
         "points": 145,
         "createdAt": "2020-01-28T09:25:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 33,
         "playersTotal": 309,
@@ -77870,10 +77924,10 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-09-13T17:43:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
-        "playersTotal": 31,
+        "playersTotal": 32,
         "priceData": {
             "USD": {
                 "initial": 199,
@@ -77924,10 +77978,10 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-03-21T05:20:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 64,
+        "playersTotal": 65,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -77979,7 +78033,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-04-15T13:47:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 4,
         "playersTotal": 72,
@@ -78033,40 +78087,40 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-09T10:30:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 11,
         "priceData": {
             "USD": {
                 "initial": 1399,
-                "final": 769,
-                "discountPercent": 45
+                "final": 1399,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1379,
-                "final": 758,
-                "discountPercent": 45
+                "final": 1379,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1179,
-                "final": 648,
-                "discountPercent": 45
+                "final": 1179,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 160000,
-                "final": 88000,
-                "discountPercent": 45
+                "final": 160000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2050,
-                "final": 1127,
-                "discountPercent": 45
+                "final": 2050,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1799,
-                "final": 989,
-                "discountPercent": 45
+                "final": 1799,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -78087,7 +78141,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2020-01-28T08:34:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 39,
@@ -78141,10 +78195,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T08:21:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 84,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 85,
         "playersStarted": 0,
-        "playersTotal": 545,
+        "playersTotal": 547,
         "priceData": {
             "USD": {
                 "initial": 1599,
@@ -78195,7 +78249,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-06-21T09:28:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -78250,7 +78304,7 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2020-01-28T08:12:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 25,
         "playersStarted": 4,
         "playersTotal": 297,
@@ -78304,40 +78358,40 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-10-02T14:32:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 36,
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 975,
-                "final": 975,
-                "discountPercent": 0
+                "final": 487,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 425,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "final": 60000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 725,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 649,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -78358,7 +78412,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-02-26T08:37:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -78412,10 +78466,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-05-18T05:40:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 38,
         "playersStarted": 0,
-        "playersTotal": 337,
+        "playersTotal": 338,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -78466,10 +78520,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-04T21:19:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 5,
+        "playersTotal": 6,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -78520,10 +78574,10 @@ var data =
         "tier": 4,
         "points": 110,
         "createdAt": "2022-08-20T20:06:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 5,
-        "playersTotal": 50,
+        "playersTotal": 51,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -78574,7 +78628,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-01-28T08:10:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 101,
@@ -78629,7 +78683,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-25T20:01:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 6,
         "playersTotal": 36,
@@ -78683,7 +78737,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-08T18:12:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 103,
@@ -78737,7 +78791,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-01-28T08:35:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 315,
@@ -78791,7 +78845,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-09T14:11:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -78845,7 +78899,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-20T20:39:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -78899,40 +78953,40 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-07-26T16:58:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
-        "playersTotal": 444,
+        "playersTotal": 446,
         "priceData": {
             "USD": {
                 "initial": 2999,
-                "final": 599,
-                "discountPercent": 80
+                "final": 2999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1999,
-                "final": 399,
-                "discountPercent": 80
+                "final": 1999,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1499,
-                "final": 299,
-                "discountPercent": 80
+                "final": 1499,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 298000,
-                "final": 59600,
-                "discountPercent": 80
+                "final": 298000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 3995,
-                "final": 799,
-                "discountPercent": 80
+                "final": 3995,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 3299,
-                "final": 659,
-                "discountPercent": 80
+                "final": 3299,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -78953,40 +79007,40 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2022-07-25T16:16:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 10,
-        "playersTotal": 462,
+        "playersTotal": 465,
         "priceData": {
             "USD": {
                 "initial": 5999,
-                "final": 5999,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 95
             },
             "EUR": {
                 "initial": 4999,
-                "final": 4999,
-                "discountPercent": 0
+                "final": 249,
+                "discountPercent": 95
             },
             "GBP": {
                 "initial": 3499,
-                "final": 3499,
-                "discountPercent": 0
+                "final": 174,
+                "discountPercent": 95
             },
             "JPY": {
                 "initial": 700000,
-                "final": 700000,
-                "discountPercent": 0
+                "final": 35000,
+                "discountPercent": 95
             },
             "AUD": {
                 "initial": 8995,
-                "final": 8995,
-                "discountPercent": 0
+                "final": 449,
+                "discountPercent": 95
             },
             "CAD": {
                 "initial": 7999,
-                "final": 7999,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 95
             }
         },
         "milestones": {
@@ -79007,7 +79061,7 @@ var data =
         "tier": 2,
         "points": 26,
         "createdAt": "2023-01-23T15:32:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
         "playersTotal": 21,
@@ -79061,10 +79115,10 @@ var data =
         "tier": 2,
         "points": 37,
         "createdAt": "2020-06-09T18:39:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 18,
-        "playersTotal": 86,
+        "playersTotal": 87,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -79115,7 +79169,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-08-10T23:41:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -79169,10 +79223,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-02-09T12:20:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 230,
+        "playersTotal": 234,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -79223,7 +79277,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-01-15T08:33:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 3,
         "playersTotal": 71,
@@ -79277,7 +79331,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-06-21T22:04:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 3,
         "playersTotal": 44,
@@ -79331,7 +79385,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-05-22T03:05:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 9,
         "playersTotal": 27,
@@ -79385,7 +79439,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-11-22T05:21:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 72,
@@ -79439,7 +79493,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-01-28T09:10:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 25,
         "playersStarted": 40,
         "playersTotal": 396,
@@ -79493,7 +79547,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:48:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 31,
@@ -79547,7 +79601,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-10-13T06:36:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
         "playersTotal": 22,
@@ -79601,10 +79655,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-09-24T06:06:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 186,
+        "playersTotal": 187,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -79655,7 +79709,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-05-07T23:33:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 56,
@@ -79709,10 +79763,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-01-12T07:03:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 3,
-        "playersTotal": 34,
+        "playersTotal": 36,
         "priceData": {
             "USD": {
                 "initial": 1099,
@@ -79763,10 +79817,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-25T19:48:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 46,
         "playersStarted": 0,
-        "playersTotal": 158,
+        "playersTotal": 159,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -79817,10 +79871,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-06-25T20:11:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 31,
         "playersStarted": 0,
-        "playersTotal": 157,
+        "playersTotal": 158,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -79871,10 +79925,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T08:42:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 206,
+        "playersTotal": 209,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -79925,7 +79979,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-04-22T19:11:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 94,
@@ -79979,10 +80033,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T15:34:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 0,
-        "playersTotal": 91,
+        "playersTotal": 92,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -80033,10 +80087,10 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2020-01-28T08:40:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
-        "playersTotal": 154,
+        "playersTotal": 155,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -80087,7 +80141,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-01-08T20:54:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -80142,7 +80196,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-10-09T20:54:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 3,
         "playersTotal": 21,
@@ -80196,7 +80250,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-07-08T22:22:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 145,
@@ -80250,7 +80304,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2024-12-07T09:38:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 29,
@@ -80304,7 +80358,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2025-01-09T17:01:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -80358,7 +80412,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-10-13T06:47:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -80412,10 +80466,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-11-10T21:04:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 3,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 55,
+        "playersTotal": 56,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -80454,7 +80508,8 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 26
-        }
+        },
+        "information": "Achievements may not trigger. Check that \"steam:1\" shows up at the bottom of your screen while debug mode is enabled at the start of your gameplay session."
     },
     {
         "gameType": 0,
@@ -80466,7 +80521,7 @@ var data =
         "tier": 3,
         "points": 41,
         "createdAt": "2022-12-06T06:06:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 58,
@@ -80520,10 +80575,10 @@ var data =
         "tier": 1,
         "points": 17,
         "createdAt": "2024-08-18T16:20:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
-        "playersTotal": 8,
+        "playersTotal": 9,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -80574,10 +80629,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T08:48:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
-        "playersStarted": 55,
-        "playersTotal": 150,
+        "playersStarted": 56,
+        "playersTotal": 151,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -80628,7 +80683,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2021-10-15T03:55:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 236,
@@ -80682,7 +80737,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-08-04T21:34:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -80736,7 +80791,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-12-06T13:56:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -80790,7 +80845,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2023-05-14T17:35:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 68,
@@ -80844,7 +80899,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2022-04-01T20:05:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 7,
         "playersTotal": 230,
@@ -80898,7 +80953,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2021-07-05T21:47:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 63,
@@ -80952,7 +81007,7 @@ var data =
         "tier": 1,
         "points": 7,
         "createdAt": "2023-11-30T20:56:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 23,
@@ -81006,10 +81061,10 @@ var data =
         "tier": 4,
         "points": 155,
         "createdAt": "2021-12-14T00:31:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 36,
+        "playersTotal": 37,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -81060,7 +81115,7 @@ var data =
         "tier": 4,
         "points": 130,
         "createdAt": "2024-08-09T22:58:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
         "playersTotal": 25,
@@ -81114,7 +81169,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2022-11-24T21:29:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -81168,7 +81223,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2025-04-14T21:39:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 3,
         "playersTotal": 11,
@@ -81223,7 +81278,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-07-28T23:25:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -81277,7 +81332,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-07-27T08:06:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -81331,10 +81386,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-04-14T12:26:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
-        "playersTotal": 127,
+        "playersTotal": 129,
         "priceData": {
             "USD": {
                 "initial": 899,
@@ -81385,10 +81440,10 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2020-01-28T08:59:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
-        "playersTotal": 143,
+        "playersTotal": 145,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -81439,7 +81494,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-07-28T23:25:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -81493,7 +81548,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-30T08:21:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -81547,7 +81602,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2025-02-08T17:45:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -81602,7 +81657,7 @@ var data =
         "tier": 0,
         "points": 0,
         "createdAt": "2022-11-30T16:47:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 207,
         "playersStarted": 0,
         "playersTotal": 207,
@@ -81625,7 +81680,7 @@ var data =
         "tier": 0,
         "points": 0,
         "createdAt": "2023-05-03T11:07:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 226,
         "playersStarted": 0,
         "playersTotal": 226,
@@ -81648,7 +81703,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-01-08T15:24:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 118,
@@ -81670,7 +81725,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-08-26T18:49:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 32,
         "playersStarted": 0,
         "playersTotal": 185,
@@ -81692,7 +81747,7 @@ var data =
         "tier": 3,
         "points": 65,
         "createdAt": "2020-01-28T08:11:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 12,
         "playersTotal": 216,
@@ -81714,7 +81769,7 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2023-02-01T12:59:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 7,
         "playersTotal": 124,
@@ -81737,7 +81792,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-09-07T08:59:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 104,
@@ -81760,10 +81815,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-12-22T16:57:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 83,
         "playersStarted": 0,
-        "playersTotal": 232,
+        "playersTotal": 233,
         "milestones": {
             "primary": 1,
             "primaryText": "You Like Kissing Ghosts, Don't You? [5\u2605]\nBeat all levels on Hard mode.",
@@ -81782,7 +81837,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-01-23T21:28:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 288,
@@ -81805,7 +81860,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-06T17:48:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 82,
@@ -81827,7 +81882,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-28T23:42:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 27,
         "playersTotal": 154,
@@ -81849,7 +81904,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-21T22:55:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 59,
@@ -81871,7 +81926,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2025-02-22T18:50:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 72,
@@ -81894,7 +81949,7 @@ var data =
         "tier": 5,
         "points": 200,
         "createdAt": "2022-11-28T01:59:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 8,
         "playersTotal": 150,
@@ -81916,7 +81971,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-10-31T03:50:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 41,
         "playersStarted": 0,
         "playersTotal": 513,
@@ -81938,7 +81993,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-12-06T06:06:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 133,
@@ -81961,10 +82016,10 @@ var data =
         "tier": 6,
         "points": 425,
         "createdAt": "2020-01-28T03:10:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 13,
-        "playersTotal": 144,
+        "playersTotal": 145,
         "milestones": {
             "primary": 3,
             "primaryText": "Cloudberry King [100\u2605]\nBeat the normal version of level 320.\n\nApex Masochism [300\u2605]\nBeat the normal version of level 319.\n\nBerry Cloudy with No Chance of Victory [25\u2605]\nReach level 319.",
@@ -81984,7 +82039,7 @@ var data =
         "tier": 0,
         "points": 0,
         "createdAt": "2022-07-23T23:19:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 81,
         "playersStarted": 0,
         "playersTotal": 81,
@@ -82006,7 +82061,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-12-22T21:22:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 112,
@@ -82028,10 +82083,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-01-29T17:51:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 35,
         "playersStarted": 0,
-        "playersTotal": 247,
+        "playersTotal": 249,
         "milestones": {
             "primary": 1,
             "primaryText": "Crrrrrazy Taxi! [10\u2605]\nProve yourself.",
@@ -82050,10 +82105,10 @@ var data =
         "tier": 5,
         "points": 234,
         "createdAt": "2020-03-14T13:25:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 7,
-        "playersTotal": 200,
+        "playersTotal": 201,
         "milestones": {
             "primary": 8,
             "primaryText": "Unlimited Unlimited (UNCLEARED) [1\u2605]\nComplete Unlimited mode on Arcade difficulty with all ships (no stage restarts or continues).\n\nUnlimited Limit Boosted (UNCLEARED) [1\u2605]\nComplete Boost mode on Arcade difficulty with all ships (no stage restarts or continues).\n\nUnlimited Limited (UNCLEARED) [1\u2605]\nComplete Original mode on Arcade difficulty with all ships (no stage restarts or continues).\n\nUnlimited Time-Limited (UNCLEARED) [1\u2605]\nGet Master++ rank in Time Attack mode on Arcade difficulty with all ships.\n\nUnlimited Clear [130\u2605]\nClear UNLIMITED mode (no stage restarts or continues).\n\nBoost Clear [40\u2605]\nClear the BOOST mode in ARCADE difficulty (no stage restarts or continues).\n\nOriginal Clear [40\u2605]\nClear the ORIGINAL mode in ARCADE difficulty (no stage restarts or continues).\n\nTime Attack Master [20\u2605]\nReach the highest ranking in TIME ATTACK.",
@@ -82073,7 +82128,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-04-27T01:27:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
         "playersTotal": 125,
@@ -82095,7 +82150,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-03-25T01:22:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 91,
@@ -82117,7 +82172,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2020-01-28T09:42:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 86,
         "playersStarted": 0,
         "playersTotal": 264,
@@ -82139,7 +82194,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-26T15:15:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 53,
@@ -82161,7 +82216,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-04-08T08:40:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 102,
@@ -82183,10 +82238,10 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-06-14T15:07:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 160,
         "playersStarted": 0,
-        "playersTotal": 662,
+        "playersTotal": 663,
         "milestones": {
             "primary": 1,
             "primaryText": "Sword in the Hole [20\u2605]\nComplete the game in under 3 minutes and 30 seconds.",
@@ -82205,10 +82260,10 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2020-01-28T09:15:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 25,
         "playersStarted": 0,
-        "playersTotal": 178,
+        "playersTotal": 179,
         "milestones": {
             "primary": 1,
             "primaryText": "Cosmonautio [25\u2605]\nComplete the game in less than 35 minutes. / Finish the game in hard mode.",
@@ -82227,7 +82282,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-09T22:11:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 118,
@@ -82249,7 +82304,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2022-12-11T01:08:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 27,
@@ -82271,7 +82326,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-10-02T04:47:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 121,
@@ -82293,7 +82348,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-03T17:37:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -82315,7 +82370,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-09-02T10:11:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 26,
         "playersStarted": 0,
         "playersTotal": 287,
@@ -82337,7 +82392,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2021-08-19T13:12:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 150,
@@ -82359,10 +82414,10 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2024-08-01T03:53:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 2,
-        "playersTotal": 104,
+        "playersTotal": 106,
         "milestones": {
             "primary": 3,
             "primaryText": "eXceeded [70\u2605]\nGet a 1CC on EXCEED difficulty, including the extra stage.\n\nThe Undead Lord [10\u2605]\nGet a 1CC on Normal difficulty or higher, including the extra stage.\n\nSurviving the Tournament [5\u2605]\nGet a 1CC on Normal difficulty or higher.",
@@ -82382,7 +82437,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-02-23T17:17:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 112,
@@ -82404,7 +82459,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-03-02T03:53:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 94,
         "playersStarted": 0,
         "playersTotal": 226,
@@ -82426,7 +82481,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:36:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
         "playersTotal": 247,
@@ -82448,7 +82503,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2022-08-20T20:02:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 9,
         "playersTotal": 153,
@@ -82470,10 +82525,10 @@ var data =
         "tier": 5,
         "points": 260,
         "createdAt": "2022-02-28T01:41:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 7,
-        "playersTotal": 143,
+        "playersTotal": 144,
         "milestones": {
             "primary": 4,
             "primaryText": "Super Nova [150\u2605]\nDefeat Elixier Daath in Demonic Mode.\n\nSolaris [60\u2605]\nComplete all relevant Play Orders.\n\nBlack Hole[30\u2605 (Partial: 20\u2605)]\nReach Zone X in Ain Soph Aur mode and defeat Lotus Blacker.\n\nAndromeda [20\u2605]\nComplete Mission Mode and Matrix Orders Mode.",
@@ -82493,7 +82548,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-09T18:46:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 62,
@@ -82515,10 +82570,10 @@ var data =
         "tier": 4,
         "points": 145,
         "createdAt": "2022-06-27T02:28:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 12,
-        "playersTotal": 127,
+        "playersTotal": 128,
         "milestones": {
             "primary": 5,
             "primaryText": "Doll Master [75\u2605]\nDefeat the true last boss in a full run on \"Doomsday\" difficulty.\n\nEndless Possibilities [30\u2605]\nFinish the game in Solo Voyage mode with every doll.\n\nEven if the world ends... [20\u2605]\nFinish the game on \"Doomsday\" difficulty.\n\nNot An Unlucky Number [15\u2605]\nFinish the game in Destiny 13 mode.\n\nPhantastique Tea Party [5\u2605]\nDefeat the true last boss.",
@@ -82538,10 +82593,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-11-25T16:32:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 66,
         "playersStarted": 0,
-        "playersTotal": 507,
+        "playersTotal": 508,
         "milestones": {
             "primary": 1,
             "primaryText": "I Wanna be the Challenge Enthusiast [5\u2605]\nSeparately; 100% the campaign and defeat the final boss without getting hit.",
@@ -82561,7 +82616,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2022-06-01T23:22:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 38,
@@ -82583,8 +82638,8 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-18T01:25:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 5,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 73,
         "milestones": {
@@ -82605,7 +82660,7 @@ var data =
         "tier": 3,
         "points": 70,
         "createdAt": "2021-10-04T04:52:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
         "playersTotal": 300,
@@ -82627,10 +82682,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-06-09T23:27:55.000Z",
-        "updatedAt": "2025-08-16T20:30:44.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 55,
+        "playersTotal": 56,
         "milestones": {
             "primary": 1,
             "primaryText": "The Boogeyman [5\u2605]\nEarn the Baba Yaga name in all levels.",
@@ -82650,7 +82705,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2021-08-10T17:35:12.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 69,
@@ -82672,7 +82727,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-10-16T01:52:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 23,
@@ -82694,7 +82749,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-06-09T18:44:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 12,
         "playersTotal": 233,
@@ -82716,7 +82771,7 @@ var data =
         "tier": 7,
         "points": 1000,
         "createdAt": "2022-02-18T00:44:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 58,
         "playersTotal": 387,
@@ -82739,7 +82794,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2022-04-04T15:54:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 1,
         "playersTotal": 144,
@@ -82761,10 +82816,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-12-16T23:07:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 156,
+        "playersTotal": 157,
         "milestones": {
             "primary": 1,
             "primaryText": "Japari Safari [10\u2605]\nObtain the blue hitless badge on every stage.",
@@ -82783,7 +82838,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-05-25T21:21:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 102,
         "playersStarted": 0,
         "playersTotal": 526,
@@ -82805,7 +82860,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2024-03-28T21:15:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 93,
@@ -82827,10 +82882,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2023-06-18T17:22:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 17,
-        "playersTotal": 671,
+        "playersTotal": 675,
         "milestones": {
             "primary": 2,
             "primaryText": "What the Actual Muck? [10\u2605]\nSeparately, beat the game with all players using only a rock as their weapon and tool, and without picking up any power-ups (any difficulty). / Beat the game alone without taking damage on at least \u201cNormal\u201d difficulty. \n\nSwift Escape [5\u2605]\nBeat the game in less than 10 days on \"Gamer\" difficulty. / Beat the game in less than 8 days (any difficulty). ",
@@ -82849,7 +82904,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2024-09-07T20:11:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 60,
@@ -82871,10 +82926,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-12T16:38:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 29,
         "playersStarted": 0,
-        "playersTotal": 193,
+        "playersTotal": 194,
         "milestones": {
             "primary": 1,
             "primaryText": "We Have Geometry Dash at Home [5\u2605]\nComplete all levels quickly, without dying, and with all collectibles.",
@@ -82893,7 +82948,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T08:04:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 78,
         "playersStarted": 0,
         "playersTotal": 302,
@@ -82915,10 +82970,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2023-01-29T19:52:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
-        "playersTotal": 391,
+        "playersTotal": 393,
         "milestones": {
             "primary": 1,
             "primaryText": "Dreamweaver [5\u2605]\nClear all stages with A rank.",
@@ -82938,7 +82993,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-08-01T03:17:22.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 25,
@@ -82960,10 +83015,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-12-21T08:37:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
-        "playersTotal": 169,
+        "playersTotal": 170,
         "milestones": {
             "primary": 1,
             "primaryText": "Can We Get Cable? [5\u2605]\nComplete all continents with high frequencies.",
@@ -82982,7 +83037,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:14:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 37,
         "playersStarted": 0,
         "playersTotal": 231,
@@ -83004,7 +83059,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-22T20:14:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 0,
         "playersTotal": 170,
@@ -83026,10 +83081,10 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-11-12T17:36:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 64,
         "playersStarted": 0,
-        "playersTotal": 336,
+        "playersTotal": 337,
         "milestones": {
             "primary": 1,
             "primaryText": "Peggle Novice [5\u2605]\nClear all of the pegs in every level. / Complete all challenges.",
@@ -83048,10 +83103,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2020-01-28T09:33:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 43,
         "playersStarted": 7,
-        "playersTotal": 358,
+        "playersTotal": 359,
         "milestones": {
             "primary": 3,
             "primaryText": "Phantom Immortality [50\u2605]\nBeat each world without dying.\n\nPhantom Speed [20\u2605]\nObtain an S rank on every normal and secret level.\n\nPhantom Completion [10\u2605]\nBeat the game and the bonus world.",
@@ -83070,7 +83125,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T03:59:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 79,
         "playersStarted": 0,
         "playersTotal": 269,
@@ -83093,7 +83148,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2022-04-30T14:20:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 109,
@@ -83116,7 +83171,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-12-02T01:12:46.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 127,
@@ -83138,7 +83193,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2020-01-28T09:59:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 35,
         "playersStarted": 0,
         "playersTotal": 339,
@@ -83160,7 +83215,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-09T18:48:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 100,
@@ -83182,7 +83237,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-06-09T18:15:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -83204,10 +83259,10 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2021-10-25T22:02:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 592,
+        "playersTotal": 595,
         "milestones": {
             "primary": 1,
             "primaryText": "End of Nightmare [80\u2605]\nBeat the game in an unseeded Keter difficulty run in single player without using the console or mods. Quit to menu is banned in the non-Steam version.",
@@ -83227,7 +83282,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2022-04-02T23:22:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 35,
         "playersStarted": 0,
         "playersTotal": 355,
@@ -83249,7 +83304,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-08-06T16:08:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 3,
         "playersTotal": 137,
@@ -83271,7 +83326,7 @@ var data =
         "tier": 2,
         "points": 21,
         "createdAt": "2025-04-14T03:30:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 37,
@@ -83293,7 +83348,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-07-09T03:30:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 1,
         "playersTotal": 124,
@@ -83315,10 +83370,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-11-10T05:20:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 49,
-        "playersTotal": 380,
+        "playersTotal": 381,
         "milestones": {
             "primary": 2,
             "primaryText": "Birthday Blaster [5\u2605]\nGet all S ranks on the challenge missions.\n\nWhen Generations Collide [5\u2605]\nProve yourself.",
@@ -83337,7 +83392,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2020-01-28T09:39:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 65,
         "playersStarted": 0,
         "playersTotal": 243,
@@ -83359,7 +83414,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-04-03T20:55:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 92,
         "playersStarted": 0,
         "playersTotal": 564,
@@ -83381,7 +83436,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2023-01-29T17:23:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 11,
@@ -83403,7 +83458,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2022-11-15T16:33:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 15,
         "playersTotal": 148,
@@ -83426,7 +83481,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2022-01-03T21:11:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 64,
         "playersStarted": 0,
         "playersTotal": 310,
@@ -83448,7 +83503,7 @@ var data =
         "tier": 4,
         "points": 190,
         "createdAt": "2020-02-06T03:13:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 7,
         "playersTotal": 135,
@@ -83471,10 +83526,10 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2023-08-07T21:59:32.000Z",
-        "updatedAt": "2025-08-19T04:56:41.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
-        "playersTotal": 258,
+        "playersTotal": 262,
         "milestones": {
             "primary": 1,
             "primaryText": "In Awe of your Crateness [10\u2605]\nObtain 100% of the unlocks.",
@@ -83494,7 +83549,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-04-10T16:16:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 100,
@@ -83516,7 +83571,7 @@ var data =
         "tier": 4,
         "points": 180,
         "createdAt": "2024-02-25T03:47:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 5,
         "playersTotal": 113,
@@ -83539,7 +83594,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-18T16:08:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -83561,7 +83616,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-04T08:12:29.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 51,
@@ -83583,7 +83638,7 @@ var data =
         "tier": 4,
         "points": 120,
         "createdAt": "2021-09-07T20:19:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
         "playersTotal": 184,
@@ -83605,7 +83660,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-01-24T14:17:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 75,
@@ -83627,7 +83682,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-12-04T20:09:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 64,
@@ -83649,7 +83704,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-08T15:27:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 128,
@@ -83671,7 +83726,7 @@ var data =
         "tier": 3,
         "points": 60,
         "createdAt": "2020-08-23T22:25:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
         "playersTotal": 257,
@@ -83693,7 +83748,7 @@ var data =
         "tier": 3,
         "points": 50,
         "createdAt": "2023-02-09T04:23:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 13,
         "playersTotal": 138,
@@ -83715,7 +83770,7 @@ var data =
         "tier": 5,
         "points": 353,
         "createdAt": "2023-02-03T22:26:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 15,
         "playersTotal": 482,
@@ -83738,10 +83793,10 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2023-02-20T00:40:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 10,
-        "playersTotal": 526,
+        "playersTotal": 528,
         "milestones": {
             "primary": 2,
             "primaryText": "The Definition of Insanity [15\u2605]\nObtain all E track Author Medals.\n\nStadium Stan [25\u2605]\nObtain the Author Medal on all A through D tracks.",
@@ -83761,7 +83816,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-05T02:50:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
         "playersTotal": 88,
@@ -83783,10 +83838,10 @@ var data =
         "tier": 4,
         "points": 85,
         "createdAt": "2022-09-08T21:07:10.000Z",
-        "updatedAt": "2025-08-31T20:37:31.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 13,
-        "playersTotal": 605,
+        "playersTotal": 606,
         "milestones": {
             "primary": 3,
             "primaryText": "Try Your Best to Hold Onto Sanity [65\u2605]\nComplete 50/20 mode.\n\nWe Open Real Soon [10\u2605]\nComplete a run scoring at least 9000 points. (Complete 45/20 mode)\n\nJoin the Animatronic Family [10\u2605]\nBeat all challenges.",
@@ -83806,7 +83861,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-01-03T14:47:59.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 124,
@@ -83828,7 +83883,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-08-11T00:32:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 63,
@@ -83850,7 +83905,7 @@ var data =
         "tier": 6,
         "points": 400,
         "createdAt": "2024-03-19T18:22:07.000Z",
-        "updatedAt": "2025-08-30T00:02:53.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 5,
         "playersTotal": 387,
@@ -83873,7 +83928,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-06-10T01:14:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 88,
@@ -83895,7 +83950,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-07-18T02:02:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 69,
@@ -83917,7 +83972,7 @@ var data =
         "tier": 2,
         "points": 36,
         "createdAt": "2022-12-22T04:12:48.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 5,
         "playersTotal": 102,
@@ -83939,7 +83994,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-29T05:17:47.000Z",
-        "updatedAt": "2025-08-19T05:02:43.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
         "playersTotal": 107,
@@ -83961,7 +84016,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2023-06-28T21:30:17.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 14,
         "playersTotal": 139,
@@ -83983,10 +84038,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2020-01-28T09:02:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
-        "playersStarted": 154,
-        "playersTotal": 616,
+        "playersStarted": 155,
+        "playersTotal": 618,
         "milestones": {
             "primary": 2,
             "primaryText": "You Have to Be the Gamer [10\u2605]\nBeat the game in YOLO Mode on Extra Spicy difficulty.\n\nYou Have to Wear the Sunglasses [5\u2605]\nBeat the game in YOLO Mode.",
@@ -84005,7 +84060,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2021-12-01T04:39:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
         "playersTotal": 191,
@@ -84027,7 +84082,7 @@ var data =
         "tier": 2,
         "points": 34,
         "createdAt": "2024-06-07T21:10:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 83,
@@ -84050,7 +84105,7 @@ var data =
         "tier": 1,
         "points": 12,
         "createdAt": "2024-01-21T16:43:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 125,
@@ -84072,10 +84127,10 @@ var data =
         "tier": 4,
         "points": 196,
         "createdAt": "2023-05-10T17:20:14.000Z",
-        "updatedAt": "2025-08-27T17:18:49.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 14,
-        "playersTotal": 154,
+        "playersTotal": 155,
         "milestones": {
             "primary": 6,
             "primaryText": "Fantastic Reap (UNCLEARED) [1\u2605]\nBeat the game on Lunatic or Higher without dying and bombing, while capturing all spells.\n\nRiddle Me This [80\u2605]\nBeat the Lunatic Extra mode without dying and bombing, while capturing all spells.\n\nUndefined Rad Ability [50\u2605]\nBeat the game on Ura without using continues.\n\nOverharvested [40\u2605]\nCapture all Overdrive spellcards.\n\nBountiful Day [20\u2605]\nBeat the game on Lunatic or higher without using continues. / Beat the Lunatic Extra mode.\n\nSilent Night [5\u2605]\n Beat the game on Normal or higher without using continues. / Beat the Extra mode or higher.",
@@ -84094,7 +84149,7 @@ var data =
         "tier": 4,
         "points": 132,
         "createdAt": "2023-03-23T16:40:58.000Z",
-        "updatedAt": "2025-08-27T17:59:24.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 7,
         "playersTotal": 143,
@@ -84117,7 +84172,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-13T22:05:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -84139,7 +84194,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-08T20:34:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -84162,7 +84217,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-10T09:28:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -84184,7 +84239,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-11T18:05:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -84206,7 +84261,7 @@ var data =
         "tier": 5,
         "points": 210,
         "createdAt": "2024-08-26T14:12:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 9,
@@ -84229,7 +84284,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-08T20:30:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 8,
@@ -84251,7 +84306,7 @@ var data =
         "tier": 1,
         "points": 7,
         "createdAt": "2024-07-18T04:31:01.000Z",
-        "updatedAt": "2025-09-04T19:26:35.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -84273,7 +84328,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-21T20:57:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -84295,7 +84350,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-09-07T17:41:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -84317,7 +84372,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-24T20:03:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -84339,7 +84394,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-10-15T16:47:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -84361,7 +84416,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-30T01:43:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -84383,7 +84438,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-07-30T18:56:32.000Z",
-        "updatedAt": "2025-09-02T18:07:48.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -84405,7 +84460,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-29T04:06:06.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -84427,7 +84482,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-25T02:42:00.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -84449,7 +84504,7 @@ var data =
         "tier": 3,
         "points": 45,
         "createdAt": "2024-05-31T20:33:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -84471,7 +84526,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-06-08T22:02:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 10,
@@ -84493,7 +84548,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-05-08T20:43:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 3,
@@ -84515,7 +84570,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-23T17:33:38.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -84537,7 +84592,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-18T21:43:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -84559,7 +84614,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2025-04-15T04:45:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 6,
@@ -84582,7 +84637,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T18:21:29.000Z",
-        "updatedAt": "2025-08-23T16:59:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -84605,7 +84660,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-08-23T16:55:18.000Z",
-        "updatedAt": "2025-08-23T16:58:38.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -84627,7 +84682,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-06-27T12:37:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -84649,7 +84704,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-05-08T21:00:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -84671,7 +84726,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2025-08-02T09:22:39.000Z",
-        "updatedAt": "2025-08-16T03:14:53.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -84693,7 +84748,7 @@ var data =
         "tier": 2,
         "points": 31,
         "createdAt": "2025-04-14T03:37:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -84715,7 +84770,7 @@ var data =
         "tier": 2,
         "points": 22,
         "createdAt": "2025-06-28T08:08:27.000Z",
-        "updatedAt": "2025-08-26T17:17:12.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -84738,7 +84793,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-10-15T16:30:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -84760,7 +84815,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-09-07T21:49:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -84782,7 +84837,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-07T22:01:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -84804,7 +84859,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T20:27:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -84826,7 +84881,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-21T22:15:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -84849,7 +84904,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-21T22:48:13.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -84872,7 +84927,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T21:21:16.000Z",
-        "updatedAt": "2025-08-27T23:05:24.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -84894,7 +84949,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2025-08-23T16:30:25.000Z",
-        "updatedAt": "2025-08-23T16:35:20.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -84916,7 +84971,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-14T19:14:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -84938,7 +84993,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-06-19T23:31:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -84960,7 +85015,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-12-23T17:18:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 6,
@@ -84982,7 +85037,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-06-19T23:38:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 9,
@@ -85004,7 +85059,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-07-10T21:49:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -85026,7 +85081,7 @@ var data =
         "tier": 3,
         "points": 61,
         "createdAt": "2025-05-15T17:03:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
         "playersTotal": 7,
@@ -85048,7 +85103,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-11T18:00:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -85070,7 +85125,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-06-28T04:15:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -85092,7 +85147,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-09-08T21:27:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -85115,7 +85170,7 @@ var data =
         "tier": 1,
         "points": 11,
         "createdAt": "2024-05-08T20:49:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 1,
@@ -85138,7 +85193,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-19T03:32:19.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 2,
@@ -85160,7 +85215,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-05T00:29:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -85182,7 +85237,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-20T12:48:39.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -85204,7 +85259,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-05-08T21:05:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -85226,7 +85281,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-12-06T01:15:58.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -85248,7 +85303,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-16T00:44:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -85270,8 +85325,8 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-09T14:33:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
-        "playersCompleted": 1,
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
         "milestones": {
@@ -85292,7 +85347,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-07-20T21:04:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 1,
         "playersTotal": 19,
@@ -85315,7 +85370,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-07-21T04:59:30.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 1,
         "playersTotal": 15,
@@ -85338,7 +85393,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-07-29T14:33:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 13,
@@ -85360,7 +85415,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2025-08-01T05:44:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -85382,7 +85437,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-13T06:36:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 11,
@@ -85404,7 +85459,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-07-27T05:27:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -85426,7 +85481,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-08-01T17:55:34.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -85448,7 +85503,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-15T15:47:01.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -85470,7 +85525,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-15T16:15:23.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -85492,7 +85547,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-08-11T16:42:09.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -85514,7 +85569,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T22:19:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -85536,7 +85591,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2025-02-10T09:04:41.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 2,
@@ -85558,7 +85613,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-26T08:47:07.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -85580,7 +85635,7 @@ var data =
         "tier": 4,
         "points": 150,
         "createdAt": "2025-07-17T03:32:49.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 4,
@@ -85603,7 +85658,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-05-08T20:52:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 16,
@@ -85625,7 +85680,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-09T14:40:16.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -85647,7 +85702,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-15T07:51:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -85670,7 +85725,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-18T02:13:18.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -85692,7 +85747,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-04T06:59:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 19,
@@ -85714,7 +85769,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-18T03:54:53.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
         "playersTotal": 20,
@@ -85737,7 +85792,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-07-05T04:17:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 0,
@@ -85759,7 +85814,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-07T05:05:32.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -85781,7 +85836,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2024-05-11T17:56:13.000Z",
-        "updatedAt": "2025-08-21T18:00:03.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 9,
@@ -85803,7 +85858,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-09T15:07:14.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 6,
@@ -85825,7 +85880,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-04T07:53:47.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -85847,7 +85902,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-21T05:31:03.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -85869,10 +85924,10 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-07T19:23:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 26,
+        "playersTotal": 27,
         "milestones": {
             "primary": 1,
             "primaryText": "Frontier Conqueror [15\u2605]\nObtain all Gold symbols from the Battle Frontier.",
@@ -85891,7 +85946,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-08-12T16:29:35.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 18,
@@ -85914,7 +85969,7 @@ var data =
         "tier": 3,
         "points": 40,
         "createdAt": "2024-05-10T15:42:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -85936,7 +85991,7 @@ var data =
         "tier": 4,
         "points": 80,
         "createdAt": "2024-05-20T03:57:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -85958,7 +86013,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-09-07T19:31:40.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -85980,7 +86035,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-11-09T06:03:05.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -86002,7 +86057,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-05-08T21:09:20.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -86024,7 +86079,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2024-06-07T04:57:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -86047,7 +86102,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-07T21:27:21.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -86069,7 +86124,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-12-18T21:23:15.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -86091,7 +86146,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-28T22:55:28.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -86113,7 +86168,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-28T20:08:42.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -86135,7 +86190,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-07-27T07:59:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -86157,7 +86212,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-01-19T08:33:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -86179,7 +86234,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2024-11-09T05:49:44.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -86201,7 +86256,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-08-10T21:12:31.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -86223,7 +86278,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-08-24T17:18:39.000Z",
-        "updatedAt": "2025-08-24T17:23:06.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -86246,7 +86301,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2025-02-10T08:42:52.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -86269,7 +86324,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2025-01-19T08:35:11.000Z",
-        "updatedAt": "2025-08-30T20:43:50.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 2,
@@ -86292,7 +86347,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-01-24T20:43:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -86314,7 +86369,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T20:39:43.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 15,
@@ -86336,7 +86391,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-05-08T20:34:56.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 10,
@@ -86359,7 +86414,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-06-08T19:53:54.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
@@ -86381,7 +86436,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-05-16T05:25:57.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -86403,7 +86458,7 @@ var data =
         "tier": 2,
         "points": 35,
         "createdAt": "2024-07-30T12:59:04.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 6,
         "playersTotal": 38,
@@ -86425,7 +86480,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-31T14:01:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
         "playersTotal": 12,
@@ -86447,7 +86502,7 @@ var data =
         "tier": 5,
         "points": 286,
         "createdAt": "2024-07-22T16:48:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 7,
         "playersTotal": 12,
@@ -86470,7 +86525,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-05T20:12:26.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -86492,7 +86547,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-09-07T17:21:50.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -86514,7 +86569,7 @@ var data =
         "tier": 1,
         "points": 16,
         "createdAt": "2024-05-09T14:24:02.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 6,
@@ -86536,7 +86591,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-10-16T00:32:25.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -86558,7 +86613,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-07-28T19:53:10.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 7,
@@ -86580,7 +86635,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2025-08-08T03:38:08.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 0,
@@ -86602,7 +86657,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-10-17T23:03:36.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -86624,7 +86679,7 @@ var data =
         "tier": 2,
         "points": 25,
         "createdAt": "2024-10-22T18:59:11.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 11,
@@ -86646,7 +86701,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-07-29T14:12:37.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -86669,7 +86724,7 @@ var data =
         "tier": 2,
         "points": 30,
         "createdAt": "2024-05-11T18:08:45.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -86691,7 +86746,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-10-18T05:15:27.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -86713,7 +86768,7 @@ var data =
         "tier": 1,
         "points": 15,
         "createdAt": "2024-08-01T20:50:33.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
@@ -86735,7 +86790,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2024-05-08T21:15:55.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 5,
@@ -86758,7 +86813,7 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2024-06-08T20:00:51.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -86780,10 +86835,10 @@ var data =
         "tier": 3,
         "points": 75,
         "createdAt": "2020-08-28T17:22:24.000Z",
-        "updatedAt": "2025-08-13T06:36:01.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 10,
-        "playersTotal": 313,
+        "playersTotal": 314,
         "milestones": {
             "primary": 2,
             "primaryText": "Serious Co-optitude[45\u2605 (Partial: 15\u2605)]\nObtain a gold medal on all cooperative Survival levels. / Complete a Coin-op cooperative game on Normal difficulty (or higher).\n\nSecond Sam[30\u2605 (Partial: 15\u2605)]\nComplete the game in single player on Serious difficulty. / Complete \"The Grand Cathedral\" on Serious difficulty without dying or loading. / Obtain a gold medal on all single player Survival levels.",
@@ -86796,11 +86851,11 @@ var data =
 ]
 var date =
 {
-    "day": 8,
+    "day": 9,
     "month": 9,
     "year": 2025,
-    "hour": 8,
-    "minute": 21,
-    "second": 46,
-    "searchTime": 721.3147976398468
+    "hour": 9,
+    "minute": 2,
+    "second": 22,
+    "searchTime": 679.3142306804657
 }
