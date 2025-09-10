@@ -4472,8 +4472,8 @@ var masoData =
         "description": "Silksong",
         "tier": "6",
         "owners": 12,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "completions": 1,
+        "playtime": 79.28333333333333,
+        "newestCompletion": "2025-09-09T11:48:20.000Z"
     }
 }
