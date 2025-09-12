@@ -717,7 +717,7 @@ var masoData =
         "tier": "4",
         "owners": 54,
         "completions": 15,
-        "playtime": 43.843333333333334,
+        "playtime": 44.09444444444444,
         "newestCompletion": "2025-02-02T16:32:31.000Z"
     },
     "384250": {
@@ -3207,7 +3207,7 @@ var masoData =
     "1533420": {
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
-        "owners": 113,
+        "owners": 114,
         "completions": 56,
         "playtime": 75.55565476190475,
         "newestCompletion": "2025-03-21T07:21:41.000Z",
@@ -4427,10 +4427,10 @@ var masoData =
     "1164940": {
         "description": "\u2733 You killed Kenny! You Bastards!",
         "tier": "2",
-        "owners": 22,
-        "completions": 6,
-        "playtime": 65.25277777777778,
-        "newestCompletion": "2025-04-06T14:40:33.000Z",
+        "owners": 23,
+        "completions": 7,
+        "playtime": 59.20952380952381,
+        "newestCompletion": "2025-09-11T23:52:54.000Z",
         "badges": {
             "count": 3,
             "points": 8
