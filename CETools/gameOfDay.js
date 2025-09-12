@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1404080,
-        "CEId": "45850979-c6c0-4e7a-957b-221ad28838ec",
-        "name": "Rotund Takeoff",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1404080/header.jpg?t=1650385871",
+        "platformId": 2051130,
+        "CEId": "485cb114-f1e4-40a7-85f3-b265b30165cb",
+        "name": "Ghostland Yard",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2051130/header.jpg?t=1692808227",
         "genre": "Platformer",
-        "tier": 3,
-        "points": 50,
-        "createdAt": "2022-09-11T07:18:05.000Z",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2023-09-12T01:11:52.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 43,
+        "playersTotal": 14,
         "priceData": {
             "USD": {
-                "initial": 799,
-                "final": 799,
+                "initial": 1199,
+                "final": 1199,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 659,
-                "final": 659,
+                "initial": 1179,
+                "final": 1179,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 579,
-                "final": 579,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 82000,
-                "final": 82000,
+                "initial": 140000,
+                "final": 140000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1150,
-                "final": 1150,
+                "initial": 1775,
+                "final": 1775,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 899,
-                "final": 899,
+                "initial": 1549,
+                "final": 1549,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Chubbit Enthusiast [40\u2605]\nObtain all 50 Flag times.\n\nBeautiful Gold [10\u2605]\nObtain all 50 Gold Medals.",
-            "community": 1,
-            "communityText": "Rotund Revelry\nComplete all primary objectives from all site-listed games in the Rotund Rabbit franchise. See verification requirements for complete list.",
-            "achievements": 18
+            "primary": 1,
+            "primaryText": "Ghostbuster [20\u2605]\nObtain all dev medals and get all collectibles.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 7
         }
     }
 }
-var gameOfDayDate = '2025-09-11'
+var gameOfDayDate = '2025-09-12'
