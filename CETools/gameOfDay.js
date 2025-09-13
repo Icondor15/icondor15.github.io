@@ -2,57 +2,58 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2051130,
-        "CEId": "485cb114-f1e4-40a7-85f3-b265b30165cb",
-        "name": "Ghostland Yard",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2051130/header.jpg?t=1692808227",
-        "genre": "Platformer",
-        "tier": 2,
-        "points": 20,
-        "createdAt": "2023-09-12T01:11:52.000Z",
+        "platformId": 980880,
+        "CEId": "572a86ab-a55b-4952-8a0e-76a31bd29c71",
+        "name": "Twinfold",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/980880/header.jpg?t=1543986063",
+        "genre": "Strategy",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2023-09-13T22:47:23.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 2,
+        "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 14,
+        "playersTotal": 39,
         "priceData": {
             "USD": {
-                "initial": 1199,
-                "final": 1199,
+                "initial": 599,
+                "final": 599,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1179,
-                "final": 1179,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 999,
-                "final": 999,
+                "initial": 479,
+                "final": 479,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 140000,
-                "final": 140000,
+                "initial": 62000,
+                "final": 62000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1775,
-                "final": 1775,
+                "initial": 850,
+                "final": 850,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1549,
-                "final": 1549,
+                "initial": 669,
+                "final": 669,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ghostbuster [20\u2605]\nObtain all dev medals and get all collectibles.",
-            "community": 0,
-            "communityText": "",
+            "primaryText": "Seeing Double [5\u2605]\nBeat the game.",
+            "community": 1,
+            "communityText": "Merge Master\nEnd a game with the highest possible score.",
             "achievements": 7
-        }
+        },
+        "information": "Curated on Steam: https://store.steampowered.com/app/980880/Twinfold/?curator_clanid=36185934"
     }
 }
-var gameOfDayDate = '2025-09-12'
+var gameOfDayDate = '2025-09-13'
