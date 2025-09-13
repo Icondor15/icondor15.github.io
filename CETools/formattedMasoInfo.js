@@ -3208,9 +3208,9 @@ var masoData =
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
         "owners": 114,
-        "completions": 56,
-        "playtime": 75.55565476190475,
-        "newestCompletion": "2025-03-21T07:21:41.000Z",
+        "completions": 57,
+        "playtime": 75.2266081871345,
+        "newestCompletion": "2025-09-12T19:50:11.000Z",
         "badges": {
             "count": 1,
             "points": 3
