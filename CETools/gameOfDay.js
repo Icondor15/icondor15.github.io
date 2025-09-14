@@ -2,58 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 980880,
-        "CEId": "572a86ab-a55b-4952-8a0e-76a31bd29c71",
-        "name": "Twinfold",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/980880/header.jpg?t=1543986063",
+        "platformId": 2379780,
+        "CEId": "56be6b0c-365c-4741-a60f-84743133a55a",
+        "name": "Balatro",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2379780/header.jpg?t=1713537191",
         "genre": "Strategy",
         "tier": 1,
-        "points": 5,
-        "createdAt": "2023-09-13T22:47:23.000Z",
+        "points": 15,
+        "createdAt": "2024-05-16T22:40:35.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 9,
-        "playersStarted": 0,
-        "playersTotal": 39,
+        "playersCompleted": 52,
+        "playersStarted": 37,
+        "playersTotal": 530,
         "priceData": {
             "USD": {
-                "initial": 599,
-                "final": 599,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 499,
-                "final": 499,
+                "initial": 1399,
+                "final": 1399,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 479,
-                "final": 479,
+                "initial": 1279,
+                "final": 1279,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 62000,
-                "final": 62000,
+                "initial": 170000,
+                "final": 170000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 850,
-                "final": 850,
+                "initial": 2195,
+                "final": 2195,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 669,
-                "final": 669,
+                "initial": 1899,
+                "final": 1899,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Seeing Double [5\u2605]\nBeat the game.",
-            "community": 1,
-            "communityText": "Merge Master\nEnd a game with the highest possible score.",
-            "achievements": 7
-        },
-        "information": "Curated on Steam: https://store.steampowered.com/app/980880/Twinfold/?curator_clanid=36185934"
+            "primary": 2,
+            "primaryText": "Card Shark [10\u2605]\nComplete every challenge.\n\nRunning Good [5\u2605]\nComplete Black Deck on Gold Stake difficulty.",
+            "community": 4,
+            "communityText": "Gambling Addict\nEarn a Gold Sticker on every Joker.\n\nFull House\nWin with every deck on Gold Stake difficulty.\n\nUp The AntE\nAchieve a highscore containing the letter E in an unseeded run.\n\nTo Infinity and Beyond\nAchieve a highscore of naneinf in an unseeded run. (Approx. 1.8e308)",
+            "achievements": 31
+        }
     }
 }
-var gameOfDayDate = '2025-09-13'
+var gameOfDayDate = '2025-09-14'
