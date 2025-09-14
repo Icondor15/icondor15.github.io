@@ -1163,7 +1163,7 @@ var masoData =
     "392020": {
         "description": "\u2606 If Super Hexagon and Velocibox had a baby, it would be sacrified to summon this demon lord.",
         "tier": "3",
-        "owners": 112,
+        "owners": 113,
         "completions": 41,
         "playtime": 15.592682926829264,
         "newestCompletion": "2025-08-30T16:34:42.000Z"
@@ -2867,7 +2867,7 @@ var masoData =
     "681530": {
         "description": "\ud83c\udf1f Your neighbors will hate you even more",
         "tier": "5",
-        "owners": 31,
+        "owners": 32,
         "completions": 2,
         "playtime": 222.09166666666667,
         "newestCompletion": "2023-10-12T23:46:10.000Z",
@@ -4243,7 +4243,7 @@ var masoData =
     "1406250": {
         "description": "\ud83c\udf1fDon't waste your shrikens",
         "tier": "5",
-        "owners": 24,
+        "owners": 25,
         "completions": 2,
         "playtime": 106.56666666666666,
         "newestCompletion": "2024-08-03T06:00:49.000Z"
@@ -4471,9 +4471,21 @@ var masoData =
     "1030300": {
         "description": "Silksong",
         "tier": "6",
-        "owners": 12,
+        "owners": 14,
+        "completions": 2,
+        "playtime": 73.275,
+        "newestCompletion": "2025-09-14T01:39:53.000Z"
+    },
+    "322170": {
+        "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
+        "tier": "0",
+        "owners": 2,
         "completions": 1,
-        "playtime": 79.28333333333333,
-        "newestCompletion": "2025-09-09T11:48:20.000Z"
+        "playtime": 6.883333333333334,
+        "newestCompletion": "2021-02-06T11:20:07.000Z",
+        "badges": {
+            "count": 1,
+            "points": 10
+        }
     }
 }
