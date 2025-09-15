@@ -717,7 +717,7 @@ var masoData =
         "tier": "4",
         "owners": 54,
         "completions": 15,
-        "playtime": 44.09444444444444,
+        "playtime": 44.121111111111105,
         "newestCompletion": "2025-02-02T16:32:31.000Z"
     },
     "384250": {
@@ -4479,10 +4479,10 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 2,
-        "completions": 1,
-        "playtime": 6.883333333333334,
-        "newestCompletion": "2021-02-06T11:20:07.000Z",
+        "owners": 5,
+        "completions": 2,
+        "playtime": 91.04166666666666,
+        "newestCompletion": "2025-06-20T03:30:05.000Z",
         "badges": {
             "count": 1,
             "points": 10
