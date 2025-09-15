@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2379780,
-        "CEId": "56be6b0c-365c-4741-a60f-84743133a55a",
-        "name": "Balatro",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2379780/header.jpg?t=1713537191",
+        "platformId": 982290,
+        "CEId": "febdee99-bbee-4787-abc1-bad267e2165a",
+        "name": "Airborne Kingdom",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/982290/header.jpg?t=1736784478",
         "genre": "Strategy",
         "tier": 1,
-        "points": 15,
-        "createdAt": "2024-05-16T22:40:35.000Z",
+        "points": 5,
+        "createdAt": "2025-06-25T06:34:39.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 52,
-        "playersStarted": 37,
-        "playersTotal": 530,
+        "playersCompleted": 2,
+        "playersStarted": 0,
+        "playersTotal": 18,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 1499,
+                "initial": 2499,
+                "final": 2499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1399,
-                "final": 1399,
+                "initial": 2299,
+                "final": 2299,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1279,
-                "final": 1279,
+                "initial": 1949,
+                "final": 1949,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 170000,
-                "final": 170000,
+                "initial": 280000,
+                "final": 280000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2195,
-                "final": 2195,
+                "initial": 3650,
+                "final": 3650,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1899,
-                "final": 1899,
+                "initial": 3249,
+                "final": 3249,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Card Shark [10\u2605]\nComplete every challenge.\n\nRunning Good [5\u2605]\nComplete Black Deck on Gold Stake difficulty.",
-            "community": 4,
-            "communityText": "Gambling Addict\nEarn a Gold Sticker on every Joker.\n\nFull House\nWin with every deck on Gold Stake difficulty.\n\nUp The AntE\nAchieve a highscore containing the letter E in an unseeded run.\n\nTo Infinity and Beyond\nAchieve a highscore of naneinf in an unseeded run. (Approx. 1.8e308)",
-            "achievements": 31
+            "primary": 1,
+            "primaryText": "Airborne King [5\u2605]\nRescue the Tundra Explorers in Hard Mode with the Default Town Center.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 30
         }
     }
 }
-var gameOfDayDate = '2025-09-14'
+var gameOfDayDate = '2025-09-15'
