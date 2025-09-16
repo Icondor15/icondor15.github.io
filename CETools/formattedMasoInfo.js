@@ -360,9 +360,9 @@ var masoData =
         "description": "\u2733 It\"s about time we added it",
         "tier": "2",
         "owners": 125,
-        "completions": 47,
-        "playtime": 49.380496453900705,
-        "newestCompletion": "2025-02-27T17:15:08.000Z"
+        "completions": 48,
+        "playtime": 49.22465277777778,
+        "newestCompletion": "2025-09-14T17:49:57.000Z"
     },
     "356650": {
         "description": "\u2733 2D Dark Souls, any other description would be a lie",
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 233,
         "completions": 121,
-        "playtime": 192.853305785124,
+        "playtime": 192.85922865013777,
         "newestCompletion": "2025-09-04T20:48:49.000Z",
         "badges": {
             "count": 2,
@@ -2017,7 +2017,7 @@ var masoData =
         "tier": "3",
         "owners": 54,
         "completions": 20,
-        "playtime": 28.672499999999996,
+        "playtime": 28.682499999999997,
         "newestCompletion": "2024-03-08T22:50:53.000Z"
     },
     "925460": {
@@ -2620,9 +2620,9 @@ var masoData =
         "description": "That\"s axolotl destruction",
         "tier": "1",
         "owners": 52,
-        "completions": 15,
-        "playtime": 8.834444444444445,
-        "newestCompletion": "2024-04-13T15:52:20.000Z"
+        "completions": 16,
+        "playtime": 9.226041666666665,
+        "newestCompletion": "2025-09-12T19:00:30.000Z"
     },
     "688130": {
         "description": "\ud83c\udf1f\u30dd\u30b4\u306e\u6642\u9593\u3060",
@@ -4471,7 +4471,7 @@ var masoData =
     "1030300": {
         "description": "Silksong",
         "tier": "6",
-        "owners": 14,
+        "owners": 16,
         "completions": 2,
         "playtime": 73.275,
         "newestCompletion": "2025-09-14T01:39:53.000Z"
@@ -4479,7 +4479,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 5,
+        "owners": 9,
         "completions": 2,
         "playtime": 91.04166666666666,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
