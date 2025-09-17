@@ -2,52 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 420070,
-        "CEId": "50002fa2-2d45-4455-8879-59d3380b77f4",
-        "name": "Kill The Plumber",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/420070/header.jpg?t=1463668968",
-        "genre": "Platformer",
-        "tier": 1,
-        "points": 15,
-        "createdAt": "2022-09-16T22:32:14.000Z",
+        "platformId": 1049890,
+        "CEId": "dc9e2542-0e9d-448c-94cd-dc388826e419",
+        "name": "Little Witch Nobeta",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1049890/header.jpg?t=1694012578",
+        "genre": "Action",
+        "tier": 2,
+        "points": 30,
+        "createdAt": "2023-09-17T05:51:29.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 1,
-        "playersStarted": 2,
-        "playersTotal": 21,
+        "playersCompleted": 6,
+        "playersStarted": 7,
+        "playersTotal": 137,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 2499,
+                "final": 2499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 499,
-                "final": 499,
+                "initial": 2199,
+                "final": 2199,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 399,
-                "final": 399,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 49800,
-                "final": 49800,
+                "initial": 290000,
+                "final": 290000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 2499,
+                "final": 2499,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 549,
-                "final": 549,
+                "initial": 2499,
+                "final": 2499,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Massacre the Marios [10\u2605]\nBeat the time limit for each world speedrun.\n\nPlumber Plunking [5\u2605]\nGet 3 stars on every level.",
+            "primaryText": "A Witch's Ascent [20\u2605]\nClear the Trial Tower Mode without dying. \n\nWizardry Trials [10\u2605]\nClear the Trial Tower Mode.",
             "community": 0,
             "communityText": "",
-            "achievements": 27
+            "achievements": 42
         }
     }
 }
-var gameOfDayDate = '2025-09-16'
+var gameOfDayDate = '2025-09-17'
