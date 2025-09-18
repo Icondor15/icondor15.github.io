@@ -4479,7 +4479,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 9,
+        "owners": 10,
         "completions": 2,
         "playtime": 91.04166666666666,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
