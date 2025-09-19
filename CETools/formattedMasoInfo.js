@@ -273,7 +273,7 @@ var masoData =
         "tier": "1",
         "owners": 64,
         "completions": 22,
-        "playtime": 32.961363636363636,
+        "playtime": 32.967424242424244,
         "newestCompletion": "2025-08-01T03:39:47.000Z",
         "badges": {
             "count": 1,
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 243,
         "completions": 178,
-        "playtime": 224.20243445692884,
+        "playtime": 224.22031835205996,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1661,7 +1661,7 @@ var masoData =
         "tier": "1",
         "owners": 122,
         "completions": 57,
-        "playtime": 20.82953216374269,
+        "playtime": 21.00701754385965,
         "newestCompletion": "2025-07-30T02:49:55.000Z"
     },
     "609420": {
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 102,
         "completions": 31,
-        "playtime": 86.90107526881721,
+        "playtime": 87.8758064516129,
         "newestCompletion": "2025-08-27T18:23:40.000Z",
         "badges": {
             "count": 2,
@@ -2247,7 +2247,7 @@ var masoData =
     "1154810": {
         "description": "\u2733 F",
         "tier": "2",
-        "owners": 105,
+        "owners": 106,
         "completions": 28,
         "playtime": 33.94702380952381,
         "newestCompletion": "2025-05-20T11:23:59.000Z"
@@ -2887,7 +2887,7 @@ var masoData =
     "774171": {
         "description": "Waifu Smash",
         "tier": "1",
-        "owners": 120,
+        "owners": 121,
         "completions": 37,
         "playtime": 33.07297297297297,
         "newestCompletion": "2025-04-01T04:26:58.000Z",
@@ -3521,7 +3521,7 @@ var masoData =
         "tier": "2",
         "owners": 92,
         "completions": 32,
-        "playtime": 47.2,
+        "playtime": 47.30260416666667,
         "newestCompletion": "2025-07-07T00:32:13.000Z"
     },
     "1442170": {
@@ -4189,7 +4189,7 @@ var masoData =
         "tier": "4",
         "owners": 43,
         "completions": 7,
-        "playtime": 211.68571428571428,
+        "playtime": 245.09047619047618,
         "newestCompletion": "2025-02-25T14:58:10.000Z",
         "badges": {
             "count": 1,
@@ -4211,7 +4211,7 @@ var masoData =
     "711540": {
         "description": "\u2733 Why climb 1000 stairs when you can go down 5 mountains?",
         "tier": "2",
-        "owners": 20,
+        "owners": 21,
         "completions": 4,
         "playtime": 34.675,
         "newestCompletion": "2024-12-26T03:51:24.000Z"
@@ -4456,30 +4456,30 @@ var masoData =
         "description": "Ancient techbros' ultimate showdown",
         "tier": "1",
         "owners": 21,
-        "completions": 4,
-        "playtime": 11.1125,
-        "newestCompletion": "2025-08-06T16:11:54.000Z"
+        "completions": 5,
+        "playtime": 12.353333333333333,
+        "newestCompletion": "2025-09-19T05:12:53.000Z"
     },
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 18,
-        "completions": 10,
-        "playtime": 8.499999999999998,
+        "owners": 19,
+        "completions": 11,
+        "playtime": 8.968181818181817,
         "newestCompletion": "2025-08-25T05:05:32.000Z"
     },
     "1030300": {
         "description": "Silksong",
         "tier": "6",
-        "owners": 16,
-        "completions": 2,
-        "playtime": 73.275,
-        "newestCompletion": "2025-09-14T01:39:53.000Z"
+        "owners": 18,
+        "completions": 5,
+        "playtime": 98.29333333333332,
+        "newestCompletion": "2025-09-18T22:27:46.000Z"
     },
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 10,
+        "owners": 14,
         "completions": 2,
         "playtime": 91.04166666666666,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
