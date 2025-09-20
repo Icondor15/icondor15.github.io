@@ -297,7 +297,7 @@ var masoData =
         "tier": "3",
         "owners": 168,
         "completions": 49,
-        "playtime": 35.13503401360544,
+        "playtime": 35.2343537414966,
         "newestCompletion": "2025-02-10T20:51:12.000Z"
     },
     "253230": {
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 233,
         "completions": 121,
-        "playtime": 192.85922865013777,
+        "playtime": 192.89173553719013,
         "newestCompletion": "2025-09-04T20:48:49.000Z",
         "badges": {
             "count": 2,
@@ -1735,7 +1735,7 @@ var masoData =
     "774361": {
         "description": "God will punish you if you don\"t play it",
         "tier": "1",
-        "owners": 139,
+        "owners": 140,
         "completions": 44,
         "playtime": 40.462499999999984,
         "newestCompletion": "2025-06-12T00:36:21.000Z"
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 102,
         "completions": 31,
-        "playtime": 87.8758064516129,
+        "playtime": 87.90215053763443,
         "newestCompletion": "2025-08-27T18:23:40.000Z",
         "badges": {
             "count": 2,
@@ -2079,7 +2079,7 @@ var masoData =
     "1145360": {
         "description": "What, you\"ve got daddy issues boyo??",
         "tier": "1",
-        "owners": 161,
+        "owners": 162,
         "completions": 78,
         "playtime": 98.5854700854701,
         "newestCompletion": "2025-01-06T17:08:41.000Z",
@@ -2235,7 +2235,7 @@ var masoData =
     "418530": {
         "description": "\u272a 2 Stands for twice the \u2665\u2665\u2665\u2665\u2665\u2665\u2665\u2665",
         "tier": "4",
-        "owners": 106,
+        "owners": 107,
         "completions": 48,
         "playtime": 248.28055555555557,
         "newestCompletion": "2025-06-06T16:31:25.000Z",
@@ -3825,7 +3825,7 @@ var masoData =
         "tier": "2",
         "owners": 32,
         "completions": 5,
-        "playtime": 137.66,
+        "playtime": 139.73999999999998,
         "newestCompletion": "2023-11-05T07:53:12.000Z",
         "badges": {
             "count": 1,
@@ -4471,17 +4471,17 @@ var masoData =
     "1030300": {
         "description": "Silksong",
         "tier": "6",
-        "owners": 18,
-        "completions": 5,
-        "playtime": 98.29333333333332,
-        "newestCompletion": "2025-09-18T22:27:46.000Z"
+        "owners": 20,
+        "completions": 6,
+        "playtime": 96.40555555555555,
+        "newestCompletion": "2025-09-20T02:46:05.000Z"
     },
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 14,
-        "completions": 2,
-        "playtime": 91.04166666666666,
+        "owners": 15,
+        "completions": 3,
+        "playtime": 265.77777777777777,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
         "badges": {
             "count": 1,
