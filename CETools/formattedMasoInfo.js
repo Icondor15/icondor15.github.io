@@ -95,7 +95,7 @@ var masoData =
     "928840": {
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
-        "owners": 35,
+        "owners": 36,
         "completions": 10,
         "playtime": 7.436666666666666,
         "newestCompletion": "2025-08-22T15:28:25.000Z"
@@ -771,7 +771,7 @@ var masoData =
     "63710": {
         "description": "\u2606 Simulates running IRL",
         "tier": "3",
-        "owners": 102,
+        "owners": 103,
         "completions": 34,
         "playtime": 24.38137254901961,
         "newestCompletion": "2024-11-07T19:51:59.000Z"
@@ -1075,7 +1075,7 @@ var masoData =
     "394970": {
         "description": "\u272a Gunpoint meets hotline miami",
         "tier": "4",
-        "owners": 99,
+        "owners": 100,
         "completions": 29,
         "playtime": 39.40689655172413,
         "newestCompletion": "2025-06-21T23:04:13.000Z"
@@ -2555,7 +2555,7 @@ var masoData =
     "1525660": {
         "description": "\ud83c\udf1f just like the simulations",
         "tier": "5",
-        "owners": 109,
+        "owners": 110,
         "completions": 26,
         "playtime": 46.91730769230769,
         "newestCompletion": "2025-07-12T04:37:59.000Z"
@@ -2753,7 +2753,7 @@ var masoData =
         "tier": "3",
         "owners": 59,
         "completions": 19,
-        "playtime": 181.18245614035087,
+        "playtime": 181.19122807017547,
         "newestCompletion": "2025-06-21T16:16:20.000Z",
         "badges": {
             "count": 2,
@@ -3207,7 +3207,7 @@ var masoData =
     "1533420": {
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
-        "owners": 114,
+        "owners": 115,
         "completions": 57,
         "playtime": 75.2266081871345,
         "newestCompletion": "2025-09-12T19:50:11.000Z",
@@ -4343,7 +4343,7 @@ var masoData =
     "1345860": {
         "description": "Grapple Doggo ",
         "tier": "1",
-        "owners": 25,
+        "owners": 26,
         "completions": 13,
         "playtime": 17.66410256410256,
         "newestCompletion": "2025-03-19T05:23:33.000Z"
@@ -4471,10 +4471,10 @@ var masoData =
     "1030300": {
         "description": "Silksong",
         "tier": "6",
-        "owners": 20,
-        "completions": 6,
-        "playtime": 96.40555555555555,
-        "newestCompletion": "2025-09-20T02:46:05.000Z"
+        "owners": 22,
+        "completions": 7,
+        "playtime": 96.19523809523808,
+        "newestCompletion": "2025-09-21T01:14:29.000Z"
     },
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
