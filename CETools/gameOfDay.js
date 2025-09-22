@@ -1,26 +1,58 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 3,
-        "platformId": 2304,
-        "CEId": "14c8d474-a366-4b1a-937b-aef8f99496b1",
-        "name": "The Legendary Axe II",
-        "header": "https://i.postimg.cc/CLTxXZd9/legendaryaxe2-1692388445898.png",
-        "genre": "Action",
+        "gameType": 0,
+        "platformId": 2193690,
+        "CEId": "39096080-461e-4641-a0b2-21b02b5bb37d",
+        "name": "SPEEDRUNNER",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193690/header.jpg?t=1733623656",
+        "genre": "First-Person",
         "tier": 1,
-        "points": 15,
-        "createdAt": "2024-10-05T20:12:26.000Z",
+        "points": 10,
+        "createdAt": "2023-09-22T01:28:22.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 1,
+        "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 1,
+        "playersTotal": 16,
+        "priceData": {
+            "USD": {
+                "initial": 299,
+                "final": 299,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 299,
+                "final": 299,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 249,
+                "final": 249,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 35000,
+                "final": 35000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 450,
+                "final": 450,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 389,
+                "final": 389,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
             "primary": 1,
-            "primaryText": "You Axed For It! [15\u2605]\nFinish the game.",
-            "community": 1,
-            "communityText": "Legendary Chap\nFinish the game without dying.",
-            "achievements": 18
+            "primaryText": "STRAFERUNNER [10\u2605]\nProve yourself.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 20
         }
     }
 }
-var gameOfDayDate = '2025-09-21'
+var gameOfDayDate = '2025-09-22'
