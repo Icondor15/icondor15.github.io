@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 207140,
-        "CEId": "f07bc03c-472d-4042-addf-03de29dbf080",
-        "name": "SpeedRunners",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/207140/header.jpg?t=1631522005",
-        "genre": "Platformer",
-        "tier": 1,
-        "points": 15,
-        "createdAt": "2022-03-30T01:33:52.000Z",
+        "platformId": 1184480,
+        "CEId": "6ae87bdc-a20f-4309-838a-94d9c33133b1",
+        "name": "Inertial Drift",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1184480/header.jpg?t=1603900566",
+        "genre": "Arcade",
+        "tier": 2,
+        "points": 25,
+        "createdAt": "2021-09-24T06:24:00.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 65,
+        "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 626,
+        "playersTotal": 122,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 1499,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1479,
-                "final": 1479,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1279,
-                "final": 1279,
+                "initial": 1699,
+                "final": 1699,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 170000,
-                "final": 170000,
+                "initial": 230000,
+                "final": 230000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2195,
-                "final": 2195,
+                "initial": 2950,
+                "final": 2950,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1949,
-                "final": 1949,
+                "initial": 2599,
+                "final": 2599,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Live Fast [15\u2605]\nBeat all chapters on \"Unfair\" difficulty.",
+            "primaryText": "Hyper Inertial Drifter [25\u2605]\nComplete grand prix mode with all cars.",
             "community": 1,
-            "communityText": "Die Young\nBe promoted to the Bronze League.",
-            "achievements": 29
+            "communityText": "Cheaters Never Prosper\nReach 1st place on Snow Mount Sprint Duel in Ibba's story.",
+            "achievements": 40
         }
     }
 }
-var gameOfDayDate = '2025-09-23'
+var gameOfDayDate = '2025-09-24'
