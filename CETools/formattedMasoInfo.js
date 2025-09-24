@@ -95,7 +95,7 @@ var masoData =
     "928840": {
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
-        "owners": 39,
+        "owners": 40,
         "completions": 10,
         "playtime": 7.436666666666666,
         "newestCompletion": "2025-08-22T15:28:25.000Z"
@@ -2639,7 +2639,7 @@ var masoData =
     "894020": {
         "description": "death in all caps",
         "tier": "1",
-        "owners": 74,
+        "owners": 75,
         "completions": 44,
         "playtime": 16.76666666666667,
         "newestCompletion": "2025-02-16T17:51:30.000Z"
@@ -4343,7 +4343,7 @@ var masoData =
     "1345860": {
         "description": "Grapple Doggo ",
         "tier": "1",
-        "owners": 26,
+        "owners": 27,
         "completions": 13,
         "playtime": 17.66410256410256,
         "newestCompletion": "2025-03-19T05:23:33.000Z"
@@ -4471,7 +4471,7 @@ var masoData =
     "1030300": {
         "description": "Silksong",
         "tier": "6",
-        "owners": 24,
+        "owners": 25,
         "completions": 7,
         "playtime": 96.27142857142859,
         "newestCompletion": "2025-09-21T01:14:29.000Z"
