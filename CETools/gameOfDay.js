@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1184480,
-        "CEId": "6ae87bdc-a20f-4309-838a-94d9c33133b1",
-        "name": "Inertial Drift",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1184480/header.jpg?t=1603900566",
-        "genre": "Arcade",
+        "platformId": 1520330,
+        "CEId": "1b2a5997-9812-4099-bcb7-b215e17de447",
+        "name": "TechBeat Heart",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1520330/header.jpg?t=1654351385",
+        "genre": "Bullet Hell",
         "tier": 2,
-        "points": 25,
-        "createdAt": "2021-09-24T06:24:00.000Z",
+        "points": 30,
+        "createdAt": "2021-09-25T21:35:44.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 7,
+        "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 122,
+        "playersTotal": 86,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 199,
+                "final": 199,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 199,
+                "final": 199,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1699,
-                "final": 1699,
+                "initial": 169,
+                "final": 169,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 230000,
-                "final": 230000,
+                "initial": 23500,
+                "final": 23500,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2950,
-                "final": 2950,
+                "initial": 295,
+                "final": 295,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2599,
-                "final": 2599,
+                "initial": 259,
+                "final": 259,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hyper Inertial Drifter [25\u2605]\nComplete grand prix mode with all cars.",
-            "community": 1,
-            "communityText": "Cheaters Never Prosper\nReach 1st place on Snow Mount Sprint Duel in Ibba's story.",
-            "achievements": 40
+            "primaryText": "With Love [30\u2605]\nProve yourself!",
+            "community": 0,
+            "communityText": "",
+            "achievements": 55
         }
     }
 }
-var gameOfDayDate = '2025-09-24'
+var gameOfDayDate = '2025-09-25'
