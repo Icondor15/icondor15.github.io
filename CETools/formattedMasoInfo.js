@@ -95,7 +95,7 @@ var masoData =
     "928840": {
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
-        "owners": 40,
+        "owners": 42,
         "completions": 10,
         "playtime": 7.436666666666666,
         "newestCompletion": "2025-08-22T15:28:25.000Z"
@@ -412,9 +412,9 @@ var masoData =
         "description": "\u2733 420",
         "tier": "2",
         "owners": 123,
-        "completions": 62,
-        "playtime": 8.362634408602151,
-        "newestCompletion": "2024-10-12T18:01:59.000Z"
+        "completions": 63,
+        "playtime": 8.372222222222224,
+        "newestCompletion": "2025-09-25T23:57:17.000Z"
     },
     "612390": {
         "description": "\u2733 Use a controller",
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 235,
         "completions": 121,
-        "playtime": 192.90275482093668,
+        "playtime": 192.92892561983476,
         "newestCompletion": "2025-09-04T20:48:49.000Z",
         "badges": {
             "count": 2,
@@ -968,9 +968,9 @@ var masoData =
         "description": "\u2733 Go Zangyourself",
         "tier": "2",
         "owners": 68,
-        "completions": 17,
-        "playtime": 21.756862745098044,
-        "newestCompletion": "2025-02-25T21:22:33.000Z"
+        "completions": 18,
+        "playtime": 21.67592592592593,
+        "newestCompletion": "2025-09-24T16:53:18.000Z"
     },
     "207350": {
         "description": "\u272a They told me RPG\"s are for casuls",
@@ -2889,7 +2889,7 @@ var masoData =
         "tier": "1",
         "owners": 122,
         "completions": 37,
-        "playtime": 33.07297297297297,
+        "playtime": 33.08648648648648,
         "newestCompletion": "2025-04-01T04:26:58.000Z",
         "badges": {
             "count": 1,
@@ -4465,23 +4465,23 @@ var masoData =
         "tier": "1",
         "owners": 21,
         "completions": 11,
-        "playtime": 8.968181818181817,
+        "playtime": 9.015151515151514,
         "newestCompletion": "2025-08-25T05:05:32.000Z"
     },
     "1030300": {
         "description": "Silksong",
         "tier": "6",
-        "owners": 25,
-        "completions": 7,
-        "playtime": 96.27142857142859,
-        "newestCompletion": "2025-09-21T01:14:29.000Z"
+        "owners": 26,
+        "completions": 8,
+        "playtime": 101.20833333333336,
+        "newestCompletion": "2025-09-26T02:27:51.000Z"
     },
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 19,
-        "completions": 4,
-        "playtime": 450.7583333333333,
+        "owners": 20,
+        "completions": 5,
+        "playtime": 704.02,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
         "badges": {
             "count": 1,
