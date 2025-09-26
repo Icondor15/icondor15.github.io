@@ -1639,6 +1639,8 @@
                 {
                     document.getElementById("cardsHeritageSubclass").innerHTML += "<div class='card'>" + 
                         "<img class='cardImage' alt='Couldn&apos;t find image! Maybe the link is broken or expired?' src='" + document.getElementById("inputAddCard").value + "' />" + 
+                        "<p style='margin: 10px auto 0px; font-weight:bold;'>Tokens</p>" +
+                        "<input class='noSave' type='number' style='width: 80%; margin: 0px auto 10px; font-size: 1.5em;'>" +
                         "<button onclick='removeCard(this.parentElement)' style='margin:8px; font-size: 1.05em; font-weight: bold; color: #FF4444; border-color: #FF4444'>🗑 Delete</button>" +
                     "</div>";
 
@@ -1674,6 +1676,8 @@
                 {
                     document.getElementById("cardsHeritageSubclass").innerHTML += "<div class='card'>" + 
                         "<img class='cardImage' alt='Couldn&apos;t find image! Maybe the link is broken or expired?' src='" + string + "' />" + 
+                        "<p style='margin: 10px auto 0px; font-weight:bold;'>Tokens</p>" +
+                        "<input class='noSave' type='number' style='width: 80%; margin: 0px auto 10px; font-size: 1.5em;'>" +
                         "<button onclick='removeCard(this.parentElement)' style='margin:8px; font-size: 1.05em; font-weight: bold; color: #FF4444; border-color: #FF4444'>🗑 Delete</button>" +
                     "</div>";
                 }
