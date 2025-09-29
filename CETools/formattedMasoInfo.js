@@ -419,7 +419,7 @@ var masoData =
     "612390": {
         "description": "\u2733 Use a controller",
         "tier": "2",
-        "owners": 62,
+        "owners": 63,
         "completions": 11,
         "playtime": 18.46212121212121,
         "newestCompletion": "2023-06-27T19:38:32.000Z"
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 245,
         "completions": 178,
-        "playtime": 224.48071161048694,
+        "playtime": 224.48501872659182,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -919,7 +919,7 @@ var masoData =
     "656970": {
         "description": "True 100% will reveal this game\"s real nature",
         "tier": "1",
-        "owners": 82,
+        "owners": 83,
         "completions": 33,
         "playtime": 26.47777777777778,
         "newestCompletion": "2024-12-20T13:36:37.000Z",
@@ -1823,7 +1823,7 @@ var masoData =
     "731490": {
         "description": "\u2733 W O A H",
         "tier": "2",
-        "owners": 108,
+        "owners": 109,
         "completions": 46,
         "playtime": 48.18876811594202,
         "newestCompletion": "2025-07-16T20:33:49.000Z",
@@ -1963,7 +1963,7 @@ var masoData =
     "876500": {
         "description": "This is not soundodger",
         "tier": "1",
-        "owners": 12,
+        "owners": 13,
         "completions": 12,
         "playtime": 3.523611111111112,
         "newestCompletion": "2024-12-03T23:33:43.000Z"
@@ -2463,7 +2463,7 @@ var masoData =
     "1058280": {
         "description": "Why Are You Running?",
         "tier": "1",
-        "owners": 28,
+        "owners": 29,
         "completions": 10,
         "playtime": 5.211666666666666,
         "newestCompletion": "2024-01-25T17:39:45.000Z"
@@ -2500,9 +2500,9 @@ var masoData =
         "description": "Twinstick and rhythm combo",
         "tier": "1",
         "owners": 42,
-        "completions": 11,
-        "playtime": 11.704545454545455,
-        "newestCompletion": "2024-11-29T20:57:46.000Z"
+        "completions": 12,
+        "playtime": 11.28888888888889,
+        "newestCompletion": "2025-09-25T01:52:10.000Z"
     },
     "1273540": {
         "description": "I dig it.",
@@ -2563,7 +2563,7 @@ var masoData =
     "732930": {
         "description": "Goomba strikes back",
         "tier": "1",
-        "owners": 36,
+        "owners": 37,
         "completions": 16,
         "playtime": 10.216666666666667,
         "newestCompletion": "2025-03-24T20:20:30.000Z"
@@ -2753,7 +2753,7 @@ var masoData =
         "tier": "3",
         "owners": 59,
         "completions": 19,
-        "playtime": 184.87631578947372,
+        "playtime": 185.1324561403509,
         "newestCompletion": "2025-06-21T16:16:20.000Z",
         "badges": {
             "count": 2,
@@ -2771,7 +2771,7 @@ var masoData =
     "1062110": {
         "description": "\u2733 Intro to Sequence Breaking",
         "tier": "2",
-        "owners": 24,
+        "owners": 25,
         "completions": 7,
         "playtime": 47.85238095238095,
         "newestCompletion": "2024-10-05T03:21:11.000Z"
@@ -2915,7 +2915,7 @@ var masoData =
     "893180": {
         "description": "\u2606 new record",
         "tier": "3",
-        "owners": 53,
+        "owners": 54,
         "completions": 9,
         "playtime": 81.86111111111111,
         "newestCompletion": "2022-04-01T02:18:27.000Z"
@@ -3263,9 +3263,9 @@ var masoData =
     "1938180": {
         "description": "Sweatalitl",
         "tier": "1",
-        "owners": 19,
-        "completions": 6,
-        "playtime": 4.825,
+        "owners": 20,
+        "completions": 7,
+        "playtime": 4.783333333333333,
         "newestCompletion": "2025-03-22T12:45:20.000Z"
     },
     "1424630": {
@@ -3291,7 +3291,7 @@ var masoData =
     "1370690": {
         "description": "\ud83c\udf1f Accurate to real-life ice skating experiences*",
         "tier": "5",
-        "owners": 33,
+        "owners": 34,
         "completions": 1,
         "playtime": 90.15,
         "newestCompletion": "2022-09-18T01:59:52.000Z"
@@ -3627,7 +3627,7 @@ var masoData =
     "2015460": {
         "description": "The Ol' SWWWitcheroo",
         "tier": "1",
-        "owners": 15,
+        "owners": 16,
         "completions": 7,
         "playtime": 11.590476190476192,
         "newestCompletion": "2025-07-08T10:17:07.000Z",
@@ -4051,7 +4051,7 @@ var masoData =
     "1909770": {
         "description": "\u2606 PAIN CLIMB",
         "tier": "3",
-        "owners": 25,
+        "owners": 26,
         "completions": 3,
         "playtime": 64.97222222222223,
         "newestCompletion": "2025-07-01T20:24:22.000Z"
@@ -4283,7 +4283,7 @@ var masoData =
     "1548940": {
         "description": "\ud83c\udf1f DASH: The gap in between these f***ing spikes",
         "tier": "5",
-        "owners": 34,
+        "owners": 35,
         "completions": 3,
         "playtime": 107.83333333333333,
         "newestCompletion": "2025-04-15T21:46:21.000Z",
@@ -4303,7 +4303,7 @@ var masoData =
     "1388230": {
         "description": "\u2606 Not quite a Bad Apple",
         "tier": "3",
-        "owners": 22,
+        "owners": 23,
         "completions": 7,
         "playtime": 23.12857142857143,
         "newestCompletion": "2025-07-13T11:17:06.000Z"
@@ -4419,7 +4419,7 @@ var masoData =
     "1388770": {
         "description": "Finland Pain Simulator",
         "tier": "1",
-        "owners": 26,
+        "owners": 27,
         "completions": 6,
         "playtime": 28.877777777777776,
         "newestCompletion": "2025-04-29T04:41:51.000Z"
@@ -4471,7 +4471,7 @@ var masoData =
     "1030300": {
         "description": "Silksong",
         "tier": "6",
-        "owners": 30,
+        "owners": 31,
         "completions": 10,
         "playtime": 111.93166666666669,
         "newestCompletion": "2025-09-26T02:27:51.000Z"
@@ -4479,9 +4479,9 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 24,
-        "completions": 5,
-        "playtime": 704.02,
+        "owners": 26,
+        "completions": 6,
+        "playtime": 2185.9,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
         "badges": {
             "count": 1,
