@@ -95,7 +95,7 @@ var masoData =
     "928840": {
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
-        "owners": 42,
+        "owners": 43,
         "completions": 10,
         "playtime": 7.436666666666666,
         "newestCompletion": "2025-08-22T15:28:25.000Z"
@@ -175,7 +175,7 @@ var masoData =
     "485510": {
         "description": "\u2733 \u30c0\u30fc\u30af\u30bd\u30a6\u30eb\u3088\u308a\u3082\u826f\u3044",
         "tier": "2",
-        "owners": 51,
+        "owners": 52,
         "completions": 13,
         "playtime": 164.76794871794874,
         "newestCompletion": "2025-07-31T01:32:10.000Z"
@@ -255,7 +255,7 @@ var masoData =
     "588650": {
         "description": "\u272a I hope you like content updates",
         "tier": "4",
-        "owners": 145,
+        "owners": 146,
         "completions": 18,
         "playtime": 197.67407407407404,
         "newestCompletion": "2025-07-19T08:37:11.000Z"
@@ -607,10 +607,10 @@ var masoData =
     "673000": {
         "description": "Neon soaked madness",
         "tier": "1",
-        "owners": 77,
-        "completions": 58,
-        "playtime": 3.6795977011494267,
-        "newestCompletion": "2025-07-19T01:45:34.000Z"
+        "owners": 78,
+        "completions": 59,
+        "playtime": 3.707344632768363,
+        "newestCompletion": "2025-08-22T03:53:59.000Z"
     },
     "852390": {
         "description": "\u2733 Title says it all",
@@ -692,9 +692,9 @@ var masoData =
         "description": "\u2733 Well diving simulator",
         "tier": "2",
         "owners": 178,
-        "completions": 94,
-        "playtime": 12.88900709219858,
-        "newestCompletion": "2025-07-20T13:41:40.000Z"
+        "completions": 95,
+        "playtime": 12.813859649122806,
+        "newestCompletion": "2025-09-30T01:13:44.000Z"
     },
     "247240": {
         "description": "\u2733 Oldschool hack and slash",
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 245,
         "completions": 178,
-        "playtime": 224.48501872659182,
+        "playtime": 224.6663857677903,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1499,7 +1499,7 @@ var masoData =
     "949770": {
         "description": "\ud83c\udf96\ufe0f Does Not Apply to 3D Waifus",
         "tier": "0",
-        "owners": 56,
+        "owners": 57,
         "completions": 50,
         "playtime": 4.237666666666667,
         "newestCompletion": "2023-09-15T11:42:54.000Z",
@@ -1659,7 +1659,7 @@ var masoData =
     "764790": {
         "description": "Sequel of The Skype",
         "tier": "1",
-        "owners": 123,
+        "owners": 124,
         "completions": 57,
         "playtime": 21.00701754385965,
         "newestCompletion": "2025-07-30T02:49:55.000Z"
@@ -1891,10 +1891,10 @@ var masoData =
     "514620": {
         "description": "Epillipsis",
         "tier": "1",
-        "owners": 53,
-        "completions": 40,
-        "playtime": 4.912916666666666,
-        "newestCompletion": "2025-06-28T13:09:56.000Z"
+        "owners": 54,
+        "completions": 41,
+        "playtime": 4.936178861788617,
+        "newestCompletion": "2025-09-06T18:24:36.000Z"
     },
     "610410": {
         "description": "\u2606 Rock, Paper, Lasers",
@@ -1919,7 +1919,7 @@ var masoData =
     "799510": {
         "description": "Squirting Dream Land",
         "tier": "1",
-        "owners": 49,
+        "owners": 50,
         "completions": 23,
         "playtime": 4.1811594202898545,
         "newestCompletion": "2025-01-09T15:25:52.000Z"
@@ -2109,7 +2109,7 @@ var masoData =
         "tier": "3",
         "owners": 93,
         "completions": 15,
-        "playtime": 40.64777777777777,
+        "playtime": 41.00666666666666,
         "newestCompletion": "2025-08-21T02:09:30.000Z"
     },
     "311930": {
@@ -2227,7 +2227,7 @@ var masoData =
     "1130410": {
         "description": "Spiderman in Tron\"s world",
         "tier": "1",
-        "owners": 104,
+        "owners": 105,
         "completions": 56,
         "playtime": 9.588988095238095,
         "newestCompletion": "2025-07-04T17:17:15.000Z"
@@ -2263,10 +2263,10 @@ var masoData =
     "1229580": {
         "description": "\u2733 Absolutely Discusting",
         "tier": "2",
-        "owners": 114,
-        "completions": 78,
-        "playtime": 17.668162393162394,
-        "newestCompletion": "2025-07-17T11:53:38.000Z",
+        "owners": 115,
+        "completions": 79,
+        "playtime": 17.675738396624475,
+        "newestCompletion": "2025-09-23T22:04:37.000Z",
         "badges": {
             "count": 1,
             "points": 6
@@ -2779,7 +2779,7 @@ var masoData =
     "851670": {
         "description": "\u2606 Now That's Not What I Call Music! Volume 1+2",
         "tier": "3",
-        "owners": 40,
+        "owners": 41,
         "completions": 9,
         "playtime": 47.42037037037037,
         "newestCompletion": "2025-04-06T15:52:30.000Z"
@@ -3065,7 +3065,7 @@ var masoData =
         "tier": "3",
         "owners": 159,
         "completions": 44,
-        "playtime": 198.17121212121208,
+        "playtime": 198.22954545454542,
         "newestCompletion": "2025-08-12T22:57:39.000Z"
     },
     "456390": {
@@ -3209,7 +3209,7 @@ var masoData =
         "tier": "3",
         "owners": 116,
         "completions": 58,
-        "playtime": 75.74827586206898,
+        "playtime": 75.93477011494254,
         "newestCompletion": "2025-09-12T19:50:11.000Z",
         "badges": {
             "count": 1,
@@ -3281,7 +3281,7 @@ var masoData =
         "tier": "0",
         "owners": 62,
         "completions": 6,
-        "playtime": 1231.6916666666668,
+        "playtime": 1232.213888888889,
         "newestCompletion": "2025-08-16T00:06:50.000Z",
         "badges": {
             "count": 6,
@@ -4464,22 +4464,22 @@ var masoData =
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
         "owners": 21,
-        "completions": 11,
-        "playtime": 9.015151515151514,
-        "newestCompletion": "2025-08-25T05:05:32.000Z"
+        "completions": 12,
+        "playtime": 10.009722222222221,
+        "newestCompletion": "2025-09-04T03:57:35.000Z"
     },
     "1030300": {
         "description": "Silksong",
         "tier": "6",
         "owners": 31,
         "completions": 10,
-        "playtime": 111.93166666666669,
+        "playtime": 112.06500000000001,
         "newestCompletion": "2025-09-26T02:27:51.000Z"
     },
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 26,
+        "owners": 27,
         "completions": 6,
         "playtime": 2185.9,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
