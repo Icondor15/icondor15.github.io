@@ -247,7 +247,7 @@ var masoData =
     "474210": {
         "description": "\u2733 and now comes the hard part",
         "tier": "2",
-        "owners": 44,
+        "owners": 45,
         "completions": 8,
         "playtime": 21.168750000000003,
         "newestCompletion": "2025-06-30T07:34:37.000Z"
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 236,
         "completions": 123,
-        "playtime": 190.91314363143636,
+        "playtime": 190.9563685636857,
         "newestCompletion": "2025-09-04T20:48:49.000Z",
         "badges": {
             "count": 2,
@@ -1364,9 +1364,9 @@ var masoData =
         "description": "\u2733 Just one more try\u2122",
         "tier": "2",
         "owners": 199,
-        "completions": 141,
-        "playtime": 21.621513002364054,
-        "newestCompletion": "2025-07-06T11:58:27.000Z"
+        "completions": 142,
+        "playtime": 21.564906103286372,
+        "newestCompletion": "2025-10-01T01:10:13.000Z"
     },
     "211260": {
         "description": "\u2606 Master jumping \"n slashin\" while juggling foes, all while avoiding deadly hazards. An action plaformer that will make other things bleed among pixels.",
@@ -2889,7 +2889,7 @@ var masoData =
         "tier": "1",
         "owners": 122,
         "completions": 37,
-        "playtime": 33.08648648648648,
+        "playtime": 33.10990990990991,
         "newestCompletion": "2025-04-01T04:26:58.000Z",
         "badges": {
             "count": 1,
@@ -3467,7 +3467,7 @@ var masoData =
     "1475840": {
         "description": "Beets to game to",
         "tier": "1",
-        "owners": 47,
+        "owners": 48,
         "completions": 17,
         "playtime": 11.174509803921568,
         "newestCompletion": "2025-01-08T22:48:21.000Z"
@@ -3521,7 +3521,7 @@ var masoData =
         "tier": "2",
         "owners": 95,
         "completions": 33,
-        "playtime": 51.01818181818182,
+        "playtime": 51.048484848484854,
         "newestCompletion": "2025-07-07T00:32:13.000Z"
     },
     "1442170": {
@@ -4463,23 +4463,23 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 21,
-        "completions": 12,
-        "playtime": 10.009722222222221,
+        "owners": 22,
+        "completions": 13,
+        "playtime": 9.810256410256411,
         "newestCompletion": "2025-09-04T03:57:35.000Z"
     },
     "1030300": {
         "description": "Silksong",
         "tier": "6",
-        "owners": 31,
-        "completions": 10,
-        "playtime": 112.06500000000001,
-        "newestCompletion": "2025-09-26T02:27:51.000Z"
+        "owners": 33,
+        "completions": 11,
+        "playtime": 109.0439393939394,
+        "newestCompletion": "2025-10-01T01:44:58.000Z"
     },
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 27,
+        "owners": 29,
         "completions": 6,
         "playtime": 2185.9,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
