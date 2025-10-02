@@ -2,57 +2,58 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2815150,
-        "CEId": "82b12c4c-6142-4a6a-a534-29f3f1aaf980",
-        "name": "Hollow Floor",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2815150/header.jpg?t=1726736391",
-        "genre": "Platformer",
-        "tier": 1,
-        "points": 10,
-        "createdAt": "2024-10-01T01:36:00.000Z",
+        "platformId": 1442170,
+        "CEId": "2f0c11dd-0339-49c9-ad57-fa9df01250a4",
+        "name": "KILLRUN",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1442170/header.jpg?t=1662651244",
+        "genre": "First-Person",
+        "tier": 4,
+        "points": 90,
+        "createdAt": "2022-10-02T10:22:54.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 3,
-        "playersStarted": 1,
-        "playersTotal": 10,
+        "playersCompleted": 10,
+        "playersStarted": 13,
+        "playersTotal": 107,
         "priceData": {
             "USD": {
-                "initial": 299,
-                "final": 299,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 299,
-                "final": 299,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 249,
-                "final": 249,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 35000,
-                "final": 35000,
+                "initial": 52000,
+                "final": 52000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 450,
-                "final": 450,
+                "initial": 750,
+                "final": 750,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 389,
-                "final": 389,
+                "initial": 569,
+                "final": 569,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Coinllector [5\u2605]\nCollect all coins in Coin mode without dying.\n\nCollectorb [5\u2605]\nCollect all three orbs and finish the game without dying.",
+            "primary": 4,
+            "primaryText": "Pacifist Pro [40\u2605]\nSet a pro time on every Momentum Jumper map.\n\n360 No-Scope[20\u2605 (Partial: 5\u2605)]\nSet a pro time on every Killrun map. *Partial points are awarded as a progress milestone.\n\nJump Around[15\u2605 (Partial: 5\u2605)]\nComplete both map packs in Jumper mode. *Partial points are awarded as a progress milestone.\n\nPacifist Adept [15\u2605]\nSet a pro time on every Original Jumper map.",
             "community": 0,
             "communityText": "",
-            "achievements": 14
-        }
+            "achievements": 22
+        },
+        "information": "For Pacifist Adept:\nhttps://upload.cedb.me/hElePV.png"
     }
 }
-var gameOfDayDate = '2025-10-01'
+var gameOfDayDate = '2025-10-02'
