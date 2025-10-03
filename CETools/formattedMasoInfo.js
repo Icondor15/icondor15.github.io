@@ -160,8 +160,8 @@ var masoData =
         "description": "Best (kinda) free game you played today",
         "tier": "1",
         "owners": 107,
-        "completions": 95,
-        "playtime": 3.553859649122809,
+        "completions": 96,
+        "playtime": 3.5625000000000018,
         "newestCompletion": "2025-08-02T21:57:00.000Z"
     },
     "927250": {
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 236,
         "completions": 123,
-        "playtime": 191.02384823848243,
+        "playtime": 191.02506775067752,
         "newestCompletion": "2025-09-04T20:48:49.000Z",
         "badges": {
             "count": 2,
@@ -751,7 +751,7 @@ var masoData =
     "503550": {
         "description": "\u2733 50 shades of precision platforming",
         "tier": "2",
-        "owners": 72,
+        "owners": 73,
         "completions": 24,
         "playtime": 27.889583333333334,
         "newestCompletion": "2025-07-09T00:43:17.000Z"
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 245,
         "completions": 178,
-        "playtime": 224.6663857677903,
+        "playtime": 224.67237827715365,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1027,7 +1027,7 @@ var masoData =
     "446840": {
         "description": "\ud83c\udf1f You get 4 colours - Blue for Splashing, Red for Sticking, Yellow for Bouncing, and Black for your future.",
         "tier": "5",
-        "owners": 128,
+        "owners": 129,
         "completions": 18,
         "playtime": 65.86203703703704,
         "newestCompletion": "2023-07-14T00:47:57.000Z"
@@ -1208,9 +1208,9 @@ var masoData =
         "description": "\ud83c\udf1f Extremely dedicated or extremely talented?",
         "tier": "5",
         "owners": 189,
-        "completions": 65,
-        "playtime": 194.17846153846153,
-        "newestCompletion": "2025-05-04T19:59:47.000Z",
+        "completions": 66,
+        "playtime": 192.04520202020203,
+        "newestCompletion": "2025-10-03T04:45:14.000Z",
         "badges": {
             "count": 1,
             "points": 15
@@ -1719,7 +1719,7 @@ var masoData =
     "1035850": {
         "description": "\u2733 I Wanna Be the Chad",
         "tier": "2",
-        "owners": 45,
+        "owners": 46,
         "completions": 16,
         "playtime": 18.690624999999997,
         "newestCompletion": "2023-10-23T04:36:04.000Z"
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 104,
         "completions": 31,
-        "playtime": 88.27043010752688,
+        "playtime": 88.5456989247312,
         "newestCompletion": "2025-08-27T18:23:40.000Z",
         "badges": {
             "count": 2,
@@ -2264,8 +2264,8 @@ var masoData =
         "description": "\u2733 Absolutely Discusting",
         "tier": "2",
         "owners": 115,
-        "completions": 79,
-        "playtime": 17.675738396624475,
+        "completions": 80,
+        "playtime": 17.515833333333337,
         "newestCompletion": "2025-09-23T22:04:37.000Z",
         "badges": {
             "count": 1,
@@ -2479,7 +2479,7 @@ var masoData =
     "1181000": {
         "description": "Start with the first game, or don\"t--I\"m not your mother",
         "tier": "1",
-        "owners": 100,
+        "owners": 101,
         "completions": 57,
         "playtime": 1.6327485380116953,
         "newestCompletion": "2025-08-30T16:24:29.000Z",
@@ -2647,7 +2647,7 @@ var masoData =
     "1170060": {
         "description": "\u272a Okay Boomerang ",
         "tier": "4",
-        "owners": 74,
+        "owners": 75,
         "completions": 22,
         "playtime": 16.551515151515147,
         "newestCompletion": "2025-09-09T18:04:42.000Z"
@@ -2753,7 +2753,7 @@ var masoData =
         "tier": "3",
         "owners": 60,
         "completions": 19,
-        "playtime": 185.1324561403509,
+        "playtime": 185.14561403508776,
         "newestCompletion": "2025-06-21T16:16:20.000Z",
         "badges": {
             "count": 2,
@@ -3065,7 +3065,7 @@ var masoData =
         "tier": "3",
         "owners": 159,
         "completions": 44,
-        "playtime": 198.22954545454542,
+        "playtime": 198.23181818181817,
         "newestCompletion": "2025-08-12T22:57:39.000Z"
     },
     "456390": {
@@ -3321,7 +3321,7 @@ var masoData =
         "tier": "2",
         "owners": 106,
         "completions": 38,
-        "playtime": 93.32149122807019,
+        "playtime": 93.39210526315792,
         "newestCompletion": "2025-08-26T22:45:42.000Z",
         "badges": {
             "count": 3,
@@ -3541,7 +3541,7 @@ var masoData =
         "tier": "3",
         "owners": 52,
         "completions": 10,
-        "playtime": 167.86,
+        "playtime": 167.92000000000002,
         "newestCompletion": "2025-07-15T23:37:24.000Z",
         "badges": {
             "count": 1,
@@ -3627,7 +3627,7 @@ var masoData =
     "2015460": {
         "description": "The Ol' SWWWitcheroo",
         "tier": "1",
-        "owners": 17,
+        "owners": 18,
         "completions": 7,
         "playtime": 11.590476190476192,
         "newestCompletion": "2025-07-08T10:17:07.000Z",
@@ -3717,7 +3717,7 @@ var masoData =
         "tier": "2",
         "owners": 55,
         "completions": 8,
-        "playtime": 106.13541666666666,
+        "playtime": 106.14375,
         "newestCompletion": "2025-07-22T01:59:55.000Z"
     },
     "1820570": {
@@ -3813,7 +3813,7 @@ var masoData =
         "tier": "2",
         "owners": 115,
         "completions": 13,
-        "playtime": 248.5423076923077,
+        "playtime": 248.54358974358973,
         "newestCompletion": "2025-03-13T19:45:26.000Z",
         "badges": {
             "count": 1,
@@ -4471,7 +4471,7 @@ var masoData =
     "1030300": {
         "description": "Silksong",
         "tier": "6",
-        "owners": 35,
+        "owners": 37,
         "completions": 11,
         "playtime": 109.46060606060605,
         "newestCompletion": "2025-10-01T01:44:58.000Z"
@@ -4479,7 +4479,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 31,
+        "owners": 32,
         "completions": 6,
         "playtime": 2185.9,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
