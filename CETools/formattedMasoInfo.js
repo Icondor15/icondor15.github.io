@@ -691,10 +691,10 @@ var masoData =
     "360740": {
         "description": "\u2733 Well diving simulator",
         "tier": "2",
-        "owners": 178,
-        "completions": 95,
-        "playtime": 12.813859649122806,
-        "newestCompletion": "2025-09-30T01:13:44.000Z"
+        "owners": 179,
+        "completions": 96,
+        "playtime": 12.821527777777776,
+        "newestCompletion": "2025-10-01T21:09:49.000Z"
     },
     "247240": {
         "description": "\u2733 Oldschool hack and slash",
@@ -1795,7 +1795,7 @@ var masoData =
     "909670": {
         "description": "\u2733 RGB Mashmania",
         "tier": "2",
-        "owners": 24,
+        "owners": 25,
         "completions": 10,
         "playtime": 33.568333333333335,
         "newestCompletion": "2022-05-29T19:30:51.000Z",
@@ -2032,9 +2032,9 @@ var masoData =
         "description": "\u2733 SKRRT SKRRT",
         "tier": "2",
         "owners": 57,
-        "completions": 15,
-        "playtime": 12.47888888888889,
-        "newestCompletion": "2023-12-15T03:05:29.000Z"
+        "completions": 16,
+        "playtime": 12.223958333333334,
+        "newestCompletion": "2025-10-03T07:13:41.000Z"
     },
     "416830": {
         "description": "Lightspeed",
@@ -2387,7 +2387,7 @@ var masoData =
     "544330": {
         "description": "Keep a firm grip",
         "tier": "1",
-        "owners": 101,
+        "owners": 102,
         "completions": 24,
         "playtime": 14.339583333333332,
         "newestCompletion": "2024-07-19T18:41:08.000Z"
@@ -3771,7 +3771,7 @@ var masoData =
     "1740930": {
         "description": "Boing!",
         "tier": "1",
-        "owners": 25,
+        "owners": 26,
         "completions": 4,
         "playtime": 27.9625,
         "newestCompletion": "2024-12-17T01:51:30.000Z",
@@ -3823,7 +3823,7 @@ var masoData =
     "1400910": {
         "description": "\u2733 Soundblocker+",
         "tier": "2",
-        "owners": 33,
+        "owners": 34,
         "completions": 5,
         "playtime": 139.73999999999998,
         "newestCompletion": "2023-11-05T07:53:12.000Z",
