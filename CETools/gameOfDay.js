@@ -1,58 +1,26 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 1627720,
-        "CEId": "a2f42487-5b7f-4427-bbb3-cd7a047d6031",
-        "name": "Lies of P",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1754552654",
-        "genre": "Action",
-        "tier": 3,
-        "points": 40,
-        "createdAt": "2023-10-03T23:01:37.000Z",
-        "updatedAt": "2025-09-13T16:28:58.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 67,
-        "playersTotal": 131,
-        "priceData": {
-            "USD": {
-                "initial": 5999,
-                "final": 2999,
-                "discountPercent": 50
-            },
-            "EUR": {
-                "initial": 5999,
-                "final": 2999,
-                "discountPercent": 50
-            },
-            "GBP": {
-                "initial": 4999,
-                "final": 2499,
-                "discountPercent": 50
-            },
-            "JPY": {
-                "initial": 836000,
-                "final": 418000,
-                "discountPercent": 50
-            },
-            "AUD": {
-                "initial": 8995,
-                "final": 4497,
-                "discountPercent": 50
-            },
-            "CAD": {
-                "initial": 7999,
-                "final": 3999,
-                "discountPercent": 50
-            }
-        },
+        "gameType": 1,
+        "platformId": 1294170,
+        "CEId": "ac61194a-354d-4cdd-abcc-5d1bcbefba2f",
+        "name": "TCSTRIKERS3",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1294170/header.jpg?t=1713051474",
+        "genre": "Bullet Hell",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2024-10-04T08:12:29.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 3,
+        "playersStarted": 0,
+        "playersTotal": 52,
         "milestones": {
-            "primary": 3,
-            "primaryText": "Weight of Your Picks [20\u2605]\nDefeat all battle memories on Difficulty 5.\n\nPainted in Blood [10\u2605]\nComplete the DLC on Legendary Stalker difficulty.\n\nNo Mere Puppet [10\u2605]\nDefeat the Nameless Puppet.",
+            "primary": 1,
+            "primaryText": "Techno Comeback [5\u2605]\n1CC the game on Original mode and beat the extra stage.",
             "community": 0,
             "communityText": "",
-            "achievements": 53
+            "achievements": 0
         }
     }
 }
-var gameOfDayDate = '2025-10-03'
+var gameOfDayDate = '2025-10-04'
