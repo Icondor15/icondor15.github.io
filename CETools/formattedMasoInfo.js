@@ -3520,9 +3520,9 @@ var masoData =
         "description": "\u2733 Pizza, Pasta, Put it in a box",
         "tier": "2",
         "owners": 95,
-        "completions": 33,
-        "playtime": 51.048484848484854,
-        "newestCompletion": "2025-07-07T00:32:13.000Z"
+        "completions": 34,
+        "playtime": 50.530882352941184,
+        "newestCompletion": "2025-10-05T20:51:14.000Z"
     },
     "1442170": {
         "description": "\u2733 360 no scope, but fast",
@@ -4060,9 +4060,9 @@ var masoData =
         "description": "I put my right leg in, I put my right leg out, In out, in out, shake it all about. (Co-op)",
         "tier": "1",
         "owners": 40,
-        "completions": 14,
-        "playtime": 10.866666666666665,
-        "newestCompletion": "2024-12-30T17:01:59.000Z",
+        "completions": 15,
+        "playtime": 10.787777777777778,
+        "newestCompletion": "2025-10-05T17:01:04.000Z",
         "badges": {
             "count": 1,
             "points": 1
@@ -4471,7 +4471,7 @@ var masoData =
     "1030300": {
         "description": "Silksong",
         "tier": "6",
-        "owners": 39,
+        "owners": 40,
         "completions": 12,
         "playtime": 106.3625,
         "newestCompletion": "2025-10-01T01:44:58.000Z"
