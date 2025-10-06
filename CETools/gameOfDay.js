@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1573090,
-        "CEId": "2a13022c-7098-4ecd-8459-3c93b1ab01cd",
-        "name": "Impaler Gold",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573090/header.jpg?t=1726503502",
-        "genre": "First-Person",
-        "tier": 1,
-        "points": 5,
-        "createdAt": "2024-10-05T20:23:34.000Z",
+        "platformId": 1076200,
+        "CEId": "d39bc0c4-b2c6-4af4-b811-23dd33d84b67",
+        "name": "Roguebook",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1076200/header.jpg?t=1685103732",
+        "genre": "Strategy",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2023-10-06T12:29:29.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 22,
+        "playersTotal": 121,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 224,
-                "discountPercent": 55
+                "initial": 2499,
+                "final": 374,
+                "discountPercent": 85
             },
             "EUR": {
-                "initial": 499,
-                "final": 224,
-                "discountPercent": 55
+                "initial": 2499,
+                "final": 374,
+                "discountPercent": 85
             },
             "GBP": {
-                "initial": 429,
-                "final": 193,
-                "discountPercent": 55
+                "initial": 1999,
+                "final": 299,
+                "discountPercent": 85
             },
             "JPY": {
-                "initial": 58000,
-                "final": 26100,
-                "discountPercent": 55
+                "initial": 257000,
+                "final": 38500,
+                "discountPercent": 85
             },
             "AUD": {
-                "initial": 750,
-                "final": 337,
-                "discountPercent": 55
+                "initial": 3595,
+                "final": 539,
+                "discountPercent": 85
             },
             "CAD": {
-                "initial": 649,
-                "final": 292,
-                "discountPercent": 55
+                "initial": 2899,
+                "final": 434,
+                "discountPercent": 85
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Danger Zone [5\u2605]\nSeparately; complete the game on Nightmare difficulty and complete the collectathon mode in under 13 minutes.",
+            "primaryText": "Slay the Book [20\u2605]\nComplete a run at max Epilogue level.",
             "community": 0,
             "communityText": "",
-            "achievements": 23
+            "achievements": 61
         }
     }
 }
-var gameOfDayDate = '2025-10-05'
+var gameOfDayDate = '2025-10-06'
