@@ -185,7 +185,7 @@ var masoData =
         "tier": "1",
         "owners": 179,
         "completions": 85,
-        "playtime": 42.35882352941177,
+        "playtime": 42.36039215686275,
         "newestCompletion": "2025-07-28T16:36:33.000Z",
         "badges": {
             "count": 1,
@@ -428,8 +428,8 @@ var masoData =
         "description": "\u2733 No longer casual \u02c3\u0323\u0323\u0325\u2313\u02c2\u0323\u0323\u0325",
         "tier": "2",
         "owners": 237,
-        "completions": 124,
-        "playtime": 190.28911290322583,
+        "completions": 125,
+        "playtime": 191.61373333333333,
         "newestCompletion": "2025-09-04T20:48:49.000Z",
         "badges": {
             "count": 2,
@@ -852,8 +852,8 @@ var masoData =
         "description": "Literally",
         "tier": "1",
         "owners": 129,
-        "completions": 98,
-        "playtime": 6.632312925170067,
+        "completions": 99,
+        "playtime": 6.606734006734006,
         "newestCompletion": "2025-05-10T22:04:03.000Z"
     },
     "607400": {
@@ -1020,8 +1020,8 @@ var masoData =
         "description": "\u2606 Eternal Nightmare",
         "tier": "3",
         "owners": 83,
-        "completions": 3,
-        "playtime": 154.53333333333333,
+        "completions": 4,
+        "playtime": 152.2125,
         "newestCompletion": "2025-05-16T00:36:22.000Z"
     },
     "446840": {
@@ -1147,7 +1147,7 @@ var masoData =
     "400910": {
         "description": "\u272a I wanna be the waifu",
         "tier": "4",
-        "owners": 90,
+        "owners": 91,
         "completions": 13,
         "playtime": 289.5615384615385,
         "newestCompletion": "2024-01-01T22:31:43.000Z"
@@ -1416,9 +1416,9 @@ var masoData =
         "description": "\u2733 Video games are art\u2122",
         "tier": "2",
         "owners": 142,
-        "completions": 65,
-        "playtime": 36.10692307692308,
-        "newestCompletion": "2025-08-19T20:19:56.000Z",
+        "completions": 66,
+        "playtime": 36.62323232323234,
+        "newestCompletion": "2025-09-28T06:58:41.000Z",
         "badges": {
             "count": 2,
             "points": 20
@@ -1477,7 +1477,7 @@ var masoData =
         "tier": "5",
         "owners": 133,
         "completions": 36,
-        "playtime": 281.3787037037037,
+        "playtime": 281.4412037037037,
         "newestCompletion": "2025-06-16T07:54:51.000Z",
         "badges": {
             "count": 1,
@@ -1487,7 +1487,7 @@ var masoData =
     "595790": {
         "description": "Stop holding the fire button to suck in games",
         "tier": "1",
-        "owners": 50,
+        "owners": 51,
         "completions": 24,
         "playtime": 9.74375,
         "newestCompletion": "2023-07-15T10:22:40.000Z",
@@ -1535,7 +1535,7 @@ var masoData =
     "447150": {
         "description": "\u272a Hotline Harambe",
         "tier": "4",
-        "owners": 92,
+        "owners": 93,
         "completions": 23,
         "playtime": 63.82028985507246,
         "newestCompletion": "2025-01-04T14:16:00.000Z",
@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 109,
         "completions": 48,
-        "playtime": 248.28055555555557,
+        "playtime": 249.62569444444446,
         "newestCompletion": "2025-06-06T16:31:25.000Z",
         "badges": {
             "count": 1,
@@ -2771,7 +2771,7 @@ var masoData =
     "1062110": {
         "description": "\u2733 Intro to Sequence Breaking",
         "tier": "2",
-        "owners": 25,
+        "owners": 26,
         "completions": 7,
         "playtime": 47.85238095238095,
         "newestCompletion": "2024-10-05T03:21:11.000Z"
@@ -2880,9 +2880,9 @@ var masoData =
         "description": "\u272a The M stands for monochrome",
         "tier": "4",
         "owners": 86,
-        "completions": 16,
-        "playtime": 54.590625,
-        "newestCompletion": "2025-02-15T06:59:32.000Z"
+        "completions": 17,
+        "playtime": 53.13921568627451,
+        "newestCompletion": "2025-10-04T22:56:27.000Z"
     },
     "774171": {
         "description": "Waifu Smash",
@@ -3064,8 +3064,8 @@ var masoData =
         "description": "\u2606 Slay your cards right",
         "tier": "3",
         "owners": 159,
-        "completions": 44,
-        "playtime": 198.26477272727269,
+        "completions": 45,
+        "playtime": 198.1133333333333,
         "newestCompletion": "2025-08-12T22:57:39.000Z"
     },
     "456390": {
@@ -3811,7 +3811,7 @@ var masoData =
     "212680": {
         "description": "\u2733 Noone can hear you raging in space",
         "tier": "2",
-        "owners": 115,
+        "owners": 116,
         "completions": 13,
         "playtime": 248.54358974358973,
         "newestCompletion": "2025-03-13T19:45:26.000Z",
@@ -4124,8 +4124,8 @@ var masoData =
         "description": "American Assist Mode",
         "tier": "1",
         "owners": 22,
-        "completions": 7,
-        "playtime": 17.96904761904762,
+        "completions": 8,
+        "playtime": 17.897916666666664,
         "newestCompletion": "2025-08-30T11:53:06.000Z"
     },
     "2144740": {
@@ -4243,7 +4243,7 @@ var masoData =
     "1406250": {
         "description": "\ud83c\udf1fDon't waste your shrikens",
         "tier": "5",
-        "owners": 25,
+        "owners": 26,
         "completions": 2,
         "playtime": 106.56666666666666,
         "newestCompletion": "2024-08-03T06:00:49.000Z"
@@ -4319,7 +4319,7 @@ var masoData =
     "412670": {
         "description": "\u2733 All cats go to bullet heaven",
         "tier": "2",
-        "owners": 29,
+        "owners": 30,
         "completions": 9,
         "playtime": 27.227777777777778,
         "newestCompletion": "2024-12-27T20:51:40.000Z"
@@ -4419,9 +4419,9 @@ var masoData =
     "1388770": {
         "description": "Finland Pain Simulator",
         "tier": "1",
-        "owners": 27,
-        "completions": 6,
-        "playtime": 28.877777777777776,
+        "owners": 28,
+        "completions": 7,
+        "playtime": 31.142857142857142,
         "newestCompletion": "2025-04-29T04:41:51.000Z"
     },
     "1164940": {
@@ -4469,9 +4469,9 @@ var masoData =
         "newestCompletion": "2025-09-04T03:57:35.000Z"
     },
     "1030300": {
-        "description": "Silksong",
-        "tier": "6",
-        "owners": 40,
+        "description": "\u2733 Silksong",
+        "tier": "2",
+        "owners": 41,
         "completions": 12,
         "playtime": 106.3625,
         "newestCompletion": "2025-10-01T01:44:58.000Z"
@@ -4479,7 +4479,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 33,
+        "owners": 34,
         "completions": 6,
         "playtime": 2185.9,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
