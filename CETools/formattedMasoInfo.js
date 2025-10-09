@@ -95,7 +95,7 @@ var masoData =
     "928840": {
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
-        "owners": 44,
+        "owners": 45,
         "completions": 10,
         "playtime": 7.436666666666666,
         "newestCompletion": "2025-08-22T15:28:25.000Z"
@@ -717,7 +717,7 @@ var masoData =
         "tier": "4",
         "owners": 56,
         "completions": 15,
-        "playtime": 44.121111111111105,
+        "playtime": 44.12888888888889,
         "newestCompletion": "2025-02-02T16:32:31.000Z"
     },
     "384250": {
@@ -1188,9 +1188,9 @@ var masoData =
         "description": "\ud83c\udf1f\ud83d\udc80 Time is money \ud83d\udc80",
         "tier": "5",
         "owners": 165,
-        "completions": 19,
-        "playtime": 1306.526315789474,
-        "newestCompletion": "2024-02-26T23:57:59.000Z",
+        "completions": 20,
+        "playtime": 1302.7675000000002,
+        "newestCompletion": "2025-10-08T03:03:52.000Z",
         "badges": {
             "count": 3,
             "points": 40
@@ -4419,10 +4419,10 @@ var masoData =
     "1388770": {
         "description": "Finland Pain Simulator",
         "tier": "1",
-        "owners": 28,
-        "completions": 7,
-        "playtime": 31.142857142857142,
-        "newestCompletion": "2025-04-29T04:41:51.000Z"
+        "owners": 29,
+        "completions": 8,
+        "playtime": 28.410416666666666,
+        "newestCompletion": "2025-10-09T05:09:15.000Z"
     },
     "1164940": {
         "description": "\u2733 You killed Kenny! You Bastards!",
@@ -4481,7 +4481,7 @@ var masoData =
         "tier": "0",
         "owners": 34,
         "completions": 6,
-        "playtime": 2185.9,
+        "playtime": 2189.733333333333,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
         "badges": {
             "count": 1,
