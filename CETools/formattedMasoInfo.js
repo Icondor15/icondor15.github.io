@@ -717,7 +717,7 @@ var masoData =
         "tier": "4",
         "owners": 56,
         "completions": 15,
-        "playtime": 44.12888888888889,
+        "playtime": 44.15999999999999,
         "newestCompletion": "2025-02-02T16:32:31.000Z"
     },
     "384250": {
@@ -2869,7 +2869,7 @@ var masoData =
         "tier": "5",
         "owners": 33,
         "completions": 2,
-        "playtime": 222.09166666666667,
+        "playtime": 237.90833333333336,
         "newestCompletion": "2023-10-12T23:46:10.000Z",
         "badges": {
             "count": 2,
@@ -3103,7 +3103,7 @@ var masoData =
     "220160": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f Trial your might",
         "tier": "0",
-        "owners": 54,
+        "owners": 55,
         "completions": 6,
         "playtime": 107.57222222222221,
         "newestCompletion": "2025-08-27T18:01:30.000Z",
@@ -3299,7 +3299,7 @@ var masoData =
     "245490": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f WELCOME TO THE FUTUUUUUUUUUURE",
         "tier": "0",
-        "owners": 50,
+        "owners": 51,
         "completions": 4,
         "playtime": 207.18333333333334,
         "newestCompletion": "2025-08-19T12:24:00.000Z",
@@ -3369,7 +3369,7 @@ var masoData =
         "tier": "2",
         "owners": 28,
         "completions": 10,
-        "playtime": 17.651666666666667,
+        "playtime": 17.67666666666667,
         "newestCompletion": "2023-08-23T19:45:42.000Z"
     },
     "2016580": {
@@ -4059,7 +4059,7 @@ var masoData =
     "1071870": {
         "description": "I put my right leg in, I put my right leg out, In out, in out, shake it all about. (Co-op)",
         "tier": "1",
-        "owners": 39,
+        "owners": 40,
         "completions": 15,
         "playtime": 10.787777777777778,
         "newestCompletion": "2025-10-05T17:01:04.000Z",
@@ -4235,7 +4235,7 @@ var masoData =
     "1585220": {
         "description": "Life could be a dream",
         "tier": "1",
-        "owners": 24,
+        "owners": 25,
         "completions": 5,
         "playtime": 8.92,
         "newestCompletion": "2025-07-27T15:54:23.000Z"
@@ -4363,7 +4363,7 @@ var masoData =
     "464450": {
         "description": "\ud83c\udf1f \ud83d\udc80 NOT THE BEES \ud83d\udc80",
         "tier": "5",
-        "owners": 28,
+        "owners": 29,
         "completions": 2,
         "playtime": 391.95833333333337,
         "newestCompletion": "2025-09-27T16:07:06.000Z",
@@ -4395,9 +4395,9 @@ var masoData =
     "2474690": {
         "description": "Wreckfast",
         "tier": "1",
-        "owners": 20,
-        "completions": 3,
-        "playtime": 3.555555555555556,
+        "owners": 21,
+        "completions": 4,
+        "playtime": 3.9083333333333337,
         "newestCompletion": "2025-07-13T21:12:28.000Z"
     },
     "1809540": {
@@ -4419,7 +4419,7 @@ var masoData =
     "1388770": {
         "description": "Finland Pain Simulator",
         "tier": "1",
-        "owners": 29,
+        "owners": 30,
         "completions": 8,
         "playtime": 28.410416666666666,
         "newestCompletion": "2025-10-09T05:09:15.000Z"
@@ -4455,7 +4455,7 @@ var masoData =
     "2099440": {
         "description": "Ancient techbros' ultimate showdown",
         "tier": "1",
-        "owners": 23,
+        "owners": 24,
         "completions": 6,
         "playtime": 10.597222222222223,
         "newestCompletion": "2025-09-19T05:12:53.000Z"
@@ -4463,9 +4463,9 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 22,
-        "completions": 13,
-        "playtime": 9.810256410256411,
+        "owners": 23,
+        "completions": 14,
+        "playtime": 9.44404761904762,
         "newestCompletion": "2025-09-04T03:57:35.000Z"
     },
     "1030300": {
@@ -4479,7 +4479,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 34,
+        "owners": 35,
         "completions": 6,
         "playtime": 2189.733333333333,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
