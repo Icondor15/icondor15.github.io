@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1372210,
-        "CEId": "7938a2f0-a471-402f-a02c-f7d17a03155a",
-        "name": "Dap",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1372210/header.jpg?t=1635209446",
-        "genre": "Action",
-        "tier": 1,
-        "points": 15,
-        "createdAt": "2022-10-12T00:17:10.000Z",
-        "updatedAt": "2025-10-03T17:01:24.000Z",
-        "playersCompleted": 4,
-        "playersStarted": 0,
-        "playersTotal": 35,
+        "platformId": 2433220,
+        "CEId": "d4fca671-ce6d-4679-bb7b-00e1b8696cbc",
+        "name": "Reflector Rhythm Master",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2433220/header.jpg?t=1686780029",
+        "genre": "Arcade",
+        "tier": 2,
+        "points": 30,
+        "createdAt": "2023-10-13T06:46:52.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 6,
+        "playersStarted": 3,
+        "playersTotal": 17,
         "priceData": {
             "USD": {
-                "initial": 1399,
-                "final": 1399,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1159,
-                "final": 1159,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1099,
-                "final": 1099,
+                "initial": 339,
+                "final": 339,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 142000,
-                "final": 142000,
+                "initial": 47000,
+                "final": 47000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1995,
-                "final": 1995,
+                "initial": 595,
+                "final": 595,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1549,
-                "final": 1549,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Depressing Alternative of Pikmin [15\u2605]\nBeat the game without dying.",
+            "primaryText": "RhythmOut[30\u2605 (Partial: 15\u2605)]\nDo not make any mistake on all levels with 5 buttons. *Partial points are awarded as progress milestone.",
             "community": 0,
             "communityText": "",
-            "achievements": 17
+            "achievements": 12
         }
     }
 }
-var gameOfDayDate = '2025-10-12'
+var gameOfDayDate = '2025-10-13'
