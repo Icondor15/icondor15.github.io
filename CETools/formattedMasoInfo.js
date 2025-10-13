@@ -95,7 +95,7 @@ var masoData =
     "928840": {
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
-        "owners": 46,
+        "owners": 47,
         "completions": 10,
         "playtime": 7.436666666666666,
         "newestCompletion": "2025-08-22T15:28:25.000Z"
@@ -257,7 +257,7 @@ var masoData =
         "tier": "4",
         "owners": 145,
         "completions": 17,
-        "playtime": 201.74509803921566,
+        "playtime": 201.84509803921566,
         "newestCompletion": "2025-07-19T08:37:11.000Z"
     },
     "795570": {
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 236,
         "completions": 124,
-        "playtime": 191.77956989247312,
+        "playtime": 191.9170698924731,
         "newestCompletion": "2025-09-04T20:48:49.000Z",
         "badges": {
             "count": 2,
@@ -959,7 +959,7 @@ var masoData =
     "239800": {
         "description": "\u2606 Through your fingers",
         "tier": "3",
-        "owners": 68,
+        "owners": 69,
         "completions": 13,
         "playtime": 14.137179487179488,
         "newestCompletion": "2024-08-10T10:41:29.000Z"
@@ -967,7 +967,7 @@ var masoData =
     "292500": {
         "description": "\u2733 Go Zangyourself",
         "tier": "2",
-        "owners": 68,
+        "owners": 69,
         "completions": 18,
         "playtime": 21.67592592592593,
         "newestCompletion": "2025-09-24T16:53:18.000Z"
@@ -1236,9 +1236,9 @@ var masoData =
         "description": "\u272a Unfair - the game.",
         "tier": "4",
         "owners": 74,
-        "completions": 15,
-        "playtime": 17.153333333333332,
-        "newestCompletion": "2025-02-18T05:06:14.000Z",
+        "completions": 16,
+        "playtime": 17.421875,
+        "newestCompletion": "2025-09-24T19:45:34.000Z",
         "badges": {
             "count": 1,
             "points": 0
@@ -1364,9 +1364,9 @@ var masoData =
         "description": "\u2733 Just one more try\u2122",
         "tier": "2",
         "owners": 198,
-        "completions": 142,
-        "playtime": 21.564906103286372,
-        "newestCompletion": "2025-10-01T01:10:13.000Z"
+        "completions": 143,
+        "playtime": 21.479487179487165,
+        "newestCompletion": "2025-10-05T20:59:52.000Z"
     },
     "211260": {
         "description": "\u2606 Master jumping \"n slashin\" while juggling foes, all while avoiding deadly hazards. An action plaformer that will make other things bleed among pixels.",
@@ -1947,7 +1947,7 @@ var masoData =
     "251470": {
         "description": "\u2733 3-in-1 Action Pack",
         "tier": "2",
-        "owners": 76,
+        "owners": 77,
         "completions": 9,
         "playtime": 63.68888888888888,
         "newestCompletion": "2024-08-06T23:04:30.000Z"
@@ -1987,7 +1987,7 @@ var masoData =
     "977950": {
         "description": "\u2606 Visually challenging rhythm gameplay",
         "tier": "3",
-        "owners": 104,
+        "owners": 105,
         "completions": 31,
         "playtime": 88.54892473118281,
         "newestCompletion": "2025-08-27T18:23:40.000Z",
@@ -2939,10 +2939,10 @@ var masoData =
     "1484800": {
         "description": "\u2733 Bonk, go to corny jail",
         "tier": "2",
-        "owners": 48,
-        "completions": 9,
-        "playtime": 17.103703703703705,
-        "newestCompletion": "2024-02-13T04:16:13.000Z",
+        "owners": 49,
+        "completions": 10,
+        "playtime": 16.193333333333335,
+        "newestCompletion": "2025-08-18T23:10:31.000Z",
         "badges": {
             "count": 1,
             "points": 10
@@ -2963,7 +2963,7 @@ var masoData =
     "1604780": {
         "description": "\u2606 ft. DJ Wet Noodle",
         "tier": "3",
-        "owners": 33,
+        "owners": 34,
         "completions": 13,
         "playtime": 27.244871794871795,
         "newestCompletion": "2025-09-22T01:57:48.000Z"
@@ -3065,7 +3065,7 @@ var masoData =
         "tier": "3",
         "owners": 158,
         "completions": 44,
-        "playtime": 200.26477272727269,
+        "playtime": 200.317803030303,
         "newestCompletion": "2025-08-12T22:57:39.000Z"
     },
     "456390": {
@@ -3171,7 +3171,7 @@ var masoData =
     "396350": {
         "description": "\u2733 Through your fingers again",
         "tier": "2",
-        "owners": 50,
+        "owners": 51,
         "completions": 3,
         "playtime": 34.47222222222222,
         "newestCompletion": "2022-10-18T20:20:01.000Z",
@@ -3965,7 +3965,7 @@ var masoData =
         "tier": "3",
         "owners": 116,
         "completions": 11,
-        "playtime": 408.92272727272734,
+        "playtime": 409.29545454545456,
         "newestCompletion": "2025-02-09T16:05:47.000Z"
     },
     "718010": {
@@ -4304,9 +4304,9 @@ var masoData =
         "description": "\u2606 Not quite a Bad Apple",
         "tier": "3",
         "owners": 24,
-        "completions": 7,
-        "playtime": 23.12857142857143,
-        "newestCompletion": "2025-07-13T11:17:06.000Z"
+        "completions": 8,
+        "playtime": 22.1375,
+        "newestCompletion": "2025-10-12T21:52:54.000Z"
     },
     "3274300": {
         "description": "Tier 1 Shocker",
@@ -4319,9 +4319,9 @@ var masoData =
     "412670": {
         "description": "\u2733 All cats go to bullet heaven",
         "tier": "2",
-        "owners": 30,
-        "completions": 9,
-        "playtime": 27.227777777777778,
+        "owners": 31,
+        "completions": 10,
+        "playtime": 47.06666666666667,
         "newestCompletion": "2024-12-27T20:51:40.000Z"
     },
     "3044100": {
@@ -4471,7 +4471,7 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 41,
+        "owners": 42,
         "completions": 12,
         "playtime": 106.3625,
         "newestCompletion": "2025-10-01T01:44:58.000Z"
@@ -4479,9 +4479,9 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 38,
-        "completions": 6,
-        "playtime": 2189.733333333333,
+        "owners": 40,
+        "completions": 7,
+        "playtime": 2241.171428571429,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
         "badges": {
             "count": 1,
