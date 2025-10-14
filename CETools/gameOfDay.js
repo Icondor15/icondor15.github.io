@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2433220,
-        "CEId": "d4fca671-ce6d-4679-bb7b-00e1b8696cbc",
-        "name": "Reflector Rhythm Master",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2433220/header.jpg?t=1686780029",
-        "genre": "Arcade",
+        "platformId": 2960500,
+        "CEId": "4d4d8d6a-afdd-4378-b250-1bf3c4d86c59",
+        "name": "Sparedevil",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/header.jpg?t=1726048957",
+        "genre": "First-Person",
         "tier": 2,
-        "points": 30,
-        "createdAt": "2023-10-13T06:46:52.000Z",
+        "points": 20,
+        "createdAt": "2024-10-14T14:46:10.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 6,
-        "playersStarted": 3,
-        "playersTotal": 17,
+        "playersCompleted": 1,
+        "playersStarted": 0,
+        "playersTotal": 8,
         "priceData": {
             "USD": {
-                "initial": 399,
-                "final": 399,
+                "initial": 1199,
+                "final": 1199,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 399,
-                "final": 399,
+                "initial": 1179,
+                "final": 1179,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 339,
-                "final": 339,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 47000,
-                "final": 47000,
+                "initial": 140000,
+                "final": 140000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 595,
-                "final": 595,
+                "initial": 1775,
+                "final": 1775,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 1549,
+                "final": 1549,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "RhythmOut[30\u2605 (Partial: 15\u2605)]\nDo not make any mistake on all levels with 5 buttons. *Partial points are awarded as progress milestone.",
+            "primaryText": "BOWLIFIED [20\u2605]\nScore 10,000,000 points in one run.",
             "community": 0,
             "communityText": "",
-            "achievements": 12
+            "achievements": 58
         }
     }
 }
-var gameOfDayDate = '2025-10-13'
+var gameOfDayDate = '2025-10-14'
