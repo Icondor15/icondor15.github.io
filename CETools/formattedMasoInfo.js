@@ -95,7 +95,7 @@ var masoData =
     "928840": {
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
-        "owners": 47,
+        "owners": 48,
         "completions": 10,
         "playtime": 7.436666666666666,
         "newestCompletion": "2025-08-22T15:28:25.000Z"
@@ -723,7 +723,7 @@ var masoData =
     "384250": {
         "description": "\u2606 Super Slide Bear Ressurection",
         "tier": "3",
-        "owners": 45,
+        "owners": 46,
         "completions": 12,
         "playtime": 108.0625,
         "newestCompletion": "2025-04-02T05:26:43.000Z",
@@ -1365,7 +1365,7 @@ var masoData =
         "tier": "2",
         "owners": 198,
         "completions": 143,
-        "playtime": 21.479487179487165,
+        "playtime": 21.479603729603717,
         "newestCompletion": "2025-10-05T20:59:52.000Z"
     },
     "211260": {
@@ -1379,7 +1379,7 @@ var masoData =
     "237740": {
         "description": "\ud83c\udf1f An Angry video game nerd training program.",
         "tier": "5",
-        "owners": 66,
+        "owners": 67,
         "completions": 7,
         "playtime": 59.392857142857146,
         "newestCompletion": "2025-07-12T20:05:16.000Z"
@@ -2197,7 +2197,7 @@ var masoData =
         "tier": "3",
         "owners": 40,
         "completions": 12,
-        "playtime": 55.699999999999996,
+        "playtime": 55.94444444444445,
         "newestCompletion": "2025-04-27T11:56:17.000Z"
     },
     "382560": {
@@ -2331,7 +2331,7 @@ var masoData =
     "409660": {
         "description": "\u2733 Ugh, my poor fingies, man",
         "tier": "2",
-        "owners": 46,
+        "owners": 47,
         "completions": 9,
         "playtime": 15.651851851851855,
         "newestCompletion": "2025-07-17T16:35:49.000Z"
@@ -3207,7 +3207,7 @@ var masoData =
     "1533420": {
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
-        "owners": 116,
+        "owners": 117,
         "completions": 58,
         "playtime": 75.93477011494254,
         "newestCompletion": "2025-09-12T19:50:11.000Z",
@@ -4463,10 +4463,10 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 24,
-        "completions": 15,
-        "playtime": 8.937777777777777,
-        "newestCompletion": "2025-09-04T03:57:35.000Z"
+        "owners": 25,
+        "completions": 16,
+        "playtime": 9.033333333333333,
+        "newestCompletion": "2025-10-11T15:48:26.000Z"
     },
     "1030300": {
         "description": "\u2733 Silksong",
@@ -4479,7 +4479,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 40,
+        "owners": 41,
         "completions": 7,
         "playtime": 2241.171428571429,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
