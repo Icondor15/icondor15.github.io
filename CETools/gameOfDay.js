@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2960500,
-        "CEId": "4d4d8d6a-afdd-4378-b250-1bf3c4d86c59",
-        "name": "Sparedevil",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2960500/header.jpg?t=1726048957",
-        "genre": "First-Person",
+        "platformId": 1834950,
+        "CEId": "819714fa-c27d-4cd7-b55e-466e97f6dd9d",
+        "name": "Salaryman Shi",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1834950/header.jpg?t=1656605746",
+        "genre": "Platformer",
         "tier": 2,
-        "points": 20,
-        "createdAt": "2024-10-14T14:46:10.000Z",
+        "points": 35,
+        "createdAt": "2022-10-15T03:34:19.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 1,
+        "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 8,
+        "playersTotal": 13,
         "priceData": {
             "USD": {
-                "initial": 1199,
-                "final": 1199,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1179,
-                "final": 1179,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 999,
-                "final": 999,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 140000,
-                "final": 140000,
+                "initial": 52000,
+                "final": 52000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1775,
-                "final": 1775,
+                "initial": 750,
+                "final": 750,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1549,
-                "final": 1549,
+                "initial": 569,
+                "final": 569,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "BOWLIFIED [20\u2605]\nScore 10,000,000 points in one run.",
+            "primaryText": "Cog in the Machine[35\u2605 (Partial: 25\u2605)]\nComplete all missions and obtain all platinum medals on all the main and bonus worlds.",
             "community": 0,
             "communityText": "",
-            "achievements": 58
+            "achievements": 20
         }
     }
 }
-var gameOfDayDate = '2025-10-14'
+var gameOfDayDate = '2025-10-15'
