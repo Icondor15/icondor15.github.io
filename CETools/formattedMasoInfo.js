@@ -3208,9 +3208,9 @@ var masoData =
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
         "owners": 117,
-        "completions": 58,
-        "playtime": 75.93477011494254,
-        "newestCompletion": "2025-09-12T19:50:11.000Z",
+        "completions": 59,
+        "playtime": 75.1316384180791,
+        "newestCompletion": "2025-10-15T22:45:46.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -4408,14 +4408,6 @@ var masoData =
         "playtime": 30.37777777777778,
         "newestCompletion": "2025-07-06T15:26:20.000Z"
     },
-    "3445580": {
-        "description": "\u2606 Where are the waifus????",
-        "tier": "3",
-        "owners": 10,
-        "completions": 3,
-        "playtime": 10.238888888888889,
-        "newestCompletion": "2025-07-24T15:31:31.000Z"
-    },
     "1388770": {
         "description": "Finland Pain Simulator",
         "tier": "1",
@@ -4435,30 +4427,6 @@ var masoData =
             "count": 3,
             "points": 8
         }
-    },
-    "2361080": {
-        "description": "\u2606 Jump by Jump",
-        "tier": "3",
-        "owners": 6,
-        "completions": 3,
-        "playtime": 24.566666666666666,
-        "newestCompletion": "2025-01-24T19:44:55.000Z"
-    },
-    "2671590": {
-        "description": "&quot;Would you love me if I was a space worm?&quot;",
-        "tier": "1",
-        "owners": 3,
-        "completions": 3,
-        "playtime": 8.527777777777779,
-        "newestCompletion": "2025-07-19T04:15:06.000Z"
-    },
-    "2099440": {
-        "description": "Ancient techbros' ultimate showdown",
-        "tier": "1",
-        "owners": 25,
-        "completions": 6,
-        "playtime": 10.597222222222223,
-        "newestCompletion": "2025-09-19T05:12:53.000Z"
     },
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
