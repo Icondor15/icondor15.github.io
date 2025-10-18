@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 106,
         "completions": 31,
-        "playtime": 88.54892473118281,
+        "playtime": 88.55860215053765,
         "newestCompletion": "2025-08-27T18:23:40.000Z",
         "badges": {
             "count": 2,
@@ -3028,6 +3028,14 @@ var masoData =
         "playtime": 19.385714285714283,
         "newestCompletion": "2023-04-10T13:32:31.000Z"
     },
+    "1057090": {
+        "description": "\u2733 now with actual combat",
+        "tier": "2",
+        "owners": 120,
+        "completions": 35,
+        "playtime": 37.80619047619047,
+        "newestCompletion": "2024-04-24T16:18:37.000Z"
+    },
     "658780": {
         "description": "explosive poop",
         "tier": "1",
@@ -3043,6 +3051,14 @@ var masoData =
         "completions": 3,
         "playtime": 21.144444444444442,
         "newestCompletion": "2024-03-29T23:52:11.000Z"
+    },
+    "1245620": {
+        "description": "\u2733 why is it always fort, night",
+        "tier": "2",
+        "owners": 107,
+        "completions": 64,
+        "playtime": 195.79791666666665,
+        "newestCompletion": "2025-07-26T08:37:09.000Z"
     },
     "1190170": {
         "description": "\u2606 The definitive arcade-style skateboarding experience",
@@ -4439,7 +4455,7 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 43,
+        "owners": 44,
         "completions": 13,
         "playtime": 109.4179487179487,
         "newestCompletion": "2025-10-01T01:44:58.000Z"
@@ -4447,7 +4463,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 42,
+        "owners": 43,
         "completions": 7,
         "playtime": 2241.171428571429,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
