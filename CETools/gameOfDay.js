@@ -1,26 +1,59 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 3,
-        "platformId": 16955,
-        "CEId": "396c7fd1-a703-413d-b542-2e2ef49851fe",
-        "name": "Tower Toppler",
-        "header": "https://i.postimg.cc/k4t1CfD2/tower-toppler-atari-7800-v0-xqdo5spi7t8d1.png",
-        "genre": "Platformer",
-        "tier": 1,
-        "points": 5,
-        "createdAt": "2024-10-17T23:03:36.000Z",
+        "gameType": 0,
+        "platformId": 323190,
+        "CEId": "30fc3451-ad90-4603-b33e-4606c4783ba5",
+        "name": "Frostpunk",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/323190/header.jpg?t=1695737003",
+        "genre": "Strategy",
+        "tier": 3,
+        "points": 60,
+        "createdAt": "2023-10-18T20:22:17.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 1,
-        "playersStarted": 0,
-        "playersTotal": 3,
+        "playersCompleted": 4,
+        "playersStarted": 7,
+        "playersTotal": 329,
+        "priceData": {
+            "USD": {
+                "initial": 2999,
+                "final": 2999,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 2999,
+                "final": 2999,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 2499,
+                "final": 2499,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 340000,
+                "final": 340000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 4395,
+                "final": 4395,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 3899,
+                "final": 3899,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Top Toppler [5\u2605]\nTopple all eight towers in a single game.",
+            "primary": 3,
+            "primaryText": "All-Rounded Extremophile [30\u2605]\nFinish each scenario in Survivor mode.\n\nMarathon Runner [20\u2605]\nReach Day 100 of Endurance Mode on Extreme difficulty.\n\nIron Saviour [10\u2605]\nFinish the New Home scenario with no deaths from cold, hunger, sickness or overwork on Hard difficulty.",
             "community": 0,
             "communityText": "",
-            "achievements": 11
-        }
+            "achievements": 115
+        },
+        "information": "The Last Autumn, On The Edge, and The Rifts DLCs are required. All are included in the season pass."
     }
 }
-var gameOfDayDate = '2025-10-17'
+var gameOfDayDate = '2025-10-18'
