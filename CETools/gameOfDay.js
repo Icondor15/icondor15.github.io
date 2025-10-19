@@ -2,58 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 323190,
-        "CEId": "30fc3451-ad90-4603-b33e-4606c4783ba5",
-        "name": "Frostpunk",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/323190/header.jpg?t=1695737003",
-        "genre": "Strategy",
-        "tier": 3,
-        "points": 60,
-        "createdAt": "2023-10-18T20:22:17.000Z",
+        "platformId": 366250,
+        "CEId": "1be7132e-148b-4a74-bd2f-e0d3f407246e",
+        "name": "METAL SLUG",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/366250/header.jpg?t=1584641206",
+        "genre": "Action",
+        "tier": 1,
+        "points": 10,
+        "createdAt": "2023-10-19T22:54:00.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 4,
-        "playersStarted": 7,
-        "playersTotal": 329,
+        "playersCompleted": 45,
+        "playersStarted": 0,
+        "playersTotal": 184,
         "priceData": {
             "USD": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 799,
+                "final": 799,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 799,
+                "final": 799,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 2499,
-                "final": 2499,
+                "initial": 559,
+                "final": 559,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 340000,
-                "final": 340000,
+                "initial": 79800,
+                "final": 79800,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 4395,
-                "final": 4395,
+                "initial": 2295,
+                "final": 2295,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 3899,
-                "final": 3899,
+                "initial": 879,
+                "final": 879,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "All-Rounded Extremophile [30\u2605]\nFinish each scenario in Survivor mode.\n\nMarathon Runner [20\u2605]\nReach Day 100 of Endurance Mode on Extreme difficulty.\n\nIron Saviour [10\u2605]\nFinish the New Home scenario with no deaths from cold, hunger, sickness or overwork on Hard difficulty.",
+            "primary": 1,
+            "primaryText": "Metal Mayhem Begins [10\u2605]\nBeat the game without using continues.",
             "community": 0,
             "communityText": "",
-            "achievements": 115
-        },
-        "information": "The Last Autumn, On The Edge, and The Rifts DLCs are required. All are included in the season pass."
+            "achievements": 15
+        }
     }
 }
-var gameOfDayDate = '2025-10-18'
+var gameOfDayDate = '2025-10-19'
