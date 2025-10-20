@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 237,
         "completions": 125,
-        "playtime": 194.04853333333332,
+        "playtime": 194.0724,
         "newestCompletion": "2025-09-04T20:48:49.000Z",
         "badges": {
             "count": 2,
@@ -2265,7 +2265,7 @@ var masoData =
         "tier": "2",
         "owners": 114,
         "completions": 80,
-        "playtime": 17.515833333333337,
+        "playtime": 17.527500000000003,
         "newestCompletion": "2025-09-23T22:04:37.000Z",
         "badges": {
             "count": 1,
@@ -2472,9 +2472,9 @@ var masoData =
         "description": "\u2606 No you\"re not tripping",
         "tier": "3",
         "owners": 131,
-        "completions": 11,
-        "playtime": 53.29545454545453,
-        "newestCompletion": "2025-06-03T02:14:24.000Z"
+        "completions": 12,
+        "playtime": 53.33055555555555,
+        "newestCompletion": "2025-10-19T13:49:12.000Z"
     },
     "1181000": {
         "description": "Start with the first game, or don\"t--I\"m not your mother",
@@ -3081,7 +3081,7 @@ var masoData =
         "tier": "3",
         "owners": 158,
         "completions": 44,
-        "playtime": 200.317803030303,
+        "playtime": 200.39734848484844,
         "newestCompletion": "2025-08-12T22:57:39.000Z"
     },
     "456390": {
