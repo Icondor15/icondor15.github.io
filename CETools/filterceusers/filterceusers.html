@@ -108,7 +108,7 @@
         <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, document.body.scrollHeight);"><b>vvv Move to bottom vvv</b></span></div>
         <table id="MainTable" style="margin: auto; width: 100%; text-align: center; background-color:#ffffff;">
             <tr>
-                <td colspan="14">    
+                <td colspan="15">    
                     <p id="Count" style="margin: auto; padding: 15px 15px 5px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Users: Loading...</p>
                     <p id="CountPoints" style="margin: auto; padding: 0px 15px 15px; font-size: 22px; font-weight: bold; text-align: center;">Total Points of Filtered: Loading...</p>
                     <p id="loadingText" style="margin: -10px auto auto; font-size: 16px; font-weight: bold; text-align: center;">Loading Table...</p>
@@ -118,8 +118,8 @@
                     <sub style="margin-top: -10px; font-size: 8px;" class="subtitle">(Please be nice!)</sub>
                 </td>
             </tr>
-            <tr colspan="14">
-                <td colspan="14">
+            <tr>
+                <td colspan="15">
                     <table style="margin: auto; width: 100%; text-align: center;">
                         <tr>
                             <td colspan="14">
@@ -159,7 +159,7 @@
                 <td colspan="2" class="button" onclick="order('skill')">Order By CE Rating</td>
                 <td colspan="2" class="button" onclick="order('completions')">Order By Completions</td>
                 <td class="button" onclick="order('games')">Order By Games</td>
-                <td colspan="4">
+                <td colspan="5">
                     <sub id="idStringTop" class="subtitle">(Click any of the IDs or names to copy them to the clipboard!)</sub><br>
                     <sub class="subtitle">(All of the links open in a new tab!)</sub>
                 </td>
@@ -178,7 +178,7 @@
                 <td rowspan="2">CE Info</td>
                 <td rowspan="2">Steam Info</td>
                 <td rowspan="2">RA Info</td>
-                <td rowspan="2">'Filter By...' in Game List</td>
+                <td colspan="2">'Filter By...' in Game List</td>
             </tr>
             <tr style="font-weight: bold;">
                 <td>LB</td>
@@ -187,6 +187,8 @@
                 <td>Score</td>
                 <td>LB</td>
                 <td>Count</td>
+                <td>Classic</td>
+                <td>Modern</td>
             </tr>
             <tr id="loading">
                 <td colspan="14">    
@@ -210,12 +212,14 @@
                 <td rowspan="2">CE Info</td>
                 <td rowspan="2">Steam Info</td>
                 <td rowspan="2">RA Info</td>
-                <td rowspan="2">'Filter By...' in Game List</td>
+                <td>Classic</td>
+                <td>Modern</td>
             </tr>
             <tr style="font-weight: bold;">
                 <td colspan="2">Points</td>
                 <td colspan="2">CE Rating</td>
                 <td colspan="2">Completions</td>
+                <td colspan="2">'Filter By...' in Game List</td>
             </tr>
             <tr>
                 <td></td>
@@ -225,7 +229,7 @@
                 <td colspan="2" class="button" onclick="order('skill')">Order By CE Rating</td>
                 <td colspan="2" class="button" onclick="order('completions')">Order By Completions</td>
                 <td class="button" onclick="order('games')">Order By Games</td>
-                <td colspan="4">
+                <td colspan="5">
                     <sub id="idStringBottom" class="subtitle">(Click any of the IDs or names to copy them to the clipboard!)</sub><br>
                     <sub class="subtitle">(All of the links open in a new tab!)</sub>
                 </td>
@@ -478,14 +482,23 @@
                     var cellSteamID = row1.insertCell(11);
                     var cellRAID = row1.insertCell(12);
                     var cellFilter = row1.insertCell(13);
-                    if(!(filteredData[i] in wishlistData)) {cellFilter.rowSpan = 2;}
+                    var cellFilterModern = row1.insertCell(14);
+                    if(!(filteredData[i] in wishlistData)) 
+                    {
+                        cellFilter.rowSpan = 2;
+                        cellFilterModern.rowSpan = 2;
+                    }
 
                     var row2 = table.insertRow(((i+1)*2)+4);
                     row2.classList.add("replace");
                     var cellCELink = row2.insertCell(0);
                     var cellSteamLink = row2.insertCell(1);
                     var cellRALink = row2.insertCell(2);
-                    if(filteredData[i] in wishlistData) {var cellWishlist = row2.insertCell(3);}
+                    if(filteredData[i] in wishlistData) 
+                    {
+                        var cellWishlist = row2.insertCell(3);
+                        var cellWishlistModern = row2.insertCell(4);
+                    }
 
                     if(loadImages) {cellPFP.innerHTML = "<a href='" + userData[filteredData[i]]["avatar"] + "' target='_blank'><img style='height:80px; float:left;' src='" + userData[filteredData[i]]["avatar"] + "'></a>";}
                     else{cellPFP.innerHTML = "<a href='" + userData[filteredData[i]]["avatar"] + "' target='_blank'>Click to open the image in other tab</a>"}
@@ -677,11 +690,18 @@
                     }
                     p.id = null;
 
+                    var bgGradient = "linear-gradient(#264587, #102554);";
+                    if(i%2 == 0) {bgGradient = "linear-gradient(#5270b0, #284483);"}
+
                     cellFilter.innerHTML = "<a style='color:#000000;' target='_blank' href='../filtercegames/filtercegames.html?userFilter=" + filteredData[i] + "'><b>View Games</b></a>";
+                    cellFilterModern.innerHTML = "<a style='color:#ffffff; text-shadow: 0px 1.5px 3px black;' target='_blank' href='../filtercegames/filtercegamesV2.html?userFilter=" + filteredData[i] + "'><b>View Games</b></a>";
+                    cellFilterModern.style = "background: " + bgGradient + " border-radius: 5px;";
                     
                     if(filteredData[i] in wishlistData)
                     {
                         cellWishlist.innerHTML = "<a style='color:#073e7a;' target='_blank' href='../filtercegames/filtercegames.html?wishlistFilter=" + filteredData[i] + "'><b>View Wishlist</b></a>";
+                        cellWishlistModern.innerHTML = "<a style='color:#c7e4ff; text-shadow: 0px 1.5px 3px black;' target='_blank' href='../filtercegames/filtercegamesV2.html?wishlistFilter=" + filteredData[i] + "'><b>View Wishlist</b></a>";
+                        cellWishlistModern.style = "background: " + bgGradient + " border-radius: 5px;";
                     }
 
                     if(i%2 == 0)
@@ -694,7 +714,6 @@
                         row1.style.backgroundColor = "#c3c3c3";
                         row2.style.backgroundColor = "#c3c3c3";
                     }
-                    console.log(userData[filteredData[i]]["name"] + " - " + totalPoints)
                 }
 
                 document.getElementById("CountPoints").innerHTML = "Total Points of Filtered: " + totalPoints;
