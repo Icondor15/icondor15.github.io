@@ -86400,7 +86400,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2024-09-08T22:19:25.000Z",
-        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "updatedAt": "2025-10-21T08:46:07.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 5,
@@ -86410,7 +86410,8 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 44
-        }
+        },
+        "information": "Mega Man Zero Series Rank Requirements Guide:\nhttps://gamefaqs.gamespot.com/gba/925724-mega-man-zero-4/faqs/60177"
     },
     {
         "gameType": 3,
@@ -86422,7 +86423,7 @@ var data =
         "tier": 1,
         "points": 6,
         "createdAt": "2025-02-10T09:04:41.000Z",
-        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "updatedAt": "2025-10-21T08:46:09.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 2,
@@ -86432,7 +86433,8 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 45
-        }
+        },
+        "information": "Mega Man Zero Series Rank Requirements Guide:\nhttps://gamefaqs.gamespot.com/gba/925724-mega-man-zero-4/faqs/60177"
     },
     {
         "gameType": 3,
@@ -86444,7 +86446,7 @@ var data =
         "tier": 1,
         "points": 10,
         "createdAt": "2025-02-26T08:47:07.000Z",
-        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "updatedAt": "2025-10-21T08:46:12.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
@@ -86454,7 +86456,8 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 53
-        }
+        },
+        "information": "Mega Man Zero Series Rank Requirements Guide:\nhttps://gamefaqs.gamespot.com/gba/925724-mega-man-zero-4/faqs/60177"
     },
     {
         "gameType": 3,
@@ -86466,7 +86469,7 @@ var data =
         "tier": 1,
         "points": 5,
         "createdAt": "2025-09-30T05:23:26.000Z",
-        "updatedAt": "2025-10-21T04:36:55.000Z",
+        "updatedAt": "2025-10-21T08:45:55.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -86476,7 +86479,8 @@ var data =
             "community": 0,
             "communityText": "",
             "achievements": 52
-        }
+        },
+        "information": "Mega Man Zero Series Rank Requirements Guide:\nhttps://gamefaqs.gamespot.com/gba/925724-mega-man-zero-4/faqs/60177"
     },
     {
         "gameType": 3,
@@ -87751,8 +87755,8 @@ var date =
     "day": 21,
     "month": 10,
     "year": 2025,
-    "hour": 9,
-    "minute": 2,
-    "second": 8,
-    "searchTime": 654.9741566181183
+    "hour": 10,
+    "minute": 43,
+    "second": 1,
+    "searchTime": 654.2398867607117
 }
