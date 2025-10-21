@@ -63,6 +63,37 @@
             text-decoration: underline 2px;
         }
 
+        .tag {
+            padding: 3px 0px;
+            border-radius: 5px;
+            background-image: linear-gradient(#ababab,#828282);
+            filter: drop-shadow(0px 3px 3px #00000088);
+            transition: all 0.125s ease-in-out;
+        }
+        .tag:hover {
+            filter: drop-shadow(0px 0px 3px #ffffff) drop-shadow(0px 0px 2px #ffffff);
+        }
+        .tag > * {
+            display:inline-block;
+            margin-top: 2px;
+            padding: 5.5px;
+        }
+        .tagTitle {
+            padding-right: 7px;
+            border-radius: 5px;
+            background-image: linear-gradient(#797979,#464646);
+        }
+
+        .tag a {
+            color: white;
+            text-decoration: dotted underline;
+            font-weight: bold;
+        }
+        .tag a:hover {
+            text-decoration: solid underline;
+            cursor: pointer;
+        }
+
         #secretLink {
             user-select: none;
             color:#d3ebe2;
@@ -86,85 +117,92 @@
                 <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
             </svg></a> / <b>@icondor</b> on Discord.</p>
         </div>
-        <div style="margin: 0% 5%; display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px 30px; justify-content: space-evenly;">
-            <table id="MainTable" style="min-width: 500px; width: 45%; text-align: center; background-color:#ffffff;">
+        <div style="margin: 0% 5%; display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px 30px; justify-content: space-evenly; align-items: start;">
+            <table id="MainTable" style="min-width: 500px; width: 100%; text-align: center; background-color:#ffffff;">
                 <tr>
-                    <td colspan="2">    
-                        <p id="Title" style="margin: auto; padding: 10px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">CETools</p>
+                    <td colspan="8">    
+                        <p id="Title" style="margin: auto; padding: 10px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;"><img src="favicon.png" style="height: 25px;">&thinsp;CETools</p>
                         <sub>A website containing useful searching tools for the <a href="https://cedb.me/" target=”_blank” ><b>Challenge Enthusiasts <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
                             <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
                         </svg></b></a> website.</sub><br>
                         <sub style="font-size: 10px; color:#bbbbbb">(All of these are updated semi-automatically! If you want me to push an update just message me on Discord! Be patient with me!)</sub>
                     </td>
                 </tr>
-                <tr>
-                    <td style="margin: auto; width: 50%; height:50px; font-size: 20px;">
-                        <a href="./filtercegames/filtercegames.html"><b>Game List</b></a>
-                    </td>
-                    <td>
+                <tr style="font-size: 12px;;">
+                    <td colspan="2" style="margin: auto; width: 25%;">
+                        <b style="font-size: 20px;">Game List</b><br>
                         A filterable list of games present in the CE database.
                     </td>
-                </tr>
-                <tr>
-                    <td style="margin: auto; width: 50%; height:50px; font-size: 20px;">
-                        <a href="./filterceusers/filterceusers.html"><b>User List</b></a>
-                    </td>
-                    <td>
+                    <td colspan="2" style="margin: auto; width: 25%;">
+                        <b style="font-size: 20px;">User List</b><br>
                         A filterable list of users present in the CE leaderboards.
                     </td>
-                </tr>
-                <tr>
-                    <td style="margin: auto; width: 50%; height:50px; font-size: 20px;">
-                        <a href="./filterceobjectives/filterceobjectives.html"><b>Objective List</b></a>
-                    </td>
-                    <td>
+                    <td colspan="2" style="margin: auto; width: 25%;">
+                        <b style="font-size: 20px;">Objective List</b><br>
                         A filterable list of objectives present in the CE leaderboards.
                     </td>
-                </tr>
-                <tr>
-                    <td style="margin: auto; width: 50%; height: 50px; font-size: 20px;">
-                        <a href="./usefullists/usefullists.html"><b>Useful Lists List</b></a><br>
+                    <td colspan="2" style="margin: auto; width: 25%;">
+                        <b style="font-size: 20px;">Useful Lists List</b><br>A list of lists <sub class="subtitle">(Ugh...)</sub> useful for site achievements!
+                        <br>
                         <sub class="subtitle">(I should have called them "Groups" or something...)</sub>
                     </td>
-                    <td>
-                        A list of lists <sub class="subtitle">(Ugh...)</sub> useful for site achievements! 
-                    </td>
                 </tr>
                 <tr>
-                    <td colspan="2">
-                        <p style="margin: auto;font-size: 25px; font-weight: bold; text-align: center;">Settings</p>
+                    <td style="margin: auto; width: 12.5%;">
+                        <a href="./filtercegames/filtercegames.html"><b>Classic</b></a>
+                    </td>
+                    <td style="margin: auto; padding: 3px 2px 6px; width: 12.5%; background: linear-gradient(#5270b0, #284483); border-radius: 5px;">
+                        <span class="tag">
+                            <div class="tagTitle">
+                                <a href="./filtercegames/filtercegamesV2.html"><b>Modern</b></a> <sup style="text-decoration: none; color: white; font-size: 0.6em;">Beta!</sup>
+                            </div>
+                        </span>
+                    </td>
+                    <td style="margin: auto; width: 12.5%;">
+                        <a href="./filterceusers/filterceusers.html"><b>Classic</b></a>
+                    </td>
+                    <td style="margin: auto; padding: 3px 2px 6px; width: 12.5%; background: linear-gradient(#5270b0, #284483); border-radius: 5px;">
+                        <span class="tag">
+                            <div class="tagTitle" style="color:white;">
+                                <i>Coming Soon!</i>
+                            </div>
+                        </span>
+                    </td>
+                    <td style="margin: auto; width: 12.5%;">
+                        <a href="./filterceobjectives/filterceobjectives.html"><b>Classic</b></a>
+                    </td>
+                    <td style="margin: auto; padding: 3px 2px 6px; width: 12.5%; background: linear-gradient(#5270b0, #284483); border-radius: 5px;">
+                        <span class="tag">
+                            <div class="tagTitle" style="color:white;">
+                                <i>Coming Soon!</i>
+                            </div>
+                        </span>
+                    </td>
+                    <td colspan="2" style="margin: auto; width: 12.5%;">
+                        <a href="./usefullists/usefullists.html"><b>Classic</b></a>
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr>
+                    <td colspan="3">
+                        <p style="margin: auto;font-size: 25px; font-weight: bold; text-align: center;">Settings:</p>
                         <sub class="subtitle">(These are memorized!)</sub>
                     </td>
-                </tr>
-                <tr>
-                    <td colspan="2">
-                        <input type="checkbox" id="loadImagesCheckbox" checked onclick="setImages()">Load Images</input><br>
-                        <sub class="subtitle">(Turning this off can improve performace!)</sub>
-                        <br>
-                        <input type="checkbox" id="loadMasoCheckbox" onclick="setMaso()">Load <a href="https://masochist.me/">Masochist.me</a> Content</input><br>
-                        <sub class="subtitle">(Load additional info from the 'Masochist.me' challenge website!)</sub>
+                    <td colspan="5">
+                        <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px 30px; justify-content: space-evenly;">
+                            <div>
+                                <input type="checkbox" id="loadImagesCheckbox" checked onclick="setImages()">Load Images</input><br>
+                                <sub class="subtitle">(Turning this off can improve performace!)</sub>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="loadMasoCheckbox" onclick="setMaso()">Load <a href="https://masochist.me/">Masochist.me</a> Content</input><br>
+                                <sub class="subtitle">(Load additional info from the 'Masochist.me' challenge website!)</sub>
+                            </div>
+                        </div>
                     </td>
                 </tr>
             </table>
-            <table id="gameOfDayTable" style="min-width: 500px; width: 45%; max-width: 50%; max-height: 100%; text-align: center; background-color:#ffffff;">
-                <tr>
-                    <td colspan="6">
-                        <p id="Title" style="margin: auto; padding: 10px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">Game of The Day!</p>
-                        <input type="checkbox" id="bestGameCheckbox" onclick="setBestGame()">Best Game Only Mode</input><br>
-                        <sub class="subtitle">(Shows only the best game ever!)</sub><br>
-                        <b id="todayDate">(yyyy-mm-dd)</b><br>
-                        <sub>Shows a game that was uploaded to the CE Database today at least one year ago, or a random game!</sub>
-                    </td>
-                </tr>
-                <tr id="loading">
-                    <td colspan="6">
-                        <p style="margin: auto; padding: 10px 15px; font-size: 30px; font-weight: bold; text-align: center;">Loading...</p>
-                    </td>
-                </tr>
-            </table>
-        </div>
-        <hr style="width: 66%; opacity: 0.33;">
-        <table id="focusTable" style="margin: auto; min-width: 500px; width: 50%; text-align: center; background-color:#ffffff;">
+            <table id="focusTable" style="min-width: 500px; width: 50%; text-align: center; background-color:#ffffff; align-self: start;">
             <tr>
                 <td colspan="24">
                     <p style="margin: auto; padding: 10px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">Focused User</p>
@@ -181,6 +219,22 @@
                 </td>
             </tr>
         </table>
+            <table id="gameOfDayTable" style="min-width: 500px; width: 45%; max-width: 50%; max-height: 100%; text-align: center; background-color:#ffffff;">
+                <tr>
+                    <td colspan="6">
+                        <p id="Title" style="margin: auto; padding: 10px 15px 0px; font-size: 30px; font-weight: bold; text-align: center;">Game of The Day! <b id="todayDate">(yyyy-mm-dd)</b></p>
+                        <sub>Shows a game that was uploaded to the CE Database today at least one year ago, or a random game!</sub><br>
+                        <input type="checkbox" id="bestGameCheckbox" onclick="setBestGame()">Best Game Only Mode</input><br>
+                        <sub class="subtitle">(Shows only the best game ever!)</sub>
+                    </td>
+                </tr>
+                <tr id="loading">
+                    <td colspan="6">
+                        <p style="margin: auto; padding: 10px 15px; font-size: 30px; font-weight: bold; text-align: center;">Loading...</p>
+                    </td>
+                </tr>
+            </table>
+        </div>
         <p style="font-size:7px; text-align:center; "><a id="secretLink" target="_blank" href="https://github.com/Icondor15/icondor15.github.io">Secret link to Github page!</a></p>
 
         <script src="./formattedUserList.js"></script>
@@ -231,6 +285,7 @@
                         if(gameOfDay["game"]["name"] == "Hazelnut Hex") {break;}
                         else {continue;}
                     }
+                    document.getElementById("todayDate").innerHTML = "(2023-11-30)";
                 }
                 else
                 {
@@ -545,17 +600,44 @@
                         cellWishlist.colSpan = 12;
                         cellWishlist.style.width = "50%";
                         
-                        cellFilter.innerHTML = "<a style='color:#000000;' href='./filtercegames/filtercegames.html?userFilter=" + check + "'><b>View Games</b></a>";
+                        cellFilter.innerHTML = "<b>View Games</b><br><span class='subtitle'>(Filter by User in the Game List)</span>";
 
                         if(check in wishlistData)
                         {
-                            cellWishlist.innerHTML = "<a style='color:#073e7a;' href='./filtercegames/filtercegames.html?wishlistFilter=" + check + "'><b>View Wishlist</b></a>";
+                            cellWishlist.innerHTML = "<b>View Wishlist</b><br><span class='subtitle'>(Filter by Wishlist in the Game List)</span>";
                         }
                         else
                         {
                             cellWishlist.innerHTML = "<b style='text-decoration:line-through;'>View Wishlist</b>";
+                            cellWishlist.rowSpan = "2";
                             cellWishlist.style.backgroundColor = "#00000044";
                         }
+
+                        var row7 = table.insertRow(8);
+                        row7.classList.add("replace");
+                        var cellFilterClassic = row7.insertCell(0);
+                        cellFilterClassic.colSpan = "6";
+                        var cellFilterModern = row7.insertCell(1);
+                        cellFilterModern.colSpan = "6";
+                        if(check in wishlistData)
+                        {
+                            var cellWishlistClassic = row7.insertCell(2);
+                            cellWishlistClassic.colSpan = "6";
+                            var cellWishlistModern = row7.insertCell(3);
+                            cellWishlistModern.colSpan = "6";
+                        }
+
+                        //User Filter
+                        cellFilterClassic.innerHTML = '<a href="./filtercegames/filtercegames.html?userFilter=' + check + '"><b>Classic</b></a>';
+
+                        cellFilterModern.innerHTML = '<span class="tag"><div class="tagTitle"><a href="./filtercegames/filtercegamesV2.html?userFilter=' + check + '"><b>Modern</b></a> <sup style="text-decoration: none; color: white; font-size: 0.6em;">Beta!</sup></div></span>';
+                        cellFilterModern.style = "margin: auto; padding: 3px 2px 6px; width: 12.5%; background: linear-gradient(#5270b0, #284483); border-radius: 5px;";
+
+                        //Wishlist Filter
+                        cellWishlistClassic.innerHTML = '<a href="./filtercegames/filtercegames.html?wishlistFilter=' + check + '"><b>Classic</b></a>';
+
+                        cellWishlistModern.innerHTML = '<span class="tag"><div class="tagTitle"><a href="./filtercegames/filtercegamesV2.html?wishlistFilter=' + check + '"><b>Modern</b></a> <sup style="text-decoration: none; color: white; font-size: 0.6em;">Beta!</sup></div></span>';
+                        cellWishlistModern.style = "margin: auto; padding: 3px 2px 6px; width: 12.5%; background: linear-gradient(#5270b0, #284483); border-radius: 5px;";
                     }
                     else
                     {
