@@ -1,58 +1,26 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 361350,
-        "CEId": "cea7a0a1-859e-4b54-b4ae-89e5b9f2ff4a",
-        "name": "Skyhook",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/361350/header.jpg?t=1577975580",
-        "genre": "Action",
+        "gameType": 1,
+        "platformId": 2232950,
+        "CEId": "d34ba346-d605-478a-8ff2-c0bf65ca38c1",
+        "name": "Bobo The Cat",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2232950/header.jpg?t=1693974391",
+        "genre": "Platformer",
         "tier": 1,
-        "points": 15,
-        "createdAt": "2022-10-20T20:00:46.000Z",
-        "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 2,
+        "points": 5,
+        "createdAt": "2024-10-21T22:55:14.000Z",
+        "updatedAt": "2025-10-21T05:30:11.000Z",
+        "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 48,
-        "priceData": {
-            "USD": {
-                "initial": 499,
-                "final": 499,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 399,
-                "final": 399,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 399,
-                "final": 399,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 52000,
-                "final": 52000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 750,
-                "final": 750,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 569,
-                "final": 569,
-                "discountPercent": 0
-            }
-        },
+        "playersTotal": 61,
         "milestones": {
-            "primary": 2,
-            "primaryText": "Captain Hook [10\u2605]\nEarn a diamond skull on all quests, including flying dutchman world.\n\nPeter Pain [5\u2605]\nEarn a platinum skull or better on all quests.",
+            "primary": 1,
+            "primaryText": "Bobo Go Home [5\u2605]\n100% the game.",
             "community": 0,
             "communityText": "",
-            "achievements": 15
+            "achievements": 0
         }
     }
 }
-var gameOfDayDate = '2025-10-20'
+var gameOfDayDate = '2025-10-21'
