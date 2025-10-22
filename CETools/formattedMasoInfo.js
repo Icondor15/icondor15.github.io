@@ -4456,9 +4456,9 @@ var masoData =
         "description": "\u2733 Silksong",
         "tier": "2",
         "owners": 46,
-        "completions": 14,
-        "playtime": 108.70238095238095,
-        "newestCompletion": "2025-10-16T00:51:30.000Z"
+        "completions": 15,
+        "playtime": 107.14,
+        "newestCompletion": "2025-10-18T20:13:10.000Z"
     },
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
