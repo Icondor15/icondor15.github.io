@@ -71,33 +71,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 124,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 124,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 429,
-                "final": 429,
-                "discountPercent": 0
+                "final": 107,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 58000,
-                "final": 58000,
-                "discountPercent": 0
+                "final": 14500,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 750,
-                "final": 750,
-                "discountPercent": 0
+                "final": 187,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 649,
-                "final": 649,
-                "discountPercent": 0
+                "final": 162,
+                "discountPercent": 75
             }
         },
         "milestones": {
@@ -501,7 +501,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
-        "playersTotal": 74,
+        "playersTotal": 75,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -819,8 +819,8 @@ var data =
         "createdAt": "2020-01-28T09:40:51.000Z",
         "updatedAt": "2025-10-20T06:10:13.000Z",
         "playersCompleted": 25,
-        "playersStarted": 327,
-        "playersTotal": 1026,
+        "playersStarted": 328,
+        "playersTotal": 1027,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -878,33 +878,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 699,
-                "discountPercent": 30
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 975,
-                "final": 682,
-                "discountPercent": 30
+                "final": 975,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 850,
-                "final": 595,
-                "discountPercent": 30
+                "final": 850,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 120000,
-                "final": 84000,
-                "discountPercent": 30
+                "final": 120000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1015,
-                "discountPercent": 30
+                "final": 1450,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1299,
-                "final": 909,
-                "discountPercent": 30
+                "final": 1299,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -2925,39 +2925,39 @@ var data =
         "points": 25,
         "createdAt": "2025-07-05T04:09:55.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 10,
+        "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 43,
+        "playersTotal": 44,
         "priceData": {
             "USD": {
                 "initial": 799,
-                "final": 799,
-                "discountPercent": 0
+                "final": 639,
+                "discountPercent": 20
             },
             "EUR": {
                 "initial": 799,
-                "final": 799,
-                "discountPercent": 0
+                "final": 639,
+                "discountPercent": 20
             },
             "GBP": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 559,
+                "discountPercent": 20
             },
             "JPY": {
                 "initial": 92000,
-                "final": 92000,
-                "discountPercent": 0
+                "final": 73600,
+                "discountPercent": 20
             },
             "AUD": {
                 "initial": 1179,
-                "final": 1179,
-                "discountPercent": 0
+                "final": 943,
+                "discountPercent": 20
             },
             "CAD": {
                 "initial": 1049,
-                "final": 1049,
-                "discountPercent": 0
+                "final": 839,
+                "discountPercent": 20
             }
         },
         "milestones": {
@@ -5151,33 +5151,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 399,
-                "final": 399,
-                "discountPercent": 0
+                "final": 79,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 49800,
-                "final": 49800,
-                "discountPercent": 0
+                "final": 9900,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 750,
-                "final": 750,
-                "discountPercent": 0
+                "final": 150,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 549,
-                "final": 549,
-                "discountPercent": 0
+                "final": 109,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -5796,7 +5796,7 @@ var data =
         "updatedAt": "2025-09-17T23:51:32.000Z",
         "playersCompleted": 58,
         "playersStarted": 44,
-        "playersTotal": 586,
+        "playersTotal": 587,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -6175,8 +6175,8 @@ var data =
         "createdAt": "2025-08-27T21:37:04.000Z",
         "updatedAt": "2025-09-28T07:30:06.000Z",
         "playersCompleted": 5,
-        "playersStarted": 13,
-        "playersTotal": 138,
+        "playersStarted": 14,
+        "playersTotal": 139,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -6605,7 +6605,7 @@ var data =
         "tier": 3,
         "points": 55,
         "createdAt": "2024-11-25T18:28:38.000Z",
-        "updatedAt": "2025-10-21T04:16:54.000Z",
+        "updatedAt": "2025-10-22T22:34:32.000Z",
         "playersCompleted": 0,
         "playersStarted": 37,
         "playersTotal": 187,
@@ -6643,7 +6643,7 @@ var data =
         },
         "milestones": {
             "primary": 7,
-            "primaryText": "Saber Savant (UNVALUED) [1\u2605]\nExpert+ difficulty: Obtain an SS rank on every song in OST 6.\n\nRock Out With Your Hands Out (UNVALUED) [1\u2605]\nExpert+ difficulty: Complete every song in OST 6.\n\nI Can See My Rise Up On the Horizon (UNVALUED) [1\u2605]\nExpert+ difficulty: Obtain an SS rank on every song in OST 1-5 and 7, Extras, and Camellia.\n\nI Been Out Here Grinding (UNVALUED) [1\u2605]\nExpert+ difficulty: Complete every song in OST 1-5 and 7, Extras, and Camellia.\n\nI Got the Power (UNVALUED) [1\u2605]\nExpert difficulty or higher: Obtain an SS rank on every song in all base game packs (OSTs, Camellia pack, Extras pack).\n\nI Can Swing for Hours [45\u2605]\nExpert difficulty or higher: Complete every song in all base game packs (OSTs, Camellia pack, Extras pack).\n\nBeat the Beat Up [5\u2605]\nClear all missions in the campaign.",
+            "primaryText": "Saber Savant (UNVALUED) [1\u2605]\nExpert+ difficulty: Obtain an SS rank on every song in OST 6.\n\nI Can See My Rise Up On the Horizon (UNVALUED) [1\u2605]\nExpert+ difficulty: Obtain an SS rank on every song in OST 1-5 and 7, Extras, and Camellia.\n\nRock Out With Your Hands Out (UNVALUED) [1\u2605]\nExpert+ difficulty: Complete every song in OST 6.\n\nI Been Out Here Grinding (UNVALUED) [1\u2605]\nExpert+ difficulty: Complete every song in OST 1-5 and 7, Extras, and Camellia.\n\nI Got the Power (UNVALUED) [1\u2605]\nExpert difficulty or higher: Obtain an SS rank on every song in all base game packs (OSTs, Camellia pack, Extras pack).\n\nI Can Swing for Hours [45\u2605]\nExpert difficulty or higher: Complete every song in all base game packs (OSTs, Camellia pack, Extras pack).\n\nBeat the Beat Up [5\u2605]\nClear all missions in the campaign.",
             "community": 7,
             "communityText": "Slice Them All! Dice Them All! (S)\nExpert+ difficulty: Obtain a Full Combo on every song in OST 6.\n\nI'm a Living Legend (S)\nExpert+ difficulty: Obtain a Full Combo on every song in OST 1-5 and 7, Extras, and Camellia.\n\nI Got Unlimited Power (S)\nExpert difficulty or higher: Obtain a Full Combo on every song in all base game packs.\n\nBorn to Vaporize Them All\nExpert+ difficulty: Obtain an SS+ rank (95%+) on every song in OST 6.\n\nI Am the Greatest of All Time, Man\nExpert+ difficulty: Obtain an SS+ rank (95%+) on every song in OST 1-5 and 7, Extras, and Camellia.\n\nI'm a Phenomenon and Carry On\nExpert difficulty or higher: Obtain an SS+ rank (95%+) on every song in all base game packs.\n\nHalf the Arms, Double the Fun (S)\nComplete all base game songs on One Saber mode on the highest difficulty available (all of OST1 and OST2, and select songs in OST3-5, Extras Pack, Camellia Pack).",
             "achievements": 26
@@ -9192,7 +9192,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 83,
         "playersStarted": 0,
-        "playersTotal": 473,
+        "playersTotal": 474,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -9408,7 +9408,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 146,
+        "playersTotal": 147,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -11120,33 +11120,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 499,
-                "discountPercent": 75
+                "final": 1999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1950,
-                "final": 487,
-                "discountPercent": 75
+                "final": 1950,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1675,
-                "final": 418,
-                "discountPercent": 75
+                "final": 1675,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 230000,
-                "final": 57500,
-                "discountPercent": 75
+                "final": 230000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2950,
-                "final": 737,
-                "discountPercent": 75
+                "final": 2950,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 2599,
-                "final": 649,
-                "discountPercent": 75
+                "final": 2599,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -12139,7 +12139,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 27,
+        "playersTotal": 28,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -13486,8 +13486,8 @@ var data =
         "points": 700,
         "createdAt": "2020-01-28T10:05:19.000Z",
         "updatedAt": "2025-10-21T05:31:58.000Z",
-        "playersCompleted": 14,
-        "playersStarted": 250,
+        "playersCompleted": 15,
+        "playersStarted": 249,
         "playersTotal": 1317,
         "priceData": {
             "USD": {
@@ -13596,7 +13596,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 78,
         "playersStarted": 259,
-        "playersTotal": 1181,
+        "playersTotal": 1182,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -13759,7 +13759,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 170,
+        "playersTotal": 171,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -15971,33 +15971,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 2999,
-                "final": 2999,
-                "discountPercent": 0
+                "final": 899,
+                "discountPercent": 70
             },
             "EUR": {
                 "initial": 2999,
-                "final": 2999,
-                "discountPercent": 0
+                "final": 899,
+                "discountPercent": 70
             },
             "GBP": {
                 "initial": 2499,
-                "final": 2499,
-                "discountPercent": 0
+                "final": 749,
+                "discountPercent": 70
             },
             "JPY": {
                 "initial": 309000,
-                "final": 309000,
-                "discountPercent": 0
+                "final": 92700,
+                "discountPercent": 70
             },
             "AUD": {
                 "initial": 4495,
-                "final": 4495,
-                "discountPercent": 0
+                "final": 1348,
+                "discountPercent": 70
             },
             "CAD": {
                 "initial": 3499,
-                "final": 3499,
-                "discountPercent": 0
+                "final": 1049,
+                "discountPercent": 70
             }
         },
         "milestones": {
@@ -16076,7 +16076,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 5,
-        "playersTotal": 169,
+        "playersTotal": 170,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -17537,7 +17537,7 @@ var data =
         "points": 40,
         "createdAt": "2025-03-16T08:52:48.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 4,
+        "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 110,
         "priceData": {
@@ -17593,7 +17593,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 135,
-        "playersTotal": 320,
+        "playersTotal": 321,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -17809,7 +17809,7 @@ var data =
         "updatedAt": "2025-10-16T20:28:02.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 13,
+        "playersTotal": 14,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -18459,7 +18459,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 186,
         "playersStarted": 0,
-        "playersTotal": 784,
+        "playersTotal": 785,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -20238,7 +20238,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
         "playersStarted": 20,
-        "playersTotal": 311,
+        "playersTotal": 312,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -20670,8 +20670,8 @@ var data =
         "points": 25,
         "createdAt": "2022-03-05T05:42:40.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 58,
-        "playersStarted": 392,
+        "playersCompleted": 59,
+        "playersStarted": 391,
         "playersTotal": 993,
         "priceData": {
             "USD": {
@@ -21427,9 +21427,9 @@ var data =
         "points": 65,
         "createdAt": "2022-09-06T17:37:06.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 55,
+        "playersCompleted": 56,
         "playersStarted": 0,
-        "playersTotal": 142,
+        "playersTotal": 143,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -24673,33 +24673,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 999,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 1950,
-                "final": 1950,
-                "discountPercent": 0
+                "final": 975,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 749,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 198000,
-                "final": 198000,
-                "discountPercent": 0
+                "final": 99000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 2895,
-                "final": 2895,
-                "discountPercent": 0
+                "final": 1447,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 2199,
-                "final": 2199,
-                "discountPercent": 0
+                "final": 1099,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -25313,7 +25313,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 615,
         "playersStarted": 0,
-        "playersTotal": 1346,
+        "playersTotal": 1347,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -26346,33 +26346,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 975,
-                "final": 975,
-                "discountPercent": 0
+                "final": 195,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 170,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 130000,
-                "final": 130000,
-                "discountPercent": 0
+                "final": 26000,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 290,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 259,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -27210,33 +27210,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 49,
+                "discountPercent": 90
             },
             "EUR": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 49,
+                "discountPercent": 90
             },
             "GBP": {
                 "initial": 445,
-                "final": 445,
-                "discountPercent": 0
+                "final": 44,
+                "discountPercent": 90
             },
             "JPY": {
                 "initial": 60000,
-                "final": 60000,
-                "discountPercent": 0
+                "final": 6000,
+                "discountPercent": 90
             },
             "AUD": {
                 "initial": 750,
-                "final": 750,
-                "discountPercent": 0
+                "final": 75,
+                "discountPercent": 90
             },
             "CAD": {
                 "initial": 649,
-                "final": 649,
-                "discountPercent": 0
+                "final": 64,
+                "discountPercent": 90
             }
         },
         "milestones": {
@@ -27693,7 +27693,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
-        "playersTotal": 38,
+        "playersTotal": 39,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -29098,7 +29098,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 8,
+        "playersTotal": 9,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -30445,7 +30445,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 698,
-        "playersTotal": 1837,
+        "playersTotal": 1838,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -32330,7 +32330,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 15,
+        "playersTotal": 16,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -32816,7 +32816,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
-        "playersTotal": 197,
+        "playersTotal": 198,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -34115,7 +34115,7 @@ var data =
         "updatedAt": "2025-09-09T22:54:44.000Z",
         "playersCompleted": 57,
         "playersStarted": 155,
-        "playersTotal": 816,
+        "playersTotal": 817,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -34385,7 +34385,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
         "playersStarted": 142,
-        "playersTotal": 492,
+        "playersTotal": 493,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -36220,8 +36220,8 @@ var data =
         "createdAt": "2022-11-20T04:20:12.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
-        "playersStarted": 34,
-        "playersTotal": 139,
+        "playersStarted": 35,
+        "playersTotal": 140,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -36280,33 +36280,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 1599,
-                "final": 1599,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 255000,
-                "final": 255000,
-                "discountPercent": 0
+                "final": 63700,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 2899,
-                "final": 2899,
-                "discountPercent": 0
+                "final": 724,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 2599,
-                "final": 2599,
-                "discountPercent": 0
+                "final": 649,
+                "discountPercent": 75
             }
         },
         "milestones": {
@@ -38172,33 +38172,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 349,
+                "discountPercent": 65
             },
             "EUR": {
                 "initial": 975,
-                "final": 975,
-                "discountPercent": 0
+                "final": 341,
+                "discountPercent": 65
             },
             "GBP": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 297,
+                "discountPercent": 65
             },
             "JPY": {
                 "initial": 130000,
-                "final": 130000,
-                "discountPercent": 0
+                "final": 45500,
+                "discountPercent": 65
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 507,
+                "discountPercent": 65
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 454,
+                "discountPercent": 65
             }
         },
         "milestones": {
@@ -40969,7 +40969,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 374,
+        "playersTotal": 375,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -41508,33 +41508,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 2499,
-                "final": 249,
-                "discountPercent": 90
+                "final": 2499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 2450,
-                "final": 245,
-                "discountPercent": 90
+                "final": 2450,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 2099,
-                "final": 209,
-                "discountPercent": 90
+                "final": 2099,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 280000,
-                "final": 28000,
-                "discountPercent": 90
+                "final": 280000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 3650,
-                "final": 365,
-                "discountPercent": 90
+                "final": 3650,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 3250,
-                "final": 325,
-                "discountPercent": 90
+                "final": 3250,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -42365,7 +42365,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 53,
-        "playersTotal": 327,
+        "playersTotal": 328,
         "priceData": {
             "USD": {
                 "initial": 399,
@@ -46623,33 +46623,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 259,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 259,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 132000,
-                "final": 132000,
-                "discountPercent": 0
+                "final": 26400,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 1850,
-                "final": 1850,
-                "discountPercent": 0
+                "final": 370,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 259,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -48937,7 +48937,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
-        "playersTotal": 32,
+        "playersTotal": 33,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -49045,7 +49045,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 457,
         "playersStarted": 0,
-        "playersTotal": 1819,
+        "playersTotal": 1820,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -49803,7 +49803,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 5,
+        "playersTotal": 6,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -50229,8 +50229,8 @@ var data =
         "createdAt": "2023-01-28T01:47:51.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
-        "playersStarted": 27,
-        "playersTotal": 217,
+        "playersStarted": 28,
+        "playersTotal": 218,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -50555,7 +50555,7 @@ var data =
         "updatedAt": "2025-10-16T09:39:51.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 8,
+        "playersTotal": 9,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -50772,7 +50772,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 91,
-        "playersTotal": 514,
+        "playersTotal": 515,
         "priceData": {
             "USD": {
                 "initial": 1799,
@@ -50989,7 +50989,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 49,
+        "playersTotal": 50,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -51916,33 +51916,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 999,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 999,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 1649,
-                "final": 1649,
-                "discountPercent": 0
+                "final": 824,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 232000,
-                "final": 232000,
-                "discountPercent": 0
+                "final": 116000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 2795,
-                "final": 2795,
-                "discountPercent": 0
+                "final": 1397,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 2549,
-                "final": 2549,
-                "discountPercent": 0
+                "final": 1274,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -52236,7 +52236,7 @@ var data =
         "points": 25,
         "createdAt": "2022-07-26T16:46:43.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 28,
+        "playersCompleted": 29,
         "playersStarted": 0,
         "playersTotal": 425,
         "priceData": {
@@ -52833,7 +52833,7 @@ var data =
         "updatedAt": "2025-10-21T05:40:43.000Z",
         "playersCompleted": 1,
         "playersStarted": 3,
-        "playersTotal": 23,
+        "playersTotal": 24,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -53050,7 +53050,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 13,
+        "playersTotal": 14,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -54242,7 +54242,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 16,
+        "playersTotal": 17,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -55967,9 +55967,9 @@ var data =
         "points": 10,
         "createdAt": "2023-11-26T21:43:36.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 62,
+        "playersCompleted": 63,
         "playersStarted": 0,
-        "playersTotal": 231,
+        "playersTotal": 232,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -56460,33 +56460,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1299,
-                "final": 779,
-                "discountPercent": 40
+                "final": 1299,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1199,
-                "final": 719,
-                "discountPercent": 40
+                "final": 1199,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1039,
-                "final": 623,
-                "discountPercent": 40
+                "final": 1039,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 175000,
-                "final": 105000,
-                "discountPercent": 40
+                "final": 175000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1949,
-                "final": 1169,
-                "discountPercent": 40
+                "final": 1949,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1749,
-                "final": 1049,
-                "discountPercent": 40
+                "final": 1749,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -57973,33 +57973,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "final": 425,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "final": 60000,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 725,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 649,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -59425,7 +59425,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 54,
         "playersStarted": 207,
-        "playersTotal": 1113,
+        "playersTotal": 1114,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -62340,33 +62340,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1299,
-                "final": 519,
-                "discountPercent": 60
+                "final": 1299,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1279,
-                "final": 511,
-                "discountPercent": 60
+                "final": 1279,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1099,
-                "final": 439,
-                "discountPercent": 60
+                "final": 1099,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 150000,
-                "final": 60000,
-                "discountPercent": 60
+                "final": 150000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1895,
-                "final": 758,
-                "discountPercent": 60
+                "final": 1895,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1699,
-                "final": 679,
-                "discountPercent": 60
+                "final": 1699,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -63200,33 +63200,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 299,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 1139,
-                "final": 1139,
-                "discountPercent": 0
+                "final": 227,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 152000,
-                "final": 152000,
-                "discountPercent": 0
+                "final": 30400,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 2150,
-                "final": 2150,
-                "discountPercent": 0
+                "final": 430,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 1749,
-                "final": 1749,
-                "discountPercent": 0
+                "final": 349,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -65303,9 +65303,9 @@ var data =
         "points": 20,
         "createdAt": "2020-01-28T08:23:01.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 474,
+        "playersCompleted": 475,
         "playersStarted": 0,
-        "playersTotal": 1127,
+        "playersTotal": 1128,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -65792,7 +65792,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 72,
         "playersStarted": 259,
-        "playersTotal": 1477,
+        "playersTotal": 1478,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -67248,33 +67248,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 95
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 95
             },
             "GBP": {
                 "initial": 1699,
-                "final": 1699,
-                "discountPercent": 0
+                "final": 84,
+                "discountPercent": 95
             },
             "JPY": {
                 "initial": 230000,
-                "final": 230000,
-                "discountPercent": 0
+                "final": 11500,
+                "discountPercent": 95
             },
             "AUD": {
                 "initial": 2950,
-                "final": 2950,
-                "discountPercent": 0
+                "final": 147,
+                "discountPercent": 95
             },
             "CAD": {
                 "initial": 2599,
-                "final": 2599,
-                "discountPercent": 0
+                "final": 129,
+                "discountPercent": 95
             }
         },
         "milestones": {
@@ -67518,33 +67518,33 @@ var data =
         "playersTotal": 51,
         "priceData": {
             "USD": {
-                "initial": 7999,
-                "final": 4799,
+                "initial": 4999,
+                "final": 2999,
                 "discountPercent": 40
             },
             "EUR": {
-                "initial": 7999,
-                "final": 4799,
+                "initial": 4999,
+                "final": 2999,
                 "discountPercent": 40
             },
             "GBP": {
-                "initial": 6499,
-                "final": 3899,
+                "initial": 4499,
+                "final": 2699,
                 "discountPercent": 40
             },
             "JPY": {
-                "initial": 946000,
-                "final": 567600,
+                "initial": 657800,
+                "final": 394600,
                 "discountPercent": 40
             },
             "AUD": {
-                "initial": 11495,
-                "final": 6897,
+                "initial": 6995,
+                "final": 4197,
                 "discountPercent": 40
             },
             "CAD": {
-                "initial": 10649,
-                "final": 6389,
+                "initial": 6699,
+                "final": 4019,
                 "discountPercent": 40
             }
         },
@@ -70324,33 +70324,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 479,
-                "discountPercent": 52
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 975,
-                "final": 468,
-                "discountPercent": 52
+                "final": 975,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 850,
-                "final": 408,
-                "discountPercent": 52
+                "final": 850,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 120000,
-                "final": 57600,
-                "discountPercent": 52
+                "final": 120000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1450,
-                "final": 696,
-                "discountPercent": 52
+                "final": 1450,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1299,
-                "final": 623,
-                "discountPercent": 52
+                "final": 1299,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -70858,9 +70858,9 @@ var data =
         "points": 5,
         "createdAt": "2022-04-30T05:58:04.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 215,
+        "playersCompleted": 216,
         "playersStarted": 0,
-        "playersTotal": 751,
+        "playersTotal": 752,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -71671,7 +71671,7 @@ var data =
         "updatedAt": "2025-10-21T04:28:19.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 215,
+        "playersTotal": 216,
         "priceData": {
             "USD": {
                 "initial": 99,
@@ -71941,7 +71941,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 69,
         "playersStarted": 13,
-        "playersTotal": 1023,
+        "playersTotal": 1024,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -73405,33 +73405,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 299,
-                "discountPercent": 80
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 1479,
-                "final": 295,
-                "discountPercent": 80
+                "final": 1479,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 1279,
-                "final": 255,
-                "discountPercent": 80
+                "final": 1279,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 170000,
-                "final": 34000,
-                "discountPercent": 80
+                "final": 170000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 2195,
-                "final": 439,
-                "discountPercent": 80
+                "final": 2195,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1949,
-                "final": 389,
-                "discountPercent": 80
+                "final": 1949,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -74535,33 +74535,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 799,
-                "final": 159,
-                "discountPercent": 80
+                "final": 799,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 659,
-                "final": 131,
-                "discountPercent": 80
+                "final": 659,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 579,
-                "final": 115,
-                "discountPercent": 80
+                "final": 579,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 82000,
-                "final": 16400,
-                "discountPercent": 80
+                "final": 82000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1150,
-                "final": 230,
-                "discountPercent": 80
+                "final": 1150,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 899,
-                "final": 179,
-                "discountPercent": 80
+                "final": 899,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -74639,7 +74639,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 127,
         "playersStarted": 0,
-        "playersTotal": 252,
+        "playersTotal": 253,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -76046,33 +76046,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 69,
+                "discountPercent": 90
             },
             "EUR": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 69,
+                "discountPercent": 90
             },
             "GBP": {
                 "initial": 549,
-                "final": 549,
-                "discountPercent": 0
+                "final": 54,
+                "discountPercent": 90
             },
             "JPY": {
                 "initial": 94500,
-                "final": 94500,
-                "discountPercent": 0
+                "final": 9400,
+                "discountPercent": 90
             },
             "AUD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 90
             },
             "CAD": {
                 "initial": 949,
-                "final": 949,
-                "discountPercent": 0
+                "final": 94,
+                "discountPercent": 90
             }
         },
         "milestones": {
@@ -76100,33 +76100,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 69,
+                "discountPercent": 90
             },
             "EUR": {
                 "initial": 699,
-                "final": 699,
-                "discountPercent": 0
+                "final": 69,
+                "discountPercent": 90
             },
             "GBP": {
                 "initial": 549,
-                "final": 549,
-                "discountPercent": 0
+                "final": 54,
+                "discountPercent": 90
             },
             "JPY": {
                 "initial": 94500,
-                "final": 94500,
-                "discountPercent": 0
+                "final": 9400,
+                "discountPercent": 90
             },
             "AUD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 90
             },
             "CAD": {
                 "initial": 949,
-                "final": 949,
-                "discountPercent": 0
+                "final": 94,
+                "discountPercent": 90
             }
         },
         "milestones": {
@@ -76154,33 +76154,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 90
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 199,
+                "discountPercent": 90
             },
             "GBP": {
                 "initial": 1599,
-                "final": 1599,
-                "discountPercent": 0
+                "final": 159,
+                "discountPercent": 90
             },
             "JPY": {
                 "initial": 269900,
-                "final": 269900,
-                "discountPercent": 0
+                "final": 26900,
+                "discountPercent": 90
             },
             "AUD": {
                 "initial": 2799,
-                "final": 2799,
-                "discountPercent": 0
+                "final": 279,
+                "discountPercent": 90
             },
             "CAD": {
                 "initial": 2699,
-                "final": 2699,
-                "discountPercent": 0
+                "final": 269,
+                "discountPercent": 90
             }
         },
         "milestones": {
@@ -76798,7 +76798,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 147,
+        "playersTotal": 148,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -77072,33 +77072,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 299,
-                "final": 299,
-                "discountPercent": 0
+                "final": 74,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 299,
-                "final": 299,
-                "discountPercent": 0
+                "final": 74,
+                "discountPercent": 75
             },
             "GBP": {
                 "initial": 249,
-                "final": 249,
-                "discountPercent": 0
+                "final": 62,
+                "discountPercent": 75
             },
             "JPY": {
                 "initial": 40000,
-                "final": 40000,
-                "discountPercent": 0
+                "final": 10000,
+                "discountPercent": 75
             },
             "AUD": {
                 "initial": 450,
-                "final": 450,
-                "discountPercent": 0
+                "final": 112,
+                "discountPercent": 75
             },
             "CAD": {
                 "initial": 389,
-                "final": 389,
-                "discountPercent": 0
+                "final": 97,
+                "discountPercent": 75
             }
         },
         "milestones": {
@@ -77395,7 +77395,7 @@ var data =
         "updatedAt": "2025-10-21T04:30:00.000Z",
         "playersCompleted": 63,
         "playersStarted": 98,
-        "playersTotal": 1142,
+        "playersTotal": 1143,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -77669,33 +77669,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 2999,
-                "final": 149,
-                "discountPercent": 95
+                "final": 2999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 2799,
-                "final": 139,
-                "discountPercent": 95
+                "final": 2799,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 2379,
-                "final": 118,
-                "discountPercent": 95
+                "final": 2379,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 309000,
-                "final": 15400,
-                "discountPercent": 95
+                "final": 309000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 4199,
-                "final": 209,
-                "discountPercent": 95
+                "final": 4199,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 3899,
-                "final": 194,
-                "discountPercent": 95
+                "final": 3899,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -82423,9 +82423,9 @@ var data =
         "points": 0,
         "createdAt": "2022-11-30T16:47:27.000Z",
         "updatedAt": "2025-10-21T05:29:35.000Z",
-        "playersCompleted": 214,
+        "playersCompleted": 215,
         "playersStarted": 0,
-        "playersTotal": 214,
+        "playersTotal": 215,
         "milestones": {
             "primary": 0,
             "primaryText": "",
@@ -82446,9 +82446,9 @@ var data =
         "points": 0,
         "createdAt": "2023-05-03T11:07:02.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 229,
+        "playersCompleted": 230,
         "playersStarted": 0,
-        "playersTotal": 229,
+        "playersTotal": 230,
         "milestones": {
             "primary": 0,
             "primaryText": "",
@@ -83361,7 +83361,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 67,
         "playersStarted": 0,
-        "playersTotal": 530,
+        "playersTotal": 531,
         "milestones": {
             "primary": 1,
             "primaryText": "I Wanna be the Challenge Enthusiast [5\u2605]\nSeparately; 100% the campaign and defeat the final boss without getting hit.",
@@ -83606,7 +83606,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 104,
         "playersStarted": 0,
-        "playersTotal": 536,
+        "playersTotal": 537,
         "milestones": {
             "primary": 1,
             "primaryText": "Micro Nightmare [15\u2605]\nClear all levels, including \"Chipset v2\".",
@@ -84005,7 +84005,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 109,
+        "playersTotal": 110,
         "milestones": {
             "primary": 1,
             "primaryText": "Directionally Challenged [10\u2605]\nSeparately, complete all time trials and beat the game in under 1 hour.",
@@ -84361,7 +84361,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
-        "playersTotal": 114,
+        "playersTotal": 115,
         "milestones": {
             "primary": 5,
             "primaryText": "Magicgazer [90\u2605]\nAchieve a Full Combo on all of the Severe difficulty stages.\n\nHarmonia [40\u2605]\nAchieve a Full Combo on all of the Mild difficulty stages.\n\nDenpandemic [20\u2605]\nAchieve a Full Combo on all of the VeryMild difficulty stages.\n\n\u4e07\u83ef\u7c60 [20\u2605]\nClear all of the Severe difficulty stages without healing.\n\nGroovy Sympathy [10\u2605]\nClear all of the Mild difficulty stages without healing.",
@@ -84692,15 +84692,15 @@ var data =
         "tier": 6,
         "points": 400,
         "createdAt": "2024-03-19T18:22:07.000Z",
-        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "updatedAt": "2025-10-22T17:38:44.000Z",
         "playersCompleted": 1,
         "playersStarted": 8,
         "playersTotal": 400,
         "milestones": {
             "primary": 10,
-            "primaryText": "Virtual Supremacy [110\u2605]\nObtain a V rank on all 17+ songs across all difficulties.\n\nBreak the Loop [70\u2605]\nObtain a V rank on all classes and all level 16, 16+, and 17 songs across all difficulties.\n\nChronostasis [60\u2605]\nObtain an SS rank on all level 17+ songs across all difficulties.\n\nFate Inversion [50\u2605]\nObtain an SS rank on Class 11, 12 and Omega, and all level 16+ and 17 songs across all difficulties.\n\nSaturday Night Fever [40\u2605]\nObtain an SS rank on Class 9 and 10 and all level 15, 15+, and 16 songs across all difficulties.\n\nVividology [30\u2605]\nObtain an SS rank on Class 6, 7, and 8 and all level 13, 13+, 14, and 14+ songs across all difficulties.\n\nThe First Encore [20\u2605]\nObtain an SS rank on Class 4 and 5 and all level 11, 11+, 12 and 12+ songs across all difficulties.\n\nFinale Starting to Hurt [10\u2605]\nObtain an SS rank on Class 2 and 3 and all level 9, 9+, 10, and 10+ songs across all difficulties.\n\nPrecision Tuning [5\u2605]\nObtain an SS rank on Class 1 and all level 8 songs and below across all difficulties\n\nInitialize the Sequence [5\u2605]\nObtain an S rank on all songs level 8 and below across all difficulties.",
+            "primaryText": "Virtual Supremacy [110\u2605]\nObtain a V rank on all 17+ and 18 songs across all difficulties.\n\nBreak the Loop [70\u2605]\nObtain a V rank on all classes and all level 16, 16+, and 17 songs across all difficulties.\n\nChronostasis [60\u2605]\nObtain an SS rank on all level 17+ and 18 songs across all difficulties.\n\nFate Inversion [50\u2605]\nObtain an SS rank on Class 11, 12 and Omega, and all level 16+ and 17 songs across all difficulties.\n\nSaturday Night Fever [40\u2605]\nObtain an SS rank on Class 9 and 10 and all level 15, 15+, and 16 songs across all difficulties.\n\nVividology [30\u2605]\nObtain an SS rank on Class 6, 7, and 8 and all level 13, 13+, 14, and 14+ songs across all difficulties.\n\nThe First Encore [20\u2605]\nObtain an SS rank on Class 4 and 5 and all level 11, 11+, 12 and 12+ songs across all difficulties.\n\nFinale Starting to Hurt [10\u2605]\nObtain an SS rank on Class 2 and 3 and all level 9, 9+, 10, and 10+ songs across all difficulties.\n\nPrecision Tuning [5\u2605]\nObtain an SS rank on Class 1 and all level 8 songs and below across all difficulties.\n\nInitialize the Sequence [5\u2605]\nObtain an S rank on all songs level 8 and below across all difficulties.",
             "community": 10,
-            "communityText": "Beyond Comprehension (S)\nObtain a VS rank on all songs in Boundary Shatter. (May be split into multiple objectives)\n\nCritical Eye (S)\nObtain a VS rank on all songs between level 15 and 16+ on Finale and Encore (whichever version of the song is harder).\n\nEnduring Perfectionist (S)\nObtain a VS rank on all Classes in Course Mode.\n\nOnce More (S)\nObtain an AC on all level 17 songs across all difficulties.\n\nPerfection Tuning (S)\nObtain a VS rank on all songs between level 9+ and 12+ on Finale and Encore (whichever version of the song is harder).\n\nResurrection (S)\nObtain a VS rank on all songs between level 13 and 14+ on Finale and Encore (whichever version of the song is harder).\n\nShattering Expectations (S)\nObtain an SS rank on all songs in Boundary Shatter. (May be split into multiple objectives)\n\nTwice More (S)\nObtain an AC on all level 17+ songs across all difficulties.\n\nUltimation (S)\nObtain a VS rank on all level 17 songs on Finale and Encore.\n\nVivid Stasis (S)\nObtain a VS rank on all level 17+ songs on Finale and Encore.",
+            "communityText": "Beyond Comprehension (S)\nObtain a VS rank on all songs in Boundary Shatter. (May be split into multiple objectives)\n\nCritical Eye (S)\nObtain a VS rank on all songs between level 15 and 16+ on Finale and Encore (whichever version of the song is harder).\n\nEnduring Perfectionist (S)\nObtain a VS rank on all Classes in Course Mode.\n\nOnce More (S)\nObtain an AC on all level 17 songs across all difficulties.\n\nPerfection Tuning (S)\nObtain a VS rank on all songs between level 9+ and 12+ on Finale and Encore (whichever version of the song is harder).\n\nResurrection (S)\nObtain a VS rank on all songs between level 13 and 14+ on Finale and Encore (whichever version of the song is harder).\n\nShattering Expectations (S)\nObtain an SS rank on all songs in Boundary Shatter. (May be split into multiple objectives)\n\nTwice More (S)\nObtain an AC on all level 17+ and 18 songs across all difficulties.\n\nUltimation (S)\nObtain a VS rank on all level 17 songs on Finale and Encore.\n\nVivid Stasis (S)\nObtain a VS rank on all level 17+ and 18 songs on Finale and Encore.",
             "achievements": 48
         },
         "information": "[https://discord.com/channels/639112509445505044/1394317393060298992](https://discord.com/channels/639112509445505044/1394317393060298992)\n\nWhen you submit verification for any of the objectives, follow the Discord link above and provide your point estimate for the objectives you have completed, what your playtime is, and how much experience you have in other VSRGs.\n\n*This is an experimental attempt at asking for data points to contribute towards a more accurate point assessment for objectives.* "
@@ -84784,7 +84784,7 @@ var data =
         "updatedAt": "2025-09-29T20:26:50.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
-        "playersTotal": 112,
+        "playersTotal": 113,
         "milestones": {
             "primary": 1,
             "primaryText": "YUBI YUBI [5\u2605]\nDefeat Darkside Korone on Hard Mode.",
@@ -84963,6 +84963,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
+        "consoleData": {
+            "name": "Genesis/Mega Drive",
+            "family": "Sega",
+            "icon": "https://static.retroachievements.org/assets/images/system/md.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Blazing Phoenix [25\u2605]\nFinish the game on superhard difficulty.",
@@ -84985,6 +84990,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Spunky Monkey [15\u2605]\nClear Round 6 in Monkey Soccer and Complete all levels in Monkey Climber.",
@@ -85008,6 +85018,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Genesis/Mega Drive",
+            "family": "Sega",
+            "icon": "https://static.retroachievements.org/assets/images/system/md.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Atomic Gunner [10\u2605]\nFinish the game on Hard difficulty.",
@@ -85030,6 +85045,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
+        "consoleData": {
+            "name": "Game Boy",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gb.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "The Dark Knight Rises [5\u2605]\nBeat each episode on Hard mode.",
@@ -85052,6 +85072,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 9,
+        "consoleData": {
+            "name": "NES/Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/nes.png"
+        },
         "milestones": {
             "primary": 3,
             "primaryText": "Perilous Journey [175\u2605]\nBeat the game on Unfair difficulty.\n\nI wanna be the Battle Kid [20\u2605]\nBeat the game on Hard difficulty or higher.\n\nKidding Around [15\u2605]\n100% the game on Normal difficulty or higher and complete the secret area challenge.",
@@ -85075,6 +85100,11 @@ var data =
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 8,
+        "consoleData": {
+            "name": "NES/Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/nes.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Don't Croak [15\u2605]\nBeat every level in the game.",
@@ -85097,6 +85127,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 5,
+        "consoleData": {
+            "name": "NES/Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/nes.png"
+        },
         "milestones": {
             "primary": 3,
             "primaryText": "Legend of the Demon Castle (UNCLEARED) [1\u2605]\nBeat the game in Hard Mode.\n\nSolo Vampire Killer (UNCLEARED) [1\u2605]\nBeat the game without recruiting any partners.\n\nCleansed the Land from Evil [5\u2605]\nBeat every stage in the game.",
@@ -85119,6 +85154,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Nintendo DS",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/ds.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Glyph in Bullet [10\u2605]\nBeat the game as Albus on Hard Max Lvl1.",
@@ -85141,6 +85181,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Nintendo DS",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/ds.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Black Viper's Last Stand [10\u2605]\nBeat the game on Hard difficulty.\n\nSomersault Simulations [10\u2605]\nClear all 40 challenges in Challenge mode.",
@@ -85163,6 +85208,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Genesis/Mega Drive",
+            "family": "Sega",
+            "icon": "https://static.retroachievements.org/assets/images/system/md.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Hard-Core [5\u2605]\nReach all endings.",
@@ -85185,6 +85235,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Healed Soldier (UNCLEARED) [1\u2605]\nGet an average rank of S on the entire game on normal mode. (Partial points included for individual levels)\n\nShattered Soldier [15\u2605]\n Beat stages 1-6 with an average rank of A or above, and clear the final stage in normal mode.",
@@ -85207,6 +85262,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "N-Sane [5\u2605]\nGet all Gems, Crystals, and Platinum Relics",
@@ -85229,6 +85289,11 @@ var data =
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 5,
+        "consoleData": {
+            "name": "PlayStation",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps1.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "N-Thusiast [15\u2605]\nGet all Platinum Relics. *'Hot Coco' and 'Eggipus Rex' are under debate.",
@@ -85251,6 +85316,11 @@ var data =
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 6,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Ooga Booga [5\u2605]\nObtain all Platinum relics and 101%.",
@@ -85273,6 +85343,11 @@ var data =
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 9,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Elementalist [10\u2605]\nObtain all gems and platinum relics.",
@@ -85295,6 +85370,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 7,
+        "consoleData": {
+            "name": "PlayStation",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps1.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Minigame Maestro [35\u2605]\nObtain all 28 Platinum Relics.\n\nGimmicks and Golds [10\u2605]\nObtain all 28 Gems, Crystals, and Gold Relics.",
@@ -85317,6 +85397,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Maximum Velocity [10\u2605]\nBeat Velo's time on every track in Time Trial Mode\n\nPlatinum Pendant [10\u2605]\nObtain all the platinum relics in Adventure Mode",
@@ -85339,6 +85424,11 @@ var data =
         "playersCompleted": 4,
         "playersStarted": 1,
         "playersTotal": 10,
+        "consoleData": {
+            "name": "PlayStation",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps1.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Nitro Fueled [15\u2605]\nDefeat all Time Trial Ghosts.\n\nWumpa Fueled [10\u2605]\nObtain all Platinum Relics and beat N. Oxide's Final Challenge.",
@@ -85361,6 +85451,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 3,
+        "consoleData": {
+            "name": "PC Engine/TurboGrafx-16",
+            "family": "Other",
+            "icon": "https://static.retroachievements.org/assets/images/system/pce.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Psycho Cannon (UNCLEARED) [1\u2605]\nOn \"Very Difficult\" Mode, save the princess by killing the final boss with a psycho cannon on loop 2+\n\nGhouls 'n Ghosts [15\u2605]\nClear the first loop",
@@ -85383,6 +85478,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PC Engine/TurboGrafx-16",
+            "family": "Other",
+            "icon": "https://static.retroachievements.org/assets/images/system/pce.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Blue... [5\u2605]\nBeat the game without using continues.",
@@ -85405,6 +85505,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "PlayStation",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps1.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Democracy Delivered [15\u2605]\nComplete the game on Hard.",
@@ -85427,6 +85532,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 0,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Swinging King [15\u2605]\nObtain all the gold medals in Time Attack mode for both Donkey and Diddy Kong.",
@@ -85449,6 +85559,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 6,
+        "consoleData": {
+            "name": "Arcade",
+            "family": "Arcade",
+            "icon": "https://static.retroachievements.org/assets/images/system/arc.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Prosecutedt (UNCLEARED) [1\u2605]\nGet a 2-ALL.\n\nQuiet Bee [10\u2605]\nGet a 1-ALL.",
@@ -85472,6 +85587,11 @@ var data =
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 9,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Leader of the Bunch [5\u2605]\nObtain all S ranks.",
@@ -85495,6 +85615,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Cranking It [10\u2605]\nBeat all of Cranky's Times in Diddy's Dash",
@@ -85517,6 +85642,11 @@ var data =
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 5,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Immortal Monkey [10\u2605]\nReach 105% completion percentage (Use TUFFER cheat on a new file)",
@@ -85539,6 +85669,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
+        "consoleData": {
+            "name": "Genesis/Mega Drive",
+            "family": "Sega",
+            "icon": "https://static.retroachievements.org/assets/images/system/md.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Mind Blowing [30\u2605]\nComplete the extra scene on hard.",
@@ -85561,6 +85696,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Arcade",
+            "family": "Arcade",
+            "icon": "https://static.retroachievements.org/assets/images/system/arc.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "ESPer [25\u2605]\nClear the game on a single credit on default settings.",
@@ -85583,6 +85723,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 3,
+        "consoleData": {
+            "name": "GameCube",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gc.png"
+        },
         "milestones": {
             "primary": 3,
             "primaryText": "F-Zero Phantom (UNCLEARED) [1\u2605]\nDefeat Every Staff Ghost.\n\nGXcellence Achieved [20\u2605]\nClear every mission on Very Hard.\n\nF-Master [10\u2605]\nFinish in 1st place on every cup on Master.",
@@ -85605,6 +85750,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Nintendo 64",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/n64.png"
+        },
         "milestones": {
             "primary": 4,
             "primaryText": "Record Lap - Expanded (UNVALUED) [1\u2605]\nDefeat every Expansion Kit Staff Ghost time.\n\nBoost Power - Expanded (UNCLEARED) [1\u2605]\nDefeat every base game Staff Ghost time.\n\nRecord Lap [10\u2605]\nClear every Expansion Kit cup on Master Difficulty.\n\nBoost Power [10\u2605]\nClear every base game cup on Master Difficulty.",
@@ -85628,6 +85778,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Zeroed In [20\u2605]\nObtain a gold trophy in every Zero Test.\n\nClimatic Finish [5\u2605]\nWin every grand prix on Master.",
@@ -85650,6 +85805,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Zero to Hero [20\u2605]\nObtain a Gold trophy in every Zero test.\n\nGP Legend [5\u2605]\nSeparately, Complete Story mode and win every cup on Expert.",
@@ -85672,6 +85832,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "PC Engine CD/TurboGrafx-CD",
+            "family": "Other",
+            "icon": "https://static.retroachievements.org/assets/images/system/pccd.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Genuine Hatred [10\u2605]\nBeat the game.",
@@ -85694,6 +85859,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 10,
+        "consoleData": {
+            "name": "SNES/Super Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/snes.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Look Both Ways [5\u2605]\nComplete level 8",
@@ -85716,6 +85886,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 5,
+        "consoleData": {
+            "name": "Game Boy",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gb.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Manhole [10\u2605]\nGet 5 stars on the hard version of Classic/Modern Manhole\n\nOil Panic [5\u2605]\nGet 5 stars on the hard version of Classic/Modern Oil Panic",
@@ -85739,6 +85914,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
+        "consoleData": {
+            "name": "Game Boy Color",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gbc.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Tree Watcher [15\u2605]\nGet 5 stars on the hard versions of Classic/Modern Helmet, Vermin, Ball, and Parachute",
@@ -85762,6 +85942,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 6,
+        "consoleData": {
+            "name": "PC Engine CD/TurboGrafx-CD",
+            "family": "Other",
+            "icon": "https://static.retroachievements.org/assets/images/system/pccd.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Thin Blue Line [5\u2605]\nClear the game on Hard difficulty.",
@@ -85784,6 +85969,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Destroy all Monsters [10\u2605]\nComplete Survival Mode on Hard with any character\n\nKing of the Monsters [5\u2605]\nComplete Action Mode on Hard with any character",
@@ -85806,6 +85996,11 @@ var data =
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 12,
+        "consoleData": {
+            "name": "PlayStation",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps1.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Certified 90's Driver [15\u2605]\nObtain every gold medal in all license tests.",
@@ -85828,6 +86023,11 @@ var data =
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 5,
+        "consoleData": {
+            "name": "PlayStation",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps1.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Celica Cruisin' [15\u2605]\nObtain every gold medal in all license tests.",
@@ -85850,6 +86050,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 1,
         "playersTotal": 6,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "The Licenser [25\u2605]\nEarn the gold medal in all License Tests.\n\nComplex Touristing [5\u2605]\nBeat all Arcade Time Trials.",
@@ -85872,6 +86077,11 @@ var data =
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 9,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Please Have Mercy-des [15\u2605]\nBeat all 34 driving missions.\n\nSpillproof [15\u2605]\nObtain every gold medal in all license tests (including Coffee Breaks).",
@@ -85894,6 +86104,11 @@ var data =
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 10,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Harmonix [20\u2605]\nGet an Expert Five Star clear on all 47 songs.",
@@ -85916,6 +86131,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 5,
         "playersTotal": 8,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 4,
             "primaryText": "Six-String Dragonslayer (UNCLEARED) [1\u2605]\nGet a gold star rating in every song on Expert Lead.\n\nKick the Bucket [25\u2605]\nObtain a 5 star rank in every song on Expert Lead/Guitar.\n\nDouble Encore [25\u2605]\nPass all bonus songs on Expert Lead.\n\nPLAY FREE BIRD [10\u2605]\nPass all songs in Career Mode on Expert Lead.",
@@ -85938,6 +86158,11 @@ var data =
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
+        "consoleData": {
+            "name": "Genesis/Mega Drive",
+            "family": "Sega",
+            "icon": "https://static.retroachievements.org/assets/images/system/md.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Run'n'Gun Star [10\u2605]\nBeat the game on Expert difficulty.",
@@ -85960,6 +86185,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Cream Cheese! [10\u2605]\nBeat all Versus Mode opponents with a gold star.",
@@ -85982,6 +86212,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Man of the Hour [15\u2605]\nObtain the HSG Man rank from overall progress.\n\nFrom Caddie to Daddy [10\u2605]\nObtain the tourney rank of World King in Tournament mode.",
@@ -86005,6 +86240,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Smashing! (UNCLEARED) [1\u2605]\nEarn a Gold Medal in all Challenge Missions\n\nAlways Angry [10\u2605]\nComplete the game on Hard mode",
@@ -86028,6 +86268,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "NES/Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/nes.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Irradiant Ship [10\u2605]\nComplete the gamed on Special mode.\n\nIrreproachable Ship [5\u2605]\nComplete the game on Expert difficulty.",
@@ -86050,6 +86295,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "PlayStation",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps1.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Stick With It [5\u2605]\nClear all stages on Hard difficulty.",
@@ -86072,6 +86322,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Genesis/Mega Drive",
+            "family": "Sega",
+            "icon": "https://static.retroachievements.org/assets/images/system/md.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Clever Girl [5\u2605]\nWithout using passwords, finish the game on hard difficulty as both Raptor and Grant.",
@@ -86094,6 +86349,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 6,
+        "consoleData": {
+            "name": "SNES/Super Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/snes.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Dream On [25\u2605]\nObtain all Gold Medals",
@@ -86116,6 +86376,11 @@ var data =
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 6,
+        "consoleData": {
+            "name": "Game Boy",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gb.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Pink Baller [5\u2605]\nDefeat King Dedede and beat the game.",
@@ -86138,6 +86403,11 @@ var data =
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 4,
+        "consoleData": {
+            "name": "Nintendo DS",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/ds.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Stroking It [15\u2605]\nObtain all challenge medals and score AAA rank in all minigames.",
@@ -86160,6 +86430,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 4,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Dream Catcher [10\u2605]\nObtain all S-ranks for all stages.",
@@ -86182,6 +86457,11 @@ var data =
         "playersCompleted": 11,
         "playersStarted": 1,
         "playersTotal": 19,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Helirin Hero [15\u2605]\nBeat the Master time on all adventure and challenge levels\n\nCopter Captain [10\u2605]\nComplete all adventure and challenge levels without taking a hit / Collect all collectibles.",
@@ -86205,6 +86485,11 @@ var data =
         "playersCompleted": 8,
         "playersStarted": 1,
         "playersTotal": 15,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 3,
             "primaryText": "Like Father, Like Son [20\u2605]\nBeat all of Totorin's times.\n\nOne Helirin of a Show [10\u2605]\nGet a Perfect in every stage in Neo Land.\n\nTrouble in Paradise [10\u2605]\nGet a Perfect in every stage in the first four worlds in Adventure mode, and every stage in Challenge mode.",
@@ -86228,6 +86513,11 @@ var data =
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 13,
+        "consoleData": {
+            "name": "GameCube",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gc.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Squash the Competition [15\u2605]\nGet Perfect in all stages\n\nDad Would be Proud [10\u2605]\nBeat all Dad times in Adventure mode.",
@@ -86250,6 +86540,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "PC Engine CD/TurboGrafx-CD",
+            "family": "Other",
+            "icon": "https://static.retroachievements.org/assets/images/system/pccd.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "For Pharina [20\u2605]\nBeat the game on Super Hard.\n\nLord Landis [5\u2605]\nBeat the game on Hard.",
@@ -86272,6 +86567,11 @@ var data =
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 12,
+        "consoleData": {
+            "name": "GameCube",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gc.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Spectral Sprinter [10\u2605]\nBeat all the Staff Ghost Times in Time Trial Mode",
@@ -86294,6 +86594,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Party Harder [5\u2605]\nClear Minigame Attack. / Clear Duel Dash on Hard difficulty.",
@@ -86316,6 +86621,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Shining Mario Ball [5\u2605]\nSeparately, collect all 35 stars and defeat Bowser.",
@@ -86338,6 +86648,11 @@ var data =
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 5,
+        "consoleData": {
+            "name": "Nintendo DS",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/ds.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Making Strides [10\u2605]\nObtain all gold stars and defeat Donkey Kong in his hideout (B1 and B2).",
@@ -86360,6 +86675,11 @@ var data =
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 6,
+        "consoleData": {
+            "name": "Nintendo DS",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/ds.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Making Swaps [10\u2605]\nObtain all gold trophies.",
@@ -86382,6 +86702,11 @@ var data =
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 7,
+        "consoleData": {
+            "name": "Nintendo DSi",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/dsi.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Making Moves [5\u2605]\nComplete all levels with a gold star rating.",
@@ -86404,6 +86729,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 2,
         "playersTotal": 6,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Being Rusty is Nothing [5\u2605]\nGet an overall S rank on Hard mode.\n\nReawakening of the Legend [5\u2605]\nGet an S rank on every mission.",
@@ -86427,6 +86757,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Shackled Form (UNCLEARED) [1\u2605]\nObtain an overall S rank on Hard Mode.\n\nThe Dark Elf Rises [5\u2605]\nObtain an S rank on every mission.",
@@ -86450,6 +86785,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Everlasting Red [10\u2605]\nBeat the game with 100 points on every mission.",
@@ -86473,6 +86813,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "The Distant Utopia, its Sin and Rebirth [5\u2605]\nGet an overall S rank on Hard mode.",
@@ -86496,6 +86841,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 1,
         "playersTotal": 4,
+        "consoleData": {
+            "name": "PlayStation Portable",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/psp.png"
+        },
         "milestones": {
             "primary": 5,
             "primaryText": "Mega Mania [60\u2605]\nComplete all stages on hard with all characters without taking damage.\n\nMedium Mastery [30\u2605]\nComplete Copy Robot stage with Oilman on Normal without taking damage.\n\nMini Mighty [30\u2605]\nComplete Copy Robot stage with Oilman on Easy without taking damage.\n\nOld School Tough [15\u2605]\nComplete all stages in Old Style without taking damage.\n\nRobot Novice [15\u2605]\nComplete all 100 challenges.",
@@ -86519,6 +86869,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 16,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Samus Low% [15\u2605]\nComplete the mission with 15 percent or fewer items collected on hard.",
@@ -86541,6 +86896,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Not So Simple [5\u2605]\nComplete all missions on Inferno difficulty.",
@@ -86563,6 +86923,11 @@ var data =
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 3,
+        "consoleData": {
+            "name": "SNES/Super Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/snes.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Ruler of Outworld [15\u2605]\nBeat the Master Destiny tower with no continues on Very Hard difficulty.",
@@ -86586,6 +86951,11 @@ var data =
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 8,
+        "consoleData": {
+            "name": "NES/Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/nes.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "You Can't Kill the Metal [5\u2605]\nComplete the tenth section.",
@@ -86608,6 +86978,11 @@ var data =
         "playersCompleted": 10,
         "playersStarted": 0,
         "playersTotal": 19,
+        "consoleData": {
+            "name": "Nintendo DS",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/ds.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Legacy's Second Screen [5\u2605]\nBeat all episodes.",
@@ -86630,6 +87005,11 @@ var data =
         "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 21,
+        "consoleData": {
+            "name": "PlayStation Portable",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/psp.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Nsufferable [5\u2605]\nBeat all episodes.",
@@ -86653,6 +87033,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 0,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Contra Lives On [5\u2605]\nComplete all 7 missions with an S-Rank in all of them in Story Mode on Normal difficulty.",
@@ -86675,6 +87060,11 @@ var data =
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 5,
+        "consoleData": {
+            "name": "Watara Supervision",
+            "family": "Other",
+            "icon": "https://static.retroachievements.org/assets/images/system/wsv.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Olympic Visionary [5\u2605]\nBeat the world record in all 6 events and finish a full game loop.",
@@ -86697,6 +87087,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 9,
+        "consoleData": {
+            "name": "NES/Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/nes.png"
+        },
         "milestones": {
             "primary": 3,
             "primaryText": "Domination (S) [15\u2605]\nFinish the game with more than 1,100,000 points.\n\nSteadfast Protector [10\u2605]\nFinish the game without a Game Over.\n\nI'll Be Waiting [10\u2605]\nClear all stages on default settings. (Can be done separately)",
@@ -86719,6 +87114,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PlayStation Portable",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/psp.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Split Second [10\u2605]\nGet 5 stars on all Story levels on Pro difficulty.\n\nWe Came, We Saw [10\u2605]\nComplete all 50 Challenges on Pro difficulty.",
@@ -86741,6 +87141,11 @@ var data =
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 6,
+        "consoleData": {
+            "name": "PlayStation",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps1.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Product Placement [5\u2605]\nCollect all cans & complete expert mode.",
@@ -86763,6 +87168,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Return to Monkey [5\u2605]\nBeat all of the hi-scores on all levels (except Kong's Lair).",
@@ -86785,6 +87195,11 @@ var data =
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 4,
+        "consoleData": {
+            "name": "GameCube",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gc.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Budding Micromanager [5\u2605]\nObtain a pink flower on all challenges.",
@@ -86807,6 +87222,11 @@ var data =
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 27,
+        "consoleData": {
+            "name": "Game Boy Advance",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gba.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Frontier Conqueror [15\u2605]\nObtain all Gold symbols from the Battle Frontier.",
@@ -86829,6 +87249,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 2,
         "playersTotal": 18,
+        "consoleData": {
+            "name": "Nintendo DS",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/ds.png"
+        },
         "milestones": {
             "primary": 4,
             "primaryText": "Destiny's Ascent [10\u2605]\nClear Destiny Tower.\n\nPerfect Purist [5\u2605]\nClear Zero Isle South.\n\nAdept Purist [5\u2605]\nClear Zero Isle East and Zero Isle West.\n\nCenter of the Earth [5\u2605]\nClear Zero Isle North and Zero Isle Center.",
@@ -86852,6 +87277,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
+        "consoleData": {
+            "name": "Game Boy Color",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gbc.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Lightning Reflexes [40\u2605]\nClear Intense difficulty without using a continue.",
@@ -86874,6 +87304,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
+        "consoleData": {
+            "name": "Nintendo 64",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/n64.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Puzzle League Champion [80\u2605]\nBeat Super Hard difficulty without using a continue.",
@@ -86896,6 +87331,11 @@ var data =
         "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 12,
+        "consoleData": {
+            "name": "Pokemon Mini",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/mini.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Shock the Block [15\u2605]\nClear 20 lines and Pyramid modes on Master difficulty.",
@@ -86918,6 +87358,11 @@ var data =
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 7,
+        "consoleData": {
+            "name": "NES/Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/nes.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Busted! [15\u2605]\nDefeat Mike Tyson.",
@@ -86940,6 +87385,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 4,
+        "consoleData": {
+            "name": "NES/Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/nes.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Loo*per [20\u2605]\nComplete the 1st loop of the game",
@@ -86962,6 +87412,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PC Engine/TurboGrafx-16",
+            "family": "Other",
+            "icon": "https://static.retroachievements.org/assets/images/system/pce.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Supportive Groundhog [25\u2605]\nFully complete the game by beating its hidden loop.\n\nRabbit Doom [10\u2605]\nBeat the game without continuing.",
@@ -86985,6 +87440,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "MSX",
+            "family": "Other",
+            "icon": "https://static.retroachievements.org/assets/images/system/msx.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Dashing Through the Snow [5\u2605]\nBeat the game without using continues.",
@@ -87007,6 +87467,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PlayStation Portable",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/psp.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "One heck of a driver [25\u2605]\nComplete all Max Tours.",
@@ -87029,6 +87494,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Atari 2600",
+            "family": "Atari",
+            "icon": "https://static.retroachievements.org/assets/images/system/2600.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "I Feel like Robin Hood! [5\u2605]\nComplete difficulty 4 after looping difficulty 3.",
@@ -87051,6 +87521,11 @@ var data =
         "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 4,
+        "consoleData": {
+            "name": "SNES/Super Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/snes.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Fall of the Robot King [5\u2605]\nBeat the game as both characters.",
@@ -87073,6 +87548,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "WonderSwan",
+            "family": "Other",
+            "icon": "https://static.retroachievements.org/assets/images/system/ws.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Net Battler [5\u2605]\nClear Boss Rush on ExHard.",
@@ -87095,6 +87575,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Genesis/Mega Drive",
+            "family": "Sega",
+            "icon": "https://static.retroachievements.org/assets/images/system/md.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Unleash the Beast [5\u2605]\nBeat the game.",
@@ -87117,6 +87602,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Devil Tamer [15\u2605]\nDefeat Beelzebub on Devil Mode.\n\nSoulful [40\u2605]\nComplete the campaign on Devil Mode.",
@@ -87139,6 +87629,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "SNES/Super Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/snes.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Gettin' Dizzy With It [10\u2605]\nClear both galaxies on advanced difficulty.",
@@ -87161,6 +87656,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PC Engine/TurboGrafx-16",
+            "family": "Other",
+            "icon": "https://static.retroachievements.org/assets/images/system/pce.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Ch ch ch ah ah ah [5\u2605]\nComplete the game on Hard Mode without using a continue",
@@ -87184,6 +87684,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PlayStation",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps1.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Combo EXpert [20\u2605]\nComplete all Expert Mode trials.",
@@ -87207,6 +87712,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "PlayStation",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps1.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Maniacal (UNCLEARED) [1\u2605]\nComplete all maniac combo trials.\n\nC-C-C-Combo Breaker [15\u2605]\nComplete all expert combo trials.",
@@ -87230,6 +87740,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 4,
+        "consoleData": {
+            "name": "Genesis/Mega Drive",
+            "family": "Sega",
+            "icon": "https://static.retroachievements.org/assets/images/system/md.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Proven Brave [10\u2605]\nComplete the game on Hard Mode",
@@ -87252,6 +87767,11 @@ var data =
         "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 15,
+        "consoleData": {
+            "name": "SNES/Super Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/snes.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "The Lost Levels [5\u2605]\nComplete all secret worlds in the Lost Levels.",
@@ -87274,6 +87794,11 @@ var data =
         "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 10,
+        "consoleData": {
+            "name": "Game Boy Color",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gbc.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Toadstool Tour [10\u2605]\nProve yourself",
@@ -87297,6 +87822,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 5,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Oni Mastery [10\u2605]\nAchieve a full combo on every song on Oni difficulty.",
@@ -87319,6 +87849,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "PlayStation",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps1.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Galagod [5\u2605]\nUnlock Devil Kazuya by beating all stages in Galaga with a perfect while using no more than one continue.",
@@ -87341,6 +87876,11 @@ var data =
         "playersCompleted": 23,
         "playersStarted": 6,
         "playersTotal": 40,
+        "consoleData": {
+            "name": "NES/Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/nes.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Excavation Mission [25\u2605]\nSeparately; clear Type B with Level 9 Height 5 and clear Type B with Level 18 Height 3.\n\nStackin' it Old School [10\u2605]\nScore over 120,000 in Type A and get the final cutscene.",
@@ -87363,6 +87903,11 @@ var data =
         "playersCompleted": 11,
         "playersStarted": 0,
         "playersTotal": 13,
+        "consoleData": {
+            "name": "Game Boy",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gb.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "So Anyway, I Started Blasting [5\u2605]\nDefeat all enemies in Fight mode.",
@@ -87385,6 +87930,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 10,
         "playersTotal": 14,
+        "consoleData": {
+            "name": "Arcade",
+            "family": "Arcade",
+            "icon": "https://static.retroachievements.org/assets/images/system/arc.png"
+        },
         "milestones": {
             "primary": 12,
             "primaryText": "Tetris Legend (UNCLEARED) [1\u2605]\nObtain a grade of Orange GM in Master mode.\n\nTetris Grandmaster (UNCLEARED) [1\u2605]\nObtain a grade of GM in Master mode.\n\nOne Giant Leap (UNCLEARED) [1\u2605]\nObtain a grade of M in Master mode.\n\nOne Small Step [70\u2605]\nObtain a grade of S9 in Master mode.\n\nChamp In The Making [80\u2605]\nReach level 999 in Master mode.\n\nCambridge Graduate [15\u2605]\nObtain a grade of S1 in Master mode.\n\nStacking Student [15\u2605]\nReach level 500 in Master mode.\n\nDeath Defier (UNCLEARED) [1\u2605]\nObtain a grade of GM in Death mode.\n\nMental Block [50\u2605]\nObtain a grade of M in Death mode.\n\nBrick by Brick [50\u2605]\nReach level 500 in Death mode.\n\nSecret Service (UNCLEARED) [1\u2605]\nObtain secret GM grade in Master mode.\n\nGarbage Collector (UNCLEARED) [1\u2605]\nClear TGM+ mode.",
@@ -87408,6 +87958,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PC Engine/TurboGrafx-16",
+            "family": "Other",
+            "icon": "https://static.retroachievements.org/assets/images/system/pce.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "You Axed For It! [15\u2605]\nFinish the game.",
@@ -87430,6 +87985,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "MSX",
+            "family": "Other",
+            "icon": "https://static.retroachievements.org/assets/images/system/msx.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Sword of Light [5\u2605]\nBeat the game.",
@@ -87452,6 +88012,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 6,
+        "consoleData": {
+            "name": "Genesis/Mega Drive",
+            "family": "Sega",
+            "icon": "https://static.retroachievements.org/assets/images/system/md.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Thunderbolt & Lightning [15\u2605]\nFinish the game on Maniac difficulty.\n\nVery, Very Frightening (UNCLEARED) [1\u2605]\n1CC the game on Maniac difficulty.",
@@ -87474,6 +88039,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "The Seven Holidays King [10\u2605]\nOn Nightmare difficulty, Get an overall S-rank on all separate levels and complete both secret chapters.",
@@ -87496,6 +88066,11 @@ var data =
         "playersCompleted": 7,
         "playersStarted": 0,
         "playersTotal": 7,
+        "consoleData": {
+            "name": "Pokemon Mini",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/mini.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Rollout [5\u2605]\nBeat the game.",
@@ -87518,6 +88093,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 0,
+        "consoleData": {
+            "name": "Atari Lynx",
+            "family": "Atari",
+            "icon": "https://static.retroachievements.org/assets/images/system/lynx.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Ape Out [5\u2605]\nBeat the game.\n\nOne Tokin Clear (S) [1\u2605]\nBeat the game without being prompted to continue.",
@@ -87540,6 +88120,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 3,
+        "consoleData": {
+            "name": "Atari 7800",
+            "family": "Atari",
+            "icon": "https://static.retroachievements.org/assets/images/system/7800.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Top Toppler [5\u2605]\nTopple all eight towers in a single game.",
@@ -87562,6 +88147,11 @@ var data =
         "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 11,
+        "consoleData": {
+            "name": "Nintendo DS",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/ds.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Janky Joyride [25\u2605]\nCollect all author medals within race mode.",
@@ -87584,6 +88174,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "Nintendo DS",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/ds.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Master Surgeon [20\u2605]\nObtain all S ranks.",
@@ -87607,6 +88202,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 2,
+        "consoleData": {
+            "name": "Genesis/Mega Drive",
+            "family": "Sega",
+            "icon": "https://static.retroachievements.org/assets/images/system/md.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "Ray of Hope [30\u2605]\nBeat the game on Crazy difficulty.",
@@ -87629,6 +88229,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "PC Engine CD/TurboGrafx-CD",
+            "family": "Other",
+            "icon": "https://static.retroachievements.org/assets/images/system/pccd.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "RMG - Random Magic Girl [15\u2605]\nComplete the game.",
@@ -87651,6 +88256,11 @@ var data =
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
+        "consoleData": {
+            "name": "Virtual Boy",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/vb.png"
+        },
         "milestones": {
             "primary": 1,
             "primaryText": "The Hottest Treasure [5\u2605]\nBeat the game's second quest with the best ending (all treasures in under 1 hour and 30 minutes).",
@@ -87673,6 +88283,11 @@ var data =
         "playersCompleted": 2,
         "playersStarted": 0,
         "playersTotal": 3,
+        "consoleData": {
+            "name": "GameCube",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gc.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Stunt Master [10\u2605]\nIn Stunt mode, beat the default hi-score on all available courses\n\nRide the Tide [5\u2605]\nPlace first in the Normal, Hard, and Expert championships",
@@ -87695,6 +88310,11 @@ var data =
         "playersCompleted": 0,
         "playersStarted": 1,
         "playersTotal": 5,
+        "consoleData": {
+            "name": "Genesis/Mega Drive",
+            "family": "Sega",
+            "icon": "https://static.retroachievements.org/assets/images/system/md.png"
+        },
         "milestones": {
             "primary": 2,
             "primaryText": "Unfeathered (UNCLEARED) [1\u2605]\nFinish the second loop on Hyper Difficulty.\n\nIccus [5\u2605]\nFinish game on Hyper Difficulty",
@@ -87752,11 +88372,11 @@ var data =
 ]
 var date =
 {
-    "day": 22,
+    "day": 23,
     "month": 10,
     "year": 2025,
-    "hour": 9,
-    "minute": 3,
-    "second": 57,
-    "searchTime": 646.3701891899109
+    "hour": 0,
+    "minute": 42,
+    "second": 56,
+    "searchTime": 617.6693847179413
 }
