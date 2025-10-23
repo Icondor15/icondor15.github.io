@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 238,
         "completions": 126,
-        "playtime": 193.23320105820105,
+        "playtime": 193.59378306878307,
         "newestCompletion": "2025-09-04T20:48:49.000Z",
         "badges": {
             "count": 2,
@@ -693,7 +693,7 @@ var masoData =
         "tier": "2",
         "owners": 179,
         "completions": 96,
-        "playtime": 12.821527777777776,
+        "playtime": 12.830208333333333,
         "newestCompletion": "2025-10-01T21:09:49.000Z"
     },
     "247240": {
@@ -1955,7 +1955,7 @@ var masoData =
     "1082000": {
         "description": "\u2733 Pop the cherry",
         "tier": "2",
-        "owners": 37,
+        "owners": 38,
         "completions": 8,
         "playtime": 15.39375,
         "newestCompletion": "2023-12-30T09:55:41.000Z"
@@ -2595,7 +2595,7 @@ var masoData =
     "1369630": {
         "description": "Developer intended platforming\u2122",
         "tier": "1",
-        "owners": 45,
+        "owners": 46,
         "completions": 28,
         "playtime": 23.624999999999993,
         "newestCompletion": "2025-08-16T22:38:45.000Z"
@@ -3779,10 +3779,10 @@ var masoData =
     "2228030": {
         "description": "Puyo in the grinder",
         "tier": "1",
-        "owners": 31,
-        "completions": 11,
-        "playtime": 13.878787878787877,
-        "newestCompletion": "2025-06-25T09:58:05.000Z"
+        "owners": 32,
+        "completions": 12,
+        "playtime": 13.894444444444444,
+        "newestCompletion": "2025-10-06T02:03:10.000Z"
     },
     "1740930": {
         "description": "Boing!",
@@ -4188,9 +4188,9 @@ var masoData =
         "description": "\u2733 Quest for the jelly-filled donuts",
         "tier": "2",
         "owners": 17,
-        "completions": 7,
-        "playtime": 15.378571428571428,
-        "newestCompletion": "2024-07-24T15:04:35.000Z"
+        "completions": 8,
+        "playtime": 17.29583333333333,
+        "newestCompletion": "2025-10-16T01:32:46.000Z"
     },
     "2836010": {
         "description": "\u272a 2 buttons, 2 yolos",
