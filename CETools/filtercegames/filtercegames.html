@@ -520,7 +520,7 @@
                 <td class="button orderButton orderButtonUpdatedAt" onclick="orderFromButton = true; order('updatedAt')">Date Updated</td>
             </tr>
             <tr style="font-weight: bold; user-select: none;">
-                <td rowspan="2">Platform / Reviews</td>
+                <td rowspan="2">Platform<br>Reviews / Console</td>
                 <td rowspan="2">
                     Name<br>
                     <sub class="subtitle">(Click to copy the name!)</sub><br>
@@ -563,7 +563,7 @@
                 </td>
             </tr>
             <tr style="font-weight: bold; user-select: none;">
-                <td rowspan="2">Platform / Reviews</td>
+                <td rowspan="2">Platform<br>Reviews / Console</td>
                 <td rowspan="2">
                     Name<br>
                     <sub class="subtitle">(Click to copy the name!)</sub><br>
@@ -962,7 +962,7 @@
                         document.getElementById("tier5").checked = false;
                         document.getElementById("tier6").checked = false;
                         document.getElementById("tier7").checked = false;
-                        activeTier = [true, true, true, true, true, true, true, true]; //T0-T5
+                        activeTier = [true, true, true, true, true, true, true, true]; //T0-T7
                     }
                     else {document.getElementById("tierAll").checked = true;}
                 }
@@ -2265,19 +2265,6 @@
                         if(!useReverseOrder) {filteredData = nonDlcGames.concat(dlcGames, RAGames);}
                         else {filteredData = RAGames.concat(nonDlcGames, dlcGames);}
                     }
-                    else if(type == "dlcCount")
-                    {
-                        var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
-                        var RAGames = filteredData.filter(obj => {return obj.gameType == 3})
-
-                        var dlcGames = steamGames.filter(obj => {return obj.CEId in extrasData && "dlc" in extrasData[obj["CEId"]]})
-                        var nonDlcGames = steamGames.filter(obj => {return !(obj.CEId in extrasData && "dlc" in extrasData[obj["CEId"]])})
-                        
-                        dlcGames.sort((a,b) => (extrasData[a["CEId"]]["dlc"]["count"] > extrasData[b["CEId"]]["dlc"]["count"]) ? 1 : ((extrasData[b["CEId"]]["dlc"]["count"] > extrasData[a["CEId"]]["dlc"]["count"]) ? -1 : 0));
-
-                        if(!useReverseOrder) {filteredData = nonDlcGames.concat(dlcGames, RAGames);}
-                        else {filteredData = RAGames.concat(nonDlcGames, dlcGames);}
-                    }
                     else if(type == "dlcPrice")
                     {
                         var steamGames = filteredData.filter(obj => {return obj.gameType != 3})
@@ -2381,7 +2368,6 @@
                     catch {break;}
                     row1.classList.add("replace");
                     var cellPlatform = row1.insertCell(0);
-                    if(filteredData[i]["gameType"] == 3) {cellPlatform.rowSpan = 2;}
                     var cellName = row1.insertCell(1);
                     cellName.rowSpan = 2;
                     var cellGenre = row1.insertCell(2);
@@ -2472,10 +2458,7 @@
 
                     var row2 = table.insertRow(table.rows.length-4);
                     row2.classList.add("replace");
-                    if(filteredData[i]["gameType"] != 3)
-                    {
-                        var cellReviews = row2.insertCell(row2.cells.length);
-                    }
+                    var cellReviews = row2.insertCell(row2.cells.length);
                     var cellCommunity = row2.insertCell(row2.cells.length);
                     var cellPartialCompletion = row2.insertCell(row2.cells.length);
                     var cellPartialPercentage = row2.insertCell(row2.cells.length);
@@ -2602,13 +2585,15 @@
                         else
                         {
                             cellReviews.innerHTML = "<b>Review Count Unknown</b><br><sub>Weekly Check hasn't occurred yet.</sub>";
-                                    cellReviews.style.backgroundColor = "#00000066";
+                            cellReviews.style.backgroundColor = "#00000066";
                         }
                     }
                     else
                     {
                         cellPlatform.innerHTML = "<b style='color:#187DF0'>Retro</b><b style='color:#FFC50F'>Achievements</b>";
                         cellPlatform.style.backgroundColor = "#00000088";
+                        cellReviews.innerHTML = "<img src='" + filteredData[i]["consoleData"]["icon"] + "' style='height: 16px'> " + filteredData[i]["consoleData"]["name"] + "<br><b style='font-size: 0.8em'>[" + filteredData[i]["consoleData"]["family"] + "]</b></sub>";
+                        cellReviews.style.backgroundColor = "#00000055";
                     }
 
                     cellName.innerHTML = "<span id='tmp'>" + filteredData[i]["name"] + "</span>";
