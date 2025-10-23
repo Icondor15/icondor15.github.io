@@ -483,41 +483,38 @@
                     <div class="button orderButton orderButtonReviewRating" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('reviewRating')">Rating (%)</div>
                     <div class="button orderButton orderButtonReviewTotal" style="width:50%; float:right; border-left: solid 1px black;" onclick="orderFromButton = true; order('reviewTotal')">Total</div>
                 </td>
-                <td rowspan="2" class="button orderButton orderButtonName" onclick="orderFromButton = true; order('name')">Order By Name</td>
-                <td rowspan="2" class="button orderButton orderButtonGenre" onclick="orderFromButton = true; order('genre')">Order By Genre</td>
-                <td rowspan="2" class="button orderButton orderButtonPoints" colspan="2" onclick="orderFromButton = true; order('points')">Order By Points</td>
-                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button orderButton orderButtonPrimary" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('primary')">POs</div>
-                    <div class="button orderButton orderButtonCommunity" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('community')">COs</div>
-                </td>
-                <td rowspan="2" class="button orderButton orderButtonPlayersTotal" onclick="orderFromButton = true; order('playersTotal')">Order By Owners</td>
-                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button orderButton orderButtonPlayersCompleted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersCompleted')">Completed</div>
-                    <div class="button orderButton orderButtonCompletedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('completedPercentage')">%</div>
-                </td>
-                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button orderButton orderButtonFinal" style="width:49.3%; float:left;" colspan="2" onclick="orderFromButton = true; order('final')">Price</div>
-                    <div class="button orderButton orderButtonDiscountPercent" style="width:50%; float:right; border-left: solid 1px black;" colspan="2" onclick="orderFromButton = true; order('discountPercent')">Sale (%)</div>
-                </td>
-                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div style="width:49.3%; float:left;" class="button orderButton orderButtonDlcCount" onclick="orderFromButton = true; order('dlcCount')">DLC Count</div>
-                    <div style="width:50%; float:right; border-left: solid 1px black;" class="button orderButton orderButtonDlcPrice" onclick="orderFromButton = true; order('dlcPrice')">DLC Price</div>
-                </td>
-                <td class="button orderButton orderButtonCreatedAt" onclick="orderFromButton = true; order('createdAt')">Date Added</td>
-                <td rowspan="2" class="button orderButton orderButtonPlatformId" onclick="orderFromButton = true; order('platformId')">Order By Id</td>
+                <td rowspan="3" class="button orderButton orderButtonName" onclick="orderFromButton = true; order('name')">Order By Name</td>
+                <td rowspan="3" class="button orderButton orderButtonGenre" onclick="orderFromButton = true; order('genre')">Order By Genre</td>
+                <td rowspan="3" class="button orderButton orderButtonPoints" colspan="2" onclick="orderFromButton = true; order('points')">Order By Points</td>
+                <td colspan="2" class="button orderButton orderButtonPrimary" onclick="orderFromButton = true; order('primary')">POs</td>
+                <td colspan="3" class="button orderButton orderButtonPlayersTotal" onclick="orderFromButton = true; order('playersTotal')">Order By Owners</td>
+                <td class="button orderButton orderButtonFinal" colspan="2" onclick="orderFromButton = true; order('final')">Price</td>
+                <td colspan="2" class="button orderButton orderButtonDlcCount" onclick="orderFromButton = true; order('dlcCount')">DLC Count</td>
+                <td colspan="2" class="button orderButton orderButtonCreatedAt" onclick="orderFromButton = true; order('createdAt')">Date Added</td>
             </tr>
             <tr>
                 <td style="padding:0%; width:10%; background-color: #dddddd;">
                     <div class="button orderButton orderButtonReviewPositive" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('reviewPositive')">Positive</div>
                     <div class="button orderButton orderButtonReviewNegative" style="width:50%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('reviewNegative')">Negative</div>
                 </td>
-                <td class="button orderButton orderButtonAchievements" colspan="2" onclick="orderFromButton = true; order('achievements')">Achievements</td>
-                <td colspan="2" style="padding:0%; background-color: #dddddd;">
+                <td colspan="2" class="button orderButton orderButtonCommunity" onclick="orderFromButton = true; order('community')">COs</td>
+                <td colspan="3" style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div class="button orderButton orderButtonPlayersCompleted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersCompleted')">Completed</div>
+                    <div class="button orderButton orderButtonCompletedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('completedPercentage')">%</div>
+                </td>
+                <td class="button orderButton orderButtonDiscountPercent" colspan="2" onclick="orderFromButton = true; order('discountPercent')">Sale (%)</td>
+                <td colspan="2" class="button orderButton orderButtonDlcPrice" onclick="orderFromButton = true; order('dlcPrice')">DLC Price</td>
+                <td colspan="2" class="button orderButton orderButtonUpdatedAt" onclick="orderFromButton = true; order('updatedAt')">Date Updated</td>
+            </tr>
+            <tr>
+                <td class="button orderButton orderButtonConsoleName" onclick="orderFromButton = true; order('consoleName')">Console Name</td>
+                <td colspan="2" class="button orderButton orderButtonAchievements" onclick="orderFromButton = true; order('achievements')">Achievements</td>
+                <td colspan="3" style="padding:0%; background-color: #dddddd;">
                     <div class="button orderButton orderButtonPlayersStarted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersStarted')">Unfinished</div>
                     <div class="button orderButton orderButtonStartedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('startedPercentage')">%</div>
                 </td>
                 <td colspan="4" class="button orderButton orderButtonTotalPrice" colspan="2" onclick="orderFromButton = true; order('totalPrice')">Order By Total Price</td>
-                <td class="button orderButton orderButtonUpdatedAt" onclick="orderFromButton = true; order('updatedAt')">Date Updated</td>
+                <td colspan="2" class="button orderButton orderButtonPlatformId" onclick="orderFromButton = true; order('platformId')">Order By Id</td>
             </tr>
             <tr style="font-weight: bold; user-select: none;">
                 <td rowspan="2">Platform<br>Reviews / Console</td>
@@ -602,44 +599,41 @@
             </tr>
             <tr>
                 <td style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button orderButton orderButtonReviewPositive" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('reviewPositive')">Positive</div>
-                    <div class="button orderButton orderButtonReviewNegative" style="width:50%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('reviewNegative')">Negative</div>
+                    <div class="button orderButton orderButtonReviewRating" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('reviewRating')">Rating (%)</div>
+                    <div class="button orderButton orderButtonReviewTotal" style="width:50%; float:right; border-left: solid 1px black;" onclick="orderFromButton = true; order('reviewTotal')">Total</div>
                 </td>
-                <td rowspan="2" class="button orderButton orderButtonName" onclick="orderFromButton = true; order('name')">Order By Name</td>
-                <td rowspan="2" class="button orderButton orderButtonGenre" onclick="orderFromButton = true; order('genre')">Order By Genre</td>
-                <td rowspan="2" class="button orderButton orderButtonPoints" colspan="2" onclick="orderFromButton = true; order('points')">Order By Points</td>
-                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button orderButton orderButtonPrimary" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('primary')">POs</div>
-                    <div class="button orderButton orderButtonCommunity" style="width:50%; float:right; border-left: solid 1px black;"onclick="order('community')">COs</div>
-                </td>
-                <td rowspan="2" class="button orderButton orderButtonPlayersTotal" onclick="orderFromButton = true; order('playersTotal')">Order By Owners</td>
-                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button orderButton orderButtonPlayersCompleted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersCompleted')">Completed</div>
-                    <div class="button orderButton orderButtonCompletedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('completedPercentage')">%</div>
-                </td>
-                <td colspan="4" class="button orderButton orderButtonTotalPrice" colspan="2" onclick="orderFromButton = true; order('totalPrice')">Order By Total Price</td>
-                <td class="button orderButton orderButtonCreatedAt" onclick="orderFromButton = true; order('createdAt')">Date Added</td>
-                <td rowspan="2" class="button orderButton orderButtonPlatformId" onclick="orderFromButton = true; order('platformId')">Order By Id</td>
+                <td rowspan="3" class="button orderButton orderButtonName" onclick="orderFromButton = true; order('name')">Order By Name</td>
+                <td rowspan="3" class="button orderButton orderButtonGenre" onclick="orderFromButton = true; order('genre')">Order By Genre</td>
+                <td rowspan="3" class="button orderButton orderButtonPoints" colspan="2" onclick="orderFromButton = true; order('points')">Order By Points</td>
+                <td colspan="2" class="button orderButton orderButtonPrimary" onclick="orderFromButton = true; order('primary')">POs</td>
+                <td colspan="3" class="button orderButton orderButtonPlayersTotal" onclick="orderFromButton = true; order('playersTotal')">Order By Owners</td>
+                <td class="button orderButton orderButtonFinal" colspan="2" onclick="orderFromButton = true; order('final')">Price</td>
+                <td colspan="2" class="button orderButton orderButtonDlcCount" onclick="orderFromButton = true; order('dlcCount')">DLC Count</td>
+                <td colspan="2" class="button orderButton orderButtonCreatedAt" onclick="orderFromButton = true; order('createdAt')">Date Added</td>
             </tr>
             <tr>
                 <td style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button orderButton orderButtonReviewRating" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('reviewRating')">Rating (%)</div>
-                    <div class="button orderButton orderButtonReviewTotal" style="width:50%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('reviewTotal')">Total</div>
+                    <div class="button orderButton orderButtonReviewPositive" style="width:49.3%; float:left;" onclick="orderFromButton = true; order('reviewPositive')">Positive</div>
+                    <div class="button orderButton orderButtonReviewNegative" style="width:50%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('reviewNegative')">Negative</div>
                 </td>
-                <td class="button orderButton orderButtonAchievements" colspan="2" onclick="orderFromButton = true; order('achievements')">Achievements</td>
-                <td colspan="2" style="padding:0%; background-color: #dddddd;">
+                <td colspan="2" class="button orderButton orderButtonCommunity" onclick="orderFromButton = true; order('community')">COs</td>
+                <td colspan="3" style="padding:0%; width:10%; background-color: #dddddd;">
+                    <div class="button orderButton orderButtonPlayersCompleted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersCompleted')">Completed</div>
+                    <div class="button orderButton orderButtonCompletedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('completedPercentage')">%</div>
+                </td>
+                <td class="button orderButton orderButtonDiscountPercent" colspan="2" onclick="orderFromButton = true; order('discountPercent')">Sale (%)</td>
+                <td colspan="2" class="button orderButton orderButtonDlcPrice" onclick="orderFromButton = true; order('dlcPrice')">DLC Price</td>
+                <td colspan="2" class="button orderButton orderButtonUpdatedAt" onclick="orderFromButton = true; order('updatedAt')">Date Updated</td>
+            </tr>
+            <tr>
+                <td class="button orderButton orderButtonConsoleName" onclick="orderFromButton = true; order('consoleName')">Console Name</td>
+                <td colspan="2" class="button orderButton orderButtonAchievements" onclick="orderFromButton = true; order('achievements')">Achievements</td>
+                <td colspan="3" style="padding:0%; background-color: #dddddd;">
                     <div class="button orderButton orderButtonPlayersStarted" style="width:69.3%; float:left;" onclick="orderFromButton = true; order('playersStarted')">Unfinished</div>
                     <div class="button orderButton orderButtonStartedPercentage" style="width:30%; float:right; border-left: solid 1px black;"onclick="orderFromButton = true; order('startedPercentage')">%</div>
                 </td>
-                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div class="button orderButton orderButtonFinal" style="width:49.3%; float:left;" colspan="2" onclick="orderFromButton = true; order('final')">Price</div>
-                    <div class="button orderButton orderButtonDiscountPercent" style="width:50%; float:right; border-left: solid 1px black;" colspan="2" onclick="orderFromButton = true; order('discountPercent')">Sale (%)</div>
-                </td>
-                <td colspan="2" style="padding:0%; width:10%; background-color: #dddddd;">
-                    <div style="width:49.3%; float:left;" class="button orderButton orderButtonDlcCount" onclick="orderFromButton = true; order('dlcCount')">DLC Count</div>
-                    <div style="width:50%; float:right; border-left: solid 1px black;" class="button orderButton orderButtonDlcPrice" onclick="orderFromButton = true; order('dlcPrice')">DLC Price</div>
-                </td>
-                <td class="button orderButton orderButtonUpdatedAt" onclick="orderFromButton = true; order('updatedAt')">Date Updated</td>
+                <td colspan="4" class="button orderButton orderButtonTotalPrice" colspan="2" onclick="orderFromButton = true; order('totalPrice')">Order By Total Price</td>
+                <td colspan="2" class="button orderButton orderButtonPlatformId" onclick="orderFromButton = true; order('platformId')">Order By Id</td>
             </tr>
         </table>
         <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, 0);"><b>^^^ Move to top ^^^</b></span></div>
@@ -2322,7 +2316,16 @@
 
                         if(useReverseOrder != true) {filteredData = steamGames.concat(RAGames);}
                         else {filteredData = RAGames.concat(steamGames);}
-                        
+                    }
+                    else if(type == "consoleName")
+                    {
+                        let steamGames = filteredData.filter(obj => {return obj.gameType != 3})
+                        let RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+
+                        RAGames.sort((a,b) => (a["consoleData"]["name"].toUpperCase() > b["consoleData"]["name"].toUpperCase()) ? 1 : ((b["consoleData"]["name"].toUpperCase() > a["consoleData"]["name"].toUpperCase()) ? -1 : 0));
+
+                        if(useReverseOrder != true) {filteredData = RAGames.concat(steamGames);}
+                        else {filteredData = steamGames.concat(RAGames);}
                     }
                     else
                     {
@@ -2363,7 +2366,7 @@
                 {
                     try
                     {
-                        var row1 = table.insertRow(table.rows.length-4);
+                        var row1 = table.insertRow(table.rows.length-5);
                     }
                     catch {break;}
                     row1.classList.add("replace");
@@ -2456,7 +2459,7 @@
                         }
                     }
 
-                    var row2 = table.insertRow(table.rows.length-4);
+                    var row2 = table.insertRow(table.rows.length-5);
                     row2.classList.add("replace");
                     var cellReviews = row2.insertCell(row2.cells.length);
                     var cellCommunity = row2.insertCell(row2.cells.length);
@@ -2480,7 +2483,7 @@
                         if(filteredData[i]["gameType"] != 3 && filteredData[i]["platformId"].toString() in masoData)
                         {
                             var masoGame = masoData[filteredData[i]["platformId"].toString()];
-                            var row3 = table.insertRow(table.rows.length-4);
+                            var row3 = table.insertRow(table.rows.length-5);
                             row3.classList.add("replace", "masoRow");
                             row3.style.backgroundImage = "linear-gradient(180deg,#FFFFFF33 0%, #00000000 100%), linear-gradient(90deg,rgba(143, 3, 26, 0.8) 0%, rgba(40, 42, 74, 0.8) 75%)";
                             row3.style.backgroundBlendMode = "lighten";
