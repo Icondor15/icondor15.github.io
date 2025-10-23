@@ -1400,6 +1400,7 @@
                     <option value="genre">Genre</option>
                     <option selected value="points">Points</option>
                     <option id="userFilterOrder" style="display:none" value="userPoints">Gained Points (User Filter)</option>
+                    <option value="consoleName">Console Name (RA)</option>
                     <option value="random">Random</option>
                 </optgroup>
                 <optgroup label="--Milestones--">
@@ -1414,19 +1415,19 @@
                     <option value="playersStarted">Started</option>
                     <option value="startedPercentage">Started (%)</option>
                 </optgroup>
-                <optgroup label="--Reviews--">
+                <optgroup label="--Reviews (Steam)--">
                     <option value="reviewRating">Rating (%)</option>
                     <option value="reviewTotal">Total Reviews</option>
                     <option value="reviewPositive">Positive Reviews</option>
                     <option value="reviewNegative">Negative Reviews</option>
                 </optgroup>
-                <optgroup label="--Price--">
+                <optgroup label="--Price (Steam)--">
                     <option value="initial">Base Price</option>
                     <option value="discountPercent">Sale (%)</option>
                     <option value="final">Final Price</option>
                     <option value="totalPrice">Total Price (Final+DLCs)</option>
                 </optgroup>
-                <optgroup label="--DLCs--">
+                <optgroup label="--DLCs (Steam)--">
                     <option value="dlcCount">DLC Count</option>
                     <option value="dlcPrice">DLC Price</option>
                 </optgroup>
@@ -3085,6 +3086,16 @@
 
                     if(useReverseOrder != true) {filteredData = nonPaid.concat(nonFunctional, functional,RA);}
                     else {filteredData = RA.concat(nonPaid, nonFunctional, functional);}
+                }
+                else if(type == "consoleName")
+                {
+                    let steamGames = filteredData.filter(obj => {return obj.gameType != 3})
+                    let RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+
+                    RAGames.sort((a,b) => (a["consoleData"]["name"].toUpperCase() > b["consoleData"]["name"].toUpperCase()) ? 1 : ((b["consoleData"]["name"].toUpperCase() > a["consoleData"]["name"].toUpperCase()) ? -1 : 0));
+
+                    if(useReverseOrder != true) {filteredData = RAGames.concat(steamGames);}
+                    else {filteredData = steamGames.concat(RAGames);}
                 }
                 else if(type == "random")
                 {
