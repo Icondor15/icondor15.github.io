@@ -1468,7 +1468,7 @@ var data =
         "points": 5,
         "createdAt": "2024-04-03T05:58:50.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 5,
+        "playersCompleted": 6,
         "playersStarted": 0,
         "playersTotal": 10,
         "priceData": {
@@ -6602,10 +6602,10 @@ var data =
         "name": "Beat Saber",
         "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/header.jpg?t=1731661369",
         "genre": "Arcade",
-        "tier": 3,
-        "points": 55,
+        "tier": 6,
+        "points": 431,
         "createdAt": "2024-11-25T18:28:38.000Z",
-        "updatedAt": "2025-10-22T22:34:32.000Z",
+        "updatedAt": "2025-10-24T08:52:18.000Z",
         "playersCompleted": 0,
         "playersStarted": 37,
         "playersTotal": 187,
@@ -6643,12 +6643,12 @@ var data =
         },
         "milestones": {
             "primary": 7,
-            "primaryText": "Saber Savant (UNVALUED) [1\u2605]\nExpert+ difficulty: Obtain an SS rank on every song in OST 6.\n\nI Can See My Rise Up On the Horizon (UNVALUED) [1\u2605]\nExpert+ difficulty: Obtain an SS rank on every song in OST 1-5 and 7, Extras, and Camellia.\n\nRock Out With Your Hands Out (UNVALUED) [1\u2605]\nExpert+ difficulty: Complete every song in OST 6.\n\nI Been Out Here Grinding (UNVALUED) [1\u2605]\nExpert+ difficulty: Complete every song in OST 1-5 and 7, Extras, and Camellia.\n\nI Got the Power (UNVALUED) [1\u2605]\nExpert difficulty or higher: Obtain an SS rank on every song in all base game packs (OSTs, Camellia pack, Extras pack).\n\nI Can Swing for Hours [45\u2605]\nExpert difficulty or higher: Complete every song in all base game packs (OSTs, Camellia pack, Extras pack).\n\nBeat the Beat Up [5\u2605]\nClear all missions in the campaign.",
+            "primaryText": "Saber Savant (UNCLEARED) [1\u2605]\nExpert+ difficulty: Obtain an SS rank on every song in OST 6.\n\nI Can See My Rise Up On the Horizon [175\u2605]\nExpert+ difficulty: Obtain an SS rank on every song in OST 1-5 and 7, Extras, and Camellia.\n\nRock Out With Your Hands Out [65\u2605]\nExpert+ difficulty: Complete every song in OST 6.\n\nI Been Out Here Grinding [75\u2605]\nExpert+ difficulty: Complete every song in OST 1-5 and 7, Extras, and Camellia.\n\nI Got the Power [70\u2605]\nExpert difficulty or higher: Obtain an SS rank on every song in all base game packs (OSTs, Camellia pack, Extras pack).\n\nI Can Swing for Hours [40\u2605]\nExpert difficulty or higher: Complete every song in all base game packs (OSTs, Camellia pack, Extras pack).\n\nBeat the Beat Up [5\u2605]\nClear all missions in the campaign.",
             "community": 7,
             "communityText": "Slice Them All! Dice Them All! (S)\nExpert+ difficulty: Obtain a Full Combo on every song in OST 6.\n\nI'm a Living Legend (S)\nExpert+ difficulty: Obtain a Full Combo on every song in OST 1-5 and 7, Extras, and Camellia.\n\nI Got Unlimited Power (S)\nExpert difficulty or higher: Obtain a Full Combo on every song in all base game packs.\n\nBorn to Vaporize Them All\nExpert+ difficulty: Obtain an SS+ rank (95%+) on every song in OST 6.\n\nI Am the Greatest of All Time, Man\nExpert+ difficulty: Obtain an SS+ rank (95%+) on every song in OST 1-5 and 7, Extras, and Camellia.\n\nI'm a Phenomenon and Carry On\nExpert difficulty or higher: Obtain an SS+ rank (95%+) on every song in all base game packs.\n\nHalf the Arms, Double the Fun (S)\nComplete all base game songs on One Saber mode on the highest difficulty available (all of OST1 and OST2, and select songs in OST3-5, Extras Pack, Camellia Pack).",
             "achievements": 26
         },
-        "information": "SS rank: >90% accuracy"
+        "information": "SS rank: >90% accuracy\n\nThe generally-agreed upon PO progression curve is as follows:\nExpert passes \u2192 Expert+ passes (non-OST6) \u2192 Expert SS \u2192 Expert+ passes (OST6) \u2192 Expert+SS\n\nThere is some debate on items 2 and 3, but from a PO structure perspective, the two 'Expert' POs are grouped."
     },
     {
         "gameType": 0,
@@ -21265,7 +21265,7 @@ var data =
         "createdAt": "2025-04-14T03:21:04.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
-        "playersStarted": 37,
+        "playersStarted": 38,
         "playersTotal": 59,
         "priceData": {
             "USD": {
@@ -87793,7 +87793,7 @@ var data =
         "updatedAt": "2025-10-21T05:41:01.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 10,
+        "playersTotal": 11,
         "consoleData": {
             "name": "Game Boy Color",
             "family": "Nintendo",
@@ -88247,12 +88247,12 @@ var data =
         "platformId": 11703,
         "CEId": "401ffc7b-3ff2-44de-9234-b43cc96234f1",
         "name": "Virtual Boy: Wario Land",
-        "header": "https://upload.cedb.me/401ffc7b-3ff2-44de-9234-b43cc96234f1.png",
+        "header": "https://upload.cedb.me/vwario.png",
         "genre": "Platformer",
         "tier": 1,
         "points": 5,
         "createdAt": "2025-09-28T06:48:04.000Z",
-        "updatedAt": "2025-10-21T04:41:15.000Z",
+        "updatedAt": "2025-10-24T08:34:14.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 1,
@@ -88375,8 +88375,8 @@ var date =
     "day": 24,
     "month": 10,
     "year": 2025,
-    "hour": 10,
-    "minute": 3,
-    "second": 47,
-    "searchTime": 421.7937881946564
+    "hour": 11,
+    "minute": 32,
+    "second": 5,
+    "searchTime": 446.2156295776367
 }
