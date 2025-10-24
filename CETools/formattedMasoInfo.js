@@ -684,9 +684,9 @@ var masoData =
         "description": "\u2733 An angry name for a game with the calmest character",
         "tier": "2",
         "owners": 132,
-        "completions": 40,
-        "playtime": 48.83333333333332,
-        "newestCompletion": "2025-09-04T20:25:34.000Z"
+        "completions": 41,
+        "playtime": 48.060569105691044,
+        "newestCompletion": "2025-10-23T14:23:57.000Z"
     },
     "360740": {
         "description": "\u2733 Well diving simulator",
@@ -1067,7 +1067,7 @@ var masoData =
     "211360": {
         "description": "\u2733 Pretends to be a puzzle game",
         "tier": "2",
-        "owners": 48,
+        "owners": 49,
         "completions": 23,
         "playtime": 15.420289855072465,
         "newestCompletion": "2025-07-14T01:16:20.000Z"
