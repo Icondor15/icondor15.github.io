@@ -95,7 +95,7 @@ var masoData =
     "928840": {
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
-        "owners": 48,
+        "owners": 49,
         "completions": 10,
         "playtime": 7.436666666666666,
         "newestCompletion": "2025-08-22T15:28:25.000Z"
@@ -395,7 +395,7 @@ var masoData =
     "439490": {
         "description": "\ud83c\udf1f Reach the Summit",
         "tier": "5",
-        "owners": 69,
+        "owners": 70,
         "completions": 2,
         "playtime": 61.375,
         "newestCompletion": "2025-06-04T20:34:39.000Z"
@@ -428,9 +428,9 @@ var masoData =
         "description": "\u2733 No longer casual \u02c3\u0323\u0323\u0325\u2313\u02c2\u0323\u0323\u0325",
         "tier": "2",
         "owners": 238,
-        "completions": 126,
-        "playtime": 193.59378306878307,
-        "newestCompletion": "2025-09-04T20:48:49.000Z",
+        "completions": 127,
+        "playtime": 193.02099737532805,
+        "newestCompletion": "2025-10-24T02:20:59.000Z",
         "badges": {
             "count": 2,
             "points": 12
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 247,
         "completions": 180,
-        "playtime": 225.29027777777785,
+        "playtime": 225.2922222222223,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -943,10 +943,10 @@ var masoData =
     "240720": {
         "description": "\u2733 Can you?",
         "tier": "2",
-        "owners": 183,
-        "completions": 95,
-        "playtime": 33.05719298245615,
-        "newestCompletion": "2025-07-26T13:11:01.000Z"
+        "owners": 184,
+        "completions": 96,
+        "playtime": 32.7498263888889,
+        "newestCompletion": "2025-10-19T02:47:59.000Z"
     },
     "510620": {
         "description": "\u2606 Jukenation",
@@ -1187,7 +1187,7 @@ var masoData =
     "230270": {
         "description": "\ud83c\udf1f\ud83d\udc80 Time is money \ud83d\udc80",
         "tier": "5",
-        "owners": 165,
+        "owners": 166,
         "completions": 20,
         "playtime": 1302.7675000000002,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
@@ -1476,9 +1476,9 @@ var masoData =
         "description": "\ud83c\udf1f The Virgin Shovel knight VS the Chad Jump King",
         "tier": "5",
         "owners": 135,
-        "completions": 36,
-        "playtime": 281.4412037037037,
-        "newestCompletion": "2025-06-16T07:54:51.000Z",
+        "completions": 37,
+        "playtime": 277.03783783783786,
+        "newestCompletion": "2025-10-21T19:17:56.000Z",
         "badges": {
             "count": 1,
             "points": 5
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 106,
         "completions": 31,
-        "playtime": 88.55860215053765,
+        "playtime": 88.61451612903228,
         "newestCompletion": "2025-08-27T18:23:40.000Z",
         "badges": {
             "count": 2,
@@ -2555,10 +2555,10 @@ var masoData =
     "1525660": {
         "description": "\ud83c\udf1f just like the simulations",
         "tier": "5",
-        "owners": 111,
-        "completions": 26,
-        "playtime": 46.91730769230769,
-        "newestCompletion": "2025-07-12T04:37:59.000Z"
+        "owners": 112,
+        "completions": 27,
+        "playtime": 47.43333333333333,
+        "newestCompletion": "2025-10-25T02:43:00.000Z"
     },
     "732930": {
         "description": "Goomba strikes back",
@@ -4455,7 +4455,7 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 46,
+        "owners": 47,
         "completions": 15,
         "playtime": 107.14,
         "newestCompletion": "2025-10-18T20:13:10.000Z"
