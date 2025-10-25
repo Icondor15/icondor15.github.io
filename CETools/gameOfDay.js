@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1083310,
-        "CEId": "7c1920f6-1703-42f8-99fc-ef7181014a39",
-        "name": "OUTBUDDIES DX",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1083310/header.jpg?t=1594997233",
-        "genre": "Action",
+        "platformId": 248330,
+        "CEId": "3cea3a49-ab0e-41b5-ab57-c1ffb999b5e9",
+        "name": "Dino Run DX",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/248330/header.jpg?t=1588695602",
+        "genre": "Platformer",
         "tier": 1,
-        "points": 15,
-        "createdAt": "2022-10-24T01:16:40.000Z",
+        "points": 5,
+        "createdAt": "2021-10-25T00:06:23.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 4,
+        "playersCompleted": 23,
         "playersStarted": 0,
-        "playersTotal": 103,
+        "playersTotal": 220,
         "priceData": {
             "USD": {
-                "initial": 1799,
-                "final": 125,
-                "discountPercent": 93
+                "initial": 599,
+                "final": 599,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 1799,
-                "final": 125,
-                "discountPercent": 93
+                "initial": 589,
+                "final": 589,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 1499,
-                "final": 104,
-                "discountPercent": 93
+                "initial": 499,
+                "final": 499,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 200000,
-                "final": 14000,
-                "discountPercent": 93
+                "initial": 70000,
+                "final": 70000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 2650,
-                "final": 185,
-                "discountPercent": 93
+                "initial": 879,
+                "final": 879,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 2349,
-                "final": 164,
-                "discountPercent": 93
+                "initial": 779,
+                "final": 779,
+                "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "King of Monsters [15\u2605]\nComplete the Boss Rush mode.",
+            "primaryText": "Meteor Dodger [5\u2605]\nComplete the Insane Challenge. / Complete the Insane Halloween Hellrun Challenge. / Complete the Insane Planet D Challenge. / Complete All Insane Speedruns. / Doomsurf for 60 Seconds.",
             "community": 0,
             "communityText": "",
-            "achievements": 38
+            "achievements": 49
         }
     }
 }
-var gameOfDayDate = '2025-10-24'
+var gameOfDayDate = '2025-10-25'
