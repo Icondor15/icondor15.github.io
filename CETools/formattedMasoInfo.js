@@ -691,7 +691,7 @@ var masoData =
     "360740": {
         "description": "\u2733 Well diving simulator",
         "tier": "2",
-        "owners": 179,
+        "owners": 180,
         "completions": 96,
         "playtime": 12.830208333333333,
         "newestCompletion": "2025-10-01T21:09:49.000Z"
@@ -913,7 +913,7 @@ var masoData =
         "tier": "4",
         "owners": 93,
         "completions": 24,
-        "playtime": 30.348611111111115,
+        "playtime": 30.401388888888892,
         "newestCompletion": "2025-07-04T01:13:36.000Z"
     },
     "656970": {
@@ -4155,7 +4155,7 @@ var masoData =
     "2204170": {
         "description": "\u2733 Gonna blow your mind away",
         "tier": "2",
-        "owners": 24,
+        "owners": 25,
         "completions": 12,
         "playtime": 51.62361111111111,
         "newestCompletion": "2025-09-27T02:56:43.000Z"
@@ -4251,10 +4251,10 @@ var masoData =
     "1585220": {
         "description": "Life could be a dream",
         "tier": "1",
-        "owners": 25,
-        "completions": 5,
-        "playtime": 8.92,
-        "newestCompletion": "2025-07-27T15:54:23.000Z"
+        "owners": 26,
+        "completions": 6,
+        "playtime": 8.505555555555555,
+        "newestCompletion": "2025-10-25T06:57:04.000Z"
     },
     "1406250": {
         "description": "\ud83c\udf1fDon't waste your shrikens",
@@ -4463,7 +4463,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 45,
+        "owners": 46,
         "completions": 7,
         "playtime": 2241.171428571429,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
