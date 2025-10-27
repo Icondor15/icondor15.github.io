@@ -95,7 +95,7 @@ var masoData =
     "928840": {
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
-        "owners": 49,
+        "owners": 50,
         "completions": 10,
         "playtime": 7.436666666666666,
         "newestCompletion": "2025-08-22T15:28:25.000Z"
@@ -351,7 +351,7 @@ var masoData =
     "812550": {
         "description": "\u2733 Gotta glide fast",
         "tier": "2",
-        "owners": 77,
+        "owners": 78,
         "completions": 20,
         "playtime": 11.412499999999998,
         "newestCompletion": "2023-09-13T19:38:57.000Z"
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 238,
         "completions": 127,
-        "playtime": 193.02099737532805,
+        "playtime": 193.2527559055118,
         "newestCompletion": "2025-10-24T02:20:59.000Z",
         "badges": {
             "count": 2,
@@ -543,10 +543,10 @@ var masoData =
     "269270": {
         "description": "\u2733 Nothing to do with the game",
         "tier": "2",
-        "owners": 110,
-        "completions": 71,
-        "playtime": 6.520657276995308,
-        "newestCompletion": "2025-04-01T21:09:11.000Z"
+        "owners": 111,
+        "completions": 72,
+        "playtime": 6.440740740740743,
+        "newestCompletion": "2025-10-26T05:41:49.000Z"
     },
     "578930": {
         "description": "My favorite word",
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 247,
         "completions": 180,
-        "playtime": 225.2922222222223,
+        "playtime": 225.64453703703708,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 246,
         "completions": 74,
-        "playtime": 124.06216216216212,
+        "playtime": 124.06756756756752,
         "newestCompletion": "2025-09-24T09:48:04.000Z"
     },
     "557340": {
@@ -1891,7 +1891,7 @@ var masoData =
     "514620": {
         "description": "Epillipsis",
         "tier": "1",
-        "owners": 54,
+        "owners": 55,
         "completions": 41,
         "playtime": 4.936178861788617,
         "newestCompletion": "2025-09-06T18:24:36.000Z"
@@ -2263,7 +2263,7 @@ var masoData =
     "1229580": {
         "description": "\u2733 Absolutely Discusting",
         "tier": "2",
-        "owners": 115,
+        "owners": 116,
         "completions": 80,
         "playtime": 17.527500000000003,
         "newestCompletion": "2025-09-23T22:04:37.000Z",
@@ -2555,7 +2555,7 @@ var masoData =
     "1525660": {
         "description": "\ud83c\udf1f just like the simulations",
         "tier": "5",
-        "owners": 112,
+        "owners": 113,
         "completions": 27,
         "playtime": 47.43333333333333,
         "newestCompletion": "2025-10-25T02:43:00.000Z"
@@ -2647,7 +2647,7 @@ var masoData =
     "1170060": {
         "description": "\u272a Okay Boomerang ",
         "tier": "4",
-        "owners": 74,
+        "owners": 75,
         "completions": 21,
         "playtime": 16.675396825396824,
         "newestCompletion": "2025-09-09T18:04:42.000Z"
@@ -2889,7 +2889,7 @@ var masoData =
         "tier": "1",
         "owners": 123,
         "completions": 37,
-        "playtime": 33.10990990990991,
+        "playtime": 33.11126126126126,
         "newestCompletion": "2025-04-01T04:26:58.000Z",
         "badges": {
             "count": 1,
@@ -3047,7 +3047,7 @@ var masoData =
     "390520": {
         "description": "\u2733 Bruh",
         "tier": "2",
-        "owners": 27,
+        "owners": 28,
         "completions": 3,
         "playtime": 21.144444444444442,
         "newestCompletion": "2024-03-29T23:52:11.000Z"
@@ -3081,7 +3081,7 @@ var masoData =
         "tier": "3",
         "owners": 158,
         "completions": 44,
-        "playtime": 200.39734848484844,
+        "playtime": 200.4454545454545,
         "newestCompletion": "2025-08-12T22:57:39.000Z"
     },
     "456390": {
@@ -3225,7 +3225,7 @@ var masoData =
         "tier": "3",
         "owners": 118,
         "completions": 59,
-        "playtime": 75.1316384180791,
+        "playtime": 75.43418079096045,
         "newestCompletion": "2025-10-15T22:45:46.000Z",
         "badges": {
             "count": 1,
@@ -4187,7 +4187,7 @@ var masoData =
     "1304420": {
         "description": "\u2733 Quest for the jelly-filled donuts",
         "tier": "2",
-        "owners": 17,
+        "owners": 18,
         "completions": 8,
         "playtime": 17.29583333333333,
         "newestCompletion": "2025-10-16T01:32:46.000Z"
@@ -4243,7 +4243,7 @@ var masoData =
     "2076580": {
         "description": "Anything but a grind",
         "tier": "1",
-        "owners": 14,
+        "owners": 15,
         "completions": 7,
         "playtime": 7.55,
         "newestCompletion": "2025-07-25T01:04:01.000Z"
@@ -4455,9 +4455,9 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 47,
+        "owners": 48,
         "completions": 15,
-        "playtime": 107.14,
+        "playtime": 107.86777777777777,
         "newestCompletion": "2025-10-18T20:13:10.000Z"
     },
     "322170": {
