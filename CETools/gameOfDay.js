@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 792710,
-        "CEId": "3fa0356b-f027-48e6-8923-d279b6e65b7b",
-        "name": "Levelhead: Platformer Maker",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/792710/header.jpg?t=1687544673",
-        "genre": "Platformer",
-        "tier": 1,
-        "points": 10,
-        "createdAt": "2023-10-26T19:07:09.000Z",
+        "platformId": 718590,
+        "CEId": "33919e7d-e394-4b2a-9f5c-c4934e94555c",
+        "name": "Dark Devotion",
+        "header": "https://steamcdn-a.akamaihd.net/steam/apps/718590/header.jpg?t=1574418537",
+        "genre": "Action",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2020-01-28T08:27:58.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 9,
+        "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 205,
+        "playersTotal": 124,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 499,
-                "final": 499,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 429,
-                "final": 429,
+                "initial": 1749,
+                "final": 1749,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 58000,
-                "final": 58000,
+                "initial": 205000,
+                "final": 205000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 750,
-                "final": 750,
+                "initial": 2895,
+                "final": 2895,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 649,
-                "final": 649,
+                "initial": 2279,
+                "final": 2279,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Zipper Flipper [10\u2605]\nDeliver every package under the On-Time benchmark in the Bureau's training program.",
+            "primaryText": "Faithful Templar [20\u2605]\nReach the end of the Temple while wearing the Redeemer\u2019s curse. Be an example, show the path.",
             "community": 0,
             "communityText": "",
-            "achievements": 44
+            "achievements": 45
         }
     }
 }
-var gameOfDayDate = '2025-10-26'
+var gameOfDayDate = '2025-10-27'
