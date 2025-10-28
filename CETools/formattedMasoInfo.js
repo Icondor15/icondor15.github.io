@@ -139,7 +139,7 @@ var masoData =
     "286100": {
         "description": "You should\"ve played it by now",
         "tier": "1",
-        "owners": 156,
+        "owners": 157,
         "completions": 76,
         "playtime": 8.70767543859649,
         "newestCompletion": "2025-08-02T22:02:19.000Z",
@@ -255,10 +255,10 @@ var masoData =
     "588650": {
         "description": "\u272a I hope you like content updates",
         "tier": "4",
-        "owners": 145,
-        "completions": 17,
-        "playtime": 201.84509803921566,
-        "newestCompletion": "2025-07-19T08:37:11.000Z"
+        "owners": 146,
+        "completions": 18,
+        "playtime": 194.74074074074073,
+        "newestCompletion": "2025-10-09T13:53:53.000Z"
     },
     "795570": {
         "description": "\u272a Healthier option: bashing your head against a wall",
@@ -427,9 +427,9 @@ var masoData =
     "367520": {
         "description": "\u2733 No longer casual \u02c3\u0323\u0323\u0325\u2313\u02c2\u0323\u0323\u0325",
         "tier": "2",
-        "owners": 238,
-        "completions": 127,
-        "playtime": 193.2527559055118,
+        "owners": 239,
+        "completions": 128,
+        "playtime": 192.67057291666666,
         "newestCompletion": "2025-10-24T02:20:59.000Z",
         "badges": {
             "count": 2,
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 247,
         "completions": 180,
-        "playtime": 225.64453703703708,
+        "playtime": 226.023425925926,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -819,7 +819,7 @@ var masoData =
     "701440": {
         "description": "\ud83c\udf1f Entry-level: 100% Super Meat Boy",
         "tier": "5",
-        "owners": 153,
+        "owners": 154,
         "completions": 39,
         "playtime": 42.306837606837604,
         "newestCompletion": "2025-03-07T22:26:00.000Z"
@@ -1163,7 +1163,7 @@ var masoData =
     "392020": {
         "description": "\u2606 If Super Hexagon and Velocibox had a baby, it would be sacrified to summon this demon lord.",
         "tier": "3",
-        "owners": 115,
+        "owners": 116,
         "completions": 41,
         "playtime": 15.592682926829264,
         "newestCompletion": "2025-08-30T16:34:42.000Z"
@@ -1259,10 +1259,10 @@ var masoData =
     "297130": {
         "description": "\u2606 Boss rush extravaganza",
         "tier": "3",
-        "owners": 186,
-        "completions": 39,
-        "playtime": 25.77820512820513,
-        "newestCompletion": "2025-08-09T09:48:06.000Z"
+        "owners": 187,
+        "completions": 40,
+        "playtime": 25.665,
+        "newestCompletion": "2025-08-26T22:13:29.000Z"
     },
     "262390": {
         "description": "\ud83c\udf1f Speedrunning taken to the extreme in a beautiful 3D environment. Get the DLC only if you enjoy pain and suffering.",
@@ -1527,9 +1527,9 @@ var masoData =
     "814380": {
         "description": "\u2733 It\"s all in the fundamentals",
         "tier": "2",
-        "owners": 106,
-        "completions": 62,
-        "playtime": 87.52365591397852,
+        "owners": 107,
+        "completions": 63,
+        "playtime": 87.55714285714288,
         "newestCompletion": "2025-01-14T22:44:01.000Z"
     },
     "447150": {
@@ -1735,9 +1735,9 @@ var masoData =
     "774361": {
         "description": "God will punish you if you don\"t play it",
         "tier": "1",
-        "owners": 143,
-        "completions": 45,
-        "playtime": 39.86666666666666,
+        "owners": 144,
+        "completions": 46,
+        "playtime": 39.49999999999999,
         "newestCompletion": "2025-08-31T12:58:21.000Z"
     },
     "1012970": {
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 106,
         "completions": 31,
-        "playtime": 88.61451612903228,
+        "playtime": 88.63440860215054,
         "newestCompletion": "2025-08-27T18:23:40.000Z",
         "badges": {
             "count": 2,
@@ -2348,9 +2348,9 @@ var masoData =
         "description": "I will beat you to death",
         "tier": "1",
         "owners": 170,
-        "completions": 91,
-        "playtime": 16.051465201465202,
-        "newestCompletion": "2025-05-31T23:47:31.000Z"
+        "completions": 92,
+        "playtime": 15.978623188405797,
+        "newestCompletion": "2025-08-14T12:01:31.000Z"
     },
     "757320": {
         "description": "\u2606 Nuclear Valley",
@@ -2547,9 +2547,9 @@ var masoData =
     "1647160": {
         "description": "\u2733 Is it in yet?",
         "tier": "2",
-        "owners": 130,
-        "completions": 68,
-        "playtime": 5.851470588235293,
+        "owners": 131,
+        "completions": 69,
+        "playtime": 5.86086956521739,
         "newestCompletion": "2025-08-21T00:28:27.000Z"
     },
     "1525660": {
@@ -2715,7 +2715,7 @@ var masoData =
     "719930": {
         "description": "\u272a Super Meat Ball",
         "tier": "4",
-        "owners": 34,
+        "owners": 35,
         "completions": 13,
         "playtime": 43.09615384615385,
         "newestCompletion": "2025-08-15T06:16:14.000Z"
@@ -3055,9 +3055,9 @@ var masoData =
     "1245620": {
         "description": "\u2733 why is it always fort, night",
         "tier": "2",
-        "owners": 108,
-        "completions": 65,
-        "playtime": 194.22384615384615,
+        "owners": 109,
+        "completions": 66,
+        "playtime": 194.99621212121212,
         "newestCompletion": "2025-07-26T08:37:09.000Z"
     },
     "1190170": {
@@ -3139,7 +3139,7 @@ var masoData =
     "342610": {
         "description": "\u272a Exponentially increasing opportunities to get dunked on",
         "tier": "4",
-        "owners": 82,
+        "owners": 83,
         "completions": 7,
         "playtime": 237.2880952380952,
         "newestCompletion": "2024-12-06T21:13:47.000Z",
@@ -3151,10 +3151,10 @@ var masoData =
     "467380": {
         "description": "mega monster girls",
         "tier": "1",
-        "owners": 56,
-        "completions": 13,
-        "playtime": 29.53461538461538,
-        "newestCompletion": "2025-08-12T07:18:08.000Z",
+        "owners": 57,
+        "completions": 14,
+        "playtime": 28.734523809523804,
+        "newestCompletion": "2025-09-16T14:52:53.000Z",
         "badges": {
             "count": 1,
             "points": 1
@@ -3556,9 +3556,9 @@ var masoData =
         "description": "\u2606 xD",
         "tier": "3",
         "owners": 51,
-        "completions": 10,
-        "playtime": 167.92000000000002,
-        "newestCompletion": "2025-07-15T23:37:24.000Z",
+        "completions": 11,
+        "playtime": 154.52575757575758,
+        "newestCompletion": "2025-10-19T22:43:57.000Z",
         "badges": {
             "count": 1,
             "points": 4
@@ -4267,10 +4267,10 @@ var masoData =
     "1058640": {
         "description": "Hotline Miami fan service",
         "tier": "1",
-        "owners": 26,
-        "completions": 3,
-        "playtime": 16.21666666666667,
-        "newestCompletion": "2023-12-21T20:13:10.000Z"
+        "owners": 27,
+        "completions": 4,
+        "playtime": 15.125000000000002,
+        "newestCompletion": "2025-10-16T19:58:28.000Z"
     },
     "269710": {
         "description": "\u2733 Everyday I'm Tumblin'",
@@ -4327,10 +4327,10 @@ var masoData =
     "3274300": {
         "description": "Tier 1 Shocker",
         "tier": "1",
-        "owners": 52,
-        "completions": 26,
-        "playtime": 3.7198717948717936,
-        "newestCompletion": "2025-08-08T22:48:27.000Z"
+        "owners": 53,
+        "completions": 27,
+        "playtime": 3.715432098765431,
+        "newestCompletion": "2025-08-12T01:55:20.000Z"
     },
     "412670": {
         "description": "\u2733 All cats go to bullet heaven",
@@ -4359,10 +4359,10 @@ var masoData =
     "1345860": {
         "description": "Grapple Doggo ",
         "tier": "1",
-        "owners": 28,
-        "completions": 13,
-        "playtime": 17.66410256410256,
-        "newestCompletion": "2025-03-19T05:23:33.000Z"
+        "owners": 29,
+        "completions": 14,
+        "playtime": 17.116666666666664,
+        "newestCompletion": "2025-10-27T20:24:28.000Z"
     },
     "2073250": {
         "description": "\ud83c\udf1f You better make this game your second Crypt and rift apart your soul; otherwise forget completing it.",
@@ -4455,17 +4455,17 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 48,
-        "completions": 15,
-        "playtime": 107.86777777777777,
+        "owners": 49,
+        "completions": 16,
+        "playtime": 105.675,
         "newestCompletion": "2025-10-18T20:13:10.000Z"
     },
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 46,
-        "completions": 7,
-        "playtime": 2241.171428571429,
+        "owners": 47,
+        "completions": 8,
+        "playtime": 1968.74375,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
         "badges": {
             "count": 1,
