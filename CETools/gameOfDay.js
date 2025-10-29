@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1705150,
-        "CEId": "709839ad-9cd2-43ae-b880-9a75f049a0c8",
-        "name": "SKULL CHAINZ",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1705150/header.jpg?t=1667188864",
-        "genre": "Action",
-        "tier": 1,
-        "points": 5,
-        "createdAt": "2023-10-28T03:18:43.000Z",
+        "platformId": 377870,
+        "CEId": "1ae64844-3c2d-485e-8fbe-3cbb2afa1428",
+        "name": "DARIUSBURST Chronicle Saviours",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/377870/header.jpg?t=1681233055",
+        "genre": "Bullet Hell",
+        "tier": 3,
+        "points": 45,
+        "createdAt": "2023-10-29T17:56:10.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 7,
+        "playersTotal": 56,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 4999,
+                "final": 4999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 819,
-                "final": 819,
+                "initial": 4899,
+                "final": 4899,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 719,
-                "final": 719,
+                "initial": 4199,
+                "final": 4199,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 101000,
-                "final": 101000,
+                "initial": 515000,
+                "final": 515000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 7350,
+                "final": 7350,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 6499,
+                "final": 6499,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "7 Deadly Sins [5\u2605]\nComplete all levels without throwing or getting hit. ",
-            "community": 0,
-            "communityText": "",
-            "achievements": 23
+            "primaryText": "Flawless Space Sailor [45\u2605]\nComplete the QUZ route in Original EX Mode without getting hit.",
+            "community": 2,
+            "communityText": "Chronicle Specialist\nComplete CS mode using the default ship on every mission.\n\nSaviour of the Cosmos\nGet all achievements.",
+            "achievements": 32
         }
     }
 }
-var gameOfDayDate = '2025-10-28'
+var gameOfDayDate = '2025-10-29'
