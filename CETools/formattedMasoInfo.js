@@ -3015,10 +3015,10 @@ var masoData =
     "317250": {
         "description": "\u2733 touch fishy, get dizzy",
         "tier": "2",
-        "owners": 54,
-        "completions": 13,
-        "playtime": 9.256410256410255,
-        "newestCompletion": "2024-02-20T19:43:41.000Z"
+        "owners": 55,
+        "completions": 14,
+        "playtime": 9.307142857142855,
+        "newestCompletion": "2025-10-19T09:05:13.000Z"
     },
     "1714590": {
         "description": "\u272a \u2665\u2665\u2665\u2665\u2665\u2665\u2665 RUSH HOUR",
@@ -3619,7 +3619,7 @@ var masoData =
     "2330500": {
         "description": "\u272a Concrete challenge",
         "tier": "4",
-        "owners": 42,
+        "owners": 43,
         "completions": 8,
         "playtime": 44.987500000000004,
         "newestCompletion": "2025-10-04T17:04:08.000Z"
@@ -4131,10 +4131,10 @@ var masoData =
     "2424650": {
         "description": "&quot;She was a sk8er frog&quot;",
         "tier": "1",
-        "owners": 26,
-        "completions": 8,
-        "playtime": 5.945833333333333,
-        "newestCompletion": "2025-02-19T19:44:18.000Z"
+        "owners": 27,
+        "completions": 9,
+        "playtime": 5.796296296296296,
+        "newestCompletion": "2025-10-23T05:25:52.000Z"
     },
     "1887840": {
         "description": "American Assist Mode",
