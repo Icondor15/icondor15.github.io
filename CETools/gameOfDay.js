@@ -1,26 +1,58 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 2,
-        "platformId": 1938090,
-        "CEId": "f5911e24-699d-4cc1-a1cf-735d0f362e59",
-        "name": "Call of Duty\u00ae: Modern Warfare\u00ae II",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1938090/header.jpg?t=1666987393",
-        "genre": "First-Person",
-        "tier": 1,
-        "points": 5,
-        "createdAt": "2022-10-31T03:50:54.000Z",
+        "gameType": 0,
+        "platformId": 1268960,
+        "CEId": "48be3857-aa89-4744-a91c-84cb1457ad71",
+        "name": "pureya",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1268960/header.jpg?t=1635068832",
+        "genre": "Arcade",
+        "tier": 2,
+        "points": 25,
+        "createdAt": "2021-11-01T01:01:33.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 44,
+        "playersCompleted": 74,
         "playersStarted": 0,
-        "playersTotal": 539,
+        "playersTotal": 207,
+        "priceData": {
+            "USD": {
+                "initial": 599,
+                "final": 599,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 599,
+                "final": 599,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 499,
+                "final": 499,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 70000,
+                "final": 70000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 879,
+                "final": 879,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 779,
+                "final": 779,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
             "primary": 1,
-            "primaryText": "Ghost [5\u2605]\nFinish all campaign missions on \"Veteran\" or \"Realism\" difficulty.",
+            "primaryText": "Lost Your Marbles [25\u2605]\nObtain all survival medals.",
             "community": 0,
             "communityText": "",
-            "achievements": 24
+            "achievements": 9
         }
     }
 }
-var gameOfDayDate = '2025-10-31'
+var gameOfDayDate = '2025-11-01'
