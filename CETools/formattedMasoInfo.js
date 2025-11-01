@@ -412,9 +412,9 @@ var masoData =
         "description": "\u2733 420",
         "tier": "2",
         "owners": 122,
-        "completions": 64,
-        "playtime": 8.323177083333334,
-        "newestCompletion": "2025-09-25T23:57:17.000Z"
+        "completions": 65,
+        "playtime": 8.33666666666667,
+        "newestCompletion": "2025-10-28T20:04:29.000Z"
     },
     "612390": {
         "description": "\u2733 Use a controller",
@@ -685,7 +685,7 @@ var masoData =
         "tier": "2",
         "owners": 132,
         "completions": 41,
-        "playtime": 48.060569105691044,
+        "playtime": 48.27235772357722,
         "newestCompletion": "2025-10-23T14:23:57.000Z"
     },
     "360740": {
