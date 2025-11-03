@@ -455,7 +455,7 @@ var masoData =
     "436000": {
         "description": "First Person Gimmicks",
         "tier": "1",
-        "owners": 76,
+        "owners": 77,
         "completions": 49,
         "playtime": 7.250680272108843,
         "newestCompletion": "2025-02-12T04:11:06.000Z"
@@ -488,9 +488,9 @@ var masoData =
         "description": "\u2733 Top 10 unique movements betrayals",
         "tier": "2",
         "owners": 51,
-        "completions": 17,
-        "playtime": 13.310784313725492,
-        "newestCompletion": "2023-06-15T11:21:47.000Z"
+        "completions": 18,
+        "playtime": 13.212962962962965,
+        "newestCompletion": "2025-11-02T22:20:57.000Z"
     },
     "238530": {
         "description": "\u2733 As much as a puzzle platformer as the sky is purple",
@@ -551,7 +551,7 @@ var masoData =
     "578930": {
         "description": "My favorite word",
         "tier": "1",
-        "owners": 85,
+        "owners": 86,
         "completions": 43,
         "playtime": 11.906201550387593,
         "newestCompletion": "2025-01-16T21:54:31.000Z",
@@ -779,7 +779,7 @@ var masoData =
     "658150": {
         "description": "\u2606 Has one of the most well designed hard mode a platformer can offer",
         "tier": "3",
-        "owners": 23,
+        "owners": 24,
         "completions": 1,
         "playtime": 79.33333333333333,
         "newestCompletion": "2021-09-02T21:19:57.000Z"
@@ -1123,7 +1123,7 @@ var masoData =
     "437390": {
         "description": "\u272a Super fast paced hopping madness",
         "tier": "4",
-        "owners": 91,
+        "owners": 92,
         "completions": 11,
         "playtime": 22.975757575757576,
         "newestCompletion": "2024-10-16T20:51:42.000Z"
@@ -1955,7 +1955,7 @@ var masoData =
     "1082000": {
         "description": "\u2733 Pop the cherry",
         "tier": "2",
-        "owners": 38,
+        "owners": 39,
         "completions": 8,
         "playtime": 15.39375,
         "newestCompletion": "2023-12-30T09:55:41.000Z"
@@ -2123,7 +2123,7 @@ var masoData =
     "1019590": {
         "description": "\u2606 Finally hard",
         "tier": "3",
-        "owners": 75,
+        "owners": 76,
         "completions": 21,
         "playtime": 18.358730158730157,
         "newestCompletion": "2025-09-13T02:06:01.000Z"
@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 109,
         "completions": 47,
-        "playtime": 253.1822695035461,
+        "playtime": 253.4734042553192,
         "newestCompletion": "2025-06-06T16:31:25.000Z",
         "badges": {
             "count": 1,
@@ -2889,7 +2889,7 @@ var masoData =
         "tier": "1",
         "owners": 123,
         "completions": 37,
-        "playtime": 33.11126126126126,
+        "playtime": 33.2027027027027,
         "newestCompletion": "2025-04-01T04:26:58.000Z",
         "badges": {
             "count": 1,
@@ -2951,7 +2951,7 @@ var masoData =
     "1358090": {
         "description": "\ud83c\udf1f You'll need some new eyes after this game",
         "tier": "5",
-        "owners": 78,
+        "owners": 79,
         "completions": 20,
         "playtime": 164.91333333333333,
         "newestCompletion": "2024-07-11T14:56:21.000Z",
@@ -3527,7 +3527,7 @@ var masoData =
     "528720": {
         "description": "\u2733 Hope you got your running shues on!",
         "tier": "2",
-        "owners": 41,
+        "owners": 42,
         "completions": 8,
         "playtime": 20.070833333333336,
         "newestCompletion": "2023-05-09T02:29:13.000Z"
@@ -3763,7 +3763,7 @@ var masoData =
     "2211730": {
         "description": "Australia",
         "tier": "1",
-        "owners": 29,
+        "owners": 30,
         "completions": 17,
         "playtime": 3.0382352941176474,
         "newestCompletion": "2025-07-07T22:36:40.000Z"
@@ -3999,7 +3999,7 @@ var masoData =
     "2051130": {
         "description": "The prequel to Ghostland",
         "tier": "1",
-        "owners": 9,
+        "owners": 10,
         "completions": 3,
         "playtime": 30.066666666666666,
         "newestCompletion": "2024-12-29T13:19:54.000Z",
@@ -4463,7 +4463,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 49,
+        "owners": 50,
         "completions": 9,
         "playtime": 2212.014814814815,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
