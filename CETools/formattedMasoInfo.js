@@ -4367,7 +4367,7 @@ var masoData =
     "2073250": {
         "description": "\ud83c\udf1f You better make this game your second Crypt and rift apart your soul; otherwise forget completing it.",
         "tier": "5",
-        "owners": 32,
+        "owners": 33,
         "completions": 1,
         "playtime": 310.26666666666665,
         "newestCompletion": "2025-03-25T21:48:48.000Z",
@@ -4456,9 +4456,9 @@ var masoData =
         "description": "\u2733 Silksong",
         "tier": "2",
         "owners": 51,
-        "completions": 16,
-        "playtime": 105.675,
-        "newestCompletion": "2025-10-18T20:13:10.000Z"
+        "completions": 17,
+        "playtime": 106.52254901960784,
+        "newestCompletion": "2025-11-03T16:48:45.000Z"
     },
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
