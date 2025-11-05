@@ -95,7 +95,7 @@ var masoData =
     "928840": {
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
-        "owners": 51,
+        "owners": 52,
         "completions": 11,
         "playtime": 7.54090909090909,
         "newestCompletion": "2025-09-28T01:02:02.000Z"
@@ -257,7 +257,7 @@ var masoData =
         "tier": "4",
         "owners": 146,
         "completions": 18,
-        "playtime": 194.74074074074073,
+        "playtime": 194.787037037037,
         "newestCompletion": "2025-10-09T13:53:53.000Z"
     },
     "795570": {
@@ -284,9 +284,9 @@ var masoData =
         "description": "\u2606 Sponsored by Zourune",
         "tier": "3",
         "owners": 77,
-        "completions": 13,
-        "playtime": 90.21666666666668,
-        "newestCompletion": "2023-03-11T14:29:13.000Z",
+        "completions": 14,
+        "playtime": 95.43928571428572,
+        "newestCompletion": "2025-11-04T20:26:02.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 248,
         "completions": 181,
-        "playtime": 224.88176795580117,
+        "playtime": 224.95331491712713,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -2156,9 +2156,9 @@ var masoData =
         "description": "\u272a Yippee-ki-yay, Motherf****",
         "tier": "4",
         "owners": 51,
-        "completions": 5,
-        "playtime": 50.89,
-        "newestCompletion": "2025-03-01T09:03:29.000Z"
+        "completions": 6,
+        "playtime": 45.952777777777776,
+        "newestCompletion": "2025-11-04T19:35:13.000Z"
     },
     "508790": {
         "description": "\u2733 Flat is Justice",
@@ -3557,7 +3557,7 @@ var masoData =
         "tier": "3",
         "owners": 51,
         "completions": 11,
-        "playtime": 154.52575757575758,
+        "playtime": 154.76818181818183,
         "newestCompletion": "2025-10-19T22:43:57.000Z",
         "badges": {
             "count": 1,
