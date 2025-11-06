@@ -96,9 +96,9 @@ var masoData =
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
         "owners": 52,
-        "completions": 11,
-        "playtime": 7.54090909090909,
-        "newestCompletion": "2025-09-28T01:02:02.000Z"
+        "completions": 12,
+        "playtime": 7.356944444444443,
+        "newestCompletion": "2025-11-02T23:13:45.000Z"
     },
     "774561": {
         "description": "Shmup meets style",
@@ -543,15 +543,15 @@ var masoData =
     "269270": {
         "description": "\u2733 Nothing to do with the game",
         "tier": "2",
-        "owners": 111,
-        "completions": 72,
-        "playtime": 6.440740740740743,
+        "owners": 112,
+        "completions": 73,
+        "playtime": 6.421917808219181,
         "newestCompletion": "2025-10-26T05:41:49.000Z"
     },
     "578930": {
         "description": "My favorite word",
         "tier": "1",
-        "owners": 86,
+        "owners": 87,
         "completions": 43,
         "playtime": 11.906201550387593,
         "newestCompletion": "2025-01-16T21:54:31.000Z",
@@ -615,10 +615,10 @@ var masoData =
     "852390": {
         "description": "\u2733 Title says it all",
         "tier": "2",
-        "owners": 44,
-        "completions": 28,
-        "playtime": 11.673809523809526,
-        "newestCompletion": "2023-10-11T07:50:40.000Z"
+        "owners": 45,
+        "completions": 29,
+        "playtime": 11.40057471264368,
+        "newestCompletion": "2025-11-06T03:32:28.000Z"
     },
     "817510": {
         "description": "New and original",
@@ -1189,7 +1189,7 @@ var masoData =
         "tier": "5",
         "owners": 166,
         "completions": 20,
-        "playtime": 1302.7675000000002,
+        "playtime": 1304.4041666666667,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
         "badges": {
             "count": 3,
@@ -1563,9 +1563,9 @@ var masoData =
     "602700": {
         "description": "\ud83c\udf1fChip it",
         "tier": "5",
-        "owners": 65,
+        "owners": 66,
         "completions": 3,
-        "playtime": 123.92777777777776,
+        "playtime": 124.49444444444445,
         "newestCompletion": "2023-12-15T15:07:20.000Z",
         "badges": {
             "count": 2,
@@ -2613,7 +2613,7 @@ var masoData =
         "tier": "1",
         "owners": 17,
         "completions": 9,
-        "playtime": 89.22962962962963,
+        "playtime": 89.23148148148147,
         "newestCompletion": "2025-05-15T17:31:14.000Z"
     },
     "390720": {
@@ -2627,7 +2627,7 @@ var masoData =
     "688130": {
         "description": "\ud83c\udf1f\u30dd\u30b4\u306e\u6642\u9593\u3060",
         "tier": "5",
-        "owners": 105,
+        "owners": 106,
         "completions": 22,
         "playtime": 586.7704545454545,
         "newestCompletion": "2024-06-17T15:47:58.000Z",
@@ -2979,7 +2979,7 @@ var masoData =
     "1604300": {
         "description": "You got me in LOVE again",
         "tier": "1",
-        "owners": 48,
+        "owners": 49,
         "completions": 17,
         "playtime": 24.794117647058822,
         "newestCompletion": "2024-09-07T22:32:25.000Z",
@@ -4299,7 +4299,7 @@ var masoData =
     "1548940": {
         "description": "\ud83c\udf1f DASH: The gap in between these f***ing spikes",
         "tier": "5",
-        "owners": 37,
+        "owners": 38,
         "completions": 3,
         "playtime": 107.83333333333333,
         "newestCompletion": "2025-04-15T21:46:21.000Z",
@@ -4429,7 +4429,7 @@ var masoData =
         "tier": "1",
         "owners": 31,
         "completions": 8,
-        "playtime": 28.410416666666666,
+        "playtime": 28.883333333333333,
         "newestCompletion": "2025-10-09T05:09:15.000Z"
     },
     "1164940": {
@@ -4465,7 +4465,7 @@ var masoData =
         "tier": "0",
         "owners": 50,
         "completions": 9,
-        "playtime": 2212.014814814815,
+        "playtime": 2212.327777777778,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
         "badges": {
             "count": 1,
