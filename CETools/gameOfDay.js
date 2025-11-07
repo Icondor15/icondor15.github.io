@@ -2,58 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 891790,
-        "CEId": "163eec0f-9799-42b8-9830-5bf2de116994",
-        "name": "Devil Engine",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/891790/header.jpg?t=1698088758",
-        "genre": "Bullet Hell",
-        "tier": 3,
-        "points": 73,
-        "createdAt": "2023-12-29T18:14:42.000Z",
+        "platformId": 1960710,
+        "CEId": "d7953c5f-2f46-495b-add2-5bd124e6d025",
+        "name": "Simulacrum",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1960710/header.jpg?t=1657024813",
+        "genre": "First-Person",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2022-11-07T20:55:13.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 0,
-        "playersStarted": 2,
-        "playersTotal": 24,
+        "playersCompleted": 4,
+        "playersStarted": 0,
+        "playersTotal": 13,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 599,
+                "final": 599,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1950,
-                "final": 1950,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1675,
-                "final": 1675,
+                "initial": 479,
+                "final": 479,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 230000,
-                "final": 230000,
+                "initial": 62000,
+                "final": 62000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2950,
-                "final": 2950,
+                "initial": 850,
+                "final": 850,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2599,
-                "final": 2599,
+                "initial": 669,
+                "final": 669,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 7,
-            "primaryText": "Devil Engines (UNCLEARED) [1\u2605]\nClear Expert with all three ships, in one session, without using continues or quitting prematurely.\n\nMisotheism (UNCLEARED) [1\u2605]\nClear Expert with each ship without using continues.\n\nUltimate Ignition (UNCLEARED) [1\u2605]\nClear Ignition Mode with all ships without using continues.\n\nDevil's Rush [25\u2605]\nClear the Boss Rush with each ship.\n\nArtificial Martyr [30\u2605]\nClear Very Hard with each ship without using continues.\n\nPocket Engine [5\u2605]\nClear the Extra Stage with each ship without using continues.\n\nBootcamp [10\u2605]\nClear all challenges.",
+            "primary": 1,
+            "primaryText": "Verlet Demon [20\u2605]\nAchieve an S rank on all 3 acts on 5.0 intensity",
             "community": 0,
             "communityText": "",
-            "achievements": 29
-        },
-        "information": "DLC required for all POs except \"Bootcamp\"."
+            "achievements": 5
+        }
     }
 }
-var gameOfDayDate = '2025-11-06'
+var gameOfDayDate = '2025-11-07'
