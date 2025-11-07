@@ -131,7 +131,7 @@ var masoData =
     "809020": {
         "description": "Shmup meets Undertale",
         "tier": "1",
-        "owners": 49,
+        "owners": 50,
         "completions": 29,
         "playtime": 16.06609195402299,
         "newestCompletion": "2025-08-06T19:27:22.000Z"
@@ -395,7 +395,7 @@ var masoData =
     "439490": {
         "description": "\ud83c\udf1f Reach the Summit",
         "tier": "5",
-        "owners": 70,
+        "owners": 71,
         "completions": 2,
         "playtime": 61.375,
         "newestCompletion": "2025-06-04T20:34:39.000Z"
@@ -1364,9 +1364,9 @@ var masoData =
         "description": "\u2733 Just one more try\u2122",
         "tier": "2",
         "owners": 199,
-        "completions": 144,
-        "playtime": 21.42476851851851,
-        "newestCompletion": "2025-10-05T20:59:52.000Z"
+        "completions": 145,
+        "playtime": 21.339310344827574,
+        "newestCompletion": "2025-11-06T16:02:02.000Z"
     },
     "211260": {
         "description": "\u2606 Master jumping \"n slashin\" while juggling foes, all while avoiding deadly hazards. An action plaformer that will make other things bleed among pixels.",
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 247,
         "completions": 75,
-        "playtime": 125.42933333333329,
+        "playtime": 125.44066666666666,
         "newestCompletion": "2025-09-24T09:48:04.000Z"
     },
     "557340": {
@@ -4031,7 +4031,7 @@ var masoData =
     "2236070": {
         "description": "\ud83c\udf1f \u2665\u2665\u2665\u2665\u2665\u2665\u2665 seagulls",
         "tier": "5",
-        "owners": 38,
+        "owners": 39,
         "completions": 3,
         "playtime": 255.92777777777778,
         "newestCompletion": "2024-11-27T22:16:19.000Z"
@@ -4120,9 +4120,9 @@ var masoData =
         "description": "\ud83c\udf96\ufe0f Doot Hero",
         "tier": "0",
         "owners": 42,
-        "completions": 15,
-        "playtime": 8.015555555555556,
-        "newestCompletion": "2025-06-22T23:39:26.000Z",
+        "completions": 16,
+        "playtime": 10.192708333333332,
+        "newestCompletion": "2025-10-27T02:16:19.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -4455,7 +4455,7 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 51,
+        "owners": 52,
         "completions": 17,
         "playtime": 106.52254901960784,
         "newestCompletion": "2025-11-03T16:48:45.000Z"
@@ -4463,7 +4463,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 50,
+        "owners": 51,
         "completions": 9,
         "playtime": 2212.327777777778,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
