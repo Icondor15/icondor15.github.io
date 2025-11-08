@@ -2,57 +2,57 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1960710,
-        "CEId": "d7953c5f-2f46-495b-add2-5bd124e6d025",
-        "name": "Simulacrum",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1960710/header.jpg?t=1657024813",
-        "genre": "First-Person",
-        "tier": 2,
-        "points": 20,
-        "createdAt": "2022-11-07T20:55:13.000Z",
+        "platformId": 1591690,
+        "CEId": "d7bc5408-c5fb-4e1e-9463-b559ac09b66e",
+        "name": "DEATHRUN TV",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1591690/header.jpg?t=1655405074",
+        "genre": "Action",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2022-11-08T22:05:01.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 4,
+        "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 13,
+        "playersTotal": 37,
         "priceData": {
             "USD": {
-                "initial": 599,
-                "final": 599,
-                "discountPercent": 0
+                "initial": 1499,
+                "final": 224,
+                "discountPercent": 85
             },
             "EUR": {
-                "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "initial": 1249,
+                "final": 187,
+                "discountPercent": 85
             },
             "GBP": {
-                "initial": 479,
-                "final": 479,
-                "discountPercent": 0
+                "initial": 1139,
+                "final": 170,
+                "discountPercent": 85
             },
             "JPY": {
-                "initial": 62000,
-                "final": 62000,
-                "discountPercent": 0
+                "initial": 152000,
+                "final": 22800,
+                "discountPercent": 85
             },
             "AUD": {
-                "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "initial": 2150,
+                "final": 322,
+                "discountPercent": 85
             },
             "CAD": {
-                "initial": 669,
-                "final": 669,
-                "discountPercent": 0
+                "initial": 1749,
+                "final": 262,
+                "discountPercent": 85
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Verlet Demon [20\u2605]\nAchieve an S rank on all 3 acts on 5.0 intensity",
+            "primaryText": "Showstopper [5\u2605]\nKill the host.",
             "community": 0,
             "communityText": "",
-            "achievements": 5
+            "achievements": 17
         }
     }
 }
-var gameOfDayDate = '2025-11-07'
+var gameOfDayDate = '2025-11-08'
