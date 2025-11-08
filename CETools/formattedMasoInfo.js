@@ -2900,9 +2900,9 @@ var masoData =
         "description": "\u2733 420? What does that mean? Are you alright?",
         "tier": "2",
         "owners": 53,
-        "completions": 30,
-        "playtime": 8.145,
-        "newestCompletion": "2025-07-25T02:19:14.000Z"
+        "completions": 31,
+        "playtime": 8.003763440860215,
+        "newestCompletion": "2025-11-07T13:59:10.000Z"
     },
     "1225610": {
         "description": "\ud83c\udf1fThe Akashic Records don't mention how brutal this shmup is",
@@ -4456,8 +4456,8 @@ var masoData =
         "description": "\u2733 Silksong",
         "tier": "2",
         "owners": 52,
-        "completions": 17,
-        "playtime": 106.52254901960784,
+        "completions": 18,
+        "playtime": 104.01851851851853,
         "newestCompletion": "2025-11-03T16:48:45.000Z"
     },
     "322170": {
