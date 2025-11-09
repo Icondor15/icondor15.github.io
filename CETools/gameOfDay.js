@@ -1,58 +1,31 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 1591690,
-        "CEId": "d7bc5408-c5fb-4e1e-9463-b559ac09b66e",
-        "name": "DEATHRUN TV",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1591690/header.jpg?t=1655405074",
+        "gameType": 3,
+        "platformId": 1489,
+        "CEId": "4151b538-1f35-43c8-8cb0-42cdd2fde677",
+        "name": "Punch-Out!! | Mike Tyson's Punch-Out!!",
+        "header": "https://upload.cedb.me/4151b538-1f35-43c8-8cb0-42cdd2fde677.png",
         "genre": "Action",
         "tier": 1,
-        "points": 5,
-        "createdAt": "2022-11-08T22:05:01.000Z",
-        "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 10,
+        "points": 15,
+        "createdAt": "2024-11-09T06:03:05.000Z",
+        "updatedAt": "2025-10-21T04:38:10.000Z",
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 37,
-        "priceData": {
-            "USD": {
-                "initial": 1499,
-                "final": 224,
-                "discountPercent": 85
-            },
-            "EUR": {
-                "initial": 1249,
-                "final": 187,
-                "discountPercent": 85
-            },
-            "GBP": {
-                "initial": 1139,
-                "final": 170,
-                "discountPercent": 85
-            },
-            "JPY": {
-                "initial": 152000,
-                "final": 22800,
-                "discountPercent": 85
-            },
-            "AUD": {
-                "initial": 2150,
-                "final": 322,
-                "discountPercent": 85
-            },
-            "CAD": {
-                "initial": 1749,
-                "final": 262,
-                "discountPercent": 85
-            }
+        "playersTotal": 7,
+        "consoleData": {
+            "name": "NES/Famicom",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/nes.png"
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Showstopper [5\u2605]\nKill the host.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 17
+            "primaryText": "Busted! [15\u2605]\nDefeat Mike Tyson.",
+            "community": 1,
+            "communityText": "Hands of Steel\nDefeat Mike Tyson on Round 1.",
+            "achievements": 28
         }
     }
 }
-var gameOfDayDate = '2025-11-08'
+var gameOfDayDate = '2025-11-09'
