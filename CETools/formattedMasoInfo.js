@@ -140,8 +140,8 @@ var masoData =
         "description": "You should\"ve played it by now",
         "tier": "1",
         "owners": 157,
-        "completions": 76,
-        "playtime": 8.70767543859649,
+        "completions": 77,
+        "playtime": 8.672943722943723,
         "newestCompletion": "2025-08-02T22:02:19.000Z",
         "badges": {
             "count": 1,
@@ -184,8 +184,8 @@ var masoData =
         "description": "The Dark Souls of Platform Games",
         "tier": "1",
         "owners": 180,
-        "completions": 86,
-        "playtime": 42.3013565891473,
+        "completions": 87,
+        "playtime": 42.14578544061304,
         "newestCompletion": "2025-09-04T09:11:44.000Z",
         "badges": {
             "count": 1,
@@ -195,7 +195,7 @@ var masoData =
     "658690": {
         "description": "\u272a I Wanna be the Bleeding Marshmallow Head",
         "tier": "4",
-        "owners": 60,
+        "owners": 61,
         "completions": 11,
         "playtime": 22.565151515151516,
         "newestCompletion": "2025-08-31T14:20:03.000Z"
@@ -691,7 +691,7 @@ var masoData =
     "360740": {
         "description": "\u2733 Well diving simulator",
         "tier": "2",
-        "owners": 181,
+        "owners": 182,
         "completions": 96,
         "playtime": 12.830208333333333,
         "newestCompletion": "2025-10-01T21:09:49.000Z"
@@ -759,7 +759,7 @@ var masoData =
     "504230": {
         "description": "\u2733 It has Assist mode for a reason",
         "tier": "2",
-        "owners": 248,
+        "owners": 249,
         "completions": 181,
         "playtime": 224.95331491712713,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
@@ -851,7 +851,7 @@ var masoData =
     "397950": {
         "description": "Literally",
         "tier": "1",
-        "owners": 128,
+        "owners": 129,
         "completions": 99,
         "playtime": 6.606734006734006,
         "newestCompletion": "2025-05-10T22:04:03.000Z"
@@ -1027,7 +1027,7 @@ var masoData =
     "446840": {
         "description": "\ud83c\udf1f You get 4 colours - Blue for Splashing, Red for Sticking, Yellow for Bouncing, and Black for your future.",
         "tier": "5",
-        "owners": 131,
+        "owners": 132,
         "completions": 19,
         "playtime": 69.40087719298245,
         "newestCompletion": "2024-12-29T20:51:16.000Z"
@@ -1576,9 +1576,9 @@ var masoData =
         "description": "\u2606 A Game-Breaking Experience",
         "tier": "3",
         "owners": 123,
-        "completions": 32,
-        "playtime": 111.17708333333333,
-        "newestCompletion": "2025-06-05T03:49:58.000Z",
+        "completions": 33,
+        "playtime": 111.6489898989899,
+        "newestCompletion": "2025-07-07T03:00:44.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -1751,10 +1751,10 @@ var masoData =
     "846870": {
         "description": "Depends who you ask",
         "tier": "1",
-        "owners": 94,
-        "completions": 33,
-        "playtime": 27.28838383838384,
-        "newestCompletion": "2025-08-11T08:09:44.000Z",
+        "owners": 95,
+        "completions": 34,
+        "playtime": 27.161764705882355,
+        "newestCompletion": "2025-08-12T02:14:26.000Z",
         "badges": {
             "count": 1,
             "points": 7
@@ -1779,7 +1779,7 @@ var masoData =
     "1056180": {
         "description": "\u2733 The biggest 8-bit adventure",
         "tier": "2",
-        "owners": 27,
+        "owners": 28,
         "completions": 7,
         "playtime": 40.28333333333334,
         "newestCompletion": "2023-02-05T08:54:33.000Z"
@@ -2079,10 +2079,10 @@ var masoData =
     "1145360": {
         "description": "What, you\"ve got daddy issues boyo??",
         "tier": "1",
-        "owners": 163,
-        "completions": 78,
-        "playtime": 99.20940170940173,
-        "newestCompletion": "2025-01-06T17:08:41.000Z",
+        "owners": 164,
+        "completions": 79,
+        "playtime": 99.41582278481015,
+        "newestCompletion": "2025-09-16T17:08:10.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -2235,7 +2235,7 @@ var masoData =
     "418530": {
         "description": "\u272a 2 Stands for twice the \u2665\u2665\u2665\u2665\u2665\u2665\u2665\u2665",
         "tier": "4",
-        "owners": 109,
+        "owners": 110,
         "completions": 47,
         "playtime": 253.4734042553192,
         "newestCompletion": "2025-06-06T16:31:25.000Z",
@@ -2419,7 +2419,7 @@ var masoData =
     "535480": {
         "description": "Tear me asunder",
         "tier": "1",
-        "owners": 71,
+        "owners": 72,
         "completions": 20,
         "playtime": 27.884999999999998,
         "newestCompletion": "2023-03-31T13:29:20.000Z"
@@ -2999,7 +2999,7 @@ var masoData =
     "581660": {
         "description": "\ud83c\udf1f Super Seed Boy",
         "tier": "5",
-        "owners": 118,
+        "owners": 119,
         "completions": 13,
         "playtime": 75.67307692307693,
         "newestCompletion": "2025-06-06T20:06:55.000Z"
@@ -3415,7 +3415,7 @@ var masoData =
     "1378990": {
         "description": "\u2606 It's about time we curated this",
         "tier": "3",
-        "owners": 34,
+        "owners": 35,
         "completions": 9,
         "playtime": 84.81666666666666,
         "newestCompletion": "2025-06-17T01:15:00.000Z",
@@ -3771,7 +3771,7 @@ var masoData =
     "1123050": {
         "description": "Destroy... Absorb... Grow...",
         "tier": "1",
-        "owners": 43,
+        "owners": 44,
         "completions": 7,
         "playtime": 31.976190476190474,
         "newestCompletion": "2024-06-02T02:34:47.000Z"
@@ -3779,7 +3779,7 @@ var masoData =
     "2228030": {
         "description": "Puyo in the grinder",
         "tier": "1",
-        "owners": 33,
+        "owners": 34,
         "completions": 12,
         "playtime": 13.894444444444444,
         "newestCompletion": "2025-10-06T02:03:10.000Z"
