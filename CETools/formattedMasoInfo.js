@@ -237,7 +237,7 @@ var masoData =
         "tier": "2",
         "owners": 149,
         "completions": 58,
-        "playtime": 38.50775862068965,
+        "playtime": 38.52442528735632,
         "newestCompletion": "2025-08-18T16:39:03.000Z",
         "badges": {
             "count": 1,
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 239,
         "completions": 128,
-        "playtime": 192.67057291666666,
+        "playtime": 192.825390625,
         "newestCompletion": "2025-10-24T02:20:59.000Z",
         "badges": {
             "count": 2,
@@ -851,7 +851,7 @@ var masoData =
     "397950": {
         "description": "Literally",
         "tier": "1",
-        "owners": 129,
+        "owners": 130,
         "completions": 99,
         "playtime": 6.606734006734006,
         "newestCompletion": "2025-05-10T22:04:03.000Z"
@@ -1172,9 +1172,9 @@ var masoData =
         "description": "\u2733 A forgettable story",
         "tier": "2",
         "owners": 86,
-        "completions": 30,
-        "playtime": 15.158333333333331,
-        "newestCompletion": "2024-01-21T12:39:10.000Z"
+        "completions": 31,
+        "playtime": 14.909139784946236,
+        "newestCompletion": "2025-11-09T23:16:00.000Z"
     },
     "285820": {
         "description": "\u2606 Taste the rainbow :beatmeat:",
@@ -1417,7 +1417,7 @@ var masoData =
         "tier": "2",
         "owners": 142,
         "completions": 65,
-        "playtime": 36.731282051282065,
+        "playtime": 36.756153846153865,
         "newestCompletion": "2025-09-28T06:58:41.000Z",
         "badges": {
             "count": 2,
@@ -1477,7 +1477,7 @@ var masoData =
         "tier": "5",
         "owners": 135,
         "completions": 37,
-        "playtime": 277.03783783783786,
+        "playtime": 277.04774774774774,
         "newestCompletion": "2025-10-21T19:17:56.000Z",
         "badges": {
             "count": 1,
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 106,
         "completions": 31,
-        "playtime": 88.63440860215054,
+        "playtime": 88.71344086021506,
         "newestCompletion": "2025-08-27T18:23:40.000Z",
         "badges": {
             "count": 2,
@@ -2079,7 +2079,7 @@ var masoData =
     "1145360": {
         "description": "What, you\"ve got daddy issues boyo??",
         "tier": "1",
-        "owners": 164,
+        "owners": 165,
         "completions": 79,
         "playtime": 99.41582278481015,
         "newestCompletion": "2025-09-16T17:08:10.000Z",
@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 110,
         "completions": 47,
-        "playtime": 253.4734042553192,
+        "playtime": 253.62234042553195,
         "newestCompletion": "2025-06-06T16:31:25.000Z",
         "badges": {
             "count": 1,
@@ -2557,7 +2557,7 @@ var masoData =
         "tier": "5",
         "owners": 114,
         "completions": 27,
-        "playtime": 47.43333333333333,
+        "playtime": 47.61604938271604,
         "newestCompletion": "2025-10-25T02:43:00.000Z"
     },
     "732930": {
@@ -2639,7 +2639,7 @@ var masoData =
     "894020": {
         "description": "death in all caps",
         "tier": "1",
-        "owners": 75,
+        "owners": 76,
         "completions": 45,
         "playtime": 16.28888888888889,
         "newestCompletion": "2025-10-05T03:48:16.000Z"
@@ -2795,7 +2795,7 @@ var masoData =
     "1225570": {
         "description": "\u2733 This is getting out of hand. Now, there are two of them!",
         "tier": "2",
-        "owners": 41,
+        "owners": 42,
         "completions": 4,
         "playtime": 21.97083333333333,
         "newestCompletion": "2023-04-14T01:49:04.000Z"
@@ -3081,7 +3081,7 @@ var masoData =
         "tier": "3",
         "owners": 158,
         "completions": 44,
-        "playtime": 200.4454545454545,
+        "playtime": 200.44810606060602,
         "newestCompletion": "2025-08-12T22:57:39.000Z"
     },
     "456390": {
@@ -4147,7 +4147,7 @@ var masoData =
     "2144740": {
         "description": "Why did the other baseball team hire a paranormal investigator?",
         "tier": "1",
-        "owners": 44,
+        "owners": 45,
         "completions": 8,
         "playtime": 16.302083333333336,
         "newestCompletion": "2025-08-28T23:28:39.000Z"
@@ -4455,15 +4455,15 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 52,
-        "completions": 18,
-        "playtime": 104.01851851851853,
-        "newestCompletion": "2025-11-03T16:48:45.000Z"
+        "owners": 53,
+        "completions": 19,
+        "playtime": 106.91228070175437,
+        "newestCompletion": "2025-11-09T14:00:47.000Z"
     },
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 51,
+        "owners": 52,
         "completions": 9,
         "playtime": 2212.327777777778,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
