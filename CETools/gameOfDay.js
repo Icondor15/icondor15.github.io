@@ -1,31 +1,58 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 3,
-        "platformId": 1489,
-        "CEId": "4151b538-1f35-43c8-8cb0-42cdd2fde677",
-        "name": "Punch-Out!! | Mike Tyson's Punch-Out!!",
-        "header": "https://upload.cedb.me/4151b538-1f35-43c8-8cb0-42cdd2fde677.png",
-        "genre": "Action",
+        "gameType": 0,
+        "platformId": 811970,
+        "CEId": "dcaa765e-4a00-4aa3-b114-6a5aeeee0b7c",
+        "name": "Super Dream Dasher",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/811970/header.jpg?t=1635533716",
+        "genre": "Platformer",
         "tier": 1,
-        "points": 15,
-        "createdAt": "2024-11-09T06:03:05.000Z",
-        "updatedAt": "2025-10-21T04:38:10.000Z",
-        "playersCompleted": 3,
+        "points": 10,
+        "createdAt": "2022-11-10T22:07:21.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 7,
-        "consoleData": {
-            "name": "NES/Famicom",
-            "family": "Nintendo",
-            "icon": "https://static.retroachievements.org/assets/images/system/nes.png"
+        "playersTotal": 9,
+        "priceData": {
+            "USD": {
+                "initial": 999,
+                "final": 999,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 975,
+                "final": 975,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 850,
+                "final": 850,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 120000,
+                "final": 120000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1450,
+                "final": 1450,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
+            }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Busted! [15\u2605]\nDefeat Mike Tyson.",
-            "community": 1,
-            "communityText": "Hands of Steel\nDefeat Mike Tyson on Round 1.",
+            "primaryText": "TurnUp [10\u2605]\nProve yourself.",
+            "community": 0,
+            "communityText": "",
             "achievements": 28
         }
     }
 }
-var gameOfDayDate = '2025-11-09'
+var gameOfDayDate = '2025-11-10'
