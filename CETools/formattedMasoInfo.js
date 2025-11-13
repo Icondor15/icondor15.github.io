@@ -1140,9 +1140,9 @@ var masoData =
         "description": "\u2733 Use a video. Get rekt at 99% anyways",
         "tier": "2",
         "owners": 82,
-        "completions": 20,
-        "playtime": 14.598333333333333,
-        "newestCompletion": "2023-04-25T11:13:37.000Z"
+        "completions": 21,
+        "playtime": 14.173015873015872,
+        "newestCompletion": "2025-11-13T00:46:56.000Z"
     },
     "400910": {
         "description": "\u272a I wanna be the waifu",
@@ -1189,7 +1189,7 @@ var masoData =
         "tier": "5",
         "owners": 166,
         "completions": 20,
-        "playtime": 1304.4041666666667,
+        "playtime": 1304.8808333333334,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
         "badges": {
             "count": 3,
