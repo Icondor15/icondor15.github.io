@@ -225,8 +225,12 @@
         .gameElement > .timesTags {
             grid-column: span 2;
         }
+        .gameElement > .tagsTags {
+            scale: 0.8;
+            grid-column: span 3;
+        }
 
-        .ownerTags, .reviewTags, .timesTags, .linksTags {
+        .ownerTags, .reviewTags, .timesTags, .linksTags, .tagsTags {
             text-align: center;
         }
 
@@ -618,6 +622,16 @@
         }
         .masoText > * {
             text-decoration: dotted underline 1.3px;
+        }
+
+        .tagsTextSteam::after, .tagsTextRetro::after {
+            content: " Tags:";
+        }
+        .tagsTextSteam {
+            background-image: linear-gradient(160deg, #32b7e7,#920861);
+        }
+        .tagsTextRetro {
+            background-image: linear-gradient(160deg, #ffb300,#920861);
         }
 
         .currencyUSD:before {
@@ -1355,6 +1369,25 @@
                             <input class="tagSettings" id="tagSettings28" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(28, this.checked);">
                         </span>
                     </div>
+
+                    <!--Tags-->
+                    <div class="tagsTags" style="scale: 1;">
+                        <span class="tag">
+                            <div class="tagTitle" style="background-image: linear-gradient(160deg, #32b7e7,#920861);">
+                                <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" height="11px"><path fill="#FFFFFF" d="M496 256c0 137-111.2 248-248.4 248-113.8 0-209.6-76.3-239-180.4l95.2 39.3c6.4 32.1 34.9 56.4 68.9 56.4 39.2 0 71.9-32.4 70.2-73.5l84.5-60.2c52.1 1.3 95.8-40.9 95.8-93.5 0-51.6-42-93.5-93.7-93.5s-93.7 42-93.7 93.5v1.2L176.6 279c-15.5-.9-30.7 3.4-43.5 12.1L0 236.1C10.2 108.4 117.1 8 247.6 8 384.8 8 496 119 496 256zM155.7 384.3l-30.5-12.6a52.79 52.79 0 0 0 27.2 25.8c26.9 11.2 57.8-1.6 69-28.4 5.4-13 5.5-27.3.1-40.3-5.4-13-15.5-23.2-28.5-28.6-12.9-5.4-26.7-5.2-38.9-.6l31.5 13c19.8 8.2 29.2 30.9 20.9 50.7-8.3 19.9-31 29.2-50.8 21zm173.8-129.9c-34.4 0-62.4-28-62.4-62.3s28-62.3 62.4-62.3 62.4 28 62.4 62.3-27.9 62.3-62.4 62.3zm.1-15.6c25.9 0 46.9-21 46.9-46.8 0-25.9-21-46.8-46.9-46.8s-46.9 21-46.9 46.8c.1 25.8 21.1 46.8 46.9 46.8z"></path></svg>
+                                Tags
+                            </div>
+                            <div class="tagTitle" style="background-image: linear-gradient(160deg, #ffb300,#920861);">
+                                <svg style="position:relative; left:2px" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 20 20"><g transform="translate(-73.504 -120.06)"><g transform="matrix(.35278 0 0 -.35278 -4.3083 326.78)" height="11px"><g aria-label="RA" style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" transform="matrix(1.1293 0 0 -1.1092 -28.246 -45.784)"><path fill="white" style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m220.57-553.59h11.73q1.89 0 3.12 1.14 1.26 1.14 1.26 3.45 0 0.99-0.33 1.86-0.33 0.84-0.93 1.47-0.57 0.63-1.38 0.99t-1.74 0.36h-0.99l8.55 15.03h-4.29l-5.94-10.29v10.29h-3.99v-19.17h6.51q0.24 0 0.36-0.18 0.15-0.18 0.15-0.39t-0.15-0.36q-0.12-0.18-0.36-0.18h-7.59v20.28h-3.99zm12.66 10.26q0.87-0.06 1.68-0.51 0.84-0.45 1.47-1.2t1.02-1.74q0.39-1.02 0.39-2.22 0-1.23-0.39-2.28t-1.11-1.8-1.74-1.17q-0.99-0.42-2.25-0.42h-11.73v-4.05h11.73q1.98 0 3.72 0.75t3.03 2.07 2.01 3.09q0.75 1.77 0.75 3.81 0 2.58-0.87 4.47-0.87 1.86-2.37 3l6.84 12.24h-4.08z"></path><path fill="white" style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m252.84-532.8h12.45l-7.62-21.15q-0.09-0.3-0.54-0.54t-0.87-0.24q-0.48 0-0.9 0.24-0.39 0.24-0.48 0.54l-8.67 24.66h-3.99l9.27-26.16q0.21-0.63 0.6-1.2 0.39-0.6 0.96-1.05 0.6-0.48 1.38-0.75 0.81-0.27 1.83-0.27t1.8 0.27 1.35 0.75q0.6 0.45 0.99 1.05 0.39 0.57 0.63 1.2l9.27 26.16h-17.46zm0-1.08v-1.14l-1.92 5.73h-3.63l8.25-23.91q0.06-0.18 0.27-0.3 0.24-0.15 0.45-0.15t0.45 0.15q0.24 0.12 0.3 0.3l6.84 19.32zm3.42-11.13-2.4 7.56h4.89z"></path></g></g></g></svg>
+                                Tags
+                            </div>
+                            <input class="tagSettings" id="tagSettings30" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" checked onchange="changeTagVisibility(30, this.checked);">
+                            |
+                            <div class="tagTitle" style="background-image: linear-gradient(#ffffff00,#0000007f), linear-gradient(#bfbfbf7f, #bfbfbf7f), linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,154,0,1) 10%, rgba(208,222,33,1) 20%, rgba(79,220,74,1) 30%, rgba(63,218,216,1) 40%, rgba(47,201,226,1) 50%, rgba(28,127,238,1) 60%, rgba(95,21,242,1) 70%, rgba(186,12,248,1) 80%, rgba(251,7,217,1) 90%, rgba(255,0,0,1) 100%);">
+                                Tag Colors
+                            </div>
+                            <input class="tagSettings" id="tagSettings31" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" checked onchange="changeTagVisibility(31, this.checked);">
+                        </div>
                 </div>
             </h2>
         </div>
@@ -1614,7 +1647,9 @@
             true,   //26: SteamDB Link
             true,   //27: Steam Hunters Link
             false,  //28: Masochist.me Link
-            true    //29: RA Games Consoles
+            true,   //29: RA Games Consoles
+            true,   //30: Game Tags
+            true    //31: Game Tag Colors
         ]
 
         
@@ -1646,7 +1681,11 @@
 
             for(var i = 0; i < tagSettings.length; i++)
             {
-                document.getElementById("tagSettings" + i).checked = tagSettings[i];
+                try
+                {
+                    document.getElementById("tagSettings" + i).checked = tagSettings[i];
+                }
+                catch {}
             }
         }
 
@@ -3833,6 +3872,49 @@
 
                 linksTags.appendChild(links);
                 if(Array.from(linksTags.getElementsByClassName("tagTitle")).length > 1){gameElement.appendChild(linksTags);}
+
+                //Tags Tags (Ugh...)
+                let tagsTags = document.createElement("div");
+                tagsTags.classList.add("tagsTags");
+                let tags = document.createElement("span");
+                tags.classList.add("tag");
+                if(tagSettings[30])
+                {
+                    
+                    //Tags Text
+                    if(game["gameType"] != 3) {tags.innerHTML = "<div class='tagTitle tagsTextSteam'>" + steamIconText + "</div>";}
+                    else {tags.innerHTML = "<div class='tagTitle tagsTextRetro'>" + retroAchievementsIconText + "</div>";}
+
+                    for(let i = 0; i < Math.min(game["gameTags"].length, 10); i++)
+                    {
+                        if(tagSettings[31])
+                        {
+                            let tagText = game["gameTags"][i].toUpperCase()
+                            let tagColorNum = 0;
+                            for(let j = 0; j < tagText.length; j++) {tagColorNum += tagText.charCodeAt(j)}
+                            tagColorNum = (tagColorNum + tagText.charCodeAt(0)*3)/ tagText.length;
+                            
+                            let tagColor = tagColorNum/64*255 * 1000;
+
+                            tags.innerHTML += " <div class='tagTitle' style='background-image: linear-gradient(hsl(" + tagColor + ", 100%, 66%), hsl(" + tagColor + ", 50%, 33%));'>" + game["gameTags"][i] + "</div>";
+                        }
+                        else
+                        {
+                            tags.innerHTML += " <div class='tagTitle'>" + game["gameTags"][i] + "</div>";
+                        }
+                    }
+
+                    if(game["gameTags"].length > 10)
+                    {
+                        extraTags = "";
+                        for(let i = 10; i < game["gameTags"].length; i++) {extraTags += game["gameTags"][i] + "\n";}
+
+                        tags.innerHTML += " <div class='tagTitle' style='font-style: italic; cursor: help; text-decoration: underline dotted;' title='" + extraTags + "' onclick='alert(this.title);'>+" + (game["gameTags"].length - 10) + " more...</div>"
+                    }
+                }
+                tagsTags.append(tags);
+                if(Array.from(tagsTags.getElementsByClassName("tagTitle")).length > 1){gameElement.appendChild(tagsTags);}
+
 
                 //BG Image
                 if(loadImages) {gameElement.style = "--background-image: url(" + game["header"] + ")";}
