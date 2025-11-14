@@ -2,18 +2,18 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 576500,
-        "CEId": "0bfdd573-7819-4a3a-9a8b-ed1a42b261fc",
-        "name": "Evergarden",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/576500/header.jpg?t=1610642100",
-        "genre": "Strategy",
-        "tier": 1,
-        "points": 5,
-        "createdAt": "2022-11-13T21:34:59.000Z",
+        "platformId": 665270,
+        "CEId": "8d34839e-5283-4f79-8a66-5780c2156bd9",
+        "name": "Barrage Musical  ~A Fantasy of Tempest~",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/665270/header.jpg?t=1576291657",
+        "genre": "Bullet Hell",
+        "tier": 3,
+        "points": 65,
+        "createdAt": "2022-11-14T02:57:31.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 26,
-        "playersStarted": 0,
-        "playersTotal": 241,
+        "playersCompleted": 1,
+        "playersStarted": 7,
+        "playersTotal": 47,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -21,18 +21,18 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 975,
-                "final": 975,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 850,
-                "final": 850,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 120000,
-                "final": 120000,
+                "initial": 98000,
+                "final": 98000,
                 "discountPercent": 0
             },
             "AUD": {
@@ -41,18 +41,18 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 1099,
+                "final": 1099,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Flora and Fauna [5\u2605]\nScore 80,000 points in a single game.",
-            "community": 1,
-            "communityText": "Stonemason\nCreate a tier three monolith.",
-            "achievements": 21
+            "primary": 3,
+            "primaryText": "Blazing Musician [35\u2605]\nGet the true ending on Ultra difficulty without continues.\n\nPut Out[20\u2605 (Partial: 5\u2605)]\nClear the game on Ultra difficulty without continues. (Any ending)\n\nIgnition [10\u2605]\nClear the game on Lunatic difficulty or higher without continues. / Clear the game with 2 million coins.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 29
         }
     }
 }
-var gameOfDayDate = '2025-11-13'
+var gameOfDayDate = '2025-11-14'
