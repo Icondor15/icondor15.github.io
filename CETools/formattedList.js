@@ -72,7 +72,10 @@ var data =
             "2D",
             "Linear",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -147,7 +150,18 @@ var data =
             "Dark Comedy",
             "Design & Illustration",
             "Beautiful"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "portuguese": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -223,7 +237,17 @@ var data =
             "Stylized",
             "Linear",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "finnish": "I",
+            "polish": "I",
+            "portuguese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -295,7 +319,14 @@ var data =
             "Casual",
             "Arcade",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -368,7 +399,10 @@ var data =
             "Co-op",
             "Local Co-Op",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -440,7 +474,15 @@ var data =
             "PvE",
             "Controller",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "koreana": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -514,7 +556,36 @@ var data =
             "Puzzle Platformer",
             "Side Scroller",
             "Casual"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "italian": "IA",
+            "japanese": "IA",
+            "spanish": "IA",
+            "arabic": "IA",
+            "brazilian": "IA",
+            "bulgarian": "IA",
+            "czech": "IA",
+            "danish": "IA",
+            "dutch": "IA",
+            "finnish": "IA",
+            "greek": "IA",
+            "hungarian": "IA",
+            "koreana": "IA",
+            "norwegian": "IA",
+            "polish": "IA",
+            "portuguese": "IA",
+            "romanian": "IA",
+            "russian": "IA",
+            "schinese": "IA",
+            "swedish": "IA",
+            "tchinese": "IA",
+            "thai": "IA",
+            "turkish": "IA",
+            "ukrainian": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -591,6 +662,17 @@ var data =
             "Roguelike",
             "Difficult"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
+        },
         "information": "Valued with set seed."
     },
     {
@@ -606,7 +688,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 19,
+        "playersTotal": 20,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -668,6 +750,19 @@ var data =
             "Multiplayer",
             "Local Co-Op"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        },
         "information": "Valued around Symbol of Submission and Day of Midgard."
     },
     {
@@ -744,7 +839,22 @@ var data =
             "Space",
             "Top-Down Shooter",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "latam": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -807,7 +917,13 @@ var data =
             "Side Scroller",
             "Indie",
             "Casual"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "japanese": "IA",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -882,7 +998,24 @@ var data =
             "Top-Down",
             "Minimalist",
             "Music"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "danish": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -958,7 +1091,17 @@ var data =
             "Singleplayer",
             "Lore-Rich",
             "Magic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -1027,7 +1170,10 @@ var data =
             "Medieval",
             "Singleplayer",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -1084,7 +1230,10 @@ var data =
             "Rhythm",
             "Shoot 'Em Up",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -1160,7 +1309,24 @@ var data =
             "Multiplayer",
             "Games Workshop",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "vietnamese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -1236,7 +1402,15 @@ var data =
             "Third Person",
             "2D",
             "2.5D"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IAS",
+            "koreana": "IAS",
+            "latam": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -1299,7 +1473,11 @@ var data =
             "Physics",
             "Cute",
             "Action-Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -1314,7 +1492,7 @@ var data =
         "updatedAt": "2025-10-21T05:29:45.000Z",
         "playersCompleted": 7,
         "playersStarted": 105,
-        "playersTotal": 812,
+        "playersTotal": 813,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -1376,6 +1554,19 @@ var data =
             "Action",
             "Kickstarter"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "portuguese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "For \"Timeless End\", you may only complete the original 114 Death Wish stamps. Seasonal event challenges (Winter and Summer) and the Nyakuza Metro secret sticker (commonly deemed as a \"secret\" Death Wish) are not required.\n\nBonus objectives are not required for \"Your Contract Has Expired\". Beating the level will do. This does not apply to the Primary Objective proof.\n\n**\"Zero Jumps 2: Electric Boogaloo\"** requires co-op (and online play on a few levels) and it's valued around use of the latter.\n\n----\n\n_Levels that can be ignored for the Emblem POs:_\n__Jumpless:__ none\n__Speedrun:__ Rush Hour (does not have speed goal)\n__Both:__ Award Ceremony (emblems per se are bugged, level is possible), spaceship time rifts (no reward)"
     },
     {
@@ -1453,6 +1644,12 @@ var data =
             "Controller",
             "Great Soundtrack"
         ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "You can reset your upgrades by selecting \"DELETE PROFILE\" in the options."
     },
     {
@@ -1520,7 +1717,17 @@ var data =
             "1980s",
             "Adventure",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -1596,7 +1803,10 @@ var data =
             "Singleplayer",
             "Short",
             "Action-Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -1672,7 +1882,10 @@ var data =
             "Great Soundtrack",
             "Relaxing",
             "Cartoony"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -1734,7 +1947,10 @@ var data =
             "Pixel Graphics",
             "Platformer",
             "Puzzle Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -1810,7 +2026,10 @@ var data =
             "4 Player Local",
             "Nonlinear",
             "Split Screen"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -1886,7 +2105,14 @@ var data =
             "Family Friendly",
             "Great Soundtrack",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "polish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -1949,7 +2175,10 @@ var data =
             "2D",
             "Great Soundtrack",
             "Cats"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -2026,6 +2255,9 @@ var data =
             "Arcade",
             "Real-Time"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "Follow the order specified by the game for achievements!"
     },
     {
@@ -2102,7 +2334,10 @@ var data =
             "Lore-Rich",
             "Singleplayer",
             "PvE"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -2165,7 +2400,18 @@ var data =
             "Great Soundtrack",
             "Controller",
             "On-Rails Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -2241,7 +2487,10 @@ var data =
             "Electronic Music",
             "Casual",
             "Fast-Paced"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -2317,7 +2566,17 @@ var data =
             "RPG",
             "Crafting",
             "Mythology"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -2332,7 +2591,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
         "playersStarted": 0,
-        "playersTotal": 207,
+        "playersTotal": 208,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -2385,7 +2644,18 @@ var data =
             "Local Multiplayer",
             "4 Player Local",
             "Time Attack"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "spanish": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "portuguese": "I",
+            "swedish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -2461,6 +2731,16 @@ var data =
             "Casual",
             "Parkour"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "In need of more opinions on difficulty."
     },
     {
@@ -2538,6 +2818,16 @@ var data =
             "Controller",
             "Action"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        },
         "information": "DLC Required:\n-Aeterna Noctis: Virtuoso"
     },
     {
@@ -2600,7 +2890,10 @@ var data =
             "Shoot 'Em Up",
             "Anime",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -2676,7 +2969,20 @@ var data =
             "Story Rich",
             "Multiple Endings",
             "Choices Matter"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -2743,7 +3049,20 @@ var data =
             "Retro",
             "Singleplayer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -2819,7 +3138,11 @@ var data =
             "Indie",
             "Fantasy",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -2896,6 +3219,9 @@ var data =
             "Tutorial",
             "Competitive"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "Given the video proof requirements for the Advanced PO and the final Intermediate PO, it is highly recommended to record all attempts.\n\nThe Replay Buffer function within OBS, or Steam Recording, would be the best suggestions."
     },
     {
@@ -2972,7 +3298,11 @@ var data =
             "Sci-fi",
             "Family Friendly",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "finnish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -3048,7 +3378,12 @@ var data =
             "Puzzle",
             "Anime",
             "Surreal"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -3123,7 +3458,10 @@ var data =
             "Fast-Paced",
             "Swordplay",
             "Roguelite"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -3199,7 +3537,13 @@ var data =
             "Dark",
             "Combat",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -3275,7 +3619,11 @@ var data =
             "Atmospheric",
             "Arena Shooter",
             "Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "russian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -3343,7 +3691,10 @@ var data =
             "Combat",
             "Multiplayer",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -3358,7 +3709,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 45,
-        "playersTotal": 381,
+        "playersTotal": 382,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -3419,7 +3770,18 @@ var data =
             "Gore",
             "Shooter",
             "VR"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "czech": "IS",
+            "polish": "IS",
+            "russian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -3495,7 +3857,10 @@ var data =
             "Funny",
             "Cute",
             "Baseball"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -3566,7 +3931,15 @@ var data =
             "Adventure",
             "Online Co-Op",
             "Strategy"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -3642,7 +4015,10 @@ var data =
             "Retro",
             "Puzzle Platformer",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -3706,7 +4082,11 @@ var data =
             "Shooter",
             "Bullet Hell",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -3782,7 +4162,32 @@ var data =
             "Controller",
             "Fast-Paced",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -3858,7 +4263,19 @@ var data =
             "Action Roguelike",
             "Psychological Horror",
             "Choose Your Own Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -3927,7 +4344,17 @@ var data =
             "Singleplayer",
             "Difficult",
             "Fantasy"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS",
+            "swedish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -3942,7 +4369,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 26,
+        "playersTotal": 27,
         "priceData": {
             "USD": {
                 "initial": 899,
@@ -4004,6 +4431,9 @@ var data =
             "Parkour",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "__Par times for reference__\n\nParalysis Garden: 29.50\nA Tower of Nightmares: 51.04\nNot Alone: 2:00.00\nShowtime: 35.00\nEvening Star: 40.00\n\n-------\n\nContainment: 1:00.00\nImplacable Ball: 30.00\nHall of Danger: 30.00\nInversion Chambers: 2:10.00\nDuality: 1:05.00\nParalyzing Decay: 0:55.00\nDepths of Despair: 7:00.00"
     },
     {
@@ -4077,7 +4507,19 @@ var data =
             "Linear",
             "Controller",
             "Psychological Horror"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -4092,7 +4534,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 236,
+        "playersTotal": 237,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -4153,7 +4595,17 @@ var data =
             "Emotional",
             "Gothic",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -4229,7 +4681,17 @@ var data =
             "Sandbox",
             "Adventure",
             "Supernatural"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -4295,7 +4757,11 @@ var data =
             "Retro",
             "Singleplayer",
             "Puzzle Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -4361,7 +4827,18 @@ var data =
             "Colorful",
             "Political",
             "Simulation"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -4428,7 +4905,15 @@ var data =
             "Puzzle Platformer",
             "Surreal",
             "Physics"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -4498,7 +4983,10 @@ var data =
             "Futuristic",
             "Soundtrack",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -4575,6 +5063,12 @@ var data =
             "Shoot 'Em Up",
             "Story Rich"
         ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "If you plan on submitting verification, enable \"No Nipple Mode\""
     },
     {
@@ -4651,7 +5145,21 @@ var data =
             "Funny",
             "3D",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -4727,7 +5235,10 @@ var data =
             "Violent",
             "Controller",
             "Old School"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -4804,6 +5315,15 @@ var data =
             "Precision Platformer",
             "Old School"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "portuguese": "I",
+            "russian": "I"
+        },
         "information": "OCC Strategy Guide:\nAVGN1: https://youtu.be/PVbg5PbOYxA\nAVGN2: https://youtu.be/cJ2T4a8malg\nTOT: https://youtu.be/laJUvdyrSPw"
     },
     {
@@ -4876,7 +5396,10 @@ var data =
             "Comedy",
             "Funny",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -4939,7 +5462,12 @@ var data =
             "2D",
             "Puzzle Platformer",
             "GameMaker"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "italian": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -5015,7 +5543,16 @@ var data =
             "Colorful",
             "Psychedelic",
             "Procedural Generation"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "thai": "I"
+        }
     },
     {
         "gameType": 0,
@@ -5091,7 +5628,18 @@ var data =
             "Casual",
             "Surreal",
             "Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -5167,7 +5715,15 @@ var data =
             "Cartoon",
             "Action-Adventure",
             "Classic"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -5243,7 +5799,10 @@ var data =
             "Colorful",
             "Cute",
             "Medieval"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -5320,6 +5879,10 @@ var data =
             "Linear",
             "Soundtrack"
         ],
+        "languages": {
+            "english": "IAS",
+            "brazilian": "IAS"
+        },
         "information": "Crystal = 5:30\nJungle = 5:45\nUnderground = 16:00"
     },
     {
@@ -5395,7 +5958,17 @@ var data =
             "Roguelike",
             "Souls-like",
             "Action Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -5464,7 +6037,10 @@ var data =
             "Indie",
             "Singleplayer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -5541,6 +6117,17 @@ var data =
             "Singleplayer",
             "Post-apocalyptic"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "koreana": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
+        },
         "information": "This game requires a VR headset in order to play."
     },
     {
@@ -5617,7 +6204,11 @@ var data =
             "Short",
             "Aliens",
             "Sequel"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -5632,7 +6223,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 55,
         "playersStarted": 0,
-        "playersTotal": 201,
+        "playersTotal": 202,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -5693,7 +6284,22 @@ var data =
             "Military",
             "Action-Adventure",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -5766,7 +6372,10 @@ var data =
             "Physics",
             "Singleplayer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -5842,7 +6451,21 @@ var data =
             "Exploration",
             "Stylized",
             "Hack and Slash"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -5918,7 +6541,15 @@ var data =
             "Local Multiplayer",
             "Fast-Paced",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -5989,7 +6620,11 @@ var data =
             "Score Attack",
             "Singleplayer",
             "War"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "italian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -6065,7 +6700,19 @@ var data =
             "Singleplayer",
             "1980s",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -6141,7 +6788,12 @@ var data =
             "Singleplayer",
             "Indie",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -6217,7 +6869,10 @@ var data =
             "Psychedelic",
             "Atmospheric",
             "Physics"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -6293,7 +6948,10 @@ var data =
             "Vehicular Combat",
             "Tutorial",
             "Psychedelic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -6363,7 +7021,10 @@ var data =
             "Linear",
             "Singleplayer",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -6439,7 +7100,11 @@ var data =
             "Controller",
             "Nonlinear",
             "Sci-fi"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -6515,7 +7180,30 @@ var data =
             "Pixel Graphics",
             "Platformer",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "koreana": "I",
+            "latam": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -6591,7 +7279,26 @@ var data =
             "Singleplayer",
             "PvE",
             "Cats"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -6657,7 +7364,22 @@ var data =
             "Shoot 'Em Up",
             "Singleplayer",
             "Runner"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -6729,7 +7451,18 @@ var data =
             "Great Soundtrack",
             "Turn-Based",
             "Tactical"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -6805,7 +7538,11 @@ var data =
             "Retro",
             "Singleplayer",
             "8-bit Music"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -6870,6 +7607,16 @@ var data =
             "Shooter",
             "Great Soundtrack"
         ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I"
+        },
         "information": "This game requires a VR headset in order to play."
     },
     {
@@ -6946,7 +7693,10 @@ var data =
             "Funny",
             "Cute",
             "Creature Collector"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -7023,6 +7773,9 @@ var data =
             "Stylized",
             "Puzzle Platformer"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "Note: if you're attempting the \"T\u039eMP\u00d8R\u0394L \u0394N\u00d8M\u0394LY\" PO, you might want to return to menu every time you fail a run instead of restarting. There are reported issues with earning its achievement otherwise."
     },
     {
@@ -7084,7 +7837,22 @@ var data =
             "Arcade",
             "Music",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -7155,7 +7923,10 @@ var data =
             "Fantasy",
             "Old School",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -7231,7 +8002,17 @@ var data =
             "Shooter",
             "Horror",
             "Story Rich"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -7306,6 +8087,10 @@ var data =
             "Fantasy",
             "Side Scroller"
         ],
+        "languages": {
+            "english": "IAS",
+            "brazilian": "IAS"
+        },
         "information": "It is recommended to record a video due to the buggy nature of the achievement unlock. "
     },
     {
@@ -7371,7 +8156,13 @@ var data =
             "Shoot 'Em Up",
             "Female Protagonist",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -7439,7 +8230,20 @@ var data =
             "Cyberpunk",
             "2D Platformer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -7515,7 +8319,10 @@ var data =
             "Dog",
             "Space",
             "Score Attack"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -7591,7 +8398,18 @@ var data =
             "Precision Platformer",
             "2D",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -7661,7 +8479,12 @@ var data =
             "Cartoony",
             "Singleplayer",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -7737,7 +8560,21 @@ var data =
             "Cute",
             "Tactical",
             "Simulation"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -7811,7 +8648,21 @@ var data =
             "Casual",
             "4 Player Local",
             "Survival"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "finnish": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -7883,7 +8734,10 @@ var data =
             "Dark Humor",
             "Comedy",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -7898,7 +8752,7 @@ var data =
         "updatedAt": "2025-09-17T23:51:32.000Z",
         "playersCompleted": 61,
         "playersStarted": 47,
-        "playersTotal": 608,
+        "playersTotal": 609,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -7959,7 +8813,21 @@ var data =
             "Relaxing",
             "Arcade",
             "Procedural Generation"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -8032,6 +8900,9 @@ var data =
             "Racing",
             "Time Attack"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "SSS rank is acquired at ~7,680,000 BR."
     },
     {
@@ -8097,7 +8968,13 @@ var data =
             "Shooter",
             "Female Protagonist",
             "Rhythm"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS",
+            "tchinese": "S"
+        }
     },
     {
         "gameType": 0,
@@ -8173,7 +9050,10 @@ var data =
             "Strategy",
             "Platformer",
             "Character Customization"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -8249,7 +9129,15 @@ var data =
             "Music",
             "Twin Stick Shooter",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -8264,7 +9152,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 8,
-        "playersTotal": 36,
+        "playersTotal": 37,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -8325,7 +9213,10 @@ var data =
             "Adventure",
             "Singleplayer",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -8402,6 +9293,13 @@ var data =
             "Dark",
             "3D Vision"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        },
         "information": "[\"Freeflow Fanatic\" point requirements](https://upload.cedb.me/HNQaru.png)"
     },
     {
@@ -8478,7 +9376,16 @@ var data =
             "Sandbox",
             "Metroidvania",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -8554,7 +9461,19 @@ var data =
             "Sandbox",
             "Strategy",
             "Epic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -8631,6 +9550,17 @@ var data =
             "Third-Person Shooter",
             "RPG"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS"
+        },
         "information": "I Am The Night's segmention as a choice for video proof is under debate and may change over time."
     },
     {
@@ -8700,7 +9630,21 @@ var data =
             "Local Co-Op",
             "Female Protagonist",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "portuguese": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -8776,7 +9720,20 @@ var data =
             "RPG",
             "Roguelike",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "indonesian": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "thai": "I"
+        }
     },
     {
         "gameType": 0,
@@ -8852,7 +9809,20 @@ var data =
             "Indie",
             "Puzzle",
             "Narration"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -8928,7 +9898,15 @@ var data =
             "Classic",
             "Anime",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -9004,7 +9982,13 @@ var data =
             "Casual",
             "Arcade",
             "RPG"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "russian": "IA",
+            "schinese": "IA",
+            "tchinese": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -9068,7 +10052,21 @@ var data =
             "Pixel Graphics",
             "Music",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -9145,6 +10143,15 @@ var data =
             "Games Workshop",
             "Early Access"
         ],
+        "languages": {
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "japanese": "IA",
+            "spanish": "IA",
+            "koreana": "IA",
+            "latam": "IA"
+        },
         "information": "SS rank: >90% accuracy\n\nThe generally-agreed upon PO progression curve is as follows:\nExpert passes \u2192 Expert+ passes (non-OST6) \u2192 Expert SS \u2192 Expert+ passes (OST6) \u2192 Expert+SS\n\nThere is some debate on items 2 and 3, but from a PO structure perspective, the two 'Expert' POs are grouped."
     },
     {
@@ -9216,7 +10223,14 @@ var data =
             "Arcade",
             "Indie",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -9292,7 +10306,10 @@ var data =
             "Precision Platformer",
             "2D",
             "Linear"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -9307,7 +10324,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 34,
         "playersStarted": 55,
-        "playersTotal": 183,
+        "playersTotal": 184,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -9367,7 +10384,10 @@ var data =
             "Linear",
             "Physics",
             "First-Person"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -9438,7 +10458,17 @@ var data =
             "Atmospheric",
             "Funny",
             "Horror"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "swedish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -9514,7 +10544,17 @@ var data =
             "Surreal",
             "Cute",
             "Minimalist"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -9590,7 +10630,10 @@ var data =
             "Realistic",
             "Sports",
             "Fantasy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -9660,7 +10703,15 @@ var data =
             "Fast-Paced",
             "Abstract",
             "Time Attack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -9736,7 +10787,14 @@ var data =
             "Action",
             "Dog",
             "Early Access"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "latam": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -9751,7 +10809,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 35,
-        "playersTotal": 751,
+        "playersTotal": 752,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -9812,7 +10870,20 @@ var data =
             "Steampunk",
             "Combat",
             "Dark"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -9888,7 +10959,20 @@ var data =
             "Indie",
             "Cute",
             "Simulation"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -9958,7 +11042,10 @@ var data =
             "Pixel Graphics",
             "Mouse only",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -10018,7 +11105,10 @@ var data =
             "Action",
             "Rhythm",
             "Music"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -10080,7 +11170,10 @@ var data =
             "Rhythm",
             "Shoot 'Em Up",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -10156,7 +11249,17 @@ var data =
             "Indie",
             "Adventure",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "latam": "I",
+            "portuguese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -10232,7 +11335,10 @@ var data =
             "Retro",
             "Great Soundtrack",
             "Addictive"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -10308,7 +11414,15 @@ var data =
             "Surreal",
             "Rhythm",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -10367,7 +11481,10 @@ var data =
             "Difficult",
             "Time Attack",
             "Puzzle Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -10440,7 +11557,17 @@ var data =
             "Story Rich",
             "Singleplayer",
             "Psychological Horror"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "czech": "IAS",
+            "polish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -10516,7 +11643,16 @@ var data =
             "Singleplayer",
             "Narration",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -10589,7 +11725,14 @@ var data =
             "Platformer",
             "Nudity",
             "Metroidvania"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -10604,7 +11747,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 114,
         "playersStarted": 0,
-        "playersTotal": 799,
+        "playersTotal": 800,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -10665,7 +11808,19 @@ var data =
             "Great Soundtrack",
             "Side Scroller",
             "Nudity"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IAS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -10741,7 +11896,13 @@ var data =
             "Top-Down Shooter",
             "Top-Down",
             "1990's"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I",
+            "vietnamese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -10756,7 +11917,7 @@ var data =
         "updatedAt": "2025-09-28T07:16:50.000Z",
         "playersCompleted": 0,
         "playersStarted": 15,
-        "playersTotal": 128,
+        "playersTotal": 129,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -10817,7 +11978,14 @@ var data =
             "eSports",
             "Competitive",
             "Tutorial"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -10894,6 +12062,13 @@ var data =
             "Competitive",
             "Mature"
         ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IAS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "We are not yet certain what the hardest challenges / characters are - for anyone aiming for full completion, we recommend recording all challenges 16+ to help us assess proof requirements going forward. "
     },
     {
@@ -10963,7 +12138,10 @@ var data =
             "Sci-fi",
             "Linear",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -11039,7 +12217,20 @@ var data =
             "Bullet Time",
             "Colorful",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -11115,7 +12306,20 @@ var data =
             "Great Soundtrack",
             "Fast-Paced",
             "War"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -11191,7 +12395,10 @@ var data =
             "Cute",
             "Co-op",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -11264,7 +12471,10 @@ var data =
             "Fast-Paced",
             "Bullet Time",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -11335,7 +12545,20 @@ var data =
             "Singleplayer",
             "Gore",
             "Violent"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "schinese": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -11411,7 +12634,16 @@ var data =
             "Experimental",
             "Automobile Sim",
             "Racing"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -11474,7 +12706,10 @@ var data =
             "Pixel Graphics",
             "Great Soundtrack",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -11541,7 +12776,11 @@ var data =
             "Indie",
             "Arcade",
             "FPS"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I"
+        }
     },
     {
         "gameType": 0,
@@ -11617,7 +12856,17 @@ var data =
             "Controller",
             "Arcade",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -11693,7 +12942,11 @@ var data =
             "Vampire",
             "Great Soundtrack",
             "Classic"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -11769,7 +13022,20 @@ var data =
             "Singleplayer",
             "Blood",
             "1990's"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -11845,7 +13111,10 @@ var data =
             "Funny",
             "Casual",
             "Puzzle"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -11914,7 +13183,12 @@ var data =
             "Difficult",
             "Shooter",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -11976,7 +13250,10 @@ var data =
             "Difficult",
             "3D Platformer",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -12040,7 +13317,20 @@ var data =
             "Puzzle Platformer",
             "2D",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -12115,7 +13405,19 @@ var data =
             "Great Soundtrack",
             "Atmospheric",
             "Boomer Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -12181,7 +13483,10 @@ var data =
             "Combat",
             "Perma Death",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -12257,7 +13562,10 @@ var data =
             "Precision Platformer",
             "Colorful",
             "Unforgiving"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -12333,7 +13641,19 @@ var data =
             "Action",
             "Singleplayer",
             "Score Attack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -12404,7 +13724,12 @@ var data =
             "Singleplayer",
             "Addictive",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "koreana": "I"
+        }
     },
     {
         "gameType": 0,
@@ -12472,7 +13797,12 @@ var data =
             "Casual",
             "Replay Value",
             "Dark Humor"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "georgian": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -12487,7 +13817,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 33,
-        "playersTotal": 479,
+        "playersTotal": 480,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -12548,7 +13878,17 @@ var data =
             "Bullet Hell",
             "Procedural Generation",
             "Boomer Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -12624,7 +13964,18 @@ var data =
             "Beautiful",
             "Adventure",
             "Short"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "korean": "I",
+            "portuguese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -12700,7 +14051,27 @@ var data =
             "Linear",
             "Action-Adventure",
             "3D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "finnish": "IS",
+            "koreana": "IS",
+            "norwegian": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "tchinese": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -12769,7 +14140,15 @@ var data =
             "Indie",
             "Old School",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "latam": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -12845,7 +14224,18 @@ var data =
             "Arcade",
             "Casual",
             "Epic"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -12860,7 +14250,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 156,
+        "playersTotal": 157,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -12922,6 +14312,21 @@ var data =
             "Co-op",
             "RPG"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        },
         "information": "\"Abyssal Terrors\" DLC required."
     },
     {
@@ -12998,7 +14403,12 @@ var data =
             "Story Rich",
             "Cute",
             "Dungeon Crawler"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "spanish": "IS",
+            "latam": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -13013,7 +14423,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 48,
+        "playersTotal": 49,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -13074,7 +14484,10 @@ var data =
             "Procedural Generation",
             "Character Customization",
             "GameMaker"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -13143,7 +14556,14 @@ var data =
             "Singleplayer",
             "Colorful",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -13215,7 +14635,11 @@ var data =
             "Singleplayer",
             "Indie",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -13286,7 +14710,11 @@ var data =
             "Score Attack",
             "Psychedelic",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -13352,7 +14780,11 @@ var data =
             "Cute",
             "Arcade",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -13413,7 +14845,10 @@ var data =
             "Parkour",
             "Fast-Paced",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -13475,6 +14910,21 @@ var data =
             "Time Management",
             "Cooking"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS"
+        },
         "information": "Extreme Service: cookies are not used at all during a level."
     },
     {
@@ -13539,7 +14989,11 @@ var data =
             "Difficult",
             "Dark",
             "Puzzle Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -13615,7 +15069,15 @@ var data =
             "Action-Adventure",
             "Blood",
             "Metroidvania"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "portuguese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -13691,7 +15153,21 @@ var data =
             "Singleplayer",
             "Arcade",
             "Perma Death"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "polish": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -13706,7 +15182,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 101,
+        "playersTotal": 102,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -13762,7 +15238,14 @@ var data =
             "Horror",
             "Tanks",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -13777,7 +15260,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 103,
+        "playersTotal": 104,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -13838,7 +15321,20 @@ var data =
             "Parkour",
             "Quick-Time Events",
             "Split Screen"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IA",
+            "german": "IA",
+            "italian": "IA",
+            "japanese": "IS",
+            "spanish": "IA",
+            "brazilian": "IA",
+            "polish": "IS",
+            "russian": "IA",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -13914,7 +15410,21 @@ var data =
             "Great Soundtrack",
             "Co-op",
             "Post-apocalyptic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -13929,7 +15439,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 45,
         "playersStarted": 13,
-        "playersTotal": 123,
+        "playersTotal": 124,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -13986,6 +15496,13 @@ var data =
             "Strategy",
             "Moddable"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        },
         "information": "CO-OP REQUIRED FOR SPECIAL OPS PO. There are two missions that require co-op, all other missions can be completed either solo or with a partner."
     },
     {
@@ -14062,7 +15579,8 @@ var data =
             "Dog",
             "Massively Multiplayer",
             "Free to Play"
-        ]
+        ],
+        "languages": {}
     },
     {
         "gameType": 0,
@@ -14138,7 +15656,21 @@ var data =
             "Zombies",
             "Atmospheric",
             "World War II"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -14214,7 +15746,18 @@ var data =
             "Gore",
             "Historical",
             "Alternate History"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "polish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -14280,7 +15823,14 @@ var data =
             "Singleplayer",
             "Casual",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -14352,7 +15902,10 @@ var data =
             "Beautiful",
             "Difficult",
             "Metroidvania"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -14428,7 +15981,15 @@ var data =
             "Dungeon Crawler",
             "2D",
             "Cartoon"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "german": "I",
+            "brazilian": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -14494,7 +16055,10 @@ var data =
             "Retro",
             "Singleplayer",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -14509,7 +16073,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 22,
         "playersStarted": 159,
-        "playersTotal": 1118,
+        "playersTotal": 1119,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -14570,7 +16134,20 @@ var data =
             "Arcade",
             "RPG",
             "Casual"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -14631,7 +16208,11 @@ var data =
             "Bullet Hell",
             "Arcade",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -14699,6 +16280,14 @@ var data =
             "Dark",
             "Horror"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        },
         "information": "To earn the hardcore achievement, DO NOT turn on navigation aids."
     },
     {
@@ -14770,7 +16359,15 @@ var data =
             "Controller",
             "Nudity",
             "Metroidvania"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -14836,7 +16433,10 @@ var data =
             "2D",
             "Difficult",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -14907,7 +16507,15 @@ var data =
             "Gore",
             "Sokoban",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "A",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -14983,7 +16591,10 @@ var data =
             "Cute",
             "Sci-fi",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -15060,6 +16671,16 @@ var data =
             "Action RPG",
             "Fantasy"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        },
         "information": "Kanra - \"Try triple shot + Magicians Ring\"\nTrusty Patches - Triple shot + Crystal Sword + Any magic damage ring"
     },
     {
@@ -15075,7 +16696,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 3,
-        "playersTotal": 31,
+        "playersTotal": 32,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -15136,7 +16757,10 @@ var data =
             "Competitive",
             "FPS",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -15151,7 +16775,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 79,
         "playersStarted": 764,
-        "playersTotal": 1957,
+        "playersTotal": 1958,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -15212,7 +16836,18 @@ var data =
             "Side Scroller",
             "Retro",
             "Exploration"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -15288,7 +16923,20 @@ var data =
             "Cute",
             "Stylized",
             "Family Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "czech": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -15360,7 +17008,10 @@ var data =
             "Singleplayer",
             "Precision Platformer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -15437,6 +17088,17 @@ var data =
             "Cute",
             "Dungeon Crawler"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I"
+        },
         "information": "Use of assist mode will show an asterisk on the timer."
     },
     {
@@ -15513,7 +17175,10 @@ var data =
             "Space",
             "Destruction",
             "Local Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -15589,7 +17254,33 @@ var data =
             "Thriller",
             "Hand-drawn",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "danish": "IS",
+            "dutch": "IS",
+            "hindi": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "tchinese": "IS",
+            "thai": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS",
+            "vietnamese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -15661,6 +17352,14 @@ var data =
             "Story Rich",
             "Simulation"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        },
         "information": "Curated on Steam: https://store.steampowered.com/app/251130/Chroma_Squad/?curator_clanid=36185934"
     },
     {
@@ -15737,7 +17436,14 @@ var data =
             "Singleplayer",
             "Deckbuilding",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -15812,7 +17518,10 @@ var data =
             "Dystopian ",
             "Horror",
             "Psychological Horror"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -15884,7 +17593,10 @@ var data =
             "Minimalist",
             "Logic",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -15960,7 +17672,16 @@ var data =
             "Medieval",
             "Family Friendly",
             "Cartoony"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "japanese": "IAS",
+            "koreana": "IAS",
+            "latam": "IAS",
+            "portuguese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -16032,7 +17753,10 @@ var data =
             "Singleplayer",
             "Cute",
             "Puzzle Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -16108,7 +17832,21 @@ var data =
             "Comedy",
             "Survival",
             "Dark Humor"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -16184,7 +17922,17 @@ var data =
             "Cartoon",
             "Memes",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -16199,7 +17947,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 7,
-        "playersTotal": 187,
+        "playersTotal": 188,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -16260,7 +18008,18 @@ var data =
             "Cartoony",
             "Third Person",
             "Third-Person Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "S",
+            "german": "S",
+            "italian": "S",
+            "japanese": "IS",
+            "spanish": "S",
+            "polish": "S",
+            "russian": "S",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -16320,7 +18079,14 @@ var data =
             "Indie",
             "Shoot 'Em Up",
             "Mechs"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -16396,7 +18162,10 @@ var data =
             "Racing",
             "Adventure",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -16472,7 +18241,12 @@ var data =
             "Singleplayer",
             "Indie",
             "Time Attack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "german": "I",
+            "hungarian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -16548,7 +18322,20 @@ var data =
             "Violent",
             "Adventure",
             "Gore"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -16617,7 +18404,13 @@ var data =
             "Abstract",
             "Music",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "russian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -16632,7 +18425,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 1,
-        "playersTotal": 243,
+        "playersTotal": 244,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -16693,7 +18486,19 @@ var data =
             "2D",
             "Atmospheric",
             "Top-Down Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -16769,7 +18574,14 @@ var data =
             "Combat",
             "Singleplayer",
             "Local Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -16830,7 +18642,10 @@ var data =
             "Difficult",
             "Time Attack",
             "Puzzle Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -16890,7 +18705,10 @@ var data =
             "Indie",
             "Casual",
             "Racing"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -16966,7 +18784,10 @@ var data =
             "Local Multiplayer",
             "Multiplayer",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -17042,7 +18863,10 @@ var data =
             "Singleplayer",
             "Co-op Campaign",
             "Fast-Paced"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -17118,7 +18942,27 @@ var data =
             "Retro",
             "Anime",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "indonesian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "thai": "IS",
+            "turkish": "IS",
+            "vietnamese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -17195,6 +19039,17 @@ var data =
             "Strategy",
             "Real-Time"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        },
         "information": "This game requires a VR headset in order to play."
     },
     {
@@ -17268,7 +19123,13 @@ var data =
             "Singleplayer",
             "Indie",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -17329,7 +19190,22 @@ var data =
             "Music",
             "Difficult",
             "Fast-Paced"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "turkish": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -17406,6 +19282,9 @@ var data =
             "Relaxing",
             "Roguelite"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "NOTICE:\nGame is still currently in early access, so values and PO structure highly likely to change as updates come out and when the full game releases."
     },
     {
@@ -17482,7 +19361,11 @@ var data =
             "Action",
             "Comedy",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -17557,7 +19440,10 @@ var data =
             "2.5D",
             "Family Friendly",
             "Intentionally Awkward Controls"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -17628,7 +19514,20 @@ var data =
             "Controller",
             "Female Protagonist",
             "Fantasy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IAS",
+            "brazilian": "IAS",
+            "latam": "IAS",
+            "polish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -17704,7 +19603,15 @@ var data =
             "Nostalgia",
             "Third Person",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "S",
+            "spanish": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -17780,7 +19687,11 @@ var data =
             "Multiplayer",
             "Funny",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -17850,6 +19761,18 @@ var data =
             "Singleplayer",
             "Multiplayer"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        },
         "information": "First four POs are balanced around Type Z.\nTo unlock Type-Z, collect 3,000,000 stars across all games; you can see your current total on the Record screen. "
     },
     {
@@ -17926,7 +19849,10 @@ var data =
             "Local Multiplayer",
             "Singleplayer",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -18003,6 +19929,13 @@ var data =
             "Cyberpunk",
             "Open World"
         ],
+        "languages": {
+            "english": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        },
         "information": "This is an extremely long game, expect to spend at least 70 hours before being able to do objectives. It's possible to skip the entire game and go straight for the objectives if you wish (check the any% speedrun). DLC is required for all objectives.\n\nUse of assist mode in any form is banned for all objectives. Assist mode time is tracked in statistics and saved to the file permanently. \n\nRegarding the exclusion of Custom Cup Rushes: there are scoring exploits in the Vermillion and Platform Cups that allow you to farm points in specific rounds and thus get platinum medals in the Rush Modes without much effort (since they are based on an overall score and not per round), and the Platform Cup is known to consistently crash after a certain point, making any medal impossible to obtain. For all other Custom Cups, there's either no Rush Mode or the Rush Mode is too easy to be considered as worthwhile PO content."
     },
     {
@@ -18075,7 +20008,13 @@ var data =
             "Platformer",
             "2D Platformer",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "koreana": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -18151,7 +20090,10 @@ var data =
             "Tactical",
             "Post-apocalyptic",
             "Simulation"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -18227,7 +20169,22 @@ var data =
             "Exploration",
             "Multiplayer",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -18242,7 +20199,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 227,
+        "playersTotal": 228,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -18303,7 +20260,16 @@ var data =
             "Real Time Tactics",
             "Resource Management",
             "Dark"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -18379,7 +20345,20 @@ var data =
             "Puzzle",
             "Singleplayer",
             "RPG"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -18455,7 +20434,20 @@ var data =
             "Fantasy",
             "Adventure",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -18527,7 +20519,11 @@ var data =
             "Singleplayer",
             "Combat",
             "Martial Arts"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -18604,6 +20600,20 @@ var data =
             "Souls-like",
             "Funny"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I"
+        },
         "information": "DLC Required:\n-The Delicious Last Course"
     },
     {
@@ -18680,7 +20690,20 @@ var data =
             "Cartoony",
             "Fantasy",
             "Horror"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -18756,7 +20779,20 @@ var data =
             "Retro",
             "GameMaker",
             "Inventory Management"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -18832,7 +20868,10 @@ var data =
             "Old School",
             "Post-apocalyptic",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -18845,9 +20884,9 @@ var data =
         "points": 10,
         "createdAt": "2020-09-29T09:21:53.000Z",
         "updatedAt": "2025-10-21T04:18:16.000Z",
-        "playersCompleted": 154,
+        "playersCompleted": 155,
         "playersStarted": 0,
-        "playersTotal": 450,
+        "playersTotal": 451,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -18908,7 +20947,16 @@ var data =
             "Colorful",
             "Minimalist",
             "Old School"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -18984,7 +21032,20 @@ var data =
             "Great Soundtrack",
             "Post-apocalyptic",
             "Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -19060,7 +21121,11 @@ var data =
             "Cartoony",
             "Mouse only",
             "Hand-drawn"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "thai": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -19129,7 +21194,21 @@ var data =
             "Action-Adventure",
             "Souls-like",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -19201,7 +21280,20 @@ var data =
             "2D",
             "Hand-drawn",
             "Action Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IAS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -19277,7 +21369,17 @@ var data =
             "Local Co-Op",
             "Strategy",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -19353,7 +21455,12 @@ var data =
             "Simulation",
             "Top-Down Shooter",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -19421,7 +21528,10 @@ var data =
             "Cute",
             "2D",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -19484,7 +21594,10 @@ var data =
             "Arcade",
             "Great Soundtrack",
             "Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -19547,7 +21660,10 @@ var data =
             "Arcade",
             "Sci-fi",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -19623,7 +21739,10 @@ var data =
             "Nature",
             "Crafting",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -19697,7 +21816,17 @@ var data =
             "Anime",
             "Score Attack",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -19773,7 +21902,19 @@ var data =
             "Side Scroller",
             "Roguelike",
             "Casual"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -19788,7 +21929,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 252,
-        "playersTotal": 584,
+        "playersTotal": 585,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -19849,7 +21990,19 @@ var data =
             "Story Rich",
             "PvP",
             "Remake"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -19863,8 +22016,8 @@ var data =
         "createdAt": "2020-01-28T06:29:26.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 57,
-        "playersStarted": 420,
-        "playersTotal": 1029,
+        "playersStarted": 421,
+        "playersTotal": 1030,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -19926,6 +22079,20 @@ var data =
             "Character Customization",
             "Replay Value"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "Doesn't have cloud save, careful!"
     },
     {
@@ -20002,7 +22169,21 @@ var data =
             "Character Customization",
             "Soundtrack",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -20078,7 +22259,24 @@ var data =
             "Turn-Based Strategy",
             "Procedural Generation",
             "Stylized"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -20139,7 +22337,10 @@ var data =
             "Platformer",
             "2D",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -20215,7 +22416,22 @@ var data =
             "Great Soundtrack",
             "Puzzle",
             "Twin Stick Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IS",
+            "hindi": "IS",
+            "koreana": "IS",
+            "persian": "IS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -20230,7 +22446,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 12,
-        "playersTotal": 256,
+        "playersTotal": 257,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -20291,7 +22507,20 @@ var data =
             "Gore",
             "Building",
             "Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "hungarian": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -20367,7 +22596,18 @@ var data =
             "JRPG",
             "Quick-Time Events",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -20443,7 +22683,10 @@ var data =
             "Fast-Paced",
             "Stylized",
             "Arena Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -20520,6 +22763,9 @@ var data =
             "Dark",
             "Gore"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "The in-game option \"LMB Toggle Fire\" is banned for ALL objectives that require video proof. This is due to an unintended exploit where it can be used to recover dodge at a much faster rate than normal, thus making the game easier. There is no need to show the option being disabled when submitting proof, since it's very easy to tell whether it's been used in a run or not."
     },
     {
@@ -20535,7 +22781,7 @@ var data =
         "updatedAt": "2025-11-10T12:33:16.000Z",
         "playersCompleted": 8,
         "playersStarted": 97,
-        "playersTotal": 925,
+        "playersTotal": 926,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -20597,6 +22843,23 @@ var data =
             "Funny",
             "Indie"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "latam": "IAS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS",
+            "turkish": "IAS"
+        },
         "information": "For most primary objectives, use of custom mode is only allowed to relock weapons and mutations that aren't the default/starting ones. In other words, you must keep the items on this list enabled: [https://pastebin.com/H8G7D5sD](https://pastebin.com/H8G7D5sD).\n\nAssist Mode is disallowed for all objectives.\n\nFor 4BC+, a suggestion is to aim for a Gold Digger build.\n__Explanation:__\n-The only weapon you use is Gold Digger.\n-You pick the following mutations: Midas' Blood, Recovery, Necromancy.\n-Upon reaching 2nd boss, by which point you should ideally have at least 100,000 gold, reset your mutations and pick Dead Inside, Soldier's Resistance and Gold Plating.\n\nNote that Dead Inside is only obtainable on 4BC+."
     },
     {
@@ -20612,7 +22875,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 197,
+        "playersTotal": 198,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -20673,7 +22936,10 @@ var data =
             "Gore",
             "Singleplayer",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -20750,6 +23016,9 @@ var data =
             "Platformer",
             "Horror"
         ],
+        "languages": {
+            "english": "IS"
+        },
         "information": "\"Fear the Reaper\" can be done in a Normal mode savefile.\n\nIn order to complete all of the Primary Objectives, you'll need to use at least two savefiles, one in Normal mode (for \"Fear the Reaper\") and one in Hard mode (for \"Warbringer\" and \"Through Rain and Ash\").\n"
     },
     {
@@ -20824,7 +23093,12 @@ var data =
             "Cyberpunk",
             "Puzzle Platformer",
             "Runner"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I"
+        }
     },
     {
         "gameType": 0,
@@ -20881,7 +23155,18 @@ var data =
             "Puzzle Platformer",
             "Arcade",
             "Zombies"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -20896,7 +23181,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 5,
-        "playersTotal": 105,
+        "playersTotal": 106,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -20957,7 +23242,20 @@ var data =
             "Hacking",
             "Perma Death",
             "Cartoony"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -21033,7 +23331,23 @@ var data =
             "Atmospheric",
             "Local Multiplayer",
             "Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "latam": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "serbian": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -21109,7 +23423,13 @@ var data =
             "Hand-drawn",
             "Minimalist",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "latam": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -21185,7 +23505,10 @@ var data =
             "Puzzle",
             "2D",
             "Magic"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -21261,7 +23584,19 @@ var data =
             "Controller",
             "Colorful",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -21337,7 +23672,21 @@ var data =
             "Story Rich",
             "Replay Value",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -21408,7 +23757,10 @@ var data =
             "2D Platformer",
             "Time Attack",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -21484,7 +23836,14 @@ var data =
             "Comedy",
             "Futuristic",
             "Gore"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "spanish": "I",
+            "latam": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -21556,7 +23915,11 @@ var data =
             "Difficult",
             "Local Co-Op",
             "Funny"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -21632,7 +23995,15 @@ var data =
             "Choices Matter",
             "Singleplayer",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -21701,7 +24072,10 @@ var data =
             "Roguelike",
             "Great Soundtrack",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -21777,7 +24151,19 @@ var data =
             "RPG",
             "VR",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -21792,7 +24178,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 114,
         "playersStarted": 0,
-        "playersTotal": 999,
+        "playersTotal": 1000,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -21854,6 +24240,25 @@ var data =
             "Dark",
             "Action Roguelike"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "romanian": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        },
         "information": "Not using any mods at all for the \"Lone Digger\" objective makes the verification easier, but for those who do use mods, the list of the ones you've used must be shown prior or after finishing the run. Anything that modifies the gameplay in a relevant way is banned, whether that is a better visual/sound cue, or straight up modifying the gameplay.\n"
     },
     {
@@ -21869,7 +24274,7 @@ var data =
         "updatedAt": "2025-10-30T21:17:53.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 20,
+        "playersTotal": 21,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -21930,7 +24335,26 @@ var data =
             "Combat",
             "Early Access",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "hungarian": "I",
+            "indonesian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -22002,7 +24426,34 @@ var data =
             "Controller",
             "Short",
             "3D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -22079,6 +24530,10 @@ var data =
             "Surreal",
             "JRPG"
         ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        },
         "information": "Monster Movie and Cooking Show cannot be T-ranked in Ch.4.\nYou only have to T-Rank Raise Up Your Bat in one of the chapters."
     },
     {
@@ -22154,6 +24609,19 @@ var data =
             "Tutorial",
             "Early Access"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "thai": "IS"
+        },
         "information": "The \"One Coin\" achievement is not possible to obtain. See this document for details: https://drive.google.com/file/d/1z_53ApiI6DQPhrPMhYaT_O3e-LiY-4z-/view?usp=sharing"
     },
     {
@@ -22230,7 +24698,10 @@ var data =
             "Adventure",
             "Singleplayer",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -22306,7 +24777,19 @@ var data =
             "Top-Down",
             "Horror",
             "1990's"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -22382,7 +24865,10 @@ var data =
             "Sci-fi",
             "Space",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -22458,7 +24944,26 @@ var data =
             "Beautiful",
             "Competitive",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "estonian": "IS",
+            "greek": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -22535,6 +25040,10 @@ var data =
             "Replay Value",
             "Dwarf"
         ],
+        "languages": {
+            "english": "I",
+            "schinese": "I"
+        },
         "information": "Curated on Steam: https://store.steampowered.com/app/226620/Desktop_Dungeons/?curator_clanid=36185934"
     },
     {
@@ -22611,7 +25120,18 @@ var data =
             "Management",
             "Cyberpunk",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "german": "IA",
+            "japanese": "IA",
+            "spanish": "IA",
+            "belarusian": "IA",
+            "brazilian": "IA",
+            "koreana": "IA",
+            "russian": "IA",
+            "schinese": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -22687,7 +25207,11 @@ var data =
             "Linear",
             "Robots",
             "Spaceships"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "welsh": "I"
+        }
     },
     {
         "gameType": 0,
@@ -22702,7 +25226,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 10,
-        "playersTotal": 89,
+        "playersTotal": 90,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -22759,7 +25283,10 @@ var data =
             "Retro",
             "Singleplayer",
             "Arena Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -22835,7 +25362,14 @@ var data =
             "Shooter",
             "Futuristic",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -22911,7 +25445,17 @@ var data =
             "Dystopian ",
             "Transhumanism",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "polish": "IS",
+            "russian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -22985,7 +25529,16 @@ var data =
             "Old School",
             "Sci-fi",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -23061,7 +25614,19 @@ var data =
             "Top-Down",
             "Remake",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -23076,7 +25641,7 @@ var data =
         "updatedAt": "2025-10-02T04:53:16.000Z",
         "playersCompleted": 16,
         "playersStarted": 113,
-        "playersTotal": 758,
+        "playersTotal": 759,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -23137,7 +25702,10 @@ var data =
             "Lovecraftian",
             "Gore",
             "Dark"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -23201,6 +25769,13 @@ var data =
             "Pixel Graphics",
             "2D"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I"
+        },
         "information": "DLC required for all POs except \"Bootcamp\"."
     },
     {
@@ -23277,7 +25852,17 @@ var data =
             "Controller",
             "Remake",
             "Demons"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -23292,7 +25877,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 12,
-        "playersTotal": 485,
+        "playersTotal": 486,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -23353,7 +25938,21 @@ var data =
             "Controller",
             "Adventure",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -23429,7 +26028,17 @@ var data =
             "Fast-Paced",
             "Beat 'em up",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -23505,7 +26114,10 @@ var data =
             "Souls-like",
             "1990's",
             "Medieval"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -23581,7 +26193,32 @@ var data =
             "Violent",
             "Action",
             "Stealth"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "dutch": "IS",
+            "finnish": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "norwegian": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "romanian": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "slovak": "IS",
+            "thai": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -23657,7 +26294,28 @@ var data =
             "Dungeon Crawler",
             "RPG",
             "Procedural Generation"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "catalan": "I",
+            "dutch": "I",
+            "irish": "I",
+            "koreana": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I",
+            "welsh": "I"
+        }
     },
     {
         "gameType": 0,
@@ -23729,7 +26387,10 @@ var data =
             "Singleplayer",
             "Top-Down",
             "Procedural Generation"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -23805,7 +26466,20 @@ var data =
             "Exploration",
             "Arcade",
             "Stylized"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -23881,7 +26555,14 @@ var data =
             "Multiplayer",
             "Singleplayer",
             "Real-Time"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -23958,6 +26639,16 @@ var data =
             "Co-op",
             "Co-op Campaign"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "czech": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        },
         "information": "For \"Star-Struck Service\", the Shift key is bound to \"back\", and there's no way to easily change the keybinds.\n\nTo bring up the overlay on the correct screen, you need to go into a level, then press Shift + Tab from the chef select screen to bring up the overlay. This will move the menu back to the challenge select screen."
     },
     {
@@ -24031,7 +26722,14 @@ var data =
             "Controller",
             "Linear",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -24101,7 +26799,10 @@ var data =
             "Retro",
             "Singleplayer",
             "Casual"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -24116,7 +26817,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 115,
+        "playersTotal": 116,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -24177,7 +26878,17 @@ var data =
             "TrackIR",
             "Action",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "polish": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -24253,7 +26964,20 @@ var data =
             "2D",
             "Cartoon",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -24268,7 +26992,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 60,
         "playersStarted": 0,
-        "playersTotal": 668,
+        "playersTotal": 669,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -24329,7 +27053,14 @@ var data =
             "Fantasy",
             "Open World",
             "Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "italian": "IA",
+            "spanish": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -24405,7 +27136,10 @@ var data =
             "Horror",
             "VR",
             "4 Player Local"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -24481,7 +27215,11 @@ var data =
             "2D",
             "Indie",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -24558,6 +27296,17 @@ var data =
             "Comedy",
             "Platformer"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "polish": "IS",
+            "russian": "IS"
+        },
         "information": "\"Vergil's Downfall\" DLC is required for the \"Nephilim Rising\" Primary Objective. \n\n\"Bloody Palace Mode\" DLC is required for the \"Just Doing God's Work\" Primary Objective."
     },
     {
@@ -24625,6 +27374,10 @@ var data =
             "2D",
             "Classic"
         ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        },
         "information": "Can have some replay desync issues, more noticeable on second loops. It's recommended to record videos of live runs.\n"
     },
     {
@@ -24698,7 +27451,10 @@ var data =
             "Old School",
             "Singleplayer",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -24713,7 +27469,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 519,
+        "playersTotal": 520,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -24774,7 +27530,19 @@ var data =
             "Zombies",
             "Violent",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -24850,7 +27618,21 @@ var data =
             "Multiplayer",
             "2.5D",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "I",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -24865,7 +27647,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 6,
-        "playersTotal": 731,
+        "playersTotal": 732,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -24926,7 +27708,22 @@ var data =
             "Difficult",
             "Adventure",
             "Horror"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IS",
+            "latam": "IAS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -25002,7 +27799,24 @@ var data =
             "Adventure",
             "Fast-Paced",
             "Boomer Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IS",
+            "brazilian": "IAS",
+            "koreana": "IS",
+            "latam": "IAS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -25017,7 +27831,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 0,
-        "playersTotal": 191,
+        "playersTotal": 192,
         "priceData": {
             "USD": {
                 "initial": 1399,
@@ -25078,7 +27892,31 @@ var data =
             "3D",
             "Hand-drawn",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "dutch": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -25139,7 +27977,10 @@ var data =
             "Mouse only",
             "Great Soundtrack",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -25215,7 +28056,19 @@ var data =
             "Singleplayer",
             "Music",
             "Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -25291,7 +28144,10 @@ var data =
             "Local Multiplayer",
             "Post-apocalyptic",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -25367,7 +28223,18 @@ var data =
             "Short",
             "Family Friendly",
             "Surreal"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IAS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -25443,7 +28310,18 @@ var data =
             "Roguelite",
             "Replay Value",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -25514,7 +28392,19 @@ var data =
             "Cartoony",
             "Colorful",
             "Funny"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -25585,7 +28475,14 @@ var data =
             "Dragons",
             "Fantasy",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -25649,7 +28546,13 @@ var data =
             "Female Protagonist",
             "Turn-Based",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -25718,7 +28621,22 @@ var data =
             "Arcade",
             "Sci-fi",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "thai": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -25794,7 +28712,18 @@ var data =
             "Pixel Graphics",
             "Gun Customization",
             "Stylized"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -25870,7 +28799,11 @@ var data =
             "Minimalist",
             "Stylized",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "turkish": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -25945,7 +28878,11 @@ var data =
             "Singleplayer",
             "Cartoon",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -26010,7 +28947,11 @@ var data =
             "Singleplayer",
             "Shooter",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -26086,7 +29027,19 @@ var data =
             "Cartoony",
             "Minimalist",
             "Sci-fi"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -26148,7 +29101,14 @@ var data =
             "Indie",
             "Driving",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -26218,7 +29178,12 @@ var data =
             "Female Protagonist",
             "Hack and Slash",
             "Open World"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "koreana": "I"
+        }
     },
     {
         "gameType": 0,
@@ -26294,7 +29259,16 @@ var data =
             "Parkour",
             "3D Platformer",
             "Action-Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -26366,6 +29340,18 @@ var data =
             "6DOF",
             "Early Access"
         ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "catalan": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        },
         "information": "This game requires a VR headset to play."
     },
     {
@@ -26381,7 +29367,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 32,
         "playersStarted": 53,
-        "playersTotal": 569,
+        "playersTotal": 570,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -26442,7 +29428,10 @@ var data =
             "Memes",
             "Casual",
             "1980s"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -26511,6 +29500,9 @@ var data =
             "2D",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "IAS"
+        },
         "information": "Video Guide + Medal requirements in description.\n[https://www.youtube.com/watch?v=3Evnc0pMZC4](https://www.youtube.com/watch?v=3Evnc0pMZC4)"
     },
     {
@@ -26587,7 +29579,11 @@ var data =
             "Colorful",
             "Atmospheric",
             "Memes"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -26658,7 +29654,15 @@ var data =
             "Short",
             "2D Platformer",
             "2.5D"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -26725,7 +29729,21 @@ var data =
             "2D",
             "Rhythm",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -26801,7 +29819,10 @@ var data =
             "Adventure",
             "Old School",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -26863,7 +29884,20 @@ var data =
             "Puzzle",
             "Card Game",
             "RPG"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -26939,7 +29973,10 @@ var data =
             "Puzzle",
             "Short",
             "Strategy RPG"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -27015,7 +30052,12 @@ var data =
             "Great Soundtrack",
             "Singleplayer",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -27091,7 +30133,19 @@ var data =
             "Adventure",
             "Metroidvania",
             "Local Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "portuguese": "S",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -27152,7 +30206,10 @@ var data =
             "Fast-Paced",
             "Difficult",
             "Addictive"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -27167,7 +30224,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 103,
-        "playersTotal": 582,
+        "playersTotal": 583,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -27228,7 +30285,10 @@ var data =
             "Atmospheric",
             "4 Player Local",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -27298,7 +30358,10 @@ var data =
             "Side Scroller",
             "Retro",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -27373,7 +30436,10 @@ var data =
             "Psychological Horror",
             "Survival",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -27449,7 +30515,16 @@ var data =
             "Cartoony",
             "Pixel Graphics",
             "1990's"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "russian": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -27517,7 +30592,10 @@ var data =
             "Retro",
             "Procedural Generation",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -27587,7 +30665,10 @@ var data =
             "Sci-fi",
             "Singleplayer",
             "Time Manipulation"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -27663,7 +30744,20 @@ var data =
             "Soundtrack",
             "Metroidvania",
             "Hand-drawn"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -27734,7 +30828,20 @@ var data =
             "Time Attack",
             "Minimalist",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "czech": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -27804,7 +30911,10 @@ var data =
             "Singleplayer",
             "Transportation",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -27875,7 +30985,10 @@ var data =
             "Family Friendly",
             "Controller",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -27951,7 +31064,10 @@ var data =
             "Stylized",
             "Top-Down",
             "Asynchronous Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -28027,7 +31143,21 @@ var data =
             "Linear",
             "2D",
             "Realistic"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -28104,6 +31234,18 @@ var data =
             "Great Soundtrack",
             "Casual"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        },
         "information": "(No Steam overlay and proof is generic)"
     },
     {
@@ -28172,6 +31314,9 @@ var data =
             "Family Friendly",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "Elasto Mania II has a lower value due to assumed skill transfer from playing Elasto Mania Remastered first. \n\nDo not interpret the value of this game being correct in isolation, and it is not recommended to complete this game before Elasto Mania Remastered."
     },
     {
@@ -28234,7 +31379,10 @@ var data =
             "Sports",
             "Racing",
             "Classic"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -28249,7 +31397,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 59,
         "playersStarted": 394,
-        "playersTotal": 1003,
+        "playersTotal": 1004,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -28310,7 +31458,24 @@ var data =
             "3D",
             "Character Customization",
             "Family Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "I",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "thai": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -28386,7 +31551,24 @@ var data =
             "Lore-Rich",
             "Dating Sim",
             "Story Rich"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "thai": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -28462,7 +31644,23 @@ var data =
             "Combat",
             "Atmospheric",
             "Comic Book"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -28538,7 +31736,20 @@ var data =
             "Combat",
             "RPG",
             "Violent"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -28614,7 +31825,21 @@ var data =
             "Pixel Graphics",
             "Perma Death",
             "Voxel"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "danish": "I",
+            "finnish": "I",
+            "hungarian": "I",
+            "polish": "I",
+            "russian": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -28689,7 +31914,10 @@ var data =
             "Adventure",
             "Addictive",
             "Funny"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -28755,7 +31983,17 @@ var data =
             "Casual",
             "Singleplayer",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -28820,7 +32058,36 @@ var data =
             "Casual",
             "Arcade",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IAS",
+            "brazilian": "IAS",
+            "bulgarian": "IAS",
+            "czech": "IAS",
+            "danish": "IAS",
+            "dutch": "IAS",
+            "finnish": "IAS",
+            "greek": "IAS",
+            "hungarian": "IAS",
+            "koreana": "IAS",
+            "norwegian": "IAS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "romanian": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "swedish": "IAS",
+            "tchinese": "IAS",
+            "thai": "IAS",
+            "turkish": "IAS",
+            "ukrainian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -28896,7 +32163,21 @@ var data =
             "Top-Down",
             "Combat",
             "Choices Matter"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -28972,7 +32253,17 @@ var data =
             "Physics",
             "Souls-like",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -29048,7 +32339,20 @@ var data =
             "Anime",
             "Dragons",
             "Zombies"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -29124,7 +32428,20 @@ var data =
             "Platformer",
             "Difficult",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -29139,7 +32456,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 249,
         "playersStarted": 0,
-        "playersTotal": 1229,
+        "playersTotal": 1230,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -29201,6 +32518,19 @@ var data =
             "Cute",
             "Funny"
         ],
+        "languages": {
+            "english": "I",
+            "french": "IS",
+            "german": "IS",
+            "italian": "I",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        },
         "information": "Kanra - \"Try rainbow runs\""
     },
     {
@@ -29216,7 +32546,7 @@ var data =
         "updatedAt": "2025-10-18T06:08:30.000Z",
         "playersCompleted": 1,
         "playersStarted": 5,
-        "playersTotal": 35,
+        "playersTotal": 36,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -29274,7 +32604,10 @@ var data =
             "Platformer",
             "2D",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -29339,7 +32672,11 @@ var data =
             "Indie",
             "Psychedelic",
             "Abstract"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -29415,7 +32752,11 @@ var data =
             "Psychedelic",
             "Stylized",
             "Parkour"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -29491,7 +32832,10 @@ var data =
             "Dark Humor",
             "Funny",
             "Horror"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -29567,7 +32911,10 @@ var data =
             "Retro",
             "Combat",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -29634,7 +32981,10 @@ var data =
             "Puzzle Platformer",
             "Controller",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -29696,7 +33046,11 @@ var data =
             "Bullet Hell",
             "Arcade",
             "Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -29772,7 +33126,20 @@ var data =
             "Singleplayer",
             "3D",
             "Isometric"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -29848,7 +33215,18 @@ var data =
             "Linear",
             "Wholesome",
             "Cozy"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -29924,7 +33302,22 @@ var data =
             "Adventure",
             "Level Editor",
             "Epic"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "basque": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -30000,7 +33393,17 @@ var data =
             "Dark",
             "Horror",
             "Comedy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "brazilian": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -30076,7 +33479,21 @@ var data =
             "Great Soundtrack",
             "Simulation",
             "First-Person"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IAS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -30152,7 +33569,21 @@ var data =
             "Supernatural",
             "Indie",
             "Immersive"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -30225,7 +33656,12 @@ var data =
             "Co-op",
             "Local Multiplayer",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IS",
+            "latam": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -30301,7 +33737,20 @@ var data =
             "Roguelike",
             "Metroidvania",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -30377,7 +33826,18 @@ var data =
             "Philosophical",
             "Mystery",
             "Linear"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -30453,7 +33913,19 @@ var data =
             "Family Friendly",
             "Singleplayer",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -30517,7 +33989,10 @@ var data =
             "Singleplayer",
             "Competitive",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -30593,7 +34068,18 @@ var data =
             "Co-op",
             "Colorful",
             "Old School"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -30669,7 +34155,15 @@ var data =
             "Singleplayer",
             "Modern",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -30746,6 +34240,10 @@ var data =
             "Roguelike",
             "JRPG"
         ],
+        "languages": {
+            "english": "IAS",
+            "russian": "IAS"
+        },
         "information": "## This game has adult content. \ud83d\udd1e\n---\n### A censorship mod is required to post proof submissions.\nFolkius recommends [Inmersive Censorship](https://www.nexusmods.com/fearandhunger/mods/13)"
     },
     {
@@ -30810,7 +34308,10 @@ var data =
             "Difficult",
             "Fast-Paced",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -30886,7 +34387,10 @@ var data =
             "Cartoony",
             "Minimalist",
             "Narration"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -30962,7 +34466,18 @@ var data =
             "Grid-Based Movement",
             "Singleplayer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -31038,7 +34553,13 @@ var data =
             "Singleplayer",
             "Choices Matter",
             "Post-apocalyptic"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "S",
+            "spanish": "I",
+            "latam": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -31114,7 +34635,16 @@ var data =
             "Singleplayer",
             "Beat 'em up",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -31129,7 +34659,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 112,
+        "playersTotal": 113,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -31190,7 +34720,20 @@ var data =
             "Realistic",
             "Drama",
             "Sci-fi"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -31256,7 +34799,10 @@ var data =
             "Comedy",
             "Crime",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -31332,7 +34878,10 @@ var data =
             "Atmospheric",
             "Singleplayer",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -31402,7 +34951,10 @@ var data =
             "Score Attack",
             "Indie",
             "Underwater"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -31460,7 +35012,10 @@ var data =
         "gameTags": [
             "Action",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -31536,7 +35091,10 @@ var data =
             "Resource Management",
             "Historical",
             "Perma Death"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -31612,7 +35170,10 @@ var data =
             "Simulation",
             "Animation & Modeling",
             "Illuminati"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -31688,7 +35249,10 @@ var data =
             "Funny",
             "Adventure",
             "Gore"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -31764,7 +35328,35 @@ var data =
             "Action",
             "Singleplayer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -31840,7 +35432,10 @@ var data =
             "Retro",
             "Puzzle",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -31916,7 +35511,18 @@ var data =
             "Linear",
             "Procedural Generation",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -31985,7 +35591,112 @@ var data =
             "2D",
             "Singleplayer",
             "Flight"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "afrikaans": "I",
+            "albanian": "I",
+            "amharic": "I",
+            "arabic": "I",
+            "armenian": "I",
+            "assamese": "I",
+            "azerbaijani": "I",
+            "bangla": "I",
+            "basque": "I",
+            "belarusian": "I",
+            "bosnian": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "catalan": "I",
+            "cherokee": "I",
+            "croatian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dari": "I",
+            "dutch": "I",
+            "estonian": "I",
+            "filipino": "I",
+            "finnish": "I",
+            "galician": "I",
+            "georgian": "I",
+            "greek": "I",
+            "gujarati": "I",
+            "gurmukhi": "I",
+            "hausa": "I",
+            "hebrew": "I",
+            "hindi": "I",
+            "hungarian": "I",
+            "icelandic": "I",
+            "igbo": "I",
+            "indonesian": "I",
+            "irish": "I",
+            "kannada": "I",
+            "kazakh": "I",
+            "khmer": "I",
+            "kiche": "I",
+            "kinyarwanda": "I",
+            "konkani": "I",
+            "koreana": "I",
+            "kyrgyz": "I",
+            "latam": "I",
+            "latvian": "I",
+            "lithuanian": "I",
+            "luxembourgish": "I",
+            "macedonian": "I",
+            "malay": "I",
+            "malayalam": "I",
+            "maltese": "I",
+            "maori": "I",
+            "marathi": "I",
+            "mongolian": "I",
+            "nepali": "I",
+            "norwegian": "I",
+            "odia": "I",
+            "persian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "quechua": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "scots": "I",
+            "serbian": "I",
+            "shahmukhi": "I",
+            "sindhi": "I",
+            "sinhala": "I",
+            "slovak": "I",
+            "slovenian": "I",
+            "sorani": "I",
+            "sotho": "I",
+            "swahili": "I",
+            "swedish": "I",
+            "tajik": "I",
+            "tamil": "I",
+            "tatar": "I",
+            "tchinese": "I",
+            "telugu": "I",
+            "thai": "I",
+            "tigrinya": "I",
+            "tswana": "I",
+            "turkish": "I",
+            "turkmen": "I",
+            "ukrainian": "I",
+            "urdu": "I",
+            "uyghur": "I",
+            "uzbek": "I",
+            "valencian": "I",
+            "vietnamese": "I",
+            "welsh": "I",
+            "wolof": "I",
+            "xhosa": "I",
+            "yoruba": "I",
+            "zulu": "I"
+        }
     },
     {
         "gameType": 0,
@@ -32054,7 +35765,14 @@ var data =
             "Puzzle Platformer",
             "Colorful",
             "Beautiful"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -32117,7 +35835,14 @@ var data =
             "Indie",
             "Shoot 'Em Up",
             "Robots"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -32184,7 +35909,10 @@ var data =
             "Level Editor",
             "Retro",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -32260,7 +35988,19 @@ var data =
             "Action RPG",
             "Kickstarter",
             "Action-Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "danish": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "swedish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -32320,7 +36060,14 @@ var data =
             "Dragons",
             "Strategy",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -32396,7 +36143,19 @@ var data =
             "Singleplayer",
             "Precision Platformer",
             "Psychedelic"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -32472,7 +36231,11 @@ var data =
             "Gun Customization",
             "PvE",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "brazilian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -32548,7 +36311,15 @@ var data =
             "Story Rich",
             "Aliens",
             "Funny"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -32622,6 +36393,10 @@ var data =
             "Family Friendly",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "I",
+            "tchinese": "I"
+        },
         "information": "The achievements require a depot to a previous version. "
     },
     {
@@ -32698,7 +36473,10 @@ var data =
             "Nature",
             "Combat",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -32772,7 +36550,11 @@ var data =
             "Great Soundtrack",
             "Atmospheric",
             "Casual"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I"
+        }
     },
     {
         "gameType": 0,
@@ -32787,7 +36569,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 8,
-        "playersTotal": 336,
+        "playersTotal": 337,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -32849,6 +36631,20 @@ var data =
             "Great Soundtrack",
             "Real-Time with Pause"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS"
+        },
         "information": "The Last Autumn, On The Edge, and The Rifts DLCs are required. All are included in the season pass."
     },
     {
@@ -32925,7 +36721,20 @@ var data =
             "Female Protagonist",
             "Comic Book",
             "Puzzle Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -32940,7 +36749,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 43,
-        "playersTotal": 733,
+        "playersTotal": 734,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -33002,6 +36811,18 @@ var data =
             "Choose Your Own Adventure",
             "Adventure"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
+        },
         "information": "Curated on Steam: https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/?curator_clanid=36185934"
     },
     {
@@ -33075,7 +36896,10 @@ var data =
             "Singleplayer",
             "Indie",
             "3D"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -33090,7 +36914,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 76,
-        "playersTotal": 575,
+        "playersTotal": 576,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -33151,7 +36975,20 @@ var data =
             "Replay Value",
             "Indie",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -33227,7 +37064,10 @@ var data =
             "Indie",
             "Controller",
             "Free to Play"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -33242,7 +37082,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 360,
+        "playersTotal": 361,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -33303,7 +37143,19 @@ var data =
             "Co-op",
             "Side Scroller",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -33379,7 +37231,10 @@ var data =
             "Controller",
             "Colorful",
             "Motorbike"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -33455,7 +37310,10 @@ var data =
             "1980s",
             "1990's",
             "Aliens"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -33524,7 +37382,10 @@ var data =
             "Difficult",
             "Platformer",
             "Minigames"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -33585,6 +37446,10 @@ var data =
             "Anime",
             "Retro"
         ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS"
+        },
         "information": "Play on \"usertest\" branch to avoid freezes."
     },
     {
@@ -33659,7 +37524,19 @@ var data =
             "Indie",
             "Retro",
             "Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -33736,6 +37613,9 @@ var data =
             "Capitalism",
             "Co-op"
         ],
+        "languages": {
+            "english": "IAS"
+        },
         "information": "Strategy guide: [https://youtu.be/x1P8zNgEgsc](https://youtu.be/x1P8zNgEgsc)"
     },
     {
@@ -33812,7 +37692,16 @@ var data =
             "Third Person",
             "Split Screen",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -33887,7 +37776,10 @@ var data =
             "Addictive",
             "Casual",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -33942,7 +37834,10 @@ var data =
             "Casual",
             "Singleplayer",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -34015,7 +37910,10 @@ var data =
             "Philosophical",
             "Level Editor",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -34091,7 +37989,10 @@ var data =
             "Casual",
             "Psychological Horror",
             "Strategy"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -34161,7 +38062,14 @@ var data =
             "Score Attack",
             "Multiplayer",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -34231,7 +38139,12 @@ var data =
             "Linear",
             "2D",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "german": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -34307,7 +38220,39 @@ var data =
             "Singleplayer",
             "Cartoon",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "hungarian": "I",
+            "indonesian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I",
+            "vietnamese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -34383,7 +38328,16 @@ var data =
             "Building",
             "Dark Comedy",
             "Dark Humor"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -34459,7 +38413,12 @@ var data =
             "Controller",
             "2D",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IAS",
+            "koreana": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -34535,7 +38494,20 @@ var data =
             "Mythology",
             "Indie",
             "Swordplay"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -34550,7 +38522,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 623,
         "playersStarted": 0,
-        "playersTotal": 1359,
+        "playersTotal": 1360,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -34612,6 +38584,13 @@ var data =
             "Great Soundtrack",
             "Third Person"
         ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        },
         "information": "**Do not use the 50 wins CO as a reference or justification for arguments.**"
     },
     {
@@ -34688,7 +38667,17 @@ var data =
             "Female Protagonist",
             "Difficult",
             "Post-apocalyptic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -34764,7 +38753,32 @@ var data =
             "Fantasy",
             "Controller",
             "Hidden Object"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -34841,6 +38855,22 @@ var data =
             "Strategy",
             "Shooter"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS"
+        },
         "information": "\"Project_Hel\" DLC is required for the \"Ghost in the Shell\" Primary Objective. "
     },
     {
@@ -34917,7 +38947,22 @@ var data =
             "Motorbike",
             "Fighting",
             "Strategy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IAS",
+            "tchinese": "IAS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -34993,7 +39038,17 @@ var data =
             "Multiple Endings",
             "Singleplayer",
             "Local Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -35067,7 +39122,10 @@ var data =
             "Singleplayer",
             "Tutorial",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -35143,7 +39201,16 @@ var data =
             "Indie",
             "Kickstarter",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -35211,7 +39278,16 @@ var data =
             "2.5D",
             "2D",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -35281,7 +39357,11 @@ var data =
             "2D",
             "Controller",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -35349,6 +39429,9 @@ var data =
             "Local Co-Op",
             "Puzzle Platformer"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "Achievements are broken on the live branch, switch to version 1.7.0 through Properties -> Betas."
     },
     {
@@ -35424,7 +39507,17 @@ var data =
             "Singleplayer",
             "Robots",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "german": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "koreana": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -35483,7 +39576,10 @@ var data =
             "Casual",
             "Indie",
             "Puzzle"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -35559,7 +39655,12 @@ var data =
             "Action",
             "Adventure",
             "Parkour"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "german": "I",
+            "danish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -35635,7 +39736,12 @@ var data =
             "Dark",
             "Exploration",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "norwegian": "IAS",
+            "russian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -35711,7 +39817,27 @@ var data =
             "Emotional",
             "3D",
             "PvE"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "czech": "IS",
+            "dutch": "IS",
+            "greek": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "latam": "IAS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -35787,7 +39913,14 @@ var data =
             "Great Soundtrack",
             "Gore",
             "Horror"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -35863,7 +39996,19 @@ var data =
             "Controller",
             "Boss Rush",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -35878,7 +40023,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 44,
-        "playersTotal": 489,
+        "playersTotal": 490,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -35939,7 +40084,17 @@ var data =
             "Dystopian ",
             "Action",
             "Cyberpunk"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -36015,7 +40170,21 @@ var data =
             "Sci-fi",
             "Golf",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -36091,7 +40260,23 @@ var data =
             "Party",
             "Golf",
             "Online Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -36167,7 +40352,20 @@ var data =
             "Family Friendly",
             "Game Development",
             "Old School"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "finnish": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -36239,7 +40437,24 @@ var data =
             "Atmospheric",
             "Side Scroller",
             "Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -36315,7 +40530,10 @@ var data =
             "Gore",
             "Pixel Graphics",
             "Free to Play"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -36391,7 +40609,10 @@ var data =
             "Casual",
             "Rhythm",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -36465,7 +40686,15 @@ var data =
             "Futuristic",
             "Top-Down Shooter",
             "Arena Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -36480,7 +40709,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 46,
         "playersStarted": 5,
-        "playersTotal": 427,
+        "playersTotal": 428,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -36541,7 +40770,14 @@ var data =
             "Gore",
             "Satire",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -36618,6 +40854,9 @@ var data =
             "Funny",
             "Atmospheric"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "Escape Routes:\n\u2022 Sewer\n\u2022 Car\n\u2022 Front Door"
     },
     {
@@ -36692,6 +40931,9 @@ var data =
             "Multiplayer",
             "Tactical"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "Escape Routes:\n\u2022 Gate\n\u2022 Train"
     },
     {
@@ -36768,6 +41010,9 @@ var data =
             "Co-op",
             "Comedy"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "Escape Routes:\n\u2022 Front Door\n\u2022 Helicopter\n\u2022 Boat"
     },
     {
@@ -36828,7 +41073,10 @@ var data =
             "3D Platformer",
             "Puzzle Platformer",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -36903,7 +41151,20 @@ var data =
             "Singleplayer",
             "Side Scroller",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -36965,7 +41226,10 @@ var data =
             "Female Protagonist",
             "2D",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -37036,7 +41300,38 @@ var data =
             "Retro",
             "Singleplayer",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "A",
+            "german": "A",
+            "italian": "A",
+            "japanese": "A",
+            "spanish": "A",
+            "arabic": "A",
+            "brazilian": "A",
+            "bulgarian": "A",
+            "czech": "A",
+            "danish": "A",
+            "dutch": "A",
+            "finnish": "A",
+            "greek": "A",
+            "hungarian": "A",
+            "koreana": "A",
+            "latam": "A",
+            "norwegian": "A",
+            "polish": "A",
+            "portuguese": "A",
+            "romanian": "A",
+            "russian": "A",
+            "schinese": "A",
+            "swedish": "A",
+            "tchinese": "A",
+            "thai": "A",
+            "turkish": "A",
+            "ukrainian": "A",
+            "vietnamese": "A"
+        }
     },
     {
         "gameType": 0,
@@ -37112,7 +41407,10 @@ var data =
             "Arcade",
             "Indie",
             "Puzzle Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -37173,7 +41471,10 @@ var data =
             "Adventure",
             "Platformer",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -37246,7 +41547,10 @@ var data =
             "Physics",
             "Linear",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -37322,7 +41626,18 @@ var data =
             "Casual",
             "Relaxing",
             "Unforgiving"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -37398,7 +41713,22 @@ var data =
             "Hand-drawn",
             "Comedy",
             "Card Battler"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -37474,6 +41804,9 @@ var data =
             "Story Rich",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "IS"
+        },
         "information": "Reaching the alternate ending requires unlocking and beating the secret level, which requires finding all collectibles and then using the soul attack ability on the Goddess of Ichor.\n\nIn regards to CO proof, the bunny jump ability automatically recharges on Punished difficulty exclusively."
     },
     {
@@ -37550,7 +41883,10 @@ var data =
             "Retro",
             "Singleplayer",
             "Short"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -37624,7 +41960,10 @@ var data =
             "Combat",
             "PvE",
             "Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -37700,7 +42039,20 @@ var data =
             "Indie",
             "Controller",
             "Cinematic"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "hebrew": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -37776,7 +42128,23 @@ var data =
             "Relaxing",
             "Character Customization",
             "Choices Matter"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -37852,7 +42220,20 @@ var data =
             "Shooter",
             "Combat",
             "Early Access"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -37916,7 +42297,11 @@ var data =
             "Anime",
             "Singleplayer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -37992,7 +42377,21 @@ var data =
             "Character Customization",
             "Violent",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -38068,7 +42467,18 @@ var data =
             "Wrestling",
             "Exploration",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -38144,7 +42554,15 @@ var data =
             "Action RPG",
             "2D Platformer",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "brazilian": "I",
+            "latam": "I"
+        }
     },
     {
         "gameType": 0,
@@ -38219,7 +42637,18 @@ var data =
             "Tutorial",
             "Multiple Endings",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -38291,7 +42720,17 @@ var data =
             "Difficult",
             "Classic",
             "PvP"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "IAS",
+            "spanish": "I",
+            "koreana": "IS",
+            "portuguese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -38367,7 +42806,38 @@ var data =
             "Aliens",
             "Sci-fi",
             "Robots"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I",
+            "vietnamese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -38443,7 +42913,15 @@ var data =
             "Atmospheric",
             "Aliens",
             "Old School"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "swedish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -38458,7 +42936,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 5,
-        "playersTotal": 223,
+        "playersTotal": 224,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -38520,6 +42998,26 @@ var data =
             "Loot",
             "Early Access"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "indonesian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "thai": "IS",
+            "turkish": "IS",
+            "vietnamese": "IS"
+        },
         "information": "\"Conquerors of the Spirit Realm\" requires \"Realm of Frost and Inkwash\" and \"Artisan and Magician\" DLCs in order to be completed."
     },
     {
@@ -38596,7 +43094,10 @@ var data =
             "Space",
             "Combat",
             "Character Customization"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -38666,7 +43167,14 @@ var data =
             "Top-Down",
             "Cute",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -38733,7 +43241,10 @@ var data =
             "Singleplayer",
             "Controller",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -38809,7 +43320,10 @@ var data =
             "Funny",
             "Singleplayer",
             "Fantasy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -38885,7 +43399,10 @@ var data =
             "Side Scroller",
             "Futuristic",
             "Physics"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -38948,7 +43465,10 @@ var data =
             "Puzzle Platformer",
             "Puzzle",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -38963,7 +43483,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 93,
         "playersStarted": 202,
-        "playersTotal": 1141,
+        "playersTotal": 1142,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -39024,7 +43544,20 @@ var data =
             "Atmospheric",
             "Perma Death",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -39100,7 +43633,24 @@ var data =
             "Difficult",
             "Early Access",
             "Perma Death"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "greek": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -39176,7 +43726,15 @@ var data =
             "Story Rich",
             "Action-Adventure",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "german": "IAS",
+            "japanese": "IAS",
+            "brazilian": "IAS",
+            "latam": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -39191,7 +43749,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 21,
         "playersStarted": 28,
-        "playersTotal": 652,
+        "playersTotal": 653,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -39252,7 +43810,21 @@ var data =
             "Adventure",
             "Horror",
             "Online Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "I",
+            "spanish": "IAS",
+            "latam": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -39328,7 +43900,21 @@ var data =
             "Atmospheric",
             "Difficult",
             "Tabletop"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IAS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -39404,7 +43990,22 @@ var data =
             "Comedy",
             "Story Rich",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "greek": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -39480,7 +44081,16 @@ var data =
             "Online Co-Op",
             "Fighting",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "german": "IA",
+            "japanese": "IA",
+            "koreana": "IA",
+            "russian": "IA",
+            "schinese": "IA",
+            "ukrainian": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -39541,7 +44151,11 @@ var data =
             "Casual",
             "Anime",
             "Puzzle"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -39614,7 +44228,15 @@ var data =
             "Atmospheric",
             "Gore",
             "Boomer Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "german": "IA",
+            "japanese": "I",
+            "czech": "I",
+            "polish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -39683,7 +44305,10 @@ var data =
             "Platformer",
             "2D",
             "Old School"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -39698,7 +44323,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 185,
+        "playersTotal": 186,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -39754,7 +44379,18 @@ var data =
             "Survival",
             "Difficult",
             "Dark Fantasy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "polish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -39831,6 +44467,17 @@ var data =
             "Hardware",
             "Difficult"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "IAS",
+            "spanish": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        },
         "information": "The DLC \"Extra Song Pack\" is required for the POs. Total number of songs should be 251."
     },
     {
@@ -39907,7 +44554,20 @@ var data =
             "Combat",
             "Platformer",
             "Early Access"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -39982,7 +44642,21 @@ var data =
             "Indie",
             "Great Soundtrack",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -40059,6 +44733,10 @@ var data =
             "Singleplayer",
             "Multiplayer"
         ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IS"
+        },
         "information": "On the weapon select screen, press Up 11 times, then Right and confirm. You will unlock the full english weapon. Beat the game with a 1cc to unlock the achievement.\n\nTo change the difficulty to Moderate, from within the game, press \"Reset to Title\" then press Escape and choose difficulty from Game Options."
     },
     {
@@ -40133,7 +44811,10 @@ var data =
             "Classic",
             "Side Scroller",
             "Precision Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -40209,7 +44890,22 @@ var data =
             "Local Multiplayer",
             "Comedy",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -40285,7 +44981,11 @@ var data =
             "Procedural Generation",
             "Adventure",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -40360,7 +45060,21 @@ var data =
             "Pixel Graphics",
             "Controller",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -40436,7 +45150,17 @@ var data =
             "Stylized",
             "2D Platformer",
             "Shoot 'Em Up"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I"
+        }
     },
     {
         "gameType": 0,
@@ -40451,7 +45175,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
-        "playersTotal": 26,
+        "playersTotal": 27,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -40512,7 +45236,23 @@ var data =
             "Demons",
             "Parody ",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "catalan": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -40588,7 +45328,19 @@ var data =
             "Psychological Horror",
             "Co-op Campaign",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -40664,7 +45416,13 @@ var data =
             "Replay Value",
             "Score Attack",
             "Philosophical"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -40740,7 +45498,112 @@ var data =
             "Blood",
             "Violent",
             "Gore"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "afrikaans": "I",
+            "albanian": "I",
+            "amharic": "I",
+            "arabic": "I",
+            "armenian": "I",
+            "assamese": "I",
+            "azerbaijani": "I",
+            "bangla": "I",
+            "basque": "I",
+            "belarusian": "I",
+            "bosnian": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "catalan": "I",
+            "cherokee": "I",
+            "croatian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dari": "I",
+            "dutch": "I",
+            "estonian": "I",
+            "filipino": "I",
+            "finnish": "I",
+            "galician": "I",
+            "georgian": "I",
+            "greek": "I",
+            "gujarati": "I",
+            "gurmukhi": "I",
+            "hausa": "I",
+            "hebrew": "I",
+            "hindi": "I",
+            "hungarian": "I",
+            "icelandic": "I",
+            "igbo": "I",
+            "indonesian": "I",
+            "irish": "I",
+            "kannada": "I",
+            "kazakh": "I",
+            "khmer": "I",
+            "kiche": "I",
+            "kinyarwanda": "I",
+            "konkani": "I",
+            "koreana": "I",
+            "kyrgyz": "I",
+            "latam": "I",
+            "latvian": "I",
+            "lithuanian": "I",
+            "luxembourgish": "I",
+            "macedonian": "I",
+            "malay": "I",
+            "malayalam": "I",
+            "maltese": "I",
+            "maori": "I",
+            "marathi": "I",
+            "mongolian": "I",
+            "nepali": "I",
+            "norwegian": "I",
+            "odia": "I",
+            "persian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "quechua": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "scots": "I",
+            "serbian": "I",
+            "shahmukhi": "I",
+            "sindhi": "I",
+            "sinhala": "I",
+            "slovak": "I",
+            "slovenian": "I",
+            "sorani": "I",
+            "sotho": "I",
+            "swahili": "I",
+            "swedish": "I",
+            "tajik": "I",
+            "tamil": "I",
+            "tatar": "I",
+            "tchinese": "I",
+            "telugu": "I",
+            "thai": "I",
+            "tigrinya": "I",
+            "tswana": "I",
+            "turkish": "I",
+            "turkmen": "I",
+            "ukrainian": "I",
+            "urdu": "I",
+            "uyghur": "I",
+            "uzbek": "I",
+            "valencian": "I",
+            "vietnamese": "I",
+            "welsh": "I",
+            "wolof": "I",
+            "xhosa": "I",
+            "yoruba": "I",
+            "zulu": "I"
+        }
     },
     {
         "gameType": 0,
@@ -40805,7 +45668,14 @@ var data =
             "Shooter",
             "Sniper",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -40881,7 +45751,11 @@ var data =
             "Futuristic",
             "Sci-fi",
             "Old School"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -40952,7 +45826,24 @@ var data =
             "Funny",
             "Destruction",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "latam": "IAS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IS",
+            "turkish": "IAS",
+            "vietnamese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -41028,7 +45919,23 @@ var data =
             "Third Person",
             "Robots",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IS",
+            "brazilian": "IAS",
+            "koreana": "IS",
+            "latam": "IAS",
+            "polish": "IAS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -41097,7 +46004,10 @@ var data =
             "Anime",
             "Arcade",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -41167,7 +46077,20 @@ var data =
             "Stylized",
             "Great Soundtrack",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -41243,7 +46166,15 @@ var data =
             "Side Scroller",
             "Indie",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -41319,7 +46250,29 @@ var data =
             "Colorful",
             "Action RPG",
             "Fantasy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IAS",
+            "brazilian": "IAS",
+            "danish": "IAS",
+            "dutch": "IAS",
+            "finnish": "IAS",
+            "koreana": "IAS",
+            "norwegian": "IAS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "swedish": "IAS",
+            "tchinese": "IAS",
+            "turkish": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -41395,7 +46348,20 @@ var data =
             "Retro",
             "1980s",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "indonesian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "vietnamese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -41471,7 +46437,10 @@ var data =
             "Controller",
             "Action-Adventure",
             "Linear"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -41486,7 +46455,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 19,
         "playersStarted": 711,
-        "playersTotal": 1860,
+        "playersTotal": 1861,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -41548,6 +46517,18 @@ var data =
             "Controller",
             "Side Scroller"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
+        },
         "information": "It is highly recommended for the \"Champion of Hallownest\" objective to be done on a save file where the Pantheon was not cleared with all bindings in order to show the reward for completing the challenge."
     },
     {
@@ -41625,6 +46606,18 @@ var data =
             "Multiple Endings",
             "Cute"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
+        },
         "information": "Twisted Child is missable, but it's possible to rollback your save via an ingame option."
     },
     {
@@ -41681,7 +46674,14 @@ var data =
             "Action",
             "Platformer",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "spanish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -41757,7 +46757,19 @@ var data =
             "4 Player Local",
             "Local Multiplayer",
             "PvP"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -41822,7 +46834,11 @@ var data =
             "Pixel Graphics",
             "Difficult",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "czech": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -41898,7 +46914,23 @@ var data =
             "Fast-Paced",
             "Indie",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -41913,7 +46945,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 291,
         "playersStarted": 0,
-        "playersTotal": 1035,
+        "playersTotal": 1036,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -41974,7 +47006,16 @@ var data =
             "Addictive",
             "Atmospheric",
             "Music"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "polish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -41989,7 +47030,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 124,
-        "playersTotal": 821,
+        "playersTotal": 822,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -42045,7 +47086,16 @@ var data =
             "Level Editor",
             "Arcade",
             "1990's"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "polish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -42121,7 +47171,19 @@ var data =
             "PvP",
             "Vehicular Combat",
             "Score Attack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -42197,7 +47259,23 @@ var data =
             "Stylized",
             "Walking Simulator",
             "Beautiful"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "thai": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -42273,7 +47351,16 @@ var data =
             "Dystopian ",
             "Online Co-Op",
             "Futuristic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -42350,6 +47437,9 @@ var data =
             "Roguelike Deckbuilder",
             "Tactical"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "Regarding the gold medal achievements: when reaching the Ancient Dragon, you will always have no more than two potions of life."
     },
     {
@@ -42412,6 +47502,9 @@ var data =
             "Shoot 'Em Up",
             "Arcade"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "100%ing levels sometimes doesn't trigger, in that case either try again or try playing at different speeds."
     },
     {
@@ -42427,7 +47520,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 61,
-        "playersTotal": 321,
+        "playersTotal": 322,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -42488,7 +47581,10 @@ var data =
             "Shoot 'Em Up",
             "Demons",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -42564,7 +47660,15 @@ var data =
             "Souls-like",
             "Fantasy",
             "Sci-fi"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -42640,7 +47744,10 @@ var data =
             "Fast-Paced",
             "Casual",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -42717,6 +47824,15 @@ var data =
             "Fantasy",
             "Indie"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "czech": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I"
+        },
         "information": "Curated on Steam: https://store.steampowered.com/app/342610/HyperRogue/?curator_clanid=36185934\n\nThe progenitor of the Strategy category.\n\nBear in mind that the objective order only serves as a general guide, as there is no prescribed order for doing in-game achievements. It's encouraged to start with completing \"Tessellated Trifecta\", then familiarizing yourself with the various lands present within \"Curvature Conquistador\" before actively pursuing other objectives."
     },
     {
@@ -42732,7 +47848,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 7,
-        "playersTotal": 84,
+        "playersTotal": 85,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -42793,7 +47909,18 @@ var data =
             "Cartoony",
             "Space",
             "Score Attack"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "japanese": "IA",
+            "spanish": "IA",
+            "brazilian": "IA",
+            "koreana": "IA",
+            "russian": "IA",
+            "schinese": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -42852,7 +47979,11 @@ var data =
             "Indie",
             "Action",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "german": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -42913,7 +48044,13 @@ var data =
             "Platformer",
             "Exploration",
             "Puzzle Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "german": "I",
+            "greek": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -42989,7 +48126,18 @@ var data =
             "Early Access",
             "Beautiful",
             "Third-Person Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "polish": "IAS",
+            "russian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -43065,7 +48213,20 @@ var data =
             "Story Rich",
             "Controller",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -43080,7 +48241,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 30,
+        "playersTotal": 31,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -43141,7 +48302,10 @@ var data =
             "Retro",
             "Open World",
             "LGBTQ+"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -43217,7 +48381,13 @@ var data =
             "Parody ",
             "Robots",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "japanese": "IS",
+            "portuguese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -43290,7 +48460,19 @@ var data =
             "Bullet Hell",
             "Shooter",
             "Top-Down Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -43356,7 +48538,10 @@ var data =
             "2D",
             "Difficult",
             "Roguelite"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -43432,7 +48617,25 @@ var data =
             "Controller",
             "Funny",
             "Psychological Horror"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -43508,7 +48711,10 @@ var data =
             "Roguelike",
             "Difficult",
             "Gun Customization"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -43583,7 +48789,17 @@ var data =
             "Cute",
             "Sci-fi",
             "Exploration"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -43659,7 +48875,10 @@ var data =
             "Fast-Paced",
             "Replay Value",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -43735,7 +48954,12 @@ var data =
             "Exploration",
             "Funny",
             "Visual Novel"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "italian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -43811,7 +49035,11 @@ var data =
             "Local Multiplayer",
             "Controller",
             "Puzzle"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -43887,7 +49115,20 @@ var data =
             "Singleplayer",
             "Immersive",
             "Nonlinear"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "serbian": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -43963,7 +49204,20 @@ var data =
             "Class-Based",
             "Replay Value",
             "3D"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -44039,7 +49293,30 @@ var data =
             "Demons",
             "Supernatural",
             "Bullet Time"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "hungarian": "I",
+            "latam": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "swedish": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -44098,7 +49375,10 @@ var data =
             "Action",
             "Indie",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -44174,7 +49454,10 @@ var data =
             "Multiple Endings",
             "Score Attack",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -44250,7 +49533,19 @@ var data =
             "Immersive",
             "Robots",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -44326,7 +49621,18 @@ var data =
             "3D",
             "Beautiful",
             "Split Screen"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -44394,7 +49700,10 @@ var data =
             "Puzzle Platformer",
             "Great Soundtrack",
             "Minimalist"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -44470,7 +49779,22 @@ var data =
             "Multiplayer",
             "Singleplayer",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -44533,7 +49857,10 @@ var data =
             "Puzzle",
             "Platformer",
             "Puzzle Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -44604,7 +49931,10 @@ var data =
             "Atmospheric",
             "Co-op",
             "Action-Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -44680,7 +50010,10 @@ var data =
             "Dark Fantasy",
             "Singleplayer",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -44695,7 +50028,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
-        "playersTotal": 222,
+        "playersTotal": 223,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -44756,7 +50089,21 @@ var data =
             "Pixel Graphics",
             "FMV",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -44820,7 +50167,16 @@ var data =
             "Great Soundtrack",
             "Platformer",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "portuguese": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -44896,7 +50252,19 @@ var data =
             "Exploration",
             "Text-Based",
             "Roguelite"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -44972,7 +50340,17 @@ var data =
             "Crime",
             "Strategy",
             "Noir"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -45048,7 +50426,19 @@ var data =
             "Shooter",
             "Action",
             "Minimalist"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -45125,6 +50515,9 @@ var data =
             "Simulation",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "Curated on Steam: https://store.steampowered.com/app/243970/Invisible_Inc/?curator_clanid=36185934"
     },
     {
@@ -45188,7 +50581,17 @@ var data =
             "Puzzle",
             "Puzzle Platformer",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "dutch": "I",
+            "polish": "I",
+            "portuguese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -45254,7 +50657,11 @@ var data =
             "Fast-Paced",
             "Great Soundtrack",
             "Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -45330,7 +50737,21 @@ var data =
             "Top-Down",
             "Turn-Based Strategy",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -45404,7 +50825,10 @@ var data =
             "Singleplayer",
             "Indie",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -45419,7 +50843,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
         "playersStarted": 0,
-        "playersTotal": 71,
+        "playersTotal": 72,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -45478,7 +50902,17 @@ var data =
             "Controller",
             "Action-Adventure",
             "Boss Rush"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -45553,7 +50987,20 @@ var data =
             "RPG",
             "Fantasy",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "hungarian": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "swedish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -45629,7 +51076,10 @@ var data =
             "Local Co-Op",
             "Local Multiplayer",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -45706,6 +51156,9 @@ var data =
             "Singleplayer",
             "Sci-fi"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "Balanced around Treason."
     },
     {
@@ -45777,7 +51230,10 @@ var data =
             "Controller",
             "Local Multiplayer",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -45852,6 +51308,23 @@ var data =
             "Cute",
             "Level Editor"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        },
         "information": "There are other campaigns that will be PO in the future, but we are waiting until the new content coming out slows down until they are added as official objectives."
     },
     {
@@ -45913,7 +51386,10 @@ var data =
             "Shoot 'Em Up",
             "Retro",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -45989,7 +51465,15 @@ var data =
             "Retro",
             "Twin Stick Shooter",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -46065,7 +51549,19 @@ var data =
             "Comedy",
             "Exploration",
             "Story Rich"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -46131,7 +51627,10 @@ var data =
             "Indie",
             "Singleplayer",
             "Unforgiving"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -46207,7 +51706,29 @@ var data =
             "Controller",
             "Cartoony",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "croatian": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -46283,7 +51804,22 @@ var data =
             "Boss Rush",
             "Story Rich",
             "Souls-like"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "icelandic": "IAS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -46343,7 +51879,10 @@ var data =
             "Indie",
             "Adventure",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -46419,7 +51958,14 @@ var data =
             "Colorful",
             "Top-Down",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -46495,7 +52041,19 @@ var data =
             "Fantasy",
             "Souls-like",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "latam": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -46571,7 +52129,20 @@ var data =
             "Singleplayer",
             "Soundtrack",
             "Music"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -46642,7 +52213,10 @@ var data =
             "Relaxing",
             "Linear",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -46718,7 +52292,15 @@ var data =
             "Colorful",
             "Space",
             "Sci-fi"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -46792,7 +52374,10 @@ var data =
             "Singleplayer",
             "Destruction",
             "Racing"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -46868,7 +52453,23 @@ var data =
             "Colorful",
             "Funny",
             "Strategy"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -46944,7 +52545,20 @@ var data =
             "Top-Down",
             "Third Person",
             "Hacking"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -47006,7 +52620,15 @@ var data =
             "Puzzle Platformer",
             "Platformer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -47062,11 +52684,11 @@ var data =
             "achievements": 50
         },
         "gameTags": [
-            "Adventure",
             "Music",
+            "Adventure",
             "Rhythm",
-            "Casual",
             "Anime",
+            "Casual",
             "Action",
             "Female Protagonist",
             "Emotional",
@@ -47077,7 +52699,14 @@ var data =
             "Singleplayer",
             "Sports",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -47140,7 +52769,11 @@ var data =
             "Bullet Hell",
             "Shooter",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -47216,7 +52849,14 @@ var data =
             "Combat",
             "Anime",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -47293,6 +52933,14 @@ var data =
             "Third Person",
             "Difficult"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS"
+        },
         "information": "To obtain a Super Clear on a Constellation level, you need to reach a specific score for that level, and if successful, all the stars within the related Constellation will brighten up and shine (You can see what that specific score is for every level on this page: [https://katamari.fandom.com/wiki/Super_Clear](https://katamari.fandom.com/wiki/Super_Clear)).\n\nTo obtain all Shooting Stars, or Meteors (also called Comets), you need to complete the main levels (Make a Star 1 to Make a Star 9, and Make a Moon) within a specific time limit (You can see what the time is for every level on this page: [https://katamari.fandom.com/wiki/Shooting_Stars](https://katamari.fandom.com/wiki/Shooting_Stars)).\n\nWARNING: When you finish a level, you'll have to choose between \"Make a Star\" or \"Make a Stardust\" (If you are playing a Constellation level, the options will be \"Make a Constellation\" and \"Make a Stardust\").\nMaking a Star/Constellation will rewrite your previous score, and save your current one, no matter if it's worse or better. Making a Stardust will not save your current score. When going for the PO, be sure to pick the \"Make a Star/Constellation\" option, otherwise your score won't be saved. Be aware that when Making a Star/Constellation your previous score will be deleted and you may lose progress for the PO. For example, if you obtained a Super Clear on the Cancer Constellation, and then you replay the level and finish it with a worse score, if you pick \"Make a Constellation\" then your current score will be saved, and you'll lose the Super Clear on that Constellation, forcing you to replay the level again for the Super Clear."
     },
     {
@@ -47369,7 +53017,19 @@ var data =
             "Retro",
             "Noir",
             "Sci-fi"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -47445,7 +53105,35 @@ var data =
             "Procedural Generation",
             "Simulation",
             "Strategy"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -47521,7 +53209,21 @@ var data =
             "Controller",
             "Indie",
             "Mystery"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -47597,7 +53299,18 @@ var data =
             "Great Soundtrack",
             "Soundtrack",
             "Classic"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -47674,6 +53387,18 @@ var data =
             "Puzzle",
             "Cartoon"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "Coop Required (2 Players)\n---\nDLC Required:\n-The 100th Grand Ol' Telepost Tournament"
     },
     {
@@ -47750,7 +53475,10 @@ var data =
             "Singleplayer",
             "Combat",
             "Cartoony"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -47826,7 +53554,21 @@ var data =
             "Demons",
             "Isometric",
             "Dark Fantasy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -47902,7 +53644,20 @@ var data =
             "Indie",
             "Top-Down",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -47963,7 +53718,10 @@ var data =
             "Great Soundtrack",
             "Experimental",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -48034,7 +53792,10 @@ var data =
             "Great Soundtrack",
             "Boomer Shooter",
             "Stylized"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -48101,7 +53862,10 @@ var data =
             "Puzzle Platformer",
             "Platformer",
             "Precision Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -48178,6 +53942,9 @@ var data =
             "PvE",
             "Score Attack"
         ],
+        "languages": {
+            "english": "IAS"
+        },
         "information": "For Pacifist Adept:\nhttps://upload.cedb.me/hElePV.png"
     },
     {
@@ -48253,7 +54020,11 @@ var data =
             "Top-Down",
             "RPG",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "dutch": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -48329,7 +54100,15 @@ var data =
             "Character Action Game",
             "Hack and Slash",
             "Classic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -48401,7 +54180,11 @@ var data =
             "Colorful",
             "Old School",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -48477,7 +54260,11 @@ var data =
             "Futuristic",
             "Great Soundtrack",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "norwegian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -48553,7 +54340,20 @@ var data =
             "Story Rich",
             "Fantasy",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "norwegian": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -48629,7 +54429,10 @@ var data =
             "Singleplayer",
             "Indie",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -48705,7 +54508,10 @@ var data =
             "Cute",
             "Fantasy",
             "Turn-Based Combat"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -48779,6 +54585,17 @@ var data =
             "Relaxing",
             "Controller"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I"
+        },
         "information": "Par times will not display above 300/325 regardless of progress."
     },
     {
@@ -48839,7 +54656,11 @@ var data =
             "Indie",
             "Platformer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -48854,7 +54675,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 26,
-        "playersTotal": 276,
+        "playersTotal": 277,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -48909,6 +54730,27 @@ var data =
             "Competitive",
             "eSports"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "hungarian": "I",
+            "indonesian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I",
+            "ukrainian": "I",
+            "vietnamese": "I"
+        },
         "information": "To play without subscription: Download the benchmarks playlist with the code \"KovaaKsRocketingVermilionCt\", play its scenarios. Upload scores.\nMeet the requisites on [this image](https://i.imgur.com/doyjhRr.png)."
     },
     {
@@ -48985,7 +54827,10 @@ var data =
             "Psychological",
             "Sci-fi",
             "Thriller"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -49055,7 +54900,12 @@ var data =
             "Indie",
             "2D Platformer",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -49131,7 +54981,13 @@ var data =
             "Controller",
             "Action-Adventure",
             "RPG"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -49207,7 +55063,12 @@ var data =
             "Retro",
             "Indie",
             "Kickstarter"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -49283,7 +55144,11 @@ var data =
             "Robots",
             "War",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -49359,7 +55224,10 @@ var data =
             "Singleplayer",
             "Side Scroller",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -49436,6 +55304,14 @@ var data =
             "Sci-fi",
             "2D"
         ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "Expert and Nightmare diffficulties have the same bullet patterns."
     },
     {
@@ -49512,7 +55388,20 @@ var data =
             "Controller",
             "Multiplayer",
             "Family Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -49527,7 +55416,7 @@ var data =
         "updatedAt": "2025-09-13T01:14:55.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 223,
+        "playersTotal": 224,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -49589,6 +55478,36 @@ var data =
             "Competitive",
             "Female Protagonist"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IAS",
+            "brazilian": "IS",
+            "bulgarian": "IS",
+            "czech": "IS",
+            "danish": "IS",
+            "dutch": "IS",
+            "finnish": "IS",
+            "greek": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "norwegian": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "romanian": "IS",
+            "russian": "IAS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "tchinese": "IS",
+            "thai": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS",
+            "vietnamese": "IS"
+        },
         "information": "Don't use godspots in survival."
     },
     {
@@ -49604,7 +55523,7 @@ var data =
         "updatedAt": "2025-09-13T01:14:30.000Z",
         "playersCompleted": 5,
         "playersStarted": 19,
-        "playersTotal": 439,
+        "playersTotal": 440,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -49666,6 +55585,36 @@ var data =
             "Replay Value",
             "Tactical"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IAS",
+            "brazilian": "IS",
+            "bulgarian": "IS",
+            "czech": "IS",
+            "danish": "IS",
+            "dutch": "IS",
+            "finnish": "IS",
+            "greek": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "norwegian": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "romanian": "IS",
+            "russian": "IAS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "tchinese": "IS",
+            "thai": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS",
+            "vietnamese": "IS"
+        },
         "information": "The game may crash when Shader Quality is set too high.\n\nDon't use godspots in survival."
     },
     {
@@ -49736,7 +55685,10 @@ var data =
             "Indie",
             "Fantasy",
             "Faith"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -49812,7 +55764,10 @@ var data =
             "Action RPG",
             "Fantasy",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -49888,7 +55843,20 @@ var data =
             "Cartoony",
             "Hand-drawn",
             "Cozy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -49903,7 +55871,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 49,
         "playersStarted": 0,
-        "playersTotal": 391,
+        "playersTotal": 392,
         "priceData": {
             "USD": {
                 "initial": 1399,
@@ -49964,7 +55932,10 @@ var data =
             "Singleplayer",
             "eSports",
             "Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -49979,7 +55950,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 81,
         "playersStarted": 0,
-        "playersTotal": 326,
+        "playersTotal": 327,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -50040,7 +56011,19 @@ var data =
             "Stylized",
             "Co-op",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -50116,7 +56099,21 @@ var data =
             "Cartoon",
             "Programming",
             "Music"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -50192,7 +56189,11 @@ var data =
             "Adventure",
             "Combat",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -50266,7 +56267,14 @@ var data =
             "Cartoony",
             "Cartoon",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -50342,7 +56350,21 @@ var data =
             "Gothic",
             "Violent",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -50418,7 +56440,21 @@ var data =
             "Action",
             "Controller",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "japanese": "IA",
+            "spanish": "IA",
+            "brazilian": "IA",
+            "dutch": "IA",
+            "koreana": "IA",
+            "polish": "IA",
+            "russian": "IA",
+            "schinese": "IA",
+            "tchinese": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -50494,7 +56530,20 @@ var data =
             "Female Protagonist",
             "Psychological Horror",
             "Action RPG"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -50570,7 +56619,15 @@ var data =
             "Third Person",
             "Old School",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -50646,7 +56703,25 @@ var data =
             "Procedural Generation",
             "Simulation",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "bulgarian": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -50707,7 +56782,17 @@ var data =
             "Adventure",
             "Platformer",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -50783,7 +56868,13 @@ var data =
             "Fantasy",
             "Memes",
             "Mechs"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -50859,7 +56950,23 @@ var data =
             "Cinematic",
             "Casual",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -50928,7 +57035,11 @@ var data =
             "2D",
             "Abstract",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -51002,7 +57113,10 @@ var data =
             "3D",
             "Stylized",
             "Psychological Horror"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -51017,7 +57131,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 79,
         "playersStarted": 0,
-        "playersTotal": 1367,
+        "playersTotal": 1368,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -51078,7 +57192,22 @@ var data =
             "Short",
             "Action",
             "Strategy"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "swedish": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -51154,7 +57283,17 @@ var data =
             "Steampunk",
             "Controller",
             "Story Rich"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -51230,7 +57369,21 @@ var data =
             "Early Access",
             "Dark",
             "Psychological Horror"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IAS",
+            "indonesian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "thai": "IS",
+            "vietnamese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -51306,7 +57459,10 @@ var data =
             "Controller",
             "Singleplayer",
             "Open World"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -51382,7 +57538,21 @@ var data =
             "Funny",
             "Competitive",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -51458,7 +57628,21 @@ var data =
             "Magic",
             "Fantasy",
             "Open World"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -51530,7 +57714,19 @@ var data =
             "Singleplayer",
             "Female Protagonist",
             "Noir"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -51605,7 +57801,11 @@ var data =
             "Multiplayer",
             "Co-op",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -51680,7 +57880,12 @@ var data =
             "Indie",
             "Intentionally Awkward Controls",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -51756,7 +57961,11 @@ var data =
             "Physics",
             "Adventure",
             "Online Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -51830,7 +58039,11 @@ var data =
             "Multiplayer",
             "Co-op",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -51906,7 +58119,11 @@ var data =
             "Multiplayer",
             "Co-op",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -51980,7 +58197,11 @@ var data =
             "Singleplayer",
             "Multiplayer",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -52051,7 +58272,32 @@ var data =
             "Procedural Generation",
             "Cute",
             "Twin Stick Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -52127,7 +58373,18 @@ var data =
             "Side Scroller",
             "Singleplayer",
             "Inventory Management"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -52204,6 +58461,16 @@ var data =
             "Modern",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "schinese": "I"
+        },
         "information": "Requires DLC: My Trip To Japan for both objectives."
     },
     {
@@ -52272,7 +58539,18 @@ var data =
             "2D",
             "Singleplayer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "spanish": "I",
+            "danish": "I",
+            "dutch": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -52335,7 +58613,10 @@ var data =
             "Difficult",
             "2D",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -52411,7 +58692,30 @@ var data =
             "Local Co-Op",
             "Singleplayer",
             "Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "koreana": "I",
+            "latam": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -52486,7 +58790,10 @@ var data =
             "Adventure",
             "Psychological Horror",
             "Time Attack"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -52562,7 +58869,18 @@ var data =
             "Minimalist",
             "3D",
             "Cartoony"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "thai": "I"
+        }
     },
     {
         "gameType": 0,
@@ -52638,7 +58956,10 @@ var data =
             "Cartoony",
             "Funny",
             "Archery"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -52714,7 +59035,17 @@ var data =
             "Linear",
             "Cartoony",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "czech": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -52790,7 +59121,10 @@ var data =
             "Score Attack",
             "Replay Value",
             "Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -52854,7 +59188,15 @@ var data =
             "Arcade",
             "Rhythm",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -52930,7 +59272,19 @@ var data =
             "Cute",
             "Linear",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -52992,7 +59346,17 @@ var data =
             "Puzzle Platformer",
             "Isometric",
             "Action-Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -53069,6 +59433,21 @@ var data =
             "Nonlinear",
             "Supernatural"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "czech": "IAS",
+            "dutch": "IAS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "swedish": "IAS"
+        },
         "information": "Use the following for map layouts, tips, and general information: \n\nhttps://docs.google.com/document/d/1zKVlaPvk8Y4Z1KyalNkBUxYxsbF6MU9ouM4Oul-VYGc/edit?tab=t.0"
     },
     {
@@ -53145,7 +59524,23 @@ var data =
             "Local Multiplayer",
             "Vehicular Combat",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -53221,7 +59616,15 @@ var data =
             "PvE",
             "Score Attack",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "polish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -53294,7 +59697,15 @@ var data =
             "Retro",
             "Family Friendly",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "italian": "I",
+            "japanese": "I",
+            "brazilian": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -53370,7 +59781,10 @@ var data =
             "Casual",
             "Exploration",
             "Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -53446,7 +59860,19 @@ var data =
             "Local Co-Op",
             "Atmospheric",
             "Shoot 'Em Up"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -53522,7 +59948,14 @@ var data =
             "Fast-Paced",
             "2.5D",
             "Short"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -53598,7 +60031,15 @@ var data =
             "Indie",
             "Exploration",
             "Old School"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -53670,7 +60111,14 @@ var data =
             "Horror",
             "Controller",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS",
+            "koreana": "S",
+            "schinese": "S",
+            "tchinese": "S"
+        }
     },
     {
         "gameType": 0,
@@ -53746,7 +60194,24 @@ var data =
             "Great Soundtrack",
             "Puzzle",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "latam": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -53801,7 +60266,11 @@ var data =
             "Casual",
             "Action",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -53874,7 +60343,11 @@ var data =
             "Controller",
             "Perma Death",
             "Family Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "brazilian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -53950,7 +60423,19 @@ var data =
             "Comedy",
             "Physics",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -54023,6 +60508,9 @@ var data =
             "Precision Platformer",
             "Side Scroller"
         ],
+        "languages": {
+            "english": "IS"
+        },
         "information": "The game only shows Master ranks upon completing a chapter in the campaign, which is highly inconvenient. So, you're allowed to simulate them through level select. For Master ranks, you are not allowed to get caught or use resets. For Mission 1, the sum of level times must be 1:30 or less. For Missions 2 through 5 individually, 8:00 or less."
     },
     {
@@ -54038,7 +60526,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 33,
         "playersStarted": 0,
-        "playersTotal": 284,
+        "playersTotal": 285,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -54099,7 +60587,19 @@ var data =
             "Drama",
             "Open World",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -54174,7 +60674,17 @@ var data =
             "Action-Adventure",
             "Cute",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -54250,7 +60760,17 @@ var data =
             "Old School",
             "2D Platformer",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -54324,7 +60844,16 @@ var data =
             "Remake",
             "2D Platformer",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "IAS",
+            "spanish": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -54400,7 +60929,17 @@ var data =
             "Adventure",
             "2D Platformer",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -54476,7 +61015,19 @@ var data =
             "Controller",
             "Music-Based Procedural Generation",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "japanese": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "latam": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS",
+            "vietnamese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -54546,7 +61097,15 @@ var data =
             "Singleplayer",
             "Multiplayer",
             "Shoot 'Em Up"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "S",
+            "japanese": "IS",
+            "spanish": "S",
+            "koreana": "S",
+            "tchinese": "S"
+        }
     },
     {
         "gameType": 0,
@@ -54561,7 +61120,7 @@ var data =
         "updatedAt": "2025-09-30T01:28:48.000Z",
         "playersCompleted": 1,
         "playersStarted": 40,
-        "playersTotal": 564,
+        "playersTotal": 565,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -54617,7 +61176,16 @@ var data =
             "Beat 'em up",
             "Adventure",
             "Stealth"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -54693,7 +61261,15 @@ var data =
             "Gore",
             "Tanks",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -54769,7 +61345,15 @@ var data =
             "Tanks",
             "Classic",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -54845,7 +61429,15 @@ var data =
             "Great Soundtrack",
             "Military",
             "Violent"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -54921,7 +61513,17 @@ var data =
             "Fast-Paced",
             "Cartoony",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -54997,7 +61599,16 @@ var data =
             "Platformer",
             "Anime",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -55073,7 +61684,21 @@ var data =
             "Cinematic",
             "Narration",
             "Fantasy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -55149,7 +61774,18 @@ var data =
             "Singleplayer",
             "Sequel",
             "Early Access"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "japanese": "IS",
+            "spanish": "IS",
+            "czech": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -55225,7 +61861,36 @@ var data =
             "2.5D",
             "Multiple Endings",
             "Futuristic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "AS",
+            "brazilian": "IAS",
+            "bulgarian": "IAS",
+            "czech": "IAS",
+            "danish": "IAS",
+            "dutch": "IAS",
+            "finnish": "IAS",
+            "greek": "IAS",
+            "hungarian": "IAS",
+            "koreana": "IAS",
+            "norwegian": "IAS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "romanian": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "swedish": "IAS",
+            "tchinese": "AS",
+            "thai": "IAS",
+            "turkish": "IAS",
+            "ukrainian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -55286,7 +61951,10 @@ var data =
             "Platformer",
             "Surreal",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -55356,7 +62024,18 @@ var data =
             "Modern",
             "Great Soundtrack",
             "Martial Arts"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -55432,7 +62111,20 @@ var data =
             "Great Soundtrack",
             "Futuristic",
             "Crowdfunded"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -55496,7 +62188,18 @@ var data =
             "Retro",
             "Difficult",
             "Runner"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "dutch": "I",
+            "latam": "I",
+            "portuguese": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -55572,7 +62275,11 @@ var data =
             "Family Friendly",
             "Retro",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "brazilian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -55639,7 +62346,12 @@ var data =
             "Pixel Graphics",
             "Logic",
             "RPGMaker"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -55715,7 +62427,10 @@ var data =
             "Beautiful",
             "Aliens",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -55791,7 +62506,14 @@ var data =
             "Action",
             "Indie",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "german": "I",
+            "danish": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -55855,7 +62577,10 @@ var data =
             "Choices Matter",
             "Procedural Generation",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -55925,7 +62650,14 @@ var data =
             "Character Customization",
             "Side Scroller",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -56001,7 +62733,34 @@ var data =
             "Addictive",
             "Replay Value",
             "Top-Down"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "hungarian": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -56077,7 +62836,23 @@ var data =
             "Great Soundtrack",
             "Touch-Friendly",
             "Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -56148,7 +62923,11 @@ var data =
             "Score Attack",
             "Inventory Management",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "brazilian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -56209,7 +62988,11 @@ var data =
             "Rhythm",
             "2D",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "koreana": "I"
+        }
     },
     {
         "gameType": 0,
@@ -56276,7 +63059,12 @@ var data =
             "Funny",
             "Female Protagonist",
             "Dragons"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -56352,7 +63140,10 @@ var data =
             "Controller",
             "Indie",
             "Family Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -56427,7 +63218,14 @@ var data =
             "Difficult",
             "Dark Fantasy",
             "Puzzle"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -56480,7 +63278,19 @@ var data =
         "gameTags": [
             "Indie",
             "Physics"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -56556,7 +63366,21 @@ var data =
             "Adventure",
             "2D Platformer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -56632,7 +63456,20 @@ var data =
             "Dark Fantasy",
             "Magic",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "danish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -56647,7 +63484,7 @@ var data =
         "updatedAt": "2025-11-03T02:56:07.000Z",
         "playersCompleted": 0,
         "playersStarted": 45,
-        "playersTotal": 83,
+        "playersTotal": 84,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -56709,6 +63546,22 @@ var data =
             "MMORPG",
             "Dating Sim"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "Iceborne DLC is required for most objectives.\n\nFor \"World Renowned\", the only quest that is missable and may require re-doing if not having proof is \"Fade to Black\"."
     },
     {
@@ -56785,7 +63638,15 @@ var data =
             "Demons",
             "Trains",
             "Magic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "brazilian": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -56861,7 +63722,10 @@ var data =
             "Dark",
             "Strategy",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -56937,7 +63801,10 @@ var data =
             "Perma Death",
             "Stylized",
             "Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -57014,6 +63881,22 @@ var data =
             "Nudity",
             "Co-op"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS"
+        },
         "information": "DLC Required:\n-The Virtuous Cycle"
     },
     {
@@ -57029,7 +63912,7 @@ var data =
         "updatedAt": "2025-10-11T07:38:02.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 9,
+        "playersTotal": 10,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -57090,7 +63973,14 @@ var data =
             "Swordplay",
             "Boomer Shooter",
             "Souls-like"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "spanish": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -57157,6 +64047,15 @@ var data =
             "Motorbike",
             "Runner"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "polish": "IS",
+            "russian": "IS"
+        },
         "information": "Requires Antique Antics and Sliced Peak DLC for the Developer Times PO."
     },
     {
@@ -57233,7 +64132,22 @@ var data =
             "Controller",
             "Physics",
             "Beautiful"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -57290,7 +64204,15 @@ var data =
             "Platformer",
             "2D",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -57366,7 +64288,14 @@ var data =
             "Singleplayer",
             "Retro",
             "Modern"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "latam": "I"
+        }
     },
     {
         "gameType": 0,
@@ -57442,7 +64371,16 @@ var data =
             "Action-Adventure",
             "Character Action Game",
             "Top-Down Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -57506,7 +64444,18 @@ var data =
             "Comedy",
             "Local Co-Op",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "portuguese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -57582,7 +64531,11 @@ var data =
             "Atmospheric",
             "Colorful",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -57649,7 +64602,11 @@ var data =
             "Anime",
             "Beautiful",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -57725,7 +64682,14 @@ var data =
             "Beautiful",
             "Mature",
             "Nudity"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -57795,7 +64759,13 @@ var data =
             "Shooter",
             "Local Co-Op",
             "Score Attack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -57864,7 +64834,10 @@ var data =
             "Post-apocalyptic",
             "Music",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -57940,7 +64913,14 @@ var data =
             "Pixel Graphics",
             "First-Person",
             "FPS"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "I",
+            "koreana": "I",
+            "schinese": "IS",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -58016,7 +64996,10 @@ var data =
             "Time Attack",
             "Beautiful",
             "Nonlinear"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -58077,7 +65060,10 @@ var data =
             "Adventure",
             "Platformer",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -58153,7 +65139,10 @@ var data =
             "Replay Value",
             "Fast-Paced",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -58229,7 +65218,19 @@ var data =
             "Physics",
             "Controller",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -58244,7 +65245,7 @@ var data =
         "updatedAt": "2025-10-21T04:21:36.000Z",
         "playersCompleted": 26,
         "playersStarted": 63,
-        "playersTotal": 645,
+        "playersTotal": 646,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -58306,6 +65307,20 @@ var data =
             "Platformer",
             "Physics"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        },
         "information": "[Curated on Steam](https://store.steampowered.com/app/230270/N_NPLUSPLUS/?curator_clanid=36185934)\n\nDue to the game having issues with save file corruption, it is VERY STRONGLY recommended to disable Steam Cloud for this game and to make manual backups when significant progress is made. If you don't do this, you run the risk of losing all progress and starting all over again.\n\nMore info found here: [https://steamcommunity.com/sharedfiles/filedetails/?id=1821198112](https://steamcommunity.com/sharedfiles/filedetails/?id=1821198112)\n\n\nFor the Community Objectives, the \"N++ Custom Tab Completions\" spreadsheet can be found below. It contains a completions tracker, and links to all released map packs (\"Map links\" sheet).\n\n[N++ Custom Tab Completions Spreadsheet](https://docs.google.com/spreadsheets/d/19sPxQ8SdHc_ksA9Z3ye3iAI-8c1w-jjur8PLZyK1zfs)"
     },
     {
@@ -58382,7 +65397,10 @@ var data =
             "Old School",
             "Retro",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -58458,7 +65476,19 @@ var data =
             "Female Protagonist",
             "Singleplayer",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -58522,7 +65552,19 @@ var data =
             "Difficult",
             "Pixel Graphics",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -58582,7 +65624,11 @@ var data =
             "Indie",
             "Adventure",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -58650,7 +65696,10 @@ var data =
             "2D",
             "Violent",
             "Score Attack"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -58665,7 +65714,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 13,
+        "playersTotal": 14,
         "priceData": {
             "USD": {
                 "initial": 1599,
@@ -58726,7 +65775,17 @@ var data =
             "Controller",
             "Surreal",
             "Psychedelic"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -58802,7 +65861,18 @@ var data =
             "2D",
             "Action-Adventure",
             "Character Customization"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -58817,7 +65887,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 97,
         "playersStarted": 98,
-        "playersTotal": 475,
+        "playersTotal": 476,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -58879,6 +65949,23 @@ var data =
             "Card Game",
             "Combat"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        },
         "information": " For Community Objectives, the NeonLite mod can be downloaded from: <https://github.com/Faustas156/NeonLite/releases>"
     },
     {
@@ -58949,7 +66036,11 @@ var data =
             "Side Scroller",
             "Difficult",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -59025,7 +66116,10 @@ var data =
             "Atmospheric",
             "Controller",
             "Linear"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -59100,7 +66194,21 @@ var data =
             "Funny",
             "Controller",
             "Time Attack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -59175,7 +66283,23 @@ var data =
             "Top-Down Shooter",
             "Replay Value",
             "Competitive"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -59249,7 +66373,20 @@ var data =
             "Beautiful",
             "Dark",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "catalan": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -59313,7 +66450,10 @@ var data =
             "Platformer",
             "Time Attack",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -59390,6 +66530,22 @@ var data =
             "Action-Adventure",
             "Comic Book"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS"
+        },
         "information": "Ordered list of bosses for the community objective:\n1: Kuafu / Goumang / Yanlao\n2: Jiequan\n3: Lady Ethereal\n4: Ji / Feng Twins\n5: True Eigong"
     },
     {
@@ -59456,7 +66612,11 @@ var data =
             "Old School",
             "Platformer",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I"
+        }
     },
     {
         "gameType": 0,
@@ -59532,7 +66692,18 @@ var data =
             "Local Co-Op",
             "Local Multiplayer",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -59608,7 +66779,23 @@ var data =
             "Medieval",
             "Loot",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -59684,7 +66871,22 @@ var data =
             "Atmospheric",
             "Nudity",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -59760,7 +66962,19 @@ var data =
             "Pixel Graphics",
             "Soundtrack",
             "Cyberpunk"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -59833,7 +67047,11 @@ var data =
             "Retro",
             "Linear",
             "Nature"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -59909,7 +67127,12 @@ var data =
             "Action",
             "Story Rich",
             "Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -59924,7 +67147,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 29,
         "playersStarted": 213,
-        "playersTotal": 911,
+        "playersTotal": 912,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -59985,7 +67208,20 @@ var data =
             "Mythology",
             "Crafting",
             "Action-Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -60061,7 +67297,18 @@ var data =
             "Multiplayer",
             "Indie",
             "Early Access"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -60134,7 +67381,10 @@ var data =
             "2D",
             "Quick-Time Events",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -60210,7 +67460,17 @@ var data =
             "Arcade",
             "Singleplayer",
             "Classic"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -60286,6 +67546,13 @@ var data =
             "Retro",
             "Multiplayer"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
+        },
         "information": "Secret levels cannot be accessed directly through the main menu, but rather by their respective secret doors. \n\nThe required secret levels are:\n-Tall And Thin.\n-Yippie-Kai-Ay.\n-Henderson Apocalypse.\n-Dojo a Gogo."
     },
     {
@@ -60351,7 +67618,10 @@ var data =
             "Platformer",
             "Shoot 'Em Up",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -60366,7 +67636,7 @@ var data =
         "updatedAt": "2025-09-27T21:48:20.000Z",
         "playersCompleted": 17,
         "playersStarted": 89,
-        "playersTotal": 670,
+        "playersTotal": 671,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -60427,7 +67697,10 @@ var data =
             "Perma Death",
             "RPG",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -60503,7 +67776,12 @@ var data =
             "Cats",
             "Funny",
             "Horror"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -60569,7 +67847,112 @@ var data =
             "Indie",
             "Casual",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "afrikaans": "IAS",
+            "albanian": "IAS",
+            "amharic": "IAS",
+            "arabic": "IAS",
+            "armenian": "IAS",
+            "assamese": "IAS",
+            "azerbaijani": "IAS",
+            "bangla": "IAS",
+            "basque": "IAS",
+            "belarusian": "IAS",
+            "bosnian": "IAS",
+            "brazilian": "IAS",
+            "bulgarian": "IAS",
+            "catalan": "IAS",
+            "cherokee": "IAS",
+            "croatian": "IAS",
+            "czech": "IAS",
+            "danish": "IAS",
+            "dari": "IAS",
+            "dutch": "IAS",
+            "estonian": "IAS",
+            "filipino": "IAS",
+            "finnish": "IAS",
+            "galician": "IAS",
+            "georgian": "IAS",
+            "greek": "IAS",
+            "gujarati": "IAS",
+            "gurmukhi": "IAS",
+            "hausa": "IAS",
+            "hebrew": "IAS",
+            "hindi": "IAS",
+            "hungarian": "IAS",
+            "icelandic": "IAS",
+            "igbo": "IAS",
+            "indonesian": "IAS",
+            "irish": "IAS",
+            "kannada": "IAS",
+            "kazakh": "IAS",
+            "khmer": "IAS",
+            "kiche": "IAS",
+            "kinyarwanda": "IAS",
+            "konkani": "IAS",
+            "koreana": "IAS",
+            "kyrgyz": "IAS",
+            "latam": "IAS",
+            "latvian": "IAS",
+            "lithuanian": "IAS",
+            "luxembourgish": "IAS",
+            "macedonian": "IAS",
+            "malay": "IAS",
+            "malayalam": "IAS",
+            "maltese": "IAS",
+            "maori": "IAS",
+            "marathi": "IAS",
+            "mongolian": "IAS",
+            "nepali": "IAS",
+            "norwegian": "IAS",
+            "odia": "IAS",
+            "persian": "IAS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "quechua": "IAS",
+            "romanian": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "scots": "IAS",
+            "serbian": "IAS",
+            "shahmukhi": "IAS",
+            "sindhi": "IAS",
+            "sinhala": "IAS",
+            "slovak": "IAS",
+            "slovenian": "IAS",
+            "sorani": "IAS",
+            "sotho": "IAS",
+            "swahili": "IAS",
+            "swedish": "IAS",
+            "tajik": "IAS",
+            "tamil": "IAS",
+            "tatar": "IAS",
+            "tchinese": "IAS",
+            "telugu": "IAS",
+            "thai": "IAS",
+            "tigrinya": "IAS",
+            "tswana": "IAS",
+            "turkish": "IAS",
+            "turkmen": "IAS",
+            "ukrainian": "IAS",
+            "urdu": "IAS",
+            "uyghur": "IAS",
+            "uzbek": "IAS",
+            "valencian": "IAS",
+            "vietnamese": "IAS",
+            "welsh": "IAS",
+            "wolof": "IAS",
+            "xhosa": "IAS",
+            "yoruba": "IAS",
+            "zulu": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -60645,7 +68028,18 @@ var data =
             "Soundtrack",
             "Great Soundtrack",
             "Music"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -60720,7 +68114,16 @@ var data =
             "Controller",
             "Time Attack",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -60792,7 +68195,13 @@ var data =
             "Side Scroller",
             "Difficult",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "brazilian": "S",
+            "hungarian": "S",
+            "russian": "S"
+        }
     },
     {
         "gameType": 0,
@@ -60868,7 +68277,19 @@ var data =
             "Gore",
             "Violent",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -60944,7 +68365,19 @@ var data =
             "Colorful",
             "Psychedelic",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "italian": "IA",
+            "spanish": "IA",
+            "brazilian": "IA",
+            "portuguese": "IA",
+            "russian": "IA",
+            "schinese": "IA",
+            "swedish": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -61010,7 +68443,10 @@ var data =
             "Female Protagonist",
             "Action",
             "Level Editor"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -61086,7 +68522,17 @@ var data =
             "Funny",
             "Unforgiving",
             "Fast-Paced"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "latam": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -61159,7 +68605,10 @@ var data =
             "Controller",
             "Linear",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -61233,7 +68682,12 @@ var data =
             "Indie",
             "Arcade",
             "Beautiful"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "brazilian": "IS",
+            "latam": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -61302,7 +68756,16 @@ var data =
             "2.5D",
             "Local Multiplayer",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -61317,7 +68780,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 24,
         "playersStarted": 0,
-        "playersTotal": 201,
+        "playersTotal": 202,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -61370,7 +68833,14 @@ var data =
             "Action",
             "Skating",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -61446,7 +68916,21 @@ var data =
             "Colorful",
             "Hand-drawn",
             "Family Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -61515,7 +68999,15 @@ var data =
             "Singleplayer",
             "Platformer",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -61584,7 +69076,16 @@ var data =
             "Driving",
             "Multiplayer",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -61660,7 +69161,13 @@ var data =
             "Bullet Time",
             "Action Roguelike",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "spanish": "I",
+            "galician": "I",
+            "latam": "I"
+        }
     },
     {
         "gameType": 0,
@@ -61736,7 +69243,10 @@ var data =
             "Gore",
             "Blood",
             "Funny"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -61812,7 +69322,10 @@ var data =
             "2D",
             "Controller",
             "Linear"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -61888,7 +69401,13 @@ var data =
             "Resource Management",
             "Singleplayer",
             "Old School"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "german": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -61964,7 +69483,10 @@ var data =
             "Futuristic",
             "Old School",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -62040,7 +69562,22 @@ var data =
             "2D",
             "Female Protagonist",
             "Hack and Slash"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -62116,7 +69653,13 @@ var data =
             "Cartoony",
             "Colorful",
             "Minimalist"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -62186,7 +69729,14 @@ var data =
             "Great Soundtrack",
             "Singleplayer",
             "Sci-fi"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "S",
+            "spanish": "S",
+            "brazilian": "S",
+            "czech": "S"
+        }
     },
     {
         "gameType": 0,
@@ -62259,7 +69809,10 @@ var data =
             "Puzzle",
             "Great Soundtrack",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -62336,6 +69889,9 @@ var data =
             "Programming",
             "Old School"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "Replay files can be found through <Program Files (x86)\\Steam\\steamapps\\common\\Open Hexagon\\Replays>. Make sure to select the game executable as the default application for opening the replay files."
     },
     {
@@ -62412,7 +69968,11 @@ var data =
             "Replay Value",
             "Side Scroller",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -62425,9 +69985,9 @@ var data =
         "points": 10,
         "createdAt": "2023-09-02T00:44:28.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 7,
+        "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 53,
+        "playersTotal": 54,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -62485,7 +70045,10 @@ var data =
             "Singleplayer",
             "Horror",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -62561,7 +70124,17 @@ var data =
             "Family Friendly",
             "2.5D",
             "Beautiful"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -62576,7 +70149,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 116,
-        "playersTotal": 683,
+        "playersTotal": 684,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -62637,7 +70210,30 @@ var data =
             "Difficult",
             "Open World",
             "Souls-like"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "danish": "IS",
+            "dutch": "IS",
+            "finnish": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "norwegian": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -62713,7 +70309,16 @@ var data =
             "Controller",
             "Roguelike",
             "Simulation"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -62781,7 +70386,10 @@ var data =
             "Kickstarter",
             "Great Soundtrack",
             "Dark Fantasy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -62857,7 +70465,17 @@ var data =
             "Nonlinear",
             "Multiplayer",
             "Lovecraftian"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -62933,7 +70551,18 @@ var data =
             "Walking Simulator",
             "3D Vision",
             "Sci-fi"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "polish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -63009,7 +70638,19 @@ var data =
             "Parkour",
             "Indie",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -63064,7 +70705,11 @@ var data =
             "Indie",
             "Shoot 'Em Up",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -63140,7 +70785,16 @@ var data =
             "Top-Down",
             "PvP",
             "Team-Based"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -63217,6 +70871,20 @@ var data =
             "Strategy",
             "Colorful"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "Game is valued assuming co-op."
     },
     {
@@ -63293,7 +70961,112 @@ var data =
             "Singleplayer",
             "Perma Death",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "afrikaans": "IAS",
+            "albanian": "IAS",
+            "amharic": "IAS",
+            "arabic": "IAS",
+            "armenian": "IAS",
+            "assamese": "IAS",
+            "azerbaijani": "IAS",
+            "bangla": "IAS",
+            "basque": "IAS",
+            "belarusian": "IAS",
+            "bosnian": "IAS",
+            "brazilian": "IAS",
+            "bulgarian": "IAS",
+            "catalan": "IAS",
+            "cherokee": "IAS",
+            "croatian": "IAS",
+            "czech": "IAS",
+            "danish": "IAS",
+            "dari": "IAS",
+            "dutch": "IAS",
+            "estonian": "IAS",
+            "filipino": "IAS",
+            "finnish": "IAS",
+            "galician": "IAS",
+            "georgian": "IAS",
+            "greek": "IAS",
+            "gujarati": "IAS",
+            "gurmukhi": "IAS",
+            "hausa": "IAS",
+            "hebrew": "IAS",
+            "hindi": "IAS",
+            "hungarian": "IAS",
+            "icelandic": "IAS",
+            "igbo": "IAS",
+            "indonesian": "IAS",
+            "irish": "IAS",
+            "kannada": "IAS",
+            "kazakh": "IAS",
+            "khmer": "IAS",
+            "kiche": "IAS",
+            "kinyarwanda": "IAS",
+            "konkani": "IAS",
+            "koreana": "IAS",
+            "kyrgyz": "IAS",
+            "latam": "IAS",
+            "latvian": "IAS",
+            "lithuanian": "IAS",
+            "luxembourgish": "IAS",
+            "macedonian": "IAS",
+            "malay": "IAS",
+            "malayalam": "IAS",
+            "maltese": "IAS",
+            "maori": "IAS",
+            "marathi": "IAS",
+            "mongolian": "IAS",
+            "nepali": "IAS",
+            "norwegian": "IAS",
+            "odia": "IAS",
+            "persian": "IAS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "quechua": "IAS",
+            "romanian": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "scots": "IAS",
+            "serbian": "IAS",
+            "shahmukhi": "IAS",
+            "sindhi": "IAS",
+            "sinhala": "IAS",
+            "slovak": "IAS",
+            "slovenian": "IAS",
+            "sorani": "IAS",
+            "sotho": "IAS",
+            "swahili": "IAS",
+            "swedish": "IAS",
+            "tajik": "IAS",
+            "tamil": "IAS",
+            "tatar": "IAS",
+            "tchinese": "IAS",
+            "telugu": "IAS",
+            "thai": "IAS",
+            "tigrinya": "IAS",
+            "tswana": "IAS",
+            "turkish": "IAS",
+            "turkmen": "IAS",
+            "ukrainian": "IAS",
+            "urdu": "IAS",
+            "uyghur": "IAS",
+            "uzbek": "IAS",
+            "valencian": "IAS",
+            "vietnamese": "IAS",
+            "welsh": "IAS",
+            "wolof": "IAS",
+            "xhosa": "IAS",
+            "yoruba": "IAS",
+            "zulu": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -63369,7 +71142,11 @@ var data =
             "Stylized",
             "Controller",
             "Score Attack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -63446,6 +71223,19 @@ var data =
             "FPS",
             "Minimalist"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        },
         "information": "To access \"A Glowing Light, A Promise\", type the following in the main menu: whereitallstarted\n\nDue to errors in the game's code, it is very strongly recommended not to play the secret level until completing the PO, otherwise you will prevent yourself from getting the required achievement.\n\nUse of assist options or challenge modifiers will show a dedicated icon at the top left of the HUD while playing and on the completion screen."
     },
     {
@@ -63517,7 +71307,10 @@ var data =
             "Difficult",
             "Great Soundtrack",
             "Twin Stick Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -63591,7 +71384,14 @@ var data =
             "Violent",
             "Twin Stick Shooter",
             "Souls-like"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -63668,6 +71468,13 @@ var data =
             "PvE",
             "Top-Down Shooter"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS"
+        },
         "information": "Pro tip: dash in and out of bosses with the fully upgraded explody upgrade to get S ranks."
     },
     {
@@ -63734,7 +71541,15 @@ var data =
             "Score Attack",
             "Difficult",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -63810,7 +71625,32 @@ var data =
             "Atmospheric",
             "Adventure",
             "Time Management"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "danish": "IS",
+            "dutch": "IS",
+            "finnish": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "norwegian": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "tchinese": "IS",
+            "thai": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -63886,7 +71726,10 @@ var data =
             "Stylized",
             "Character Customization",
             "PvE"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -63962,7 +71805,36 @@ var data =
             "Difficult",
             "Adventure",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -64021,7 +71893,10 @@ var data =
             "Casual",
             "Action",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -64097,7 +71972,19 @@ var data =
             "Unforgiving",
             "Arcade",
             "Action-Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "latam": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -64160,7 +72047,13 @@ var data =
             "Racing",
             "Platformer",
             "Physics"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "german": "IS",
+            "japanese": "IS",
+            "dutch": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -64234,7 +72127,10 @@ var data =
             "Pixel Graphics",
             "Horror",
             "Perma Death"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -64308,7 +72204,20 @@ var data =
             "Singleplayer",
             "Controller",
             "Automobile Sim"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -64376,7 +72285,13 @@ var data =
             "2D",
             "Colorful",
             "Visual Novel"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -64452,7 +72367,20 @@ var data =
             "Dungeon Crawler",
             "Indie",
             "Roguevania"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -64528,7 +72456,12 @@ var data =
             "Cartoon",
             "Cartoony",
             "Comic Book"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -64604,7 +72537,20 @@ var data =
             "Fast-Paced",
             "Futuristic",
             "Top-Down Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -64619,7 +72565,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 26,
         "playersStarted": 3,
-        "playersTotal": 236,
+        "playersTotal": 237,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -64680,7 +72626,28 @@ var data =
             "2D",
             "Singleplayer",
             "Abstract"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "danish": "I",
+            "finnish": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "serbian": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -64695,7 +72662,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 42,
         "playersStarted": 20,
-        "playersTotal": 1283,
+        "playersTotal": 1284,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -64756,7 +72723,21 @@ var data =
             "Singleplayer",
             "Funny",
             "Simulation"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -64832,7 +72813,14 @@ var data =
             "RPG",
             "Indie",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -64847,7 +72835,7 @@ var data =
         "updatedAt": "2025-11-05T21:32:25.000Z",
         "playersCompleted": 20,
         "playersStarted": 57,
-        "playersTotal": 316,
+        "playersTotal": 317,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -64908,7 +72896,23 @@ var data =
             "Platformer",
             "Investigation",
             "Survival Horror"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -64984,7 +72988,10 @@ var data =
             "Parkour",
             "Stylized",
             "3D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -64999,7 +73006,7 @@ var data =
         "updatedAt": "2025-10-21T04:22:00.000Z",
         "playersCompleted": 27,
         "playersStarted": 9,
-        "playersTotal": 470,
+        "playersTotal": 471,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -65060,7 +73067,14 @@ var data =
             "Great Soundtrack",
             "Relaxing",
             "Local Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -65075,7 +73089,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 1,
-        "playersTotal": 306,
+        "playersTotal": 307,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -65127,7 +73141,10 @@ var data =
             "Strategy",
             "Arcade",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -65201,7 +73218,23 @@ var data =
             "Singleplayer",
             "Indie",
             "Remake"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -65259,7 +73292,20 @@ var data =
         "gameTags": [
             "Casual",
             "Puzzle"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -65330,7 +73376,18 @@ var data =
             "Local Multiplayer",
             "Funny",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -65406,7 +73463,17 @@ var data =
             "3D Platformer",
             "Simulation",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -65482,7 +73549,10 @@ var data =
             "Logic",
             "Old School",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -65558,7 +73628,27 @@ var data =
             "Cartoon",
             "Blood",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "danish": "IS",
+            "dutch": "IS",
+            "finnish": "IS",
+            "koreana": "IS",
+            "norwegian": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -65634,7 +73724,19 @@ var data =
             "Family Friendly",
             "Sci-fi",
             "Physics"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -65704,7 +73806,10 @@ var data =
             "Indie",
             "Cyberpunk",
             "Music-Based Procedural Generation"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -65780,7 +73885,10 @@ var data =
             "Surreal",
             "Female Protagonist",
             "Futuristic"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -65852,7 +73960,22 @@ var data =
             "Touch-Friendly",
             "Colorful",
             "Education"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "dutch": "IS",
+            "hungarian": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -65914,7 +74037,15 @@ var data =
             "Arcade",
             "Retro",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -65977,7 +74108,10 @@ var data =
             "2D",
             "Adventure",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -66041,7 +74175,36 @@ var data =
             "Controller",
             "2D",
             "Minimalist"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "A",
+            "german": "A",
+            "italian": "A",
+            "japanese": "A",
+            "spanish": "A",
+            "arabic": "A",
+            "brazilian": "A",
+            "bulgarian": "A",
+            "czech": "A",
+            "danish": "A",
+            "dutch": "A",
+            "finnish": "A",
+            "greek": "A",
+            "hungarian": "A",
+            "koreana": "A",
+            "norwegian": "A",
+            "polish": "A",
+            "portuguese": "A",
+            "romanian": "A",
+            "russian": "A",
+            "schinese": "A",
+            "swedish": "A",
+            "tchinese": "A",
+            "thai": "A",
+            "turkish": "A",
+            "ukrainian": "A"
+        }
     },
     {
         "gameType": 0,
@@ -66111,7 +74274,12 @@ var data =
             "Casual",
             "Fast-Paced",
             "Cartoon"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I"
+        }
     },
     {
         "gameType": 0,
@@ -66126,7 +74294,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 25,
         "playersStarted": 114,
-        "playersTotal": 472,
+        "playersTotal": 473,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -66187,7 +74355,21 @@ var data =
             "Adventure",
             "Memes",
             "War"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -66263,7 +74445,22 @@ var data =
             "Space",
             "Family Friendly",
             "Robots"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "thai": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -66278,7 +74475,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 12,
-        "playersTotal": 107,
+        "playersTotal": 108,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -66339,7 +74536,21 @@ var data =
             "Top-Down",
             "Singleplayer",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -66415,7 +74626,10 @@ var data =
             "Character Customization",
             "Linear",
             "Physics"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -66483,7 +74697,21 @@ var data =
             "Fast-Paced",
             "Replay Value",
             "Time Attack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -66556,7 +74784,16 @@ var data =
             "Cute",
             "Great Soundtrack",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -66630,7 +74867,18 @@ var data =
             "Politics",
             "Indie",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -66707,6 +74955,9 @@ var data =
             "Casual",
             "Racing"
         ],
+        "languages": {
+            "english": "IAS"
+        },
         "information": "The roadmap and time benchmarks for the game can be found here: [https://docs.google.com/spreadsheets/d/1MMbgCwD2VCGqO_HtMyEx4YjPHDmoSwxSA9SfFnHvKtM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MMbgCwD2VCGqO_HtMyEx4YjPHDmoSwxSA9SfFnHvKtM/edit?usp=sharing)\n\nLook on the tab called \"Suggested Roadmap\" for details on the steps you should take at each skill interval."
     },
     {
@@ -66778,7 +75029,14 @@ var data =
             "Parkour",
             "Singleplayer",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -66854,7 +75112,24 @@ var data =
             "Skating",
             "Skateboarding",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -66918,7 +75193,10 @@ var data =
             "Point & Click",
             "Arcade",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -66989,7 +75267,13 @@ var data =
             "Controller",
             "Memes",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -67054,7 +75338,15 @@ var data =
             "4 Player Local",
             "Surreal",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -67069,7 +75361,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 463,
         "playersStarted": 0,
-        "playersTotal": 1841,
+        "playersTotal": 1842,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -67130,7 +75422,36 @@ var data =
             "Short",
             "FPS",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IAS",
+            "brazilian": "IS",
+            "bulgarian": "IS",
+            "czech": "IS",
+            "danish": "IS",
+            "dutch": "IS",
+            "finnish": "IS",
+            "greek": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "norwegian": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "romanian": "IS",
+            "russian": "IAS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "tchinese": "IAS",
+            "thai": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -67145,7 +75466,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 34,
-        "playersTotal": 589,
+        "playersTotal": 590,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -67207,6 +75528,15 @@ var data =
             "Adventure",
             "Satire"
         ],
+        "languages": {
+            "english": "IAS",
+            "spanish": "IS",
+            "brazilian": "S",
+            "polish": "S",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "turkish": "IS"
+        },
         "information": "DLC Required:\n-Paradise Lost"
     },
     {
@@ -67283,7 +75613,11 @@ var data =
             "Surreal",
             "Shooter",
             "Twin Stick Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -67359,7 +75693,14 @@ var data =
             "Historical",
             "PvE",
             "1990's"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "italian": "I",
+            "spanish": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -67435,7 +75776,22 @@ var data =
             "Fantasy",
             "2D",
             "Exploration"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "latam": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "turkish": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -67511,7 +75867,10 @@ var data =
             "Score Attack",
             "Retro",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -67579,7 +75938,10 @@ var data =
             "Arcade",
             "Abstract",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -67655,7 +76017,12 @@ var data =
             "Casual",
             "Multiple Endings",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "italian": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -67731,7 +76098,17 @@ var data =
             "Roguelike",
             "Combat",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -67807,7 +76184,16 @@ var data =
             "Retro",
             "Metroidvania",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -67866,7 +76252,10 @@ var data =
             "Indie",
             "Platformer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -67942,7 +76331,21 @@ var data =
             "Indie",
             "Difficult",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "IAS",
+            "koreana": "I",
+            "latam": "IAS",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -67957,7 +76360,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 98,
+        "playersTotal": 99,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -68019,6 +76422,9 @@ var data =
             "Magic",
             "Souls-like"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "[All time goals](https://steamcommunity.com/sharedfiles/filedetails/?&id=3172134366)"
     },
     {
@@ -68095,7 +76501,10 @@ var data =
             "Old School",
             "Psychedelic",
             "Character Customization"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -68149,7 +76558,10 @@ var data =
             "Indie",
             "Casual",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -68225,7 +76637,10 @@ var data =
             "Local Multiplayer",
             "Difficult",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -68301,7 +76716,13 @@ var data =
             "Multiplayer",
             "Singleplayer",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "spanish": "IS",
+            "portuguese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -68377,7 +76798,38 @@ var data =
             "Female Protagonist",
             "Shoot 'Em Up",
             "Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I",
+            "vietnamese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -68439,7 +76891,10 @@ var data =
             "Puzzle",
             "Match 3",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -68515,7 +76970,19 @@ var data =
             "Physics",
             "Linear",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -68591,7 +77058,22 @@ var data =
             "Colorful",
             "Atmospheric",
             "Puzzle"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "dutch": "IAS",
+            "koreana": "IAS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -68665,7 +77147,18 @@ var data =
             "4 Player Local",
             "2D",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -68741,7 +77234,11 @@ var data =
             "Singleplayer",
             "Fighting",
             "Comedy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "A"
+        }
     },
     {
         "gameType": 0,
@@ -68817,7 +77314,13 @@ var data =
             "Abstract",
             "Sci-fi",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -68879,7 +77382,14 @@ var data =
             "Casual",
             "Indie",
             "Simulation"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -68956,6 +77466,9 @@ var data =
             "Cats",
             "Military"
         ],
+        "languages": {
+            "english": "IS"
+        },
         "information": "None of the objectives can be retroactively earned."
     },
     {
@@ -69031,7 +77544,15 @@ var data =
             "Funny",
             "Difficult",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -69104,7 +77625,14 @@ var data =
             "Hacking",
             "Logic",
             "Puzzle"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -69178,7 +77706,10 @@ var data =
             "Controller",
             "Space",
             "Nature"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -69248,7 +77779,10 @@ var data =
             "Old School",
             "Singleplayer",
             "Time Attack"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -69325,6 +77859,14 @@ var data =
             "RPG",
             "Cartoony"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "ukrainian": "IS"
+        },
         "information": "Mods can be downloaded through RNSReloaded. [Link](https://github.com/NotNite/RNSReloaded)"
     },
     {
@@ -69385,7 +77927,10 @@ var data =
             "Casual",
             "Action",
             "Puzzle"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -69462,6 +78007,16 @@ var data =
             "Colorful",
             "Magic"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "DLC Required:\n-Before Next Adventure: For the SP bosses, BNA Boss Rush and Cocoa.\n-Is the order a DLC?: For Chapter 10 and Erina Boss Rush.\n-Artbook: For Impossible difficulty (also includes X-Bunny).\n\nTo start an Impossible run as Cocoa you must go into speedrun mode and hover Cocoa, then hold the buttons for changing magic left + changing magic right.  While holding both actions the entire time, back out of the speedrun menu, open the artbook and then select Impossible difficulty.\n\nCocoa Impossible objectives have been valued assuming you did all of the Erina objectives beforehand."
     },
     {
@@ -69538,7 +78093,10 @@ var data =
             "Level Editor",
             "First-Person",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -69608,7 +78166,10 @@ var data =
             "Abstract",
             "Procedural Generation",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -69684,7 +78245,24 @@ var data =
             "Difficult",
             "Competitive",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "czech": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -69746,7 +78324,10 @@ var data =
             "Difficult",
             "Minimalist",
             "Surreal"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -69814,7 +78395,10 @@ var data =
             "Controller",
             "Soundtrack",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -69883,7 +78467,10 @@ var data =
             "Physics",
             "Singleplayer",
             "Minimalist"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -69959,7 +78546,16 @@ var data =
             "Experimental",
             "Dark Fantasy",
             "Relaxing"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "spanish": "IAS",
+            "indonesian": "IAS",
+            "koreana": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -70034,7 +78630,11 @@ var data =
             "Co-op Campaign",
             "Local Co-Op",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -70099,7 +78699,10 @@ var data =
             "Anime",
             "Platformer",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -70114,7 +78717,7 @@ var data =
         "updatedAt": "2025-09-26T15:56:06.000Z",
         "playersCompleted": 2,
         "playersStarted": 103,
-        "playersTotal": 729,
+        "playersTotal": 730,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -70176,6 +78779,18 @@ var data =
             "Souls-like",
             "Action"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        },
         "information": "All objectives other than Karmic Reunion require the Downpour DLC.\n\nNoblest Sacrifice requires that you have Speedrun Validation enabled, and the following disabled, for the entirety of your run: Visual Breath Meter, Increased Stun Times, Pull Spears from Walls, Vanilla Exploits, Wiggle out of Grasps, No Randomized Cycle Durations, All Major Assists, All MSC Gameplay-Affecting Cheats, and Developer Commentary."
     },
     {
@@ -70242,7 +78857,11 @@ var data =
             "Crowdfunded",
             "Minimalist",
             "Abstract"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "koreana": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -70318,7 +78937,14 @@ var data =
             "Space",
             "Comedy",
             "Top-Down"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -70380,7 +79006,10 @@ var data =
             "Pixel Graphics",
             "Retro",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -70456,7 +79085,17 @@ var data =
             "Singleplayer",
             "Indie",
             "Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "italian": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "latam": "I",
+            "polish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -70533,6 +79172,9 @@ var data =
             "Indie",
             "Futuristic"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "This game requires a VR headset in order to play."
     },
     {
@@ -70548,7 +79190,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 40,
         "playersStarted": 0,
-        "playersTotal": 123,
+        "playersTotal": 124,
         "priceData": {
             "USD": {
                 "initial": 1199,
@@ -70609,7 +79251,20 @@ var data =
             "Cyberpunk",
             "Sci-fi",
             "Hacking"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -70679,6 +79334,13 @@ var data =
             "Arcade",
             "Retro"
         ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        },
         "information": "POs assume you use the game's default settings, so your replay and score should automatically get sent to each of the game's 'Arcade' leaderboards."
     },
     {
@@ -70694,7 +79356,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 7,
-        "playersTotal": 52,
+        "playersTotal": 53,
         "priceData": {
             "USD": {
                 "initial": 4999,
@@ -70756,6 +79418,20 @@ var data =
             "Co-op Campaign",
             "America"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS"
+        },
         "information": "Miyu: \"new M32A1 flashbang launcher is op\""
     },
     {
@@ -70833,6 +79509,21 @@ var data =
             "Addictive",
             "Great Soundtrack"
         ],
+        "languages": {
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "italian": "IA",
+            "japanese": "IA",
+            "spanish": "IA",
+            "brazilian": "IA",
+            "koreana": "IA",
+            "portuguese": "IA",
+            "russian": "IA",
+            "schinese": "IA",
+            "tchinese": "IA",
+            "turkish": "IA"
+        },
         "information": "Dollars & Disasters, and Sand & Secrets DLC are required for World Domination and Unyielding Conquest POs."
     },
     {
@@ -70909,7 +79600,13 @@ var data =
             "Parody ",
             "Fantasy",
             "Mechs"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -70985,7 +79682,23 @@ var data =
             "Controller",
             "Simulation",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -71049,7 +79762,13 @@ var data =
             "Pixel Graphics",
             "Arcade",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -71116,6 +79835,10 @@ var data =
             "Singleplayer",
             "Retro"
         ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        },
         "information": "The Zodiac Master title is missable - it appears only briefly on the results screen, which appears after \"Game Over\" text after the credits. It also only appears for the first 1CC (though if it's also the first game clear it won't pop up). See the following video for an example (in Japanese): https://youtu.be/Mw2qKK2OBpg?t=2529\n\nYou're better off recording the run."
     },
     {
@@ -71178,7 +79901,11 @@ var data =
             "Bullet Hell",
             "Great Soundtrack",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -71255,6 +79982,17 @@ var data =
             "Replay Value",
             "Horror"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IS",
+            "russian": "IAS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "Survival Mode requires the Swamps of Corsus DLC."
     },
     {
@@ -71268,9 +80006,9 @@ var data =
         "points": 20,
         "createdAt": "2020-01-28T09:22:30.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 31,
+        "playersCompleted": 32,
         "playersStarted": 0,
-        "playersTotal": 339,
+        "playersTotal": 340,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -71331,7 +80069,22 @@ var data =
             "Music",
             "Action-Adventure",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "finnish": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -71407,7 +80160,17 @@ var data =
             "Shooter",
             "Great Soundtrack",
             "Third-Person Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -71422,7 +80185,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 77,
-        "playersTotal": 446,
+        "playersTotal": 447,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -71483,7 +80246,24 @@ var data =
             "Shooter",
             "Adventure",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IAS",
+            "tchinese": "IS",
+            "thai": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -71559,7 +80339,24 @@ var data =
             "Classic",
             "Great Soundtrack",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IAS",
+            "tchinese": "IS",
+            "thai": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -71574,7 +80371,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 16,
-        "playersTotal": 169,
+        "playersTotal": 170,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -71635,7 +80432,22 @@ var data =
             "Action-Adventure",
             "Violent",
             "Psychological Horror"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IS",
+            "brazilian": "IAS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -71650,7 +80462,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 89,
-        "playersTotal": 514,
+        "playersTotal": 515,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -71711,7 +80523,14 @@ var data =
             "Remake",
             "Difficult",
             "VR"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -71787,7 +80606,20 @@ var data =
             "Gore",
             "Split Screen",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "czech": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "S",
+            "tchinese": "S"
+        }
     },
     {
         "gameType": 0,
@@ -71863,7 +80695,24 @@ var data =
             "Exploration",
             "Shooter",
             "Classic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "thai": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -71939,7 +80788,32 @@ var data =
             "Horror",
             "Arcade",
             "Souls-like"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IAS",
+            "brazilian": "IAS",
+            "danish": "IS",
+            "dutch": "IS",
+            "finnish": "IS",
+            "indonesian": "IS",
+            "koreana": "IAS",
+            "latam": "IAS",
+            "norwegian": "IS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "tchinese": "IS",
+            "thai": "IS",
+            "vietnamese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -72003,7 +80877,11 @@ var data =
             "Singleplayer",
             "Anime",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -72080,6 +80958,15 @@ var data =
             "Score Attack",
             "Retro"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "schinese": "IS"
+        },
         "information": "Balanced around stable version. Objectives should be done there instead of beta, specially those with video proof.\n\nGuide for all hidden achievements: [https://steamcommunity.com/sharedfiles/filedetails/?id=2971250949](https://steamcommunity.com/sharedfiles/filedetails/?id=2971250949)\n\nNote: Shard 100 may move to PO in the future if it is proven possible. Currently CO as a placeholder."
     },
     {
@@ -72156,7 +81043,11 @@ var data =
             "Controller",
             "Destruction",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -72223,6 +81114,9 @@ var data =
             "2D",
             "Great Soundtrack"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "To launch the game on windows, use this guide:\n\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3375677826"
     },
     {
@@ -72296,7 +81190,10 @@ var data =
             "Singleplayer",
             "Blood",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -72372,7 +81269,18 @@ var data =
             "Anime",
             "Cute",
             "Modern"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -72438,7 +81346,13 @@ var data =
             "Runner",
             "Family Friendly",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -72497,7 +81411,10 @@ var data =
             "Action",
             "Indie",
             "Shoot 'Em Up"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -72573,7 +81490,22 @@ var data =
             "Anime",
             "Funny",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "norwegian": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -72638,6 +81570,17 @@ var data =
             "Great Soundtrack",
             "Difficult"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "vietnamese": "I"
+        },
         "information": "Game is balanced around its last update from 2021, while still on Early Access."
     },
     {
@@ -72711,7 +81654,10 @@ var data =
             "Cartoon",
             "Puzzle",
             "Nudity"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -72788,6 +81734,20 @@ var data =
             "Music-Based Procedural Generation",
             "LGBTQ+"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "The base game tracks required for the POs are the songs that are listed before Meat Boy when sorted by character."
     },
     {
@@ -72864,7 +81824,10 @@ var data =
             "Singleplayer",
             "RPG",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -72941,6 +81904,9 @@ var data =
             "Arcade",
             "Controller"
         ],
+        "languages": {
+            "english": "IAS"
+        },
         "information": "For the \"Outrunner\" objective, it is currently unknown whether obtaining S rank on the Worm boss level is possible."
     },
     {
@@ -72956,7 +81922,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 7,
-        "playersTotal": 341,
+        "playersTotal": 342,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -73017,7 +81983,20 @@ var data =
             "Replay Value",
             "Mouse only",
             "Roguelike Deckbuilder"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -73084,7 +82063,10 @@ var data =
             "Pixel Graphics",
             "Blood",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -73160,7 +82142,15 @@ var data =
             "War",
             "Cartoon",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -73236,7 +82226,23 @@ var data =
             "RPG",
             "Great Soundtrack",
             "Quick-Time Events"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IS",
+            "brazilian": "IAS",
+            "dutch": "IS",
+            "koreana": "IAS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -73312,7 +82318,18 @@ var data =
             "Demons",
             "Arcade",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -73327,7 +82344,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 35,
         "playersStarted": 205,
-        "playersTotal": 855,
+        "playersTotal": 856,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -73388,7 +82405,10 @@ var data =
             "Addictive",
             "Replay Value",
             "Survival"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -73402,8 +82422,8 @@ var data =
         "createdAt": "2020-08-25T13:13:02.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
-        "playersStarted": 248,
-        "playersTotal": 1349,
+        "playersStarted": 249,
+        "playersTotal": 1350,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -73465,6 +82485,19 @@ var data =
             "Early Access",
             "Bullet Hell"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I"
+        },
         "information": "DLCs are required for \"Cosmic Odyssey\"."
     },
     {
@@ -73480,7 +82513,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 45,
-        "playersTotal": 329,
+        "playersTotal": 330,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -73541,7 +82574,20 @@ var data =
             "Singleplayer",
             "Co-op",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -73602,7 +82648,10 @@ var data =
             "Shoot 'Em Up",
             "Retro",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -73675,7 +82724,10 @@ var data =
             "Casual",
             "Action-Adventure",
             "Underground"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -73751,7 +82803,20 @@ var data =
             "Top-Down Shooter",
             "Anime",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -73820,7 +82885,22 @@ var data =
             "2D",
             "Singleplayer",
             "Robots"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -73885,7 +82965,15 @@ var data =
             "Atmospheric",
             "Difficult",
             "Procedural Generation"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -73955,7 +83043,10 @@ var data =
             "Great Soundtrack",
             "Retro",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -74028,7 +83119,17 @@ var data =
             "Early Access",
             "Cartoony",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "greek": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -74104,7 +83205,25 @@ var data =
             "Shoot 'Em Up",
             "Arcade",
             "Looter Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "filipino": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -74180,7 +83299,25 @@ var data =
             "First-Person",
             "Singleplayer",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "dutch": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "persian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -74254,7 +83391,16 @@ var data =
             "Co-op",
             "Physics",
             "Medieval"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -74330,7 +83476,10 @@ var data =
             "Linear",
             "Singleplayer",
             "Funny"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -74407,6 +83556,9 @@ var data =
             "Jump Scare",
             "Level Editor"
         ],
+        "languages": {
+            "english": "IAS"
+        },
         "information": "For the #1 Customer PO, it's necessary to clear the story data in order to attempt the speedrun achievement. Also, the achievement doesn't factor in the time taken in menus."
     },
     {
@@ -74483,7 +83635,20 @@ var data =
             "Combat",
             "Controller",
             "4 Player Local"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -74498,7 +83663,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 93,
         "playersStarted": 34,
-        "playersTotal": 574,
+        "playersTotal": 575,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -74559,7 +83724,17 @@ var data =
             "Adventure",
             "Medieval",
             "Exploration"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -74635,7 +83810,21 @@ var data =
             "Action Roguelike",
             "Roguevania",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -74711,7 +83900,21 @@ var data =
             "Replay Value",
             "Adventure",
             "Magic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -74726,7 +83929,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 12,
-        "playersTotal": 220,
+        "playersTotal": 221,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -74787,7 +83990,18 @@ var data =
             "Simulation",
             "Comedy",
             "Funny"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -74863,7 +84077,11 @@ var data =
             "Parody ",
             "Arcade",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -74940,6 +84158,20 @@ var data =
             "Cartoony",
             "Experimental"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        },
         "information": "Accessibility options not allowed.\n\nYou can find information about the achievement requirements and time stars here: [https://docs.google.com/spreadsheets/d/19Rx-eCpsetRiSG7K2th3AtpD3Ntm5p7Z4h6p8RqmP0E](https://docs.google.com/spreadsheets/d/19Rx-eCpsetRiSG7K2th3AtpD3Ntm5p7Z4h6p8RqmP0E)"
     },
     {
@@ -75016,6 +84248,9 @@ var data =
             "Futuristic",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "IS"
+        },
         "information": "It's recommended to go through each difficulty in ascending order (even Relaxed Reverie).\n\n"
     },
     {
@@ -75092,7 +84327,17 @@ var data =
             "Cute",
             "Indie",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -75167,7 +84412,17 @@ var data =
             "Indie",
             "Funny",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -75241,7 +84496,17 @@ var data =
             "Indie",
             "Side Scroller",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -75312,7 +84577,11 @@ var data =
             "Singleplayer",
             "Automobile Sim",
             "LGBTQ+"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -75388,7 +84657,10 @@ var data =
             "Casual",
             "Indie",
             "Minimalist"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -75459,7 +84731,12 @@ var data =
             "1990's",
             "Futuristic",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "italian": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -75535,7 +84812,24 @@ var data =
             "Third Person",
             "Fast-Paced",
             "Open World"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -75612,6 +84906,9 @@ var data =
             "Great Soundtrack",
             "Bullet Hell"
         ],
+        "languages": {
+            "english": "IAS"
+        },
         "information": "For the CO, the relevant App ID / Depot ID / Manifest information is:\n325150 / 325151 / 4473576891853451301"
     },
     {
@@ -75682,7 +84979,10 @@ var data =
             "Indie",
             "Fast-Paced",
             "Turn-Based"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -75755,7 +85055,20 @@ var data =
             "Tutorial",
             "Retro",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -75831,7 +85144,15 @@ var data =
             "3D",
             "Multiplayer",
             "Family Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "portuguese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -75898,7 +85219,11 @@ var data =
             "Retro",
             "Visual Novel",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "portuguese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -75974,7 +85299,16 @@ var data =
             "Soundtrack",
             "Experimental",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "brazilian": "I",
+            "latam": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -76050,7 +85384,16 @@ var data =
             "Indie",
             "Dark",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -76112,7 +85455,12 @@ var data =
             "Sports",
             "Puzzle",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "german": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -76185,7 +85533,16 @@ var data =
             "Controller",
             "Singleplayer",
             "Time Attack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "dutch": "I"
+        }
     },
     {
         "gameType": 0,
@@ -76241,7 +85598,10 @@ var data =
             "Platformer",
             "Ninja",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -76317,7 +85677,22 @@ var data =
             "Adventure",
             "Horror",
             "Story Rich"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -76332,7 +85707,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 63,
         "playersStarted": 0,
-        "playersTotal": 233,
+        "playersTotal": 234,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -76393,7 +85768,18 @@ var data =
             "Linear",
             "Dystopian ",
             "Sci-fi"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -76467,7 +85853,10 @@ var data =
             "Singleplayer",
             "Tactical",
             "Psychological Horror"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -76536,7 +85925,23 @@ var data =
             "Atmospheric",
             "Platformer",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "czech": "I",
+            "dutch": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -76613,6 +86018,10 @@ var data =
             "1990's",
             "Precision Platformer"
         ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        },
         "information": "The game has two broken achievements and it's not possible to earn them. They are unrelated to any Primary Objective but you should be aware."
     },
     {
@@ -76683,7 +86092,10 @@ var data =
             "Procedural Generation",
             "Singleplayer",
             "Space"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -76759,7 +86171,15 @@ var data =
             "GameMaker",
             "Controller",
             "Casual"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IAS",
+            "koreana": "IAS",
+            "norwegian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -76835,7 +86255,12 @@ var data =
             "Indie",
             "Action-Adventure",
             "JRPG"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "japanese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -76911,7 +86336,12 @@ var data =
             "Education",
             "Tactical",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -76978,7 +86408,17 @@ var data =
             "Difficult",
             "Puzzle Platformer",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -77054,7 +86494,26 @@ var data =
             "Adventure",
             "Action-Adventure",
             "Fantasy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -77130,7 +86589,40 @@ var data =
             "Singleplayer",
             "Abstract",
             "Minimalist"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "croatian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "hungarian": "I",
+            "indonesian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I",
+            "vietnamese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -77206,7 +86698,10 @@ var data =
             "Controller",
             "Colorful",
             "Family Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -77221,7 +86716,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 13,
-        "playersTotal": 392,
+        "playersTotal": 393,
         "priceData": {
             "USD": {
                 "initial": 1699,
@@ -77282,7 +86777,21 @@ var data =
             "Perma Death",
             "Replay Value",
             "Fast-Paced"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -77343,7 +86852,10 @@ var data =
             "Platformer",
             "Action",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -77413,7 +86925,10 @@ var data =
             "Psychological Horror",
             "Survival Horror",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -77479,7 +86994,10 @@ var data =
             "Shoot 'Em Up",
             "Colorful",
             "Character Customization"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -77555,7 +87073,22 @@ var data =
             "Great Soundtrack",
             "Rhythm",
             "Dark"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "thai": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -77625,6 +87158,9 @@ var data =
             "Emotional",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "IAS"
+        },
         "information": "__Note__: your amount of arms is directly tied to the amount of secrets you complete ingame, but sometimes it glitches out and shows one more than your actual amount. This can cause a softlock at the moment of unlocking the last two levels if you have 11/10, being forced to reset your save."
     },
     {
@@ -77701,7 +87237,18 @@ var data =
             "Adventure",
             "Sci-fi",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "bulgarian": "IS",
+            "russian": "IAS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -77777,7 +87324,22 @@ var data =
             "Arena Shooter",
             "Open World",
             "Third-Person Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -77853,7 +87415,15 @@ var data =
             "Adventure",
             "Sci-fi",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -77929,7 +87499,22 @@ var data =
             "Demons",
             "Co-op",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -77995,7 +87580,10 @@ var data =
             "Narrative",
             "Co-op",
             "Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -78071,7 +87659,21 @@ var data =
             "Score Attack",
             "Controller",
             "8-bit Music"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -78086,7 +87688,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 81,
         "playersStarted": 13,
-        "playersTotal": 401,
+        "playersTotal": 402,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -78147,7 +87749,17 @@ var data =
             "Runner",
             "Singleplayer",
             "Demons"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -78212,7 +87824,14 @@ var data =
             "Survival Horror",
             "Roguelike",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -78288,7 +87907,14 @@ var data =
             "Survival Horror",
             "Thriller",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -78364,7 +87990,15 @@ var data =
             "Demons",
             "Surreal",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -78440,7 +88074,20 @@ var data =
             "Remake",
             "Classic",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "hungarian": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -78516,7 +88163,14 @@ var data =
             "Sexual Content",
             "Fantasy",
             "Comedy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -78584,7 +88238,10 @@ var data =
             "Replay Value",
             "Family Friendly",
             "Touch-Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -78660,7 +88317,28 @@ var data =
             "Loot",
             "Singleplayer",
             "Crafting"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "czech": "IAS",
+            "dutch": "IAS",
+            "greek": "IAS",
+            "hungarian": "IAS",
+            "indonesian": "IAS",
+            "koreana": "IAS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "turkish": "IAS",
+            "ukrainian": "IAS",
+            "vietnamese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -78725,7 +88403,10 @@ var data =
             "Great Soundtrack",
             "Difficult",
             "Cats"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -78791,7 +88472,13 @@ var data =
             "Puzzle",
             "Dog",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IAS",
+            "koreana": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -78857,7 +88544,12 @@ var data =
             "Female Protagonist",
             "Arcade",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "S",
+            "schinese": "S"
+        }
     },
     {
         "gameType": 0,
@@ -78931,7 +88623,12 @@ var data =
             "PvE",
             "Adventure",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -79007,7 +88704,21 @@ var data =
             "Soundtrack",
             "Gaming",
             "Racing"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -79083,7 +88794,19 @@ var data =
             "Indie",
             "Anime",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -79158,7 +88881,12 @@ var data =
             "Singleplayer",
             "Asynchronous Multiplayer",
             "Traditional Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -79227,6 +88955,12 @@ var data =
             "Difficult",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        },
         "information": "Curated on Steam: [https://store.steampowered.com/app/1178790/Shiren_the_Wanderer_The_Tower_of_Fortune_and_the_Dice_of_Fate/?curator_clanid=36185934](https://store.steampowered.com/app/1178790/Shiren_the_Wanderer_The_Tower_of_Fortune_and_the_Dice_of_Fate/?curator_clanid=36185934)"
     },
     {
@@ -79287,7 +89021,13 @@ var data =
             "Shoot 'Em Up",
             "Bullet Hell",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -79363,7 +89103,10 @@ var data =
             "Linear",
             "Demons",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -79439,7 +89182,19 @@ var data =
             "Comedy",
             "Funny",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -79515,7 +89270,26 @@ var data =
             "Turn-Based Tactics",
             "Cartoon",
             "Top-Down"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "catalan": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "ukrainian": "I",
+            "vietnamese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -79581,7 +89355,10 @@ var data =
             "Indie",
             "Action",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -79657,7 +89434,20 @@ var data =
             "Arcade",
             "RPG",
             "Local Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -79721,7 +89511,15 @@ var data =
             "Stylized",
             "Cartoon",
             "2.5D"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -79798,6 +89596,22 @@ var data =
             "War",
             "Dark Fantasy"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IAS",
+            "tchinese": "IAS",
+            "turkish": "IS"
+        },
         "information": "[Gold stamp thresholds](https://steamcommunity.com/sharedfiles/filedetails/?id=2950984289)"
     },
     {
@@ -79874,7 +89688,10 @@ var data =
             "First-Person",
             "Linear",
             "Flight"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -79951,6 +89768,18 @@ var data =
             "Co-op",
             "Local Co-Op"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "hungarian": "A",
+            "portuguese": "IS",
+            "schinese": "IS"
+        },
         "information": "If you experience crashes and are on Windows 11, try switching to Windows 10 instead."
     },
     {
@@ -80027,7 +89856,10 @@ var data =
             "Procedural Generation",
             "Singleplayer",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -80103,7 +89935,19 @@ var data =
             "Gothic",
             "Atmospheric",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -80179,7 +90023,10 @@ var data =
             "Linear",
             "Precision Platformer",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -80241,7 +90088,10 @@ var data =
             "Platformer",
             "2D",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -80316,7 +90166,20 @@ var data =
             "2D Platformer",
             "Minigames",
             "Philosophical"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "ukrainian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -80331,7 +90194,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 286,
+        "playersTotal": 287,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -80392,7 +90255,20 @@ var data =
             "Story Rich",
             "Multiplayer",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -80468,7 +90344,10 @@ var data =
             "Combat",
             "Hack and Slash",
             "Perma Death"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -80483,7 +90362,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 305,
+        "playersTotal": 306,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -80544,7 +90423,16 @@ var data =
             "Action",
             "Arcade",
             "Story Rich"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -80598,7 +90486,10 @@ var data =
             "Indie",
             "Strategy",
             "Casual"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -80661,7 +90552,10 @@ var data =
             "Multiplayer",
             "PvP",
             "Arena Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -80737,7 +90631,18 @@ var data =
             "Space",
             "1990's",
             "Multiple Endings"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -80813,7 +90718,16 @@ var data =
             "Controller",
             "Soundtrack",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -80885,7 +90799,10 @@ var data =
             "Great Soundtrack",
             "Action",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -80961,7 +90878,21 @@ var data =
             "First-Person",
             "Controller",
             "Racing"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "greek": "I",
+            "hindi": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -80976,7 +90907,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 54,
         "playersStarted": 214,
-        "playersTotal": 1131,
+        "playersTotal": 1132,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -81038,6 +90969,25 @@ var data =
             "Procedural Generation",
             "Casual"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I",
+            "vietnamese": "I"
+        },
         "information": "Ben - \"Watcher is easiest character\""
     },
     {
@@ -81114,7 +91064,19 @@ var data =
             "Jump Scare",
             "Co-op",
             "Short"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -81190,7 +91152,10 @@ var data =
             "Local Multiplayer",
             "Replay Value",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -81266,7 +91231,10 @@ var data =
             "Horror",
             "Memes",
             "Dark Comedy"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -81332,7 +91300,15 @@ var data =
             "2D",
             "Cooking",
             "Realistic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -81390,7 +91366,10 @@ var data =
         "gameTags": [
             "Indie",
             "Racing"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -81466,7 +91445,10 @@ var data =
             "Romance",
             "Multiple Endings",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -81542,7 +91524,14 @@ var data =
             "Cozy",
             "Indie",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -81609,7 +91598,10 @@ var data =
             "Indie",
             "Multiplayer",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -81685,7 +91677,19 @@ var data =
             "Superhero",
             "Comic Book",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -81751,7 +91755,18 @@ var data =
             "Difficult",
             "Top-Down Shooter",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "polish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -81827,7 +91842,22 @@ var data =
             "Open World",
             "Singleplayer",
             "Story Rich"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -81887,7 +91917,16 @@ var data =
             "Strategy",
             "Puzzle",
             "Space"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -81963,7 +92002,11 @@ var data =
             "Side Scroller",
             "Controller",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "latam": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -82037,7 +92080,15 @@ var data =
             "Mouse only",
             "Soundtrack",
             "Touch-Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -82108,7 +92159,14 @@ var data =
             "Co-op",
             "Adventure",
             "Touch-Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "italian": "IA",
+            "spanish": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -82184,7 +92242,15 @@ var data =
             "Racing",
             "Sci-fi",
             "Comedy"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -82260,7 +92326,14 @@ var data =
             "Memes",
             "Moddable",
             "Racing"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -82337,6 +92410,19 @@ var data =
             "Cartoony",
             "Anime"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "Should show stages 3,5,6,8,9,10,11,13,15,18,21,22,23,26,27,28,30,EX1,EX4,EX6,EX7"
     },
     {
@@ -82413,7 +92499,15 @@ var data =
             "Fantasy",
             "Psychological Horror",
             "Cartoony"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -82489,7 +92583,18 @@ var data =
             "Action-Adventure",
             "Cartoony",
             "Remake"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -82556,7 +92661,15 @@ var data =
             "2D Platformer",
             "Arcade",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "italian": "IA",
+            "japanese": "IA",
+            "spanish": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -82632,7 +92745,17 @@ var data =
             "Atmospheric",
             "Dark",
             "Drama"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -82704,7 +92827,16 @@ var data =
             "Platformer",
             "Fantasy",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -82780,7 +92912,14 @@ var data =
             "Stylized",
             "Demons",
             "Family Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -82856,7 +92995,20 @@ var data =
             "Third Person",
             "Controller",
             "Loot"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -82933,6 +93085,9 @@ var data =
             "Stylized",
             "Level Editor"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "Curated on Steam: https://store.steampowered.com/app/1400910/Soundodger_2/?curator_clanid=36185934\n\nHero of the March 18 Massacre."
     },
     {
@@ -83009,7 +93164,10 @@ var data =
             "Fast-Paced",
             "Shoot 'Em Up",
             "Abstract"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -83085,7 +93243,10 @@ var data =
             "Indie",
             "RPG",
             "Action Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -83160,7 +93321,18 @@ var data =
             "Procedural Generation",
             "Souls-like",
             "Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -83224,7 +93396,18 @@ var data =
             "Great Soundtrack",
             "Space",
             "Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -83297,7 +93480,39 @@ var data =
             "1980s",
             "Surreal",
             "PvE"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "A",
+            "german": "A",
+            "italian": "A",
+            "japanese": "A",
+            "spanish": "A",
+            "arabic": "A",
+            "brazilian": "A",
+            "bulgarian": "A",
+            "czech": "A",
+            "danish": "A",
+            "dutch": "A",
+            "finnish": "A",
+            "greek": "A",
+            "hungarian": "A",
+            "indonesian": "A",
+            "koreana": "A",
+            "latam": "A",
+            "norwegian": "A",
+            "polish": "A",
+            "portuguese": "A",
+            "romanian": "A",
+            "russian": "A",
+            "schinese": "A",
+            "swedish": "A",
+            "tchinese": "A",
+            "thai": "A",
+            "turkish": "A",
+            "ukrainian": "A",
+            "vietnamese": "A"
+        }
     },
     {
         "gameType": 0,
@@ -83365,7 +93580,10 @@ var data =
             "Adventure",
             "Colorful",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -83441,7 +93659,10 @@ var data =
             "Fast-Paced",
             "Futuristic",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -83502,7 +93723,10 @@ var data =
             "Puzzle",
             "Platformer",
             "3D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -83578,7 +93802,10 @@ var data =
             "Indie",
             "Futuristic",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -83654,7 +93881,17 @@ var data =
             "2D Platformer",
             "Action",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -83730,7 +93967,20 @@ var data =
             "Platformer",
             "Shooter",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -83806,7 +94056,12 @@ var data =
             "Flight",
             "Retro",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -83877,7 +94132,39 @@ var data =
             "Character Customization",
             "Singleplayer",
             "Runner"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "A",
+            "german": "A",
+            "italian": "A",
+            "japanese": "A",
+            "spanish": "A",
+            "arabic": "A",
+            "brazilian": "A",
+            "bulgarian": "A",
+            "czech": "A",
+            "danish": "A",
+            "dutch": "A",
+            "finnish": "A",
+            "greek": "A",
+            "hungarian": "A",
+            "indonesian": "A",
+            "koreana": "A",
+            "latam": "A",
+            "norwegian": "A",
+            "polish": "A",
+            "portuguese": "A",
+            "romanian": "A",
+            "russian": "A",
+            "schinese": "A",
+            "swedish": "A",
+            "tchinese": "A",
+            "thai": "A",
+            "turkish": "A",
+            "ukrainian": "A",
+            "vietnamese": "A"
+        }
     },
     {
         "gameType": 0,
@@ -83892,7 +94179,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 67,
         "playersStarted": 0,
-        "playersTotal": 645,
+        "playersTotal": 646,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -83953,7 +94240,28 @@ var data =
             "Singleplayer",
             "Arcade",
             "Superhero"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "dutch": "IS",
+            "greek": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "norwegian": "IS",
+            "polish": "IS",
+            "romanian": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -84029,7 +94337,10 @@ var data =
             "Sci-fi",
             "Adventure",
             "Precision Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -84105,7 +94416,15 @@ var data =
             "Local Multiplayer",
             "Controller",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -84181,7 +94500,22 @@ var data =
             "Roguelike",
             "Funny",
             "Dark Humor"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "catalan": "I",
+            "koreana": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -84257,7 +94591,21 @@ var data =
             "Online Co-Op",
             "Colorful",
             "Sci-fi"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -84333,7 +94681,20 @@ var data =
             "eSports",
             "Early Access",
             "Flight"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -84410,6 +94771,22 @@ var data =
             "Physics",
             "Psychedelic"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        },
         "information": "Unknown if Level 56 in Play Perfect is currently beatable."
     },
     {
@@ -84486,7 +94863,10 @@ var data =
             "Fast-Paced",
             "2D",
             "Abstract"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -84555,6 +94935,10 @@ var data =
             "Online Co-Op",
             "Multiplayer"
         ],
+        "languages": {
+            "english": "IS",
+            "schinese": "IS"
+        },
         "information": "Has broken achievements."
     },
     {
@@ -84631,7 +95015,10 @@ var data =
             "Roguelite",
             "Pixel Graphics",
             "Precision Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -84695,7 +95082,16 @@ var data =
             "Casual",
             "Singleplayer",
             "Hand-drawn"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "danish": "I",
+            "portuguese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -84762,7 +95158,18 @@ var data =
             "Great Soundtrack",
             "Funny",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -84838,7 +95245,10 @@ var data =
             "Linear",
             "PvE",
             "Gore"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -84912,7 +95322,10 @@ var data =
             "Score Attack",
             "Controller",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -84988,7 +95401,19 @@ var data =
             "Adventure",
             "Singleplayer",
             "Fast-Paced"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IAS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -85061,7 +95486,13 @@ var data =
             "Jump Scare",
             "Gore",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "spanish": "I",
+            "polish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -85114,7 +95545,10 @@ var data =
         "gameTags": [
             "Action",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -85189,7 +95623,10 @@ var data =
             "Parkour",
             "Action",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -85263,7 +95700,10 @@ var data =
             "Female Protagonist",
             "RPG",
             "Third Person"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -85339,7 +95779,11 @@ var data =
             "Difficult",
             "Point & Click",
             "Wholesome"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -85415,7 +95859,17 @@ var data =
             "Funny",
             "Family Friendly",
             "Fast-Paced"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -85491,7 +95945,10 @@ var data =
             "RPG",
             "Simulation",
             "Sports"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -85568,6 +96025,15 @@ var data =
             "Arena Shooter",
             "Perma Death"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "schinese": "I"
+        },
         "information": "The objectives have been valued with seeds in mind, as well as the use of the \"Overlord\" character when applicable."
     },
     {
@@ -85642,7 +96108,10 @@ var data =
             "Shoot 'Em Up",
             "2D",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -85657,7 +96126,7 @@ var data =
         "updatedAt": "2025-10-21T04:23:02.000Z",
         "playersCompleted": 119,
         "playersStarted": 0,
-        "playersTotal": 1259,
+        "playersTotal": 1260,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -85718,7 +96187,21 @@ var data =
             "Cute",
             "Great Soundtrack",
             "Fishing"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -85794,7 +96277,10 @@ var data =
             "Adventure",
             "Indie",
             "Co-op Campaign"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -85870,7 +96356,14 @@ var data =
             "Family Friendly",
             "Time Attack",
             "Fast-Paced"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -85929,7 +96422,10 @@ var data =
             "Racing",
             "Action",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -86000,7 +96496,10 @@ var data =
             "Pixel Graphics",
             "Level Editor",
             "Gore"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -86067,7 +96566,15 @@ var data =
             "Metroidvania",
             "2D",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -86143,7 +96650,15 @@ var data =
             "Family Friendly",
             "2D Platformer",
             "RPG"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -86220,6 +96735,14 @@ var data =
             "Atmospheric",
             "Touch-Friendly"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "russian": "IS"
+        },
         "information": "Curated on Steam: https://store.steampowered.com/app/322190/SteamWorld_Heist/?curator_clanid=36185934"
     },
     {
@@ -86288,6 +96811,12 @@ var data =
             "Great Soundtrack",
             "Anime"
         ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "Has some replay desync issues. It's recommended to record videos of live runs."
     },
     {
@@ -86364,7 +96893,17 @@ var data =
             "Asynchronous Multiplayer",
             "Action",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "japanese": "IA",
+            "spanish": "IA",
+            "brazilian": "IA",
+            "koreana": "IA",
+            "schinese": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -86440,7 +96979,19 @@ var data =
             "Combat",
             "Controller",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -86455,7 +97006,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 2,
-        "playersTotal": 83,
+        "playersTotal": 84,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -86516,7 +97067,10 @@ var data =
             "Choices Matter",
             "Action",
             "Open World"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -86592,7 +97146,18 @@ var data =
             "Singleplayer",
             "Multiplayer",
             "Time Attack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "finnish": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -86668,7 +97233,10 @@ var data =
             "Retro",
             "4 Player Local",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -86743,7 +97311,10 @@ var data =
             "Psychedelic",
             "2D",
             "Ninja"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -86819,7 +97390,20 @@ var data =
             "Survival",
             "Co-op Campaign",
             "Mythology"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -86895,7 +97479,10 @@ var data =
             "Top-Down",
             "Futuristic",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -86960,7 +97547,22 @@ var data =
             "3D Platformer",
             "Indie",
             "3D"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "indonesian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -87036,7 +97638,19 @@ var data =
             "Combat",
             "Co-op",
             "Local Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -87112,7 +97726,20 @@ var data =
             "2D",
             "Action",
             "Casual"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -87176,7 +97803,10 @@ var data =
             "Retro",
             "Shooter",
             "First-Person"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -87252,7 +97882,10 @@ var data =
             "Female Protagonist",
             "Hack and Slash",
             "Dystopian "
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -87310,7 +97943,10 @@ var data =
         "gameTags": [
             "Action",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -87386,7 +98022,19 @@ var data =
             "Funny",
             "Atmospheric",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "greek": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -87457,7 +98105,18 @@ var data =
             "Adventure",
             "Singleplayer",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "brazilian": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -87533,7 +98192,20 @@ var data =
             "Singleplayer",
             "Unforgiving",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "finnish": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -87609,7 +98281,21 @@ var data =
             "Controller",
             "Horror",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -87685,7 +98371,10 @@ var data =
             "Fantasy",
             "Cartoony",
             "Cartoon"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -87761,7 +98450,10 @@ var data =
             "PvE",
             "Singleplayer",
             "Early Access"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -87837,7 +98529,10 @@ var data =
             "Perma Death",
             "1990's",
             "Faith"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -87906,7 +98601,12 @@ var data =
             "2D",
             "Female Protagonist",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -87982,7 +98682,16 @@ var data =
             "Steampunk",
             "PvP",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -88058,7 +98767,10 @@ var data =
             "Controller",
             "Minimalist",
             "Shoot 'Em Up"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -88134,7 +98846,20 @@ var data =
             "PvP",
             "Local Multiplayer",
             "Party Game"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -88210,7 +98935,18 @@ var data =
             "Colorful",
             "Choices Matter",
             "Multiple Endings"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "german": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "koreana": "IAS",
+            "portuguese": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS",
+            "thai": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -88279,7 +99015,15 @@ var data =
             "Hack and Slash",
             "Cute",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "S",
+            "german": "S",
+            "italian": "S",
+            "spanish": "S",
+            "brazilian": "S"
+        }
     },
     {
         "gameType": 0,
@@ -88355,7 +99099,11 @@ var data =
             "Platformer",
             "Procedural Generation",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -88432,6 +99180,21 @@ var data =
             "Colorful",
             "Cartoony"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "To 3 star the last level see: [https://youtu.be/piuJBn5NrVQ](https://youtu.be/piuJBn5NrVQ)"
     },
     {
@@ -88508,7 +99271,20 @@ var data =
             "Action",
             "Platformer",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -88574,7 +99350,21 @@ var data =
             "Cartoon",
             "Beautiful",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -88650,7 +99440,10 @@ var data =
             "Score Attack",
             "Character Customization",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -88723,7 +99516,10 @@ var data =
             "Local Multiplayer",
             "Multiplayer",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -88795,7 +99591,10 @@ var data =
             "Top-Down Shooter",
             "Top-Down",
             "GameMaker"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -88871,7 +99670,10 @@ var data =
             "Singleplayer",
             "Combat",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -88939,7 +99741,15 @@ var data =
             "Retro",
             "Controller",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -89015,7 +99825,10 @@ var data =
             "Controller",
             "Puzzle",
             "Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -89091,7 +99904,10 @@ var data =
             "Indie",
             "Action",
             "Casual"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -89167,7 +99983,12 @@ var data =
             "Family Friendly",
             "Old School",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -89244,6 +100065,9 @@ var data =
             "Adventure",
             "Procedural Generation"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "DLC required for completion."
     },
     {
@@ -89320,7 +100144,25 @@ var data =
             "Cyberpunk",
             "Great Soundtrack",
             "Third Person"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "danish": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -89396,7 +100238,26 @@ var data =
             "Anime",
             "Colorful",
             "Score Attack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "brazilian": "IAS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS",
+            "vietnamese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -89454,7 +100315,12 @@ var data =
         "gameTags": [
             "Indie",
             "3D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "koreana": "IS",
+            "thai": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -89528,7 +100394,10 @@ var data =
             "Controller",
             "Level Editor",
             "Electronic Music"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -89604,7 +100473,20 @@ var data =
             "Space",
             "Great Soundtrack",
             "Heist"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "catalan": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -89680,7 +100562,11 @@ var data =
             "Comedy",
             "Side Scroller",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -89756,7 +100642,19 @@ var data =
             "War",
             "Dark Comedy",
             "Blood"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -89832,7 +100730,14 @@ var data =
             "Singleplayer",
             "Replay Value",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -89907,7 +100812,18 @@ var data =
             "Remake",
             "Replay Value",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "IAS",
+            "spanish": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -89983,7 +100899,13 @@ var data =
             "Local Multiplayer",
             "PvE",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -90051,7 +100973,10 @@ var data =
             "Cartoony",
             "Pixel Graphics",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -90112,7 +101037,10 @@ var data =
             "Difficult",
             "Platformer",
             "Funny"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -90179,7 +101107,10 @@ var data =
             "Pixel Graphics",
             "Arcade",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -90253,7 +101184,12 @@ var data =
             "Funny",
             "Multiple Endings",
             "Logic"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "japanese": "IA",
+            "koreana": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -90329,7 +101265,17 @@ var data =
             "Top-Down",
             "Pixel Graphics",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -90390,7 +101336,10 @@ var data =
             "Great Soundtrack",
             "2D",
             "Local Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -90465,6 +101414,9 @@ var data =
             "Destruction",
             "Top-Down"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "Hero times require enabling Hard Mode in options."
     },
     {
@@ -90532,7 +101484,19 @@ var data =
             "Great Soundtrack",
             "Replay Value",
             "Time Attack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -90608,7 +101572,15 @@ var data =
             "Relaxing",
             "Retro",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -90682,7 +101654,11 @@ var data =
             "Puzzle",
             "Funny",
             "Space"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "latam": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -90745,7 +101721,15 @@ var data =
             "Local Multiplayer",
             "Family Friendly",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I"
+        }
     },
     {
         "gameType": 0,
@@ -90812,7 +101796,11 @@ var data =
             "Bullet Hell",
             "Arcade",
             "Robots"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -90827,7 +101815,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 171,
         "playersStarted": 32,
-        "playersTotal": 756,
+        "playersTotal": 757,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -90888,7 +101876,24 @@ var data =
             "Casual",
             "Gore",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "czech": "IAS",
+            "hungarian": "IAS",
+            "koreana": "IAS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "slovak": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -90965,6 +101970,19 @@ var data =
             "Old School",
             "Retro"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "koreana": "IAS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        },
         "information": "This game requires a VR headset in order to play."
     },
     {
@@ -91041,7 +102059,24 @@ var data =
             "Transhumanism",
             "Cinematic",
             "Old School"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "slovak": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -91117,7 +102152,24 @@ var data =
             "Cinematic",
             "Dark Humor",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -91190,6 +102242,9 @@ var data =
             "Retro",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "Surviving 120 seconds on each normal level will unlock all of their respective themes. Unlocking the secret level requires surviving on every level for more than 90 seconds."
     },
     {
@@ -91245,7 +102300,10 @@ var data =
             "Indie",
             "Action",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -91321,7 +102379,22 @@ var data =
             "Blood",
             "Gore",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "russian": "I",
+            "swedish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -91397,7 +102470,26 @@ var data =
             "2D",
             "Controller",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "danish": "IAS",
+            "dutch": "IAS",
+            "hungarian": "IAS",
+            "koreana": "IAS",
+            "norwegian": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS",
+            "ukrainian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -91471,7 +102563,10 @@ var data =
             "Retro",
             "Multiple Endings",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -91548,6 +102643,14 @@ var data =
             "Action",
             "Archery"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        },
         "information": "Coin juggling should ideally be done at the start of a playthrough."
     },
     {
@@ -91625,6 +102728,19 @@ var data =
             "Indie",
             "Comic Book"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "For the \"Gentleman-Burglar\" achievement, you need to complete a run on Expert where you kill the boss and collect every single container, even during the levels where you die and restart using extra lives."
     },
     {
@@ -91701,7 +102817,21 @@ var data =
             "Great Soundtrack",
             "Singleplayer",
             "Tactical"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -91777,7 +102907,19 @@ var data =
             "Anime",
             "Funny",
             "Comedy"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -91843,7 +102985,10 @@ var data =
             "Female Protagonist",
             "Great Soundtrack",
             "Rhythm"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -91919,7 +103064,10 @@ var data =
             "PvE",
             "3D Platformer",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -91986,6 +103134,17 @@ var data =
             "Difficult",
             "Arcade"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "Subscription/DLC songs currently not required for CE objectives."
     },
     {
@@ -92062,7 +103221,20 @@ var data =
             "Metroidvania",
             "2.5D",
             "Swordplay"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -92138,7 +103310,12 @@ var data =
             "Side Scroller",
             "2D",
             "Exploration"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "russian": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -92215,6 +103392,13 @@ var data =
             "Replay Value",
             "Character Customization"
         ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        },
         "information": "[Curated on Steam](https://store.steampowered.com/app/259680/Tales_of_MajEyal/?curator_clanid=36185934)\n\nPrimary objectives are retroactive: higher difficulty awards all objectives below, and Roguelike Mode awards its respective Adventure Mode counterpart.\n\nThe game can be downloaded for free on the game's official website.\n\nDownload link: [https://te4.org/download](https://te4.org/download)\n\nSee doc for further information: [https://docs.google.com/document/d/1bWCoBS8H8cSq-DLz9H1cY5HAgxppzOHCjSDQzjJK_Mc](https://docs.google.com/document/d/1bWCoBS8H8cSq-DLz9H1cY5HAgxppzOHCjSDQzjJK_Mc)\n\nWARNING - Use adventurer at your own peril, it is undecided if it will be banned, allowed or awarded partial points.\nItem vault is also undecided but will likely be banned.\n\nUsing holiday/timed events is restricted, christmas especially is strictly banned."
     },
     {
@@ -92291,7 +103475,16 @@ var data =
             "Character Customization",
             "Controller",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "belarusian": "I",
+            "latam": "I",
+            "russian": "I",
+            "tatar": "I"
+        }
     },
     {
         "gameType": 0,
@@ -92367,7 +103560,10 @@ var data =
             "Arcade",
             "Split Screen",
             "Action-Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -92443,7 +103639,10 @@ var data =
             "Split Screen",
             "Comedy",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -92519,7 +103718,10 @@ var data =
             "Replay Value",
             "Top-Down Shooter",
             "Addictive"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -92595,7 +103797,10 @@ var data =
             "Hand-drawn",
             "Platformer",
             "Cats"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -92671,7 +103876,10 @@ var data =
             "Space",
             "Destruction",
             "Comedy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -92747,7 +103955,19 @@ var data =
             "Casual",
             "Controller",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -92823,7 +104043,22 @@ var data =
             "Pixel Graphics",
             "2D",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "latam": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -92899,7 +104134,19 @@ var data =
             "Comic Book",
             "Atmospheric",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -92975,7 +104222,13 @@ var data =
             "Medieval",
             "Fantasy",
             "Parody "
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -93051,7 +104304,21 @@ var data =
             "2D",
             "Indie",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -93113,7 +104380,13 @@ var data =
             "Faith",
             "Anime",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -93189,7 +104462,14 @@ var data =
             "Action-Adventure",
             "3D",
             "Futuristic"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -93260,6 +104540,9 @@ var data =
             "1990's",
             "1980s"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "It is strongly suggested to first complete the SPECTRUM modes for each playstyle before attempting the MARATHON version."
     },
     {
@@ -93319,7 +104602,10 @@ var data =
             "Retro",
             "Difficult",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -93395,7 +104681,19 @@ var data =
             "VR",
             "PvP",
             "Stylized"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "thai": "I"
+        }
     },
     {
         "gameType": 0,
@@ -93472,6 +104770,19 @@ var data =
             "Collectathon",
             "Pixel Graphics"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "koreana": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "thai": "I"
+        },
         "information": "Unlike most games on the site, TGM4 has objectives grouped in modes, which only then are sorted in top-to-bottom difficulty. Therefore, some starting objectives in some modes might be easier than higher objectives in other modes.\n\nConsider this game (or perhaps the TGM series itself) an unusual exception from what CE is expected to be like, for the time being. "
     },
     {
@@ -93549,6 +104860,16 @@ var data =
             "Exploration",
             "Adventure"
         ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS"
+        },
         "information": "[Super Nice times](https://upload.cedb.me/k0Q24M.png)"
     },
     {
@@ -93625,7 +104946,17 @@ var data =
             "Casual",
             "Simulation",
             "Sports"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "german": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -93688,7 +105019,10 @@ var data =
             "2D",
             "Arcade",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -93764,7 +105098,21 @@ var data =
             "Crowdfunded",
             "Adventure",
             "Vikings"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -93833,7 +105181,10 @@ var data =
             "Arcade",
             "Great Soundtrack",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -93909,7 +105260,16 @@ var data =
             "2.5D",
             "2D",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -93986,6 +105346,9 @@ var data =
             "Perma Death",
             "Bullet Hell"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "\"Wrath of the Lamb\" DLC is needed both for the \"Eternal Crybaby\" objective and 100% of the Steam achievements. "
     },
     {
@@ -94054,7 +105417,18 @@ var data =
             "Multiplayer",
             "Platformer",
             "Early Access"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "dutch": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -94130,7 +105504,22 @@ var data =
             "Pixel Graphics",
             "Arcade",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "bosnian": "I",
+            "croatian": "I",
+            "czech": "I",
+            "hungarian": "I",
+            "schinese": "I",
+            "serbian": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -94206,7 +105595,10 @@ var data =
             "Supernatural",
             "Pixel Graphics",
             "Lore-Rich"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -94282,7 +105674,13 @@ var data =
             "Hack and Slash",
             "Great Soundtrack",
             "Psychological Horror"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -94354,7 +105752,16 @@ var data =
             "Metroidvania",
             "Side Scroller",
             "Local Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "portuguese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -94430,7 +105837,15 @@ var data =
             "Third Person",
             "Atmospheric",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -94506,7 +105921,10 @@ var data =
             "2D Platformer",
             "Retro",
             "Historical"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -94582,7 +106000,10 @@ var data =
             "Post-apocalyptic",
             "Surreal",
             "Action-Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -94658,7 +106079,16 @@ var data =
             "Story Rich",
             "Multiplayer",
             "Open World"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "polish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -94673,7 +106103,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 156,
+        "playersTotal": 157,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -94734,7 +106164,21 @@ var data =
             "First-Person",
             "Dark",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IAS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -94810,7 +106254,20 @@ var data =
             "Destruction",
             "Singleplayer",
             "Linear"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "brazilian": "IS",
+            "koreana": "IAS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IAS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -94886,7 +106343,11 @@ var data =
             "3D Platformer",
             "Colorful",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "latam": "I"
+        }
     },
     {
         "gameType": 0,
@@ -94962,7 +106423,10 @@ var data =
             "Singleplayer",
             "Soundtrack",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -95038,7 +106502,10 @@ var data =
             "Moddable",
             "Vehicular Combat",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -95114,7 +106581,16 @@ var data =
             "Replay Value",
             "Story Rich",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "spanish": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -95190,7 +106666,19 @@ var data =
             "Indie",
             "Casual",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -95266,7 +106754,19 @@ var data =
             "Turn-Based",
             "Management",
             "Survival"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -95336,7 +106836,10 @@ var data =
             "Sci-fi",
             "Action",
             "Futuristic"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -95404,7 +106907,12 @@ var data =
             "Cute",
             "Great Soundtrack",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -95476,7 +106984,10 @@ var data =
             "Cartoon",
             "Singleplayer",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -95543,7 +107054,10 @@ var data =
             "Difficult",
             "Atmospheric",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -95620,6 +107134,18 @@ var data =
             "Beautiful",
             "Epic"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "DLC Required:\n-Picnic Panic "
     },
     {
@@ -95696,7 +107222,17 @@ var data =
             "Multiplayer",
             "Colorful",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -95761,7 +107297,12 @@ var data =
             "Shoot 'Em Up",
             "Top-Down",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "italian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -95830,7 +107371,22 @@ var data =
             "Singleplayer",
             "Medieval",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "catalan": "I",
+            "latam": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -95899,7 +107455,10 @@ var data =
             "Score Attack",
             "Comedy",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -95972,7 +107531,20 @@ var data =
             "Indie",
             "Platformer",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "latam": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -96031,7 +107603,10 @@ var data =
             "Indie",
             "Action",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -96107,7 +107682,22 @@ var data =
             "Fantasy",
             "Funny",
             "Turn-Based Tactics"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -96171,7 +107761,10 @@ var data =
             "Difficult",
             "2D",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -96247,7 +107840,20 @@ var data =
             "Futuristic",
             "Horror",
             "Story Rich"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -96323,7 +107929,22 @@ var data =
             "Female Protagonist",
             "Story Rich",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IAS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -96397,7 +108018,11 @@ var data =
             "GameMaker",
             "Atmospheric",
             "Beautiful"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -96472,7 +108097,10 @@ var data =
             "Difficult",
             "Action RPG",
             "Turn-Based Strategy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -96548,7 +108176,24 @@ var data =
             "Great Soundtrack",
             "Story Rich",
             "Beautiful"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -96624,7 +108269,15 @@ var data =
             "Fast-Paced",
             "Co-op",
             "Local Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -96688,7 +108341,10 @@ var data =
             "2D",
             "Indie",
             "Top-Down"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -96764,7 +108420,11 @@ var data =
             "Indie",
             "2D",
             "Side Scroller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -96840,7 +108500,17 @@ var data =
             "FPS",
             "Fantasy",
             "Remake"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "czech": "IS",
+            "polish": "IS",
+            "russian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -96902,7 +108572,36 @@ var data =
             "Minimalist",
             "Difficult",
             "Local Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "italian": "IA",
+            "japanese": "IA",
+            "spanish": "IA",
+            "arabic": "IA",
+            "brazilian": "IA",
+            "bulgarian": "IA",
+            "czech": "IA",
+            "danish": "IA",
+            "dutch": "IA",
+            "finnish": "IA",
+            "greek": "IA",
+            "hungarian": "IA",
+            "koreana": "IA",
+            "norwegian": "IA",
+            "polish": "IA",
+            "portuguese": "IA",
+            "romanian": "IA",
+            "russian": "IA",
+            "schinese": "IA",
+            "swedish": "IA",
+            "tchinese": "IA",
+            "thai": "IA",
+            "turkish": "IA",
+            "ukrainian": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -96979,6 +108678,21 @@ var data =
             "Soundtrack",
             "Indie"
         ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I"
+        },
         "information": "Objectives for this game are retroactive: completing an objective will award all subsequent objectives below.\n\nDue to the game being available on other platforms (primarily mobile) before Steam for up to a decade, achievements are not required for objective completion.\n\nUse of the boost tile is allowed for video proof since it acts as more of a time saver rather than a significant advantage. The latest point where proof is accepted for primary objectives is specified within their respective requirements.\n\nDue to save-scumming, unsegmented videos are required for any objectives beyond \"Threelease the Kraken\" (segmented videos are allowed for iOS only since it has no known accessible exploits).\n\nThe stats page is only accessible when actively playing a game, and can be found by pressing the button located at the top right. If done correctly, you should see a graph displaying your score history.\n\nThe Threes! guide can be found here: https://docs.google.com/document/d/1Ra8YbOMz4fMTwAPgeI2Y1_-q7yO1I0XDvAmv2_KKtZk/edit?usp=sharing"
     },
     {
@@ -97046,7 +108760,12 @@ var data =
             "Indie",
             "Score Attack",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "italian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -97061,7 +108780,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 43,
-        "playersTotal": 275,
+        "playersTotal": 276,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -97122,7 +108841,27 @@ var data =
             "Dark Fantasy",
             "Fantasy",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -97196,7 +108935,16 @@ var data =
             "Pixel Graphics",
             "Singleplayer",
             "Fantasy"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "german": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "koreana": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -97260,7 +109008,10 @@ var data =
             "Pixel Graphics",
             "Perma Death",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -97336,7 +109087,19 @@ var data =
             "3D",
             "Post-apocalyptic",
             "Fighting"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -97405,7 +109168,11 @@ var data =
             "Multiplayer",
             "Platformer",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -97481,7 +109248,10 @@ var data =
             "Singleplayer",
             "Roguelike",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -97557,7 +109327,28 @@ var data =
             "Comedy",
             "Indie",
             "Abstract"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "greek": "IS",
+            "indonesian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "I",
+            "ukrainian": "IS",
+            "vietnamese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -97628,7 +109419,10 @@ var data =
             "Fast-Paced",
             "4 Player Local",
             "Score Attack"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -97690,7 +109484,14 @@ var data =
             "3D",
             "Singleplayer",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -97752,7 +109553,14 @@ var data =
             "VR",
             "Platformer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "spanish": "I",
+            "dutch": "I"
+        }
     },
     {
         "gameType": 0,
@@ -97818,7 +109626,10 @@ var data =
             "Great Soundtrack",
             "2D",
             "Fantasy"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -97894,7 +109705,17 @@ var data =
             "Mythology",
             "Comic Book",
             "Minimalist"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -97909,7 +109730,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 69,
         "playersStarted": 13,
-        "playersTotal": 1035,
+        "playersTotal": 1036,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -97970,7 +109791,14 @@ var data =
             "Puzzle",
             "Strategy",
             "Casual"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -98046,7 +109874,10 @@ var data =
             "Casual",
             "Pixel Graphics",
             "Stylized"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -98117,7 +109948,11 @@ var data =
             "2D Platformer",
             "Casual",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -98181,7 +110016,11 @@ var data =
             "Difficult",
             "Cute",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -98247,7 +110086,18 @@ var data =
             "2D",
             "Side Scroller",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "dutch": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -98321,6 +110171,10 @@ var data =
             "Adventure",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        },
         "information": "To launch the game, move all files in the \"TomatoFlip\" folder to the parent folder \"Tomato Flip\""
     },
     {
@@ -98397,7 +110251,13 @@ var data =
             "Class-Based",
             "Loot",
             "Western"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -98473,7 +110333,20 @@ var data =
             "Adventure",
             "Action",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "hebrew": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -98549,7 +110422,22 @@ var data =
             "Cartoon",
             "Top-Down Shooter",
             "Electronic"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -98625,7 +110513,11 @@ var data =
             "Top-Down",
             "Co-op",
             "Twin Stick Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "brazilian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -98688,7 +110580,10 @@ var data =
             "Faith",
             "Great Soundtrack",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -98756,7 +110651,10 @@ var data =
             "Difficult",
             "Anime",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -98826,7 +110724,10 @@ var data =
             "Cute",
             "Psychological Horror",
             "Fantasy"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -98900,7 +110801,14 @@ var data =
             "Casual",
             "Post-apocalyptic",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -98970,7 +110878,10 @@ var data =
             "Cute",
             "Psychological Horror",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -99040,6 +110951,9 @@ var data =
             "Anime",
             "Multiplayer"
         ],
+        "languages": {
+            "japanese": "IS"
+        },
         "information": "\"Blossom\" balanced around Aya/Medicine.\n\n[Example of screenshot requirements](https://upload.cedb.me/IHcpmy.png)\nYour run's score should show up on the scores screen."
     },
     {
@@ -99116,7 +111030,10 @@ var data =
             "Story Rich",
             "Adventure",
             "Souls-like"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -99180,7 +111097,14 @@ var data =
             "Great Soundtrack",
             "Anime",
             "Shoot 'Em Up"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -99253,7 +111177,10 @@ var data =
             "Fantasy",
             "Story Rich",
             "Memes"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -99321,7 +111248,10 @@ var data =
             "2D",
             "Anime",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -99392,7 +111322,10 @@ var data =
             "Anime",
             "2D",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -99467,7 +111400,14 @@ var data =
             "Combat",
             "Singleplayer",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -99535,7 +111475,10 @@ var data =
             "Difficult",
             "Arcade",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -99604,7 +111547,10 @@ var data =
             "Singleplayer",
             "Cute",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -99680,7 +111626,10 @@ var data =
             "Casual",
             "Family Friendly",
             "Shooter"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -99756,7 +111705,17 @@ var data =
             "Deckbuilding",
             "Casual",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "german": "I",
+            "japanese": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -99832,7 +111791,10 @@ var data =
             "Simulation",
             "Third Person",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -99908,7 +111870,10 @@ var data =
             "Great Soundtrack",
             "Difficult",
             "Archery"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -99966,6 +111931,9 @@ var data =
             "Arcade",
             "Retro"
         ],
+        "languages": {
+            "english": "IAS"
+        },
         "information": "Note to self: buff to 400 points"
     },
     {
@@ -99981,7 +111949,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 8,
-        "playersTotal": 74,
+        "playersTotal": 75,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -100036,6 +112004,23 @@ var data =
             "Action",
             "Simulation"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "czech": "I",
+            "dutch": "I",
+            "hungarian": "I",
+            "korean": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "slovakian": "I",
+            "tchinese": "I"
+        },
         "information": "[Direct link to download the old TrackMania campaigns For Old Enthusiast COs (53 MB)](https://upload.cedb.me/TMUnitedF_Old_Campaings.zip), install steps inside or [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2134162935)."
     },
     {
@@ -100109,7 +112094,19 @@ var data =
             "Local Multiplayer",
             "Sandbox",
             "Fast-Paced"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -100124,7 +112121,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 3,
-        "playersTotal": 79,
+        "playersTotal": 80,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -100178,7 +112175,30 @@ var data =
             "Split Screen",
             "Driving",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -100193,7 +112213,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
         "playersStarted": 3,
-        "playersTotal": 41,
+        "playersTotal": 42,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -100240,7 +112260,30 @@ var data =
             "Arcade",
             "Time Attack",
             "Level Editor"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -100255,7 +112298,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 6,
-        "playersTotal": 168,
+        "playersTotal": 169,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -100315,7 +112358,30 @@ var data =
             "Simulation",
             "Great Soundtrack",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -100330,7 +112396,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 5,
-        "playersTotal": 85,
+        "playersTotal": 86,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -100381,7 +112447,30 @@ var data =
             "Singleplayer",
             "Local Multiplayer",
             "Split Screen"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -100447,7 +112536,10 @@ var data =
             "Indie",
             "Colorful",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -100523,7 +112615,10 @@ var data =
             "Atmospheric",
             "Singleplayer",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -100599,7 +112694,21 @@ var data =
             "Violent",
             "Drama",
             "Martial Arts"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -100676,6 +112785,18 @@ var data =
             "Sci-fi",
             "Destruction"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "Guide made by SomeMugger found here: [https://steamcommunity.com/sharedfiles/filedetails/?id=3437966281](https://steamcommunity.com/sharedfiles/filedetails/?id=3437966281)"
     },
     {
@@ -100731,7 +112852,19 @@ var data =
             "Indie",
             "Sports",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "czech": "I",
+            "finnish": "I",
+            "polish": "I",
+            "russian": "I",
+            "swedish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -100801,6 +112934,20 @@ var data =
             "Arcade",
             "Motorbike"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        },
         "information": "Ball of steel requires video proof of not cheating by glitching/exploiting the ball, all other skill games can be proven with screenshots of leaderboard or ending distance reached.\n\nBall of steel - 457m+ (Finish Line)\nSphere - 1055m+ (GOAL Platform)\nInfernal Pinball - 139m+ (Set of lights trigger revealing Easter Egg)\nGas problem - 579m (Finish Line)\nOutside the Ball - 400m+ (Guard rail stops ball from progressing)\nCruise Control & Balance of Power - 472m+ (Track Ends)\n\nExample videos of all skill game endings\n[https://youtube.com/playlist?list=PLxduPHVac-mRt_qcH41Zjsyd0JXP9rHgn&si=UBcuLz_9q4VW3fCv](https://youtube.com/playlist?list=PLxduPHVac-mRt_qcH41Zjsyd0JXP9rHgn&si=UBcuLz_9q4VW3fCv)\n\n"
     },
     {
@@ -100878,6 +113025,18 @@ var data =
             "Great Soundtrack",
             "Adventure"
         ],
+        "languages": {
+            "english": "IA",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        },
         "information": "The tracks for the \"Event Veteran\" CO can be found pinned in the Trials forum, as well as the instructions needed to play them through the editor."
     },
     {
@@ -100952,7 +113111,13 @@ var data =
             "Cute",
             "Metroidvania",
             "Local Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -101015,7 +113180,19 @@ var data =
             "Great Soundtrack",
             "Cyberpunk",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -101083,6 +113260,20 @@ var data =
             "Singleplayer",
             "Difficult"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "Trials Rising is partially linked with Trials Fusion and Trials Evolution in terms of value. The value of each game should not be considered correct in isolation, and the value of the franchise should be seen as a solid unit worth 1400 points, divided amongst the three games\n\nThere is no recommended order to play the games in, however, the order in which you play will have a huge impact on the perceived difficulty of the others due to skill transfer. \n\nAmong games where skill transfer is a complicated problem to incorporate into the value, trials uniquely has two sets of skills that are built separately, speedrunning and ninjas. Because of this, attempting to balance the value across several games and several skillsets is too difficult to reliably reference any given objective in the franchise as an accurate comparison point.\n\n\n\nYou can find a sheet containing all baselines for Fusion and Rising here: \n\n[https://docs.google.com/spreadsheets/d/1MxPlhkVTz18hmWxdp5RnjnkWCU3LYPAWoNES2xZHA_Q/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1MxPlhkVTz18hmWxdp5RnjnkWCU3LYPAWoNES2xZHA_Q/edit?usp=sharing)\n\nYou can find a link to the website for community medals here: https://www.trialscommunity.com/"
     },
     {
@@ -101159,7 +113350,29 @@ var data =
             "Party",
             "Colorful",
             "Stylized"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -101235,7 +113448,18 @@ var data =
             "Story Rich",
             "Atmospheric",
             "3D"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "portuguese": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -101311,7 +113535,19 @@ var data =
             "Souls-like",
             "Horror",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -101387,7 +113623,15 @@ var data =
             "Singleplayer",
             "2D",
             "Precision Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "russian": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -101451,7 +113695,10 @@ var data =
             "Roguelite",
             "Difficult",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -101527,7 +113774,36 @@ var data =
             "Stylized",
             "Controller",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IAS",
+            "brazilian": "IAS",
+            "bulgarian": "IAS",
+            "czech": "IAS",
+            "danish": "IAS",
+            "dutch": "IAS",
+            "finnish": "IAS",
+            "greek": "IAS",
+            "hungarian": "IAS",
+            "koreana": "IAS",
+            "latam": "IAS",
+            "norwegian": "IAS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "romanian": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "swedish": "IAS",
+            "tchinese": "IAS",
+            "turkish": "IAS",
+            "ukrainian": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -101542,7 +113818,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 88,
+        "playersTotal": 89,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -101603,7 +113879,16 @@ var data =
             "Great Soundtrack",
             "Multiplayer",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -101671,7 +113956,15 @@ var data =
             "Indie",
             "Fast-Paced",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -101747,7 +114040,10 @@ var data =
             "Level Editor",
             "Fast-Paced",
             "Modern"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -101806,6 +114102,16 @@ var data =
             "Strategy",
             "Indie"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I"
+        },
         "information": "Curated on Steam: https://store.steampowered.com/app/980880/Twinfold/?curator_clanid=36185934"
     },
     {
@@ -101882,7 +114188,10 @@ var data =
             "Tutorial",
             "Action",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -101958,7 +114267,18 @@ var data =
             "Score Attack",
             "Singleplayer",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -102029,7 +114349,13 @@ var data =
             "FPS",
             "Great Soundtrack",
             "Mature"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "S",
+            "italian": "S",
+            "spanish": "S"
+        }
     },
     {
         "gameType": 0,
@@ -102097,7 +114423,17 @@ var data =
             "Adventure",
             "Horror",
             "Typing"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -102169,7 +114505,14 @@ var data =
             "Retro",
             "Singleplayer",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -102184,7 +114527,7 @@ var data =
         "updatedAt": "2025-10-21T04:29:33.000Z",
         "playersCompleted": 3,
         "playersStarted": 4,
-        "playersTotal": 135,
+        "playersTotal": 136,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -102246,6 +114589,14 @@ var data =
             "Roguelike",
             "Sports"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I"
+        },
         "information": "The relevant games by category are as follows:\n\n__Arcade:__ Magic Garden, Pingolf, Paint Chase, Bushido Ball, Planet Zoldath, Hot Foot, Onion Delivery, Campanella.\n\n__Action:__ Kick Club, Elfazar's Hat, Overbold, Fist Hell, Campanella 2, Cyber Owls.\n\n__Bullet Hell:__ Star Waspir, Caramel Caramel, Seaside Drive, Campanella 3.\n\n__Platformer:__ Ninpek, Waldorf's journey, Velgress, Rakshasa.\n\n__Strategy:__ Lords of Diskonia, Party House, Bug Hunter, Devilition."
     },
     {
@@ -102322,7 +114673,27 @@ var data =
             "Retro",
             "Local Multiplayer",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "danish": "IS",
+            "dutch": "IS",
+            "finnish": "IS",
+            "koreana": "IS",
+            "norwegian": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -102337,7 +114708,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 174,
+        "playersTotal": 175,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -102399,6 +114770,21 @@ var data =
             "3D Vision",
             "Adventure"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "czech": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        },
         "information": "Only the regular trial menu will award the \"Trial Athlete\" achievement, do not complete the non-DLC trials on the Ultra Trial menu."
     },
     {
@@ -102470,6 +114856,9 @@ var data =
             "Score Attack",
             "Tutorial"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "Curated on Steam: https://store.steampowered.com/app/2099390/Umbral_Omen/?curator_clanid=36185934"
     },
     {
@@ -102544,7 +114933,11 @@ var data =
             "Cute",
             "Puzzle Platformer",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -102605,7 +114998,13 @@ var data =
             "Female Protagonist",
             "2D",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS",
+            "koreana": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -102671,7 +115070,11 @@ var data =
             "Platformer",
             "Anime",
             "Puzzle Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -102747,7 +115150,25 @@ var data =
             "Magic",
             "Epic",
             "Online Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IAS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "dutch": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -102822,7 +115243,24 @@ var data =
             "Singleplayer",
             "Local Co-Op",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "finnish": "IS",
+            "hindi": "IS",
+            "latam": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS",
+            "vietnamese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -102898,7 +115336,24 @@ var data =
             "Cute",
             "Competitive",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -102973,7 +115428,15 @@ var data =
             "2D Platformer",
             "Controller",
             "Physics"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -103049,7 +115512,15 @@ var data =
             "Controller",
             "Indie",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -103125,7 +115596,17 @@ var data =
             "Co-op",
             "Puzzle Platformer",
             "Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -103201,7 +115682,23 @@ var data =
             "Physics",
             "Action",
             "Simulation"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -103269,7 +115766,10 @@ var data =
             "2D",
             "Side Scroller",
             "Dark"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -103345,7 +115845,21 @@ var data =
             "Colorful",
             "Emotional",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -103410,7 +115924,16 @@ var data =
             "Singleplayer",
             "Physics",
             "Motorbike"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "polish": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -103471,7 +115994,20 @@ var data =
             "Action",
             "Indie",
             "Casual"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -103547,7 +116083,21 @@ var data =
             "Colorful",
             "Family Friendly",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -103623,7 +116173,10 @@ var data =
             "Action-Adventure",
             "Cartoony",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -103699,7 +116252,10 @@ var data =
             "Beat 'em up",
             "GameMaker",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -103775,7 +116331,24 @@ var data =
             "Horror",
             "Old School",
             "Metroidvania"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "finnish": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -103851,7 +116424,22 @@ var data =
             "Singleplayer",
             "On-Rails Shooter",
             "Blood"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -103927,7 +116515,10 @@ var data =
             "Nostalgia",
             "Casual",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -104003,7 +116594,18 @@ var data =
             "Sexual Content",
             "Action-Adventure",
             "Stealth"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -104079,7 +116681,15 @@ var data =
             "Violent",
             "Classic",
             "Cyberpunk"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -104155,7 +116765,17 @@ var data =
             "Top-Down",
             "Fantasy",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -104231,7 +116851,10 @@ var data =
             "Singleplayer",
             "Indie",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -104307,7 +116930,36 @@ var data =
             "Puzzle",
             "Psychedelic",
             "Co-op"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -104369,7 +117021,11 @@ var data =
             "Fast-Paced",
             "Singleplayer",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -104445,7 +117101,14 @@ var data =
             "Parkour",
             "Swordplay",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IAS",
+            "brazilian": "IAS",
+            "latam": "IAS",
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -104510,7 +117173,14 @@ var data =
             "Sci-fi",
             "Singleplayer",
             "Top-Down Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -104525,7 +117195,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 50,
         "playersStarted": 25,
-        "playersTotal": 410,
+        "playersTotal": 411,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -104579,7 +117249,27 @@ var data =
             "Physics",
             "Retro",
             "Parkour"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "thai": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -104655,7 +117345,17 @@ var data =
             "Indie",
             "Singleplayer",
             "Trading Card Game"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -104731,7 +117431,19 @@ var data =
             "Anime",
             "Singleplayer",
             "Mystery Dungeon"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "IA",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -104807,7 +117519,11 @@ var data =
             "Cartoony",
             "1990's",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -104883,7 +117599,10 @@ var data =
             "Space",
             "Aliens",
             "Lovecraftian"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -104960,6 +117679,10 @@ var data =
             "Horror",
             "Exploration"
         ],
+        "languages": {
+            "english": "I",
+            "finnish": "I"
+        },
         "information": "Void Stranger is primarily a puzzle game. The challenging content is normally unlocked through progressing the main game. While it is possible to skip straight to the challenge, doing so will bypass the majority of the game's main experience, so do so at your own risk. \n\n\u26a0\u26a0 SPOILERS \u26a0\u26a0\nA spoiler-filled guide on how to skip to the mode (post-game content) can be found here:\nhttps://voidstranger.miraheze.org/wiki/Post\n\u26a0\u26a0 SPOILERS \u26a0\u26a0"
     },
     {
@@ -104975,7 +117698,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 10,
-        "playersTotal": 273,
+        "playersTotal": 274,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -105037,6 +117760,10 @@ var data =
             "Action-Adventure",
             "Procedural Generation"
         ],
+        "languages": {
+            "english": "IAS",
+            "swedish": "IS"
+        },
         "information": "Game has been valued in the context of the most powerful build. The build is:\n1. take back shield starting item\n2. carry any large melee weapon (including starting weapon like bomb rod)\n3. try to take any and all stomp or button items\n\nThen spam jump and hold block whenever in combat for the rest of the game, try to always be bouncing on enemies or buttons if possible. \n\nVery nice to have but not necessary: Protectus Gem, Movement speed items. "
     },
     {
@@ -105109,7 +117836,10 @@ var data =
             "Fantasy",
             "Gore",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -105185,6 +117915,9 @@ var data =
             "Singleplayer",
             "Remake"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "Pressing spacebar during level select will delete all of your achievements. "
     },
     {
@@ -105248,7 +117981,13 @@ var data =
             "Great Soundtrack",
             "Story Rich",
             "Comedy"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -105324,7 +118063,31 @@ var data =
             "Puzzle",
             "Open World",
             "Space"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "catalan": "I",
+            "dutch": "I",
+            "irish": "I",
+            "koreana": "I",
+            "latam": "I",
+            "persian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I",
+            "ukrainian": "I",
+            "welsh": "I"
+        }
     },
     {
         "gameType": 0,
@@ -105400,7 +118163,22 @@ var data =
             "Cute",
             "Top-Down",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -105476,7 +118254,10 @@ var data =
             "Colorful",
             "Atmospheric",
             "Supernatural"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -105552,7 +118333,15 @@ var data =
             "1980s",
             "Combat",
             "Gore"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -105628,7 +118417,21 @@ var data =
             "Realistic",
             "Dark Fantasy",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -105643,7 +118446,7 @@ var data =
         "updatedAt": "2025-10-27T23:23:28.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 12,
+        "playersTotal": 13,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -105704,7 +118507,26 @@ var data =
             "Realistic",
             "Futuristic",
             "Cinematic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IS",
+            "thai": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -105719,7 +118541,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 531,
+        "playersTotal": 532,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -105780,7 +118602,18 @@ var data =
             "Atmospheric",
             "FPS",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -105856,7 +118689,15 @@ var data =
             "Arcade",
             "Indie",
             "Competitive"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -105927,7 +118768,11 @@ var data =
             "Sci-fi",
             "Shoot 'Em Up",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "german": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -105988,7 +118833,10 @@ var data =
             "Racing",
             "Adventure",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -106048,7 +118896,15 @@ var data =
             "Indie",
             "Beat 'em up",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -106118,7 +118974,15 @@ var data =
             "Arena Shooter",
             "Shooter",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I"
+        }
     },
     {
         "gameType": 0,
@@ -106193,7 +119057,18 @@ var data =
             "Family Friendly",
             "Casual",
             "Classic"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -106269,7 +119144,24 @@ var data =
             "Colorful",
             "Cute",
             "Building"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "galician": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "luxembourgish": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -106345,7 +119237,10 @@ var data =
             "Strategy",
             "Mature",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -106421,7 +119316,10 @@ var data =
             "Memes",
             "Multiplayer",
             "Roguelike"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -106495,7 +119393,10 @@ var data =
             "Singleplayer",
             "Indie",
             "Precision Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -106565,7 +119466,10 @@ var data =
             "Perma Death",
             "Physics",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -106641,7 +119545,27 @@ var data =
             "Controller",
             "Experimental",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "catalan": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -106713,7 +119637,16 @@ var data =
             "Drama",
             "Controller",
             "Historical"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -106780,7 +119713,10 @@ var data =
             "Casual",
             "Beautiful",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -106856,7 +119792,16 @@ var data =
             "Strategy",
             "Singleplayer",
             "2.5D"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "brazilian": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -106933,6 +119878,13 @@ var data =
             "Fantasy",
             "Base Building"
         ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        },
         "information": "To unlock Overcranked Mode, beat the Heart of the Storm with each Storm Bell active at least once (can be done in separate runs)."
     },
     {
@@ -107009,7 +119961,34 @@ var data =
             "Indie",
             "Action",
             "Short"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "brazilian": "IS",
+            "bulgarian": "IS",
+            "czech": "IS",
+            "dutch": "IS",
+            "finnish": "IS",
+            "greek": "IS",
+            "hungarian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "norwegian": "IS",
+            "polish": "IS",
+            "portuguese": "IS",
+            "romanian": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS",
+            "vietnamese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -107085,7 +120064,10 @@ var data =
             "Bullet Hell",
             "Character Customization",
             "Nudity"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -107152,7 +120134,10 @@ var data =
             "Difficult",
             "Singleplayer",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -107229,6 +120214,10 @@ var data =
             "Cartoon",
             "Atmospheric"
         ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        },
         "information": "Replays don't work if you go over 10 million score in a run."
     },
     {
@@ -107302,7 +120291,19 @@ var data =
             "Singleplayer",
             "Linear",
             "Fantasy"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -107378,7 +120379,12 @@ var data =
             "Tactical",
             "Character Customization",
             "Inventory Management"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -107454,7 +120460,15 @@ var data =
             "GameMaker",
             "Dark",
             "Violent"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -107469,7 +120483,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 86,
         "playersStarted": 0,
-        "playersTotal": 568,
+        "playersTotal": 569,
         "priceData": {
             "USD": {
                 "initial": 1599,
@@ -107530,7 +120544,17 @@ var data =
             "RPG",
             "Procedural Generation",
             "Fast-Paced"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -107607,6 +120631,19 @@ var data =
             "Atmospheric",
             "Female Protagonist"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IAS",
+            "tchinese": "IS"
+        },
         "information": "Pending investigation on whether DLC content and NG+ can be added as objectives."
     },
     {
@@ -107683,7 +120720,19 @@ var data =
             "Great Soundtrack",
             "Open World",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "polish": "IS",
+            "russian": "IAS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -107753,7 +120802,24 @@ var data =
             "Physics",
             "Singleplayer",
             "Nostalgia"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "latam": "I",
+            "polish": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -107812,7 +120878,15 @@ var data =
             "Action",
             "Indie",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "polish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -107888,7 +120962,18 @@ var data =
             "Story Rich",
             "Strategy",
             "Family Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -107964,7 +121049,15 @@ var data =
             "Adventure",
             "Action",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "polish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -108033,7 +121126,10 @@ var data =
             "Third Person",
             "Indie",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -108107,6 +121203,9 @@ var data =
             "First-Person",
             "Gore"
         ],
+        "languages": {
+            "english": "IS"
+        },
         "information": "The full game is called Episode 1."
     },
     {
@@ -108167,7 +121266,10 @@ var data =
             "Indie",
             "Adventure",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -108231,7 +121333,18 @@ var data =
             "Retro",
             "Great Soundtrack",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -108307,7 +121420,18 @@ var data =
             "Local Co-Op",
             "Puzzle Platformer",
             "Hand-drawn"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -108380,7 +121504,10 @@ var data =
             "Local Multiplayer",
             "PvP",
             "Tutorial"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -108456,7 +121583,10 @@ var data =
             "Controller",
             "Difficult",
             "Puzzle Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -108532,7 +121662,19 @@ var data =
             "Action",
             "Atmospheric",
             "Futuristic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IS",
+            "spanish": "IAS",
+            "koreana": "IS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -108547,7 +121689,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 10,
-        "playersTotal": 487,
+        "playersTotal": 488,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -108608,7 +121750,20 @@ var data =
             "Top-Down",
             "Grid-Based Movement",
             "Logic"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IS",
+            "spanish": "IAS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -108684,7 +121839,17 @@ var data =
             "Gore",
             "Shoot 'Em Up",
             "Roguelite"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "S",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -108760,7 +121925,10 @@ var data =
             "Flight",
             "Score Attack",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -108836,7 +122004,10 @@ var data =
             "Racing",
             "Classic",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -108912,7 +122083,11 @@ var data =
             "Atmospheric",
             "JRPG",
             "Dating Sim"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -108980,7 +122155,13 @@ var data =
             "Indie",
             "Anime",
             "Funny"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -109056,7 +122237,20 @@ var data =
             "Old School",
             "Retro",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -109071,7 +122265,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 11,
-        "playersTotal": 40,
+        "playersTotal": 41,
         "priceData": {
             "USD": {
                 "initial": 1699,
@@ -109132,7 +122326,19 @@ var data =
             "Old School",
             "Arcade",
             "Offroad"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "latam": "IS",
+            "portuguese": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -109201,7 +122407,11 @@ var data =
             "Difficult",
             "Funny",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -109273,7 +122483,16 @@ var data =
             "Difficult",
             "Side Scroller",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "polish": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -109345,7 +122564,14 @@ var data =
             "Multiplayer",
             "Singleplayer",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "portuguese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -109403,7 +122629,10 @@ var data =
         "gameTags": [
             "Indie",
             "Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -109479,7 +122708,22 @@ var data =
             "Singleplayer",
             "Sports",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -109555,7 +122799,14 @@ var data =
             "Linear",
             "Arcade",
             "Action-Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -109618,7 +122869,10 @@ var data =
             "Faith",
             "Anime",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -109694,7 +122948,10 @@ var data =
             "Pixel Graphics",
             "Old School",
             "Medieval"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -109752,7 +123009,10 @@ var data =
         "gameTags": [
             "Action",
             "RPG"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -109825,7 +123085,14 @@ var data =
             "Classic",
             "Remake",
             "3D Vision"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -109892,7 +123159,10 @@ var data =
             "Difficult",
             "Fantasy",
             "Classic"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -109966,7 +123236,12 @@ var data =
             "Controller",
             "Difficult",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "japanese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -110037,7 +123312,10 @@ var data =
             "Top-Down",
             "Remake",
             "Classic"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -110114,6 +123392,9 @@ var data =
             "Colorful",
             "Stylized"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "This game requires a VR headset in order to play."
     },
     {
@@ -110176,7 +123457,10 @@ var data =
             "Violent",
             "Fast-Paced",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -110252,7 +123536,24 @@ var data =
             "Singleplayer",
             "Survival Horror",
             "Blood"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "galician": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -110328,7 +123629,11 @@ var data =
             "Family Friendly",
             "Stylized",
             "Building"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "dutch": "I"
+        }
     },
     {
         "gameType": 0,
@@ -110404,7 +123709,10 @@ var data =
             "Singleplayer",
             "Time Management",
             "Philosophical"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 0,
@@ -110465,7 +123773,10 @@ var data =
             "Shoot 'Em Up",
             "Bullet Hell",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -110526,6 +123837,9 @@ var data =
             "Shoot 'Em Up",
             "Bullet Hell"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "Achievements may not trigger. Check that \"steam:1\" shows up at the bottom of your screen while debug mode is enabled at the start of your gameplay session."
     },
     {
@@ -110585,7 +123899,10 @@ var data =
             "Action",
             "Shoot 'Em Up",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -110648,7 +123965,10 @@ var data =
             "Bullet Hell",
             "Arcade",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -110719,7 +124039,10 @@ var data =
             "Female Protagonist",
             "Difficult",
             "Local Co-Op"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -110795,7 +124118,19 @@ var data =
             "Arcade",
             "Adventure",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "hungarian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I"
+        }
     },
     {
         "gameType": 0,
@@ -110871,7 +124206,10 @@ var data =
             "Linear",
             "Perma Death",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -110928,7 +124266,10 @@ var data =
         },
         "gameTags": [
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -111004,7 +124345,23 @@ var data =
             "Cartoony",
             "Colorful",
             "Isometric"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "arabic": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -111073,7 +124430,10 @@ var data =
             "Indie",
             "2D",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 0,
@@ -111148,7 +124508,15 @@ var data =
             "Anime",
             "Beat 'em up",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IAS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -111217,7 +124585,11 @@ var data =
             "Psychedelic",
             "Zombies",
             "Shoot 'Em Up"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -111280,7 +124652,11 @@ var data =
             "Shooter",
             "Sci-fi",
             "Third-Person Shooter"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -111353,7 +124729,12 @@ var data =
             "Faith",
             "Anime",
             "Shoot 'Em Up"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -111429,7 +124810,10 @@ var data =
             "Trains",
             "Fantasy",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -111497,6 +124881,9 @@ var data =
             "Indie",
             "Nudity"
         ],
+        "languages": {
+            "schinese": "IS"
+        },
         "information": "Valued around ReimuA."
     },
     {
@@ -111562,6 +124949,11 @@ var data =
             "Shoot 'Em Up",
             "Faith"
         ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS"
+        },
         "information": "NOTE: In order to pass the second checkpoint in Stage 2, it must be done on the first attempt upon opening the game. Otherwise, a bug will occur where 3 stacked coins are instead counted as 1, making the checkpoint impossible."
     },
     {
@@ -111627,7 +125019,10 @@ var data =
             "Faith",
             "Anime",
             "Shoot 'Em Up"
-        ]
+        ],
+        "languages": {
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -111703,7 +125098,15 @@ var data =
             "Sexual Content",
             "Indie",
             "Procedural Generation"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IAS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -111773,7 +125176,14 @@ var data =
             "Singleplayer",
             "2D",
             "Arcade"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -111840,7 +125250,13 @@ var data =
             "Singleplayer",
             "2D",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 0,
@@ -111903,7 +125319,10 @@ var data =
             "Bullet Hell",
             "Faith",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "schinese": "IAS"
+        }
     },
     {
         "gameType": 0,
@@ -111973,7 +125392,10 @@ var data =
             "Music",
             "Arcade",
             "Flight"
-        ]
+        ],
+        "languages": {
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 0,
@@ -112050,6 +125472,11 @@ var data =
             "Great Soundtrack",
             "Remake"
         ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I"
+        },
         "information": "Replays may be unstable or fail to save properly. To be safe, please record the game using external programs."
     },
     {
@@ -112079,6 +125506,9 @@ var data =
             "Violent",
             "VR"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "This is the current page for site-listed achievements. \n\n__To be eligible for these achievements,__ please download the associated game \"A CHALLENGE\", (you might need to download Steam 360 Video Player, it's already in your library under \"Tools\" section and run that first), then launch A CHALLENGE for a few minutes, close the game, and then update your profile. You should then show up in the full completions after a while and can post your proof.\n\n*Please remember that objectives on this game do not count toward CO-related roles.*"
     },
     {
@@ -112124,6 +125554,9 @@ var data =
             "Logic",
             "Free to Play"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "This page serves as a list of puzzle games on Steam curated by CE. Each game listed will require you to either complete all/specific achievements in the game, or complete all in-game puzzles offered. The difficulty of these games are ranked on a three-tier system, ranging from Moderate (\ud83d\udfe8), to Challenging (\ud83d\udfe5), to Extreme (\u2b1b). A specialized potentials list for puzzle games can be found on <https://tinyurl.com/Puzzle-Games>. Games are added to this list through a voting system within the CE Discord server\u2014if you wish to participate in that, ask any of the Discord mods for the \"@Puzzle Enthusiast\" role.\n\nGuidelines for proof submission: Steam profile link for achievements, screenshot/video for everything else.\n\nTo be eligible for these achievements, please add the associated game \"Frame of Mind\" to your library, and then update your profile. You should show up in the full completions after a while, and can then post your proof. Please remember that the objectives on this page do not count toward CO-related roles."
     },
     {
@@ -112168,7 +125601,10 @@ var data =
             "Top-Down",
             "1990's",
             "Atmospheric"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -112212,7 +125648,10 @@ var data =
             "3D Platformer",
             "Comedy",
             "Gore"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 1,
@@ -112253,7 +125692,10 @@ var data =
             "Arcade",
             "Competitive",
             "Replay Value"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 1,
@@ -112298,6 +125740,25 @@ var data =
             "PvP",
             "Indie"
         ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "latam": "IAS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "thai": "IAS",
+            "turkish": "IAS",
+            "vietnamese": "IAS"
+        },
         "information": "Point value will be re-evaluated with a second clear."
     },
     {
@@ -112338,6 +125799,9 @@ var data =
             "Strategy RPG",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "[Curated on Steam](https://store.steampowered.com/app/459680/Auro_A_MonsterBumping_Adventure/?curator_clanid=36185934)"
     },
     {
@@ -112382,7 +125846,10 @@ var data =
             "Horror",
             "Psychological Horror",
             "Sexual Content"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -112427,6 +125894,9 @@ var data =
             "Free to Play",
             "Arcade"
         ],
+        "languages": {
+            "english": "IAS"
+        },
         "information": "Contrary to the achievement description, \"Glitches Galore!\" is unlocked by beating NULL Style instead of the expected Glitch Style."
     },
     {
@@ -112458,7 +125928,10 @@ var data =
             "Platformer",
             "2D",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 1,
@@ -112500,7 +125973,10 @@ var data =
             "Combat",
             "Singleplayer",
             "Linear"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -112537,7 +126013,10 @@ var data =
             "Indie",
             "Old School",
             "Linear"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -112581,7 +126060,10 @@ var data =
             "Combat",
             "Adventure",
             "Controller"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -112623,6 +126105,10 @@ var data =
             "Psychedelic",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        },
         "information": "[All missions](https://docs.google.com/spreadsheets/d/1BKIMgBRc1Ak6xEv8OfLXx2CvXZen8bpaCZzDacgd2ss/edit?usp=sharing)\n\nIt's not possible to beat all missions on your first run through.\nJust force your way through the chapters (beating \"X10\" levels gives lots of currency) and try again later when upgraded."
     },
     {
@@ -112666,7 +126152,12 @@ var data =
             "Nature",
             "Indie",
             "Free to Play"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 2,
@@ -112710,7 +126201,23 @@ var data =
             "Gore",
             "Third-Person Shooter",
             "Third Person"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IS",
+            "brazilian": "IAS",
+            "koreana": "IS",
+            "latam": "IAS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IAS",
+            "tchinese": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -112751,6 +126258,9 @@ var data =
             "Bullet Hell",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "I"
+        },
         "information": "\n"
     },
     {
@@ -112775,6 +126285,7 @@ var data =
             "achievements": 16
         },
         "gameTags": [],
+        "languages": {},
         "information": "Delisted from Steam.\n"
     },
     {
@@ -112819,7 +126330,10 @@ var data =
             "Minimalist",
             "Cartoony",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 1,
@@ -112848,7 +126362,10 @@ var data =
             "Casual",
             "Difficult",
             "Great Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 2,
@@ -112871,7 +126388,8 @@ var data =
             "communityText": "",
             "achievements": 12
         },
-        "gameTags": []
+        "gameTags": [],
+        "languages": {}
     },
     {
         "gameType": 2,
@@ -112908,6 +126426,18 @@ var data =
             "Singleplayer",
             "Local Multiplayer"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        },
         "information": "# GAME DISCONTINUED\n\nObjectives are not awarded automatically anymore. Play World EXplosion instead.\n\nIf you earned objectives on this game and do it again in World EXplosion, they will be removed from here. If you really need to play this version, contact Folkius to award objectives manually.\n\nIf you get stutters, restart your device."
     },
     {
@@ -112945,7 +126475,10 @@ var data =
             "Score Attack",
             "Colorful",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -112989,7 +126522,10 @@ var data =
             "Character Customization",
             "Retro",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 1,
@@ -113018,7 +126554,10 @@ var data =
             "Difficult",
             "Arcade",
             "Free to Play"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -113061,7 +126600,14 @@ var data =
             "Replay Value",
             "Time Attack",
             "Free to Play"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 1,
@@ -113098,7 +126644,13 @@ var data =
             "Replay Value",
             "Controller",
             "Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 1,
@@ -113142,7 +126694,10 @@ var data =
             "Indie",
             "Physics",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -113172,7 +126727,14 @@ var data =
             "Platformer",
             "Great Soundtrack",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "german": "I",
+            "polish": "I",
+            "russian": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 1,
@@ -113206,7 +126768,16 @@ var data =
             "Combat",
             "Retro",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "latam": "I",
+            "russian": "I",
+            "swedish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 2,
@@ -113250,7 +126821,11 @@ var data =
             "Local Multiplayer",
             "Co-op",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 2,
@@ -113273,7 +126848,8 @@ var data =
             "communityText": "",
             "achievements": 18
         },
-        "gameTags": []
+        "gameTags": [],
+        "languages": {}
     },
     {
         "gameType": 1,
@@ -113315,7 +126891,13 @@ var data =
             "Colorful",
             "Offroad",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 1,
@@ -113352,7 +126934,10 @@ var data =
             "Cartoony",
             "Magic",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -113396,7 +126981,10 @@ var data =
             "Parkour",
             "Singleplayer",
             "Surreal"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -113432,7 +127020,10 @@ var data =
             "Indie",
             "Mining",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 2,
@@ -113456,6 +127047,7 @@ var data =
             "achievements": 0
         },
         "gameTags": [],
+        "languages": {},
         "information": "Delisted from Steam.\nIt is recommended to record your live gameplay due to replay desync issues, unless you [patch in a fix.](https://steamcommunity.com/app/207400/discussions/0/4356743665188653822/)"
     },
     {
@@ -113491,7 +127083,10 @@ var data =
             "Indie",
             "Controller",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 1,
@@ -113522,7 +127117,10 @@ var data =
             "Difficult",
             "Great Soundtrack",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -113558,7 +127156,10 @@ var data =
             "Parkour",
             "Great Soundtrack",
             "Funny"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -113602,7 +127203,10 @@ var data =
             "Physics",
             "Free to Play",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 2,
@@ -113635,7 +127239,13 @@ var data =
             "Classic",
             "Anime",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 2,
@@ -113669,7 +127279,13 @@ var data =
             "Shooter",
             "Anime",
             "Bullet Hell"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 2,
@@ -113703,6 +127319,13 @@ var data =
             "Shooter",
             "Arcade"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        },
         "information": "Delisted from Steam."
     },
     {
@@ -113743,7 +127366,10 @@ var data =
             "Gore",
             "Difficult",
             "Soundtrack"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 2,
@@ -113776,6 +127402,14 @@ var data =
             "Shooter",
             "Arcade"
         ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "A",
+            "spanish": "IS"
+        },
         "information": "Delisted from Steam."
     },
     {
@@ -113821,6 +127455,13 @@ var data =
             "Casual",
             "Fantasy"
         ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "schinese": "I"
+        },
         "information": "The game is valued assuming you play offline for the final boss. This limits the pool of possible levels to only those included in the installation of the game."
     },
     {
@@ -113855,7 +127496,14 @@ var data =
             "Adventure",
             "Action-Adventure",
             "RPG"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -113895,7 +127543,10 @@ var data =
             "Supernatural",
             "Singleplayer",
             "Swordplay"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -113932,7 +127583,14 @@ var data =
             "2D",
             "Action",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 2,
@@ -113956,6 +127614,7 @@ var data =
             "achievements": 31
         },
         "gameTags": [],
+        "languages": {},
         "information": "Delisted from Steam."
     },
     {
@@ -113992,7 +127651,14 @@ var data =
             "Multiplayer",
             "Indie",
             "Free to Play"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -114032,7 +127698,10 @@ var data =
             "Linear",
             "Multiple Endings",
             "Retro"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -114073,7 +127742,10 @@ var data =
             "Funny",
             "Retro",
             "Memes"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 1,
@@ -114109,6 +127781,12 @@ var data =
             "3D Platformer",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "IAS",
+            "dutch": "I",
+            "russian": "I",
+            "schinese": "I"
+        },
         "information": "All relevant Kreedz information can be found here: [Link](https://docs.google.com/document/d/1h_Pq00T5nlf8aFABE1ln-HtGcewx-zOgMBEcyZRLEto)"
     },
     {
@@ -114153,7 +127831,10 @@ var data =
             "Atmospheric",
             "Short",
             "Cute"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -114197,7 +127878,14 @@ var data =
             "Cats",
             "Score Attack",
             "Free to Play"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "german": "I",
+            "japanese": "I",
+            "latam": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 1,
@@ -114237,7 +127925,10 @@ var data =
             "Family Friendly",
             "Linear",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -114281,7 +127972,13 @@ var data =
             "Atmospheric",
             "Free to Play",
             "Combat"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "latam": "I",
+            "russian": "I"
+        }
     },
     {
         "gameType": 1,
@@ -114296,7 +127993,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 18,
-        "playersTotal": 715,
+        "playersTotal": 716,
         "milestones": {
             "primary": 2,
             "primaryText": "What the Actual Muck? [10\u2605]\nSeparately, beat the game with all players using only a rock as their weapon and tool, and without picking up any power-ups (any difficulty). / Beat the game alone without taking damage on at least \u201cNormal\u201d difficulty. \n\nSwift Escape [5\u2605]\nBeat the game in less than 10 days on \"Gamer\" difficulty. / Beat the game in less than 8 days (any difficulty). ",
@@ -114325,7 +128022,10 @@ var data =
             "RPG",
             "Fantasy",
             "Colorful"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -114364,7 +128064,10 @@ var data =
             "Old School",
             "Retro",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -114406,7 +128109,15 @@ var data =
             "Hidden Object",
             "Casual",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "spanish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I"
+        }
     },
     {
         "gameType": 1,
@@ -114446,7 +128157,15 @@ var data =
             "Cyberpunk",
             "Multiplayer",
             "3D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 2,
@@ -114470,6 +128189,7 @@ var data =
             "achievements": 13
         },
         "gameTags": [],
+        "languages": {},
         "information": "Delisted from Steam."
     },
     {
@@ -114514,7 +128234,11 @@ var data =
             "Free to Play",
             "Indie",
             "Fast-Paced"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "IA"
+        }
     },
     {
         "gameType": 1,
@@ -114554,7 +128278,23 @@ var data =
             "Retro",
             "Illuminati",
             "Memes"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 1,
@@ -114584,7 +128324,10 @@ var data =
             "Platformer",
             "Difficult",
             "Female Protagonist"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -114614,7 +128357,10 @@ var data =
             "Retro",
             "Pixel Graphics",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -114648,7 +128394,10 @@ var data =
             "2D",
             "Singleplayer",
             "Action"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -114675,7 +128424,16 @@ var data =
             "Action",
             "Adventure",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -114703,7 +128461,10 @@ var data =
             "Platformer",
             "Difficult",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -114740,6 +128501,9 @@ var data =
             "Twin Stick Shooter",
             "Pixel Graphics"
         ],
+        "languages": {
+            "english": "IS"
+        },
         "information": "Baseline game.\nYou're better off playing on the second difficulty before attempting Masochism if you have low experience on bullet hell games. The game is short anyways, and the diff is literally called \"Intended Experience\"."
     },
     {
@@ -114764,6 +128528,7 @@ var data =
             "achievements": 47
         },
         "gameTags": [],
+        "languages": {},
         "information": "# GAME DISCONTINUED\n\nPlay Mikado REMIX instead.\n\nIf you earned objectives on this game and do it again in Mikado REMIX, they will be removed from here. If you really need to play this version, contact Folkius to award objectives manually."
     },
     {
@@ -114805,7 +128570,12 @@ var data =
             "Great Soundtrack",
             "Co-op",
             "Multiplayer"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "spanish": "IS",
+            "russian": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -114837,7 +128607,10 @@ var data =
             "Minimalist",
             "Free to Play",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -114881,7 +128654,10 @@ var data =
             "Singleplayer",
             "Family Friendly",
             "Nature"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 2,
@@ -114913,7 +128689,13 @@ var data =
             "Ninja",
             "Retro",
             "Anime"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 2,
@@ -114936,7 +128718,8 @@ var data =
             "communityText": "",
             "achievements": 50
         },
-        "gameTags": []
+        "gameTags": [],
+        "languages": {}
     },
     {
         "gameType": 1,
@@ -114981,6 +128764,16 @@ var data =
             "Violent",
             "PvP"
         ],
+        "languages": {
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I"
+        },
         "information": "Runs with special/easter egg seeds are deemed as a form of seeded run, hence, their use is strictly prohibited. The list of these seeds is the following:\n\u2022 NIL\n\u2022 NO\n\u2022 d9341\n\u2022 5CP_I73\n\u2022 DONTBLINK\n\u2022 CRUNCH\n\u2022 die\n\u2022 HTAED\n\u2022 rustledjim\n\u2022 larry\n\u2022 JORGE\n\u2022 dirtymetal\n\u2022 whatpumpkin"
     },
     {
@@ -115025,7 +128818,21 @@ var data =
             "Great Soundtrack",
             "Dark",
             "Heist"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "arabic": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 1,
@@ -115063,7 +128870,11 @@ var data =
             "Singleplayer",
             "Score Attack",
             "Shoot 'Em Up"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -115105,7 +128916,10 @@ var data =
             "Free to Play",
             "Singleplayer",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -115149,7 +128963,10 @@ var data =
             "Comedy",
             "Physics",
             "Resource Management"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 2,
@@ -115193,7 +129010,14 @@ var data =
             "Replay Value",
             "3D Vision",
             "Funny"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        }
     },
     {
         "gameType": 1,
@@ -115222,7 +129046,10 @@ var data =
             "Indie",
             "Rhythm",
             "Music"
-        ]
+        ],
+        "languages": {
+            "english": "IAS"
+        }
     },
     {
         "gameType": 2,
@@ -115245,7 +129072,8 @@ var data =
             "communityText": "",
             "achievements": 50
         },
-        "gameTags": []
+        "gameTags": [],
+        "languages": {}
     },
     {
         "gameType": 2,
@@ -115285,7 +129113,10 @@ var data =
             "PvP",
             "2D",
             "2D Platformer"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 2,
@@ -115309,6 +129140,7 @@ var data =
             "achievements": 12
         },
         "gameTags": [],
+        "languages": {},
         "information": "Delisted from Steam."
     },
     {
@@ -115347,7 +129179,10 @@ var data =
             "Singleplayer",
             "Pixel Graphics",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 2,
@@ -115377,7 +129212,13 @@ var data =
             "Bullet Hell",
             "2D",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I",
+            "tchinese": "I"
+        }
     },
     {
         "gameType": 2,
@@ -115401,6 +129242,7 @@ var data =
             "achievements": 38
         },
         "gameTags": [],
+        "languages": {},
         "information": "Delisted from Steam."
     },
     {
@@ -115446,6 +129288,9 @@ var data =
             "Family Friendly",
             "Roguelike"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "The game has framerate speed issues. Correct framerate is 50hz."
     },
     {
@@ -115482,7 +129327,10 @@ var data =
             "Controller",
             "Replay Value",
             "Score Attack"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -115514,6 +129362,9 @@ var data =
             "Shooter",
             "Singleplayer"
         ],
+        "languages": {
+            "japanese": "I"
+        },
         "information": "\"Stage Turk\" can be unlocked by entering a secret command after reaching the ending once. Go to the \"How to Play\" screen and  enter Up 7, Down 8, Up 1, Right 2, Tap 1, Right 2, Tap 1, Right 1, Left 3, Tap 1, Left 2, Tap 1, Left 1, Right 1, Tap 8."
     },
     {
@@ -115550,7 +129401,11 @@ var data =
             "Free to Play",
             "Singleplayer",
             "1990's"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -115593,7 +129448,13 @@ var data =
             "Co-op",
             "Remake",
             "Free to Play"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "tchinese": "IS",
+            "vietnamese": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -115623,7 +129484,10 @@ var data =
             "Shoot 'Em Up",
             "Anime",
             "Free to Play"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -115667,7 +129531,13 @@ var data =
             "Family Friendly",
             "Ninja",
             "Adventure"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "spanish": "IS",
+            "latam": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -115708,7 +129578,13 @@ var data =
             "Singleplayer",
             "Combat",
             "Faith"
-        ]
+        ],
+        "languages": {
+            "english": "IAS",
+            "japanese": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     },
     {
         "gameType": 1,
@@ -115745,7 +129621,10 @@ var data =
             "Underground",
             "Exploration",
             "Family Friendly"
-        ]
+        ],
+        "languages": {
+            "english": "IA"
+        }
     },
     {
         "gameType": 1,
@@ -115782,7 +129661,12 @@ var data =
             "Great Soundtrack",
             "Cute",
             "2D"
-        ]
+        ],
+        "languages": {
+            "english": "S",
+            "japanese": "S",
+            "schinese": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -115819,7 +129703,11 @@ var data =
             "Linear",
             "Free to Play",
             "Faith"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 1,
@@ -115834,7 +129722,7 @@ var data =
         "updatedAt": "2025-10-21T05:32:43.000Z",
         "playersCompleted": 0,
         "playersStarted": 16,
-        "playersTotal": 503,
+        "playersTotal": 504,
         "milestones": {
             "primary": 9,
             "primaryText": "Trackmania: Race with your Friends (UNCLEARED) [1\u2605]\nObtain the author medal for tracks 18-25 in the official \"Platform Discovery\" campaign.\n\nDRVR (UNCLEARED) [1\u2605]\nObtain the gold medal for tracks 18-25 in the official \"Platform Discovery\" campaign.\n\nFour Wheel Guy [40\u2605]\nObtain the author medal on tracks 1-17, and finish tracks 18-25 in the official \"Platform Discovery\" campaign. (Ubisoft Nadeo)\n\nUrbs Digitalis (UNCLEARED) [1\u2605]\nObtain all 23 author medals on the official \"NEOCUPRA\" and \"Streamers Campaign\" tracks. (Cupra, Ubisoft Nadeo)\n\nSolstice [130\u2605]\nObtain all 200 author medals in the official seasonal campaigns for 2023 & 2024.\n\nEquinox [90\u2605]\nObtain all 250 author medals in the official seasonal campaigns for 2020, 2021, and 2022.\n\n N. ormal Trilogy [70\u2605]\nObtain all 65 author medals from the official Snow, Rally, and Desert Discovery campaigns. (Ubisoft Nadeo)\n\nUbisoft Cinematic Universe [15\u2605]\nObtain all 15 author medals on the official Hungry Shark, AC: Mirage, Laserhawk campaigns. (Ubisoft Club)\n\nTraining V2 [5\u2605]\nObtain the author medal for the first 20 \"Weekly Shorts\".",
@@ -115864,6 +129752,23 @@ var data =
             "VR",
             "Local Co-Op"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "czech": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
+        },
         "information": "<------------------------->\n**WARNING: All objectives are at a much higher risk of sudden removal/change than any other game on the site. Play at your own risk.**\n\nThe game is F2P, but all current objectives require a yearly subscription (20$ USD) in order to play normally.\n\nAll content can still technically be accessed offline without a subscription by downloading the individual track files through tmx and playing them through the editor (unedited). Using this method of play to earn any of the site listed objectives will require you to post full recorded video proof of every single track instead of the simple screenshots.\n<------------------------->\nAll official non seasonal campaign and weekly shorts content can be easily accessed by joining the \"Challenge Enthusiast\" club. Or by checking any of the following official Ubisoft/Nadeo clubs in-game.\n.Ubisoft Nadeo\n.Ubisoft Club\n.Cupra\n<------------------------->\n\"Potential\" content not currently with an objective.\n.AO8 Forever\n.Green Game Jam\n.Training Maps\n.World Cup & World Tour tracks\n.TOTD 1/1/23+\n.Redbull Faster\n.Formula E"
     },
     {
@@ -115879,7 +129784,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 11,
-        "playersTotal": 544,
+        "playersTotal": 545,
         "milestones": {
             "primary": 2,
             "primaryText": "The Definition of Insanity [15\u2605]\nObtain all E track Author Medals.\n\nStadium Stan [25\u2605]\nObtain the Author Medal on all A through D tracks.",
@@ -115909,6 +129814,23 @@ var data =
             "First-Person",
             "Indie"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "czech": "I",
+            "dutch": "I",
+            "hungarian": "I",
+            "korean": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "slovakian": "I",
+            "tchinese": "I"
+        },
         "information": "How to fix white screen issues:\n[https://steamcommunity.com/sharedfiles/filedetails/?id=448953593](https://steamcommunity.com/sharedfiles/filedetails/?id=448953593)\n"
     },
     {
@@ -115953,7 +129875,33 @@ var data =
             "Dark",
             "Retro",
             "Indie"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "bulgarian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I"
+        }
     },
     {
         "gameType": 1,
@@ -115998,6 +129946,9 @@ var data =
             "Simulation",
             "Character Customization"
         ],
+        "languages": {
+            "english": "IA"
+        },
         "information": "[Guide to understand 50/20 mode](https://youtu.be/BTV1fto4fBg)"
     },
     {
@@ -116041,7 +129992,18 @@ var data =
             "Tutorial",
             "Futuristic",
             "Free to Play"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I",
+            "thai": "I"
+        }
     },
     {
         "gameType": 2,
@@ -116064,7 +130026,8 @@ var data =
             "communityText": "",
             "achievements": 50
         },
-        "gameTags": []
+        "gameTags": [],
+        "languages": {}
     },
     {
         "gameType": 1,
@@ -116109,6 +130072,9 @@ var data =
             "Singleplayer",
             "Puzzle"
         ],
+        "languages": {
+            "english": "IAS"
+        },
         "information": "[https://discord.com/channels/639112509445505044/1394317393060298992](https://discord.com/channels/639112509445505044/1394317393060298992)\n\nWhen you submit verification for any of the objectives, follow the Discord link above and provide your point estimate for the objectives you have completed, what your playtime is, and how much experience you have in other VSRGs.\n\n*This is an experimental attempt at asking for data points to contribute towards a more accurate point assessment for objectives.* "
     },
     {
@@ -116150,7 +130116,11 @@ var data =
             "Dark",
             "Hand-drawn",
             "Pixel Graphics"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "koreana": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -116185,7 +130155,11 @@ var data =
             "Puzzle Platformer",
             "Precision Platformer",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "IS",
+            "spanish": "IS"
+        }
     },
     {
         "gameType": 1,
@@ -116229,7 +130203,10 @@ var data =
             "Retro",
             "Sci-fi",
             "Free to Play"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -116272,7 +130249,11 @@ var data =
             "Female Protagonist",
             "Indie",
             "Difficult"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 1,
@@ -116309,7 +130290,10 @@ var data =
             "Free to Play",
             "2D",
             "Singleplayer"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -116353,7 +130337,10 @@ var data =
             "Classic",
             "Controller",
             "Open World"
-        ]
+        ],
+        "languages": {
+            "english": "I"
+        }
     },
     {
         "gameType": 1,
@@ -116397,7 +130384,10 @@ var data =
             "Psychological Horror",
             "Supernatural",
             "Multiple Endings"
-        ]
+        ],
+        "languages": {
+            "english": "IS"
+        }
     },
     {
         "gameType": 2,
@@ -116421,6 +130411,7 @@ var data =
             "achievements": 210
         },
         "gameTags": [],
+        "languages": {},
         "information": "Delisted from Steam.\n\nVery hard bonus 1 is broken and can only be entered in practice and gauntlet. Very hard bonus 3 is also broken, when entered from the regular stage it doesn't work correctly (its free).\n\nNo one has any idea how the \"Encounter all enemies\" achievements work. If you have information or know how they work, notify a mod. Maybe they can be added to a PO. Though it is likely they are more of a puzzle than a challenge, and/or simply broken."
     },
     {
@@ -116459,7 +130450,14 @@ var data =
             "Female Protagonist",
             "Turn-Based",
             "RPG"
-        ]
+        ],
+        "languages": {
+            "english": "IA",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IA",
+            "tchinese": "IA"
+        }
     },
     {
         "gameType": 1,
@@ -116496,7 +130494,11 @@ var data =
             "Multiple Endings",
             "Music",
             "Faith"
-        ]
+        ],
+        "languages": {
+            "english": "I",
+            "japanese": "I"
+        }
     },
     {
         "gameType": 1,
@@ -116535,6 +130537,11 @@ var data =
             "Linear",
             "Singleplayer"
         ],
+        "languages": {
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS"
+        },
         "information": "Balanced around Youmu&Koishi (except possibly the Extra perfect runs)."
     },
     {
@@ -120522,7 +134529,8 @@ var data =
             "communityText": "",
             "achievements": 45
         },
-        "gameTags": []
+        "gameTags": [],
+        "languages": {}
     },
     {
         "gameType": 4,
@@ -120549,6 +134557,13 @@ var data =
             "Action",
             "Indie"
         ],
+        "languages": {
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
+        },
         "information": "The actual store page is located here: [https://store.steampowered.com/app/41014](https://store.steampowered.com/app/41014)"
     }
 ]
@@ -120557,8 +134572,8 @@ var date =
     "day": 15,
     "month": 11,
     "year": 2025,
-    "hour": 8,
-    "minute": 32,
-    "second": 43,
-    "searchTime": 846.7327404022217
+    "hour": 10,
+    "minute": 3,
+    "second": 46,
+    "searchTime": 831.9119009971619
 }
