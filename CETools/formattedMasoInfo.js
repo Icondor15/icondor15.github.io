@@ -2832,9 +2832,9 @@ var masoData =
         "description": "\u2733 Play these mini-games to earn FREE in-game currency*",
         "tier": "2",
         "owners": 56,
-        "completions": 30,
-        "playtime": 11.19,
-        "newestCompletion": "2025-10-05T03:31:28.000Z"
+        "completions": 31,
+        "playtime": 11.137096774193548,
+        "newestCompletion": "2025-11-15T01:09:38.000Z"
     },
     "297410": {
         "description": "\u2733 Space Trace",
@@ -3576,9 +3576,9 @@ var masoData =
         "description": "\ud83c\udf1f Press F to pay respect",
         "tier": "5",
         "owners": 80,
-        "completions": 11,
-        "playtime": 31.783333333333335,
-        "newestCompletion": "2024-12-26T16:34:08.000Z",
+        "completions": 12,
+        "playtime": 38.987500000000004,
+        "newestCompletion": "2025-11-07T22:21:25.000Z",
         "badges": {
             "count": 1,
             "points": 0
