@@ -1858,7 +1858,6 @@
                     sheet[localStorage.key(i)] = localStorage.getItem(localStorage.key(i));
                 }
 
-
                 let str = localStorage.getItem("name") ?? "Daggerheart Character Sheet";
 
                 let today = new Date().toISOString();
@@ -1919,6 +1918,7 @@
             {
                 var element = document.createElement('a');
                 element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+                element.setAttribute('target', '_blank');
                 element.setAttribute('download', filename);
 
                 element.style.display = 'none';
