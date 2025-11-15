@@ -1,58 +1,28 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 665270,
-        "CEId": "8d34839e-5283-4f79-8a66-5780c2156bd9",
-        "name": "Barrage Musical  ~A Fantasy of Tempest~",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/665270/header.jpg?t=1576291657",
-        "genre": "Bullet Hell",
+        "gameType": 2,
+        "platformId": 1297720,
+        "CEId": "8194c133-1305-400c-a71a-7621c96ac9a5",
+        "name": "Starstruck: Prologue",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1297720/header.jpg?t=1666057889",
+        "genre": "Arcade",
         "tier": 3,
-        "points": 65,
-        "createdAt": "2022-11-14T02:57:31.000Z",
+        "points": 55,
+        "createdAt": "2022-11-15T16:33:27.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 1,
-        "playersStarted": 7,
-        "playersTotal": 47,
-        "priceData": {
-            "USD": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 699,
-                "final": 699,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 98000,
-                "final": 98000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
-            }
-        },
+        "playersCompleted": 9,
+        "playersStarted": 15,
+        "playersTotal": 149,
         "milestones": {
             "primary": 3,
-            "primaryText": "Blazing Musician [35\u2605]\nGet the true ending on Ultra difficulty without continues.\n\nPut Out[20\u2605 (Partial: 5\u2605)]\nClear the game on Ultra difficulty without continues. (Any ending)\n\nIgnition [10\u2605]\nClear the game on Lunatic difficulty or higher without continues. / Clear the game with 2 million coins.",
+            "primaryText": "Guitar Star [35\u2605]\nObtain S rank on every song in the \"More\" tab on Master difficulty.\n\nChord Strummer [5\u2605]\nObtain A rank on every song in the \"More\" tab on Master difficulty.\n\nFretboard Finesse[15\u2605 (Partial: 5\u2605)]\nObtain S rank on every song in the \"20XX\" tab on Master difficulty. *Partial points are awarded as a progress milestone.",
             "community": 0,
             "communityText": "",
-            "achievements": 29
-        }
+            "achievements": 12
+        },
+        "gameTags": [],
+        "information": "Delisted from Steam."
     }
 }
-var gameOfDayDate = '2025-11-14'
+var gameOfDayDate = '2025-11-15'
