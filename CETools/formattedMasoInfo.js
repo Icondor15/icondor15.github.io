@@ -95,7 +95,7 @@ var masoData =
     "928840": {
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
-        "owners": 53,
+        "owners": 54,
         "completions": 12,
         "playtime": 7.356944444444443,
         "newestCompletion": "2025-11-02T23:13:45.000Z"
@@ -305,7 +305,7 @@ var masoData =
         "tier": "1",
         "owners": 142,
         "completions": 41,
-        "playtime": 131.07032520325205,
+        "playtime": 131.11910569105692,
         "newestCompletion": "2024-07-19T16:20:48.000Z",
         "badges": {
             "count": 1,
@@ -1536,9 +1536,9 @@ var masoData =
         "description": "\u272a Hotline Harambe",
         "tier": "4",
         "owners": 92,
-        "completions": 22,
-        "playtime": 65.02651515151514,
-        "newestCompletion": "2024-11-13T08:36:03.000Z",
+        "completions": 23,
+        "playtime": 63.15652173913043,
+        "newestCompletion": "2025-11-15T20:34:52.000Z",
         "badges": {
             "count": 1,
             "points": 10
@@ -2745,7 +2745,7 @@ var masoData =
         "tier": "2",
         "owners": 61,
         "completions": 22,
-        "playtime": 29.466666666666672,
+        "playtime": 29.486363636363638,
         "newestCompletion": "2024-11-05T00:03:31.000Z"
     },
     "1003590": {
@@ -3037,7 +3037,7 @@ var masoData =
         "newestCompletion": "2024-04-24T16:18:37.000Z"
     },
     "658780": {
-        "description": "explosive poop",
+        "description": "\u2665\u2665\u2665\u2665 and bomb torture",
         "tier": "1",
         "owners": 14,
         "completions": 8,
@@ -3537,7 +3537,7 @@ var masoData =
         "tier": "2",
         "owners": 94,
         "completions": 34,
-        "playtime": 50.60490196078432,
+        "playtime": 50.61323529411765,
         "newestCompletion": "2025-10-05T20:51:14.000Z"
     },
     "1442170": {
@@ -3569,7 +3569,7 @@ var masoData =
         "tier": "2",
         "owners": 59,
         "completions": 6,
-        "playtime": 70.31388888888888,
+        "playtime": 70.31944444444444,
         "newestCompletion": "2025-01-10T01:59:05.000Z"
     },
     "274190": {
@@ -3580,8 +3580,8 @@ var masoData =
         "playtime": 38.987500000000004,
         "newestCompletion": "2025-11-07T22:21:25.000Z",
         "badges": {
-            "count": 1,
-            "points": 0
+            "count": 2,
+            "points": 10
         }
     },
     "2068820": {
@@ -4041,7 +4041,7 @@ var masoData =
         "tier": "2",
         "owners": 49,
         "completions": 6,
-        "playtime": 104.0138888888889,
+        "playtime": 104.17222222222222,
         "newestCompletion": "2024-12-25T21:30:16.000Z",
         "badges": {
             "count": 1,
@@ -4359,7 +4359,7 @@ var masoData =
     "1345860": {
         "description": "Grapple Doggo ",
         "tier": "1",
-        "owners": 29,
+        "owners": 30,
         "completions": 14,
         "playtime": 17.116666666666664,
         "newestCompletion": "2025-10-27T20:24:28.000Z"
@@ -4463,7 +4463,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 53,
+        "owners": 54,
         "completions": 9,
         "playtime": 2212.327777777778,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
