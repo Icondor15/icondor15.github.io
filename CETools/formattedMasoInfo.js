@@ -95,7 +95,7 @@ var masoData =
     "928840": {
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
-        "owners": 54,
+        "owners": 55,
         "completions": 12,
         "playtime": 7.356944444444443,
         "newestCompletion": "2025-11-02T23:13:45.000Z"
@@ -772,9 +772,9 @@ var masoData =
         "description": "\u2606 Simulates running IRL",
         "tier": "3",
         "owners": 104,
-        "completions": 34,
-        "playtime": 24.38137254901961,
-        "newestCompletion": "2024-11-07T19:51:59.000Z"
+        "completions": 35,
+        "playtime": 24.40904761904762,
+        "newestCompletion": "2025-11-16T08:23:05.000Z"
     },
     "658150": {
         "description": "\u2606 Has one of the most well designed hard mode a platformer can offer",
@@ -2263,10 +2263,10 @@ var masoData =
     "1229580": {
         "description": "\u2733 Absolutely Discusting",
         "tier": "2",
-        "owners": 116,
-        "completions": 80,
-        "playtime": 17.527500000000003,
-        "newestCompletion": "2025-09-23T22:04:37.000Z",
+        "owners": 117,
+        "completions": 81,
+        "playtime": 17.42448559670782,
+        "newestCompletion": "2025-11-16T17:44:03.000Z",
         "badges": {
             "count": 1,
             "points": 6
@@ -2931,7 +2931,7 @@ var masoData =
     "1651960": {
         "description": "\u272a who fed ziggs",
         "tier": "4",
-        "owners": 19,
+        "owners": 20,
         "completions": 4,
         "playtime": 36.35,
         "newestCompletion": "2021-12-14T14:44:10.000Z"
@@ -4075,7 +4075,7 @@ var masoData =
     "1071870": {
         "description": "I put my right leg in, I put my right leg out, In out, in out, shake it all about. (Co-op)",
         "tier": "1",
-        "owners": 42,
+        "owners": 43,
         "completions": 16,
         "playtime": 10.815624999999999,
         "newestCompletion": "2025-10-05T17:01:04.000Z",
@@ -4455,7 +4455,7 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 55,
+        "owners": 56,
         "completions": 21,
         "playtime": 106.07063492063489,
         "newestCompletion": "2025-11-13T22:37:01.000Z"
@@ -4463,7 +4463,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 54,
+        "owners": 55,
         "completions": 9,
         "playtime": 2212.327777777778,
         "newestCompletion": "2025-06-20T03:30:05.000Z",
