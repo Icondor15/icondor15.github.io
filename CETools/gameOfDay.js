@@ -2,93 +2,73 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1370050,
-        "CEId": "e3f715a2-b645-4e6f-8d3c-df8c92d4672d",
-        "name": "Trek to Yomi",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1370050/header.jpg?t=1728950386",
-        "genre": "Action",
+        "platformId": 255340,
+        "CEId": "e5c143b7-7d85-4e59-a0e0-5f7ccaf4922c",
+        "name": "Escape Goat 2",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/255340/header.jpg?t=1667944341",
+        "genre": "Platformer",
         "tier": 1,
         "points": 5,
-        "createdAt": "2024-11-17T10:48:22.000Z",
+        "createdAt": "2023-11-18T18:46:06.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 2,
+        "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 81,
+        "playersTotal": 86,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1950,
-                "final": 1950,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1675,
-                "final": 1675,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 230000,
-                "final": 230000,
+                "initial": 98000,
+                "final": 98000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2950,
-                "final": 2950,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2599,
-                "final": 2599,
+                "initial": 1099,
+                "final": 1099,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Unstoppable [5\u2605]\nComplete the game in Ronin Mode.",
+            "primaryText": "You're Goated [5\u2605]\nBeat the game in under 30 minutes without loading from saves. / Beat all secret rooms.",
             "community": 0,
             "communityText": "",
-            "achievements": 28
+            "achievements": 16
         },
         "gameTags": [
+            "Indie",
+            "Platformer",
+            "Puzzle",
+            "Casual",
             "Action",
-            "Adventure",
-            "Side Scroller",
-            "Hack and Slash",
-            "Action-Adventure",
-            "Cinematic",
-            "Swordplay",
-            "Atmospheric",
-            "Stylized",
-            "Third Person",
-            "Ninja",
-            "Historical",
-            "Demons",
-            "Combat",
+            "Great Soundtrack",
+            "2D",
             "Singleplayer",
-            "Story Rich",
-            "Narration",
-            "Violent",
-            "Drama",
-            "Martial Arts"
+            "Puzzle Platformer",
+            "Controller",
+            "Pixel Graphics"
         ],
         "languages": {
-            "english": "IS",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "japanese": "IAS",
-            "spanish": "IS",
-            "brazilian": "IS",
-            "koreana": "IS",
-            "polish": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "tchinese": "IS"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2025-11-17'
+var gameOfDayDate = '2025-11-18'
