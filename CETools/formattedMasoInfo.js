@@ -2080,9 +2080,9 @@ var masoData =
         "description": "What, you\"ve got daddy issues boyo??",
         "tier": "1",
         "owners": 166,
-        "completions": 79,
-        "playtime": 99.41582278481015,
-        "newestCompletion": "2025-09-16T17:08:10.000Z",
+        "completions": 80,
+        "playtime": 99.23875000000001,
+        "newestCompletion": "2025-11-16T21:13:22.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -3771,10 +3771,10 @@ var masoData =
     "1123050": {
         "description": "Destroy... Absorb... Grow...",
         "tier": "1",
-        "owners": 44,
-        "completions": 7,
-        "playtime": 31.976190476190474,
-        "newestCompletion": "2024-06-02T02:34:47.000Z"
+        "owners": 45,
+        "completions": 8,
+        "playtime": 31.218749999999996,
+        "newestCompletion": "2025-11-18T18:48:45.000Z"
     },
     "2228030": {
         "description": "Puyo in the grinder",
