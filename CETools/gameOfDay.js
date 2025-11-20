@@ -2,82 +2,76 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2002850,
-        "CEId": "f52f156d-4ca1-41ba-b256-a028da59d58c",
-        "name": "Raiden IV x MIKADO remix",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2002850/header.jpg?t=1675188244",
-        "genre": "Bullet Hell",
-        "tier": 4,
-        "points": 150,
-        "createdAt": "2023-11-19T17:40:31.000Z",
+        "platformId": 2068820,
+        "CEId": "d32e7a4b-ffb3-4be2-8548-528bf5a0df01",
+        "name": "Radial Flow",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2068820/header.jpg?t=1659830430",
+        "genre": "Arcade",
+        "tier": 5,
+        "points": 270,
+        "createdAt": "2022-11-20T13:04:52.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 1,
-        "playersStarted": 1,
-        "playersTotal": 5,
+        "playersCompleted": 5,
+        "playersStarted": 11,
+        "playersTotal": 71,
         "priceData": {
             "USD": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 2499,
-                "final": 2499,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 418000,
-                "final": 418000,
+                "initial": 52000,
+                "final": 52000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 4495,
-                "final": 4495,
+                "initial": 750,
+                "final": 750,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 3999,
-                "final": 3999,
+                "initial": 569,
+                "final": 569,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Ultimate OverKill [60\u2605]\n1CC OverKill mode on \"ULTIMATE\" difficulty(changing lives/bombs is allowed).\n\nRaiden Ace [35\u2605]\n1CC OverKill Mode on \"Normal\" difficulty or higher (changing lives/bombs is allowed).\n\nArcade Legend [40\u2605]\n1CC Arcade Mode Original on \"Original\" difficulty or higher on default settings.\n\nBoss Rusher [15\u2605]\n1CC both loops on Boss Rush Mode (changing lives/bombs is allowed).",
+            "primaryText": "Concentric Cascade [170\u2605]\nComplete all Overflow difficulty levels.\n\nDiametric Deluge [60\u2605]\nComplete all Extreme difficulty levels.\n\nRadial Riptide [35\u2605]\nComplete all Hard difficulty levels.\n\nChord Current [5\u2605]\nComplete all Easy and Medium difficulty levels.",
             "community": 0,
             "communityText": "",
-            "achievements": 47
+            "achievements": 33
         },
         "gameTags": [
             "Action",
-            "Adventure",
             "Arcade",
-            "Shooter",
-            "Bullet Hell",
-            "Shoot 'Em Up",
-            "Flight",
-            "Top-Down Shooter",
+            "Rhythm",
+            "Difficult",
+            "Indie",
             "Colorful",
-            "Pixel Graphics",
-            "Top-Down",
-            "Aliens",
-            "Jet",
-            "Sci-fi",
-            "Space",
+            "Minimalist",
+            "Psychedelic",
             "Score Attack",
-            "Co-op Campaign",
-            "Local Co-Op",
+            "2D",
+            "Music",
+            "Abstract",
+            "Procedural Generation",
             "Singleplayer"
         ],
         "languages": {
-            "english": "IS",
-            "japanese": "IS"
+            "english": "IA"
         }
     }
 }
-var gameOfDayDate = '2025-11-19'
+var gameOfDayDate = '2025-11-20'
