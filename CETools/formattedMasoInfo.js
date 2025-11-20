@@ -2828,14 +2828,6 @@ var masoData =
         "playtime": 7.283333333333334,
         "newestCompletion": "2022-11-25T02:51:33.000Z"
     },
-    "1268960": {
-        "description": "\u2733 Play these mini-games to earn FREE in-game currency*",
-        "tier": "2",
-        "owners": 56,
-        "completions": 31,
-        "playtime": 11.137096774193548,
-        "newestCompletion": "2025-11-15T01:09:38.000Z"
-    },
     "297410": {
         "description": "\u2733 Space Trace",
         "tier": "2",
@@ -2843,18 +2835,6 @@ var masoData =
         "completions": 3,
         "playtime": 17.144444444444446,
         "newestCompletion": "2023-05-07T09:48:24.000Z"
-    },
-    "253750": {
-        "description": "\ud83c\udf1f it's a great game, yea. a classic, if you will",
-        "tier": "5",
-        "owners": 53,
-        "completions": 2,
-        "playtime": 51.275000000000006,
-        "newestCompletion": "2023-03-14T20:39:08.000Z",
-        "badges": {
-            "count": 1,
-            "points": 3
-        }
     },
     "1123770": {
         "description": "\u272a A great game cursed only by its final achievement",
@@ -2895,14 +2875,6 @@ var masoData =
             "count": 1,
             "points": 3
         }
-    },
-    "584640": {
-        "description": "\u2733 420? What does that mean? Are you alright?",
-        "tier": "2",
-        "owners": 53,
-        "completions": 31,
-        "playtime": 8.003763440860215,
-        "newestCompletion": "2025-11-07T13:59:10.000Z"
     },
     "1225610": {
         "description": "\ud83c\udf1fThe Akashic Records don't mention how brutal this shmup is",
@@ -2996,22 +2968,6 @@ var masoData =
         "playtime": 8.745238095238095,
         "newestCompletion": "2024-10-23T11:00:09.000Z"
     },
-    "581660": {
-        "description": "\ud83c\udf1f Super Seed Boy",
-        "tier": "5",
-        "owners": 119,
-        "completions": 13,
-        "playtime": 75.67307692307693,
-        "newestCompletion": "2025-06-06T20:06:55.000Z"
-    },
-    "355630": {
-        "description": "\u2606 A heart of gold with a mind of steel",
-        "tier": "3",
-        "owners": 22,
-        "completions": 6,
-        "playtime": 13.169444444444444,
-        "newestCompletion": "2025-01-18T03:05:00.000Z"
-    },
     "317250": {
         "description": "\u2733 touch fishy, get dizzy",
         "tier": "2",
@@ -3020,14 +2976,6 @@ var masoData =
         "playtime": 9.307142857142855,
         "newestCompletion": "2025-10-19T09:05:13.000Z"
     },
-    "1714590": {
-        "description": "\u272a \u2665\u2665\u2665\u2665\u2665\u2665\u2665 RUSH HOUR",
-        "tier": "4",
-        "owners": 22,
-        "completions": 7,
-        "playtime": 19.385714285714283,
-        "newestCompletion": "2023-04-10T13:32:31.000Z"
-    },
     "1057090": {
         "description": "\u2733 now with actual combat",
         "tier": "2",
@@ -3035,14 +2983,6 @@ var masoData =
         "completions": 35,
         "playtime": 37.80619047619047,
         "newestCompletion": "2024-04-24T16:18:37.000Z"
-    },
-    "658780": {
-        "description": "\u2665\u2665\u2665\u2665 and bomb torture",
-        "tier": "1",
-        "owners": 14,
-        "completions": 8,
-        "playtime": 6.643750000000001,
-        "newestCompletion": "2024-01-28T12:38:45.000Z"
     },
     "390520": {
         "description": "\u2733 Bruh",
