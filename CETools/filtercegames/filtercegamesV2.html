@@ -416,13 +416,30 @@
             background-image: linear-gradient(#fd86ff,#a812a8);
         }
         
-        .secondaryText:before {
-            content: "SECONDARY!";
+        .secondaryPText:before {
+            content: "SECONDARY! [PO]";
         }
-        .secondaryText {
+        .secondaryPText {
             text-decoration: underline dotted;
             cursor: help;
-            background-image: linear-gradient(#00e749,#00904f);
+            background-image: linear-gradient(#876cff,#00e749);
+        }
+        .secondaryCText:before {
+            content: "SECONDARY! [CO]";
+        }
+        .secondaryCText {
+            text-decoration: underline dotted;
+            cursor: help;
+            background-image: linear-gradient(#d86cff,#00e749);
+        }
+        .secondaryPCText:before {
+            content: "SECONDARY! [PO/CO]";
+        }
+        .secondaryPCText {
+            text-decoration: underline dotted;
+            cursor: help;
+            background-image:   linear-gradient(#00000000,#00e749),
+                                linear-gradient(90deg, #876cff 10%,#cd45ff);
         }
         .unclearedText:before {
             content: "UNCLEARED!";
@@ -3983,11 +4000,26 @@
                         //secondary
                         if(tagSettings[12])
                         {
-                            if(game["milestones"]["primaryText"].toUpperCase().includes("(S)") || game["milestones"]["primaryText"].toUpperCase().includes("(SO)") || game["milestones"]["communityText"].toUpperCase().includes("(S)") || game["milestones"]["communityText"].toUpperCase().includes("(SO)"))
+                            if(game["milestones"]["primaryText"].toUpperCase().includes("(S)") || game["milestones"]["primaryText"].toUpperCase().includes("(SO)"))
                             {  
                                 let secondary = document.createElement("span");
                                 secondary.classList.add("tag");
-                                secondary.innerHTML = "<div title='One or more objectives in this game will become a &apos;Secondary Objective&apos; upon their release!' onclick='alert(this.title)' class='tagTitle secondaryText'>";
+                                if(game["milestones"]["communityText"].toUpperCase().includes("(S)") || game["milestones"]["communityText"].toUpperCase().includes("(SO)"))
+                                {
+                                    secondary.innerHTML = "<div title='One or more Objectives in this game will become a &apos;Secondary Objective&apos; upon their release!' onclick='alert(this.title)' class='tagTitle secondaryPCText'>";
+                                }
+                                else
+                                {
+                                    secondary.innerHTML = "<div title='One or more Primary Objectives in this game will become a &apos;Secondary Objective&apos; upon their release!' onclick='alert(this.title)' class='tagTitle secondaryPText'>";
+                                }
+                                gameTags.innerHTML += " ";
+                                gameTags.appendChild(secondary);
+                            }
+                            else if(game["milestones"]["communityText"].toUpperCase().includes("(S)") || game["milestones"]["communityText"].toUpperCase().includes("(SO)"))
+                            {
+                                let secondary = document.createElement("span");
+                                secondary.classList.add("tag");
+                                secondary.innerHTML = "<div title='One or more Community Objectives in this game will become a &apos;Secondary Objective&apos; upon their release!' onclick='alert(this.title)' class='tagTitle secondaryCText'>";
                                 gameTags.innerHTML += " ";
                                 gameTags.appendChild(secondary);
                             }
