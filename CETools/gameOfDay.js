@@ -2,76 +2,89 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2068820,
-        "CEId": "d32e7a4b-ffb3-4be2-8548-528bf5a0df01",
-        "name": "Radial Flow",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2068820/header.jpg?t=1659830430",
-        "genre": "Arcade",
-        "tier": 5,
-        "points": 270,
-        "createdAt": "2022-11-20T13:04:52.000Z",
+        "platformId": 1286350,
+        "CEId": "66b12511-7552-4121-84d5-d60ac73efe23",
+        "name": "BPM: BULLETS PER MINUTE",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1286350/header.jpg?t=1630609037",
+        "genre": "First-Person",
+        "tier": 3,
+        "points": 60,
+        "createdAt": "2020-11-21T15:13:11.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 5,
-        "playersStarted": 11,
-        "playersTotal": 71,
+        "playersCompleted": 16,
+        "playersStarted": 33,
+        "playersTotal": 481,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 399,
-                "final": 399,
+                "initial": 1950,
+                "final": 1950,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 399,
-                "final": 399,
+                "initial": 1675,
+                "final": 1675,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 52000,
-                "final": 52000,
+                "initial": 230000,
+                "final": 230000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 750,
-                "final": 750,
+                "initial": 2950,
+                "final": 2950,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 569,
-                "final": 569,
+                "initial": 2599,
+                "final": 2599,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 4,
-            "primaryText": "Concentric Cascade [170\u2605]\nComplete all Overflow difficulty levels.\n\nDiametric Deluge [60\u2605]\nComplete all Extreme difficulty levels.\n\nRadial Riptide [35\u2605]\nComplete all Hard difficulty levels.\n\nChord Current [5\u2605]\nComplete all Easy and Medium difficulty levels.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 33
+            "primary": 3,
+            "primaryText": "Hellish QuakeDancer [35\u2605]\nBeat Hellish with Sanngri\u00f0r.\n\nBosses Per Minute [15\u2605]\nComplete Mega Boss Rush.\n\nGetting Odr it [10\u2605]\nBeat Hard with Odr.",
+            "community": 1,
+            "communityText": "Yggdrasil\nComplete every challenge.",
+            "achievements": 28
         },
         "gameTags": [
-            "Action",
-            "Arcade",
+            "FPS",
             "Rhythm",
-            "Difficult",
+            "Roguelike",
+            "Action",
             "Indie",
-            "Colorful",
-            "Minimalist",
-            "Psychedelic",
-            "Score Attack",
-            "2D",
+            "Shooter",
+            "Adventure",
+            "Action Roguelike",
+            "Great Soundtrack",
             "Music",
-            "Abstract",
+            "Rock Music",
+            "Difficult",
+            "Roguelite",
+            "Singleplayer",
+            "First-Person",
+            "Female Protagonist",
+            "Fast-Paced",
+            "Bullet Hell",
             "Procedural Generation",
-            "Singleplayer"
+            "Boomer Shooter"
         ],
         "languages": {
-            "english": "IA"
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
         }
     }
 }
-var gameOfDayDate = '2025-11-20'
+var gameOfDayDate = '2025-11-21'
