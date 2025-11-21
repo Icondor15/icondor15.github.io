@@ -161,7 +161,7 @@ var masoData =
         "tier": "1",
         "owners": 106,
         "completions": 96,
-        "playtime": 3.5625000000000018,
+        "playtime": 3.5626736111111126,
         "newestCompletion": "2025-08-02T21:57:00.000Z"
     },
     "927250": {
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 106,
         "completions": 31,
-        "playtime": 88.71344086021506,
+        "playtime": 88.73333333333333,
         "newestCompletion": "2025-08-27T18:23:40.000Z",
         "badges": {
             "count": 2,
@@ -2480,9 +2480,9 @@ var masoData =
         "description": "Start with the first game, or don\"t--I\"m not your mother",
         "tier": "1",
         "owners": 102,
-        "completions": 57,
-        "playtime": 1.6327485380116953,
-        "newestCompletion": "2025-08-30T16:24:29.000Z",
+        "completions": 58,
+        "playtime": 1.6140804597701144,
+        "newestCompletion": "2025-11-20T21:19:51.000Z",
         "badges": {
             "count": 1,
             "points": 1
@@ -2997,7 +2997,7 @@ var masoData =
         "tier": "2",
         "owners": 109,
         "completions": 66,
-        "playtime": 195.00075757575758,
+        "playtime": 195.00277777777777,
         "newestCompletion": "2025-07-26T08:37:09.000Z"
     },
     "1190170": {
