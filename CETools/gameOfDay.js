@@ -2,89 +2,76 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1286350,
-        "CEId": "66b12511-7552-4121-84d5-d60ac73efe23",
-        "name": "BPM: BULLETS PER MINUTE",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1286350/header.jpg?t=1630609037",
-        "genre": "First-Person",
-        "tier": 3,
-        "points": 60,
-        "createdAt": "2020-11-21T15:13:11.000Z",
+        "platformId": 1998530,
+        "CEId": "43d68032-5c98-4bec-8142-7b39e1bca64b",
+        "name": "Yoiyami Dancers: Twilight Danmaku Dancers",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1998530/header.jpg?t=1741390345",
+        "genre": "Arcade",
+        "tier": 4,
+        "points": 90,
+        "createdAt": "2022-11-22T05:21:44.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 16,
-        "playersStarted": 33,
-        "playersTotal": 481,
+        "playersCompleted": 2,
+        "playersStarted": 1,
+        "playersTotal": 73,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1950,
-                "final": 1950,
+                "initial": 819,
+                "final": 819,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1675,
-                "final": 1675,
+                "initial": 719,
+                "final": 719,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 230000,
-                "final": 230000,
+                "initial": 100000,
+                "final": 100000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2950,
-                "final": 2950,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2599,
-                "final": 2599,
+                "initial": 1149,
+                "final": 1149,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Hellish QuakeDancer [35\u2605]\nBeat Hellish with Sanngri\u00f0r.\n\nBosses Per Minute [15\u2605]\nComplete Mega Boss Rush.\n\nGetting Odr it [10\u2605]\nBeat Hard with Odr.",
+            "primary": 2,
+            "primaryText": "God of Dance [55\u2605]\nGet a gold medal on the Boss Rush of all scenarios on Lunatic.\n\nBullet Backup Dancer [35\u2605]\nClear all scenarios on Lunatic.",
             "community": 1,
-            "communityText": "Yggdrasil\nComplete every challenge.",
-            "achievements": 28
+            "communityText": "Dancing Purist\nClear all scenarios on Lunatic without dying.",
+            "achievements": 36
         },
         "gameTags": [
-            "FPS",
-            "Rhythm",
-            "Roguelike",
             "Action",
-            "Indie",
-            "Shooter",
-            "Adventure",
-            "Action Roguelike",
-            "Great Soundtrack",
-            "Music",
-            "Rock Music",
-            "Difficult",
-            "Roguelite",
-            "Singleplayer",
-            "First-Person",
-            "Female Protagonist",
-            "Fast-Paced",
+            "Rhythm",
+            "Cute",
             "Bullet Hell",
-            "Procedural Generation",
-            "Boomer Shooter"
+            "2D",
+            "Fantasy",
+            "Female Protagonist",
+            "Singleplayer",
+            "Faith",
+            "Controller",
+            "Difficult",
+            "Funny",
+            "Great Soundtrack"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IAS",
-            "german": "IAS",
-            "italian": "IAS",
-            "spanish": "IAS",
-            "portuguese": "IAS",
-            "russian": "IAS",
-            "schinese": "IAS"
+            "english": "IS",
+            "japanese": "IS"
         }
     }
 }
-var gameOfDayDate = '2025-11-21'
+var gameOfDayDate = '2025-11-22'
