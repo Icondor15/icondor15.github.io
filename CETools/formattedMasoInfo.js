@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 239,
         "completions": 128,
-        "playtime": 193.01497395833334,
+        "playtime": 193.01614583333335,
         "newestCompletion": "2025-10-24T02:20:59.000Z",
         "badges": {
             "count": 2,
@@ -771,7 +771,7 @@ var masoData =
     "63710": {
         "description": "\u2606 Simulates running IRL",
         "tier": "3",
-        "owners": 104,
+        "owners": 105,
         "completions": 35,
         "playtime": 24.40904761904762,
         "newestCompletion": "2025-11-16T08:23:05.000Z"
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 247,
         "completions": 75,
-        "playtime": 125.44355555555555,
+        "playtime": 125.44400000000002,
         "newestCompletion": "2025-09-24T09:48:04.000Z"
     },
     "557340": {
@@ -1535,7 +1535,7 @@ var masoData =
     "447150": {
         "description": "\u272a Hotline Harambe",
         "tier": "4",
-        "owners": 92,
+        "owners": 93,
         "completions": 23,
         "playtime": 63.15652173913043,
         "newestCompletion": "2025-11-15T20:34:52.000Z",
@@ -2081,7 +2081,7 @@ var masoData =
         "tier": "1",
         "owners": 166,
         "completions": 80,
-        "playtime": 99.23875000000001,
+        "playtime": 99.26750000000001,
         "newestCompletion": "2025-11-16T21:13:22.000Z",
         "badges": {
             "count": 1,
@@ -2139,7 +2139,7 @@ var masoData =
     "775580": {
         "description": "I Think That\"s Alright",
         "tier": "1",
-        "owners": 24,
+        "owners": 25,
         "completions": 11,
         "playtime": 5.433333333333334,
         "newestCompletion": "2024-08-26T03:20:53.000Z"
@@ -2339,7 +2339,7 @@ var masoData =
     "1067720": {
         "description": "\u272a Keep your dignity",
         "tier": "4",
-        "owners": 28,
+        "owners": 29,
         "completions": 6,
         "playtime": 63.64722222222222,
         "newestCompletion": "2022-05-18T21:20:03.000Z"
@@ -2691,7 +2691,7 @@ var masoData =
     "1486630": {
         "description": "\u2733 Splinter Cell Miami",
         "tier": "2",
-        "owners": 117,
+        "owners": 118,
         "completions": 8,
         "playtime": 19.99375,
         "newestCompletion": "2025-01-20T18:08:34.000Z"
@@ -2887,7 +2887,7 @@ var masoData =
     "893180": {
         "description": "\u2606 new record",
         "tier": "3",
-        "owners": 55,
+        "owners": 56,
         "completions": 10,
         "playtime": 80.34166666666667,
         "newestCompletion": "2024-12-10T23:30:53.000Z"
@@ -4079,7 +4079,7 @@ var masoData =
     "1887840": {
         "description": "American Assist Mode",
         "tier": "1",
-        "owners": 21,
+        "owners": 22,
         "completions": 7,
         "playtime": 17.926190476190474,
         "newestCompletion": "2025-08-30T11:53:06.000Z"
@@ -4223,10 +4223,10 @@ var masoData =
     "2087610": {
         "description": "\u2733 Purple Skies",
         "tier": "2",
-        "owners": 10,
-        "completions": 5,
-        "playtime": 10.49,
-        "newestCompletion": "2025-05-18T01:41:08.000Z"
+        "owners": 11,
+        "completions": 6,
+        "playtime": 9.908333333333333,
+        "newestCompletion": "2025-11-22T22:59:18.000Z"
     },
     "363440": {
         "description": "\u2733 That's Mega, Man",
@@ -4396,8 +4396,8 @@ var masoData =
         "description": "\u2733 Silksong",
         "tier": "2",
         "owners": 56,
-        "completions": 21,
-        "playtime": 106.07063492063489,
+        "completions": 22,
+        "playtime": 104.90378787878785,
         "newestCompletion": "2025-11-13T22:37:01.000Z"
     },
     "322170": {
