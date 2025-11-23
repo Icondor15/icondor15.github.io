@@ -2,76 +2,85 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1998530,
-        "CEId": "43d68032-5c98-4bec-8142-7b39e1bca64b",
-        "name": "Yoiyami Dancers: Twilight Danmaku Dancers",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1998530/header.jpg?t=1741390345",
-        "genre": "Arcade",
-        "tier": 4,
-        "points": 90,
-        "createdAt": "2022-11-22T05:21:44.000Z",
+        "platformId": 575450,
+        "CEId": "af32673d-c3f2-4bac-b934-847250b12c81",
+        "name": "Graceful Explosion Machine",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/575450/header.jpg?t=1581658695",
+        "genre": "Bullet Hell",
+        "tier": 2,
+        "points": 31,
+        "createdAt": "2021-11-23T14:55:28.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 1,
-        "playersTotal": 73,
+        "playersCompleted": 0,
+        "playersStarted": 5,
+        "playersTotal": 33,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1299,
+                "final": 1299,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 819,
-                "final": 819,
+                "initial": 1279,
+                "final": 1279,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 719,
-                "final": 719,
+                "initial": 1099,
+                "final": 1099,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 100000,
-                "final": 100000,
+                "initial": 150000,
+                "final": 150000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 1895,
+                "final": 1895,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 1699,
+                "final": 1699,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "God of Dance [55\u2605]\nGet a gold medal on the Boss Rush of all scenarios on Lunatic.\n\nBullet Backup Dancer [35\u2605]\nClear all scenarios on Lunatic.",
-            "community": 1,
-            "communityText": "Dancing Purist\nClear all scenarios on Lunatic without dying.",
-            "achievements": 36
+            "primary": 3,
+            "primaryText": "With Grace [15\u2605]\nObtain S+ rank on all planets and WARP+ stages.\n\nWith Splendor [15\u2605]\nObtain S rank on all planets. / Complete all WARP+ stages.\n\nUnstoppable Murder Machine (UNCLEARED) [1\u2605]\nObtain S+ rank on all Score Attack stages.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 24
         },
         "gameTags": [
             "Action",
-            "Rhythm",
+            "Indie",
+            "Shoot 'Em Up",
+            "Arcade",
+            "Colorful",
+            "2D",
+            "Space",
+            "Shooter",
             "Cute",
             "Bullet Hell",
-            "2D",
-            "Fantasy",
-            "Female Protagonist",
-            "Singleplayer",
-            "Faith",
             "Controller",
-            "Difficult",
-            "Funny",
-            "Great Soundtrack"
+            "Great Soundtrack",
+            "Sci-fi",
+            "Minimalist",
+            "Singleplayer",
+            "Futuristic",
+            "Top-Down Shooter",
+            "Arena Shooter"
         ],
         "languages": {
-            "english": "IS",
-            "japanese": "IS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I"
         }
     }
 }
-var gameOfDayDate = '2025-11-22'
+var gameOfDayDate = '2025-11-23'
