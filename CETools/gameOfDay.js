@@ -2,85 +2,82 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 575450,
-        "CEId": "af32673d-c3f2-4bac-b934-847250b12c81",
-        "name": "Graceful Explosion Machine",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/575450/header.jpg?t=1581658695",
+        "platformId": 1700220,
+        "CEId": "08ca6bc9-8cae-46ab-b059-bb85694dfd4f",
+        "name": "\u4e1c\u65b9\u8fdc\u7a7a\u754c ~ Ultimate Vitality of Imagination",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1700220/header.jpg?t=1664766579",
         "genre": "Bullet Hell",
-        "tier": 2,
-        "points": 31,
-        "createdAt": "2021-11-23T14:55:28.000Z",
+        "tier": 3,
+        "points": 60,
+        "createdAt": "2022-11-24T21:29:41.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 0,
-        "playersStarted": 5,
-        "playersTotal": 33,
+        "playersCompleted": 5,
+        "playersStarted": 0,
+        "playersTotal": 20,
         "priceData": {
             "USD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1279,
-                "final": 1279,
+                "initial": 799,
+                "final": 799,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1099,
-                "final": 1099,
+                "initial": 799,
+                "final": 799,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 150000,
-                "final": 150000,
+                "initial": 100000,
+                "final": 100000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1895,
-                "final": 1895,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1699,
-                "final": 1699,
+                "initial": 1149,
+                "final": 1149,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "With Grace [15\u2605]\nObtain S+ rank on all planets and WARP+ stages.\n\nWith Splendor [15\u2605]\nObtain S rank on all planets. / Complete all WARP+ stages.\n\nUnstoppable Murder Machine (UNCLEARED) [1\u2605]\nObtain S+ rank on all Score Attack stages.",
+            "primary": 2,
+            "primaryText": "Transcending Time and Space [25\u2605]\nOn Lunatic, reach and beat the TLB of Stage INF without using continues. (Get the Unexpected Ending)\n\nVanishing Galaxy [35\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
             "achievements": 24
         },
         "gameTags": [
-            "Action",
-            "Indie",
-            "Shoot 'Em Up",
-            "Arcade",
-            "Colorful",
-            "2D",
-            "Space",
-            "Shooter",
-            "Cute",
+            "Casual",
             "Bullet Hell",
-            "Controller",
-            "Great Soundtrack",
-            "Sci-fi",
-            "Minimalist",
+            "Faith",
+            "Anime",
+            "Multiple Endings",
+            "Action",
+            "Top-Down",
+            "Flight",
             "Singleplayer",
-            "Futuristic",
+            "Shoot 'Em Up",
+            "Third-Person Shooter",
+            "Score Attack",
+            "Shooter",
             "Top-Down Shooter",
-            "Arena Shooter"
+            "Third Person",
+            "Beat 'em up",
+            "Psychedelic",
+            "Trains",
+            "Fantasy",
+            "Combat"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I"
+            "schinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2025-11-23'
+var gameOfDayDate = '2025-11-24'
