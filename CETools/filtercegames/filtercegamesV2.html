@@ -1510,9 +1510,11 @@
                 <optgroup label="--Miscellaneous--">
                     <option value="gameType">Platform</option>
                     <option value="name">Name</option>
+                    <option value="nameLength">Name Length</option>
                     <option value="genre">Genre</option>
                     <option selected value="points">Points</option>
                     <option id="userFilterOrder" style="display:none" value="userPoints">Gained Points (User Filter)</option>
+                    <option value="langCount">Language Count</option>
                     <option value="consoleName">Console Name (RA)</option>
                     <option value="random">Random</option>
                 </optgroup>
@@ -3329,7 +3331,11 @@
 
             if(type != "name")
             {
-                if(type == "gameType")
+                if(type == "nameLength")
+                {
+                    filteredData.sort((a,b) => (a["name"].length > b["name"].length) ? 1 : ((b["name"].length > a["name"].length) ? -1 : 0));
+                }
+                else if(type == "gameType")
                 {
                     filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
 
@@ -3642,6 +3648,16 @@
                         }
                         return array;
                     }
+                }
+                else if(type == "langCount")
+                {
+                    let localized = filteredData.filter(obj => {return "languages" in obj})
+                    let nonLocalized = filteredData.filter(obj => {return !("languages" in obj)})
+
+                    localized.sort((a,b) => (Object.keys(a["languages"]).length > Object.keys(b["languages"]).length) ? 1 : ((Object.keys(b["languages"]).length > Object.keys(a["languages"]).length) ? -1 : 0));
+
+                    if(useReverseOrder != true) {filteredData = localized.concat(nonLocalized);}
+                    else {filteredData = nonLocalized.concat(localized);}
                 }
                 else
                 {
