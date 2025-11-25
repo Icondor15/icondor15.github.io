@@ -2,82 +2,81 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1700220,
-        "CEId": "08ca6bc9-8cae-46ab-b059-bb85694dfd4f",
-        "name": "\u4e1c\u65b9\u8fdc\u7a7a\u754c ~ Ultimate Vitality of Imagination",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1700220/header.jpg?t=1664766579",
-        "genre": "Bullet Hell",
+        "platformId": 2581050,
+        "CEId": "79247a42-1309-495a-bf19-7028940bbace",
+        "name": "KAMITSUBAKI CITY ENSEMBLE",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581050/header.jpg?t=1727276930",
+        "genre": "Arcade",
         "tier": 3,
-        "points": 60,
-        "createdAt": "2022-11-24T21:29:41.000Z",
+        "points": 51,
+        "createdAt": "2024-11-25T19:31:29.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 5,
-        "playersStarted": 0,
-        "playersTotal": 20,
+        "playersCompleted": 1,
+        "playersStarted": 6,
+        "playersTotal": 53,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "initial": 399,
+                "final": 199,
+                "discountPercent": 50
             },
             "EUR": {
-                "initial": 799,
-                "final": 799,
-                "discountPercent": 0
+                "initial": 399,
+                "final": 199,
+                "discountPercent": 50
             },
             "GBP": {
-                "initial": 799,
-                "final": 799,
-                "discountPercent": 0
+                "initial": 339,
+                "final": 169,
+                "discountPercent": 50
             },
             "JPY": {
-                "initial": 100000,
-                "final": 100000,
-                "discountPercent": 0
+                "initial": 44000,
+                "final": 22000,
+                "discountPercent": 50
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "initial": 595,
+                "final": 297,
+                "discountPercent": 50
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
-                "discountPercent": 0
+                "initial": 499,
+                "final": 249,
+                "discountPercent": 50
             }
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Transcending Time and Space [25\u2605]\nOn Lunatic, reach and beat the TLB of Stage INF without using continues. (Get the Unexpected Ending)\n\nVanishing Galaxy [35\u2605]\nProve yourself.",
+            "primaryText": "KAMITSUBAKI Regenerated (UNVALUED) [1\u2605]\nAchieve a full combo on all Pro difficulty songs from the base game.\n\nThe Voice of AI [50\u2605]\nAchieve a full combo on all Hard difficulty songs from the base game.",
             "community": 0,
             "communityText": "",
-            "achievements": 24
+            "achievements": 50
         },
         "gameTags": [
-            "Casual",
-            "Bullet Hell",
-            "Faith",
+            "Music",
+            "Adventure",
+            "Rhythm",
             "Anime",
-            "Multiple Endings",
+            "Casual",
             "Action",
-            "Top-Down",
-            "Flight",
+            "Female Protagonist",
+            "Emotional",
+            "Atmospheric",
+            "Story Rich",
+            "Indie",
+            "Sci-fi",
             "Singleplayer",
-            "Shoot 'Em Up",
-            "Third-Person Shooter",
-            "Score Attack",
-            "Shooter",
-            "Top-Down Shooter",
-            "Third Person",
-            "Beat 'em up",
-            "Psychedelic",
-            "Trains",
-            "Fantasy",
-            "Combat"
+            "Sports",
+            "Cute"
         ],
         "languages": {
-            "schinese": "IS"
+            "english": "IS",
+            "japanese": "IS",
+            "koreana": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2025-11-24'
+var gameOfDayDate = '2025-11-25'
