@@ -664,9 +664,9 @@ var masoData =
         "description": "\u2733 Feel the rhythm, time the rhythm",
         "tier": "2",
         "owners": 79,
-        "completions": 24,
-        "playtime": 28.377777777777776,
-        "newestCompletion": "2024-08-02T22:11:15.000Z",
+        "completions": 25,
+        "playtime": 27.564666666666664,
+        "newestCompletion": "2025-11-25T23:57:21.000Z",
         "badges": {
             "count": 1,
             "points": 10
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 249,
         "completions": 181,
-        "playtime": 224.95331491712713,
+        "playtime": 224.97753222836104,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1180,9 +1180,9 @@ var masoData =
         "description": "\u2606 Taste the rainbow :beatmeat:",
         "tier": "3",
         "owners": 55,
-        "completions": 18,
-        "playtime": 40.79166666666667,
-        "newestCompletion": "2024-02-11T17:20:23.000Z"
+        "completions": 19,
+        "playtime": 41.020175438596496,
+        "newestCompletion": "2025-06-30T13:53:20.000Z"
     },
     "230270": {
         "description": "\ud83c\udf1f\ud83d\udc80 Time is money \ud83d\udc80",
@@ -1228,9 +1228,9 @@ var masoData =
         "description": "Snake on steroids.",
         "tier": "1",
         "owners": 96,
-        "completions": 57,
-        "playtime": 6.337426900584795,
-        "newestCompletion": "2025-06-06T23:28:24.000Z"
+        "completions": 58,
+        "playtime": 6.322988505747126,
+        "newestCompletion": "2025-09-11T13:07:04.000Z"
     },
     "343100": {
         "description": "\u272a Unfair - the game.",
@@ -2523,7 +2523,7 @@ var masoData =
     "1325200": {
         "description": "\u2733 There is a giant horse to your left and a river to your right--both result in death",
         "tier": "2",
-        "owners": 44,
+        "owners": 45,
         "completions": 5,
         "playtime": 138.55,
         "newestCompletion": "2022-11-29T21:10:20.000Z"
@@ -2723,7 +2723,7 @@ var masoData =
     "1108590": {
         "description": "\u2606 Berserker Souls",
         "tier": "3",
-        "owners": 47,
+        "owners": 48,
         "completions": 11,
         "playtime": 18.333333333333332,
         "newestCompletion": "2025-04-09T16:43:08.000Z"
@@ -3056,8 +3056,8 @@ var masoData =
         "description": "\u2733 why is it always fort, night",
         "tier": "2",
         "owners": 109,
-        "completions": 66,
-        "playtime": 195.00277777777777,
+        "completions": 67,
+        "playtime": 192.98333333333332,
         "newestCompletion": "2025-07-26T08:37:09.000Z"
     },
     "1190170": {
@@ -3557,7 +3557,7 @@ var masoData =
         "tier": "3",
         "owners": 51,
         "completions": 11,
-        "playtime": 154.76818181818183,
+        "playtime": 154.9151515151515,
         "newestCompletion": "2025-10-19T22:43:57.000Z",
         "badges": {
             "count": 1,
@@ -4495,10 +4495,10 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 55,
-        "completions": 9,
-        "playtime": 2212.327777777778,
-        "newestCompletion": "2025-06-20T03:30:05.000Z",
+        "owners": 56,
+        "completions": 10,
+        "playtime": 2017.8183333333334,
+        "newestCompletion": "2025-08-19T14:06:10.000Z",
         "badges": {
             "count": 1,
             "points": 10
