@@ -95,7 +95,7 @@ var masoData =
     "928840": {
         "description": "Winners don\"t use saves\u2122\u00a9\u00ae",
         "tier": "1",
-        "owners": 55,
+        "owners": 56,
         "completions": 12,
         "playtime": 7.356944444444443,
         "newestCompletion": "2025-11-02T23:13:45.000Z"
@@ -327,7 +327,7 @@ var masoData =
     "534550": {
         "description": "\u00bf\u00bf\u00bfNo entiendo que pasa con mi corazon???",
         "tier": "1",
-        "owners": 73,
+        "owners": 74,
         "completions": 20,
         "playtime": 24.871666666666663,
         "newestCompletion": "2025-02-17T14:52:31.000Z"
@@ -359,7 +359,7 @@ var masoData =
     "241600": {
         "description": "\u2733 It\"s about time we added it",
         "tier": "2",
-        "owners": 126,
+        "owners": 127,
         "completions": 50,
         "playtime": 48.808,
         "newestCompletion": "2025-09-30T23:46:11.000Z"
@@ -471,7 +471,7 @@ var masoData =
     "588540": {
         "description": "\u2733 3D Precision Platforming",
         "tier": "2",
-        "owners": 45,
+        "owners": 46,
         "completions": 25,
         "playtime": 10.018666666666665,
         "newestCompletion": "2024-06-18T17:46:26.000Z"
@@ -888,9 +888,9 @@ var masoData =
         "description": "\u2733 Just killing red dudes",
         "tier": "2",
         "owners": 148,
-        "completions": 68,
-        "playtime": 19.01862745098039,
-        "newestCompletion": "2025-07-28T12:41:11.000Z"
+        "completions": 69,
+        "playtime": 18.94227053140096,
+        "newestCompletion": "2025-11-07T20:42:27.000Z"
     },
     "413580": {
         "description": "\u2606 2 waifus, 1 mechanic, 0 chill.",
@@ -959,7 +959,7 @@ var masoData =
     "239800": {
         "description": "\u2606 Through your fingers",
         "tier": "3",
-        "owners": 69,
+        "owners": 70,
         "completions": 13,
         "playtime": 14.137179487179488,
         "newestCompletion": "2024-08-10T10:41:29.000Z"
@@ -1076,9 +1076,9 @@ var masoData =
         "description": "\u272a Gunpoint meets hotline miami",
         "tier": "4",
         "owners": 101,
-        "completions": 28,
-        "playtime": 39.9470238095238,
-        "newestCompletion": "2025-06-21T23:04:13.000Z"
+        "completions": 29,
+        "playtime": 39.598850574712635,
+        "newestCompletion": "2025-11-24T22:10:14.000Z"
     },
     "616000": {
         "description": "\u272a The name of your experience in a nutshell",
@@ -2587,7 +2587,7 @@ var masoData =
     "1222340": {
         "description": "\u2606 Super Feet Boy",
         "tier": "3",
-        "owners": 25,
+        "owners": 26,
         "completions": 9,
         "playtime": 16.80185185185185,
         "newestCompletion": "2025-07-21T09:31:47.000Z"
@@ -3008,9 +3008,9 @@ var masoData =
         "description": "\u2606 A heart of gold with a mind of steel",
         "tier": "3",
         "owners": 22,
-        "completions": 6,
-        "playtime": 13.169444444444444,
-        "newestCompletion": "2025-01-18T03:05:00.000Z"
+        "completions": 7,
+        "playtime": 15.37857142857143,
+        "newestCompletion": "2025-10-18T20:32:50.000Z"
     },
     "317250": {
         "description": "\u2733 touch fishy, get dizzy",
@@ -3577,7 +3577,7 @@ var masoData =
         "tier": "5",
         "owners": 80,
         "completions": 12,
-        "playtime": 38.987500000000004,
+        "playtime": 39.61666666666667,
         "newestCompletion": "2025-11-07T22:21:25.000Z",
         "badges": {
             "count": 2,
@@ -4283,7 +4283,7 @@ var masoData =
     "2087610": {
         "description": "\u2733 Purple Skies",
         "tier": "2",
-        "owners": 11,
+        "owners": 12,
         "completions": 6,
         "playtime": 9.908333333333333,
         "newestCompletion": "2025-11-22T22:59:18.000Z"
@@ -4419,7 +4419,7 @@ var masoData =
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
-        "owners": 36,
+        "owners": 37,
         "completions": 15,
         "playtime": 30.37777777777778,
         "newestCompletion": "2025-07-06T15:26:20.000Z"
@@ -4487,9 +4487,9 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 58,
-        "completions": 22,
-        "playtime": 104.90378787878785,
+        "owners": 59,
+        "completions": 23,
+        "playtime": 107.87463768115938,
         "newestCompletion": "2025-11-13T22:37:01.000Z"
     },
     "322170": {
