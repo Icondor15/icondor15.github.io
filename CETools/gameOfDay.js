@@ -1,52 +1,86 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 1954100,
-        "CEId": "d8226935-eb6c-491f-aac2-d6db16691de7",
-        "name": "Bunny Hop : Eggstreme",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1954100/header.jpg?t=1668042474",
-        "genre": "First-Person",
-        "tier": 5,
-        "points": 200,
-        "createdAt": "2022-11-28T01:59:15.000Z",
+        "gameType": 0,
+        "platformId": 1225370,
+        "CEId": "f87e6829-8820-4a6e-8f14-f329a71cde1e",
+        "name": "Blast Rush Classic",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1225370/header.jpg?t=1588620117",
+        "genre": "Bullet Hell",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2021-11-29T06:52:14.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 7,
-        "playersStarted": 6,
-        "playersTotal": 154,
+        "playersCompleted": 12,
+        "playersStarted": 0,
+        "playersTotal": 31,
+        "priceData": {
+            "USD": {
+                "initial": 99,
+                "final": 99,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 99,
+                "final": 99,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 89,
+                "final": 89,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 12000,
+                "final": 12000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 150,
+                "final": 150,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 129,
+                "final": 129,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Mad Sprint [100\u2605]\nBeat the gold time on all extreme maps.\n\nModerate Run [60\u2605]\nBeat the gold time on all hard maps.\n\nLight Jog [40\u2605]\nBeat the gold time on all easy and medium maps.",
+            "primary": 1,
+            "primaryText": "Endurance Emperor [5\u2605]\nComplete 200 waves in \"Endurance\" mode. / Clear \"Standard\" mode without restarts.",
             "community": 0,
             "communityText": "",
-            "achievements": 83
+            "achievements": 14
         },
         "gameTags": [
-            "Score Attack",
-            "3D Platformer",
-            "First-Person",
-            "Parkour",
-            "Hidden Object",
-            "Singleplayer",
-            "Multiplayer",
-            "Racing",
-            "FPS",
-            "Platformer",
-            "3D",
-            "Colorful",
-            "Stylized",
-            "Relaxing",
-            "Action",
-            "Sports",
-            "Nature",
+            "Shoot 'Em Up",
+            "Bullet Hell",
+            "Pixel Graphics",
+            "Casual",
             "Indie",
-            "Free to Play"
+            "Action",
+            "Destruction",
+            "Experimental",
+            "2D",
+            "Retro",
+            "Singleplayer",
+            "Controller",
+            "Difficult",
+            "Great Soundtrack",
+            "Replay Value",
+            "Short",
+            "Arcade",
+            "Top-Down Shooter",
+            "Top-Down",
+            "1990's"
         ],
         "languages": {
             "english": "I",
-            "french": "I",
-            "russian": "I"
+            "japanese": "I",
+            "schinese": "I",
+            "vietnamese": "I"
         }
     }
 }
-var gameOfDayDate = '2025-11-28'
+var gameOfDayDate = '2025-11-29'
