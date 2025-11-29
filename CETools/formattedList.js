@@ -6568,33 +6568,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 819,
-                "final": 819,
-                "discountPercent": 0
+                "final": 409,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 719,
-                "final": 719,
-                "discountPercent": 0
+                "final": 359,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 101000,
-                "final": 101000,
-                "discountPercent": 0
+                "final": 50500,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "final": 725,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 1149,
-                "final": 1149,
-                "discountPercent": 0
+                "final": 574,
+                "discountPercent": 50
             }
         },
         "milestones": {
@@ -8752,7 +8752,7 @@ var data =
         "updatedAt": "2025-09-17T23:51:32.000Z",
         "playersCompleted": 64,
         "playersStarted": 51,
-        "playersTotal": 618,
+        "playersTotal": 619,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -10167,7 +10167,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 59,
         "playersStarted": 0,
-        "playersTotal": 366,
+        "playersTotal": 367,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -10809,7 +10809,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 17,
         "playersStarted": 35,
-        "playersTotal": 756,
+        "playersTotal": 757,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -10987,7 +10987,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 8,
-        "playersTotal": 236,
+        "playersTotal": 237,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -13502,7 +13502,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 128,
         "playersStarted": 0,
-        "playersTotal": 233,
+        "playersTotal": 234,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -16864,8 +16864,8 @@ var data =
         "points": 250,
         "createdAt": "2020-01-28T06:52:42.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 81,
-        "playersStarted": 768,
+        "playersCompleted": 82,
+        "playersStarted": 767,
         "playersTotal": 1969,
         "priceData": {
             "USD": {
@@ -19958,7 +19958,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 1,
-        "playersTotal": 271,
+        "playersTotal": 272,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -20120,7 +20120,7 @@ var data =
         "updatedAt": "2025-10-24T14:57:07.000Z",
         "playersCompleted": 16,
         "playersStarted": 11,
-        "playersTotal": 227,
+        "playersTotal": 228,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -20633,33 +20633,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 1399,
+                "discountPercent": 30
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 1399,
+                "discountPercent": 30
             },
             "GBP": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 1049,
+                "discountPercent": 30
             },
             "JPY": {
                 "initial": 198000,
-                "final": 198000,
-                "discountPercent": 0
+                "final": 138600,
+                "discountPercent": 30
             },
             "AUD": {
                 "initial": 2895,
-                "final": 2895,
-                "discountPercent": 0
+                "final": 2026,
+                "discountPercent": 30
             },
             "CAD": {
                 "initial": 2199,
-                "final": 2199,
-                "discountPercent": 0
+                "final": 1539,
+                "discountPercent": 30
             }
         },
         "milestones": {
@@ -21066,33 +21066,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 1199,
+                "discountPercent": 40
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 1199,
+                "discountPercent": 40
             },
             "GBP": {
                 "initial": 1799,
-                "final": 1799,
-                "discountPercent": 0
+                "final": 1079,
+                "discountPercent": 40
             },
             "JPY": {
                 "initial": 198000,
-                "final": 198000,
-                "discountPercent": 0
+                "final": 118800,
+                "discountPercent": 40
             },
             "AUD": {
                 "initial": 2850,
-                "final": 2850,
-                "discountPercent": 0
+                "final": 1710,
+                "discountPercent": 40
             },
             "CAD": {
                 "initial": 2499,
-                "final": 2499,
-                "discountPercent": 0
+                "final": 1499,
+                "discountPercent": 40
             }
         },
         "milestones": {
@@ -21637,7 +21637,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 13,
-        "playersTotal": 161,
+        "playersTotal": 162,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -21703,7 +21703,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 86,
+        "playersTotal": 87,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -22108,7 +22108,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 59,
         "playersStarted": 422,
-        "playersTotal": 1033,
+        "playersTotal": 1034,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -23043,8 +23043,8 @@ var data =
         "points": 90,
         "createdAt": "2020-01-28T10:03:16.000Z",
         "updatedAt": "2025-10-13T17:34:05.000Z",
-        "playersCompleted": 16,
-        "playersStarted": 21,
+        "playersCompleted": 17,
+        "playersStarted": 20,
         "playersTotal": 280,
         "priceData": {
             "USD": {
@@ -24269,7 +24269,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 114,
         "playersStarted": 0,
-        "playersTotal": 1005,
+        "playersTotal": 1006,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -24558,8 +24558,8 @@ var data =
         "createdAt": "2025-06-30T07:45:48.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
-        "playersStarted": 8,
-        "playersTotal": 190,
+        "playersStarted": 9,
+        "playersTotal": 191,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -26215,12 +26215,12 @@ var data =
         "platformId": 1274570,
         "CEId": "31c0cea6-9d6b-45fb-be0d-6cec0c3faffa",
         "name": "DEVOUR",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1274570/header.jpg?t=1711657915",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/9e87b6a67f6c72fc7a29cb91a36d901b5be45c3d/header_alt_assets_4.jpg?t=1760547195",
         "genre": "First-Person",
         "tier": 3,
         "points": 70,
         "createdAt": "2024-04-02T23:51:54.000Z",
-        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "updatedAt": "2025-11-28T22:55:59.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
         "playersTotal": 167,
@@ -26261,7 +26261,7 @@ var data =
             "primaryText": "Unholy Diver [60\u2605]\nClear all maps on Nightmare mode.\n\nExorcized [10\u2605]\nClear all maps on Hard mode. ",
             "community": 0,
             "communityText": "",
-            "achievements": 107
+            "achievements": 131
         },
         "gameTags": [
             "Horror",
@@ -29767,7 +29767,7 @@ var data =
         "createdAt": "2021-06-06T02:53:29.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
-        "playersStarted": 15,
+        "playersStarted": 16,
         "playersTotal": 142,
         "priceData": {
             "USD": {
@@ -29926,7 +29926,7 @@ var data =
         "points": 30,
         "createdAt": "2024-01-23T16:52:14.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 18,
         "priceData": {
@@ -33332,7 +33332,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 21,
-        "playersTotal": 702,
+        "playersTotal": 703,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -35279,7 +35279,7 @@ var data =
         "updatedAt": "2025-11-23T17:24:28.000Z",
         "playersCompleted": 8,
         "playersStarted": 0,
-        "playersTotal": 124,
+        "playersTotal": 125,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -35800,8 +35800,8 @@ var data =
         "points": 15,
         "createdAt": "2025-06-28T07:21:24.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 1,
-        "playersStarted": 4,
+        "playersCompleted": 2,
+        "playersStarted": 3,
         "playersTotal": 40,
         "priceData": {
             "USD": {
@@ -37646,33 +37646,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 979,
+                "discountPercent": 51
             },
             "EUR": {
                 "initial": 1950,
-                "final": 1950,
-                "discountPercent": 0
+                "final": 955,
+                "discountPercent": 51
             },
             "GBP": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 734,
+                "discountPercent": 51
             },
             "JPY": {
                 "initial": 198000,
-                "final": 198000,
-                "discountPercent": 0
+                "final": 97000,
+                "discountPercent": 51
             },
             "AUD": {
                 "initial": 2895,
-                "final": 2895,
-                "discountPercent": 0
+                "final": 1418,
+                "discountPercent": 51
             },
             "CAD": {
                 "initial": 2199,
-                "final": 2199,
-                "discountPercent": 0
+                "final": 1077,
+                "discountPercent": 51
             }
         },
         "milestones": {
@@ -38019,7 +38019,7 @@ var data =
         "updatedAt": "2025-11-04T08:01:43.000Z",
         "playersCompleted": 43,
         "playersStarted": 668,
-        "playersTotal": 1613,
+        "playersTotal": 1614,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -39770,33 +39770,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 349,
+                "discountPercent": 30
             },
             "EUR": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 349,
+                "discountPercent": 30
             },
             "GBP": {
                 "initial": 429,
-                "final": 429,
-                "discountPercent": 0
+                "final": 300,
+                "discountPercent": 30
             },
             "JPY": {
                 "initial": 58000,
-                "final": 58000,
-                "discountPercent": 0
+                "final": 40600,
+                "discountPercent": 30
             },
             "AUD": {
                 "initial": 750,
-                "final": 750,
-                "discountPercent": 0
+                "final": 525,
+                "discountPercent": 30
             },
             "CAD": {
                 "initial": 649,
-                "final": 649,
-                "discountPercent": 0
+                "final": 454,
+                "discountPercent": 30
             }
         },
         "milestones": {
@@ -43673,7 +43673,7 @@ var data =
         "updatedAt": "2025-11-26T22:22:04.000Z",
         "playersCompleted": 93,
         "playersStarted": 209,
-        "playersTotal": 1151,
+        "playersTotal": 1152,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -43760,9 +43760,9 @@ var data =
         "points": 40,
         "createdAt": "2025-10-30T07:49:05.000Z",
         "updatedAt": "2025-11-27T08:45:35.000Z",
-        "playersCompleted": 11,
-        "playersStarted": 12,
-        "playersTotal": 56,
+        "playersCompleted": 12,
+        "playersStarted": 11,
+        "playersTotal": 57,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -44859,9 +44859,9 @@ var data =
         "points": 5,
         "createdAt": "2024-06-30T16:14:35.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 16,
+        "playersCompleted": 17,
         "playersStarted": 0,
-        "playersTotal": 64,
+        "playersTotal": 65,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -46644,8 +46644,8 @@ var data =
         "createdAt": "2020-01-28T08:26:42.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
-        "playersStarted": 715,
-        "playersTotal": 1873,
+        "playersStarted": 717,
+        "playersTotal": 1874,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -46732,9 +46732,9 @@ var data =
         "points": 10,
         "createdAt": "2025-09-20T10:01:16.000Z",
         "updatedAt": "2025-09-30T04:37:28.000Z",
-        "playersCompleted": 123,
+        "playersCompleted": 124,
         "playersStarted": 0,
-        "playersTotal": 278,
+        "playersTotal": 279,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -50218,7 +50218,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
-        "playersTotal": 234,
+        "playersTotal": 235,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -52833,7 +52833,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
-        "playersTotal": 54,
+        "playersTotal": 55,
         "priceData": {
             "USD": {
                 "initial": 399,
@@ -53608,33 +53608,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "final": 844,
+                "discountPercent": 35
             },
             "EUR": {
                 "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
+                "final": 831,
+                "discountPercent": 35
             },
             "GBP": {
                 "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
+                "final": 714,
+                "discountPercent": 35
             },
             "JPY": {
                 "initial": 150000,
-                "final": 150000,
-                "discountPercent": 0
+                "final": 97500,
+                "discountPercent": 35
             },
             "AUD": {
                 "initial": 1895,
-                "final": 1895,
-                "discountPercent": 0
+                "final": 1231,
+                "discountPercent": 35
             },
             "CAD": {
                 "initial": 1699,
-                "final": 1699,
-                "discountPercent": 0
+                "final": 1104,
+                "discountPercent": 35
             }
         },
         "milestones": {
@@ -54148,7 +54148,7 @@ var data =
         "points": 5,
         "createdAt": "2025-07-25T23:35:47.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 13,
+        "playersCompleted": 14,
         "playersStarted": 0,
         "playersTotal": 34,
         "priceData": {
@@ -56751,33 +56751,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 349,
+                "discountPercent": 65
             },
             "EUR": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 349,
+                "discountPercent": 65
             },
             "GBP": {
                 "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "final": 349,
+                "discountPercent": 65
             },
             "JPY": {
                 "initial": 142000,
-                "final": 142000,
-                "discountPercent": 0
+                "final": 49700,
+                "discountPercent": 65
             },
             "AUD": {
                 "initial": 1559,
-                "final": 1559,
-                "discountPercent": 0
+                "final": 545,
+                "discountPercent": 65
             },
             "CAD": {
                 "initial": 1399,
-                "final": 1399,
-                "discountPercent": 0
+                "final": 489,
+                "discountPercent": 65
             }
         },
         "milestones": {
@@ -57078,7 +57078,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 194,
         "playersStarted": 0,
-        "playersTotal": 973,
+        "playersTotal": 974,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -57320,7 +57320,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 80,
         "playersStarted": 0,
-        "playersTotal": 1373,
+        "playersTotal": 1374,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -63754,7 +63754,7 @@ var data =
         "createdAt": "2025-10-30T17:50:53.000Z",
         "updatedAt": "2025-11-23T18:39:57.000Z",
         "playersCompleted": 0,
-        "playersStarted": 57,
+        "playersStarted": 58,
         "playersTotal": 113,
         "priceData": {
             "USD": {
@@ -65514,8 +65514,8 @@ var data =
         "points": 605,
         "createdAt": "2020-01-28T09:37:10.000Z",
         "updatedAt": "2025-11-27T08:50:59.000Z",
-        "playersCompleted": 3,
-        "playersStarted": 86,
+        "playersCompleted": 4,
+        "playersStarted": 85,
         "playersTotal": 648,
         "priceData": {
             "USD": {
@@ -73106,7 +73106,7 @@ var data =
         "updatedAt": "2025-11-05T21:32:25.000Z",
         "playersCompleted": 22,
         "playersStarted": 62,
-        "playersTotal": 334,
+        "playersTotal": 335,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -73277,7 +73277,7 @@ var data =
         "updatedAt": "2025-10-21T04:22:00.000Z",
         "playersCompleted": 27,
         "playersStarted": 9,
-        "playersTotal": 475,
+        "playersTotal": 476,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -75636,7 +75636,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 468,
         "playersStarted": 0,
-        "playersTotal": 1854,
+        "playersTotal": 1855,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -75741,7 +75741,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 34,
-        "playersTotal": 595,
+        "playersTotal": 596,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -78991,8 +78991,8 @@ var data =
         "createdAt": "2022-10-04T23:30:01.000Z",
         "updatedAt": "2025-09-26T15:56:06.000Z",
         "playersCompleted": 2,
-        "playersStarted": 103,
-        "playersTotal": 736,
+        "playersStarted": 104,
+        "playersTotal": 737,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -81574,33 +81574,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 599,
-                "final": 599,
-                "discountPercent": 0
+                "final": 479,
+                "discountPercent": 20
             },
             "EUR": {
                 "initial": 589,
-                "final": 589,
-                "discountPercent": 0
+                "final": 471,
+                "discountPercent": 20
             },
             "GBP": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 20
             },
             "JPY": {
                 "initial": 70000,
-                "final": 70000,
-                "discountPercent": 0
+                "final": 56000,
+                "discountPercent": 20
             },
             "AUD": {
                 "initial": 879,
-                "final": 879,
-                "discountPercent": 0
+                "final": 703,
+                "discountPercent": 20
             },
             "CAD": {
                 "initial": 779,
-                "final": 779,
-                "discountPercent": 0
+                "final": 623,
+                "discountPercent": 20
             }
         },
         "milestones": {
@@ -82698,7 +82698,7 @@ var data =
         "updatedAt": "2025-11-19T17:00:31.000Z",
         "playersCompleted": 25,
         "playersStarted": 249,
-        "playersTotal": 1361,
+        "playersTotal": 1362,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -85982,7 +85982,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 63,
         "playersStarted": 0,
-        "playersTotal": 234,
+        "playersTotal": 235,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -87288,7 +87288,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 29,
         "playersStarted": 252,
-        "playersTotal": 753,
+        "playersTotal": 754,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -89097,7 +89097,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 1,
-        "playersTotal": 14,
+        "playersTotal": 16,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -89653,33 +89653,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 3999,
-                "final": 3999,
-                "discountPercent": 0
+                "final": 2399,
+                "discountPercent": 40
             },
             "EUR": {
                 "initial": 3999,
-                "final": 3999,
-                "discountPercent": 0
+                "final": 2399,
+                "discountPercent": 40
             },
             "GBP": {
                 "initial": 3099,
-                "final": 3099,
-                "discountPercent": 0
+                "final": 1859,
+                "discountPercent": 40
             },
             "JPY": {
                 "initial": 410000,
-                "final": 410000,
-                "discountPercent": 0
+                "final": 246000,
+                "discountPercent": 40
             },
             "AUD": {
                 "initial": 5695,
-                "final": 5695,
-                "discountPercent": 0
+                "final": 3417,
+                "discountPercent": 40
             },
             "CAD": {
                 "initial": 4549,
-                "final": 4549,
-                "discountPercent": 0
+                "final": 2729,
+                "discountPercent": 40
             }
         },
         "milestones": {
@@ -91183,7 +91183,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 56,
         "playersStarted": 213,
-        "playersTotal": 1137,
+        "playersTotal": 1138,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -92798,7 +92798,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 47,
         "playersStarted": 0,
-        "playersTotal": 425,
+        "playersTotal": 426,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -94631,7 +94631,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 104,
         "playersStarted": 0,
-        "playersTotal": 721,
+        "playersTotal": 722,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -94715,7 +94715,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 35,
         "playersStarted": 148,
-        "playersTotal": 492,
+        "playersTotal": 493,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -96865,7 +96865,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 34,
         "playersStarted": 0,
-        "playersTotal": 598,
+        "playersTotal": 599,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -96953,33 +96953,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 104,
+                "discountPercent": 93
             },
             "EUR": {
                 "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
+                "final": 104,
+                "discountPercent": 93
             },
             "GBP": {
                 "initial": 1139,
-                "final": 1139,
-                "discountPercent": 0
+                "final": 79,
+                "discountPercent": 93
             },
             "JPY": {
                 "initial": 152000,
-                "final": 152000,
-                "discountPercent": 0
+                "final": 10600,
+                "discountPercent": 93
             },
             "AUD": {
                 "initial": 2150,
-                "final": 2150,
-                "discountPercent": 0
+                "final": 150,
+                "discountPercent": 93
             },
             "CAD": {
                 "initial": 1749,
-                "final": 1749,
-                "discountPercent": 0
+                "final": 122,
+                "discountPercent": 93
             }
         },
         "milestones": {
@@ -98827,33 +98827,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 449,
-                "discountPercent": 55
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 819,
-                "final": 368,
-                "discountPercent": 55
+                "final": 819,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 719,
-                "final": 323,
-                "discountPercent": 55
+                "final": 719,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 101000,
-                "final": 45400,
-                "discountPercent": 55
+                "final": 101000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1450,
-                "final": 652,
-                "discountPercent": 55
+                "final": 1450,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1149,
-                "final": 517,
-                "discountPercent": 55
+                "final": 1149,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -100117,7 +100117,7 @@ var data =
         "points": 75,
         "createdAt": "2021-09-24T06:36:49.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 20,
+        "playersCompleted": 21,
         "playersStarted": 2,
         "playersTotal": 77,
         "priceData": {
@@ -100359,7 +100359,7 @@ var data =
         "updatedAt": "2025-11-20T23:27:56.000Z",
         "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 6,
+        "playersTotal": 7,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -102274,33 +102274,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 2499,
-                "final": 2499,
-                "discountPercent": 0
+                "final": 999,
+                "discountPercent": 60
             },
             "EUR": {
                 "initial": 2249,
-                "final": 2249,
-                "discountPercent": 0
+                "final": 899,
+                "discountPercent": 60
             },
             "GBP": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 799,
+                "discountPercent": 60
             },
             "JPY": {
                 "initial": 249900,
-                "final": 249900,
-                "discountPercent": 0
+                "final": 99900,
+                "discountPercent": 60
             },
             "AUD": {
                 "initial": 3599,
-                "final": 3599,
-                "discountPercent": 0
+                "final": 1439,
+                "discountPercent": 60
             },
             "CAD": {
                 "initial": 3399,
-                "final": 3399,
-                "discountPercent": 0
+                "final": 1359,
+                "discountPercent": 60
             }
         },
         "milestones": {
@@ -103032,33 +103032,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 95
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 99,
+                "discountPercent": 95
             },
             "GBP": {
                 "initial": 1699,
-                "final": 1699,
-                "discountPercent": 0
+                "final": 84,
+                "discountPercent": 95
             },
             "JPY": {
                 "initial": 230000,
-                "final": 230000,
-                "discountPercent": 0
+                "final": 11500,
+                "discountPercent": 95
             },
             "AUD": {
                 "initial": 2950,
-                "final": 2950,
-                "discountPercent": 0
+                "final": 147,
+                "discountPercent": 95
             },
             "CAD": {
                 "initial": 2599,
-                "final": 2599,
-                "discountPercent": 0
+                "final": 129,
+                "discountPercent": 95
             }
         },
         "milestones": {
@@ -104177,7 +104177,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 9,
-        "playersTotal": 44,
+        "playersTotal": 45,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -104527,33 +104527,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 20
             },
             "EUR": {
                 "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 20
             },
             "GBP": {
                 "initial": 429,
-                "final": 429,
-                "discountPercent": 0
+                "final": 343,
+                "discountPercent": 20
             },
             "JPY": {
                 "initial": 49900,
-                "final": 49900,
-                "discountPercent": 0
+                "final": 39900,
+                "discountPercent": 20
             },
             "AUD": {
                 "initial": 749,
-                "final": 749,
-                "discountPercent": 0
+                "final": 599,
+                "discountPercent": 20
             },
             "CAD": {
                 "initial": 649,
-                "final": 649,
-                "discountPercent": 0
+                "final": 519,
+                "discountPercent": 20
             }
         },
         "milestones": {
@@ -104845,7 +104845,7 @@ var data =
         "createdAt": "2024-11-27T06:46:55.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
-        "playersStarted": 13,
+        "playersStarted": 14,
         "playersTotal": 44,
         "priceData": {
             "USD": {
@@ -104982,7 +104982,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 95,
-        "playersTotal": 313,
+        "playersTotal": 314,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -106554,8 +106554,8 @@ var data =
         "createdAt": "2025-08-16T17:22:08.000Z",
         "updatedAt": "2025-10-11T07:39:21.000Z",
         "playersCompleted": 0,
-        "playersStarted": 6,
-        "playersTotal": 10,
+        "playersStarted": 7,
+        "playersTotal": 11,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -106886,33 +106886,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 399,
+                "discountPercent": 80
             },
             "EUR": {
                 "initial": 1679,
-                "final": 1679,
-                "discountPercent": 0
+                "final": 335,
+                "discountPercent": 80
             },
             "GBP": {
                 "initial": 1549,
-                "final": 1549,
-                "discountPercent": 0
+                "final": 309,
+                "discountPercent": 80
             },
             "JPY": {
                 "initial": 205000,
-                "final": 205000,
-                "discountPercent": 0
+                "final": 41000,
+                "discountPercent": 80
             },
             "AUD": {
                 "initial": 2895,
-                "final": 2895,
-                "discountPercent": 0
+                "final": 579,
+                "discountPercent": 80
             },
             "CAD": {
                 "initial": 2279,
-                "final": 2279,
-                "discountPercent": 0
+                "final": 455,
+                "discountPercent": 80
             }
         },
         "milestones": {
@@ -107683,33 +107683,33 @@ var data =
         "priceData": {
             "USD": {
                 "initial": 999,
-                "final": 469,
-                "discountPercent": 53
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
                 "initial": 975,
-                "final": 458,
-                "discountPercent": 53
+                "final": 975,
+                "discountPercent": 0
             },
             "GBP": {
                 "initial": 850,
-                "final": 399,
-                "discountPercent": 53
+                "final": 850,
+                "discountPercent": 0
             },
             "JPY": {
                 "initial": 120000,
-                "final": 56400,
-                "discountPercent": 53
+                "final": 120000,
+                "discountPercent": 0
             },
             "AUD": {
                 "initial": 1450,
-                "final": 681,
-                "discountPercent": 53
+                "final": 1450,
+                "discountPercent": 0
             },
             "CAD": {
                 "initial": 1299,
-                "final": 610,
-                "discountPercent": 53
+                "final": 1299,
+                "discountPercent": 0
             }
         },
         "milestones": {
@@ -113568,7 +113568,7 @@ var data =
         "createdAt": "2022-03-24T18:58:29.000Z",
         "updatedAt": "2025-10-30T03:55:14.000Z",
         "playersCompleted": 6,
-        "playersStarted": 46,
+        "playersStarted": 47,
         "playersTotal": 314,
         "priceData": {
             "USD": {
@@ -115069,7 +115069,7 @@ var data =
         "createdAt": "2024-09-08T22:04:12.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
-        "playersStarted": 1,
+        "playersStarted": 3,
         "playersTotal": 177,
         "priceData": {
             "USD": {
@@ -118903,7 +118903,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 560,
+        "playersTotal": 562,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -124741,7 +124741,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 29,
         "playersStarted": 7,
-        "playersTotal": 237,
+        "playersTotal": 238,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -126229,7 +126229,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 0,
-        "playersTotal": 297,
+        "playersTotal": 299,
         "milestones": {
             "primary": 1,
             "primaryText": "Learning is Fun! [30\u2605]\nBeat Story Mode in under 6 minutes. / Get 20 notebooks in Endless Mode. / Beat NULL Mode.",
@@ -127277,7 +127277,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 67,
+        "playersTotal": 68,
         "milestones": {
             "primary": 1,
             "primaryText": "Rock Bottom [10\u2605]\nDefeat Abby.",
@@ -127464,9 +127464,9 @@ var data =
         "points": 5,
         "createdAt": "2022-03-02T03:53:16.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 97,
+        "playersCompleted": 98,
         "playersStarted": 0,
-        "playersTotal": 231,
+        "playersTotal": 232,
         "milestones": {
             "primary": 1,
             "primaryText": "Apophlegmatism [5\u2605]\nObtain all Gold Medals.",
@@ -127790,7 +127790,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 68,
         "playersStarted": 0,
-        "playersTotal": 545,
+        "playersTotal": 546,
         "milestones": {
             "primary": 1,
             "primaryText": "I Wanna be the Challenge Enthusiast [5\u2605]\nSeparately; 100% the campaign and defeat the final boss without getting hit.",
@@ -128265,7 +128265,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 104,
         "playersStarted": 0,
-        "playersTotal": 547,
+        "playersTotal": 548,
         "milestones": {
             "primary": 1,
             "primaryText": "Micro Nightmare [15\u2605]\nClear all levels, including \"Chipset v2\".",
@@ -128358,7 +128358,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 18,
-        "playersTotal": 719,
+        "playersTotal": 720,
         "milestones": {
             "primary": 2,
             "primaryText": "What the Actual Muck? [10\u2605]\nSeparately, beat the game with all players using only a rock as their weapon and tool, and without picking up any power-ups (any difficulty). / Beat the game alone without taking damage on at least \u201cNormal\u201d difficulty. \n\nSwift Escape [5\u2605]\nBeat the game in less than 10 days on \"Gamer\" difficulty. / Beat the game in less than 8 days (any difficulty). ",
@@ -130087,7 +130087,7 @@ var data =
         "updatedAt": "2025-10-21T05:32:43.000Z",
         "playersCompleted": 0,
         "playersStarted": 16,
-        "playersTotal": 505,
+        "playersTotal": 506,
         "milestones": {
             "primary": 9,
             "primaryText": "Trackmania: Race with your Friends (UNCLEARED) [1\u2605]\nObtain the author medal for tracks 18-25 in the official \"Platform Discovery\" campaign.\n\nDRVR (UNCLEARED) [1\u2605]\nObtain the gold medal for tracks 18-25 in the official \"Platform Discovery\" campaign.\n\nFour Wheel Guy [40\u2605]\nObtain the author medal on tracks 1-17, and finish tracks 18-25 in the official \"Platform Discovery\" campaign. (Ubisoft Nadeo)\n\nUrbs Digitalis (UNCLEARED) [1\u2605]\nObtain all 23 author medals on the official \"NEOCUPRA\" and \"Streamers Campaign\" tracks. (Cupra, Ubisoft Nadeo)\n\nSolstice [130\u2605]\nObtain all 200 author medals in the official seasonal campaigns for 2023 & 2024.\n\nEquinox [90\u2605]\nObtain all 250 author medals in the official seasonal campaigns for 2020, 2021, and 2022.\n\n N. ormal Trilogy [70\u2605]\nObtain all 65 author medals from the official Snow, Rally, and Desert Discovery campaigns. (Ubisoft Nadeo)\n\nUbisoft Cinematic Universe [15\u2605]\nObtain all 15 author medals on the official Hungry Shark, AC: Mirage, Laserhawk campaigns. (Ubisoft Club)\n\nTraining V2 [5\u2605]\nObtain the author medal for the first 20 \"Weekly Shorts\".",
@@ -130149,7 +130149,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 11,
-        "playersTotal": 547,
+        "playersTotal": 548,
         "milestones": {
             "primary": 2,
             "primaryText": "The Definition of Insanity [15\u2605]\nObtain all E track Author Medals.\n\nStadium Stan [25\u2605]\nObtain the Author Medal on all A through D tracks.",
@@ -130281,7 +130281,7 @@ var data =
         "updatedAt": "2025-10-21T04:29:42.000Z",
         "playersCompleted": 22,
         "playersStarted": 13,
-        "playersTotal": 640,
+        "playersTotal": 641,
         "milestones": {
             "primary": 3,
             "primaryText": "Try Your Best to Hold Onto Sanity [65\u2605]\nComplete 50/20 mode.\n\nWe Open Real Soon [10\u2605]\nComplete a run scoring at least 9000 points. (Complete 45/20 mode)\n\nJoin the Animatronic Family [10\u2605]\nBeat all challenges.",
@@ -130407,7 +130407,7 @@ var data =
         "updatedAt": "2025-10-22T17:38:44.000Z",
         "playersCompleted": 1,
         "playersStarted": 10,
-        "playersTotal": 417,
+        "playersTotal": 418,
         "milestones": {
             "primary": 10,
             "primaryText": "Virtual Supremacy [110\u2605]\nObtain a V rank on all 17+ and 18 songs across all difficulties.\n\nBreak the Loop [70\u2605]\nObtain a V rank on all classes and all level 16, 16+, and 17 songs across all difficulties.\n\nChronostasis [60\u2605]\nObtain an SS rank on all level 17+ and 18 songs across all difficulties.\n\nFate Inversion [50\u2605]\nObtain an SS rank on Class 11, 12 and Omega, and all level 16+ and 17 songs across all difficulties.\n\nSaturday Night Fever [40\u2605]\nObtain an SS rank on Class 9 and 10 and all level 15, 15+, and 16 songs across all difficulties.\n\nVividology [30\u2605]\nObtain an SS rank on Class 6, 7, and 8 and all level 13, 13+, 14, and 14+ songs across all difficulties.\n\nThe First Encore [20\u2605]\nObtain an SS rank on Class 4 and 5 and all level 11, 11+, 12 and 12+ songs across all difficulties.\n\nFinale Starting to Hurt [10\u2605]\nObtain an SS rank on Class 2 and 3 and all level 9, 9+, 10, and 10+ songs across all difficulties.\n\nPrecision Tuning [5\u2605]\nObtain an SS rank on Class 1 and all level 8 songs and below across all difficulties.\n\nInitialize the Sequence [5\u2605]\nObtain an S rank on all songs level 8 and below across all difficulties.",
@@ -130584,9 +130584,9 @@ var data =
         "points": 5,
         "createdAt": "2025-01-29T05:17:47.000Z",
         "updatedAt": "2025-09-29T20:26:50.000Z",
-        "playersCompleted": 25,
+        "playersCompleted": 26,
         "playersStarted": 0,
-        "playersTotal": 116,
+        "playersTotal": 117,
         "milestones": {
             "primary": 1,
             "primaryText": "YUBI YUBI [5\u2605]\nDefeat Darkside Korone on Hard Mode.",
@@ -134965,11 +134965,11 @@ var data =
 ]
 var date =
 {
-    "day": 28,
+    "day": 29,
     "month": 11,
     "year": 2025,
     "hour": 8,
-    "minute": 35,
-    "second": 49,
-    "searchTime": 838.3314590454102
+    "minute": 32,
+    "second": 41,
+    "searchTime": 848.3696177005768
 }
