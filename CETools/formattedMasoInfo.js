@@ -1365,7 +1365,7 @@ var masoData =
         "tier": "2",
         "owners": 199,
         "completions": 145,
-        "playtime": 21.34206896551723,
+        "playtime": 21.362298850574703,
         "newestCompletion": "2025-11-06T16:02:02.000Z"
     },
     "211260": {
@@ -1668,9 +1668,9 @@ var masoData =
         "description": "\ud83c\udf1f Give Up",
         "tier": "5",
         "owners": 70,
-        "completions": 5,
-        "playtime": 110.54666666666665,
-        "newestCompletion": "2025-04-06T11:42:46.000Z",
+        "completions": 6,
+        "playtime": 109.69722222222221,
+        "newestCompletion": "2025-11-29T02:29:08.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -2716,9 +2716,9 @@ var masoData =
         "description": "\u272a Super Meat Ball",
         "tier": "4",
         "owners": 35,
-        "completions": 13,
-        "playtime": 43.09615384615385,
-        "newestCompletion": "2025-08-15T06:16:14.000Z"
+        "completions": 14,
+        "playtime": 41.94642857142857,
+        "newestCompletion": "2025-11-28T22:41:36.000Z"
     },
     "1108590": {
         "description": "\u2606 Berserker Souls",
@@ -3225,7 +3225,7 @@ var masoData =
         "tier": "3",
         "owners": 118,
         "completions": 59,
-        "playtime": 75.43418079096045,
+        "playtime": 75.6683615819209,
         "newestCompletion": "2025-10-15T22:45:46.000Z",
         "badges": {
             "count": 1,
@@ -3385,7 +3385,7 @@ var masoData =
         "tier": "2",
         "owners": 28,
         "completions": 1,
-        "playtime": 52.81666666666667,
+        "playtime": 56.016666666666666,
         "newestCompletion": "2025-11-23T18:05:36.000Z"
     },
     "2016580": {
@@ -4059,7 +4059,7 @@ var masoData =
     "1488650": {
         "description": "Turn your lo mein into lo PAIN.",
         "tier": "1",
-        "owners": 25,
+        "owners": 26,
         "completions": 9,
         "playtime": 5.550000000000001,
         "newestCompletion": "2025-03-12T13:00:16.000Z"
@@ -4487,7 +4487,7 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 59,
+        "owners": 60,
         "completions": 23,
         "playtime": 107.87463768115938,
         "newestCompletion": "2025-11-13T22:37:01.000Z"
@@ -4495,7 +4495,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 56,
+        "owners": 57,
         "completions": 10,
         "playtime": 2017.8183333333334,
         "newestCompletion": "2025-08-19T14:06:10.000Z",
