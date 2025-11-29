@@ -2,16 +2,16 @@
 <html>
 <head>
     <meta charset="UTF-8" />
-        <meta property="og:title" content="CE Games List [V2]" />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://icondor15.github.io/CETools/filtercegames/filtercegamesV2.html" />
-        <meta property="og:image" content="https://icondor15.github.io/CETools/filtercegames/favicon.png" />
-        <meta property="og:description" content="A website to quickly filter games available in the Challenge Enthusiasts website! - Made by Icondor." />
-        <meta name="theme-color" content="#232224">
-        
-        <title>CE Games List [V2]</title>
-        <link rel="icon" type="image/x-icon" href="favicon.png">
-        <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100;1,14..32,100&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <meta property="og:title" content="CE Games List [V2]" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://icondor15.github.io/CETools/filtercegames/filtercegamesV2.html" />
+    <meta property="og:image" content="https://icondor15.github.io/CETools/filtercegames/favicon.png" />
+    <meta property="og:description" content="A website to quickly filter games available in the Challenge Enthusiasts website! - Made by Icondor." />
+    <meta name="theme-color" content="#232224">
+    
+    <title>CE Games List [V2]</title>
+    <link rel="icon" type="image/x-icon" href="favicon.png">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100;1,14..32,100&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
     <style>
         :root {
@@ -24,6 +24,8 @@
             font-family:Verdana, Geneva, Tahoma, sans-serif;
             font-size: 12px;
             user-select: none;
+            scrollbar-color: white #0b032f7f;
+            scrollbar-width: thin;
         }
         body {
             background: linear-gradient(#1a3162, #233152);
@@ -535,6 +537,12 @@
         .negativeText, .veryNegativeText, .overwhelminglyNegativeText {
             background-image: linear-gradient(#dc0000,#72003b);
         }
+        .reviewsUnknownText:before {
+            content: "Reviews Unknown";
+        }
+        .reviewsUnknownText {
+            background-image: linear-gradient(#404040,#767676);
+        }
         
         .dlcCountText:before {
             content: "DLCs";
@@ -949,7 +957,7 @@
     <!--Sidebar-->
     <div id="sidebar">
         <span id="sideText" style="float:right; position: relative; height:0px; top: 50%; right:-20px; transform:rotate(90deg); font-weight: bold;">^ Filters (Active!) ^</span>
-        <div style="height:100%; width:90%; overflow: auto;">
+        <div style="height:100%; width:93%; overflow: auto;">
             <h1 style="text-align: center; line-height: 0.5em;">
                 Filters
                 <br><span style="text-align: center; opacity: 0.75; font-size: 12px; font-weight: normal;">(If a Filter has a checkbox [<input title="Invert Filter&#10;&#10;.&#10;&#10;.&#10;&#10;.&#10;&#10;JK! I don't do anything :>&#10;Just your average Easter Egg hehehe..." class="inverseEffect" autocomplete="off" type="checkbox">] before it, activating that checkbox will invert the filter, thus showing only games that DON'T apply to it.)</span>
@@ -1075,7 +1083,7 @@
                         <input autocomplete="off" id="priceSale" type="checkbox" onchange="changePriceSettings()"><label for="priceSale">Paid games only On Sale</label> <sup title="This applies to all the paid games shown in the current 'Pricing'.&#10;If it's set to 'All', changing this will leave the 'Free to Play' and 'Not Applicable' games untouched." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup>
                     </div>
                     <!--Individual filters-->
-                    <fieldset id="individualPriceField" style="display: flex;  flex-direction: row; flex-wrap: wrap; align-items: center; border: 1px dashed; gap: 7.5px; justify-content: space-evenly; padding-top:0px;">
+                    <fieldset id="individualPriceField" style="display: flex;  flex-direction: row; flex-wrap: wrap; align-items: center; border: 1px dashed; gap: 15px; justify-content: space-evenly; padding-top:0px;">
                         <legend>Individual Values <sup title="These apply to all the paid games shown in the current 'Pricing'.&#10;If it's set to 'All', changing these will leave the 'Free to Play' and 'Not Applicable' games untouched." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup></legend>
                         <div>
                             <b>Base Price</b><br>
@@ -1083,7 +1091,7 @@
                             ≤&nbsp;<b>x</b>&nbsp;≤ 
                             <input autocomplete="off" type="number" id="basePriceHigher" oninput="order('last')" style="width:50px">
                         </div>
-                        <div style="border-left: solid; border-right: solid; border-width: 1px; padding: 0px 7.5px; border-color: #ffffff7f;">
+                        <div>
                             <b>Sale Percentage</b><br>
                             <input autocomplete="off" type="number" id="salePercentageLower" oninput="order('last')" style="width:50px; text-align: right;">
                             ≤&nbsp;<b>x%</b>&nbsp;≤ 
@@ -1146,8 +1154,36 @@
                         </div>
                     </div>
                 </fieldset>
+                <!--Review Filters-->
+                <fieldset id="reviewField" style="display: flex;  flex-direction: row; flex-wrap: wrap; align-items: center; gap: 20px; justify-content: space-evenly;">
+                    <legend>Reviews <sup title="These apply to all the Steam games shown in the current Platform Filter.&#10;If it's set to 'All', changing these will leave the RetroAchievements games untouched." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup></legend>
+                    <div>
+                        <b>Rating Percentage</b><br>
+                        <input autocomplete="off" type="number" id="reviewPercentageLower" oninput="order('last')" style="width:50px; text-align: right;">
+                        ≤&nbsp;<b>x%</b>&nbsp;≤ 
+                        <input autocomplete="off" type="number" id="reviewPercentageHigher" oninput="order('last')" style="width:50px">
+                    </div>
+                    <div>
+                        <b>Total</b><br>
+                        <input autocomplete="off" type="number" id="reviewTotalLower" oninput="order('last')" style="width:50px; text-align: right;">
+                        ≤&nbsp;<b>x</b>&nbsp;≤ 
+                        <input autocomplete="off" type="number" id="reviewTotalHigher" oninput="order('last')" style="width:50px">
+                    </div>
+                    <div>
+                        <b>Positive</b><br>
+                        <input autocomplete="off" type="number" id="reviewPositiveLower" oninput="order('last')" style="width:50px; text-align: right;">
+                        ≤&nbsp;<b>x</b>&nbsp;≤ 
+                        <input autocomplete="off" type="number" id="reviewPositiveHigher" oninput="order('last')" style="width:50px">
+                    </div>
+                    <div>
+                        <b>Negative</b><br>
+                        <input autocomplete="off" type="number" id="reviewNegativeLower" oninput="order('last')" style="width:50px; text-align: right;">
+                        ≤&nbsp;<b>x</b>&nbsp;≤ 
+                        <input autocomplete="off" type="number" id="reviewNegativeHigher" oninput="order('last')" style="width:50px">
+                    </div>
+                </fieldset>
                 <!--Ownership Filters-->
-                <fieldset id="ownerField" style="display: flex;  flex-direction: row; flex-wrap: wrap; align-items: center; gap: 10px; justify-content: space-evenly;">
+                <fieldset id="ownerField" style="display: flex;  flex-direction: row; flex-wrap: wrap; align-items: center; gap: 20px; justify-content: space-evenly;">
                     <legend>Owners & Completions</legend>
                     <div>
                         <b>Owners</b><br>
@@ -1155,7 +1191,7 @@
                         ≤&nbsp;<b>x</b>&nbsp;≤ 
                         <input autocomplete="off" type="number" id="ownersHigher" oninput="order('last')" style="width:50px">
                     </div>
-                    <div style="border-left: solid; border-right: solid; border-width: 1px; padding: 0px 10px; border-color: #ffffff7f;">
+                    <div>
                         <b>Completions</b><br>
                         <input autocomplete="off" type="radio" name="completionsSelection" id="completionsNumberSelection" value="number" onchange="changeCompletions('completions')" checked><label for="completionsNumberSelection">Number</label>
                         <input autocomplete="off" type="radio" name="completionsSelection" id="completionsPercentageSelection" value="percentage" onchange="changeCompletions('completions')"><label for="completionsPercentageSelection">Percentage</label>
@@ -1173,6 +1209,42 @@
                         ≤&nbsp;<b id="startedFlavorText">x</b>&nbsp;≤ 
                         <input autocomplete="off" type="number" id="startedHigher" oninput="order('last')" style="width:50px">
                     </div>
+                </fieldset>
+                <!--Tags-->
+                <fieldset id="tagsField">
+                    <legend>
+                        <input title="Invert Filter" class="inverseEffect" autocomplete="off" type="checkbox" id="invertTagsFilter" onchange="changeTagsFilterSettings()">
+                        Game Tags
+                    </legend>
+                    <label for="tagsFilterBox">Contain</label> <sup title="Notes:&#10; - This Case-Insensitive textbox allows for multiple Game Tags to be checked for simultaneously by separating them with a Comma &quot;,&quot;.&#10;   - Example: &quot;Action, side scroller, 3d&quot;, will result in showing only games that contain ALL filtered Game Tags*.&#10;   - Inverting the filter will show only games that contain NO filtered Game Tags*.&#10;     * Some Game Tags are found within other Game Tags. (Example: &quot;Action&quot; is found within &quot;Action Roguelike&quot;.) Searching for any of these Game Tags will show all the Game Tags that contain it." onclick="alert(this.title);" style="text-decoration: underline dotted; cursor:help;">𝓲</sup>: <input autocomplete="off" id="tagsFilterBox" type="text" oninput="order('last')" style="width: 300px">
+                    <br>
+                    Focus <sup title="This setting changes how strict the filtering is by only searching through the selected number of Game Tags.&#10; - For each game they're displayed from Most Popular to Least Popular from Left to Right.&#10; - If the number of filtered Game Tags exceeds the Focus, no game will show. (For... obvious reasons.)" onclick="alert(this.title);" style="text-decoration: underline dotted; cursor:help;">𝓲</sup>:
+                    <input autocomplete="off" type="radio" name="tagsFocus" id="tags20" value="20" onchange="changeTagsFilterSettings()" checked><label for="tags20">Top 20</label>
+                    <input autocomplete="off" type="radio" name="tagsFocus" id="tags10" value="10" onchange="changeTagsFilterSettings()"><label for="tags10">Top 10</label>
+                    <input autocomplete="off" type="radio" name="tagsFocus" id="tags5" value="5" onchange="changeTagsFilterSettings()"><label for="tags5">Top 5</label>
+                    <input autocomplete="off" type="radio" name="tagsFocus" id="tags3" value="3" onchange="changeTagsFilterSettings()"><label for="tags3">Top 3</label>
+                    <input autocomplete="off" type="radio" name="tagsFocus" id="tags1" value="1" onchange="changeTagsFilterSettings()"><label for="tags1">Top 1</label>
+                </fieldset><!--Review Filters-->
+                <fieldset id="extrasField" style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; gap: 20px; justify-content: space-evenly;">
+                    <legend>Extra Filters</legend>
+                    <fieldset id="extrasObjectivesField" style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: start; gap: 10px; justify-content: space-evenly; border: 1px dashed;">
+                        <legend>Objectives <sup title="Shows only games that have ALL the selected Objective types." onclick="alert(this.title);" style="text-decoration: underline dotted; cursor:help;">𝓲</sup></legend>
+                        <span>
+                            <input autocomplete="off" type="checkbox" id="unclearedFilter" onchange="order('last')"><label for="unclearedFilter">Uncleared Only</label>
+                        </span>
+                        <span>
+                            <input autocomplete="off" type="checkbox" id="unvaluedFilter" onchange="order('last')"><label for="unvaluedFilter">Unvalued Only</label>
+                        </span>
+                        <span>
+                            <input autocomplete="off" type="checkbox" id="secondaryFilter" onchange="order('last')"><label for="secondaryFilter">Secondary Only</label>
+                        </span>
+                    </fieldset>
+                    <fieldset id="extrasDlcsField" style="display: flex; flex-direction: column; flex-wrap: wrap; align-items: start; justify-content: space-evenly; border: 1px dashed;">
+                        <legend>DLCs <sup title="These apply to all the Steam games shown in the current Platform Filter.&#10;If it's set to 'All', changing these will leave the RetroAchievements games untouched." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup></legend>
+                        <span>
+                            <input autocomplete="off" type="checkbox" id="dlcRequiredFilter" onchange="order('last')"><label for="dlcRequiredFilter">DLCs Required</label>
+                        </span>
+                    </fieldset>
                 </fieldset>
             </div>
         </div>
@@ -1464,7 +1536,7 @@
                         <br>
                         <span class="tag">
                             <div class="tagTitle" title="If a game has been localized in the preferred language, that language will be moved at the start of the list and will be highlighted."; style="text-decoration: underline dotted; cursor:help;font-size: 0.9em;" onclick="alert(this.title);">Preferred Language</div>
-                            <select id="preferredLanguageSelect" style="font-size: 0.8em;" onchange="changePreferredLang(this.value)">
+                            <select id="preferredLanguageSelect" style="font-size: 0.8em; width: 200px" onchange="changePreferredLang(this.value)">
                             </select>
                         </span>
                     </div>
@@ -1509,14 +1581,16 @@
             <select id="orderSelect" autocomplete="off" onchange="order(this.value)">
                 <optgroup label="--Miscellaneous--">
                     <option value="gameType">Platform</option>
-                    <option value="name">Name</option>
-                    <option value="nameLength">Name Length</option>
                     <option value="genre">Genre</option>
                     <option selected value="points">Points</option>
                     <option id="userFilterOrder" style="display:none" value="userPoints">Gained Points (User Filter)</option>
                     <option value="langCount">Language Count</option>
                     <option value="consoleName">Console Name (RA)</option>
                     <option value="random">Random</option>
+                </optgroup>
+                <optgroup label="--Name--">
+                    <option value="name">Alphabetical Order</option>
+                    <option value="nameLength">Name Length</option>
                 </optgroup>
                 <optgroup label="--Milestones--">
                     <option value="primary">Primary Objectives</option>
@@ -2388,15 +2462,6 @@
             else {document.getElementById("userFilterOrder").style = "display: none";}
         }
         
-        //Change currently selected type
-        function changeCompletions(type)
-        {
-            if(document.querySelector("input[name=" + type + "Selection]:checked").value == "number") {document.getElementById(type + "FlavorText").innerHTML = "x"}
-            else {document.getElementById(type + "FlavorText").innerHTML = "x%"}
-
-            if(document.getElementById(type + "Lower").value != "" || document.getElementById(type + "Higher").value != "") {order('last');}
-        }
-
         //Change Wishlist
         function changeWishlist()
         {
@@ -2520,6 +2585,22 @@
         {
             if(activeWishlist != "") {order('last');} 
         }
+
+        //Change currently selected type
+        function changeCompletions(type)
+        {
+            if(document.querySelector("input[name=" + type + "Selection]:checked").value == "number") {document.getElementById(type + "FlavorText").innerHTML = "x"}
+            else {document.getElementById(type + "FlavorText").innerHTML = "x%"}
+
+            if(document.getElementById(type + "Lower").value != "" || document.getElementById(type + "Higher").value != "") {order('last');}
+        }
+        
+        //Game Tag filter settings
+        function changeTagsFilterSettings()
+        {
+            if(document.getElementById("tagsFilterBox").value != "") {order('last')} 
+        }
+        
 
         //Tag settings
         //Show/Hide tag settings
@@ -2965,14 +3046,15 @@
                 }
             }
             
-            //Alter fieldset
-            document.getElementById("achievementsField").classList.remove("activeFilter");
-            
+            //Filter by Achievements
             let lowBound = 0;
             let highBound = 10000;
             
             let min = document.getElementById("achievementsLower").valueAsNumber;
             let max = document.getElementById("achievementsHigher").valueAsNumber;
+
+            //Alter fieldset
+            document.getElementById("achievementsField").classList.remove("activeFilter");
 
             if(document.getElementById("achievementsLower").value != "")
             {
@@ -3011,6 +3093,7 @@
             }
             else {document.getElementById("achievementsHigher").style.textDecoration = "line-through";}
             
+
             //filter by User
             if(activeUser != "")
             {
@@ -3034,6 +3117,7 @@
             {
                 document.getElementById("userField").classList.remove("activeFilter");
             }
+
 
             //filter by Wishlist
             if(activeWishlist != "" && activeWishlist in wishlistData)
@@ -3059,6 +3143,204 @@
                 document.getElementById("wishlistField").classList.remove("activeFilter");
             }
 
+
+             //Review Filters
+            document.getElementById("reviewField").classList.remove("activeFilter");
+
+            if(document.getElementById("platformFilter").value == "RetroAchievements")
+            {
+                document.getElementById("reviewField").setAttribute("disabled", true);document.getElementById("reviewField").classList.remove("activeFilter");
+            }
+            else
+            {
+                document.getElementById("reviewField").removeAttribute("disabled");
+
+                let steamGames = filteredData.filter(obj => {return obj.gameType != 3})
+                let RAGames = filteredData.filter(obj => {return obj.gameType == 3})
+
+                let reviewedGames = steamGames.filter(obj => {return obj.CEId in extrasData})
+                let unreviewedGames = steamGames.filter(obj => {return !(obj.CEId in extrasData)})
+
+                //Filter by Review Percentage
+                let reviewPercentageLowBound = 0;
+                let reviewPercentageHighBound = 100;
+                
+                let reviewPercentageMin = document.getElementById("reviewPercentageLower").valueAsNumber;
+                let reviewPercentageMax = document.getElementById("reviewPercentageHigher").valueAsNumber;
+
+                if(document.getElementById("reviewPercentageLower").value != "")
+                {
+                    if(reviewPercentageMin >= 0)
+                    {
+                        //Alter fieldset
+                        filterActive = true;
+                        document.getElementById("reviewField").classList.add("activeFilter");
+
+                        reviewPercentageLowBound = reviewPercentageMin;
+                        if(reviewPercentageLowBound > 100) {reviewPercentageMin == 100}
+                    }
+                    else {document.getElementById("reviewPercentageLower").value = reviewPercentageLowBound.toString();}
+                }
+
+                if(document.getElementById("reviewPercentageHigher").value != "")
+                {
+                    if(reviewPercentageMax <= 100)
+                    {
+                        //Alter fieldset
+                        filterActive = true;
+                        document.getElementById("reviewField").classList.add("activeFilter");
+                        
+                        reviewPercentageHighBound = reviewPercentageMax;
+                        if(reviewPercentageHighBound < 0) {reviewPercentageMax == 0}
+                    }
+                    else {document.getElementById("reviewPercentageHigher").value = reviewPercentageHighBound.toString();}
+                }
+
+                reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] / extrasData[obj["CEId"]]["reviews"]["total"] * 100 >= reviewPercentageLowBound})
+                
+                if(reviewPercentageLowBound <= reviewPercentageHighBound)
+                {
+                    document.getElementById("reviewPercentageHigher").style.textDecoration = "none";
+                    reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] / extrasData[obj["CEId"]]["reviews"]["total"] * 100 <= reviewPercentageHighBound})
+                }
+                else {document.getElementById("reviewPercentageHigher").style.textDecoration = "line-through";}
+
+                //Filter by Total Reviews
+                let reviewTotalLowBound = 0;
+                let reviewTotalHighBound = 100000000;
+                
+                let reviewTotalMin = document.getElementById("reviewTotalLower").valueAsNumber;
+                let reviewTotalMax = document.getElementById("reviewTotalHigher").valueAsNumber;
+
+                if(document.getElementById("reviewTotalLower").value != "")
+                {
+                    if(reviewTotalMin >= 0)
+                    {
+                        //Alter fieldset
+                        filterActive = true;
+                        document.getElementById("reviewField").classList.add("activeFilter");
+
+                        reviewTotalLowBound = reviewTotalMin;
+                        if(reviewTotalLowBound > 100000000) {reviewTotalMin == 9999999}
+                    }
+                    else {document.getElementById("reviewTotalLower").value = reviewTotalLowBound.toString();}
+                }
+
+                if(document.getElementById("reviewTotalHigher").value != "")
+                {
+                    if(reviewTotalMax <= 100000000)
+                    {
+                        //Alter fieldset
+                        filterActive = true;
+                        document.getElementById("reviewField").classList.add("activeFilter");
+                        
+                        reviewTotalHighBound = reviewTotalMax;
+                        if(reviewTotalHighBound < 0) {reviewTotalMax == 0}
+                    }
+                    else {document.getElementById("reviewTotalHigher").value = reviewTotalHighBound.toString();}
+                }
+
+                reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["total"] >= reviewTotalLowBound})
+                
+                if(reviewTotalLowBound <= reviewTotalHighBound)
+                {
+                    document.getElementById("reviewTotalHigher").style.textDecoration = "none";
+                    reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["total"] <= reviewTotalHighBound})
+                }
+                else {document.getElementById("reviewTotalHigher").style.textDecoration = "line-through";}
+
+                //Filter by Positive Reviews
+                let reviewPositiveLowBound = 0;
+                let reviewPositiveHighBound = 100000000;
+                
+                let reviewPositiveMin = document.getElementById("reviewPositiveLower").valueAsNumber;
+                let reviewPositiveMax = document.getElementById("reviewPositiveHigher").valueAsNumber;
+
+                if(document.getElementById("reviewPositiveLower").value != "")
+                {
+                    if(reviewPositiveMin >= 0)
+                    {
+                        //Alter fieldset
+                        filterActive = true;
+                        document.getElementById("reviewField").classList.add("activeFilter");
+                        
+                        reviewPositiveLowBound = reviewPositiveMin;
+                        if(reviewPositiveLowBound > 100000000) {reviewPositiveMin == 9999999}
+                    }
+                    else {document.getElementById("reviewPositiveLower").value = reviewPositiveLowBound.toString();}
+                }
+
+                if(document.getElementById("reviewPositiveHigher").value != "")
+                {
+                    if(reviewPositiveMax <= 100000000)
+                    {
+                        //Alter fieldset
+                        filterActive = true;
+                        document.getElementById("reviewField").classList.add("activeFilter");
+                        
+                        reviewPositiveHighBound = reviewPositiveMax;
+                        if(reviewPositiveHighBound < 0) {reviewPositiveMax == 0}
+                    }
+                    else {document.getElementById("reviewPositiveHigher").value = reviewPositiveHighBound.toString();}
+                }
+
+                reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] >= reviewPositiveLowBound})
+                
+                if(reviewPositiveLowBound <= reviewPositiveHighBound)
+                {
+                    document.getElementById("reviewPositiveHigher").style.textDecoration = "none";
+                    reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["positive"] <= reviewPositiveHighBound})
+                }
+                else {document.getElementById("reviewPositiveHigher").style.textDecoration = "line-through";}
+
+                //Filter by Negative Reviews
+                let reviewNegativeLowBound = 0;
+                let reviewNegativeHighBound = 100000000;
+                
+                let reviewNegativeMin = document.getElementById("reviewNegativeLower").valueAsNumber;
+                let reviewNegativeMax = document.getElementById("reviewNegativeHigher").valueAsNumber;
+
+                if(document.getElementById("reviewNegativeLower").value != "")
+                {
+                    if(reviewNegativeMin >= 0)
+                    {
+                        //Alter fieldset
+                        filterActive = true;
+                        document.getElementById("reviewField").classList.add("activeFilter");
+                        
+                        reviewNegativeLowBound = reviewNegativeMin;
+                        if(reviewNegativeLowBound > 100000000) {reviewNegativeMin == 9999999}
+                    }
+                    else {document.getElementById("reviewNegativeLower").value = reviewNegativeLowBound.toString();}
+                }
+
+                if(document.getElementById("reviewNegativeHigher").value != "")
+                {
+                    if(reviewNegativeMax <= 100000000)
+                    {
+                        //Alter fieldset
+                        filterActive = true;
+                        document.getElementById("reviewField").classList.add("activeFilter");
+                        
+                        reviewNegativeHighBound = reviewNegativeMax;
+                        if(reviewNegativeHighBound < 0) {reviewNegativeMax == 0}
+                    }
+                    else {document.getElementById("reviewNegativeHigher").value = reviewNegativeHighBound.toString();}
+                }
+
+                reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["negative"] >= reviewNegativeLowBound})
+                
+                if(reviewNegativeLowBound <= reviewNegativeHighBound)
+                {
+                    document.getElementById("reviewNegativeHigher").style.textDecoration = "none";
+                    reviewedGames = reviewedGames.filter(obj => {return extrasData[obj["CEId"]]["reviews"]["negative"] <= reviewNegativeHighBound})
+                }
+                else {document.getElementById("reviewNegativeHigher").style.textDecoration = "line-through";}
+                
+                filteredData = reviewedGames.concat(unreviewedGames, RAGames);
+            }
+
+            
             //Filter by ownership
             let ownershipLowBound = 0;
             let ownershipHighBound = 10000;
@@ -3105,8 +3387,6 @@
                 filteredData = filteredData.filter(obj => {return obj.playersTotal <= ownershipHighBound})
             }
             else {document.getElementById("ownersHigher").style.textDecoration = "line-through";}
-
-            
             //Filter by completed
             let completionLowBound = 0;
             let completionHighBound = 10000;
@@ -3165,8 +3445,6 @@
                 }
             }
             else {document.getElementById("completionsHigher").style.textDecoration = "line-through";}
-
-        
             //Filter by started
             let startedLowBound = 0;
             let startedHighBound = 10000;
@@ -3225,6 +3503,154 @@
                 }
             }
             else {document.getElementById("startedHigher").style.textDecoration = "line-through";}
+
+
+            //Game Tags filter
+            if(document.getElementById("tagsFilterBox").value != "")
+            {
+                let filterText = document.getElementById("tagsFilterBox").value.split(",");
+                let focus = document.querySelector("input[name=tagsFocus]:checked").value;
+
+                let filterResults = filteredData.filter(tagsFilterFunc);
+
+                function tagsFilterFunc(obj)
+                {
+                    let tagText = obj.gameTags;
+                    
+                    if(focus <= tagText.length) {tagText = tagText.slice(0, focus)}
+                    
+                    tagText = tagText.join("§").toUpperCase();
+
+                    let tagPresence = true;
+
+                    for(let i = 0; i < filterText.length; i++)
+                    {
+                        if(!tagText.includes(filterText[i].toUpperCase().trim())) 
+                        {
+                            tagPresence = false;
+                            break;
+                        }
+                    }
+
+                    return tagPresence;
+                }
+
+                if(document.getElementById("invertTagsFilter").checked)
+                {filteredData = filteredData.filter(obj => {return !(filterResults.includes(obj))})}
+                else
+                {filteredData = filterResults}
+                
+
+                //Alter fieldset
+                filterActive = true;
+                document.getElementById("tagsField").classList.add("activeFilter");
+                if(document.getElementById("invertTagsFilter").checked) {document.getElementById("tagsField").classList.add("invertedFilter");}
+                else {document.getElementById("tagsField").classList.remove("invertedFilter");}
+            }
+            //Alter fieldset
+            else
+            {
+                document.getElementById("tagsField").classList.remove("activeFilter");
+                document.getElementById("tagsField").classList.remove("invertedFilter");
+            }
+
+
+            //Extra Filters
+            document.getElementById("extrasField").classList.remove("activeFilter");
+            //Objectives
+            document.getElementById("extrasObjectivesField").classList.remove("activeFilter");
+            //Uncleared
+            if(document.getElementById("unclearedFilter").checked)
+            {
+                //Alter fieldset
+                filterActive = true;
+                document.getElementById("extrasField").classList.add("activeFilter");
+                document.getElementById("extrasObjectivesField").classList.add("activeFilter");
+
+                filteredData = filteredData.filter(unclearedFilterFunc);
+            }
+            function unclearedFilterFunc(obj)
+            {
+                if(obj["points"] > 0)
+                {
+                    //Uncleared
+                    if(obj["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || obj["milestones"]["communityText"].toUpperCase().includes("UNCLEARED")) {return 1;}
+                    //Maybe uncleared
+                    else if(!(obj["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || obj["milestones"]["communityText"].toUpperCase().includes("UNCLEARED")) && !obj["milestones"]["primaryText"].toUpperCase().includes("UNVALUED") && obj["points"] % 5 > 0) {return 1;}
+                }
+                return 0;
+            }
+            
+            //Unvalued
+            if(document.getElementById("unvaluedFilter").checked)
+            {
+                //Alter fieldset
+                filterActive = true;
+                document.getElementById("extrasField").classList.add("activeFilter");
+                document.getElementById("extrasObjectivesField").classList.add("activeFilter");
+
+                filteredData = filteredData.filter(unvaluedFilterFunc);
+            }
+            function unvaluedFilterFunc(obj)
+            {
+                if(obj["points"] > 0)
+                {
+                    if(obj["milestones"]["primaryText"].toUpperCase().includes("UNVALUED")) {return 1;}
+                }
+                return 0;
+            }
+
+            //Secondary
+            if(document.getElementById("secondaryFilter").checked)
+            {
+                //Alter fieldset
+                filterActive = true;
+                document.getElementById("extrasField").classList.add("activeFilter");
+                document.getElementById("extrasObjectivesField").classList.add("activeFilter");
+                
+                filteredData = filteredData.filter(secondaryFilterFunc);
+            }
+            function secondaryFilterFunc(obj)
+            {
+                if(obj["points"] > 0)
+                {
+                    if(obj["milestones"]["primaryText"].toUpperCase().includes("(S)") || obj["milestones"]["primaryText"].toUpperCase().includes("(SO)") || obj["milestones"]["communityText"].toUpperCase().includes("(S)") || obj["milestones"]["communityText"].toUpperCase().includes("(SO)")) {return 1;}
+                }
+                return 0;
+            }
+
+            //Dlcs
+            document.getElementById("extrasDlcsField").classList.remove("activeFilter");
+                document.getElementById("extrasDlcsField").removeAttribute("disabled", true);
+            
+            if(document.getElementById("platformFilter").value == "RetroAchievements")
+            {
+                document.getElementById("extrasDlcsField").setAttribute("disabled", true);
+                document.getElementById("extrasDlcsField").classList.remove("activeFilter");
+            }
+            else if(document.getElementById("dlcRequiredFilter").checked)
+            {
+                //Alter fieldset
+                filterActive = true;
+                document.getElementById("extrasField").classList.add("activeFilter");
+                document.getElementById("extrasDlcsField").classList.add("activeFilter");
+                
+                filteredData = filteredData.filter(dlcRequiredFilterFunc);
+            }
+            function dlcRequiredFilterFunc(obj)
+            {
+                if(obj["points"] > 0)
+                {   
+                    if(obj["gameType"] != 3)
+                    {
+                        if(("information" in obj && obj["information"].toUpperCase().includes("DLC")) || obj["milestones"]["primaryText"].toUpperCase().includes("DLC")) {return 1;}
+                    }
+                    else {return 1;}
+                }
+                return 0;
+            }
+
+
 
             //Alter Side Text if filters are active;
             if(filterActive)
@@ -4099,14 +4525,16 @@
                 //Review Tags
                 let reviewTags = document.createElement("div");
                 reviewTags.classList.add("reviewTags");
-                if(tagSettings[16])
+                if(game["gameType"] != 3 && tagSettings[16])
                 {
-                    if(game["gameType"] != 3 && game["CEId"] in extrasData)
+                    //Review
+                    let review = document.createElement("span");
+                    review.classList.add("tag");
+
+                    if(game["CEId"] in extrasData)
                     {
                         let gameReviews = extrasData[game["CEId"]]["reviews"];
-                        //Review
-                        let review = document.createElement("span");
-                        review.classList.add("tag");
+
                         switch(gameReviews["description"]) {
                             case "Overwhelmingly Positive":
                                 review.innerHTML = "<div class='tagTitle overwhelminglyPositiveText'>";
@@ -4146,9 +4574,13 @@
                         review.innerHTML += "<span style='font-weight: bold; text-decoration: underline dotted; color: lime' title='Positive Reviews' onclick='alert(this.title)'>+" + gameReviews["positive"] + "</span>";
                         review.innerHTML += " | ";
                         review.innerHTML += "<span style='font-weight: bold; text-decoration: underline dotted; color: red' title='Negative Reviews' onclick='alert(this.title)'>-" + gameReviews["negative"] + "</span>";
-
-                        reviewTags.appendChild(review);
                     }
+                    else
+                    {
+                        review.innerHTML = "<div class='tagTitle reviewsUnknownText' style='text-decoration: underline dotted; cursor: help;' title='Review Data is checked Weekly. (On Mondays!)\nThis game&apos;s Reviews haven&apos;t been checked yet.'>";
+                    }
+
+                    reviewTags.appendChild(review);
                 }
 
                 //Check if all settings are false
@@ -4308,7 +4740,7 @@
                         {
                             let noDlc = document.createElement("span");
                             noDlc.classList.add("tag");
-                            noDlc.innerHTML = "<div title='The Information Box and/or POs mention a DLC, but none have been found in the game&apos;s Steam page.\n\nThis could be caused by one of the following:\n- The Weekly Check may have not found any DLCs due to API limitations.\n- The game might have free extra content labelled as &apos;DLC&apos;.\n- DLCs may be bought via a third party or in-game payments.' class='tagTitle dlcThirdPartyText' onclick='alert(this.title)'></div>";
+                            noDlc.innerHTML = "<div title='The Information Box and/or POs mention a DLC, but none have been found.\n\nThis could be caused by one of the following:\n- The Weekly Check hasn&apos;t occurred yet since the game has been added. (Happens on Mondays!)\n- The Weekly Check may have not found any DLCs due to API limitations.\n- The game might have free extra content labelled as &apos;DLC&apos;.\n- DLCs may be bought via a third party or in-game payments.' class='tagTitle dlcThirdPartyText' onclick='alert(this.title)'></div>";
                             dlcTags.appendChild(noDlc);
                         }
                     }
