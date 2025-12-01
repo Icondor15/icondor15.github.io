@@ -1,73 +1,51 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 640340,
-        "CEId": "54aea550-c367-4cf0-9ad2-0b5dea2aed62",
-        "name": "Serious Sam: Tormental",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/640340/header.jpg?t=1652866132",
-        "genre": "Action",
+        "gameType": 1,
+        "platformId": 1484800,
+        "CEId": "c571833c-d196-401c-b7b7-c09f384c8f20",
+        "name": "Zardy's Maze",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1484800/header.jpg?t=1611597939",
+        "genre": "First-Person",
         "tier": 2,
-        "points": 25,
-        "createdAt": "2022-11-30T01:54:01.000Z",
+        "points": 20,
+        "createdAt": "2021-12-01T04:39:42.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 5,
-        "playersStarted": 3,
-        "playersTotal": 44,
-        "priceData": {
-            "USD": {
-                "initial": 1199,
-                "final": 1199,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 1179,
-                "final": 1179,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 140000,
-                "final": 140000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 1775,
-                "final": 1775,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 1549,
-                "final": 1549,
-                "discountPercent": 0
-            }
-        },
+        "playersCompleted": 19,
+        "playersStarted": 0,
+        "playersTotal": 195,
         "milestones": {
-            "primary": 2,
-            "primaryText": "Mental [15\u2605]\nBeat Mental. / Beat Iteration V3 with 9 active moods. / Beat Iteration V2 with the Sadistic Mood. / Complete the \"Frazzled\" and \"Death from Above\" quests.\n\nHypnic Jerk [10\u2605]\nReach the Vault in under 12 minutes. / Reach the Vault after looping twice. / Reach the high score with Bomb.",
-            "community": 2,
-            "communityText": "Psychosis\nBeat Iteration V3 in under 25 minutes without using torments.\n\nQuests and Qualms\nComplete every quest (excluding Moody Mental).",
-            "achievements": 49
+            "primary": 1,
+            "primaryText": "Maize Runner [20\u2605]\nBeat the main game without leaving the maze after first entering it. / Destroy 14 weeds or more in Challenge 10.",
+            "community": 3,
+            "communityText": "Lord of the Harvest\nDestroy 41 weeds and enter the endgame loop in Challenge 10.\n\nFool's Errand (S)\nComplete a custom game with all enemy counts and difficulties set to the maximum.\n\nWeed Eater (S)\nDestroy 21 weeds and find the secret character at the start of the maze in Challenge 10.",
+            "achievements": 25
         },
         "gameTags": [
+            "Horror",
             "Action",
-            "Action Roguelike",
+            "Survival",
+            "Strategy",
+            "Free to Play",
+            "Mystery",
+            "Multiplayer",
+            "Stealth",
+            "Difficult",
+            "First-Person",
+            "Survival Horror",
+            "3D",
             "Indie",
-            "Bullet Hell",
-            "Roguelite",
-            "Top-Down Shooter",
-            "Twin Stick Shooter",
-            "Narrative",
-            "Co-op",
-            "Roguelike"
+            "Singleplayer",
+            "Dark",
+            "Cartoony",
+            "Stylized",
+            "Psychological Horror",
+            "Supernatural",
+            "Multiple Endings"
         ],
         "languages": {
-            "english": "IA"
+            "english": "IS"
         }
     }
 }
-var gameOfDayDate = '2025-11-30'
+var gameOfDayDate = '2025-12-01'
