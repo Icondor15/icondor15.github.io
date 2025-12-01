@@ -2008,9 +2008,9 @@ var masoData =
         "description": "\ud83c\udf1f So good that it hurts",
         "tier": "5",
         "owners": 44,
-        "completions": 9,
-        "playtime": 38.98518518518519,
-        "newestCompletion": "2025-03-22T21:23:13.000Z"
+        "completions": 10,
+        "playtime": 37.843333333333334,
+        "newestCompletion": "2025-11-30T14:50:10.000Z"
     },
     "1004770": {
         "description": "\u2606 I never knew I wanted a PVP SHMUP so badly until Maiden &amp; Spell released. Single-player offers plenty of content with unique bosses and a cute story. Online is practically lag-free. Highly addictive",
@@ -2125,7 +2125,7 @@ var masoData =
         "tier": "3",
         "owners": 76,
         "completions": 21,
-        "playtime": 18.358730158730157,
+        "playtime": 18.387301587301586,
         "newestCompletion": "2025-09-13T02:06:01.000Z"
     },
     "404540": {
