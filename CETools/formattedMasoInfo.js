@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 241,
         "completions": 128,
-        "playtime": 193.02070312500004,
+        "playtime": 193.11171875000005,
         "newestCompletion": "2025-10-24T02:20:59.000Z",
         "badges": {
             "count": 2,
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 251,
         "completions": 183,
-        "playtime": 223.2243169398908,
+        "playtime": 223.30191256830614,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -888,8 +888,8 @@ var masoData =
         "description": "\u2733 Just killing red dudes",
         "tier": "2",
         "owners": 149,
-        "completions": 70,
-        "playtime": 18.94380952380952,
+        "completions": 71,
+        "playtime": 19.063380281690137,
         "newestCompletion": "2025-11-07T20:42:27.000Z"
     },
     "413580": {
@@ -2805,7 +2805,7 @@ var masoData =
         "tier": "4",
         "owners": 42,
         "completions": 9,
-        "playtime": 76.53703703703704,
+        "playtime": 76.61296296296297,
         "newestCompletion": "2023-08-07T12:53:15.000Z",
         "badges": {
             "count": 1,
@@ -3451,7 +3451,7 @@ var masoData =
     "1492420": {
         "description": "\u272a Literally preschool math",
         "tier": "4",
-        "owners": 26,
+        "owners": 27,
         "completions": 9,
         "playtime": 52.592592592592595,
         "newestCompletion": "2025-09-17T10:21:56.000Z"
@@ -3884,9 +3884,9 @@ var masoData =
         "description": "Heartbeat... Heartbeat... Heartbeat... Heart.",
         "tier": "1",
         "owners": 55,
-        "completions": 10,
-        "playtime": 13.418333333333333,
-        "newestCompletion": "2025-07-07T21:55:35.000Z",
+        "completions": 11,
+        "playtime": 14.093939393939394,
+        "newestCompletion": "2025-11-19T12:57:05.000Z",
         "badges": {
             "count": 1,
             "points": 1
@@ -4204,9 +4204,9 @@ var masoData =
         "description": "\u272a The n++ of race games",
         "tier": "4",
         "owners": 46,
-        "completions": 6,
-        "playtime": 252.59444444444443,
-        "newestCompletion": "2025-02-25T14:58:10.000Z",
+        "completions": 7,
+        "playtime": 267.15,
+        "newestCompletion": "2025-11-10T21:27:13.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -4487,9 +4487,9 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 61,
-        "completions": 23,
-        "playtime": 107.87463768115938,
+        "owners": 62,
+        "completions": 24,
+        "playtime": 107.15763888888885,
         "newestCompletion": "2025-11-13T22:37:01.000Z"
     },
     "322170": {
