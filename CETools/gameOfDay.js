@@ -2,50 +2,49 @@ var gameOfDay =
 {
     "game": {
         "gameType": 1,
-        "platformId": 1484800,
-        "CEId": "c571833c-d196-401c-b7b7-c09f384c8f20",
-        "name": "Zardy's Maze",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1484800/header.jpg?t=1611597939",
-        "genre": "First-Person",
-        "tier": 2,
-        "points": 20,
-        "createdAt": "2021-12-01T04:39:42.000Z",
+        "platformId": 1058640,
+        "CEId": "6f60a578-2524-4d07-8db6-2f7a85d63f6d",
+        "name": "RED HOT VENGEANCE",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1058640/header.jpg?t=1572210555",
+        "genre": "Action",
+        "tier": 1,
+        "points": 10,
+        "createdAt": "2023-12-02T01:12:46.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 19,
+        "playersCompleted": 14,
         "playersStarted": 0,
-        "playersTotal": 195,
+        "playersTotal": 132,
         "milestones": {
             "primary": 1,
-            "primaryText": "Maize Runner [20\u2605]\nBeat the main game without leaving the maze after first entering it. / Destroy 14 weeds or more in Challenge 10.",
-            "community": 3,
-            "communityText": "Lord of the Harvest\nDestroy 41 weeds and enter the endgame loop in Challenge 10.\n\nFool's Errand (S)\nComplete a custom game with all enemy counts and difficulties set to the maximum.\n\nWeed Eater (S)\nDestroy 21 weeds and find the secret character at the start of the maze in Challenge 10.",
-            "achievements": 25
+            "primaryText": "Vengeance Delivered [10\u2605]\nGet all medals on new game plus. / Complete all challenges. ",
+            "community": 0,
+            "communityText": "",
+            "achievements": 15
         },
         "gameTags": [
-            "Horror",
-            "Action",
-            "Survival",
-            "Strategy",
             "Free to Play",
-            "Mystery",
-            "Multiplayer",
-            "Stealth",
-            "Difficult",
-            "First-Person",
-            "Survival Horror",
-            "3D",
+            "Violent",
+            "Gore",
             "Indie",
+            "Action",
             "Singleplayer",
-            "Dark",
-            "Cartoony",
-            "Stylized",
-            "Psychological Horror",
-            "Supernatural",
-            "Multiple Endings"
+            "Shooter",
+            "Top-Down",
+            "Top-Down Shooter",
+            "Level Editor",
+            "Twin Stick Shooter",
+            "Isometric",
+            "GameMaker",
+            "Difficult",
+            "Great Soundtrack",
+            "Co-op",
+            "Multiplayer"
         ],
         "languages": {
-            "english": "IS"
+            "english": "IAS",
+            "spanish": "IS",
+            "russian": "IS"
         }
     }
 }
-var gameOfDayDate = '2025-12-01'
+var gameOfDayDate = '2025-12-02'
