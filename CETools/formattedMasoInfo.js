@@ -4060,9 +4060,9 @@ var masoData =
         "description": "Turn your lo mein into lo PAIN.",
         "tier": "1",
         "owners": 26,
-        "completions": 9,
-        "playtime": 5.550000000000001,
-        "newestCompletion": "2025-03-12T13:00:16.000Z"
+        "completions": 10,
+        "playtime": 5.283333333333333,
+        "newestCompletion": "2025-12-02T20:59:16.000Z"
     },
     "1909770": {
         "description": "\u2606 PAIN CLIMB",
