@@ -4154,7 +4154,7 @@
                     gameTitle.appendChild(gameInfo);
                     gameTitle.innerHTML += " ";
                 }
-                gameTitle.innerHTML += "<span style='font-size: inherit; text-decoration: underline dashed #ffffff7f; cursor: pointer;' title='Click to Copy!' onclick='navigator.clipboard.writeText(\"" + game["name"] + "\")'>" + game["name"] + "</span>";
+                gameTitle.innerHTML += "<span style='font-size: inherit; text-decoration: underline dashed #ffffff7f; cursor: pointer;' title='Click to Copy!' onclick='navigator.clipboard.writeText(\"" + game["name"].replaceAll("'", "&apos;") + "\")'>" + game["name"] + "</span>";
                 
                 //CEID tag
                 if(tagSettings[0])
