@@ -3884,9 +3884,9 @@ var masoData =
         "description": "Heartbeat... Heartbeat... Heartbeat... Heart.",
         "tier": "1",
         "owners": 56,
-        "completions": 12,
-        "playtime": 14.819444444444443,
-        "newestCompletion": "2025-11-19T12:57:05.000Z",
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null,
         "badges": {
             "count": 1,
             "points": 1
