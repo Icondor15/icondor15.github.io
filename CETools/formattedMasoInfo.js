@@ -411,7 +411,7 @@ var masoData =
     "242820": {
         "description": "\u2733 420",
         "tier": "2",
-        "owners": 123,
+        "owners": 124,
         "completions": 65,
         "playtime": 8.33666666666667,
         "newestCompletion": "2025-10-28T20:04:29.000Z"
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 253,
         "completions": 185,
-        "playtime": 225.970900900901,
+        "playtime": 226.00558558558566,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -773,7 +773,7 @@ var masoData =
         "tier": "3",
         "owners": 106,
         "completions": 35,
-        "playtime": 24.40904761904762,
+        "playtime": 24.414285714285715,
         "newestCompletion": "2025-11-16T08:23:05.000Z"
     },
     "658150": {
@@ -1365,7 +1365,7 @@ var masoData =
         "tier": "2",
         "owners": 202,
         "completions": 147,
-        "playtime": 21.264965986394543,
+        "playtime": 21.266553287981843,
         "newestCompletion": "2025-11-06T16:02:02.000Z"
     },
     "211260": {
@@ -3884,9 +3884,9 @@ var masoData =
         "description": "Heartbeat... Heartbeat... Heartbeat... Heart.",
         "tier": "1",
         "owners": 56,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null,
+        "completions": 1,
+        "playtime": 15.733333333333333,
+        "newestCompletion": "2025-12-07T09:22:11.000Z",
         "badges": {
             "count": 1,
             "points": 1
@@ -4205,7 +4205,7 @@ var masoData =
         "tier": "4",
         "owners": 54,
         "completions": 8,
-        "playtime": 266.91041666666666,
+        "playtime": 267.0458333333333,
         "newestCompletion": "2025-11-10T21:27:13.000Z",
         "badges": {
             "count": 1,
@@ -4489,7 +4489,7 @@ var masoData =
         "tier": "2",
         "owners": 142,
         "completions": 32,
-        "playtime": 105.70468749999996,
+        "playtime": 105.7052083333333,
         "newestCompletion": "2025-11-13T22:37:01.000Z"
     },
     "322170": {
