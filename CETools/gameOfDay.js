@@ -2,79 +2,85 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2131920,
-        "CEId": "3c10ba08-a710-4762-abbe-693e58444c27",
-        "name": "Super Hamster Ball",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2131920/header.jpg?t=1669354143",
-        "genre": "Platformer",
+        "platformId": 1165470,
+        "CEId": "a7bffd37-301b-446f-ba40-c45805277cb2",
+        "name": "TombStar",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1165470/header.jpg?t=1662081328",
+        "genre": "Action",
         "tier": 1,
-        "points": 10,
-        "createdAt": "2022-12-07T22:16:21.000Z",
+        "points": 5,
+        "createdAt": "2023-12-08T00:23:24.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 11,
+        "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 25,
+        "playersTotal": 7,
         "priceData": {
             "USD": {
-                "initial": 399,
-                "final": 399,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 399,
-                "final": 399,
+                "initial": 1249,
+                "final": 1249,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 339,
-                "final": 339,
+                "initial": 1139,
+                "final": 1139,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 47000,
-                "final": 47000,
+                "initial": 152000,
+                "final": 152000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 595,
-                "final": 595,
+                "initial": 2150,
+                "final": 2150,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 1749,
+                "final": 1749,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Hamtaro [10\u2605]\nCollect all stars in pathfinder mode and fully complete adventure mode.",
+            "primaryText": "Octace?! [5\u2605]\nWin with the \"Only Need One\" and \"High Octane\" badges equipped.",
             "community": 0,
             "communityText": "",
-            "achievements": 17
+            "achievements": 33
         },
         "gameTags": [
-            "Casual",
+            "Perma Death",
+            "Action Roguelike",
+            "Twin Stick Shooter",
+            "Bullet Hell",
+            "Dungeon Crawler",
+            "Roguelite",
+            "Procedural Generation",
+            "Roguelike",
+            "Action",
             "Arcade",
-            "Puzzle",
-            "2D Platformer",
-            "Puzzle Platformer",
-            "2D",
-            "Cute",
-            "Pixel Graphics",
-            "1990's",
-            "Retro",
-            "Controller",
-            "Singleplayer"
+            "3D",
+            "Funny",
+            "Cartoony",
+            "Colorful",
+            "Fantasy",
+            "Space",
+            "Sci-fi",
+            "Class-Based",
+            "Loot",
+            "Western"
         ],
         "languages": {
-            "english": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "koreana": "I",
-            "schinese": "I",
-            "tchinese": "I"
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "schinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2025-12-07'
+var gameOfDayDate = '2025-12-08'
