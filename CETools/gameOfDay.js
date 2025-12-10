@@ -2,18 +2,18 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1996470,
-        "CEId": "27231b8f-889d-4b78-9286-ff0cf434d97a",
-        "name": "Skator Gator 3D",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1996470/header.jpg?t=1694548750",
-        "genre": "Platformer",
+        "platformId": 78000,
+        "CEId": "f1eab776-645c-42d1-b640-244cbf4a590d",
+        "name": "Bejeweled\u00ae 3",
+        "header": "https://steamcdn-a.akamaihd.net/steam/apps/78000/header.jpg?t=1584804978",
+        "genre": "Arcade",
         "tier": 1,
-        "points": 5,
-        "createdAt": "2023-09-17T15:05:31.000Z",
+        "points": 15,
+        "createdAt": "2020-08-25T17:35:19.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 4,
+        "playersCompleted": 59,
         "playersStarted": 0,
-        "playersTotal": 23,
+        "playersTotal": 367,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -26,13 +26,13 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 429,
-                "final": 429,
+                "initial": 425,
+                "final": 425,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 58000,
-                "final": 58000,
+                "initial": 49800,
+                "final": 49800,
                 "discountPercent": 0
             },
             "AUD": {
@@ -41,43 +41,42 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 649,
-                "final": 649,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Later, Speed Gator [5\u2605]\nGet all staff times.",
+            "primaryText": "Bedazzling [15\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
-            "achievements": 24
+            "achievements": 65
         },
         "gameTags": [
-            "3D Platformer",
-            "Collectathon",
-            "Short",
-            "Action",
-            "Family Friendly",
-            "Skateboarding",
+            "Casual",
+            "Puzzle",
+            "Match 3",
             "Singleplayer",
-            "Cartoon",
-            "Action-Adventure",
-            "Platformer",
-            "3D",
-            "Cute",
+            "Strategy",
+            "Addictive",
+            "Relaxing",
+            "Classic",
+            "Great Soundtrack",
+            "Touch-Friendly",
             "Colorful",
-            "Skating",
-            "Cartoony",
-            "Adventure",
-            "Sports",
-            "Linear",
-            "Precision Platformer",
-            "Arcade"
+            "Family Friendly",
+            "Arcade",
+            "Indie",
+            "2D"
         ],
         "languages": {
-            "english": "I"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
         }
     }
 }
-var gameOfDayDate = '2025-12-09'
+var gameOfDayDate = '2025-12-10'
