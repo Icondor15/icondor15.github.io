@@ -4344,9 +4344,9 @@ var masoData =
         "description": "\u272a Tier 4",
         "tier": "4",
         "owners": 16,
-        "completions": 4,
-        "playtime": 48.97916666666667,
-        "newestCompletion": "2025-07-09T16:10:23.000Z"
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
     },
     "2702490": {
         "description": "\u2733 An old classic in a fresh light",
