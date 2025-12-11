@@ -1667,7 +1667,7 @@ var masoData =
     "609420": {
         "description": "\ud83c\udf1f Give Up",
         "tier": "5",
-        "owners": 73,
+        "owners": 74,
         "completions": 6,
         "playtime": 109.69722222222221,
         "newestCompletion": "2025-11-29T02:29:08.000Z",
@@ -2179,7 +2179,7 @@ var masoData =
     "857500": {
         "description": "\u2733 Cows, Asparagus and Tigers",
         "tier": "2",
-        "owners": 11,
+        "owners": 12,
         "completions": 5,
         "playtime": 12.506666666666668,
         "newestCompletion": "2022-03-20T07:48:36.000Z"
@@ -2579,7 +2579,7 @@ var masoData =
     "1205170": {
         "description": "\u2606 Challenge attracts rage.",
         "tier": "3",
-        "owners": 79,
+        "owners": 80,
         "completions": 19,
         "playtime": 20.383333333333336,
         "newestCompletion": "2025-05-01T21:06:34.000Z"
@@ -3215,7 +3215,7 @@ var masoData =
     "1938850": {
         "description": "\u2606 temp tagline, idk im not creative",
         "tier": "3",
-        "owners": 20,
+        "owners": 21,
         "completions": 2,
         "playtime": 10.608333333333334,
         "newestCompletion": "2025-02-09T08:05:01.000Z"
@@ -4215,7 +4215,7 @@ var masoData =
     "917140": {
         "description": "\u2733 Rapid eye momentum",
         "tier": "2",
-        "owners": 18,
+        "owners": 19,
         "completions": 2,
         "playtime": 61.86666666666666,
         "newestCompletion": "2024-11-26T06:18:05.000Z",
@@ -4495,7 +4495,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 167,
+        "owners": 168,
         "completions": 26,
         "playtime": 1517.7769230769227,
         "newestCompletion": "2025-08-19T14:06:10.000Z",
