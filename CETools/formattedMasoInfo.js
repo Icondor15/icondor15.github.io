@@ -2212,9 +2212,9 @@ var masoData =
         "description": "Sponsored by PETA",
         "tier": "1",
         "owners": 37,
-        "completions": 7,
-        "playtime": 7.4833333333333325,
-        "newestCompletion": "2024-04-30T03:11:29.000Z"
+        "completions": 8,
+        "playtime": 7.043749999999999,
+        "newestCompletion": "2025-12-05T21:42:46.000Z"
     },
     "1056690": {
         "description": "\u2606 Gatorade wanted nothing to do with this",
@@ -4344,9 +4344,9 @@ var masoData =
         "description": "\u272a Tier 4",
         "tier": "4",
         "owners": 16,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "completions": 1,
+        "playtime": 67.9,
+        "newestCompletion": "2025-12-11T18:05:25.000Z"
     },
     "2702490": {
         "description": "\u2733 An old classic in a fresh light",
