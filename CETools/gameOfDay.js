@@ -2,82 +2,81 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1271280,
-        "CEId": "e9bf3920-0816-44e6-80b0-63db3022125a",
-        "name": "Rift Wizard",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1271280/header.jpg?t=1669170708",
-        "genre": "Strategy",
-        "tier": 2,
-        "points": 30,
-        "createdAt": "2022-12-12T05:50:10.000Z",
+        "platformId": 2883730,
+        "CEId": "dbadb072-02ad-46e1-9f51-29d266fca1d7",
+        "name": "Tomato Flip",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2883730/header.jpg?t=1711897277",
+        "genre": "Platformer",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2024-12-13T03:02:48.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 1,
+        "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 39,
+        "playersTotal": 4,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 1499,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1249,
-                "final": 1249,
+                "initial": 400,
+                "final": 400,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1139,
-                "final": 1139,
+                "initial": 340,
+                "final": 340,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 152000,
-                "final": 152000,
+                "initial": 40000,
+                "final": 40000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2150,
-                "final": 2150,
+                "initial": 600,
+                "final": 600,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1749,
-                "final": 1749,
+                "initial": 500,
+                "final": 500,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Trials and Tribulations [20\u2605]\nComplete all trials.\n\nSpellslave [10\u2605]\nWin five consecutive games.",
+            "primary": 1,
+            "primaryText": "Highly Acidic [5\u2605]\nClear all stages on Normal difficulty.",
             "community": 0,
             "communityText": "",
-            "achievements": 21
+            "achievements": 20
         },
         "gameTags": [
-            "Character Customization",
-            "Roguelike",
-            "Dungeon Crawler",
-            "Perma Death",
-            "Turn-Based",
-            "Magic",
-            "2D",
-            "Turn-Based Combat",
-            "Procedural Generation",
-            "Pixel Graphics",
-            "Minimalist",
-            "Fantasy",
-            "Strategy",
-            "Top-Down",
-            "Traditional Roguelike",
-            "Old School",
-            "Retro",
-            "Singleplayer",
-            "RPG",
-            "Indie"
+            "3D Platformer",
+            "Casual",
+            "Tutorial",
+            "3D",
+            "Third Person",
+            "Cooking",
+            "Controller",
+            "Colorful",
+            "Space",
+            "Score Attack",
+            "Action",
+            "Indie",
+            "Building",
+            "Nature",
+            "Physics",
+            "Adventure",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "IAS"
-        }
+            "english": "IS",
+            "japanese": "IS"
+        },
+        "information": "To launch the game, move all files in the \"TomatoFlip\" folder to the parent folder \"Tomato Flip\""
     }
 }
-var gameOfDayDate = '2025-12-12'
+var gameOfDayDate = '2025-12-13'
