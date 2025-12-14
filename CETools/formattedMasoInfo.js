@@ -305,7 +305,7 @@ var masoData =
         "tier": "1",
         "owners": 145,
         "completions": 42,
-        "playtime": 129.5107142857143,
+        "playtime": 129.59166666666667,
         "newestCompletion": "2025-11-10T18:24:56.000Z",
         "badges": {
             "count": 1,
@@ -820,9 +820,9 @@ var masoData =
         "description": "\ud83c\udf1f Entry-level: 100% Super Meat Boy",
         "tier": "5",
         "owners": 154,
-        "completions": 40,
-        "playtime": 41.96124999999999,
-        "newestCompletion": "2025-11-13T21:41:12.000Z"
+        "completions": 41,
+        "playtime": 42.230487804878045,
+        "newestCompletion": "2025-12-13T21:11:32.000Z"
     },
     "489140": {
         "description": "\u2733 Nightcrawler Miami",
@@ -3225,7 +3225,7 @@ var masoData =
         "tier": "3",
         "owners": 125,
         "completions": 62,
-        "playtime": 76.944623655914,
+        "playtime": 77.03655913978497,
         "newestCompletion": "2025-12-05T21:41:16.000Z",
         "badges": {
             "count": 1,
@@ -4479,17 +4479,17 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 33,
-        "completions": 21,
-        "playtime": 8.7515873015873,
-        "newestCompletion": "2025-11-28T21:30:46.000Z"
+        "owners": 34,
+        "completions": 22,
+        "playtime": 8.532575757575756,
+        "newestCompletion": "2025-12-14T06:13:58.000Z"
     },
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
         "owners": 142,
         "completions": 32,
-        "playtime": 105.7052083333333,
+        "playtime": 105.96979166666664,
         "newestCompletion": "2025-11-13T22:37:01.000Z"
     },
     "322170": {
