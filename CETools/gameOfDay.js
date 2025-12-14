@@ -2,81 +2,82 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2883730,
-        "CEId": "dbadb072-02ad-46e1-9f51-29d266fca1d7",
-        "name": "Tomato Flip",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2883730/header.jpg?t=1711897277",
-        "genre": "Platformer",
+        "platformId": 2593450,
+        "CEId": "9450e816-e85f-4b34-b8ec-993b9daa1ede",
+        "name": "Furi Demake - The Chain",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2593450/header.jpg?t=1701363510",
+        "genre": "Action",
         "tier": 1,
         "points": 5,
-        "createdAt": "2024-12-13T03:02:48.000Z",
+        "createdAt": "2023-12-14T01:59:29.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 2,
+        "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 4,
+        "playersTotal": 236,
         "priceData": {
             "USD": {
-                "initial": 399,
-                "final": 399,
+                "initial": 299,
+                "final": 299,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 400,
-                "final": 400,
+                "initial": 299,
+                "final": 299,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 340,
-                "final": 340,
+                "initial": 249,
+                "final": 249,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 40000,
-                "final": 40000,
+                "initial": 35000,
+                "final": 35000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 600,
-                "final": 600,
+                "initial": 450,
+                "final": 450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 500,
-                "final": 500,
+                "initial": 389,
+                "final": 389,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Highly Acidic [5\u2605]\nClear all stages on Normal difficulty.",
+            "primaryText": "Hell Hath No Furi [5\u2605]\nObtain an S rank on the 'The Chain' bossfight in \"Furier\" difficulty.",
             "community": 0,
             "communityText": "",
-            "achievements": 20
+            "achievements": 0
         },
         "gameTags": [
-            "3D Platformer",
-            "Casual",
-            "Tutorial",
-            "3D",
-            "Third Person",
-            "Cooking",
-            "Controller",
-            "Colorful",
-            "Space",
-            "Score Attack",
             "Action",
-            "Indie",
-            "Building",
-            "Nature",
-            "Physics",
             "Adventure",
-            "Singleplayer"
+            "Difficult",
+            "Retro",
+            "Hack and Slash",
+            "Bullet Hell",
+            "Side Scroller",
+            "Fast-Paced",
+            "Beat 'em up",
+            "Pixel Graphics",
+            "2D",
+            "Arcade",
+            "Sci-fi",
+            "Cyberpunk",
+            "Combat",
+            "Singleplayer",
+            "Shooter",
+            "Indie",
+            "Controller",
+            "Free to Play"
         ],
         "languages": {
-            "english": "IS",
-            "japanese": "IS"
-        },
-        "information": "To launch the game, move all files in the \"TomatoFlip\" folder to the parent folder \"Tomato Flip\""
+            "english": "I"
+        }
     }
 }
-var gameOfDayDate = '2025-12-13'
+var gameOfDayDate = '2025-12-14'
