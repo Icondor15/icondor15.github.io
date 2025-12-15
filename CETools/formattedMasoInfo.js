@@ -647,10 +647,10 @@ var masoData =
     "302610": {
         "description": "This guy needs a fat bonus from his boss",
         "tier": "1",
-        "owners": 72,
-        "completions": 65,
-        "playtime": 7.291282051282051,
-        "newestCompletion": "2025-10-01T21:59:14.000Z"
+        "owners": 73,
+        "completions": 66,
+        "playtime": 7.215909090909091,
+        "newestCompletion": "2025-12-06T22:45:18.000Z"
     },
     "257850": {
         "description": "\u2733 Who needs a story anyway?",
@@ -944,9 +944,9 @@ var masoData =
         "description": "\u2733 Can you?",
         "tier": "2",
         "owners": 184,
-        "completions": 98,
-        "playtime": 33.19846938775512,
-        "newestCompletion": "2025-10-19T02:47:59.000Z"
+        "completions": 99,
+        "playtime": 32.99410774410776,
+        "newestCompletion": "2025-12-15T01:34:53.000Z"
     },
     "510620": {
         "description": "\u2606 Jukenation",
@@ -1189,7 +1189,7 @@ var masoData =
         "tier": "5",
         "owners": 173,
         "completions": 20,
-        "playtime": 1362.855,
+        "playtime": 1363.01,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
         "badges": {
             "count": 3,
@@ -1209,7 +1209,7 @@ var masoData =
         "tier": "5",
         "owners": 193,
         "completions": 66,
-        "playtime": 194.66237373737377,
+        "playtime": 194.9308080808081,
         "newestCompletion": "2025-10-03T04:45:14.000Z",
         "badges": {
             "count": 1,
@@ -1705,7 +1705,7 @@ var masoData =
         "tier": "3",
         "owners": 28,
         "completions": 8,
-        "playtime": 32.737500000000004,
+        "playtime": 32.860416666666666,
         "newestCompletion": "2024-10-04T07:10:53.000Z"
     },
     "1120950": {
@@ -2629,7 +2629,7 @@ var masoData =
         "tier": "5",
         "owners": 107,
         "completions": 22,
-        "playtime": 589.1204545454545,
+        "playtime": 589.1325757575758,
         "newestCompletion": "2024-06-17T15:47:58.000Z",
         "badges": {
             "count": 1,
@@ -3225,7 +3225,7 @@ var masoData =
         "tier": "3",
         "owners": 125,
         "completions": 62,
-        "playtime": 77.03655913978497,
+        "playtime": 77.08252688172044,
         "newestCompletion": "2025-12-05T21:41:16.000Z",
         "badges": {
             "count": 1,
@@ -3537,7 +3537,7 @@ var masoData =
         "tier": "2",
         "owners": 96,
         "completions": 36,
-        "playtime": 50.93796296296296,
+        "playtime": 50.94953703703703,
         "newestCompletion": "2025-10-16T15:29:36.000Z"
     },
     "1442170": {
@@ -3841,7 +3841,7 @@ var masoData =
         "tier": "2",
         "owners": 35,
         "completions": 5,
-        "playtime": 142.45,
+        "playtime": 142.6266666666667,
         "newestCompletion": "2023-11-05T07:53:12.000Z",
         "badges": {
             "count": 1,
@@ -3897,7 +3897,7 @@ var masoData =
         "tier": "5",
         "owners": 36,
         "completions": 3,
-        "playtime": 1520.8500000000001,
+        "playtime": 1533.9222222222222,
         "newestCompletion": "2025-02-26T13:13:46.000Z",
         "badges": {
             "count": 3,
@@ -4039,7 +4039,7 @@ var masoData =
     "1337520": {
         "description": "\u2733 Rorrhundisto",
         "tier": "2",
-        "owners": 54,
+        "owners": 55,
         "completions": 8,
         "playtime": 98.68333333333334,
         "newestCompletion": "2025-08-30T05:26:28.000Z",
@@ -4205,7 +4205,7 @@ var masoData =
         "tier": "4",
         "owners": 54,
         "completions": 8,
-        "playtime": 267.0458333333333,
+        "playtime": 267.05833333333334,
         "newestCompletion": "2025-11-10T21:27:13.000Z",
         "badges": {
             "count": 1,
@@ -4481,7 +4481,7 @@ var masoData =
         "tier": "1",
         "owners": 34,
         "completions": 22,
-        "playtime": 8.532575757575756,
+        "playtime": 8.929545454545455,
         "newestCompletion": "2025-12-14T06:13:58.000Z"
     },
     "1030300": {
