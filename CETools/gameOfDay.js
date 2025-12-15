@@ -2,82 +2,94 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2593450,
-        "CEId": "9450e816-e85f-4b34-b8ec-993b9daa1ede",
-        "name": "Furi Demake - The Chain",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2593450/header.jpg?t=1701363510",
-        "genre": "Action",
-        "tier": 1,
-        "points": 5,
-        "createdAt": "2023-12-14T01:59:29.000Z",
+        "platformId": 1229380,
+        "CEId": "3faa1091-47c1-4144-ae59-e0fbb8bc354c",
+        "name": "Everhood",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1229380/header.jpg?t=1643577124",
+        "genre": "Arcade",
+        "tier": 3,
+        "points": 55,
+        "createdAt": "2021-05-24T14:43:01.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 13,
-        "playersStarted": 0,
-        "playersTotal": 236,
+        "playersCompleted": 23,
+        "playersStarted": 21,
+        "playersTotal": 706,
         "priceData": {
             "USD": {
-                "initial": 299,
-                "final": 299,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 299,
-                "final": 299,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 249,
-                "final": 249,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 35000,
-                "final": 35000,
+                "initial": 98000,
+                "final": 98000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 450,
-                "final": 450,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 389,
-                "final": 389,
+                "initial": 1099,
+                "final": 1099,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Hell Hath No Furi [5\u2605]\nObtain an S rank on the 'The Chain' bossfight in \"Furier\" difficulty.",
+            "primary": 2,
+            "primaryText": "Through the Fire and Rage [30\u2605]\nComplete both Incinerator encounters without getting hit.\n\nRed Tripping Hood [25\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
-            "achievements": 0
+            "achievements": 78
         },
         "gameTags": [
+            "Great Soundtrack",
+            "Music",
+            "Story Rich",
+            "Psychedelic",
+            "Singleplayer",
+            "Bullet Hell",
+            "2D",
+            "Pixel Graphics",
+            "Surreal",
+            "RPG",
+            "Rhythm",
+            "Indie",
+            "Colorful",
+            "2.5D",
+            "Action-Adventure",
+            "Multiple Endings",
             "Action",
             "Adventure",
-            "Difficult",
-            "Retro",
-            "Hack and Slash",
-            "Bullet Hell",
-            "Side Scroller",
-            "Fast-Paced",
-            "Beat 'em up",
-            "Pixel Graphics",
-            "2D",
-            "Arcade",
-            "Sci-fi",
-            "Cyberpunk",
-            "Combat",
-            "Singleplayer",
-            "Shooter",
-            "Indie",
-            "Controller",
-            "Free to Play"
+            "Level Editor",
+            "Epic"
         ],
         "languages": {
-            "english": "I"
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "basque": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2025-12-14'
+var gameOfDayDate = '2025-12-15'
