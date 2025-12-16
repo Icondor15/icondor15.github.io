@@ -1,95 +1,55 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 1229380,
-        "CEId": "3faa1091-47c1-4144-ae59-e0fbb8bc354c",
-        "name": "Everhood",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1229380/header.jpg?t=1643577124",
-        "genre": "Arcade",
-        "tier": 3,
-        "points": 55,
-        "createdAt": "2021-05-24T14:43:01.000Z",
+        "gameType": 1,
+        "platformId": 2009720,
+        "CEId": "9afdf642-4ea4-4bca-9207-2d1b08b72c22",
+        "name": "Mega Serval",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2009720/header.jpg?t=1669818292",
+        "genre": "Action",
+        "tier": 1,
+        "points": 10,
+        "createdAt": "2022-12-16T23:07:37.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 23,
-        "playersStarted": 21,
-        "playersTotal": 706,
-        "priceData": {
-            "USD": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 98000,
-                "final": 98000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
-            }
-        },
+        "playersCompleted": 17,
+        "playersStarted": 0,
+        "playersTotal": 161,
         "milestones": {
-            "primary": 2,
-            "primaryText": "Through the Fire and Rage [30\u2605]\nComplete both Incinerator encounters without getting hit.\n\nRed Tripping Hood [25\u2605]\nProve yourself.",
+            "primary": 1,
+            "primaryText": "Japari Safari [10\u2605]\nObtain the blue hitless badge on every stage.",
             "community": 0,
             "communityText": "",
-            "achievements": 78
+            "achievements": 16
         },
         "gameTags": [
-            "Great Soundtrack",
-            "Music",
-            "Story Rich",
-            "Psychedelic",
+            "Action",
             "Singleplayer",
-            "Bullet Hell",
+            "Adventure",
+            "Female Protagonist",
+            "1980s",
+            "Platformer",
+            "Post-apocalyptic",
+            "Dystopian ",
+            "Nature",
+            "2D Platformer",
             "2D",
             "Pixel Graphics",
-            "Surreal",
-            "RPG",
-            "Rhythm",
-            "Indie",
+            "Third Person",
+            "Cartoon",
             "Colorful",
-            "2.5D",
-            "Action-Adventure",
-            "Multiple Endings",
-            "Action",
-            "Adventure",
-            "Level Editor",
-            "Epic"
+            "Cute",
+            "Family Friendly",
+            "Cats",
+            "Score Attack",
+            "Free to Play"
         ],
         "languages": {
-            "english": "IS",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "basque": "IS",
-            "brazilian": "IS",
-            "koreana": "IS",
-            "polish": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "tchinese": "IS"
+            "english": "I",
+            "german": "I",
+            "japanese": "I",
+            "latam": "I",
+            "russian": "I"
         }
     }
 }
-var gameOfDayDate = '2025-12-15'
+var gameOfDayDate = '2025-12-16'
