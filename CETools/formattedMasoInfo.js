@@ -4076,9 +4076,9 @@ var masoData =
         "description": "I put my right leg in, I put my right leg out, In out, in out, shake it all about. (Co-op)",
         "tier": "1",
         "owners": 57,
-        "completions": 17,
-        "playtime": 11.308823529411763,
-        "newestCompletion": "2025-12-01T11:51:06.000Z",
+        "completions": 18,
+        "playtime": 11.226851851851851,
+        "newestCompletion": "2025-12-14T20:50:54.000Z",
         "badges": {
             "count": 1,
             "points": 1
