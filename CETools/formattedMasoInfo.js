@@ -911,7 +911,7 @@ var masoData =
     "500670": {
         "description": "\u272a WILL YOU F&amp;%*ING DARE YOU PU$#Y?!",
         "tier": "4",
-        "owners": 94,
+        "owners": 95,
         "completions": 24,
         "playtime": 30.401388888888892,
         "newestCompletion": "2025-07-04T01:13:36.000Z"
@@ -976,9 +976,9 @@ var masoData =
         "description": "\u272a They told me RPG\"s are for casuls",
         "tier": "4",
         "owners": 46,
-        "completions": 9,
-        "playtime": 188.27777777777774,
-        "newestCompletion": "2025-04-04T14:14:45.000Z"
+        "completions": 10,
+        "playtime": 180.36333333333332,
+        "newestCompletion": "2025-12-17T14:24:06.000Z"
     },
     "390610": {
         "description": "\u2606 Your seizure\"s seizure will get a seizure",
