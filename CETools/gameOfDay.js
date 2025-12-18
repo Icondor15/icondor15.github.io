@@ -2,88 +2,69 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1147860,
-        "CEId": "3dd5dd44-94e6-4a79-b067-5890cd6f4d73",
-        "name": "UFO 50",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147860/header.jpg?t=1727302239",
-        "genre": "Arcade",
+        "platformId": 378770,
+        "CEId": "fe3319e1-e122-4154-aa4d-68e29b737606",
+        "name": "ESCHATOS",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/378770/header.jpg?t=1657787145",
+        "genre": "Bullet Hell",
         "tier": 3,
-        "points": 70,
-        "createdAt": "2024-12-17T08:51:03.000Z",
-        "updatedAt": "2025-10-21T04:29:33.000Z",
-        "playersCompleted": 3,
-        "playersStarted": 4,
-        "playersTotal": 142,
+        "points": 52,
+        "createdAt": "2022-12-18T00:02:55.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 5,
+        "playersTotal": 73,
         "priceData": {
             "USD": {
-                "initial": 2499,
-                "final": 2499,
-                "discountPercent": 0
+                "initial": 1499,
+                "final": 599,
+                "discountPercent": 60
             },
             "EUR": {
-                "initial": 2450,
-                "final": 2450,
-                "discountPercent": 0
+                "initial": 1479,
+                "final": 591,
+                "discountPercent": 60
             },
             "GBP": {
-                "initial": 2099,
-                "final": 2099,
-                "discountPercent": 0
+                "initial": 1279,
+                "final": 511,
+                "discountPercent": 60
             },
             "JPY": {
-                "initial": 280000,
-                "final": 280000,
-                "discountPercent": 0
+                "initial": 150700,
+                "final": 60200,
+                "discountPercent": 60
             },
             "AUD": {
-                "initial": 3650,
-                "final": 3650,
-                "discountPercent": 0
+                "initial": 2195,
+                "final": 878,
+                "discountPercent": 60
             },
             "CAD": {
-                "initial": 3250,
-                "final": 3250,
-                "discountPercent": 0
+                "initial": 1949,
+                "final": 779,
+                "discountPercent": 60
             }
         },
         "milestones": {
-            "primary": 5,
-            "primaryText": "Really Mixing Cherries [20\u2605]\nObtain all relevant cherry disks from the Arcade category. See information.\n\nReally Hitting Cherries [15\u2605]\nObtain all relevant cherry disks from the Action category. See information section.\n\nReally Thinking About Cherries [15\u2605]\nObtain all relevant cherry disks from the Strategy category. See information section.\n\nReally Dodging Cherries [10\u2605]\nObtain all relevant cherry disks from the Bullet Hell category. See information section.\n\nReally Jumping On Cherries [10\u2605]\nObtain all relevant cherry disks from the Platformer category. See information section.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 30
+            "primary": 4,
+            "primaryText": "Moon Guardian [40\u2605]\nClear either Original or Advanced mode on Hard difficulty or higher with no continues.\n\nDodging Lieutenant [10\u2605]\nClear Original and Advanced modes on Normal difficulty or higher with no continues.\n\nOne-Ship Army (UNCLEARED) [1\u2605]\nClear Original mode on Hardest difficulty with no continues.\n\nPurple Eraser (UNCLEARED) [1\u2605]\nClear Advanced mode on Hardest difficulty with no continues.",
+            "community": 1,
+            "communityText": "Forward and Forward and Forward\nBeat loop 4 in endless mode with no continues.",
+            "achievements": 29
         },
         "gameTags": [
-            "Indie",
-            "Pixel Graphics",
-            "Retro",
             "Action",
-            "Strategy",
-            "2D",
-            "RPG",
-            "Arcade",
-            "Adventure",
-            "Difficult",
-            "1980s",
-            "Local Multiplayer",
-            "Casual",
-            "Minigames",
+            "Shoot 'Em Up",
             "Great Soundtrack",
-            "Puzzle",
-            "2D Platformer",
-            "Platformer",
-            "Roguelike",
-            "Sports"
+            "Bullet Hell",
+            "Arcade",
+            "Shooter"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "spanish": "I",
-            "brazilian": "I"
-        },
-        "information": "The relevant games by category are as follows:\n\n__Arcade:__ Magic Garden, Pingolf, Paint Chase, Bushido Ball, Planet Zoldath, Hot Foot, Onion Delivery, Campanella.\n\n__Action:__ Kick Club, Elfazar's Hat, Overbold, Fist Hell, Campanella 2, Cyber Owls.\n\n__Bullet Hell:__ Star Waspir, Caramel Caramel, Seaside Drive, Campanella 3.\n\n__Platformer:__ Ninpek, Waldorf's journey, Velgress, Rakshasa.\n\n__Strategy:__ Lords of Diskonia, Party House, Bug Hunter, Devilition."
+            "english": "IS",
+            "japanese": "IS"
+        }
     }
 }
-var gameOfDayDate = '2025-12-17'
+var gameOfDayDate = '2025-12-18'
