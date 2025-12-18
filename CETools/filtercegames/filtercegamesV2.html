@@ -1952,6 +1952,7 @@
         }
 
         //Update dates
+        let testvar = 0;
         updateDates();
         function updateDates()
         {
@@ -1962,17 +1963,35 @@
 
             //Show latest
             const latestDate = new Date(Math.max(...[gamesDate, usersDate, wishlistsDate, extraDate]));
-            document.getElementById("latestDataUpdate").innerHTML = latestDate.toLocaleString("en-GB", { timeZone: "+01:00" }) + " (GMT+1)";
+            try
+            {
+                if(testvar == 0) {baba();}
 
-            //Show specifics
-            document.getElementById("dataUpdateDates").title = "Daily Checks:\n" +
-            "🎮 - Last Checked Game Database on: " + gamesDate.toLocaleString("en-GB", { timeZone: "+01:00" }) + " (GMT+1) - Took ~" + date["searchTime"].toFixed(2) + " seconds.\n" +
-            "👥 - Last Checked User Database on: " + usersDate.toLocaleString("en-GB", { timeZone: "+01:00" }) + " (GMT+1) - Took ~" + userDate["searchTime"].toFixed(2) + " seconds.\n" +
-            "📜 - Last Checked Wishlist Info on: " + wishlistsDate.toLocaleString("en-GB", { timeZone: "+01:00" }) + " (GMT+1) - Took ~" + wishlistDate["searchTime"].toFixed(2) + " seconds.\n\n" +
-            "Daily Search Time: ~" + Math.round((date["searchTime"] + userDate["searchTime"] + wishlistDate["searchTime"])/60) + " minutes.\n\n" + 
-            "Weekly Checks (Done on Mondays!):\n" + 
-            "🗳️🕹️ - Last Checked Reviews & DLCs on: " + extraDate.toLocaleString("en-GB", { timeZone: "+01:00" }) + " (GMT+1) - Took ~" + extrasDate["searchTime"].toFixed(2) + " seconds.\n\n" +
-            "Total search time: ~" + Math.round((date["searchTime"] + userDate["searchTime"] + wishlistDate["searchTime"] + extrasDate["searchTime"])/60) + " minutes.";
+                document.getElementById("latestDataUpdate").innerHTML = latestDate.toLocaleString("en-GB", { timeZone: "+0100" }) + " (GMT+1)";
+                document.getElementById("latestDataUpdate").setAttribute("onclick","alert('Time Format: DD/MM/YYYY, hh:mm:ss (Timezone)');");
+
+                //Show specifics
+                document.getElementById("dataUpdateDates").title = "Daily Checks:\n" +
+                "🎮 - Last Checked Game Database on: " + gamesDate.toLocaleString("en-GB", { timeZone: "+0100" }) + " (GMT+1) - Took ~" + date["searchTime"].toFixed(2) + " seconds.\n" +
+                "👥 - Last Checked User Database on: " + usersDate.toLocaleString("en-GB", { timeZone: "+0100" }) + " (GMT+1) - Took ~" + userDate["searchTime"].toFixed(2) + " seconds.\n" +
+                "📜 - Last Checked Wishlist Info on: " + wishlistsDate.toLocaleString("en-GB", { timeZone: "+0100" }) + " (GMT+1) - Took ~" + wishlistDate["searchTime"].toFixed(2) + " seconds.\n\n" +
+                "Daily Search Time: ~" + Math.round((date["searchTime"] + userDate["searchTime"] + wishlistDate["searchTime"])/60) + " minutes.\n\n" + 
+                "Weekly Checks (Done on Mondays!):\n" + 
+                "🗳️🕹️ - Last Checked Reviews & DLCs on: " + extraDate.toLocaleString("en-GB", { timeZone: "+0100" }) + " (GMT+1) - Took ~" + extrasDate["searchTime"].toFixed(2) + " seconds.\n\n" +
+                "Total search time: ~" + Math.round((date["searchTime"] + userDate["searchTime"] + wishlistDate["searchTime"] + extrasDate["searchTime"])/60) + " minutes.";
+                document.getElementById("dataUpdateDates").innerHTML = "[Details]";
+                document.getElementById("dataUpdateDates").setAttribute("onclick", "alert(this.title);");
+            }
+            catch
+            {
+                testvar = 1;
+                document.getElementById("latestDataUpdate").innerHTML = "Latest update Date and Time not found!";
+                document.getElementById("latestDataUpdate").title = "Latest update Date and Time not found!";
+                document.getElementById("latestDataUpdate").setAttribute("onclick","alert(this.title);");
+                document.getElementById("dataUpdateDates").innerHTML = "[Click to Try Again?]";
+                document.getElementById("dataUpdateDates").setAttribute("onclick", "updateDates();");
+            }
+            
         }
 
         //Basic variables
@@ -2114,8 +2133,9 @@
         //Active currency change
         function changeActiveCurrency(newCurrency)
         {
-            activeCurrency = newCurrency;
-            setCookie("defaultCurrency", activeCurrency, 90);
+            try {activeCurrency = newCurrency;}
+            catch {newCurrency = "USD";}
+            setCookie("defaultCurrency", newCurrency, 90);
             order(lastOrder);
         }
         //Change Preferred Language
@@ -2469,7 +2489,11 @@
             if(userID.toUpperCase().includes("user/".toUpperCase()))
             {userID = userID.slice(userID.indexOf("user/") + 5, userID.indexOf("user/") + 41);}
 
-            var previousWishlist = activeWishlist;
+            try {var previousWishlist = activeWishlist;}
+            catch
+            {
+                 document.getElementById("wishlistTextbox").value = "";
+            }
 
             //Valid User
             if(userID in userData)
