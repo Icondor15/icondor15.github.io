@@ -1952,7 +1952,6 @@
         }
 
         //Update dates
-        let testvar = 0;
         updateDates();
         function updateDates()
         {
@@ -1965,8 +1964,6 @@
             const latestDate = new Date(Math.max(...[gamesDate, usersDate, wishlistsDate, extraDate]));
             try
             {
-                if(testvar == 0) {baba();}
-
                 document.getElementById("latestDataUpdate").innerHTML = latestDate.toLocaleString("en-GB", { timeZone: "+0100" }) + " (GMT+1)";
                 document.getElementById("latestDataUpdate").setAttribute("onclick","alert('Time Format: DD/MM/YYYY, hh:mm:ss (Timezone)');");
 
@@ -1984,7 +1981,6 @@
             }
             catch
             {
-                testvar = 1;
                 document.getElementById("latestDataUpdate").innerHTML = "Latest update Date and Time not found!";
                 document.getElementById("latestDataUpdate").title = "Latest update Date and Time not found!";
                 document.getElementById("latestDataUpdate").setAttribute("onclick","alert(this.title);");
