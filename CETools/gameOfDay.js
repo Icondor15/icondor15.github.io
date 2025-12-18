@@ -17,33 +17,33 @@ var gameOfDay =
         "priceData": {
             "USD": {
                 "initial": 1499,
-                "final": 599,
-                "discountPercent": 60
+                "final": 749,
+                "discountPercent": 50
             },
             "EUR": {
                 "initial": 1479,
-                "final": 591,
-                "discountPercent": 60
+                "final": 739,
+                "discountPercent": 50
             },
             "GBP": {
                 "initial": 1279,
-                "final": 511,
-                "discountPercent": 60
+                "final": 639,
+                "discountPercent": 50
             },
             "JPY": {
                 "initial": 150700,
-                "final": 60200,
-                "discountPercent": 60
+                "final": 75300,
+                "discountPercent": 50
             },
             "AUD": {
                 "initial": 2195,
-                "final": 878,
-                "discountPercent": 60
+                "final": 1097,
+                "discountPercent": 50
             },
             "CAD": {
                 "initial": 1949,
-                "final": 779,
-                "discountPercent": 60
+                "final": 974,
+                "discountPercent": 50
             }
         },
         "milestones": {
