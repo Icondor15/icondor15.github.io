@@ -1013,7 +1013,7 @@ var masoData =
         "tier": "3",
         "owners": 52,
         "completions": 20,
-        "playtime": 14.161666666666665,
+        "playtime": 14.1625,
         "newestCompletion": "2024-09-07T12:28:29.000Z"
     },
     "603960": {
@@ -1476,9 +1476,9 @@ var masoData =
         "description": "\ud83c\udf1f The Virgin Shovel knight VS the Chad Jump King",
         "tier": "5",
         "owners": 139,
-        "completions": 37,
-        "playtime": 283.0108108108108,
-        "newestCompletion": "2025-10-21T19:17:56.000Z",
+        "completions": 38,
+        "playtime": 278.57412280701755,
+        "newestCompletion": "2025-12-17T21:24:11.000Z",
         "badges": {
             "count": 1,
             "points": 5
@@ -3493,7 +3493,7 @@ var masoData =
         "tier": "2",
         "owners": 27,
         "completions": 7,
-        "playtime": 30.302380952380954,
+        "playtime": 30.49761904761905,
         "newestCompletion": "2025-07-04T17:08:30.000Z"
     },
     "1649240": {
@@ -3764,9 +3764,9 @@ var masoData =
         "description": "Australia",
         "tier": "1",
         "owners": 32,
-        "completions": 17,
-        "playtime": 3.0382352941176474,
-        "newestCompletion": "2025-07-07T22:36:40.000Z"
+        "completions": 18,
+        "playtime": 2.992592592592593,
+        "newestCompletion": "2025-12-17T21:46:52.000Z"
     },
     "1123050": {
         "description": "Destroy... Absorb... Grow...",
@@ -3780,9 +3780,9 @@ var masoData =
         "description": "Puyo in the grinder",
         "tier": "1",
         "owners": 43,
-        "completions": 12,
-        "playtime": 13.894444444444444,
-        "newestCompletion": "2025-10-06T02:03:10.000Z"
+        "completions": 13,
+        "playtime": 13.63076923076923,
+        "newestCompletion": "2025-12-18T15:50:33.000Z"
     },
     "1740930": {
         "description": "Boing!",
@@ -4359,7 +4359,7 @@ var masoData =
     "1345860": {
         "description": "Grapple Doggo ",
         "tier": "1",
-        "owners": 45,
+        "owners": 46,
         "completions": 18,
         "playtime": 17.749074074074073,
         "newestCompletion": "2025-10-27T20:24:28.000Z"
