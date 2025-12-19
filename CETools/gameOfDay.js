@@ -2,69 +2,82 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 378770,
-        "CEId": "fe3319e1-e122-4154-aa4d-68e29b737606",
-        "name": "ESCHATOS",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/378770/header.jpg?t=1657787145",
-        "genre": "Bullet Hell",
-        "tier": 3,
-        "points": 52,
-        "createdAt": "2022-12-18T00:02:55.000Z",
+        "platformId": 1000030,
+        "CEId": "9241fe50-3061-47c7-8a4d-4969e55e8398",
+        "name": "Cook, Serve, Delicious! 3?!",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1000030/header.jpg?t=1660866300",
+        "genre": "Arcade",
+        "tier": 2,
+        "points": 30,
+        "createdAt": "2022-12-19T20:00:09.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 0,
-        "playersStarted": 5,
-        "playersTotal": 73,
+        "playersCompleted": 6,
+        "playersStarted": 0,
+        "playersTotal": 300,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 749,
-                "discountPercent": 50
+                "initial": 1999,
+                "final": 499,
+                "discountPercent": 75
             },
             "EUR": {
-                "initial": 1479,
-                "final": 739,
-                "discountPercent": 50
+                "initial": 1679,
+                "final": 419,
+                "discountPercent": 75
             },
             "GBP": {
-                "initial": 1279,
-                "final": 639,
-                "discountPercent": 50
+                "initial": 1549,
+                "final": 387,
+                "discountPercent": 75
             },
             "JPY": {
-                "initial": 150700,
-                "final": 75300,
-                "discountPercent": 50
+                "initial": 205000,
+                "final": 51200,
+                "discountPercent": 75
             },
             "AUD": {
-                "initial": 2195,
-                "final": 1097,
-                "discountPercent": 50
+                "initial": 2895,
+                "final": 723,
+                "discountPercent": 75
             },
             "CAD": {
-                "initial": 1949,
-                "final": 974,
-                "discountPercent": 50
+                "initial": 2279,
+                "final": 569,
+                "discountPercent": 75
             }
         },
         "milestones": {
-            "primary": 4,
-            "primaryText": "Moon Guardian [40\u2605]\nClear either Original or Advanced mode on Hard difficulty or higher with no continues.\n\nDodging Lieutenant [10\u2605]\nClear Original and Advanced modes on Normal difficulty or higher with no continues.\n\nOne-Ship Army (UNCLEARED) [1\u2605]\nClear Original mode on Hardest difficulty with no continues.\n\nPurple Eraser (UNCLEARED) [1\u2605]\nClear Advanced mode on Hardest difficulty with no continues.",
-            "community": 1,
-            "communityText": "Forward and Forward and Forward\nBeat loop 4 in endless mode with no continues.",
-            "achievements": 29
+            "primary": 2,
+            "primaryText": "Golden Roadtrip [15\u2605]\nObtain all gold on every route.\n\nMake Gordon Proud [15\u2605]\nObtain all \"perfect day using n-point menu\" achievements.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 57
         },
         "gameTags": [
-            "Action",
-            "Shoot 'Em Up",
-            "Great Soundtrack",
-            "Bullet Hell",
+            "Typing",
+            "Management",
+            "Difficult",
+            "Casual",
             "Arcade",
-            "Shooter"
+            "Strategy",
+            "2D",
+            "Funny",
+            "Simulation",
+            "Co-op",
+            "Comedy",
+            "Family Friendly",
+            "Action",
+            "Local Co-Op",
+            "Multiplayer",
+            "Local Multiplayer",
+            "Cooking",
+            "Singleplayer",
+            "Co-op Campaign",
+            "Fast-Paced"
         ],
         "languages": {
-            "english": "IS",
-            "japanese": "IS"
+            "english": "IAS"
         }
     }
 }
-var gameOfDayDate = '2025-12-18'
+var gameOfDayDate = '2025-12-19'
