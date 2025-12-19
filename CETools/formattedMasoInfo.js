@@ -412,9 +412,9 @@ var masoData =
         "description": "\u2733 420",
         "tier": "2",
         "owners": 124,
-        "completions": 65,
-        "playtime": 8.33666666666667,
-        "newestCompletion": "2025-10-28T20:04:29.000Z"
+        "completions": 66,
+        "playtime": 8.35227272727273,
+        "newestCompletion": "2025-12-18T23:01:58.000Z"
     },
     "612390": {
         "description": "\u2733 Use a controller",
@@ -1999,7 +1999,7 @@ var masoData =
     "1148500": {
         "description": "One at a time boyo",
         "tier": "1",
-        "owners": 14,
+        "owners": 15,
         "completions": 13,
         "playtime": 4.699999999999999,
         "newestCompletion": "2024-03-24T19:15:40.000Z"
