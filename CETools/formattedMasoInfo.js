@@ -685,7 +685,7 @@ var masoData =
         "tier": "2",
         "owners": 141,
         "completions": 43,
-        "playtime": 47.10426356589146,
+        "playtime": 47.19224806201549,
         "newestCompletion": "2025-10-23T14:23:57.000Z"
     },
     "360740": {
@@ -1140,9 +1140,9 @@ var masoData =
         "description": "\u2733 Use a video. Get rekt at 99% anyways",
         "tier": "2",
         "owners": 84,
-        "completions": 21,
-        "playtime": 14.173015873015872,
-        "newestCompletion": "2025-11-13T00:46:56.000Z"
+        "completions": 22,
+        "playtime": 14.48181818181818,
+        "newestCompletion": "2025-12-08T17:06:41.000Z"
     },
     "400910": {
         "description": "\u272a I wanna be the waifu",
@@ -2147,7 +2147,7 @@ var masoData =
     "1322650": {
         "description": "\u2733 Not playing RITE is wrong.",
         "tier": "2",
-        "owners": 92,
+        "owners": 93,
         "completions": 75,
         "playtime": 10.251555555555555,
         "newestCompletion": "2025-10-16T09:07:00.000Z"
@@ -2499,7 +2499,7 @@ var masoData =
     "499890": {
         "description": "Twinstick and rhythm combo",
         "tier": "1",
-        "owners": 55,
+        "owners": 56,
         "completions": 12,
         "playtime": 11.28888888888889,
         "newestCompletion": "2025-09-25T01:52:10.000Z"
@@ -2692,9 +2692,9 @@ var masoData =
         "description": "\u2733 Splinter Cell Miami",
         "tier": "2",
         "owners": 119,
-        "completions": 8,
-        "playtime": 19.99375,
-        "newestCompletion": "2025-01-20T18:08:34.000Z"
+        "completions": 9,
+        "playtime": 20.196296296296296,
+        "newestCompletion": "2025-12-19T20:32:40.000Z"
     },
     "598550": {
         "description": "\u272a Before &amp; After Plastic Surgeries",
