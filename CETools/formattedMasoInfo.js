@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 253,
         "completions": 185,
-        "playtime": 226.00558558558566,
+        "playtime": 226.0327027027028,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1477,7 +1477,7 @@ var masoData =
         "tier": "5",
         "owners": 139,
         "completions": 38,
-        "playtime": 278.57412280701755,
+        "playtime": 278.58114035087715,
         "newestCompletion": "2025-12-17T21:24:11.000Z",
         "badges": {
             "count": 1,
@@ -1957,7 +1957,7 @@ var masoData =
         "tier": "2",
         "owners": 41,
         "completions": 8,
-        "playtime": 15.39375,
+        "playtime": 15.404166666666669,
         "newestCompletion": "2023-12-30T09:55:41.000Z"
     },
     "876500": {
@@ -3884,9 +3884,9 @@ var masoData =
         "description": "Heartbeat... Heartbeat... Heartbeat... Heart.",
         "tier": "1",
         "owners": 56,
-        "completions": 1,
-        "playtime": 15.733333333333333,
-        "newestCompletion": "2025-12-07T09:22:11.000Z",
+        "completions": 2,
+        "playtime": 24.425,
+        "newestCompletion": "2025-12-17T00:44:58.000Z",
         "badges": {
             "count": 1,
             "points": 1
@@ -4205,7 +4205,7 @@ var masoData =
         "tier": "4",
         "owners": 54,
         "completions": 8,
-        "playtime": 267.05833333333334,
+        "playtime": 267.32916666666665,
         "newestCompletion": "2025-11-10T21:27:13.000Z",
         "badges": {
             "count": 1,
