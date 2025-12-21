@@ -1,66 +1,60 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 756200,
-        "CEId": "c40c927c-99a8-493b-a837-4a524a9b344b",
-        "name": "Impossibox",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/756200/header.jpg?t=1607007871",
-        "genre": "Platformer",
-        "tier": 3,
-        "points": 40,
-        "createdAt": "2024-07-18T04:48:55.000Z",
+        "gameType": 1,
+        "platformId": 643270,
+        "CEId": "2ace7fe2-a941-4b50-a0f7-ed56a6f0f6d6",
+        "name": "OLDTV",
+        "header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/643270/header.jpg",
+        "genre": "Arcade",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2024-12-21T08:37:01.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 21,
         "playersStarted": 0,
-        "playersTotal": 18,
-        "priceData": {
-            "USD": {
-                "initial": 99,
-                "final": 99,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 99,
-                "final": 99,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 89,
-                "final": 89,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 12000,
-                "final": 12000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 150,
-                "final": 150,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 129,
-                "final": 129,
-                "discountPercent": 0
-            }
-        },
+        "playersTotal": 181,
         "milestones": {
             "primary": 1,
-            "primaryText": "Don't Go Home in a Box [40\u2605]\nBeat the game without dying.",
+            "primaryText": "Can We Get Cable? [5\u2605]\nComplete all continents with high frequencies.",
             "community": 0,
             "communityText": "",
-            "achievements": 9
+            "achievements": 48
         },
         "gameTags": [
-            "Action",
+            "Free to Play",
+            "Great Soundtrack",
+            "Fast-Paced",
             "Indie",
-            "Platformer"
+            "Difficult",
+            "Singleplayer",
+            "Puzzle",
+            "Casual",
+            "Psychological Horror",
+            "Atmospheric",
+            "Arcade",
+            "Psychedelic",
+            "2D",
+            "Retro",
+            "Illuminati",
+            "Memes"
         ],
         "languages": {
-            "english": "IAS"
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "ukrainian": "I"
         }
     }
 }
-var gameOfDayDate = '2025-12-20'
+var gameOfDayDate = '2025-12-21'
