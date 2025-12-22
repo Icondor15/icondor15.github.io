@@ -4312,9 +4312,9 @@ var masoData =
         "description": "\u2606 Hellishly Wicked",
         "tier": "3",
         "owners": 16,
-        "completions": 5,
-        "playtime": 46.55333333333333,
-        "newestCompletion": "2025-07-29T19:42:02.000Z"
+        "completions": 6,
+        "playtime": 44.480555555555554,
+        "newestCompletion": "2025-12-19T16:17:43.000Z"
     },
     "1388230": {
         "description": "\u2606 Not quite a Bad Apple",
@@ -4496,9 +4496,9 @@ var masoData =
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
         "owners": 168,
-        "completions": 26,
-        "playtime": 1517.7769230769227,
-        "newestCompletion": "2025-08-19T14:06:10.000Z",
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null,
         "badges": {
             "count": 1,
             "points": 10
