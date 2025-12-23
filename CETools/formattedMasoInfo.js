@@ -359,7 +359,7 @@ var masoData =
     "241600": {
         "description": "\u2733 It\"s about time we added it",
         "tier": "2",
-        "owners": 127,
+        "owners": 128,
         "completions": 51,
         "playtime": 48.856209150326805,
         "newestCompletion": "2025-09-30T23:46:11.000Z"
@@ -439,7 +439,7 @@ var masoData =
     "415740": {
         "description": "\u2733 Anger management simulator",
         "tier": "2",
-        "owners": 49,
+        "owners": 50,
         "completions": 18,
         "playtime": 25.026851851851852,
         "newestCompletion": "2023-08-02T18:30:10.000Z"
@@ -639,7 +639,7 @@ var masoData =
     "253350": {
         "description": "\u2733 That\"s a lot of content",
         "tier": "2",
-        "owners": 18,
+        "owners": 19,
         "completions": 2,
         "playtime": 37.525,
         "newestCompletion": "2024-06-30T15:00:58.000Z"
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 253,
         "completions": 185,
-        "playtime": 226.0327027027028,
+        "playtime": 226.0572072072073,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1059,7 +1059,7 @@ var masoData =
     "278100": {
         "description": "\u272a RIVE means split or tear apart violently, that includes your monitor.",
         "tier": "4",
-        "owners": 69,
+        "owners": 70,
         "completions": 6,
         "playtime": 45.025,
         "newestCompletion": "2025-09-03T11:54:19.000Z"
@@ -1083,7 +1083,7 @@ var masoData =
     "616000": {
         "description": "\u272a The name of your experience in a nutshell",
         "tier": "4",
-        "owners": 41,
+        "owners": 42,
         "completions": 13,
         "playtime": 24.621794871794876,
         "newestCompletion": "2025-09-21T13:35:02.000Z"
@@ -1535,7 +1535,7 @@ var masoData =
     "447150": {
         "description": "\u272a Hotline Harambe",
         "tier": "4",
-        "owners": 95,
+        "owners": 96,
         "completions": 23,
         "playtime": 63.2195652173913,
         "newestCompletion": "2025-11-15T20:34:52.000Z",
@@ -2427,7 +2427,7 @@ var masoData =
     "332250": {
         "description": "Proof that classic tales are better with a futuristic Mach 5",
         "tier": "1",
-        "owners": 35,
+        "owners": 36,
         "completions": 11,
         "playtime": 6.118181818181818,
         "newestCompletion": "2024-10-24T22:50:40.000Z"
@@ -2492,9 +2492,9 @@ var masoData =
         "description": "You\"re not falling, you\"re flying",
         "tier": "1",
         "owners": 50,
-        "completions": 42,
-        "playtime": 2.2924603174603173,
-        "newestCompletion": "2024-07-14T03:16:16.000Z"
+        "completions": 43,
+        "playtime": 2.305813953488372,
+        "newestCompletion": "2025-12-22T22:20:42.000Z"
     },
     "499890": {
         "description": "Twinstick and rhythm combo",
@@ -2715,7 +2715,7 @@ var masoData =
     "719930": {
         "description": "\u272a Super Meat Ball",
         "tier": "4",
-        "owners": 35,
+        "owners": 36,
         "completions": 14,
         "playtime": 41.94761904761905,
         "newestCompletion": "2025-11-28T22:41:36.000Z"
@@ -2745,7 +2745,7 @@ var masoData =
         "tier": "2",
         "owners": 61,
         "completions": 22,
-        "playtime": 29.61590909090909,
+        "playtime": 29.70909090909091,
         "newestCompletion": "2024-11-05T00:03:31.000Z"
     },
     "1003590": {
@@ -3079,7 +3079,7 @@ var masoData =
     "646570": {
         "description": "\u2606 Slay your cards right",
         "tier": "3",
-        "owners": 163,
+        "owners": 164,
         "completions": 47,
         "playtime": 201.00460992907801,
         "newestCompletion": "2025-10-20T22:15:17.000Z"
@@ -4061,7 +4061,7 @@ var masoData =
         "tier": "1",
         "owners": 29,
         "completions": 10,
-        "playtime": 5.283333333333333,
+        "playtime": 5.475,
         "newestCompletion": "2025-12-02T20:59:16.000Z"
     },
     "1909770": {
@@ -4111,7 +4111,7 @@ var masoData =
     "1860350": {
         "description": "\u272a Dreaming day and night",
         "tier": "4",
-        "owners": 43,
+        "owners": 44,
         "completions": 6,
         "playtime": 29.283333333333335,
         "newestCompletion": "2024-09-21T21:09:26.000Z"
@@ -4503,5 +4503,29 @@ var masoData =
             "count": 1,
             "points": 10
         }
+    },
+    "312520": {
+        "description": "\u2606 It's a rain-y rain world",
+        "tier": "3",
+        "owners": 3,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
+    },
+    "1924180": {
+        "description": "Featuring the world's most rude NPCs!",
+        "tier": "1",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
+    },
+    "576500": {
+        "description": "Tricky Towers",
+        "tier": "1",
+        "owners": 1,
+        "completions": 1,
+        "playtime": 14.35,
+        "newestCompletion": "2023-10-17T00:30:44.000Z"
     }
 }
