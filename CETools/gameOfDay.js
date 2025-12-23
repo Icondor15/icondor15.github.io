@@ -1,51 +1,32 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 1763180,
-        "CEId": "549dd5b0-8583-41bd-b8f7-53a190c8e6ff",
-        "name": "Wormatozoa",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1763180/header.jpg?t=1664794230",
+        "gameType": 3,
+        "platformId": 2830,
+        "CEId": "548e327c-ef47-41cf-b94a-00d873efad1d",
+        "name": "Gran Turismo 3: A-Spec",
+        "header": "https://upload.cedb.me/548e327c-ef47-41cf-b94a-00d873efad1d.jpg",
         "genre": "Arcade",
         "tier": 2,
-        "points": 36,
-        "createdAt": "2022-12-22T04:12:48.000Z",
-        "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 0,
-        "playersStarted": 5,
-        "playersTotal": 103,
+        "points": 30,
+        "createdAt": "2024-12-23T17:18:30.000Z",
+        "updatedAt": "2025-10-21T04:35:12.000Z",
+        "playersCompleted": 2,
+        "playersStarted": 1,
+        "playersTotal": 6,
+        "gameTags": [],
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        },
         "milestones": {
-            "primary": 5,
-            "primaryText": "Devourer of Worlds (UNCLEARED) [1\u2605]\nComplete each world without dying.\n\nParasite Paradise [10\u2605]\nObtain the par time and par moves badges on all normal and bonus levels.\n\nSlither Hither [10\u2605]\nBeat all normal and bonus levels.\n\nWormhole [5\u2605]\nBeat the game with a total time of 2 hours or less.\n\nHost Jumper [10\u2605]\nBeat the game.",
+            "primary": 2,
+            "primaryText": "The Licenser [25\u2605]\nEarn the gold medal in all License Tests.\n\nComplex Touristing [5\u2605]\nBeat all Arcade Time Trials.",
             "community": 0,
             "communityText": "",
-            "achievements": 16
-        },
-        "gameTags": [
-            "Platformer",
-            "Indie",
-            "Difficult",
-            "Arcade",
-            "2D",
-            "Cartoony",
-            "Colorful",
-            "Singleplayer",
-            "Puzzle",
-            "Precision Platformer",
-            "Puzzle Platformer",
-            "2D Platformer",
-            "Surreal",
-            "Action",
-            "Linear",
-            "Cartoon",
-            "Dark Humor",
-            "Retro",
-            "Sci-fi",
-            "Free to Play"
-        ],
-        "languages": {
-            "english": "I"
+            "achievements": 321
         }
     }
 }
-var gameOfDayDate = '2025-12-22'
+var gameOfDayDate = '2025-12-23'
