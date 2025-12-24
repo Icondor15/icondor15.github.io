@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 253,
         "completions": 185,
-        "playtime": 226.0572072072073,
+        "playtime": 226.08945945945956,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -991,7 +991,7 @@ var masoData =
     "583470": {
         "description": "\ud83c\udf1f Your End Is Nigh",
         "tier": "5",
-        "owners": 202,
+        "owners": 203,
         "completions": 20,
         "playtime": 264.0125000000001,
         "newestCompletion": "2025-07-31T22:59:32.000Z",
@@ -1123,7 +1123,7 @@ var masoData =
     "437390": {
         "description": "\u272a Super fast paced hopping madness",
         "tier": "4",
-        "owners": 93,
+        "owners": 94,
         "completions": 11,
         "playtime": 22.975757575757576,
         "newestCompletion": "2024-10-16T20:51:42.000Z"
@@ -1171,7 +1171,7 @@ var masoData =
     "440550": {
         "description": "\u2733 A forgettable story",
         "tier": "2",
-        "owners": 87,
+        "owners": 88,
         "completions": 31,
         "playtime": 14.924193548387095,
         "newestCompletion": "2025-11-09T23:16:00.000Z"
@@ -1435,7 +1435,7 @@ var masoData =
     "961660": {
         "description": "\u2733 Bosses Everywhere",
         "tier": "2",
-        "owners": 30,
+        "owners": 31,
         "completions": 16,
         "playtime": 10.883333333333335,
         "newestCompletion": "2025-03-21T10:06:18.000Z"
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 106,
         "completions": 32,
-        "playtime": 91.57708333333333,
+        "playtime": 91.58020833333335,
         "newestCompletion": "2025-08-27T18:23:40.000Z",
         "badges": {
             "count": 2,
@@ -3557,7 +3557,7 @@ var masoData =
         "tier": "3",
         "owners": 52,
         "completions": 11,
-        "playtime": 159.47727272727272,
+        "playtime": 159.48939393939395,
         "newestCompletion": "2025-10-19T22:43:57.000Z",
         "badges": {
             "count": 1,
@@ -3884,8 +3884,8 @@ var masoData =
         "description": "Heartbeat... Heartbeat... Heartbeat... Heart.",
         "tier": "1",
         "owners": 56,
-        "completions": 2,
-        "playtime": 24.425,
+        "completions": 3,
+        "playtime": 20.366666666666667,
         "newestCompletion": "2025-12-17T00:44:58.000Z",
         "badges": {
             "count": 1,
@@ -4039,7 +4039,7 @@ var masoData =
     "1337520": {
         "description": "\u2733 Rorrhundisto",
         "tier": "2",
-        "owners": 55,
+        "owners": 56,
         "completions": 8,
         "playtime": 98.68333333333334,
         "newestCompletion": "2025-08-30T05:26:28.000Z",
@@ -4139,7 +4139,7 @@ var masoData =
     "1887840": {
         "description": "American Assist Mode",
         "tier": "1",
-        "owners": 39,
+        "owners": 40,
         "completions": 11,
         "playtime": 16.940909090909084,
         "newestCompletion": "2025-09-23T20:49:51.000Z"
@@ -4203,7 +4203,7 @@ var masoData =
     "1147860": {
         "description": "\u272a The n++ of race games",
         "tier": "4",
-        "owners": 54,
+        "owners": 55,
         "completions": 8,
         "playtime": 267.32916666666665,
         "newestCompletion": "2025-11-10T21:27:13.000Z",
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 3,
+        "owners": 6,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
@@ -4523,9 +4523,33 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
+        "owners": 2,
+        "completions": 2,
+        "playtime": 12.366666666666667,
+        "newestCompletion": "2023-10-17T00:30:44.000Z"
+    },
+    "1282210": {
+        "description": "6-key EDM concert",
+        "tier": "1",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
+    },
+    "3125120": {
+        "description": "Claustrophobia simulator",
+        "tier": "1",
         "owners": 1,
         "completions": 1,
-        "playtime": 14.35,
-        "newestCompletion": "2023-10-17T00:30:44.000Z"
+        "playtime": 4.983333333333333,
+        "newestCompletion": "2025-08-16T21:08:17.000Z"
+    },
+    "2011780": {
+        "description": "Definitely a real one",
+        "tier": "1",
+        "owners": 1,
+        "completions": 1,
+        "playtime": 8.183333333333334,
+        "newestCompletion": "2024-06-03T19:29:36.000Z"
     }
 }
