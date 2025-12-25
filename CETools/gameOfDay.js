@@ -2,65 +2,79 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 669340,
-        "CEId": "8d60d2db-3780-49c5-bb5c-cd9e5bb8a70b",
-        "name": "The Royal Cosmonautical Society",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/669340/header.jpg?t=1502379134",
-        "genre": "Arcade",
-        "tier": 1,
-        "points": 15,
-        "createdAt": "2022-12-24T14:43:54.000Z",
-        "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 10,
-        "playersStarted": 0,
-        "playersTotal": 19,
+        "platformId": 2226160,
+        "CEId": "f726715b-f46d-49f0-a512-83632d26bdbc",
+        "name": "ENTROPOLY",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226160/header.jpg?t=1733075550",
+        "genre": "Platformer",
+        "tier": 3,
+        "points": 55,
+        "createdAt": "2024-12-25T03:08:15.000Z",
+        "updatedAt": "2025-10-18T06:08:30.000Z",
+        "playersCompleted": 1,
+        "playersStarted": 5,
+        "playersTotal": 38,
         "priceData": {
             "USD": {
-                "initial": 699,
-                "final": 349,
-                "discountPercent": 50
+                "initial": 999,
+                "final": 599,
+                "discountPercent": 40
             },
             "EUR": {
-                "initial": 499,
-                "final": 249,
-                "discountPercent": 50
+                "initial": 975,
+                "final": 585,
+                "discountPercent": 40
             },
             "GBP": {
-                "initial": 499,
-                "final": 249,
-                "discountPercent": 50
+                "initial": 850,
+                "final": 510,
+                "discountPercent": 40
             },
             "JPY": {
-                "initial": 69800,
-                "final": 34900,
-                "discountPercent": 50
+                "initial": 120000,
+                "final": 72000,
+                "discountPercent": 40
             },
             "AUD": {
-                "initial": 995,
-                "final": 497,
-                "discountPercent": 50
+                "initial": 1450,
+                "final": 870,
+                "discountPercent": 40
             },
             "CAD": {
-                "initial": 779,
-                "final": 389,
-                "discountPercent": 50
+                "initial": 1299,
+                "final": 779,
+                "discountPercent": 40
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Cosmonautical Master [15\u2605]\nAchieve a 3 Star time in every level.",
+            "primary": 3,
+            "primaryText": "Break the Target [40\u2605]\nObtain an S+ rank on every level.\n\nNightmare Vanquisher [10\u2605]\nClear all the NIGHTMARE levels.\n\nElemental Voyager [5\u2605]\nFull clear the base game.",
             "community": 0,
             "communityText": "",
-            "achievements": 23
+            "achievements": 27
         },
         "gameTags": [
-            "Indie",
+            "Precision Platformer",
+            "Pixel Graphics",
+            "Psychedelic",
+            "Adventure",
+            "Level Editor",
+            "Colorful",
+            "Female Protagonist",
+            "Fantasy",
+            "Collectathon",
+            "Side Scroller",
+            "Singleplayer",
             "Action",
-            "Adventure"
+            "Local Multiplayer",
+            "Controller",
+            "Platformer",
+            "2D",
+            "2D Platformer"
         ],
         "languages": {
-            "english": "IAS"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2025-12-24'
+var gameOfDayDate = '2025-12-25'
