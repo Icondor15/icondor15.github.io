@@ -2,79 +2,94 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2226160,
-        "CEId": "f726715b-f46d-49f0-a512-83632d26bdbc",
-        "name": "ENTROPOLY",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226160/header.jpg?t=1733075550",
+        "platformId": 1651680,
+        "CEId": "57a65338-3b60-4a43-a44b-3d39563a24ba",
+        "name": "The Colorful Creature",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1651680/header.jpg?t=1743455867",
         "genre": "Platformer",
-        "tier": 3,
-        "points": 55,
-        "createdAt": "2024-12-25T03:08:15.000Z",
-        "updatedAt": "2025-10-18T06:08:30.000Z",
-        "playersCompleted": 1,
-        "playersStarted": 5,
-        "playersTotal": 38,
+        "tier": 4,
+        "points": 125,
+        "createdAt": "2023-12-26T14:43:12.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 2,
+        "playersStarted": 4,
+        "playersTotal": 26,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 599,
-                "discountPercent": 40
+                "initial": 399,
+                "final": 399,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 975,
-                "final": 585,
-                "discountPercent": 40
+                "initial": 399,
+                "final": 399,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 850,
-                "final": 510,
-                "discountPercent": 40
+                "initial": 339,
+                "final": 339,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 120000,
-                "final": 72000,
-                "discountPercent": 40
+                "initial": 47000,
+                "final": 47000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 870,
-                "discountPercent": 40
+                "initial": 595,
+                "final": 595,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 1299,
-                "final": 779,
-                "discountPercent": 40
+                "initial": 499,
+                "final": 499,
+                "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Break the Target [40\u2605]\nObtain an S+ rank on every level.\n\nNightmare Vanquisher [10\u2605]\nClear all the NIGHTMARE levels.\n\nElemental Voyager [5\u2605]\nFull clear the base game.",
+            "primary": 5,
+            "primaryText": "Ultra Vibrant [50\u2605]\nBeat all Hard Mode difficulties.\n\nColor Theory [40\u2605]\nSeparately; Beat all challenges without dying and earn a Crimson medal for each challenge.\n\nPrismatic Palette [20\u2605]\nBeat the first six Hard Mode difficulties.\n\nCyanified [10\u2605]\nObtain a Diamond medal on all challenges.\n\nOversaturated [5\u2605]\nBeat all Challenges.",
             "community": 0,
             "communityText": "",
-            "achievements": 27
+            "achievements": 132
         },
         "gameTags": [
             "Precision Platformer",
-            "Pixel Graphics",
-            "Psychedelic",
-            "Adventure",
+            "Difficult",
             "Level Editor",
+            "2D Platformer",
             "Colorful",
-            "Female Protagonist",
-            "Fantasy",
-            "Collectathon",
-            "Side Scroller",
             "Singleplayer",
-            "Action",
-            "Local Multiplayer",
-            "Controller",
+            "Indie",
+            "Adventure",
             "Platformer",
+            "Puzzle Platformer",
+            "Linear",
             "2D",
-            "2D Platformer"
+            "Character Customization",
+            "Puzzle",
+            "2.5D",
+            "Space",
+            "Action-Adventure",
+            "Pixel Graphics",
+            "Arcade",
+            "Retro"
         ],
         "languages": {
-            "english": "I"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "bosnian": "I",
+            "croatian": "I",
+            "czech": "I",
+            "hungarian": "I",
+            "schinese": "I",
+            "serbian": "I",
+            "turkish": "I",
+            "ukrainian": "I"
         }
     }
 }
-var gameOfDayDate = '2025-12-25'
+var gameOfDayDate = '2025-12-26'
