@@ -1189,7 +1189,7 @@ var masoData =
         "tier": "5",
         "owners": 173,
         "completions": 20,
-        "playtime": 1363.01,
+        "playtime": 1363.8366666666666,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
         "badges": {
             "count": 3,
@@ -1373,7 +1373,7 @@ var masoData =
         "tier": "3",
         "owners": 119,
         "completions": 20,
-        "playtime": 60.650833333333345,
+        "playtime": 60.65250000000001,
         "newestCompletion": "2025-07-12T05:06:51.000Z"
     },
     "237740": {
@@ -2639,7 +2639,7 @@ var masoData =
     "894020": {
         "description": "death in all caps",
         "tier": "1",
-        "owners": 88,
+        "owners": 89,
         "completions": 47,
         "playtime": 16.23475177304965,
         "newestCompletion": "2025-10-05T03:48:16.000Z"
@@ -3723,10 +3723,10 @@ var masoData =
     "1608640": {
         "description": "\u2606 Wolf in sheep's clothing",
         "tier": "3",
-        "owners": 49,
-        "completions": 8,
-        "playtime": 23.51666666666667,
-        "newestCompletion": "2024-12-08T19:52:28.000Z"
+        "owners": 50,
+        "completions": 9,
+        "playtime": 22.253703703703707,
+        "newestCompletion": "2025-12-27T06:35:58.000Z"
     },
     "2138710": {
         "description": "\u2733 Nothing good ever comes from revenge",
@@ -4215,7 +4215,7 @@ var masoData =
     "917140": {
         "description": "\u2733 Rapid eye momentum",
         "tier": "2",
-        "owners": 19,
+        "owners": 20,
         "completions": 2,
         "playtime": 61.86666666666666,
         "newestCompletion": "2024-11-26T06:18:05.000Z",
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 6,
+        "owners": 8,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
@@ -4523,7 +4523,7 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 2,
+        "owners": 3,
         "completions": 2,
         "playtime": 12.366666666666667,
         "newestCompletion": "2023-10-17T00:30:44.000Z"
@@ -4547,7 +4547,7 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 2,
+        "owners": 3,
         "completions": 2,
         "playtime": 10.166666666666668,
         "newestCompletion": "2025-11-21T01:49:56.000Z"
