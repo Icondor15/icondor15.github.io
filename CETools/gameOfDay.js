@@ -2,94 +2,89 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1651680,
-        "CEId": "57a65338-3b60-4a43-a44b-3d39563a24ba",
-        "name": "The Colorful Creature",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1651680/header.jpg?t=1743455867",
+        "platformId": 1072750,
+        "CEId": "9bab3269-84b0-4638-ab62-6602b3238552",
+        "name": "That Flipping Mountain",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1072750/header.jpg?t=1639047779",
         "genre": "Platformer",
-        "tier": 4,
-        "points": 125,
-        "createdAt": "2023-12-26T14:43:12.000Z",
+        "tier": 2,
+        "points": 35,
+        "createdAt": "2021-12-27T00:34:41.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 4,
-        "playersTotal": 26,
+        "playersCompleted": 10,
+        "playersStarted": 0,
+        "playersTotal": 78,
         "priceData": {
             "USD": {
-                "initial": 399,
-                "final": 399,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 399,
-                "final": 399,
+                "initial": 569,
+                "final": 569,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 339,
-                "final": 339,
+                "initial": 519,
+                "final": 519,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 47000,
-                "final": 47000,
+                "initial": 72000,
+                "final": 72000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 595,
-                "final": 595,
+                "initial": 995,
+                "final": 995,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 799,
+                "final": 799,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 5,
-            "primaryText": "Ultra Vibrant [50\u2605]\nBeat all Hard Mode difficulties.\n\nColor Theory [40\u2605]\nSeparately; Beat all challenges without dying and earn a Crimson medal for each challenge.\n\nPrismatic Palette [20\u2605]\nBeat the first six Hard Mode difficulties.\n\nCyanified [10\u2605]\nObtain a Diamond medal on all challenges.\n\nOversaturated [5\u2605]\nBeat all Challenges.",
+            "primary": 1,
+            "primaryText": "Flipping Out [35\u2605]\nSeparately, climb the mountain with 0 fails, and under 15 minutes.",
             "community": 0,
             "communityText": "",
-            "achievements": 132
+            "achievements": 10
         },
         "gameTags": [
-            "Precision Platformer",
             "Difficult",
-            "Level Editor",
-            "2D Platformer",
-            "Colorful",
-            "Singleplayer",
-            "Indie",
-            "Adventure",
+            "Funny",
+            "Psychological Horror",
+            "Precision Platformer",
             "Platformer",
-            "Puzzle Platformer",
-            "Linear",
+            "Action",
+            "Physics",
+            "Side Scroller",
+            "Philosophical",
+            "Snowboarding",
+            "Singleplayer",
+            "Skiing",
+            "Dark Humor",
+            "Parkour",
+            "Adventure",
+            "Comedy",
             "2D",
-            "Character Customization",
-            "Puzzle",
-            "2.5D",
-            "Space",
-            "Action-Adventure",
-            "Pixel Graphics",
-            "Arcade",
-            "Retro"
+            "Casual",
+            "Simulation",
+            "Sports"
         ],
         "languages": {
             "english": "I",
-            "french": "I",
             "german": "I",
-            "italian": "I",
             "spanish": "I",
-            "bosnian": "I",
-            "croatian": "I",
+            "brazilian": "I",
             "czech": "I",
-            "hungarian": "I",
+            "russian": "I",
             "schinese": "I",
-            "serbian": "I",
-            "turkish": "I",
-            "ukrainian": "I"
+            "tchinese": "I"
         }
     }
 }
-var gameOfDayDate = '2025-12-26'
+var gameOfDayDate = '2025-12-27'
