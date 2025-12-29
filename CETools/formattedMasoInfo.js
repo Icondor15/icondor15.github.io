@@ -4139,7 +4139,7 @@ var masoData =
     "1887840": {
         "description": "American Assist Mode",
         "tier": "1",
-        "owners": 40,
+        "owners": 41,
         "completions": 11,
         "playtime": 16.940909090909084,
         "newestCompletion": "2025-09-23T20:49:51.000Z"
@@ -4547,9 +4547,9 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 3,
-        "completions": 2,
-        "playtime": 10.166666666666668,
+        "owners": 4,
+        "completions": 3,
+        "playtime": 12.016666666666667,
         "newestCompletion": "2025-11-21T01:49:56.000Z"
     }
 }
