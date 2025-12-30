@@ -2,85 +2,83 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1483100,
-        "CEId": "d1ffc786-4077-4deb-9a3f-a7ef8a119165",
-        "name": "One More Dungeon 2",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1483100/header.jpg?t=1699005093",
-        "genre": "First-Person",
-        "tier": 1,
-        "points": 5,
-        "createdAt": "2023-12-29T18:07:23.000Z",
+        "platformId": 317250,
+        "CEId": "8575702b-cd01-4139-a381-9eca9f2f9cbc",
+        "name": "Airscape - The Fall of Gravity",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/317250/header.jpg?t=1574484005",
+        "genre": "Platformer",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2021-12-30T19:53:54.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 4,
-        "playersStarted": 0,
-        "playersTotal": 24,
+        "playersCompleted": 2,
+        "playersStarted": 17,
+        "playersTotal": 235,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 449,
-                "discountPercent": 70
+                "initial": 499,
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 1479,
-                "final": 443,
-                "discountPercent": 70
+                "initial": 499,
+                "final": 499,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 1279,
-                "final": 383,
-                "discountPercent": 70
+                "initial": 429,
+                "final": 429,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 170000,
-                "final": 51000,
-                "discountPercent": 70
+                "initial": 58000,
+                "final": 58000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 2195,
-                "final": 658,
-                "discountPercent": 70
+                "initial": 750,
+                "final": 750,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 1949,
-                "final": 584,
-                "discountPercent": 70
+                "initial": 649,
+                "final": 649,
+                "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Snailarchy [5\u2605]\nOverthrow the Snail King.",
+            "primary": 2,
+            "primaryText": "Clocktopus [10\u2605]\nBeat the game in 60 minutes or less.\n\nCephaloGod [10\u2605]\nReach 101% in-game completion.",
             "community": 0,
             "communityText": "",
-            "achievements": 20
+            "achievements": 23
         },
         "gameTags": [
-            "Dungeon Crawler",
+            "Shoot 'Em Up",
+            "Exploration",
             "Difficult",
-            "Mystery Dungeon",
-            "Procedural Generation",
-            "Action Roguelike",
-            "First-Person",
-            "Roguelite",
-            "Colorful",
-            "Perma Death",
-            "Looter Shooter",
-            "Fantasy",
-            "FPS",
-            "Magic",
+            "Casual",
+            "Platformer",
+            "2D",
+            "Arcade",
+            "Cute",
+            "2.5D",
             "Action",
-            "Stylized",
-            "Shooter",
-            "Loot",
-            "Resource Management",
+            "Puzzle",
+            "Colorful",
+            "Physics",
+            "Adventure",
             "Singleplayer",
-            "Old School"
+            "Indie",
+            "Great Soundtrack",
+            "Sci-fi",
+            "Family Friendly",
+            "Atmospheric"
         ],
         "languages": {
-            "english": "IS",
-            "german": "IS",
-            "russian": "IS",
-            "schinese": "IS"
+            "english": "IAS",
+            "finnish": "I"
         }
     }
 }
-var gameOfDayDate = '2025-12-29'
+var gameOfDayDate = '2025-12-30'
