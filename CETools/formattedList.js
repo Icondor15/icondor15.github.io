@@ -88,7 +88,7 @@ var data =
         "points": 10,
         "createdAt": "2022-03-27T02:35:31.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 7,
+        "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 55,
         "priceData": {
@@ -1246,9 +1246,9 @@ var data =
         "points": 270,
         "createdAt": "2020-01-28T09:40:51.000Z",
         "updatedAt": "2025-12-03T15:13:52.000Z",
-        "playersCompleted": 25,
-        "playersStarted": 346,
-        "playersTotal": 1069,
+        "playersCompleted": 26,
+        "playersStarted": 345,
+        "playersTotal": 1070,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -2352,7 +2352,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 201,
+        "playersTotal": 202,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -4449,7 +4449,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 0,
-        "playersTotal": 53,
+        "playersTotal": 54,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -7711,7 +7711,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 4,
-        "playersTotal": 24,
+        "playersTotal": 25,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -9152,7 +9152,7 @@ var data =
         "updatedAt": "2025-12-16T06:27:47.000Z",
         "playersCompleted": 2,
         "playersStarted": 9,
-        "playersTotal": 44,
+        "playersTotal": 45,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -9232,7 +9232,7 @@ var data =
         "updatedAt": "2025-10-30T02:35:15.000Z",
         "playersCompleted": 59,
         "playersStarted": 0,
-        "playersTotal": 247,
+        "playersTotal": 248,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -9315,8 +9315,8 @@ var data =
         "createdAt": "2025-08-27T21:37:04.000Z",
         "updatedAt": "2025-09-28T07:30:06.000Z",
         "playersCompleted": 6,
-        "playersStarted": 20,
-        "playersTotal": 192,
+        "playersStarted": 21,
+        "playersTotal": 194,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -9489,7 +9489,7 @@ var data =
         "updatedAt": "2025-10-30T02:29:48.000Z",
         "playersCompleted": 0,
         "playersStarted": 1,
-        "playersTotal": 88,
+        "playersTotal": 90,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -10168,7 +10168,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 59,
         "playersStarted": 0,
-        "playersTotal": 369,
+        "playersTotal": 370,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -10899,7 +10899,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 26,
-        "playersTotal": 213,
+        "playersTotal": 214,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -11832,7 +11832,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 116,
         "playersStarted": 0,
-        "playersTotal": 828,
+        "playersTotal": 829,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -11999,10 +11999,10 @@ var data =
         "tier": 3,
         "points": 67,
         "createdAt": "2024-04-09T00:01:43.000Z",
-        "updatedAt": "2025-12-14T02:34:29.000Z",
+        "updatedAt": "2025-12-31T07:16:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 14,
-        "playersTotal": 137,
+        "playersTotal": 138,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -12037,7 +12037,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "True Blue (UNCLEARED) [1\u2605]\nComplete all Expert challenges for all posible characters.\n\nBlue Flamed Contender (UNVALUED) [1\u2605]\nComplete all Normal and Hard challenges for all characters.\n\nStronger! [60\u2605]\nComplete all courses on Speedstar mode.\n\nBlue Flamed Challenger[5\u2605 (Partial: 5\u2605)]\nComplete all challenges for a single character.",
+            "primaryText": "True Blue (UNCLEARED) [1\u2605]\nComplete all Expert challenges for all posible characters.\n\nBlue Flamed Contender [40\u2605]\nComplete all Normal and Hard challenges for all characters.\n\nStronger! [60\u2605]\nComplete all courses on Speedstar mode.\n\nBlue Flamed Challenger[5\u2605 (Partial: 5\u2605)]\nComplete all challenges for a single character.",
             "community": 0,
             "communityText": "",
             "achievements": 48
@@ -14339,8 +14339,8 @@ var data =
         "createdAt": "2025-01-09T15:16:02.000Z",
         "updatedAt": "2025-11-26T09:15:54.000Z",
         "playersCompleted": 2,
-        "playersStarted": 57,
-        "playersTotal": 233,
+        "playersStarted": 58,
+        "playersTotal": 235,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -14427,7 +14427,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 186,
+        "playersTotal": 187,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -14519,7 +14519,7 @@ var data =
         "updatedAt": "2025-12-16T19:05:29.000Z",
         "playersCompleted": 12,
         "playersStarted": 2,
-        "playersTotal": 66,
+        "playersTotal": 67,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -15269,7 +15269,7 @@ var data =
         "updatedAt": "2025-12-24T19:23:57.000Z",
         "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 6,
+        "playersTotal": 7,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -15961,7 +15961,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 81,
         "playersStarted": 0,
-        "playersTotal": 719,
+        "playersTotal": 721,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -16646,6 +16646,86 @@ var data =
     },
     {
         "gameType": 0,
+        "platformId": 2933910,
+        "CEId": "f9682057-5c46-4d44-ab30-62cbcbb0078f",
+        "name": "CatboyZOOM",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933910/header.jpg?t=1737085632",
+        "genre": "First-Person",
+        "tier": 3,
+        "points": 45,
+        "createdAt": "2025-12-31T04:38:26.000Z",
+        "updatedAt": "2025-12-31T05:05:54.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 1,
+        "priceData": {
+            "USD": {
+                "initial": 999,
+                "final": 799,
+                "discountPercent": 20
+            },
+            "EUR": {
+                "initial": 975,
+                "final": 780,
+                "discountPercent": 20
+            },
+            "GBP": {
+                "initial": 850,
+                "final": 680,
+                "discountPercent": 20
+            },
+            "JPY": {
+                "initial": 120000,
+                "final": 96000,
+                "discountPercent": 20
+            },
+            "AUD": {
+                "initial": 1450,
+                "final": 1160,
+                "discountPercent": 20
+            },
+            "CAD": {
+                "initial": 1299,
+                "final": 1039,
+                "discountPercent": 20
+            }
+        },
+        "milestones": {
+            "primary": 2,
+            "primaryText": "Average Cat Day [30\u2605]\nAchieve a dev time on all levels.\n\nZoomies [15\u2605]\nAchieve a platinum time on all levels.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 24
+        },
+        "gameTags": [
+            "First-Person",
+            "Parkour",
+            "3D Platformer",
+            "Action",
+            "Platformer",
+            "Singleplayer",
+            "Cartoon",
+            "Casual",
+            "Cute",
+            "Cats",
+            "Racing",
+            "Colorful",
+            "Precision Platformer",
+            "FPS",
+            "3D",
+            "Cartoony",
+            "Stylized",
+            "LGBTQ+",
+            "Indie",
+            "Relaxing"
+        ],
+        "languages": {
+            "english": "IAS"
+        },
+        "information": "NOTE: this game is on early access. If new levels are released, the dev time Primary Objective will be reset to account for new content."
+    },
+    {
+        "gameType": 0,
         "platformId": 1056180,
         "CEId": "623776a6-cec8-4017-be64-5d5e30072ee1",
         "name": "Cathedral",
@@ -17050,7 +17130,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 85,
         "playersStarted": 784,
-        "playersTotal": 2011,
+        "playersTotal": 2012,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -19200,8 +19280,8 @@ var data =
             "Creature Collector",
             "Exploration",
             "JRPG",
-            "Collectathon",
             "Turn-Based",
+            "Collectathon",
             "Turn-Based Combat",
             "PvP",
             "Character Customization",
@@ -19815,8 +19895,8 @@ var data =
         "points": 35,
         "createdAt": "2020-01-28T07:16:35.000Z",
         "updatedAt": "2025-09-20T21:38:21.000Z",
-        "playersCompleted": 38,
-        "playersStarted": 86,
+        "playersCompleted": 39,
+        "playersStarted": 85,
         "playersTotal": 618,
         "priceData": {
             "USD": {
@@ -20107,8 +20187,8 @@ var data =
             "Shoot 'Em Up",
             "Bullet Hell",
             "Top-Down Shooter",
-            "Pixel Graphics",
             "Difficult",
+            "Pixel Graphics",
             "Shooter",
             "2D",
             "Arcade",
@@ -20122,8 +20202,8 @@ var data =
             "Co-op",
             "Local Co-Op",
             "Local Multiplayer",
-            "Singleplayer",
-            "Multiplayer"
+            "Multiplayer",
+            "Singleplayer"
         ],
         "languages": {
             "english": "I"
@@ -20811,9 +20891,9 @@ var data =
         "points": 25,
         "createdAt": "2020-01-28T06:23:50.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 83,
-        "playersStarted": 271,
-        "playersTotal": 1228,
+        "playersCompleted": 85,
+        "playersStarted": 270,
+        "playersTotal": 1230,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -20865,8 +20945,8 @@ var data =
             "Hand-drawn",
             "Indie",
             "Cartoony",
-            "Bullet Hell",
             "Retro",
+            "Bullet Hell",
             "Action",
             "Shoot 'Em Up",
             "Singleplayer",
@@ -21082,7 +21162,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 0,
-        "playersTotal": 214,
+        "playersTotal": 215,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -22204,8 +22284,8 @@ var data =
         "createdAt": "2023-01-05T08:39:03.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
-        "playersStarted": 255,
-        "playersTotal": 594,
+        "playersStarted": 256,
+        "playersTotal": 595,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -22292,8 +22372,8 @@ var data =
         "createdAt": "2020-01-28T06:29:26.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 60,
-        "playersStarted": 430,
-        "playersTotal": 1053,
+        "playersStarted": 431,
+        "playersTotal": 1055,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -22382,9 +22462,9 @@ var data =
         "points": 15,
         "createdAt": "2023-01-05T08:24:09.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 54,
-        "playersStarted": 213,
-        "playersTotal": 600,
+        "playersCompleted": 55,
+        "playersStarted": 214,
+        "playersTotal": 602,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -22516,8 +22596,8 @@ var data =
         },
         "gameTags": [
             "Turn-Based Tactics",
-            "Dungeon Crawler",
             "Dark Fantasy",
+            "Dungeon Crawler",
             "Roguelite",
             "Lovecraftian",
             "Singleplayer",
@@ -23057,7 +23137,7 @@ var data =
         "updatedAt": "2025-11-10T12:33:16.000Z",
         "playersCompleted": 11,
         "playersStarted": 94,
-        "playersTotal": 951,
+        "playersTotal": 952,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -23840,8 +23920,8 @@ var data =
             "achievements": 24
         },
         "gameTags": [
-            "Cute",
             "Souls-like",
+            "Cute",
             "Cartoony",
             "3D Platformer",
             "Dark Fantasy",
@@ -24454,7 +24534,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 114,
         "playersStarted": 0,
-        "playersTotal": 1028,
+        "playersTotal": 1029,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -25254,7 +25334,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
         "playersStarted": 8,
-        "playersTotal": 587,
+        "playersTotal": 588,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -26067,7 +26147,7 @@ var data =
         "updatedAt": "2025-11-14T20:02:33.000Z",
         "playersCompleted": 1,
         "playersStarted": 6,
-        "playersTotal": 65,
+        "playersTotal": 66,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -26153,7 +26233,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 12,
-        "playersTotal": 500,
+        "playersTotal": 501,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -26240,7 +26320,7 @@ var data =
         "tier": 4,
         "points": 90,
         "createdAt": "2022-09-27T06:48:02.000Z",
-        "updatedAt": "2025-12-26T22:40:59.000Z",
+        "updatedAt": "2025-12-31T05:02:20.000Z",
         "playersCompleted": 1,
         "playersStarted": 26,
         "playersTotal": 317,
@@ -26279,8 +26359,8 @@ var data =
         "milestones": {
             "primary": 3,
             "primaryText": "Desperados [60\u2605]\nDMC3: Achieve an SS rank on all missions in Dante must Die Mode.\n\nTwin Devils [15\u2605]\nDMC3: Finish the game on \"Dante Must Die\" Mode with any character. / Achieve an S Rank on all missions.\n\nThis is Sparda [15\u2605]\nDMC1: Finish the game on \"Dante Must Die\" mode.",
-            "community": 1,
-            "communityText": "Like Sparda, Like Son (S)\nDMC1: Obtain an S Rank on every mission in Dante Must Die! mode (no Super Dante costume).",
+            "community": 3,
+            "communityText": "\"Man, you need to get out more.\"\nAchieve an SS rank on all missions in Dante Must Die Mode without using a Super Costume.\n\nDante's Inferno\nComplete all primary objectives from all site-listed games in the Devil May Cry franchise. See verification requirements for complete list.\n\nLike Sparda, Like Son (S)\nDMC1: Obtain an S Rank on every mission in Dante Must Die! mode (no Super Dante costume).",
             "achievements": 99
         },
         "gameTags": [
@@ -27511,7 +27591,7 @@ var data =
         "updatedAt": "2025-10-16T20:28:02.000Z",
         "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 87,
+        "playersTotal": 88,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -27746,7 +27826,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 546,
+        "playersTotal": 547,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -27892,8 +27972,8 @@ var data =
             "Fast-Paced",
             "Sci-fi",
             "Violent",
-            "Multiplayer",
             "2.5D",
+            "Multiplayer",
             "Difficult"
         ],
         "languages": {
@@ -27924,7 +28004,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 6,
-        "playersTotal": 753,
+        "playersTotal": 754,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -30349,7 +30429,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 4,
-        "playersTotal": 81,
+        "playersTotal": 82,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -31502,11 +31582,11 @@ var data =
             "Horror",
             "Casual",
             "Dark Humor",
-            "Funny",
             "Third Person",
+            "Funny",
             "Replay Value",
-            "Controller",
             "3D Platformer",
+            "Controller",
             "Atmospheric",
             "Comedy"
         ],
@@ -31851,8 +31931,8 @@ var data =
         "createdAt": "2022-03-05T05:42:40.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 60,
-        "playersStarted": 401,
-        "playersTotal": 1033,
+        "playersStarted": 403,
+        "playersTotal": 1036,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -31945,7 +32025,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 76,
         "playersStarted": 0,
-        "playersTotal": 160,
+        "playersTotal": 161,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -32607,8 +32687,8 @@ var data =
             "Dungeon Crawler",
             "Hack and Slash",
             "Local Co-Op",
-            "Procedural Generation",
             "RPG",
+            "Procedural Generation",
             "Adventure",
             "Action",
             "Roguelike",
@@ -33772,6 +33852,7 @@ var data =
             "russian": "IS",
             "schinese": "IS",
             "tchinese": "IS",
+            "turkish": "IS",
             "ukrainian": "IS"
         }
     },
@@ -35324,8 +35405,8 @@ var data =
             "Swordplay",
             "Character Customization",
             "2D",
-            "Blood",
             "Fighting",
+            "Blood",
             "Pixel Graphics",
             "Action",
             "Historical",
@@ -35486,7 +35567,7 @@ var data =
         "updatedAt": "2025-10-30T07:24:50.000Z",
         "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 65,
+        "playersTotal": 66,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -35563,7 +35644,7 @@ var data =
         "points": 5,
         "createdAt": "2022-08-01T21:15:33.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 164,
         "priceData": {
@@ -37104,8 +37185,8 @@ var data =
         "createdAt": "2023-10-18T20:22:17.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 4,
-        "playersStarted": 8,
-        "playersTotal": 352,
+        "playersStarted": 9,
+        "playersTotal": 353,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -37285,7 +37366,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 44,
-        "playersTotal": 757,
+        "playersTotal": 758,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -38087,7 +38168,7 @@ var data =
         "updatedAt": "2025-12-23T22:11:25.000Z",
         "playersCompleted": 1,
         "playersStarted": 11,
-        "playersTotal": 33,
+        "playersTotal": 34,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -38461,9 +38542,9 @@ var data =
         "tier": 5,
         "points": 275,
         "createdAt": "2020-04-09T12:05:39.000Z",
-        "updatedAt": "2025-12-21T10:40:07.000Z",
-        "playersCompleted": 31,
-        "playersStarted": 183,
+        "updatedAt": "2025-12-31T00:13:53.000Z",
+        "playersCompleted": 32,
+        "playersStarted": 184,
         "playersTotal": 1645,
         "priceData": {
             "USD": {
@@ -38499,7 +38580,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Gauntlet Crusher [30\u2605]\nComplete all currently released Gauntlets from Version 2.2.\n\nDemon Dasher [90\u2605]\nComplete all Gauntlets from Version 2.1.\n\nNumismatist [120\u2605]\nCollect all 164 Secret Coins.\n\nThe Impossible Game [35\u2605]\nBeat all official levels in Normal Mode.",
+            "primaryText": "Gauntlet Crusher [60\u2605]\nComplete all currently released Gauntlets from Version 2.2.\n\nDemon Dasher [60\u2605]\nComplete all Gauntlets from Version 2.1.\n\nNumismatist [120\u2605]\nCollect all 164 Secret Coins.\n\nThe Impossible Game [35\u2605]\nBeat all official levels in Normal Mode.",
             "community": 2,
             "communityText": "Geometric Domination\nBeat every official level in level order in Normal Mode without dying, restarting or quitting. Alternatively, beat \"RobTop Travel\" by Atomic in Normal Mode.\n\nPushed to the Extreme\nComplete \"Bloodbath\" by Riot in Normal Mode.",
             "achievements": 547
@@ -39329,7 +39410,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 53,
-        "playersTotal": 484,
+        "playersTotal": 485,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -39726,9 +39807,9 @@ var data =
             "2D",
             "Controller",
             "Action",
+            "Fantasy",
             "Anime",
             "Adventure",
-            "Fantasy",
             "Retro",
             "Local Co-Op",
             "Local Multiplayer",
@@ -40424,8 +40505,8 @@ var data =
             "Action",
             "Singleplayer",
             "Story Rich",
-            "Mythology",
             "Adventure",
+            "Mythology",
             "Combat",
             "Third Person",
             "RPG",
@@ -40536,7 +40617,7 @@ var data =
             "Drama",
             "Combat",
             "Gore",
-            "LGBTQ+"
+            "Souls-like"
         ],
         "languages": {
             "english": "IAS",
@@ -42881,7 +42962,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 1,
-        "playersTotal": 65,
+        "playersTotal": 66,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -43035,10 +43116,10 @@ var data =
         "tier": 5,
         "points": 270,
         "createdAt": "2023-01-16T08:05:16.000Z",
-        "updatedAt": "2025-12-29T09:44:32.000Z",
+        "updatedAt": "2025-12-31T00:47:41.000Z",
         "playersCompleted": 0,
-        "playersStarted": 13,
-        "playersTotal": 235,
+        "playersStarted": 14,
+        "playersTotal": 236,
         "priceData": {
             "USD": {
                 "initial": 3999,
@@ -43114,7 +43195,7 @@ var data =
             "schinese": "IS",
             "tchinese": "IS"
         },
-        "information": "The proof requirements included in objectives can be proved with video submissions or, alternatively, the use of the Thunderstore/r2modman replay mod. [https://randomuserhi.github.io/GTFOReplay/](https://randomuserhi.github.io/GTFOReplay/)\nYou must start from the **beginning** of the expedition for the proof to be considered valid, regardless of video or replay.\n\n__FOR MODS:__ replay proofs can be viewed with the viewer included in the mod releases. [https://github.com/randomuserhi/GTFOReplay/releases](https://github.com/randomuserhi/GTFOReplay/releases)\nIf you're unable to use the app leave the proof to someone else.\n\nUse of the ladder c-foam glitch is allowed."
+        "information": "The proof requirements included in objectives can be proved with video submissions or, alternatively, the use of the Thunderstore/r2modman replay mod. [https://randomuserhi.github.io/GTFOReplay/](https://randomuserhi.github.io/GTFOReplay/)\nYou must start from the **beginning** of the expedition for the proof to be considered valid, regardless of video or replay.\n\n__FOR MODS:__ replay proofs can be viewed with the viewer included in the mod releases. [https://github.com/randomuserhi/GTFOReplay/releases](https://github.com/randomuserhi/GTFOReplay/releases)\nIf you're unable to use the app leave the proof to someone else.\n\nUse of the ladder c-foam glitch is allowed.\n\nRequires Steam servers to be running, avoid playing around Steam maintenance."
     },
     {
         "gameType": 0,
@@ -43659,7 +43740,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 23,
         "playersStarted": 6,
-        "playersTotal": 246,
+        "playersTotal": 248,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -44206,7 +44287,7 @@ var data =
         "updatedAt": "2025-12-16T05:55:44.000Z",
         "playersCompleted": 94,
         "playersStarted": 211,
-        "playersTotal": 1185,
+        "playersTotal": 1187,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -44262,8 +44343,8 @@ var data =
             "Replay Value",
             "Isometric",
             "Difficult",
-            "Hand-drawn",
             "Action RPG",
+            "Hand-drawn",
             "Atmospheric",
             "Perma Death",
             "LGBTQ+"
@@ -44293,9 +44374,9 @@ var data =
         "points": 40,
         "createdAt": "2025-10-30T07:49:05.000Z",
         "updatedAt": "2025-12-26T18:25:41.000Z",
-        "playersCompleted": 15,
-        "playersStarted": 15,
-        "playersTotal": 87,
+        "playersCompleted": 16,
+        "playersStarted": 16,
+        "playersTotal": 89,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -44354,8 +44435,8 @@ var data =
             "Atmospheric",
             "Souls-like",
             "Difficult",
-            "Perma Death",
-            "LGBTQ+"
+            "Early Access",
+            "Perma Death"
         ],
         "languages": {
             "english": "IAS",
@@ -45129,7 +45210,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 3,
         "playersStarted": 16,
-        "playersTotal": 270,
+        "playersTotal": 271,
         "priceData": {
             "USD": {
                 "initial": 3939,
@@ -45217,7 +45298,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 130,
+        "playersTotal": 131,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -45393,9 +45474,9 @@ var data =
         "points": 5,
         "createdAt": "2024-06-30T16:14:35.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 19,
+        "playersCompleted": 20,
         "playersStarted": 0,
-        "playersTotal": 69,
+        "playersTotal": 70,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -45601,8 +45682,8 @@ var data =
             "Space",
             "Multiplayer",
             "Local Multiplayer",
-            "Adventure",
             "Simulation",
+            "Adventure",
             "Puzzle",
             "Atmospheric",
             "Precision Platformer",
@@ -47178,8 +47259,8 @@ var data =
         "createdAt": "2020-01-28T08:26:42.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 20,
-        "playersStarted": 738,
-        "playersTotal": 1915,
+        "playersStarted": 739,
+        "playersTotal": 1918,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -47266,9 +47347,9 @@ var data =
         "points": 10,
         "createdAt": "2025-09-20T10:01:16.000Z",
         "updatedAt": "2025-09-30T04:37:28.000Z",
-        "playersCompleted": 140,
+        "playersCompleted": 142,
         "playersStarted": 0,
-        "playersTotal": 337,
+        "playersTotal": 340,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -47667,9 +47748,9 @@ var data =
         "points": 5,
         "createdAt": "2020-06-09T17:51:02.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 294,
+        "playersCompleted": 295,
         "playersStarted": 0,
-        "playersTotal": 1068,
+        "playersTotal": 1069,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -47754,7 +47835,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 16,
         "playersStarted": 124,
-        "playersTotal": 843,
+        "playersTotal": 845,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -50923,7 +51004,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 22,
         "playersStarted": 0,
-        "playersTotal": 496,
+        "playersTotal": 497,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -51097,7 +51178,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 211,
+        "playersTotal": 212,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -51248,7 +51329,7 @@ var data =
         "points": 15,
         "createdAt": "2024-10-15T04:13:13.000Z",
         "updatedAt": "2025-10-21T04:20:36.000Z",
-        "playersCompleted": 2,
+        "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 5,
         "priceData": {
@@ -52387,7 +52468,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 28,
         "playersStarted": 0,
-        "playersTotal": 560,
+        "playersTotal": 561,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -52624,7 +52705,7 @@ var data =
         "updatedAt": "2025-09-09T22:54:44.000Z",
         "playersCompleted": 62,
         "playersStarted": 153,
-        "playersTotal": 843,
+        "playersTotal": 844,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -53036,7 +53117,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 31,
         "playersStarted": 145,
-        "playersTotal": 514,
+        "playersTotal": 515,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -53287,7 +53368,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 1,
         "playersStarted": 7,
-        "playersTotal": 55,
+        "playersTotal": 56,
         "priceData": {
             "USD": {
                 "initial": 399,
@@ -53600,7 +53681,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 13,
         "playersStarted": 129,
-        "playersTotal": 725,
+        "playersTotal": 726,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -53688,7 +53769,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 101,
         "playersStarted": 0,
-        "playersTotal": 582,
+        "playersTotal": 583,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -55319,7 +55400,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
         "playersStarted": 28,
-        "playersTotal": 286,
+        "playersTotal": 287,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -55885,7 +55966,7 @@ var data =
         "createdAt": "2022-11-20T04:20:12.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
-        "playersStarted": 36,
+        "playersStarted": 37,
         "playersTotal": 155,
         "priceData": {
             "USD": {
@@ -56060,7 +56141,7 @@ var data =
         "updatedAt": "2025-12-22T12:33:51.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 271,
+        "playersTotal": 272,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -56167,7 +56248,7 @@ var data =
         "updatedAt": "2025-09-13T01:14:30.000Z",
         "playersCompleted": 6,
         "playersStarted": 20,
-        "playersTotal": 539,
+        "playersTotal": 544,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -56932,8 +57013,8 @@ var data =
         "createdAt": "2023-10-03T23:01:37.000Z",
         "updatedAt": "2025-09-13T16:28:58.000Z",
         "playersCompleted": 1,
-        "playersStarted": 72,
-        "playersTotal": 144,
+        "playersStarted": 73,
+        "playersTotal": 145,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -57775,7 +57856,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 82,
         "playersStarted": 0,
-        "playersTotal": 1398,
+        "playersTotal": 1400,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -58253,8 +58334,8 @@ var data =
         },
         "gameTags": [
             "Souls-like",
-            "Combat",
             "Exploration",
+            "Combat",
             "Dark Fantasy",
             "Action",
             "Online Co-Op",
@@ -58263,9 +58344,9 @@ var data =
             "Dragons",
             "Action RPG",
             "Singleplayer",
-            "Adventure",
             "Action-Adventure",
             "Medieval",
+            "Adventure",
             "Lore-Rich",
             "Character Customization",
             "Multiplayer",
@@ -58622,8 +58703,8 @@ var data =
         "points": 70,
         "createdAt": "2024-04-14T00:15:21.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 8,
-        "playersStarted": 10,
+        "playersCompleted": 9,
+        "playersStarted": 9,
         "playersTotal": 69,
         "priceData": {
             "USD": {
@@ -59128,7 +59209,7 @@ var data =
         "points": 15,
         "createdAt": "2020-01-28T09:14:01.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 152,
+        "playersCompleted": 153,
         "playersStarted": 0,
         "playersTotal": 362,
         "priceData": {
@@ -59372,7 +59453,7 @@ var data =
         "points": 15,
         "createdAt": "2020-01-28T08:08:05.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 162,
+        "playersCompleted": 163,
         "playersStarted": 0,
         "playersTotal": 480,
         "priceData": {
@@ -59537,7 +59618,7 @@ var data =
         "points": 5,
         "createdAt": "2020-01-28T08:07:04.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 81,
+        "playersCompleted": 82,
         "playersStarted": 0,
         "playersTotal": 218,
         "priceData": {
@@ -60281,8 +60362,8 @@ var data =
         "points": 20,
         "createdAt": "2020-01-28T09:11:11.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 33,
-        "playersStarted": 30,
+        "playersCompleted": 34,
+        "playersStarted": 29,
         "playersTotal": 261,
         "priceData": {
             "USD": {
@@ -60836,8 +60917,8 @@ var data =
             "Replay Value",
             "Puzzle Platformer",
             "Great Soundtrack",
-            "Puzzle",
-            "Indie"
+            "Indie",
+            "Puzzle"
         ],
         "languages": {
             "english": "I",
@@ -64214,8 +64295,8 @@ var data =
         "createdAt": "2025-10-30T17:50:53.000Z",
         "updatedAt": "2025-12-16T05:28:49.000Z",
         "playersCompleted": 0,
-        "playersStarted": 81,
-        "playersTotal": 170,
+        "playersStarted": 84,
+        "playersTotal": 172,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -64367,8 +64448,8 @@ var data =
             "Colorful",
             "Fantasy",
             "Demons",
-            "Trains",
-            "Magic"
+            "Magic",
+            "Trains"
         ],
         "languages": {
             "english": "IAS",
@@ -64621,7 +64702,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 15,
         "playersStarted": 2,
-        "playersTotal": 196,
+        "playersTotal": 197,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -65423,7 +65504,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 41,
-        "playersTotal": 1278,
+        "playersTotal": 1279,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -65652,7 +65733,7 @@ var data =
         "points": 150,
         "createdAt": "2022-09-26T19:55:59.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 18,
+        "playersCompleted": 19,
         "playersStarted": 53,
         "playersTotal": 337,
         "priceData": {
@@ -67426,7 +67507,7 @@ var data =
         "points": 25,
         "createdAt": "2020-01-28T09:14:50.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 7,
+        "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 87,
         "priceData": {
@@ -67933,7 +68014,7 @@ var data =
         "updatedAt": "2025-11-12T17:07:09.000Z",
         "playersCompleted": 3,
         "playersStarted": 28,
-        "playersTotal": 102,
+        "playersTotal": 103,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -68014,7 +68095,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
         "playersStarted": 222,
-        "playersTotal": 945,
+        "playersTotal": 946,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -68264,7 +68345,7 @@ var data =
         "points": 100,
         "createdAt": "2021-05-14T14:39:52.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 7,
+        "playersCompleted": 8,
         "playersStarted": 0,
         "playersTotal": 38,
         "priceData": {
@@ -68675,7 +68756,7 @@ var data =
         "points": 5,
         "createdAt": "2024-10-12T23:07:26.000Z",
         "updatedAt": "2025-10-21T04:21:47.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 4,
         "playersStarted": 0,
         "playersTotal": 14,
         "priceData": {
@@ -68842,10 +68923,10 @@ var data =
         "name": "OCO",
         "header": "https://cdn.akamai.steamstatic.com/steam/apps/1165450/header.jpg?t=1668361193",
         "genre": "Platformer",
-        "tier": 1,
-        "points": 11,
+        "tier": 4,
+        "points": 177,
         "createdAt": "2023-11-18T19:06:50.000Z",
-        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "updatedAt": "2025-12-31T04:05:33.000Z",
         "playersCompleted": 0,
         "playersStarted": 2,
         "playersTotal": 42,
@@ -68882,8 +68963,8 @@ var data =
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "\"I'd Tap That.\" [10\u2605]\nComplete every level in the \"play\" section with perfect taps and time.\n\nVicious Circle (UNCLEARED) [1\u2605]\n",
+            "primary": 6,
+            "primaryText": "Give it a Little Tappy, Tap, Tap, Taparoo! (S/C) (UNCLEARED) [1\u2605]\nComplete every level in \"explore\" subworld 15-6 with perfect taps and time.\n\nTapped Out (S/C) (UNCLEARED) [1\u2605]\nComplete every level in \"explore\" subworlds 15-1 and 15-4 with perfect taps and time.\n\nSpirographic Design Is My Passion [100\u2605]\nComplete every level in the relevant \"explore\" subworlds with perfect taps and time. (see Information box)\n\nLike a Record, Baby [60\u2605]\nComplete every level in the relevant \"explore\" subworlds with perfect taps and time. (see Information box)\n\nVicious Circle [5\u2605]\nComplete every speedrun and marathon.\n\nI'd Tap That [10\u2605]\nComplete every level in the \"play\" section with perfect taps and time.",
             "community": 1,
             "communityText": "OCO LOCO\nComplete every \"explore\" world with perfect taps and time.",
             "achievements": 46
@@ -68920,7 +69001,8 @@ var data =
             "koreana": "I",
             "schinese": "I",
             "tchinese": "I"
-        }
+        },
+        "information": "The POs with specific subworld clear requirements have their subworlds listed below - these have been categorised by nature (speedruns/marathons), and then by broad difficulty category.\n\n**Vicious Circle:**\nSpeedruns (4-1, 5-4, 8-5, 11-3, 15-2)\nMarathons (8-2, 11-5, 13-2, 14-5)\n\n**Like a Record, Baby**\n6-5, 6-6\n7-4, 7-5, 7-6\n9-2, 9-6\n10-5, 10-6 (10-6-48 will mark the subworld as not perfect)\n11-1\n12-5, 12-6\n\n**Spirographic Design Is My Passion**\n13-3, 13-4, 13-6\n14-1, 14-2\n15-3, 15-5"
     },
     {
         "gameType": 0,
@@ -69502,7 +69584,7 @@ var data =
         "points": 5,
         "createdAt": "2024-07-20T22:19:45.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 2,
+        "playersCompleted": 3,
         "playersStarted": 0,
         "playersTotal": 14,
         "priceData": {
@@ -69583,7 +69665,7 @@ var data =
         "updatedAt": "2025-12-03T03:28:37.000Z",
         "playersCompleted": 10,
         "playersStarted": 39,
-        "playersTotal": 231,
+        "playersTotal": 232,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -70142,7 +70224,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 103,
+        "playersTotal": 107,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -70944,7 +71026,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 106,
         "playersStarted": 0,
-        "playersTotal": 1066,
+        "playersTotal": 1067,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -71030,7 +71112,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 11,
         "playersStarted": 118,
-        "playersTotal": 714,
+        "playersTotal": 715,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -71371,7 +71453,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 63,
         "playersStarted": 2,
-        "playersTotal": 813,
+        "playersTotal": 814,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -71603,8 +71685,8 @@ var data =
         "points": 20,
         "createdAt": "2025-07-05T05:37:36.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 5,
-        "playersStarted": 22,
+        "playersCompleted": 6,
+        "playersStarted": 21,
         "playersTotal": 125,
         "priceData": {
             "USD": {
@@ -71690,7 +71772,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 7,
         "playersStarted": 41,
-        "playersTotal": 551,
+        "playersTotal": 552,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -72624,7 +72706,7 @@ var data =
         "createdAt": "2023-04-10T08:26:18.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
-        "playersStarted": 4,
+        "playersStarted": 5,
         "playersTotal": 119,
         "priceData": {
             "USD": {
@@ -72880,7 +72962,7 @@ var data =
         "updatedAt": "2025-10-09T13:15:50.000Z",
         "playersCompleted": 2,
         "playersStarted": 12,
-        "playersTotal": 129,
+        "playersTotal": 130,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -73543,7 +73625,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 44,
         "playersStarted": 22,
-        "playersTotal": 1321,
+        "playersTotal": 1324,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -73716,7 +73798,7 @@ var data =
         "updatedAt": "2025-11-05T21:32:25.000Z",
         "playersCompleted": 22,
         "playersStarted": 67,
-        "playersTotal": 384,
+        "playersTotal": 386,
         "priceData": {
             "USD": {
                 "initial": 799,
@@ -73937,8 +74019,8 @@ var data =
             "Physics",
             "Family Friendly",
             "Multiplayer",
-            "Classic",
             "Pinball",
+            "Classic",
             "Mouse only",
             "Funny",
             "Strategy",
@@ -74020,7 +74102,6 @@ var data =
             "Mouse only",
             "Arcade",
             "Strategy",
-            "Psychological Horror",
             "Multiplayer",
             "Family Friendly"
         ],
@@ -75177,7 +75258,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 27,
         "playersStarted": 116,
-        "playersTotal": 497,
+        "playersTotal": 498,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -76247,7 +76328,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 482,
         "playersStarted": 0,
-        "playersTotal": 1904,
+        "playersTotal": 1905,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -76408,8 +76489,8 @@ var data =
             "Action",
             "Dark Comedy",
             "Multiplayer",
-            "Shooter",
             "Singleplayer",
+            "Shooter",
             "Classic",
             "Adventure",
             "Satire"
@@ -77697,7 +77778,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 75,
         "playersStarted": 0,
-        "playersTotal": 211,
+        "playersTotal": 212,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -78905,7 +78986,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 93,
-        "playersTotal": 533,
+        "playersTotal": 535,
         "priceData": {
             "USD": {
                 "initial": 1799,
@@ -79142,7 +79223,7 @@ var data =
         "points": 10,
         "createdAt": "2020-12-28T16:02:34.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 4,
         "playersStarted": 8,
         "playersTotal": 90,
         "priceData": {
@@ -79676,7 +79757,7 @@ var data =
         "createdAt": "2022-10-04T23:30:01.000Z",
         "updatedAt": "2025-09-26T15:56:06.000Z",
         "playersCompleted": 2,
-        "playersStarted": 110,
+        "playersStarted": 111,
         "playersTotal": 766,
         "priceData": {
             "USD": {
@@ -81386,8 +81467,8 @@ var data =
             "Realistic",
             "Third Person",
             "Gore",
-            "Adventure",
             "VR",
+            "Adventure",
             "Resource Management",
             "Action-Adventure",
             "Violent",
@@ -81505,7 +81586,7 @@ var data =
         "updatedAt": "2025-09-09T16:56:36.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
-        "playersTotal": 165,
+        "playersTotal": 166,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -82160,15 +82241,15 @@ var data =
         "platformId": 774181,
         "CEId": "28977539-4671-4634-8683-b5a192bf0059",
         "name": "Rhythm Doctor",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/header.jpg?t=1765062378",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/header.jpg?t=1765312301",
         "genre": "Arcade",
-        "tier": 1,
-        "points": 15,
+        "tier": 2,
+        "points": 25,
         "createdAt": "2022-07-02T21:17:05.000Z",
-        "updatedAt": "2025-12-07T01:15:25.000Z",
-        "playersCompleted": 44,
-        "playersStarted": 0,
-        "playersTotal": 370,
+        "updatedAt": "2025-12-31T03:09:39.000Z",
+        "playersCompleted": 5,
+        "playersStarted": 39,
+        "playersTotal": 371,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -82202,8 +82283,8 @@ var data =
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Polyrhythmic Practitioner [15\u2605]\nGet an S+ rank on every song.",
+            "primary": 2,
+            "primaryText": "Polyrhythmic Stress [15\u2605]\nEarn an S+/Perfect rank on every boss song.\n\nPolyrhythmic Practitioner [10\u2605]\nGet an S+ rank on every non-boss song.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -82390,7 +82471,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 30,
         "playersStarted": 15,
-        "playersTotal": 137,
+        "playersTotal": 138,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -82557,7 +82638,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 31,
+        "playersTotal": 32,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -82627,13 +82708,13 @@ var data =
         "name": "Rift of the NecroDancer",
         "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073250/header.jpg?t=1746470556",
         "genre": "Arcade",
-        "tier": 3,
-        "points": 81,
+        "tier": 4,
+        "points": 116,
         "createdAt": "2025-05-21T19:09:25.000Z",
-        "updatedAt": "2025-11-25T19:49:37.000Z",
+        "updatedAt": "2025-12-31T04:24:26.000Z",
         "playersCompleted": 0,
-        "playersStarted": 10,
-        "playersTotal": 123,
+        "playersStarted": 13,
+        "playersTotal": 124,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -82667,8 +82748,8 @@ var data =
             }
         },
         "milestones": {
-            "primary": 10,
-            "primaryText": "Ultimate Goblin Pleaser (UNCLEARED) [1\u2605]\nBeat 32 tracks in Remix Mode on Impossible difficulty with the CODA modifier active. (DLCs allowed)\n\nGoblin Pleaser (UNCLEARED) [1\u2605]\nBeat any track in Remix Mode on Impossible difficulty with the CODA modifier active.\n\n*Maniacal Laughter* YOU'VE DONE IT! (UNCLEARED) [1\u2605]\nBeat all base game tracks in Remix Mode with a Full Combo on Impossible difficulty.\n\n3-Lane DJ (UNCLEARED) [1\u2605]\nBeat all base game tracks in Remix Mode with a Full Combo on Hard difficulty (or higher).\n\nJust a Made-Up Rhythm [20\u2605]\nBeat all base game tracks in Remix Mode with a Full Combo on Medium difficulty (or higher).\n\nRift Shopping (UNCLEARED) [1\u2605]\nGet an S+ on all Challenges.\n\nBet you miss the Crypt by now, huh? (UNCLEARED) [1\u2605]\nBeat all base game tracks with a Full Combo on Impossible difficulty.\n\nHard Rift to Counterblow [40\u2605]\nBeat all base game tracks with a Full Combo on Hard difficulty (or higher).\n\nRiftbuster [10\u2605]\nBeat all base game tracks with a Full Combo on Medium difficulty (or higher).\n\nStorybook Sequel [5\u2605]\nOn Hard difficulty, get a \"Perfect\" badge on all Minigames and get an S+ rank on all Bossfights.",
+            "primary": 11,
+            "primaryText": "Ultimate Goblin Pleaser (UNCLEARED) [1\u2605]\nBeat 32 tracks in Remix Mode on Impossible difficulty with the CODA modifier active. (DLCs allowed)\n\nGoblin Pleaser (UNCLEARED) [1\u2605]\nBeat any track in Remix Mode on Impossible difficulty with the CODA modifier active.\n\n*Maniacal Laughter* YOU'VE DONE IT! (UNCLEARED) [1\u2605]\nBeat all base game tracks in Remix Mode with a Full Combo on Impossible difficulty.\n\n3-Lane DJ (UNCLEARED) [1\u2605]\nBeat all base game tracks in Remix Mode with a Full Combo on Hard difficulty (or higher).\n\nJust a Made-Up Rhythm [20\u2605]\nBeat all base game tracks in Remix Mode with a Full Combo on Medium difficulty (or higher).\n\nShop 'Til You Drop[35\u2605 (Partial: 10\u2605)]\nClear all Shopkeeper challenges.\n\nRift Shopping (UNVALUED) [1\u2605]\nGet an S+ on all Challenges.\n\nBet you miss the Crypt by now, huh? (UNCLEARED) [1\u2605]\nBeat all base game tracks with a Full Combo on Impossible difficulty.\n\nHard Rift to Counterblow [40\u2605]\nBeat all base game tracks with a Full Combo on Hard difficulty (or higher).\n\nRiftbuster [10\u2605]\nBeat all base game tracks with a Full Combo on Medium difficulty (or higher).\n\nStorybook Sequel [5\u2605]\nOn Hard difficulty, get a \"Perfect\" badge on all Minigames and get an S+ rank on all Bossfights.",
             "community": 1,
             "communityText": "No Rift Adrift\nComplete all tracks (including DLCs) in Remix Mode on Impossible difficulty with the CODA modiier active.",
             "achievements": 35
@@ -83381,9 +83462,9 @@ var data =
         "tier": 2,
         "points": 20,
         "createdAt": "2020-08-25T13:13:02.000Z",
-        "updatedAt": "2025-12-23T15:23:16.000Z",
-        "playersCompleted": 30,
-        "playersStarted": 253,
+        "updatedAt": "2025-12-31T05:41:19.000Z",
+        "playersCompleted": 8,
+        "playersStarted": 273,
         "playersTotal": 1396,
         "priceData": {
             "USD": {
@@ -84720,7 +84801,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 95,
         "playersStarted": 35,
-        "playersTotal": 585,
+        "playersTotal": 586,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -84866,7 +84947,7 @@ var data =
             "Great Soundtrack",
             "Action Roguelike",
             "Roguevania",
-            "Local Co-Op"
+            "Replay Value"
         ],
         "languages": {
             "english": "IS",
@@ -86673,7 +86754,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 60,
         "playersStarted": 0,
-        "playersTotal": 336,
+        "playersTotal": 337,
         "priceData": {
             "USD": {
                 "initial": 1799,
@@ -86762,9 +86843,9 @@ var data =
         "points": 15,
         "createdAt": "2023-11-26T21:43:36.000Z",
         "updatedAt": "2025-12-16T06:53:35.000Z",
-        "playersCompleted": 15,
+        "playersCompleted": 16,
         "playersStarted": 51,
-        "playersTotal": 248,
+        "playersTotal": 249,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -87491,8 +87572,8 @@ var data =
         "createdAt": "2022-03-14T02:34:35.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 9,
-        "playersStarted": 36,
-        "playersTotal": 154,
+        "playersStarted": 37,
+        "playersTotal": 156,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -88071,8 +88152,8 @@ var data =
         "createdAt": "2020-01-28T08:36:51.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 29,
-        "playersStarted": 253,
-        "playersTotal": 770,
+        "playersStarted": 254,
+        "playersTotal": 771,
         "priceData": {
             "USD": {
                 "initial": 5999,
@@ -91110,7 +91191,7 @@ var data =
         "points": 5,
         "createdAt": "2023-09-17T15:05:31.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 4,
+        "playersCompleted": 5,
         "playersStarted": 0,
         "playersTotal": 25,
         "priceData": {
@@ -91344,7 +91425,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 14,
         "playersStarted": 0,
-        "playersTotal": 292,
+        "playersTotal": 293,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -91393,8 +91474,8 @@ var data =
             "2D",
             "Roguelite",
             "Singleplayer",
-            "Platformer",
             "Metroidvania",
+            "Platformer",
             "Difficult",
             "Side Scroller",
             "Hack and Slash",
@@ -92057,8 +92138,8 @@ var data =
         "createdAt": "2022-07-28T00:07:42.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 58,
-        "playersStarted": 220,
-        "playersTotal": 1189,
+        "playersStarted": 221,
+        "playersTotal": 1192,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -96946,9 +97027,9 @@ var data =
         "points": 10,
         "createdAt": "2020-01-28T09:04:53.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 25,
+        "playersCompleted": 26,
         "playersStarted": 0,
-        "playersTotal": 174,
+        "playersTotal": 175,
         "priceData": {
             "USD": {
                 "initial": 299,
@@ -97112,8 +97193,8 @@ var data =
         "createdAt": "2020-01-28T08:57:40.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 8,
-        "playersStarted": 31,
-        "playersTotal": 277,
+        "playersStarted": 32,
+        "playersTotal": 278,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -97276,7 +97357,7 @@ var data =
         "updatedAt": "2025-10-21T04:23:02.000Z",
         "playersCompleted": 126,
         "playersStarted": 0,
-        "playersTotal": 1312,
+        "playersTotal": 1315,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -97664,7 +97745,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 185,
+        "playersTotal": 186,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -103325,7 +103406,7 @@ var data =
         "points": 5,
         "createdAt": "2022-01-10T20:57:46.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 113,
+        "playersCompleted": 114,
         "playersStarted": 0,
         "playersTotal": 588,
         "priceData": {
@@ -103896,7 +103977,7 @@ var data =
         "updatedAt": "2025-09-30T07:39:16.000Z",
         "playersCompleted": 21,
         "playersStarted": 0,
-        "playersTotal": 50,
+        "playersTotal": 51,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -104814,7 +104895,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 3,
-        "playersTotal": 65,
+        "playersTotal": 66,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -105799,7 +105880,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 2,
         "playersStarted": 15,
-        "playersTotal": 47,
+        "playersTotal": 48,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -106020,10 +106101,10 @@ var data =
         "tier": 5,
         "points": 348,
         "createdAt": "2025-05-26T01:58:51.000Z",
-        "updatedAt": "2025-12-16T06:35:32.000Z",
+        "updatedAt": "2025-12-31T05:23:55.000Z",
         "playersCompleted": 0,
-        "playersStarted": 6,
-        "playersTotal": 36,
+        "playersStarted": 7,
+        "playersTotal": 37,
         "priceData": {
             "USD": {
                 "initial": 3499,
@@ -106058,7 +106139,7 @@ var data =
         },
         "milestones": {
             "primary": 27,
-            "primaryText": "Incomprehensibly Absolute (UNCLEARED) [1\u2605]\nObtain a GM-King of Rounds grade in Master Mode on both control styles.\n\nIncognizable Psychosis (UNCLEARED) [1\u2605]\nObtain a GM-King of Rounds grade in Master Mode.\n\nIndestructible Spirit (UNCLEARED) [1\u2605]\nObtain a GM-Rounds Ten grade in Master Mode.\n\nInexhaustible (UNCLEARED) [1\u2605]\nObtain a GM-Rounds grade in Master Mode.\n\nInsufferable (UNCLEARED) [1\u2605]\nObtain a GM grade in Master Mode.\n\nStress Test [30\u2605]\nObtain an M grade in Master Mode.\n\nImmovable Object (UNCLEARED) [1\u2605]\nObtain a 5-star rating on Levels 100 through 104 in Shiranui Mode.\n\nUnstoppable Force (UNCLEARED) [1\u2605]\nObtain an SM grade in Shiranui Mode on both control styles.\n\nTettren 4 [60\u2605]\nObtain an SM grade in Shiranui Mode.\n\nKita Kitsune's Bountiful Venture (UNCLEARED) [1\u2605]\nObtain a KM grade in Konoha Mode on both control styles.\n\nEternal Heart (UNCLEARED) [1\u2605]\nObtain a KM grade in Konoha Mode.\n\nWaifucaptor Sakura (UNCLEARED) [1\u2605]\nClear Konoha Mode on Easy difficulty.\n\nUndefiable (UNCLEARED) [1\u2605]\nObtain an Asuka Grand Master grade on both control styles.\n\nMortality Aversion (UNCLEARED) [1\u2605]\nObtain an Asuka Grand Master grade.\n\nUnwavering Focus (UNCLEARED) [1\u2605]\nReach Level 1000 in Asuka Mode on Hard difficulty.\n\nVersatile Stride (UNVALUED) [1\u2605]\nObtain an AM grade in Asuka Mode on Normal difficulty on both control styles.\n\nDeath Subverter [70\u2605]\nObtain an AM grade in Asuka Mode on Normal difficulty.\n\nEyes Wide Open [30\u2605]\nReach Level 1000 in Asuka Mode on Normal difficulty.\n\nHorror Instinct (UNCLEARED) [1\u2605]\nObtain a GM grade in 3.1 Mode.\n\nInsurmountable Terror (UNCLEARED) [1\u2605]\nObtain an S20 grade in 3.1 Mode.\n\nNever Hold Back [50\u2605]\nObtain an S13 grade in 3.1 Mode.\n\nDon't You Ever Stop [20\u2605]\nObtain an S10 grade in 3.1 Mode.\n\nThe Absolute Plus Plus (UNCLEARED) [1\u2605]\nObtain a GM grade in 2.1 Mode.\n\nRedemption [10\u2605]\nReach Level 999 in 2.1 Mode.\n\nMaster from the Past Millenium [30\u2605]\nObtain a GM grade in 1.1 Mode.\n\nYOU AER TEN OF TEN (UNVALUED) [1\u2605]\nObtain a Ten of Ten grade in Normal Mode.\n\nHalf Full [30\u2605]\nObtain a Five of Ten grade in Normal Mode.",
+            "primaryText": "Incomprehensibly Absolute (UNCLEARED) [1\u2605]\nObtain a GM-King of Rounds grade in Master Mode on both control styles.\n\nIncognizable Psychosis (UNCLEARED) [1\u2605]\nObtain a GM-King of Rounds grade in Master Mode.\n\nIndestructible Spirit (UNCLEARED) [1\u2605]\nObtain a GM-Rounds Ten grade in Master Mode.\n\nInexhaustible (UNCLEARED) [1\u2605]\nObtain a GM-Rounds grade in Master Mode.\n\nInsufferable (UNCLEARED) [1\u2605]\nObtain a GM grade in Master Mode.\n\nStress Test [30\u2605]\nObtain an M grade in Master Mode.\n\nImmovable Object (UNCLEARED) [1\u2605]\nObtain a 5-star rating on Levels 100 through 104 in Shiranui Mode.\n\nUnstoppable Force (UNCLEARED) [1\u2605]\nObtain an SM grade in Shiranui Mode on both control styles.\n\nTettren 4 [60\u2605]\nObtain an SM grade in Shiranui Mode.\n\nKita Kitsune's Bountiful Venture (UNCLEARED) [1\u2605]\nObtain a KM grade in Konoha Mode on both control styles.\n\nEternal Heart (UNCLEARED) [1\u2605]\nObtain a KM grade in Konoha Mode.\n\nWaifucaptor Sakura (UNCLEARED) [1\u2605]\nClear Konoha Mode on Easy difficulty.\n\nUndefiable (UNCLEARED) [1\u2605]\nObtain an Asuka Grand Master grade on both control styles.\n\nMortality Aversion (UNCLEARED) [1\u2605]\nObtain an Asuka Grand Master grade.\n\nUnwavering Focus (UNCLEARED) [1\u2605]\nReach Level 1000 in Asuka Mode on Hard difficulty.\n\nVersatile Stride (UNVALUED) [1\u2605]\nObtain an AM grade in Asuka Mode on Normal difficulty on both control styles.\n\nDeath Subverter [70\u2605]\nObtain an AM grade in Asuka Mode on Normal difficulty.\n\nEyes Wide Open [30\u2605]\nReach Level 1000 in Asuka Mode on Normal difficulty.\n\nHorror Instinct (UNCLEARED) [1\u2605]\nObtain a GM grade in 3.1 Mode.\n\nInsurmountable Terror (UNCLEARED) [1\u2605]\nObtain an S20 grade in 3.1 Mode.\n\nNever Hold Back [50\u2605]\nObtain an S13 grade in 3.1 Mode.\n\nDon't You Ever Stop [20\u2605]\nObtain an S10 grade in 3.1 Mode.\n\nThe Absolute Plus Plus (UNVALUED) [1\u2605]\nObtain a GM grade in 2.1 Mode.\n\nRedemption [10\u2605]\nReach Level 999 in 2.1 Mode.\n\nMaster from the Past Millenium [30\u2605]\nObtain a GM grade in 1.1 Mode.\n\nYOU AER TEN OF TEN (UNVALUED) [1\u2605]\nObtain a Ten of Ten grade in Normal Mode.\n\nHalf Full [30\u2605]\nObtain a Five of Ten grade in Normal Mode.",
             "community": 0,
             "communityText": "",
             "achievements": 34
@@ -106113,7 +106194,7 @@ var data =
         "updatedAt": "2025-10-02T19:03:36.000Z",
         "playersCompleted": 2,
         "playersStarted": 13,
-        "playersTotal": 72,
+        "playersTotal": 73,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -106598,8 +106679,8 @@ var data =
         "createdAt": "2023-04-12T21:23:46.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 135,
-        "playersStarted": 42,
-        "playersTotal": 831,
+        "playersStarted": 43,
+        "playersTotal": 832,
         "priceData": {
             "USD": {
                 "initial": 499,
@@ -107175,7 +107256,7 @@ var data =
         "updatedAt": "2025-12-17T19:09:24.000Z",
         "playersCompleted": 33,
         "playersStarted": 148,
-        "playersTotal": 770,
+        "playersTotal": 771,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -108788,7 +108869,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 0,
         "playersStarted": 4,
-        "playersTotal": 47,
+        "playersTotal": 48,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -108841,11 +108922,12 @@ var data =
             "Family Friendly",
             "Singleplayer",
             "Fantasy",
-            "Combat",
             "Controller",
+            "Combat",
             "Indie",
             "Multiplayer",
-            "Platformer"
+            "Platformer",
+            "Co-op"
         ],
         "languages": {
             "english": "IAS",
@@ -110339,9 +110421,9 @@ var data =
         "points": 5,
         "createdAt": "2023-01-05T09:09:55.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 38,
+        "playersCompleted": 39,
         "playersStarted": 0,
-        "playersTotal": 102,
+        "playersTotal": 103,
         "priceData": {
             "USD": {
                 "initial": 2499,
@@ -111045,7 +111127,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 71,
         "playersStarted": 12,
-        "playersTotal": 1061,
+        "playersTotal": 1062,
         "priceData": {
             "USD": {
                 "initial": 1499,
@@ -111105,7 +111187,7 @@ var data =
             "Retro",
             "Puzzle",
             "Strategy",
-            "Roguelike"
+            "Casual"
         ],
         "languages": {
             "english": "IS",
@@ -112732,11 +112814,11 @@ var data =
         "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877170/header.jpg?t=1759550611",
         "genre": "Bullet Hell",
         "tier": 3,
-        "points": 45,
+        "points": 40,
         "createdAt": "2025-12-15T23:42:33.000Z",
-        "updatedAt": "2025-12-16T16:53:45.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 3,
+        "updatedAt": "2025-12-31T05:31:50.000Z",
+        "playersCompleted": 3,
+        "playersStarted": 2,
         "playersTotal": 11,
         "priceData": {
             "USD": {
@@ -112772,7 +112854,7 @@ var data =
         },
         "milestones": {
             "primary": 4,
-            "primaryText": "Eternal Night [25\u2605]\nGet a 1CC on Ultra difficulty.\n\nTwin Skies of Heaven [10\u2605]\nClear the Extra Ultimate mode with any character.\n\nStarry Meeting [5\u2605]\nBeat the Extra mode without dying. / Capture all spellcards in the Extra mode.\n\nThe Clock Hastens [5\u2605]\nGet a 1CC on Lunatic difficulty or higher.",
+            "primaryText": "Eternal Night [25\u2605]\nGet a 1CC on Ultra difficulty.\n\nTwin Skies of Heaven [5\u2605]\nClear the Extra Ultimate mode with any character.\n\nStarry Meeting [5\u2605]\nBeat the Extra mode without dying. / Capture all spellcards in the Extra mode.\n\nThe Clock Hastens [5\u2605]\nGet a 1CC on Lunatic difficulty or higher.",
             "community": 2,
             "communityText": "Angled Devil\nClear the Extra Ultimate mode without dying, bombing. breaking borders and manually hypering.\n\nImperishable Naught\nBeat the game on Ultra difficulty without dying, bombing. breaking borders and manually hypering.",
             "achievements": 21
@@ -113127,8 +113209,8 @@ var data =
         "createdAt": "2025-08-28T07:22:40.000Z",
         "updatedAt": "2025-09-14T05:09:46.000Z",
         "playersCompleted": 6,
-        "playersStarted": 3,
-        "playersTotal": 74,
+        "playersStarted": 4,
+        "playersTotal": 75,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -113261,8 +113343,8 @@ var data =
             "Co-op",
             "Arcade",
             "Controller",
-            "Adventure",
             "Fighting",
+            "Adventure",
             "Retro",
             "Party Game",
             "Great Soundtrack",
@@ -113881,7 +113963,7 @@ var data =
         "points": 5,
         "createdAt": "2022-03-26T22:50:03.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 33,
+        "playersCompleted": 34,
         "playersStarted": 0,
         "playersTotal": 67,
         "priceData": {
@@ -114361,7 +114443,7 @@ var data =
         "updatedAt": "2025-10-26T18:28:40.000Z",
         "playersCompleted": 12,
         "playersStarted": 32,
-        "playersTotal": 223,
+        "playersTotal": 224,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -114605,7 +114687,7 @@ var data =
         "updatedAt": "2025-10-30T03:55:14.000Z",
         "playersCompleted": 6,
         "playersStarted": 47,
-        "playersTotal": 322,
+        "playersTotal": 323,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -115111,7 +115193,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 132,
         "playersStarted": 0,
-        "playersTotal": 277,
+        "playersTotal": 278,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -115980,8 +116062,8 @@ var data =
             "Local Multiplayer",
             "Casual",
             "Minigames",
-            "Great Soundtrack",
             "Puzzle",
+            "Great Soundtrack",
             "2D Platformer",
             "Platformer",
             "Roguelike",
@@ -116758,7 +116840,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 535,
+        "playersTotal": 536,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -116903,8 +116985,8 @@ var data =
             "Co-op",
             "Puzzle Platformer",
             "Beautiful",
-            "Multiplayer",
             "Great Soundtrack",
+            "Multiplayer",
             "Side Scroller",
             "Cute",
             "Indie",
@@ -117018,7 +117100,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 112,
+        "playersTotal": 113,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -119982,8 +120064,8 @@ var data =
             "Sci-fi",
             "Wargame",
             "Singleplayer",
-            "War",
             "3D",
+            "War",
             "Space",
             "Fantasy",
             "Narration",
@@ -120024,7 +120106,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 5,
         "playersStarted": 1,
-        "playersTotal": 613,
+        "playersTotal": 616,
         "priceData": {
             "USD": {
                 "initial": 2999,
@@ -120892,9 +120974,9 @@ var data =
         "points": 5,
         "createdAt": "2023-12-04T02:03:09.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 5,
+        "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 20,
+        "playersTotal": 21,
         "priceData": {
             "USD": {
                 "initial": 399,
@@ -121299,7 +121381,7 @@ var data =
         "updatedAt": "2025-10-21T04:30:12.000Z",
         "playersCompleted": 7,
         "playersStarted": 11,
-        "playersTotal": 55,
+        "playersTotal": 56,
         "priceData": {
             "USD": {
                 "initial": 1999,
@@ -121966,7 +122048,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 86,
         "playersStarted": 0,
-        "playersTotal": 581,
+        "playersTotal": 582,
         "priceData": {
             "USD": {
                 "initial": 1599,
@@ -122020,8 +122102,8 @@ var data =
             "Co-op",
             "Indie",
             "Local Multiplayer",
-            "Difficult",
             "Hack and Slash",
+            "Difficult",
             "2D",
             "Singleplayer",
             "RPG",
@@ -122191,8 +122273,8 @@ var data =
             "Violent",
             "First-Person",
             "Shooter",
-            "World War II",
             "Story Rich",
+            "World War II",
             "Nudity",
             "Stealth",
             "Sci-fi",
@@ -126587,7 +126669,8 @@ var data =
             "Female Protagonist",
             "Singleplayer",
             "2D",
-            "Arcade"
+            "Arcade",
+            "Cute"
         ],
         "languages": {
             "english": "IS",
@@ -129479,7 +129562,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 6,
         "playersStarted": 18,
-        "playersTotal": 739,
+        "playersTotal": 741,
         "milestones": {
             "primary": 2,
             "primaryText": "What the Actual Muck? [10\u2605]\nSeparately, beat the game with all players using only a rock as their weapon and tool, and without picking up any power-ups (any difficulty). / Beat the game alone without taking damage on at least \u201cNormal\u201d difficulty. \n\nSwift Escape [5\u2605]\nBeat the game in less than 10 days on \"Gamer\" difficulty. / Beat the game in less than 8 days (any difficulty). ",
@@ -129886,7 +129969,7 @@ var data =
         "points": 5,
         "createdAt": "2022-11-12T17:36:24.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 73,
+        "playersCompleted": 74,
         "playersStarted": 0,
         "playersTotal": 358,
         "milestones": {
@@ -129991,7 +130074,7 @@ var data =
         "points": 5,
         "createdAt": "2020-01-28T03:59:52.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 86,
+        "playersCompleted": 87,
         "playersStarted": 0,
         "playersTotal": 279,
         "milestones": {
@@ -130484,7 +130567,7 @@ var data =
         "createdAt": "2023-11-10T05:20:15.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 10,
-        "playersStarted": 49,
+        "playersStarted": 50,
         "playersTotal": 408,
         "milestones": {
             "primary": 2,
@@ -131226,7 +131309,7 @@ var data =
         "updatedAt": "2025-10-21T05:32:43.000Z",
         "playersCompleted": 0,
         "playersStarted": 16,
-        "playersTotal": 514,
+        "playersTotal": 515,
         "milestones": {
             "primary": 9,
             "primaryText": "Trackmania: Race with your Friends (UNCLEARED) [1\u2605]\nObtain the author medal for tracks 18-25 in the official \"Platform Discovery\" campaign.\n\nDRVR (UNCLEARED) [1\u2605]\nObtain the gold medal for tracks 18-25 in the official \"Platform Discovery\" campaign.\n\nFour Wheel Guy [40\u2605]\nObtain the author medal on tracks 1-17, and finish tracks 18-25 in the official \"Platform Discovery\" campaign. (Ubisoft Nadeo)\n\nUrbs Digitalis (UNCLEARED) [1\u2605]\nObtain all 23 author medals on the official \"NEOCUPRA\" and \"Streamers Campaign\" tracks. (Cupra, Ubisoft Nadeo)\n\nSolstice [130\u2605]\nObtain all 200 author medals in the official seasonal campaigns for 2023 & 2024.\n\nEquinox [90\u2605]\nObtain all 250 author medals in the official seasonal campaigns for 2020, 2021, and 2022.\n\n N. ormal Trilogy [70\u2605]\nObtain all 65 author medals from the official Snow, Rally, and Desert Discovery campaigns. (Ubisoft Nadeo)\n\nUbisoft Cinematic Universe [15\u2605]\nObtain all 15 author medals on the official Hungry Shark, AC: Mirage, Laserhawk campaigns. (Ubisoft Club)\n\nTraining V2 [5\u2605]\nObtain the author medal for the first 20 \"Weekly Shorts\".",
@@ -131287,7 +131370,7 @@ var data =
         "createdAt": "2023-02-20T00:40:11.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
-        "playersStarted": 11,
+        "playersStarted": 12,
         "playersTotal": 558,
         "milestones": {
             "primary": 2,
@@ -131432,9 +131515,9 @@ var data =
             "Free to Play",
             "Horror",
             "Singleplayer",
+            "Survival Horror",
             "Difficult",
             "Robots",
-            "Survival Horror",
             "Strategy",
             "First-Person",
             "Survival",
@@ -131558,15 +131641,15 @@ var data =
         "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093940/header.jpg?t=1752489918",
         "genre": "Arcade",
         "tier": 6,
-        "points": 400,
+        "points": 460,
         "createdAt": "2024-03-19T18:22:07.000Z",
-        "updatedAt": "2025-12-18T17:53:01.000Z",
+        "updatedAt": "2025-12-31T03:30:32.000Z",
         "playersCompleted": 1,
         "playersStarted": 13,
-        "playersTotal": 426,
+        "playersTotal": 427,
         "milestones": {
-            "primary": 10,
-            "primaryText": "Virtual Supremacy [110\u2605]\nObtain a V rank on all 17+ and 18 songs across all difficulties.\n\nBreak the Loop [70\u2605]\nObtain a V rank on all classes and all level 16, 16+, and 17 songs across all difficulties, AND pass Horizon Class C1, C2 and D and below.\n\nChronostasis [60\u2605]\nObtain an SS rank on all level 17+ and 18 songs across all difficulties, AND pass Horizon Class B2 and below.\n\nFate Inversion [50\u2605]\nObtain an SS rank on Class 11, 12 and Omega, and all level 16+ and 17 songs across all difficulties, AND pass Horizon Class B1 and below.\n\nSaturday Night Fever [40\u2605]\nObtain an SS rank on Class 9 and 10 and all level 15, 15+, and 16 songs across all difficulties, AND pass Horizon Class A2 and below.\n\nVividology [30\u2605]\nObtain an SS rank on Class 6, 7, and 8 and all level 13, 13+, 14, and 14+ songs across all difficulties, AND pass Horizon Class A1.\n\nThe First Encore [20\u2605]\nObtain an SS rank on Class 4 and 5 and all level 11, 11+, 12 and 12+ songs across all difficulties.\n\nFinale Starting to Hurt [10\u2605]\nObtain an SS rank on Class 2 and 3 and all level 9, 9+, 10, and 10+ songs across all difficulties.\n\nPrecision Tuning [5\u2605]\nObtain an SS rank on Class 1 and all level 8 songs and below across all difficulties.\n\nInitialize the Sequence [5\u2605]\nObtain an S rank on all songs level 8 and below across all difficulties.",
+            "primary": 11,
+            "primaryText": "Limit Shatter [60\u2605]\nPass Horizon Class Kaiden.\n\nVirtual Supremacy [110\u2605]\nObtain a V rank on all 17+ and 18 songs across all difficulties.\n\nBreak the Loop [70\u2605]\nObtain a V rank on all classes and all level 16, 16+, and 17 songs across all difficulties, AND pass Horizon Class C1, C2 and D and below.\n\nChronostasis [60\u2605]\nObtain an SS rank on all level 17+ and 18 songs across all difficulties, AND pass Horizon Class B2 and below.\n\nFate Inversion [50\u2605]\nObtain an SS rank on Class 11, 12 and Omega, and all level 16+ and 17 songs across all difficulties, AND pass Horizon Class B1 and below.\n\nSaturday Night Fever [40\u2605]\nObtain an SS rank on Class 9 and 10 and all level 15, 15+, and 16 songs across all difficulties, AND pass Horizon Class A2 and below.\n\nVividology [30\u2605]\nObtain an SS rank on Class 6, 7, and 8 and all level 13, 13+, 14, and 14+ songs across all difficulties, AND pass Horizon Class A1.\n\nThe First Encore [20\u2605]\nObtain an SS rank on Class 4 and 5 and all level 11, 11+, 12 and 12+ songs across all difficulties.\n\nFinale Starting to Hurt [10\u2605]\nObtain an SS rank on Class 2 and 3 and all level 9, 9+, 10, and 10+ songs across all difficulties.\n\nPrecision Tuning [5\u2605]\nObtain an SS rank on Class 1 and all level 8 songs and below across all difficulties.\n\nInitialize the Sequence [5\u2605]\nObtain an S rank on all songs level 8 and below across all difficulties.",
             "community": 10,
             "communityText": "Beyond Comprehension (S)\nObtain a VS rank on all songs in Boundary Shatter. (May be split into multiple objectives)\n\nCritical Eye (S)\nObtain a VS rank on all songs between level 15 and 16+ on Finale and Encore (whichever version of the song is harder).\n\nEnduring Perfectionist (S)\nObtain a VS rank on all Classes in Course Mode.\n\nOnce More (S)\nObtain an AC on all level 17 songs across all difficulties.\n\nPerfection Tuning (S)\nObtain a VS rank on all songs between level 9+ and 12+ on Finale and Encore (whichever version of the song is harder).\n\nResurrection (S)\nObtain a VS rank on all songs between level 13 and 14+ on Finale and Encore (whichever version of the song is harder).\n\nShattering Expectations (S)\nObtain an SS rank on all songs in Boundary Shatter. (May be split into multiple objectives)\n\nTwice More (S)\nObtain an AC on all level 17+ and 18 songs across all difficulties.\n\nUltimation (S)\nObtain a VS rank on all level 17 songs on Finale and Encore.\n\nVivid Stasis (S)\nObtain a VS rank on all level 17+ and 18 songs on Finale and Encore.",
             "achievements": 48
@@ -131789,7 +131872,7 @@ var data =
         "updatedAt": "2025-09-08T23:40:11.000Z",
         "playersCompleted": 18,
         "playersStarted": 0,
-        "playersTotal": 291,
+        "playersTotal": 292,
         "milestones": {
             "primary": 1,
             "primaryText": "His Name is Yakuza [15\u2605]\nComplete the main story on Legend difficulty. / Complete all Climax Battles. / Achieve the goal of the following arcade minigames: Space Harrier, Out Run, Fantasy Zone, Super Hang-On.",
@@ -133258,6 +133341,37 @@ var data =
             "achievements": 30
         },
         "information": "The minigames missing from this PO can be found in the 4th edition of this franchise."
+    },
+    {
+        "gameType": 3,
+        "platformId": 6533,
+        "CEId": "0f4880f0-2607-49d4-bac9-ce4568475e6e",
+        "name": "Game & Watch Gallery 3",
+        "header": "https://media.retroachievements.org/Images/014520.png",
+        "genre": "Arcade",
+        "tier": 1,
+        "points": 11,
+        "createdAt": "2024-05-23T05:53:09.000Z",
+        "updatedAt": "2025-12-31T05:08:44.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 0,
+        "playersTotal": 2,
+        "gameTags": [
+            "Compilation"
+        ],
+        "consoleData": {
+            "name": "Game Boy Color",
+            "family": "Nintendo",
+            "icon": "https://static.retroachievements.org/assets/images/system/gbc.png"
+        },
+        "milestones": {
+            "primary": 2,
+            "primaryText": "A Bridge Too Far (UNCLEARED) [1\u2605]\nGet 5 stars on the hard versions of Donkey Kong II and Classic Turtle Bridge.\n\nOdds and Ends [10\u2605]\nGet 5 stars on the hard versions of Modern Turtle Bridge, Classic & Modern Greenhouse, Modern Egg, Flagman, Spitball Sparky and Lion.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 42
+        },
+        "information": "The minigames absent from this games  PO's can be found in the 4th edition of this series of games. They will be valued there instead."
     },
     {
         "gameType": 3,
@@ -136321,11 +136435,11 @@ var data =
 ]
 var date =
 {
-    "day": 30,
+    "day": 31,
     "month": 12,
     "year": 2025,
     "hour": 8,
     "minute": 32,
-    "second": 9,
-    "searchTime": 864.5363442897797
+    "second": 28,
+    "searchTime": 859.8634819984436
 }
