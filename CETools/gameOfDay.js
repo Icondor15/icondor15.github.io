@@ -2,88 +2,91 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 762610,
-        "CEId": "28bc683e-8ead-4eff-acc8-5f0cef84e27b",
-        "name": "Russian Subway Dogs",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/762610/header.jpg?t=1632861952",
-        "genre": "Arcade",
-        "tier": 1,
-        "points": 15,
-        "createdAt": "2021-12-31T18:22:54.000Z",
+        "platformId": 465200,
+        "CEId": "d41ad53d-5994-4092-80ea-6172ab8fed8f",
+        "name": "Fury Unleashed",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/465200/header.jpg?t=1637835354",
+        "genre": "Action",
+        "tier": 3,
+        "points": 50,
+        "createdAt": "2022-01-01T20:04:43.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 8,
+        "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 28,
+        "playersTotal": 370,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 449,
-                "discountPercent": 70
+                "initial": 1999,
+                "final": 199,
+                "discountPercent": 90
             },
             "EUR": {
-                "initial": 1479,
-                "final": 443,
-                "discountPercent": 70
+                "initial": 1950,
+                "final": 195,
+                "discountPercent": 90
             },
             "GBP": {
-                "initial": 1279,
-                "final": 383,
-                "discountPercent": 70
+                "initial": 1675,
+                "final": 167,
+                "discountPercent": 90
             },
             "JPY": {
-                "initial": 170000,
-                "final": 51000,
-                "discountPercent": 70
+                "initial": 230000,
+                "final": 23000,
+                "discountPercent": 90
             },
             "AUD": {
-                "initial": 2195,
-                "final": 658,
-                "discountPercent": 70
+                "initial": 2950,
+                "final": 295,
+                "discountPercent": 90
             },
             "CAD": {
-                "initial": 1949,
-                "final": 584,
-                "discountPercent": 70
+                "initial": 2599,
+                "final": 259,
+                "discountPercent": 90
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Proletariat Puprising [15\u2605]\nProve yourself.",
+            "primaryText": "Comically Good [50\u2605]\nSeparately, clear Legendary mode and clear the game without breaking your combo.",
             "community": 0,
             "communityText": "",
-            "achievements": 37
+            "achievements": 47
         },
         "gameTags": [
-            "Dog",
-            "Cats",
-            "Cute",
-            "Score Attack",
-            "2D",
-            "Pixel Graphics",
-            "Funny",
+            "Local Co-Op",
+            "Combat",
+            "Multiplayer",
             "Action",
-            "Arcade",
-            "Retro",
+            "Replay Value",
+            "Roguelike",
+            "Fast-Paced",
+            "Difficult",
+            "Online Co-Op",
             "Old School",
-            "Trains",
-            "Memes",
-            "Electronic Music",
-            "Singleplayer",
+            "Platformer",
+            "Shooter",
+            "2D Platformer",
+            "Local Multiplayer",
+            "2D",
+            "Perma Death",
+            "Roguelite",
+            "Co-op",
             "Side Scroller",
-            "Indie",
-            "Soundtrack",
-            "Experimental",
-            "Controller"
+            "Adventure"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "japanese": "I",
-            "brazilian": "I",
-            "latam": "I",
-            "russian": "I"
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IAS",
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS"
         }
     }
 }
-var gameOfDayDate = '2025-12-31'
+var gameOfDayDate = '2026-01-01'
