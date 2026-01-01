@@ -2148,9 +2148,9 @@ var masoData =
         "description": "\u2733 Not playing RITE is wrong.",
         "tier": "2",
         "owners": 94,
-        "completions": 75,
-        "playtime": 10.251555555555555,
-        "newestCompletion": "2025-10-16T09:07:00.000Z"
+        "completions": 76,
+        "playtime": 10.205263157894738,
+        "newestCompletion": "2026-01-01T01:19:30.000Z"
     },
     "940710": {
         "description": "\u272a Yippee-ki-yay, Motherf****",
@@ -2212,9 +2212,9 @@ var masoData =
         "description": "Sponsored by PETA",
         "tier": "1",
         "owners": 37,
-        "completions": 8,
-        "playtime": 7.043749999999999,
-        "newestCompletion": "2025-12-05T21:42:46.000Z"
+        "completions": 9,
+        "playtime": 7.079629629629629,
+        "newestCompletion": "2025-12-31T15:00:23.000Z"
     },
     "1056690": {
         "description": "\u2606 Gatorade wanted nothing to do with this",
@@ -4344,9 +4344,9 @@ var masoData =
         "description": "\u272a Tier 4",
         "tier": "4",
         "owners": 16,
-        "completions": 1,
-        "playtime": 67.9,
-        "newestCompletion": "2025-12-11T18:05:25.000Z"
+        "completions": 2,
+        "playtime": 76.15,
+        "newestCompletion": "2026-01-01T05:17:47.000Z"
     },
     "2702490": {
         "description": "\u2733 An old classic in a fresh light",
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 25,
+        "owners": 26,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
@@ -4523,7 +4523,7 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 9,
+        "owners": 10,
         "completions": 2,
         "playtime": 12.366666666666667,
         "newestCompletion": "2023-10-17T00:30:44.000Z"
@@ -4547,7 +4547,7 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 10,
+        "owners": 11,
         "completions": 6,
         "playtime": 11.963888888888889,
         "newestCompletion": "2025-11-21T01:49:56.000Z"
