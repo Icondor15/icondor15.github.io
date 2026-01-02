@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 227,
         "completions": 64,
-        "playtime": 61.87552083333332,
+        "playtime": 61.97343749999998,
         "newestCompletion": "2025-03-20T18:42:44.000Z"
     },
     "317710": {
@@ -2571,10 +2571,10 @@ var masoData =
     "1250440": {
         "description": "WARNING: Consumption will cause death",
         "tier": "1",
-        "owners": 22,
-        "completions": 13,
-        "playtime": 8.126923076923077,
-        "newestCompletion": "2024-07-18T04:28:09.000Z"
+        "owners": 23,
+        "completions": 14,
+        "playtime": 8.345238095238097,
+        "newestCompletion": "2025-12-26T10:31:10.000Z"
     },
     "1205170": {
         "description": "\u2606 Challenge attracts rage.",
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 26,
+        "owners": 27,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
