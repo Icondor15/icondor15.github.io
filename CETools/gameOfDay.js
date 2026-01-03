@@ -2,85 +2,93 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1489410,
-        "CEId": "4f672da8-31d4-4825-b12b-6c62872c7920",
-        "name": "Alice Escaped!",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1489410/header.jpg?t=1728605119",
-        "genre": "Action",
-        "tier": 1,
-        "points": 5,
-        "createdAt": "2025-01-02T07:10:48.000Z",
+        "platformId": 292730,
+        "CEId": "1656ddad-ea26-4229-b104-9454a166b84b",
+        "name": "Call of Duty\u00ae: Infinite Warfare",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292730/header.jpg?t=1646764561",
+        "genre": "First-Person",
+        "tier": 4,
+        "points": 85,
+        "createdAt": "2025-01-03T17:49:45.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 10,
-        "playersStarted": 0,
-        "playersTotal": 22,
+        "playersCompleted": 1,
+        "playersStarted": 11,
+        "playersTotal": 46,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1199,
-                "discountPercent": 40
+                "initial": 5999,
+                "final": 1979,
+                "discountPercent": 67
             },
             "EUR": {
-                "initial": 1950,
-                "final": 1170,
-                "discountPercent": 40
+                "initial": 5999,
+                "final": 1979,
+                "discountPercent": 67
             },
             "GBP": {
-                "initial": 1675,
-                "final": 1005,
-                "discountPercent": 40
+                "initial": 3999,
+                "final": 1319,
+                "discountPercent": 67
             },
             "JPY": {
-                "initial": 198000,
-                "final": 118800,
-                "discountPercent": 40
+                "initial": 899000,
+                "final": 296600,
+                "discountPercent": 67
             },
             "AUD": {
-                "initial": 2950,
-                "final": 1770,
-                "discountPercent": 40
+                "initial": 9595,
+                "final": 3166,
+                "discountPercent": 67
             },
             "CAD": {
-                "initial": 2599,
-                "final": 1559,
-                "discountPercent": 40
+                "initial": 7999,
+                "final": 2639,
+                "discountPercent": 67
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Mini-Ribi [5\u2605]\nDefeat Alice Within 40 Minutes / Defeat Grimoire Cheshire Cat Without Obtaining Guard Master",
+            "primary": 2,
+            "primaryText": "Peace to the Fallen [70\u2605]\nComplete a Campaign run on #YOLO difficulty.\n\nBoots Over Sky[15\u2605 (Partial: 5\u2605)]\nComplete all missions on Veteran. / Complete a Campaign run on Specialist difficulty.",
             "community": 0,
             "communityText": "",
-            "achievements": 29
+            "achievements": 88
         },
         "gameTags": [
-            "Atmospheric",
-            "Adventure",
-            "Platformer",
-            "Metroidvania",
-            "Cute",
-            "Story Rich",
-            "2D",
-            "Fantasy",
-            "Spectacle fighter",
-            "Female Protagonist",
-            "Nature",
-            "Action-Adventure",
-            "Difficult",
-            "Hack and Slash",
-            "Anime",
             "Action",
-            "Colorful",
-            "Dark",
-            "Combat",
-            "Singleplayer"
+            "FPS",
+            "Multiplayer",
+            "Zombies",
+            "Futuristic",
+            "Space",
+            "Shooter",
+            "Hero Shooter",
+            "First-Person",
+            "Singleplayer",
+            "Sci-fi",
+            "Robots",
+            "Adventure",
+            "Story Rich",
+            "Quick-Time Events",
+            "Atmospheric",
+            "War",
+            "Great Soundtrack",
+            "Co-op",
+            "Post-apocalyptic"
         ],
         "languages": {
-            "english": "IS",
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
             "japanese": "IS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
+            "koreana": "IS",
+            "polish": "IAS",
+            "russian": "IAS",
             "schinese": "IS",
             "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-01-02'
+var gameOfDayDate = '2026-01-03'
