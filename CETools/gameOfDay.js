@@ -2,93 +2,82 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 292730,
-        "CEId": "1656ddad-ea26-4229-b104-9454a166b84b",
-        "name": "Call of Duty\u00ae: Infinite Warfare",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292730/header.jpg?t=1646764561",
-        "genre": "First-Person",
-        "tier": 4,
-        "points": 85,
-        "createdAt": "2025-01-03T17:49:45.000Z",
+        "platformId": 603530,
+        "CEId": "551f7196-16a5-4d4d-bd2a-c0afbeccbf16",
+        "name": "A Robot Named Fight!",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/603530/header.jpg?t=1666986913",
+        "genre": "Action",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2023-01-04T08:59:22.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 1,
-        "playersStarted": 11,
-        "playersTotal": 46,
+        "playersCompleted": 5,
+        "playersStarted": 0,
+        "playersTotal": 86,
         "priceData": {
             "USD": {
-                "initial": 5999,
-                "final": 1979,
-                "discountPercent": 67
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 5999,
-                "final": 1979,
-                "discountPercent": 67
+                "initial": 1279,
+                "final": 1279,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 3999,
-                "final": 1319,
-                "discountPercent": 67
+                "initial": 1099,
+                "final": 1099,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 899000,
-                "final": 296600,
-                "discountPercent": 67
+                "initial": 150000,
+                "final": 150000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 9595,
-                "final": 3166,
-                "discountPercent": 67
+                "initial": 1895,
+                "final": 1895,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 7999,
-                "final": 2639,
-                "discountPercent": 67
+                "initial": 1699,
+                "final": 1699,
+                "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Peace to the Fallen [70\u2605]\nComplete a Campaign run on #YOLO difficulty.\n\nBoots Over Sky[15\u2605 (Partial: 5\u2605)]\nComplete all missions on Veteran. / Complete a Campaign run on Specialist difficulty.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 88
+            "primaryText": "Super Meatroid [15\u2605]\nComplete the game with a completion rate of less than 15%. / Defeat the MegaBeast Core with a completion rate of 100% in under 60 minutes.\n\nSuper Fighting Robot [5\u2605]\nComplete Mega Map. / Complete the boss rush. / Complete Exterminator.",
+            "community": 2,
+            "communityText": "Hoover Flags\nComplete the game with a completion rate of 0% without using The Thief.\n\nPoorly Prepared\nComplete the game with a completion rate of less than 15%, without using The Thief.",
+            "achievements": 84
         },
         "gameTags": [
+            "Metroidvania",
+            "Roguevania",
+            "Action Roguelike",
             "Action",
-            "FPS",
-            "Multiplayer",
-            "Zombies",
-            "Futuristic",
-            "Space",
-            "Shooter",
-            "Hero Shooter",
-            "First-Person",
-            "Singleplayer",
-            "Sci-fi",
+            "Roguelite",
+            "Indie",
+            "Gore",
+            "Violent",
+            "Platformer",
+            "Pixel Graphics",
+            "Procedural Generation",
+            "2D",
+            "Retro",
             "Robots",
-            "Adventure",
-            "Story Rich",
-            "Quick-Time Events",
-            "Atmospheric",
-            "War",
-            "Great Soundtrack",
-            "Co-op",
-            "Post-apocalyptic"
+            "Roguelike",
+            "Local Co-Op",
+            "Local Multiplayer",
+            "4 Player Local",
+            "Nonlinear",
+            "Split Screen"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IAS",
-            "german": "IAS",
-            "italian": "IAS",
-            "japanese": "IS",
-            "spanish": "IAS",
-            "brazilian": "IAS",
-            "koreana": "IS",
-            "polish": "IAS",
-            "russian": "IAS",
-            "schinese": "IS",
-            "tchinese": "IS"
+            "english": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-01-03'
+var gameOfDayDate = '2026-01-04'
