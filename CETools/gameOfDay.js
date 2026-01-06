@@ -2,91 +2,91 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 335300,
-        "CEId": "0a7ffb40-c98b-4478-a42e-2fce0cd90d95",
-        "name": "DARK SOULS\u2122 II: Scholar of the First Sin",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/335300/header.jpg?t=1666717194",
-        "genre": "Action",
-        "tier": 2,
-        "points": 30,
-        "createdAt": "2023-01-05T08:39:03.000Z",
+        "platformId": 1256060,
+        "CEId": "d123c8a9-a9bb-4360-8666-1ce84c046f4a",
+        "name": "Cosmodread",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1256060/header.jpg?t=1620726395",
+        "genre": "First-Person",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2024-01-06T17:54:27.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 9,
-        "playersStarted": 258,
-        "playersTotal": 600,
+        "playersCompleted": 1,
+        "playersStarted": 0,
+        "playersTotal": 2,
         "priceData": {
             "USD": {
-                "initial": 3999,
-                "final": 3999,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 3999,
-                "final": 3999,
+                "initial": 1249,
+                "final": 1249,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 1139,
+                "final": 1139,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 572000,
-                "final": 572000,
+                "initial": 152000,
+                "final": 152000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 5695,
-                "final": 5695,
+                "initial": 2150,
+                "final": 2150,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 5349,
-                "final": 5349,
+                "initial": 1749,
+                "final": 1749,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 4,
-            "primaryText": "Dark Conqueror [10\u2605]\nBeat the game without dying.\n\nExalted Soul [5\u2605]\nBeat the game without resting at a bonfire.\n\nCrown of the Fallen [5\u2605]\nDefeat all bosses in all of the three DLCs.\n\nBearer of the Curse [10\u2605]\nBeat the game.",
-            "community": 4,
-            "communityText": "Dark Child of the Outlands\nBeat the game on NG+7.\n\nDeprived For Life\nBeat the game at soul level 1.\n\nPop No Hits, Vol. 2\nBeat the game without getting hit (see the proof requirement below).\n\nRestless Soul \nBeat the game without dying or resting at a bonfire on a solo NG savefile.",
-            "achievements": 38
+            "primary": 1,
+            "primaryText": "Astrophobia [5\u2605]\nEscape the spaceship and beat the game.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 0
         },
         "gameTags": [
-            "Souls-like",
-            "Dark Fantasy",
-            "RPG",
-            "Difficult",
-            "Action",
-            "Third Person",
+            "VR",
+            "Survival Horror",
+            "Sci-fi",
             "Atmospheric",
-            "Action RPG",
-            "Character Customization",
-            "Co-op",
-            "Multiplayer",
+            "Perma Death",
+            "Survival",
+            "Horror",
+            "Action",
             "Adventure",
-            "Fantasy",
-            "Medieval",
-            "Dark",
+            "Roguelike",
+            "Procedural Generation",
+            "Gore",
+            "Space",
             "Singleplayer",
-            "Lore-Rich",
-            "Story Rich",
-            "PvP",
-            "Remake"
+            "Immersive",
+            "Roguelite",
+            "Difficult",
+            "Indie",
+            "Strategy",
+            "Real-Time"
         ],
         "languages": {
             "english": "IAS",
             "french": "IS",
             "german": "IS",
             "italian": "IS",
+            "japanese": "IS",
             "spanish": "IS",
-            "brazilian": "IS",
             "koreana": "IS",
-            "polish": "IS",
             "russian": "IS",
-            "tchinese": "IS"
-        }
+            "schinese": "IS"
+        },
+        "information": "This game requires a VR headset in order to play."
     }
 }
-var gameOfDayDate = '2026-01-05'
+var gameOfDayDate = '2026-01-06'
