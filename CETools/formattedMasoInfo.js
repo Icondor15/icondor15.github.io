@@ -647,7 +647,7 @@ var masoData =
     "302610": {
         "description": "This guy needs a fat bonus from his boss",
         "tier": "1",
-        "owners": 73,
+        "owners": 74,
         "completions": 66,
         "playtime": 7.215909090909091,
         "newestCompletion": "2025-12-06T22:45:18.000Z"
@@ -1964,9 +1964,9 @@ var masoData =
         "description": "This is not soundodger",
         "tier": "1",
         "owners": 15,
-        "completions": 13,
-        "playtime": 3.476923076923078,
-        "newestCompletion": "2025-02-20T23:37:42.000Z"
+        "completions": 14,
+        "playtime": 3.408333333333334,
+        "newestCompletion": "2026-01-07T14:10:07.000Z"
     },
     "915850": {
         "description": "\u2606 Pretend you\"re a ball, because you\"re about to get rolled",
@@ -2691,7 +2691,7 @@ var masoData =
     "1486630": {
         "description": "\u2733 Splinter Cell Miami",
         "tier": "2",
-        "owners": 119,
+        "owners": 120,
         "completions": 9,
         "playtime": 20.196296296296296,
         "newestCompletion": "2025-12-19T20:32:40.000Z"
@@ -2795,7 +2795,7 @@ var masoData =
     "1225570": {
         "description": "\u2733 This is getting out of hand. Now, there are two of them!",
         "tier": "2",
-        "owners": 46,
+        "owners": 47,
         "completions": 4,
         "playtime": 21.97083333333333,
         "newestCompletion": "2023-04-14T01:49:04.000Z"
@@ -3543,7 +3543,7 @@ var masoData =
     "1442170": {
         "description": "\u2733 360 no scope, but fast",
         "tier": "2",
-        "owners": 33,
+        "owners": 34,
         "completions": 14,
         "playtime": 29.94880952380953,
         "newestCompletion": "2024-12-18T04:49:04.000Z",
