@@ -2,88 +2,79 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1781260,
-        "CEId": "b7ff0ee7-713d-41bb-ad03-c4956e50eff6",
-        "name": "Promenade",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1781260/header.jpg?t=1715691133",
+        "platformId": 1565880,
+        "CEId": "ab92f2e1-1a6a-4c0c-91f4-e53079c36c41",
+        "name": "Turbo Shell",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1565880/header.jpg?t=1684854029",
         "genre": "Platformer",
-        "tier": 1,
-        "points": 10,
-        "createdAt": "2025-01-07T22:10:47.000Z",
+        "tier": 2,
+        "points": 25,
+        "createdAt": "2024-01-08T13:03:00.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 1,
+        "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 9,
+        "playersTotal": 12,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "initial": 1199,
+                "final": 179,
+                "discountPercent": 85
             },
             "EUR": {
-                "initial": 1950,
-                "final": 1950,
-                "discountPercent": 0
+                "initial": 1199,
+                "final": 179,
+                "discountPercent": 85
             },
             "GBP": {
-                "initial": 1675,
-                "final": 1675,
-                "discountPercent": 0
+                "initial": 999,
+                "final": 149,
+                "discountPercent": 85
             },
             "JPY": {
-                "initial": 230000,
-                "final": 230000,
-                "discountPercent": 0
+                "initial": 140000,
+                "final": 21000,
+                "discountPercent": 85
             },
             "AUD": {
-                "initial": 2950,
-                "final": 2950,
-                "discountPercent": 0
+                "initial": 1775,
+                "final": 266,
+                "discountPercent": 85
             },
             "CAD": {
-                "initial": 2599,
-                "final": 2599,
-                "discountPercent": 0
+                "initial": 1549,
+                "final": 232,
+                "discountPercent": 85
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Not Cogged Down [10\u2605]\nBeat game in 2h30m or less. / Beat ALL the developers times in time trials. / Climb the mountain without falling. / Beat the Comedian's Lair without taking damage. / Collect at least 26 cog fragments without acquiring the Omnihook. / Enter the spaceship before acquiring the Omnihook.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 43
+            "primary": 2,
+            "primaryText": "Cracked [15\u2605]\nObtain all S ranks on Nightmare difficulty.\n\nShell Shocked [10\u2605]\nBeat all levels on Hard difficulty.",
+            "community": 1,
+            "communityText": "Fried to a Crisp\nObtain an S rank on all difficulties. ",
+            "achievements": 21
         },
         "gameTags": [
-            "Adventure",
-            "Cute",
-            "Platformer",
-            "Exploration",
-            "Collectathon",
-            "Singleplayer",
-            "Family Friendly",
+            "Precision Platformer",
+            "2D Platformer",
             "Action",
-            "Colorful",
-            "Casual",
-            "Puzzle Platformer",
-            "Funny",
-            "Puzzle",
-            "Action-Adventure",
-            "Atmospheric",
-            "Cartoony",
-            "Controller",
-            "Retro",
-            "Metroidvania",
-            "2D Platformer"
+            "Pixel Graphics",
+            "Space",
+            "Sci-fi",
+            "Singleplayer",
+            "2D",
+            "Platformer",
+            "Indie",
+            "Fast-Paced",
+            "Difficult"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IAS",
-            "german": "IAS",
-            "italian": "IAS",
-            "japanese": "IAS",
-            "spanish": "IAS",
-            "schinese": "IAS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I",
+            "ukrainian": "I"
         }
     }
 }
-var gameOfDayDate = '2026-01-07'
+var gameOfDayDate = '2026-01-08'
