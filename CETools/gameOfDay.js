@@ -2,94 +2,71 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 644830,
-        "CEId": "40849373-5f26-4115-93eb-e2645185480f",
-        "name": "The Surge 2",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/644830/header.jpg?t=1663148861",
-        "genre": "Action",
+        "platformId": 305920,
+        "CEId": "3526a048-f080-4640-951c-278a0e7a9223",
+        "name": "Another Perspective",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/305920/header.jpg?t=1559587042",
+        "genre": "Platformer",
         "tier": 1,
         "points": 5,
-        "createdAt": "2023-01-09T05:37:27.000Z",
+        "createdAt": "2022-01-10T21:02:39.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 17,
+        "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 229,
+        "playersTotal": 76,
         "priceData": {
             "USD": {
-                "initial": 2999,
-                "final": 299,
-                "discountPercent": 90
+                "initial": 599,
+                "final": 599,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 2999,
-                "final": 299,
-                "discountPercent": 90
+                "initial": 599,
+                "final": 599,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 2499,
-                "final": 249,
-                "discountPercent": 90
+                "initial": 499,
+                "final": 499,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 498000,
-                "final": 49800,
-                "discountPercent": 90
+                "initial": 59800,
+                "final": 59800,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 4495,
-                "final": 449,
-                "discountPercent": 90
+                "initial": 879,
+                "final": 879,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 3999,
-                "final": 399,
-                "discountPercent": 90
+                "initial": 649,
+                "final": 649,
+                "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Surge Harder [5\u2605]\nBeat the final boss of the base game.",
+            "primaryText": "Another Puzzle Platformer Speedrun [5\u2605]\nComplete the game in under 12 minutes.",
             "community": 0,
             "communityText": "",
-            "achievements": 57
+            "achievements": 8
         },
         "gameTags": [
-            "Souls-like",
-            "RPG",
-            "Action",
-            "Open World",
-            "Sci-fi",
-            "Violent",
-            "Difficult",
-            "Singleplayer",
-            "Third Person",
-            "Cyberpunk",
-            "Character Customization",
-            "Multiplayer",
-            "Gore",
-            "Mechs",
-            "Hack and Slash",
-            "Action RPG",
-            "Robots",
-            "Female Protagonist",
-            "Story Rich",
-            "Co-op"
+            "Indie",
+            "Adventure",
+            "Platformer",
+            "Puzzle",
+            "2D",
+            "Puzzle Platformer",
+            "GameMaker"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "german": "IAS",
+            "english": "IS",
             "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IS",
-            "czech": "IS",
-            "koreana": "IS",
-            "polish": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "tchinese": "IS"
+            "spanish": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-01-09'
+var gameOfDayDate = '2026-01-10'
