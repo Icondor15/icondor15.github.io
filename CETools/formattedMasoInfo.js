@@ -183,7 +183,7 @@ var masoData =
     "268910": {
         "description": "The Dark Souls of Platform Games",
         "tier": "1",
-        "owners": 185,
+        "owners": 186,
         "completions": 91,
         "playtime": 41.45714285714287,
         "newestCompletion": "2025-12-25T16:24:43.000Z",
@@ -2753,7 +2753,7 @@ var masoData =
         "tier": "3",
         "owners": 63,
         "completions": 21,
-        "playtime": 193.84126984126985,
+        "playtime": 194.1619047619048,
         "newestCompletion": "2025-07-09T03:28:07.000Z",
         "badges": {
             "count": 2,
@@ -3337,7 +3337,7 @@ var masoData =
         "tier": "2",
         "owners": 111,
         "completions": 38,
-        "playtime": 94.36754385964913,
+        "playtime": 94.36973684210527,
         "newestCompletion": "2025-08-26T22:45:42.000Z",
         "badges": {
             "count": 3,
@@ -3827,7 +3827,7 @@ var masoData =
     "212680": {
         "description": "\u2733 Noone can hear you raging in space",
         "tier": "2",
-        "owners": 117,
+        "owners": 118,
         "completions": 13,
         "playtime": 251.66282051282045,
         "newestCompletion": "2025-03-13T19:45:26.000Z",
@@ -4411,7 +4411,7 @@ var masoData =
     "2474690": {
         "description": "Wreckfast",
         "tier": "1",
-        "owners": 29,
+        "owners": 30,
         "completions": 6,
         "playtime": 4.5055555555555555,
         "newestCompletion": "2025-07-13T21:12:28.000Z"
