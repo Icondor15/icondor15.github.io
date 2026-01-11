@@ -2,71 +2,92 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 305920,
-        "CEId": "3526a048-f080-4640-951c-278a0e7a9223",
-        "name": "Another Perspective",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/305920/header.jpg?t=1559587042",
+        "platformId": 673750,
+        "CEId": "05d31dda-14ce-4b42-85d0-ce260a8379f0",
+        "name": "Super Bunny Man",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/673750/header.jpg?t=1684270840",
         "genre": "Platformer",
         "tier": 1,
-        "points": 5,
-        "createdAt": "2022-01-10T21:02:39.000Z",
+        "points": 15,
+        "createdAt": "2023-06-21T17:25:22.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 11,
+        "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 76,
+        "playersTotal": 124,
         "priceData": {
             "USD": {
-                "initial": 599,
-                "final": 599,
-                "discountPercent": 0
+                "initial": 1499,
+                "final": 899,
+                "discountPercent": 40
             },
             "EUR": {
-                "initial": 599,
-                "final": 599,
-                "discountPercent": 0
+                "initial": 1499,
+                "final": 899,
+                "discountPercent": 40
             },
             "GBP": {
-                "initial": 499,
-                "final": 499,
-                "discountPercent": 0
+                "initial": 1199,
+                "final": 719,
+                "discountPercent": 40
             },
             "JPY": {
-                "initial": 59800,
-                "final": 59800,
-                "discountPercent": 0
+                "initial": 170000,
+                "final": 102000,
+                "discountPercent": 40
             },
             "AUD": {
-                "initial": 879,
-                "final": 879,
-                "discountPercent": 0
+                "initial": 2249,
+                "final": 1349,
+                "discountPercent": 40
             },
             "CAD": {
-                "initial": 649,
-                "final": 649,
-                "discountPercent": 0
+                "initial": 1799,
+                "final": 1079,
+                "discountPercent": 40
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Another Puzzle Platformer Speedrun [5\u2605]\nComplete the game in under 12 minutes.",
+            "primaryText": "Chubby Bunny [15\u2605]\nObtain all 150 medals.",
             "community": 0,
             "communityText": "",
-            "achievements": 8
+            "achievements": 0
         },
         "gameTags": [
-            "Indie",
-            "Adventure",
             "Platformer",
-            "Puzzle",
-            "2D",
+            "Sandbox",
+            "Multiplayer",
+            "Co-op",
+            "Singleplayer",
+            "Funny",
+            "Online Co-Op",
+            "Physics",
+            "Local Co-Op",
+            "Party",
+            "Comedy",
+            "Casual",
+            "2D Platformer",
             "Puzzle Platformer",
-            "GameMaker"
+            "Memes",
+            "Action",
+            "Adventure",
+            "PvP",
+            "Local Multiplayer",
+            "Party Game"
         ],
         "languages": {
-            "english": "IS",
-            "italian": "IS",
-            "spanish": "IS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
         }
     }
 }
-var gameOfDayDate = '2026-01-10'
+var gameOfDayDate = '2026-01-11'
