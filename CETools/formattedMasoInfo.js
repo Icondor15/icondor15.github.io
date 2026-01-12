@@ -479,7 +479,7 @@ var masoData =
     "239350": {
         "description": "\u2606  Dawn of the Tumblr noses",
         "tier": "3",
-        "owners": 166,
+        "owners": 167,
         "completions": 55,
         "playtime": 101.27030303030305,
         "newestCompletion": "2025-09-04T21:01:21.000Z"
@@ -4487,7 +4487,7 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 145,
+        "owners": 146,
         "completions": 32,
         "playtime": 105.97291666666663,
         "newestCompletion": "2025-11-13T22:37:01.000Z"
@@ -4507,10 +4507,10 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 30,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 31,
+        "completions": 1,
+        "playtime": 186.6,
+        "newestCompletion": "2025-10-06T07:23:12.000Z"
     },
     "1924180": {
         "description": "Featuring the world's most rude NPCs!",
