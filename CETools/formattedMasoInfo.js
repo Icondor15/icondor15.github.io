@@ -2675,7 +2675,7 @@ var masoData =
     "1139900": {
         "description": "Hey, is your ghost running?",
         "tier": "1",
-        "owners": 86,
+        "owners": 87,
         "completions": 25,
         "playtime": 19.76066666666667,
         "newestCompletion": "2025-07-22T03:53:20.000Z"
@@ -3225,7 +3225,7 @@ var masoData =
         "tier": "3",
         "owners": 126,
         "completions": 64,
-        "playtime": 75.85546875000003,
+        "playtime": 75.9236979166667,
         "newestCompletion": "2025-12-29T20:11:35.000Z",
         "badges": {
             "count": 1,
@@ -3971,7 +3971,7 @@ var masoData =
     "1293170": {
         "description": "404: Tagline not found",
         "tier": "1",
-        "owners": 39,
+        "owners": 40,
         "completions": 14,
         "playtime": 6.700000000000001,
         "newestCompletion": "2025-10-19T13:50:40.000Z"
@@ -4147,7 +4147,7 @@ var masoData =
     "2144740": {
         "description": "Why did the other baseball team hire a paranormal investigator?",
         "tier": "1",
-        "owners": 50,
+        "owners": 51,
         "completions": 9,
         "playtime": 16.235185185185188,
         "newestCompletion": "2025-08-28T23:28:39.000Z"
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 31,
+        "owners": 32,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
@@ -4547,7 +4547,7 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 13,
+        "owners": 14,
         "completions": 7,
         "playtime": 11.947619047619046,
         "newestCompletion": "2025-11-21T01:49:56.000Z"
