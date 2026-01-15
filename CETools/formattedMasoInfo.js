@@ -648,9 +648,9 @@ var masoData =
         "description": "This guy needs a fat bonus from his boss",
         "tier": "1",
         "owners": 75,
-        "completions": 66,
-        "playtime": 7.215909090909091,
-        "newestCompletion": "2025-12-06T22:45:18.000Z"
+        "completions": 67,
+        "playtime": 7.124875621890547,
+        "newestCompletion": "2026-01-14T20:15:57.000Z"
     },
     "257850": {
         "description": "\u2733 Who needs a story anyway?",
@@ -2556,9 +2556,9 @@ var masoData =
         "description": "\ud83c\udf1f just like the simulations",
         "tier": "5",
         "owners": 118,
-        "completions": 27,
-        "playtime": 47.61604938271604,
-        "newestCompletion": "2025-10-25T02:43:00.000Z"
+        "completions": 28,
+        "playtime": 47.12559523809524,
+        "newestCompletion": "2026-01-14T12:53:09.000Z"
     },
     "732930": {
         "description": "Goomba strikes back",
