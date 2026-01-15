@@ -2,82 +2,77 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 200900,
-        "CEId": "d415208e-0b56-43e5-a4fc-f8d350953cb9",
-        "name": "Cave Story+",
-        "header": "https://steamcdn-a.akamaihd.net/steam/apps/200900/header.jpg?t=1488657143",
-        "genre": "Action",
+        "platformId": 1727520,
+        "CEId": "f005d504-a234-4523-82cb-0b4607f6e235",
+        "name": "Yamafuda! 2nd station",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1727520/header.jpg?t=1670639359",
+        "genre": "Strategy",
         "tier": 3,
-        "points": 65,
-        "createdAt": "2020-01-28T09:31:36.000Z",
+        "points": 50,
+        "createdAt": "2023-01-15T08:33:08.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 39,
-        "playersStarted": 0,
-        "playersTotal": 529,
+        "playersCompleted": 14,
+        "playersStarted": 5,
+        "playersTotal": 77,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 1499,
+                "initial": 1299,
+                "final": 1299,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1499,
-                "final": 1499,
+                "initial": 1079,
+                "final": 1079,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1099,
-                "final": 1099,
+                "initial": 1029,
+                "final": 1029,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 148000,
-                "final": 148000,
+                "initial": 132000,
+                "final": 132000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2150,
-                "final": 2150,
+                "initial": 1850,
+                "final": 1850,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1699,
-                "final": 1699,
+                "initial": 1449,
+                "final": 1449,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Pixel Legend [65\u2605]\nProve yourself.",
-            "community": 1,
-            "communityText": "Pixel Legend+\nObtain the \"best ending\" on Hard mode without saving.",
-            "achievements": 76
+            "primary": 2,
+            "primaryText": "Try Hard [20\u2605]\nComplete all mountains on Try 10 with both characters.\n\nTrail Hiker [30\u2605]\nComplete Stellanade on Try 10 with both characters.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 48
         },
         "gameTags": [
-            "Platformer",
-            "Metroidvania",
-            "Indie",
-            "Great Soundtrack",
-            "Pixel Graphics",
-            "Action",
-            "Adventure",
-            "2D",
-            "Singleplayer",
-            "Retro",
-            "Classic",
-            "Exploration",
-            "Replay Value",
-            "Difficult",
-            "Story Rich",
-            "Shooter",
-            "Remake",
+            "Roguelike Deckbuilder",
+            "Card Game",
             "Cute",
-            "Sci-fi",
-            "Anime"
+            "Casual",
+            "Relaxing",
+            "Roguelite",
+            "Deckbuilding",
+            "Strategy",
+            "Singleplayer",
+            "Indie",
+            "Anime",
+            "Funny"
         ],
         "languages": {
-            "english": "IA"
+            "english": "I",
+            "japanese": "I",
+            "schinese": "I",
+            "tchinese": "I"
         }
     }
 }
-var gameOfDayDate = '2026-01-14'
+var gameOfDayDate = '2026-01-15'
