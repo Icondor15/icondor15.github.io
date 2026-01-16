@@ -2,77 +2,91 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1727520,
-        "CEId": "f005d504-a234-4523-82cb-0b4607f6e235",
-        "name": "Yamafuda! 2nd station",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1727520/header.jpg?t=1670639359",
-        "genre": "Strategy",
+        "platformId": 753420,
+        "CEId": "e927578c-7d73-47fc-9eed-ee37212a5157",
+        "name": "Dungreed",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/753420/header.jpg?t=1653456557",
+        "genre": "Action",
         "tier": 3,
-        "points": 50,
-        "createdAt": "2023-01-15T08:33:08.000Z",
+        "points": 45,
+        "createdAt": "2024-01-16T07:47:55.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 14,
+        "playersCompleted": 2,
         "playersStarted": 5,
-        "playersTotal": 77,
+        "playersTotal": 86,
         "priceData": {
             "USD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1079,
-                "final": 1079,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1029,
-                "final": 1029,
+                "initial": 719,
+                "final": 719,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 132000,
-                "final": 132000,
+                "initial": 101000,
+                "final": 101000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1850,
-                "final": 1850,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1449,
-                "final": 1449,
+                "initial": 1149,
+                "final": 1149,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Try Hard [20\u2605]\nComplete all mountains on Try 10 with both characters.\n\nTrail Hiker [30\u2605]\nComplete Stellanade on Try 10 with both characters.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 48
+            "primary": 4,
+            "primaryText": "The Hearth of the Dungeon [15\u2605]\nBeat the game with at least the Hard Opening Key VIII with the Devil Swordswman and Pandora.\n\nA Tale of Avarice[15\u2605 (Partial: 10\u2605)]\nBeat the game with the Hard Opening Key X with any character. *Partial points are awarded as a progress milestone.\n\nGreed Rush [5\u2605]\nBeat the Boss Rush on Hard Mode.\n\nThrough the Manor and the Depths [10\u2605]\nDefeat Roellyn. / Complete the game with no more than 5 food.",
+            "community": 1,
+            "communityText": "Platinum Trailblazer \nBeat the game with at least the Hard Opening Key VIII with all characters.",
+            "achievements": 24
         },
         "gameTags": [
-            "Roguelike Deckbuilder",
-            "Card Game",
-            "Cute",
-            "Casual",
-            "Relaxing",
+            "Action Roguelike",
+            "Pixel Graphics",
             "Roguelite",
-            "Deckbuilding",
-            "Strategy",
-            "Singleplayer",
+            "Roguelike",
+            "Action",
             "Indie",
-            "Anime",
-            "Funny"
+            "2D",
+            "Dungeon Crawler",
+            "Singleplayer",
+            "Difficult",
+            "Platformer",
+            "RPG",
+            "Side Scroller",
+            "Great Soundtrack",
+            "Multiplayer",
+            "Bullet Hell",
+            "Loot",
+            "Adventure",
+            "Metroidvania",
+            "Local Co-Op"
         ],
         "languages": {
-            "english": "I",
-            "japanese": "I",
-            "schinese": "I",
-            "tchinese": "I"
+            "english": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "portuguese": "S",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-01-15'
+var gameOfDayDate = '2026-01-16'
