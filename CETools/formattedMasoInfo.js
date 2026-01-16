@@ -692,9 +692,9 @@ var masoData =
         "description": "\u2733 Well diving simulator",
         "tier": "2",
         "owners": 188,
-        "completions": 96,
-        "playtime": 12.835243055555557,
-        "newestCompletion": "2025-10-01T21:09:49.000Z"
+        "completions": 97,
+        "playtime": 12.763745704467356,
+        "newestCompletion": "2026-01-05T13:15:52.000Z"
     },
     "247240": {
         "description": "\u2733 Oldschool hack and slash",
@@ -2595,10 +2595,10 @@ var masoData =
     "1369630": {
         "description": "Developer intended platforming\u2122",
         "tier": "1",
-        "owners": 51,
-        "completions": 29,
-        "playtime": 23.427586206896542,
-        "newestCompletion": "2025-08-16T22:38:45.000Z"
+        "owners": 52,
+        "completions": 30,
+        "playtime": 23.195555555555547,
+        "newestCompletion": "2026-01-02T17:22:46.000Z"
     },
     "1133590": {
         "description": "\ud83c\udf1f Move over Terry, there\"s a new Iron Fella in town",
@@ -4328,9 +4328,9 @@ var masoData =
         "description": "Tier 1 Shocker",
         "tier": "1",
         "owners": 64,
-        "completions": 36,
-        "playtime": 3.2782407407407397,
-        "newestCompletion": "2025-12-30T03:19:33.000Z"
+        "completions": 37,
+        "playtime": 3.2594594594594586,
+        "newestCompletion": "2026-01-03T08:47:03.000Z"
     },
     "412670": {
         "description": "\u2733 All cats go to bullet heaven",
@@ -4419,7 +4419,7 @@ var masoData =
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
-        "owners": 67,
+        "owners": 68,
         "completions": 19,
         "playtime": 53.1140350877193,
         "newestCompletion": "2025-07-06T15:26:20.000Z"
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 33,
+        "owners": 34,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
@@ -4523,9 +4523,9 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 13,
-        "completions": 2,
-        "playtime": 12.366666666666667,
+        "owners": 14,
+        "completions": 3,
+        "playtime": 14.127777777777778,
         "newestCompletion": "2023-10-17T00:30:44.000Z"
     },
     "1282210": {
@@ -4547,9 +4547,9 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 15,
-        "completions": 7,
-        "playtime": 11.947619047619046,
+        "owners": 16,
+        "completions": 8,
+        "playtime": 11.779166666666665,
         "newestCompletion": "2025-11-21T01:49:56.000Z"
     }
 }
