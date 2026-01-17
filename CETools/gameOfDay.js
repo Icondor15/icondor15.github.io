@@ -2,91 +2,92 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 753420,
-        "CEId": "e927578c-7d73-47fc-9eed-ee37212a5157",
-        "name": "Dungreed",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/753420/header.jpg?t=1653456557",
+        "platformId": 881100,
+        "CEId": "0c10c492-c431-41fb-9fbf-89526130b3f4",
+        "name": "Noita",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/881100/header.jpg?t=1627905909",
         "genre": "Action",
-        "tier": 3,
-        "points": 45,
-        "createdAt": "2024-01-16T07:47:55.000Z",
+        "tier": 2,
+        "points": 25,
+        "createdAt": "2021-01-17T02:29:53.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 5,
-        "playersTotal": 86,
+        "playersCompleted": 30,
+        "playersStarted": 229,
+        "playersTotal": 964,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1899,
+                "final": 1899,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 719,
-                "final": 719,
+                "initial": 1549,
+                "final": 1549,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 101000,
-                "final": 101000,
+                "initial": 205000,
+                "final": 205000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 2895,
+                "final": 2895,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 2279,
+                "final": 2279,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 4,
-            "primaryText": "The Hearth of the Dungeon [15\u2605]\nBeat the game with at least the Hard Opening Key VIII with the Devil Swordswman and Pandora.\n\nA Tale of Avarice[15\u2605 (Partial: 10\u2605)]\nBeat the game with the Hard Opening Key X with any character. *Partial points are awarded as a progress milestone.\n\nGreed Rush [5\u2605]\nBeat the Boss Rush on Hard Mode.\n\nThrough the Manor and the Depths [10\u2605]\nDefeat Roellyn. / Complete the game with no more than 5 food.",
-            "community": 1,
-            "communityText": "Platinum Trailblazer \nBeat the game with at least the Hard Opening Key VIII with all characters.",
-            "achievements": 24
+            "primary": 2,
+            "primaryText": "Noitmare [15\u2605]\nClear the game on \"Nightmare\" Mode.\n\nGive Me Sorcery [10\u2605]\nClear the game.",
+            "community": 3,
+            "communityText": "Mestarien Mestari\nComplete the sun quest, and get the peaceful ending.\n\nSauvojen Tuntija\nGet 100% progress. / Create an entity with infinite lifetime. / Do 1 million damage in one shot.\n\nThe End of Everything\nComplete all pillar achievements in game.",
+            "achievements": 14
         },
         "gameTags": [
-            "Action Roguelike",
-            "Pixel Graphics",
-            "Roguelite",
+            "Physics",
             "Roguelike",
-            "Action",
-            "Indie",
-            "2D",
-            "Dungeon Crawler",
-            "Singleplayer",
+            "Pixel Graphics",
             "Difficult",
-            "Platformer",
+            "Dungeon Crawler",
+            "Indie",
+            "Sandbox",
+            "Open World",
+            "2D",
+            "Perma Death",
+            "Action",
+            "Action Roguelike",
+            "Gun Customization",
+            "Roguelite",
+            "2D Platformer",
             "RPG",
-            "Side Scroller",
-            "Great Soundtrack",
-            "Multiplayer",
-            "Bullet Hell",
-            "Loot",
-            "Adventure",
-            "Metroidvania",
-            "Local Co-Op"
+            "Dark Humor",
+            "Mythology",
+            "Action-Adventure",
+            "Crafting"
         ],
         "languages": {
-            "english": "IS",
-            "german": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IS",
-            "koreana": "IS",
-            "portuguese": "S",
-            "russian": "IS",
-            "schinese": "IS",
-            "tchinese": "IS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I"
         }
     }
 }
-var gameOfDayDate = '2026-01-16'
+var gameOfDayDate = '2026-01-17'
