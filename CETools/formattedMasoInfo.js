@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 256,
         "completions": 187,
-        "playtime": 225.08743315508028,
+        "playtime": 225.1068627450981,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1892,9 +1892,9 @@ var masoData =
         "description": "Epillipsis",
         "tier": "1",
         "owners": 56,
-        "completions": 41,
-        "playtime": 4.936178861788617,
-        "newestCompletion": "2025-09-06T18:24:36.000Z"
+        "completions": 42,
+        "playtime": 4.874206349206348,
+        "newestCompletion": "2026-01-16T23:05:23.000Z"
     },
     "610410": {
         "description": "\u2606 Rock, Paper, Lasers",
@@ -4419,7 +4419,7 @@ var masoData =
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
-        "owners": 68,
+        "owners": 69,
         "completions": 19,
         "playtime": 53.1140350877193,
         "newestCompletion": "2025-07-06T15:26:20.000Z"
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 34,
+        "owners": 35,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
@@ -4523,7 +4523,7 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 14,
+        "owners": 15,
         "completions": 3,
         "playtime": 14.127777777777778,
         "newestCompletion": "2023-10-17T00:30:44.000Z"
