@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 256,
         "completions": 187,
-        "playtime": 225.1068627450981,
+        "playtime": 225.3598039215687,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1083,7 +1083,7 @@ var masoData =
     "616000": {
         "description": "\u272a The name of your experience in a nutshell",
         "tier": "4",
-        "owners": 42,
+        "owners": 43,
         "completions": 13,
         "playtime": 24.621794871794876,
         "newestCompletion": "2025-09-21T13:35:02.000Z"
@@ -2109,7 +2109,7 @@ var masoData =
         "tier": "3",
         "owners": 94,
         "completions": 15,
-        "playtime": 43.187777777777775,
+        "playtime": 44.46,
         "newestCompletion": "2025-08-21T02:09:30.000Z"
     },
     "311930": {
@@ -2228,9 +2228,9 @@ var masoData =
         "description": "Spiderman in Tron\"s world",
         "tier": "1",
         "owners": 106,
-        "completions": 56,
-        "playtime": 9.97202380952381,
-        "newestCompletion": "2025-07-04T17:17:15.000Z"
+        "completions": 57,
+        "playtime": 10.178947368421053,
+        "newestCompletion": "2026-01-04T20:27:17.000Z"
     },
     "418530": {
         "description": "\u272a 2 Stands for twice the \u2665\u2665\u2665\u2665\u2665\u2665\u2665\u2665",
@@ -3079,7 +3079,7 @@ var masoData =
     "646570": {
         "description": "\u2606 Slay your cards right",
         "tier": "3",
-        "owners": 170,
+        "owners": 171,
         "completions": 47,
         "playtime": 201.06205673758868,
         "newestCompletion": "2025-10-20T22:15:17.000Z"
@@ -3225,7 +3225,7 @@ var masoData =
         "tier": "3",
         "owners": 126,
         "completions": 64,
-        "playtime": 75.9236979166667,
+        "playtime": 76.01250000000003,
         "newestCompletion": "2025-12-29T20:11:35.000Z",
         "badges": {
             "count": 1,
@@ -3347,7 +3347,7 @@ var masoData =
     "1704730": {
         "description": "\u2733 Epilogue for a Prologue for a Vacant Kingdom",
         "tier": "2",
-        "owners": 26,
+        "owners": 27,
         "completions": 9,
         "playtime": 9.87037037037037,
         "newestCompletion": "2025-08-14T06:27:07.000Z"
@@ -3815,7 +3815,7 @@ var masoData =
     "375900": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f YOU'RE THE TRACKMAAAAASTTTEEEEEEEEEERRRRRRRRRRRRRRRRRRRRRRR",
         "tier": "0",
-        "owners": 14,
+        "owners": 15,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null,
@@ -3971,7 +3971,7 @@ var masoData =
     "1293170": {
         "description": "404: Tagline not found",
         "tier": "1",
-        "owners": 40,
+        "owners": 41,
         "completions": 14,
         "playtime": 6.700000000000001,
         "newestCompletion": "2025-10-19T13:50:40.000Z"
@@ -4179,7 +4179,7 @@ var masoData =
     "1814170": {
         "description": "\u2733 Your brain will turn into mush afterword",
         "tier": "2",
-        "owners": 37,
+        "owners": 38,
         "completions": 12,
         "playtime": 66.6625,
         "newestCompletion": "2025-11-13T03:32:44.000Z"
@@ -4251,7 +4251,7 @@ var masoData =
     "1585220": {
         "description": "Life could be a dream",
         "tier": "1",
-        "owners": 26,
+        "owners": 27,
         "completions": 6,
         "playtime": 8.505555555555555,
         "newestCompletion": "2025-10-25T06:57:04.000Z"
@@ -4479,10 +4479,10 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 34,
-        "completions": 22,
-        "playtime": 9.097727272727273,
-        "newestCompletion": "2025-12-14T06:13:58.000Z"
+        "owners": 35,
+        "completions": 23,
+        "playtime": 8.815942028985507,
+        "newestCompletion": "2025-12-26T17:11:13.000Z"
     },
     "1030300": {
         "description": "\u2733 Silksong",
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 35,
+        "owners": 36,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
@@ -4515,7 +4515,7 @@ var masoData =
     "1924180": {
         "description": "Featuring the world's most rude NPCs!",
         "tier": "1",
-        "owners": 0,
+        "owners": 1,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
@@ -4523,7 +4523,7 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 15,
+        "owners": 16,
         "completions": 3,
         "playtime": 14.127777777777778,
         "newestCompletion": "2023-10-17T00:30:44.000Z"
@@ -4531,7 +4531,7 @@ var masoData =
     "1282210": {
         "description": "6-key EDM concert",
         "tier": "1",
-        "owners": 2,
+        "owners": 3,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
@@ -4547,7 +4547,7 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 16,
+        "owners": 17,
         "completions": 8,
         "playtime": 11.779166666666665,
         "newestCompletion": "2025-11-21T01:49:56.000Z"
