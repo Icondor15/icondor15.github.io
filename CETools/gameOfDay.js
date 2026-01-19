@@ -2,86 +2,82 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1956430,
-        "CEId": "c05bd580-ad8d-432c-b7a1-9b2930e7d128",
-        "name": "Terminal Velocity\u2122: Boosted Edition",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1956430/header.jpg?t=1678798828",
-        "genre": "Arcade",
+        "platformId": 346180,
+        "CEId": "97685845-70fe-48c4-80a5-1ef583426e80",
+        "name": "David.",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346180/header.jpg?t=1734013900",
+        "genre": "Action",
         "tier": 1,
         "points": 5,
-        "createdAt": "2024-01-18T13:49:25.000Z",
+        "createdAt": "2025-01-19T04:48:02.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 1,
+        "playersCompleted": 20,
         "playersStarted": 0,
-        "playersTotal": 36,
+        "playersTotal": 68,
         "priceData": {
             "USD": {
-                "initial": 1199,
-                "final": 1199,
+                "initial": 199,
+                "final": 199,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1179,
-                "final": 1179,
+                "initial": 199,
+                "final": 199,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 999,
-                "final": 999,
+                "initial": 169,
+                "final": 169,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 140000,
-                "final": 140000,
+                "initial": 23500,
+                "final": 23500,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1775,
-                "final": 1775,
+                "initial": 295,
+                "final": 295,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1549,
-                "final": 1549,
+                "initial": 259,
+                "final": 259,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "After Burner [5\u2605]\nSeparately; Complete the game on Terminal difficulty, and complete each episode under the specified time limit.",
+            "primaryText": "Goliath Slayer [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
-            "achievements": 32
+            "achievements": 21
         },
         "gameTags": [
+            "Indie",
             "Action",
-            "Shooter",
-            "Old School",
-            "Sci-fi",
-            "Retro",
+            "2D Platformer",
+            "Time Manipulation",
+            "Bullet Time",
+            "Abstract",
+            "Difficult",
+            "Physics",
+            "Minimalist",
             "Singleplayer",
-            "Adventure",
-            "FPS",
-            "Open World",
-            "Realistic",
+            "2D",
+            "Platformer",
+            "Short",
+            "Atmospheric",
             "Space",
-            "Combat",
-            "War",
-            "Simulation",
-            "1990's",
-            "Flight",
-            "Space Sim",
-            "Action-Adventure",
-            "3D",
-            "Futuristic"
+            "Soundtrack",
+            "2D Fighter",
+            "Fast-Paced",
+            "Stylized",
+            "Arena Shooter"
         ],
         "languages": {
-            "english": "IA",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "spanish": "I"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-01-18'
+var gameOfDayDate = '2026-01-19'
