@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 256,
         "completions": 187,
-        "playtime": 225.3598039215687,
+        "playtime": 225.3722816399288,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -2879,7 +2879,7 @@ var masoData =
     "1286350": {
         "description": "\u272a The M stands for monochrome",
         "tier": "4",
-        "owners": 88,
+        "owners": 89,
         "completions": 16,
         "playtime": 54.953125,
         "newestCompletion": "2025-10-04T22:56:27.000Z"
@@ -3225,7 +3225,7 @@ var masoData =
         "tier": "3",
         "owners": 126,
         "completions": 64,
-        "playtime": 76.01250000000003,
+        "playtime": 76.01302083333336,
         "newestCompletion": "2025-12-29T20:11:35.000Z",
         "badges": {
             "count": 1,
@@ -3885,7 +3885,7 @@ var masoData =
         "tier": "1",
         "owners": 57,
         "completions": 3,
-        "playtime": 20.366666666666667,
+        "playtime": 21.294444444444444,
         "newestCompletion": "2025-12-17T00:44:58.000Z",
         "badges": {
             "count": 1,
@@ -4205,7 +4205,7 @@ var masoData =
         "tier": "4",
         "owners": 55,
         "completions": 8,
-        "playtime": 267.32916666666665,
+        "playtime": 267.6875,
         "newestCompletion": "2025-11-10T21:27:13.000Z",
         "badges": {
             "count": 1,
@@ -4539,7 +4539,7 @@ var masoData =
     "3125120": {
         "description": "Claustrophobia simulator",
         "tier": "1",
-        "owners": 5,
+        "owners": 6,
         "completions": 2,
         "playtime": 6.033333333333333,
         "newestCompletion": "2025-08-16T22:19:19.000Z"
