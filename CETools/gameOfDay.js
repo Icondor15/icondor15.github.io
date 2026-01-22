@@ -1,49 +1,83 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 769560,
-        "CEId": "6e505741-d18c-41ef-afc2-4135e74cfeab",
-        "name": "\u6708\u5706\u4e4b\u591c (Night of Full Moon)",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/769560/header.jpg?t=1703806510",
-        "genre": "Strategy",
+        "gameType": 0,
+        "platformId": 946010,
+        "CEId": "104bd545-7ba7-4825-a618-f85586bfb8d3",
+        "name": "Tasty Planet Forever",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/946010/header.jpg?t=1694028162",
+        "genre": "Arcade",
         "tier": 1,
-        "points": 12,
-        "createdAt": "2024-01-21T16:43:20.000Z",
-        "updatedAt": "2025-09-19T20:46:24.000Z",
-        "playersCompleted": 0,
-        "playersStarted": 4,
-        "playersTotal": 129,
+        "points": 15,
+        "createdAt": "2024-01-22T11:02:37.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 10,
+        "playersStarted": 0,
+        "playersTotal": 33,
+        "priceData": {
+            "USD": {
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1079,
+                "final": 1079,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1029,
+                "final": 1029,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 132000,
+                "final": 132000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1850,
+                "final": 1850,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1449,
+                "final": 1449,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Scion of the Black Forest [10\u2605]\nSeparately; Clear Hard VII and Complete Nightmare with 3 moves.\n\nDignitary of the Night Fall (UNCLEARED) [1\u2605]\nComplete Hard VII with all characters.\n\nLunar Eclipse (UNVALUED) [1\u2605]\nClear difficulty 10 without losing HP.",
+            "primary": 1,
+            "primaryText": "Four Course Meal [15\u2605]\nEarn 3 stars on every level on Deadly difficulty. ",
             "community": 0,
             "communityText": "",
-            "achievements": 152
+            "achievements": 13
         },
         "gameTags": [
-            "Card Game",
-            "Free to Play",
-            "Strategy",
-            "Deckbuilding",
-            "Indie",
-            "Card Battler",
-            "Adventure",
-            "Roguelite",
+            "Destruction",
+            "Arcade",
+            "2D",
+            "Cute",
+            "Split Screen",
+            "Top-Down",
+            "Funny",
+            "Post-apocalyptic",
+            "Side Scroller",
+            "Controller",
+            "Action",
+            "Casual",
+            "Local Co-Op",
+            "Cartoony",
             "Singleplayer",
-            "Roguelike Deckbuilder",
-            "Roguelike",
-            "Female Protagonist",
-            "Turn-Based",
-            "RPG"
+            "Score Attack",
+            "2D Platformer",
+            "Hand-drawn",
+            "Platformer",
+            "Cats"
         ],
         "languages": {
-            "english": "IA",
-            "japanese": "IS",
-            "koreana": "IS",
-            "schinese": "IA",
-            "tchinese": "IA"
+            "english": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-01-21'
+var gameOfDayDate = '2026-01-22'
