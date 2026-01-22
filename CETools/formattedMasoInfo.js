@@ -360,9 +360,9 @@ var masoData =
         "description": "\u2733 It\"s about time we added it",
         "tier": "2",
         "owners": 130,
-        "completions": 51,
-        "playtime": 48.856209150326805,
-        "newestCompletion": "2025-09-30T23:46:11.000Z"
+        "completions": 52,
+        "playtime": 48.933333333333344,
+        "newestCompletion": "2026-01-18T16:32:49.000Z"
     },
     "356650": {
         "description": "\u2733 2D Dark Souls, any other description would be a lie",
@@ -692,9 +692,9 @@ var masoData =
         "description": "\u2733 Well diving simulator",
         "tier": "2",
         "owners": 188,
-        "completions": 97,
-        "playtime": 12.763745704467356,
-        "newestCompletion": "2026-01-05T13:15:52.000Z"
+        "completions": 98,
+        "playtime": 12.783503401360546,
+        "newestCompletion": "2026-01-18T18:27:43.000Z"
     },
     "247240": {
         "description": "\u2733 Oldschool hack and slash",
@@ -2348,9 +2348,9 @@ var masoData =
         "description": "I will beat you to death",
         "tier": "1",
         "owners": 175,
-        "completions": 95,
-        "playtime": 16.094736842105263,
-        "newestCompletion": "2025-08-21T10:00:26.000Z"
+        "completions": 96,
+        "playtime": 16.050868055555558,
+        "newestCompletion": "2026-01-19T23:05:25.000Z"
     },
     "757320": {
         "description": "\u2606 Nuclear Valley",
@@ -3081,7 +3081,7 @@ var masoData =
         "tier": "3",
         "owners": 171,
         "completions": 47,
-        "playtime": 201.06205673758868,
+        "playtime": 201.09751773049646,
         "newestCompletion": "2025-10-20T22:15:17.000Z"
     },
     "456390": {
