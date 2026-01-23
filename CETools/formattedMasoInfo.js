@@ -257,7 +257,7 @@ var masoData =
         "tier": "4",
         "owners": 151,
         "completions": 19,
-        "playtime": 200.8675438596491,
+        "playtime": 201.13508771929818,
         "newestCompletion": "2025-10-09T13:53:53.000Z"
     },
     "795570": {
@@ -647,7 +647,7 @@ var masoData =
     "302610": {
         "description": "This guy needs a fat bonus from his boss",
         "tier": "1",
-        "owners": 75,
+        "owners": 76,
         "completions": 67,
         "playtime": 7.124875621890547,
         "newestCompletion": "2026-01-14T20:15:57.000Z"
@@ -1247,7 +1247,7 @@ var masoData =
     "247080": {
         "description": "\ud83c\udf1f You better make this game your second life and consume your soul; otherwise forget completing it.",
         "tier": "5",
-        "owners": 215,
+        "owners": 216,
         "completions": 9,
         "playtime": 654.4370370370372,
         "newestCompletion": "2025-06-14T11:58:31.000Z",
@@ -1363,7 +1363,7 @@ var masoData =
     "221640": {
         "description": "\u2733 Just one more try\u2122",
         "tier": "2",
-        "owners": 205,
+        "owners": 206,
         "completions": 148,
         "playtime": 21.20799549549548,
         "newestCompletion": "2025-11-06T16:02:02.000Z"
@@ -2000,9 +2000,9 @@ var masoData =
         "description": "One at a time boyo",
         "tier": "1",
         "owners": 15,
-        "completions": 13,
-        "playtime": 4.699999999999999,
-        "newestCompletion": "2024-03-24T19:15:40.000Z"
+        "completions": 14,
+        "playtime": 4.610714285714286,
+        "newestCompletion": "2025-12-19T07:51:07.000Z"
     },
     "1031480": {
         "description": "\ud83c\udf1f So good that it hurts",
@@ -4367,7 +4367,7 @@ var masoData =
     "2073250": {
         "description": "\ud83c\udf1f You better make this game your second Crypt and rift apart your soul; otherwise forget completing it.",
         "tier": "5",
-        "owners": 49,
+        "owners": 50,
         "completions": 1,
         "playtime": 310.73333333333335,
         "newestCompletion": "2025-03-25T21:48:48.000Z",
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 36,
+        "owners": 37,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
