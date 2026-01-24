@@ -1920,9 +1920,9 @@ var masoData =
         "description": "Squirting Dream Land",
         "tier": "1",
         "owners": 51,
-        "completions": 22,
-        "playtime": 4.266666666666667,
-        "newestCompletion": "2024-08-05T13:25:16.000Z"
+        "completions": 23,
+        "playtime": 4.1521739130434785,
+        "newestCompletion": "2026-01-23T15:42:31.000Z"
     },
     "1186160": {
         "description": "\u2606 All Day Trying",
@@ -1963,7 +1963,7 @@ var masoData =
     "876500": {
         "description": "This is not soundodger",
         "tier": "1",
-        "owners": 15,
+        "owners": 16,
         "completions": 14,
         "playtime": 3.408333333333334,
         "newestCompletion": "2026-01-07T14:10:07.000Z"
@@ -2816,9 +2816,9 @@ var masoData =
         "description": "\u2606 Now this is podRAYZEing",
         "tier": "3",
         "owners": 58,
-        "completions": 21,
-        "playtime": 25.797619047619047,
-        "newestCompletion": "2024-06-10T03:56:20.000Z"
+        "completions": 22,
+        "playtime": 25.80606060606061,
+        "newestCompletion": "2026-01-21T21:39:10.000Z"
     },
     "1663410": {
         "description": "\u2733 It's not Getting Over It with Bennett Foddy, but as far as Getting Over It with Bennett Foddy-likes go, your lance will go a \ud835\ude2d\ud835\ude30\ud835\ude2f\ud835\ude28 way in completing it.",
