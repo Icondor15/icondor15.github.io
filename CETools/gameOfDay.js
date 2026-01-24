@@ -1,79 +1,54 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 1432970,
-        "CEId": "a65604a9-90f4-4dac-ab05-2469b3b481ff",
-        "name": "ASSAULT SHELL",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1432970/header.jpg?t=1616148066",
-        "genre": "Bullet Hell",
-        "tier": 2,
-        "points": 20,
-        "createdAt": "2023-01-23T17:17:37.000Z",
+        "gameType": 1,
+        "platformId": 1986980,
+        "CEId": "9debbdd0-1134-472f-9379-776436e11c52",
+        "name": "The Legend of Chibi Ninja",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1986980/header.jpg?t=1704413315",
+        "genre": "Platformer",
+        "tier": 1,
+        "points": 11,
+        "createdAt": "2024-01-24T14:17:51.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 2,
-        "playersTotal": 15,
-        "priceData": {
-            "USD": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 819,
-                "final": 819,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 719,
-                "final": 719,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 101000,
-                "final": 101000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 1149,
-                "final": 1149,
-                "discountPercent": 0
-            }
-        },
+        "playersCompleted": 0,
+        "playersStarted": 1,
+        "playersTotal": 80,
         "milestones": {
-            "primary": 2,
-            "primaryText": "Ultimate Ace [15\u2605]\nClear the game without taking a hit.\n\nFull Impact [5\u2605]\nClear Original Full.",
+            "primary": 1,
+            "primaryText": "Legendary Ninja (PARTIALLY UNCLEARED)[11\u2605 (Partial: 10\u2605)]\nBeat the game in under 4 hours without dying.",
             "community": 0,
             "communityText": "",
-            "achievements": 20
+            "achievements": 26
         },
         "gameTags": [
-            "Bullet Hell",
-            "Action",
-            "Shoot 'Em Up",
-            "Shooter",
-            "Arcade",
+            "Difficult",
+            "Precision Platformer",
+            "Side Scroller",
+            "2D Platformer",
+            "Puzzle Platformer",
+            "Souls-like",
+            "Puzzle",
+            "Platformer",
+            "Action-Adventure",
+            "Strategy",
+            "LGBTQ+",
+            "Funny",
+            "Story Rich",
+            "Controller",
             "2D",
-            "Top-Down",
-            "Multiple Endings",
-            "Pixel Graphics",
-            "Indie",
-            "Sci-fi",
-            "Dystopian ",
-            "Score Attack",
-            "Singleplayer",
-            "War"
+            "Action",
+            "Colorful",
+            "Family Friendly",
+            "Ninja",
+            "Adventure"
         ],
         "languages": {
             "english": "IS",
-            "italian": "IS"
+            "french": "IS",
+            "spanish": "IS",
+            "latam": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-01-23'
+var gameOfDayDate = '2026-01-24'
