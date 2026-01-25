@@ -665,7 +665,7 @@ var masoData =
         "tier": "2",
         "owners": 79,
         "completions": 25,
-        "playtime": 27.862666666666666,
+        "playtime": 27.866,
         "newestCompletion": "2025-11-25T23:57:21.000Z",
         "badges": {
             "count": 1,
@@ -723,7 +723,7 @@ var masoData =
     "384250": {
         "description": "\u2606 Super Slide Bear Ressurection",
         "tier": "3",
-        "owners": 47,
+        "owners": 48,
         "completions": 13,
         "playtime": 145.40897435897435,
         "newestCompletion": "2025-11-23T14:38:51.000Z",
@@ -780,9 +780,9 @@ var masoData =
         "description": "\u2606 Has one of the most well designed hard mode a platformer can offer",
         "tier": "3",
         "owners": 24,
-        "completions": 1,
-        "playtime": 79.33333333333333,
-        "newestCompletion": "2021-09-02T21:19:57.000Z"
+        "completions": 2,
+        "playtime": 60.791666666666664,
+        "newestCompletion": "2026-01-25T00:11:34.000Z"
     },
     "323580": {
         "description": "\u2606 These Gods do not favor you",
@@ -903,7 +903,7 @@ var masoData =
     "491040": {
         "description": "Shoot, dodge, and cover.",
         "tier": "1",
-        "owners": 74,
+        "owners": 75,
         "completions": 36,
         "playtime": 7.692592592592594,
         "newestCompletion": "2025-04-02T15:46:31.000Z"
@@ -933,7 +933,7 @@ var masoData =
         "tier": "1",
         "owners": 54,
         "completions": 20,
-        "playtime": 9.790000000000001,
+        "playtime": 9.949166666666667,
         "newestCompletion": "2025-12-30T03:23:10.000Z",
         "badges": {
             "count": 1,
@@ -2283,7 +2283,7 @@ var masoData =
     "1061180": {
         "description": "The best that 3D grappling has to offer",
         "tier": "1",
-        "owners": 65,
+        "owners": 66,
         "completions": 15,
         "playtime": 7.36222222222222,
         "newestCompletion": "2025-08-30T16:38:28.000Z"
@@ -2753,7 +2753,7 @@ var masoData =
         "tier": "3",
         "owners": 63,
         "completions": 21,
-        "playtime": 194.1619047619048,
+        "playtime": 194.17222222222225,
         "newestCompletion": "2025-07-09T03:28:07.000Z",
         "badges": {
             "count": 2,
@@ -3557,7 +3557,7 @@ var masoData =
         "tier": "3",
         "owners": 52,
         "completions": 11,
-        "playtime": 159.5090909090909,
+        "playtime": 159.83181818181816,
         "newestCompletion": "2025-10-19T22:43:57.000Z",
         "badges": {
             "count": 1,
@@ -4217,7 +4217,7 @@ var masoData =
         "tier": "2",
         "owners": 22,
         "completions": 2,
-        "playtime": 61.86666666666666,
+        "playtime": 62.74166666666666,
         "newestCompletion": "2024-11-26T06:18:05.000Z",
         "badges": {
             "count": 1,
