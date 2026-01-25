@@ -1,54 +1,88 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 1986980,
-        "CEId": "9debbdd0-1134-472f-9379-776436e11c52",
-        "name": "The Legend of Chibi Ninja",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1986980/header.jpg?t=1704413315",
-        "genre": "Platformer",
-        "tier": 1,
-        "points": 11,
-        "createdAt": "2024-01-24T14:17:51.000Z",
+        "gameType": 0,
+        "platformId": 857500,
+        "CEId": "df8446cd-f08d-48e5-8da4-75326eafa7eb",
+        "name": "BLACK BIRD",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/857500/header.jpg?t=1630167063",
+        "genre": "Bullet Hell",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2022-01-25T02:14:26.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 0,
-        "playersStarted": 1,
-        "playersTotal": 80,
+        "playersCompleted": 8,
+        "playersStarted": 0,
+        "playersTotal": 35,
+        "priceData": {
+            "USD": {
+                "initial": 1899,
+                "final": 1899,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1599,
+                "final": 1599,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1449,
+                "final": 1449,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 198000,
+                "final": 198000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 2695,
+                "final": 2695,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 2179,
+                "final": 2179,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
             "primary": 1,
-            "primaryText": "Legendary Ninja (PARTIALLY UNCLEARED)[11\u2605 (Partial: 10\u2605)]\nBeat the game in under 4 hours without dying.",
+            "primaryText": "Dark Omen [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
-            "achievements": 26
+            "achievements": 22
         },
         "gameTags": [
-            "Difficult",
-            "Precision Platformer",
+            "Shoot 'Em Up",
+            "Dark Fantasy",
+            "Replay Value",
+            "Soundtrack",
             "Side Scroller",
-            "2D Platformer",
-            "Puzzle Platformer",
-            "Souls-like",
-            "Puzzle",
-            "Platformer",
-            "Action-Adventure",
-            "Strategy",
-            "LGBTQ+",
-            "Funny",
-            "Story Rich",
-            "Controller",
-            "2D",
+            "Bullet Hell",
+            "Score Attack",
+            "Indie",
             "Action",
-            "Colorful",
-            "Family Friendly",
-            "Ninja",
-            "Adventure"
+            "Pixel Graphics",
+            "Fantasy",
+            "Singleplayer",
+            "2D",
+            "Arcade",
+            "Retro",
+            "Difficult",
+            "Multiple Endings",
+            "Surreal",
+            "Rhythm",
+            "Female Protagonist"
         ],
         "languages": {
-            "english": "IS",
-            "french": "IS",
-            "spanish": "IS",
-            "latam": "IS"
+            "english": "I",
+            "french": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "schinese": "I",
+            "tchinese": "I"
         }
     }
 }
-var gameOfDayDate = '2026-01-24'
+var gameOfDayDate = '2026-01-25'
