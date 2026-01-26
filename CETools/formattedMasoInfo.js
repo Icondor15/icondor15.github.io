@@ -2627,7 +2627,7 @@ var masoData =
     "688130": {
         "description": "\ud83c\udf1f\u30dd\u30b4\u306e\u6642\u9593\u3060",
         "tier": "5",
-        "owners": 108,
+        "owners": 109,
         "completions": 22,
         "playtime": 589.1325757575758,
         "newestCompletion": "2024-06-17T15:47:58.000Z",
@@ -3000,9 +3000,9 @@ var masoData =
         "description": "\ud83c\udf1f Super Seed Boy",
         "tier": "5",
         "owners": 127,
-        "completions": 13,
-        "playtime": 75.67307692307693,
-        "newestCompletion": "2025-06-06T20:06:55.000Z"
+        "completions": 14,
+        "playtime": 76.78690476190478,
+        "newestCompletion": "2026-01-26T00:56:39.000Z"
     },
     "355630": {
         "description": "\u2606 A heart of gold with a mind of steel",
