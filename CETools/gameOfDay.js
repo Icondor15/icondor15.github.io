@@ -2,87 +2,95 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 857500,
-        "CEId": "df8446cd-f08d-48e5-8da4-75326eafa7eb",
-        "name": "BLACK BIRD",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/857500/header.jpg?t=1630167063",
-        "genre": "Bullet Hell",
-        "tier": 2,
-        "points": 20,
-        "createdAt": "2022-01-25T02:14:26.000Z",
-        "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 8,
-        "playersStarted": 0,
-        "playersTotal": 35,
+        "platformId": 2616420,
+        "CEId": "6a2aa61b-8919-41c0-a0b6-6c0a68148524",
+        "name": "Hans",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2616420/header.jpg?t=1702123699",
+        "genre": "Platformer",
+        "tier": 4,
+        "points": 180,
+        "createdAt": "2024-01-26T15:04:15.000Z",
+        "updatedAt": "2025-12-17T22:49:24.000Z",
+        "playersCompleted": 4,
+        "playersStarted": 9,
+        "playersTotal": 107,
         "priceData": {
             "USD": {
-                "initial": 1899,
-                "final": 1899,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1599,
-                "final": 1599,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1449,
-                "final": 1449,
+                "initial": 429,
+                "final": 429,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 198000,
-                "final": 198000,
+                "initial": 58000,
+                "final": 58000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2695,
-                "final": 2695,
+                "initial": 750,
+                "final": 750,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2179,
-                "final": 2179,
+                "initial": 649,
+                "final": 649,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Dark Omen [20\u2605]\nProve yourself.",
-            "community": 0,
-            "communityText": "",
+            "primary": 4,
+            "primaryText": "Juicy Fruit [50\u2605]\nBeat the game without using slow-motion.\n\nOnly Up [30\u2605]\nBeat the game in under 30 minutes.\n\nLook Ma, No Hans! [20\u2605]\nBeat the game without falling.\n\nHans [80\u2605]\nBeat the game.",
+            "community": 1,
+            "communityText": "                          \nBeat the game as Invisihans.",
             "achievements": 22
         },
         "gameTags": [
-            "Shoot 'Em Up",
-            "Dark Fantasy",
-            "Replay Value",
-            "Soundtrack",
-            "Side Scroller",
-            "Bullet Hell",
-            "Score Attack",
-            "Indie",
-            "Action",
-            "Pixel Graphics",
-            "Fantasy",
-            "Singleplayer",
-            "2D",
-            "Arcade",
-            "Retro",
             "Difficult",
-            "Multiple Endings",
-            "Surreal",
-            "Rhythm",
-            "Female Protagonist"
+            "Precision Platformer",
+            "Singleplayer",
+            "Post-apocalyptic",
+            "Physics",
+            "Platformer",
+            "Exploration",
+            "3D Platformer",
+            "Runner",
+            "Casual",
+            "Funny",
+            "Cartoony",
+            "Replay Value",
+            "Arcade",
+            "Dark Humor",
+            "Third Person",
+            "3D",
+            "Comedy",
+            "Story Rich",
+            "Adventure"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "schinese": "I",
-            "tchinese": "I"
-        }
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "greek": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
+        },
+        "information": "The \"Graceful Glide\" achievement (complete the map without any 'Hans'/falls) is known to be bugged.\nThe achievement can be obtained by down-patching to v1.3.0 from December 2023, but our proof requirement has changed to video proof to reflect the current state of the game."
     }
 }
-var gameOfDayDate = '2026-01-25'
+var gameOfDayDate = '2026-01-26'
