@@ -236,9 +236,9 @@ var masoData =
         "description": "\u2733 There it\"s curated now",
         "tier": "2",
         "owners": 153,
-        "completions": 60,
-        "playtime": 38.65666666666666,
-        "newestCompletion": "2025-11-10T00:38:19.000Z",
+        "completions": 61,
+        "playtime": 38.33961748633879,
+        "newestCompletion": "2026-01-26T15:16:20.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -777,8 +777,8 @@ var masoData =
         "newestCompletion": "2025-11-16T08:23:05.000Z"
     },
     "658150": {
-        "description": "\u2606 Has one of the most well designed hard mode a platformer can offer",
-        "tier": "3",
+        "description": "\u272a Wield the stakerang and feel the rising blood pressure as you go on a never-ending vampire hunt",
+        "tier": "4",
         "owners": 24,
         "completions": 2,
         "playtime": 60.791666666666664,
@@ -4551,5 +4551,13 @@ var masoData =
         "completions": 8,
         "playtime": 11.779166666666665,
         "newestCompletion": "2025-11-21T01:49:56.000Z"
+    },
+    "434660": {
+        "description": "\u2733 Real Neon Genesis",
+        "tier": "2",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
     }
 }
