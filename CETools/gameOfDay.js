@@ -2,95 +2,87 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2616420,
-        "CEId": "6a2aa61b-8919-41c0-a0b6-6c0a68148524",
-        "name": "Hans",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2616420/header.jpg?t=1702123699",
-        "genre": "Platformer",
-        "tier": 4,
-        "points": 180,
-        "createdAt": "2024-01-26T15:04:15.000Z",
-        "updatedAt": "2025-12-17T22:49:24.000Z",
-        "playersCompleted": 4,
-        "playersStarted": 9,
-        "playersTotal": 107,
+        "platformId": 1981610,
+        "CEId": "a48cbaa2-a0b4-4f28-b711-0bf5c85af610",
+        "name": "Wanted: Dead",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1981610/header.jpg?t=1680727815",
+        "genre": "Action",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2024-01-27T20:35:31.000Z",
+        "updatedAt": "2025-09-08T23:40:11.000Z",
+        "playersCompleted": 2,
+        "playersStarted": 0,
+        "playersTotal": 41,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 2999,
+                "final": 2999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 499,
-                "final": 499,
+                "initial": 2899,
+                "final": 2899,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 429,
-                "final": 429,
+                "initial": 2499,
+                "final": 2499,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 58000,
-                "final": 58000,
+                "initial": 340000,
+                "final": 340000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 750,
-                "final": 750,
+                "initial": 4395,
+                "final": 4395,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 649,
-                "final": 649,
+                "initial": 3899,
+                "final": 3899,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 4,
-            "primaryText": "Juicy Fruit [50\u2605]\nBeat the game without using slow-motion.\n\nOnly Up [30\u2605]\nBeat the game in under 30 minutes.\n\nLook Ma, No Hans! [20\u2605]\nBeat the game without falling.\n\nHans [80\u2605]\nBeat the game.",
-            "community": 1,
-            "communityText": "                          \nBeat the game as Invisihans.",
-            "achievements": 22
+            "primary": 2,
+            "primaryText": "Blaze of Wrath [10\u2605]\nClear the campaign on all difficulties. \n\nCertified Gamer\u2122 [10\u2605]\nObtain a full combo on any Ramen song. / Clear \"Space Runaway\" on Hard mode.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 55
         },
         "gameTags": [
-            "Difficult",
-            "Precision Platformer",
-            "Singleplayer",
-            "Post-apocalyptic",
-            "Physics",
-            "Platformer",
-            "Exploration",
-            "3D Platformer",
-            "Runner",
-            "Casual",
-            "Funny",
-            "Cartoony",
-            "Replay Value",
-            "Arcade",
-            "Dark Humor",
+            "Hack and Slash",
+            "Third-Person Shooter",
+            "Female Protagonist",
+            "Shooter",
+            "Action RPG",
+            "Action-Adventure",
+            "Cyberpunk",
             "Third Person",
-            "3D",
-            "Comedy",
+            "Alternate History",
+            "Swordplay",
+            "Action",
+            "Bullet Time",
+            "Linear",
             "Story Rich",
-            "Adventure"
+            "Dystopian ",
+            "Adventure",
+            "Artificial Intelligence",
+            "1980s",
+            "Combat",
+            "Gore"
         ],
         "languages": {
-            "english": "IS",
+            "english": "IAS",
             "french": "IS",
             "german": "IS",
             "italian": "IS",
             "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IS",
-            "greek": "IS",
-            "koreana": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "turkish": "IS",
-            "ukrainian": "IS"
-        },
-        "information": "The \"Graceful Glide\" achievement (complete the map without any 'Hans'/falls) is known to be bugged.\nThe achievement can be obtained by down-patching to v1.3.0 from December 2023, but our proof requirement has changed to video proof to reflect the current state of the game."
+            "spanish": "IS"
+        }
     }
 }
-var gameOfDayDate = '2026-01-26'
+var gameOfDayDate = '2026-01-27'
