@@ -2,87 +2,83 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1981610,
-        "CEId": "a48cbaa2-a0b4-4f28-b711-0bf5c85af610",
-        "name": "Wanted: Dead",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1981610/header.jpg?t=1680727815",
+        "platformId": 274170,
+        "CEId": "0993071e-dafa-49fb-8351-e7fa2b0d6aa8",
+        "name": "Hotline Miami 2: Wrong Number",
+        "header": "https://steamcdn-a.akamaihd.net/steam/apps/274170/header.jpg?t=1498680121",
         "genre": "Action",
-        "tier": 2,
-        "points": 20,
-        "createdAt": "2024-01-27T20:35:31.000Z",
+        "tier": 3,
+        "points": 40,
+        "createdAt": "2020-01-28T09:49:26.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 0,
-        "playersTotal": 41,
+        "playersCompleted": 16,
+        "playersStarted": 126,
+        "playersTotal": 873,
         "priceData": {
             "USD": {
-                "initial": 2999,
-                "final": 2999,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 2899,
-                "final": 2899,
+                "initial": 1479,
+                "final": 1479,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 2499,
-                "final": 2499,
+                "initial": 1279,
+                "final": 1279,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 340000,
-                "final": 340000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 4395,
-                "final": 4395,
+                "initial": 170000,
+                "final": 170000,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 3899,
-                "final": 3899,
+                "initial": 1949,
+                "final": 1949,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Blaze of Wrath [10\u2605]\nClear the campaign on all difficulties. \n\nCertified Gamer\u2122 [10\u2605]\nObtain a full combo on any Ramen song. / Clear \"Space Runaway\" on Hard mode.",
+            "primaryText": "Super Hot [30\u2605]\nObtain an S rank on all hard mode levels.\n\nSynthwave Savage [10\u2605]\nFinish the game on hard mode. / Get A+ on all levels on normal.",
             "community": 0,
             "communityText": "",
-            "achievements": 55
+            "achievements": 29
         },
         "gameTags": [
-            "Hack and Slash",
-            "Third-Person Shooter",
-            "Female Protagonist",
-            "Shooter",
-            "Action RPG",
-            "Action-Adventure",
-            "Cyberpunk",
-            "Third Person",
-            "Alternate History",
-            "Swordplay",
+            "Great Soundtrack",
+            "Gore",
+            "Pixel Graphics",
+            "Violent",
             "Action",
-            "Bullet Time",
-            "Linear",
-            "Story Rich",
-            "Dystopian ",
-            "Adventure",
-            "Artificial Intelligence",
+            "Fast-Paced",
+            "Difficult",
+            "Retro",
+            "Top-Down",
+            "Indie",
             "1980s",
-            "Combat",
-            "Gore"
+            "Singleplayer",
+            "Top-Down Shooter",
+            "Atmospheric",
+            "Blood",
+            "2D",
+            "Shooter",
+            "Level Editor",
+            "Arcade",
+            "1990's"
         ],
         "languages": {
-            "english": "IAS",
+            "english": "IS",
             "french": "IS",
             "german": "IS",
-            "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS"
+            "spanish": "IS",
+            "brazilian": "IS",
+            "polish": "IS",
+            "russian": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-01-27'
+var gameOfDayDate = '2026-01-28'
