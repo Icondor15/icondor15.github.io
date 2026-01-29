@@ -2,83 +2,92 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 274170,
-        "CEId": "0993071e-dafa-49fb-8351-e7fa2b0d6aa8",
-        "name": "Hotline Miami 2: Wrong Number",
-        "header": "https://steamcdn-a.akamaihd.net/steam/apps/274170/header.jpg?t=1498680121",
-        "genre": "Action",
-        "tier": 3,
-        "points": 40,
-        "createdAt": "2020-01-28T09:49:26.000Z",
+        "platformId": 8870,
+        "CEId": "bf95781c-7d08-4afb-b3c1-8d1791832b97",
+        "name": "BioShock Infinite",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/8870/header.jpg?t=1602794480",
+        "genre": "First-Person",
+        "tier": 2,
+        "points": 25,
+        "createdAt": "2023-01-29T19:16:53.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 16,
-        "playersStarted": 126,
-        "playersTotal": 873,
+        "playersCompleted": 17,
+        "playersStarted": 39,
+        "playersTotal": 797,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 1499,
+                "initial": 2999,
+                "final": 2999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1479,
-                "final": 1479,
+                "initial": 2999,
+                "final": 2999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1279,
-                "final": 1279,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 170000,
-                "final": 170000,
+                "initial": 298000,
+                "final": 298000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 3995,
+                "final": 3995,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1949,
-                "final": 1949,
+                "initial": 3299,
+                "final": 3299,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Super Hot [30\u2605]\nObtain an S rank on all hard mode levels.\n\nSynthwave Savage [10\u2605]\nFinish the game on hard mode. / Get A+ on all levels on normal.",
+            "primary": 1,
+            "primaryText": "Blue Ribbon Champ[25\u2605 (Partial: 5\u2605)]\nComplete all Clash in the Clouds blue ribbon challenges.",
             "community": 0,
             "communityText": "",
-            "achievements": 29
+            "achievements": 80
         },
         "gameTags": [
-            "Great Soundtrack",
-            "Gore",
-            "Pixel Graphics",
-            "Violent",
             "Action",
-            "Fast-Paced",
-            "Difficult",
-            "Retro",
-            "Top-Down",
-            "Indie",
-            "1980s",
-            "Singleplayer",
-            "Top-Down Shooter",
-            "Atmospheric",
-            "Blood",
-            "2D",
             "Shooter",
-            "Level Editor",
-            "Arcade",
-            "1990's"
+            "First-Person",
+            "FPS",
+            "RPG",
+            "Fantasy",
+            "Singleplayer",
+            "Adventure",
+            "Sci-fi",
+            "Story Rich",
+            "Atmospheric",
+            "Gore",
+            "Alternate History",
+            "Dystopian ",
+            "Immersive",
+            "Time Travel",
+            "Steampunk",
+            "Linear",
+            "Combat",
+            "Dark"
         ],
         "languages": {
-            "english": "IS",
-            "french": "IS",
-            "german": "IS",
-            "spanish": "IS",
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
             "brazilian": "IS",
+            "koreana": "IS",
             "polish": "IS",
-            "russian": "IS"
+            "russian": "IS",
+            "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-01-28'
+var gameOfDayDate = '2026-01-29'
