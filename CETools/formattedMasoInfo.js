@@ -237,7 +237,7 @@ var masoData =
         "tier": "2",
         "owners": 153,
         "completions": 61,
-        "playtime": 38.33961748633879,
+        "playtime": 38.34617486338797,
         "newestCompletion": "2026-01-26T15:16:20.000Z",
         "badges": {
             "count": 1,
