@@ -2,77 +2,100 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2861740,
-        "CEId": "e88a8007-169d-4aba-8148-045ffa8902c3",
-        "name": "\u6771\u65b9\u8d44\u5fd7\u758f ~ Immortal Immanuel.",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2861740/header.jpg?t=1737085764",
-        "genre": "Bullet Hell",
+        "platformId": 861540,
+        "CEId": "7149f02d-a4bf-44ca-a571-7a3eafa3b8b6",
+        "name": "Dicey Dungeons",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/861540/header.jpg?t=1661358070",
+        "genre": "Strategy",
         "tier": 1,
-        "points": 10,
-        "createdAt": "2025-01-30T08:21:03.000Z",
+        "points": 15,
+        "createdAt": "2023-01-31T03:54:34.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 62,
         "playersStarted": 0,
-        "playersTotal": 7,
+        "playersTotal": 460,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 975,
-                "final": 975,
+                "initial": 1479,
+                "final": 1479,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 850,
-                "final": 850,
+                "initial": 1279,
+                "final": 1279,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 120000,
-                "final": 120000,
+                "initial": 170000,
+                "final": 170000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 2195,
+                "final": 2195,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 1949,
+                "final": 1949,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Knowledge Linked [10\u2605]\nBeat the game on Lunatic without continuing with all characters. / Score 2.214B in a run. / Beat either the game or Extra mode without dying and bombing.",
-            "community": 2,
-            "communityText": "Joy Star Lord\nBeat the game on Lunatic without dying, bombing and using your hyper.\n\nLocked In in Heaven\nBeat the Extra mode without dying, bombing and using your hyper.",
-            "achievements": 24
+            "primaryText": "Lucked Out [15\u2605]\nComplete all six bonus rounds in hard mode. / Defeat Lady Luck.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 53
         },
         "gameTags": [
-            "Action",
-            "Bullet Hell",
-            "Shoot 'Em Up",
+            "Roguelike Deckbuilder",
+            "Card Battler",
+            "Deckbuilding",
+            "Roguelite",
             "Indie",
-            "2D",
-            "Shooter",
-            "Anime",
+            "Roguelike",
+            "Strategy",
+            "Turn-Based",
+            "Card Game",
+            "Mouse only",
             "Singleplayer",
-            "Fantasy",
-            "Magic",
-            "Female Protagonist",
-            "Music",
-            "Arcade",
-            "Flight",
-            "Faith"
+            "Replay Value",
+            "Cute",
+            "Colorful",
+            "Great Soundtrack",
+            "Cartoon",
+            "Casual",
+            "Dungeon Crawler",
+            "RPG",
+            "Procedural Generation"
         ],
         "languages": {
-            "schinese": "IS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "catalan": "I",
+            "dutch": "I",
+            "irish": "I",
+            "koreana": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I",
+            "welsh": "I"
         }
     }
 }
-var gameOfDayDate = '2026-01-30'
+var gameOfDayDate = '2026-01-31'
