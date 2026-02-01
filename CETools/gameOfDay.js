@@ -2,100 +2,74 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 861540,
-        "CEId": "7149f02d-a4bf-44ca-a571-7a3eafa3b8b6",
-        "name": "Dicey Dungeons",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/861540/header.jpg?t=1661358070",
-        "genre": "Strategy",
-        "tier": 1,
-        "points": 15,
-        "createdAt": "2023-01-31T03:54:34.000Z",
+        "platformId": 720150,
+        "CEId": "29c0f245-0552-4aa5-84d8-280085ac69e1",
+        "name": "Shikhondo(\u98df\u9b42\u5f92) - Soul Eater",
+        "header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/720150/header.jpg?t=1731979117",
+        "genre": "Bullet Hell",
+        "tier": 2,
+        "points": 30,
+        "createdAt": "2025-02-01T04:39:20.000Z",
         "updatedAt": "2025-09-08T23:40:11.000Z",
-        "playersCompleted": 62,
-        "playersStarted": 0,
-        "playersTotal": 460,
+        "playersCompleted": 2,
+        "playersStarted": 2,
+        "playersTotal": 21,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 1499,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1479,
-                "final": 1479,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1279,
-                "final": 1279,
+                "initial": 719,
+                "final": 719,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 170000,
-                "final": 170000,
+                "initial": 101000,
+                "final": 101000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2195,
-                "final": 2195,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1949,
-                "final": 1949,
+                "initial": 1149,
+                "final": 1149,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Lucked Out [15\u2605]\nComplete all six bonus rounds in hard mode. / Defeat Lady Luck.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 53
+            "primary": 2,
+            "primaryText": "Raising Hell [25\u2605]\nComplete Arcade Mode on Extreme without using continues.\n\nSoul Beater [5\u2605]\nComplete Arcade Mode on Normal or higher without using continues.",
+            "community": 1,
+            "communityText": "Reaper Feared by All\nComplete Hardcore Mode on Extreme without using continues.",
+            "achievements": 7
         },
         "gameTags": [
-            "Roguelike Deckbuilder",
-            "Card Battler",
-            "Deckbuilding",
-            "Roguelite",
             "Indie",
-            "Roguelike",
-            "Strategy",
-            "Turn-Based",
-            "Card Game",
-            "Mouse only",
-            "Singleplayer",
-            "Replay Value",
-            "Cute",
-            "Colorful",
-            "Great Soundtrack",
-            "Cartoon",
+            "Action",
+            "Shoot 'Em Up",
+            "Bullet Hell",
             "Casual",
-            "Dungeon Crawler",
-            "RPG",
-            "Procedural Generation"
+            "Shooter",
+            "Anime",
+            "Female Protagonist",
+            "Arcade",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "arabic": "I",
-            "brazilian": "I",
-            "catalan": "I",
-            "dutch": "I",
-            "irish": "I",
-            "koreana": "I",
-            "polish": "I",
-            "portuguese": "I",
-            "russian": "I",
-            "schinese": "I",
-            "tchinese": "I",
-            "turkish": "I",
-            "welsh": "I"
+            "english": "IS",
+            "japanese": "S",
+            "schinese": "S"
         }
     }
 }
-var gameOfDayDate = '2026-01-31'
+var gameOfDayDate = '2026-02-01'
