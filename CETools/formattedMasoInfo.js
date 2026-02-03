@@ -396,9 +396,9 @@ var masoData =
         "description": "\ud83c\udf1f Reach the Summit",
         "tier": "5",
         "owners": 74,
-        "completions": 2,
-        "playtime": 61.375,
-        "newestCompletion": "2025-06-04T20:34:39.000Z"
+        "completions": 3,
+        "playtime": 76.9888888888889,
+        "newestCompletion": "2026-02-01T21:42:44.000Z"
     },
     "437570": {
         "description": "Don\"t lose your head",
@@ -3384,8 +3384,8 @@ var masoData =
         "description": "\u2733 What your antivirus does behind the lines",
         "tier": "2",
         "owners": 28,
-        "completions": 3,
-        "playtime": 31.666666666666668,
+        "completions": 4,
+        "playtime": 28.758333333333333,
         "newestCompletion": "2025-12-30T09:41:59.000Z"
     },
     "2016580": {
@@ -3883,7 +3883,7 @@ var masoData =
     "774181": {
         "description": "Heartbeat... Heartbeat... Heartbeat... Heart.",
         "tier": "1",
-        "owners": 57,
+        "owners": 58,
         "completions": 4,
         "playtime": 19.741666666666667,
         "newestCompletion": "2025-12-17T00:44:58.000Z",
@@ -4312,9 +4312,9 @@ var masoData =
         "description": "\u2606 Hellishly Wicked",
         "tier": "3",
         "owners": 17,
-        "completions": 6,
-        "playtime": 44.480555555555554,
-        "newestCompletion": "2025-12-19T16:17:43.000Z"
+        "completions": 7,
+        "playtime": 41.18095238095238,
+        "newestCompletion": "2026-01-23T14:23:24.000Z"
     },
     "1388230": {
         "description": "\u2606 Not quite a Bad Apple",
@@ -4435,10 +4435,10 @@ var masoData =
     "1388770": {
         "description": "Finland Pain Simulator",
         "tier": "1",
-        "owners": 48,
-        "completions": 9,
-        "playtime": 27.477777777777778,
-        "newestCompletion": "2025-10-09T05:09:15.000Z"
+        "owners": 49,
+        "completions": 10,
+        "playtime": 25.873333333333335,
+        "newestCompletion": "2026-01-24T18:55:54.000Z"
     },
     "1164940": {
         "description": "\u2733 You killed Kenny! You Bastards!",
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 39,
+        "owners": 40,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
@@ -4531,9 +4531,9 @@ var masoData =
     "1282210": {
         "description": "6-key EDM concert",
         "tier": "1",
-        "owners": 4,
-        "completions": 1,
-        "playtime": 14.933333333333334,
+        "owners": 5,
+        "completions": 2,
+        "playtime": 23.700000000000003,
         "newestCompletion": "2024-09-16T02:50:19.000Z"
     },
     "3125120": {
@@ -4547,9 +4547,9 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 19,
-        "completions": 9,
-        "playtime": 11.40185185185185,
+        "owners": 20,
+        "completions": 10,
+        "playtime": 11.809999999999999,
         "newestCompletion": "2026-01-04T11:36:49.000Z"
     },
     "434660": {
