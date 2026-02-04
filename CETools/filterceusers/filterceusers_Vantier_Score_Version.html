@@ -1,0 +1,887 @@
+<html>
+    <head>
+        <meta property="og:title" content="CE Users List" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://icondor15.github.io/CETools/filterceusers/filterceusers.html" />
+        <meta property="og:image" content="https://icondor15.github.io/CETools/filterceusers/favicon.png" />
+        <meta property="og:description" content="A website to quickly view and filter all the leaderboard users in the Challenge Enthusiasts website! - Made by Icondor." />
+        <meta name="theme-color" content="#232224">
+        
+        <title>CE Users List</title>
+        <link rel="icon" type="image/x-icon" href="favicon.png">
+        <style>
+            * {
+                font-family: 'Tahoma', Helvetica, sans-serif;
+                user-select:none;
+            }
+
+            table {
+                border:1px solid black;
+                font-size: 14px;
+            }
+            td {
+                border:2px solid black;
+            }
+
+            a {
+                text-decoration: none;
+            }
+            a:hover {
+                text-decoration: underline;
+            }
+
+            .button {
+                background-color: #dddddd;
+                padding: 0px;
+            }
+            .button:hover {
+                cursor:pointer;
+                background-color: #bbbbbb;
+            }
+            .button:active {
+                background-color: #888888;
+            }
+
+            .subtitle {
+                font-size: 10px;
+                color:#bbbbbb;
+            }
+
+            .scrollLink {
+                font-size:16px;
+                text-align: center;
+                margin: 5px auto;
+                width: 20%;
+            }
+            .scrollLink:hover {
+                cursor:pointer;
+                text-decoration: underline;
+            }
+
+            .textCopyable:hover {
+                cursor:pointer;
+                text-decoration: underline;
+            }
+            .textCopyable:active {
+                cursor:pointer;
+                text-decoration: underline 1.66px;
+            }
+
+            #secretLink {
+                user-select: none;
+                color:#d3ebe2;
+            }
+            #secretLink:hover {
+                color:#00de8c;
+            }
+            #secretLink:active {
+                color:#008a58;
+            }
+
+            input::-webkit-outer-spin-button,
+            input::-webkit-inner-spin-button {
+                -webkit-appearance: none;
+                margin: 0;
+            }
+            input[type=number] {
+                width: 50px;
+                appearance: textfield;
+                -moz-appearance: textfield;
+            }
+        </style>
+    </head>
+
+    <body style="background-color:#d3ebe2; background-image: url(https://cdn.discordapp.com/avatars/107392353060278272/ac808597de51e2723322c34ce64722e8.png); background-blend-mode: soft-light;">
+        <div style="margin: 10px auto; text-align: center;">
+            <p style="font-size: 10px; font-weight:bold; margin-bottom:-10px;"><a href="../CETools.html"><<< Go back to CETools</a></p>
+            <p style="margin-bottom: 2px;">Made by <a href="https://x.com/CondorDraws" target=”_blank” style="font-weight: bold;">𝕏 CondorDraws <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
+                <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
+            </svg></a> / <a href="https://bsky.app/profile/icondor.bsky.social" target=”_blank” style="font-weight: bold;"> <svg fill="currentColor" height="14" icon-name="external-outline" viewBox="0 0 24 20" width="14" xmlns="http://www.w3.org/2000/svg">
+                <path id="shape0" transform="translate(0.429157225453458, 1.91122062657742)" fill-rule="evenodd" d="M11.0909 8.2934C6.86685 1.86682 3.50684 -0.81472 1.01084 0.248779C-1.40716 8.46128 0.51285 12.103 6.77086 11.1738C1.0687 11.7506 0.108703 13.9106 3.89086 17.6538C7.67302 21.3971 10.073 20.1969 11.0909 14.0534C12.1087 20.1966 14.5087 21.3961 18.2908 17.6529C22.073 13.9097 21.113 11.7497 15.4108 11.1729C21.6688 11.7054 23.5888 8.46128 21.1708 0.248779C18.6748 -0.814721 15.3148 1.4699 11.0909 8.2934Z" sodipodi:nodetypes="ccczczccc"/>
+            </svg> icondor.bsky.social <svg fill="currentColor" height="12" icon-name="external-outline" viewBox="0 0 20 20" width="10" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
+                <path d="M15.75 13H17v3.375A2.63 2.63 0 0 1 14.375 19H3.625A2.63 2.63 0 0 1 1 16.375V5.625A2.629 2.629 0 0 1 3.625 3H7v1.25H3.625A1.377 1.377 0 0 0 2.25 5.625v10.75a1.377 1.377 0 0 0 1.375 1.375h10.75a1.377 1.377 0 0 0 1.375-1.375V13Zm2.625-12h-5v1.25h3.491l-8.433 8.433.884.884 8.433-8.433v3.491H19v-5A.625.625 0 0 0 18.375 1Z"></path>
+            </svg></a> / <b>@icondor</b> on Discord.</p>
+            <sub id="userDate">Last checked user database on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
+            <sub id="wishlistDate">Last checked wishlist info on: <b>Loading...</b> at <b>Loading...</b> (<b>GMT+1</b>) and took <b>Loading...</b> seconds.</sub><br>
+            <sub style="font-size: 10px;">(If any data changed while the search was ongoing (Unlikely but not impossible) it may be slightly inaccurate.)</sub>
+        </div>
+        <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, document.body.scrollHeight);"><b>vvv Move to bottom vvv</b></span></div>
+        <table id="MainTable" style="margin: auto; width: 100%; text-align: center; background-color:#ffffff;">
+            <tr>
+                <td colspan="17">    
+                    <p id="Count" style="margin: auto; padding: 15px 15px 5px; font-size: 30px; font-weight: bold; text-align: center;">Filtered Challenge Enthusiasts Users: Loading...</p>
+                    <p id="CountPoints" style="margin: auto; padding: 0px 15px 15px; font-size: 22px; font-weight: bold; text-align: center;">Total Points of Filtered: Loading...</p>
+                    <p id="loadingText" style="margin: -10px auto auto; font-size: 16px; font-weight: bold; text-align: center;">Loading Table...</p>
+                    <sub style="margin-top: -10px;" class="subtitle">(Only shows leaderboard members and some manually added Excluded members!)</sub><br>
+                    <sub style="margin-top: -10px;" class="subtitle">(Excluded members have placeholder stats so they may get ordered weird! Without clicking any ordering button they should appear at the bottom of the list!)</sub><br>
+                    <sub style="margin-top: -10px;" class="subtitle">(If you're Excluded from the leaderboard and want to be added here, just ask me with a link to your CE Profile!)</sub><br>
+                    <sub style="margin-top: -10px; font-size: 8px;" class="subtitle">(Please be nice!)</sub>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="17">
+                    <table style="margin: auto; width: 100%; text-align: center;">
+                        <tr>
+                            <td colspan="14">
+                                <p style="margin: auto; padding-top: 15px; padding-bottom: 3px; font-size: 25px; font-weight: bold; text-align: center;">Filters</p>
+                                <sub class="subtitle">(All textboxes search on every input so it might feel choppy!)</sub>
+                                <div style="margin: 10px auto 3px;">
+                                    <span class="button" style="width:125px; padding: 0px 10px; border:2px solid black;" onclick="location = location" >Reset All Filters</span><br>
+                                </div>
+                                <sub class="subtitle">(Pls ignore that it just reloads the page)</sub>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="nameFilter">
+                                <b>Name Contains:</b><br>
+                                <input type="text" id="nameFilterBox" autocomplete="off" onchange onpropertychange onkeyuponpaste oninput="searchName()" name="name"></input><br>
+                                <input type="checkbox" id="nameFilterCase" onclick="caseSensitive()">Case Sensitive</input>
+                            </td>
+                            <td id="extraFilter">
+                                <b>Extras & Non-Filters:</b><br>
+                                <sub class="subtitle">(Cause I didn't know where else to put these)</sub><br><br>
+                                <input id="staffOnly" type="checkbox" onchange="staffOnly()">Staff Only</input><br>
+                                <sub class="subtitle">(Show only members of staff)</sub><br>
+                                <input  id="idToLink" type="checkbox" onchange="idToLink()">(Infos) Copy ID/Name > Copy Link</input><br>
+                                <sub class="subtitle">(Useful to copy many links quickly)</sub><br>
+                                <input id="reverseOrder" type="checkbox" onchange="reverseOrder()">Reverse Order Buttons</input><br>
+                                <sub class="subtitle">(Automatically Reorders by the last order button clicked on switch)</sub><br>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td class="button" onclick="order('name')">Order By Name</td>
+                <td class="button" onclick="order('rank')">Order By Rank</td>
+                <td colspan="2" class="button" onclick="order('points')">Order By Points</td>
+                <td colspan="2" class="button" onclick="order('skill')">Order By CE Rating</td>
+                <td colspan="2" class="button" onclick="order('completions')">Order By Completions</td>
+                <td class="button" onclick="order('games')">Order By Games</td>
+                <td colspan="2" class="button" onclick="order('popular')">Order By "Popularity"</td>
+                <td colspan="6">
+                    <sub id="idStringTop" class="subtitle">(Click any of the IDs or names to copy them to the clipboard!)</sub><br>
+                    <sub class="subtitle">(All of the links open in a new tab!)</sub>
+                </td>
+            </tr>
+            <tr style="font-weight: bold;">
+                <td rowspan="2">PFP</td>
+                <td rowspan="2">
+                    Name<br>
+                    <sub class="subtitle">(Click to copy the name to clipboard!)</sub>
+                </td>
+                <td rowspan="2">Rank</td>
+                <td colspan="2">Points</td>
+                <td colspan="2">CE Rating</td>
+                <td colspan="2">Completions</td>
+                <td rowspan="2">Games Owned</td>
+                <td colspan="2">"Popularity"</td>
+                <td rowspan="2">CE Info</td>
+                <td rowspan="2">Steam Info</td>
+                <td rowspan="2">RA Info</td>
+                <td colspan="2">'Filter By...' in Game List</td>
+            </tr>
+            <tr style="font-weight: bold;">
+                <td>LB</td>
+                <td>Score</td>
+                <td>LB</td>
+                <td>Score</td>
+                <td>LB</td>
+                <td>Count</td>
+                <td>LB</td>
+                <td>Count</td>
+                <td>Classic</td>
+                <td>Modern</td>
+            </tr>
+            <tr id="loading">
+                <td colspan="14">    
+                    <p style="margin: auto; padding: 15px; font-size: 30px; font-weight: bold; text-align: center;">Loading...</p>
+                </td>
+            </tr>
+            <tr style="font-weight: bold;">
+                <td rowspan="2">PFP</td>
+                <td rowspan="2">
+                    Name<br>
+                    <sub class="subtitle">(Click to copy the name to clipboard!)</sub>
+                </td>
+                <td rowspan="2">Rank</td>
+                <td>LB</td>
+                <td>Score</td>
+                <td>LB</td>
+                <td>Score</td>
+                <td>LB</td>
+                <td>Count</td>
+                <td rowspan="2">Games Owned</td>
+                <td>LB</td>
+                <td>Count</td>
+                <td rowspan="2">CE Info</td>
+                <td rowspan="2">Steam Info</td>
+                <td rowspan="2">RA Info</td>
+                <td>Classic</td>
+                <td>Modern</td>
+            </tr>
+            <tr style="font-weight: bold;">
+                <td colspan="2">Points</td>
+                <td colspan="2">CE Rating</td>
+                <td colspan="2">Completions</td>
+                <td colspan="2">"Popularity"</td>
+                <td colspan="2">'Filter By...' in Game List</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td class="button" onclick="order('name')">Order By Name</td>
+                <td class="button" onclick="order('rank')">Order By Rank</td>
+                <td colspan="2" class="button" onclick="order('points')">Order By Points</td>
+                <td colspan="2" class="button" onclick="order('skill')">Order By CE Rating</td>
+                <td colspan="2" class="button" onclick="order('completions')">Order By Completions</td>
+                <td class="button" onclick="order('games')">Order By Games</td>
+                <td colspan="2" class="button" onclick="order('popular')">Order By "Popularity"</td>
+                <td colspan="5">
+                    <sub id="idStringBottom" class="subtitle">(Click any of the IDs or names to copy them to the clipboard!)</sub><br>
+                    <sub class="subtitle">(All of the links open in a new tab!)</sub>
+                </td>
+            </tr>
+        </table>
+        <div style="margin: 5px; text-align: center;"><span class="scrollLink" onclick="window.scrollTo(0, 0);"><b>^^^ Move to top ^^^</b></span></div>
+        
+        <p style="font-size:7px; text-align:center;"><a id="secretLink" target="_blank" href="https://github.com/Icondor15/icondor15.github.io">Secret link to Github page!</a></p>
+
+        <script src="../formattedList.js"></script>
+        <script src="../formattedExtrasList.js"></script>
+        <script src="../formattedUserList.js"></script>
+        <script src="../formattedWishlistList.js"></script>
+
+        <script>
+            //upscroll on reload
+            window.onbeforeunload = function () {
+                window.scrollTo(0, 0);
+            }
+
+            //Date and time (less important)
+            document.getElementById("userDate").innerHTML = "Last checked user database on: <b>" + userDate["day"] + "/" + userDate["month"] + "/" + userDate["year"] + "</b> at <b>" + userDate["hour"] + ":" + userDate["minute"] + ":" + userDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(userDate["searchTime"], 2) + "</b> seconds.";
+
+            document.getElementById("wishlistDate").innerHTML = "Last checked wishlist info on: <b>" + wishlistDate["day"] + "/" + wishlistDate["month"] + "/" + wishlistDate["year"] + "</b> at <b>" + wishlistDate["hour"] + ":" + wishlistDate["minute"] + ":" + wishlistDate["second"] + "</b> (<b>GMT+1</b>) and took <b> " + toFixed(wishlistDate["searchTime"], 2) + "</b> seconds.";
+
+            let timeStart = 0;
+            //Literally everything else (More Important)
+            let lastOrder = "popular";
+            let keys = Object.keys(userData); //also acts as point leaderboard order
+            let filteredData = keys;
+
+            let exPlusList = ["992f86df-6327-47f7-ba0c-0212126c0aaf"];
+            //filter variables
+            let filterText = "";
+            let caseSensitivity = false;
+            let linkReplaceId = false;
+            let useReverseOrder = false;
+            let useStaffOnly = false;
+
+            let totalPoints = 0;
+            
+            //Load Image Cookie
+            let loadImages = true;
+            if(getCookie("loadImages") == "false") {loadImages = false;}
+
+            let reloadMax = 0;
+            let reloadCounter = 0;
+            let reloadUnit = 250;
+            var generateLoop;
+            
+            let gamePopularity = {}
+            setGamePopularity()
+            function setGamePopularity()
+            {
+                for(let i = 0; i < data.length; i++)
+                {
+                    let game = data[i];
+                    if(game["CEId"] in extrasData)
+                    {
+                        let gameReviews = extrasData[game["CEId"]]["reviews"];
+
+                        //Score calculation
+                        let score = 0;
+                        let scoreMult = 0;
+
+                        let lowRange = 0;
+                        let highRange = 249;
+                        let lowMultRange = 0.25;
+                        let highMultRange = 0.5;
+
+                        if(gameReviews["total"] >= 250 && gameReviews["total"] < 2500)
+                        {
+                            lowRange = 250;
+                            highRange = 2499;
+                            lowMultRange = 0.5;
+                            highMultRange = 1;
+                        }
+                        else if(gameReviews["total"] >= 2500 && gameReviews["total"] < 10000)
+                        {
+                            lowRange = 2500;
+                            highRange = 9999;
+                            lowMultRange = 1;
+                            highMultRange = 1.25;
+                        }
+                        else if(gameReviews["total"] >= 10000 && gameReviews["total"] < 25000)
+                        {
+                            lowRange = 10000;
+                            highRange = 24999;
+                            lowMultRange = 1.25;
+                            highMultRange = 1.5;
+                        }
+                        else if(gameReviews["total"] >= 25000 && gameReviews["total"] < 100000)
+                        {
+                            lowRange = 25000;
+                            highRange = 99999;
+                            lowMultRange = 1.5;
+                            highMultRange = 2;
+                        }
+
+                        if(gameReviews["total"] < 100000) {scoreMult = ((gameReviews["total"] - lowRange) / (highRange - lowRange)) * (highMultRange - lowMultRange) + lowMultRange;}
+                        else {scoreMult = 2}
+                        
+                        gamePopularity[game["CEId"]] = 
+                        {
+                            "points" : game["points"],
+                            "popularity" : Math.round(Math.min(game["points"], 300) * scoreMult)
+                        }
+                    }
+                    else {continue;}
+                }
+            }
+
+            let userPopularity = {}
+            setUserPopularity()
+            function setUserPopularity()
+            {
+                //Points
+                for(let i = 0; i < keys.length; i++)
+                {
+                    let popularityScore = 0;
+                    gameKeys = Object.keys(userData[keys[i]]["gamesPoints"]);
+                    for(let j = 0; j < gameKeys.length; j++)
+                    {
+                        if(gameKeys[j] in gamePopularity && userData[keys[i]]["gamesPoints"][gameKeys[j]]["points"] == gamePopularity[gameKeys[j]]["points"])
+                        {
+                            popularityScore += gamePopularity[gameKeys[j]]["popularity"];
+                        }
+                    }
+                    userPopularity[keys[i]] =
+                    {
+                        "score" : popularityScore
+                    }
+                }
+
+                //Leaderboard position
+                let userPopularityKeys = keys.slice();
+                userPopularityKeys.sort((a,b) => (userPopularity[a]["score"] > userPopularity[b]["score"]) ? -1 : ((userPopularity[b]["score"] > userPopularity[a]["score"]) ? 1 : 0));
+
+                for(let i = 0; i < keys.length; i++)
+                {
+                    userPopularity[keys[i]]["position"] = userPopularityKeys.indexOf(keys[i]) + 1;
+                }
+
+                console.log(userPopularity);
+            }
+
+            order("popular");
+
+            function caseSensitive()
+            {
+                if(caseSensitivity == true) {caseSensitivity = false;}
+                else if(caseSensitivity == false) {caseSensitivity = true;}
+
+                if(document.getElementById("nameFilterBox").value != "") {searchName();}
+            }
+
+            function searchName()
+            {   
+                if(caseSensitivity)
+                {
+                    filterText = document.getElementById("nameFilterBox").value;
+                }
+                else
+                {
+                   filterText = document.getElementById("nameFilterBox").value.toUpperCase();
+                }
+                order(lastOrder);
+            }
+            
+            function idToLink()
+            {
+                if(linkReplaceId == true)
+                {
+                    linkReplaceId = false;
+                    document.getElementById("idStringTop").innerHTML = "(Click any of the IDs or names to copy them to the clipboard!)";
+                    document.getElementById("idStringBottom").innerHTML = "(Click any of the IDs or names to copy them to the clipboard!)";
+                }
+                else if(linkReplaceId == false)
+                {
+                    linkReplaceId = true;
+                    document.getElementById("idStringTop").innerHTML = "(Click any of the IDs or names to copy their link to the clipboard!)";
+                    document.getElementById("idStringBottom").innerHTML = "(Click any of the IDs or names to copy their link to the clipboard!)";
+                }
+                order(lastOrder);
+            }
+            function staffOnly()
+            {
+                if(useStaffOnly == true) {useStaffOnly = false;}
+                else if(useStaffOnly == false) {useStaffOnly = true;}
+                order(lastOrder);
+            }
+            function reverseOrder()
+            {
+                if(useReverseOrder == true) {useReverseOrder = false;}
+                else if(useReverseOrder == false) {useReverseOrder = true;}
+                order(lastOrder);
+            }
+
+            function filterData()
+            {
+                if(caseSensitivity)
+                {
+                    filteredData = keys.filter(val => {return userData[val]["name"].includes(filterText)})
+                }
+                else
+                {
+                    filteredData = keys.filter(val => {return userData[val]["name"].toUpperCase().includes(filterText)})
+                }
+
+                if(useStaffOnly)
+                {
+                    filteredData = filteredData.filter(val => {return Object.keys(userData[val]).includes("userGroups")});
+                    var mods = filteredData.filter(val => {return Object.keys(userData[val]["userGroups"]).includes("Moderator") || Object.keys(userData[val]["userGroups"]).includes("Administrator")});
+                    var me = filteredData.filter(val => {return userData[val]["name"] == "Icondor"})
+
+                    filteredData = mods.concat(me);
+                }
+            }
+
+            function order(type)
+            {
+                filteredData = keys;
+                filterData();
+                
+                //change last order
+                lastOrder = type;
+
+                if(type != "points")
+                {
+                    if(type == "name")
+                    {
+                        filteredData.sort((a,b) => (userData[a]["name"].toUpperCase() > userData[b]["name"].toUpperCase()) ? 1 : ((userData[b]["name"].toUpperCase() > userData[a]["name"].toUpperCase()) ? -1 : 0));
+                    }
+                    else if(type == "rank")
+                    {
+                        for(let j = 0; j < exPlusList.length; j++)
+                        {
+                            if(filteredData.includes(exPlusList[j]))
+                            {
+                                filteredData.splice(filteredData.indexOf(exPlusList[j]), 1);
+                                filteredData.unshift(exPlusList[j]);
+                            }
+                        }
+                    }
+                    else if(type == "skill")
+                    {
+                        filteredData.sort((a,b) => (userData[a]["skill"]["rank"] > userData[b]["skill"]["rank"]) ? 1 : ((userData[b]["skill"]["rank"] > userData[a]["skill"]["rank"]) ? -1 : 0));
+                    }
+                    else if(type == "completions")
+                    {
+                        hasCompletions = filteredData.filter(val => {return "completions" in userData[val]})
+                        noCompletions = filteredData.filter(val => {return !("completions" in userData[val])})
+
+                        hasCompletions.sort((a,b) => (userData[a]["completions"]["rank"] < userData[b]["completions"]["rank"]) ? 1 : ((userData[b]["completions"]["rank"] < userData[a]["completions"]["rank"]) ? -1 : 0));
+
+                        noCompletions.sort((a,b) => (userData[a]["points"] > userData[b]["points"]) ? 1 : ((userData[b]["points"] > userData[a]["points"]) ? -1 : 0));
+
+                        filteredData = noCompletions.concat(hasCompletions);
+                        filteredData.reverse();
+                    }
+                    else if(type == "games")
+                    {
+                        filteredData.sort(compare);
+                        function compare(a, b)
+                        {
+                            var searchIds = Object.keys(userData[a]["gamesPoints"]);
+                            var gamesOwned = searchIds.length + userData[a]["gamesNoPoints"].length;
+
+                            a = gamesOwned;
+
+                            searchIds = Object.keys(userData[b]["gamesPoints"]);
+                            gamesOwned = searchIds.length + userData[b]["gamesNoPoints"].length;
+
+                            b = gamesOwned;
+
+                            if(a > b) {return 1}
+                            if(b > a) {return -1}
+                            return 0;
+                        }
+                        filteredData.reverse();
+                    }
+                    else if(type == "popular")
+                    {
+                        filteredData.sort((a,b) => (userPopularity[a]["score"] > userPopularity[b]["score"]) ? -1 : ((userPopularity[b]["score"] > userPopularity[a]["score"]) ? 1 : 0));
+                    }
+                }
+
+                if(useReverseOrder == true) {filteredData.reverse()}
+
+                reloadCounter = 0;
+                reloadMax = (filteredData.length - (filteredData.length % reloadUnit))/ reloadUnit + 1;
+                document.getElementById("loadingText").innerHTML = "Loading Table...";
+                
+                clearInterval(generateLoop);
+                timeStart = Date.now();
+                generateLoop = setInterval(generateTable, 1);
+            }
+
+            function generateTable()
+            {
+                if(document.getElementById("loading") != null) {document.getElementById("loading").remove()}
+                var table = document.getElementById("MainTable");
+
+                if(reloadCounter == 0)
+                {
+                    totalPoints = 0;
+                    var replace = document.getElementsByClassName("replace");
+                    document.querySelectorAll('.replace').forEach(e => e.remove());
+                }
+
+                document.getElementById("Count").innerHTML = "Filtered Challenge Enthusiasts Users: " + filteredData.length;
+
+                var check = reloadUnit + (reloadUnit * reloadCounter);
+
+                if(reloadCounter == reloadMax -1)
+                {
+                    check = (filteredData.length % reloadUnit) + reloadUnit * reloadCounter;
+                    document.getElementById("loadingText").innerHTML = "Table Loaded! (Took " + (Date.now() - timeStart)/1000 + "s.)";
+                    clearInterval(generateLoop);
+                }
+
+                for(let i = reloadUnit*reloadCounter; i < check; i++)
+                {
+                    try
+                    {
+                        var row1 = table.insertRow((i*2)+5);
+                    }
+                    catch {break;}
+                    row1.classList.add("replace");
+                    var cellPFP = row1.insertCell(0);
+                    cellPFP.rowSpan = 2;
+                    var cellName = row1.insertCell(1);
+                    cellName.rowSpan = 2;
+                    var cellRank = row1.insertCell(2);
+                    cellRank.rowSpan = 2;
+                    var cellPointsLB = row1.insertCell(3);
+                    cellPointsLB.rowSpan = 2;
+                    var cellPoints = row1.insertCell(4);
+                    cellPoints.rowSpan = 2;
+                    var cellSkillLB = row1.insertCell(5);
+                    cellSkillLB.rowSpan = 2;
+                    var cellSkill = row1.insertCell(6);
+                    cellSkill.rowSpan = 2;
+                    var cellCompletionsLB = row1.insertCell(7);
+                    cellCompletionsLB.rowSpan = 2;
+                    var cellCompletions = row1.insertCell(8);
+                    cellCompletions.rowSpan = 2;
+                    var cellGames = row1.insertCell(9);
+                    cellGames.rowSpan = 2;
+                    var cellPopularLB = row1.insertCell(10);
+                    cellPopularLB.rowSpan = 2;
+                    var cellPopular = row1.insertCell(11);
+                    cellPopular.rowSpan = 2;
+                    var cellCEID = row1.insertCell(12);
+                    var cellSteamID = row1.insertCell(13);
+                    var cellRAID = row1.insertCell(14);
+                    var cellFilter = row1.insertCell(15);
+                    var cellFilterModern = row1.insertCell(16);
+                    if(!(filteredData[i] in wishlistData)) 
+                    {
+                        cellFilter.rowSpan = 2;
+                        cellFilterModern.rowSpan = 2;
+                    }
+
+                    var row2 = table.insertRow(((i+1)*2)+4);
+                    row2.classList.add("replace");
+                    var cellCELink = row2.insertCell(0);
+                    var cellSteamLink = row2.insertCell(1);
+                    var cellRALink = row2.insertCell(2);
+                    if(filteredData[i] in wishlistData) 
+                    {
+                        var cellWishlist = row2.insertCell(3);
+                        var cellWishlistModern = row2.insertCell(4);
+                    }
+
+                    if(loadImages) {cellPFP.innerHTML = "<a href='" + userData[filteredData[i]]["avatar"] + "' target='_blank'><img style='height:80px; float:left;' src='" + userData[filteredData[i]]["avatar"] + "'></a>";}
+                    else{cellPFP.innerHTML = "<a href='" + userData[filteredData[i]]["avatar"] + "' target='_blank'>Click to open the image in other tab</a>"}
+                    cellPFP.style.padding = "0px";
+                    cellPFP.title = "Click to open the image in another tab!";
+
+                    cellName.innerHTML = "<span id='tmp'>" + userData[filteredData[i]]["name"] + "</span>";
+                    var p = document.getElementById("tmp");
+                    if(Object.keys(userData[filteredData[i]]).includes("userGroups"))
+                    {
+                        for(let k = 0; k < Object.keys(userData[filteredData[i]]["userGroups"]).length; k++)
+                        {
+                            p.innerHTML += " <b style='color: " + userData[filteredData[i]]["userGroups"][Object.keys(userData[filteredData[i]]["userGroups"])[k]]["color"] + "'>(" + Object.keys(userData[filteredData[i]]["userGroups"])[k] + ")</b>";
+                        }
+                        if(!Object.keys(userData[filteredData[i]]["userGroups"]).includes("Excluded"))
+                        {
+                            totalPoints += userData[filteredData[i]]["points"];
+                        }
+                    }
+                    else {totalPoints += userData[filteredData[i]]["points"];}
+                    
+                    p.setAttribute("onClick", "navigator.clipboard.writeText('" + userData[filteredData[i]]["name"] + "')");
+                    p.classList.add('textCopyable');
+                    p.title = "Click to copy the name to clipboard!";
+                    p.id = null;
+
+                    cellRank.innerHTML = "E";
+                    cellRank.style.backgroundColor = "#979C9F99";
+                    if(userData[filteredData[i]]["points"] >= 50)
+                    {
+                        cellRank.innerHTML = "D";
+                        cellRank.style.backgroundColor = "#905F0099";
+                    }
+                    if(userData[filteredData[i]]["points"] >= 250)
+                    {
+                        cellRank.innerHTML = "C";
+                        cellRank.style.backgroundColor = "#2ecc7199";
+                    }
+                    if(userData[filteredData[i]]["points"] >= 500)
+                    {
+                        cellRank.innerHTML = "B";
+                        cellRank.style.backgroundColor = "#3498db99";
+                        cellRank.style.color = "#FFFFFF";
+                    }
+                    if(userData[filteredData[i]]["points"] >= 1000)
+                    {
+                        cellRank.innerHTML = "A";
+                        cellRank.style.backgroundColor = "#9b59b699";
+                    }
+                    if(userData[filteredData[i]]["points"] >= 2500)
+                    {
+                        cellRank.innerHTML = "<b>S</b>";
+                        cellRank.style.backgroundColor = "#e67e2299";
+                        cellRank.style.color = "#000000";
+                    }
+                    if(userData[filteredData[i]]["points"] >= 5000)
+                    {
+                        cellRank.innerHTML = "<b>SS</b>";
+                        cellRank.style.backgroundColor = "#f1c40f99";
+                    }
+                    if(userData[filteredData[i]]["points"] >= 7500)
+                    {
+                        cellRank.innerHTML = "<b>SSS</b>";
+                        cellRank.style.backgroundColor = "#e74c3c99";
+                        cellRank.style.color = "#FFFFFF";
+                    }
+                    if(userData[filteredData[i]]["points"] >= 10000)
+                    {
+                        cellRank.innerHTML = "<b>EX</b>";
+                        cellRank.style.backgroundColor = "#44444499";
+                    }
+                    if(exPlusList.includes(filteredData[i]))
+                    {
+                        cellRank.innerHTML = "<b>EX+</b>";
+                        cellRank.style.backgroundColor = "#FFFFFF99";
+                        cellRank.style.color = "#000000";
+                    }
+                    
+                    cellPointsLB.innerHTML = "#" + (keys.indexOf(filteredData[i]) + 1);
+                    if((keys.indexOf(filteredData[i]) + 1) <= 10) {cellPointsLB.style.fontWeight = "bold";}
+                    if((keys.indexOf(filteredData[i]) + 1) <= 3) {cellPointsLB.style.textDecoration = "underline";}
+                    if((keys.indexOf(filteredData[i]) + 1) == 1) {cellPointsLB.innerHTML += "!";}
+                    cellPointsLB.style.backgroundColor = "#FF000044";
+                    cellPoints.innerHTML = userData[filteredData[i]]["points"];
+                    cellPoints.style.backgroundColor = "#FF000044";
+
+                    cellSkillLB.innerHTML = "#" + userData[filteredData[i]]["skill"]["rank"];
+                    if(userData[filteredData[i]]["skill"]["rank"] <= 10) {cellSkillLB.style.fontWeight = "bold";}
+                    if(userData[filteredData[i]]["skill"]["rank"] <= 3) {cellSkillLB.style.textDecoration = "underline";}
+                    if(userData[filteredData[i]]["skill"]["rank"] == 1) {cellSkillLB.innerHTML += "!";}
+                    cellSkillLB.style.backgroundColor = "#00FF0044";
+                    cellSkill.innerHTML = userData[filteredData[i]]["skill"]["rating"] + "<sup>CR</sup>";
+                    cellSkill.style.backgroundColor = "#00FF0044";
+
+                    if("completions" in userData[filteredData[i]])
+                    {
+                        cellCompletionsLB.innerHTML = "#" + userData[filteredData[i]]["completions"]["rank"];
+                        if(userData[filteredData[i]]["completions"]["rank"] <= 10) {cellCompletionsLB.style.fontWeight = "bold";}
+                        if(userData[filteredData[i]]["completions"]["rank"] <= 3) {cellCompletionsLB.style.textDecoration = "underline";}
+                        if(userData[filteredData[i]]["completions"]["rank"] == 1) {cellCompletionsLB.innerHTML += "!";}
+                        cellCompletions.innerHTML = userData[filteredData[i]]["completions"]["count"] + "✔";
+                    }
+                    else
+                    {
+                        cellCompletionsLB.innerHTML = "#N/A";
+                        cellCompletions.innerHTML = "0🗸";
+                    }
+                    cellCompletionsLB.style.backgroundColor = "#0000FF44";
+                    cellCompletions.style.backgroundColor = "#0000FF44";
+                    
+                    var searchIds = Object.keys(userData[filteredData[i]]["gamesPoints"]);
+                    var gamesOwned = searchIds.length + userData[filteredData[i]]["gamesNoPoints"].length;
+                    cellGames.innerHTML = gamesOwned;
+
+
+                    if("completions" in userData[filteredData[i]])
+                    {
+                        cellPopularLB.innerHTML = "#" + userPopularity[filteredData[i]]["position"];
+                        if(userPopularity[filteredData[i]]["position"] <= 10) {cellPopularLB.style.fontWeight = "bold";}
+                        if(userPopularity[filteredData[i]]["position"] <= 3) {cellPopularLB.style.textDecoration = "underline";}
+                        if(userPopularity[filteredData[i]]["position"] == 1) {cellPopularLB.innerHTML += "!";}
+                    }
+                    else {cellPopularLB.innerHTML = "#N/A";}
+                    cellPopular.innerHTML = userPopularity[filteredData[i]]["score"] + "🔥";
+
+                    cellPopularLB.style.backgroundColor = "#FFFF0044";
+                    cellPopular.style.backgroundColor = "#FFFF0044";
+
+
+                    cellCEID.innerHTML = "<span id='tmpCEID'>" + filteredData[i] + "</span>";
+                    var p = document.getElementById("tmpCEID");
+                    if(!linkReplaceId)
+                    {
+                        p.setAttribute("onClick", "navigator.clipboard.writeText('" + filteredData[i] + "')");
+                        p.classList.add('textCopyable');
+                        p.title = "Click to copy the Challenge Enthusiasts ID to clipboard!";
+                    }
+                    else
+                    {
+                        p.setAttribute("onClick", "navigator.clipboard.writeText('https://cedb.me/user/" + filteredData[i] + "')");
+                        p.classList.add('textCopyable');
+                        p.title = "Click to copy the Challenge Enthusiasts Link to clipboard!";
+                    }
+                    p.id = null;
+
+                    cellCELink.innerHTML = "<a id='tmpCELink' target='_blank' style='font-weight: bold; color:#000000'>Challenge Enthusiasts Profile</a>";
+                    var a = document.getElementById("tmpCELink");
+                    a.href = "https://cedb.me/user/" + filteredData[i];
+                    a.id = null;
+
+                    cellSteamID.innerHTML = "<span id='tmpSteamID'>" + userData[filteredData[i]]["steamId"] + "</span>";
+                    var p = document.getElementById("tmpSteamID");
+                    if(userData[filteredData[i]]["steamId"] != "N/A")
+                    {
+                        if(!linkReplaceId)
+                        {
+                            p.setAttribute("onClick", "navigator.clipboard.writeText('" + userData[filteredData[i]]["steamId"] + "')");
+                            p.classList.add('textCopyable');
+                            p.title = "Click to copy the Steam ID to clipboard!";
+                        }
+                        else
+                        {
+                            p.setAttribute("onClick", "navigator.clipboard.writeText('https://steamcommunity.com/profiles/" + userData[filteredData[i]]["steamId"] + "')");
+                            p.classList.add('textCopyable');
+                            p.title = "Click to copy the Steam Link to clipboard!";
+                        }
+                        cellSteamLink.innerHTML = "<a id='tmpSteamLink' target='_blank' style='font-weight: bold; color:#1D88C7'>Steam Profile</a>";
+                        var a = document.getElementById("tmpSteamLink");
+                        a.href = "https://steamcommunity.com/profiles/" + userData[filteredData[i]]["steamId"];
+                        a.id = null;
+                    }
+                    else {
+                        cellSteamID.style.backgroundColor = "#00000044";
+                        cellSteamLink.innerHTML = "<b>N/A</b>";
+                        cellSteamLink.style.backgroundColor = "#00000044";
+                    }
+                    p.id = null;
+
+                    cellRAID.innerHTML = "<span id='tmpRAID'>" + userData[filteredData[i]]["retroId"] + "</span>";
+                    var p = document.getElementById("tmpRAID");
+                    if(userData[filteredData[i]]["retroId"] != "N/A")
+                    {
+                        if(!linkReplaceId)
+                        {
+                            p.setAttribute("onClick", "navigator.clipboard.writeText('" + userData[filteredData[i]]["retroId"] + "')");
+                            p.classList.add('textCopyable');
+                            p.title = "Click to copy the Retro Achievements Name to clipboard!";
+                        }
+                        else
+                        {
+                            p.setAttribute("onClick", "navigator.clipboard.writeText('https://retroachievements.org/user/" + userData[filteredData[i]]["retroId"] + "')");
+                            p.classList.add('textCopyable');
+                            p.title = "Click to copy the Retro Achievements Link to clipboard!";
+                        }
+                        cellRALink.innerHTML = "<a id='tmpRALink' target='_blank' style='color: #444444'><b style='color:#0F66DB'>Retro</b><b style='color:#eDB507'>Achievements</b> <b>Profile</b></a>";
+                        var a = document.getElementById("tmpRALink");
+                        a.href = "https://retroachievements.org/user/" + userData[filteredData[i]]["retroId"];
+                        a.id = null;
+                    }
+                    else {
+                        cellRAID.style.backgroundColor = "#00000044";
+                        cellRALink.innerHTML = "<b>N/A</b>";
+                        cellRALink.style.backgroundColor = "#00000044";
+                    }
+                    p.id = null;
+
+                    var bgGradient = "linear-gradient(#264587, #102554);";
+                    if(i%2 == 0) {bgGradient = "linear-gradient(#5270b0, #284483);"}
+
+                    cellFilter.innerHTML = "<a style='color:#000000;' target='_blank' href='../filtercegames/filtercegames.html?userFilter=" + filteredData[i] + "'><b>View Games</b></a>";
+                    cellFilterModern.innerHTML = "<a style='color:#ffffff; text-shadow: 0px 1.5px 3px black;' target='_blank' href='../filtercegames/filtercegamesV2.html?userFilter=" + filteredData[i] + "'><b>View Games</b></a>";
+                    cellFilterModern.style = "background: " + bgGradient + " border-radius: 5px;";
+                    
+                    if(filteredData[i] in wishlistData)
+                    {
+                        cellWishlist.innerHTML = "<a style='color:#073e7a;' target='_blank' href='../filtercegames/filtercegames.html?wishlistFilter=" + filteredData[i] + "'><b>View Wishlist</b></a>";
+                        cellWishlistModern.innerHTML = "<a style='color:#c7e4ff; text-shadow: 0px 1.5px 3px black;' target='_blank' href='../filtercegames/filtercegamesV2.html?wishlistFilter=" + filteredData[i] + "'><b>View Wishlist</b></a>";
+                        cellWishlistModern.style = "background: " + bgGradient + " border-radius: 5px;";
+                    }
+
+                    if(i%2 == 0)
+                    {
+                        row1.style.backgroundColor = "#dddddd";
+                        row2.style.backgroundColor = "#dddddd";
+                    }
+                    else
+                    {
+                        row1.style.backgroundColor = "#c3c3c3";
+                        row2.style.backgroundColor = "#c3c3c3";
+                    }
+                }
+
+                document.getElementById("CountPoints").innerHTML = "Total Points of Filtered: " + totalPoints;
+                reloadCounter += 1;
+            }
+            
+        //Function to truncate numbers
+        function toFixed(num, fixed) {
+            var re = new RegExp('^-?\\d+(?:\.\\d{0,' + (fixed || -1) + '})?');
+            return num.toString().match(re)[0];
+        }
+
+        //Cookie functions
+        function setCookie(cname, cvalue, exdays)
+        {
+            const d = new Date();
+            d.setTime(d.getTime() + (exdays*24*60*60*1000));
+            let expires = "expires="+ d.toUTCString();
+            document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+        }
+
+        function getCookie(cname)
+        {
+            let name = cname + "=";
+            let decodedCookie = decodeURIComponent(document.cookie);
+            let ca = decodedCookie.split(';');
+            for(let i = 0; i <ca.length; i++)
+            {
+                let c = ca[i];
+                while (c.charAt(0) == ' ')
+                {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0)
+                {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return "";
+        }
+        </script>
+    </body>
+</html>
