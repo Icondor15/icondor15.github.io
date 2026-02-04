@@ -4169,7 +4169,7 @@
                             if(gameReviews["total"] < 100000) {scoreMult = ((gameReviews["total"] - lowRange) / (highRange - lowRange)) * (highMultRange - lowMultRange) + lowMultRange;}
                             else {scoreMult = 2}
                             
-                            score = Math.round(game["points"] * scoreMult);
+                            score = Math.round(Math.min(game["points"], 300) * scoreMult);
                             return score;
                         }
 
@@ -4722,7 +4722,7 @@
                         if(gameReviews["total"] < 100000) {scoreMult = ((gameReviews["total"] - lowRange) / (highRange - lowRange)) * (highMultRange - lowMultRange) + lowMultRange;}
                         else {scoreMult = 2}
                         
-                        score = Math.round(game["points"] * scoreMult);
+                        score = Math.round(Math.min(game["points"], 300) * scoreMult);
 
                         popular.innerHTML += "<span style='text-decoration: underline dotted;' title='Popularity Points' onclick='alert(this.title)'>" + score + "🔥</span>";
                         popular.innerHTML += " | ";
