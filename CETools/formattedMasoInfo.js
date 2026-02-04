@@ -1236,9 +1236,9 @@ var masoData =
         "description": "\u272a Unfair - the game.",
         "tier": "4",
         "owners": 75,
-        "completions": 16,
-        "playtime": 17.421875,
-        "newestCompletion": "2025-09-24T19:45:34.000Z",
+        "completions": 17,
+        "playtime": 16.619607843137256,
+        "newestCompletion": "2026-01-04T22:53:13.000Z",
         "badges": {
             "count": 1,
             "points": 0
@@ -2419,7 +2419,7 @@ var masoData =
     "535480": {
         "description": "Tear me asunder",
         "tier": "1",
-        "owners": 76,
+        "owners": 77,
         "completions": 20,
         "playtime": 27.884999999999998,
         "newestCompletion": "2023-03-31T13:29:20.000Z"
@@ -2541,7 +2541,7 @@ var masoData =
         "tier": "3",
         "owners": 101,
         "completions": 21,
-        "playtime": 74.33253968253969,
+        "playtime": 74.334126984127,
         "newestCompletion": "2025-09-17T16:56:58.000Z"
     },
     "1647160": {
@@ -2676,9 +2676,9 @@ var masoData =
         "description": "Hey, is your ghost running?",
         "tier": "1",
         "owners": 87,
-        "completions": 25,
-        "playtime": 19.76066666666667,
-        "newestCompletion": "2025-07-22T03:53:20.000Z"
+        "completions": 26,
+        "playtime": 19.45769230769231,
+        "newestCompletion": "2026-02-03T13:43:21.000Z"
     },
     "1523670": {
         "description": "\u2733 Don\"t crack under the pressure",
@@ -3544,9 +3544,9 @@ var masoData =
         "description": "\u2733 360 no scope, but fast",
         "tier": "2",
         "owners": 35,
-        "completions": 14,
-        "playtime": 29.95595238095238,
-        "newestCompletion": "2024-12-18T04:49:04.000Z",
+        "completions": 15,
+        "playtime": 28.711111111111112,
+        "newestCompletion": "2026-02-03T11:43:16.000Z",
         "badges": {
             "count": 2,
             "points": 8
