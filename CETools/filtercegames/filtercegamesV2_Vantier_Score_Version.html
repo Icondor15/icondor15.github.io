@@ -4169,7 +4169,7 @@
                             if(gameReviews["total"] < 100000) {scoreMult = ((gameReviews["total"] - lowRange) / (highRange - lowRange)) * (highMultRange - lowMultRange) + lowMultRange;}
                             else {scoreMult = 2}
                             
-                            score = Math.ceil(game["points"] * scoreMult);
+                            score = Math.round(game["points"] * scoreMult);
                             return score;
                         }
 
@@ -4637,6 +4637,7 @@
                     {
                         let gameReviews = extrasData[game["CEId"]]["reviews"];
 
+                        
                         switch(gameReviews["description"]) {
                             case "Overwhelmingly Positive":
                                 review.innerHTML = "<div class='tagTitle overwhelminglyPositiveText'>";
@@ -4721,7 +4722,7 @@
                         if(gameReviews["total"] < 100000) {scoreMult = ((gameReviews["total"] - lowRange) / (highRange - lowRange)) * (highMultRange - lowMultRange) + lowMultRange;}
                         else {scoreMult = 2}
                         
-                        score = Math.ceil(game["points"] * scoreMult);
+                        score = Math.round(game["points"] * scoreMult);
 
                         popular.innerHTML += "<span style='text-decoration: underline dotted;' title='Popularity Points' onclick='alert(this.title)'>" + score + "🔥</span>";
                         popular.innerHTML += " | ";
