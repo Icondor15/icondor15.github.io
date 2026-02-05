@@ -647,7 +647,7 @@ var masoData =
     "302610": {
         "description": "This guy needs a fat bonus from his boss",
         "tier": "1",
-        "owners": 76,
+        "owners": 77,
         "completions": 67,
         "playtime": 7.124875621890547,
         "newestCompletion": "2026-01-14T20:15:57.000Z"
@@ -1395,7 +1395,7 @@ var masoData =
     "557340": {
         "description": "ABSOLUTELY BANANAS",
         "tier": "1",
-        "owners": 88,
+        "owners": 89,
         "completions": 26,
         "playtime": 23.079487179487185,
         "newestCompletion": "2025-08-16T04:36:44.000Z",
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 40,
+        "owners": 41,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
@@ -4523,7 +4523,7 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 18,
+        "owners": 19,
         "completions": 4,
         "playtime": 13.1125,
         "newestCompletion": "2023-10-17T00:30:44.000Z"
@@ -4547,7 +4547,7 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 20,
+        "owners": 21,
         "completions": 10,
         "playtime": 11.809999999999999,
         "newestCompletion": "2026-01-04T11:36:49.000Z"
@@ -4559,5 +4559,21 @@ var masoData =
         "completions": 2,
         "playtime": 32.175,
         "newestCompletion": "2024-12-14T17:05:13.000Z"
+    },
+    "2400640": {
+        "description": "\u2733 2 points for Destruction",
+        "tier": "2",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
+    },
+    "1365750": {
+        "description": "\ud83c\udf1f  It's Touhou",
+        "tier": "5",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
     }
 }
