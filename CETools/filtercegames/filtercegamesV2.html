@@ -3843,13 +3843,13 @@
                     let functional = paid.filter(obj => {return activeCurrency in obj.priceData})
                     let nonFunctional = paid.filter(obj => {return !(activeCurrency in obj.priceData)})
 
-                    functional.sort((a,b) => (a["priceData"][activeCurrency]["final"] < b["priceData"][activeCurrency]["final"]) ? 1 : ((b["priceData"][activeCurrency]["final"] < a["priceData"][activeCurrency]["final"]) ? -1 : 0));
+                    functional.sort((a,b) => (a["priceData"][activeCurrency]["final"] > b["priceData"][activeCurrency]["final"]) ? 1 : ((b["priceData"][activeCurrency]["final"] > a["priceData"][activeCurrency]["final"]) ? -1 : 0));
 
-                    functional.sort((a,b) => (a["priceData"][activeCurrency][type] > b["priceData"][activeCurrency][type]) ? 1 : ((b["priceData"][activeCurrency][type] > a["priceData"][activeCurrency][type]) ? -1 : 0));
+                    functional.sort((a,b) => (a["priceData"][activeCurrency][type] < b["priceData"][activeCurrency][type]) ? 1 : ((b["priceData"][activeCurrency][type] < a["priceData"][activeCurrency][type]) ? -1 : 0));
 
                     nonPaid.sort((a,b) => (a["gameType"] > b["gameType"]) ? 1 : ((b["gameType"] > a["gameType"]) ? -1 : 0));
 
-                    filteredData = nonPaid.concat(nonFunctional, RA, functional);
+                    filteredData = functional.concat(RA, nonFunctional, nonPaid);
 
                 }
                 else if(type == "platformId")
