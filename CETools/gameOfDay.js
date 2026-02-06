@@ -1,87 +1,52 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 1488650,
-        "CEId": "451ec9df-8f4f-4be6-aa4d-ff1d50b6c829",
-        "name": "Velocity Noodle",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1488650/header.jpg?t=1644670741",
+        "gameType": 2,
+        "platformId": 463700,
+        "CEId": "f953f6bc-7d67-47f5-94d6-e7302da0fe1d",
+        "name": "Super Cloudbuilt",
+        "header": "https://steamcdn-a.akamaihd.net/steam/apps/463700/header.jpg?t=1530000096",
         "genre": "Platformer",
-        "tier": 1,
-        "points": 10,
-        "createdAt": "2023-02-05T04:46:36.000Z",
+        "tier": 4,
+        "points": 190,
+        "createdAt": "2020-02-06T03:13:43.000Z",
         "updatedAt": "2026-02-05T02:55:50.000Z",
-        "playersCompleted": 12,
-        "playersStarted": 0,
-        "playersTotal": 68,
-        "priceData": {
-            "USD": {
-                "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 150000,
-                "final": 150000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 1895,
-                "final": 1895,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 1699,
-                "final": 1699,
-                "discountPercent": 0
-            }
-        },
+        "playersCompleted": 1,
+        "playersStarted": 7,
+        "playersTotal": 145,
         "milestones": {
-            "primary": 1,
-            "primaryText": "Ichiraku Allstar [10\u2605]\nBeat all gold medal times (including both hard level chapters) and get hitless Noodle Hearts on all hard levels.",
+            "primary": 3,
+            "primaryText": "Immortal [60\u2605]\nBeat the Full Game + Defiance Rush Mode without dying or restarting.\n\nGodspeed [110\u2605]\nObtain an S rank in all modes for all levels.\n\nBeyond The Clouds [20\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
-            "achievements": 14
+            "achievements": 38
         },
         "gameTags": [
-            "Precision Platformer",
-            "Platformer",
-            "Difficult",
-            "Indie",
-            "Pixel Graphics",
-            "Side Scroller",
-            "2D Platformer",
-            "2D",
-            "Singleplayer",
-            "Adventure",
             "Action",
-            "Retro",
-            "Linear",
-            "Cyberpunk",
-            "Score Attack",
-            "Atmospheric",
-            "Futuristic",
+            "Indie",
             "Parkour",
-            "Swordplay",
-            "Female Protagonist"
+            "3D Platformer",
+            "Female Protagonist",
+            "Difficult",
+            "Fast-Paced",
+            "Great Soundtrack",
+            "Platformer"
         ],
         "languages": {
             "english": "IAS",
-            "japanese": "IAS",
-            "brazilian": "IAS",
-            "latam": "IAS",
-            "schinese": "IAS"
-        }
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "tchinese": "IS"
+        },
+        "information": "Delisted from Steam."
     }
 }
-var gameOfDayDate = '2026-02-05'
+var gameOfDayDate = '2026-02-06'
