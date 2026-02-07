@@ -1764,9 +1764,9 @@ var masoData =
         "description": "\u2733 Tes-- Test your mu-- Test your multitasking skil--",
         "tier": "2",
         "owners": 116,
-        "completions": 32,
-        "playtime": 17.3,
-        "newestCompletion": "2025-05-31T01:02:21.000Z"
+        "completions": 33,
+        "playtime": 18.08888888888889,
+        "newestCompletion": "2026-02-07T06:43:10.000Z"
     },
     "460810": {
         "description": "\u2733 PlatinumGames",
@@ -2265,7 +2265,7 @@ var masoData =
         "tier": "2",
         "owners": 122,
         "completions": 84,
-        "playtime": 17.24027777777778,
+        "playtime": 17.430158730158734,
         "newestCompletion": "2025-12-01T18:44:19.000Z",
         "badges": {
             "count": 1,
@@ -4040,9 +4040,9 @@ var masoData =
         "description": "\u2733 Rorrhundisto",
         "tier": "2",
         "owners": 57,
-        "completions": 8,
-        "playtime": 98.68333333333334,
-        "newestCompletion": "2025-08-30T05:26:28.000Z",
+        "completions": 9,
+        "playtime": 93.92222222222223,
+        "newestCompletion": "2026-02-06T13:58:42.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -4572,8 +4572,8 @@ var masoData =
         "description": "\ud83c\udf1f  It's Touhou",
         "tier": "5",
         "owners": 1,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "completions": 1,
+        "playtime": 38.35,
+        "newestCompletion": "2026-02-06T23:59:59.000Z"
     }
 }
