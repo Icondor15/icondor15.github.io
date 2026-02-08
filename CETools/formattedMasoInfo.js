@@ -255,7 +255,7 @@ var masoData =
     "588650": {
         "description": "\u272a I hope you like content updates",
         "tier": "4",
-        "owners": 151,
+        "owners": 152,
         "completions": 19,
         "playtime": 201.13508771929818,
         "newestCompletion": "2025-10-09T13:53:53.000Z"
@@ -3223,7 +3223,7 @@ var masoData =
     "1533420": {
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
-        "owners": 126,
+        "owners": 127,
         "completions": 64,
         "playtime": 76.01302083333336,
         "newestCompletion": "2025-12-29T20:11:35.000Z",
