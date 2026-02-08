@@ -2,90 +2,89 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1640320,
-        "CEId": "19d7538f-4447-40f4-a252-4bea822afdc0",
-        "name": "B.I.O.T.A.",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1640320/header.jpg?t=1706095104",
+        "platformId": 1654660,
+        "CEId": "9d6b1b9e-fab1-4537-971c-453d147f746a",
+        "name": "En Garde!",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1654660/header.jpg?t=1703978530",
         "genre": "Action",
         "tier": 1,
-        "points": 5,
-        "createdAt": "2024-02-07T14:18:47.000Z",
+        "points": 10,
+        "createdAt": "2024-02-08T07:37:44.000Z",
         "updatedAt": "2026-02-05T02:55:50.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 22,
+        "playersTotal": 74,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 899,
-                "final": 899,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 749,
-                "final": 749,
+                "initial": 1599,
+                "final": 1599,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 99000,
-                "final": 99000,
+                "initial": 280000,
+                "final": 280000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1429,
-                "final": 1429,
+                "initial": 2995,
+                "final": 2995,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 2599,
+                "final": 2599,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Raider [5\u2605]\nComplete Time Attack without dying.",
+            "primaryText": "The Mischievous Magpie [10\u2605]\nFinish all Episodes within 30 minutes. / Finish any Episode and Arena without getting hit. / Finish a Legendary run in Arena Mode.",
             "community": 0,
             "communityText": "",
-            "achievements": 24
+            "achievements": 30
         },
         "gameTags": [
-            "2D Platformer",
-            "Aliens",
-            "Retro",
-            "Shoot 'Em Up",
-            "Side Scroller",
-            "Metroidvania",
-            "Singleplayer",
-            "Pixel Graphics",
-            "Arcade",
-            "Platformer",
-            "1980s",
+            "Swordplay",
+            "Female Protagonist",
+            "Spectacle fighter",
+            "Cartoony",
+            "Comedy",
+            "Third Person",
+            "Action",
+            "Beat 'em up",
+            "Action-Adventure",
             "Colorful",
-            "Mechs",
-            "Old School",
-            "Casual",
-            "Sci-fi",
+            "Family Friendly",
+            "Stylized",
+            "Singleplayer",
+            "3D",
             "Combat",
-            "Precision Platformer",
-            "2D",
-            "Action"
+            "Funny",
+            "Adventure",
+            "Physics",
+            "Souls-like",
+            "Indie"
         ],
         "languages": {
             "english": "IAS",
             "french": "IS",
             "german": "IS",
             "italian": "IS",
-            "brazilian": "IS",
-            "latam": "IS",
-            "polish": "IS",
-            "russian": "IS",
-            "schinese": "IS"
+            "spanish": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "ukrainian": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-02-07'
+var gameOfDayDate = '2026-02-08'
