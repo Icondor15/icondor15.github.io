@@ -2,89 +2,88 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1654660,
-        "CEId": "9d6b1b9e-fab1-4537-971c-453d147f746a",
-        "name": "En Garde!",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1654660/header.jpg?t=1703978530",
-        "genre": "Action",
+        "platformId": 3175860,
+        "CEId": "d16de42b-6caf-490b-a0db-57b54c2d95d6",
+        "name": "Driving Is Hard",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3175860/header.jpg?t=1738350468",
+        "genre": "Arcade",
         "tier": 1,
         "points": 10,
-        "createdAt": "2024-02-08T07:37:44.000Z",
+        "createdAt": "2025-02-09T16:27:33.000Z",
         "updatedAt": "2026-02-05T02:55:50.000Z",
         "playersCompleted": 6,
         "playersStarted": 0,
-        "playersTotal": 74,
+        "playersTotal": 14,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1599,
-                "final": 1599,
+                "initial": 569,
+                "final": 569,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 280000,
-                "final": 280000,
+                "initial": 80000,
+                "final": 80000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2995,
-                "final": 2995,
+                "initial": 1069,
+                "final": 1069,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2599,
-                "final": 2599,
+                "initial": 869,
+                "final": 869,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "The Mischievous Magpie [10\u2605]\nFinish all Episodes within 30 minutes. / Finish any Episode and Arena without getting hit. / Finish a Legendary run in Arena Mode.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 30
+            "primaryText": "Deep dive at home [10\u2605]\nComplete the game. / Collect all 21 bars of soap.",
+            "community": 1,
+            "communityText": "Not again\nComplete the game 15 times.",
+            "achievements": 18
         },
         "gameTags": [
-            "Swordplay",
-            "Female Protagonist",
-            "Spectacle fighter",
-            "Cartoony",
-            "Comedy",
-            "Third Person",
-            "Action",
-            "Beat 'em up",
-            "Action-Adventure",
-            "Colorful",
-            "Family Friendly",
-            "Stylized",
-            "Singleplayer",
-            "3D",
-            "Combat",
-            "Funny",
-            "Adventure",
+            "Psychological Horror",
+            "Difficult",
+            "Precision Platformer",
             "Physics",
-            "Souls-like",
-            "Indie"
+            "Action",
+            "Singleplayer",
+            "Racing",
+            "Platformer",
+            "Adventure",
+            "Horror",
+            "Philosophical",
+            "Simulation",
+            "Casual",
+            "Dark Humor",
+            "Funny",
+            "Replay Value",
+            "Third Person",
+            "Parkour",
+            "3D Platformer",
+            "Action-Adventure"
         ],
         "languages": {
             "english": "IAS",
             "french": "IS",
             "german": "IS",
-            "italian": "IS",
-            "spanish": "IS",
-            "schinese": "IS",
-            "tchinese": "IS",
-            "ukrainian": "IS"
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-02-08'
+var gameOfDayDate = '2026-02-09'
