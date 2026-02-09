@@ -344,9 +344,9 @@ var masoData =
         "description": "\u2733 Best $4 you spent today",
         "tier": "2",
         "owners": 65,
-        "completions": 37,
-        "playtime": 8.402702702702703,
-        "newestCompletion": "2024-12-23T11:22:11.000Z"
+        "completions": 38,
+        "playtime": 8.296052631578947,
+        "newestCompletion": "2026-02-08T01:37:44.000Z"
     },
     "812550": {
         "description": "\u2733 Gotta glide fast",
@@ -412,9 +412,9 @@ var masoData =
         "description": "\u2733 420",
         "tier": "2",
         "owners": 126,
-        "completions": 66,
-        "playtime": 8.35227272727273,
-        "newestCompletion": "2025-12-18T23:01:58.000Z"
+        "completions": 67,
+        "playtime": 8.27487562189055,
+        "newestCompletion": "2026-02-08T12:50:28.000Z"
     },
     "612390": {
         "description": "\u2733 Use a controller",
@@ -1189,7 +1189,7 @@ var masoData =
         "tier": "5",
         "owners": 176,
         "completions": 20,
-        "playtime": 1363.8366666666666,
+        "playtime": 1363.9091666666668,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
         "badges": {
             "count": 3,
@@ -1565,7 +1565,7 @@ var masoData =
         "tier": "5",
         "owners": 67,
         "completions": 3,
-        "playtime": 124.49444444444445,
+        "playtime": 124.72222222222223,
         "newestCompletion": "2023-12-15T15:07:20.000Z",
         "badges": {
             "count": 2,
@@ -2640,9 +2640,9 @@ var masoData =
         "description": "death in all caps",
         "tier": "1",
         "owners": 90,
-        "completions": 49,
-        "playtime": 16.224829931972792,
-        "newestCompletion": "2026-01-01T10:36:16.000Z"
+        "completions": 50,
+        "playtime": 16.1,
+        "newestCompletion": "2026-02-01T04:28:12.000Z"
     },
     "1170060": {
         "description": "\u272a Okay Boomerang ",
@@ -4139,7 +4139,7 @@ var masoData =
     "1887840": {
         "description": "American Assist Mode",
         "tier": "1",
-        "owners": 43,
+        "owners": 44,
         "completions": 11,
         "playtime": 16.940909090909084,
         "newestCompletion": "2025-09-23T20:49:51.000Z"
@@ -4443,7 +4443,7 @@ var masoData =
     "1164940": {
         "description": "\u2733 You killed Kenny! You Bastards!",
         "tier": "2",
-        "owners": 38,
+        "owners": 39,
         "completions": 6,
         "playtime": 67.41388888888888,
         "newestCompletion": "2025-09-11T23:52:54.000Z",
