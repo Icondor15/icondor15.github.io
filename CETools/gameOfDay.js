@@ -2,88 +2,74 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 3175860,
-        "CEId": "d16de42b-6caf-490b-a0db-57b54c2d95d6",
-        "name": "Driving Is Hard",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3175860/header.jpg?t=1738350468",
-        "genre": "Arcade",
+        "platformId": 9500,
+        "CEId": "3e990150-eb31-4463-8919-74cfcd824ba7",
+        "name": "Gish",
+        "header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/9500/header.jpg?t=1737667238",
+        "genre": "Platformer",
         "tier": 1,
         "points": 10,
-        "createdAt": "2025-02-09T16:27:33.000Z",
+        "createdAt": "2025-02-10T01:30:59.000Z",
         "updatedAt": "2026-02-05T02:55:50.000Z",
-        "playersCompleted": 6,
+        "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 14,
+        "playersTotal": 114,
         "priceData": {
             "USD": {
-                "initial": 699,
-                "final": 699,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 699,
-                "final": 699,
+                "initial": 819,
+                "final": 819,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 569,
-                "final": 569,
+                "initial": 719,
+                "final": 719,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 80000,
-                "final": 80000,
+                "initial": 101000,
+                "final": 101000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1069,
-                "final": 1069,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 869,
-                "final": 869,
+                "initial": 1149,
+                "final": 1149,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Deep dive at home [10\u2605]\nComplete the game. / Collect all 21 bars of soap.",
+            "primaryText": "Tarnation [10\u2605]\nProve yourself.",
             "community": 1,
-            "communityText": "Not again\nComplete the game 15 times.",
-            "achievements": 18
+            "communityText": "Tarred and Feathered\nComplete all built-in custom campaigns on Ludicrous difficulty.",
+            "achievements": 11
         },
         "gameTags": [
-            "Psychological Horror",
-            "Difficult",
-            "Precision Platformer",
-            "Physics",
+            "Indie",
             "Action",
-            "Singleplayer",
-            "Racing",
-            "Platformer",
             "Adventure",
-            "Horror",
-            "Philosophical",
-            "Simulation",
-            "Casual",
-            "Dark Humor",
-            "Funny",
-            "Replay Value",
-            "Third Person",
-            "Parkour",
-            "3D Platformer",
-            "Action-Adventure"
+            "Platformer",
+            "Physics",
+            "Local Multiplayer",
+            "2D",
+            "Puzzle",
+            "Singleplayer",
+            "Local Co-Op",
+            "Puzzle Platformer"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "brazilian": "IS",
-            "koreana": "IS",
-            "russian": "IS",
-            "schinese": "IS"
-        }
+            "english": "I"
+        },
+        "information": "Achievements are broken on the live branch, switch to version 1.7.0 through Properties -> Betas."
     }
 }
-var gameOfDayDate = '2026-02-09'
+var gameOfDayDate = '2026-02-10'
