@@ -2,74 +2,69 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 9500,
-        "CEId": "3e990150-eb31-4463-8919-74cfcd824ba7",
-        "name": "Gish",
-        "header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/9500/header.jpg?t=1737667238",
-        "genre": "Platformer",
+        "platformId": 1225130,
+        "CEId": "41de5d7a-ceb7-45d8-87f5-29578dcad454",
+        "name": "The Adventures of Ten and Till",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1225130/header.jpg?t=1588823535",
+        "genre": "Bullet Hell",
         "tier": 1,
-        "points": 10,
-        "createdAt": "2025-02-10T01:30:59.000Z",
-        "updatedAt": "2026-02-05T02:55:50.000Z",
-        "playersCompleted": 5,
+        "points": 5,
+        "createdAt": "2023-02-11T05:52:08.000Z",
+        "updatedAt": "2026-02-11T06:01:38.000Z",
+        "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 114,
+        "playersTotal": 15,
         "priceData": {
             "USD": {
+                "initial": 1199,
+                "final": 1199,
+                "discountPercent": 0
+            },
+            "EUR": {
                 "initial": 999,
                 "final": 999,
                 "discountPercent": 0
             },
-            "EUR": {
-                "initial": 819,
-                "final": 819,
-                "discountPercent": 0
-            },
             "GBP": {
-                "initial": 719,
-                "final": 719,
+                "initial": 929,
+                "final": 929,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 101000,
-                "final": 101000,
+                "initial": 122000,
+                "final": 122000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 1695,
+                "final": 1695,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 1349,
+                "final": 1349,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Tarnation [10\u2605]\nProve yourself.",
-            "community": 1,
-            "communityText": "Tarred and Feathered\nComplete all built-in custom campaigns on Ludicrous difficulty.",
-            "achievements": 11
+            "primaryText": "Waves of Devolution [5\u2605]\nGet the true ending.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 0
         },
         "gameTags": [
-            "Indie",
             "Action",
-            "Adventure",
-            "Platformer",
-            "Physics",
-            "Local Multiplayer",
+            "Shoot 'Em Up",
+            "Bullet Hell",
+            "Pixel Graphics",
             "2D",
-            "Puzzle",
-            "Singleplayer",
-            "Local Co-Op",
-            "Puzzle Platformer"
+            "Arcade",
+            "Great Soundtrack"
         ],
         "languages": {
-            "english": "I"
-        },
-        "information": "Achievements are broken on the live branch, switch to version 1.7.0 through Properties -> Betas."
+            "english": "IS"
+        }
     }
 }
-var gameOfDayDate = '2026-02-10'
+var gameOfDayDate = '2026-02-11'
