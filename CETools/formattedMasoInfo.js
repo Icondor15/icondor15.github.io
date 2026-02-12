@@ -735,10 +735,10 @@ var masoData =
     "590590": {
         "description": "\u2733 Prepare to get hooked",
         "tier": "2",
-        "owners": 90,
-        "completions": 19,
-        "playtime": 120.17280701754389,
-        "newestCompletion": "2022-12-08T20:54:45.000Z"
+        "owners": 91,
+        "completions": 20,
+        "playtime": 115.08666666666667,
+        "newestCompletion": "2026-02-11T21:46:07.000Z"
     },
     "655380": {
         "description": "\u2733 One more f#@%ing try, this is it I swear\u2122",
@@ -2847,7 +2847,7 @@ var masoData =
     "253750": {
         "description": "\ud83c\udf1f it's a great game, yea. a classic, if you will",
         "tier": "5",
-        "owners": 54,
+        "owners": 55,
         "completions": 3,
         "playtime": 50.27777777777778,
         "newestCompletion": "2025-11-28T15:30:45.000Z",
@@ -2879,7 +2879,7 @@ var masoData =
     "1286350": {
         "description": "\u272a The M stands for monochrome",
         "tier": "4",
-        "owners": 89,
+        "owners": 90,
         "completions": 16,
         "playtime": 54.953125,
         "newestCompletion": "2025-10-04T22:56:27.000Z"
@@ -4359,7 +4359,7 @@ var masoData =
     "1345860": {
         "description": "Grapple Doggo ",
         "tier": "1",
-        "owners": 49,
+        "owners": 50,
         "completions": 18,
         "playtime": 17.749074074074073,
         "newestCompletion": "2025-10-27T20:24:28.000Z"
@@ -4443,7 +4443,7 @@ var masoData =
     "1164940": {
         "description": "\u2733 You killed Kenny! You Bastards!",
         "tier": "2",
-        "owners": 39,
+        "owners": 40,
         "completions": 6,
         "playtime": 67.41388888888888,
         "newestCompletion": "2025-09-11T23:52:54.000Z",
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 43,
+        "owners": 44,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
@@ -4523,7 +4523,7 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 19,
+        "owners": 20,
         "completions": 4,
         "playtime": 13.1125,
         "newestCompletion": "2023-10-17T00:30:44.000Z"
@@ -4539,7 +4539,7 @@ var masoData =
     "3125120": {
         "description": "Claustrophobia simulator",
         "tier": "1",
-        "owners": 6,
+        "owners": 7,
         "completions": 2,
         "playtime": 6.033333333333333,
         "newestCompletion": "2025-08-16T22:19:19.000Z"
@@ -4555,7 +4555,7 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 5,
+        "owners": 6,
         "completions": 2,
         "playtime": 32.175,
         "newestCompletion": "2024-12-14T17:05:13.000Z"
@@ -4571,7 +4571,7 @@ var masoData =
     "1365750": {
         "description": "\ud83c\udf1f  It's Touhou",
         "tier": "5",
-        "owners": 1,
+        "owners": 2,
         "completions": 1,
         "playtime": 38.35,
         "newestCompletion": "2026-02-06T23:59:59.000Z"
