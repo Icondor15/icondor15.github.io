@@ -2,82 +2,84 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1822710,
-        "CEId": "25903625-113c-46b0-a2ec-ef867b91cac9",
-        "name": "Automon",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1822710/header.jpg?t=1677757864",
-        "genre": "Strategy",
-        "tier": 1,
-        "points": 5,
-        "createdAt": "2024-02-12T13:50:29.000Z",
+        "platformId": 682080,
+        "CEId": "aa2541f5-1df6-4770-b580-feba2ce7a80d",
+        "name": "Pato Box",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/682080/header.jpg?t=1668729797",
+        "genre": "Arcade",
+        "tier": 2,
+        "points": 30,
+        "createdAt": "2023-02-13T14:29:43.000Z",
         "updatedAt": "2026-02-11T06:01:38.000Z",
-        "playersCompleted": 4,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 14,
+        "playersTotal": 51,
         "priceData": {
             "USD": {
-                "initial": 799,
-                "final": 799,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 659,
-                "final": 659,
+                "initial": 975,
+                "final": 975,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 579,
-                "final": 579,
+                "initial": 850,
+                "final": 850,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 82000,
-                "final": 82000,
+                "initial": 120000,
+                "final": 120000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1150,
-                "final": 1150,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 899,
-                "final": 899,
+                "initial": 1299,
+                "final": 1299,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Who's That Automon? [5\u2605]\nClear difficulty 10.",
+            "primary": 2,
+            "primaryText": "Anas Platyrhynchos [10\u2605]\nObtain an S rank on all fights and modes in Arcade Mode.\n\nDuck, Dodge, Dip, Dive, and Duck.[20\u2605 (Partial: 10\u2605)]\nDefeat all Arcade Mode bosses without getting hit.",
             "community": 0,
             "communityText": "",
-            "achievements": 56
+            "achievements": 51
         },
         "gameTags": [
-            "Strategy",
-            "Casual",
-            "Auto Battler",
-            "Roguelite",
-            "2D",
-            "Cartoony",
-            "Colorful",
-            "Pixel Graphics",
-            "Comedy",
-            "Fantasy",
-            "Choices Matter",
-            "Combat",
-            "PvE",
+            "Action",
+            "Indie",
+            "Adventure",
             "Singleplayer",
-            "Roguelike",
-            "Cartoon",
-            "Dark Humor",
+            "Difficult",
+            "Fighting",
             "Funny",
-            "Cute",
-            "Creature Collector"
+            "Boxing",
+            "Controller",
+            "Noir",
+            "Stylized",
+            "Third Person",
+            "Action-Adventure",
+            "2D Fighter",
+            "Souls-like",
+            "2D",
+            "Minimalist",
+            "Cartoon",
+            "Cartoony",
+            "Comic Book"
         ],
         "languages": {
-            "english": "I"
+            "english": "IS",
+            "japanese": "IS",
+            "spanish": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-02-12'
+var gameOfDayDate = '2026-02-13'
