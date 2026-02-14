@@ -2,84 +2,78 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 682080,
-        "CEId": "aa2541f5-1df6-4770-b580-feba2ce7a80d",
-        "name": "Pato Box",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/682080/header.jpg?t=1668729797",
+        "platformId": 435480,
+        "CEId": "dc95f7fb-c828-4b7b-89a8-f960b0c3f14d",
+        "name": "Trials of the Blood Dragon",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/435480/header.jpg?t=1507630460",
         "genre": "Arcade",
         "tier": 2,
-        "points": 30,
-        "createdAt": "2023-02-13T14:29:43.000Z",
+        "points": 20,
+        "createdAt": "2022-02-14T06:48:00.000Z",
         "updatedAt": "2026-02-11T06:01:38.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 51,
+        "playersTotal": 50,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 975,
-                "final": 975,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 850,
-                "final": 850,
+                "initial": 1249,
+                "final": 1249,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 120000,
-                "final": 120000,
+                "initial": 198000,
+                "final": 198000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 2295,
+                "final": 2295,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Anas Platyrhynchos [10\u2605]\nObtain an S rank on all fights and modes in Arcade Mode.\n\nDuck, Dodge, Dip, Dive, and Duck.[20\u2605 (Partial: 10\u2605)]\nDefeat all Arcade Mode bosses without getting hit.",
+            "primaryText": "Scenic Route [10\u2605]\nObtain an A+ grade on all main story levels.\n\nVirtual Bootcamp Boss [10\u2605]\nObtain an A+ grade on all bonus levels.",
             "community": 0,
             "communityText": "",
-            "achievements": 51
+            "achievements": 20
         },
         "gameTags": [
-            "Action",
-            "Indie",
-            "Adventure",
-            "Singleplayer",
-            "Difficult",
-            "Fighting",
-            "Funny",
-            "Boxing",
-            "Controller",
-            "Noir",
-            "Stylized",
-            "Third Person",
-            "Action-Adventure",
-            "2D Fighter",
-            "Souls-like",
-            "2D",
-            "Minimalist",
-            "Cartoon",
-            "Cartoony",
-            "Comic Book"
+            "Racing",
+            "Retro",
+            "Platformer",
+            "1980s",
+            "Great Soundtrack",
+            "Cyberpunk",
+            "Action"
         ],
         "languages": {
-            "english": "IS",
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
             "japanese": "IS",
-            "spanish": "IS"
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS",
+            "russian": "IS",
+            "schinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-02-13'
+var gameOfDayDate = '2026-02-14'
