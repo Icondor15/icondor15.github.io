@@ -4140,9 +4140,9 @@ var masoData =
         "description": "American Assist Mode",
         "tier": "1",
         "owners": 45,
-        "completions": 11,
-        "playtime": 16.940909090909084,
-        "newestCompletion": "2025-09-23T20:49:51.000Z"
+        "completions": 12,
+        "playtime": 17.14583333333333,
+        "newestCompletion": "2026-02-13T12:49:59.000Z"
     },
     "2144740": {
         "description": "Why did the other baseball team hire a paranormal investigator?",
