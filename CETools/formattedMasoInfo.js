@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 249,
         "completions": 134,
-        "playtime": 197.48843283582084,
+        "playtime": 197.4890547263681,
         "newestCompletion": "2025-10-24T02:20:59.000Z",
         "badges": {
             "count": 2,
@@ -2283,7 +2283,7 @@ var masoData =
     "1061180": {
         "description": "The best that 3D grappling has to offer",
         "tier": "1",
-        "owners": 67,
+        "owners": 68,
         "completions": 15,
         "playtime": 7.36222222222222,
         "newestCompletion": "2025-08-30T16:38:28.000Z"
@@ -2508,9 +2508,9 @@ var masoData =
         "description": "I dig it.",
         "tier": "1",
         "owners": 17,
-        "completions": 9,
-        "playtime": 7.044444444444443,
-        "newestCompletion": "2023-01-07T00:34:32.000Z"
+        "completions": 10,
+        "playtime": 7.154999999999999,
+        "newestCompletion": "2026-02-09T12:15:17.000Z"
     },
     "1037130": {
         "description": "\u2733 It\"s all in the cards",
@@ -3936,9 +3936,9 @@ var masoData =
         "description": "\u2733 The P is a lie",
         "tier": "2",
         "owners": 31,
-        "completions": 6,
-        "playtime": 63.827777777777776,
-        "newestCompletion": "2025-09-09T15:58:12.000Z"
+        "completions": 7,
+        "playtime": 68.59523809523809,
+        "newestCompletion": "2026-02-16T07:35:26.000Z"
     },
     "980880": {
         "description": " \ud83d\ude2e",
@@ -4547,7 +4547,7 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 23,
+        "owners": 24,
         "completions": 11,
         "playtime": 11.509090909090908,
         "newestCompletion": "2026-01-04T11:36:49.000Z"
