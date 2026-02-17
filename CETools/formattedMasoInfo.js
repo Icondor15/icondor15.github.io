@@ -343,7 +343,7 @@ var masoData =
     "884260": {
         "description": "\u2733 Best $4 you spent today",
         "tier": "2",
-        "owners": 65,
+        "owners": 66,
         "completions": 38,
         "playtime": 8.296052631578947,
         "newestCompletion": "2026-02-08T01:37:44.000Z"
@@ -640,9 +640,9 @@ var masoData =
         "description": "\u2733 That\"s a lot of content",
         "tier": "2",
         "owners": 20,
-        "completions": 2,
-        "playtime": 37.525,
-        "newestCompletion": "2024-06-30T15:00:58.000Z"
+        "completions": 3,
+        "playtime": 35.48333333333333,
+        "newestCompletion": "2026-02-15T00:24:09.000Z"
     },
     "302610": {
         "description": "This guy needs a fat bonus from his boss",
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 259,
         "completions": 190,
-        "playtime": 224.7790350877194,
+        "playtime": 224.7802631578948,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -781,7 +781,7 @@ var masoData =
         "tier": "4",
         "owners": 24,
         "completions": 2,
-        "playtime": 60.791666666666664,
+        "playtime": 61.016666666666666,
         "newestCompletion": "2026-01-25T00:11:34.000Z"
     },
     "323580": {
@@ -1415,7 +1415,7 @@ var masoData =
     "460950": {
         "description": "\u2733 Video games are art\u2122",
         "tier": "2",
-        "owners": 147,
+        "owners": 148,
         "completions": 66,
         "playtime": 36.543434343434356,
         "newestCompletion": "2025-09-28T06:58:41.000Z",
@@ -1645,7 +1645,7 @@ var masoData =
         "tier": "2",
         "owners": 131,
         "completions": 39,
-        "playtime": 16.064102564102566,
+        "playtime": 16.184188034188033,
         "newestCompletion": "2024-03-26T12:53:10.000Z"
     },
     "355820": {
@@ -2917,7 +2917,7 @@ var masoData =
         "tier": "3",
         "owners": 56,
         "completions": 10,
-        "playtime": 80.34166666666667,
+        "playtime": 81.87666666666667,
         "newestCompletion": "2024-12-10T23:30:53.000Z"
     },
     "1072750": {
@@ -3335,7 +3335,7 @@ var masoData =
     "1743850": {
         "description": "\u2733 LSDD",
         "tier": "2",
-        "owners": 113,
+        "owners": 114,
         "completions": 38,
         "playtime": 94.36973684210527,
         "newestCompletion": "2025-08-26T22:45:42.000Z",
@@ -3452,9 +3452,9 @@ var masoData =
         "description": "\u272a Literally preschool math",
         "tier": "4",
         "owners": 28,
-        "completions": 9,
-        "playtime": 56.37407407407407,
-        "newestCompletion": "2025-09-17T10:21:56.000Z"
+        "completions": 10,
+        "playtime": 54.94500000000001,
+        "newestCompletion": "2026-01-28T16:30:08.000Z"
     },
     "811970": {
         "description": "looking forward to finishing the game up",
@@ -3772,9 +3772,9 @@ var masoData =
         "description": "Destroy... Absorb... Grow...",
         "tier": "1",
         "owners": 50,
-        "completions": 9,
-        "playtime": 31.416666666666668,
-        "newestCompletion": "2025-11-18T18:48:45.000Z"
+        "completions": 10,
+        "playtime": 31.253333333333337,
+        "newestCompletion": "2026-02-16T22:51:39.000Z"
     },
     "2228030": {
         "description": "Puyo in the grinder",
@@ -4041,7 +4041,7 @@ var masoData =
         "tier": "2",
         "owners": 58,
         "completions": 9,
-        "playtime": 93.92222222222223,
+        "playtime": 95.01666666666668,
         "newestCompletion": "2026-02-06T13:58:42.000Z",
         "badges": {
             "count": 1,
@@ -4291,7 +4291,7 @@ var masoData =
     "363440": {
         "description": "\u2733 That's Mega, Man",
         "tier": "2",
-        "owners": 91,
+        "owners": 92,
         "completions": 16,
         "playtime": 48.49479166666666,
         "newestCompletion": "2025-08-24T22:23:24.000Z"
@@ -4555,7 +4555,7 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 7,
+        "owners": 8,
         "completions": 2,
         "playtime": 32.175,
         "newestCompletion": "2024-12-14T17:05:13.000Z"
