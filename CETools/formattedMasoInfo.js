@@ -3081,7 +3081,7 @@ var masoData =
         "tier": "3",
         "owners": 173,
         "completions": 47,
-        "playtime": 201.09751773049646,
+        "playtime": 201.33865248226954,
         "newestCompletion": "2025-10-20T22:15:17.000Z"
     },
     "456390": {
@@ -4571,9 +4571,17 @@ var masoData =
     "1365750": {
         "description": "\ud83c\udf1f  It's Touhou",
         "tier": "5",
-        "owners": 2,
+        "owners": 3,
         "completions": 1,
         "playtime": 38.35,
         "newestCompletion": "2026-02-06T23:59:59.000Z"
+    },
+    "2680010": {
+        "description": "Nioh but Nioher",
+        "tier": "1",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
     }
 }
