@@ -993,7 +993,7 @@ var masoData =
         "tier": "5",
         "owners": 212,
         "completions": 21,
-        "playtime": 252.91507936507944,
+        "playtime": 252.91904761904766,
         "newestCompletion": "2025-12-30T21:24:15.000Z",
         "badges": {
             "count": 1,
@@ -3557,7 +3557,7 @@ var masoData =
         "tier": "3",
         "owners": 54,
         "completions": 11,
-        "playtime": 159.83181818181816,
+        "playtime": 159.85,
         "newestCompletion": "2025-10-19T22:43:57.000Z",
         "badges": {
             "count": 1,
@@ -4555,7 +4555,7 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 8,
+        "owners": 9,
         "completions": 2,
         "playtime": 32.175,
         "newestCompletion": "2024-12-14T17:05:13.000Z"
