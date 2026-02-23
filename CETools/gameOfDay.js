@@ -1,50 +1,67 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 2501550,
-        "CEId": "d9d3c086-6020-4564-8aa0-85ff45996239",
-        "name": "Bullet Hell Monday: Finale",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501550/header.jpg?t=1693793997",
-        "genre": "Bullet Hell",
+        "gameType": 0,
+        "platformId": 625630,
+        "CEId": "ad2f21ab-aa82-4a84-8512-f9b78ed053c7",
+        "name": "Journey of Johann",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/625630/header.jpg?t=1495155420",
+        "genre": "Platformer",
         "tier": 2,
-        "points": 30,
-        "createdAt": "2025-02-22T18:50:20.000Z",
+        "points": 25,
+        "createdAt": "2024-02-23T14:17:06.000Z",
         "updatedAt": "2026-02-11T06:01:38.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 2,
-        "playersTotal": 79,
+        "playersCompleted": 1,
+        "playersStarted": 0,
+        "playersTotal": 3,
+        "priceData": {
+            "USD": {
+                "initial": 799,
+                "final": 799,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 799,
+                "final": 799,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 559,
+                "final": 559,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 79800,
+                "final": 79800,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1150,
+                "final": 1150,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 879,
+                "final": 879,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Advance to Black [25\u2605]\nComplete all missions.\n\nHefty Weekend [5\u2605]\nPass the True Chapter.",
+            "primary": 1,
+            "primaryText": "Journey's End[25\u2605 (Partial: 15\u2605)]\nSeparately; Obtain all Gold Medals, have a sum of best under 30 minutes for all main levels, collect all Goblets and Secrets; complete all levels without getting hit.",
             "community": 0,
             "communityText": "",
-            "achievements": 16
+            "achievements": 42
         },
         "gameTags": [
-            "Shoot 'Em Up",
-            "Bullet Hell",
-            "Top-Down Shooter",
             "Action",
-            "Tutorial",
-            "Difficult",
             "Indie",
-            "Shooter",
-            "Arcade",
-            "2D",
-            "Top-Down",
-            "Controller",
-            "Free to Play",
-            "Score Attack",
-            "Abstract",
-            "Psychedelic",
-            "Singleplayer"
+            "Adventure",
+            "Platformer"
         ],
         "languages": {
-            "english": "I",
-            "japanese": "I"
-        },
-        "information": "[All missions](https://docs.google.com/spreadsheets/d/1BKIMgBRc1Ak6xEv8OfLXx2CvXZen8bpaCZzDacgd2ss/edit?usp=sharing)\n\nIt's not possible to beat all missions on your first run through.\nJust force your way through the chapters (beating \"X10\" levels gives lots of currency) and try again later when upgraded."
+            "english": "I"
+        }
     }
 }
-var gameOfDayDate = '2026-02-22'
+var gameOfDayDate = '2026-02-23'
