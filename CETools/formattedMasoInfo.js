@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 259,
         "completions": 190,
-        "playtime": 224.7802631578948,
+        "playtime": 224.79692982456146,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -851,7 +851,7 @@ var masoData =
     "397950": {
         "description": "Literally",
         "tier": "1",
-        "owners": 132,
+        "owners": 133,
         "completions": 101,
         "playtime": 6.969306930693069,
         "newestCompletion": "2025-05-10T22:04:03.000Z"
@@ -879,10 +879,10 @@ var masoData =
     "637880": {
         "description": "\u272a I hope you got some fangames experience",
         "tier": "4",
-        "owners": 59,
-        "completions": 16,
-        "playtime": 31.99791666666666,
-        "newestCompletion": "2024-12-24T16:13:19.000Z"
+        "owners": 60,
+        "completions": 17,
+        "playtime": 31.003921568627447,
+        "newestCompletion": "2026-02-22T21:22:36.000Z"
     },
     "322500": {
         "description": "\u2733 Just killing red dudes",
@@ -2293,7 +2293,7 @@ var masoData =
         "tier": "3",
         "owners": 105,
         "completions": 16,
-        "playtime": 20.825,
+        "playtime": 21.19895833333333,
         "newestCompletion": "2025-07-16T03:42:38.000Z"
     },
     "457890": {
@@ -3335,7 +3335,7 @@ var masoData =
     "1743850": {
         "description": "\u2733 LSDD",
         "tier": "2",
-        "owners": 114,
+        "owners": 115,
         "completions": 38,
         "playtime": 94.36973684210527,
         "newestCompletion": "2025-08-26T22:45:42.000Z",
@@ -3577,7 +3577,7 @@ var masoData =
         "tier": "5",
         "owners": 84,
         "completions": 14,
-        "playtime": 48.339285714285715,
+        "playtime": 48.49166666666667,
         "newestCompletion": "2025-11-22T05:38:25.000Z",
         "badges": {
             "count": 2,
