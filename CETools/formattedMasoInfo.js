@@ -151,7 +151,7 @@ var masoData =
     "835430": {
         "description": "\u2733 Was it worth using a guide?",
         "tier": "2",
-        "owners": 27,
+        "owners": 28,
         "completions": 4,
         "playtime": 185.84583333333333,
         "newestCompletion": "2024-08-20T20:35:28.000Z"
@@ -481,7 +481,7 @@ var masoData =
         "tier": "3",
         "owners": 168,
         "completions": 55,
-        "playtime": 101.27030303030305,
+        "playtime": 101.28090909090912,
         "newestCompletion": "2025-09-04T21:01:21.000Z"
     },
     "532170": {
@@ -1209,7 +1209,7 @@ var masoData =
         "tier": "5",
         "owners": 195,
         "completions": 66,
-        "playtime": 194.9308080808081,
+        "playtime": 194.93308080808083,
         "newestCompletion": "2025-10-03T04:45:14.000Z",
         "badges": {
             "count": 1,
@@ -1309,7 +1309,7 @@ var masoData =
         "tier": "2",
         "owners": 162,
         "completions": 71,
-        "playtime": 238.04178403755876,
+        "playtime": 238.1697183098592,
         "newestCompletion": "2025-08-29T21:26:24.000Z",
         "badges": {
             "count": 2,
@@ -1337,7 +1337,7 @@ var masoData =
         "tier": "4",
         "owners": 121,
         "completions": 25,
-        "playtime": 66.23333333333335,
+        "playtime": 66.40933333333335,
         "newestCompletion": "2025-04-28T15:10:06.000Z"
     },
     "318530": {
@@ -4571,7 +4571,7 @@ var masoData =
     "1365750": {
         "description": "\ud83c\udf1f  It's Touhou",
         "tier": "5",
-        "owners": 3,
+        "owners": 4,
         "completions": 1,
         "playtime": 38.35,
         "newestCompletion": "2026-02-06T23:59:59.000Z"
