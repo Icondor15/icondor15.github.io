@@ -49,7 +49,7 @@ var masoData =
         "tier": "1",
         "owners": 61,
         "completions": 45,
-        "playtime": 4.726296296296297,
+        "playtime": 4.732962962962964,
         "newestCompletion": "2025-11-17T05:21:48.000Z"
     },
     "259530": {
@@ -185,7 +185,7 @@ var masoData =
         "tier": "1",
         "owners": 188,
         "completions": 91,
-        "playtime": 41.45714285714287,
+        "playtime": 41.46868131868133,
         "newestCompletion": "2025-12-25T16:24:43.000Z",
         "badges": {
             "count": 1,
@@ -441,7 +441,7 @@ var masoData =
         "tier": "2",
         "owners": 51,
         "completions": 18,
-        "playtime": 25.026851851851852,
+        "playtime": 25.107407407407408,
         "newestCompletion": "2023-08-02T18:30:10.000Z"
     },
     "592300": {
@@ -945,7 +945,7 @@ var masoData =
         "tier": "2",
         "owners": 188,
         "completions": 100,
-        "playtime": 33.09900000000002,
+        "playtime": 33.114166666666684,
         "newestCompletion": "2025-12-15T01:34:53.000Z"
     },
     "510620": {
@@ -1537,7 +1537,7 @@ var masoData =
         "tier": "4",
         "owners": 99,
         "completions": 23,
-        "playtime": 63.2195652173913,
+        "playtime": 63.269565217391296,
         "newestCompletion": "2025-11-15T20:34:52.000Z",
         "badges": {
             "count": 1,
@@ -3131,10 +3131,10 @@ var masoData =
     "1964260": {
         "description": "Avoid the void",
         "tier": "1",
-        "owners": 49,
-        "completions": 18,
-        "playtime": 5.8351851851851855,
-        "newestCompletion": "2025-04-26T17:06:00.000Z"
+        "owners": 50,
+        "completions": 19,
+        "playtime": 5.746491228070176,
+        "newestCompletion": "2026-02-22T10:28:09.000Z"
     },
     "342610": {
         "description": "\u272a Exponentially increasing opportunities to get dunked on",
@@ -3537,7 +3537,7 @@ var masoData =
         "tier": "2",
         "owners": 97,
         "completions": 36,
-        "playtime": 50.97962962962962,
+        "playtime": 51.018981481481475,
         "newestCompletion": "2025-10-16T15:29:36.000Z"
     },
     "1442170": {
@@ -4479,10 +4479,10 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 37,
-        "completions": 25,
-        "playtime": 8.928,
-        "newestCompletion": "2026-01-16T12:42:04.000Z"
+        "owners": 38,
+        "completions": 26,
+        "playtime": 8.772435897435898,
+        "newestCompletion": "2026-02-20T13:57:46.000Z"
     },
     "1030300": {
         "description": "\u2733 Silksong",
