@@ -220,9 +220,9 @@ var masoData =
         "description": "\ud83c\udf1f Flying pizzas and a goat anus",
         "tier": "5",
         "owners": 127,
-        "completions": 34,
-        "playtime": 62.23627450980392,
-        "newestCompletion": "2024-10-19T05:53:44.000Z"
+        "completions": 35,
+        "playtime": 61.82380952380953,
+        "newestCompletion": "2026-02-25T15:40:34.000Z"
     },
     "703720": {
         "description": "\u2733 Because there are never enough speedrunning platformers",
@@ -328,9 +328,9 @@ var masoData =
         "description": "\u00bf\u00bf\u00bfNo entiendo que pasa con mi corazon???",
         "tier": "1",
         "owners": 76,
-        "completions": 20,
-        "playtime": 24.871666666666663,
-        "newestCompletion": "2025-02-17T14:52:31.000Z"
+        "completions": 21,
+        "playtime": 24.861111111111107,
+        "newestCompletion": "2026-01-11T21:34:45.000Z"
     },
     "400630": {
         "description": "\u2733 Has a sweet boss rush according to rumors",
@@ -3557,7 +3557,7 @@ var masoData =
         "tier": "3",
         "owners": 54,
         "completions": 11,
-        "playtime": 159.85,
+        "playtime": 159.87121212121212,
         "newestCompletion": "2025-10-19T22:43:57.000Z",
         "badges": {
             "count": 1,
@@ -4139,7 +4139,7 @@ var masoData =
     "1887840": {
         "description": "American Assist Mode",
         "tier": "1",
-        "owners": 45,
+        "owners": 46,
         "completions": 12,
         "playtime": 17.14583333333333,
         "newestCompletion": "2026-02-13T12:49:59.000Z"
@@ -4419,7 +4419,7 @@ var masoData =
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
-        "owners": 70,
+        "owners": 71,
         "completions": 19,
         "playtime": 53.13859649122807,
         "newestCompletion": "2025-07-06T15:26:20.000Z"
