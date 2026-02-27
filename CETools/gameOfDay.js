@@ -2,84 +2,80 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 721350,
-        "CEId": "da5df49d-bcd4-48f0-a662-f10be68185ea",
-        "name": "Where Are My Friends?",
-        "header": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/721350/header.jpg?t=1736986576",
-        "genre": "Platformer",
-        "tier": 3,
-        "points": 40,
-        "createdAt": "2025-02-26T08:30:25.000Z",
+        "platformId": 658780,
+        "CEId": "51d7bbd1-69a2-4c12-9c05-274285ba0cd7",
+        "name": "Bomb Chicken",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/658780/header.jpg?t=1557348285",
+        "genre": "Action",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2022-02-27T22:53:25.000Z",
         "updatedAt": "2026-02-11T06:01:38.000Z",
-        "playersCompleted": 0,
+        "playersCompleted": 19,
         "playersStarted": 0,
-        "playersTotal": 13,
+        "playersTotal": 49,
         "priceData": {
             "USD": {
-                "initial": 399,
-                "final": 399,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 399,
-                "final": 399,
+                "initial": 1479,
+                "final": 1479,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 289,
-                "final": 289,
+                "initial": 1279,
+                "final": 1279,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 41000,
-                "final": 41000,
+                "initial": 170000,
+                "final": 170000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 495,
-                "final": 495,
+                "initial": 2195,
+                "final": 2195,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 465,
-                "final": 465,
+                "initial": 1949,
+                "final": 1949,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Found Them! [40\u2605]\nComplete every Deathless run.",
+            "primaryText": "Arise, Chicken [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
-            "achievements": 17
+            "achievements": 10
         },
         "gameTags": [
-            "Adventure",
+            "Action",
             "Indie",
-            "Platformer",
-            "Side Scroller",
+            "Adventure",
+            "Casual",
+            "Pixel Graphics",
+            "Puzzle Platformer",
             "2D",
-            "Singleplayer",
-            "Aliens",
-            "Story Rich",
-            "Metroidvania",
-            "Point & Click",
-            "Great Soundtrack",
-            "Atmospheric",
-            "Cute",
-            "Drama",
-            "Controller",
-            "Historical"
+            "Platformer"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "spanish": "I",
-            "russian": "I",
-            "schinese": "I"
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-02-26'
+var gameOfDayDate = '2026-02-27'
