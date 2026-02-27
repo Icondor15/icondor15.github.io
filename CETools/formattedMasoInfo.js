@@ -235,7 +235,7 @@ var masoData =
     "274170": {
         "description": "\u2733 There it\"s curated now",
         "tier": "2",
-        "owners": 155,
+        "owners": 156,
         "completions": 62,
         "playtime": 38.12338709677419,
         "newestCompletion": "2026-02-14T17:21:12.000Z",
@@ -903,7 +903,7 @@ var masoData =
     "491040": {
         "description": "Shoot, dodge, and cover.",
         "tier": "1",
-        "owners": 75,
+        "owners": 76,
         "completions": 36,
         "playtime": 7.692592592592594,
         "newestCompletion": "2025-04-02T15:46:31.000Z"
@@ -1207,9 +1207,9 @@ var masoData =
     "422970": {
         "description": "\ud83c\udf1f Extremely dedicated or extremely talented?",
         "tier": "5",
-        "owners": 195,
-        "completions": 66,
-        "playtime": 194.93308080808083,
+        "owners": 196,
+        "completions": 67,
+        "playtime": 192.28383084577115,
         "newestCompletion": "2025-10-03T04:45:14.000Z",
         "badges": {
             "count": 1,
@@ -1595,7 +1595,7 @@ var masoData =
     "473530": {
         "description": "\u2733 Physics",
         "tier": "2",
-        "owners": 63,
+        "owners": 64,
         "completions": 7,
         "playtime": 58.666666666666664,
         "newestCompletion": "2025-10-13T18:30:38.000Z"
@@ -2283,7 +2283,7 @@ var masoData =
     "1061180": {
         "description": "The best that 3D grappling has to offer",
         "tier": "1",
-        "owners": 68,
+        "owners": 69,
         "completions": 15,
         "playtime": 7.36222222222222,
         "newestCompletion": "2025-08-30T16:38:28.000Z"
@@ -2347,7 +2347,7 @@ var masoData =
     "219150": {
         "description": "I will beat you to death",
         "tier": "1",
-        "owners": 178,
+        "owners": 179,
         "completions": 97,
         "playtime": 15.977835051546393,
         "newestCompletion": "2026-02-13T07:58:06.000Z"
@@ -2627,7 +2627,7 @@ var masoData =
     "688130": {
         "description": "\ud83c\udf1f\u30dd\u30b4\u306e\u6642\u9593\u3060",
         "tier": "5",
-        "owners": 110,
+        "owners": 111,
         "completions": 22,
         "playtime": 589.1325757575758,
         "newestCompletion": "2024-06-17T15:47:58.000Z",
@@ -4443,7 +4443,7 @@ var masoData =
     "1164940": {
         "description": "\u2733 You killed Kenny! You Bastards!",
         "tier": "2",
-        "owners": 40,
+        "owners": 41,
         "completions": 6,
         "playtime": 67.41388888888888,
         "newestCompletion": "2025-09-11T23:52:54.000Z",
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 45,
+        "owners": 46,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
