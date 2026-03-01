@@ -820,9 +820,9 @@ var masoData =
         "description": "\ud83c\udf1f Entry-level: 100% Super Meat Boy",
         "tier": "5",
         "owners": 156,
-        "completions": 41,
-        "playtime": 42.230487804878045,
-        "newestCompletion": "2025-12-13T21:11:32.000Z"
+        "completions": 42,
+        "playtime": 41.72023809523809,
+        "newestCompletion": "2026-02-28T11:07:05.000Z"
     },
     "489140": {
         "description": "\u2733 Nightcrawler Miami",
@@ -991,7 +991,7 @@ var masoData =
     "583470": {
         "description": "\ud83c\udf1f Your End Is Nigh",
         "tier": "5",
-        "owners": 212,
+        "owners": 213,
         "completions": 21,
         "playtime": 252.91904761904766,
         "newestCompletion": "2025-12-30T21:24:15.000Z",
@@ -1140,9 +1140,9 @@ var masoData =
         "description": "\u2733 Use a video. Get rekt at 99% anyways",
         "tier": "2",
         "owners": 85,
-        "completions": 22,
-        "playtime": 14.48181818181818,
-        "newestCompletion": "2025-12-08T17:06:41.000Z"
+        "completions": 23,
+        "playtime": 14.726811594202898,
+        "newestCompletion": "2026-02-28T22:31:06.000Z"
     },
     "400910": {
         "description": "\u272a I wanna be the waifu",
@@ -2079,7 +2079,7 @@ var masoData =
     "1145360": {
         "description": "What, you\"ve got daddy issues boyo??",
         "tier": "1",
-        "owners": 176,
+        "owners": 177,
         "completions": 85,
         "playtime": 97.81078431372548,
         "newestCompletion": "2026-02-26T17:16:55.000Z",
@@ -2715,7 +2715,7 @@ var masoData =
     "719930": {
         "description": "\u272a Super Meat Ball",
         "tier": "4",
-        "owners": 36,
+        "owners": 37,
         "completions": 14,
         "playtime": 44.50595238095237,
         "newestCompletion": "2025-11-28T22:41:36.000Z"
@@ -2889,7 +2889,7 @@ var masoData =
         "tier": "1",
         "owners": 131,
         "completions": 38,
-        "playtime": 33.45263157894736,
+        "playtime": 33.483771929824556,
         "newestCompletion": "2025-04-01T04:26:58.000Z",
         "badges": {
             "count": 1,
@@ -2999,7 +2999,7 @@ var masoData =
     "581660": {
         "description": "\ud83c\udf1f Super Seed Boy",
         "tier": "5",
-        "owners": 127,
+        "owners": 128,
         "completions": 15,
         "playtime": 77.2,
         "newestCompletion": "2026-01-26T00:56:39.000Z"
@@ -3307,7 +3307,7 @@ var masoData =
     "1370690": {
         "description": "\ud83c\udf1f Accurate to real-life ice skating experiences*",
         "tier": "5",
-        "owners": 36,
+        "owners": 37,
         "completions": 1,
         "playtime": 90.15,
         "newestCompletion": "2022-09-18T01:59:52.000Z"
@@ -3555,7 +3555,7 @@ var masoData =
     "1058830": {
         "description": "\u2606 xD",
         "tier": "3",
-        "owners": 54,
+        "owners": 55,
         "completions": 11,
         "playtime": 159.87121212121212,
         "newestCompletion": "2025-10-19T22:43:57.000Z",
@@ -4031,7 +4031,7 @@ var masoData =
     "2236070": {
         "description": "\ud83c\udf1f \u2665\u2665\u2665\u2665\u2665\u2665\u2665 seagulls",
         "tier": "5",
-        "owners": 46,
+        "owners": 47,
         "completions": 3,
         "playtime": 277.95,
         "newestCompletion": "2024-11-27T22:16:19.000Z"
@@ -4171,7 +4171,7 @@ var masoData =
     "2310700": {
         "description": "\u272a Now with a gun",
         "tier": "4",
-        "owners": 7,
+        "owners": 8,
         "completions": 3,
         "playtime": 123.53333333333335,
         "newestCompletion": "2026-02-27T23:53:24.000Z"
@@ -4311,7 +4311,7 @@ var masoData =
     "2694420": {
         "description": "\u2606 Hellishly Wicked",
         "tier": "3",
-        "owners": 17,
+        "owners": 18,
         "completions": 7,
         "playtime": 41.18095238095238,
         "newestCompletion": "2026-01-23T14:23:24.000Z"
@@ -4367,7 +4367,7 @@ var masoData =
     "2073250": {
         "description": "\ud83c\udf1f You better make this game your second Crypt and rift apart your soul; otherwise forget completing it.",
         "tier": "5",
-        "owners": 51,
+        "owners": 53,
         "completions": 1,
         "playtime": 310.73333333333335,
         "newestCompletion": "2025-03-25T21:48:48.000Z",
@@ -4391,7 +4391,7 @@ var masoData =
     "1640890": {
         "description": "Damn, you work there?!",
         "tier": "1",
-        "owners": 15,
+        "owners": 16,
         "completions": 8,
         "playtime": 13.622916666666667,
         "newestCompletion": "2025-06-21T11:32:42.000Z"
@@ -4455,7 +4455,7 @@ var masoData =
     "2361080": {
         "description": "\u2606 Jump by Jump",
         "tier": "3",
-        "owners": 10,
+        "owners": 11,
         "completions": 3,
         "playtime": 24.566666666666666,
         "newestCompletion": "2025-01-24T19:44:55.000Z"
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 48,
+        "owners": 49,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
@@ -4515,7 +4515,7 @@ var masoData =
     "1924180": {
         "description": "Featuring the world's most rude NPCs!",
         "tier": "1",
-        "owners": 4,
+        "owners": 5,
         "completions": 1,
         "playtime": 9.383333333333333,
         "newestCompletion": "2025-07-24T06:33:28.000Z"
@@ -4531,7 +4531,7 @@ var masoData =
     "1282210": {
         "description": "6-key EDM concert",
         "tier": "1",
-        "owners": 6,
+        "owners": 7,
         "completions": 3,
         "playtime": 21.533333333333335,
         "newestCompletion": "2024-09-16T02:50:19.000Z"
@@ -4547,7 +4547,7 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 24,
+        "owners": 25,
         "completions": 11,
         "playtime": 11.509090909090908,
         "newestCompletion": "2026-01-04T11:36:49.000Z"
@@ -4555,7 +4555,7 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 10,
+        "owners": 11,
         "completions": 2,
         "playtime": 32.175,
         "newestCompletion": "2024-12-14T17:05:13.000Z"
