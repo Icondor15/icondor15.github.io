@@ -2,86 +2,90 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1071190,
-        "CEId": "b7c0b762-b9f2-43bd-9cd7-d45d3fbdf374",
-        "name": "MineRalph",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1071190/header.jpg?t=1667429112",
-        "genre": "Platformer",
-        "tier": 5,
-        "points": 350,
-        "createdAt": "2022-02-28T01:41:31.000Z",
+        "platformId": 1124560,
+        "CEId": "b34df342-e454-4d72-9154-c76a27fd4cd6",
+        "name": "Fallen Angel",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1124560/header.jpg?t=1627248749",
+        "genre": "Action",
+        "tier": 1,
+        "points": 11,
+        "createdAt": "2024-03-01T16:44:59.000Z",
         "updatedAt": "2026-02-11T06:01:38.000Z",
-        "playersCompleted": 2,
-        "playersStarted": 6,
-        "playersTotal": 57,
+        "playersCompleted": 0,
+        "playersStarted": 1,
+        "playersTotal": 7,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 975,
-                "final": 975,
+                "initial": 1249,
+                "final": 1249,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 850,
-                "final": 850,
+                "initial": 1139,
+                "final": 1139,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 120000,
-                "final": 120000,
+                "initial": 152000,
+                "final": 152000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 2150,
+                "final": 2150,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 1749,
+                "final": 1749,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 5,
-            "primaryText": "The Fabled Savior[190\u2605 (Partial: 50\u2605)]\nBeat the game without dying, restarting or quitting.\n\nKing of the Caves[90\u2605 (Partial: 60\u2605)]\nObtain the diamond time/death medals on all normal and bonus levels. *Partial points are awarded as a progress milestone.\n\nGetting On the Ball[40\u2605 (Partial: 25\u2605)]\nObtain the gold time/death medals on all normal and bonus levels. *Partial points are awarded as a progress milestone.\n\nRolling Stone [20\u2605]\nFinish an any% speedrun in under 1 hour.\n\nBall Buster [10\u2605]\nClear all bonus levels.",
-            "community": 3,
-            "communityText": "Punenthusiastic\nComplete an all secrets run without dying, restarting or quitting.\n\nIronic\nBeat the bonus world in level order without dying, restarting or quitting.\n\nMeteoRalph\nBeat the original diamond times for all normal and bonus levels.",
-            "achievements": 49
+            "primary": 3,
+            "primaryText": "Cast From Heaven [5\u2605]\nProve yourself.\n\nFall From Grace [5\u2605]\nProve Yourself.\n\nAscension (UNCLEARED) [1\u2605]\nSeparately; Complete the game with the 1HP modifier, the No Drops modifier, and beat Punishment Mode without dying.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 51
         },
         "gameTags": [
-            "Precision Platformer",
-            "Unforgiving",
-            "Difficult",
-            "Fast-Paced",
+            "Metroidvania",
+            "Combat",
+            "Beat 'em up",
+            "Villain Protagonist",
             "Pixel Graphics",
-            "Platformer",
-            "Time Attack",
-            "Physics",
-            "2D Platformer",
-            "Arcade",
-            "Robots",
-            "Runner",
-            "Underground",
-            "4 Player Local",
-            "Co-op",
-            "Controller",
-            "Singleplayer",
+            "Hack and Slash",
+            "Action RPG",
+            "Top-Down",
             "Action",
+            "Local Multiplayer",
+            "RPG",
+            "Singleplayer",
+            "Demons",
+            "2D",
+            "Local Co-Op",
+            "Fantasy",
             "Indie",
-            "2D"
+            "Co-op",
+            "Colorful",
+            "Old School"
         ],
         "languages": {
-            "english": "I",
-            "german": "I",
-            "danish": "I",
-            "russian": "I",
-            "schinese": "I"
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-02-28'
+var gameOfDayDate = '2026-03-01'
