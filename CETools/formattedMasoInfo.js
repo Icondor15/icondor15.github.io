@@ -139,10 +139,10 @@ var masoData =
     "286100": {
         "description": "You should\"ve played it by now",
         "tier": "1",
-        "owners": 159,
-        "completions": 82,
-        "playtime": 8.378252032520324,
-        "newestCompletion": "2025-10-14T00:49:38.000Z",
+        "owners": 160,
+        "completions": 83,
+        "playtime": 8.309437751004014,
+        "newestCompletion": "2026-03-01T19:28:14.000Z",
         "badges": {
             "count": 1,
             "points": 1
@@ -1189,7 +1189,7 @@ var masoData =
         "tier": "5",
         "owners": 177,
         "completions": 20,
-        "playtime": 1365.755,
+        "playtime": 1365.7766666666666,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
         "badges": {
             "count": 3,
@@ -1963,7 +1963,7 @@ var masoData =
     "876500": {
         "description": "This is not soundodger",
         "tier": "1",
-        "owners": 16,
+        "owners": 17,
         "completions": 14,
         "playtime": 3.408333333333334,
         "newestCompletion": "2026-01-07T14:10:07.000Z"
@@ -2156,9 +2156,9 @@ var masoData =
         "description": "\u272a Yippee-ki-yay, Motherf****",
         "tier": "4",
         "owners": 54,
-        "completions": 6,
-        "playtime": 45.952777777777776,
-        "newestCompletion": "2025-11-04T19:35:13.000Z"
+        "completions": 7,
+        "playtime": 46.147619047619045,
+        "newestCompletion": "2026-03-01T17:04:20.000Z"
     },
     "508790": {
         "description": "\u2733 Flat is Justice",
@@ -2283,7 +2283,7 @@ var masoData =
     "1061180": {
         "description": "The best that 3D grappling has to offer",
         "tier": "1",
-        "owners": 69,
+        "owners": 70,
         "completions": 15,
         "playtime": 7.36222222222222,
         "newestCompletion": "2025-08-30T16:38:28.000Z"
@@ -4251,10 +4251,10 @@ var masoData =
     "1585220": {
         "description": "Life could be a dream",
         "tier": "1",
-        "owners": 28,
-        "completions": 6,
-        "playtime": 8.505555555555555,
-        "newestCompletion": "2025-10-25T06:57:04.000Z"
+        "owners": 29,
+        "completions": 7,
+        "playtime": 8.173809523809524,
+        "newestCompletion": "2026-01-25T06:07:36.000Z"
     },
     "1406250": {
         "description": "\ud83c\udf1fDon't waste your shrikens",
@@ -4299,7 +4299,7 @@ var masoData =
     "1548940": {
         "description": "\ud83c\udf1f DASH: The gap in between these f***ing spikes",
         "tier": "5",
-        "owners": 46,
+        "owners": 47,
         "completions": 3,
         "playtime": 107.83333333333333,
         "newestCompletion": "2025-04-15T21:46:21.000Z",
@@ -4488,9 +4488,9 @@ var masoData =
         "description": "\u2733 Silksong",
         "tier": "2",
         "owners": 149,
-        "completions": 35,
-        "playtime": 104.16666666666664,
-        "newestCompletion": "2025-11-13T22:37:01.000Z"
+        "completions": 36,
+        "playtime": 105.13333333333331,
+        "newestCompletion": "2026-03-01T10:15:38.000Z"
     },
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
@@ -4523,7 +4523,7 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 21,
+        "owners": 22,
         "completions": 5,
         "playtime": 12.646666666666667,
         "newestCompletion": "2025-11-22T21:22:34.000Z"
@@ -4555,7 +4555,7 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 11,
+        "owners": 12,
         "completions": 2,
         "playtime": 32.175,
         "newestCompletion": "2024-12-14T17:05:13.000Z"
@@ -4579,6 +4579,14 @@ var masoData =
     "2680010": {
         "description": "Nioh but Nioher",
         "tier": "1",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
+    },
+    "493520": {
+        "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together",
+        "tier": "5",
         "owners": 0,
         "completions": 0,
         "playtime": 0,
