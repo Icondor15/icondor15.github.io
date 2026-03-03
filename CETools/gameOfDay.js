@@ -2,86 +2,86 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 394430,
-        "CEId": "867440a4-2298-4a6a-853f-a4889bfa530d",
-        "name": "Dimension Drive",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/394430/header.jpg?t=1682982853",
-        "genre": "Bullet Hell",
-        "tier": 1,
-        "points": 16,
-        "createdAt": "2024-03-02T21:17:03.000Z",
+        "platformId": 254700,
+        "CEId": "3aa4a76f-2c49-436a-89df-20151640da8a",
+        "name": "Resident Evil 4 (2005)",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/254700/header.jpg?t=1644282793",
+        "genre": "Action",
+        "tier": 2,
+        "points": 25,
+        "createdAt": "2022-03-03T10:29:45.000Z",
         "updatedAt": "2026-02-11T06:01:38.000Z",
-        "playersCompleted": 0,
-        "playersStarted": 3,
-        "playersTotal": 44,
+        "playersCompleted": 15,
+        "playersStarted": 95,
+        "playersTotal": 553,
         "priceData": {
             "USD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1598,
+                "final": 1598,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 128000,
-                "final": 128000,
+                "initial": 199000,
+                "final": 199000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1850,
-                "final": 1850,
+                "initial": 2796,
+                "final": 2796,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1399,
-                "final": 1399,
+                "initial": 2999,
+                "final": 2999,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Driven Insane [10\u2605]\nComplete the game on Insane difficulty. \n\nSplit Personality [5\u2605]\nObtain an S rank on all levels.\n\nReality Bender (UNCLEARED) [1\u2605]\nObtain all S ranks on Insane difficulty.",
+            "primary": 2,
+            "primaryText": "A Heart of Steel [15\u2605]\nClear the game on the highest difficulty.\n\nHandcannon [10\u2605]\nGet 5 stars on all stages with all characters in the Mercenaries mode.",
             "community": 0,
             "communityText": "",
-            "achievements": 30
+            "achievements": 12
         },
         "gameTags": [
-            "Shoot 'Em Up",
-            "Local Co-Op",
-            "Anime",
-            "Split Screen",
-            "Indie",
+            "Inventory Management",
+            "Survival Horror",
             "Action",
-            "Arcade",
-            "Female Protagonist",
-            "Local Multiplayer",
-            "Shooter",
-            "Top-Down Shooter",
-            "Comic Book",
-            "2D",
-            "Top-Down",
-            "Score Attack",
-            "Story Rich",
-            "Co-op",
-            "Multiplayer",
+            "Zombies",
+            "Horror",
+            "Third-Person Shooter",
             "Singleplayer",
-            "Real-Time"
+            "Adventure",
+            "Classic",
+            "Third Person",
+            "Quick-Time Events",
+            "Atmospheric",
+            "Survival",
+            "Shooter",
+            "Gore",
+            "Replay Value",
+            "Great Soundtrack",
+            "Remake",
+            "Difficult",
+            "VR"
         ],
         "languages": {
             "english": "IAS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "koreana": "IS",
-            "tchinese": "IS"
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-03-02'
+var gameOfDayDate = '2026-03-03'
