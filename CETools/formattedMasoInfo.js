@@ -1379,7 +1379,7 @@ var masoData =
     "237740": {
         "description": "\ud83c\udf1f An Angry video game nerd training program.",
         "tier": "5",
-        "owners": 67,
+        "owners": 68,
         "completions": 7,
         "playtime": 59.392857142857146,
         "newestCompletion": "2025-07-12T20:05:16.000Z"
@@ -2164,9 +2164,9 @@ var masoData =
         "description": "\u2733 Flat is Justice",
         "tier": "2",
         "owners": 37,
-        "completions": 11,
-        "playtime": 15.525757575757575,
-        "newestCompletion": "2025-01-11T01:41:23.000Z"
+        "completions": 12,
+        "playtime": 15.395833333333334,
+        "newestCompletion": "2026-03-03T04:52:03.000Z"
     },
     "1336340": {
         "description": "Bite Size Celeste",
@@ -4075,7 +4075,7 @@ var masoData =
     "1071870": {
         "description": "I put my right leg in, I put my right leg out, In out, in out, shake it all about. (Co-op)",
         "tier": "1",
-        "owners": 57,
+        "owners": 58,
         "completions": 18,
         "playtime": 11.505555555555555,
         "newestCompletion": "2025-12-14T20:50:54.000Z",
@@ -4516,9 +4516,9 @@ var masoData =
         "description": "Featuring the world's most rude NPCs!",
         "tier": "1",
         "owners": 5,
-        "completions": 1,
-        "playtime": 9.383333333333333,
-        "newestCompletion": "2025-07-24T06:33:28.000Z"
+        "completions": 2,
+        "playtime": 11.908333333333333,
+        "newestCompletion": "2026-03-03T04:10:27.000Z"
     },
     "576500": {
         "description": "Tricky Towers",
@@ -4587,9 +4587,9 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together",
         "tier": "5",
-        "owners": 0,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 1,
+        "completions": 1,
+        "playtime": 186.46666666666667,
+        "newestCompletion": "2026-01-26T20:53:39.000Z"
     }
 }
