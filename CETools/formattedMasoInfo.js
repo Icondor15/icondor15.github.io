@@ -4436,9 +4436,9 @@ var masoData =
         "description": "Finland Pain Simulator",
         "tier": "1",
         "owners": 49,
-        "completions": 10,
-        "playtime": 25.873333333333335,
-        "newestCompletion": "2026-01-24T18:55:54.000Z"
+        "completions": 11,
+        "playtime": 24.30757575757576,
+        "newestCompletion": "2026-03-03T18:25:03.000Z"
     },
     "1164940": {
         "description": "\u2733 You killed Kenny! You Bastards!",
