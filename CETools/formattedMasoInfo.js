@@ -255,7 +255,7 @@ var masoData =
     "588650": {
         "description": "\u272a I hope you like content updates",
         "tier": "4",
-        "owners": 153,
+        "owners": 154,
         "completions": 19,
         "playtime": 201.13508771929818,
         "newestCompletion": "2025-10-09T13:53:53.000Z"
@@ -544,9 +544,9 @@ var masoData =
         "description": "\u2733 Nothing to do with the game",
         "tier": "2",
         "owners": 114,
-        "completions": 75,
-        "playtime": 6.345111111111113,
-        "newestCompletion": "2025-10-26T05:41:49.000Z"
+        "completions": 76,
+        "playtime": 6.363157894736844,
+        "newestCompletion": "2026-03-04T22:28:42.000Z"
     },
     "578930": {
         "description": "My favorite word",
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 259,
         "completions": 190,
-        "playtime": 224.79692982456146,
+        "playtime": 225.16078947368428,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1209,7 +1209,7 @@ var masoData =
         "tier": "5",
         "owners": 196,
         "completions": 67,
-        "playtime": 192.28383084577115,
+        "playtime": 192.28980099502488,
         "newestCompletion": "2025-10-03T04:45:14.000Z",
         "badges": {
             "count": 1,
@@ -1309,7 +1309,7 @@ var masoData =
         "tier": "2",
         "owners": 162,
         "completions": 71,
-        "playtime": 238.1697183098592,
+        "playtime": 238.19225352112684,
         "newestCompletion": "2025-08-29T21:26:24.000Z",
         "badges": {
             "count": 2,
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 110,
         "completions": 34,
-        "playtime": 87.91372549019609,
+        "playtime": 88.01617647058825,
         "newestCompletion": "2025-12-29T07:01:08.000Z",
         "badges": {
             "count": 2,
@@ -2107,7 +2107,7 @@ var masoData =
     "960690": {
         "description": "\u2606 One Spam From Eden",
         "tier": "3",
-        "owners": 94,
+        "owners": 95,
         "completions": 15,
         "playtime": 44.46,
         "newestCompletion": "2025-08-21T02:09:30.000Z"
@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 114,
         "completions": 48,
-        "playtime": 251.80590277777776,
+        "playtime": 251.8111111111111,
         "newestCompletion": "2025-11-13T20:18:40.000Z",
         "badges": {
             "count": 1,
@@ -2753,7 +2753,7 @@ var masoData =
         "tier": "3",
         "owners": 64,
         "completions": 21,
-        "playtime": 195.49761904761908,
+        "playtime": 195.66111111111115,
         "newestCompletion": "2025-07-09T03:28:07.000Z",
         "badges": {
             "count": 2,
@@ -3315,7 +3315,7 @@ var masoData =
     "245490": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f WELCOME TO THE FUTUUUUUUUUUURE",
         "tier": "0",
-        "owners": 52,
+        "owners": 53,
         "completions": 4,
         "playtime": 207.18333333333334,
         "newestCompletion": "2025-08-19T12:24:00.000Z",
@@ -3337,7 +3337,7 @@ var masoData =
         "tier": "2",
         "owners": 115,
         "completions": 38,
-        "playtime": 94.36973684210527,
+        "playtime": 94.67061403508772,
         "newestCompletion": "2025-08-26T22:45:42.000Z",
         "badges": {
             "count": 3,
@@ -3557,7 +3557,7 @@ var masoData =
         "tier": "3",
         "owners": 55,
         "completions": 11,
-        "playtime": 159.87121212121212,
+        "playtime": 160.4121212121212,
         "newestCompletion": "2025-10-19T22:43:57.000Z",
         "badges": {
             "count": 1,
@@ -4437,7 +4437,7 @@ var masoData =
         "tier": "1",
         "owners": 49,
         "completions": 11,
-        "playtime": 24.30757575757576,
+        "playtime": 24.515151515151516,
         "newestCompletion": "2026-03-03T18:25:03.000Z"
     },
     "1164940": {
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 49,
+        "owners": 50,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
@@ -4587,7 +4587,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together",
         "tier": "5",
-        "owners": 1,
+        "owners": 2,
         "completions": 1,
         "playtime": 186.46666666666667,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
