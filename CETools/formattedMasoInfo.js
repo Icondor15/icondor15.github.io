@@ -183,9 +183,9 @@ var masoData =
     "268910": {
         "description": "The Dark Souls of Platform Games",
         "tier": "1",
-        "owners": 189,
-        "completions": 92,
-        "playtime": 43.236231884057986,
+        "owners": 190,
+        "completions": 93,
+        "playtime": 43.16182795698926,
         "newestCompletion": "2025-12-25T16:24:43.000Z",
         "badges": {
             "count": 1,
@@ -235,7 +235,7 @@ var masoData =
     "274170": {
         "description": "\u2733 There it\"s curated now",
         "tier": "2",
-        "owners": 156,
+        "owners": 157,
         "completions": 62,
         "playtime": 38.12338709677419,
         "newestCompletion": "2026-02-14T17:21:12.000Z",
@@ -295,10 +295,10 @@ var masoData =
     "387290": {
         "description": "\u2606 The Definitely Edition",
         "tier": "3",
-        "owners": 185,
-        "completions": 50,
-        "playtime": 35.527,
-        "newestCompletion": "2025-10-17T16:28:12.000Z"
+        "owners": 186,
+        "completions": 51,
+        "playtime": 35.52222222222222,
+        "newestCompletion": "2025-10-22T02:14:00.000Z"
     },
     "253230": {
         "description": "Thank god for mods and EZ mode",
@@ -427,9 +427,9 @@ var masoData =
     "367520": {
         "description": "\u2733 No longer casual \u02c3\u0323\u0323\u0325\u2313\u02c2\u0323\u0323\u0325",
         "tier": "2",
-        "owners": 249,
-        "completions": 134,
-        "playtime": 197.4890547263681,
+        "owners": 250,
+        "completions": 135,
+        "playtime": 196.60641975308636,
         "newestCompletion": "2025-10-24T02:20:59.000Z",
         "badges": {
             "count": 2,
@@ -1387,10 +1387,10 @@ var masoData =
     "40800": {
         "description": "\ud83c\udf1f 101 Hardcore gaming - if you never played it, now is the time to learn the ropes.",
         "tier": "5",
-        "owners": 256,
-        "completions": 80,
-        "playtime": 128.12791666666664,
-        "newestCompletion": "2026-01-19T15:23:35.000Z"
+        "owners": 257,
+        "completions": 81,
+        "playtime": 127.35699588477364,
+        "newestCompletion": "2026-02-15T04:36:54.000Z"
     },
     "557340": {
         "description": "ABSOLUTELY BANANAS",
@@ -2347,10 +2347,10 @@ var masoData =
     "219150": {
         "description": "I will beat you to death",
         "tier": "1",
-        "owners": 180,
-        "completions": 97,
-        "playtime": 15.977835051546393,
-        "newestCompletion": "2026-02-13T07:58:06.000Z"
+        "owners": 181,
+        "completions": 98,
+        "playtime": 15.954081632653063,
+        "newestCompletion": "2026-02-16T06:44:42.000Z"
     },
     "757320": {
         "description": "\u2606 Nuclear Valley",
@@ -2999,7 +2999,7 @@ var masoData =
     "581660": {
         "description": "\ud83c\udf1f Super Seed Boy",
         "tier": "5",
-        "owners": 129,
+        "owners": 130,
         "completions": 15,
         "playtime": 77.2,
         "newestCompletion": "2026-01-26T00:56:39.000Z"
@@ -3415,10 +3415,10 @@ var masoData =
     "1378990": {
         "description": "\u2606 It's about time we curated this",
         "tier": "3",
-        "owners": 39,
-        "completions": 10,
-        "playtime": 85.34166666666667,
-        "newestCompletion": "2025-06-17T01:15:00.000Z",
+        "owners": 40,
+        "completions": 11,
+        "playtime": 84.06060606060606,
+        "newestCompletion": "2026-01-18T00:44:27.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -4031,7 +4031,7 @@ var masoData =
     "2236070": {
         "description": "\ud83c\udf1f \u2665\u2665\u2665\u2665\u2665\u2665\u2665 seagulls",
         "tier": "5",
-        "owners": 47,
+        "owners": 48,
         "completions": 3,
         "playtime": 277.95,
         "newestCompletion": "2024-11-27T22:16:19.000Z"
@@ -4587,7 +4587,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together",
         "tier": "5",
-        "owners": 2,
+        "owners": 3,
         "completions": 1,
         "playtime": 186.46666666666667,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
