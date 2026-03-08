@@ -2,80 +2,104 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 956560,
-        "CEId": "846e6649-5eb8-4b7a-b3b1-1ca2772dd648",
-        "name": "StarCrossed",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/956560/header.jpg?t=1680723453",
-        "genre": "Arcade",
-        "tier": 1,
-        "points": 5,
-        "createdAt": "2024-03-07T01:09:41.000Z",
+        "platformId": 1649240,
+        "CEId": "9dfff5f2-479b-48fc-aee1-a19cc28db7a5",
+        "name": "Returnal\u2122",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1649240/header.jpg?t=1676476643",
+        "genre": "Action",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2023-03-08T23:10:29.000Z",
         "updatedAt": "2026-02-11T06:01:38.000Z",
-        "playersCompleted": 1,
+        "playersCompleted": 12,
         "playersStarted": 0,
-        "playersTotal": 60,
+        "playersTotal": 56,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 5999,
+                "final": 5999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 819,
-                "final": 819,
+                "initial": 5999,
+                "final": 5999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 719,
-                "final": 719,
+                "initial": 4999,
+                "final": 4999,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 101000,
-                "final": 101000,
+                "initial": 759000,
+                "final": 759000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 9495,
+                "final": 9495,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 7999,
+                "final": 7999,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Double Crossed [5\u2605]\nProve yourself.",
+            "primaryText": "The Punished [20\u2605]\nBeat the main game. / Destroy Algos' final form.",
             "community": 0,
             "communityText": "",
-            "achievements": 30
+            "achievements": 38
         },
         "gameTags": [
-            "Female Protagonist",
             "Action",
-            "Local Co-Op",
-            "Indie",
-            "Cute",
-            "Arcade",
-            "LGBTQ+",
-            "Co-op",
-            "Colorful",
             "Bullet Hell",
-            "Anime",
+            "Roguelike",
+            "Singleplayer",
+            "Co-op",
+            "Female Protagonist",
+            "Third-Person Shooter",
+            "Online Co-Op",
+            "Action Roguelike",
+            "Space",
+            "Sci-fi",
+            "Shooter",
             "Multiplayer",
-            "Great Soundtrack",
-            "Retro",
-            "Visual Novel",
-            "Shoot 'Em Up",
-            "2D",
-            "Singleplayer"
+            "Difficult",
+            "Psychological Horror",
+            "Roguelite",
+            "Atmospheric",
+            "Horror",
+            "Arcade",
+            "Souls-like"
         ],
         "languages": {
-            "english": "IAS"
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "arabic": "IAS",
+            "brazilian": "IAS",
+            "danish": "IS",
+            "dutch": "IS",
+            "finnish": "IS",
+            "indonesian": "IS",
+            "koreana": "IAS",
+            "latam": "IAS",
+            "norwegian": "IS",
+            "polish": "IAS",
+            "portuguese": "IAS",
+            "russian": "IAS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "tchinese": "IS",
+            "thai": "IS",
+            "vietnamese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-03-07'
+var gameOfDayDate = '2026-03-08'
