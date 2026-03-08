@@ -943,7 +943,7 @@ var masoData =
     "240720": {
         "description": "\u2733 Can you?",
         "tier": "2",
-        "owners": 188,
+        "owners": 189,
         "completions": 100,
         "playtime": 33.114166666666684,
         "newestCompletion": "2025-12-15T01:34:53.000Z"
@@ -1987,7 +1987,7 @@ var masoData =
     "977950": {
         "description": "\u2606 Visually challenging rhythm gameplay",
         "tier": "3",
-        "owners": 110,
+        "owners": 111,
         "completions": 34,
         "playtime": 88.01617647058825,
         "newestCompletion": "2025-12-29T07:01:08.000Z",
@@ -2247,7 +2247,7 @@ var masoData =
     "1154810": {
         "description": "\u2733 F",
         "tier": "2",
-        "owners": 109,
+        "owners": 110,
         "completions": 27,
         "playtime": 34.38086419753087,
         "newestCompletion": "2025-05-20T11:23:59.000Z"
@@ -2471,7 +2471,7 @@ var masoData =
     "1229380": {
         "description": "\u2606 No you\"re not tripping",
         "tier": "3",
-        "owners": 138,
+        "owners": 139,
         "completions": 14,
         "playtime": 56.185714285714276,
         "newestCompletion": "2026-02-17T21:12:33.000Z"
@@ -2571,7 +2571,7 @@ var masoData =
     "1250440": {
         "description": "WARNING: Consumption will cause death",
         "tier": "1",
-        "owners": 24,
+        "owners": 25,
         "completions": 14,
         "playtime": 8.345238095238097,
         "newestCompletion": "2025-12-26T10:31:10.000Z"
@@ -3119,7 +3119,7 @@ var masoData =
     "220160": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f Trial your might",
         "tier": "0",
-        "owners": 59,
+        "owners": 60,
         "completions": 8,
         "playtime": 104.77291666666666,
         "newestCompletion": "2025-08-27T18:01:30.000Z",
@@ -3295,7 +3295,7 @@ var masoData =
     "641080": {
         "description": "\ud83c\udf96\ufe0f \ud83d\udc80 Diamond is unbreakable \ud83d\udc80",
         "tier": "0",
-        "owners": 67,
+        "owners": 68,
         "completions": 9,
         "playtime": 1099.198148148148,
         "newestCompletion": "2025-08-16T00:06:50.000Z",
@@ -3315,7 +3315,7 @@ var masoData =
     "245490": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f WELCOME TO THE FUTUUUUUUUUUURE",
         "tier": "0",
-        "owners": 53,
+        "owners": 54,
         "completions": 4,
         "playtime": 207.18333333333334,
         "newestCompletion": "2025-08-19T12:24:00.000Z",
@@ -4507,7 +4507,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 51,
+        "owners": 52,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
