@@ -2,104 +2,90 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1649240,
-        "CEId": "9dfff5f2-479b-48fc-aee1-a19cc28db7a5",
-        "name": "Returnal\u2122",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1649240/header.jpg?t=1676476643",
-        "genre": "Action",
-        "tier": 2,
-        "points": 20,
-        "createdAt": "2023-03-08T23:10:29.000Z",
+        "platformId": 1838290,
+        "CEId": "f918d346-5a60-4a8e-a707-d1c465689d2b",
+        "name": "LOUD: My Road to Fame",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1838290/header.jpg?t=1707730470",
+        "genre": "Arcade",
+        "tier": 1,
+        "points": 11,
+        "createdAt": "2024-03-09T00:07:02.000Z",
         "updatedAt": "2026-02-11T06:01:38.000Z",
-        "playersCompleted": 12,
-        "playersStarted": 0,
-        "playersTotal": 56,
+        "playersCompleted": 0,
+        "playersStarted": 4,
+        "playersTotal": 61,
         "priceData": {
             "USD": {
-                "initial": 5999,
-                "final": 5999,
-                "discountPercent": 0
+                "initial": 999,
+                "final": 299,
+                "discountPercent": 70
             },
             "EUR": {
-                "initial": 5999,
-                "final": 5999,
-                "discountPercent": 0
+                "initial": 975,
+                "final": 292,
+                "discountPercent": 70
             },
             "GBP": {
-                "initial": 4999,
-                "final": 4999,
-                "discountPercent": 0
+                "initial": 850,
+                "final": 255,
+                "discountPercent": 70
             },
             "JPY": {
-                "initial": 759000,
-                "final": 759000,
-                "discountPercent": 0
+                "initial": 130000,
+                "final": 39000,
+                "discountPercent": 70
             },
             "AUD": {
-                "initial": 9495,
-                "final": 9495,
-                "discountPercent": 0
+                "initial": 1450,
+                "final": 435,
+                "discountPercent": 70
             },
             "CAD": {
-                "initial": 7999,
-                "final": 7999,
-                "discountPercent": 0
+                "initial": 1299,
+                "final": 389,
+                "discountPercent": 70
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "The Punished [20\u2605]\nBeat the main game. / Destroy Algos' final form.",
+            "primary": 2,
+            "primaryText": "LOUDER [10\u2605]\nProve yourself. \n\nLOUDEST (UNCLEARED) [1\u2605]\nGet S+ rank on every song on Grindin' Difficulty (including DLC and Bonus)",
             "community": 0,
             "communityText": "",
-            "achievements": 38
+            "achievements": 27
         },
         "gameTags": [
-            "Action",
-            "Bullet Hell",
-            "Roguelike",
-            "Singleplayer",
-            "Co-op",
-            "Female Protagonist",
-            "Third-Person Shooter",
-            "Online Co-Op",
-            "Action Roguelike",
-            "Space",
-            "Sci-fi",
-            "Shooter",
-            "Multiplayer",
-            "Difficult",
-            "Psychological Horror",
-            "Roguelite",
-            "Atmospheric",
-            "Horror",
+            "Rhythm",
             "Arcade",
-            "Souls-like"
+            "Female Protagonist",
+            "Character Customization",
+            "Comic Book",
+            "Cute",
+            "Relaxing",
+            "Action",
+            "Controller",
+            "Casual",
+            "Narration",
+            "Colorful",
+            "Cartoony",
+            "Hand-drawn",
+            "Score Attack",
+            "Drama",
+            "Emotional",
+            "Cartoon",
+            "Modern",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IAS",
-            "german": "IAS",
-            "italian": "IAS",
-            "japanese": "IAS",
-            "spanish": "IAS",
-            "arabic": "IAS",
-            "brazilian": "IAS",
-            "danish": "IS",
-            "dutch": "IS",
-            "finnish": "IS",
-            "indonesian": "IS",
-            "koreana": "IAS",
-            "latam": "IAS",
-            "norwegian": "IS",
-            "polish": "IAS",
-            "portuguese": "IAS",
-            "russian": "IAS",
-            "schinese": "IS",
-            "swedish": "IS",
-            "tchinese": "IS",
-            "thai": "IS",
-            "vietnamese": "IS"
-        }
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "koreana": "I",
+            "schinese": "I"
+        },
+        "information": "Requires DLC: My Trip To Japan for both objectives."
     }
 }
-var gameOfDayDate = '2026-03-08'
+var gameOfDayDate = '2026-03-09'
