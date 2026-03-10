@@ -2,90 +2,85 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1838290,
-        "CEId": "f918d346-5a60-4a8e-a707-d1c465689d2b",
-        "name": "LOUD: My Road to Fame",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1838290/header.jpg?t=1707730470",
-        "genre": "Arcade",
-        "tier": 1,
-        "points": 11,
-        "createdAt": "2024-03-09T00:07:02.000Z",
+        "platformId": 2870000,
+        "CEId": "bc3998f0-0743-4d32-bf14-950dfbc1ca2c",
+        "name": "I Got Isekai'd Into a Shmup",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870000/header.jpg?t=1729342166",
+        "genre": "Bullet Hell",
+        "tier": 3,
+        "points": 45,
+        "createdAt": "2025-03-10T08:10:10.000Z",
         "updatedAt": "2026-02-11T06:01:38.000Z",
-        "playersCompleted": 0,
-        "playersStarted": 4,
-        "playersTotal": 61,
+        "playersCompleted": 1,
+        "playersStarted": 0,
+        "playersTotal": 6,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 299,
-                "discountPercent": 70
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 975,
-                "final": 292,
-                "discountPercent": 70
+                "initial": 1279,
+                "final": 1279,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 850,
-                "final": 255,
-                "discountPercent": 70
+                "initial": 1099,
+                "final": 1099,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 130000,
-                "final": 39000,
-                "discountPercent": 70
+                "initial": 150000,
+                "final": 150000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 435,
-                "discountPercent": 70
+                "initial": 1895,
+                "final": 1895,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 1299,
-                "final": 389,
-                "discountPercent": 70
+                "initial": 1699,
+                "final": 1699,
+                "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "LOUDER [10\u2605]\nProve yourself. \n\nLOUDEST (UNCLEARED) [1\u2605]\nGet S+ rank on every song on Grindin' Difficulty (including DLC and Bonus)",
+            "primaryText": "That Time I Got Reincarnated as the World Savior [20\u2605]\nGet a 1CC on Manic difficulty while collecting all secret stars.\n\nManic Gamer [25\u2605]\nGet a 1CC on Manic difficulty.",
             "community": 0,
             "communityText": "",
-            "achievements": 27
+            "achievements": 45
         },
         "gameTags": [
-            "Rhythm",
-            "Arcade",
-            "Female Protagonist",
-            "Character Customization",
-            "Comic Book",
-            "Cute",
-            "Relaxing",
             "Action",
-            "Controller",
-            "Casual",
-            "Narration",
-            "Colorful",
+            "Arcade",
+            "Shoot 'Em Up",
+            "Indie",
+            "2D",
+            "1990's",
+            "Female Protagonist",
+            "4 Player Local",
+            "Pixel Graphics",
+            "Local Co-Op",
+            "Bullet Hell",
+            "Anime",
             "Cartoony",
-            "Hand-drawn",
-            "Score Attack",
-            "Drama",
-            "Emotional",
-            "Cartoon",
-            "Modern",
-            "Singleplayer"
+            "Comic Book",
+            "Space",
+            "Futuristic",
+            "War",
+            "Parody ",
+            "Robots",
+            "Retro"
         ],
         "languages": {
-            "english": "IA",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "koreana": "I",
-            "schinese": "I"
-        },
-        "information": "Requires DLC: My Trip To Japan for both objectives."
+            "english": "IAS",
+            "french": "IS",
+            "japanese": "IS",
+            "portuguese": "IS"
+        }
     }
 }
-var gameOfDayDate = '2026-03-09'
+var gameOfDayDate = '2026-03-10'
