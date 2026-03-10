@@ -811,7 +811,7 @@ var masoData =
     "235460": {
         "description": "\u272a How did a AAA make it here???",
         "tier": "4",
-        "owners": 92,
+        "owners": 93,
         "completions": 18,
         "playtime": 77.11388888888888,
         "newestCompletion": "2025-10-01T09:34:07.000Z"
@@ -1207,7 +1207,7 @@ var masoData =
     "422970": {
         "description": "\ud83c\udf1f Extremely dedicated or extremely talented?",
         "tier": "5",
-        "owners": 196,
+        "owners": 197,
         "completions": 67,
         "playtime": 192.28980099502488,
         "newestCompletion": "2025-10-03T04:45:14.000Z",
@@ -1363,9 +1363,9 @@ var masoData =
     "221640": {
         "description": "\u2733 Just one more try\u2122",
         "tier": "2",
-        "owners": 208,
+        "owners": 209,
         "completions": 150,
-        "playtime": 21.117888888888878,
+        "playtime": 21.11977777777777,
         "newestCompletion": "2025-11-06T16:02:02.000Z"
     },
     "211260": {
@@ -1475,7 +1475,7 @@ var masoData =
     "1061090": {
         "description": "\ud83c\udf1f The Virgin Shovel knight VS the Chad Jump King",
         "tier": "5",
-        "owners": 142,
+        "owners": 143,
         "completions": 38,
         "playtime": 278.5820175438596,
         "newestCompletion": "2025-12-17T21:24:11.000Z",
@@ -1527,7 +1527,7 @@ var masoData =
     "814380": {
         "description": "\u2733 It\"s all in the fundamentals",
         "tier": "2",
-        "owners": 111,
+        "owners": 112,
         "completions": 66,
         "playtime": 87.33661616161618,
         "newestCompletion": "2025-01-14T22:44:01.000Z"
@@ -1949,7 +1949,7 @@ var masoData =
         "tier": "2",
         "owners": 81,
         "completions": 9,
-        "playtime": 63.68888888888888,
+        "playtime": 65.56851851851852,
         "newestCompletion": "2024-08-06T23:04:30.000Z"
     },
     "1082000": {
@@ -1987,7 +1987,7 @@ var masoData =
     "977950": {
         "description": "\u2606 Visually challenging rhythm gameplay",
         "tier": "3",
-        "owners": 111,
+        "owners": 112,
         "completions": 34,
         "playtime": 88.01617647058825,
         "newestCompletion": "2025-12-29T07:01:08.000Z",
@@ -2547,7 +2547,7 @@ var masoData =
     "1647160": {
         "description": "\u2733 Is it in yet?",
         "tier": "2",
-        "owners": 135,
+        "owners": 136,
         "completions": 70,
         "playtime": 5.95642857142857,
         "newestCompletion": "2025-11-01T22:44:20.000Z"
@@ -3119,7 +3119,7 @@ var masoData =
     "220160": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f Trial your might",
         "tier": "0",
-        "owners": 60,
+        "owners": 61,
         "completions": 8,
         "playtime": 104.77291666666666,
         "newestCompletion": "2025-08-27T18:01:30.000Z",
@@ -3133,7 +3133,7 @@ var masoData =
         "tier": "1",
         "owners": 50,
         "completions": 19,
-        "playtime": 5.746491228070176,
+        "playtime": 5.802631578947368,
         "newestCompletion": "2026-02-22T10:28:09.000Z"
     },
     "342610": {
@@ -3295,7 +3295,7 @@ var masoData =
     "641080": {
         "description": "\ud83c\udf96\ufe0f \ud83d\udc80 Diamond is unbreakable \ud83d\udc80",
         "tier": "0",
-        "owners": 68,
+        "owners": 69,
         "completions": 9,
         "playtime": 1099.198148148148,
         "newestCompletion": "2025-08-16T00:06:50.000Z",
@@ -3307,7 +3307,7 @@ var masoData =
     "1370690": {
         "description": "\ud83c\udf1f Accurate to real-life ice skating experiences*",
         "tier": "5",
-        "owners": 37,
+        "owners": 38,
         "completions": 1,
         "playtime": 90.15,
         "newestCompletion": "2022-09-18T01:59:52.000Z"
@@ -3315,7 +3315,7 @@ var masoData =
     "245490": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f WELCOME TO THE FUTUUUUUUUUUURE",
         "tier": "0",
-        "owners": 54,
+        "owners": 55,
         "completions": 4,
         "playtime": 207.18333333333334,
         "newestCompletion": "2025-08-19T12:24:00.000Z",
@@ -3335,10 +3335,10 @@ var masoData =
     "1743850": {
         "description": "\u2733 LSDD",
         "tier": "2",
-        "owners": 115,
-        "completions": 38,
-        "playtime": 94.67061403508772,
-        "newestCompletion": "2025-08-26T22:45:42.000Z",
+        "owners": 116,
+        "completions": 39,
+        "playtime": 92.97863247863249,
+        "newestCompletion": "2026-02-22T04:09:27.000Z",
         "badges": {
             "count": 3,
             "points": 21
@@ -3424,14 +3424,6 @@ var masoData =
             "points": 3
         }
     },
-    "669340": {
-        "description": "The Secret Cosmonautical Community.",
-        "tier": "1",
-        "owners": 11,
-        "completions": 7,
-        "playtime": 10.983333333333334,
-        "newestCompletion": "2025-09-03T01:55:39.000Z"
-    },
     "2216320": {
         "description": "\u272a Deliver Easter eggs on the North Pole and drift around snow banks without dropping an egg. The time-trial challenges are snow joke in this eggspansion.",
         "tier": "4",
@@ -3439,30 +3431,6 @@ var masoData =
         "completions": 5,
         "playtime": 7.023333333333333,
         "newestCompletion": "2025-04-03T19:18:59.000Z"
-    },
-    "354400": {
-        "description": "it's a hit :Squarsh:",
-        "tier": "1",
-        "owners": 18,
-        "completions": 3,
-        "playtime": 8.705555555555556,
-        "newestCompletion": "2025-04-24T18:25:23.000Z"
-    },
-    "1492420": {
-        "description": "\u272a Literally preschool math",
-        "tier": "4",
-        "owners": 28,
-        "completions": 10,
-        "playtime": 54.94500000000001,
-        "newestCompletion": "2026-01-28T16:30:08.000Z"
-    },
-    "811970": {
-        "description": "looking forward to finishing the game up",
-        "tier": "1",
-        "owners": 7,
-        "completions": 4,
-        "playtime": 10.3125,
-        "newestCompletion": "2024-12-15T08:39:01.000Z"
     },
     "1954200": {
         "description": "Ghibli Souls",
@@ -3537,7 +3505,7 @@ var masoData =
         "tier": "2",
         "owners": 99,
         "completions": 37,
-        "playtime": 54.2572072072072,
+        "playtime": 54.28648648648648,
         "newestCompletion": "2025-10-16T15:29:36.000Z"
     },
     "1442170": {
@@ -3619,7 +3587,7 @@ var masoData =
     "2330500": {
         "description": "\u272a Concrete challenge",
         "tier": "4",
-        "owners": 45,
+        "owners": 46,
         "completions": 8,
         "playtime": 46.170833333333334,
         "newestCompletion": "2025-10-04T17:04:08.000Z"
@@ -3723,10 +3691,10 @@ var masoData =
     "1608640": {
         "description": "\u2606 Wolf in sheep's clothing",
         "tier": "3",
-        "owners": 50,
-        "completions": 10,
-        "playtime": 20.153333333333336,
-        "newestCompletion": "2026-01-02T08:14:45.000Z"
+        "owners": 51,
+        "completions": 11,
+        "playtime": 18.484848484848488,
+        "newestCompletion": "2026-01-12T18:31:54.000Z"
     },
     "2138710": {
         "description": "\u2733 Nothing good ever comes from revenge",
@@ -3884,9 +3852,9 @@ var masoData =
         "description": "Heartbeat... Heartbeat... Heartbeat... Heart.",
         "tier": "1",
         "owners": 59,
-        "completions": 5,
-        "playtime": 22.033333333333335,
-        "newestCompletion": "2025-12-17T00:44:58.000Z",
+        "completions": 6,
+        "playtime": 22.480555555555554,
+        "newestCompletion": "2026-03-03T16:42:11.000Z",
         "badges": {
             "count": 1,
             "points": 1
@@ -3907,7 +3875,7 @@ var masoData =
     "871720": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f Your average night shift",
         "tier": "0",
-        "owners": 67,
+        "owners": 68,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null,
@@ -3971,7 +3939,7 @@ var masoData =
     "1293170": {
         "description": "404: Tagline not found",
         "tier": "1",
-        "owners": 41,
+        "owners": 42,
         "completions": 14,
         "playtime": 6.700000000000001,
         "newestCompletion": "2025-10-19T13:50:40.000Z"
@@ -4031,7 +3999,7 @@ var masoData =
     "2236070": {
         "description": "\ud83c\udf1f \u2665\u2665\u2665\u2665\u2665\u2665\u2665 seagulls",
         "tier": "5",
-        "owners": 48,
+        "owners": 49,
         "completions": 3,
         "playtime": 277.95,
         "newestCompletion": "2024-11-27T22:16:19.000Z"
@@ -4351,7 +4319,7 @@ var masoData =
     "2702490": {
         "description": "\u2733 An old classic in a fresh light",
         "tier": "2",
-        "owners": 18,
+        "owners": 19,
         "completions": 8,
         "playtime": 85.03958333333335,
         "newestCompletion": "2025-11-07T22:12:00.000Z"
@@ -4481,7 +4449,7 @@ var masoData =
         "tier": "1",
         "owners": 38,
         "completions": 26,
-        "playtime": 8.772435897435898,
+        "playtime": 8.91025641025641,
         "newestCompletion": "2026-02-20T13:57:46.000Z"
     },
     "1030300": {
@@ -4495,7 +4463,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 175,
+        "owners": 176,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null,
@@ -4507,7 +4475,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 52,
+        "owners": 53,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
@@ -4587,7 +4555,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together",
         "tier": "5",
-        "owners": 3,
+        "owners": 4,
         "completions": 1,
         "playtime": 186.46666666666667,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
