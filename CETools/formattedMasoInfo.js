@@ -4325,7 +4325,7 @@ var masoData =
         "newestCompletion": "2025-11-07T22:12:00.000Z"
     },
     "1345860": {
-        "description": "Grapple Doggo ",
+        "description": "Grapple Doggo",
         "tier": "1",
         "owners": 50,
         "completions": 18,
