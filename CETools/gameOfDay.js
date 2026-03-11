@@ -2,85 +2,95 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2870000,
-        "CEId": "bc3998f0-0743-4d32-bf14-950dfbc1ca2c",
-        "name": "I Got Isekai'd Into a Shmup",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870000/header.jpg?t=1729342166",
-        "genre": "Bullet Hell",
-        "tier": 3,
-        "points": 45,
-        "createdAt": "2025-03-10T08:10:10.000Z",
+        "platformId": 1818690,
+        "CEId": "6b902e87-7795-499f-ad12-920e005afee4",
+        "name": "Grindstone",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1818690/header.jpg?t=1678295049",
+        "genre": "Strategy",
+        "tier": 1,
+        "points": 10,
+        "createdAt": "2024-03-11T15:50:36.000Z",
         "updatedAt": "2026-02-11T06:01:38.000Z",
-        "playersCompleted": 1,
-        "playersStarted": 0,
-        "playersTotal": 6,
+        "playersCompleted": 2,
+        "playersStarted": 4,
+        "playersTotal": 39,
         "priceData": {
             "USD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1279,
-                "final": 1279,
+                "initial": 1679,
+                "final": 1679,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1099,
-                "final": 1099,
+                "initial": 1549,
+                "final": 1549,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 150000,
-                "final": 150000,
+                "initial": 205000,
+                "final": 205000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1895,
-                "final": 1895,
+                "initial": 2895,
+                "final": 2895,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1699,
-                "final": 1699,
+                "initial": 2279,
+                "final": 2279,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "That Time I Got Reincarnated as the World Savior [20\u2605]\nGet a 1CC on Manic difficulty while collecting all secret stars.\n\nManic Gamer [25\u2605]\nGet a 1CC on Manic difficulty.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 45
+            "primaryText": "Creep Crush [5\u2605]\nComplete all Extra worlds and the boss rush.\n\nNine to Five [5\u2605]\nComplete all levels and complete a greed grind without dying.",
+            "community": 1,
+            "communityText": "No Stone Unturned\n100% everything.",
+            "achievements": 49
         },
         "gameTags": [
-            "Action",
+            "Casual",
             "Arcade",
-            "Shoot 'Em Up",
-            "Indie",
+            "Puzzle",
+            "Collectathon",
+            "Clicker",
+            "Hack and Slash",
+            "Puzzle Platformer",
             "2D",
-            "1990's",
-            "Female Protagonist",
-            "4 Player Local",
-            "Pixel Graphics",
-            "Local Co-Op",
-            "Bullet Hell",
-            "Anime",
+            "Cartoon",
             "Cartoony",
-            "Comic Book",
-            "Space",
-            "Futuristic",
-            "War",
-            "Parody ",
-            "Robots",
-            "Retro"
+            "Colorful",
+            "Cooking",
+            "Crafting",
+            "Dark",
+            "Dark Comedy",
+            "Dark Humor",
+            "Loot",
+            "Relaxing",
+            "Character Customization",
+            "Choices Matter"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "japanese": "IS",
-            "portuguese": "IS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I",
+            "turkish": "I"
         }
     }
 }
-var gameOfDayDate = '2026-03-10'
+var gameOfDayDate = '2026-03-11'
