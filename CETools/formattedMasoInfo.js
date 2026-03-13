@@ -185,7 +185,7 @@ var masoData =
         "tier": "1",
         "owners": 190,
         "completions": 93,
-        "playtime": 43.16182795698926,
+        "playtime": 43.272580645161305,
         "newestCompletion": "2025-12-25T16:24:43.000Z",
         "badges": {
             "count": 1,
@@ -236,9 +236,9 @@ var masoData =
         "description": "\u2733 There it\"s curated now",
         "tier": "2",
         "owners": 157,
-        "completions": 62,
-        "playtime": 38.12338709677419,
-        "newestCompletion": "2026-02-14T17:21:12.000Z",
+        "completions": 63,
+        "playtime": 37.966931216931215,
+        "newestCompletion": "2026-03-13T00:42:00.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 250,
         "completions": 135,
-        "playtime": 196.60641975308636,
+        "playtime": 196.6313580246913,
         "newestCompletion": "2025-10-24T02:20:59.000Z",
         "badges": {
             "count": 2,
