@@ -3588,9 +3588,9 @@ var masoData =
         "description": "\u272a Concrete challenge",
         "tier": "4",
         "owners": 46,
-        "completions": 8,
-        "playtime": 46.170833333333334,
-        "newestCompletion": "2025-10-04T17:04:08.000Z"
+        "completions": 9,
+        "playtime": 49.214814814814815,
+        "newestCompletion": "2026-03-14T01:37:44.000Z"
     },
     "1621320": {
         "description": "\u272a It's omelette sea-sun",
@@ -4555,7 +4555,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together",
         "tier": "5",
-        "owners": 4,
+        "owners": 5,
         "completions": 1,
         "playtime": 186.46666666666667,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
