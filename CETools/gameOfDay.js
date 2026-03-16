@@ -2,82 +2,82 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2424650,
-        "CEId": "50f1fbd3-aa45-44c7-87c3-94acad04523c",
-        "name": "Froggy's Battle",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2424650/header.jpg?t=1689775335",
+        "platformId": 2832620,
+        "CEId": "b135118f-b05d-4529-9108-ff7f882470af",
+        "name": "Stray Shot",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832620/header.jpg?t=1712925564",
         "genre": "Action",
         "tier": 1,
-        "points": 5,
-        "createdAt": "2024-03-15T21:51:50.000Z",
+        "points": 6,
+        "createdAt": "2025-03-16T07:41:05.000Z",
         "updatedAt": "2026-02-11T06:01:38.000Z",
-        "playersCompleted": 28,
-        "playersStarted": 0,
-        "playersTotal": 70,
+        "playersCompleted": 0,
+        "playersStarted": 1,
+        "playersTotal": 4,
         "priceData": {
             "USD": {
-                "initial": 199,
-                "final": 199,
+                "initial": 599,
+                "final": 599,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 199,
-                "final": 199,
+                "initial": 599,
+                "final": 599,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 169,
-                "final": 169,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 23500,
-                "final": 23500,
+                "initial": 70000,
+                "final": 70000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 295,
-                "final": 295,
+                "initial": 879,
+                "final": 879,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 259,
-                "final": 259,
+                "initial": 779,
+                "final": 779,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "One Tricky Frog [5\u2605]\nSeparately; Beat Hard mode in less than 7 minutes, and with 5 or more hearts remaining.",
+            "primary": 2,
+            "primaryText": "No Shot Wasted (UNCLEARED) [1\u2605]\nProve yourself?\n\nNevamiss [5\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
-            "achievements": 15
+            "achievements": 25
         },
         "gameTags": [
-            "Action Roguelike",
-            "Skateboarding",
-            "Roguelite",
+            "Score Attack",
+            "Arena Shooter",
+            "Bullet Hell",
             "Arcade",
+            "Robots",
+            "Twin Stick Shooter",
+            "Local Co-Op",
             "Indie",
-            "2D",
-            "Cute",
-            "Relaxing",
-            "Action",
-            "Funny",
-            "Controller",
-            "Casual",
+            "Shooter",
+            "Pixel Graphics",
+            "Shoot 'Em Up",
             "Colorful",
-            "Roguelike",
-            "Fantasy",
-            "Magic",
-            "Swordplay",
-            "Nature",
-            "Combat",
-            "Singleplayer"
+            "Cute",
+            "Top-Down Shooter",
+            "Cartoony",
+            "Music",
+            "PvE",
+            "Top-Down",
+            "Futuristic",
+            "Retro"
         ],
         "languages": {
             "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-03-15'
+var gameOfDayDate = '2026-03-16'
