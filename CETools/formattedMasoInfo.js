@@ -3,7 +3,7 @@ var masoData =
     "384700": {
         "description": "\u272a really fishing for mans",
         "tier": "4",
-        "owners": 52,
+        "owners": 53,
         "completions": 11,
         "playtime": 39.23636363636364,
         "newestCompletion": "2024-08-01T12:23:24.000Z"
@@ -2307,7 +2307,7 @@ var masoData =
     "378750": {
         "description": "\u2733 really fishing for babies",
         "tier": "2",
-        "owners": 45,
+        "owners": 46,
         "completions": 12,
         "playtime": 13.923611111111112,
         "newestCompletion": "2023-05-12T06:05:42.000Z"
@@ -2315,7 +2315,7 @@ var masoData =
     "1285670": {
         "description": "PTSV",
         "tier": "1",
-        "owners": 94,
+        "owners": 95,
         "completions": 62,
         "playtime": 2.0139784946236556,
         "newestCompletion": "2026-01-31T17:38:04.000Z"
@@ -2323,7 +2323,7 @@ var masoData =
     "384690": {
         "description": "\u2733 really fishing for children",
         "tier": "2",
-        "owners": 52,
+        "owners": 53,
         "completions": 13,
         "playtime": 17.49230769230769,
         "newestCompletion": "2025-02-28T23:19:03.000Z"
@@ -3263,7 +3263,7 @@ var masoData =
     "553420": {
         "description": "\u280f\u2807\u2801\u283d TUNIC \u280b\u2815\u2817\u2801\u281b\u2815\u2815\u2819\u281e\u280a\u280d\u2811",
         "tier": "1",
-        "owners": 69,
+        "owners": 70,
         "completions": 39,
         "playtime": 22.716239316239314,
         "newestCompletion": "2025-07-30T20:41:32.000Z"
@@ -4475,7 +4475,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 53,
+        "owners": 54,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
