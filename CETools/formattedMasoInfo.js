@@ -141,7 +141,7 @@ var masoData =
         "tier": "1",
         "owners": 160,
         "completions": 83,
-        "playtime": 8.309437751004014,
+        "playtime": 8.339558232931726,
         "newestCompletion": "2026-03-01T19:28:14.000Z",
         "badges": {
             "count": 1,
@@ -211,7 +211,7 @@ var masoData =
     "524050": {
         "description": "Ziplining platforming about A. fish",
         "tier": "1",
-        "owners": 20,
+        "owners": 21,
         "completions": 14,
         "playtime": 5.936904761904761,
         "newestCompletion": "2024-12-15T01:26:49.000Z"
@@ -236,9 +236,9 @@ var masoData =
         "description": "\u2733 There it\"s curated now",
         "tier": "2",
         "owners": 157,
-        "completions": 63,
-        "playtime": 37.966931216931215,
-        "newestCompletion": "2026-03-13T00:42:00.000Z",
+        "completions": 64,
+        "playtime": 37.62057291666667,
+        "newestCompletion": "2026-03-20T21:35:51.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -303,7 +303,7 @@ var masoData =
     "253230": {
         "description": "Thank god for mods and EZ mode",
         "tier": "1",
-        "owners": 148,
+        "owners": 149,
         "completions": 42,
         "playtime": 129.61111111111111,
         "newestCompletion": "2025-11-10T18:24:56.000Z",
@@ -1075,7 +1075,7 @@ var masoData =
     "394970": {
         "description": "\u272a Gunpoint meets hotline miami",
         "tier": "4",
-        "owners": 103,
+        "owners": 104,
         "completions": 30,
         "playtime": 39.217777777777776,
         "newestCompletion": "2025-11-24T22:10:14.000Z"
@@ -2363,7 +2363,7 @@ var masoData =
     "1186270": {
         "description": "\u272a Bone-a-fide batass",
         "tier": "4",
-        "owners": 14,
+        "owners": 15,
         "completions": 3,
         "playtime": 23.66111111111111,
         "newestCompletion": "2024-09-29T04:11:47.000Z"
@@ -2647,7 +2647,7 @@ var masoData =
     "1170060": {
         "description": "\u272a Okay Boomerang ",
         "tier": "4",
-        "owners": 78,
+        "owners": 79,
         "completions": 23,
         "playtime": 16.70434782608696,
         "newestCompletion": "2025-11-09T19:18:56.000Z"
@@ -3031,7 +3031,7 @@ var masoData =
     "1057090": {
         "description": "\u2733 now with actual combat",
         "tier": "2",
-        "owners": 134,
+        "owners": 135,
         "completions": 37,
         "playtime": 37.140090090090084,
         "newestCompletion": "2025-09-15T20:27:37.000Z"
@@ -3039,7 +3039,7 @@ var masoData =
     "658780": {
         "description": "\u2665\u2665\u2665\u2665 and bomb torture",
         "tier": "1",
-        "owners": 16,
+        "owners": 17,
         "completions": 8,
         "playtime": 6.643750000000001,
         "newestCompletion": "2024-01-28T12:38:45.000Z"
@@ -4087,7 +4087,7 @@ var masoData =
     "1059990": {
         "description": "\ud83c\udf96\ufe0f Doot Hero",
         "tier": "0",
-        "owners": 48,
+        "owners": 49,
         "completions": 18,
         "playtime": 10.041666666666664,
         "newestCompletion": "2025-11-03T05:33:22.000Z",
@@ -4211,7 +4211,7 @@ var masoData =
     "2076580": {
         "description": "Anything but a grind",
         "tier": "1",
-        "owners": 16,
+        "owners": 17,
         "completions": 7,
         "playtime": 7.55,
         "newestCompletion": "2025-07-25T01:04:01.000Z"
@@ -4559,5 +4559,21 @@ var masoData =
         "completions": 1,
         "playtime": 186.46666666666667,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
+    },
+    "238460": {
+        "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world",
+        "tier": "0",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
+    },
+    "3191540": {
+        "description": "There is a Smoking Hot Ape at the Top!",
+        "tier": "1",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
     }
 }
