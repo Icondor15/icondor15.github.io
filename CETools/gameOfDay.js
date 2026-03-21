@@ -2,80 +2,84 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 378750,
-        "CEId": "9b367456-4a64-488c-b6df-c7c0c26ce914",
-        "name": "Sayonara Umihara Kawase",
-        "header": "https://steamcdn-a.akamaihd.net/steam/apps/378750/header.jpg?t=1562747762",
-        "genre": "Platformer",
+        "platformId": 437020,
+        "CEId": "6a771a64-5b36-4fc8-8e6d-f5df61442450",
+        "name": "WITCH-BOT MEGLILO",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/437020/header.jpg?t=1572925228",
+        "genre": "Bullet Hell",
         "tier": 2,
-        "points": 25,
-        "createdAt": "2020-03-20T09:48:51.000Z",
+        "points": 30,
+        "createdAt": "2022-03-21T05:20:10.000Z",
         "updatedAt": "2026-02-11T06:01:38.000Z",
-        "playersCompleted": 15,
+        "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 163,
+        "playersTotal": 66,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 374,
-                "discountPercent": 75
+                "initial": 599,
+                "final": 299,
+                "discountPercent": 50
             },
             "EUR": {
-                "initial": 1479,
-                "final": 369,
-                "discountPercent": 75
+                "initial": 589,
+                "final": 294,
+                "discountPercent": 50
             },
             "GBP": {
-                "initial": 1279,
-                "final": 319,
-                "discountPercent": 75
+                "initial": 499,
+                "final": 249,
+                "discountPercent": 50
             },
             "JPY": {
-                "initial": 150700,
-                "final": 37600,
-                "discountPercent": 75
+                "initial": 54000,
+                "final": 27000,
+                "discountPercent": 50
             },
             "AUD": {
-                "initial": 2195,
-                "final": 548,
-                "discountPercent": 75
+                "initial": 879,
+                "final": 439,
+                "discountPercent": 50
             },
             "CAD": {
-                "initial": 1949,
-                "final": 487,
-                "discountPercent": 75
+                "initial": 779,
+                "final": 389,
+                "discountPercent": 50
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Beginner Fishing [25\u2605]\nClear all doors. / Clear all routes on Survival Challenge. / Acquire all backpacks.",
+            "primaryText": "*teleports behind you* [30\u2605]\nSeparately, beat the game on Insane mode and get 9M score on Insane mode.",
             "community": 0,
             "communityText": "",
-            "achievements": 30
+            "achievements": 31
         },
         "gameTags": [
-            "Action",
-            "Physics",
             "Indie",
-            "Precision Platformer",
+            "Action",
+            "Shoot 'Em Up",
             "Anime",
-            "2.5D",
+            "Bullet Hell",
+            "Arcade",
+            "Pixel Graphics",
             "Female Protagonist",
-            "Platformer",
             "Difficult",
-            "Puzzle Platformer",
-            "Cute"
+            "Shooter",
+            "2D",
+            "Cute",
+            "Singleplayer",
+            "Casual",
+            "Colorful",
+            "Dark",
+            "Futuristic",
+            "Funny",
+            "Cartoon",
+            "Atmospheric"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "brazilian": "I",
-            "russian": "I"
-        }
+            "english": "IS",
+            "japanese": "IS"
+        },
+        "information": "Replays don't work if you go over 10 million score in a run."
     }
 }
-var gameOfDayDate = '2026-03-20'
+var gameOfDayDate = '2026-03-21'
