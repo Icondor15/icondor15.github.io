@@ -2,18 +2,18 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 437020,
-        "CEId": "6a771a64-5b36-4fc8-8e6d-f5df61442450",
-        "name": "WITCH-BOT MEGLILO",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/437020/header.jpg?t=1572925228",
-        "genre": "Bullet Hell",
-        "tier": 2,
-        "points": 30,
-        "createdAt": "2022-03-21T05:20:10.000Z",
-        "updatedAt": "2026-02-11T06:01:38.000Z",
-        "playersCompleted": 7,
-        "playersStarted": 0,
-        "playersTotal": 66,
+        "platformId": 429780,
+        "CEId": "5d3e3747-a88c-4c8f-a320-d0dffdd23caf",
+        "name": "Bunny Hop League",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/429780/header.jpg?t=1560789144",
+        "genre": "First-Person",
+        "tier": 4,
+        "points": 90,
+        "createdAt": "2022-03-22T15:13:21.000Z",
+        "updatedAt": "2026-03-09T10:11:25.000Z",
+        "playersCompleted": 26,
+        "playersStarted": 18,
+        "playersTotal": 120,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -21,65 +21,49 @@ var gameOfDay =
                 "discountPercent": 50
             },
             "EUR": {
-                "initial": 589,
-                "final": 294,
+                "initial": 599,
+                "final": 299,
                 "discountPercent": 50
             },
             "GBP": {
-                "initial": 499,
-                "final": 249,
+                "initial": 479,
+                "final": 239,
                 "discountPercent": 50
             },
             "JPY": {
-                "initial": 54000,
-                "final": 27000,
+                "initial": 59800,
+                "final": 29900,
                 "discountPercent": 50
             },
             "AUD": {
-                "initial": 879,
-                "final": 439,
+                "initial": 850,
+                "final": 425,
                 "discountPercent": 50
             },
             "CAD": {
-                "initial": 779,
-                "final": 389,
+                "initial": 649,
+                "final": 324,
                 "discountPercent": 50
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "*teleports behind you* [30\u2605]\nSeparately, beat the game on Insane mode and get 9M score on Insane mode.",
+            "primary": 4,
+            "primaryText": "Paleological Prancer [30\u2605]\nFinish the Ruins bhop map.\n\nSnowboarding Enthusiast [30\u2605]\nFinish the hardest surf maps.\n\nRamping it Up [20\u2605]\nFinish the hardest ramp maps.\n\nHop to It [10\u2605]\nFinish all Hard and Very Hard bhop maps (except Ruins).",
             "community": 0,
             "communityText": "",
-            "achievements": 31
+            "achievements": 57
         },
         "gameTags": [
             "Indie",
-            "Action",
-            "Shoot 'Em Up",
-            "Anime",
-            "Bullet Hell",
-            "Arcade",
-            "Pixel Graphics",
-            "Female Protagonist",
-            "Difficult",
-            "Shooter",
-            "2D",
-            "Cute",
-            "Singleplayer",
-            "Casual",
-            "Colorful",
-            "Dark",
-            "Futuristic",
-            "Funny",
-            "Cartoon",
-            "Atmospheric"
+            "Sports",
+            "Parkour",
+            "Fast-Paced",
+            "Multiplayer"
         ],
         "languages": {
-            "english": "IS",
-            "japanese": "IS"
+            "english": "IAS"
         },
-        "information": "Replays don't work if you go over 10 million score in a run."
+        "information": "For the map \"Fast\", lock your FPS to 60fps in the settings in-game to ensure you get the proper launch at the start. Other FPS settings don't seem to work correctly.\n\n\nThe \"Welkin Blue\" achievement (ramp map) is broken. This can still be unlocked using a depot version of the game.  \nWithin the Steam Console, you can utilise the following command to download the relevant version with the achievement working:\n\n``download_depot 429780 429781 1557215148060610103``"
     }
 }
-var gameOfDayDate = '2026-03-21'
+var gameOfDayDate = '2026-03-22'
