@@ -183,7 +183,7 @@ var masoData =
     "268910": {
         "description": "The Dark Souls of Platform Games",
         "tier": "1",
-        "owners": 190,
+        "owners": 191,
         "completions": 93,
         "playtime": 43.272580645161305,
         "newestCompletion": "2025-12-25T16:24:43.000Z",
@@ -237,7 +237,7 @@ var masoData =
         "tier": "2",
         "owners": 157,
         "completions": 64,
-        "playtime": 37.62057291666667,
+        "playtime": 37.62135416666666,
         "newestCompletion": "2026-03-20T21:35:51.000Z",
         "badges": {
             "count": 1,
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 250,
         "completions": 135,
-        "playtime": 196.6313580246913,
+        "playtime": 196.63160493827155,
         "newestCompletion": "2025-10-24T02:20:59.000Z",
         "badges": {
             "count": 2,
@@ -481,7 +481,7 @@ var masoData =
         "tier": "3",
         "owners": 169,
         "completions": 55,
-        "playtime": 101.28090909090912,
+        "playtime": 101.28212121212124,
         "newestCompletion": "2025-09-04T21:01:21.000Z"
     },
     "532170": {
@@ -693,7 +693,7 @@ var masoData =
         "tier": "2",
         "owners": 189,
         "completions": 98,
-        "playtime": 12.783503401360546,
+        "playtime": 12.783673469387757,
         "newestCompletion": "2026-01-18T18:27:43.000Z"
     },
     "247240": {
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 260,
         "completions": 191,
-        "playtime": 224.23717277486915,
+        "playtime": 224.23734729493896,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -851,7 +851,7 @@ var masoData =
     "397950": {
         "description": "Literally",
         "tier": "1",
-        "owners": 134,
+        "owners": 135,
         "completions": 102,
         "playtime": 7.211764705882353,
         "newestCompletion": "2025-05-10T22:04:03.000Z"
@@ -944,9 +944,9 @@ var masoData =
         "description": "\u2733 Can you?",
         "tier": "2",
         "owners": 189,
-        "completions": 100,
-        "playtime": 33.114166666666684,
-        "newestCompletion": "2025-12-15T01:34:53.000Z"
+        "completions": 101,
+        "playtime": 32.87706270627064,
+        "newestCompletion": "2026-03-16T13:18:39.000Z"
     },
     "510620": {
         "description": "\u2606 Jukenation",
@@ -1387,9 +1387,9 @@ var masoData =
     "40800": {
         "description": "\ud83c\udf1f 101 Hardcore gaming - if you never played it, now is the time to learn the ropes.",
         "tier": "5",
-        "owners": 257,
+        "owners": 258,
         "completions": 81,
-        "playtime": 127.35699588477364,
+        "playtime": 127.35781893004113,
         "newestCompletion": "2026-02-15T04:36:54.000Z"
     },
     "557340": {
@@ -1661,7 +1661,7 @@ var masoData =
         "tier": "1",
         "owners": 126,
         "completions": 56,
-        "playtime": 21.088690476190475,
+        "playtime": 21.088988095238097,
         "newestCompletion": "2025-07-30T02:49:55.000Z"
     },
     "609420": {
@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 115,
         "completions": 48,
-        "playtime": 251.8111111111111,
+        "playtime": 251.81284722222222,
         "newestCompletion": "2025-11-13T20:18:40.000Z",
         "badges": {
             "count": 1,
@@ -2743,7 +2743,7 @@ var masoData =
     "437920": {
         "description": "\u2733 that's not how physics works",
         "tier": "2",
-        "owners": 63,
+        "owners": 64,
         "completions": 24,
         "playtime": 30.91736111111111,
         "newestCompletion": "2024-11-05T00:03:31.000Z"
@@ -2999,7 +2999,7 @@ var masoData =
     "581660": {
         "description": "\ud83c\udf1f Super Seed Boy",
         "tier": "5",
-        "owners": 130,
+        "owners": 131,
         "completions": 15,
         "playtime": 77.2,
         "newestCompletion": "2026-01-26T00:56:39.000Z"
@@ -3699,7 +3699,7 @@ var masoData =
     "2138710": {
         "description": "\u2733 Nothing good ever comes from revenge",
         "tier": "2",
-        "owners": 64,
+        "owners": 65,
         "completions": 7,
         "playtime": 86.26666666666667,
         "newestCompletion": "2025-07-22T01:59:55.000Z"
@@ -3999,7 +3999,7 @@ var masoData =
     "2236070": {
         "description": "\ud83c\udf1f \u2665\u2665\u2665\u2665\u2665\u2665\u2665 seagulls",
         "tier": "5",
-        "owners": 49,
+        "owners": 50,
         "completions": 3,
         "playtime": 277.95,
         "newestCompletion": "2024-11-27T22:16:19.000Z"
@@ -4088,9 +4088,9 @@ var masoData =
         "description": "\ud83c\udf96\ufe0f Doot Hero",
         "tier": "0",
         "owners": 49,
-        "completions": 18,
-        "playtime": 10.041666666666664,
-        "newestCompletion": "2025-11-03T05:33:22.000Z",
+        "completions": 19,
+        "playtime": 9.860526315789471,
+        "newestCompletion": "2026-03-21T09:20:02.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -4219,7 +4219,7 @@ var masoData =
     "1585220": {
         "description": "Life could be a dream",
         "tier": "1",
-        "owners": 29,
+        "owners": 30,
         "completions": 7,
         "playtime": 8.173809523809524,
         "newestCompletion": "2026-01-25T06:07:36.000Z"
@@ -4406,7 +4406,11 @@ var masoData =
         "owners": 49,
         "completions": 11,
         "playtime": 24.515151515151516,
-        "newestCompletion": "2026-03-03T18:25:03.000Z"
+        "newestCompletion": "2026-03-03T18:25:03.000Z",
+        "badges": {
+            "count": 1,
+            "points": 1
+        }
     },
     "1164940": {
         "description": "\u2733 You killed Kenny! You Bastards!",
@@ -4457,7 +4461,7 @@ var masoData =
         "tier": "2",
         "owners": 150,
         "completions": 36,
-        "playtime": 105.13333333333331,
+        "playtime": 105.13425925925924,
         "newestCompletion": "2026-03-01T10:15:38.000Z"
     },
     "322170": {
@@ -4555,7 +4559,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together",
         "tier": "5",
-        "owners": 5,
+        "owners": 6,
         "completions": 1,
         "playtime": 186.46666666666667,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
@@ -4563,10 +4567,14 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world",
         "tier": "0",
-        "owners": 0,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 1,
+        "completions": 1,
+        "playtime": 33.15,
+        "newestCompletion": "2026-03-15T17:22:26.000Z",
+        "badges": {
+            "count": 1,
+            "points": 2
+        }
     },
     "3191540": {
         "description": "There is a Smoking Hot Ape at the Top!",
