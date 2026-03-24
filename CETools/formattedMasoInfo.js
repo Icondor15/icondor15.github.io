@@ -211,7 +211,7 @@ var masoData =
     "524050": {
         "description": "Ziplining platforming about A. fish",
         "tier": "1",
-        "owners": 22,
+        "owners": 23,
         "completions": 14,
         "playtime": 5.936904761904761,
         "newestCompletion": "2024-12-15T01:26:49.000Z"
@@ -305,7 +305,7 @@ var masoData =
         "tier": "1",
         "owners": 149,
         "completions": 42,
-        "playtime": 129.61111111111111,
+        "playtime": 129.6468253968254,
         "newestCompletion": "2025-11-10T18:24:56.000Z",
         "badges": {
             "count": 1,
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 260,
         "completions": 191,
-        "playtime": 224.23734729493896,
+        "playtime": 224.36614310645732,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -2229,7 +2229,7 @@ var masoData =
         "tier": "1",
         "owners": 107,
         "completions": 58,
-        "playtime": 10.09712643678161,
+        "playtime": 10.211781609195402,
         "newestCompletion": "2026-01-04T20:27:17.000Z"
     },
     "418530": {
@@ -2347,7 +2347,7 @@ var masoData =
     "219150": {
         "description": "I will beat you to death",
         "tier": "1",
-        "owners": 181,
+        "owners": 182,
         "completions": 98,
         "playtime": 15.954081632653063,
         "newestCompletion": "2026-02-16T06:44:42.000Z"
@@ -2707,7 +2707,7 @@ var masoData =
     "1375400": {
         "description": "Get the knife!!",
         "tier": "1",
-        "owners": 17,
+        "owners": 18,
         "completions": 3,
         "playtime": 37.205555555555556,
         "newestCompletion": "2023-11-12T17:54:10.000Z"
@@ -2745,7 +2745,7 @@ var masoData =
         "tier": "2",
         "owners": 64,
         "completions": 24,
-        "playtime": 30.91736111111111,
+        "playtime": 30.976388888888888,
         "newestCompletion": "2024-11-05T00:03:31.000Z"
     },
     "1003590": {
@@ -3267,7 +3267,7 @@ var masoData =
     "553420": {
         "description": "\u280f\u2807\u2801\u283d TUNIC \u280b\u2815\u2817\u2801\u281b\u2815\u2815\u2819\u281e\u280a\u280d\u2811",
         "tier": "1",
-        "owners": 70,
+        "owners": 71,
         "completions": 39,
         "playtime": 22.716239316239314,
         "newestCompletion": "2025-07-30T20:41:32.000Z"
@@ -4419,7 +4419,7 @@ var masoData =
     "1164940": {
         "description": "\u2733 You killed Kenny! You Bastards!",
         "tier": "2",
-        "owners": 41,
+        "owners": 42,
         "completions": 6,
         "playtime": 67.41388888888888,
         "newestCompletion": "2025-09-11T23:52:54.000Z",
@@ -4483,7 +4483,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 54,
+        "owners": 55,
         "completions": 1,
         "playtime": 186.6,
         "newestCompletion": "2025-10-06T07:23:12.000Z"
@@ -4515,9 +4515,9 @@ var masoData =
     "3125120": {
         "description": "Claustrophobia simulator",
         "tier": "1",
-        "owners": 7,
-        "completions": 2,
-        "playtime": 6.033333333333333,
+        "owners": 8,
+        "completions": 3,
+        "playtime": 8.588888888888889,
         "newestCompletion": "2025-08-16T22:19:19.000Z"
     },
     "2011780": {
@@ -4531,7 +4531,7 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 12,
+        "owners": 13,
         "completions": 2,
         "playtime": 32.175,
         "newestCompletion": "2024-12-14T17:05:13.000Z"
@@ -4563,7 +4563,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together",
         "tier": "5",
-        "owners": 6,
+        "owners": 7,
         "completions": 1,
         "playtime": 186.46666666666667,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
@@ -4571,9 +4571,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world",
         "tier": "0",
-        "owners": 1,
-        "completions": 1,
-        "playtime": 33.15,
+        "owners": 5,
+        "completions": 4,
+        "playtime": 55.57083333333333,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
@@ -4591,9 +4591,9 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 0,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 2,
+        "completions": 1,
+        "playtime": 30.1,
+        "newestCompletion": "2025-06-19T00:20:43.000Z"
     }
 }
