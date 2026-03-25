@@ -360,9 +360,9 @@ var masoData =
         "description": "\u2733 It\"s about time we added it",
         "tier": "2",
         "owners": 132,
-        "completions": 53,
-        "playtime": 48.511006289308185,
-        "newestCompletion": "2026-03-22T21:56:52.000Z"
+        "completions": 54,
+        "playtime": 50.56265432098767,
+        "newestCompletion": "2026-03-24T23:49:22.000Z"
     },
     "356650": {
         "description": "\u2733 2D Dark Souls, any other description would be a lie",
@@ -647,10 +647,10 @@ var masoData =
     "302610": {
         "description": "This guy needs a fat bonus from his boss",
         "tier": "1",
-        "owners": 77,
-        "completions": 67,
-        "playtime": 7.124875621890547,
-        "newestCompletion": "2026-01-14T20:15:57.000Z"
+        "owners": 78,
+        "completions": 68,
+        "playtime": 7.088480392156862,
+        "newestCompletion": "2026-03-24T08:29:22.000Z"
     },
     "257850": {
         "description": "\u2733 Who needs a story anyway?",
@@ -723,7 +723,7 @@ var masoData =
     "384250": {
         "description": "\u2606 Super Slide Bear Ressurection",
         "tier": "3",
-        "owners": 48,
+        "owners": 49,
         "completions": 13,
         "playtime": 145.40897435897435,
         "newestCompletion": "2025-11-23T14:38:51.000Z",
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 260,
         "completions": 191,
-        "playtime": 224.36614310645732,
+        "playtime": 224.3797556719023,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1051,7 +1051,7 @@ var masoData =
     "207320": {
         "description": "\u272a I don\"t remember JRPGs being this tough...",
         "tier": "4",
-        "owners": 37,
+        "owners": 38,
         "completions": 10,
         "playtime": 91.88333333333334,
         "newestCompletion": "2025-04-13T16:36:36.000Z"
@@ -1149,7 +1149,7 @@ var masoData =
         "tier": "4",
         "owners": 94,
         "completions": 13,
-        "playtime": 290.4269230769231,
+        "playtime": 290.4320512820513,
         "newestCompletion": "2024-01-01T22:31:43.000Z"
     },
     "547210": {
@@ -1189,7 +1189,7 @@ var masoData =
         "tier": "5",
         "owners": 178,
         "completions": 20,
-        "playtime": 1365.7766666666666,
+        "playtime": 1366.5316666666668,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
         "badges": {
             "count": 3,
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 233,
         "completions": 65,
-        "playtime": 61.18871794871793,
+        "playtime": 61.22102564102562,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
     },
     "317710": {
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 258,
         "completions": 81,
-        "playtime": 127.35781893004113,
+        "playtime": 127.59897119341561,
         "newestCompletion": "2026-02-15T04:36:54.000Z"
     },
     "557340": {
@@ -1577,7 +1577,7 @@ var masoData =
         "tier": "3",
         "owners": 126,
         "completions": 33,
-        "playtime": 111.6489898989899,
+        "playtime": 111.64999999999999,
         "newestCompletion": "2025-07-07T03:00:44.000Z",
         "badges": {
             "count": 1,
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 112,
         "completions": 34,
-        "playtime": 88.01617647058825,
+        "playtime": 88.1264705882353,
         "newestCompletion": "2025-12-29T07:01:08.000Z",
         "badges": {
             "count": 2,
@@ -2579,7 +2579,7 @@ var masoData =
     "1205170": {
         "description": "\u2606 Challenge attracts rage.",
         "tier": "3",
-        "owners": 82,
+        "owners": 83,
         "completions": 19,
         "playtime": 20.383333333333336,
         "newestCompletion": "2025-05-01T21:06:34.000Z"
@@ -2707,7 +2707,7 @@ var masoData =
     "1375400": {
         "description": "Get the knife!!",
         "tier": "1",
-        "owners": 18,
+        "owners": 20,
         "completions": 3,
         "playtime": 37.205555555555556,
         "newestCompletion": "2023-11-12T17:54:10.000Z"
@@ -2751,7 +2751,7 @@ var masoData =
     "1003590": {
         "description": "\u2606 aaaaaaaaaa i'm trippin balls",
         "tier": "3",
-        "owners": 64,
+        "owners": 65,
         "completions": 21,
         "playtime": 195.66111111111115,
         "newestCompletion": "2025-07-09T03:28:07.000Z",
@@ -2975,7 +2975,7 @@ var masoData =
     "465200": {
         "description": "\u2606 Unleash your inner furry - er, fury",
         "tier": "3",
-        "owners": 70,
+        "owners": 71,
         "completions": 10,
         "playtime": 31.669999999999998,
         "newestCompletion": "2025-06-27T21:45:27.000Z"
@@ -3191,7 +3191,7 @@ var masoData =
     "396350": {
         "description": "\u2733 Through your fingers again",
         "tier": "2",
-        "owners": 52,
+        "owners": 53,
         "completions": 3,
         "playtime": 34.644444444444446,
         "newestCompletion": "2022-10-18T20:20:01.000Z",
@@ -3300,9 +3300,9 @@ var masoData =
         "description": "\ud83c\udf96\ufe0f \ud83d\udc80 Diamond is unbreakable \ud83d\udc80",
         "tier": "0",
         "owners": 69,
-        "completions": 9,
-        "playtime": 1099.198148148148,
-        "newestCompletion": "2025-08-16T00:06:50.000Z",
+        "completions": 10,
+        "playtime": 993.1866666666667,
+        "newestCompletion": "2026-03-24T07:11:03.000Z",
         "badges": {
             "count": 6,
             "points": 50
@@ -3571,7 +3571,7 @@ var masoData =
     "1316910": {
         "description": "\u2606 Ready? Go!",
         "tier": "3",
-        "owners": 26,
+        "owners": 27,
         "completions": 5,
         "playtime": 47.86,
         "newestCompletion": "2025-04-23T16:00:07.000Z"
@@ -4177,7 +4177,7 @@ var masoData =
         "tier": "4",
         "owners": 55,
         "completions": 8,
-        "playtime": 267.6875,
+        "playtime": 273.2708333333333,
         "newestCompletion": "2025-11-10T21:27:13.000Z",
         "badges": {
             "count": 1,
@@ -4265,7 +4265,7 @@ var masoData =
         "tier": "2",
         "owners": 92,
         "completions": 16,
-        "playtime": 48.49479166666666,
+        "playtime": 48.503125,
         "newestCompletion": "2025-08-24T22:23:24.000Z"
     },
     "1548940": {
@@ -4571,9 +4571,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world",
         "tier": "0",
-        "owners": 5,
-        "completions": 4,
-        "playtime": 55.57083333333333,
+        "owners": 9,
+        "completions": 6,
+        "playtime": 52.31388888888889,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
@@ -4591,9 +4591,9 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 2,
-        "completions": 1,
-        "playtime": 30.1,
+        "owners": 3,
+        "completions": 2,
+        "playtime": 29.516666666666666,
         "newestCompletion": "2025-06-19T00:20:43.000Z"
     }
 }
