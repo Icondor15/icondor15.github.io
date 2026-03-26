@@ -159,10 +159,10 @@ var masoData =
     "735570": {
         "description": "Best (kinda) free game you played today",
         "tier": "1",
-        "owners": 107,
-        "completions": 97,
-        "playtime": 3.54450171821306,
-        "newestCompletion": "2026-01-05T01:17:59.000Z"
+        "owners": 108,
+        "completions": 98,
+        "playtime": 3.5170068027210903,
+        "newestCompletion": "2026-03-25T09:32:11.000Z"
     },
     "927250": {
         "description": "\u2733 Make quick work of your enemies if you want to stand a chance",
