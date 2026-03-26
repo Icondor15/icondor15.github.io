@@ -2,74 +2,94 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2091540,
-        "CEId": "29a6ac99-8eab-4cd5-acea-8ae2519c8e4b",
-        "name": "RUSHAWAY",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2091540/header.jpg?t=1687195582",
-        "genre": "Platformer",
-        "tier": 1,
-        "points": 15,
-        "createdAt": "2024-03-25T14:50:26.000Z",
+        "platformId": 2144740,
+        "CEId": "9e2656bd-090a-43d4-992d-49511cd978b1",
+        "name": "Ghostrunner 2",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2144740/header.jpg?t=1710952190",
+        "genre": "First-Person",
+        "tier": 2,
+        "points": 20,
+        "createdAt": "2024-03-26T02:25:37.000Z",
         "updatedAt": "2026-03-22T18:18:05.000Z",
-        "playersCompleted": 4,
-        "playersStarted": 0,
-        "playersTotal": 9,
+        "playersCompleted": 8,
+        "playersStarted": 13,
+        "playersTotal": 204,
         "priceData": {
             "USD": {
-                "initial": 1099,
-                "final": 274,
-                "discountPercent": 75
+                "initial": 3999,
+                "final": 799,
+                "discountPercent": 80
             },
             "EUR": {
-                "initial": 1079,
-                "final": 269,
-                "discountPercent": 75
+                "initial": 3999,
+                "final": 799,
+                "discountPercent": 80
             },
             "GBP": {
-                "initial": 929,
-                "final": 232,
-                "discountPercent": 75
+                "initial": 3499,
+                "final": 699,
+                "discountPercent": 80
             },
             "JPY": {
-                "initial": 130000,
-                "final": 32500,
-                "discountPercent": 75
+                "initial": 468000,
+                "final": 93600,
+                "discountPercent": 80
             },
             "AUD": {
-                "initial": 1625,
-                "final": 406,
-                "discountPercent": 75
+                "initial": 5995,
+                "final": 1199,
+                "discountPercent": 80
             },
             "CAD": {
-                "initial": 1399,
-                "final": 349,
-                "discountPercent": 75
+                "initial": 5399,
+                "final": 1079,
+                "discountPercent": 80
             }
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Speck's Hell Rush [10\u2605]\nObtain a Platinum medal on every tower. \n\nCutting Corners [5\u2605]\nComplete the final tower.",
+            "primaryText": "Hardcore Roguerunner [10\u2605]\nComplete all stages in Roguerunner.exe. / Beat the game on Hardcore mode.\n\nGhostrunning All Over Again [10\u2605]\nProve yourself.",
             "community": 0,
             "communityText": "",
-            "achievements": 27
+            "achievements": 34
         },
         "gameTags": [
-            "Fast-Paced",
-            "Precision Platformer",
-            "Physics",
-            "2.5D",
-            "Platformer",
+            "Cyberpunk",
             "Action",
+            "Fast-Paced",
+            "Hack and Slash",
+            "Runner",
+            "First-Person",
+            "Difficult",
+            "Swordplay",
+            "Violent",
+            "Vehicular Combat",
+            "Music",
+            "Adventure",
+            "Action-Adventure",
+            "Post-apocalyptic",
             "Singleplayer",
-            "Indie",
-            "Retro",
-            "Visual Novel",
-            "2D"
+            "Combat",
+            "Ninja",
+            "Motorbike",
+            "Fighting",
+            "Strategy"
         ],
         "languages": {
             "english": "IAS",
-            "portuguese": "IAS"
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IAS",
+            "tchinese": "IAS",
+            "ukrainian": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-03-25'
+var gameOfDayDate = '2026-03-26'
