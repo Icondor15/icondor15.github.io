@@ -2,94 +2,85 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2144740,
-        "CEId": "9e2656bd-090a-43d4-992d-49511cd978b1",
-        "name": "Ghostrunner 2",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2144740/header.jpg?t=1710952190",
-        "genre": "First-Person",
-        "tier": 2,
-        "points": 20,
-        "createdAt": "2024-03-26T02:25:37.000Z",
+        "platformId": 1071280,
+        "CEId": "139ceec9-109c-4b12-8738-5ac08be0ac85",
+        "name": "Q - A Neon Platformer",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1071280/header.jpg?t=1626254689",
+        "genre": "Platformer",
+        "tier": 3,
+        "points": 50,
+        "createdAt": "2022-03-27T20:42:56.000Z",
         "updatedAt": "2026-03-22T18:18:05.000Z",
-        "playersCompleted": 8,
-        "playersStarted": 13,
-        "playersTotal": 204,
+        "playersCompleted": 10,
+        "playersStarted": 7,
+        "playersTotal": 30,
         "priceData": {
             "USD": {
-                "initial": 3999,
-                "final": 799,
-                "discountPercent": 80
+                "initial": 1499,
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 3999,
-                "final": 799,
-                "discountPercent": 80
+                "initial": 1499,
+                "final": 1499,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 3499,
-                "final": 699,
-                "discountPercent": 80
+                "initial": 1099,
+                "final": 1099,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 468000,
-                "final": 93600,
-                "discountPercent": 80
+                "initial": 149000,
+                "final": 149000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 5995,
-                "final": 1199,
-                "discountPercent": 80
+                "initial": 2150,
+                "final": 2150,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 5399,
-                "final": 1079,
-                "discountPercent": 80
+                "initial": 1749,
+                "final": 1749,
+                "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Hardcore Roguerunner [10\u2605]\nComplete all stages in Roguerunner.exe. / Beat the game on Hardcore mode.\n\nGhostrunning All Over Again [10\u2605]\nProve yourself.",
+            "primary": 4,
+            "primaryText": "Reinvent the Wheel [10\u2605]\nObtain both endings in under 4 hours.\n\nQ [20\u2605]\nComplete the final bonus level.\n\nSmooth Moves [10\u2605]\nObtain the dark ending.\n\nSquare Peg, Round Hole [10\u2605]\nBeat the game.",
             "community": 0,
             "communityText": "",
-            "achievements": 34
+            "achievements": 23
         },
         "gameTags": [
-            "Cyberpunk",
-            "Action",
-            "Fast-Paced",
-            "Hack and Slash",
-            "Runner",
-            "First-Person",
+            "Platformer",
+            "Precision Platformer",
             "Difficult",
-            "Swordplay",
-            "Violent",
-            "Vehicular Combat",
-            "Music",
-            "Adventure",
-            "Action-Adventure",
-            "Post-apocalyptic",
-            "Singleplayer",
-            "Combat",
-            "Ninja",
-            "Motorbike",
-            "Fighting",
-            "Strategy"
+            "Colorful",
+            "Arcade",
+            "2D Platformer",
+            "2D",
+            "Retro",
+            "Cyberpunk",
+            "Controller",
+            "Stylized",
+            "Souls-like",
+            "Minimalist",
+            "Action",
+            "Linear",
+            "Physics",
+            "Replay Value",
+            "Abstract",
+            "Sci-fi",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "IAS",
+            "english": "IS",
             "french": "IS",
             "german": "IS",
-            "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IS",
-            "koreana": "IS",
-            "polish": "IS",
-            "russian": "IS",
-            "schinese": "IAS",
-            "tchinese": "IAS",
-            "ukrainian": "IS"
+            "spanish": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-03-26'
+var gameOfDayDate = '2026-03-27'
