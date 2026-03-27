@@ -4571,9 +4571,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world",
         "tier": "0",
-        "owners": 9,
-        "completions": 6,
-        "playtime": 52.31388888888889,
+        "owners": 10,
+        "completions": 7,
+        "playtime": 82.71190476190476,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
