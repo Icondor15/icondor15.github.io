@@ -211,7 +211,7 @@ var masoData =
     "524050": {
         "description": "Ziplining platforming about A. fish",
         "tier": "1",
-        "owners": 23,
+        "owners": 24,
         "completions": 14,
         "playtime": 5.936904761904761,
         "newestCompletion": "2024-12-15T01:26:49.000Z"
@@ -480,9 +480,9 @@ var masoData =
         "description": "\u2606  Dawn of the Tumblr noses",
         "tier": "3",
         "owners": 169,
-        "completions": 55,
-        "playtime": 101.28212121212124,
-        "newestCompletion": "2025-09-04T21:01:21.000Z"
+        "completions": 56,
+        "playtime": 100.1636904761905,
+        "newestCompletion": "2026-03-28T00:55:39.000Z"
     },
     "532170": {
         "description": "\u2733 Top 10 unique movements betrayals",
@@ -723,7 +723,7 @@ var masoData =
     "384250": {
         "description": "\u2606 Super Slide Bear Ressurection",
         "tier": "3",
-        "owners": 49,
+        "owners": 51,
         "completions": 13,
         "playtime": 145.40897435897435,
         "newestCompletion": "2025-11-23T14:38:51.000Z",
@@ -945,7 +945,7 @@ var masoData =
         "tier": "2",
         "owners": 189,
         "completions": 101,
-        "playtime": 32.87706270627064,
+        "playtime": 32.877392739273944,
         "newestCompletion": "2026-03-16T13:18:39.000Z"
     },
     "510620": {
@@ -2063,7 +2063,7 @@ var masoData =
     "464060": {
         "description": "\u2733 All About the Speedruin",
         "tier": "2",
-        "owners": 58,
+        "owners": 59,
         "completions": 11,
         "playtime": 30.58333333333333,
         "newestCompletion": "2025-04-21T12:43:14.000Z"
@@ -2347,7 +2347,7 @@ var masoData =
     "219150": {
         "description": "I will beat you to death",
         "tier": "1",
-        "owners": 182,
+        "owners": 183,
         "completions": 98,
         "playtime": 15.954081632653063,
         "newestCompletion": "2026-02-16T06:44:42.000Z"
@@ -2627,7 +2627,7 @@ var masoData =
     "688130": {
         "description": "\ud83c\udf1f\u30dd\u30b4\u306e\u6642\u9593\u3060",
         "tier": "5",
-        "owners": 111,
+        "owners": 112,
         "completions": 22,
         "playtime": 589.1325757575758,
         "newestCompletion": "2024-06-17T15:47:58.000Z",
@@ -2745,7 +2745,7 @@ var masoData =
         "tier": "2",
         "owners": 64,
         "completions": 24,
-        "playtime": 30.976388888888888,
+        "playtime": 31.022222222222222,
         "newestCompletion": "2024-11-05T00:03:31.000Z"
     },
     "1003590": {
@@ -3204,9 +3204,9 @@ var masoData =
         "description": "A snack well hidden in a well",
         "tier": "1",
         "owners": 49,
-        "completions": 38,
-        "playtime": 4.239912280701755,
-        "newestCompletion": "2025-07-13T20:23:53.000Z"
+        "completions": 39,
+        "playtime": 4.167094017094017,
+        "newestCompletion": "2026-03-27T19:19:45.000Z"
     },
     "1876560": {
         "description": "Keep clicking and nobody explodes",
@@ -3395,7 +3395,7 @@ var masoData =
     "2016580": {
         "description": "Don't panic",
         "tier": "1",
-        "owners": 24,
+        "owners": 25,
         "completions": 11,
         "playtime": 5.963636363636363,
         "newestCompletion": "2023-11-29T12:00:16.000Z"
@@ -3867,7 +3867,7 @@ var masoData =
     "1290220": {
         "description": "\ud83c\udf1f \ud83d\udc80 DANGER! HIGH VOLTAGE! \ud83d\udc80",
         "tier": "5",
-        "owners": 36,
+        "owners": 37,
         "completions": 3,
         "playtime": 1533.9222222222222,
         "newestCompletion": "2025-02-26T13:13:46.000Z",
@@ -4463,9 +4463,9 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 150,
+        "owners": 151,
         "completions": 36,
-        "playtime": 105.13425925925924,
+        "playtime": 105.13796296296294,
         "newestCompletion": "2026-03-01T10:15:38.000Z"
     },
     "322170": {
@@ -4531,7 +4531,7 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 13,
+        "owners": 16,
         "completions": 2,
         "playtime": 32.175,
         "newestCompletion": "2024-12-14T17:05:13.000Z"
@@ -4563,7 +4563,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together",
         "tier": "5",
-        "owners": 7,
+        "owners": 8,
         "completions": 1,
         "playtime": 186.46666666666667,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
@@ -4571,7 +4571,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world",
         "tier": "0",
-        "owners": 10,
+        "owners": 11,
         "completions": 7,
         "playtime": 82.71190476190476,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
@@ -4583,10 +4583,10 @@ var masoData =
     "3191540": {
         "description": "There is a Smoking Hot Ape at the Top!",
         "tier": "1",
-        "owners": 0,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 1,
+        "completions": 1,
+        "playtime": 17.483333333333334,
+        "newestCompletion": "2025-03-14T01:56:57.000Z"
     },
     "692890": {
         "description": "\u2733 Aimbotting",
