@@ -2,84 +2,93 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1388230,
-        "CEId": "4d2aff40-2cf5-4e3a-b9b4-7d7a6586c2bd",
-        "name": "DANMAKAI: Red Forbidden Fruit",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1388230/header.jpg?t=1642839517",
+        "platformId": 1039280,
+        "CEId": "426fd7d7-9c1d-412d-b12b-9884d3f5a4c6",
+        "name": "ProtoCorgi",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1039280/header.jpg?t=1709556016",
         "genre": "Bullet Hell",
         "tier": 3,
         "points": 55,
-        "createdAt": "2022-03-28T07:38:58.000Z",
+        "createdAt": "2024-03-29T03:12:52.000Z",
         "updatedAt": "2026-03-22T18:18:05.000Z",
-        "playersCompleted": 17,
-        "playersStarted": 0,
-        "playersTotal": 74,
+        "playersCompleted": 4,
+        "playersStarted": 3,
+        "playersTotal": 52,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 975,
-                "final": 975,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 850,
-                "final": 850,
+                "initial": 549,
+                "final": 549,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 120000,
-                "final": 120000,
+                "initial": 79900,
+                "final": 79900,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 995,
+                "final": 995,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 799,
+                "final": 799,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Danmakainya [55\u2605]\nClear Lunatic and Extra. Clear all spell cards with all characters.",
-            "community": 0,
-            "communityText": "",
-            "achievements": 11
+            "primary": 3,
+            "primaryText": "From Cute to Brute [35\u2605]\nComplete the game on Ultra Nightmare difficulty without continues.\n\nPawcifist [15\u2605]\nComplete the game in Pacifist mode without continues.\n\nBark'Em Up [5\u2605]\nProve yourself.",
+            "community": 1,
+            "communityText": "Pawching Bag\nComplete the game on Ultra Nightmare difficulty without killing any enemies. (Continues allowed)",
+            "achievements": 30
         },
         "gameTags": [
-            "Shoot 'Em Up",
-            "Bullet Hell",
-            "Shooter",
-            "Arcade",
-            "Female Protagonist",
+            "Bullet Time",
+            "Dog",
             "2D",
+            "Bullet Hell",
             "Cute",
-            "Action",
-            "Pixel Graphics",
+            "Arcade",
+            "Family Friendly",
             "Anime",
-            "Fantasy",
-            "Demons",
-            "Adventure",
-            "1990's",
+            "Pixel Graphics",
             "Singleplayer",
+            "Retro",
+            "Action",
+            "Shooter",
+            "Shoot 'Em Up",
+            "Side Scroller",
+            "Space",
+            "Combat",
             "Indie",
-            "Remake",
-            "Simulation",
-            "Top-Down Shooter",
-            "Controller"
+            "Difficult",
+            "Great Soundtrack"
         ],
         "languages": {
-            "english": "IS",
-            "japanese": "IS",
-            "schinese": "IS"
+            "english": "IAS",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "IAS",
+            "koreana": "I",
+            "latam": "IAS",
+            "polish": "I",
+            "portuguese": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
         }
     }
 }
-var gameOfDayDate = '2026-03-28'
+var gameOfDayDate = '2026-03-29'
