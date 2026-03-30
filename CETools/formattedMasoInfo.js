@@ -139,9 +139,9 @@ var masoData =
     "286100": {
         "description": "You should\"ve played it by now",
         "tier": "1",
-        "owners": 160,
-        "completions": 83,
-        "playtime": 8.339558232931726,
+        "owners": 161,
+        "completions": 84,
+        "playtime": 8.285119047619045,
         "newestCompletion": "2026-03-01T19:28:14.000Z",
         "badges": {
             "count": 1,
@@ -305,7 +305,7 @@ var masoData =
         "tier": "1",
         "owners": 150,
         "completions": 42,
-        "playtime": 129.6468253968254,
+        "playtime": 129.6654761904762,
         "newestCompletion": "2025-11-10T18:24:56.000Z",
         "badges": {
             "count": 1,
@@ -723,7 +723,7 @@ var masoData =
     "384250": {
         "description": "\u2606 Super Slide Bear Ressurection",
         "tier": "3",
-        "owners": 51,
+        "owners": 52,
         "completions": 13,
         "playtime": 145.40897435897435,
         "newestCompletion": "2025-11-23T14:38:51.000Z",
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 262,
         "completions": 193,
-        "playtime": 252.85924006908468,
+        "playtime": 252.8744386873921,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -1529,7 +1529,7 @@ var masoData =
         "tier": "2",
         "owners": 113,
         "completions": 66,
-        "playtime": 87.33661616161618,
+        "playtime": 87.3878787878788,
         "newestCompletion": "2025-01-14T22:44:01.000Z"
     },
     "447150": {
@@ -3003,7 +3003,7 @@ var masoData =
     "581660": {
         "description": "\ud83c\udf1f Super Seed Boy",
         "tier": "5",
-        "owners": 131,
+        "owners": 132,
         "completions": 15,
         "playtime": 77.2,
         "newestCompletion": "2026-01-26T00:56:39.000Z"
@@ -3044,9 +3044,9 @@ var masoData =
         "description": "\u2665\u2665\u2665\u2665 and bomb torture",
         "tier": "1",
         "owners": 18,
-        "completions": 8,
-        "playtime": 6.643750000000001,
-        "newestCompletion": "2024-01-28T12:38:45.000Z"
+        "completions": 9,
+        "playtime": 7.237037037037037,
+        "newestCompletion": "2026-03-30T03:07:13.000Z"
     },
     "390520": {
         "description": "\u2733 Bruh",
@@ -3705,7 +3705,7 @@ var masoData =
         "tier": "2",
         "owners": 67,
         "completions": 8,
-        "playtime": 91.77916666666667,
+        "playtime": 91.82916666666667,
         "newestCompletion": "2025-08-25T16:35:21.000Z"
     },
     "1820570": {
@@ -4048,9 +4048,9 @@ var masoData =
         "description": "I put my right leg in, I put my right leg out, In out, in out, shake it all about. (Co-op)",
         "tier": "1",
         "owners": 58,
-        "completions": 18,
-        "playtime": 11.505555555555555,
-        "newestCompletion": "2025-12-14T20:50:54.000Z",
+        "completions": 19,
+        "playtime": 11.721929824561402,
+        "newestCompletion": "2026-01-14T16:30:15.000Z",
         "badges": {
             "count": 1,
             "points": 1
@@ -4391,7 +4391,7 @@ var masoData =
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
-        "owners": 72,
+        "owners": 73,
         "completions": 19,
         "playtime": 53.13859649122807,
         "newestCompletion": "2025-07-06T15:26:20.000Z"
@@ -4591,7 +4591,7 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 3,
+        "owners": 4,
         "completions": 2,
         "playtime": 29.516666666666666,
         "newestCompletion": "2025-06-19T00:20:43.000Z"
