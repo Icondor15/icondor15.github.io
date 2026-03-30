@@ -2,93 +2,91 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1039280,
-        "CEId": "426fd7d7-9c1d-412d-b12b-9884d3f5a4c6",
-        "name": "ProtoCorgi",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1039280/header.jpg?t=1709556016",
-        "genre": "Bullet Hell",
-        "tier": 3,
-        "points": 55,
-        "createdAt": "2024-03-29T03:12:52.000Z",
+        "platformId": 553310,
+        "CEId": "c416132f-7098-435f-b752-523da1a3cda5",
+        "name": "Lethal League Blaze",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/553310/header.jpg?t=1630109321",
+        "genre": "Action",
+        "tier": 1,
+        "points": 5,
+        "createdAt": "2022-03-30T22:16:28.000Z",
         "updatedAt": "2026-03-22T18:18:05.000Z",
-        "playersCompleted": 4,
-        "playersStarted": 3,
-        "playersTotal": 52,
+        "playersCompleted": 84,
+        "playersStarted": 0,
+        "playersTotal": 359,
         "priceData": {
             "USD": {
-                "initial": 699,
-                "final": 699,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 699,
-                "final": 699,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 549,
-                "final": 549,
+                "initial": 1799,
+                "final": 1799,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 79900,
-                "final": 79900,
+                "initial": 205000,
+                "final": 205000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 995,
-                "final": 995,
+                "initial": 2895,
+                "final": 2895,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 799,
-                "final": 799,
+                "initial": 2279,
+                "final": 2279,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "From Cute to Brute [35\u2605]\nComplete the game on Ultra Nightmare difficulty without continues.\n\nPawcifist [15\u2605]\nComplete the game in Pacifist mode without continues.\n\nBark'Em Up [5\u2605]\nProve yourself.",
-            "community": 1,
-            "communityText": "Pawching Bag\nComplete the game on Ultra Nightmare difficulty without killing any enemies. (Continues allowed)",
-            "achievements": 30
+            "primary": 1,
+            "primaryText": "Funky Fresh [5\u2605]\nBeat the arcade mode without using any continues.",
+            "community": 0,
+            "communityText": "",
+            "achievements": 15
         },
         "gameTags": [
-            "Bullet Time",
-            "Dog",
-            "2D",
-            "Bullet Hell",
-            "Cute",
-            "Arcade",
-            "Family Friendly",
-            "Anime",
-            "Pixel Graphics",
-            "Singleplayer",
-            "Retro",
             "Action",
-            "Shooter",
-            "Shoot 'Em Up",
-            "Side Scroller",
-            "Space",
-            "Combat",
             "Indie",
-            "Difficult",
-            "Great Soundtrack"
+            "2D Fighter",
+            "Great Soundtrack",
+            "Sports",
+            "Fighting",
+            "Fast-Paced",
+            "Local Multiplayer",
+            "Competitive",
+            "Multiplayer",
+            "Arcade",
+            "Online Co-Op",
+            "Funny",
+            "4 Player Local",
+            "Soundtrack",
+            "eSports",
+            "2D",
+            "Stylized",
+            "Co-op",
+            "Anime"
         ],
         "languages": {
-            "english": "IAS",
+            "english": "I",
             "french": "I",
             "german": "I",
+            "italian": "I",
             "japanese": "I",
-            "spanish": "IAS",
-            "koreana": "I",
-            "latam": "IAS",
-            "polish": "I",
-            "portuguese": "I",
+            "spanish": "I",
+            "brazilian": "I",
             "russian": "I",
             "schinese": "I",
             "tchinese": "I"
         }
     }
 }
-var gameOfDayDate = '2026-03-29'
+var gameOfDayDate = '2026-03-30'
