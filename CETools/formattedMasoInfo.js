@@ -3044,9 +3044,9 @@ var masoData =
         "description": "\u2665\u2665\u2665\u2665 and bomb torture",
         "tier": "1",
         "owners": 18,
-        "completions": 9,
-        "playtime": 7.237037037037037,
-        "newestCompletion": "2026-03-30T03:07:13.000Z"
+        "completions": 10,
+        "playtime": 7.133333333333335,
+        "newestCompletion": "2026-03-30T15:20:48.000Z"
     },
     "390520": {
         "description": "\u2733 Bruh",
