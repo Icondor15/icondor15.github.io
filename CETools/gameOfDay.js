@@ -2,82 +2,94 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 388090,
-        "CEId": "849b5379-3bdc-4b4a-a786-f916c6ed2022",
-        "name": "Five Nights at Freddy's 4",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/388090/header.jpg?t=1579635988",
-        "genre": "Arcade",
+        "platformId": 424840,
+        "CEId": "f8532223-4bd9-4da4-965b-d48aef58df94",
+        "name": "Little Nightmares",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/424840/header.jpg?t=1630581910",
+        "genre": "Platformer",
         "tier": 1,
-        "points": 5,
-        "createdAt": "2022-08-01T21:15:33.000Z",
+        "points": 10,
+        "createdAt": "2022-04-01T19:48:44.000Z",
         "updatedAt": "2026-03-22T18:18:05.000Z",
-        "playersCompleted": 4,
+        "playersCompleted": 93,
         "playersStarted": 0,
-        "playersTotal": 183,
+        "playersTotal": 1487,
         "priceData": {
             "USD": {
-                "initial": 799,
-                "final": 799,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 799,
-                "final": 799,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 579,
-                "final": 579,
+                "initial": 1599,
+                "final": 1599,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 82000,
-                "final": 82000,
+                "initial": 242000,
+                "final": 242000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1150,
-                "final": 1150,
+                "initial": 2995,
+                "final": 2995,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 899,
-                "final": 899,
+                "initial": 2699,
+                "final": 2699,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Teddy Bear Thriller [5\u2605]\nSurvive Night 8. / Survive Night 7 with \"Blind Mode\" + \"All Nightmare\" challenges enabled. / Survive Night 7 with \"Blind Mode\" + \"Mad Freddy\" + \"Insta-Foxy\" challenges enabled.",
+            "primaryText": "Awakened Bravery [10\u2605]\nComplete the game in under an hour without dying.",
             "community": 0,
             "communityText": "",
-            "achievements": 0
+            "achievements": 22
         },
         "gameTags": [
             "Horror",
-            "Survival Horror",
+            "Atmospheric",
+            "Adventure",
             "Singleplayer",
-            "First-Person",
-            "Robots",
+            "Puzzle Platformer",
             "Dark",
-            "Difficult",
-            "Point & Click",
-            "Psychological Horror",
-            "Survival",
-            "Strategy",
+            "Puzzle",
             "Indie",
             "Story Rich",
-            "Atmospheric",
-            "Action",
-            "Family Friendly",
-            "Jump Scare",
-            "Simulation",
-            "Animation & Modeling",
-            "Illuminati"
+            "Stealth",
+            "Psychological Horror",
+            "Platformer",
+            "Great Soundtrack",
+            "2.5D",
+            "Third Person",
+            "Survival Horror",
+            "Female Protagonist",
+            "Multiplayer",
+            "Short",
+            "Action"
         ],
         "languages": {
-            "english": "I"
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "latam": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "swedish": "IS",
+            "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-03-31'
+var gameOfDayDate = '2026-04-01'
