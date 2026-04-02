@@ -2,94 +2,98 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 424840,
-        "CEId": "f8532223-4bd9-4da4-965b-d48aef58df94",
-        "name": "Little Nightmares",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/424840/header.jpg?t=1630581910",
-        "genre": "Platformer",
+        "platformId": 750920,
+        "CEId": "7727645c-ac96-4314-93d4-fe0ef83487cc",
+        "name": "Shadow of the Tomb Raider: Definitive Edition",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/750920/header.jpg?t=1644931091",
+        "genre": [
+            "Action"
+        ],
         "tier": 1,
-        "points": 10,
-        "createdAt": "2022-04-01T19:48:44.000Z",
-        "updatedAt": "2026-03-22T18:18:05.000Z",
-        "playersCompleted": 93,
+        "points": 5,
+        "secondaryPoints": 0,
+        "createdAt": "2022-04-02T23:22:11.000Z",
+        "updatedAt": "2026-04-01T17:51:17.000Z",
+        "playersCompleted": 44,
         "playersStarted": 0,
-        "playersTotal": 1487,
+        "playersTotal": 435,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "initial": 3999,
+                "final": 599,
+                "discountPercent": 85
             },
             "EUR": {
-                "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "initial": 3999,
+                "final": 599,
+                "discountPercent": 85
             },
             "GBP": {
-                "initial": 1599,
-                "final": 1599,
-                "discountPercent": 0
+                "initial": 3349,
+                "final": 502,
+                "discountPercent": 85
             },
             "JPY": {
-                "initial": 242000,
-                "final": 242000,
-                "discountPercent": 0
+                "initial": 554000,
+                "final": 83100,
+                "discountPercent": 85
             },
             "AUD": {
-                "initial": 2995,
-                "final": 2995,
-                "discountPercent": 0
+                "initial": 5995,
+                "final": 899,
+                "discountPercent": 85
             },
             "CAD": {
-                "initial": 2699,
-                "final": 2699,
-                "discountPercent": 0
+                "initial": 5199,
+                "final": 779,
+                "discountPercent": 85
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Awakened Bravery [10\u2605]\nComplete the game in under an hour without dying.",
+            "primaryText": "Danger Seeker [5\u2605]\nClear \"Deadly Obsession\" difficulty.",
+            "secondary": 0,
+            "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 22
+            "achievements": 99
         },
         "gameTags": [
-            "Horror",
-            "Atmospheric",
             "Adventure",
-            "Singleplayer",
-            "Puzzle Platformer",
-            "Dark",
-            "Puzzle",
-            "Indie",
-            "Story Rich",
-            "Stealth",
-            "Psychological Horror",
-            "Platformer",
-            "Great Soundtrack",
-            "2.5D",
-            "Third Person",
-            "Survival Horror",
+            "Action",
             "Female Protagonist",
+            "Singleplayer",
+            "Open World",
+            "Third Person",
+            "Story Rich",
+            "Puzzle",
+            "Stealth",
+            "Action-Adventure",
+            "Exploration",
+            "Survival",
+            "Violent",
+            "Atmospheric",
+            "Shooter",
+            "Gore",
             "Multiplayer",
-            "Short",
-            "Action"
+            "Great Soundtrack",
+            "Dark",
+            "Heist"
         ],
         "languages": {
-            "english": "IS",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IS",
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "arabic": "IAS",
+            "brazilian": "IAS",
             "koreana": "IS",
-            "latam": "IS",
-            "polish": "IS",
-            "russian": "IS",
-            "swedish": "IS",
-            "tchinese": "IS"
+            "polish": "IAS",
+            "russian": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-04-01'
+var gameOfDayDate = '2026-04-02'
