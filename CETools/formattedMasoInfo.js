@@ -19,7 +19,7 @@ var masoData =
     "745560": {
         "description": "\u2733 How the F$#@ is this free?!",
         "tier": "2",
-        "owners": 83,
+        "owners": 84,
         "completions": 25,
         "playtime": 12.828666666666669,
         "newestCompletion": "2025-06-27T16:11:35.000Z"
@@ -211,7 +211,7 @@ var masoData =
     "524050": {
         "description": "Ziplining platforming about A. fish",
         "tier": "1",
-        "owners": 25,
+        "owners": 26,
         "completions": 14,
         "playtime": 5.936904761904761,
         "newestCompletion": "2024-12-15T01:26:49.000Z"
@@ -237,7 +237,7 @@ var masoData =
         "tier": "2",
         "owners": 158,
         "completions": 65,
-        "playtime": 37.569230769230764,
+        "playtime": 37.569487179487176,
         "newestCompletion": "2026-03-20T21:35:51.000Z",
         "badges": {
             "count": 1,
@@ -439,7 +439,7 @@ var masoData =
     "415740": {
         "description": "\u2733 Anger management simulator",
         "tier": "2",
-        "owners": 51,
+        "owners": 52,
         "completions": 18,
         "playtime": 25.107407407407408,
         "newestCompletion": "2023-08-02T18:30:10.000Z"
@@ -591,7 +591,7 @@ var masoData =
     "384280": {
         "description": "\u2606 Sorry, you no win this time, try again",
         "tier": "3",
-        "owners": 28,
+        "owners": 29,
         "completions": 9,
         "playtime": 22.79074074074074,
         "newestCompletion": "2024-08-20T02:55:20.000Z"
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 262,
         "completions": 193,
-        "playtime": 252.92072538860106,
+        "playtime": 252.92124352331606,
         "newestCompletion": "2025-08-04T21:58:09.000Z",
         "badges": {
             "count": 2,
@@ -993,7 +993,7 @@ var masoData =
         "tier": "5",
         "owners": 215,
         "completions": 21,
-        "playtime": 252.91904761904766,
+        "playtime": 254.88253968253974,
         "newestCompletion": "2025-12-30T21:24:15.000Z",
         "badges": {
             "count": 1,
@@ -1309,7 +1309,7 @@ var masoData =
         "tier": "2",
         "owners": 163,
         "completions": 71,
-        "playtime": 238.1978873239437,
+        "playtime": 238.20070422535215,
         "newestCompletion": "2025-08-29T21:26:24.000Z",
         "badges": {
             "count": 2,
@@ -1537,7 +1537,7 @@ var masoData =
         "tier": "4",
         "owners": 100,
         "completions": 23,
-        "playtime": 63.269565217391296,
+        "playtime": 63.40942028985506,
         "newestCompletion": "2025-11-15T20:34:52.000Z",
         "badges": {
             "count": 1,
@@ -2596,9 +2596,9 @@ var masoData =
         "description": "Developer intended platforming\u2122",
         "tier": "1",
         "owners": 53,
-        "completions": 30,
-        "playtime": 23.195555555555547,
-        "newestCompletion": "2026-01-02T17:22:46.000Z"
+        "completions": 31,
+        "playtime": 23.003225806451606,
+        "newestCompletion": "2026-04-01T14:22:41.000Z"
     },
     "1133590": {
         "description": "\ud83c\udf1f Move over Terry, there\"s a new Iron Fella in town",
@@ -3037,7 +3037,7 @@ var masoData =
         "tier": "2",
         "owners": 136,
         "completions": 37,
-        "playtime": 37.140090090090084,
+        "playtime": 37.186036036036036,
         "newestCompletion": "2025-09-15T20:27:37.000Z"
     },
     "658780": {
@@ -3591,7 +3591,7 @@ var masoData =
     "2330500": {
         "description": "\u272a Concrete challenge",
         "tier": "4",
-        "owners": 46,
+        "owners": 47,
         "completions": 9,
         "playtime": 49.214814814814815,
         "newestCompletion": "2026-03-14T01:37:44.000Z"
@@ -4146,7 +4146,11 @@ var masoData =
         "owners": 8,
         "completions": 3,
         "playtime": 123.53333333333335,
-        "newestCompletion": "2026-02-27T23:53:24.000Z"
+        "newestCompletion": "2026-02-27T23:53:24.000Z",
+        "badges": {
+            "count": 2,
+            "points": 4
+        }
     },
     "1814170": {
         "description": "\u2733 Your brain will turn into mush afterword",
@@ -4175,7 +4179,7 @@ var masoData =
     "1147860": {
         "description": "\u272a The n++ of race games",
         "tier": "4",
-        "owners": 56,
+        "owners": 57,
         "completions": 8,
         "playtime": 273.2708333333333,
         "newestCompletion": "2025-11-10T21:27:13.000Z",
@@ -4283,7 +4287,7 @@ var masoData =
     "2694420": {
         "description": "\u2606 Hellishly Wicked",
         "tier": "3",
-        "owners": 18,
+        "owners": 19,
         "completions": 7,
         "playtime": 41.18095238095238,
         "newestCompletion": "2026-01-23T14:23:24.000Z"
@@ -4571,7 +4575,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 15,
+        "owners": 16,
         "completions": 7,
         "playtime": 82.71190476190476,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
