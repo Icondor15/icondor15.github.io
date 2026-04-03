@@ -1,99 +1,62 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 750920,
-        "CEId": "7727645c-ac96-4314-93d4-fe0ef83487cc",
-        "name": "Shadow of the Tomb Raider: Definitive Edition",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/750920/header.jpg?t=1644931091",
+        "gameType": 2,
+        "platformId": 50300,
+        "CEId": "023cb554-ee6d-4775-ab78-301c802414f7",
+        "name": "Spec Ops: The Line",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/50300/header.jpg?t=1569016017",
         "genre": [
             "Action"
         ],
         "tier": 1,
-        "points": 5,
+        "points": 10,
         "secondaryPoints": 0,
-        "createdAt": "2022-04-02T23:22:11.000Z",
-        "updatedAt": "2026-04-01T17:51:17.000Z",
-        "playersCompleted": 44,
+        "medianPlaytime": 1280,
+        "createdAt": "2022-04-03T20:55:33.000Z",
+        "updatedAt": "2026-04-01T18:58:26.000Z",
+        "playersCompleted": 109,
         "playersStarted": 0,
-        "playersTotal": 435,
-        "priceData": {
-            "USD": {
-                "initial": 3999,
-                "final": 599,
-                "discountPercent": 85
-            },
-            "EUR": {
-                "initial": 3999,
-                "final": 599,
-                "discountPercent": 85
-            },
-            "GBP": {
-                "initial": 3349,
-                "final": 502,
-                "discountPercent": 85
-            },
-            "JPY": {
-                "initial": 554000,
-                "final": 83100,
-                "discountPercent": 85
-            },
-            "AUD": {
-                "initial": 5995,
-                "final": 899,
-                "discountPercent": 85
-            },
-            "CAD": {
-                "initial": 5199,
-                "final": 779,
-                "discountPercent": 85
-            }
-        },
+        "playersTotal": 626,
         "milestones": {
             "primary": 1,
-            "primaryText": "Danger Seeker [5\u2605]\nClear \"Deadly Obsession\" difficulty.",
+            "primaryText": "Army of One [10\u2605]\nComplete the game on \"FUBAR\" difficulty.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 99
+            "achievements": 50
         },
         "gameTags": [
-            "Adventure",
-            "Action",
-            "Female Protagonist",
-            "Singleplayer",
-            "Open World",
-            "Third Person",
             "Story Rich",
-            "Puzzle",
-            "Stealth",
-            "Action-Adventure",
-            "Exploration",
-            "Survival",
-            "Violent",
+            "Third-Person Shooter",
+            "Action",
+            "Psychological",
             "Atmospheric",
+            "Singleplayer",
+            "War",
             "Shooter",
-            "Gore",
-            "Multiplayer",
-            "Great Soundtrack",
             "Dark",
-            "Heist"
+            "Third Person",
+            "Emotional",
+            "Military",
+            "Multiplayer",
+            "Mature",
+            "Political",
+            "Adventure",
+            "Great Soundtrack",
+            "Psychological Horror",
+            "Post-apocalyptic",
+            "Based On A Novel"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IAS",
-            "german": "IAS",
-            "italian": "IAS",
-            "spanish": "IAS",
-            "arabic": "IAS",
-            "brazilian": "IAS",
-            "koreana": "IS",
-            "polish": "IAS",
-            "russian": "IAS",
-            "schinese": "IAS",
-            "tchinese": "IAS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I"
         }
     }
 }
-var gameOfDayDate = '2026-04-02'
+var gameOfDayDate = '2026-04-03'
