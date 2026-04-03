@@ -176,6 +176,13 @@
                 linear-gradient(-90deg, #000000, #bfbfbf),
                 var(--background-image);
         }
+        .gameElement.otherGame {
+            background-image:
+                linear-gradient(90deg, #00000088, #00000000 10%),
+                linear-gradient(0deg,rgba(230, 125, 12, 1) 0%, rgba(232, 201, 144, 1) 100%),
+                linear-gradient(-90deg, #000000, #ffffff),
+                var(--background-image);
+        }
 
         .gameElement:hover:not(#tagSettingsElement) {
             filter: drop-shadow(0px 0px 10px #0000007f);
@@ -309,37 +316,40 @@
                 linear-gradient(-90deg, #7a6947,#58668e);
         }
 
-        .actionText:after {
+        .unknownText:not(.shortCategory):after {
+            content: "Unknown";
+        }
+        .actionText:not(.shortCategory):after {
             content: "Action";
         }
         .actionText {
             background-image: linear-gradient(#ed6976,#861953);
         }
-        .arcadeText:after {
+        .arcadeText:not(.shortCategory):after {
             content: "Arcade";
         }
         .arcadeText {
             background-image: linear-gradient(#7869ed,#3d2e87);
         }
-        .bullethellText:after {
+        .bullethellText:not(.shortCategory):after {
             content: "Bullet Hell";
         }
         .bullethellText {
             background-image: linear-gradient(#da6bc6,#852582);
         }
-        .firstpersonText:after {
+        .firstpersonText:not(.shortCategory):after {
             content: "First Person";
         }
         .firstpersonText {
             background-image: linear-gradient(#f3ad52,#a44b24);
         }
-        .platformerText:after {
+        .platformerText:not(.shortCategory):after {
             content: "Platformer";
         }
         .platformerText {
             background-image: linear-gradient(#52f35f,#358d65);
         }
-        .strategyText:after {
+        .strategyText:not(.shortCategory):after {
             content: "Strategy";
         }
         .strategyText {
@@ -403,6 +413,14 @@
             background-image: linear-gradient(#876cff,#5433c9);
         }
         
+        .secondaryText:before {
+            content: "SOs";
+        }
+        .secondaryText {
+            text-decoration: underline dotted;
+            background-image: linear-gradient(#ff6ca4,#c6004c);
+        }
+
         .communityText:before {
             content: "COs";
         }
@@ -418,31 +436,6 @@
             background-image: linear-gradient(#fd86ff,#a812a8);
         }
         
-        .secondaryPText:before {
-            content: "SECONDARY! [PO]";
-        }
-        .secondaryPText {
-            text-decoration: underline dotted;
-            cursor: help;
-            background-image: linear-gradient(#876cff,#00e749);
-        }
-        .secondaryCText:before {
-            content: "SECONDARY! [CO]";
-        }
-        .secondaryCText {
-            text-decoration: underline dotted;
-            cursor: help;
-            background-image: linear-gradient(#d86cff,#00e749);
-        }
-        .secondaryPCText:before {
-            content: "SECONDARY! [PO/CO]";
-        }
-        .secondaryPCText {
-            text-decoration: underline dotted;
-            cursor: help;
-            background-image:   linear-gradient(#00000000,#00e749),
-                                linear-gradient(90deg, #876cff 10%,#cd45ff);
-        }
         .unclearedText:before {
             content: "UNCLEARED!";
         }
@@ -542,6 +535,12 @@
         }
         .reviewsUnknownText {
             background-image: linear-gradient(#404040,#767676);
+        }
+
+        .medianPlaytimeText {
+            padding-top:2px;
+            background-image: linear-gradient(#464646,#323232);
+            border: solid 1px #ffffff4f;
         }
         
         .dlcCountText:before {
@@ -651,8 +650,11 @@
             text-decoration: dotted underline 1.3px;
         }
 
-        .tagsTextSteam::after, .tagsTextRetro::after {
+        .tagsTextSteam::after, .tagsTextRetro::after, .tagsTextCE:after {
             content: " Tags:";
+        }
+        .tagsTextCE {
+            background-image: linear-gradient(160deg, #bfbfbf,#000000);
         }
         .tagsTextSteam {
             background-image: linear-gradient(160deg, #32b7e7,#920861);
@@ -972,6 +974,7 @@
                         <option selected>All</option>
                         <option>Steam</option>
                         <option>RetroAchievements</option>
+                        <option>Other</option>
                     </select>
                 </fieldset>
                 <!--Name-->
@@ -993,7 +996,7 @@
                 </fieldset>
                 <!--Genre-->
                 <fieldset id="genreField">
-                    <legend>Genre</legend>
+                    <legend>Category</legend>
                     <input autocomplete="off" type="checkbox" id="genreAll" checked onchange="changeGenre(-1)"><label for="genreAll">All</label>
                     <hr style="opacity: 0.5; width:100%; margin: 0px;">
                     <div style="display: grid; grid-template-columns: 1fr 1fr; text-align: left;">
@@ -1016,6 +1019,8 @@
                             <input autocomplete="off" type="checkbox" id="genreStrategy" onchange="changeGenre(5)"><label for="genreStrategy">Strategy</label>
                         </span>
                     </div>
+                    <hr style="opacity: 0.5; width:100%; margin: 0px;">
+                    <input autocomplete="off" type="checkbox" id="genreExclusive" onchange="order('last')"><label for="genreExclusive">Exclusive</label> <sup title="This will make it so it will show games only if they have ALL selected Categories simultaneously." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup>
                 </fieldset>
                 <!--Tier + Points-->
                 <div style="display: flex; flex-direction: row; align-items: start;">
@@ -1359,7 +1364,7 @@
                     <!--Game Tags-->
                     <div class="gameTags" style="gap: 4px;">
                         <span class="tag">
-                            <label class="tagTitle" for="tagSettings7">Genres</label>
+                            <label class="tagTitle" for="tagSettings7">Categories</label>
                             <label class="tagTitle" style="background-image: linear-gradient(#ed6976,#861953);" for="tagSettings7">
                                 <svg style="cursor: grabbing;" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="hand-fist" class="svg-inline--fa fa-hand-fist " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="11px"><path fill="currentColor" d="M192 0c17.7 0 32 14.3 32 32V144H160V32c0-17.7 14.3-32 32-32zM64 64c0-17.7 14.3-32 32-32s32 14.3 32 32v80H64V64zm192 0c0-17.7 14.3-32 32-32s32 14.3 32 32v96c0 17.7-14.3 32-32 32s-32-14.3-32-32V64zm96 64c0-17.7 14.3-32 32-32s32 14.3 32 32v64c0 17.7-14.3 32-32 32s-32-14.3-32-32V128zm-96 88l0-.6c9.4 5.4 20.3 8.6 32 8.6c13.2 0 25.4-4 35.6-10.8c8.7 24.9 32.5 42.8 60.4 42.8c11.7 0 22.6-3.1 32-8.6V256c0 52.3-25.1 98.8-64 128v96c0 17.7-14.3 32-32 32H160c-17.7 0-32-14.3-32-32V401.6c-17.3-7.9-33.2-18.8-46.9-32.5L69.5 357.5C45.5 333.5 32 300.9 32 267V240c0-35.3 28.7-64 64-64h88c22.1 0 40 17.9 40 40s-17.9 40-40 40H128c-8.8 0-16 7.2-16 16s7.2 16 16 16h56c39.8 0 72-32.2 72-72z"></path></svg>
                             </label><label class="tagTitle" style="background-image: linear-gradient(#7869ed,#3d2e87);" for="tagSettings7">
@@ -1388,6 +1393,11 @@
                         </span>
                         &hairsp;
                         <span class="tag">
+                            <label class="tagTitle secondaryText" style="text-decoration: none;" for="tagSettings12"></label>
+                            <input class="tagSettings" id="tagSettings12" type="checkbox" style="position: relative; top: 1px; margin: 3px 0px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(12, this.checked);" checked>
+                        </span>
+                        &hairsp;
+                        <span class="tag">
                             <label class="tagTitle communityText" style="text-decoration: none;" for="tagSettings10"></label>
                             <input class="tagSettings" id="tagSettings10" type="checkbox" style="position: relative; top: 1px; margin: 3px 0px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(10, this.checked);" checked>
                         </span>
@@ -1397,11 +1407,6 @@
                             <input class="tagSettings" id="tagSettings11" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(11, this.checked);" checked>
                         </span>
                         <br>
-                        <span class="tag">
-                            <label class="tagTitle secondaryPCText" style="text-decoration: none; cursor: pointer;" for="tagSettings12"></label>
-                            <input class="tagSettings" id="tagSettings12" type="checkbox" style="position: relative; top: 1px; margin: 3px 0px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(12, this.checked);" checked>
-                        </span>
-                        &hairsp;
                         <span class="tag">
                             <label class="tagTitle unclearedText" style="text-decoration: none; cursor: pointer;" for="tagSettings13"></label><label class="tagTitle maybeUnclearedText" style="text-decoration: none; cursor: pointer;" for="tagSettings13"></label>
                             <input class="tagSettings" id="tagSettings13" type="checkbox" style="position: relative; top: 1px; margin: 3px 0px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(13, this.checked);" checked>
@@ -1423,7 +1428,12 @@
                         <span class="tag" style="font-size: 12px;">
                             <label class="tagTitle lowReviewsText" style="font-size: 12px;" for="tagSettings16"></label>
                             <input class="tagSettings" id="tagSettings16" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(16, this.checked);" checked>
-                            
+                        </span>
+                        <br>
+                        <span class="tag" style="font-size: 12px;">
+                            <label class="tagTitle medianPlaytimeText" style="font-size: 12px; padding-top: 4.5px;" for="tagSettings33"><svg data-icon="time" width="13" height="13" viewBox="0 0 16 16" role="img"><path d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6s2.69-6 6-6 6 2.69 6 6-2.69 6-6 6zm1-6.41V4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .28.11.53.29.71l2 2a1.003 1.003 0 001.42-1.42L9 7.59z" fill="white" fill-rule="evenodd"></path></svg> Median Completion Time</label>
+                            <input class="tagSettings" id="tagSettings33" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(33, this.checked);" checked>
+                        </span>
                     </div>
 
                     <!--DLCs-->
@@ -1509,7 +1519,28 @@
                     </div>
 
                     <!--Tags-->
-                    <div class="tagsTags" style="scale: 1;">
+                    <div class="tagsTags" style="scale: 1;"><span class="tag">
+                            <label class="tagTitle" style="background-image: linear-gradient(160deg, #bfbfbf,#000000);">
+                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"xmlns:krita="http://krita.org/namespaces/svg/krita" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="11" height="11" viewBox="0 0 317.76 366.48"><defs/> <g id="group0" transform="matrix(3.15711998406411 0 0 3.15711998406411 0 0)" fill="none"> <path id="shape0" transform="translate(-132.555624161188, -52.8180927612859)" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M233.177 139.887L182.852 168.942L132.556 139.935L132.583 81.8729L182.907 52.8181L197.135 61.0235L146.811 90.0783L146.791 131.716L182.86 152.518L233.185 123.463L233.177 139.887M143.232 133.771L143.254 88.0269L136.14 83.9242L136.115 137.88L153.642 147.988L153.646 139.776L143.232 133.771" sodipodi:nodetypes="cccccccccccccccccc"/> <path id="shape1" transform="translate(-132.555624161188, -52.8180927612859)" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M233.188 115.562L182.864 144.616L153.64 127.762L153.656 94.0257L203.98 64.9709L218.746 73.4868L168.422 102.542L168.417 110.976L226.052 77.7004L233.204 81.8252L233.2 90.0818L175.566 123.357L182.872 127.571L233.196 98.5158L233.188 115.562M211.452 73.4379L164.73 100.413L157.347 96.1546L204.035 69.1995L211.452 73.4379" sodipodi:nodetypes="cccccccccccccccccccc"/> </g> </svg>
+                                Tags
+                            </label>
+                            <label for="tagSettings34" class="tagTitle">
+                                <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="gamepad" class="svg-inline--fa fa-gamepad " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" height="11px"><path fill="currentColor" d="M192 64C86 64 0 150 0 256S86 448 192 448H448c106 0 192-86 192-192s-86-192-192-192H192zM496 168a40 40 0 1 1 0 80 40 40 0 1 1 0-80zM392 304a40 40 0 1 1 80 0 40 40 0 1 1 -80 0zM168 200c0-13.3 10.7-24 24-24s24 10.7 24 24v32h32c13.3 0 24 10.7 24 24s-10.7 24-24 24H216v32c0 13.3-10.7 24-24 24s-24-10.7-24-24V280H136c-13.3 0-24-10.7-24-24s10.7-24 24-24h32V200z"></path></svg>
+                                Genre Tags
+                            </label>
+                            <input class="tagSettings" id="tagSettings34" type="checkbox" style="position: relative; top: 1px; margin: 3px 0px 0px -1px;" autocomplete="off" checked onchange="changeTagVisibility(34, this.checked);">
+                            |
+                            <label for="tagSettings35" class="tagTitle">
+                                𝓲 Informational Tags
+                            </label>
+                            <input class="tagSettings" id="tagSettings35" type="checkbox" style="position: relative; top: 1px; margin: 3px 0px 0px -1px;" autocomplete="off" checked onchange="changeTagVisibility(35, this.checked);">
+                            |
+                            <label for="tagSettings36" class="tagTitle" style="background-image: linear-gradient(#ffffff00,#0000007f), linear-gradient(#bfbfbf7f, #bfbfbf7f), linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,154,0,1) 10%, rgba(208,222,33,1) 20%, rgba(79,220,74,1) 30%, rgba(63,218,216,1) 40%, rgba(47,201,226,1) 50%, rgba(28,127,238,1) 60%, rgba(95,21,242,1) 70%, rgba(186,12,248,1) 80%, rgba(251,7,217,1) 90%, rgba(255,0,0,1) 100%);">
+                                Tag Colors
+                            </label>
+                            <input class="tagSettings" id="tagSettings36" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" checked onchange="changeTagVisibility(36, this.checked);">
+                        </span>
+                        <br>
                         <span class="tag">
                             <label for="tagSettings30" class="tagTitle" style="background-image: linear-gradient(160deg, #32b7e7,#920861);">
                                 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" height="11px"><path fill="#FFFFFF" d="M496 256c0 137-111.2 248-248.4 248-113.8 0-209.6-76.3-239-180.4l95.2 39.3c6.4 32.1 34.9 56.4 68.9 56.4 39.2 0 71.9-32.4 70.2-73.5l84.5-60.2c52.1 1.3 95.8-40.9 95.8-93.5 0-51.6-42-93.5-93.7-93.5s-93.7 42-93.7 93.5v1.2L176.6 279c-15.5-.9-30.7 3.4-43.5 12.1L0 236.1C10.2 108.4 117.1 8 247.6 8 384.8 8 496 119 496 256zM155.7 384.3l-30.5-12.6a52.79 52.79 0 0 0 27.2 25.8c26.9 11.2 57.8-1.6 69-28.4 5.4-13 5.5-27.3.1-40.3-5.4-13-15.5-23.2-28.5-28.6-12.9-5.4-26.7-5.2-38.9-.6l31.5 13c19.8 8.2 29.2 30.9 20.9 50.7-8.3 19.9-31 29.2-50.8 21zm173.8-129.9c-34.4 0-62.4-28-62.4-62.3s28-62.3 62.4-62.3 62.4 28 62.4 62.3-27.9 62.3-62.4 62.3zm.1-15.6c25.9 0 46.9-21 46.9-46.8 0-25.9-21-46.8-46.9-46.8s-46.9 21-46.9 46.8c.1 25.8 21.1 46.8 46.9 46.8z"></path></svg>
@@ -1581,8 +1612,7 @@
             <select id="orderSelect" autocomplete="off" onchange="order(this.value)">
                 <optgroup label="--Miscellaneous--">
                     <option value="gameType">Platform</option>
-                    <option value="genre">Genre</option>
-                    <option selected value="points">Points</option>
+                    <option value="genre">Category</option>
                     <option id="userFilterOrder" style="display:none" value="userPoints">Gained Points (User Filter)</option>
                     <option value="langCount">Language Count</option>
                     <option value="consoleName">Console Name (RA)</option>
@@ -1592,8 +1622,14 @@
                     <option value="name">Alphabetical Order</option>
                     <option value="nameLength">Name Length</option>
                 </optgroup>
-                <optgroup label="--Milestones--">
+                <optgroup label="--Points--">
+                    <option selected value="totalPoints">Total Points</option>
+                    <option value="points">PO Points</option>
+                    <option value="secondaryPoints">SO Points</option>
+                </optgroup>
+                <optgroup label="--Milestone Count--">
                     <option value="primary">Primary Objectives</option>
+                    <option value="secondary">Secondary Objectives</option>
                     <option value="community">Community Objectives</option>
                     <option value="achievements">Achievements</option>
                 </optgroup>
@@ -1702,11 +1738,15 @@
         const steamIconText = '<svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" height="11px"><path fill="#FFFFFF" d="M496 256c0 137-111.2 248-248.4 248-113.8 0-209.6-76.3-239-180.4l95.2 39.3c6.4 32.1 34.9 56.4 68.9 56.4 39.2 0 71.9-32.4 70.2-73.5l84.5-60.2c52.1 1.3 95.8-40.9 95.8-93.5 0-51.6-42-93.5-93.7-93.5s-93.7 42-93.7 93.5v1.2L176.6 279c-15.5-.9-30.7 3.4-43.5 12.1L0 236.1C10.2 108.4 117.1 8 247.6 8 384.8 8 496 119 496 256zM155.7 384.3l-30.5-12.6a52.79 52.79 0 0 0 27.2 25.8c26.9 11.2 57.8-1.6 69-28.4 5.4-13 5.5-27.3.1-40.3-5.4-13-15.5-23.2-28.5-28.6-12.9-5.4-26.7-5.2-38.9-.6l31.5 13c19.8 8.2 29.2 30.9 20.9 50.7-8.3 19.9-31 29.2-50.8 21zm173.8-129.9c-34.4 0-62.4-28-62.4-62.3s28-62.3 62.4-62.3 62.4 28 62.4 62.3-27.9 62.3-62.4 62.3zm.1-15.6c25.9 0 46.9-21 46.9-46.8 0-25.9-21-46.8-46.9-46.8s-46.9 21-46.9 46.8c.1 25.8 21.1 46.8 46.9 46.8z"></path></svg>';
         const retroAchievementsIcon = '<svg style="position:relative; left:2px" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 20 20"><g transform="translate(-73.504 -120.06)"><g transform="matrix(.35278 0 0 -.35278 -4.3083 326.78)"><g aria-label="RA" style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" transform="matrix(1.1293 0 0 -1.1092 -28.246 -45.784)"><path fill="white" style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m220.57-553.59h11.73q1.89 0 3.12 1.14 1.26 1.14 1.26 3.45 0 0.99-0.33 1.86-0.33 0.84-0.93 1.47-0.57 0.63-1.38 0.99t-1.74 0.36h-0.99l8.55 15.03h-4.29l-5.94-10.29v10.29h-3.99v-19.17h6.51q0.24 0 0.36-0.18 0.15-0.18 0.15-0.39t-0.15-0.36q-0.12-0.18-0.36-0.18h-7.59v20.28h-3.99zm12.66 10.26q0.87-0.06 1.68-0.51 0.84-0.45 1.47-1.2t1.02-1.74q0.39-1.02 0.39-2.22 0-1.23-0.39-2.28t-1.11-1.8-1.74-1.17q-0.99-0.42-2.25-0.42h-11.73v-4.05h11.73q1.98 0 3.72 0.75t3.03 2.07 2.01 3.09q0.75 1.77 0.75 3.81 0 2.58-0.87 4.47-0.87 1.86-2.37 3l6.84 12.24h-4.08z"/><path fill="white" style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m252.84-532.8h12.45l-7.62-21.15q-0.09-0.3-0.54-0.54t-0.87-0.24q-0.48 0-0.9 0.24-0.39 0.24-0.48 0.54l-8.67 24.66h-3.99l9.27-26.16q0.21-0.63 0.6-1.2 0.39-0.6 0.96-1.05 0.6-0.48 1.38-0.75 0.81-0.27 1.83-0.27t1.8 0.27 1.35 0.75q0.6 0.45 0.99 1.05 0.39 0.57 0.63 1.2l9.27 26.16h-17.46zm0-1.08v-1.14l-1.92 5.73h-3.63l8.25-23.91q0.06-0.18 0.27-0.3 0.24-0.15 0.45-0.15t0.45 0.15q0.24 0.12 0.3 0.3l6.84 19.32zm3.42-11.13-2.4 7.56h4.89z"/></g></g></g></svg>';
         const retroAchievementsIconText = '<svg style="position:relative; left:2px" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 20 20"><g transform="translate(-73.504 -120.06)"><g transform="matrix(.35278 0 0 -.35278 -4.3083 326.78)" height="11px"><g aria-label="RA" style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" transform="matrix(1.1293 0 0 -1.1092 -28.246 -45.784)"><path fill="white" style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m220.57-553.59h11.73q1.89 0 3.12 1.14 1.26 1.14 1.26 3.45 0 0.99-0.33 1.86-0.33 0.84-0.93 1.47-0.57 0.63-1.38 0.99t-1.74 0.36h-0.99l8.55 15.03h-4.29l-5.94-10.29v10.29h-3.99v-19.17h6.51q0.24 0 0.36-0.18 0.15-0.18 0.15-0.39t-0.15-0.36q-0.12-0.18-0.36-0.18h-7.59v20.28h-3.99zm12.66 10.26q0.87-0.06 1.68-0.51 0.84-0.45 1.47-1.2t1.02-1.74q0.39-1.02 0.39-2.22 0-1.23-0.39-2.28t-1.11-1.8-1.74-1.17q-0.99-0.42-2.25-0.42h-11.73v-4.05h11.73q1.98 0 3.72 0.75t3.03 2.07 2.01 3.09q0.75 1.77 0.75 3.81 0 2.58-0.87 4.47-0.87 1.86-2.37 3l6.84 12.24h-4.08z"/><path fill="white" style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m252.84-532.8h12.45l-7.62-21.15q-0.09-0.3-0.54-0.54t-0.87-0.24q-0.48 0-0.9 0.24-0.39 0.24-0.48 0.54l-8.67 24.66h-3.99l9.27-26.16q0.21-0.63 0.6-1.2 0.39-0.6 0.96-1.05 0.6-0.48 1.38-0.75 0.81-0.27 1.83-0.27t1.8 0.27 1.35 0.75q0.6 0.45 0.99 1.05 0.39 0.57 0.63 1.2l9.27 26.16h-17.46zm0-1.08v-1.14l-1.92 5.73h-3.63l8.25-23.91q0.06-0.18 0.27-0.3 0.24-0.15 0.45-0.15t0.45 0.15q0.24 0.12 0.3 0.3l6.84 19.32zm3.42-11.13-2.4 7.56h4.89z"/></g></g></g></svg>';
+        const otherPlatIcon = '<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="ellipsis" class="svg-inline--fa fa-ellipsis " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M8 256a56 56 0 1 1 112 0A56 56 0 1 1 8 256zm160 0a56 56 0 1 1 112 0 56 56 0 1 1 -112 0zm216-56a56 56 0 1 1 0 112 56 56 0 1 1 0-112z"></path></svg>'
+
+        const CEIconText = '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"xmlns:krita="http://krita.org/namespaces/svg/krita" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="11" height="11" viewBox="0 0 317.76 366.48"><defs/> <g id="group0" transform="matrix(3.15711998406411 0 0 3.15711998406411 0 0)" fill="none"> <path id="shape0" transform="translate(-132.555624161188, -52.8180927612859)" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M233.177 139.887L182.852 168.942L132.556 139.935L132.583 81.8729L182.907 52.8181L197.135 61.0235L146.811 90.0783L146.791 131.716L182.86 152.518L233.185 123.463L233.177 139.887M143.232 133.771L143.254 88.0269L136.14 83.9242L136.115 137.88L153.642 147.988L153.646 139.776L143.232 133.771" sodipodi:nodetypes="cccccccccccccccccc"/> <path id="shape1" transform="translate(-132.555624161188, -52.8180927612859)" fill="#ffffff" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M233.188 115.562L182.864 144.616L153.64 127.762L153.656 94.0257L203.98 64.9709L218.746 73.4868L168.422 102.542L168.417 110.976L226.052 77.7004L233.204 81.8252L233.2 90.0818L175.566 123.357L182.872 127.571L233.196 98.5158L233.188 115.562M211.452 73.4379L164.73 100.413L157.347 96.1546L204.035 69.1995L211.452 73.4379" sodipodi:nodetypes="cccccccccccccccccccc"/> </g> </svg>'
 
         const steamDBIconText = '<svg fill="currentColor" height="10" icon-name="external-outline" viewBox="0 0 50.3 50.3" width="10" xmlns="http://www.w3.org/2000/svg"><path class="st0" d="M25.1,0C12,0,1.2,4.7,0,10.6l14,2.6c1.1-0.4,2.4-0.5,3.8-0.5l6.6-3.9c-0.1-1,0.5-2,1.8-2.8\nC28.1,4.8,31,4.1,34,4.1c2,0,4.1,0.3,5.9,0.9c4.4,1.5,5.4,4.4,2.2,6.4c-2,1.3-5.2,2-8.4,1.9l-8.6,3.1c-0.1,0.6-0.5,1.2-1.3,1.8\nc-2.3,1.5-6.8,1.8-10.1,0.7c-1.4-0.5-2.4-1.2-2.7-1.9L1,15.1c0.9,1.4,2.4,2.7,4.2,3.8C2,20.8,0,23.2,0,25.7c0,2.5,1.9,4.8,5.1,6.7\nC1.9,34.3,0,36.6,0,39.1c0,6.2,11.2,11.2,25.1,11.2c13.9,0,25.1-5,25.1-11.2c0-2.5-1.9-4.8-5.1-6.7c3.2-1.9,5.1-4.2,5.1-6.7\nc0-2.6-2-4.9-5.3-6.8c3.3-2,5.2-4.5,5.2-7.1C50.2,5.3,39,0,25.1,0z M34.1,5.6c-2,0-4,0.5-5.3,1.3c-2.2,1.4-1.5,3.3,1.5,4.4\ns7.1,0.7,9.3-0.7c2.2-1.4,1.5-3.3-1.5-4.3C36.8,5.8,35.4,5.6,34.1,5.6L34.1,5.6z M34.2,6.2c2.9,0,5.2,1.1,5.2,2.4s-2.3,2.4-5.2,2.4\nS29,10,29,8.7S31.3,6.2,34.2,6.2z M17.8,13.5c-0.6,0-1.2,0.1-1.8,0.2l3.6,0.7c2.2,0.4,3.2,1.6,2.4,2.6c-0.9,1-3.4,1.5-5.5,1.1\nl-3.5-0.7c0.4,0.4,0.9,0.7,1.7,0.9c2.5,0.9,6,0.6,7.9-0.6c1.8-1.2,1.3-2.8-1.3-3.7C20.2,13.7,18.9,13.5,17.8,13.5z M42.8,20v3.7\nc0,4.3-7.9,7.8-17.7,7.8c-9.8,0-17.7-3.5-17.7-7.8v-3.6c4.5,2.1,10.8,3.4,17.6,3.4C32,23.5,38.3,22.2,42.8,20L42.8,20z M42.8,33.6\nv3.5c0,4.3-7.9,7.8-17.7,7.8c-9.8,0-17.7-3.5-17.7-7.8v-3.5c4.6,2,10.8,3.2,17.7,3.2S38.3,35.6,42.8,33.6z"></path></svg>';
 
         //Genres
         const genreIcons = {
+            "unknown": '<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="infinity" class="svg-inline--fa fa-infinity " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M0 241.1C0 161 65 96 145.1 96c38.5 0 75.4 15.3 102.6 42.5L320 210.7l72.2-72.2C419.5 111.3 456.4 96 494.9 96C575 96 640 161 640 241.1l0 29.7C640 351 575 416 494.9 416c-38.5 0-75.4-15.3-102.6-42.5L320 301.3l-72.2 72.2C220.5 400.7 183.6 416 145.1 416C65 416 0 351 0 270.9l0-29.7zM274.7 256l-72.2-72.2c-15.2-15.2-35.9-23.8-57.4-23.8C100.3 160 64 196.3 64 241.1l0 29.7c0 44.8 36.3 81.1 81.1 81.1c21.5 0 42.2-8.5 57.4-23.8L274.7 256zm90.5 0l72.2 72.2c15.2 15.2 35.9 23.8 57.4 23.8c44.8 0 81.1-36.3 81.1-81.1l0-29.7c0-44.8-36.3-81.1-81.1-81.1c-21.5 0-42.2 8.5-57.4 23.8L365.3 256z"></path></svg>',
             "action": '<svg style="cursor: grabbing;" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="hand-fist" class="svg-inline--fa fa-hand-fist " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="11px"><path fill="currentColor" d="M192 0c17.7 0 32 14.3 32 32V144H160V32c0-17.7 14.3-32 32-32zM64 64c0-17.7 14.3-32 32-32s32 14.3 32 32v80H64V64zm192 0c0-17.7 14.3-32 32-32s32 14.3 32 32v96c0 17.7-14.3 32-32 32s-32-14.3-32-32V64zm96 64c0-17.7 14.3-32 32-32s32 14.3 32 32v64c0 17.7-14.3 32-32 32s-32-14.3-32-32V128zm-96 88l0-.6c9.4 5.4 20.3 8.6 32 8.6c13.2 0 25.4-4 35.6-10.8c8.7 24.9 32.5 42.8 60.4 42.8c11.7 0 22.6-3.1 32-8.6V256c0 52.3-25.1 98.8-64 128v96c0 17.7-14.3 32-32 32H160c-17.7 0-32-14.3-32-32V401.6c-17.3-7.9-33.2-18.8-46.9-32.5L69.5 357.5C45.5 333.5 32 300.9 32 267V240c0-35.3 28.7-64 64-64h88c22.1 0 40 17.9 40 40s-17.9 40-40 40H128c-8.8 0-16 7.2-16 16s7.2 16 16 16h56c39.8 0 72-32.2 72-72z"></path></svg>',
             "arcade": '<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="gamepad" class="svg-inline--fa fa-gamepad " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" height="11px"><path fill="currentColor" d="M192 64C86 64 0 150 0 256S86 448 192 448H448c106 0 192-86 192-192s-86-192-192-192H192zM496 168a40 40 0 1 1 0 80 40 40 0 1 1 0-80zM392 304a40 40 0 1 1 80 0 40 40 0 1 1 -80 0zM168 200c0-13.3 10.7-24 24-24s24 10.7 24 24v32h32c13.3 0 24 10.7 24 24s-10.7 24-24 24H216v32c0 13.3-10.7 24-24 24s-24-10.7-24-24V280H136c-13.3 0-24-10.7-24-24s10.7-24 24-24h32V200z"></path></svg>',
             "bullethell": '<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="rocket" class="svg-inline--fa fa-rocket " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" height="11px"><path fill="currentColor" d="M156.6 384.9L125.7 354c-8.5-8.5-11.5-20.8-7.7-32.2c3-8.9 7-20.5 11.8-33.8L24 288c-8.6 0-16.6-4.6-20.9-12.1s-4.2-16.7 .2-24.1l52.5-88.5c13-21.9 36.5-35.3 61.9-35.3l82.3 0c2.4-4 4.8-7.7 7.2-11.3C289.1-4.1 411.1-8.1 483.9 5.3c11.6 2.1 20.6 11.2 22.8 22.8c13.4 72.9 9.3 194.8-111.4 276.7c-3.5 2.4-7.3 4.8-11.3 7.2v82.3c0 25.4-13.4 49-35.3 61.9l-88.5 52.5c-7.4 4.4-16.6 4.5-24.1 .2s-12.1-12.2-12.1-20.9V380.8c-14.1 4.9-26.4 8.9-35.7 11.9c-11.2 3.6-23.4 .5-31.8-7.8zM384 168a40 40 0 1 0 0-80 40 40 0 1 0 0 80z"></path></svg>',
@@ -1996,7 +2036,7 @@
         let pageSize = 50;
         let pageIndex = 0;
         let pageCount = Math.ceil(filteredData.length / pageSize);
-        let lastOrder = "points";
+        let lastOrder = "totalPoints";
         //Filter variables
         let activeGenre = [true, true, true, true, true, true]; //1:Action, 2:Arcade, 3:Bullet Hell, 4:First-Person, 5:Platformer, 6:Strategy
         let activeTier = [true, true, true, true, true, true, true, true] //T0-7
@@ -2037,7 +2077,11 @@
             true,   //29: RA Games Consoles
             true,   //30: Game Tags
             true,   //31: Game Tag Colors
-            true    //32: Language Tags
+            true,   //32: Language Tags
+            true,   //33: Median Playtime
+            true,   //34: CE Genre Tags
+            true,   //35: CE Informational Tags
+            true,   //36: CE Tag Colors
         ]
 
         const exPlusList = ["992f86df-6327-47f7-ba0c-0212126c0aaf"];
@@ -2654,19 +2698,22 @@
             let filterActive = false;
 
             //Platform filter
-            let steamGames = data.filter(obj => {return obj.gameType != 3})
+            let steamGames = data.filter(obj => {return obj.gameType != 3 && obj.gameType != 5})
             let RAGames = data.filter(obj => {return obj.gameType == 3})
-
+            let otherGames = data.filter(obj => {return obj.gameType == 5})
+            
             if(document.getElementById("platformFilter").value == "All")
             {
-                filteredData = steamGames.concat(RAGames);
+                filteredData = steamGames.concat(RAGames, otherGames);
                 //Alter fieldset
                 document.getElementById("platformField").classList.remove("activeFilter");
             }
             else
             {   
-                if(document.getElementById("platformFilter").value == "Steam") {filteredData = steamGames;}
-                else {filteredData = RAGames;}
+                let filteredValue = document.getElementById("platformFilter").value;
+                if(filteredValue == "Steam") {filteredData = steamGames;}
+                else if(filteredValue == "RetroAchievements") {filteredData = RAGames;}
+                else {filteredData = otherGames;}
                 
                 filterActive = true;
                 //Alter fieldset
@@ -2728,26 +2775,59 @@
 
 
             //filter by genre
-            let filteredGenre = [[],[],[],[],[],[]]; 
             const genreChecks = ["Action", "Arcade", "Bullet Hell", "First-Person", "Platformer", "Strategy"];
 
             //Alter fieldset
             document.getElementById("genreField").classList.remove("activeFilter");
 
-            for(let i = 0; i < activeGenre.length; i++)
+            if(!document.getElementById("genreExclusive").checked)
             {
-                if(activeGenre[i] == true)
+                let filteredGenre = [[],[],[],[],[],[]];    
+                let returnedGames = [];
+                for(let i = 0; i < activeGenre.length; i++)
                 {
-                    filteredGenre[i] = filteredData.filter(obj => {return obj.genre == genreChecks[i]})
+                    if(activeGenre[i] == true)
+                    {
+                        filteredGenre[i] = filteredData.filter(obj => {
+                            for(let j = 0; j < obj.genre.length; j++)
+                            {
+                                if((obj.genre[j] == genreChecks[i] || obj.genre[j] == "Unknown") && !returnedGames.includes(obj["CEId"]))
+                                {
+                                    returnedGames.push(obj["CEId"]);
+                                    return 1;
+                                }
+                            }
+                        })
+                    }
+                    //Alter fieldset
+                    else
+                    {
+                        filterActive = true;
+                        document.getElementById("genreField").classList.add("activeFilter");
+                    }
                 }
-                //Alter fieldset
-                else
-                {
-                    filterActive = true;
-                    document.getElementById("genreField").classList.add("activeFilter");
-                }
+                filteredData = filteredGenre.flat(1);
             }
-            filteredData = filteredGenre.flat(1);
+            else
+            {
+                let filteredGenre = [];
+                for(let i = 0; i < activeGenre.length; i++)
+                {
+                    if(activeGenre[i] == true) {filteredGenre.push(genreChecks[i])}
+                }
+
+                filteredData = filteredData.filter(obj => {
+                    for(let i = 0; i < filteredGenre.length; i++)
+                    {
+                        if(!obj.genre.includes(filteredGenre[i])) {return 0}
+                    }
+                    return 1;
+                })
+                
+                //Alter fieldset
+                filterActive = true;
+                document.getElementById("genreField").classList.add("activeFilter");
+            }
 
 
             //Filter by tier
@@ -3589,14 +3669,14 @@
 
                 filteredData = filteredData.filter(unclearedFilterFunc);
             }
-            function unclearedFilterFunc(obj)
+            function unclearedFilterFunc(game)
             {
-                if(obj["points"] > 0)
+                if(game["points"] > 0)
                 {
                     //Uncleared
-                    if(obj["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || obj["milestones"]["communityText"].toUpperCase().includes("UNCLEARED")) {return 1;}
+                    if(game["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || game["milestones"]["secondaryText"].toUpperCase().includes("UNCLEARED") || game["milestones"]["communityText"].toUpperCase().includes("UNCLEARED")) {return 1;}
                     //Maybe uncleared
-                    else if(!(obj["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || obj["milestones"]["communityText"].toUpperCase().includes("UNCLEARED")) && !obj["milestones"]["primaryText"].toUpperCase().includes("UNVALUED") && obj["points"] % 5 > 0) {return 1;}
+                    else if(!(game["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || game["milestones"]["secondaryText"].toUpperCase().includes("UNCLEARED") || game["milestones"]["communityText"].toUpperCase().includes("UNCLEARED")) && !(game["milestones"]["primaryText"].toUpperCase().includes("UNVALUED") || game["milestones"]["secondaryText"].toUpperCase().includes("UNVALUED")) && game["points"] % 5 > 0) {return 1;}
                 }
                 return 0;
             }
@@ -3611,11 +3691,11 @@
 
                 filteredData = filteredData.filter(unvaluedFilterFunc);
             }
-            function unvaluedFilterFunc(obj)
+            function unvaluedFilterFunc(game)
             {
-                if(obj["points"] > 0)
+                if(game["points"] > 0)
                 {
-                    if(obj["milestones"]["primaryText"].toUpperCase().includes("UNVALUED")) {return 1;}
+                    if((game["milestones"]["primaryText"].toUpperCase().includes("UNVALUED") || game["milestones"]["secondaryText"].toUpperCase().includes("UNVALUED"))) {return 1;}
                 }
                 return 0;
             }
@@ -3788,8 +3868,9 @@
                     let steamGames = filteredData.filter(obj => {return obj.gameType < 3})
                     let RAGames = filteredData.filter(obj => {return obj.gameType == 3})
                     let removedGames = filteredData.filter(obj => {return obj.gameType == 4})
+                    let otherGames = filteredData.filter(obj => {return obj.gameType == 5})
 
-                    filteredData = steamGames.concat(removedGames, RAGames);
+                    filteredData = steamGames.concat(removedGames, RAGames, otherGames);
                 }
                 else if(type == "playersCompleted")
                 {
@@ -3924,7 +4005,7 @@
                         
                     useReverseOrder = !useReverseOrder;
                 }
-                else if(type == "primary" || type == "community" || type == "achievements")
+                else if(type == "primary" || type == "secondary" || type == "community" || type == "achievements")
                 {
                     filteredData.sort((a,b) => (a["points"] > b["points"]) ? 1 : ((b["points"] > a["points"]) ? -1 : 0));
                     filteredData.sort((a,b) => (a["milestones"][type] > b["milestones"][type]) ? 1 : ((b["milestones"][type] > a["milestones"][type]) ? -1 : 0));
@@ -4105,6 +4186,10 @@
                     if(useReverseOrder != true) {filteredData = localized.concat(nonLocalized);}
                     else {filteredData = nonLocalized.concat(localized);}
                 }
+                else if(type == "totalPoints")
+                {
+                    filteredData.sort((a,b) => (a["points"] + a["secondaryPoints"] > b["points"] + b["secondaryPoints"]) ? 1 : ((b["points"] + (b["secondaryPoints"] > a["points"] + a["secondaryPoints"]) ? -1 : 0)));
+                }
                 else
                 {
                     filteredData.sort((a,b) => (a[type] > b[type]) ? 1 : ((b[type] > a[type]) ? -1 : 0));
@@ -4148,10 +4233,12 @@
 
                 //Retro icon
                 if(game["gameType"] == 3) {gamePlatform.innerHTML = retroAchievementsIcon;}
+                //Other icon
+                else if(game["gameType"] == 5) {gamePlatform.innerHTML = otherPlatIcon;}
                 //Steam icon
                 else {gamePlatform.innerHTML = steamIcon;}
 
-                const gameTypesClasses = ["paidGame", "freeGame", "unavailableGame", "retroGame", "removedGame"]
+                const gameTypesClasses = ["paidGame", "freeGame", "unavailableGame", "retroGame", "removedGame", "otherGame"]
                 gameElement.classList.add(gameTypesClasses[game["gameType"]]);
 
                 gameElement.appendChild(gamePlatform);
@@ -4185,7 +4272,7 @@
                     gameTitle.appendChild(ceId);
                 }
                 //Platform ID tag
-                if(tagSettings[1])
+                if(tagSettings[1] && game["gameType"] != 5)
                 {
                     let platformId = document.createElement("span");
                     platformId.classList.add("tag");
@@ -4380,38 +4467,32 @@
                     //Genre
                     if(tagSettings[7])
                     {
-                        let genre = document.createElement("span");
-                        genre.classList.add("tag");
-                        genre.innerHTML = "<div class='tagTitle " + game["genre"].replaceAll(/[-\s]/g, "").toLowerCase() + "Text'>" + genreIcons[game["genre"].replaceAll(/[-\s]/g, "").toLowerCase()] + " </div>";
-                        gameTags.appendChild(genre);
+                        for(let cat = 0; cat < game["genre"].length; cat++)
+                        {
+                            let category = document.createElement("span");
+                            category.classList.add("tag");
+                            if(game["genre"].length < 3)
+                            {
+                                category.innerHTML = "<div class='tagTitle " + game["genre"][cat].replaceAll(/[-\s]/g, "").toLowerCase() + "Text'>" + genreIcons[game["genre"][cat].replaceAll(/[-\s]/g, "").toLowerCase()] + " </div>";
+                            }
+                            else
+                            {
+                                category.innerHTML = "<div class='tagTitle shortCategory " + game["genre"][cat].replaceAll(/[-\s]/g, "").toLowerCase() + "Text' style='cursor: help;' title='" + game["genre"][cat] + "'>" + genreIcons[game["genre"][cat].replaceAll(/[-\s]/g, "").toLowerCase()] + "</div>";
+                            }
+                            gameTags.appendChild(category);
+                            if(cat != game["genre"].length-1) {gameTags.innerHTML += " ";}
+                        }
                     }
                     //Tier
                     if(tagSettings[8])
                     {
                         let tier = document.createElement("span");
                         tier.classList.add("tag");
-                        if(activeUser != "" && !document.getElementById("invertUserFilter").checked)
+                        if(game["points"] + game["secondaryPoints"] != game["points"] && game["points"] + game["secondaryPoints"] != game["secondaryPoints"])
                         {
-
-                            if(game["CEId"] in userData[activeUser]["gamesPoints"])
-                            {
-                                var userGameInfo = userData[activeUser]["gamesPoints"][game["CEId"]];
-
-
-                                if(game["points"] == userGameInfo["points"]) {tier.style = "background-image: linear-gradient(#68ff9c,#079970);";}
-                                else {tier.style = "background-image: linear-gradient(#fbdf4e,#be990b);";}
-
-                                tier.innerHTML = "<div class='tagTitle tier" + game["tier"] + "'></div><div style='text-decoration: underline dotted; cursor: help;' title='Points Gained by Filtered User / Total Points' onclick='alert(this.title)'>" + userGameInfo["points"] + "/" + game["points"] + "&hairsp;" + pointsIcon  + "<br></div>";
-                            }
-                            else if(game["points"] == 0)
-                            {
-                                tier.style = "background-image: linear-gradient(#68ff9c,#079970);";
-                                tier.innerHTML = "<div class='tagTitle tier" + game["tier"] + "'></div><div style='text-decoration: underline dotted; cursor: help;' title='Points Gained by Filtered User / Total Points' onclick='alert(this.title)'>0/" + game["points"] + "&hairsp;" + pointsIcon  + "<br></div>";
-                            }
-                            else {tier.innerHTML = "<div class='tagTitle tier" + game["tier"] + "'></div><div style='text-decoration: underline dotted; cursor: help;' title='Points Gained by Filtered User / Total Points' onclick='alert(this.title)'>0/" + game["points"] + "&hairsp;" + pointsIcon  + "<br></div>";}
+                            tier.innerHTML = "<div class='tagTitle tier" + game["tier"] + "'></div><div style='font-weight: bold; text-decoration: underline dotted;' title='Total Points. (From both Primary and Secondary Objectives.)'>" + (game["points"] + game["secondaryPoints"]) + "&hairsp;" + pointsIcon + "<br></div>";
                         }
-                        else {tier.innerHTML = "<div class='tagTitle tier" + game["tier"] + "'></div><div>" + game["points"] + "&hairsp;" + pointsIcon  + "<br></div>";}
-
+                        else {tier.innerHTML = "<div class='tagTitle tier" + game["tier"] + "'></div>";}
                         gameTags.innerHTML += " ";
                         gameTags.appendChild(tier);
                     }
@@ -4422,12 +4503,27 @@
                         {  
                             let primary = document.createElement("span");
                             primary.classList.add("tag");
-                            primary.innerHTML = "<div class='tagTitle primaryText'></div><div>" + game["milestones"]["primary"] + "</div>";
+                            primary.innerHTML = "<div class='tagTitle primaryText'></div><div>" + game["milestones"]["primary"] + "&hairsp;|&hairsp;" + game["points"] + "&hairsp;" + pointsIcon + "</div>";
                             primary.title = game["milestones"]["primaryText"];
                             primary.setAttribute('onClick', 'alert(this.title)');
                             primary.style.cursor = "help";
                             gameTags.innerHTML += " ";
                             gameTags.appendChild(primary);
+                        }
+                    }
+                    //Secondary
+                    if(tagSettings[12])
+                    {
+                        if(game["milestones"]["secondary"] > 0)
+                        {  
+                            let secondary = document.createElement("span");
+                            secondary.classList.add("tag");
+                            secondary.innerHTML = "<div class='tagTitle secondaryText'></div><div>" + game["milestones"]["secondary"] + "&hairsp;|&hairsp;" + game["secondaryPoints"] + "&hairsp;" + pointsIcon + "</div>";
+                            secondary.title = game["milestones"]["secondaryText"];
+                            secondary.setAttribute('onClick', 'alert(this.title)');
+                            secondary.style.cursor = "help";
+                            gameTags.innerHTML += " ";
+                            gameTags.appendChild(secondary);
                         }
                     }
                     //community
@@ -4457,39 +4553,12 @@
                             gameTags.appendChild(achievements);
                         }
                     }
-                    if(game["points"] > 0)
+                    if(game["points"] + game["secondaryPoints"] > 0)
                     {
-                        //secondary
-                        if(tagSettings[12])
-                        {
-                            if(game["milestones"]["primaryText"].toUpperCase().includes("(S)") || game["milestones"]["primaryText"].toUpperCase().includes("(SO)"))
-                            {  
-                                let secondary = document.createElement("span");
-                                secondary.classList.add("tag");
-                                if(game["milestones"]["communityText"].toUpperCase().includes("(S)") || game["milestones"]["communityText"].toUpperCase().includes("(SO)"))
-                                {
-                                    secondary.innerHTML = "<div title='One or more Objectives in this game will become a &apos;Secondary Objective&apos; upon their release!' onclick='alert(this.title)' class='tagTitle secondaryPCText'>";
-                                }
-                                else
-                                {
-                                    secondary.innerHTML = "<div title='One or more Primary Objectives in this game will become a &apos;Secondary Objective&apos; upon their release!' onclick='alert(this.title)' class='tagTitle secondaryPText'>";
-                                }
-                                gameTags.innerHTML += " ";
-                                gameTags.appendChild(secondary);
-                            }
-                            else if(game["milestones"]["communityText"].toUpperCase().includes("(S)") || game["milestones"]["communityText"].toUpperCase().includes("(SO)"))
-                            {
-                                let secondary = document.createElement("span");
-                                secondary.classList.add("tag");
-                                secondary.innerHTML = "<div title='One or more Community Objectives in this game will become a &apos;Secondary Objective&apos; upon their release!' onclick='alert(this.title)' class='tagTitle secondaryCText'>";
-                                gameTags.innerHTML += " ";
-                                gameTags.appendChild(secondary);
-                            }
-                        }
                         //uncleared
                         if(tagSettings[13])
                         {
-                            if(game["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || game["milestones"]["communityText"].toUpperCase().includes("UNCLEARED"))
+                            if(game["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || game["milestones"]["secondaryText"].toUpperCase().includes("UNCLEARED") || game["milestones"]["communityText"].toUpperCase().includes("UNCLEARED"))
                             {  
                                 let uncleared = document.createElement("span");
                                 uncleared.classList.add("tag");
@@ -4501,7 +4570,7 @@
                         //unvalued
                         if(tagSettings[14])
                         {
-                            if(game["milestones"]["primaryText"].toUpperCase().includes("UNVALUED"))
+                            if(game["milestones"]["primaryText"].toUpperCase().includes("UNVALUED") || game["milestones"]["secondaryText"].toUpperCase().includes("UNVALUED"))
                             {  
                                 let unvalued = document.createElement("span");
                                 unvalued.classList.add("tag");
@@ -4515,8 +4584,8 @@
                         if(tagSettings[13])
                         {
                             if(
-                                !(game["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || game["milestones"]["communityText"].toUpperCase().includes("UNCLEARED"))
-                                && !game["milestones"]["primaryText"].toUpperCase().includes("UNVALUED")
+                                !(game["milestones"]["primaryText"].toUpperCase().includes("UNCLEARED") || game["milestones"]["secondaryText"].toUpperCase().includes("UNCLEARED") || game["milestones"]["communityText"].toUpperCase().includes("UNCLEARED"))
+                                && !(game["milestones"]["primaryText"].toUpperCase().includes("UNVALUED") || game["milestones"]["secondaryText"].toUpperCase().includes("UNVALUED"))
                                 && game["points"] % 5 > 0)
                             {  
                                 let mayUncleared = document.createElement("span");
@@ -4545,7 +4614,7 @@
                 //Review Tags
                 let reviewTags = document.createElement("div");
                 reviewTags.classList.add("reviewTags");
-                if(game["gameType"] != 3 && tagSettings[16])
+                if(game["gameType"] != 3 && game["gameType"] != 5 && tagSettings[16])
                 {
                     //Review
                     let review = document.createElement("span");
@@ -4601,6 +4670,26 @@
                     }
 
                     reviewTags.appendChild(review);
+                    if(game["gameType"] != 3 && game["gameType"] != 5 && game["medianPlaytime"] != 0 && tagSettings[33]) {reviewTags.innerHTML += "<br>"}
+                }
+
+                //Median Playtime Tag
+                if(game["gameType"] != 3 && game["gameType"] != 5 && game["medianPlaytime"] != 0 && tagSettings[33] && game["playersCompleted"] >= 5)
+                {
+                    let playtime = document.createElement("span");
+                    playtime.classList.add("tag");
+
+                    playtime.innerHTML = "<div class='tagTitle medianPlaytimeText'>" + '<svg data-icon="time" width="11" height="11" viewBox="0 0 16 16" role="img"><path d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6s2.69-6 6-6 6 2.69 6 6-2.69 6-6 6zm1-6.41V4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .28.11.53.29.71l2 2a1.003 1.003 0 001.42-1.42L9 7.59z" fill="white" fill-rule="evenodd"></path></svg>' + " Median Completion Time:</div>";
+
+                    if(game["medianPlaytime"] > 60)
+                    {
+                        playtime.innerHTML += "<div>" + Math.floor(game["medianPlaytime"]/60) + "h " + (game["medianPlaytime"] - Math.floor(game["medianPlaytime"]/60)*60) + "m</div>";
+                    }
+                    else
+                    {
+                        playtime.innerHTML += "<div>" + game["medianPlaytime"] + "m</div>";
+                    }
+                    reviewTags.appendChild(playtime);
                 }
 
                 //Check if all settings are false
@@ -4810,10 +4899,10 @@
                 //Challenge Enthusiasts
                 if(tagSettings[24])
                 {
-                    links.innerHTML += "<div class='tagTitle challengeEnthusiastsText'><a target='_blank' href='https://cedb.me/game/" + game["CEId"] + "'>Challenge Enthusiasts</a></div>";
+                    links.innerHTML += "<div class='tagTitle challengeEnthusiastsText'><a target='_blank' href='https://cedb.me/game/" + game["CEId"] + "'>" + CEIconText + " Challenge Enthusiasts</a></div>";
                 }
                 //Steam
-                if(!(game["gameType"] == 3 || game["gameType"] == 4)) {
+                if(!(game["gameType"] == 3 || game["gameType"] == 4 || game["gameType"] == 5)) {
                     if(tagSettings[25])
                     {
                         links.innerHTML += " <div class='tagTitle steamText'><a target='_blank' href='https://store.steampowered.com/app/" + game["platformId"] + "'>" + steamIconText + " Steam</a></div>";
@@ -4827,7 +4916,7 @@
                         links.innerHTML += " <div class='tagTitle retroText'><a target='_blank' href='https://retroachievements.org/game/" + game["platformId"] + "'>" + retroAchievementsIconText + " RetroAchievements</a></div>";
                     }
                 }
-                else
+                else if(game["gameType"] != 5)
                 {
                     //SteamDB
                     if(tagSettings[26])
@@ -4852,44 +4941,133 @@
                 //Tags Tags (Ugh...)
                 let tagsTags = document.createElement("div");
                 tagsTags.classList.add("tagsTags");
-                let tags = document.createElement("span");
-                tags.classList.add("tag");
-                if(tagSettings[30])
+
+                //CE Tags
+                if((tagSettings[34] || tagSettings[35]) && (game["CETags"]["genre"].length > 0 || game["CETags"]["info"].length > 0))
                 {
+                    let tags = document.createElement("span");
+                    tags.classList.add("tag");
+                    tags.innerHTML = "<div class='tagTitle tagsTextCE'>" + CEIconText + "</div>";
+
+                    //Genre Tags
+                    if(tagSettings[34] && game["CETags"]["genre"].length > 0)
+                    {
+                        let genres = game["CETags"]["genre"];
+                        for(let i = 0; i < Math.min(genres.length, 4); i++)
+                        {
+                            if(tagSettings[36])
+                            {
+                                let tagText = genres[i].toUpperCase()
+                                let tagColorNum = 0;
+                                for(let j = 0; j < tagText.length; j++) {tagColorNum += tagText.charCodeAt(j)}
+                                tagColorNum = (tagColorNum + tagText.charCodeAt(0)*3)/ tagText.length;
+                                
+                                let tagColor = tagColorNum/64*255 * 1000;
+
+                                tags.innerHTML += " <div class='tagTitle' style='background-image: linear-gradient(hsl(" + tagColor + ", 100%, 66%), hsl(" + tagColor + ", 50%, 33%));'>" + genreIcons["arcade"] + " " + genres[i] + "</div>";
+                            }
+                            else
+                            {
+                                tags.innerHTML += " <div class='tagTitle'>" + genreIcons["arcade"] + " " + genres[i] + "</div>";
+                            }
+                        }
+                        
+                        if(genres.length > 4)
+                        {
+                            let extraTags = "";
+                            for(let i = 4; i < genres.length; i++) {extraTags += genres[i] + "\n";}
+
+                            tags.innerHTML += " <div class='tagTitle' style='font-style: italic; cursor: help; text-decoration: underline dotted;' title='" + extraTags.replaceAll("'", "&apos;") + "' onclick='alert(this.title);'>" + genreIcons["arcade"] + " +" + (genres.length - 4) + " more...</div>"
+                        }
+
+                        if(tagSettings[35] && game["CETags"]["info"].length > 0)
+                        {
+                            tags.innerHTML += " |"
+                        }
+                    }
                     
-                    //Tags Text
-                    if(game["gameType"] != 3) {tags.innerHTML = "<div class='tagTitle tagsTextSteam'>" + steamIconText + "</div>";}
-                    else {tags.innerHTML = "<div class='tagTitle tagsTextRetro'>" + retroAchievementsIconText + "</div>";}
-
-                    for(let i = 0; i < Math.min(game["gameTags"].length, 10); i++)
+                    //Informational Tags
+                    if(tagSettings[35] && game["CETags"]["info"].length > 0)
                     {
-                        if(tagSettings[31])
+                        let info = game["CETags"]["info"];
+                        for(let i = 0; i < Math.min(info.length, 4); i++)
                         {
-                            let tagText = game["gameTags"][i].toUpperCase()
-                            let tagColorNum = 0;
-                            for(let j = 0; j < tagText.length; j++) {tagColorNum += tagText.charCodeAt(j)}
-                            tagColorNum = (tagColorNum + tagText.charCodeAt(0)*3)/ tagText.length;
-                            
-                            let tagColor = tagColorNum/64*255 * 1000;
+                            if(tagSettings[36])
+                            {
+                                let tagText = info[i].toUpperCase()
+                                let tagColorNum = 0;
+                                for(let j = 0; j < tagText.length; j++) {tagColorNum += tagText.charCodeAt(j)}
+                                tagColorNum = (tagColorNum + tagText.charCodeAt(0)*3)/ tagText.length;
+                                
+                                let tagColor = tagColorNum/64*255 * 1000;
 
-                            tags.innerHTML += " <div class='tagTitle' style='background-image: linear-gradient(hsl(" + tagColor + ", 100%, 66%), hsl(" + tagColor + ", 50%, 33%));'>" + game["gameTags"][i] + "</div>";
+                                tags.innerHTML += " <div class='tagTitle' style='background-image: linear-gradient(hsl(" + tagColor + ", 100%, 66%), hsl(" + tagColor + ", 50%, 33%));'>𝓲 " + info[i] + "</div>";
+                            }
+                            else
+                            {
+                                tags.innerHTML += " <div class='tagTitle'>𝓲 " + info[i] + "</div>";
+                            }
                         }
-                        else
+                        
+                        if(info.length > 4)
                         {
-                            tags.innerHTML += " <div class='tagTitle'>" + game["gameTags"][i] + "</div>";
+                            let extraTags = "";
+                            for(let i = 4; i < info.length; i++) {extraTags += info[i] + "\n";}
+
+                            tags.innerHTML += " <div class='tagTitle' style='font-style: italic; cursor: help; text-decoration: underline dotted;' title='" + extraTags.replaceAll("'", "&apos;") + "' onclick='alert(this.title);'>𝓲 +" + (info.length - 4) + " more...</div>"
                         }
                     }
 
-                    if(game["gameTags"].length > 10)
-                    {
-                        extraTags = "";
-                        for(let i = 10; i < game["gameTags"].length; i++) {extraTags += game["gameTags"][i] + "\n";}
-
-                        tags.innerHTML += " <div class='tagTitle' style='font-style: italic; cursor: help; text-decoration: underline dotted;' title='" + extraTags + "' onclick='alert(this.title);'>+" + (game["gameTags"].length - 10) + " more...</div>"
-                    }
+                    tagsTags.append(tags);
+                    tagsTags.innerHTML += "<br>";
                 }
-                tagsTags.append(tags);
-                if(Array.from(tagsTags.getElementsByClassName("tagTitle")).length > 1){gameElement.appendChild(tagsTags);}
+
+                //Game Tags Text
+                if(game["gameType"] != 5)
+                {
+                    let tags = document.createElement("span");
+                    tags.classList.add("tag");
+                    if(tagSettings[30])
+                    {
+                        if(game["gameType"] != 3) {tags.innerHTML = "<div class='tagTitle tagsTextSteam'>" + steamIconText + "</div>";}
+                        else {tags.innerHTML = "<div class='tagTitle tagsTextRetro'>" + retroAchievementsIconText + "</div>";}
+
+                        for(let i = 0; i < Math.min(game["gameTags"].length, 10); i++)
+                        {
+                            if(tagSettings[31])
+                            {
+                                let tagText = game["gameTags"][i].toUpperCase()
+                                let tagColorNum = 0;
+                                for(let j = 0; j < tagText.length; j++) {tagColorNum += tagText.charCodeAt(j)}
+                                tagColorNum = (tagColorNum + tagText.charCodeAt(0)*3)/ tagText.length;
+                                
+                                let tagColor = tagColorNum/64*255 * 1000;
+
+                                tags.innerHTML += " <div class='tagTitle' style='background-image: linear-gradient(hsl(" + tagColor + ", 100%, 66%), hsl(" + tagColor + ", 50%, 33%));'>" + game["gameTags"][i] + "</div>";
+                            }
+                            else
+                            {
+                                tags.innerHTML += " <div class='tagTitle'>" + game["gameTags"][i] + "</div>";
+                            }
+                        }
+
+                        if(game["gameTags"].length > 10)
+                        {
+                            let extraTags = "";
+                            for(let i = 10; i < game["gameTags"].length; i++) {extraTags += game["gameTags"][i] + "\n";}
+
+                            tags.innerHTML += " <div class='tagTitle' style='font-style: italic; cursor: help; text-decoration: underline dotted;' title='" + extraTags + "' onclick='alert(this.title);'>+" + (game["gameTags"].length - 10) + " more...</div>"
+                        }
+                    }
+                    tagsTags.append(tags);
+                }
+                if(Array.from(tagsTags.getElementsByClassName("tagTitle")).length < 1)
+                {
+                    tagsTags = document.createElement("div");
+                    tagsTags.classList.add("tagsTags");
+                }
+                
+                gameElement.appendChild(tagsTags);
 
                 //Language Tags
                 let langTags = document.createElement("div");
@@ -4897,7 +5075,7 @@
                 let langs = document.createElement("span");
                 langs.classList.add("tag");
                 //Tags Text
-                if(tagSettings[32] && game["gameType"] != 3)
+                if(tagSettings[32] && game["gameType"] != 3 && game["gameType"] != 5)
                 {
                     let maxSupport = 1;
 
