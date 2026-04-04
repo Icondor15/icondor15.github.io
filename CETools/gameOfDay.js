@@ -1,62 +1,63 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 2,
-        "platformId": 50300,
-        "CEId": "023cb554-ee6d-4775-ab78-301c802414f7",
-        "name": "Spec Ops: The Line",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/50300/header.jpg?t=1569016017",
+        "gameType": 1,
+        "platformId": 1309940,
+        "CEId": "651051b5-6878-49d8-afa9-8c23c63ee518",
+        "name": "Lorera",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1309940/header.jpg?t=1612704838",
         "genre": [
-            "Action"
+            "Platformer"
         ],
         "tier": 1,
-        "points": 10,
+        "points": 15,
         "secondaryPoints": 0,
-        "medianPlaytime": 1280,
-        "createdAt": "2022-04-03T20:55:33.000Z",
-        "updatedAt": "2026-04-01T18:58:26.000Z",
-        "playersCompleted": 109,
-        "playersStarted": 0,
-        "playersTotal": 626,
+        "medianPlaytime": 370,
+        "createdAt": "2022-04-04T15:54:39.000Z",
+        "updatedAt": "2026-04-04T01:30:42.000Z",
+        "playersCompleted": 16,
+        "playersStarted": 1,
+        "playersTotal": 149,
         "milestones": {
-            "primary": 1,
-            "primaryText": "Army of One [10\u2605]\nComplete the game on \"FUBAR\" difficulty.",
+            "primary": 2,
+            "primaryText": "Suffer [10\u2605]\nBeat the game in Impossible mode.\n\nGrowth [5\u2605]\nProve yourself.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 50
+            "achievements": 12
+        },
+        "CETags": {
+            "genre": [
+                "Grappler"
+            ],
+            "info": []
         },
         "gameTags": [
-            "Story Rich",
-            "Third-Person Shooter",
+            "Indie",
             "Action",
-            "Psychological",
-            "Atmospheric",
-            "Singleplayer",
-            "War",
-            "Shooter",
-            "Dark",
-            "Third Person",
-            "Emotional",
-            "Military",
-            "Multiplayer",
-            "Mature",
-            "Political",
             "Adventure",
-            "Great Soundtrack",
-            "Psychological Horror",
-            "Post-apocalyptic",
-            "Based On A Novel"
+            "Platformer",
+            "Metroidvania",
+            "Pixel Graphics",
+            "Puzzle Platformer",
+            "Female Protagonist",
+            "Side Scroller",
+            "2D",
+            "Retro",
+            "Singleplayer",
+            "2D Platformer",
+            "Ambient",
+            "Open World",
+            "Exploration",
+            "Physics",
+            "Atmospheric",
+            "Short",
+            "Cute"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-04-03'
+var gameOfDayDate = '2026-04-04'
