@@ -724,9 +724,9 @@ var masoData =
         "description": "\u2606 Super Slide Bear Ressurection",
         "tier": "3",
         "owners": 52,
-        "completions": 13,
-        "playtime": 145.40897435897435,
-        "newestCompletion": "2025-11-23T14:38:51.000Z",
+        "completions": 14,
+        "playtime": 136.44642857142858,
+        "newestCompletion": "2026-04-03T17:54:30.000Z",
         "badges": {
             "count": 3,
             "points": 32
@@ -1780,9 +1780,9 @@ var masoData =
         "description": "\u2733 The biggest 8-bit adventure",
         "tier": "2",
         "owners": 28,
-        "completions": 7,
-        "playtime": 40.28333333333334,
-        "newestCompletion": "2023-02-05T08:54:33.000Z"
+        "completions": 8,
+        "playtime": 40.38333333333333,
+        "newestCompletion": "2026-04-03T12:53:13.000Z"
     },
     "322680": {
         "description": "\u2733 It\"s coffee time",
@@ -2597,7 +2597,7 @@ var masoData =
         "tier": "1",
         "owners": 53,
         "completions": 31,
-        "playtime": 23.003225806451606,
+        "playtime": 23.068817204301066,
         "newestCompletion": "2026-04-01T14:22:41.000Z"
     },
     "1133590": {
@@ -2984,9 +2984,9 @@ var masoData =
         "description": "You got me in LOVE again",
         "tier": "1",
         "owners": 52,
-        "completions": 18,
-        "playtime": 23.887037037037036,
-        "newestCompletion": "2024-09-07T22:32:25.000Z",
+        "completions": 19,
+        "playtime": 22.85438596491228,
+        "newestCompletion": "2026-04-03T20:25:34.000Z",
         "badges": {
             "count": 2,
             "points": 10
@@ -3529,7 +3529,7 @@ var masoData =
         "tier": "3",
         "owners": 55,
         "completions": 11,
-        "playtime": 161.02878787878788,
+        "playtime": 166.42424242424244,
         "newestCompletion": "2025-10-19T22:43:57.000Z",
         "badges": {
             "count": 1,
