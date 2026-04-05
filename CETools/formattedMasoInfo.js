@@ -211,7 +211,7 @@ var masoData =
     "524050": {
         "description": "Ziplining platforming about A. fish",
         "tier": "1",
-        "owners": 26,
+        "owners": 27,
         "completions": 14,
         "playtime": 5.936904761904761,
         "newestCompletion": "2024-12-15T01:26:49.000Z"
@@ -1147,7 +1147,7 @@ var masoData =
     "400910": {
         "description": "\u272a I wanna be the waifu",
         "tier": "4",
-        "owners": 94,
+        "owners": 95,
         "completions": 13,
         "playtime": 290.4320512820513,
         "newestCompletion": "2024-01-01T22:31:43.000Z"
@@ -2263,7 +2263,7 @@ var masoData =
     "1229580": {
         "description": "\u2733 Absolutely Discusting",
         "tier": "2",
-        "owners": 124,
+        "owners": 125,
         "completions": 85,
         "playtime": 17.32352941176471,
         "newestCompletion": "2025-12-01T18:44:19.000Z",
@@ -4396,9 +4396,9 @@ var masoData =
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
         "owners": 73,
-        "completions": 19,
-        "playtime": 53.13859649122807,
-        "newestCompletion": "2025-07-06T15:26:20.000Z"
+        "completions": 20,
+        "playtime": 52.16916666666666,
+        "newestCompletion": "2026-03-29T08:55:38.000Z"
     },
     "3445580": {
         "description": "\u2606 Where are the waifus????",
@@ -4575,9 +4575,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 16,
-        "completions": 7,
-        "playtime": 82.71190476190476,
+        "owners": 17,
+        "completions": 8,
+        "playtime": 76.74583333333334,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
