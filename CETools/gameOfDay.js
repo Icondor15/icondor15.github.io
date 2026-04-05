@@ -1,63 +1,92 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 1309940,
-        "CEId": "651051b5-6878-49d8-afa9-8c23c63ee518",
-        "name": "Lorera",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1309940/header.jpg?t=1612704838",
+        "gameType": 0,
+        "platformId": 282530,
+        "CEId": "4ec53840-b25e-4fb6-a043-9432e78c83b6",
+        "name": "Castlevania: Lords of Shadow \u2013 Mirror of Fate HD",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/282530/header.jpg?t=1631586604",
         "genre": [
-            "Platformer"
+            "Action"
         ],
-        "tier": 1,
-        "points": 15,
+        "tier": 2,
+        "points": 25,
         "secondaryPoints": 0,
-        "medianPlaytime": 370,
-        "createdAt": "2022-04-04T15:54:39.000Z",
-        "updatedAt": "2026-04-04T01:30:42.000Z",
-        "playersCompleted": 16,
-        "playersStarted": 1,
-        "playersTotal": 149,
+        "medianPlaytime": 2517,
+        "createdAt": "2022-04-05T13:12:15.000Z",
+        "updatedAt": "2026-04-04T20:49:30.000Z",
+        "playersCompleted": 10,
+        "playersStarted": 0,
+        "playersTotal": 144,
+        "priceData": {
+            "USD": {
+                "initial": 1499,
+                "final": 1499,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1199,
+                "final": 1199,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 999,
+                "final": 999,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 2150,
+                "final": 2150,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1699,
+                "final": 1699,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
             "primary": 2,
-            "primaryText": "Suffer [10\u2605]\nBeat the game in Impossible mode.\n\nGrowth [5\u2605]\nProve yourself.",
+            "primaryText": "Castle Crusher [20\u2605]\nBeat the boss rush on Hardcore mode.\n\nCastle Crasher [5\u2605]\nSeparately; finish Hardcore and beat the game in under 3 hours and 30 minutes.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 12
+            "achievements": 23
         },
         "CETags": {
             "genre": [
-                "Grappler"
+                "Metroidvania"
             ],
             "info": []
         },
         "gameTags": [
-            "Indie",
             "Action",
             "Adventure",
-            "Platformer",
             "Metroidvania",
-            "Pixel Graphics",
-            "Puzzle Platformer",
-            "Female Protagonist",
-            "Side Scroller",
-            "2D",
-            "Retro",
+            "Platformer",
+            "Vampire",
+            "Hack and Slash",
             "Singleplayer",
-            "2D Platformer",
-            "Ambient",
-            "Open World",
-            "Exploration",
-            "Physics",
+            "2D",
+            "Side Scroller",
+            "2.5D",
+            "Gothic",
+            "Fantasy",
             "Atmospheric",
-            "Short",
-            "Cute"
+            "Dark Fantasy",
+            "Dark",
+            "Horror"
         ],
         "languages": {
-            "english": "I"
-        }
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS",
+            "brazilian": "IS"
+        },
+        "information": "To earn the hardcore achievement, DO NOT turn on navigation aids."
     }
 }
-var gameOfDayDate = '2026-04-04'
+var gameOfDayDate = '2026-04-05'
