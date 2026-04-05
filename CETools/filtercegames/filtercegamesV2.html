@@ -1612,7 +1612,6 @@
             <select id="orderSelect" autocomplete="off" onchange="order(this.value)">
                 <optgroup label="--Miscellaneous--">
                     <option value="gameType">Platform</option>
-                    <option value="genre">Category</option>
                     <option id="userFilterOrder" style="display:none" value="userPoints">Gained Points (User Filter)</option>
                     <option value="langCount">Language Count</option>
                     <option value="consoleName">Console Name (RA)</option>
@@ -1621,6 +1620,10 @@
                 <optgroup label="--Name--">
                     <option value="name">Alphabetical Order</option>
                     <option value="nameLength">Name Length</option>
+                </optgroup>
+                <optgroup label="--Category--">
+                    <option value="genre">Category Name</option>
+                    <option value="genreCount">Category Count</option>
                 </optgroup>
                 <optgroup label="--Points--">
                     <option selected value="totalPoints">Total Points</option>
@@ -4189,6 +4192,13 @@
                 else if(type == "totalPoints")
                 {
                     filteredData.sort((a,b) => (a["points"] + a["secondaryPoints"] > b["points"] + b["secondaryPoints"]) ? 1 : ((b["points"] + (b["secondaryPoints"] > a["points"] + a["secondaryPoints"]) ? -1 : 0)));
+                }
+                else if(type == "genreCount")
+                {
+                    filteredData.sort((a,b) => (a["genre"] > b["genre"]) ? 1 : ((b["genre"] > a["genre"]) ? -1 : 0));
+                    filteredData.sort((a,b) => (a["genre"].length > b["genre"].length) ? 1 : ((b["genre"].length > a["genre"].length) ? -1 : 0));
+
+                    useReverseOrder = !useReverseOrder;
                 }
                 else
                 {
