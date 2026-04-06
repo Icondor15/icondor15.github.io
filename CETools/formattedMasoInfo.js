@@ -2023,7 +2023,7 @@ var masoData =
     "925460": {
         "description": "The cube that flipped the rhythm",
         "tier": "1",
-        "owners": 55,
+        "owners": 56,
         "completions": 29,
         "playtime": 4.067241379310345,
         "newestCompletion": "2024-02-20T19:54:38.000Z"
@@ -2229,7 +2229,7 @@ var masoData =
         "tier": "1",
         "owners": 108,
         "completions": 58,
-        "playtime": 10.368390804597702,
+        "playtime": 10.36867816091954,
         "newestCompletion": "2026-01-04T20:27:17.000Z"
     },
     "418530": {
@@ -3396,9 +3396,9 @@ var masoData =
         "description": "Don't panic",
         "tier": "1",
         "owners": 25,
-        "completions": 11,
-        "playtime": 5.963636363636363,
-        "newestCompletion": "2023-11-29T12:00:16.000Z"
+        "completions": 12,
+        "playtime": 5.976388888888889,
+        "newestCompletion": "2026-04-04T12:54:45.000Z"
     },
     "1309940": {
         "description": "Swinging plant beats up grandpa",
@@ -3703,7 +3703,7 @@ var masoData =
     "2138710": {
         "description": "\u2733 Nothing good ever comes from revenge",
         "tier": "2",
-        "owners": 67,
+        "owners": 68,
         "completions": 8,
         "playtime": 91.82916666666667,
         "newestCompletion": "2025-08-25T16:35:21.000Z"
@@ -4603,7 +4603,7 @@ var masoData =
     "1354260": {
         "description": "\u2733 The only good argument that AI &gt; humans. (Co-op)",
         "tier": "2",
-        "owners": 1,
+        "owners": 2,
         "completions": 1,
         "playtime": 31.816666666666666,
         "newestCompletion": "2026-01-22T22:17:23.000Z"
