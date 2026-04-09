@@ -1,61 +1,89 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 739290,
-        "CEId": "cea0c0ab-a21a-4999-b3e0-1c8d3675be36",
-        "name": "Dark Old Sun",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/739290/header.jpg?t=1600236570",
+        "gameType": 0,
+        "platformId": 1677360,
+        "CEId": "fecc14df-3d20-4a3b-91b7-7d240a9c4f43",
+        "name": "satryn deluxe",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1677360/header.jpg?t=1646078304",
         "genre": [
             "Bullet Hell"
         ],
         "tier": 1,
         "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 874,
-        "createdAt": "2023-04-08T08:40:52.000Z",
-        "updatedAt": "2026-04-06T22:40:13.000Z",
-        "playersCompleted": 10,
+        "medianPlaytime": 307,
+        "createdAt": "2022-04-09T17:20:03.000Z",
+        "updatedAt": "2026-04-09T00:37:37.000Z",
+        "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 103,
+        "playersTotal": 21,
+        "priceData": {
+            "USD": {
+                "initial": 700,
+                "final": 700,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 570,
+                "final": 570,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 520,
+                "final": 520,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 72000,
+                "final": 72000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1000,
+                "final": 1000,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 800,
+                "final": 800,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
             "primary": 1,
-            "primaryText": "I Walk a Lonely Void [10\u2605]\nBeat Arcade mode on \"Extreme\" difficulty. / Get the gold medal on all challenges. / Survive for more than 6 waves on Survival mode.",
+            "primaryText": "Satryn's Bane [10\u2605]\nReach wave 65.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 44
+            "achievements": 54
         },
         "CETags": {
             "genre": [
-                "Vertical Shoot'em'Up"
+                "Twin Stick"
             ],
-            "info": [
-                "Free"
-            ]
+            "info": []
         },
         "gameTags": [
+            "Twin Stick Shooter",
             "Action",
-            "Shoot 'Em Up",
+            "Arcade",
+            "Retro",
+            "Colorful",
+            "Score Attack",
+            "Pixel Graphics",
             "Shooter",
             "2D",
-            "Bullet Hell",
             "Indie",
-            "Space",
-            "Sci-fi",
-            "Singleplayer",
-            "Difficult",
-            "Replay Value",
             "Controller",
-            "Soundtrack"
+            "Procedural Generation",
+            "Singleplayer",
+            "Space"
         ],
         "languages": {
-            "english": "I",
-            "spanish": "I",
-            "brazilian": "I",
-            "tchinese": "I"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-04-08'
+var gameOfDayDate = '2026-04-09'
