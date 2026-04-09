@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 252,
         "completions": 137,
-        "playtime": 203.5012165450121,
+        "playtime": 203.59695863746956,
         "newestCompletion": "2025-10-24T02:20:59.000Z",
         "badges": {
             "count": 2,
@@ -1291,7 +1291,7 @@ var masoData =
     "70300": {
         "description": "\ud83c\udf1f One gameplay mechanic: reverse gravity. An infinite number of places to die.",
         "tier": "5",
-        "owners": 234,
+        "owners": 235,
         "completions": 65,
         "playtime": 61.25487179487178,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
@@ -1735,7 +1735,7 @@ var masoData =
     "774361": {
         "description": "God will punish you if you don\"t play it",
         "tier": "1",
-        "owners": 156,
+        "owners": 157,
         "completions": 51,
         "playtime": 38.5892156862745,
         "newestCompletion": "2025-11-17T23:56:16.000Z"
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 112,
         "completions": 34,
-        "playtime": 88.1264705882353,
+        "playtime": 88.3651960784314,
         "newestCompletion": "2025-12-29T07:01:08.000Z",
         "badges": {
             "count": 2,
@@ -3229,7 +3229,7 @@ var masoData =
         "tier": "3",
         "owners": 129,
         "completions": 65,
-        "playtime": 76.14051282051285,
+        "playtime": 76.21282051282054,
         "newestCompletion": "2025-12-29T20:11:35.000Z",
         "badges": {
             "count": 1,
@@ -3617,7 +3617,7 @@ var masoData =
         "tier": "1",
         "owners": 23,
         "completions": 7,
-        "playtime": 11.590476190476192,
+        "playtime": 13.480952380952383,
         "newestCompletion": "2025-07-08T10:17:07.000Z",
         "badges": {
             "count": 1,
@@ -4459,10 +4459,10 @@ var masoData =
     "2825180": {
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
-        "owners": 38,
-        "completions": 26,
-        "playtime": 8.91474358974359,
-        "newestCompletion": "2026-02-20T13:57:46.000Z"
+        "owners": 39,
+        "completions": 27,
+        "playtime": 8.808641975308642,
+        "newestCompletion": "2026-03-13T02:19:31.000Z"
     },
     "1030300": {
         "description": "\u2733 Silksong",
@@ -4503,9 +4503,9 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 23,
-        "completions": 5,
-        "playtime": 12.646666666666667,
+        "owners": 24,
+        "completions": 6,
+        "playtime": 11.808333333333332,
         "newestCompletion": "2025-11-22T21:22:34.000Z"
     },
     "1282210": {
@@ -4527,7 +4527,7 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 26,
+        "owners": 27,
         "completions": 11,
         "playtime": 11.509090909090908,
         "newestCompletion": "2026-01-04T11:36:49.000Z"
@@ -4535,10 +4535,10 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 20,
-        "completions": 2,
-        "playtime": 32.175,
-        "newestCompletion": "2024-12-14T17:05:13.000Z"
+        "owners": 22,
+        "completions": 3,
+        "playtime": 30.572222222222223,
+        "newestCompletion": "2026-03-26T10:42:27.000Z"
     },
     "2400640": {
         "description": "\u2733 2 points for Destruction",
@@ -4575,9 +4575,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 18,
-        "completions": 8,
-        "playtime": 76.74583333333334,
+        "owners": 20,
+        "completions": 9,
+        "playtime": 72.10740740740741,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
