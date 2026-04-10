@@ -2,88 +2,121 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1677360,
-        "CEId": "fecc14df-3d20-4a3b-91b7-7d240a9c4f43",
-        "name": "satryn deluxe",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1677360/header.jpg?t=1646078304",
+        "platformId": 337320,
+        "CEId": "841a87d2-da4f-436b-ada8-1d4ba520ef97",
+        "name": "Paint the Town Red",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/337320/header.jpg?t=1642548416",
         "genre": [
-            "Bullet Hell"
+            "First-Person"
         ],
-        "tier": 1,
-        "points": 10,
+        "tier": 3,
+        "points": 40,
         "secondaryPoints": 0,
-        "medianPlaytime": 307,
-        "createdAt": "2022-04-09T17:20:03.000Z",
-        "updatedAt": "2026-04-09T00:37:37.000Z",
-        "playersCompleted": 5,
-        "playersStarted": 0,
-        "playersTotal": 21,
+        "medianPlaytime": 1508,
+        "createdAt": "2023-04-10T08:26:18.000Z",
+        "updatedAt": "2026-04-09T00:37:24.000Z",
+        "playersCompleted": 9,
+        "playersStarted": 6,
+        "playersTotal": 137,
         "priceData": {
             "USD": {
-                "initial": 700,
-                "final": 700,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 570,
-                "final": 570,
+                "initial": 1950,
+                "final": 1950,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 520,
-                "final": 520,
+                "initial": 1675,
+                "final": 1675,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 72000,
-                "final": 72000,
+                "initial": 230000,
+                "final": 230000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1000,
-                "final": 1000,
+                "initial": 2950,
+                "final": 2950,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 800,
-                "final": 800,
+                "initial": 2599,
+                "final": 2599,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Satryn's Bane [10\u2605]\nReach wave 65.",
+            "primary": 2,
+            "primaryText": "Tales from the Underworld [15\u2605]\nComplete Beneath on Singleplayer mode. \n\nFree Bird [25\u2605]\n In Challenge Mode, complete the Biker Bar and Saloon within 3:30m, and the prision within 2:30m. / Complete Arena challenge 1 within 9:30m. / Complete all Arena challenges. ",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 54
+            "achievements": 30
         },
         "CETags": {
             "genre": [
-                "Twin Stick"
+                "Hack & Slash",
+                "Rogue-like"
             ],
             "info": []
         },
         "gameTags": [
-            "Twin Stick Shooter",
+            "Gore",
+            "Blood",
             "Action",
-            "Arcade",
-            "Retro",
-            "Colorful",
-            "Score Attack",
-            "Pixel Graphics",
-            "Shooter",
-            "2D",
-            "Indie",
-            "Controller",
-            "Procedural Generation",
+            "Violent",
+            "Multiplayer",
+            "Fighting",
+            "First-Person",
+            "Physics",
+            "Roguelike",
+            "Beat 'em up",
+            "Funny",
+            "Voxel",
+            "Roguelite",
             "Singleplayer",
-            "Space"
+            "Indie",
+            "FPS",
+            "Mature",
+            "Adventure",
+            "Difficult",
+            "Arcade"
         ],
         "languages": {
-            "english": "I"
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "arabic": "I",
+            "brazilian": "I",
+            "bulgarian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "tchinese": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I"
         }
     }
 }
-var gameOfDayDate = '2026-04-09'
+var gameOfDayDate = '2026-04-10'
