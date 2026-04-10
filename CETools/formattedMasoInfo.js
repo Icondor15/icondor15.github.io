@@ -1476,9 +1476,9 @@ var masoData =
         "description": "\ud83c\udf1f The Virgin Shovel knight VS the Chad Jump King",
         "tier": "5",
         "owners": 146,
-        "completions": 38,
-        "playtime": 278.6245614035087,
-        "newestCompletion": "2025-12-17T21:24:11.000Z",
+        "completions": 39,
+        "playtime": 277.8192307692307,
+        "newestCompletion": "2026-04-09T16:33:51.000Z",
         "badges": {
             "count": 1,
             "points": 5
@@ -4575,7 +4575,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 20,
+        "owners": 21,
         "completions": 9,
         "playtime": 72.10740740740741,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
