@@ -2,121 +2,89 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 337320,
-        "CEId": "841a87d2-da4f-436b-ada8-1d4ba520ef97",
-        "name": "Paint the Town Red",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/337320/header.jpg?t=1642548416",
+        "platformId": 243160,
+        "CEId": "e89e6f7b-77ea-47d3-aab3-4c52a080a41e",
+        "name": "Mushroom 11",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/243160/header.jpg?t=1572465769",
         "genre": [
-            "First-Person"
+            "Arcade"
         ],
-        "tier": 3,
-        "points": 40,
+        "tier": 2,
+        "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 1508,
-        "createdAt": "2023-04-10T08:26:18.000Z",
-        "updatedAt": "2026-04-09T00:37:24.000Z",
-        "playersCompleted": 9,
-        "playersStarted": 6,
-        "playersTotal": 137,
+        "medianPlaytime": 1561,
+        "createdAt": "2022-04-11T17:09:21.000Z",
+        "updatedAt": "2026-04-09T00:37:23.000Z",
+        "playersCompleted": 8,
+        "playersStarted": 0,
+        "playersTotal": 142,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1950,
-                "final": 1950,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1675,
-                "final": 1675,
+                "initial": 1099,
+                "final": 1099,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 230000,
-                "final": 230000,
+                "initial": 148000,
+                "final": 148000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2950,
-                "final": 2950,
+                "initial": 2150,
+                "final": 2150,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2599,
-                "final": 2599,
+                "initial": 1699,
+                "final": 1699,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Tales from the Underworld [15\u2605]\nComplete Beneath on Singleplayer mode. \n\nFree Bird [25\u2605]\n In Challenge Mode, complete the Biker Bar and Saloon within 3:30m, and the prision within 2:30m. / Complete Arena challenge 1 within 9:30m. / Complete all Arena challenges. ",
+            "primary": 1,
+            "primaryText": "Terrible Trip [20\u2605]\nComplete each chapter individually without dying.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 30
+            "achievements": 35
         },
         "CETags": {
             "genre": [
-                "Hack & Slash",
-                "Rogue-like"
+                "Awkward Movement",
+                "Puzzle Platformer",
+                "2D Platformer"
             ],
             "info": []
         },
         "gameTags": [
-            "Gore",
-            "Blood",
-            "Action",
-            "Violent",
-            "Multiplayer",
-            "Fighting",
-            "First-Person",
-            "Physics",
-            "Roguelike",
-            "Beat 'em up",
-            "Funny",
-            "Voxel",
-            "Roguelite",
-            "Singleplayer",
             "Indie",
-            "FPS",
-            "Mature",
+            "Action",
             "Adventure",
-            "Difficult",
-            "Arcade"
+            "Puzzle",
+            "Platformer",
+            "Puzzle Platformer",
+            "Physics",
+            "Experimental",
+            "2D",
+            "Atmospheric",
+            "Post-apocalyptic",
+            "Music",
+            "Difficult"
         ],
         "languages": {
-            "english": "IA",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "arabic": "I",
-            "brazilian": "I",
-            "bulgarian": "I",
-            "czech": "I",
-            "danish": "I",
-            "dutch": "I",
-            "finnish": "I",
-            "greek": "I",
-            "hungarian": "I",
-            "koreana": "I",
-            "norwegian": "I",
-            "polish": "I",
-            "portuguese": "I",
-            "romanian": "I",
-            "russian": "I",
-            "schinese": "I",
-            "swedish": "I",
-            "tchinese": "I",
-            "thai": "I",
-            "turkish": "I",
-            "ukrainian": "I"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-04-10'
+var gameOfDayDate = '2026-04-11'
