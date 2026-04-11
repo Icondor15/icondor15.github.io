@@ -725,7 +725,7 @@ var masoData =
         "tier": "3",
         "owners": 53,
         "completions": 14,
-        "playtime": 136.44642857142858,
+        "playtime": 137.80833333333334,
         "newestCompletion": "2026-04-03T17:54:30.000Z",
         "badges": {
             "count": 3,
@@ -2597,7 +2597,7 @@ var masoData =
         "tier": "1",
         "owners": 54,
         "completions": 31,
-        "playtime": 23.068817204301066,
+        "playtime": 23.126344086021497,
         "newestCompletion": "2026-04-01T14:22:41.000Z"
     },
     "1133590": {
@@ -2985,7 +2985,7 @@ var masoData =
         "tier": "1",
         "owners": 52,
         "completions": 19,
-        "playtime": 22.85438596491228,
+        "playtime": 24.678947368421053,
         "newestCompletion": "2026-04-03T20:25:34.000Z",
         "badges": {
             "count": 2,
@@ -3085,7 +3085,7 @@ var masoData =
         "tier": "3",
         "owners": 175,
         "completions": 47,
-        "playtime": 201.33865248226954,
+        "playtime": 201.3617021276596,
         "newestCompletion": "2025-10-20T22:15:17.000Z"
     },
     "456390": {
@@ -4180,9 +4180,9 @@ var masoData =
         "description": "\u272a The n++ of race games",
         "tier": "4",
         "owners": 57,
-        "completions": 8,
-        "playtime": 273.2708333333333,
-        "newestCompletion": "2025-11-10T21:27:13.000Z",
+        "completions": 9,
+        "playtime": 257.55370370370366,
+        "newestCompletion": "2026-03-02T21:42:12.000Z",
         "badges": {
             "count": 1,
             "points": 3
