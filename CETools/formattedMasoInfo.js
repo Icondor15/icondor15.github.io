@@ -185,7 +185,7 @@ var masoData =
         "tier": "1",
         "owners": 193,
         "completions": 94,
-        "playtime": 43.30638297872341,
+        "playtime": 43.48581560283689,
         "newestCompletion": "2025-12-25T16:24:43.000Z",
         "badges": {
             "count": 1,
@@ -219,7 +219,7 @@ var masoData =
     "811870": {
         "description": "\ud83c\udf1f Flying pizzas and a goat anus",
         "tier": "5",
-        "owners": 130,
+        "owners": 131,
         "completions": 35,
         "playtime": 61.82380952380953,
         "newestCompletion": "2026-02-25T15:40:34.000Z"
@@ -273,7 +273,7 @@ var masoData =
         "tier": "1",
         "owners": 65,
         "completions": 22,
-        "playtime": 33.04772727272727,
+        "playtime": 33.05378787878788,
         "newestCompletion": "2025-08-01T03:39:47.000Z",
         "badges": {
             "count": 1,
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 235,
         "completions": 65,
-        "playtime": 61.25487179487178,
+        "playtime": 61.25871794871794,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
     },
     "317710": {
@@ -1337,7 +1337,7 @@ var masoData =
         "tier": "4",
         "owners": 123,
         "completions": 23,
-        "playtime": 67.88550724637683,
+        "playtime": 67.8985507246377,
         "newestCompletion": "2025-04-28T15:10:06.000Z"
     },
     "318530": {
@@ -3227,7 +3227,7 @@ var masoData =
     "1533420": {
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
-        "owners": 129,
+        "owners": 130,
         "completions": 65,
         "playtime": 76.21282051282054,
         "newestCompletion": "2025-12-29T20:11:35.000Z",
@@ -3320,9 +3320,9 @@ var masoData =
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f WELCOME TO THE FUTUUUUUUUUUURE",
         "tier": "0",
         "owners": 56,
-        "completions": 4,
-        "playtime": 207.18333333333334,
-        "newestCompletion": "2025-08-19T12:24:00.000Z",
+        "completions": 5,
+        "playtime": 173.29333333333335,
+        "newestCompletion": "2026-04-10T21:55:18.000Z",
         "badges": {
             "count": 3,
             "points": 20
@@ -3751,7 +3751,7 @@ var masoData =
     "2228030": {
         "description": "Puyo in the grinder",
         "tier": "1",
-        "owners": 47,
+        "owners": 48,
         "completions": 14,
         "playtime": 13.375,
         "newestCompletion": "2025-12-18T15:50:33.000Z"
@@ -4607,5 +4607,17 @@ var masoData =
         "completions": 1,
         "playtime": 31.816666666666666,
         "newestCompletion": "2026-01-22T22:17:23.000Z"
+    },
+    "1761390": {
+        "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The Disappearance of your free time",
+        "tier": "0",
+        "owners": 2,
+        "completions": 1,
+        "playtime": 674.8666666666667,
+        "newestCompletion": "2025-04-08T06:45:43.000Z",
+        "badges": {
+            "count": 3,
+            "points": 29
+        }
     }
 }
