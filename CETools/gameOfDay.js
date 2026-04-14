@@ -2,105 +2,93 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1046030,
-        "CEId": "4eeaf4a6-cb29-4b4c-85a5-2db67ba1d865",
-        "name": "ISLANDERS",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1046030/header.jpg?t=1688541994",
+        "platformId": 212480,
+        "CEId": "15dad01b-d40b-4c41-a635-4025f440edc5",
+        "name": "Sonic & All-Stars Racing Transformed Collection",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/212480/header.jpg?t=1648829972",
         "genre": [
-            "Strategy"
+            "Arcade"
         ],
         "tier": 2,
-        "points": 20,
+        "points": 30,
         "secondaryPoints": 0,
-        "medianPlaytime": 1110,
-        "createdAt": "2024-04-13T17:11:04.000Z",
-        "updatedAt": "2026-04-09T00:37:31.000Z",
-        "playersCompleted": 19,
-        "playersStarted": 0,
-        "playersTotal": 188,
+        "medianPlaytime": 2605,
+        "createdAt": "2022-04-14T16:40:15.000Z",
+        "updatedAt": "2026-04-09T00:37:18.000Z",
+        "playersCompleted": 34,
+        "playersStarted": 8,
+        "playersTotal": 396,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 199,
-                "discountPercent": 60
+                "initial": 1999,
+                "final": 1999,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 499,
-                "final": 199,
-                "discountPercent": 60
+                "initial": 1999,
+                "final": 1999,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 479,
-                "final": 191,
-                "discountPercent": 60
-            },
-            "JPY": {
-                "initial": 62000,
-                "final": 24800,
-                "discountPercent": 60
+                "initial": 1499,
+                "final": 1499,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 850,
-                "final": 340,
-                "discountPercent": 60
+                "initial": 2399,
+                "final": 2399,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 669,
-                "final": 267,
-                "discountPercent": 60
+                "initial": 2699,
+                "final": 2699,
+                "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "My Land is Island [20\u2605]\nReach the 21st Island",
+            "primary": 2,
+            "primaryText": "You're Too Slow [20\u2605]\nBeat all staff ghosts in time attack.\n\nGotta Go Fast [10\u2605]\nObtain all stars in World Tour and finish 1st place in all grand prix tournaments on expert difficulty.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 38
+            "achievements": 50
         },
         "CETags": {
             "genre": [
-                "Resource Management"
+                "Racing"
             ],
             "info": []
         },
         "gameTags": [
-            "Relaxing",
-            "City Builder",
-            "Strategy",
-            "Building",
-            "Puzzle",
-            "Indie",
-            "Minimalist",
-            "Singleplayer",
-            "Beautiful",
-            "Colony Sim",
-            "Atmospheric",
-            "Colorful",
-            "Procedural Generation",
-            "Addictive",
+            "Racing",
+            "Local Multiplayer",
+            "Multiplayer",
+            "Great Soundtrack",
+            "Local Co-Op",
+            "Sports",
+            "Split Screen",
+            "Arcade",
             "Replay Value",
-            "Score Attack",
-            "3D",
-            "Top-Down",
-            "Turn-Based Strategy",
-            "Multiplayer"
+            "4 Player Local",
+            "Controller",
+            "Family Friendly",
+            "Online Co-Op",
+            "Singleplayer",
+            "Fast-Paced",
+            "Colorful",
+            "Action",
+            "Co-op",
+            "Adventure",
+            "Touch-Friendly"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "brazilian": "I",
-            "koreana": "I",
-            "latam": "I",
-            "polish": "I",
-            "russian": "I",
-            "schinese": "I",
-            "turkish": "I"
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "italian": "IA",
+            "spanish": "IA"
         }
     }
 }
-var gameOfDayDate = '2026-04-13'
+var gameOfDayDate = '2026-04-14'
