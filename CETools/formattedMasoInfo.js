@@ -305,7 +305,7 @@ var masoData =
         "tier": "1",
         "owners": 151,
         "completions": 43,
-        "playtime": 127.73992248062015,
+        "playtime": 127.94031007751938,
         "newestCompletion": "2025-11-10T18:24:56.000Z",
         "badges": {
             "count": 1,
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 253,
         "completions": 137,
-        "playtime": 203.65267639902675,
+        "playtime": 203.6530413625304,
         "newestCompletion": "2025-10-24T02:20:59.000Z",
         "badges": {
             "count": 2,
@@ -1477,7 +1477,7 @@ var masoData =
         "tier": "5",
         "owners": 147,
         "completions": 39,
-        "playtime": 277.88974358974355,
+        "playtime": 278.02777777777777,
         "newestCompletion": "2026-04-09T16:33:51.000Z",
         "badges": {
             "count": 1,
@@ -3085,7 +3085,7 @@ var masoData =
         "tier": "3",
         "owners": 176,
         "completions": 48,
-        "playtime": 199.65347222222226,
+        "playtime": 200.0951388888889,
         "newestCompletion": "2025-10-20T22:15:17.000Z"
     },
     "456390": {
@@ -4343,7 +4343,7 @@ var masoData =
     "2073250": {
         "description": "\ud83c\udf1f You better make this game your second Crypt and rift apart your soul; otherwise forget completing it.",
         "tier": "5",
-        "owners": 54,
+        "owners": 55,
         "completions": 1,
         "playtime": 310.73333333333335,
         "newestCompletion": "2025-03-25T21:48:48.000Z",
@@ -4396,9 +4396,9 @@ var masoData =
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
         "owners": 75,
-        "completions": 21,
-        "playtime": 51.08571428571428,
-        "newestCompletion": "2026-03-29T08:55:38.000Z"
+        "completions": 22,
+        "playtime": 49.88939393939393,
+        "newestCompletion": "2026-04-14T19:54:05.000Z"
     },
     "3445580": {
         "description": "\u2606 Where are the waifus????",
@@ -4467,9 +4467,9 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 153,
+        "owners": 154,
         "completions": 37,
-        "playtime": 106.3707207207207,
+        "playtime": 106.39684684684683,
         "newestCompletion": "2026-03-01T10:15:38.000Z"
     },
     "322170": {
@@ -4487,7 +4487,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 60,
+        "owners": 63,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4575,7 +4575,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 27,
+        "owners": 28,
         "completions": 10,
         "playtime": 73.07333333333334,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
