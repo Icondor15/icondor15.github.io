@@ -2,98 +2,106 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 3406610,
-        "CEId": "edf5a9b1-9bbe-4c78-aef9-73596055ccb9",
-        "name": "Teleport Master",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3406610/header.jpg?t=1742137219",
+        "platformId": 250050,
+        "CEId": "29fad05c-e3dd-4eb4-9a61-c8e4bce1a47b",
+        "name": "Life Goes On: Done to Death",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/250050/header.jpg?t=1621049632",
         "genre": [
-            "Arcade"
+            "Platformer"
         ],
         "tier": 1,
-        "points": 15,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2025-04-16T22:54:49.000Z",
-        "updatedAt": "2026-04-06T12:31:37.000Z",
-        "playersCompleted": 4,
+        "medianPlaytime": 1250,
+        "createdAt": "2022-04-17T01:43:32.000Z",
+        "updatedAt": "2026-04-09T00:37:24.000Z",
+        "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 18,
+        "playersTotal": 109,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 399,
-                "discountPercent": 20
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 499,
-                "final": 399,
-                "discountPercent": 20
+                "initial": 1279,
+                "final": 1279,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 429,
-                "final": 343,
-                "discountPercent": 20
+                "initial": 1099,
+                "final": 1099,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 49900,
-                "final": 39900,
-                "discountPercent": 20
+                "initial": 150000,
+                "final": 150000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 749,
-                "final": 599,
-                "discountPercent": 20
+                "initial": 1499,
+                "final": 1499,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 649,
-                "final": 519,
-                "discountPercent": 20
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Tumbling Witch [15\u2605]\nComplete the game on Master difficulty.",
+            "primaryText": "Comically Morbid [10\u2605]\nProve yourself.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 0
+            "achievements": 21
         },
         "CETags": {
             "genre": [
                 "2D Platformer",
-                "Awkward Movement"
+                "Puzzle Platformer"
             ],
             "info": []
         },
         "gameTags": [
-            "Cute",
-            "Casual",
-            "2D",
-            "Pixel Graphics",
-            "2D Platformer",
-            "Adventure",
-            "Walking Simulator",
-            "Magic",
-            "God Game",
-            "Side Scroller",
-            "Cartoony",
-            "Hand-drawn",
-            "1990's",
-            "Emotional",
-            "Game Development",
-            "Retro",
-            "Family Friendly",
-            "Medieval",
+            "Funny",
+            "Dark Humor",
+            "Platformer",
+            "Puzzle",
             "Fantasy",
-            "Parody "
+            "Family Friendly",
+            "Comedy",
+            "Puzzle Platformer",
+            "Indie",
+            "Casual",
+            "Singleplayer",
+            "Great Soundtrack",
+            "Adventure",
+            "Side Scroller",
+            "Physics",
+            "2D",
+            "2.5D",
+            "Action",
+            "Controller",
+            "Atmospheric"
         ],
         "languages": {
-            "english": "IS",
-            "japanese": "IS",
-            "koreana": "IS",
-            "schinese": "IS"
+            "english": "IA",
+            "french": "IA",
+            "german": "IA",
+            "japanese": "IA",
+            "spanish": "IA",
+            "brazilian": "IA",
+            "dutch": "IA",
+            "koreana": "IA",
+            "polish": "IA",
+            "russian": "IA",
+            "schinese": "IA",
+            "tchinese": "IA"
         }
     }
 }
-var gameOfDayDate = '2026-04-16'
+var gameOfDayDate = '2026-04-17'
