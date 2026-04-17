@@ -71,7 +71,7 @@ var masoData =
     "325150": {
         "description": "I guess you never die huh?",
         "tier": "1",
-        "owners": 36,
+        "owners": 37,
         "completions": 13,
         "playtime": 22.906410256410254,
         "newestCompletion": "2025-04-19T06:14:04.000Z",
@@ -111,9 +111,9 @@ var masoData =
     "1007880": {
         "description": "Poor budget, Rich experience",
         "tier": "1",
-        "owners": 26,
+        "owners": 27,
         "completions": 12,
-        "playtime": 6.222222222222222,
+        "playtime": 6.226388888888889,
         "newestCompletion": "2026-03-27T15:26:29.000Z"
     },
     "894420": {
@@ -273,7 +273,7 @@ var masoData =
         "tier": "1",
         "owners": 65,
         "completions": 22,
-        "playtime": 33.05378787878788,
+        "playtime": 33.057575757575755,
         "newestCompletion": "2025-08-01T03:39:47.000Z",
         "badges": {
             "count": 1,
@@ -351,7 +351,7 @@ var masoData =
     "812550": {
         "description": "\u2733 Gotta glide fast",
         "tier": "2",
-        "owners": 81,
+        "owners": 82,
         "completions": 20,
         "playtime": 11.412499999999998,
         "newestCompletion": "2023-09-13T19:38:57.000Z"
@@ -359,9 +359,9 @@ var masoData =
     "241600": {
         "description": "\u2733 It\"s about time we added it",
         "tier": "2",
-        "owners": 133,
-        "completions": 54,
-        "playtime": 50.56265432098767,
+        "owners": 134,
+        "completions": 55,
+        "playtime": 50.09090909090911,
         "newestCompletion": "2026-03-24T23:49:22.000Z"
     },
     "356650": {
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 263,
         "completions": 194,
-        "playtime": 252.3447594501718,
+        "playtime": 252.34647766323025,
         "newestCompletion": "2025-12-15T21:59:54.000Z",
         "badges": {
             "count": 2,
@@ -1219,7 +1219,7 @@ var masoData =
     "385710": {
         "description": "\u2606 Easy to beat, hard to complete",
         "tier": "3",
-        "owners": 64,
+        "owners": 65,
         "completions": 24,
         "playtime": 15.798611111111112,
         "newestCompletion": "2025-06-10T04:09:04.000Z"
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 236,
         "completions": 65,
-        "playtime": 61.28051282051281,
+        "playtime": 61.28153846153846,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
     },
     "317710": {
@@ -1343,7 +1343,7 @@ var masoData =
     "318530": {
         "description": "\u2733 Its demon mode will shatter your soul into tiny fragments, and if you brave its hardships - you will be reborn.",
         "tier": "2",
-        "owners": 95,
+        "owners": 96,
         "completions": 22,
         "playtime": 98.38560606060605,
         "newestCompletion": "2024-02-28T08:42:53.000Z",
@@ -1417,7 +1417,7 @@ var masoData =
         "tier": "2",
         "owners": 152,
         "completions": 67,
-        "playtime": 37.08631840796021,
+        "playtime": 37.13507462686569,
         "newestCompletion": "2025-09-30T01:52:04.000Z",
         "badges": {
             "count": 2,
@@ -1477,7 +1477,7 @@ var masoData =
         "tier": "5",
         "owners": 148,
         "completions": 39,
-        "playtime": 278.12777777777774,
+        "playtime": 278.15598290598285,
         "newestCompletion": "2026-04-09T16:33:51.000Z",
         "badges": {
             "count": 1,
@@ -1537,7 +1537,7 @@ var masoData =
         "tier": "4",
         "owners": 101,
         "completions": 25,
-        "playtime": 64.49666666666666,
+        "playtime": 64.49733333333333,
         "newestCompletion": "2026-04-15T22:39:05.000Z",
         "badges": {
             "count": 1,
@@ -2015,7 +2015,7 @@ var masoData =
     "1004770": {
         "description": "\u2606 I never knew I wanted a PVP SHMUP so badly until Maiden &amp; Spell released. Single-player offers plenty of content with unique bosses and a cute story. Online is practically lag-free. Highly addictive",
         "tier": "3",
-        "owners": 55,
+        "owners": 56,
         "completions": 21,
         "playtime": 28.573809523809523,
         "newestCompletion": "2025-10-23T09:54:16.000Z"
@@ -2264,9 +2264,9 @@ var masoData =
         "description": "\u2733 Absolutely Discusting",
         "tier": "2",
         "owners": 128,
-        "completions": 86,
-        "playtime": 17.51666666666667,
-        "newestCompletion": "2026-01-02T01:28:28.000Z",
+        "completions": 87,
+        "playtime": 17.4036398467433,
+        "newestCompletion": "2026-04-16T19:49:42.000Z",
         "badges": {
             "count": 1,
             "points": 6
@@ -2605,7 +2605,7 @@ var masoData =
         "tier": "5",
         "owners": 47,
         "completions": 15,
-        "playtime": 62.675555555555555,
+        "playtime": 62.75666666666666,
         "newestCompletion": "2024-04-03T15:46:30.000Z"
     },
     "579180": {
@@ -2648,9 +2648,9 @@ var masoData =
         "description": "\u272a Okay Boomerang ",
         "tier": "4",
         "owners": 81,
-        "completions": 23,
-        "playtime": 16.70434782608696,
-        "newestCompletion": "2025-11-09T19:18:56.000Z"
+        "completions": 24,
+        "playtime": 16.675,
+        "newestCompletion": "2026-04-14T18:22:51.000Z"
     },
     "1333890": {
         "description": "\u2733 Brings a new meaning to \"kusoge\"",
@@ -2707,7 +2707,7 @@ var masoData =
     "1375400": {
         "description": "Get the knife!!",
         "tier": "1",
-        "owners": 21,
+        "owners": 22,
         "completions": 3,
         "playtime": 37.205555555555556,
         "newestCompletion": "2023-11-12T17:54:10.000Z"
@@ -3083,10 +3083,10 @@ var masoData =
     "646570": {
         "description": "\u2606 Slay your cards right",
         "tier": "3",
-        "owners": 176,
-        "completions": 48,
-        "playtime": 200.2357638888889,
-        "newestCompletion": "2025-10-20T22:15:17.000Z"
+        "owners": 177,
+        "completions": 49,
+        "playtime": 197.5122448979592,
+        "newestCompletion": "2026-03-11T19:58:16.000Z"
     },
     "456390": {
         "description": "null pointer exception",
@@ -3175,7 +3175,7 @@ var masoData =
     "1142080": {
         "description": "\u272a Chess 2",
         "tier": "4",
-        "owners": 63,
+        "owners": 64,
         "completions": 17,
         "playtime": 44.11764705882352,
         "newestCompletion": "2025-04-06T02:49:33.000Z"
@@ -3771,10 +3771,10 @@ var masoData =
     "2127230": {
         "description": "Pongadelic",
         "tier": "1",
-        "owners": 6,
-        "completions": 3,
-        "playtime": 5.083333333333333,
-        "newestCompletion": "2024-01-01T15:02:20.000Z"
+        "owners": 7,
+        "completions": 4,
+        "playtime": 5.466666666666667,
+        "newestCompletion": "2026-04-16T20:02:05.000Z"
     },
     "429780": {
         "description": "\ud83c\udf1f Hop To It",
@@ -3801,7 +3801,7 @@ var masoData =
         "tier": "2",
         "owners": 123,
         "completions": 16,
-        "playtime": 241.3052083333333,
+        "playtime": 241.35416666666666,
         "newestCompletion": "2026-04-06T19:16:36.000Z",
         "badges": {
             "count": 1,
@@ -4327,10 +4327,10 @@ var masoData =
     "2702490": {
         "description": "\u2733 An old classic in a fresh light",
         "tier": "2",
-        "owners": 19,
-        "completions": 8,
-        "playtime": 85.03958333333335,
-        "newestCompletion": "2025-11-07T22:12:00.000Z"
+        "owners": 20,
+        "completions": 9,
+        "playtime": 83.50740740740743,
+        "newestCompletion": "2026-02-02T09:01:14.000Z"
     },
     "1345860": {
         "description": "Grapple Doggo",
@@ -4395,7 +4395,7 @@ var masoData =
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
-        "owners": 75,
+        "owners": 76,
         "completions": 22,
         "playtime": 49.88939393939393,
         "newestCompletion": "2026-04-14T19:54:05.000Z"
@@ -4487,7 +4487,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 68,
+        "owners": 70,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4511,7 +4511,7 @@ var masoData =
     "1282210": {
         "description": "6-key EDM concert",
         "tier": "1",
-        "owners": 8,
+        "owners": 9,
         "completions": 3,
         "playtime": 21.533333333333335,
         "newestCompletion": "2024-09-16T02:50:19.000Z"
@@ -4567,7 +4567,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together (Co-op)",
         "tier": "5",
-        "owners": 15,
+        "owners": 16,
         "completions": 3,
         "playtime": 444.7222222222222,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
@@ -4575,7 +4575,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 34,
+        "owners": 35,
         "completions": 11,
         "playtime": 75.85151515151516,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
@@ -4595,9 +4595,9 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 8,
-        "completions": 2,
-        "playtime": 29.516666666666666,
+        "owners": 9,
+        "completions": 3,
+        "playtime": 34.12777777777777,
         "newestCompletion": "2025-06-19T00:20:43.000Z"
     },
     "1354260": {
@@ -4611,7 +4611,7 @@ var masoData =
     "1761390": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The Disappearance of your free time",
         "tier": "0",
-        "owners": 4,
+        "owners": 5,
         "completions": 1,
         "playtime": 674.8666666666667,
         "newestCompletion": "2025-04-08T06:45:43.000Z",
