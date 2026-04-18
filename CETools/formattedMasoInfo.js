@@ -1075,7 +1075,7 @@ var masoData =
     "394970": {
         "description": "\u272a Gunpoint meets hotline miami",
         "tier": "4",
-        "owners": 104,
+        "owners": 105,
         "completions": 30,
         "playtime": 39.217777777777776,
         "newestCompletion": "2025-11-24T22:10:14.000Z"
@@ -1259,7 +1259,7 @@ var masoData =
     "297130": {
         "description": "\u2606 Boss rush extravaganza",
         "tier": "3",
-        "owners": 196,
+        "owners": 197,
         "completions": 41,
         "playtime": 25.82195121951219,
         "newestCompletion": "2025-10-27T23:25:40.000Z"
@@ -1267,7 +1267,7 @@ var masoData =
     "262390": {
         "description": "\ud83c\udf1f Speedrunning taken to the extreme in a beautiful 3D environment. Get the DLC only if you enjoy pain and suffering.",
         "tier": "5",
-        "owners": 74,
+        "owners": 75,
         "completions": 6,
         "playtime": 120.09166666666665,
         "newestCompletion": "2024-03-10T18:25:49.000Z",
@@ -1476,9 +1476,9 @@ var masoData =
         "description": "\ud83c\udf1f The Virgin Shovel knight VS the Chad Jump King",
         "tier": "5",
         "owners": 148,
-        "completions": 39,
-        "playtime": 278.15598290598285,
-        "newestCompletion": "2026-04-09T16:33:51.000Z",
+        "completions": 40,
+        "playtime": 273.5433333333333,
+        "newestCompletion": "2026-04-17T18:21:52.000Z",
         "badges": {
             "count": 1,
             "points": 5
@@ -1735,7 +1735,7 @@ var masoData =
     "774361": {
         "description": "God will punish you if you don\"t play it",
         "tier": "1",
-        "owners": 157,
+        "owners": 158,
         "completions": 51,
         "playtime": 38.5892156862745,
         "newestCompletion": "2025-11-17T23:56:16.000Z"
@@ -1743,7 +1743,7 @@ var masoData =
     "1012970": {
         "description": "\ud83c\udf1f 101 ways to get Chewwed out",
         "tier": "5",
-        "owners": 93,
+        "owners": 94,
         "completions": 33,
         "playtime": 50.55252525252525,
         "newestCompletion": "2025-02-17T16:52:52.000Z"
@@ -2155,7 +2155,7 @@ var masoData =
     "940710": {
         "description": "\u272a Yippee-ki-yay, Motherf****",
         "tier": "4",
-        "owners": 54,
+        "owners": 55,
         "completions": 7,
         "playtime": 46.147619047619045,
         "newestCompletion": "2026-03-01T17:04:20.000Z"
@@ -2275,7 +2275,7 @@ var masoData =
     "1461490": {
         "description": "\u2733 Jump King\"s illegitimate son",
         "tier": "2",
-        "owners": 51,
+        "owners": 52,
         "completions": 17,
         "playtime": 15.851960784313727,
         "newestCompletion": "2025-03-16T22:18:25.000Z"
@@ -2437,7 +2437,7 @@ var masoData =
         "tier": "2",
         "owners": 26,
         "completions": 4,
-        "playtime": 49.25416666666667,
+        "playtime": 49.391666666666666,
         "newestCompletion": "2024-09-05T04:32:23.000Z"
     },
     "820540": {
@@ -2699,7 +2699,7 @@ var masoData =
     "598550": {
         "description": "\u272a Before &amp; After Plastic Surgeries",
         "tier": "4",
-        "owners": 35,
+        "owners": 36,
         "completions": 6,
         "playtime": 44.574999999999996,
         "newestCompletion": "2025-07-03T00:05:38.000Z"
@@ -2815,7 +2815,7 @@ var masoData =
     "1689190": {
         "description": "\u2606 Now this is podRAYZEing",
         "tier": "3",
-        "owners": 58,
+        "owners": 59,
         "completions": 22,
         "playtime": 25.96742424242424,
         "newestCompletion": "2026-01-21T21:39:10.000Z"
@@ -3020,9 +3020,9 @@ var masoData =
         "description": "\u2733 touch fishy, get dizzy",
         "tier": "2",
         "owners": 56,
-        "completions": 14,
-        "playtime": 9.307142857142855,
-        "newestCompletion": "2025-10-19T09:05:13.000Z"
+        "completions": 15,
+        "playtime": 9.086666666666666,
+        "newestCompletion": "2026-04-18T00:32:43.000Z"
     },
     "1714590": {
         "description": "\u272a \u2665\u2665\u2665\u2665\u2665\u2665\u2665 RUSH HOUR",
@@ -3297,7 +3297,7 @@ var masoData =
         "newestCompletion": "2024-11-29T21:17:50.000Z"
     },
     "641080": {
-        "description": "\ud83c\udf96\ufe0f \ud83d\udc80 Diamond is unbreakable \ud83d\udc80",
+        "description": "\ud83c\udf96\ufe0f \ud83c\udf1f \ud83d\udc80 Diamond is unbreakable \ud83d\udc80",
         "tier": "0",
         "owners": 71,
         "completions": 10,
@@ -3735,7 +3735,7 @@ var masoData =
     "2211730": {
         "description": "Australia",
         "tier": "1",
-        "owners": 34,
+        "owners": 35,
         "completions": 19,
         "playtime": 3.1631578947368424,
         "newestCompletion": "2025-12-29T21:14:55.000Z"
@@ -4623,7 +4623,7 @@ var masoData =
     "3288210": {
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
-        "owners": 5,
+        "owners": 6,
         "completions": 4,
         "playtime": 30.366666666666664,
         "newestCompletion": "2026-04-16T01:11:19.000Z"
