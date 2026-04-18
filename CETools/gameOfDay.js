@@ -2,106 +2,97 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 250050,
-        "CEId": "29fad05c-e3dd-4eb4-9a61-c8e4bce1a47b",
-        "name": "Life Goes On: Done to Death",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/250050/header.jpg?t=1621049632",
+        "platformId": 1910600,
+        "CEId": "abca1d86-9702-4ff6-aa44-8a2e0cfa5cc2",
+        "name": "ONE BTN BOSSES",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910600/header.jpg?t=1742420324",
         "genre": [
-            "Platformer"
+            "Arcade"
         ],
         "tier": 1,
         "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 1250,
-        "createdAt": "2022-04-17T01:43:32.000Z",
-        "updatedAt": "2026-04-09T00:37:24.000Z",
-        "playersCompleted": 9,
+        "medianPlaytime": 2487,
+        "createdAt": "2025-04-18T02:37:51.000Z",
+        "updatedAt": "2026-04-17T00:44:41.000Z",
+        "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 109,
+        "playersTotal": 37,
         "priceData": {
             "USD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 1199,
+                "final": 1199,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1279,
-                "final": 1279,
-                "discountPercent": 0
-            },
-            "GBP": {
                 "initial": 1099,
                 "final": 1099,
                 "discountPercent": 0
             },
+            "GBP": {
+                "initial": 949,
+                "final": 949,
+                "discountPercent": 0
+            },
             "JPY": {
-                "initial": 150000,
-                "final": 150000,
+                "initial": 130000,
+                "final": 130000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1499,
-                "final": 1499,
+                "initial": 1799,
+                "final": 1799,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 1549,
+                "final": 1549,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Comically Morbid [10\u2605]\nProve yourself.",
+            "primaryText": "ONE BTN COMPLETIONIST [10\u2605]\nComplete every level in the campaign with an S rank / Finish a rift without ever picking a rare card.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 21
+            "achievements": 16
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Puzzle Platformer"
+                "Avoid'em'Up"
             ],
             "info": []
         },
         "gameTags": [
+            "Difficult",
+            "Soundtrack",
+            "Rhythm",
+            "Music",
             "Funny",
-            "Dark Humor",
-            "Platformer",
-            "Puzzle",
-            "Fantasy",
-            "Family Friendly",
-            "Comedy",
-            "Puzzle Platformer",
-            "Indie",
-            "Casual",
-            "Singleplayer",
-            "Great Soundtrack",
-            "Adventure",
-            "Side Scroller",
-            "Physics",
+            "Character Customization",
+            "Bullet Hell",
+            "Colorful",
+            "Souls-like",
             "2D",
-            "2.5D",
+            "Fast-Paced",
+            "Shoot 'Em Up",
+            "Strategy",
+            "Stylized",
+            "Boss Rush",
+            "Arcade",
             "Action",
-            "Controller",
-            "Atmospheric"
+            "Bullet Time",
+            "Action Roguelike",
+            "Combat"
         ],
         "languages": {
-            "english": "IA",
-            "french": "IA",
-            "german": "IA",
-            "japanese": "IA",
-            "spanish": "IA",
-            "brazilian": "IA",
-            "dutch": "IA",
-            "koreana": "IA",
-            "polish": "IA",
-            "russian": "IA",
-            "schinese": "IA",
-            "tchinese": "IA"
+            "english": "I",
+            "spanish": "I",
+            "galician": "I",
+            "latam": "I"
         }
     }
 }
-var gameOfDayDate = '2026-04-17'
+var gameOfDayDate = '2026-04-18'
