@@ -3509,7 +3509,7 @@ var masoData =
         "tier": "2",
         "owners": 101,
         "completions": 38,
-        "playtime": 54.1828947368421,
+        "playtime": 54.201315789473675,
         "newestCompletion": "2025-11-08T05:03:32.000Z"
     },
     "1442170": {
@@ -4327,7 +4327,7 @@ var masoData =
     "2702490": {
         "description": "\u2733 An old classic in a fresh light",
         "tier": "2",
-        "owners": 20,
+        "owners": 21,
         "completions": 9,
         "playtime": 83.50740740740743,
         "newestCompletion": "2026-02-02T09:01:14.000Z"
@@ -4527,10 +4527,10 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 29,
-        "completions": 13,
-        "playtime": 11.5,
-        "newestCompletion": "2026-01-04T11:36:49.000Z"
+        "owners": 30,
+        "completions": 14,
+        "playtime": 11.183333333333334,
+        "newestCompletion": "2026-04-18T16:38:47.000Z"
     },
     "434660": {
         "description": "\u2733 Real Neon Genesis",
@@ -4567,7 +4567,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together (Co-op)",
         "tier": "5",
-        "owners": 16,
+        "owners": 17,
         "completions": 3,
         "playtime": 444.7222222222222,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
@@ -4577,7 +4577,7 @@ var masoData =
         "tier": "0",
         "owners": 35,
         "completions": 11,
-        "playtime": 75.85151515151516,
+        "playtime": 76.64545454545454,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
@@ -4611,7 +4611,7 @@ var masoData =
     "1761390": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The Disappearance of your free time",
         "tier": "0",
-        "owners": 5,
+        "owners": 6,
         "completions": 1,
         "playtime": 674.8666666666667,
         "newestCompletion": "2025-04-08T06:45:43.000Z",
