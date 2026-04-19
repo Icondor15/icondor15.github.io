@@ -2,97 +2,107 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1910600,
-        "CEId": "abca1d86-9702-4ff6-aa44-8a2e0cfa5cc2",
-        "name": "ONE BTN BOSSES",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910600/header.jpg?t=1742420324",
+        "platformId": 837470,
+        "CEId": "a5252cda-034d-4ec4-8ccc-029817aef04a",
+        "name": "Untitled Goose Game",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/837470/header.jpg?t=1623284142",
         "genre": [
             "Arcade"
         ],
         "tier": 1,
-        "points": 10,
+        "points": 5,
         "secondaryPoints": 0,
-        "medianPlaytime": 2487,
-        "createdAt": "2025-04-18T02:37:51.000Z",
-        "updatedAt": "2026-04-17T00:44:41.000Z",
-        "playersCompleted": 5,
+        "medianPlaytime": 412,
+        "createdAt": "2022-04-19T20:15:55.000Z",
+        "updatedAt": "2026-04-18T18:16:39.000Z",
+        "playersCompleted": 84,
         "playersStarted": 0,
-        "playersTotal": 37,
+        "playersTotal": 282,
         "priceData": {
             "USD": {
-                "initial": 1199,
-                "final": 1199,
-                "discountPercent": 0
+                "initial": 1999,
+                "final": 799,
+                "discountPercent": 60
             },
             "EUR": {
-                "initial": 1099,
-                "final": 1099,
-                "discountPercent": 0
+                "initial": 1899,
+                "final": 759,
+                "discountPercent": 60
             },
             "GBP": {
-                "initial": 949,
-                "final": 949,
-                "discountPercent": 0
+                "initial": 1599,
+                "final": 639,
+                "discountPercent": 60
             },
             "JPY": {
-                "initial": 130000,
-                "final": 130000,
-                "discountPercent": 0
+                "initial": 220000,
+                "final": 88000,
+                "discountPercent": 60
             },
             "AUD": {
-                "initial": 1799,
-                "final": 1799,
-                "discountPercent": 0
+                "initial": 2999,
+                "final": 1199,
+                "discountPercent": 60
             },
             "CAD": {
-                "initial": 1549,
-                "final": 1549,
-                "discountPercent": 0
+                "initial": 2599,
+                "final": 1039,
+                "discountPercent": 60
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "ONE BTN COMPLETIONIST [10\u2605]\nComplete every level in the campaign with an S rank / Finish a rift without ever picking a rare card.",
+            "primaryText": "Agent of Chaos [5\u2605]\nEarn every trophy.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 16
+            "achievements": 25
         },
         "CETags": {
             "genre": [
-                "Avoid'em'Up"
+                "Miscellaneous"
             ],
             "info": []
         },
         "gameTags": [
-            "Difficult",
-            "Soundtrack",
-            "Rhythm",
-            "Music",
             "Funny",
-            "Character Customization",
-            "Bullet Hell",
+            "Villain Protagonist",
+            "Co-op",
+            "Multiplayer",
+            "Cute",
+            "Comedy",
+            "Puzzle",
+            "Indie",
+            "Stealth",
+            "Singleplayer",
+            "Family Friendly",
+            "Local Co-Op",
             "Colorful",
-            "Souls-like",
-            "2D",
-            "Fast-Paced",
-            "Shoot 'Em Up",
-            "Strategy",
-            "Stylized",
-            "Boss Rush",
-            "Arcade",
+            "Sandbox",
+            "Local Multiplayer",
+            "Third Person",
+            "Adventure",
+            "Physics",
             "Action",
-            "Bullet Time",
-            "Action Roguelike",
-            "Combat"
+            "Simulation"
         ],
         "languages": {
             "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
             "spanish": "I",
-            "galician": "I",
-            "latam": "I"
+            "brazilian": "I",
+            "czech": "I",
+            "dutch": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "turkish": "I"
         }
     }
 }
-var gameOfDayDate = '2026-04-18'
+var gameOfDayDate = '2026-04-19'
