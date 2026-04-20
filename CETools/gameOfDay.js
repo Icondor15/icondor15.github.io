@@ -2,107 +2,103 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 837470,
-        "CEId": "a5252cda-034d-4ec4-8ccc-029817aef04a",
-        "name": "Untitled Goose Game",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/837470/header.jpg?t=1623284142",
+        "platformId": 468670,
+        "CEId": "1f1f23e6-ee09-4029-8973-b6ab79552e17",
+        "name": "Speed Brawl",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/468670/header.jpg?t=1625497949",
         "genre": [
-            "Arcade"
+            "Action"
         ],
         "tier": 1,
-        "points": 5,
+        "points": 15,
         "secondaryPoints": 0,
-        "medianPlaytime": 412,
-        "createdAt": "2022-04-19T20:15:55.000Z",
-        "updatedAt": "2026-04-18T18:16:39.000Z",
-        "playersCompleted": 84,
-        "playersStarted": 0,
-        "playersTotal": 282,
+        "medianPlaytime": 0,
+        "createdAt": "2022-04-20T15:38:24.000Z",
+        "updatedAt": "2026-04-14T13:15:04.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 2,
+        "playersTotal": 101,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 799,
-                "discountPercent": 60
+                "final": 1999,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 1899,
-                "final": 759,
-                "discountPercent": 60
+                "initial": 1679,
+                "final": 1679,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 1599,
-                "final": 639,
-                "discountPercent": 60
+                "initial": 1549,
+                "final": 1549,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 220000,
-                "final": 88000,
-                "discountPercent": 60
+                "initial": 205000,
+                "final": 205000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 2999,
-                "final": 1199,
-                "discountPercent": 60
+                "initial": 2895,
+                "final": 2895,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 2599,
-                "final": 1039,
-                "discountPercent": 60
+                "initial": 2279,
+                "final": 2279,
+                "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Agent of Chaos [5\u2605]\nEarn every trophy.",
+            "primary": 3,
+            "primaryText": "Thunder and Lightning (UNCLEARED) [0\u2605]\nGet all + ranks and all S ranks.\n\nPlatinum Puncher [10\u2605]\nGet all platinum trophies.\n\nSpeed Brawler [5\u2605]\nGet all gold trophies.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 25
+            "achievements": 59
         },
         "CETags": {
             "genre": [
-                "Miscellaneous"
+                "Beat'em'Up"
             ],
-            "info": []
+            "info": [
+                "Uncleared"
+            ]
         },
         "gameTags": [
-            "Funny",
-            "Villain Protagonist",
             "Co-op",
-            "Multiplayer",
-            "Cute",
-            "Comedy",
-            "Puzzle",
-            "Indie",
-            "Stealth",
-            "Singleplayer",
-            "Family Friendly",
+            "Female Protagonist",
+            "Online Co-Op",
+            "Spectacle fighter",
+            "Co-op Campaign",
             "Local Co-Op",
-            "Colorful",
-            "Sandbox",
+            "Fast-Paced",
+            "Beat 'em up",
+            "Side Scroller",
             "Local Multiplayer",
-            "Third Person",
-            "Adventure",
-            "Physics",
+            "Character Customization",
+            "Anime",
+            "Indie",
+            "Combat",
+            "Steampunk",
+            "Multiplayer",
+            "Fighting",
+            "2D Platformer",
             "Action",
-            "Simulation"
+            "Singleplayer"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "brazilian": "I",
-            "czech": "I",
-            "dutch": "I",
-            "koreana": "I",
-            "polish": "I",
-            "russian": "I",
-            "schinese": "I",
-            "turkish": "I"
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-04-19'
+var gameOfDayDate = '2026-04-20'
