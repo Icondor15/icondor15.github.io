@@ -63,7 +63,7 @@ var masoData =
     "942060": {
         "description": "\u2733 Master the Ultra Gridstinct",
         "tier": "2",
-        "owners": 42,
+        "owners": 43,
         "completions": 18,
         "playtime": 8.937962962962963,
         "newestCompletion": "2025-07-11T16:00:09.000Z"
@@ -219,9 +219,9 @@ var masoData =
     "811870": {
         "description": "\ud83c\udf1f Flying pizzas and a goat anus",
         "tier": "5",
-        "owners": 132,
+        "owners": 133,
         "completions": 35,
-        "playtime": 61.82380952380953,
+        "playtime": 61.85619047619049,
         "newestCompletion": "2026-02-25T15:40:34.000Z"
     },
     "703720": {
@@ -304,9 +304,9 @@ var masoData =
         "description": "Thank god for mods and EZ mode",
         "tier": "1",
         "owners": 151,
-        "completions": 44,
-        "playtime": 126.94962121212122,
-        "newestCompletion": "2025-11-10T18:24:56.000Z",
+        "completions": 45,
+        "playtime": 124.75259259259259,
+        "newestCompletion": "2026-04-03T04:29:59.000Z",
         "badges": {
             "count": 1,
             "points": 5
@@ -455,7 +455,7 @@ var masoData =
     "436000": {
         "description": "First Person Gimmicks",
         "tier": "1",
-        "owners": 78,
+        "owners": 79,
         "completions": 50,
         "playtime": 7.189999999999999,
         "newestCompletion": "2026-01-03T04:12:41.000Z"
@@ -851,7 +851,7 @@ var masoData =
     "397950": {
         "description": "Literally",
         "tier": "1",
-        "owners": 136,
+        "owners": 137,
         "completions": 103,
         "playtime": 7.194012944983819,
         "newestCompletion": "2026-03-29T22:07:58.000Z"
@@ -1208,9 +1208,9 @@ var masoData =
         "description": "\ud83c\udf1f Extremely dedicated or extremely talented?",
         "tier": "5",
         "owners": 198,
-        "completions": 67,
-        "playtime": 192.30323383084576,
-        "newestCompletion": "2025-10-03T04:45:14.000Z",
+        "completions": 68,
+        "playtime": 190.54362745098038,
+        "newestCompletion": "2026-04-19T13:18:47.000Z",
         "badges": {
             "count": 1,
             "points": 15
@@ -1307,7 +1307,7 @@ var masoData =
     "65300": {
         "description": "\u2733 High precision platformer with a very high learning curve. Completing it is just the first step...",
         "tier": "2",
-        "owners": 163,
+        "owners": 164,
         "completions": 72,
         "playtime": 236.13495370370376,
         "newestCompletion": "2025-08-29T21:26:24.000Z",
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 261,
         "completions": 83,
-        "playtime": 127.56285140562245,
+        "playtime": 127.57610441767065,
         "newestCompletion": "2026-03-31T04:56:18.000Z"
     },
     "557340": {
@@ -2605,7 +2605,7 @@ var masoData =
         "tier": "5",
         "owners": 47,
         "completions": 15,
-        "playtime": 62.75666666666666,
+        "playtime": 62.75888888888888,
         "newestCompletion": "2024-04-03T15:46:30.000Z"
     },
     "579180": {
@@ -4303,10 +4303,10 @@ var masoData =
     "3274300": {
         "description": "Tier 1 Shocker",
         "tier": "1",
-        "owners": 68,
-        "completions": 42,
-        "playtime": 3.201190476190475,
-        "newestCompletion": "2026-02-15T02:57:35.000Z"
+        "owners": 69,
+        "completions": 43,
+        "playtime": 3.150387596899224,
+        "newestCompletion": "2026-03-11T23:02:09.000Z"
     },
     "412670": {
         "description": "\u2733 All cats go to bullet heaven",
@@ -4487,7 +4487,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 70,
+        "owners": 71,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4528,8 +4528,8 @@ var masoData =
         "description": "Definitely a real one",
         "tier": "1",
         "owners": 30,
-        "completions": 14,
-        "playtime": 11.183333333333334,
+        "completions": 15,
+        "playtime": 11.14111111111111,
         "newestCompletion": "2026-04-18T16:38:47.000Z"
     },
     "434660": {
@@ -4575,7 +4575,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 35,
+        "owners": 37,
         "completions": 11,
         "playtime": 76.64545454545454,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
