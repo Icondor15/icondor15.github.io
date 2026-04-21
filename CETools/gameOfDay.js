@@ -2,103 +2,105 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 468670,
-        "CEId": "1f1f23e6-ee09-4029-8973-b6ab79552e17",
-        "name": "Speed Brawl",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/468670/header.jpg?t=1625497949",
+        "platformId": 2845120,
+        "CEId": "260e26af-4953-4d48-bfc3-a249837abd01",
+        "name": "Exoracer",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845120/header.jpg?t=1723824284",
         "genre": [
-            "Action"
+            "Platformer"
         ],
-        "tier": 1,
-        "points": 15,
+        "tier": 2,
+        "points": 30,
         "secondaryPoints": 0,
         "medianPlaytime": 0,
-        "createdAt": "2022-04-20T15:38:24.000Z",
-        "updatedAt": "2026-04-14T13:15:04.000Z",
-        "playersCompleted": 0,
-        "playersStarted": 2,
-        "playersTotal": 101,
+        "createdAt": "2025-04-21T06:22:20.000Z",
+        "updatedAt": "2026-04-20T18:31:22.000Z",
+        "playersCompleted": 3,
+        "playersStarted": 0,
+        "playersTotal": 10,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1679,
-                "final": 1679,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1549,
-                "final": 1549,
+                "initial": 429,
+                "final": 429,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 205000,
-                "final": 205000,
+                "initial": 58000,
+                "final": 58000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2895,
-                "final": 2895,
+                "initial": 750,
+                "final": 750,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2279,
-                "final": 2279,
+                "initial": 649,
+                "final": 649,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Thunder and Lightning (UNCLEARED) [0\u2605]\nGet all + ranks and all S ranks.\n\nPlatinum Puncher [10\u2605]\nGet all platinum trophies.\n\nSpeed Brawler [5\u2605]\nGet all gold trophies.",
-            "secondary": 0,
-            "secondaryText": "",
+            "primary": 1,
+            "primaryText": "Exoptable Speed [30\u2605]\nObtain the author medal on all official levels.",
+            "secondary": 1,
+            "secondaryText": "The Exodus [0\u2605]\nObtain the author medal on all seasonal levels.",
             "community": 0,
             "communityText": "",
-            "achievements": 59
+            "achievements": 48
         },
         "CETags": {
             "genre": [
-                "Beat'em'Up"
+                "2D Platformer"
             ],
             "info": [
-                "Uncleared"
+                "Has Secondary Objectives"
             ]
         },
         "gameTags": [
-            "Co-op",
-            "Female Protagonist",
-            "Online Co-Op",
-            "Spectacle fighter",
-            "Co-op Campaign",
-            "Local Co-Op",
-            "Fast-Paced",
-            "Beat 'em up",
-            "Side Scroller",
-            "Local Multiplayer",
-            "Character Customization",
-            "Anime",
-            "Indie",
-            "Combat",
-            "Steampunk",
+            "Precision Platformer",
+            "Difficult",
             "Multiplayer",
-            "Fighting",
+            "Level Editor",
+            "PvP",
+            "Racing",
+            "Parkour",
             "2D Platformer",
+            "Platformer",
+            "Arcade",
+            "Character Customization",
+            "2D",
             "Action",
-            "Singleplayer"
+            "Funny",
+            "Casual",
+            "Colorful",
+            "Minimalist",
+            "Family Friendly",
+            "Singleplayer",
+            "Indie"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "japanese": "IS",
-            "brazilian": "IS",
-            "koreana": "IS",
-            "russian": "IS",
-            "schinese": "IS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "latam": "I",
+            "russian": "I",
+            "schinese": "I"
         }
     }
 }
-var gameOfDayDate = '2026-04-20'
+var gameOfDayDate = '2026-04-21'
