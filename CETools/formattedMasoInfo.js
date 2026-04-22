@@ -185,7 +185,7 @@ var masoData =
         "tier": "1",
         "owners": 193,
         "completions": 94,
-        "playtime": 43.19663120567377,
+        "playtime": 43.209574468085115,
         "newestCompletion": "2026-02-28T19:48:02.000Z",
         "badges": {
             "count": 1,
@@ -581,7 +581,7 @@ var masoData =
         "tier": "1",
         "owners": 110,
         "completions": 34,
-        "playtime": 22.20637254901961,
+        "playtime": 22.206862745098043,
         "newestCompletion": "2025-12-27T04:47:58.000Z",
         "badges": {
             "count": 1,
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 262,
         "completions": 193,
-        "playtime": 253.09542314335064,
+        "playtime": 253.1846286701209,
         "newestCompletion": "2025-12-15T21:59:54.000Z",
         "badges": {
             "count": 2,
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 112,
         "completions": 34,
-        "playtime": 88.66960784313726,
+        "playtime": 88.73235294117647,
         "newestCompletion": "2025-12-29T07:01:08.000Z",
         "badges": {
             "count": 2,
@@ -2515,7 +2515,7 @@ var masoData =
     "1037130": {
         "description": "\u2733 It\"s all in the cards",
         "tier": "2",
-        "owners": 26,
+        "owners": 27,
         "completions": 6,
         "playtime": 24.263888888888886,
         "newestCompletion": "2025-07-22T11:25:31.000Z"
@@ -4487,7 +4487,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 72,
+        "owners": 73,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4575,7 +4575,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 40,
+        "owners": 41,
         "completions": 13,
         "playtime": 73.36153846153846,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
