@@ -2,105 +2,84 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2845120,
-        "CEId": "260e26af-4953-4d48-bfc3-a249837abd01",
-        "name": "Exoracer",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845120/header.jpg?t=1723824284",
+        "platformId": 356460,
+        "CEId": "43058ae1-0122-4507-9677-55db60d9ecd0",
+        "name": "Drive!Drive!Drive!",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/356460/header.jpg?t=1487012921",
         "genre": [
-            "Platformer"
+            "Arcade"
         ],
-        "tier": 2,
-        "points": 30,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2025-04-21T06:22:20.000Z",
+        "medianPlaytime": 344,
+        "createdAt": "2022-04-22T20:28:44.000Z",
         "updatedAt": "2026-04-20T18:31:22.000Z",
-        "playersCompleted": 3,
+        "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 10,
+        "playersTotal": 54,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 499,
-                "final": 499,
+                "initial": 819,
+                "final": 819,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 429,
-                "final": 429,
+                "initial": 719,
+                "final": 719,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 58000,
-                "final": 58000,
+                "initial": 101000,
+                "final": 101000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 750,
-                "final": 750,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 649,
-                "final": 649,
+                "initial": 1149,
+                "final": 1149,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Exoptable Speed [30\u2605]\nObtain the author medal on all official levels.",
-            "secondary": 1,
-            "secondaryText": "The Exodus [0\u2605]\nObtain the author medal on all seasonal levels.",
+            "primaryText": "Gas! Gas! Gas! [10\u2605]\nComplete Offensive Mode.",
+            "secondary": 0,
+            "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 48
+            "achievements": 20
         },
         "CETags": {
             "genre": [
-                "2D Platformer"
+                "Racing"
             ],
-            "info": [
-                "Has Secondary Objectives"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Precision Platformer",
-            "Difficult",
-            "Multiplayer",
-            "Level Editor",
-            "PvP",
             "Racing",
-            "Parkour",
-            "2D Platformer",
-            "Platformer",
-            "Arcade",
-            "Character Customization",
-            "2D",
+            "Automobile Sim",
             "Action",
-            "Funny",
-            "Casual",
-            "Colorful",
-            "Minimalist",
-            "Family Friendly",
-            "Singleplayer",
-            "Indie"
+            "Indie",
+            "Driving",
+            "Multiplayer"
         ],
         "languages": {
-            "english": "I",
+            "english": "IA",
             "french": "I",
             "german": "I",
             "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "brazilian": "I",
-            "latam": "I",
-            "russian": "I",
-            "schinese": "I"
+            "spanish": "I"
         }
     }
 }
-var gameOfDayDate = '2026-04-21'
+var gameOfDayDate = '2026-04-22'
