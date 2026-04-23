@@ -2,84 +2,108 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 356460,
-        "CEId": "43058ae1-0122-4507-9677-55db60d9ecd0",
-        "name": "Drive!Drive!Drive!",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/356460/header.jpg?t=1487012921",
+        "platformId": 1293170,
+        "CEId": "1c957f86-a960-4d6a-8c0a-3b4a421aed33",
+        "name": "BZZZT",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1293170/header.jpg?t=1712333380",
         "genre": [
-            "Arcade"
+            "Platformer"
         ],
         "tier": 1,
-        "points": 10,
-        "secondaryPoints": 0,
-        "medianPlaytime": 344,
-        "createdAt": "2022-04-22T20:28:44.000Z",
+        "points": 5,
+        "secondaryPoints": 10,
+        "medianPlaytime": 667,
+        "createdAt": "2024-04-23T18:30:27.000Z",
         "updatedAt": "2026-04-20T18:31:22.000Z",
-        "playersCompleted": 4,
+        "playersCompleted": 25,
         "playersStarted": 0,
-        "playersTotal": 54,
+        "playersTotal": 113,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "initial": 1199,
+                "final": 299,
+                "discountPercent": 75
             },
             "EUR": {
-                "initial": 819,
-                "final": 819,
-                "discountPercent": 0
+                "initial": 1179,
+                "final": 294,
+                "discountPercent": 75
             },
             "GBP": {
-                "initial": 719,
-                "final": 719,
-                "discountPercent": 0
+                "initial": 999,
+                "final": 249,
+                "discountPercent": 75
             },
             "JPY": {
-                "initial": 101000,
-                "final": 101000,
-                "discountPercent": 0
+                "initial": 140000,
+                "final": 35000,
+                "discountPercent": 75
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "initial": 1775,
+                "final": 443,
+                "discountPercent": 75
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
-                "discountPercent": 0
+                "initial": 1549,
+                "final": 387,
+                "discountPercent": 75
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Gas! Gas! Gas! [10\u2605]\nComplete Offensive Mode.",
-            "secondary": 0,
-            "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 20
+            "primaryText": "Machine Learning [5\u2605]\nSeparately; Finish the game on Insane difficulty and perform a golden flawless run on all story mode stages.",
+            "secondary": 1,
+            "secondaryText": "Badbert and the Terrible, Horrible, No Good, Very Bad Day [10\u2605]\nBeat every level on Insane difficulty.",
+            "community": 1,
+            "communityText": "Mr. Robot\nFinish the game on Insane difficulty without losing a life.",
+            "achievements": 25
         },
         "CETags": {
             "genre": [
-                "Racing"
+                "2D Platformer"
             ],
-            "info": []
+            "info": [
+                "Has Community Objectives",
+                "Has Secondary Objectives"
+            ]
         },
         "gameTags": [
-            "Racing",
-            "Automobile Sim",
+            "Precision Platformer",
+            "Pixel Graphics",
+            "Score Attack",
+            "2D Platformer",
+            "Soundtrack",
+            "Difficult",
+            "Funny",
+            "Time Attack",
+            "Controller",
+            "2D",
+            "Cute",
+            "Colorful",
+            "Fast-Paced",
             "Action",
+            "Platformer",
             "Indie",
-            "Driving",
-            "Multiplayer"
+            "Robots",
+            "Singleplayer",
+            "Arcade",
+            "Perma Death"
         ],
         "languages": {
-            "english": "IA",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "spanish": "I"
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "polish": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "turkish": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-04-22'
+var gameOfDayDate = '2026-04-23'
