@@ -716,9 +716,9 @@ var masoData =
         "description": "\u272a Peer pressure",
         "tier": "4",
         "owners": 59,
-        "completions": 15,
-        "playtime": 45.081111111111106,
-        "newestCompletion": "2025-02-02T16:32:31.000Z"
+        "completions": 16,
+        "playtime": 44.15416666666666,
+        "newestCompletion": "2026-04-23T13:25:26.000Z"
     },
     "384250": {
         "description": "\u2606 Super Slide Bear Ressurection",
@@ -759,7 +759,7 @@ var masoData =
     "504230": {
         "description": "\u2733 It has Assist mode for a reason",
         "tier": "2",
-        "owners": 262,
+        "owners": 263,
         "completions": 193,
         "playtime": 253.21614853195163,
         "newestCompletion": "2025-12-15T21:59:54.000Z",
@@ -1201,7 +1201,7 @@ var masoData =
         "tier": "3",
         "owners": 122,
         "completions": 32,
-        "playtime": 60.49375,
+        "playtime": 60.4953125,
         "newestCompletion": "2025-09-04T17:54:43.000Z"
     },
     "422970": {
@@ -1365,7 +1365,7 @@ var masoData =
         "tier": "2",
         "owners": 211,
         "completions": 151,
-        "playtime": 21.12163355408387,
+        "playtime": 21.140507726269302,
         "newestCompletion": "2025-11-06T16:02:02.000Z"
     },
     "211260": {
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 260,
         "completions": 82,
-        "playtime": 127.61930894308941,
+        "playtime": 127.62296747967478,
         "newestCompletion": "2026-02-15T04:36:54.000Z"
     },
     "557340": {
@@ -3051,7 +3051,7 @@ var masoData =
     "390520": {
         "description": "\u2733 Bruh",
         "tier": "2",
-        "owners": 28,
+        "owners": 29,
         "completions": 4,
         "playtime": 21.03333333333333,
         "newestCompletion": "2026-01-13T12:12:28.000Z"
@@ -3771,7 +3771,7 @@ var masoData =
     "2127230": {
         "description": "Pongadelic",
         "tier": "1",
-        "owners": 7,
+        "owners": 8,
         "completions": 4,
         "playtime": 5.466666666666667,
         "newestCompletion": "2026-04-16T20:02:05.000Z"
@@ -3887,14 +3887,6 @@ var masoData =
             "count": 2,
             "points": 10
         }
-    },
-    "1889770": {
-        "description": "Rollba",
-        "tier": "1",
-        "owners": 14,
-        "completions": 7,
-        "playtime": 7.79047619047619,
-        "newestCompletion": "2025-07-17T03:39:21.000Z"
     },
     "1888160": {
         "description": "\u2733 t5 without tank wheels",
@@ -4577,7 +4569,7 @@ var masoData =
         "tier": "0",
         "owners": 45,
         "completions": 13,
-        "playtime": 73.36153846153846,
+        "playtime": 78.9423076923077,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
