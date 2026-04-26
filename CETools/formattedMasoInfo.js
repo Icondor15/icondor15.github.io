@@ -1396,9 +1396,9 @@ var masoData =
         "description": "ABSOLUTELY BANANAS",
         "tier": "1",
         "owners": 92,
-        "completions": 26,
-        "playtime": 23.079487179487185,
-        "newestCompletion": "2025-08-16T04:36:44.000Z",
+        "completions": 27,
+        "playtime": 23.269135802469144,
+        "newestCompletion": "2026-04-24T08:59:33.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -4567,9 +4567,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 46,
-        "completions": 13,
-        "playtime": 78.9423076923077,
+        "owners": 47,
+        "completions": 14,
+        "playtime": 77.70595238095238,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
@@ -4587,7 +4587,7 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 13,
+        "owners": 14,
         "completions": 3,
         "playtime": 34.12777777777777,
         "newestCompletion": "2025-06-19T00:20:43.000Z"
