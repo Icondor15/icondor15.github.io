@@ -2,22 +2,22 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 618690,
-        "CEId": "d39c3e9a-2f27-4dea-9777-95af2e82df5d",
-        "name": "Gorescript",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/618690/header.jpg?t=1581594317",
+        "platformId": 509820,
+        "CEId": "ad06e4bb-f41b-4cd3-8357-c67c55f4d392",
+        "name": "Super Grav",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/509820/header.jpg?t=1713987493",
         "genre": [
-            "First-Person"
+            "Arcade"
         ],
-        "tier": 3,
-        "points": 60,
+        "tier": 4,
+        "points": 110,
         "secondaryPoints": 0,
-        "medianPlaytime": 801,
-        "createdAt": "2022-04-25T20:13:15.000Z",
-        "updatedAt": "2026-04-20T18:31:22.000Z",
-        "playersCompleted": 5,
-        "playersStarted": 3,
-        "playersTotal": 58,
+        "medianPlaytime": 1961,
+        "createdAt": "2024-04-26T02:36:35.000Z",
+        "updatedAt": "2026-04-25T16:11:02.000Z",
+        "playersCompleted": 1,
+        "playersStarted": 1,
+        "playersTotal": 13,
         "priceData": {
             "USD": {
                 "initial": 599,
@@ -51,45 +51,46 @@ var gameOfDay =
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Shooting in the Dark [35\u2605]\nFinish the game on \"Masochistic Blackout Permadeath\" mode.\n\nQuick Draw [15\u2605]\nFinish all levels in under a minute separately.\n\nHardcore Gore [10\u2605]\nFinish the game on \"Masochistic\" difficulty.",
+            "primary": 4,
+            "primaryText": "spACEd [80\u2605]\nComplete a full run of all missions while acing every level.\n\nGraceful Space Racer [15\u2605]\nBeat the demo bogey time on all Race and Gravitation maps.\n\nSpacifist [10\u2605]\nComplete a full run of all missions without firing a weapon or crashing into enemies.\n\nIntergalactic Expedition [5\u2605]\nAce all missions.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 28
+            "achievements": 14
         },
         "CETags": {
             "genre": [
-                "First Person Shooter"
+                "Racing",
+                "Awkward Movement"
             ],
             "info": []
         },
         "gameTags": [
-            "FPS",
-            "Shooter",
-            "First-Person",
-            "Voxel",
-            "3D",
-            "Controller",
             "Action",
-            "Colorful",
-            "Retro",
-            "Old School",
-            "Combat",
-            "Indie",
-            "Singleplayer",
-            "Great Soundtrack",
-            "Survival",
-            "Difficult",
-            "Action-Adventure",
-            "Gore",
+            "Racing",
             "Pixel Graphics",
-            "Free to Play"
+            "Shoot 'Em Up",
+            "2D",
+            "Arcade",
+            "Shooter",
+            "Combat Racing",
+            "Retro",
+            "Indie",
+            "PvP",
+            "4 Player Local",
+            "Co-op",
+            "Co-op Campaign",
+            "Local Co-Op",
+            "Local Multiplayer",
+            "Multiplayer",
+            "Singleplayer",
+            "Combat",
+            "Bullet Hell"
         ],
         "languages": {
             "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-04-25'
+var gameOfDayDate = '2026-04-26'
