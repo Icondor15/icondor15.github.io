@@ -395,7 +395,7 @@ var masoData =
     "439490": {
         "description": "\ud83c\udf1f Reach the Summit",
         "tier": "5",
-        "owners": 75,
+        "owners": 76,
         "completions": 3,
         "playtime": 76.9888888888889,
         "newestCompletion": "2026-02-01T21:42:44.000Z"
@@ -1365,7 +1365,7 @@ var masoData =
         "tier": "2",
         "owners": 211,
         "completions": 151,
-        "playtime": 21.140507726269302,
+        "playtime": 21.147461368653406,
         "newestCompletion": "2025-11-06T16:02:02.000Z"
     },
     "211260": {
@@ -1535,7 +1535,7 @@ var masoData =
     "447150": {
         "description": "\u272a Hotline Harambe",
         "tier": "4",
-        "owners": 101,
+        "owners": 102,
         "completions": 25,
         "playtime": 64.49733333333333,
         "newestCompletion": "2026-04-15T22:39:05.000Z",
@@ -3301,7 +3301,7 @@ var masoData =
         "tier": "0",
         "owners": 71,
         "completions": 10,
-        "playtime": 993.4916666666666,
+        "playtime": 998.7616666666667,
         "newestCompletion": "2026-03-24T07:11:03.000Z",
         "badges": {
             "count": 6,
@@ -3321,7 +3321,7 @@ var masoData =
         "tier": "0",
         "owners": 56,
         "completions": 5,
-        "playtime": 173.30333333333334,
+        "playtime": 173.39333333333335,
         "newestCompletion": "2026-04-10T21:55:18.000Z",
         "badges": {
             "count": 3,
@@ -3341,7 +3341,7 @@ var masoData =
         "tier": "2",
         "owners": 117,
         "completions": 39,
-        "playtime": 92.97863247863249,
+        "playtime": 92.97905982905984,
         "newestCompletion": "2026-02-22T04:09:27.000Z",
         "badges": {
             "count": 3,
@@ -3352,9 +3352,9 @@ var masoData =
         "description": "\u2733 Epilogue for a Prologue for a Vacant Kingdom",
         "tier": "2",
         "owners": 27,
-        "completions": 9,
-        "playtime": 9.87037037037037,
-        "newestCompletion": "2025-08-14T06:27:07.000Z"
+        "completions": 10,
+        "playtime": 10.273333333333333,
+        "newestCompletion": "2026-04-28T09:56:01.000Z"
     },
     "1167630": {
         "description": "Reversed IKEA",
@@ -3547,7 +3547,7 @@ var masoData =
     "274190": {
         "description": "\ud83c\udf1f Press F to pay respect",
         "tier": "5",
-        "owners": 88,
+        "owners": 89,
         "completions": 14,
         "playtime": 48.74404761904761,
         "newestCompletion": "2025-11-22T05:38:25.000Z",
@@ -3593,7 +3593,7 @@ var masoData =
         "tier": "4",
         "owners": 47,
         "completions": 9,
-        "playtime": 49.214814814814815,
+        "playtime": 49.21851851851852,
         "newestCompletion": "2026-03-14T01:37:44.000Z"
     },
     "1621320": {
@@ -3916,9 +3916,9 @@ var masoData =
         "description": "\ud83c\udf96\ufe0f \u2606 Don't ask me how I know...",
         "tier": "0",
         "owners": 40,
-        "completions": 24,
-        "playtime": 21.581944444444446,
-        "newestCompletion": "2025-11-09T08:11:23.000Z",
+        "completions": 25,
+        "playtime": 20.72666666666667,
+        "newestCompletion": "2026-02-21T18:50:42.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -4551,15 +4551,15 @@ var masoData =
     "2680010": {
         "description": "Nioh but Nioher",
         "tier": "1",
-        "owners": 1,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 2,
+        "completions": 1,
+        "playtime": 125.13333333333334,
+        "newestCompletion": "2025-04-26T18:47:33.000Z"
     },
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together (Co-op)",
         "tier": "5",
-        "owners": 18,
+        "owners": 19,
         "completions": 3,
         "playtime": 445.31666666666666,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
@@ -4567,9 +4567,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 47,
-        "completions": 14,
-        "playtime": 77.70595238095238,
+        "owners": 48,
+        "completions": 15,
+        "playtime": 76.32333333333334,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
@@ -4587,9 +4587,9 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 14,
-        "completions": 3,
-        "playtime": 34.12777777777777,
+        "owners": 15,
+        "completions": 4,
+        "playtime": 35.09583333333333,
         "newestCompletion": "2025-06-19T00:20:43.000Z"
     },
     "1354260": {
@@ -4615,10 +4615,10 @@ var masoData =
     "3288210": {
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
-        "owners": 7,
-        "completions": 4,
-        "playtime": 30.366666666666664,
-        "newestCompletion": "2026-04-16T01:11:19.000Z"
+        "owners": 8,
+        "completions": 5,
+        "playtime": 33.15,
+        "newestCompletion": "2026-04-16T02:19:26.000Z"
     },
     "2178380": {
         "description": "\ud83c\udf96\ufe0f \u272a Don't blink",
