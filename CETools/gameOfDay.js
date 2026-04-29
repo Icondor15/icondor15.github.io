@@ -2,99 +2,95 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 345820,
-        "CEId": "f49a8fac-f5d5-497c-a672-003947e9e548",
-        "name": "Shantae and the Pirate's Curse",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/345820/header.jpg?t=1572910769",
+        "platformId": 2305880,
+        "CEId": "2bcd0976-2735-48aa-878f-345ede14fb30",
+        "name": "Hexapoda",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2305880/header.jpg?t=1710863007",
         "genre": [
-            "Action"
+            "Bullet Hell"
         ],
         "tier": 1,
         "points": 5,
         "secondaryPoints": 0,
-        "medianPlaytime": 1187,
-        "createdAt": "2022-04-28T06:13:16.000Z",
+        "medianPlaytime": 319,
+        "createdAt": "2024-04-29T04:55:17.000Z",
         "updatedAt": "2026-04-25T16:11:02.000Z",
-        "playersCompleted": 28,
+        "playersCompleted": 2,
         "playersStarted": 0,
-        "playersTotal": 297,
+        "playersTotal": 11,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 999,
-                "discountPercent": 50
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 1999,
-                "final": 999,
-                "discountPercent": 50
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 1499,
-                "final": 749,
-                "discountPercent": 50
+                "initial": 1099,
+                "final": 1099,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 198000,
-                "final": 99000,
-                "discountPercent": 50
+                "initial": 150000,
+                "final": 150000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 2895,
-                "final": 1447,
-                "discountPercent": 50
+                "initial": 1895,
+                "final": 1895,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 2199,
-                "final": 1099,
-                "discountPercent": 50
+                "initial": 1699,
+                "final": 1699,
+                "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Dance Through the Danger [5\u2605]\nProve yourself.",
+            "primaryText": "Stick Bugged [5\u2605]\nBeat the boss rush without using continues.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 44
+            "achievements": 35
         },
         "CETags": {
             "genre": [
-                "Action-Platformer",
-                "Metroidvania"
+                "Vertical Shoot'em'Up"
             ],
             "info": []
         },
         "gameTags": [
-            "Platformer",
-            "Metroidvania",
-            "Female Protagonist",
-            "Great Soundtrack",
+            "Shoot 'Em Up",
+            "Bullet Hell",
+            "Arcade",
             "2D",
-            "Pixel Graphics",
             "Action",
-            "Adventure",
-            "Anime",
-            "Indie",
-            "Cute",
-            "Singleplayer",
-            "Pirates",
-            "Funny",
-            "Side Scroller",
-            "RPG",
-            "Difficult",
-            "Sexual Content",
-            "Fantasy",
-            "Comedy"
+            "Top-Down Shooter",
+            "Shooter",
+            "4 Player Local",
+            "Pixel Graphics",
+            "Stylized",
+            "Top-Down",
+            "Post-apocalyptic",
+            "Retro",
+            "1980s",
+            "1990's",
+            "Multiple Endings",
+            "Nature",
+            "Futuristic",
+            "Sci-fi",
+            "Old School"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "spanish": "IS"
+            "english": "IS",
+            "french": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-04-28'
+var gameOfDayDate = '2026-04-29'
