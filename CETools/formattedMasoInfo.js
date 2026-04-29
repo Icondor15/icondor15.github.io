@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 264,
         "completions": 193,
-        "playtime": 253.21727115716754,
+        "playtime": 253.2311744386874,
         "newestCompletion": "2025-12-15T21:59:54.000Z",
         "badges": {
             "count": 2,
@@ -4173,7 +4173,7 @@ var masoData =
         "tier": "4",
         "owners": 58,
         "completions": 9,
-        "playtime": 257.6240740740741,
+        "playtime": 262.44629629629634,
         "newestCompletion": "2026-03-02T21:42:12.000Z",
         "badges": {
             "count": 1,
@@ -4519,7 +4519,7 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 30,
+        "owners": 31,
         "completions": 15,
         "playtime": 11.14111111111111,
         "newestCompletion": "2026-04-18T16:38:47.000Z"
