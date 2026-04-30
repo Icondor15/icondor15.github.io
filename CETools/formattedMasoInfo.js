@@ -3125,7 +3125,7 @@ var masoData =
         "tier": "0",
         "owners": 62,
         "completions": 9,
-        "playtime": 94.10185185185185,
+        "playtime": 95.46111111111111,
         "newestCompletion": "2026-04-12T20:08:01.000Z",
         "badges": {
             "count": 2,
@@ -3301,7 +3301,7 @@ var masoData =
         "tier": "0",
         "owners": 71,
         "completions": 10,
-        "playtime": 998.7616666666667,
+        "playtime": 999.7933333333333,
         "newestCompletion": "2026-03-24T07:11:03.000Z",
         "badges": {
             "count": 6,
@@ -3321,7 +3321,7 @@ var masoData =
         "tier": "0",
         "owners": 56,
         "completions": 5,
-        "playtime": 173.39333333333335,
+        "playtime": 174.38000000000002,
         "newestCompletion": "2026-04-10T21:55:18.000Z",
         "badges": {
             "count": 3,
@@ -4085,7 +4085,7 @@ var masoData =
         "tier": "0",
         "owners": 49,
         "completions": 19,
-        "playtime": 10.055263157894736,
+        "playtime": 10.164912280701753,
         "newestCompletion": "2026-03-21T09:20:02.000Z",
         "badges": {
             "count": 1,
