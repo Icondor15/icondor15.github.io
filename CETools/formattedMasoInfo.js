@@ -772,9 +772,9 @@ var masoData =
         "description": "\u2606 Simulates running IRL",
         "tier": "3",
         "owners": 110,
-        "completions": 36,
-        "playtime": 25.136574074074073,
-        "newestCompletion": "2025-11-16T08:23:05.000Z"
+        "completions": 37,
+        "playtime": 25.175225225225226,
+        "newestCompletion": "2026-04-20T01:33:55.000Z"
     },
     "658150": {
         "description": "\u272a Wield the stakerang and feel the rising blood pressure as you go on a never-ending vampire hunt",
@@ -879,10 +879,10 @@ var masoData =
     "637880": {
         "description": "\u272a I hope you got some fangames experience",
         "tier": "4",
-        "owners": 60,
-        "completions": 17,
-        "playtime": 31.003921568627447,
-        "newestCompletion": "2026-02-22T21:22:36.000Z"
+        "owners": 61,
+        "completions": 18,
+        "playtime": 31.563888888888886,
+        "newestCompletion": "2026-05-01T06:19:32.000Z"
     },
     "322500": {
         "description": "\u2733 Just killing red dudes",
@@ -959,10 +959,10 @@ var masoData =
     "239800": {
         "description": "\u2606 Through your fingers",
         "tier": "3",
-        "owners": 75,
-        "completions": 14,
-        "playtime": 14.067857142857141,
-        "newestCompletion": "2025-12-30T01:35:50.000Z"
+        "owners": 76,
+        "completions": 15,
+        "playtime": 13.783333333333333,
+        "newestCompletion": "2026-04-22T22:37:22.000Z"
     },
     "292500": {
         "description": "\u2733 Go Zangyourself",
@@ -1076,9 +1076,9 @@ var masoData =
         "description": "\u272a Gunpoint meets hotline miami",
         "tier": "4",
         "owners": 105,
-        "completions": 30,
-        "playtime": 39.217777777777776,
-        "newestCompletion": "2025-11-24T22:10:14.000Z"
+        "completions": 31,
+        "playtime": 38.483870967741936,
+        "newestCompletion": "2026-04-30T03:21:12.000Z"
     },
     "616000": {
         "description": "\u272a The name of your experience in a nutshell",
@@ -1187,7 +1187,7 @@ var masoData =
     "230270": {
         "description": "\ud83c\udf1f\ud83d\udc80 Time is money \ud83d\udc80",
         "tier": "5",
-        "owners": 180,
+        "owners": 181,
         "completions": 20,
         "playtime": 1368.8225000000002,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 236,
         "completions": 65,
-        "playtime": 61.28153846153846,
+        "playtime": 61.298205128205126,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
     },
     "317710": {
@@ -1577,7 +1577,7 @@ var masoData =
         "tier": "3",
         "owners": 128,
         "completions": 33,
-        "playtime": 111.64999999999999,
+        "playtime": 111.65050505050505,
         "newestCompletion": "2025-07-07T03:00:44.000Z",
         "badges": {
             "count": 1,
@@ -3229,7 +3229,7 @@ var masoData =
         "tier": "3",
         "owners": 130,
         "completions": 66,
-        "playtime": 75.68358585858587,
+        "playtime": 75.68813131313134,
         "newestCompletion": "2026-04-21T04:23:57.000Z",
         "badges": {
             "count": 1,
