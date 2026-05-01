@@ -2,108 +2,95 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 210970,
-        "CEId": "93847607-3a88-46a1-8834-c75482290eb0",
-        "name": "The Witness",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/210970/header.jpg?t=1598383120",
+        "platformId": 861330,
+        "CEId": "d31aa34f-855c-4566-821d-79a3147aba94",
+        "name": "Dungeon Deathball",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/861330/header.jpg?t=1680280971",
         "genre": [
             "Strategy"
         ],
         "tier": 1,
-        "points": 5,
+        "points": 15,
         "secondaryPoints": 0,
-        "medianPlaytime": 1908,
-        "createdAt": "2022-04-30T05:58:04.000Z",
-        "updatedAt": "2026-04-30T03:45:19.000Z",
-        "playersCompleted": 256,
+        "medianPlaytime": 3329,
+        "createdAt": "2023-05-01T06:24:05.000Z",
+        "updatedAt": "2026-04-25T16:11:02.000Z",
+        "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 901,
+        "playersTotal": 19,
         "priceData": {
             "USD": {
-                "initial": 3999,
-                "final": 999,
-                "discountPercent": 75
+                "initial": 1199,
+                "final": 1199,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 3699,
-                "final": 924,
-                "discountPercent": 75
+                "initial": 1225,
+                "final": 1225,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 2999,
-                "final": 749,
-                "discountPercent": 75
+                "initial": 1075,
+                "final": 1075,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 398000,
-                "final": 99500,
-                "discountPercent": 75
+                "initial": 160000,
+                "final": 160000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 5695,
-                "final": 1423,
-                "discountPercent": 75
+                "initial": 1695,
+                "final": 1695,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 4399,
-                "final": 1099,
-                "discountPercent": 75
+                "initial": 1425,
+                "final": 1425,
+                "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Mountain King [5\u2605]\nComplete the Challenge.",
+            "primary": 2,
+            "primaryText": "Prison Baller [10\u2605]\nObtain an S rank on every stage.\n\nAll Fun and Games [5\u2605]\nComplete the game using every difficult ball modifier. / Get a final score of 75,000 points or more.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 2
+            "achievements": 84
         },
         "CETags": {
             "genre": [
-                "Puzzle"
+                "Turn-Based",
+                "Rogue-like"
             ],
             "info": []
         },
         "gameTags": [
+            "Tactical",
+            "Roguelite",
+            "Turn-Based Tactics",
+            "Turn-Based Strategy",
+            "Score Attack",
+            "Tactical RPG",
+            "Procedural Generation",
+            "Arcade",
+            "Perma Death",
+            "Grid-Based Movement",
+            "Pixel Graphics",
+            "Roguelike",
+            "Turn-Based Combat",
+            "Dark Fantasy",
+            "Sports",
+            "Turn-Based",
+            "Strategy",
             "Puzzle",
-            "Exploration",
-            "First-Person",
-            "Open World",
-            "Singleplayer",
-            "Colorful",
-            "Indie",
-            "Atmospheric",
-            "Difficult",
-            "Walking Simulator",
-            "Adventure",
-            "Mystery",
-            "Nonlinear",
-            "Philosophical",
-            "Relaxing",
-            "Surreal",
-            "Casual",
-            "Great Soundtrack",
-            "Story Rich",
-            "Beautiful"
+            "Short",
+            "Strategy RPG"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "arabic": "IS",
-            "brazilian": "IS",
-            "hungarian": "IS",
-            "koreana": "IS",
-            "polish": "IS",
-            "portuguese": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "tchinese": "IS"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-04-30'
+var gameOfDayDate = '2026-05-01'
