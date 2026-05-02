@@ -2,95 +2,96 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 861330,
-        "CEId": "d31aa34f-855c-4566-821d-79a3147aba94",
-        "name": "Dungeon Deathball",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/861330/header.jpg?t=1680280971",
+        "platformId": 98400,
+        "CEId": "2ccddc1f-ab60-4b40-9d22-09c07e943414",
+        "name": "Hard Reset Extended Edition",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/98400/header.jpg?t=1505118773",
         "genre": [
-            "Strategy"
+            "First-Person"
         ],
-        "tier": 1,
-        "points": 15,
+        "tier": 2,
+        "points": 25,
         "secondaryPoints": 0,
-        "medianPlaytime": 3329,
-        "createdAt": "2023-05-01T06:24:05.000Z",
-        "updatedAt": "2026-04-25T16:11:02.000Z",
-        "playersCompleted": 5,
+        "medianPlaytime": 2279,
+        "createdAt": "2022-05-02T19:32:31.000Z",
+        "updatedAt": "2026-05-01T17:24:45.000Z",
+        "playersCompleted": 9,
         "playersStarted": 0,
-        "playersTotal": 19,
+        "playersTotal": 320,
         "priceData": {
             "USD": {
-                "initial": 1199,
-                "final": 1199,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1225,
-                "final": 1225,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1075,
-                "final": 1075,
+                "initial": 1279,
+                "final": 1279,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 160000,
-                "final": 160000,
+                "initial": 170000,
+                "final": 170000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1695,
-                "final": 1695,
+                "initial": 2195,
+                "final": 2195,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1425,
-                "final": 1425,
+                "initial": 1949,
+                "final": 1949,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Prison Baller [10\u2605]\nObtain an S rank on every stage.\n\nAll Fun and Games [5\u2605]\nComplete the game using every difficult ball modifier. / Get a final score of 75,000 points or more.",
+            "primary": 1,
+            "primaryText": "Exalted Exile [25\u2605]\nComplete all Bezoar and Barrens levels on Heroic mode.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 84
+            "achievements": 115
         },
         "CETags": {
             "genre": [
-                "Turn-Based",
-                "Rogue-like"
+                "First Person Shooter"
             ],
             "info": []
         },
         "gameTags": [
-            "Tactical",
-            "Roguelite",
-            "Turn-Based Tactics",
-            "Turn-Based Strategy",
-            "Score Attack",
-            "Tactical RPG",
-            "Procedural Generation",
-            "Arcade",
-            "Perma Death",
-            "Grid-Based Movement",
-            "Pixel Graphics",
-            "Roguelike",
-            "Turn-Based Combat",
-            "Dark Fantasy",
-            "Sports",
-            "Turn-Based",
-            "Strategy",
-            "Puzzle",
-            "Short",
-            "Strategy RPG"
+            "FPS",
+            "Cyberpunk",
+            "Action",
+            "Sci-fi",
+            "Shooter",
+            "Indie",
+            "Singleplayer",
+            "First-Person",
+            "Dystopian ",
+            "Robots",
+            "Difficult",
+            "3D Vision",
+            "Violent",
+            "Old School",
+            "Atmospheric",
+            "Gore",
+            "Boomer Shooter"
         ],
         "languages": {
-            "english": "I"
+            "english": "IA",
+            "german": "IA",
+            "japanese": "I",
+            "czech": "I",
+            "polish": "I",
+            "russian": "I"
         }
     }
 }
-var gameOfDayDate = '2026-05-01'
+var gameOfDayDate = '2026-05-02'
