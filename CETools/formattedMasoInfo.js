@@ -4631,5 +4631,13 @@ var masoData =
             "count": 1,
             "points": 6
         }
+    },
+    "1887400": {
+        "description": "\u2606 It's happy hour!",
+        "tier": "3",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
     }
 }
