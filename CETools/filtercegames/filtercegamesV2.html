@@ -2440,6 +2440,9 @@
                             case "ListMaker (Made CETools, not really staff)":
                                 groupTag.innerHTML += "<div style='padding-top: 2px; padding-bottom: 2px;' class='tagTitle userGroupListMaker'> <span title='Made CETools - Not really staff lol.' onclick='alert(this.title);' style='text-decoration: underline dotted; text-underline-offset: -0.2em; cursor:help;'>*</span></div>";
                                 break;
+                            default:
+                                groupTag.innerHTML += "<div style='padding-top: 2px; padding-bottom: 2px;' class='tagTitle userGroup" + group + "'>" + group + "</div>";
+                                break;
                         }
                         document.getElementById("userGroups").appendChild(groupTag);
                         document.getElementById("userGroups").innerHTML += " ";
