@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 264,
         "completions": 193,
-        "playtime": 253.2311744386874,
+        "playtime": 253.25924006908463,
         "newestCompletion": "2025-12-15T21:59:54.000Z",
         "badges": {
             "count": 2,
@@ -2237,7 +2237,7 @@ var masoData =
         "tier": "4",
         "owners": 116,
         "completions": 48,
-        "playtime": 251.81284722222222,
+        "playtime": 251.86284722222226,
         "newestCompletion": "2025-11-13T20:18:40.000Z",
         "badges": {
             "count": 1,
@@ -2847,7 +2847,7 @@ var masoData =
     "253750": {
         "description": "\ud83c\udf1f it's a great game, yea. a classic, if you will",
         "tier": "5",
-        "owners": 55,
+        "owners": 56,
         "completions": 3,
         "playtime": 50.27777777777778,
         "newestCompletion": "2025-11-28T15:30:45.000Z",
@@ -3529,7 +3529,7 @@ var masoData =
         "tier": "3",
         "owners": 55,
         "completions": 11,
-        "playtime": 166.45757575757577,
+        "playtime": 166.79696969696968,
         "newestCompletion": "2025-10-19T22:43:57.000Z",
         "badges": {
             "count": 1,
@@ -3879,7 +3879,7 @@ var masoData =
     "871720": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f Your average night shift",
         "tier": "0",
-        "owners": 69,
+        "owners": 70,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null,
@@ -4435,7 +4435,7 @@ var masoData =
     "2671590": {
         "description": "&quot;Would you love me if I was a space worm?&quot;",
         "tier": "1",
-        "owners": 3,
+        "owners": 4,
         "completions": 3,
         "playtime": 8.527777777777779,
         "newestCompletion": "2025-07-19T04:15:06.000Z"
@@ -4559,7 +4559,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together (Co-op)",
         "tier": "5",
-        "owners": 19,
+        "owners": 20,
         "completions": 3,
         "playtime": 445.31666666666666,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
@@ -4567,9 +4567,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 48,
-        "completions": 15,
-        "playtime": 76.32333333333334,
+        "owners": 49,
+        "completions": 16,
+        "playtime": 74.66666666666669,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
@@ -4587,7 +4587,7 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 15,
+        "owners": 16,
         "completions": 4,
         "playtime": 35.09583333333333,
         "newestCompletion": "2025-06-19T00:20:43.000Z"
@@ -4623,10 +4623,10 @@ var masoData =
     "2178380": {
         "description": "\ud83c\udf96\ufe0f \u272a Don't blink",
         "tier": "0",
-        "owners": 1,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null,
+        "owners": 2,
+        "completions": 1,
+        "playtime": 11.616666666666667,
+        "newestCompletion": "2026-03-23T21:30:31.000Z",
         "badges": {
             "count": 1,
             "points": 6
@@ -4635,9 +4635,9 @@ var masoData =
     "1887400": {
         "description": "\u2606 It's happy hour!",
         "tier": "3",
-        "owners": 0,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 3,
+        "completions": 3,
+        "playtime": 45.73888888888889,
+        "newestCompletion": "2026-04-30T19:49:10.000Z"
     }
 }
