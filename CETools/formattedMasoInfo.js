@@ -63,7 +63,7 @@ var masoData =
     "942060": {
         "description": "\u2733 Master the Ultra Gridstinct",
         "tier": "2",
-        "owners": 43,
+        "owners": 44,
         "completions": 18,
         "playtime": 8.937962962962963,
         "newestCompletion": "2025-07-11T16:00:09.000Z"
@@ -419,7 +419,7 @@ var masoData =
     "612390": {
         "description": "\u2733 Use a controller",
         "tier": "2",
-        "owners": 67,
+        "owners": 68,
         "completions": 11,
         "playtime": 18.46212121212121,
         "newestCompletion": "2023-06-27T19:38:32.000Z"
@@ -463,7 +463,7 @@ var masoData =
     "435790": {
         "description": "\u2733 Pathfinding Ninja X",
         "tier": "2",
-        "owners": 135,
+        "owners": 136,
         "completions": 51,
         "playtime": 10.955555555555554,
         "newestCompletion": "2025-08-04T16:14:58.000Z"
@@ -760,9 +760,9 @@ var masoData =
         "description": "\u2733 It has Assist mode for a reason",
         "tier": "2",
         "owners": 264,
-        "completions": 193,
-        "playtime": 253.25924006908463,
-        "newestCompletion": "2025-12-15T21:59:54.000Z",
+        "completions": 194,
+        "playtime": 252.09991408934707,
+        "newestCompletion": "2026-05-03T13:17:17.000Z",
         "badges": {
             "count": 2,
             "points": 16
@@ -1147,7 +1147,7 @@ var masoData =
     "400910": {
         "description": "\u272a I wanna be the waifu",
         "tier": "4",
-        "owners": 97,
+        "owners": 98,
         "completions": 13,
         "playtime": 290.4320512820513,
         "newestCompletion": "2024-01-01T22:31:43.000Z"
@@ -1772,9 +1772,9 @@ var masoData =
         "description": "\u2733 PlatinumGames",
         "tier": "2",
         "owners": 41,
-        "completions": 10,
-        "playtime": 25.418333333333333,
-        "newestCompletion": "2025-03-06T09:11:41.000Z"
+        "completions": 11,
+        "playtime": 24.36818181818182,
+        "newestCompletion": "2026-05-04T00:09:13.000Z"
     },
     "1056180": {
         "description": "\u2733 The biggest 8-bit adventure",
@@ -2315,7 +2315,7 @@ var masoData =
     "1285670": {
         "description": "PTSV",
         "tier": "1",
-        "owners": 96,
+        "owners": 97,
         "completions": 64,
         "playtime": 1.9625,
         "newestCompletion": "2026-03-22T21:14:44.000Z"
@@ -2387,7 +2387,7 @@ var masoData =
     "544330": {
         "description": "Keep a firm grip",
         "tier": "1",
-        "owners": 106,
+        "owners": 107,
         "completions": 24,
         "playtime": 14.339583333333332,
         "newestCompletion": "2024-07-19T18:41:08.000Z"
@@ -2419,7 +2419,7 @@ var masoData =
     "535480": {
         "description": "Tear me asunder",
         "tier": "1",
-        "owners": 77,
+        "owners": 78,
         "completions": 20,
         "playtime": 27.884999999999998,
         "newestCompletion": "2023-03-31T13:29:20.000Z"
@@ -2619,7 +2619,7 @@ var masoData =
     "390720": {
         "description": "That\"s axolotl destruction",
         "tier": "1",
-        "owners": 55,
+        "owners": 56,
         "completions": 16,
         "playtime": 9.226041666666665,
         "newestCompletion": "2025-09-12T19:00:30.000Z"
@@ -3083,7 +3083,7 @@ var masoData =
     "646570": {
         "description": "\u2606 Slay your cards right",
         "tier": "3",
-        "owners": 177,
+        "owners": 178,
         "completions": 49,
         "playtime": 197.5122448979592,
         "newestCompletion": "2026-03-11T19:58:16.000Z"
@@ -3499,7 +3499,7 @@ var masoData =
     "528720": {
         "description": "\u2733 Hope you got your running shues on!",
         "tier": "2",
-        "owners": 44,
+        "owners": 45,
         "completions": 8,
         "playtime": 20.070833333333336,
         "newestCompletion": "2023-05-09T02:29:13.000Z"
@@ -3655,7 +3655,7 @@ var masoData =
     "1772830": {
         "description": "\u2606 Don't let yoursef get rusty",
         "tier": "3",
-        "owners": 27,
+        "owners": 28,
         "completions": 7,
         "playtime": 36.357142857142854,
         "newestCompletion": "2025-01-18T14:42:57.000Z"
@@ -3735,7 +3735,7 @@ var masoData =
     "2211730": {
         "description": "Australia",
         "tier": "1",
-        "owners": 36,
+        "owners": 37,
         "completions": 19,
         "playtime": 3.1631578947368424,
         "newestCompletion": "2025-12-29T21:14:55.000Z"
@@ -3899,7 +3899,7 @@ var masoData =
     "1627720": {
         "description": "\u2733 The P is a lie",
         "tier": "2",
-        "owners": 33,
+        "owners": 34,
         "completions": 7,
         "playtime": 68.59523809523809,
         "newestCompletion": "2026-02-16T07:35:26.000Z"
@@ -3995,7 +3995,7 @@ var masoData =
     "2236070": {
         "description": "\ud83c\udf1f \u2665\u2665\u2665\u2665\u2665\u2665\u2665 seagulls",
         "tier": "5",
-        "owners": 53,
+        "owners": 54,
         "completions": 3,
         "playtime": 277.95,
         "newestCompletion": "2024-11-27T22:16:19.000Z"
@@ -4104,9 +4104,9 @@ var masoData =
         "description": "American Assist Mode",
         "tier": "1",
         "owners": 48,
-        "completions": 13,
-        "playtime": 16.55384615384615,
-        "newestCompletion": "2026-04-11T02:44:53.000Z"
+        "completions": 14,
+        "playtime": 17.04166666666666,
+        "newestCompletion": "2026-04-21T05:40:44.000Z"
     },
     "2144740": {
         "description": "Why did the other baseball team hire a paranormal investigator?",
@@ -4415,7 +4415,7 @@ var masoData =
     "1164940": {
         "description": "\u2733 You killed Kenny! You Bastards!",
         "tier": "2",
-        "owners": 43,
+        "owners": 44,
         "completions": 6,
         "playtime": 67.41388888888888,
         "newestCompletion": "2025-09-11T23:52:54.000Z",
@@ -4567,9 +4567,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 49,
-        "completions": 16,
-        "playtime": 74.66666666666669,
+        "owners": 50,
+        "completions": 17,
+        "playtime": 75.94117647058825,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
@@ -4587,9 +4587,9 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 16,
-        "completions": 4,
-        "playtime": 35.09583333333333,
+        "owners": 17,
+        "completions": 5,
+        "playtime": 40.38333333333333,
         "newestCompletion": "2025-06-19T00:20:43.000Z"
     },
     "1354260": {
