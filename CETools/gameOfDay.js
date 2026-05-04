@@ -2,22 +2,22 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 38740,
-        "CEId": "21f58fea-75de-4064-ae4e-38077f538cb8",
-        "name": "EDGE",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/38740/header.jpg?t=1596256602",
+        "platformId": 568320,
+        "CEId": "a5df6091-89d8-404a-bba1-10e93550c292",
+        "name": "Pictopix",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/568320/header.jpg?t=1646485558",
         "genre": [
-            "Platformer"
+            "Strategy"
         ],
         "tier": 1,
-        "points": 10,
+        "points": 5,
         "secondaryPoints": 0,
-        "medianPlaytime": 1407,
-        "createdAt": "2022-05-03T22:32:37.000Z",
-        "updatedAt": "2026-05-02T17:21:07.000Z",
-        "playersCompleted": 12,
-        "playersStarted": 20,
-        "playersTotal": 361,
+        "medianPlaytime": 2959,
+        "createdAt": "2022-05-04T03:30:57.000Z",
+        "updatedAt": "2026-05-03T19:20:40.000Z",
+        "playersCompleted": 128,
+        "playersStarted": 0,
+        "playersTotal": 214,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -25,76 +25,79 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 689,
-                "final": 689,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 589,
-                "final": 589,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 80000,
-                "final": 80000,
+                "initial": 69800,
+                "final": 69800,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1025,
-                "final": 1025,
+                "initial": 995,
+                "final": 995,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 899,
-                "final": 899,
+                "initial": 779,
+                "final": 779,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Speedhypercuber [5\u2605]\nGet an S+ rank on all extended and bonus levels.\n\nSpeedcuber [5\u2605]\nGet an S+ rank on all normal levels.",
+            "primary": 1,
+            "primaryText": "Coloring Pixels [5\u2605]\nComplete each of the sprint challenges within the specified times.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 47
+            "achievements": 34
         },
         "CETags": {
             "genre": [
-                "Puzzle Platformer"
+                "Puzzle"
             ],
             "info": []
         },
         "gameTags": [
-            "Puzzle Platformer",
             "Puzzle",
             "Indie",
-            "Action",
-            "Platformer",
-            "Great Soundtrack",
-            "Singleplayer",
-            "Isometric",
             "Casual",
-            "Abstract",
-            "3D Platformer",
-            "Retro",
-            "Time Attack",
+            "2D",
+            "Pixel Graphics",
             "Minimalist",
-            "Difficult"
+            "Relaxing",
+            "Strategy",
+            "Replay Value",
+            "Logic",
+            "Level Editor",
+            "Family Friendly",
+            "Singleplayer",
+            "Touch-Friendly",
+            "Colorful",
+            "Education"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "spanish": "I",
-            "czech": "I",
-            "dutch": "I",
-            "finnish": "I",
-            "polish": "I",
-            "portuguese": "I",
-            "turkish": "I"
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "czech": "IS",
+            "dutch": "IS",
+            "hungarian": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "swedish": "IS",
+            "turkish": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-05-03'
+var gameOfDayDate = '2026-05-04'
