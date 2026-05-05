@@ -2,102 +2,102 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 568320,
-        "CEId": "a5df6091-89d8-404a-bba1-10e93550c292",
-        "name": "Pictopix",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/568320/header.jpg?t=1646485558",
+        "platformId": 214490,
+        "CEId": "32e57fc5-c04e-442f-b29b-3d90c999407d",
+        "name": "Alien: Isolation",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/214490/header.jpg?t=1603026039",
         "genre": [
-            "Strategy"
+            "First-Person"
         ],
-        "tier": 1,
-        "points": 5,
+        "tier": 2,
+        "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 2959,
-        "createdAt": "2022-05-04T03:30:57.000Z",
+        "medianPlaytime": 2689,
+        "createdAt": "2022-05-05T04:29:49.000Z",
         "updatedAt": "2026-05-03T19:20:40.000Z",
-        "playersCompleted": 128,
-        "playersStarted": 0,
-        "playersTotal": 214,
+        "playersCompleted": 9,
+        "playersStarted": 60,
+        "playersTotal": 440,
         "priceData": {
             "USD": {
-                "initial": 699,
-                "final": 699,
+                "initial": 3999,
+                "final": 3999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 699,
-                "final": 699,
+                "initial": 3999,
+                "final": 3999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 499,
-                "final": 499,
+                "initial": 3499,
+                "final": 3499,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 69800,
-                "final": 69800,
+                "initial": 398000,
+                "final": 398000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 995,
-                "final": 995,
+                "initial": 5995,
+                "final": 5995,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 779,
-                "final": 779,
+                "initial": 4399,
+                "final": 4399,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Coloring Pixels [5\u2605]\nComplete each of the sprint challenges within the specified times.",
+            "primary": 2,
+            "primaryText": "Survival In a Nightmare [15\u2605]\nComplete the game on \"Nightmare\" difficulty.\n\nNatural Born Survivor [5\u2605]\nComplete the game on at least \"Hard\" difficulty. ",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 34
+            "achievements": 50
         },
         "CETags": {
             "genre": [
-                "Puzzle"
+                "Horror"
             ],
             "info": []
         },
         "gameTags": [
-            "Puzzle",
-            "Indie",
-            "Casual",
-            "2D",
-            "Pixel Graphics",
-            "Minimalist",
-            "Relaxing",
-            "Strategy",
-            "Replay Value",
-            "Logic",
-            "Level Editor",
-            "Family Friendly",
+            "Horror",
+            "Survival Horror",
+            "Sci-fi",
+            "Aliens",
+            "Atmospheric",
+            "Stealth",
+            "First-Person",
+            "Space",
+            "Female Protagonist",
             "Singleplayer",
-            "Touch-Friendly",
-            "Colorful",
-            "Education"
+            "Survival",
+            "Action",
+            "Difficult",
+            "Psychological Horror",
+            "Adventure",
+            "Great Soundtrack",
+            "FPS",
+            "Gore",
+            "Shooter",
+            "VR"
         ],
         "languages": {
-            "english": "IS",
-            "french": "IS",
-            "german": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IS",
+            "english": "IAS",
+            "french": "IAS",
+            "german": "IAS",
+            "italian": "IAS",
+            "spanish": "IAS",
+            "brazilian": "IAS",
             "czech": "IS",
-            "dutch": "IS",
-            "hungarian": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "swedish": "IS",
-            "turkish": "IS"
+            "polish": "IS",
+            "russian": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-05-04'
+var gameOfDayDate = '2026-05-05'
