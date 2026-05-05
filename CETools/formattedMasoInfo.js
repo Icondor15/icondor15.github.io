@@ -1189,7 +1189,7 @@ var masoData =
         "tier": "5",
         "owners": 181,
         "completions": 20,
-        "playtime": 1368.8225000000002,
+        "playtime": 1368.8291666666669,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
         "badges": {
             "count": 3,
@@ -2753,7 +2753,7 @@ var masoData =
         "tier": "3",
         "owners": 65,
         "completions": 21,
-        "playtime": 196.80873015873016,
+        "playtime": 196.8198412698413,
         "newestCompletion": "2025-07-09T03:28:07.000Z",
         "badges": {
             "count": 2,
@@ -4567,7 +4567,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 50,
+        "owners": 51,
         "completions": 17,
         "playtime": 75.94117647058825,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
