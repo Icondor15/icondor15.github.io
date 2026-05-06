@@ -2,102 +2,91 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 214490,
-        "CEId": "32e57fc5-c04e-442f-b29b-3d90c999407d",
-        "name": "Alien: Isolation",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/214490/header.jpg?t=1603026039",
+        "platformId": 2099390,
+        "CEId": "f75dde8d-4f3f-4404-a3e7-876e2a0b4fee",
+        "name": "Umbral Omen",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2099390/header.jpg?t=1682293119",
         "genre": [
-            "First-Person"
+            "Strategy"
         ],
         "tier": 2,
-        "points": 20,
+        "points": 35,
         "secondaryPoints": 0,
-        "medianPlaytime": 2689,
-        "createdAt": "2022-05-05T04:29:49.000Z",
+        "medianPlaytime": 2227,
+        "createdAt": "2023-05-06T14:41:08.000Z",
         "updatedAt": "2026-05-03T19:20:40.000Z",
-        "playersCompleted": 9,
-        "playersStarted": 60,
-        "playersTotal": 440,
+        "playersCompleted": 18,
+        "playersStarted": 0,
+        "playersTotal": 55,
         "priceData": {
             "USD": {
-                "initial": 3999,
-                "final": 3999,
+                "initial": 799,
+                "final": 799,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 3999,
-                "final": 3999,
+                "initial": 779,
+                "final": 779,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 3499,
-                "final": 3499,
+                "initial": 669,
+                "final": 669,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 398000,
-                "final": 398000,
+                "initial": 92000,
+                "final": 92000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 5995,
-                "final": 5995,
+                "initial": 1179,
+                "final": 1179,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 4399,
-                "final": 4399,
+                "initial": 1049,
+                "final": 1049,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Survival In a Nightmare [15\u2605]\nComplete the game on \"Nightmare\" difficulty.\n\nNatural Born Survivor [5\u2605]\nComplete the game on at least \"Hard\" difficulty. ",
+            "primary": 1,
+            "primaryText": "Omenous Riddles [35\u2605]\nMaster every Omen.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 50
+            "achievements": 17
         },
         "CETags": {
             "genre": [
-                "Horror"
+                "Puzzle"
             ],
-            "info": []
+            "info": [
+                "Curated"
+            ]
         },
         "gameTags": [
-            "Horror",
-            "Survival Horror",
-            "Sci-fi",
-            "Aliens",
-            "Atmospheric",
-            "Stealth",
-            "First-Person",
-            "Space",
-            "Female Protagonist",
+            "Casual",
+            "Puzzle",
+            "Strategy",
+            "Logic",
+            "Relaxing",
             "Singleplayer",
-            "Survival",
-            "Action",
-            "Difficult",
-            "Psychological Horror",
-            "Adventure",
-            "Great Soundtrack",
-            "FPS",
-            "Gore",
-            "Shooter",
-            "VR"
+            "Medieval",
+            "Nature",
+            "Pixel Graphics",
+            "2D",
+            "Board Game",
+            "Procedural Generation",
+            "Score Attack",
+            "Tutorial"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IAS",
-            "german": "IAS",
-            "italian": "IAS",
-            "spanish": "IAS",
-            "brazilian": "IAS",
-            "czech": "IS",
-            "polish": "IS",
-            "russian": "IAS"
-        }
+            "english": "I"
+        },
+        "information": "[Curated on Steam](https://store.steampowered.com/app/2099390/Umbral_Omen/?curator_clanid=36185934)"
     }
 }
-var gameOfDayDate = '2026-05-05'
+var gameOfDayDate = '2026-05-06'
