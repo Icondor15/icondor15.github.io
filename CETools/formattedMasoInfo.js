@@ -3,7 +3,7 @@ var masoData =
     "384700": {
         "description": "\u272a really fishing for mans",
         "tier": "4",
-        "owners": 55,
+        "owners": 56,
         "completions": 11,
         "playtime": 39.23636363636364,
         "newestCompletion": "2024-08-01T12:23:24.000Z"
@@ -463,7 +463,7 @@ var masoData =
     "435790": {
         "description": "\u2733 Pathfinding Ninja X",
         "tier": "2",
-        "owners": 136,
+        "owners": 137,
         "completions": 51,
         "playtime": 10.955555555555554,
         "newestCompletion": "2025-08-04T16:14:58.000Z"
@@ -1477,7 +1477,7 @@ var masoData =
         "tier": "5",
         "owners": 147,
         "completions": 39,
-        "playtime": 273.8816239316239,
+        "playtime": 273.984188034188,
         "newestCompletion": "2026-04-17T18:21:52.000Z",
         "badges": {
             "count": 1,
@@ -1636,9 +1636,9 @@ var masoData =
         "description": "\u2733 100% Authentic Bread Physics",
         "tier": "2",
         "owners": 56,
-        "completions": 9,
-        "playtime": 18.41111111111111,
-        "newestCompletion": "2025-08-25T06:47:43.000Z"
+        "completions": 10,
+        "playtime": 18.368333333333332,
+        "newestCompletion": "2026-05-05T17:12:43.000Z"
     },
     "278360": {
         "description": "\u2733 Finding Uncle Ben: A Spider-Man Story",
@@ -2080,9 +2080,9 @@ var masoData =
         "description": "What, you\"ve got daddy issues boyo??",
         "tier": "1",
         "owners": 181,
-        "completions": 85,
-        "playtime": 97.98019607843138,
-        "newestCompletion": "2026-02-26T17:16:55.000Z",
+        "completions": 86,
+        "playtime": 97.67771317829457,
+        "newestCompletion": "2026-05-01T07:34:01.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -2307,7 +2307,7 @@ var masoData =
     "378750": {
         "description": "\u2733 really fishing for babies",
         "tier": "2",
-        "owners": 48,
+        "owners": 49,
         "completions": 12,
         "playtime": 13.923611111111112,
         "newestCompletion": "2023-05-12T06:05:42.000Z"
@@ -2323,7 +2323,7 @@ var masoData =
     "384690": {
         "description": "\u2733 really fishing for children",
         "tier": "2",
-        "owners": 55,
+        "owners": 56,
         "completions": 13,
         "playtime": 17.49230769230769,
         "newestCompletion": "2025-02-28T23:19:03.000Z"
@@ -2888,9 +2888,9 @@ var masoData =
         "description": "Waifu Smash",
         "tier": "1",
         "owners": 132,
-        "completions": 38,
-        "playtime": 33.49035087719299,
-        "newestCompletion": "2025-04-01T04:26:58.000Z",
+        "completions": 39,
+        "playtime": 32.87094017094017,
+        "newestCompletion": "2026-04-01T08:13:06.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -3879,7 +3879,7 @@ var masoData =
     "871720": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f Your average night shift",
         "tier": "0",
-        "owners": 70,
+        "owners": 71,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null,
@@ -4085,7 +4085,7 @@ var masoData =
         "tier": "0",
         "owners": 49,
         "completions": 19,
-        "playtime": 10.164912280701753,
+        "playtime": 10.234210526315787,
         "newestCompletion": "2026-03-21T09:20:02.000Z",
         "badges": {
             "count": 1,
@@ -4103,7 +4103,7 @@ var masoData =
     "1887840": {
         "description": "American Assist Mode",
         "tier": "1",
-        "owners": 48,
+        "owners": 49,
         "completions": 14,
         "playtime": 17.04166666666666,
         "newestCompletion": "2026-04-21T05:40:44.000Z"
@@ -4267,7 +4267,7 @@ var masoData =
     "1548940": {
         "description": "\ud83c\udf1f DASH: The gap in between these f***ing spikes",
         "tier": "5",
-        "owners": 50,
+        "owners": 51,
         "completions": 3,
         "playtime": 107.83333333333333,
         "newestCompletion": "2025-04-15T21:46:21.000Z",
@@ -4579,7 +4579,7 @@ var masoData =
     "3191540": {
         "description": "There is a Smoking Hot Ape at the Top!",
         "tier": "1",
-        "owners": 4,
+        "owners": 5,
         "completions": 3,
         "playtime": 11.744444444444445,
         "newestCompletion": "2025-11-14T18:03:55.000Z"
@@ -4587,7 +4587,7 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 17,
+        "owners": 18,
         "completions": 5,
         "playtime": 40.38333333333333,
         "newestCompletion": "2025-06-19T00:20:43.000Z"
@@ -4635,7 +4635,7 @@ var masoData =
     "1887400": {
         "description": "\u2606 It's happy hour!",
         "tier": "3",
-        "owners": 3,
+        "owners": 4,
         "completions": 3,
         "playtime": 45.73888888888889,
         "newestCompletion": "2026-04-30T19:49:10.000Z"
