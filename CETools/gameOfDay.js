@@ -2,91 +2,97 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2099390,
-        "CEId": "f75dde8d-4f3f-4404-a3e7-876e2a0b4fee",
-        "name": "Umbral Omen",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2099390/header.jpg?t=1682293119",
+        "platformId": 2761620,
+        "CEId": "9cf4364b-02ca-42d4-a094-6f9264a2a5ab",
+        "name": "13 Seconds",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2761620/header.jpg?t=1710307725",
         "genre": [
-            "Strategy"
+            "Bullet Hell"
         ],
-        "tier": 2,
-        "points": 35,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 2227,
-        "createdAt": "2023-05-06T14:41:08.000Z",
-        "updatedAt": "2026-05-03T19:20:40.000Z",
-        "playersCompleted": 18,
+        "medianPlaytime": 255,
+        "createdAt": "2024-05-07T02:19:33.000Z",
+        "updatedAt": "2026-05-03T23:06:35.000Z",
+        "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 55,
+        "playersTotal": 33,
         "priceData": {
             "USD": {
-                "initial": 799,
-                "final": 799,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 779,
-                "final": 779,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 669,
-                "final": 669,
+                "initial": 339,
+                "final": 339,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 92000,
-                "final": 92000,
+                "initial": 47000,
+                "final": 47000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1179,
-                "final": 1179,
+                "initial": 595,
+                "final": 595,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1049,
-                "final": 1049,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Omenous Riddles [35\u2605]\nMaster every Omen.",
+            "primaryText": "v13 Bots [10\u2605]\nObtain an item 11 times in a row without missing it. / Reach level 13.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 17
+            "achievements": 7
         },
         "CETags": {
             "genre": [
-                "Puzzle"
+                "Twin Stick",
+                "Avoid'em'Up",
+                "Multitasking"
             ],
-            "info": [
-                "Curated"
-            ]
+            "info": []
         },
         "gameTags": [
+            "Action",
             "Casual",
-            "Puzzle",
-            "Strategy",
-            "Logic",
-            "Relaxing",
-            "Singleplayer",
-            "Medieval",
-            "Nature",
+            "Bullet Hell",
+            "Roguelike",
+            "Shooter",
+            "Arcade",
             "Pixel Graphics",
+            "Cyberpunk",
+            "Shoot 'Em Up",
             "2D",
-            "Board Game",
-            "Procedural Generation",
-            "Score Attack",
-            "Tutorial"
+            "Cartoony",
+            "Sci-fi",
+            "Robots",
+            "PvE",
+            "Controller",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "I"
-        },
-        "information": "[Curated on Steam](https://store.steampowered.com/app/2099390/Umbral_Omen/?curator_clanid=36185934)"
+            "english": "IAS",
+            "japanese": "IAS",
+            "spanish": "IAS",
+            "koreana": "IAS",
+            "schinese": "IAS",
+            "tchinese": "IAS"
+        }
     }
 }
-var gameOfDayDate = '2026-05-06'
+var gameOfDayDate = '2026-05-07'
