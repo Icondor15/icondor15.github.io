@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 264,
         "completions": 194,
-        "playtime": 252.09991408934707,
+        "playtime": 252.10017182130585,
         "newestCompletion": "2026-05-03T13:17:17.000Z",
         "badges": {
             "count": 2,
@@ -1415,7 +1415,7 @@ var masoData =
     "460950": {
         "description": "\u2733 Video games are art\u2122",
         "tier": "2",
-        "owners": 151,
+        "owners": 152,
         "completions": 66,
         "playtime": 36.543434343434356,
         "newestCompletion": "2025-09-28T06:58:41.000Z",
@@ -3228,9 +3228,9 @@ var masoData =
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
         "owners": 130,
-        "completions": 66,
-        "playtime": 75.68813131313134,
-        "newestCompletion": "2026-04-21T04:23:57.000Z",
+        "completions": 67,
+        "playtime": 75.12537313432838,
+        "newestCompletion": "2026-05-06T16:50:20.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -3679,7 +3679,7 @@ var masoData =
     "22000": {
         "description": "Old but Goold",
         "tier": "1",
-        "owners": 85,
+        "owners": 86,
         "completions": 12,
         "playtime": 15.575000000000001,
         "newestCompletion": "2024-08-02T13:57:55.000Z"
@@ -4479,7 +4479,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 78,
+        "owners": 79,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
