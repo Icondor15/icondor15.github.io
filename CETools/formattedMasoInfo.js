@@ -655,7 +655,7 @@ var masoData =
     "257850": {
         "description": "\u2733 Who needs a story anyway?",
         "tier": "2",
-        "owners": 118,
+        "owners": 119,
         "completions": 30,
         "playtime": 43.01666666666667,
         "newestCompletion": "2025-08-06T04:36:39.000Z"
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 264,
         "completions": 194,
-        "playtime": 252.10017182130585,
+        "playtime": 252.21383161512026,
         "newestCompletion": "2026-05-03T13:17:17.000Z",
         "badges": {
             "count": 2,
@@ -1067,7 +1067,7 @@ var masoData =
     "211360": {
         "description": "\u2733 Pretends to be a puzzle game",
         "tier": "2",
-        "owners": 50,
+        "owners": 51,
         "completions": 23,
         "playtime": 15.420289855072465,
         "newestCompletion": "2025-07-14T01:16:20.000Z"
@@ -1416,9 +1416,9 @@ var masoData =
         "description": "\u2733 Video games are art\u2122",
         "tier": "2",
         "owners": 152,
-        "completions": 66,
-        "playtime": 36.543434343434356,
-        "newestCompletion": "2025-09-28T06:58:41.000Z",
+        "completions": 67,
+        "playtime": 36.22736318407962,
+        "newestCompletion": "2026-05-07T23:57:24.000Z",
         "badges": {
             "count": 2,
             "points": 20
@@ -2109,7 +2109,7 @@ var masoData =
         "tier": "3",
         "owners": 98,
         "completions": 15,
-        "playtime": 46.26777777777777,
+        "playtime": 46.50222222222222,
         "newestCompletion": "2025-08-21T02:09:30.000Z"
     },
     "311930": {
@@ -3229,7 +3229,7 @@ var masoData =
         "tier": "3",
         "owners": 130,
         "completions": 67,
-        "playtime": 75.12537313432838,
+        "playtime": 75.13283582089555,
         "newestCompletion": "2026-05-06T16:50:20.000Z",
         "badges": {
             "count": 1,
@@ -3447,7 +3447,7 @@ var masoData =
     "1462040": {
         "description": "\u2733 That's got to be the most expensive game in the curator's history. And the game is not even finished.",
         "tier": "2",
-        "owners": 18,
+        "owners": 19,
         "completions": 5,
         "playtime": 80.53333333333333,
         "newestCompletion": "2023-11-26T01:28:45.000Z"
@@ -3509,7 +3509,7 @@ var masoData =
         "tier": "2",
         "owners": 101,
         "completions": 38,
-        "playtime": 54.244736842105254,
+        "playtime": 54.31754385964912,
         "newestCompletion": "2025-11-08T05:03:32.000Z"
     },
     "1442170": {
@@ -4603,7 +4603,7 @@ var masoData =
     "1761390": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The Disappearance of your free time",
         "tier": "0",
-        "owners": 8,
+        "owners": 9,
         "completions": 1,
         "playtime": 674.8666666666667,
         "newestCompletion": "2025-04-08T06:45:43.000Z",
@@ -4635,7 +4635,7 @@ var masoData =
     "1887400": {
         "description": "\u2606 It's happy hour!",
         "tier": "3",
-        "owners": 4,
+        "owners": 5,
         "completions": 3,
         "playtime": 45.73888888888889,
         "newestCompletion": "2026-04-30T19:49:10.000Z"
