@@ -303,7 +303,7 @@ var masoData =
     "253230": {
         "description": "Thank god for mods and EZ mode",
         "tier": "1",
-        "owners": 151,
+        "owners": 152,
         "completions": 45,
         "playtime": 125.33814814814814,
         "newestCompletion": "2026-04-03T04:29:59.000Z",
@@ -1147,7 +1147,7 @@ var masoData =
     "400910": {
         "description": "\u272a I wanna be the waifu",
         "tier": "4",
-        "owners": 98,
+        "owners": 99,
         "completions": 13,
         "playtime": 290.4320512820513,
         "newestCompletion": "2024-01-01T22:31:43.000Z"
@@ -3945,7 +3945,7 @@ var masoData =
         "tier": "3",
         "owners": 120,
         "completions": 11,
-        "playtime": 433.74090909090916,
+        "playtime": 441.8439393939394,
         "newestCompletion": "2025-02-09T16:05:47.000Z"
     },
     "718010": {
@@ -4085,7 +4085,7 @@ var masoData =
         "tier": "0",
         "owners": 49,
         "completions": 19,
-        "playtime": 10.234210526315787,
+        "playtime": 10.235087719298244,
         "newestCompletion": "2026-03-21T09:20:02.000Z",
         "badges": {
             "count": 1,
@@ -4479,7 +4479,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 79,
+        "owners": 80,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4495,7 +4495,7 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 26,
+        "owners": 27,
         "completions": 6,
         "playtime": 11.808333333333332,
         "newestCompletion": "2025-11-22T21:22:34.000Z"
@@ -4567,7 +4567,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 51,
+        "owners": 52,
         "completions": 17,
         "playtime": 75.94117647058825,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
