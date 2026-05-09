@@ -2,47 +2,45 @@ var gameOfDay =
 {
     "game": {
         "gameType": 3,
-        "platformId": 8868,
-        "CEId": "ad84a8cc-611f-4534-90d3-1fc2d588e9c6",
-        "name": "Ginga Fukei Densetsu Sapphire",
-        "header": "https://upload.cedb.me/ad84a8cc-611f-4534-90d3-1fc2d588e9c6.png",
+        "platformId": 19095,
+        "CEId": "29f6e279-8ccc-4e75-b39e-7288995cb96f",
+        "name": "Monster Attack",
+        "header": "https://i.postimg.cc/xdP17R3V/Monster-Attack1.png",
         "genre": [
-            "Bullet Hell"
+            "Action"
         ],
         "tier": 1,
         "points": 5,
         "secondaryPoints": 0,
         "medianPlaytime": 0,
-        "createdAt": "2024-05-08T21:21:16.000Z",
-        "updatedAt": "2026-05-03T19:20:40.000Z",
-        "playersCompleted": 2,
+        "createdAt": "2024-05-09T14:40:16.000Z",
+        "updatedAt": "2026-05-09T03:07:29.000Z",
+        "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 6,
+        "playersTotal": 1,
         "gameTags": [
-            "Shoot 'em Up"
+            "Action"
         ],
         "consoleData": {
-            "name": "PC Engine CD/TurboGrafx-CD",
-            "family": "NEC",
-            "icon": "https://static.retroachievements.org/assets/images/system/pccd.png"
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Thin Blue Line [5\u2605]\nClear the game on Hard difficulty.",
-            "secondary": 1,
-            "secondaryText": "Time Solution [0\u2605]\nClear the game on Hard difficulty without continues.",
+            "primaryText": "Not So Simple [5\u2605]\nComplete all missions on Inferno difficulty.",
+            "secondary": 0,
+            "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 21
+            "achievements": 73
         },
         "CETags": {
             "genre": [
-                "Vertical Shoot'em'Up"
+                "Third Person Shooter"
             ],
-            "info": [
-                "Has Secondary Objectives"
-            ]
+            "info": []
         }
     }
 }
-var gameOfDayDate = '2026-05-08'
+var gameOfDayDate = '2026-05-09'
