@@ -2,45 +2,43 @@ var gameOfDay =
 {
     "game": {
         "gameType": 3,
-        "platformId": 19095,
-        "CEId": "29f6e279-8ccc-4e75-b39e-7288995cb96f",
-        "name": "Monster Attack",
-        "header": "https://i.postimg.cc/xdP17R3V/Monster-Attack1.png",
+        "platformId": 7,
+        "CEId": "6c87ab93-a5df-45dd-b05e-8d94c7274cb2",
+        "name": "Gunstar Heroes",
+        "header": "https://upload.cedb.me/6c87ab93-a5df-45dd-b05e-8d94c7274cb2.png",
         "genre": [
             "Action"
         ],
         "tier": 1,
-        "points": 5,
+        "points": 10,
         "secondaryPoints": 0,
         "medianPlaytime": 0,
-        "createdAt": "2024-05-09T14:40:16.000Z",
+        "createdAt": "2024-05-11T18:00:34.000Z",
         "updatedAt": "2026-05-09T03:07:29.000Z",
-        "playersCompleted": 1,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 1,
-        "gameTags": [
-            "Action"
-        ],
+        "playersTotal": 8,
+        "gameTags": [],
         "consoleData": {
-            "name": "PlayStation 2",
-            "family": "Sony",
-            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+            "name": "Genesis/Mega Drive",
+            "family": "Sega",
+            "icon": "https://static.retroachievements.org/assets/images/system/md.png"
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Not So Simple [5\u2605]\nComplete all missions on Inferno difficulty.",
+            "primaryText": "Run'n'Gun Star [10\u2605]\nBeat the game on Expert difficulty.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 73
+            "achievements": 54
         },
         "CETags": {
             "genre": [
-                "Third Person Shooter"
+                "Run & Gun"
             ],
             "info": []
         }
     }
 }
-var gameOfDayDate = '2026-05-09'
+var gameOfDayDate = '2026-05-11'
