@@ -175,7 +175,7 @@ var masoData =
     "485510": {
         "description": "\u2733 \u30c0\u30fc\u30af\u30bd\u30a6\u30eb\u3088\u308a\u3082\u826f\u3044",
         "tier": "2",
-        "owners": 55,
+        "owners": 56,
         "completions": 12,
         "playtime": 174.96666666666667,
         "newestCompletion": "2025-07-31T01:32:10.000Z"
@@ -725,7 +725,7 @@ var masoData =
         "tier": "3",
         "owners": 54,
         "completions": 14,
-        "playtime": 137.80833333333334,
+        "playtime": 139.7595238095238,
         "newestCompletion": "2026-04-03T17:54:30.000Z",
         "badges": {
             "count": 3,
@@ -1067,7 +1067,7 @@ var masoData =
     "211360": {
         "description": "\u2733 Pretends to be a puzzle game",
         "tier": "2",
-        "owners": 51,
+        "owners": 52,
         "completions": 23,
         "playtime": 15.420289855072465,
         "newestCompletion": "2025-07-14T01:16:20.000Z"
@@ -1428,9 +1428,9 @@ var masoData =
         "description": "Rocketo Jumpu",
         "tier": "1",
         "owners": 89,
-        "completions": 48,
-        "playtime": 4.937500000000003,
-        "newestCompletion": "2025-12-23T19:52:20.000Z"
+        "completions": 49,
+        "playtime": 4.874149659863948,
+        "newestCompletion": "2026-05-09T01:08:03.000Z"
     },
     "961660": {
         "description": "\u2733 Bosses Everywhere",
@@ -2227,7 +2227,7 @@ var masoData =
     "1130410": {
         "description": "Spiderman in Tron\"s world",
         "tier": "1",
-        "owners": 108,
+        "owners": 109,
         "completions": 58,
         "playtime": 10.36867816091954,
         "newestCompletion": "2026-01-04T20:27:17.000Z"
@@ -2411,7 +2411,7 @@ var masoData =
     "1147560": {
         "description": "\u2606 It\"s all in the head",
         "tier": "3",
-        "owners": 47,
+        "owners": 48,
         "completions": 8,
         "playtime": 93.69999999999999,
         "newestCompletion": "2025-08-27T01:00:35.000Z"
@@ -3456,9 +3456,9 @@ var masoData =
         "description": "Beets to game to",
         "tier": "1",
         "owners": 50,
-        "completions": 17,
-        "playtime": 11.174509803921568,
-        "newestCompletion": "2025-01-08T22:48:21.000Z"
+        "completions": 18,
+        "playtime": 11.521296296296295,
+        "newestCompletion": "2026-05-09T23:52:25.000Z"
     },
     "1414020": {
         "description": "\u2733 Just get lucky",
@@ -3529,7 +3529,7 @@ var masoData =
         "tier": "3",
         "owners": 55,
         "completions": 11,
-        "playtime": 166.79696969696968,
+        "playtime": 166.91363636363636,
         "newestCompletion": "2025-10-19T22:43:57.000Z",
         "badges": {
             "count": 1,
@@ -4479,7 +4479,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 80,
+        "owners": 81,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4495,7 +4495,7 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 27,
+        "owners": 28,
         "completions": 6,
         "playtime": 11.808333333333332,
         "newestCompletion": "2025-11-22T21:22:34.000Z"
@@ -4559,7 +4559,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together (Co-op)",
         "tier": "5",
-        "owners": 20,
+        "owners": 21,
         "completions": 3,
         "playtime": 445.31666666666666,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
@@ -4615,7 +4615,7 @@ var masoData =
     "3288210": {
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
-        "owners": 8,
+        "owners": 9,
         "completions": 5,
         "playtime": 33.15,
         "newestCompletion": "2026-04-16T02:19:26.000Z"
