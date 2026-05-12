@@ -112,9 +112,9 @@ var masoData =
         "description": "Poor budget, Rich experience",
         "tier": "1",
         "owners": 27,
-        "completions": 12,
-        "playtime": 6.226388888888889,
-        "newestCompletion": "2026-03-27T15:26:29.000Z"
+        "completions": 13,
+        "playtime": 6.176923076923076,
+        "newestCompletion": "2026-05-07T00:09:01.000Z"
     },
     "894420": {
         "description": "Short Snackington",
@@ -1651,7 +1651,7 @@ var masoData =
     "355820": {
         "description": "You spin me right round",
         "tier": "1",
-        "owners": 33,
+        "owners": 34,
         "completions": 18,
         "playtime": 7.03611111111111,
         "newestCompletion": "2024-02-02T05:48:32.000Z"
@@ -1720,9 +1720,9 @@ var masoData =
         "description": "\u2733 I Wanna Be the Chad",
         "tier": "2",
         "owners": 48,
-        "completions": 16,
-        "playtime": 18.690624999999997,
-        "newestCompletion": "2023-10-23T04:36:04.000Z"
+        "completions": 17,
+        "playtime": 18.27647058823529,
+        "newestCompletion": "2026-05-11T03:07:04.000Z"
     },
     "600130": {
         "description": "\u2733 \ud83d\uddf2 HELL YEAH \ud83d\uddf2",
@@ -2155,7 +2155,7 @@ var masoData =
     "940710": {
         "description": "\u272a Yippee-ki-yay, Motherf****",
         "tier": "4",
-        "owners": 55,
+        "owners": 56,
         "completions": 7,
         "playtime": 46.147619047619045,
         "newestCompletion": "2026-03-01T17:04:20.000Z"
@@ -3021,7 +3021,7 @@ var masoData =
         "tier": "2",
         "owners": 56,
         "completions": 15,
-        "playtime": 9.086666666666666,
+        "playtime": 9.27111111111111,
         "newestCompletion": "2026-04-18T00:32:43.000Z"
     },
     "1714590": {
@@ -3319,7 +3319,7 @@ var masoData =
     "245490": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f WELCOME TO THE FUTUUUUUUUUUURE",
         "tier": "0",
-        "owners": 56,
+        "owners": 57,
         "completions": 5,
         "playtime": 174.38000000000002,
         "newestCompletion": "2026-04-10T21:55:18.000Z",
@@ -3641,7 +3641,7 @@ var masoData =
         "tier": "1",
         "owners": 12,
         "completions": 4,
-        "playtime": 11.766666666666666,
+        "playtime": 11.779166666666667,
         "newestCompletion": "2024-04-10T22:20:30.000Z"
     },
     "1960710": {
@@ -3801,7 +3801,7 @@ var masoData =
         "tier": "2",
         "owners": 123,
         "completions": 16,
-        "playtime": 241.35416666666666,
+        "playtime": 241.35729166666667,
         "newestCompletion": "2026-04-06T19:16:36.000Z",
         "badges": {
             "count": 1,
