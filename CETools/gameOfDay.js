@@ -1,44 +1,102 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 3,
-        "platformId": 7,
-        "CEId": "6c87ab93-a5df-45dd-b05e-8d94c7274cb2",
-        "name": "Gunstar Heroes",
-        "header": "https://upload.cedb.me/6c87ab93-a5df-45dd-b05e-8d94c7274cb2.png",
+        "gameType": 0,
+        "platformId": 873940,
+        "CEId": "16c5c355-9b1a-455a-aa6c-23193b501351",
+        "name": "Crying Suns",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/873940/header.jpg?t=1682501097",
         "genre": [
-            "Action"
+            "Strategy"
         ],
-        "tier": 1,
-        "points": 10,
+        "tier": 2,
+        "points": 25,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2024-05-11T18:00:34.000Z",
-        "updatedAt": "2026-05-09T03:07:29.000Z",
-        "playersCompleted": 3,
+        "medianPlaytime": 4269,
+        "createdAt": "2023-05-12T09:47:22.000Z",
+        "updatedAt": "2026-05-10T20:29:49.000Z",
+        "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 8,
-        "gameTags": [],
-        "consoleData": {
-            "name": "Genesis/Mega Drive",
-            "family": "Sega",
-            "icon": "https://static.retroachievements.org/assets/images/system/md.png"
+        "playersTotal": 263,
+        "priceData": {
+            "USD": {
+                "initial": 2499,
+                "final": 2499,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 2099,
+                "final": 2099,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1949,
+                "final": 1949,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 257000,
+                "final": 257000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 3595,
+                "final": 3595,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 2899,
+                "final": 2899,
+                "discountPercent": 0
+            }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Run'n'Gun Star [10\u2605]\nBeat the game on Expert difficulty.",
+            "primaryText": "OMNIscient Admiral [25\u2605]\nComplete every chapter with the Void ship on Hard difficulty.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 54
+            "community": 1,
+            "communityText": "Class Act\nComplete every chapter with every battleship on Hard difficulty.",
+            "achievements": 65
         },
         "CETags": {
             "genre": [
-                "Run & Gun"
+                "Real-Time Strategy",
+                "Rogue-like"
             ],
             "info": []
+        },
+        "gameTags": [
+            "Strategy",
+            "Space",
+            "Indie",
+            "Roguelite",
+            "Pixel Graphics",
+            "Sci-fi",
+            "Tactical",
+            "Roguelike",
+            "Post-apocalyptic",
+            "Real-Time with Pause",
+            "Story Rich",
+            "2D",
+            "Singleplayer",
+            "Procedural Generation",
+            "Perma Death",
+            "RTS",
+            "Hex Grid",
+            "Real Time Tactics",
+            "Resource Management",
+            "Dark"
+        ],
+        "languages": {
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "russian": "IS",
+            "schinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-05-11'
+var gameOfDayDate = '2026-05-12'
