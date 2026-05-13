@@ -2,101 +2,89 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 873940,
-        "CEId": "16c5c355-9b1a-455a-aa6c-23193b501351",
-        "name": "Crying Suns",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/873940/header.jpg?t=1682501097",
+        "platformId": 1944060,
+        "CEId": "2344f80a-d718-4300-ac4c-797e126f097c",
+        "name": "Super Alloy Ranger",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1944060/header.jpg?t=1676360947",
         "genre": [
-            "Strategy"
+            "Action"
         ],
-        "tier": 2,
-        "points": 25,
+        "tier": 3,
+        "points": 55,
         "secondaryPoints": 0,
-        "medianPlaytime": 4269,
-        "createdAt": "2023-05-12T09:47:22.000Z",
-        "updatedAt": "2026-05-10T20:29:49.000Z",
-        "playersCompleted": 4,
-        "playersStarted": 0,
-        "playersTotal": 263,
+        "medianPlaytime": 1529,
+        "createdAt": "2023-05-13T20:45:05.000Z",
+        "updatedAt": "2026-05-09T03:07:29.000Z",
+        "playersCompleted": 6,
+        "playersStarted": 5,
+        "playersTotal": 42,
         "priceData": {
             "USD": {
-                "initial": 2499,
-                "final": 2499,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 2099,
-                "final": 2099,
+                "initial": 819,
+                "final": 819,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1949,
-                "final": 1949,
+                "initial": 719,
+                "final": 719,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 257000,
-                "final": 257000,
+                "initial": 101000,
+                "final": 101000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 3595,
-                "final": 3595,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2899,
-                "final": 2899,
+                "initial": 1149,
+                "final": 1149,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "OMNIscient Admiral [25\u2605]\nComplete every chapter with the Void ship on Hard difficulty.",
+            "primary": 3,
+            "primaryText": "Astronomical Performance [20\u2605]\nFinish all levels with a Legendary rank on Crazy difficulty.\n\nMarksman Against the Empire [20\u2605]\nObtain all weapons on Crazy difficulty.\n\nQualified Alloy Unit [15\u2605]\nProve yourself.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 1,
-            "communityText": "Class Act\nComplete every chapter with every battleship on Hard difficulty.",
-            "achievements": 65
+            "community": 0,
+            "communityText": "",
+            "achievements": 50
         },
         "CETags": {
             "genre": [
-                "Real-Time Strategy",
-                "Rogue-like"
+                "Action-Platformer"
             ],
             "info": []
         },
         "gameTags": [
-            "Strategy",
-            "Space",
-            "Indie",
-            "Roguelite",
+            "Action",
             "Pixel Graphics",
+            "2D Platformer",
+            "Action-Adventure",
             "Sci-fi",
-            "Tactical",
-            "Roguelike",
-            "Post-apocalyptic",
-            "Real-Time with Pause",
-            "Story Rich",
-            "2D",
+            "Indie",
             "Singleplayer",
-            "Procedural Generation",
-            "Perma Death",
-            "RTS",
-            "Hex Grid",
-            "Real Time Tactics",
-            "Resource Management",
-            "Dark"
+            "Adventure",
+            "Combat",
+            "Anime",
+            "Female Protagonist",
+            "2D",
+            "Platformer"
         ],
         "languages": {
             "english": "IS",
-            "french": "IS",
-            "german": "IS",
             "japanese": "IS",
-            "spanish": "IS",
-            "russian": "IS",
             "schinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-05-12'
+var gameOfDayDate = '2026-05-13'
