@@ -2,89 +2,108 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1944060,
-        "CEId": "2344f80a-d718-4300-ac4c-797e126f097c",
-        "name": "Super Alloy Ranger",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1944060/header.jpg?t=1676360947",
+        "platformId": 915230,
+        "CEId": "64668d42-9df3-4e49-915a-bb1c68be831d",
+        "name": "Zombie Rollerz: Pinball Heroes",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/915230/header.jpg?t=1666628974",
         "genre": [
-            "Action"
+            "Arcade"
         ],
-        "tier": 3,
-        "points": 55,
+        "tier": 2,
+        "points": 35,
         "secondaryPoints": 0,
-        "medianPlaytime": 1529,
-        "createdAt": "2023-05-13T20:45:05.000Z",
-        "updatedAt": "2026-05-09T03:07:29.000Z",
+        "medianPlaytime": 2828,
+        "createdAt": "2023-05-14T17:35:17.000Z",
+        "updatedAt": "2026-05-13T23:30:53.000Z",
         "playersCompleted": 6,
-        "playersStarted": 5,
-        "playersTotal": 42,
+        "playersStarted": 0,
+        "playersTotal": 79,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 819,
-                "final": 819,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 719,
-                "final": 719,
+                "initial": 1299,
+                "final": 1299,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 101000,
-                "final": 101000,
+                "initial": 180000,
+                "final": 180000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 2000,
+                "final": 2000,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 1899,
+                "final": 1899,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "Astronomical Performance [20\u2605]\nFinish all levels with a Legendary rank on Crazy difficulty.\n\nMarksman Against the Empire [20\u2605]\nObtain all weapons on Crazy difficulty.\n\nQualified Alloy Unit [15\u2605]\nProve yourself.",
+            "primary": 2,
+            "primaryText": "Tabletop Hero [25\u2605]\nComplete Hell difficulty with all heroes.\n\nRollin' Warrior [10\u2605]\nComplete Hard difficulty with all heroes.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 50
+            "achievements": 73
         },
         "CETags": {
             "genre": [
-                "Action-Platformer"
+                "Score Attack",
+                "Rogue-like"
             ],
             "info": []
         },
         "gameTags": [
-            "Action",
-            "Pixel Graphics",
-            "2D Platformer",
-            "Action-Adventure",
-            "Sci-fi",
+            "Pinball",
+            "Zombies",
+            "Roguelite",
             "Indie",
+            "Shoot 'Em Up",
+            "Action",
+            "Simulation",
+            "Arcade",
+            "Controller",
+            "Roguelike",
+            "Character Customization",
+            "Action Roguelike",
             "Singleplayer",
-            "Adventure",
-            "Combat",
-            "Anime",
-            "Female Protagonist",
-            "2D",
-            "Platformer"
+            "Casual",
+            "Physics",
+            "Score Attack",
+            "3D",
+            "Cartoony",
+            "Colorful",
+            "Isometric"
         ],
         "languages": {
             "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
             "japanese": "IS",
-            "schinese": "IS"
+            "spanish": "IS",
+            "arabic": "IS",
+            "dutch": "IS",
+            "koreana": "IS",
+            "portuguese": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-05-13'
+var gameOfDayDate = '2026-05-14'
