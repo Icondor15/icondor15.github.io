@@ -1,109 +1,49 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 915230,
-        "CEId": "64668d42-9df3-4e49-915a-bb1c68be831d",
-        "name": "Zombie Rollerz: Pinball Heroes",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/915230/header.jpg?t=1666628974",
+        "gameType": 3,
+        "platformId": 9049,
+        "CEId": "85d91ca9-87fe-4a8e-9a2e-6bab0d0c86ec",
+        "name": "Guitar Hero II",
+        "header": "https://upload.cedb.me/k8QWaT.png",
         "genre": [
             "Arcade"
         ],
-        "tier": 2,
-        "points": 35,
+        "tier": 3,
+        "points": 60,
         "secondaryPoints": 0,
-        "medianPlaytime": 2828,
-        "createdAt": "2023-05-14T17:35:17.000Z",
-        "updatedAt": "2026-05-13T23:30:53.000Z",
-        "playersCompleted": 6,
-        "playersStarted": 0,
-        "playersTotal": 79,
-        "priceData": {
-            "USD": {
-                "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 1499,
-                "final": 1499,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 180000,
-                "final": 180000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 2000,
-                "final": 2000,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 1899,
-                "final": 1899,
-                "discountPercent": 0
-            }
+        "medianPlaytime": 0,
+        "createdAt": "2025-05-15T17:03:41.000Z",
+        "updatedAt": "2026-05-15T01:35:55.000Z",
+        "playersCompleted": 0,
+        "playersStarted": 6,
+        "playersTotal": 10,
+        "gameTags": [
+            "Rhythm"
+        ],
+        "consoleData": {
+            "name": "PlayStation 2",
+            "family": "Sony",
+            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Tabletop Hero [25\u2605]\nComplete Hell difficulty with all heroes.\n\nRollin' Warrior [10\u2605]\nComplete Hard difficulty with all heroes.",
+            "primary": 4,
+            "primaryText": "Six-String Dragonslayer (UNCLEARED) [0\u2605]\nGet a gold star rating in every song on Expert Lead/Guitar.\n\nKick the Bucket [25\u2605]\nObtain a 5 star rank in every song on Expert Lead/Guitar.\n\nDouble Encore [25\u2605]\nPass all bonus songs on Expert Lead/Guitar.\n\nPLAY FREE BIRD [10\u2605]\nPass all songs in Career Mode on Expert Lead/Guitar.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 73
+            "achievements": 180
         },
         "CETags": {
             "genre": [
-                "Score Attack",
-                "Rogue-like"
+                "VSRG",
+                "Rhythm"
             ],
-            "info": []
-        },
-        "gameTags": [
-            "Pinball",
-            "Zombies",
-            "Roguelite",
-            "Indie",
-            "Shoot 'Em Up",
-            "Action",
-            "Simulation",
-            "Arcade",
-            "Controller",
-            "Roguelike",
-            "Character Customization",
-            "Action Roguelike",
-            "Singleplayer",
-            "Casual",
-            "Physics",
-            "Score Attack",
-            "3D",
-            "Cartoony",
-            "Colorful",
-            "Isometric"
-        ],
-        "languages": {
-            "english": "IS",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "arabic": "IS",
-            "dutch": "IS",
-            "koreana": "IS",
-            "portuguese": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "tchinese": "IS",
-            "turkish": "IS"
+            "info": [
+                "Uncleared"
+            ]
         }
     }
 }
-var gameOfDayDate = '2026-05-14'
+var gameOfDayDate = '2026-05-15'
