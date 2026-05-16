@@ -4479,7 +4479,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 82,
+        "owners": 83,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4495,7 +4495,7 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 28,
+        "owners": 29,
         "completions": 6,
         "playtime": 11.808333333333332,
         "newestCompletion": "2025-11-22T21:22:34.000Z"
@@ -4559,7 +4559,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together (Co-op)",
         "tier": "5",
-        "owners": 21,
+        "owners": 22,
         "completions": 3,
         "playtime": 445.31666666666666,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
@@ -4567,7 +4567,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 53,
+        "owners": 54,
         "completions": 17,
         "playtime": 75.94117647058825,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
@@ -4587,7 +4587,7 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 19,
+        "owners": 20,
         "completions": 5,
         "playtime": 40.38333333333333,
         "newestCompletion": "2025-06-19T00:20:43.000Z"
