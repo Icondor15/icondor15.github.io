@@ -1,49 +1,95 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 3,
-        "platformId": 9049,
-        "CEId": "85d91ca9-87fe-4a8e-9a2e-6bab0d0c86ec",
-        "name": "Guitar Hero II",
-        "header": "https://upload.cedb.me/k8QWaT.png",
+        "gameType": 0,
+        "platformId": 2107520,
+        "CEId": "0aef72d9-c926-4096-aeb1-635dbc32e3a2",
+        "name": "Krimson",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2107520/header.jpg?t=1711050023",
         "genre": [
-            "Arcade"
+            "Platformer"
         ],
-        "tier": 3,
-        "points": 60,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2025-05-15T17:03:41.000Z",
+        "medianPlaytime": 544,
+        "createdAt": "2025-05-16T05:30:55.000Z",
         "updatedAt": "2026-05-15T01:35:55.000Z",
-        "playersCompleted": 0,
-        "playersStarted": 6,
-        "playersTotal": 10,
-        "gameTags": [
-            "Rhythm"
-        ],
-        "consoleData": {
-            "name": "PlayStation 2",
-            "family": "Sony",
-            "icon": "https://static.retroachievements.org/assets/images/system/ps2.png"
+        "playersCompleted": 1,
+        "playersStarted": 0,
+        "playersTotal": 11,
+        "priceData": {
+            "USD": {
+                "initial": 999,
+                "final": 999,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 975,
+                "final": 975,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 850,
+                "final": 850,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 120000,
+                "final": 120000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1450,
+                "final": 1450,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
+            }
         },
         "milestones": {
-            "primary": 4,
-            "primaryText": "Six-String Dragonslayer (UNCLEARED) [0\u2605]\nGet a gold star rating in every song on Expert Lead/Guitar.\n\nKick the Bucket [25\u2605]\nObtain a 5 star rank in every song on Expert Lead/Guitar.\n\nDouble Encore [25\u2605]\nPass all bonus songs on Expert Lead/Guitar.\n\nPLAY FREE BIRD [10\u2605]\nPass all songs in Career Mode on Expert Lead/Guitar.",
+            "primary": 1,
+            "primaryText": "Wait1ng 4 Y0u in Hell [10\u2605]\nComplete each level in the game without dying.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 180
+            "achievements": 12
         },
         "CETags": {
             "genre": [
-                "VSRG",
-                "Rhythm"
+                "2D Platformer"
             ],
-            "info": [
-                "Uncleared"
-            ]
+            "info": []
+        },
+        "gameTags": [
+            "Precision Platformer",
+            "Rhythm",
+            "Horror",
+            "Psychological Horror",
+            "2D Platformer",
+            "Platformer",
+            "2D",
+            "Dark",
+            "Psychedelic",
+            "Atmospheric",
+            "Action",
+            "Abstract",
+            "Puzzle",
+            "Pixel Graphics",
+            "Dark Fantasy",
+            "Demons",
+            "Adventure",
+            "Psychological",
+            "Sci-fi",
+            "Thriller"
+        ],
+        "languages": {
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-05-15'
+var gameOfDayDate = '2026-05-16'
