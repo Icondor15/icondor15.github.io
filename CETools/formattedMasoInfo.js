@@ -751,7 +751,7 @@ var masoData =
     "503550": {
         "description": "\u2733 50 shades of precision platforming",
         "tier": "2",
-        "owners": 75,
+        "owners": 76,
         "completions": 24,
         "playtime": 27.889583333333334,
         "newestCompletion": "2025-07-09T00:43:17.000Z"
@@ -2124,9 +2124,9 @@ var masoData =
         "description": "\u2606 Finally hard",
         "tier": "3",
         "owners": 79,
-        "completions": 21,
-        "playtime": 18.387301587301586,
-        "newestCompletion": "2025-09-13T02:06:01.000Z"
+        "completions": 22,
+        "playtime": 18.48181818181818,
+        "newestCompletion": "2026-05-05T20:52:06.000Z"
     },
     "404540": {
         "description": "\u2733 Next Machine Please",
@@ -4085,7 +4085,7 @@ var masoData =
         "tier": "0",
         "owners": 49,
         "completions": 19,
-        "playtime": 10.235087719298244,
+        "playtime": 10.240350877192983,
         "newestCompletion": "2026-03-21T09:20:02.000Z",
         "badges": {
             "count": 1,
@@ -4105,7 +4105,7 @@ var masoData =
         "tier": "1",
         "owners": 49,
         "completions": 14,
-        "playtime": 17.04166666666666,
+        "playtime": 17.644047619047615,
         "newestCompletion": "2026-04-21T05:40:44.000Z"
     },
     "2144740": {
@@ -4595,7 +4595,7 @@ var masoData =
     "1354260": {
         "description": "\u2733 The only good argument that AI &gt; humans. (Co-op)",
         "tier": "2",
-        "owners": 3,
+        "owners": 4,
         "completions": 1,
         "playtime": 31.816666666666666,
         "newestCompletion": "2026-01-22T22:17:23.000Z"
