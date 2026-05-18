@@ -1309,7 +1309,7 @@ var masoData =
         "tier": "2",
         "owners": 164,
         "completions": 72,
-        "playtime": 236.13495370370376,
+        "playtime": 236.28425925925933,
         "newestCompletion": "2025-08-29T21:26:24.000Z",
         "badges": {
             "count": 2,
@@ -3341,7 +3341,7 @@ var masoData =
         "tier": "2",
         "owners": 117,
         "completions": 39,
-        "playtime": 92.97905982905984,
+        "playtime": 92.98461538461538,
         "newestCompletion": "2026-02-22T04:09:27.000Z",
         "badges": {
             "count": 3,
@@ -3548,9 +3548,9 @@ var masoData =
         "description": "\ud83c\udf1f Press F to pay respect",
         "tier": "5",
         "owners": 89,
-        "completions": 14,
-        "playtime": 48.74404761904761,
-        "newestCompletion": "2025-11-22T05:38:25.000Z",
+        "completions": 15,
+        "playtime": 54.25888888888889,
+        "newestCompletion": "2026-05-18T05:36:58.000Z",
         "badges": {
             "count": 2,
             "points": 10
@@ -3593,7 +3593,7 @@ var masoData =
         "tier": "4",
         "owners": 47,
         "completions": 9,
-        "playtime": 49.21851851851852,
+        "playtime": 49.22222222222222,
         "newestCompletion": "2026-03-14T01:37:44.000Z"
     },
     "1621320": {
@@ -3736,9 +3736,9 @@ var masoData =
         "description": "Australia",
         "tier": "1",
         "owners": 38,
-        "completions": 19,
-        "playtime": 3.1631578947368424,
-        "newestCompletion": "2025-12-29T21:14:55.000Z"
+        "completions": 20,
+        "playtime": 3.1116666666666672,
+        "newestCompletion": "2026-05-17T16:13:53.000Z"
     },
     "1123050": {
         "description": "Destroy... Absorb... Grow...",
@@ -4605,7 +4605,7 @@ var masoData =
         "tier": "0",
         "owners": 11,
         "completions": 2,
-        "playtime": 372.43333333333334,
+        "playtime": 377.7083333333333,
         "newestCompletion": "2025-09-10T14:44:46.000Z",
         "badges": {
             "count": 3,
@@ -4615,7 +4615,7 @@ var masoData =
     "3288210": {
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
-        "owners": 11,
+        "owners": 12,
         "completions": 6,
         "playtime": 33.69166666666667,
         "newestCompletion": "2026-04-24T23:28:21.000Z"
