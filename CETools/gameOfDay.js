@@ -2,100 +2,99 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1037130,
-        "CEId": "81360953-410d-4cdd-8cf7-baee2c3866b7",
-        "name": "Dandy Ace",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1037130/header.jpg?t=1620854766",
+        "platformId": 71250,
+        "CEId": "15e19c86-8a9b-409a-9f21-1da650e1b94c",
+        "name": "Sonic Adventure DX",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/71250/header.jpg?t=1603129698",
         "genre": [
-            "Action"
+            "Platformer"
         ],
         "tier": 2,
-        "points": 30,
+        "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 1067,
-        "createdAt": "2021-05-17T18:28:36.000Z",
-        "updatedAt": "2026-05-16T21:06:32.000Z",
-        "playersCompleted": 11,
+        "medianPlaytime": 2535,
+        "createdAt": "2021-05-18T22:46:03.000Z",
+        "updatedAt": "2026-05-15T01:35:55.000Z",
+        "playersOvercompleted": 0,
+        "playersCompleted": 53,
         "playersStarted": 0,
-        "playersTotal": 91,
+        "playersTotal": 573,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 799,
+                "final": 799,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1679,
-                "final": 1679,
+                "initial": 799,
+                "final": 799,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1549,
-                "final": 1549,
+                "initial": 599,
+                "final": 599,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 205000,
-                "final": 205000,
+                "initial": 79000,
+                "final": 79000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2895,
-                "final": 2895,
+                "initial": 1099,
+                "final": 1099,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2279,
-                "final": 2279,
+                "initial": 1099,
+                "final": 1099,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "A True Magician [30\u2605]\nDefeat Lele on Nightmare difficulty.",
+            "primaryText": "Clown Control [20\u2605]\nEarn all Action Stage and Sub Game emblems / Complete all Missions.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 26
+            "community": 1,
+            "communityText": "Sonic's the Name, Speed's My Game!\nComplete all primary objectives from all site-listed games in the Sonic the Hedgehog franchise. See verification requirements for complete list.",
+            "achievements": 15
         },
         "CETags": {
             "genre": [
-                "Rogue-like"
+                "3D Platformer"
             ],
             "info": []
         },
         "gameTags": [
-            "Action",
-            "Indie",
-            "Roguelite",
-            "Isometric",
-            "Roguelike",
-            "Dungeon Crawler",
-            "Difficult",
-            "Magic",
+            "Platformer",
+            "Great Soundtrack",
+            "3D Platformer",
+            "Classic",
+            "Adventure",
             "Singleplayer",
-            "Procedural Generation",
-            "Perma Death",
+            "Action",
+            "Fast-Paced",
+            "Retro",
+            "Third Person",
+            "3D",
+            "Family Friendly",
+            "Open World",
+            "1990's",
             "Replay Value",
-            "Atmospheric",
-            "2D",
-            "Hand-drawn",
-            "Action Roguelike"
+            "Controller",
+            "Story Rich",
+            "Memes",
+            "Moddable",
+            "Racing"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IAS",
-            "koreana": "IS",
-            "polish": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "tchinese": "IS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I"
         }
     }
 }
-var gameOfDayDate = '2026-05-17'
+var gameOfDayDate = '2026-05-18'
