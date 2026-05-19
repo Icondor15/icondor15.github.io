@@ -3083,7 +3083,7 @@ var masoData =
     "646570": {
         "description": "\u2606 Slay your cards right",
         "tier": "3",
-        "owners": 179,
+        "owners": 180,
         "completions": 50,
         "playtime": 197.10966666666667,
         "newestCompletion": "2026-04-19T09:33:00.000Z"
@@ -4561,7 +4561,7 @@ var masoData =
         "tier": "5",
         "owners": 22,
         "completions": 3,
-        "playtime": 445.31666666666666,
+        "playtime": 449.18888888888887,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
     },
     "238460": {
