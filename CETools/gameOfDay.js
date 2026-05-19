@@ -2,99 +2,93 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 71250,
-        "CEId": "15e19c86-8a9b-409a-9f21-1da650e1b94c",
-        "name": "Sonic Adventure DX",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/71250/header.jpg?t=1603129698",
+        "platformId": 2336290,
+        "CEId": "63117566-1edb-4357-8e4b-29090ce8a0a3",
+        "name": "Well...",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2336290/header.jpg?t=1680490592",
         "genre": [
-            "Platformer"
+            "First-Person"
         ],
-        "tier": 2,
-        "points": 20,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 2535,
-        "createdAt": "2021-05-18T22:46:03.000Z",
-        "updatedAt": "2026-05-15T01:35:55.000Z",
+        "medianPlaytime": 302,
+        "createdAt": "2023-05-19T00:43:28.000Z",
+        "updatedAt": "2026-05-17T13:19:55.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 53,
-        "playersStarted": 0,
-        "playersTotal": 573,
+        "playersCompleted": 11,
+        "playersStarted": 1,
+        "playersTotal": 20,
         "priceData": {
             "USD": {
-                "initial": 799,
-                "final": 799,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 799,
-                "final": 799,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 599,
-                "final": 599,
+                "initial": 339,
+                "final": 339,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 79000,
-                "final": 79000,
+                "initial": 47000,
+                "final": 47000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1099,
-                "final": 1099,
+                "initial": 595,
+                "final": 595,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1099,
-                "final": 1099,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Clown Control [20\u2605]\nEarn all Action Stage and Sub Game emblems / Complete all Missions.",
+            "primary": 2,
+            "primaryText": "If only Timmy was as skilled as you [5\u2605]\nBeat the game in under 10 minutes.\n\nWell... I did it! [5\u2605]\nBeat the game.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 1,
-            "communityText": "Sonic's the Name, Speed's My Game!\nComplete all primary objectives from all site-listed games in the Sonic the Hedgehog franchise. See verification requirements for complete list.",
-            "achievements": 15
+            "community": 0,
+            "communityText": "",
+            "achievements": 10
         },
         "CETags": {
             "genre": [
-                "3D Platformer"
+                "First Person Movement"
             ],
             "info": []
         },
         "gameTags": [
-            "Platformer",
-            "Great Soundtrack",
-            "3D Platformer",
-            "Classic",
             "Adventure",
-            "Singleplayer",
-            "Action",
-            "Fast-Paced",
-            "Retro",
-            "Third Person",
+            "Casual",
+            "Action-Adventure",
+            "Platformer",
+            "3D Platformer",
+            "Exploration",
             "3D",
-            "Family Friendly",
-            "Open World",
-            "1990's",
-            "Replay Value",
-            "Controller",
+            "Cartoony",
+            "Colorful",
+            "First-Person",
+            "Drama",
+            "Fantasy",
+            "Funny",
+            "Mystery",
             "Story Rich",
-            "Memes",
-            "Moddable",
-            "Racing"
+            "Singleplayer",
+            "Indie",
+            "Precision Platformer"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "japanese": "I",
-            "spanish": "I"
+            "english": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-05-18'
+var gameOfDayDate = '2026-05-19'
