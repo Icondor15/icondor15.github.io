@@ -725,7 +725,7 @@ var masoData =
         "tier": "3",
         "owners": 54,
         "completions": 14,
-        "playtime": 139.7595238095238,
+        "playtime": 139.82738095238093,
         "newestCompletion": "2026-04-03T17:54:30.000Z",
         "badges": {
             "count": 3,
@@ -871,7 +871,7 @@ var masoData =
     "230700": {
         "description": "\u2733 Guides: The game",
         "tier": "2",
-        "owners": 88,
+        "owners": 89,
         "completions": 13,
         "playtime": 130.60000000000002,
         "newestCompletion": "2023-08-27T14:34:55.000Z"
@@ -887,9 +887,9 @@ var masoData =
     "322500": {
         "description": "\u2733 Just killing red dudes",
         "tier": "2",
-        "owners": 154,
+        "owners": 155,
         "completions": 72,
-        "playtime": 19.06643518518518,
+        "playtime": 19.06921296296296,
         "newestCompletion": "2025-11-07T20:42:27.000Z"
     },
     "413580": {
@@ -945,7 +945,7 @@ var masoData =
         "tier": "2",
         "owners": 192,
         "completions": 102,
-        "playtime": 32.85833333333335,
+        "playtime": 32.859640522875836,
         "newestCompletion": "2026-03-16T13:18:39.000Z"
     },
     "510620": {
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 236,
         "completions": 65,
-        "playtime": 61.298205128205126,
+        "playtime": 61.299743589743585,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
     },
     "317710": {
@@ -1309,7 +1309,7 @@ var masoData =
         "tier": "2",
         "owners": 164,
         "completions": 72,
-        "playtime": 236.28425925925933,
+        "playtime": 236.28888888888892,
         "newestCompletion": "2025-08-29T21:26:24.000Z",
         "badges": {
             "count": 2,
@@ -1337,7 +1337,7 @@ var masoData =
         "tier": "4",
         "owners": 124,
         "completions": 23,
-        "playtime": 67.8985507246377,
+        "playtime": 68.036231884058,
         "newestCompletion": "2025-04-28T15:10:06.000Z"
     },
     "318530": {
@@ -1373,7 +1373,7 @@ var masoData =
         "tier": "3",
         "owners": 123,
         "completions": 20,
-        "playtime": 60.65250000000001,
+        "playtime": 60.68333333333334,
         "newestCompletion": "2025-07-12T05:06:51.000Z"
     },
     "237740": {
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 262,
         "completions": 83,
-        "playtime": 126.84277108433734,
+        "playtime": 126.84598393574295,
         "newestCompletion": "2026-04-11T03:44:04.000Z"
     },
     "557340": {
@@ -1407,7 +1407,7 @@ var masoData =
     "264200": {
         "description": "\u272a How fast is your hand-eye coordination?Test your resolve with this progressively faster and harder game.",
         "tier": "4",
-        "owners": 120,
+        "owners": 121,
         "completions": 19,
         "playtime": 68.90263157894736,
         "newestCompletion": "2024-05-19T23:51:51.000Z"
@@ -1919,7 +1919,7 @@ var masoData =
     "799510": {
         "description": "Squirting Dream Land",
         "tier": "1",
-        "owners": 52,
+        "owners": 53,
         "completions": 23,
         "playtime": 4.1521739130434785,
         "newestCompletion": "2026-01-23T15:42:31.000Z"
@@ -2024,9 +2024,9 @@ var masoData =
         "description": "The cube that flipped the rhythm",
         "tier": "1",
         "owners": 59,
-        "completions": 30,
-        "playtime": 4.102222222222222,
-        "newestCompletion": "2026-04-19T23:03:39.000Z"
+        "completions": 31,
+        "playtime": 4.228494623655914,
+        "newestCompletion": "2026-05-20T01:19:04.000Z"
     },
     "320140": {
         "description": "\u2733 SKRRT SKRRT",
@@ -3229,7 +3229,7 @@ var masoData =
         "tier": "3",
         "owners": 130,
         "completions": 67,
-        "playtime": 75.13283582089555,
+        "playtime": 75.13333333333337,
         "newestCompletion": "2026-05-06T16:50:20.000Z",
         "badges": {
             "count": 1,
@@ -4003,7 +4003,7 @@ var masoData =
     "1337520": {
         "description": "\u2733 Rorrhundisto",
         "tier": "2",
-        "owners": 59,
+        "owners": 60,
         "completions": 9,
         "playtime": 95.30740740740741,
         "newestCompletion": "2026-02-06T13:58:42.000Z",
@@ -4567,7 +4567,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 54,
+        "owners": 55,
         "completions": 17,
         "playtime": 75.94117647058825,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
@@ -4635,9 +4635,21 @@ var masoData =
     "1887400": {
         "description": "\u2606 It's happy hour!",
         "tier": "3",
-        "owners": 5,
-        "completions": 3,
-        "playtime": 45.73888888888889,
+        "owners": 7,
+        "completions": 4,
+        "playtime": 49.15833333333333,
         "newestCompletion": "2026-04-30T19:49:10.000Z"
+    },
+    "1711520": {
+        "description": "\u272a TIME TRAVEL \ud83d\udde3\ufe0f\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f",
+        "tier": "4",
+        "owners": 2,
+        "completions": 1,
+        "playtime": 110.36666666666666,
+        "newestCompletion": "2024-03-24T17:56:35.000Z",
+        "badges": {
+            "count": 1,
+            "points": 7
+        }
     }
 }
