@@ -4267,7 +4267,7 @@ var masoData =
     "1548940": {
         "description": "\ud83c\udf1f DASH: The gap in between these f***ing spikes",
         "tier": "5",
-        "owners": 51,
+        "owners": 52,
         "completions": 3,
         "playtime": 107.83333333333333,
         "newestCompletion": "2025-04-15T21:46:21.000Z",
@@ -4496,9 +4496,9 @@ var masoData =
         "description": "Tricky Towers",
         "tier": "1",
         "owners": 29,
-        "completions": 6,
-        "playtime": 11.808333333333332,
-        "newestCompletion": "2025-11-22T21:22:34.000Z"
+        "completions": 7,
+        "playtime": 11.654761904761903,
+        "newestCompletion": "2026-05-20T07:22:46.000Z"
     },
     "1282210": {
         "description": "6-key EDM concert",
@@ -4635,7 +4635,7 @@ var masoData =
     "1887400": {
         "description": "\u2606 It's happy hour!",
         "tier": "3",
-        "owners": 7,
+        "owners": 8,
         "completions": 4,
         "playtime": 49.15833333333333,
         "newestCompletion": "2026-04-30T19:49:10.000Z"
