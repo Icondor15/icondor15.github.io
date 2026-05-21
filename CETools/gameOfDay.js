@@ -2,110 +2,111 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 956140,
-        "CEId": "8c6551c6-e391-46c6-a028-db438c2e6ef0",
-        "name": "Lifeslide",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/956140/header.jpg?t=1673512195",
+        "platformId": 2073250,
+        "CEId": "473fc1c0-fe8b-4049-93ad-f25af100d664",
+        "name": "Rift of the NecroDancer",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073250/header.jpg?t=1746470556",
         "genre": [
             "Arcade"
         ],
-        "tier": 1,
-        "points": 15,
+        "tier": 4,
+        "points": 110,
         "secondaryPoints": 0,
-        "medianPlaytime": 718,
-        "createdAt": "2023-05-20T00:06:41.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2025-05-21T19:09:25.000Z",
         "updatedAt": "2026-05-15T01:35:55.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 6,
-        "playersStarted": 0,
-        "playersTotal": 30,
+        "playersCompleted": 0,
+        "playersStarted": 12,
+        "playersTotal": 218,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 819,
-                "final": 819,
+                "initial": 1950,
+                "final": 1950,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 719,
-                "final": 719,
+                "initial": 1675,
+                "final": 1675,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 101000,
-                "final": 101000,
+                "initial": 230000,
+                "final": 230000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 2950,
+                "final": 2950,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 2599,
+                "final": 2599,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Zen Trip [15\u2605]\nBeat the entire game without dying.",
+            "primary": 11,
+            "primaryText": "Ultimate Goblin Pleaser (UNCLEARED) [0\u2605]\nBeat 32 tracks in Remix Mode on Impossible difficulty with the CODA modifier active. (DLCs allowed)\n\nGoblin Pleaser (UNCLEARED) [0\u2605]\nBeat any track in Remix Mode on Impossible difficulty with the CODA modifier active.\n\n*Maniacal Laughter* YOU'VE DONE IT! (UNCLEARED) [0\u2605]\nBeat all base game tracks in Remix Mode with a Full Combo on Impossible difficulty.\n\n3-Lane DJ (UNCLEARED) [0\u2605]\nBeat all base game tracks in Remix Mode with a Full Combo on Hard difficulty (or higher).\n\nJust a Made-Up Rhythm [20\u2605]\nBeat all base game tracks in Remix Mode with a Full Combo on Medium difficulty (or higher).\n\nShop 'Til You Drop[35\u2605 (Partial: 10\u2605)]\nClear all Shopkeeper challenges.\n\nRift Shopping (UNVALUED) [0\u2605]\nGet an S+ on all Challenges.\n\nBet you miss the Crypt by now, huh? (UNCLEARED) [0\u2605]\nBeat all base game tracks with a Full Combo on Impossible difficulty.\n\nHard Rift to Counterblow [40\u2605]\nBeat all base game tracks with a Full Combo on Hard difficulty (or higher).\n\nRiftbuster [10\u2605]\nBeat all base game tracks with a Full Combo on Medium difficulty (or higher).\n\nStorybook Sequel [5\u2605]\nOn Hard difficulty, get a \"Perfect\" badge on all Minigames and get an S+ rank on all Bossfights.",
             "secondary": 0,
             "secondaryText": "",
             "community": 1,
-            "communityText": "Professional Paper Pilot\nBeat the entire game without dying using the plane with maximum speed.",
-            "achievements": 31
+            "communityText": "No Rift Adrift\nComplete all tracks (including DLCs) in Remix Mode on Impossible difficulty with the CODA modifier active.",
+            "achievements": 35
         },
         "CETags": {
             "genre": [
-                "Sports"
+                "VSRG",
+                "Rhythm"
             ],
-            "info": []
+            "info": [
+                "Has Community Objectives",
+                "Uncleared"
+            ]
         },
         "gameTags": [
+            "Rhythm",
+            "Music",
             "Indie",
-            "Adventure",
-            "Flight",
             "Arcade",
-            "3D",
-            "Abstract",
-            "Colorful",
-            "Stylized",
-            "Atmospheric",
-            "Emotional",
-            "Family Friendly",
-            "Nature",
-            "Controller",
-            "Linear",
-            "Physics",
-            "Procedural Generation",
-            "Simulation",
+            "Difficult",
+            "Female Protagonist",
             "Action",
-            "Collectathon",
-            "Time Management"
+            "Great Soundtrack",
+            "Colorful",
+            "2D",
+            "Hand-drawn",
+            "RPG",
+            "Minigames",
+            "Level Editor",
+            "Singleplayer",
+            "Cute",
+            "Soundtrack",
+            "Cartoon",
+            "Music-Based Procedural Generation",
+            "LGBTQ+"
         ],
         "languages": {
-            "english": "IS",
+            "english": "IAS",
             "french": "IS",
             "german": "IS",
             "italian": "IS",
             "japanese": "IS",
             "spanish": "IS",
-            "arabic": "IS",
             "brazilian": "IS",
-            "bulgarian": "IS",
-            "dutch": "IS",
             "koreana": "IS",
-            "portuguese": "IS",
+            "latam": "IS",
             "russian": "IS",
             "schinese": "IS",
-            "tchinese": "IS",
-            "turkish": "IS"
-        }
+            "tchinese": "IS"
+        },
+        "information": "The base game tracks required for the POs are the songs that are listed before Meat Boy when sorted by character."
     }
 }
-var gameOfDayDate = '2026-05-20'
+var gameOfDayDate = '2026-05-21'
