@@ -1004,9 +1004,9 @@ var masoData =
         "description": "Misleading",
         "tier": "1",
         "owners": 122,
-        "completions": 85,
-        "playtime": 10.988431372549021,
-        "newestCompletion": "2026-01-11T14:28:59.000Z"
+        "completions": 86,
+        "playtime": 10.962209302325583,
+        "newestCompletion": "2026-05-21T18:56:19.000Z"
     },
     "261700": {
         "description": "\u2606 It\"s a trap!",
@@ -1824,9 +1824,9 @@ var masoData =
         "description": "\u2733 W O A H",
         "tier": "2",
         "owners": 120,
-        "completions": 50,
-        "playtime": 49.01666666666665,
-        "newestCompletion": "2026-04-24T19:33:59.000Z",
+        "completions": 51,
+        "playtime": 49.11960784313724,
+        "newestCompletion": "2026-05-13T16:39:02.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -3945,7 +3945,7 @@ var masoData =
         "tier": "3",
         "owners": 120,
         "completions": 11,
-        "playtime": 441.8439393939394,
+        "playtime": 443.60151515151523,
         "newestCompletion": "2025-02-09T16:05:47.000Z"
     },
     "718010": {
