@@ -2,106 +2,95 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1476170,
-        "CEId": "1609f25e-60bf-4d3e-8fdc-9daf19b367e3",
-        "name": "Godstrike",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1476170/header.jpg?t=1651245904",
+        "platformId": 227380,
+        "CEId": "48479e99-9365-48af-b06a-4fc4f8294e3c",
+        "name": "Dragon's Lair",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/227380/header.jpg?t=1562147939",
         "genre": [
-            "Bullet Hell"
+            "Arcade"
         ],
         "tier": 1,
-        "points": 5,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 429,
-        "createdAt": "2022-05-22T22:32:42.000Z",
-        "updatedAt": "2026-05-15T01:35:55.000Z",
+        "medianPlaytime": 166,
+        "createdAt": "2022-05-23T04:36:28.000Z",
+        "updatedAt": "2026-05-15T14:40:07.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 9,
+        "playersCompleted": 10,
         "playersStarted": 0,
-        "playersTotal": 94,
+        "playersTotal": 53,
         "priceData": {
             "USD": {
-                "initial": 599,
-                "final": 389,
-                "discountPercent": 35
+                "initial": 999,
+                "final": 999,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 549,
-                "final": 356,
-                "discountPercent": 35
+                "initial": 999,
+                "final": 999,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 459,
-                "final": 298,
-                "discountPercent": 35
+                "initial": 850,
+                "final": 850,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 72000,
-                "final": 46800,
-                "discountPercent": 35
+                "initial": 120000,
+                "final": 120000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 879,
-                "final": 571,
-                "discountPercent": 35
+                "initial": 1450,
+                "final": 1450,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 779,
-                "final": 506,
-                "discountPercent": 35
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Spark [5\u2605]\nProve yourself.",
+            "primaryText": "Dirk the Dexterous [10\u2605]\nGet the highest possible score.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 22
+            "achievements": 12
         },
         "CETags": {
             "genre": [
-                "Twin Stick",
-                "Rogue-like",
-                "Boss Rush"
+                "Miscellaneous"
             ],
             "info": []
         },
         "gameTags": [
-            "Roguelite",
-            "Twin Stick Shooter",
-            "Bullet Hell",
-            "Combat",
-            "Top-Down",
-            "Action Roguelike",
-            "Shooter",
-            "Action",
-            "Arcade",
-            "3D",
-            "Bullet Time",
-            "Anime",
-            "Colorful",
-            "Indie",
             "Adventure",
+            "Classic",
+            "Arcade",
+            "Quick-Time Events",
+            "1980s",
+            "FMV",
+            "Action",
+            "Casual",
+            "Retro",
+            "Cartoon",
+            "Difficult",
+            "Short",
+            "Dragons",
             "Fantasy",
-            "Singleplayer",
-            "Controller",
-            "Boss Rush",
-            "Difficult"
+            "Unforgiving",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IAS",
-            "german": "IAS",
-            "italian": "IAS",
-            "japanese": "IAS",
-            "spanish": "IAS",
-            "brazilian": "IAS",
-            "koreana": "IAS",
-            "russian": "IAS",
-            "schinese": "IAS"
+            "english": "IA",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "spanish": "I"
         }
     }
 }
-var gameOfDayDate = '2026-05-22'
+var gameOfDayDate = '2026-05-23'
