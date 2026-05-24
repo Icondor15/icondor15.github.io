@@ -2,23 +2,23 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 227380,
-        "CEId": "48479e99-9365-48af-b06a-4fc4f8294e3c",
-        "name": "Dragon's Lair",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/227380/header.jpg?t=1562147939",
+        "platformId": 1861290,
+        "CEId": "4cb96c41-ed6c-4364-9f3d-abf1552ad9f2",
+        "name": "Devil Spire",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1861290/header.jpg?t=1666433215",
         "genre": [
-            "Arcade"
+            "First-Person"
         ],
-        "tier": 1,
-        "points": 10,
+        "tier": 2,
+        "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 166,
-        "createdAt": "2022-05-23T04:36:28.000Z",
-        "updatedAt": "2026-05-15T14:40:07.000Z",
+        "medianPlaytime": 1760,
+        "createdAt": "2023-05-24T15:08:59.000Z",
+        "updatedAt": "2026-05-15T01:35:55.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 10,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 53,
+        "playersTotal": 76,
         "priceData": {
             "USD": {
                 "initial": 999,
@@ -31,66 +31,66 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 850,
-                "final": 850,
+                "initial": 899,
+                "final": 899,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 120000,
-                "final": 120000,
+                "initial": 124900,
+                "final": 124900,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 1399,
+                "final": 1399,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 1250,
+                "final": 1250,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Dirk the Dexterous [10\u2605]\nGet the highest possible score.",
+            "primaryText": "What goes up, must come down [20\u2605]\nBeat Ascent on Extreme. / Beat Descent on Extreme. / Kill 10 bosses in Arena on Extreme.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 12
+            "community": 1,
+            "communityText": "The Downward Spiral\nBeat Descent mode on Nightmare difficulty.",
+            "achievements": 111
         },
         "CETags": {
             "genre": [
-                "Miscellaneous"
+                "Rogue-like"
             ],
             "info": []
         },
         "gameTags": [
-            "Adventure",
-            "Classic",
-            "Arcade",
-            "Quick-Time Events",
-            "1980s",
-            "FMV",
-            "Action",
-            "Casual",
+            "Dungeon Crawler",
+            "RPG",
+            "Dark Fantasy",
+            "Roguelite",
+            "2.5D",
+            "First-Person",
+            "Atmospheric",
+            "Action RPG",
+            "Hand-drawn",
             "Retro",
-            "Cartoon",
-            "Difficult",
-            "Short",
-            "Dragons",
-            "Fantasy",
-            "Unforgiving",
-            "Singleplayer"
+            "Old School",
+            "Procedural Generation",
+            "Character Customization",
+            "Inventory Management",
+            "Perma Death",
+            "Multiple Endings",
+            "Loot",
+            "Souls-like",
+            "1990's",
+            "Medieval"
         ],
         "languages": {
-            "english": "IA",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "spanish": "I"
+            "english": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-05-23'
+var gameOfDayDate = '2026-05-24'
