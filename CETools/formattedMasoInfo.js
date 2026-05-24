@@ -623,10 +623,10 @@ var masoData =
     "817510": {
         "description": "New and original",
         "tier": "1",
-        "owners": 49,
-        "completions": 27,
-        "playtime": 6.016049382716049,
-        "newestCompletion": "2023-11-25T06:16:02.000Z"
+        "owners": 50,
+        "completions": 28,
+        "playtime": 5.848214285714285,
+        "newestCompletion": "2026-05-23T23:09:57.000Z"
     },
     "759640": {
         "description": "\u272a Unplug Me",
@@ -1379,7 +1379,7 @@ var masoData =
     "237740": {
         "description": "\ud83c\udf1f An Angry video game nerd training program.",
         "tier": "5",
-        "owners": 68,
+        "owners": 69,
         "completions": 7,
         "playtime": 59.392857142857146,
         "newestCompletion": "2025-07-12T20:05:16.000Z"
@@ -3003,7 +3003,7 @@ var masoData =
     "581660": {
         "description": "\ud83c\udf1f Super Seed Boy",
         "tier": "5",
-        "owners": 136,
+        "owners": 137,
         "completions": 15,
         "playtime": 77.2,
         "newestCompletion": "2026-01-26T00:56:39.000Z"
@@ -4267,7 +4267,7 @@ var masoData =
     "1548940": {
         "description": "\ud83c\udf1f DASH: The gap in between these f***ing spikes",
         "tier": "5",
-        "owners": 52,
+        "owners": 53,
         "completions": 3,
         "playtime": 107.83333333333333,
         "newestCompletion": "2025-04-15T21:46:21.000Z",
