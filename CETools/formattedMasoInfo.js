@@ -361,7 +361,7 @@ var masoData =
         "tier": "2",
         "owners": 135,
         "completions": 55,
-        "playtime": 50.09090909090911,
+        "playtime": 50.09151515151517,
         "newestCompletion": "2026-03-24T23:49:22.000Z"
     },
     "356650": {
@@ -1164,8 +1164,8 @@ var masoData =
         "description": "\u2606 If Super Hexagon and Velocibox had a baby, it would be sacrified to summon this demon lord.",
         "tier": "3",
         "owners": 119,
-        "completions": 42,
-        "playtime": 15.742063492063489,
+        "completions": 41,
+        "playtime": 15.495528455284548,
         "newestCompletion": "2025-10-17T19:06:11.000Z"
     },
     "440550": {
@@ -1309,7 +1309,7 @@ var masoData =
         "tier": "2",
         "owners": 164,
         "completions": 72,
-        "playtime": 236.28888888888892,
+        "playtime": 236.28958333333335,
         "newestCompletion": "2025-08-29T21:26:24.000Z",
         "badges": {
             "count": 2,
@@ -1365,7 +1365,7 @@ var masoData =
         "tier": "2",
         "owners": 211,
         "completions": 151,
-        "playtime": 21.147461368653406,
+        "playtime": 21.149006622516545,
         "newestCompletion": "2025-11-06T16:02:02.000Z"
     },
     "211260": {
@@ -1501,7 +1501,7 @@ var masoData =
         "tier": "0",
         "owners": 61,
         "completions": 50,
-        "playtime": 4.237666666666667,
+        "playtime": 4.274,
         "newestCompletion": "2023-09-15T11:42:54.000Z",
         "badges": {
             "count": 1,
@@ -3267,7 +3267,7 @@ var masoData =
     "553420": {
         "description": "\u280f\u2807\u2801\u283d TUNIC \u280b\u2815\u2817\u2801\u281b\u2815\u2815\u2819\u281e\u280a\u280d\u2811",
         "tier": "1",
-        "owners": 73,
+        "owners": 74,
         "completions": 40,
         "playtime": 24.860833333333332,
         "newestCompletion": "2025-07-30T20:41:32.000Z"
@@ -3801,7 +3801,7 @@ var masoData =
         "tier": "2",
         "owners": 124,
         "completions": 16,
-        "playtime": 241.35729166666667,
+        "playtime": 241.35833333333332,
         "newestCompletion": "2026-04-06T19:16:36.000Z",
         "badges": {
             "count": 1,
@@ -3899,7 +3899,7 @@ var masoData =
     "1627720": {
         "description": "\u2733 The P is a lie",
         "tier": "2",
-        "owners": 34,
+        "owners": 35,
         "completions": 7,
         "playtime": 68.59523809523809,
         "newestCompletion": "2026-02-16T07:35:26.000Z"
@@ -4387,7 +4387,7 @@ var masoData =
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
-        "owners": 77,
+        "owners": 78,
         "completions": 22,
         "playtime": 49.88939393939393,
         "newestCompletion": "2026-04-14T19:54:05.000Z"
@@ -4479,7 +4479,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 84,
+        "owners": 85,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4551,7 +4551,7 @@ var masoData =
     "2680010": {
         "description": "Nioh but Nioher",
         "tier": "1",
-        "owners": 2,
+        "owners": 3,
         "completions": 1,
         "playtime": 125.13333333333334,
         "newestCompletion": "2025-04-26T18:47:33.000Z"
@@ -4567,9 +4567,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 56,
-        "completions": 17,
-        "playtime": 75.94117647058825,
+        "owners": 57,
+        "completions": 18,
+        "playtime": 77.35000000000001,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
@@ -4587,7 +4587,7 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 21,
+        "owners": 22,
         "completions": 5,
         "playtime": 40.38333333333333,
         "newestCompletion": "2025-06-19T00:20:43.000Z"
@@ -4603,10 +4603,10 @@ var masoData =
     "1761390": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The Disappearance of your free time",
         "tier": "0",
-        "owners": 11,
-        "completions": 2,
-        "playtime": 377.7083333333333,
-        "newestCompletion": "2025-09-10T14:44:46.000Z",
+        "owners": 12,
+        "completions": 3,
+        "playtime": 293.5111111111111,
+        "newestCompletion": "2026-03-16T17:15:06.000Z",
         "badges": {
             "count": 3,
             "points": 29
