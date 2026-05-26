@@ -151,7 +151,7 @@ var masoData =
     "835430": {
         "description": "\u2733 Was it worth using a guide?",
         "tier": "2",
-        "owners": 29,
+        "owners": 30,
         "completions": 4,
         "playtime": 185.84583333333333,
         "newestCompletion": "2024-08-20T20:35:28.000Z"
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 266,
         "completions": 195,
-        "playtime": 251.6625641025641,
+        "playtime": 251.77717948717947,
         "newestCompletion": "2026-05-03T13:17:17.000Z",
         "badges": {
             "count": 2,
@@ -871,7 +871,7 @@ var masoData =
     "230700": {
         "description": "\u2733 Guides: The game",
         "tier": "2",
-        "owners": 89,
+        "owners": 90,
         "completions": 13,
         "playtime": 130.60000000000002,
         "newestCompletion": "2023-08-27T14:34:55.000Z"
@@ -1779,7 +1779,7 @@ var masoData =
     "1056180": {
         "description": "\u2733 The biggest 8-bit adventure",
         "tier": "2",
-        "owners": 29,
+        "owners": 30,
         "completions": 8,
         "playtime": 40.38333333333333,
         "newestCompletion": "2026-04-03T12:53:13.000Z"
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 113,
         "completions": 34,
-        "playtime": 88.80882352941177,
+        "playtime": 88.91274509803921,
         "newestCompletion": "2025-12-29T07:01:08.000Z",
         "badges": {
             "count": 2,
@@ -2331,10 +2331,10 @@ var masoData =
     "409660": {
         "description": "\u2733 Ugh, my poor fingies, man",
         "tier": "2",
-        "owners": 48,
-        "completions": 9,
-        "playtime": 15.651851851851855,
-        "newestCompletion": "2025-07-17T16:35:49.000Z"
+        "owners": 49,
+        "completions": 10,
+        "playtime": 15.243333333333336,
+        "newestCompletion": "2026-05-25T21:47:13.000Z"
     },
     "1067720": {
         "description": "\u272a Keep your dignity",
@@ -3547,7 +3547,7 @@ var masoData =
     "274190": {
         "description": "\ud83c\udf1f Press F to pay respect",
         "tier": "5",
-        "owners": 89,
+        "owners": 90,
         "completions": 15,
         "playtime": 54.25888888888889,
         "newestCompletion": "2026-05-18T05:36:58.000Z",
@@ -3799,7 +3799,7 @@ var masoData =
     "212680": {
         "description": "\u2733 Noone can hear you raging in space",
         "tier": "2",
-        "owners": 124,
+        "owners": 125,
         "completions": 16,
         "playtime": 241.35833333333332,
         "newestCompletion": "2026-04-06T19:16:36.000Z",
@@ -3855,7 +3855,7 @@ var masoData =
     "774181": {
         "description": "Heartbeat... Heartbeat... Heartbeat... Heart.",
         "tier": "1",
-        "owners": 61,
+        "owners": 62,
         "completions": 8,
         "playtime": 21.966666666666665,
         "newestCompletion": "2026-04-26T02:00:16.000Z",
@@ -4261,7 +4261,7 @@ var masoData =
         "tier": "2",
         "owners": 93,
         "completions": 16,
-        "playtime": 48.503125,
+        "playtime": 48.52708333333333,
         "newestCompletion": "2025-08-24T22:23:24.000Z"
     },
     "1548940": {
@@ -4279,7 +4279,7 @@ var masoData =
     "2694420": {
         "description": "\u2606 Hellishly Wicked",
         "tier": "3",
-        "owners": 21,
+        "owners": 22,
         "completions": 7,
         "playtime": 41.18095238095238,
         "newestCompletion": "2026-01-23T14:23:24.000Z"
@@ -4479,7 +4479,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 85,
+        "owners": 86,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4527,7 +4527,7 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 24,
+        "owners": 25,
         "completions": 3,
         "playtime": 30.572222222222223,
         "newestCompletion": "2026-03-26T10:42:27.000Z"
@@ -4559,7 +4559,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together (Co-op)",
         "tier": "5",
-        "owners": 22,
+        "owners": 23,
         "completions": 3,
         "playtime": 449.18888888888887,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
@@ -4567,7 +4567,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 57,
+        "owners": 58,
         "completions": 18,
         "playtime": 77.35000000000001,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
@@ -4603,7 +4603,7 @@ var masoData =
     "1761390": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The Disappearance of your free time",
         "tier": "0",
-        "owners": 12,
+        "owners": 13,
         "completions": 3,
         "playtime": 293.5111111111111,
         "newestCompletion": "2026-03-16T17:15:06.000Z",
@@ -4615,7 +4615,7 @@ var masoData =
     "3288210": {
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
-        "owners": 13,
+        "owners": 14,
         "completions": 6,
         "playtime": 33.69166666666667,
         "newestCompletion": "2026-04-24T23:28:21.000Z"
@@ -4635,7 +4635,7 @@ var masoData =
     "1887400": {
         "description": "\u2606 It's happy hour!",
         "tier": "3",
-        "owners": 9,
+        "owners": 10,
         "completions": 5,
         "playtime": 53.45,
         "newestCompletion": "2026-04-30T19:49:10.000Z"
