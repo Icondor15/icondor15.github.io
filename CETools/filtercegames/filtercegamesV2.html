@@ -322,6 +322,19 @@
                 linear-gradient(-90deg, #7a6947,#58668e);
         }
 
+        .earnedPointsText:before {
+            content: "Earned Points";
+        }
+        .partial {
+            background-image: linear-gradient(#fff374,#e7a600);
+        }
+        .complete {
+            background-image: linear-gradient(#2fff5c,#00a073);
+        }
+        .overcomplete {
+            background-image: linear-gradient(#ff6cd4,#c6002c);
+        }
+
         .unknownText:not(.shortCategory):after {
             content: "Unknown";
         }
@@ -1675,7 +1688,6 @@
             <select id="orderSelect" autocomplete="off" onchange="order(this.value)">
                 <optgroup label="--Miscellaneous--">
                     <option value="gameType">Platform</option>
-                    <option id="userFilterOrder" style="display:none" value="userPoints">Gained Points (User Filter)</option>
                     <option value="langCount">Language Count</option>
                     <option value="consoleName">Console Name (RA)</option>
                     <option value="random">Random</option>
@@ -1690,6 +1702,7 @@
                     <option value="genreCount">Category Count</option>
                 </optgroup>
                 <optgroup label="--Points--">
+                    <option id="userFilterOrder" style="display:none" value="userPoints">Gained Points (User Filter)</option>
                     <option selected value="totalPoints">Total Points</option>
                     <option value="points">PO Points</option>
                     <option value="secondaryPoints">SO Points</option>
@@ -4757,6 +4770,27 @@
                 //Game Tags
                 let gameTags = document.createElement("div");
                 gameTags.classList.add("gameTags");
+                    if(activeUser != "" && game["CEId"] in userData[activeUser]["gamesPoints"])
+                    {
+                        let earned = document.createElement("span");
+                        earned.classList.add("tag");
+                        if(userData[activeUser]["gamesPoints"][game["CEId"]]["points"] < game["points"])
+                        {
+                            earned.innerHTML = "<div class='tagTitle earnedPointsText partial'></div><div>" + userData[activeUser]["gamesPoints"][game["CEId"]]["points"] + "/" + game["points"] + "&hairsp;" + pointsIcon + "</div>";
+                        }
+                        else if(userData[activeUser]["gamesPoints"][game["CEId"]]["points"] == game["points"])
+                        {
+                            earned.innerHTML = "<div class='tagTitle earnedPointsText complete'></div><div>" + userData[activeUser]["gamesPoints"][game["CEId"]]["points"] + "/" + game["points"] + "&hairsp;" + pointsIcon + "</div>";
+                        }
+                        else if(userData[activeUser]["gamesPoints"][game["CEId"]]["points"] > game["points"])
+                        {
+                            earned.innerHTML = "<div class='tagTitle earnedPointsText overcomplete'></div><div>" + userData[activeUser]["gamesPoints"][game["CEId"]]["points"] + "/" + game["points"] + "&hairsp;" + pointsIcon + "</div>";
+                        }
+                        earned.innerHTML += "<br>";
+
+                        gameTags.appendChild(earned);
+                    }
+
                     //Genre
                     if(tagSettings[7])
                     {
