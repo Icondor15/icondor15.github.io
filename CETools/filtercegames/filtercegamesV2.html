@@ -1142,7 +1142,7 @@
                 <fieldset id="userField" style="padding-bottom: 0px;">
                     <legend>
                         <input title="Invert Filter" class="inverseEffect" autocomplete="off" type="checkbox" id="invertUserFilter" onchange="changeUserFilterSettings()">
-                        User <sup title="Shows all games owned by the selected User.&#10;(or NOT owned if this filter is inverted.)&#10;&#10;Notes:&#10;- While active, the 'Gained Points' option will be available in the 'Order By' select menu.&#10;- Only works with users visible in the User List. (Non-Excluded)&#10;  - If an Excluded User wishes to be visible to use CETools, contact me!&#10;- May be slightly inaccurate due to some games in the site being 'Unfinished', thus not accessible through the API." onclick="alert(this.title);" style="text-decoration: underline dotted; cursor:help;">𝓲</sup>
+                        User <sup title="Shows all games owned by the selected User.&#10;(or NOT owned if this filter is inverted.)&#10;&#10;Notes:&#10;- While active, the 'Earned Points' option will be available in the 'Order By' select menu.&#10;- Only works with users visible in the User List. (Non-Excluded)&#10;  - If an Excluded User wishes to be visible to use CETools, contact me!&#10;- May be slightly inaccurate due to some games in the site being 'Unfinished', thus not accessible through the API." onclick="alert(this.title);" style="text-decoration: underline dotted; cursor:help;">𝓲</sup>
                     </legend>
                     <label for="userTextbox">User Link/ID</label> <sup title="Inputting any valid User will automatically activate the filter.&#10;&#10;The filter will only work if it contains:&#10;- The ID on its own:&#10;  - &quot;00000000-0000-0000-0000-000000000000&quot;&#10;- &quot;user/&quot; before the ID:&#10;  - &quot;https://cedb.me/user/00000000-0000-0000-0000-000000000000/games&quot;&#10;  - &quot;https://cedb.me/user/00000000-0000-0000-0000-000000000000&quot;&#10;  - &quot;cedb.me/user/00000000-0000-0000-0000-000000000000&quot;&#10;  - &quot;user/00000000-0000-0000-0000-000000000000&quot;" onclick="alert(this.title);" style="text-decoration: underline dotted; cursor:help;">𝓲</sup>:
                     <input autocomplete="off" type="text" id="userTextbox" oninput="changeUser();" style="width: 400px;">
@@ -1702,7 +1702,7 @@
                     <option value="genreCount">Category Count</option>
                 </optgroup>
                 <optgroup label="--Points--">
-                    <option id="userFilterOrder" style="display:none" value="userPoints">Gained Points (User Filter)</option>
+                    <option id="userFilterOrder" style="display:none" value="userPoints">Earned Points (User Filter)</option>
                     <option selected value="totalPoints">Total Points</option>
                     <option value="points">PO Points</option>
                     <option value="secondaryPoints">SO Points</option>
