@@ -149,13 +149,10 @@
                     </td>
                 </tr>
                 <tr>
-                    <td style="margin: auto; width: 12.5%;">
-                        <a href="./filtercegames/filtercegames.html"><b>Classic</b></a>
-                    </td>
-                    <td style="margin: auto; padding: 3px 2px 6px; width: 12.5%; background: linear-gradient(#5270b0, #284483); border-radius: 5px;">
+                    <td colspan="2" style="margin: auto; padding: 3px 2px 6px; width: 12.5%; background: linear-gradient(#5270b0, #284483); border-radius: 5px;">
                         <span class="tag">
                             <div class="tagTitle">
-                                <a href="./filtercegames/filtercegamesV2.html"><b>Modern</b></a> <sup style="text-decoration: none; color: white; font-size: 0.6em;">Beta!</sup>
+                                <a href="./filtercegames/filtercegamesV2.html"><b>Modern</b></a>
                             </div>
                         </span>
                     </td>
@@ -617,6 +614,7 @@
                         
                         cellFilter.innerHTML = "<b>View Games</b><br><span class='subtitle'>(Filter by User in the Game List)</span>";
 
+                        /*
                         if(check in wishlistData)
                         {
                             cellWishlist.innerHTML = "<b>View Wishlist</b><br><span class='subtitle'>(Filter by Wishlist in the Game List)</span>";
@@ -627,13 +625,21 @@
                             cellWishlist.rowSpan = "2";
                             cellWishlist.style.backgroundColor = "#00000044";
                         }
-
+                        */
+                        
+                        cellWishlist.innerHTML = "<b style='text-decoration:line-through;'>View Wishlist</b>";
+                        cellWishlist.rowSpan = "2";
+                        cellWishlist.style.backgroundColor = "#00000044";
+                        
                         var row7 = table.insertRow(8);
                         row7.classList.add("replace");
-                        var cellFilterClassic = row7.insertCell(0);
-                        cellFilterClassic.colSpan = "6";
-                        var cellFilterModern = row7.insertCell(1);
-                        cellFilterModern.colSpan = "6";
+                        var cellFilterModern = row7.insertCell(0);
+                        cellFilterModern.colSpan = "12";
+                        
+                        cellFilterModern.innerHTML = '<span class="tag"><div class="tagTitle"><a href="./filtercegames/filtercegamesV2.html?userFilter=' + check + '"><b>Modern</b></a></div></span>';
+                        cellFilterModern.style = "margin: auto; padding: 3px 2px 6px; width: 12.5%; background: linear-gradient(#5270b0, #284483); border-radius: 5px;";
+
+                        /*
                         if(check in wishlistData)
                         {
                             var cellWishlistClassic = row7.insertCell(2);
@@ -642,17 +648,12 @@
                             cellWishlistModern.colSpan = "6";
                         }
 
-                        //User Filter
-                        cellFilterClassic.innerHTML = '<a href="./filtercegames/filtercegames.html?userFilter=' + check + '"><b>Classic</b></a>';
-
-                        cellFilterModern.innerHTML = '<span class="tag"><div class="tagTitle"><a href="./filtercegames/filtercegamesV2.html?userFilter=' + check + '"><b>Modern</b></a> <sup style="text-decoration: none; color: white; font-size: 0.6em;">Beta!</sup></div></span>';
-                        cellFilterModern.style = "margin: auto; padding: 3px 2px 6px; width: 12.5%; background: linear-gradient(#5270b0, #284483); border-radius: 5px;";
-
                         //Wishlist Filter
                         cellWishlistClassic.innerHTML = '<a href="./filtercegames/filtercegames.html?wishlistFilter=' + check + '"><b>Classic</b></a>';
 
                         cellWishlistModern.innerHTML = '<span class="tag"><div class="tagTitle"><a href="./filtercegames/filtercegamesV2.html?wishlistFilter=' + check + '"><b>Modern</b></a> <sup style="text-decoration: none; color: white; font-size: 0.6em;">Beta!</sup></div></span>';
                         cellWishlistModern.style = "margin: auto; padding: 3px 2px 6px; width: 12.5%; background: linear-gradient(#5270b0, #284483); border-radius: 5px;";
+                        */
                     }
                     else
                     {
