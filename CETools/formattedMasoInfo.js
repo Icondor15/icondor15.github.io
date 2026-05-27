@@ -3428,6 +3428,14 @@ var masoData =
             "points": 3
         }
     },
+    "669340": {
+        "description": "The Secret Cosmonautical Community.",
+        "tier": "1",
+        "owners": 11,
+        "completions": 7,
+        "playtime": 10.983333333333334,
+        "newestCompletion": "2025-09-03T01:55:39.000Z"
+    },
     "2216320": {
         "description": "\u272a Deliver Easter eggs on the North Pole and drift around snow banks without dropping an egg. The time-trial challenges are snow joke in this eggspansion.",
         "tier": "4",
@@ -3435,6 +3443,30 @@ var masoData =
         "completions": 5,
         "playtime": 7.023333333333333,
         "newestCompletion": "2025-04-03T19:18:59.000Z"
+    },
+    "354400": {
+        "description": "it's a hit :Squarsh:",
+        "tier": "1",
+        "owners": 18,
+        "completions": 3,
+        "playtime": 8.705555555555556,
+        "newestCompletion": "2025-04-24T18:25:23.000Z"
+    },
+    "1492420": {
+        "description": "\u272a Literally preschool math",
+        "tier": "4",
+        "owners": 28,
+        "completions": 10,
+        "playtime": 55.113333333333344,
+        "newestCompletion": "2026-01-28T16:30:08.000Z"
+    },
+    "811970": {
+        "description": "looking forward to finishing the game up",
+        "tier": "1",
+        "owners": 7,
+        "completions": 4,
+        "playtime": 10.3125,
+        "newestCompletion": "2024-12-15T08:39:01.000Z"
     },
     "1954200": {
         "description": "Ghibli Souls",
@@ -3887,6 +3919,14 @@ var masoData =
             "count": 2,
             "points": 10
         }
+    },
+    "1889770": {
+        "description": "Rollba",
+        "tier": "1",
+        "owners": 14,
+        "completions": 7,
+        "playtime": 7.79047619047619,
+        "newestCompletion": "2025-07-17T03:39:21.000Z"
     },
     "1888160": {
         "description": "\u2733 t5 without tank wheels",
@@ -4651,5 +4691,21 @@ var masoData =
             "count": 1,
             "points": 7
         }
+    },
+    "2944340": {
+        "description": "Tastes like berries",
+        "tier": "1",
+        "owners": 1,
+        "completions": 1,
+        "playtime": 11.5,
+        "newestCompletion": "2026-05-22T14:57:05.000Z"
+    },
+    "4450800": {
+        "description": "You'll fall for it hook, line and sinker!",
+        "tier": "1",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
     }
 }
