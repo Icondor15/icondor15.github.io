@@ -14,7 +14,7 @@ var gameOfDay =
         "secondaryPoints": 0,
         "medianPlaytime": 229,
         "createdAt": "2024-05-27T21:19:45.000Z",
-        "updatedAt": "2026-05-15T01:35:55.000Z",
+        "updatedAt": "2026-05-19T14:39:58.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 3,
         "playersStarted": 0,
