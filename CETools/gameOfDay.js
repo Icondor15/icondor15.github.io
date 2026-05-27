@@ -2,27 +2,27 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 651340,
-        "CEId": "667d458d-3bef-470d-a85d-839119c17cd8",
-        "name": "Shephy",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/651340/header.jpg?t=1708930588",
+        "platformId": 1484600,
+        "CEId": "55514246-b7e9-4023-b881-6b4e8af9198d",
+        "name": "Stand By Me",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1484600/header.jpg?t=1667537682",
         "genre": [
-            "Strategy"
+            "Arcade"
         ],
         "tier": 1,
         "points": 5,
         "secondaryPoints": 0,
-        "medianPlaytime": 397,
-        "createdAt": "2024-05-26T01:53:58.000Z",
-        "updatedAt": "2026-05-17T12:01:53.000Z",
+        "medianPlaytime": 229,
+        "createdAt": "2024-05-27T21:19:45.000Z",
+        "updatedAt": "2026-05-15T01:35:55.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 17,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 61,
+        "playersTotal": 8,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 599,
+                "final": 599,
                 "discountPercent": 0
             },
             "EUR": {
@@ -31,60 +31,70 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 399,
-                "final": 399,
+                "initial": 479,
+                "final": 479,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 50000,
-                "final": 50000,
+                "initial": 62000,
+                "final": 62000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 750,
-                "final": 750,
+                "initial": 850,
+                "final": 850,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 549,
-                "final": 549,
+                "initial": 669,
+                "final": 669,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "For The Herd! [5\u2605]\nProve yourself.",
+            "primaryText": "Social Speedreader [5\u2605]\nComplete all books separately under their par times.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 29
+            "community": 1,
+            "communityText": "Proverbial Pathfinder\nComplete all books under their par times in level order, without dying or using a skill.",
+            "achievements": 25
         },
         "CETags": {
             "genre": [
-                "Deck-Builder",
-                "Turn-Based"
+                "Puzzle",
+                "Miscellaneous"
             ],
-            "info": []
+            "info": [
+                "Has Community Objectives"
+            ]
         },
         "gameTags": [
-            "Card Game",
-            "Solitaire",
-            "Casual",
-            "Singleplayer",
-            "Cute",
-            "Indie",
-            "Board Game",
             "Puzzle",
-            "Dog",
-            "Difficult"
+            "Physics",
+            "Cute",
+            "Casual",
+            "2D",
+            "Linear",
+            "Colorful",
+            "Family Friendly",
+            "Philosophical",
+            "Singleplayer",
+            "Indie",
+            "Replay Value",
+            "Soundtrack",
+            "Arcade",
+            "Stylized",
+            "Comic Book",
+            "Funny",
+            "Difficult",
+            "Point & Click",
+            "Wholesome"
         ],
         "languages": {
-            "english": "IAS",
-            "japanese": "IAS",
-            "koreana": "I",
-            "schinese": "I"
+            "english": "IS",
+            "brazilian": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-05-26'
+var gameOfDayDate = '2026-05-27'
