@@ -2,99 +2,86 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1484600,
-        "CEId": "55514246-b7e9-4023-b881-6b4e8af9198d",
-        "name": "Stand By Me",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1484600/header.jpg?t=1667537682",
+        "platformId": 368140,
+        "CEId": "82c4bbd9-ea94-4589-9046-d9ca2bcb553b",
+        "name": "Tobari and the Night of the Curious Moon",
+        "header": "https://steamcdn-a.akamaihd.net/steam/apps/368140/header.jpg?t=1580873224",
         "genre": [
-            "Arcade"
+            "Platformer"
         ],
-        "tier": 1,
-        "points": 5,
+        "tier": 3,
+        "points": 65,
         "secondaryPoints": 0,
-        "medianPlaytime": 229,
-        "createdAt": "2024-05-27T21:19:45.000Z",
+        "medianPlaytime": 5467,
+        "createdAt": "2020-06-21T07:54:03.000Z",
         "updatedAt": "2026-05-19T14:39:58.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 3,
-        "playersStarted": 0,
-        "playersTotal": 8,
+        "playersCompleted": 5,
+        "playersStarted": 1,
+        "playersTotal": 43,
         "priceData": {
             "USD": {
-                "initial": 599,
-                "final": 599,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 499,
-                "final": 499,
+                "initial": 975,
+                "final": 975,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 479,
-                "final": 479,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 62000,
-                "final": 62000,
-                "discountPercent": 0
-            },
-            "AUD": {
                 "initial": 850,
                 "final": 850,
                 "discountPercent": 0
             },
+            "JPY": {
+                "initial": 120000,
+                "final": 120000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1450,
+                "final": 1450,
+                "discountPercent": 0
+            },
             "CAD": {
-                "initial": 669,
-                "final": 669,
+                "initial": 1299,
+                "final": 1299,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Social Speedreader [5\u2605]\nComplete all books separately under their par times.",
+            "primary": 3,
+            "primaryText": "The End of a Dream [30\u2605]\nClear VS Desunoya\u2606.\n\nCelestial Grace [20\u2605]\nDefeat the main-game bosses without taking damage.\n\nMoonsickness Won't Beat Me! [15\u2605]\nCollect all moons in World EX.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 1,
-            "communityText": "Proverbial Pathfinder\nComplete all books under their par times in level order, without dying or using a skill.",
-            "achievements": 25
+            "community": 0,
+            "communityText": "",
+            "achievements": 48
         },
         "CETags": {
             "genre": [
-                "Puzzle",
-                "Miscellaneous"
+                "2D Platformer"
             ],
             "info": [
-                "Has Community Objectives"
+                "Female Protagonist"
             ]
         },
         "gameTags": [
-            "Puzzle",
-            "Physics",
-            "Cute",
-            "Casual",
-            "2D",
-            "Linear",
-            "Colorful",
-            "Family Friendly",
-            "Philosophical",
-            "Singleplayer",
             "Indie",
-            "Replay Value",
-            "Soundtrack",
-            "Arcade",
-            "Stylized",
-            "Comic Book",
-            "Funny",
+            "Adventure",
+            "Platformer",
+            "Female Protagonist",
+            "Anime",
             "Difficult",
-            "Point & Click",
-            "Wholesome"
+            "Cute",
+            "2D"
         ],
         "languages": {
             "english": "IS",
-            "brazilian": "IS"
+            "japanese": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-05-27'
+var gameOfDayDate = '2026-05-28'
