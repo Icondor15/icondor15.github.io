@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 254,
         "completions": 138,
-        "playtime": 203.44746376811588,
+        "playtime": 203.4513285024154,
         "newestCompletion": "2026-04-06T20:31:43.000Z",
         "badges": {
             "count": 2,
@@ -529,7 +529,7 @@ var masoData =
         "tier": "5",
         "owners": 111,
         "completions": 20,
-        "playtime": 36.825,
+        "playtime": 36.87916666666666,
         "newestCompletion": "2024-03-23T17:39:17.000Z"
     },
     "785880": {
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 266,
         "completions": 195,
-        "playtime": 251.77717948717947,
+        "playtime": 251.7828205128205,
         "newestCompletion": "2026-05-03T13:17:17.000Z",
         "badges": {
             "count": 2,
@@ -993,7 +993,7 @@ var masoData =
         "tier": "5",
         "owners": 217,
         "completions": 22,
-        "playtime": 247.0924242424243,
+        "playtime": 247.24393939393943,
         "newestCompletion": "2026-05-07T11:49:03.000Z",
         "badges": {
             "count": 1,
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 237,
         "completions": 65,
-        "playtime": 61.299743589743585,
+        "playtime": 61.30794871794872,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
     },
     "317710": {
@@ -1309,7 +1309,7 @@ var masoData =
         "tier": "2",
         "owners": 164,
         "completions": 72,
-        "playtime": 236.28958333333335,
+        "playtime": 236.29884259259265,
         "newestCompletion": "2025-08-29T21:26:24.000Z",
         "badges": {
             "count": 2,
@@ -2229,7 +2229,7 @@ var masoData =
         "tier": "1",
         "owners": 109,
         "completions": 58,
-        "playtime": 10.36867816091954,
+        "playtime": 10.36896551724138,
         "newestCompletion": "2026-01-04T20:27:17.000Z"
     },
     "418530": {
@@ -3005,7 +3005,7 @@ var masoData =
         "tier": "5",
         "owners": 137,
         "completions": 15,
-        "playtime": 77.2,
+        "playtime": 77.20444444444443,
         "newestCompletion": "2026-01-26T00:56:39.000Z"
     },
     "355630": {
@@ -4703,9 +4703,9 @@ var masoData =
     "4450800": {
         "description": "You'll fall for it hook, line and sinker!",
         "tier": "1",
-        "owners": 0,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 1,
+        "completions": 1,
+        "playtime": 2.8333333333333335,
+        "newestCompletion": "2026-05-21T20:29:37.000Z"
     }
 }
