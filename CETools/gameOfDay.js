@@ -2,86 +2,99 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 368140,
-        "CEId": "82c4bbd9-ea94-4589-9046-d9ca2bcb553b",
-        "name": "Tobari and the Night of the Curious Moon",
-        "header": "https://steamcdn-a.akamaihd.net/steam/apps/368140/header.jpg?t=1580873224",
+        "platformId": 12210,
+        "CEId": "95eaae55-9caa-4de7-8e6a-ab02db5f7e0a",
+        "name": "Grand Theft Auto IV: The Complete Edition",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/12210/header.jpg?t=1618853493",
         "genre": [
-            "Platformer"
+            "Action"
         ],
-        "tier": 3,
-        "points": 65,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 5467,
-        "createdAt": "2020-06-21T07:54:03.000Z",
-        "updatedAt": "2026-05-19T14:39:58.000Z",
+        "medianPlaytime": 7375,
+        "createdAt": "2023-05-29T20:57:35.000Z",
+        "updatedAt": "2026-05-28T06:09:57.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 5,
-        "playersStarted": 1,
-        "playersTotal": 43,
+        "playersCompleted": 54,
+        "playersStarted": 7,
+        "playersTotal": 527,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "initial": 1999,
+                "final": 599,
+                "discountPercent": 70
             },
             "EUR": {
-                "initial": 975,
-                "final": 975,
-                "discountPercent": 0
+                "initial": 1999,
+                "final": 599,
+                "discountPercent": 70
             },
             "GBP": {
-                "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "initial": 1699,
+                "final": 509,
+                "discountPercent": 70
             },
             "JPY": {
-                "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "initial": 220000,
+                "final": 66000,
+                "discountPercent": 70
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "initial": 2995,
+                "final": 898,
+                "discountPercent": 70
             },
             "CAD": {
-                "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "initial": 2999,
+                "final": 899,
+                "discountPercent": 70
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "The End of a Dream [30\u2605]\nClear VS Desunoya\u2606.\n\nCelestial Grace [20\u2605]\nDefeat the main-game bosses without taking damage.\n\nMoonsickness Won't Beat Me! [15\u2605]\nCollect all moons in World EX.",
+            "primary": 2,
+            "primaryText": "Ballad of a Radiant Star [5\u2605]\nScore 100% in all missions (in \"The Ballad of the Gay Tony\" DLC)\n\nDopamine Chaser [5\u2605]\nProve yourself. ",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 48
+            "achievements": 55
         },
         "CETags": {
             "genre": [
-                "2D Platformer"
+                "Action-Adventure"
             ],
-            "info": [
-                "Female Protagonist"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Indie",
+            "Open World",
+            "Action",
+            "Crime",
+            "Automobile Sim",
+            "Multiplayer",
+            "Third Person",
             "Adventure",
-            "Platformer",
-            "Female Protagonist",
-            "Anime",
-            "Difficult",
-            "Cute",
-            "2D"
+            "Singleplayer",
+            "Third-Person Shooter",
+            "Moddable",
+            "Sandbox",
+            "Shooter",
+            "Physics",
+            "Atmospheric",
+            "Classic",
+            "Gore",
+            "Dark Humor",
+            "Funny",
+            "Satire",
+            "Co-op"
         ],
         "languages": {
-            "english": "IS",
-            "japanese": "IAS"
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "spanish": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-05-28'
+var gameOfDayDate = '2026-05-29'
