@@ -1248,9 +1248,9 @@ var masoData =
         "description": "\ud83c\udf1f You better make this game your second life and consume your soul; otherwise forget completing it.",
         "tier": "5",
         "owners": 223,
-        "completions": 9,
-        "playtime": 654.6074074074074,
-        "newestCompletion": "2025-06-14T11:58:31.000Z",
+        "completions": 10,
+        "playtime": 638.1166666666667,
+        "newestCompletion": "2026-05-28T13:04:36.000Z",
         "badges": {
             "count": 3,
             "points": 26
@@ -2805,7 +2805,7 @@ var masoData =
         "tier": "4",
         "owners": 42,
         "completions": 9,
-        "playtime": 76.61296296296297,
+        "playtime": 76.6962962962963,
         "newestCompletion": "2023-08-07T12:53:15.000Z",
         "badges": {
             "count": 1,
