@@ -724,9 +724,9 @@ var masoData =
         "description": "\u2606 Super Slide Bear Ressurection",
         "tier": "3",
         "owners": 54,
-        "completions": 14,
-        "playtime": 139.82738095238093,
-        "newestCompletion": "2026-04-03T17:54:30.000Z",
+        "completions": 15,
+        "playtime": 133.22,
+        "newestCompletion": "2026-05-20T05:59:40.000Z",
         "badges": {
             "count": 3,
             "points": 32
@@ -1219,10 +1219,10 @@ var masoData =
     "385710": {
         "description": "\u2606 Easy to beat, hard to complete",
         "tier": "3",
-        "owners": 65,
-        "completions": 24,
-        "playtime": 15.798611111111112,
-        "newestCompletion": "2025-06-10T04:09:04.000Z"
+        "owners": 66,
+        "completions": 25,
+        "playtime": 15.938666666666668,
+        "newestCompletion": "2026-05-28T02:53:04.000Z"
     },
     "404700": {
         "description": "Snake on steroids.",
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 263,
         "completions": 84,
-        "playtime": 126.23531746031743,
+        "playtime": 126.23948412698408,
         "newestCompletion": "2026-04-11T03:44:04.000Z"
     },
     "557340": {
@@ -1763,10 +1763,10 @@ var masoData =
     "940680": {
         "description": "\u2733 Tes-- Test your mu-- Test your multitasking skil--",
         "tier": "2",
-        "owners": 118,
-        "completions": 33,
-        "playtime": 18.08888888888889,
-        "newestCompletion": "2026-02-07T06:43:10.000Z"
+        "owners": 119,
+        "completions": 34,
+        "playtime": 17.998529411764704,
+        "newestCompletion": "2026-05-03T17:13:44.000Z"
     },
     "460810": {
         "description": "\u2733 PlatinumGames",
@@ -1937,7 +1937,7 @@ var masoData =
         "tier": "5",
         "owners": 69,
         "completions": 10,
-        "playtime": 225.675,
+        "playtime": 225.74,
         "newestCompletion": "2024-07-01T10:27:42.000Z",
         "badges": {
             "count": 2,
@@ -3275,10 +3275,10 @@ var masoData =
     "1598210": {
         "description": "Purrfection!",
         "tier": "1",
-        "owners": 35,
-        "completions": 33,
-        "playtime": 3.1040404040404033,
-        "newestCompletion": "2025-08-16T01:55:20.000Z"
+        "owners": 36,
+        "completions": 34,
+        "playtime": 3.0872549019607836,
+        "newestCompletion": "2026-05-29T14:51:21.000Z"
     },
     "1938180": {
         "description": "Sweatalitl",
@@ -3419,7 +3419,7 @@ var masoData =
     "1378990": {
         "description": "\u2606 It's about time we curated this",
         "tier": "3",
-        "owners": 40,
+        "owners": 41,
         "completions": 11,
         "playtime": 84.06060606060606,
         "newestCompletion": "2026-01-18T00:44:27.000Z",
@@ -3623,7 +3623,7 @@ var masoData =
     "2330500": {
         "description": "\u272a Concrete challenge",
         "tier": "4",
-        "owners": 47,
+        "owners": 48,
         "completions": 9,
         "playtime": 49.22222222222222,
         "newestCompletion": "2026-03-14T01:37:44.000Z"
@@ -4455,10 +4455,10 @@ var masoData =
     "1164940": {
         "description": "\u2733 You killed Kenny! You Bastards!",
         "tier": "2",
-        "owners": 44,
-        "completions": 6,
-        "playtime": 67.41388888888888,
-        "newestCompletion": "2025-09-11T23:52:54.000Z",
+        "owners": 45,
+        "completions": 7,
+        "playtime": 60.383333333333326,
+        "newestCompletion": "2026-05-23T15:46:21.000Z",
         "badges": {
             "count": 3,
             "points": 8
@@ -4695,17 +4695,25 @@ var masoData =
     "2944340": {
         "description": "Tastes like berries",
         "tier": "1",
-        "owners": 1,
-        "completions": 1,
-        "playtime": 11.5,
+        "owners": 2,
+        "completions": 2,
+        "playtime": 9.6,
         "newestCompletion": "2026-05-22T14:57:05.000Z"
     },
     "4450800": {
         "description": "You'll fall for it hook, line and sinker!",
         "tier": "1",
-        "owners": 1,
-        "completions": 1,
-        "playtime": 2.8333333333333335,
+        "owners": 2,
+        "completions": 2,
+        "playtime": 7.4,
         "newestCompletion": "2026-05-21T20:29:37.000Z"
+    },
+    "2105620": {
+        "description": "\ud83c\udf1f Rektori",
+        "tier": "5",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
     }
 }
