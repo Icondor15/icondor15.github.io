@@ -273,7 +273,7 @@
             height: 13px;
             filter: drop-shadow(0px 1px 1.5px #000000);
         }
-        #pointsTotal svg {
+        #pointsTotal svg, #pointsPrimary svg, #pointsSecondary svg {
             position:relative;
             top: 4px;
             height: 1em;
@@ -423,7 +423,15 @@
         .tier7 {
             background-image: linear-gradient(#d5d5d5,#9a9a9a);
         }
-        
+
+        .overcompletionTierText:before {
+            content: "Overcompletion Tier:";
+        }
+        .overcompletionTierText {
+            text-decoration: underline dotted;
+            background-image: linear-gradient(#797979,#c6004c);
+        }
+
         .primaryText:before {
             content: "POs";
         }
@@ -1440,6 +1448,11 @@
                     <!--Game Tags-->
                     <div class="gameTags" style="gap: 4px;">
                         <span class="tag">
+                            <label class="tagTitle" title="Only visible when a User Filter is active."; style="text-decoration: underline dotted; cursor:help;font-size: 0.9em;" onclick="alert(this.title);">Earned Points</label>
+                            <input class="tagSettings" id="tagSettings38" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(38, this.checked);" checked>
+                        </span>
+                        <br>
+                        <span class="tag">
                             <label class="tagTitle" for="tagSettings7">Categories</label>
                             <label class="tagTitle" style="background-image: linear-gradient(#ed6976,#861953);" for="tagSettings7">
                                 <svg style="cursor: grabbing;" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="hand-fist" class="svg-inline--fa fa-hand-fist " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="11px"><path fill="currentColor" d="M192 0c17.7 0 32 14.3 32 32V144H160V32c0-17.7 14.3-32 32-32zM64 64c0-17.7 14.3-32 32-32s32 14.3 32 32v80H64V64zm192 0c0-17.7 14.3-32 32-32s32 14.3 32 32v96c0 17.7-14.3 32-32 32s-32-14.3-32-32V64zm96 64c0-17.7 14.3-32 32-32s32 14.3 32 32v64c0 17.7-14.3 32-32 32s-32-14.3-32-32V128zm-96 88l0-.6c9.4 5.4 20.3 8.6 32 8.6c13.2 0 25.4-4 35.6-10.8c8.7 24.9 32.5 42.8 60.4 42.8c11.7 0 22.6-3.1 32-8.6V256c0 52.3-25.1 98.8-64 128v96c0 17.7-14.3 32-32 32H160c-17.7 0-32-14.3-32-32V401.6c-17.3-7.9-33.2-18.8-46.9-32.5L69.5 357.5C45.5 333.5 32 300.9 32 267V240c0-35.3 28.7-64 64-64h88c22.1 0 40 17.9 40 40s-17.9 40-40 40H128c-8.8 0-16 7.2-16 16s7.2 16 16 16h56c39.8 0 72-32.2 72-72z"></path></svg>
@@ -1461,6 +1474,11 @@
                             <label class="tagTitle" for="tagSettings8">Tiers</label>
                             <label class="tagTitle tier0" for="tagSettings8"></label><label class="tagTitle tier1" for="tagSettings8"></label><label class="tagTitle tier2" for="tagSettings8"></label><label class="tagTitle tier3" for="tagSettings8"></label><label class="tagTitle tier4" for="tagSettings8"></label><label class="tagTitle tier5" for="tagSettings8"></label><label class="tagTitle tier6" for="tagSettings8"></label><label class="tagTitle tier7" for="tagSettings8"></label>
                             <input class="tagSettings" id="tagSettings8" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(8, this.checked);" checked>
+                        </span>
+                        <br>
+                        <span class="tag">
+                            <label class="tagTitle" for="tagSettings39" style="background-image: linear-gradient(#797979,#c6004c);">Overcompletion Tier</label>
+                            <input class="tagSettings" id="tagSettings39" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(39, this.checked);" checked>
                         </span>
                         <br>
                         <span class="tag">
@@ -1672,11 +1690,17 @@
             </div>
             <!--Points of filtered-->
             <div style="border-left: 2px solid #ffffff7f; width:100%; display:flex; flex-direction: column; align-items: center; justify-content: center;">
-                <h1 style=" margin-bottom: 0px;">Points of Filtered: <span id="pointsTotal" class="glowingText" style="color: #ffc;">Loading...</span></h1>
+                <h1 style="margin-bottom: 0px;">Points of Filtered: <span id="pointsTotal" class="glowingText" style="color: #ffc;">Loading...</span></h1>
+                <h2 style="margin-top: 5px; margin-bottom: 0px;">Points of all POs: <span id="pointsPrimary" class="glowingText" style="color: #ffc;">Loading...</span></h2>
+                <h2 style="margin-top: 5px; margin-bottom: 0px;">Points of all SOs: <span id="pointsSecondary" class="glowingText" style="color: #ffc;">Loading...</span></h2>
                 <h3>
                     Total POs: <span id="primaryTotal" class="glowingText">Loading...</span>
                     |
+                    Total SOs: <span id="secondaryTotal" class="glowingText">Loading...</span>
+                    |
                     Total COs: <span id="communityTotal" class="glowingText">Loading...</span>
+                    <br>
+                    Total Objectives: <span id="objectivesTotal" class="glowingText">Loading...</span>
                     |
                     Total Achievements: <span id="achievementsTotal" class="glowingText">Loading...</span>
                 </h3>
@@ -2186,6 +2210,8 @@
             true,   //35: CE Informational Tags
             true,   //36: CE Tag Colors
             true,   //37: Overcompletions count
+            true,   //38: Earned Points
+            true,   //39: Effective Tier
         ]
 
         const exPlusList = ["992f86df-6327-47f7-ba0c-0212126c0aaf"];
@@ -4066,12 +4092,17 @@
             document.getElementById("totalCostTotal").innerHTML = (dlcCostTotal + finalCostTotal)/100
 
             //Points
-            let pointsTotal = 0;
+            let pointsPrimary = 0;
+            let pointsSecondary = 0;
             filteredData.forEach(game => {
-                try {pointsTotal += game["points"];}
+                try {pointsPrimary += game["points"];}
+                catch {}
+                try {pointsSecondary += game["secondaryPoints"];}
                 catch {}
             })
-            document.getElementById("pointsTotal").innerHTML = pointsTotal + "&hairsp;" + pointsIcon;
+            document.getElementById("pointsTotal").innerHTML = (pointsPrimary + pointsSecondary) + "&hairsp;" + pointsIcon;
+            document.getElementById("pointsPrimary").innerHTML = pointsPrimary + "&hairsp;" + pointsIcon;
+            document.getElementById("pointsSecondary").innerHTML = pointsSecondary + "&hairsp;" + pointsIcon;
             //POs
             let primaryTotal = 0;
             filteredData.forEach(game => {
@@ -4079,6 +4110,13 @@
                 catch {}
             })
             document.getElementById("primaryTotal").innerHTML = primaryTotal;
+            //SOs
+            let secondaryTotal = 0;
+            filteredData.forEach(game => {
+                try {secondaryTotal += game["milestones"]["secondary"];}
+                catch {}
+            })
+            document.getElementById("secondaryTotal").innerHTML = secondaryTotal;
             //COs
             let communityTotal = 0;
             filteredData.forEach(game => {
@@ -4086,6 +4124,8 @@
                 catch {}
             })
             document.getElementById("communityTotal").innerHTML = communityTotal;
+            //Total Objectives
+            document.getElementById("objectivesTotal").innerHTML = (primaryTotal + secondaryTotal + communityTotal);
             //Achievements
             let achievementsTotal = 0;
             filteredData.forEach(game => {
@@ -4770,25 +4810,29 @@
                 //Game Tags
                 let gameTags = document.createElement("div");
                 gameTags.classList.add("gameTags");
-                    if(activeUser != "" && game["CEId"] in userData[activeUser]["gamesPoints"])
+                    //Earned Points
+                    if(tagSettings[38])
                     {
-                        let earned = document.createElement("span");
-                        earned.classList.add("tag");
-                        if(userData[activeUser]["gamesPoints"][game["CEId"]]["points"] < game["points"])
+                        if(activeUser != "" && game["CEId"] in userData[activeUser]["gamesPoints"])
                         {
-                            earned.innerHTML = "<div class='tagTitle earnedPointsText partial'></div><div>" + userData[activeUser]["gamesPoints"][game["CEId"]]["points"] + "/" + game["points"] + "&hairsp;" + pointsIcon + "</div>";
-                        }
-                        else if(userData[activeUser]["gamesPoints"][game["CEId"]]["points"] == game["points"])
-                        {
-                            earned.innerHTML = "<div class='tagTitle earnedPointsText complete'></div><div>" + userData[activeUser]["gamesPoints"][game["CEId"]]["points"] + "/" + game["points"] + "&hairsp;" + pointsIcon + "</div>";
-                        }
-                        else if(userData[activeUser]["gamesPoints"][game["CEId"]]["points"] > game["points"])
-                        {
-                            earned.innerHTML = "<div class='tagTitle earnedPointsText overcomplete'></div><div>" + userData[activeUser]["gamesPoints"][game["CEId"]]["points"] + "/" + game["points"] + "&hairsp;" + pointsIcon + "</div>";
-                        }
-                        earned.innerHTML += "<br>";
+                            let earned = document.createElement("span");
+                            earned.classList.add("tag");
+                            if(userData[activeUser]["gamesPoints"][game["CEId"]]["points"] < game["points"])
+                            {
+                                earned.innerHTML = "<div class='tagTitle earnedPointsText partial'></div><div>" + userData[activeUser]["gamesPoints"][game["CEId"]]["points"] + "/" + game["points"] + "&hairsp;" + pointsIcon + "</div>";
+                            }
+                            else if(userData[activeUser]["gamesPoints"][game["CEId"]]["points"] == game["points"])
+                            {
+                                earned.innerHTML = "<div class='tagTitle earnedPointsText complete'></div><div>" + userData[activeUser]["gamesPoints"][game["CEId"]]["points"] + "/" + game["points"] + "&hairsp;" + pointsIcon + "</div>";
+                            }
+                            else if(userData[activeUser]["gamesPoints"][game["CEId"]]["points"] > game["points"])
+                            {
+                                earned.innerHTML = "<div class='tagTitle earnedPointsText overcomplete'></div><div>" + userData[activeUser]["gamesPoints"][game["CEId"]]["points"] + "/" + game["points"] + "&hairsp;" + pointsIcon + "</div>";
+                            }
+                            earned.innerHTML += "<br>";
 
-                        gameTags.appendChild(earned);
+                            gameTags.appendChild(earned);
+                        }
                     }
 
                     //Genre
@@ -4823,6 +4867,44 @@
                         gameTags.innerHTML += " ";
                         gameTags.appendChild(tier);
                     }
+                    //Effective Tier
+                    if(tagSettings[39])
+                    {
+                        let trueTier = document.createElement("span");
+                        trueTier.classList.add("tag");
+
+                        let totPoints = game["points"] + game["secondaryPoints"];
+                        let realTier = 0;
+                        
+                        if(totPoints >= 5) {realTier++;}
+                        if(totPoints >= 20) {realTier++;}
+                        if(totPoints >= 40) {realTier++;}
+                        if(totPoints >= 80) {realTier++;}
+                        if(totPoints >= 200) {realTier++;}
+                        if(totPoints >= 400) {realTier++;}
+                        if(totPoints >= 800) {realTier++;}
+
+                        if(game["tier"] != realTier)
+                        {
+                            trueTier.innerHTML = "<div class='tagTitle overcompletionTierText'></div><div class='tagTitle tier" + realTier + "'></div>";
+                            trueTier.title = "While this game has a Tier of T" + game["tier"] + ", the sum of Primary and Secondary Points would make Overcompleting the game feel more like completing a T" + realTier + " game.";
+                            trueTier.setAttribute('onClick', 'alert(this.title)');
+                            trueTier.style.cursor = "help";
+                            
+                            if(!tagSettings[8])
+                            {
+                                if(game["points"] + game["secondaryPoints"] != game["points"] && game["points"] + game["secondaryPoints"] != game["secondaryPoints"])
+                                {
+                                    trueTier.innerHTML += "<div style='font-weight: bold; text-decoration: underline dotted;' title='Total Points. (From both Primary and Secondary Objectives.)'>" + (game["points"] + game["secondaryPoints"]) + "&hairsp;" + pointsIcon + "<br></div>";
+                                }
+                            }
+
+                            gameTags.innerHTML += " ";
+                            gameTags.appendChild(trueTier);
+                        }
+                    }
+                    //Separator
+                    if(tagSettings[7] || tagSettings[8] || tagSettings[39]) {gameTags.innerHTML +="<br>"}
                     //primary
                     if(tagSettings[9])
                     {
