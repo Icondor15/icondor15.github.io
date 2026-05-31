@@ -569,6 +569,13 @@
             background-image: linear-gradient(#464646,#323232);
             border: solid 1px #ffffff4f;
         }
+        .pphText:before {
+            content: "Points Per Hour:";
+        }
+        .pphText {
+            background-image: linear-gradient(#686868,#545454);
+            border: solid 1px #ffffff4f;
+        }
         
         .dlcCountText:before {
             content: "DLCs";
@@ -1083,6 +1090,8 @@
                                 <input autocomplete="off" type="checkbox" id="tier7" onchange="changeTier(7)"><label for="tier7">T7</label>
                             </span>
                         </div>
+                        <hr style="opacity: 0.5; width:100%; margin: 0px;">
+                        <input autocomplete="off" type="checkbox" id="tierOvercompletion" onchange="order('last')"><label for="tierOvercompletion">Overcompletion Tier</label> <sup title="This will make it so that instead of filtering by the regular Tier (That takes only Primary Objectives into account), each game will be filtered according to what Tier they'd get from the total amount of points they have. (From both Primary and Secondary Objectives.)" style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup>
                     </fieldset>
                     <hr style="height: 0px; width:20px; margin-top: 25px;">
                     <!--Points-->
@@ -1528,6 +1537,11 @@
                             <label class="tagTitle medianPlaytimeText" style="font-size: 12px; padding-top: 4.5px;" for="tagSettings33"><svg data-icon="time" width="13" height="13" viewBox="0 0 16 16" role="img"><path d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6s2.69-6 6-6 6 2.69 6 6-2.69 6-6 6zm1-6.41V4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .28.11.53.29.71l2 2a1.003 1.003 0 001.42-1.42L9 7.59z" fill="white" fill-rule="evenodd"></path></svg> Median Completion Time</label>
                             <input class="tagSettings" id="tagSettings33" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(33, this.checked);" checked>
                         </span>
+                        <br>
+                        <span class="tag" style="font-size: 12px;">
+                            <label class="tagTitle" style="font-size: 12px; background-image: linear-gradient(#686868,#545454); border: solid 1px #ffffff4f;" for="tagSettings40">Points Per Hour</label>
+                            <input class="tagSettings" id="tagSettings40" type="checkbox" style="position: relative; top: 1px; margin: 3px 4px 0px -1px;" autocomplete="off" onchange="changeTagVisibility(40, this.checked);" checked>
+                        </span>
                     </div>
 
                     <!--DLCs-->
@@ -1716,6 +1730,7 @@
                     <option value="consoleName">Console Name (RA)</option>
                     <option value="random">Random</option>
                     <option value="medianPlaytime">Median Completion Time</option>
+                    <option value="pointsPerHour">Points Per Hour (PPH)</option>
                 </optgroup>
                 <optgroup label="--Name--">
                     <option value="name">Alphabetical Order</option>
@@ -2212,6 +2227,7 @@
             true,   //37: Overcompletions count
             true,   //38: Earned Points
             true,   //39: Effective Tier
+            true,   //40: Points Per Hour
         ]
 
         const exPlusList = ["992f86df-6327-47f7-ba0c-0212126c0aaf"];
@@ -3015,7 +3031,25 @@
                 {
                     if(activeTier[i] == true)
                     {
-                        filteredTier[i] = filteredData.filter(obj => {return obj.tier == i})
+                        if(!document.getElementById("tierOvercompletion").checked) {filteredTier[i] = filteredData.filter(obj => {return obj.tier == i})}
+                        else
+                        {
+                            filteredTier[i] = filteredData.filter(obj => {
+                                let totPoints = obj["points"] + obj["secondaryPoints"];
+                                let realTier = 0;
+                                
+                                if(totPoints >= 5) {realTier++;}
+                                if(totPoints >= 20) {realTier++;}
+                                if(totPoints >= 40) {realTier++;}
+                                if(totPoints >= 80) {realTier++;}
+                                if(totPoints >= 200) {realTier++;}
+                                if(totPoints >= 400) {realTier++;}
+                                if(totPoints >= 800) {realTier++;}
+
+                                return realTier == i;
+                            })
+                        }
+                        
                     }
                 //Alter fieldset
                     else
@@ -3067,12 +3101,12 @@
                     else {document.getElementById("pointsHigher").value = highBound.toString();}
                 }
 
-                filteredData = filteredData.filter(obj => {return obj.points >= lowBound})
+                filteredData = filteredData.filter(obj => {return obj.points + obj.secondaryPoints >= lowBound})
 
                 if(lowBound <= highBound)
                 {
                     document.getElementById("pointsHigher").style.textDecoration = "none";
-                    filteredData = filteredData.filter(obj => {return obj.points <= highBound})
+                    filteredData = filteredData.filter(obj => {return obj.points + obj.secondaryPoints <= highBound})
                 }
                 else {document.getElementById("pointsHigher").style.textDecoration = "line-through";}
             }
@@ -4397,6 +4431,16 @@
                     if(useReverseOrder != true) {filteredData = reviewedGames.concat(unreviewedGames, RAGames);}
                     else {filteredData = RAGames.concat(unreviewedGames, reviewedGames);}
                 }
+                else if(type == "pointsPerHour")
+                {
+                    let medianGames = filteredData.filter(obj => {return obj.medianPlaytime > 0})
+                    let nonMedianGames = filteredData.filter(obj => {return !obj.medianPlaytime > 0})
+
+                    medianGames.sort((a,b) => (a["points"]/(a["medianPlaytime"]/60) > b["points"]/(b["medianPlaytime"]/60)) ? -1 : ((b["points"]/(b["medianPlaytime"]/60) > a["points"]/(a["medianPlaytime"]/60)) ? 1 : 0));
+
+                    if(!useReverseOrder) {filteredData = medianGames.concat(nonMedianGames);}
+                    else {filteredData = nonMedianGames.concat(medianGames);}
+                }
                 else if(type == "dlcCount")
                 {
                     let steamGames = filteredData.filter(obj => {return obj.gameType != 3})
@@ -5082,23 +5126,37 @@
                     if(game["gameType"] != 3 && game["gameType"] != 5 && game["medianPlaytime"] != 0 && tagSettings[33]) {reviewTags.innerHTML += "<br>"}
                 }
 
-                //Median Playtime Tag
-                if(game["gameType"] != 3 && game["gameType"] != 5 && game["medianPlaytime"] != 0 && tagSettings[33] && game["playersCompleted"] >= 5)
+                //Median Playtime Based Tags
+                if(game["gameType"] != 3 && game["gameType"] != 5 && game["medianPlaytime"] != 0 && game["points"] > 0)
                 {
-                    let playtime = document.createElement("span");
-                    playtime.classList.add("tag");
-
-                    playtime.innerHTML = "<div class='tagTitle medianPlaytimeText'>" + '<svg data-icon="time" width="11" height="11" viewBox="0 0 16 16" role="img"><path d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6s2.69-6 6-6 6 2.69 6 6-2.69 6-6 6zm1-6.41V4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .28.11.53.29.71l2 2a1.003 1.003 0 001.42-1.42L9 7.59z" fill="white" fill-rule="evenodd"></path></svg>' + " Median Completion Time:</div>";
-
-                    if(game["medianPlaytime"] > 60)
+                    //Median Playtime Tag
+                    if(tagSettings[33])
                     {
-                        playtime.innerHTML += "<div>" + Math.floor(game["medianPlaytime"]/60) + "h " + (game["medianPlaytime"] - Math.floor(game["medianPlaytime"]/60)*60) + "m</div>";
+                        let playtime = document.createElement("span");
+                        playtime.classList.add("tag");
+
+                        playtime.innerHTML = "<div class='tagTitle medianPlaytimeText'>" + '<svg data-icon="time" width="11" height="11" viewBox="0 0 16 16" role="img"><path d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6s2.69-6 6-6 6 2.69 6 6-2.69 6-6 6zm1-6.41V4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .28.11.53.29.71l2 2a1.003 1.003 0 001.42-1.42L9 7.59z" fill="white" fill-rule="evenodd"></path></svg>' + " Median Completion Time:</div>";
+
+                        if(game["medianPlaytime"] > 60)
+                        {
+                            playtime.innerHTML += "<div>" + Math.floor(game["medianPlaytime"]/60) + "h " + (game["medianPlaytime"] - Math.floor(game["medianPlaytime"]/60)*60) + "m</div>";
+                        }
+                        else
+                        {
+                            playtime.innerHTML += "<div>" + game["medianPlaytime"] + "m</div>";
+                        }
+                        reviewTags.appendChild(playtime);
+                        if(tagSettings[40]) {reviewTags.innerHTML += " ";}
                     }
-                    else
+                    //Points Per Hour Tag
+                    if(tagSettings[40])
                     {
-                        playtime.innerHTML += "<div>" + game["medianPlaytime"] + "m</div>";
+                        let pph = document.createElement("span");
+                        pph.classList.add("tag");
+
+                        pph.innerHTML = "<div class='tagTitle pphText' style='text-decoration: underline dotted; cursor: help;' title='\"Points Per Hour\" (often referred to as &apos;PPH&apos;) refers to how many Points a player should be able to \"earn\" on average every hour if they&apos;re aiming for completion, based on the Median Completion Time, and the amount of Points (from Primary Objectives) the game has.\n\nNotes:\n- This is just an estimate as different players play at different speeds and with different starting skill levels.\n- This doesn&apos;t take into account Secondary Objectives, and therefore Overcompletions.'></div><div>~" + (game["points"]/(game["medianPlaytime"]/60)).toFixed(2) + "&hairsp;" + pointsIcon + "/h</div>";
+                        reviewTags.appendChild(pph);
                     }
-                    reviewTags.appendChild(playtime);
                 }
 
                 //Check if all settings are false
