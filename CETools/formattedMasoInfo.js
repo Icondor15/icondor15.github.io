@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 254,
         "completions": 138,
-        "playtime": 203.4513285024154,
+        "playtime": 203.57560386473423,
         "newestCompletion": "2026-04-06T20:31:43.000Z",
         "badges": {
             "count": 2,
@@ -2213,7 +2213,7 @@ var masoData =
         "tier": "1",
         "owners": 37,
         "completions": 9,
-        "playtime": 7.079629629629629,
+        "playtime": 7.42037037037037,
         "newestCompletion": "2025-12-31T15:00:23.000Z"
     },
     "1056690": {
@@ -2571,10 +2571,10 @@ var masoData =
     "1250440": {
         "description": "WARNING: Consumption will cause death",
         "tier": "1",
-        "owners": 26,
-        "completions": 14,
-        "playtime": 8.345238095238097,
-        "newestCompletion": "2025-12-26T10:31:10.000Z"
+        "owners": 27,
+        "completions": 15,
+        "playtime": 8.372222222222224,
+        "newestCompletion": "2026-01-11T06:13:03.000Z"
     },
     "1205170": {
         "description": "\u2606 Challenge attracts rage.",
@@ -2771,7 +2771,7 @@ var masoData =
     "1062110": {
         "description": "\u2733 Intro to Sequence Breaking",
         "tier": "2",
-        "owners": 29,
+        "owners": 30,
         "completions": 7,
         "playtime": 47.85238095238095,
         "newestCompletion": "2024-10-05T03:21:11.000Z"
@@ -3776,9 +3776,9 @@ var masoData =
         "description": "Destroy... Absorb... Grow...",
         "tier": "1",
         "owners": 51,
-        "completions": 10,
-        "playtime": 31.253333333333337,
-        "newestCompletion": "2026-02-16T22:51:39.000Z"
+        "completions": 11,
+        "playtime": 30.698484848484853,
+        "newestCompletion": "2026-05-24T00:07:41.000Z"
     },
     "2228030": {
         "description": "Puyo in the grinder",
@@ -3955,10 +3955,10 @@ var masoData =
     "2121980": {
         "description": "\ud83c\udf96\ufe0f \u2606 Don't ask me how I know...",
         "tier": "0",
-        "owners": 40,
-        "completions": 25,
-        "playtime": 20.72666666666667,
-        "newestCompletion": "2026-02-21T18:50:42.000Z",
+        "owners": 41,
+        "completions": 26,
+        "playtime": 22.455769230769235,
+        "newestCompletion": "2026-04-06T17:10:54.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -4081,7 +4081,7 @@ var masoData =
         "tier": "1",
         "owners": 60,
         "completions": 21,
-        "playtime": 11.553968253968254,
+        "playtime": 11.80079365079365,
         "newestCompletion": "2026-01-14T16:30:15.000Z",
         "badges": {
             "count": 1,
@@ -4519,7 +4519,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 86,
+        "owners": 89,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4535,9 +4535,9 @@ var masoData =
     "576500": {
         "description": "Tricky Towers",
         "tier": "1",
-        "owners": 29,
-        "completions": 7,
-        "playtime": 11.654761904761903,
+        "owners": 31,
+        "completions": 8,
+        "playtime": 11.414583333333333,
         "newestCompletion": "2026-05-20T07:22:46.000Z"
     },
     "1282210": {
@@ -4559,9 +4559,9 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 32,
-        "completions": 16,
-        "playtime": 11.241666666666665,
+        "owners": 33,
+        "completions": 17,
+        "playtime": 11.19313725490196,
         "newestCompletion": "2026-04-18T16:38:47.000Z"
     },
     "434660": {
@@ -4607,9 +4607,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 58,
-        "completions": 18,
-        "playtime": 77.35000000000001,
+        "owners": 61,
+        "completions": 19,
+        "playtime": 76.49561403508773,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
@@ -4627,9 +4627,9 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 22,
-        "completions": 5,
-        "playtime": 40.38333333333333,
+        "owners": 23,
+        "completions": 6,
+        "playtime": 39.888888888888886,
         "newestCompletion": "2025-06-19T00:20:43.000Z"
     },
     "1354260": {
@@ -4711,9 +4711,9 @@ var masoData =
     "2105620": {
         "description": "\ud83c\udf1f Rektori",
         "tier": "5",
-        "owners": 0,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 1,
+        "completions": 1,
+        "playtime": 344.81666666666666,
+        "newestCompletion": "2026-05-10T05:10:36.000Z"
     }
 }
