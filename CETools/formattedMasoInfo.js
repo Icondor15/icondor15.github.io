@@ -257,7 +257,7 @@ var masoData =
         "tier": "4",
         "owners": 157,
         "completions": 20,
-        "playtime": 199.00166666666664,
+        "playtime": 199.02666666666664,
         "newestCompletion": "2025-10-09T13:53:53.000Z"
     },
     "795570": {
@@ -1537,7 +1537,7 @@ var masoData =
         "tier": "4",
         "owners": 102,
         "completions": 25,
-        "playtime": 64.49733333333333,
+        "playtime": 64.81133333333334,
         "newestCompletion": "2026-04-15T22:39:05.000Z",
         "badges": {
             "count": 1,
@@ -1667,7 +1667,7 @@ var masoData =
     "609420": {
         "description": "\ud83c\udf1f Give Up",
         "tier": "5",
-        "owners": 78,
+        "owners": 79,
         "completions": 6,
         "playtime": 109.69722222222221,
         "newestCompletion": "2025-11-29T02:29:08.000Z",
@@ -1947,7 +1947,7 @@ var masoData =
     "251470": {
         "description": "\u2733 3-in-1 Action Pack",
         "tier": "2",
-        "owners": 83,
+        "owners": 84,
         "completions": 9,
         "playtime": 65.56851851851852,
         "newestCompletion": "2024-08-06T23:04:30.000Z"
@@ -2081,7 +2081,7 @@ var masoData =
         "tier": "1",
         "owners": 183,
         "completions": 87,
-        "playtime": 98.31340996168582,
+        "playtime": 98.31628352490421,
         "newestCompletion": "2026-05-01T07:34:01.000Z",
         "badges": {
             "count": 1,
@@ -2293,7 +2293,7 @@ var masoData =
         "tier": "3",
         "owners": 109,
         "completions": 16,
-        "playtime": 21.444791666666667,
+        "playtime": 24.98645833333333,
         "newestCompletion": "2025-07-16T03:42:38.000Z"
     },
     "457890": {
@@ -2619,7 +2619,7 @@ var masoData =
     "390720": {
         "description": "That\"s axolotl destruction",
         "tier": "1",
-        "owners": 56,
+        "owners": 57,
         "completions": 16,
         "playtime": 9.226041666666665,
         "newestCompletion": "2025-09-12T19:00:30.000Z"
@@ -3581,7 +3581,7 @@ var masoData =
         "tier": "5",
         "owners": 90,
         "completions": 15,
-        "playtime": 54.25888888888889,
+        "playtime": 54.48666666666667,
         "newestCompletion": "2026-05-18T05:36:58.000Z",
         "badges": {
             "count": 2,
@@ -3985,7 +3985,7 @@ var masoData =
         "tier": "3",
         "owners": 120,
         "completions": 11,
-        "playtime": 443.60151515151523,
+        "playtime": 443.60606060606074,
         "newestCompletion": "2025-02-09T16:05:47.000Z"
     },
     "718010": {
@@ -4267,7 +4267,7 @@ var masoData =
     "1406250": {
         "description": "\ud83c\udf1fDon't waste your shrikens",
         "tier": "5",
-        "owners": 27,
+        "owners": 28,
         "completions": 2,
         "playtime": 106.95833333333333,
         "newestCompletion": "2024-08-03T06:00:49.000Z"
@@ -4655,9 +4655,9 @@ var masoData =
     "3288210": {
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
-        "owners": 14,
-        "completions": 6,
-        "playtime": 33.69166666666667,
+        "owners": 15,
+        "completions": 7,
+        "playtime": 31.666666666666668,
         "newestCompletion": "2026-04-24T23:28:21.000Z"
     },
     "2178380": {
@@ -4683,10 +4683,10 @@ var masoData =
     "1711520": {
         "description": "\u272a TIME TRAVEL \ud83d\udde3\ufe0f\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f",
         "tier": "4",
-        "owners": 2,
-        "completions": 1,
-        "playtime": 110.36666666666666,
-        "newestCompletion": "2024-03-24T17:56:35.000Z",
+        "owners": 3,
+        "completions": 2,
+        "playtime": 120.59166666666667,
+        "newestCompletion": "2026-06-02T01:24:18.000Z",
         "badges": {
             "count": 1,
             "points": 7
