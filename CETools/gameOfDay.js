@@ -2,105 +2,104 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1766540,
-        "CEId": "574bbb72-f82f-4398-8c3b-2167af18b7eb",
-        "name": "Wonderputt Forever",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1766540/header.jpg?t=1693498552",
+        "platformId": 204100,
+        "CEId": "e1c2e037-de07-47a3-9bd1-3e30cc98f235",
+        "name": "Max Payne 3",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/204100/header.jpg?t=1619108680",
         "genre": [
-            "Arcade"
+            "Action"
         ],
-        "tier": 2,
-        "points": 20,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 1702,
-        "createdAt": "2023-10-02T14:32:40.000Z",
-        "updatedAt": "2026-05-29T05:12:22.000Z",
+        "medianPlaytime": 4801,
+        "createdAt": "2021-06-03T14:14:46.000Z",
+        "updatedAt": "2026-05-31T12:19:13.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 1,
-        "playersStarted": 3,
-        "playersTotal": 57,
+        "playersCompleted": 42,
+        "playersStarted": 0,
+        "playersTotal": 344,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
-                "discountPercent": 0
+                "initial": 1999,
+                "final": 599,
+                "discountPercent": 70
             },
             "EUR": {
-                "initial": 975,
-                "final": 975,
-                "discountPercent": 0
+                "initial": 1999,
+                "final": 599,
+                "discountPercent": 70
             },
             "GBP": {
-                "initial": 850,
-                "final": 850,
-                "discountPercent": 0
+                "initial": 1799,
+                "final": 539,
+                "discountPercent": 70
             },
             "JPY": {
-                "initial": 120000,
-                "final": 120000,
-                "discountPercent": 0
+                "initial": 220000,
+                "final": 66000,
+                "discountPercent": 70
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
-                "discountPercent": 0
+                "initial": 2995,
+                "final": 898,
+                "discountPercent": 70
             },
             "CAD": {
-                "initial": 1299,
-                "final": 1299,
-                "discountPercent": 0
+                "initial": 2999,
+                "final": 899,
+                "discountPercent": 70
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Hole-y Relics [10\u2605]\nObtain all golden relics.\n\nWonderputt [10\u2605]\nProve yourself.",
+            "primary": 1,
+            "primaryText": "Bullet Time [10\u2605]\nComplete New York Minute Hardcore.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 3,
-            "communityText": "Decorated Golfer\nObtain all in-game awards.\n\nGolden Run\nObtain all goldens relics from any course in a single run.\n\nYou Only Golf Once\nComplete any trip using the \"roguelite\" modifier.",
-            "achievements": 25
+            "community": 0,
+            "communityText": "",
+            "achievements": 67
         },
         "CETags": {
             "genre": [
-                "Sports",
-                "Score Attack"
+                "Third Person Shooter"
             ],
-            "info": [
-                "Mouse Focused"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Sports",
-            "Casual",
-            "Mini Golf",
-            "Isometric",
-            "Indie",
-            "Puzzle",
-            "Golf",
-            "Arcade",
-            "Relaxing",
-            "Colorful",
-            "Physics",
+            "Action",
+            "Third-Person Shooter",
+            "Bullet Time",
+            "Story Rich",
+            "Multiplayer",
+            "Shooter",
+            "Cinematic",
+            "Third Person",
+            "Noir",
             "Singleplayer",
-            "Nostalgia"
+            "Great Soundtrack",
+            "Atmospheric",
+            "Violent",
+            "Nudity",
+            "Adventure",
+            "Dark",
+            "Linear",
+            "Open World",
+            "Co-op",
+            "Gore"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "arabic": "I",
-            "brazilian": "I",
-            "koreana": "I",
-            "latam": "I",
-            "polish": "I",
-            "swedish": "I",
-            "tchinese": "I",
-            "thai": "I",
-            "turkish": "I"
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-06-02'
+var gameOfDayDate = '2026-06-03'
