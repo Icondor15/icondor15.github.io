@@ -247,7 +247,7 @@ var masoData =
     "474210": {
         "description": "\u2733 and now comes the hard part",
         "tier": "2",
-        "owners": 47,
+        "owners": 49,
         "completions": 7,
         "playtime": 22.35714285714286,
         "newestCompletion": "2023-08-21T20:12:30.000Z"
@@ -273,7 +273,7 @@ var masoData =
         "tier": "1",
         "owners": 65,
         "completions": 22,
-        "playtime": 33.06363636363636,
+        "playtime": 33.084848484848486,
         "newestCompletion": "2025-08-01T03:39:47.000Z",
         "badges": {
             "count": 1,
@@ -945,7 +945,7 @@ var masoData =
         "tier": "2",
         "owners": 193,
         "completions": 103,
-        "playtime": 32.839967637540475,
+        "playtime": 32.846116504854386,
         "newestCompletion": "2026-03-16T13:18:39.000Z"
     },
     "510620": {
@@ -1667,7 +1667,7 @@ var masoData =
     "609420": {
         "description": "\ud83c\udf1f Give Up",
         "tier": "5",
-        "owners": 79,
+        "owners": 80,
         "completions": 6,
         "playtime": 109.69722222222221,
         "newestCompletion": "2025-11-29T02:29:08.000Z",
@@ -1763,7 +1763,7 @@ var masoData =
     "940680": {
         "description": "\u2733 Tes-- Test your mu-- Test your multitasking skil--",
         "tier": "2",
-        "owners": 119,
+        "owners": 120,
         "completions": 34,
         "playtime": 17.998529411764704,
         "newestCompletion": "2026-05-03T17:13:44.000Z"
@@ -2163,7 +2163,7 @@ var masoData =
     "508790": {
         "description": "\u2733 Flat is Justice",
         "tier": "2",
-        "owners": 38,
+        "owners": 39,
         "completions": 12,
         "playtime": 15.395833333333334,
         "newestCompletion": "2026-03-03T04:52:03.000Z"
@@ -2771,7 +2771,7 @@ var masoData =
     "1062110": {
         "description": "\u2733 Intro to Sequence Breaking",
         "tier": "2",
-        "owners": 30,
+        "owners": 31,
         "completions": 7,
         "playtime": 47.85238095238095,
         "newestCompletion": "2024-10-05T03:21:11.000Z"
@@ -3075,7 +3075,7 @@ var masoData =
     "1115050": {
         "description": "\u2606 make sure to turn off the voice volume",
         "tier": "3",
-        "owners": 45,
+        "owners": 46,
         "completions": 14,
         "playtime": 21.842857142857145,
         "newestCompletion": "2025-05-31T21:18:45.000Z"
@@ -3603,7 +3603,7 @@ var masoData =
     "1316910": {
         "description": "\u2606 Ready? Go!",
         "tier": "3",
-        "owners": 27,
+        "owners": 28,
         "completions": 5,
         "playtime": 47.86,
         "newestCompletion": "2025-04-23T16:00:07.000Z"
@@ -4055,10 +4055,10 @@ var masoData =
     "2169300": {
         "description": "Touch Boulder, Get Dizzy",
         "tier": "1",
-        "owners": 7,
-        "completions": 5,
-        "playtime": 6.283333333333333,
-        "newestCompletion": "2024-07-30T20:31:01.000Z"
+        "owners": 8,
+        "completions": 6,
+        "playtime": 6.125,
+        "newestCompletion": "2026-06-03T02:09:06.000Z"
     },
     "1488650": {
         "description": "Turn your lo mein into lo PAIN.",
@@ -4224,9 +4224,9 @@ var masoData =
         "description": "\u2733 Rapid eye momentum",
         "tier": "2",
         "owners": 22,
-        "completions": 2,
-        "playtime": 62.74166666666666,
-        "newestCompletion": "2024-11-26T06:18:05.000Z",
+        "completions": 3,
+        "playtime": 58.327777777777776,
+        "newestCompletion": "2026-06-02T03:57:39.000Z",
         "badges": {
             "count": 1,
             "points": 4
@@ -4635,7 +4635,7 @@ var masoData =
     "1354260": {
         "description": "\u2733 The only good argument that AI &gt; humans. (Co-op)",
         "tier": "2",
-        "owners": 4,
+        "owners": 5,
         "completions": 1,
         "playtime": 31.816666666666666,
         "newestCompletion": "2026-01-22T22:17:23.000Z"
