@@ -2836,14 +2836,6 @@ var masoData =
         "playtime": 10.976767676767679,
         "newestCompletion": "2026-03-29T05:18:31.000Z"
     },
-    "297410": {
-        "description": "\u2733 Space Trace",
-        "tier": "2",
-        "owners": 18,
-        "completions": 3,
-        "playtime": 17.17222222222222,
-        "newestCompletion": "2023-05-07T09:48:24.000Z"
-    },
     "253750": {
         "description": "\ud83c\udf1f it's a great game, yea. a classic, if you will",
         "tier": "5",
