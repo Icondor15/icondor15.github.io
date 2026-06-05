@@ -2,104 +2,105 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 204100,
-        "CEId": "e1c2e037-de07-47a3-9bd1-3e30cc98f235",
-        "name": "Max Payne 3",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/204100/header.jpg?t=1619108680",
+        "platformId": 2204170,
+        "CEId": "eae35c55-f2b6-4696-a883-a117f20ec18a",
+        "name": "Splodey",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2204170/header.jpg?t=1717532569",
         "genre": [
-            "Action"
+            "Platformer"
         ],
-        "tier": 1,
-        "points": 10,
+        "tier": 2,
+        "points": 30,
         "secondaryPoints": 0,
-        "medianPlaytime": 4801,
-        "createdAt": "2021-06-03T14:14:46.000Z",
-        "updatedAt": "2026-05-31T12:19:13.000Z",
+        "medianPlaytime": 1585,
+        "createdAt": "2024-06-05T16:53:23.000Z",
+        "updatedAt": "2026-05-29T05:12:22.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 42,
-        "playersStarted": 0,
-        "playersTotal": 344,
+        "playersCompleted": 21,
+        "playersStarted": 6,
+        "playersTotal": 86,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 599,
-                "discountPercent": 70
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 1999,
-                "final": 599,
-                "discountPercent": 70
+                "initial": 1279,
+                "final": 1279,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 1799,
-                "final": 539,
-                "discountPercent": 70
+                "initial": 1099,
+                "final": 1099,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 220000,
-                "final": 66000,
-                "discountPercent": 70
+                "initial": 150000,
+                "final": 150000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 2995,
-                "final": 898,
-                "discountPercent": 70
+                "initial": 1895,
+                "final": 1895,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 2999,
-                "final": 899,
-                "discountPercent": 70
+                "initial": 1699,
+                "final": 1699,
+                "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Bullet Time [10\u2605]\nComplete New York Minute Hardcore.",
+            "primary": 2,
+            "primaryText": "Potion Propulsionist [20\u2605]\nObtain all Diamond medals.\n\nKeys to Success [10\u2605]\nSeparately; Obtain all Souls and complete World 5.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 67
+            "community": 1,
+            "communityText": "Missed Opportunity\nGet an any% speedrun time faster than 9:55.083 (the time that won SRC's speedrun challenge).",
+            "achievements": 27
         },
         "CETags": {
             "genre": [
-                "Third Person Shooter"
+                "Awkward Movement",
+                "2D Platformer"
             ],
             "info": []
         },
         "gameTags": [
+            "Precision Platformer",
+            "Side Scroller",
+            "2D Platformer",
+            "Difficult",
+            "Platformer",
+            "2D",
+            "Funny",
+            "Dark Humor",
+            "Psychological Horror",
+            "Controller",
             "Action",
-            "Third-Person Shooter",
-            "Bullet Time",
-            "Story Rich",
-            "Multiplayer",
-            "Shooter",
-            "Cinematic",
-            "Third Person",
-            "Noir",
-            "Singleplayer",
-            "Great Soundtrack",
-            "Atmospheric",
-            "Violent",
-            "Nudity",
+            "Colorful",
+            "Pixel Graphics",
+            "Fantasy",
+            "Magic",
+            "Dark Fantasy",
+            "Physics",
             "Adventure",
-            "Dark",
-            "Linear",
-            "Open World",
-            "Co-op",
-            "Gore"
+            "Singleplayer",
+            "Fast-Paced"
         ],
         "languages": {
             "english": "IAS",
             "french": "IS",
             "german": "IS",
-            "italian": "IS",
             "japanese": "IS",
-            "spanish": "IS",
+            "spanish": "IAS",
             "brazilian": "IS",
             "koreana": "IS",
-            "polish": "IS",
-            "russian": "IS"
+            "latam": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-06-03'
+var gameOfDayDate = '2026-06-05'
