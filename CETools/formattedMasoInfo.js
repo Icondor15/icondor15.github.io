@@ -819,7 +819,7 @@ var masoData =
     "701440": {
         "description": "\ud83c\udf1f Entry-level: 100% Super Meat Boy",
         "tier": "5",
-        "owners": 157,
+        "owners": 158,
         "completions": 42,
         "playtime": 41.72023809523809,
         "newestCompletion": "2026-02-28T11:07:05.000Z"
@@ -853,7 +853,7 @@ var masoData =
         "tier": "1",
         "owners": 139,
         "completions": 104,
-        "playtime": 7.183653846153846,
+        "playtime": 7.198557692307692,
         "newestCompletion": "2026-03-29T22:07:58.000Z"
     },
     "607400": {
@@ -3221,7 +3221,7 @@ var masoData =
         "tier": "3",
         "owners": 131,
         "completions": 68,
-        "playtime": 74.79730392156866,
+        "playtime": 74.94754901960788,
         "newestCompletion": "2026-05-06T16:50:20.000Z",
         "badges": {
             "count": 1,
