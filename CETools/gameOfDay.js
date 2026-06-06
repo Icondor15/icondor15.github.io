@@ -2,105 +2,97 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2204170,
-        "CEId": "eae35c55-f2b6-4696-a883-a117f20ec18a",
-        "name": "Splodey",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2204170/header.jpg?t=1717532569",
+        "platformId": 292600,
+        "CEId": "bdba8d9b-7f96-45f4-aee7-4d34b2cc87d4",
+        "name": "Duet",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/292600/header.jpg?t=1697670314",
         "genre": [
-            "Platformer"
+            "Arcade"
         ],
         "tier": 2,
-        "points": 30,
+        "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 1585,
-        "createdAt": "2024-06-05T16:53:23.000Z",
+        "medianPlaytime": 1473,
+        "createdAt": "2021-06-06T02:53:29.000Z",
         "updatedAt": "2026-05-29T05:12:22.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 21,
-        "playersStarted": 6,
-        "playersTotal": 86,
+        "playersCompleted": 13,
+        "playersStarted": 17,
+        "playersTotal": 163,
         "priceData": {
             "USD": {
-                "initial": 1299,
-                "final": 1299,
+                "initial": 499,
+                "final": 499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1279,
-                "final": 1279,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1099,
-                "final": 1099,
+                "initial": 399,
+                "final": 399,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 150000,
-                "final": 150000,
+                "initial": 52000,
+                "final": 52000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1895,
-                "final": 1895,
+                "initial": 750,
+                "final": 750,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1699,
-                "final": 1699,
+                "initial": 569,
+                "final": 569,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Potion Propulsionist [20\u2605]\nObtain all Diamond medals.\n\nKeys to Success [10\u2605]\nSeparately; Obtain all Souls and complete World 5.",
+            "primaryText": "Perfect Pair [10\u2605]\nObtain the perfection triangle in every individual level (including soliloquy). \n\nDialogue [10\u2605]\nComplete every individual chapter without hitting a wall.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 1,
-            "communityText": "Missed Opportunity\nGet an any% speedrun time faster than 9:55.083 (the time that won SRC's speedrun challenge).",
-            "achievements": 27
+            "community": 0,
+            "communityText": "",
+            "achievements": 76
         },
         "CETags": {
             "genre": [
-                "Awkward Movement",
-                "2D Platformer"
+                "Miscellaneous"
             ],
             "info": []
         },
         "gameTags": [
-            "Precision Platformer",
-            "Side Scroller",
-            "2D Platformer",
-            "Difficult",
-            "Platformer",
-            "2D",
-            "Funny",
-            "Dark Humor",
-            "Psychological Horror",
-            "Controller",
+            "Indie",
             "Action",
-            "Colorful",
-            "Pixel Graphics",
-            "Fantasy",
-            "Magic",
-            "Dark Fantasy",
-            "Physics",
-            "Adventure",
+            "Minimalist",
+            "Great Soundtrack",
+            "Difficult",
+            "Casual",
             "Singleplayer",
-            "Fast-Paced"
+            "Puzzle",
+            "2D",
+            "Rhythm",
+            "Atmospheric"
         ],
         "languages": {
             "english": "IAS",
             "french": "IS",
             "german": "IS",
+            "italian": "IS",
             "japanese": "IS",
-            "spanish": "IAS",
+            "spanish": "IS",
             "brazilian": "IS",
+            "dutch": "IS",
             "koreana": "IS",
-            "latam": "IS",
+            "russian": "IS",
             "schinese": "IS",
             "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-06-05'
+var gameOfDayDate = '2026-06-06'
