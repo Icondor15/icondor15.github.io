@@ -1,98 +1,45 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 292600,
-        "CEId": "bdba8d9b-7f96-45f4-aee7-4d34b2cc87d4",
-        "name": "Duet",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/292600/header.jpg?t=1697670314",
+        "gameType": 2,
+        "platformId": 327500,
+        "CEId": "55f99820-f351-445a-8dae-23ea2e40588d",
+        "name": "Zenzizenzic",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/327500/header.jpg?t=1607852384",
         "genre": [
-            "Arcade"
+            "Bullet Hell"
         ],
         "tier": 2,
-        "points": 20,
+        "points": 30,
         "secondaryPoints": 0,
-        "medianPlaytime": 1473,
-        "createdAt": "2021-06-06T02:53:29.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2024-06-07T21:10:27.000Z",
         "updatedAt": "2026-05-29T05:12:22.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 13,
-        "playersStarted": 17,
-        "playersTotal": 163,
-        "priceData": {
-            "USD": {
-                "initial": 499,
-                "final": 499,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 399,
-                "final": 399,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 399,
-                "final": 399,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 52000,
-                "final": 52000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 750,
-                "final": 750,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 569,
-                "final": 569,
-                "discountPercent": 0
-            }
-        },
+        "playersCompleted": 0,
+        "playersStarted": 1,
+        "playersTotal": 112,
         "milestones": {
-            "primary": 2,
-            "primaryText": "Perfect Pair [10\u2605]\nObtain the perfection triangle in every individual level (including soliloquy). \n\nDialogue [10\u2605]\nComplete every individual chapter without hitting a wall.",
+            "primary": 6,
+            "primaryText": "Zenzizenzic [15\u2605]\nVery Hard Classic Stages - Score 10 million points, and finish the bonus levels.\n\nBiquadratic [15\u2605]\nVery Hard - Classic Stages 0 deaths; Gauntlet - Clear and 160million points.\n\nObsoletion (UNCLEARED) [0\u2605]\nVery Hard Classic Stages - 0 points\n\nFourth Power (UNCLEARED) [0\u2605]\nVery Hard Gauntlet - 0 deaths\n\nRecorde Breaker (UNCLEARED) [0\u2605]\nVery Hard Macro - Kill all bosses in under 60 seconds and score 6 million.\n\nNotational Ascendency (UNCLEARED) [0\u2605]\nVery Hard Macro - Complete without dying, Complete without spending any points",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 76
+            "achievements": 210
         },
         "CETags": {
             "genre": [
-                "Miscellaneous"
+                "Twin Stick"
             ],
-            "info": []
+            "info": [
+                "Uncleared",
+                "Delisted"
+            ]
         },
-        "gameTags": [
-            "Indie",
-            "Action",
-            "Minimalist",
-            "Great Soundtrack",
-            "Difficult",
-            "Casual",
-            "Singleplayer",
-            "Puzzle",
-            "2D",
-            "Rhythm",
-            "Atmospheric"
-        ],
-        "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IS",
-            "dutch": "IS",
-            "koreana": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "tchinese": "IS"
-        }
+        "gameTags": [],
+        "languages": {},
+        "information": "Very hard bonus 1 is broken and can only be entered in practice and gauntlet. Very hard bonus 3 is also broken, when entered from the regular stage it doesn't work correctly (its free).\n\nNo one has any idea how the \"Encounter all enemies\" achievements work. If you have information or know how they work, notify a mod. Maybe they can be added to a PO. Though it is likely they are more of a puzzle than a challenge, and/or simply broken."
     }
 }
-var gameOfDayDate = '2026-06-06'
+var gameOfDayDate = '2026-06-07'
