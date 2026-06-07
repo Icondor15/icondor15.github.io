@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 266,
         "completions": 195,
-        "playtime": 251.7828205128205,
+        "playtime": 251.8300854700855,
         "newestCompletion": "2026-05-03T13:17:17.000Z",
         "badges": {
             "count": 2,
@@ -1027,7 +1027,7 @@ var masoData =
     "446840": {
         "description": "\ud83c\udf1f You get 4 colours - Blue for Splashing, Red for Sticking, Yellow for Bouncing, and Black for your future.",
         "tier": "5",
-        "owners": 140,
+        "owners": 141,
         "completions": 19,
         "playtime": 70.66491228070174,
         "newestCompletion": "2024-12-29T20:51:16.000Z"
@@ -1365,7 +1365,7 @@ var masoData =
         "tier": "2",
         "owners": 211,
         "completions": 151,
-        "playtime": 21.149006622516545,
+        "playtime": 21.14966887417217,
         "newestCompletion": "2025-11-06T16:02:02.000Z"
     },
     "211260": {
@@ -2109,7 +2109,7 @@ var masoData =
         "tier": "3",
         "owners": 98,
         "completions": 15,
-        "playtime": 46.50222222222222,
+        "playtime": 46.62,
         "newestCompletion": "2025-08-21T02:09:30.000Z"
     },
     "311930": {
@@ -2229,7 +2229,7 @@ var masoData =
         "tier": "1",
         "owners": 109,
         "completions": 58,
-        "playtime": 10.36896551724138,
+        "playtime": 10.388505747126436,
         "newestCompletion": "2026-01-04T20:27:17.000Z"
     },
     "418530": {
@@ -3221,7 +3221,7 @@ var masoData =
         "tier": "3",
         "owners": 131,
         "completions": 68,
-        "playtime": 74.94754901960788,
+        "playtime": 74.9495098039216,
         "newestCompletion": "2026-05-06T16:50:20.000Z",
         "badges": {
             "count": 1,
@@ -3293,7 +3293,7 @@ var masoData =
         "tier": "0",
         "owners": 71,
         "completions": 10,
-        "playtime": 999.7933333333333,
+        "playtime": 999.9366666666667,
         "newestCompletion": "2026-03-24T07:11:03.000Z",
         "badges": {
             "count": 6,
@@ -4276,9 +4276,9 @@ var masoData =
         "description": "\u2733 Everyday I'm Tumblin'",
         "tier": "2",
         "owners": 33,
-        "completions": 3,
-        "playtime": 41.56111111111111,
-        "newestCompletion": "2024-10-20T06:43:19.000Z"
+        "completions": 4,
+        "playtime": 36.85,
+        "newestCompletion": "2026-06-06T21:32:46.000Z"
     },
     "2087610": {
         "description": "\u2733 Purple Skies",
