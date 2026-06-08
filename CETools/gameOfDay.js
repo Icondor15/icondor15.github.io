@@ -1,45 +1,60 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 2,
-        "platformId": 327500,
-        "CEId": "55f99820-f351-445a-8dae-23ea2e40588d",
-        "name": "Zenzizenzic",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/327500/header.jpg?t=1607852384",
+        "gameType": 1,
+        "platformId": 1732210,
+        "CEId": "e2dba6b8-4115-40dc-bf7f-ace5f2dafe44",
+        "name": "Tile Runner",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1732210/header.jpg?t=1635480249",
         "genre": [
-            "Bullet Hell"
+            "First-Person"
         ],
         "tier": 2,
-        "points": 30,
+        "points": 20,
         "secondaryPoints": 0,
         "medianPlaytime": 0,
-        "createdAt": "2024-06-07T21:10:27.000Z",
+        "createdAt": "2023-06-08T15:27:00.000Z",
         "updatedAt": "2026-05-29T05:12:22.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 0,
-        "playersStarted": 1,
-        "playersTotal": 112,
+        "playersCompleted": 10,
+        "playersStarted": 0,
+        "playersTotal": 135,
         "milestones": {
-            "primary": 6,
-            "primaryText": "Zenzizenzic [15\u2605]\nVery Hard Classic Stages - Score 10 million points, and finish the bonus levels.\n\nBiquadratic [15\u2605]\nVery Hard - Classic Stages 0 deaths; Gauntlet - Clear and 160million points.\n\nObsoletion (UNCLEARED) [0\u2605]\nVery Hard Classic Stages - 0 points\n\nFourth Power (UNCLEARED) [0\u2605]\nVery Hard Gauntlet - 0 deaths\n\nRecorde Breaker (UNCLEARED) [0\u2605]\nVery Hard Macro - Kill all bosses in under 60 seconds and score 6 million.\n\nNotational Ascendency (UNCLEARED) [0\u2605]\nVery Hard Macro - Complete without dying, Complete without spending any points",
+            "primary": 1,
+            "primaryText": "Precision Plunge [20\u2605]\nComplete all levels.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 210
+            "achievements": 0
         },
         "CETags": {
             "genre": [
-                "Twin Stick"
+                "First Person Movement",
+                "Autorunner"
             ],
             "info": [
-                "Uncleared",
-                "Delisted"
+                "Free"
             ]
         },
-        "gameTags": [],
-        "languages": {},
-        "information": "Very hard bonus 1 is broken and can only be entered in practice and gauntlet. Very hard bonus 3 is also broken, when entered from the regular stage it doesn't work correctly (its free).\n\nNo one has any idea how the \"Encounter all enemies\" achievements work. If you have information or know how they work, notify a mod. Maybe they can be added to a PO. Though it is likely they are more of a puzzle than a challenge, and/or simply broken."
+        "gameTags": [
+            "Parkour",
+            "Casual",
+            "3D Platformer",
+            "Adventure",
+            "Platformer",
+            "Singleplayer",
+            "Precision Platformer",
+            "Free to Play",
+            "Runner",
+            "3D",
+            "Underground",
+            "Exploration",
+            "Family Friendly"
+        ],
+        "languages": {
+            "english": "IA"
+        }
     }
 }
-var gameOfDayDate = '2026-06-07'
+var gameOfDayDate = '2026-06-08'
