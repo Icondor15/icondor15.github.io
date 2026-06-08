@@ -185,7 +185,7 @@ var masoData =
         "tier": "1",
         "owners": 195,
         "completions": 96,
-        "playtime": 43.100000000000016,
+        "playtime": 43.13211805555557,
         "newestCompletion": "2026-02-28T19:48:02.000Z",
         "badges": {
             "count": 1,
@@ -237,7 +237,7 @@ var masoData =
         "tier": "2",
         "owners": 163,
         "completions": 65,
-        "playtime": 37.55307692307692,
+        "playtime": 37.571282051282054,
         "newestCompletion": "2026-04-27T18:00:31.000Z",
         "badges": {
             "count": 1,
@@ -655,7 +655,7 @@ var masoData =
     "257850": {
         "description": "\u2733 Who needs a story anyway?",
         "tier": "2",
-        "owners": 121,
+        "owners": 122,
         "completions": 30,
         "playtime": 43.01666666666667,
         "newestCompletion": "2025-08-06T04:36:39.000Z"
@@ -723,7 +723,7 @@ var masoData =
     "384250": {
         "description": "\u2606 Super Slide Bear Ressurection",
         "tier": "3",
-        "owners": 54,
+        "owners": 55,
         "completions": 15,
         "playtime": 133.22,
         "newestCompletion": "2026-05-20T05:59:40.000Z",
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 266,
         "completions": 195,
-        "playtime": 251.8300854700855,
+        "playtime": 251.83564102564105,
         "newestCompletion": "2026-05-03T13:17:17.000Z",
         "badges": {
             "count": 2,
@@ -945,7 +945,7 @@ var masoData =
         "tier": "2",
         "owners": 193,
         "completions": 103,
-        "playtime": 32.846116504854386,
+        "playtime": 32.84789644012947,
         "newestCompletion": "2026-03-16T13:18:39.000Z"
     },
     "510620": {
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 237,
         "completions": 65,
-        "playtime": 61.30794871794872,
+        "playtime": 61.3097435897436,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
     },
     "317710": {
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 263,
         "completions": 84,
-        "playtime": 126.23948412698408,
+        "playtime": 126.24067460317457,
         "newestCompletion": "2026-04-11T03:44:04.000Z"
     },
     "557340": {
@@ -1417,7 +1417,7 @@ var masoData =
         "tier": "2",
         "owners": 152,
         "completions": 67,
-        "playtime": 36.22736318407962,
+        "playtime": 36.241044776119416,
         "newestCompletion": "2026-05-07T23:57:24.000Z",
         "badges": {
             "count": 2,
@@ -1595,7 +1595,7 @@ var masoData =
     "473530": {
         "description": "\u2733 Physics",
         "tier": "2",
-        "owners": 64,
+        "owners": 65,
         "completions": 7,
         "playtime": 58.666666666666664,
         "newestCompletion": "2025-10-13T18:30:38.000Z"
@@ -1643,10 +1643,10 @@ var masoData =
     "278360": {
         "description": "\u2733 Finding Uncle Ben: A Spider-Man Story",
         "tier": "2",
-        "owners": 134,
-        "completions": 40,
-        "playtime": 16.078333333333333,
-        "newestCompletion": "2026-05-11T13:24:31.000Z"
+        "owners": 135,
+        "completions": 41,
+        "playtime": 15.915853658536584,
+        "newestCompletion": "2026-06-05T04:47:36.000Z"
     },
     "355820": {
         "description": "You spin me right round",
@@ -1825,7 +1825,7 @@ var masoData =
         "tier": "2",
         "owners": 121,
         "completions": 51,
-        "playtime": 49.11960784313724,
+        "playtime": 49.452614379084956,
         "newestCompletion": "2026-05-13T16:39:02.000Z",
         "badges": {
             "count": 1,
@@ -2264,9 +2264,9 @@ var masoData =
         "description": "\u2733 Absolutely Discusting",
         "tier": "2",
         "owners": 128,
-        "completions": 87,
-        "playtime": 17.44061302681993,
-        "newestCompletion": "2026-04-16T19:49:42.000Z",
+        "completions": 88,
+        "playtime": 17.3689393939394,
+        "newestCompletion": "2026-06-05T18:52:07.000Z",
         "badges": {
             "count": 1,
             "points": 6
@@ -2639,7 +2639,7 @@ var masoData =
     "894020": {
         "description": "death in all caps",
         "tier": "1",
-        "owners": 94,
+        "owners": 95,
         "completions": 50,
         "playtime": 16.1,
         "newestCompletion": "2026-02-01T04:28:12.000Z"
@@ -2909,7 +2909,7 @@ var masoData =
         "tier": "3",
         "owners": 57,
         "completions": 10,
-        "playtime": 81.87666666666667,
+        "playtime": 81.89166666666667,
         "newestCompletion": "2024-12-10T23:30:53.000Z"
     },
     "1072750": {
@@ -3068,9 +3068,9 @@ var masoData =
         "description": "\u2606 make sure to turn off the voice volume",
         "tier": "3",
         "owners": 46,
-        "completions": 14,
-        "playtime": 21.842857142857145,
-        "newestCompletion": "2025-05-31T21:18:45.000Z"
+        "completions": 15,
+        "playtime": 21.43,
+        "newestCompletion": "2026-06-07T16:44:48.000Z"
     },
     "646570": {
         "description": "\u2606 Slay your cards right",
@@ -3331,10 +3331,10 @@ var masoData =
     "1743850": {
         "description": "\u2733 LSDD",
         "tier": "2",
-        "owners": 117,
-        "completions": 39,
-        "playtime": 92.98461538461538,
-        "newestCompletion": "2026-02-22T04:09:27.000Z",
+        "owners": 118,
+        "completions": 40,
+        "playtime": 90.82583333333334,
+        "newestCompletion": "2026-06-07T04:14:43.000Z",
         "badges": {
             "count": 3,
             "points": 21
@@ -3411,10 +3411,10 @@ var masoData =
     "1378990": {
         "description": "\u2606 It's about time we curated this",
         "tier": "3",
-        "owners": 41,
-        "completions": 11,
-        "playtime": 84.06060606060606,
-        "newestCompletion": "2026-01-18T00:44:27.000Z",
+        "owners": 42,
+        "completions": 12,
+        "playtime": 83.29305555555557,
+        "newestCompletion": "2026-05-29T16:58:59.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -3533,7 +3533,7 @@ var masoData =
         "tier": "2",
         "owners": 103,
         "completions": 39,
-        "playtime": 56.63803418803418,
+        "playtime": 56.68547008547008,
         "newestCompletion": "2025-11-08T05:03:32.000Z"
     },
     "1442170": {
@@ -4619,7 +4619,7 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 23,
+        "owners": 24,
         "completions": 6,
         "playtime": 39.888888888888886,
         "newestCompletion": "2025-06-19T00:20:43.000Z"
@@ -4667,7 +4667,7 @@ var masoData =
     "1887400": {
         "description": "\u2606 It's happy hour!",
         "tier": "3",
-        "owners": 10,
+        "owners": 12,
         "completions": 5,
         "playtime": 53.45,
         "newestCompletion": "2026-04-30T19:49:10.000Z"
