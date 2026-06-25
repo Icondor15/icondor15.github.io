@@ -1,60 +1,78 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 1732210,
-        "CEId": "e2dba6b8-4115-40dc-bf7f-ace5f2dafe44",
-        "name": "Tile Runner",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1732210/header.jpg?t=1635480249",
+        "gameType": 0,
+        "platformId": 223870,
+        "CEId": "80266d6e-e413-40f2-9f99-1e81c2b653d2",
+        "name": "Ys II",
+        "header": "https://steamcdn-a.akamaihd.net/steam/apps/223870/header.jpg?t=15",
         "genre": [
-            "First-Person"
+            "Action"
         ],
-        "tier": 2,
-        "points": 20,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2023-06-08T15:27:00.000Z",
-        "updatedAt": "2026-05-29T05:12:22.000Z",
+        "medianPlaytime": 932,
+        "createdAt": "2020-06-25T20:11:20.000Z",
+        "updatedAt": "2026-06-24T07:45:47.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 10,
+        "playersCompleted": 31,
         "playersStarted": 0,
-        "playersTotal": 135,
+        "playersTotal": 199,
+        "priceData": {
+            "USD": {
+                "initial": 1499,
+                "final": 1499,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1199,
+                "final": 1199,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 999,
+                "final": 999,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 148000,
+                "final": 148000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 1999,
+                "final": 1999,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1699,
+                "final": 1699,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
             "primary": 1,
-            "primaryText": "Precision Plunge [20\u2605]\nComplete all levels.",
+            "primaryText": "The Black Pearl Rises [10\u2605]\nComplete Ys II on Nightmare difficulty. / Complete Ys II Time Attack.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 0
+            "achievements": 21
         },
         "CETags": {
             "genre": [
-                "First Person Movement",
-                "Autorunner"
+                "Action-Adventure"
             ],
-            "info": [
-                "Free"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Parkour",
-            "Casual",
-            "3D Platformer",
-            "Adventure",
-            "Platformer",
-            "Singleplayer",
-            "Precision Platformer",
-            "Free to Play",
-            "Runner",
-            "3D",
-            "Underground",
-            "Exploration",
-            "Family Friendly"
+            "Action",
+            "RPG"
         ],
         "languages": {
-            "english": "IA"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-06-08'
+var gameOfDayDate = '2026-06-25'
