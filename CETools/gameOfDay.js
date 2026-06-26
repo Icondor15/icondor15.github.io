@@ -2,58 +2,58 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 223870,
-        "CEId": "80266d6e-e413-40f2-9f99-1e81c2b653d2",
-        "name": "Ys II",
-        "header": "https://steamcdn-a.akamaihd.net/steam/apps/223870/header.jpg?t=15",
+        "platformId": 1876560,
+        "CEId": "5dc49366-4bc0-45ea-886a-76bb50e64fae",
+        "name": "Save the Reactor",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1876560/header.jpg?t=1656496630",
         "genre": [
-            "Action"
+            "Arcade"
         ],
         "tier": 1,
-        "points": 10,
+        "points": 15,
         "secondaryPoints": 0,
-        "medianPlaytime": 932,
-        "createdAt": "2020-06-25T20:11:20.000Z",
-        "updatedAt": "2026-06-24T07:45:47.000Z",
+        "medianPlaytime": 297,
+        "createdAt": "2022-06-26T10:32:40.000Z",
+        "updatedAt": "2026-06-21T05:21:53.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 31,
-        "playersStarted": 0,
-        "playersTotal": 199,
+        "playersCompleted": 16,
+        "playersStarted": 9,
+        "playersTotal": 64,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 449,
-                "discountPercent": 70
+                "initial": 499,
+                "final": 99,
+                "discountPercent": 80
             },
             "EUR": {
-                "initial": 1199,
-                "final": 359,
-                "discountPercent": 70
+                "initial": 499,
+                "final": 99,
+                "discountPercent": 80
             },
             "GBP": {
-                "initial": 999,
-                "final": 299,
-                "discountPercent": 70
+                "initial": 429,
+                "final": 85,
+                "discountPercent": 80
             },
             "JPY": {
-                "initial": 148000,
-                "final": 44400,
-                "discountPercent": 70
+                "initial": 58000,
+                "final": 11600,
+                "discountPercent": 80
             },
             "AUD": {
-                "initial": 1999,
-                "final": 599,
-                "discountPercent": 70
+                "initial": 750,
+                "final": 150,
+                "discountPercent": 80
             },
             "CAD": {
-                "initial": 1699,
-                "final": 509,
-                "discountPercent": 70
+                "initial": 649,
+                "final": 129,
+                "discountPercent": 80
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "The Black Pearl Rises [10\u2605]\nComplete Ys II on Nightmare difficulty. / Complete Ys II Time Attack.",
+            "primary": 2,
+            "primaryText": "Did It All For The Cookie [10\u2605]\nGet the gold medal in Endless Mode by scoring 3300 points or more.\n\nOrdinary Janitor [5\u2605]\nGet the bronze medal in Endless Mode by scoring 2500 points or more. / Produce 4500 energy on Day 10.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
@@ -62,17 +62,39 @@ var gameOfDay =
         },
         "CETags": {
             "genre": [
-                "Action-Adventure"
+                "Multitasking"
             ],
-            "info": []
+            "info": [
+                "Mouse Focused"
+            ]
         },
         "gameTags": [
-            "Action",
-            "RPG"
+            "Simulation",
+            "Difficult",
+            "Pixel Graphics",
+            "Point & Click",
+            "Time Management",
+            "Incremental",
+            "Multiple Endings",
+            "Management",
+            "Souls-like",
+            "Score Attack",
+            "2D",
+            "Colorful",
+            "Atmospheric",
+            "Logic",
+            "Survival",
+            "Life Sim",
+            "Sci-fi",
+            "Education",
+            "Tactical",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "I"
+            "english": "I",
+            "french": "I",
+            "russian": "I"
         }
     }
 }
-var gameOfDayDate = '2026-06-25'
+var gameOfDayDate = '2026-06-26'
