@@ -2,99 +2,93 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1876560,
-        "CEId": "5dc49366-4bc0-45ea-886a-76bb50e64fae",
-        "name": "Save the Reactor",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1876560/header.jpg?t=1656496630",
+        "platformId": 1566410,
+        "CEId": "7d0aae8e-6d89-490d-9ef4-ae9ad428cc4a",
+        "name": "Touhou Kouryudou ~ Unconnected Marketeers.",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1566410/header.jpg?t=1621839528",
         "genre": [
-            "Arcade"
+            "Bullet Hell"
         ],
-        "tier": 1,
-        "points": 15,
+        "tier": 3,
+        "points": 65,
         "secondaryPoints": 0,
-        "medianPlaytime": 297,
-        "createdAt": "2022-06-26T10:32:40.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2023-06-27T00:26:39.000Z",
         "updatedAt": "2026-06-21T05:21:53.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 16,
-        "playersStarted": 9,
-        "playersTotal": 64,
+        "playersCompleted": 6,
+        "playersStarted": 24,
+        "playersTotal": 120,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 99,
-                "discountPercent": 80
+                "initial": 1499,
+                "final": 1499,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 499,
-                "final": 99,
-                "discountPercent": 80
+                "initial": 1249,
+                "final": 1249,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 429,
-                "final": 85,
-                "discountPercent": 80
+                "initial": 1139,
+                "final": 1139,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 58000,
-                "final": 11600,
-                "discountPercent": 80
+                "initial": 154000,
+                "final": 154000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 750,
-                "final": 150,
-                "discountPercent": 80
+                "initial": 2150,
+                "final": 2150,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 649,
-                "final": 129,
-                "discountPercent": 80
+                "initial": 1749,
+                "final": 1749,
+                "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Did It All For The Cookie [10\u2605]\nGet the gold medal in Endless Mode by scoring 3300 points or more.\n\nOrdinary Janitor [5\u2605]\nGet the bronze medal in Endless Mode by scoring 2500 points or more. / Produce 4500 energy on Day 10.",
+            "primary": 4,
+            "primaryText": "Black Monday [40\u2605]\nBeat the game on Lunatic without deaths.\n\nMarket Crash [15\u2605]\nBeat the game on Lunatic without continues.\n\nCentipede Slayer [5\u2605]\nBeat the Extra mode.\n\nShopping Spree [5\u2605]\nBeat the game on Normal or higher without continues.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 21
+            "community": 2,
+            "communityText": "Golden Centipede\nBeat the Extra mode without dying, bombing and equipping cards.\n\nOut of Stock\nBeat the game on Lunatic without dying, bombing and equipping cards.",
+            "achievements": 0
         },
         "CETags": {
             "genre": [
-                "Multitasking"
+                "Vertical Shoot'em'Up"
             ],
             "info": [
-                "Mouse Focused"
+                "Female Protagonist",
+                "Has Community Objectives"
             ]
         },
         "gameTags": [
-            "Simulation",
+            "Bullet Hell",
+            "Shoot 'Em Up",
+            "Action",
+            "Faith",
+            "Great Soundtrack",
+            "Singleplayer",
+            "Shooter",
+            "Indie",
+            "Cute",
             "Difficult",
-            "Pixel Graphics",
-            "Point & Click",
-            "Time Management",
-            "Incremental",
-            "Multiple Endings",
-            "Management",
-            "Souls-like",
-            "Score Attack",
+            "Female Protagonist",
+            "Roguelite",
+            "Anime",
             "2D",
-            "Colorful",
-            "Atmospheric",
-            "Logic",
-            "Survival",
-            "Life Sim",
-            "Sci-fi",
-            "Education",
-            "Tactical",
-            "Singleplayer"
+            "Arcade"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "russian": "I"
+            "japanese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-06-26'
+var gameOfDayDate = '2026-06-27'
