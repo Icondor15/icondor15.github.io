@@ -219,7 +219,7 @@ var masoData =
     "811870": {
         "description": "\ud83c\udf1f Flying pizzas and a goat anus",
         "tier": "5",
-        "owners": 133,
+        "owners": 134,
         "completions": 35,
         "playtime": 61.85619047619049,
         "newestCompletion": "2026-02-25T15:40:34.000Z"
@@ -305,7 +305,7 @@ var masoData =
         "tier": "1",
         "owners": 153,
         "completions": 45,
-        "playtime": 125.33814814814814,
+        "playtime": 126.31148148148148,
         "newestCompletion": "2026-04-03T04:29:59.000Z",
         "badges": {
             "count": 1,
@@ -359,7 +359,7 @@ var masoData =
     "241600": {
         "description": "\u2733 It\"s about time we added it",
         "tier": "2",
-        "owners": 135,
+        "owners": 136,
         "completions": 55,
         "playtime": 50.09151515151517,
         "newestCompletion": "2026-03-24T23:49:22.000Z"
@@ -623,7 +623,7 @@ var masoData =
     "817510": {
         "description": "New and original",
         "tier": "1",
-        "owners": 51,
+        "owners": 52,
         "completions": 28,
         "playtime": 5.848214285714285,
         "newestCompletion": "2026-05-23T23:09:57.000Z"
@@ -1335,7 +1335,7 @@ var masoData =
     "200900": {
         "description": "\u272a A hardcore classic.",
         "tier": "4",
-        "owners": 124,
+        "owners": 125,
         "completions": 23,
         "playtime": 68.036231884058,
         "newestCompletion": "2025-04-28T15:10:06.000Z"
@@ -1763,7 +1763,7 @@ var masoData =
     "940680": {
         "description": "\u2733 Tes-- Test your mu-- Test your multitasking skil--",
         "tier": "2",
-        "owners": 120,
+        "owners": 121,
         "completions": 34,
         "playtime": 17.998529411764704,
         "newestCompletion": "2026-05-03T17:13:44.000Z"
@@ -1795,7 +1795,7 @@ var masoData =
     "909670": {
         "description": "\u2733 RGB Mashmania",
         "tier": "2",
-        "owners": 28,
+        "owners": 29,
         "completions": 10,
         "playtime": 33.568333333333335,
         "newestCompletion": "2022-05-29T19:30:51.000Z",
@@ -2147,7 +2147,7 @@ var masoData =
     "1322650": {
         "description": "\u2733 Not playing RITE is wrong.",
         "tier": "2",
-        "owners": 98,
+        "owners": 99,
         "completions": 77,
         "playtime": 10.335281385281386,
         "newestCompletion": "2026-01-01T01:19:30.000Z"
@@ -2163,7 +2163,7 @@ var masoData =
     "508790": {
         "description": "\u2733 Flat is Justice",
         "tier": "2",
-        "owners": 40,
+        "owners": 41,
         "completions": 12,
         "playtime": 15.395833333333334,
         "newestCompletion": "2026-03-03T04:52:03.000Z"
@@ -2347,7 +2347,7 @@ var masoData =
     "219150": {
         "description": "I will beat you to death",
         "tier": "1",
-        "owners": 191,
+        "owners": 192,
         "completions": 100,
         "playtime": 15.888000000000002,
         "newestCompletion": "2026-04-27T23:17:54.000Z"
@@ -2539,7 +2539,7 @@ var masoData =
     "205100": {
         "description": "\u2606 Blink and you'll miss it",
         "tier": "3",
-        "owners": 103,
+        "owners": 104,
         "completions": 21,
         "playtime": 74.334126984127,
         "newestCompletion": "2025-09-17T16:56:58.000Z"
@@ -2805,7 +2805,7 @@ var masoData =
         "tier": "4",
         "owners": 42,
         "completions": 9,
-        "playtime": 79.70185185185186,
+        "playtime": 80.72962962962964,
         "newestCompletion": "2023-08-07T12:53:15.000Z",
         "badges": {
             "count": 1,
@@ -2881,7 +2881,7 @@ var masoData =
         "tier": "1",
         "owners": 134,
         "completions": 39,
-        "playtime": 32.93632478632479,
+        "playtime": 32.94871794871795,
         "newestCompletion": "2026-04-01T08:13:06.000Z",
         "badges": {
             "count": 1,
@@ -3259,7 +3259,7 @@ var masoData =
     "553420": {
         "description": "\u280f\u2807\u2801\u283d TUNIC \u280b\u2815\u2817\u2801\u281b\u2815\u2815\u2819\u281e\u280a\u280d\u2811",
         "tier": "1",
-        "owners": 74,
+        "owners": 75,
         "completions": 40,
         "playtime": 24.860833333333332,
         "newestCompletion": "2025-07-30T20:41:32.000Z"
@@ -3411,7 +3411,7 @@ var masoData =
     "1378990": {
         "description": "\u2606 It's about time we curated this",
         "tier": "3",
-        "owners": 42,
+        "owners": 43,
         "completions": 12,
         "playtime": 83.29305555555557,
         "newestCompletion": "2026-05-29T16:58:59.000Z",
@@ -4117,7 +4117,7 @@ var masoData =
         "tier": "0",
         "owners": 49,
         "completions": 19,
-        "playtime": 10.240350877192983,
+        "playtime": 10.24561403508772,
         "newestCompletion": "2026-03-21T09:20:02.000Z",
         "badges": {
             "count": 1,
@@ -4437,7 +4437,7 @@ var masoData =
         "tier": "1",
         "owners": 52,
         "completions": 12,
-        "playtime": 24.834722222222222,
+        "playtime": 25.241666666666664,
         "newestCompletion": "2026-03-03T18:25:03.000Z",
         "badges": {
             "count": 1,
