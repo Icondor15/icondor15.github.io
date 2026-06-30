@@ -2,84 +2,99 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 384360,
-        "CEId": "16d16e46-a967-42ae-a82a-d1b42a842356",
-        "name": "Fingered",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/384360/header.jpg?t=1447376927",
+        "platformId": 2645180,
+        "CEId": "9c977e06-8888-4f5b-9c93-fec996c3683f",
+        "name": "REDNEG ALLSTARS SWING-BY EDITION",
+        "header": "https://steamcdn-a.akamaihd.net/steam/apps/2645180/header.jpg?t=1721983578",
         "genre": [
-            "Strategy"
+            "Bullet Hell"
         ],
-        "tier": 1,
-        "points": 5,
+        "tier": 3,
+        "points": 50,
         "secondaryPoints": 0,
         "medianPlaytime": 530,
-        "createdAt": "2023-06-29T12:18:20.000Z",
-        "updatedAt": "2026-06-26T15:31:09.000Z",
+        "createdAt": "2024-06-30T20:14:32.000Z",
+        "updatedAt": "2026-06-21T05:21:53.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 33,
-        "playersStarted": 0,
-        "playersTotal": 221,
+        "playersCompleted": 11,
+        "playersStarted": 2,
+        "playersTotal": 46,
         "priceData": {
             "USD": {
-                "initial": 187,
-                "final": 71,
-                "discountPercent": 62
+                "initial": 1099,
+                "final": 769,
+                "discountPercent": 30
             },
             "EUR": {
-                "initial": 187,
-                "final": 71,
-                "discountPercent": 62
+                "initial": 1079,
+                "final": 755,
+                "discountPercent": 30
             },
             "GBP": {
-                "initial": 159,
-                "final": 60,
-                "discountPercent": 62
+                "initial": 929,
+                "final": 650,
+                "discountPercent": 30
             },
             "JPY": {
-                "initial": 22100,
-                "final": 8400,
-                "discountPercent": 62
+                "initial": 130000,
+                "final": 91000,
+                "discountPercent": 30
             },
             "AUD": {
-                "initial": 278,
-                "final": 105,
-                "discountPercent": 62
+                "initial": 1625,
+                "final": 1137,
+                "discountPercent": 30
             },
             "CAD": {
-                "initial": 244,
-                "final": 92,
-                "discountPercent": 62
+                "initial": 1399,
+                "final": 979,
+                "discountPercent": 30
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Golden Boia [5\u2605]\nBeat the game without killing an innocent person.",
+            "primary": 3,
+            "primaryText": "AllStar Trip [20\u2605]\nClear all individual Boss Challenges on Ultimate.\n\nBullet Bell Master [20\u2605]\nClear the Boss Rush and Another Dreamers on Ultimate without continues.\n\nSwinging By[10\u2605 (Partial: 5\u2605)]\nClear the Boss Rush and Another Dreamers on Very Hard without continues. (TLB not needed) / Score 100B.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 24
+            "achievements": 30
         },
         "CETags": {
             "genre": [
-                "Puzzle"
+                "Boss Rush",
+                "Vertical Shoot'em'Up"
             ],
             "info": []
         },
         "gameTags": [
-            "Indie",
-            "Casual",
-            "Detective",
-            "Funny",
-            "Puzzle",
-            "Singleplayer",
+            "Action",
+            "Shooter",
+            "Shoot 'Em Up",
+            "Bullet Hell",
+            "2D Platformer",
+            "Top-Down Shooter",
             "2D",
+            "Cute",
+            "Anime",
+            "Colorful",
+            "Cartoon",
+            "Cartoony",
+            "Comic Book",
+            "Top-Down",
+            "Sci-fi",
             "Comedy",
-            "Crime"
+            "Cyberpunk",
+            "Parody ",
+            "Fantasy",
+            "Mechs"
         ],
         "languages": {
-            "english": "IA"
+            "english": "IS",
+            "japanese": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-06-29'
+var gameOfDayDate = '2026-06-30'
