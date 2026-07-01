@@ -2,99 +2,95 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2645180,
-        "CEId": "9c977e06-8888-4f5b-9c93-fec996c3683f",
-        "name": "REDNEG ALLSTARS SWING-BY EDITION",
-        "header": "https://steamcdn-a.akamaihd.net/steam/apps/2645180/header.jpg?t=1721983578",
+        "platformId": 233150,
+        "CEId": "90954c44-0e5c-433e-876f-a06f609d2b17",
+        "name": "LUFTRAUSERS",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/233150/header.jpg?t=1615922153",
         "genre": [
-            "Bullet Hell"
+            "Arcade"
         ],
-        "tier": 3,
-        "points": 50,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 530,
-        "createdAt": "2024-06-30T20:14:32.000Z",
-        "updatedAt": "2026-06-21T05:21:53.000Z",
+        "medianPlaytime": 1486,
+        "createdAt": "2022-07-01T20:52:18.000Z",
+        "updatedAt": "2026-06-30T18:25:21.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 11,
-        "playersStarted": 2,
-        "playersTotal": 46,
+        "playersCompleted": 26,
+        "playersStarted": 0,
+        "playersTotal": 257,
         "priceData": {
             "USD": {
-                "initial": 1099,
-                "final": 769,
-                "discountPercent": 30
+                "initial": 999,
+                "final": 199,
+                "discountPercent": 80
             },
             "EUR": {
-                "initial": 1079,
-                "final": 755,
-                "discountPercent": 30
+                "initial": 975,
+                "final": 195,
+                "discountPercent": 80
             },
             "GBP": {
-                "initial": 929,
-                "final": 650,
-                "discountPercent": 30
+                "initial": 850,
+                "final": 170,
+                "discountPercent": 80
             },
             "JPY": {
-                "initial": 130000,
-                "final": 91000,
-                "discountPercent": 30
+                "initial": 120000,
+                "final": 24000,
+                "discountPercent": 80
             },
             "AUD": {
-                "initial": 1625,
-                "final": 1137,
-                "discountPercent": 30
+                "initial": 1450,
+                "final": 290,
+                "discountPercent": 80
             },
             "CAD": {
-                "initial": 1399,
-                "final": 979,
-                "discountPercent": 30
+                "initial": 1299,
+                "final": 259,
+                "discountPercent": 80
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "AllStar Trip [20\u2605]\nClear all individual Boss Challenges on Ultimate.\n\nBullet Bell Master [20\u2605]\nClear the Boss Rush and Another Dreamers on Ultimate without continues.\n\nSwinging By[10\u2605 (Partial: 5\u2605)]\nClear the Boss Rush and Another Dreamers on Very Hard without continues. (TLB not needed) / Score 100B.",
+            "primary": 1,
+            "primaryText": "Flying Ace [10\u2605]\nBeat all missions and launch the [CLASSIFIED].",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 30
+            "achievements": 12
         },
         "CETags": {
             "genre": [
-                "Boss Rush",
-                "Vertical Shoot'em'Up"
+                "Twin Stick"
             ],
             "info": []
         },
         "gameTags": [
-            "Action",
-            "Shooter",
-            "Shoot 'Em Up",
+            "Indie",
             "Bullet Hell",
-            "2D Platformer",
-            "Top-Down Shooter",
+            "Arcade",
+            "Action",
+            "Pixel Graphics",
             "2D",
-            "Cute",
-            "Anime",
-            "Colorful",
-            "Cartoon",
-            "Cartoony",
-            "Comic Book",
-            "Top-Down",
-            "Sci-fi",
-            "Comedy",
-            "Cyberpunk",
-            "Parody ",
-            "Fantasy",
-            "Mechs"
+            "Shoot 'Em Up",
+            "Great Soundtrack",
+            "Singleplayer",
+            "Retro",
+            "Shooter",
+            "Fast-Paced",
+            "Flight",
+            "Addictive",
+            "Difficult",
+            "World War II",
+            "Simulation",
+            "Casual",
+            "Score Attack",
+            "Replay Value"
         ],
         "languages": {
-            "english": "IS",
-            "japanese": "IS",
-            "schinese": "IS",
-            "tchinese": "IS"
+            "english": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-06-30'
+var gameOfDayDate = '2026-07-01'
