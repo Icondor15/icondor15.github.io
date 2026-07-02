@@ -2291,7 +2291,7 @@ var masoData =
     "1037020": {
         "description": "\u2606 Redefines the FAST in Fast-Paced",
         "tier": "3",
-        "owners": 109,
+        "owners": 110,
         "completions": 16,
         "playtime": 24.988541666666666,
         "newestCompletion": "2025-07-16T03:42:38.000Z"
@@ -4601,7 +4601,7 @@ var masoData =
         "tier": "0",
         "owners": 67,
         "completions": 21,
-        "playtime": 76.03650793650795,
+        "playtime": 76.03888888888889,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
