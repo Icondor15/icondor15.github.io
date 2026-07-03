@@ -2,99 +2,100 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 24240,
-        "CEId": "d5eb5c07-2a2e-4312-ae4b-d2c393400d06",
-        "name": "PAYDAY\u2122 The Heist",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/24240/header.jpg?t=1574898258",
+        "platformId": 1472540,
+        "CEId": "115d23f3-cc07-41d9-949b-26defdc5b6f0",
+        "name": "Save me Mr Tako: Definitive Edition",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1472540/header.jpg?t=1687264251",
         "genre": [
-            "First-Person"
+            "Platformer"
         ],
-        "tier": 3,
-        "points": 40,
+        "tier": 1,
+        "points": 15,
         "secondaryPoints": 0,
-        "medianPlaytime": 3474,
-        "createdAt": "2022-07-02T20:55:10.000Z",
+        "medianPlaytime": 3370,
+        "createdAt": "2023-07-03T23:33:03.000Z",
         "updatedAt": "2026-06-21T05:21:53.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 67,
-        "playersStarted": 7,
-        "playersTotal": 619,
+        "playersCompleted": 2,
+        "playersStarted": 0,
+        "playersTotal": 18,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 329,
-                "discountPercent": 67
+                "initial": 1499,
+                "final": 299,
+                "discountPercent": 80
             },
             "EUR": {
-                "initial": 949,
-                "final": 313,
-                "discountPercent": 67
+                "initial": 1249,
+                "final": 249,
+                "discountPercent": 80
             },
             "GBP": {
-                "initial": 799,
-                "final": 263,
-                "discountPercent": 67
+                "initial": 1139,
+                "final": 227,
+                "discountPercent": 80
             },
             "JPY": {
-                "initial": 120000,
-                "final": 39600,
-                "discountPercent": 67
+                "initial": 152000,
+                "final": 30400,
+                "discountPercent": 80
             },
             "AUD": {
-                "initial": 1450,
-                "final": 478,
-                "discountPercent": 67
+                "initial": 2150,
+                "final": 430,
+                "discountPercent": 80
             },
             "CAD": {
-                "initial": 1299,
-                "final": 428,
-                "discountPercent": 67
+                "initial": 1749,
+                "final": 349,
+                "discountPercent": 80
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Crime Spree [30\u2605]\nComplete all Overkill 145+ achievements.\n\nThieving With Finesse [10\u2605]\nProve yourself.",
+            "primary": 1,
+            "primaryText": "Hattako [15\u2605]\nBeat all the bosses consecutively in Boss Mode. / Beat the game without seeing the Game Over screen.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 56
+            "achievements": 55
         },
         "CETags": {
             "genre": [
-                "First Person Shooter"
+                "2D Platformer",
+                "Boss Rush"
             ],
-            "info": []
+            "info": [
+                "Animal Protagonist"
+            ]
         },
         "gameTags": [
-            "FPS",
             "Action",
-            "Co-op",
-            "Heist",
-            "Multiplayer",
-            "Crime",
-            "Online Co-Op",
-            "Shooter",
-            "First-Person",
-            "Great Soundtrack",
-            "Team-Based",
-            "Stealth",
-            "Difficult",
-            "Tactical",
-            "Strategy",
-            "Singleplayer",
-            "Simulation",
-            "Indie",
+            "Adventure",
+            "Platformer",
             "RPG",
-            "Adventure"
+            "Action RPG",
+            "2D Platformer",
+            "Puzzle Platformer",
+            "Metroidvania",
+            "2D",
+            "Pixel Graphics",
+            "Cute",
+            "1990's",
+            "Fantasy",
+            "Retro",
+            "Dark",
+            "Story Rich",
+            "Singleplayer",
+            "Indie",
+            "Action-Adventure",
+            "JRPG"
         ],
         "languages": {
             "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "spanish": "IS"
+            "french": "IAS",
+            "japanese": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-07-02'
+var gameOfDayDate = '2026-07-03'
