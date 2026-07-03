@@ -527,7 +527,7 @@ var masoData =
     "527150": {
         "description": "\ud83c\udf1f Rekt",
         "tier": "5",
-        "owners": 112,
+        "owners": 113,
         "completions": 21,
         "playtime": 36.98809523809524,
         "newestCompletion": "2026-06-27T07:00:59.000Z"
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 238,
         "completions": 65,
-        "playtime": 61.3097435897436,
+        "playtime": 61.34205128205129,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
     },
     "317710": {
@@ -1499,7 +1499,7 @@ var masoData =
     "949770": {
         "description": "\ud83c\udf96\ufe0f Does Not Apply to 3D Waifus",
         "tier": "0",
-        "owners": 61,
+        "owners": 62,
         "completions": 50,
         "playtime": 4.437666666666667,
         "newestCompletion": "2023-09-15T11:42:54.000Z",
@@ -2805,7 +2805,7 @@ var masoData =
         "tier": "4",
         "owners": 42,
         "completions": 9,
-        "playtime": 80.72962962962964,
+        "playtime": 80.95555555555556,
         "newestCompletion": "2023-08-07T12:53:15.000Z",
         "badges": {
             "count": 1,
@@ -3533,7 +3533,7 @@ var masoData =
         "tier": "2",
         "owners": 104,
         "completions": 39,
-        "playtime": 56.77264957264957,
+        "playtime": 57.26153846153846,
         "newestCompletion": "2025-11-08T05:03:32.000Z"
     },
     "1442170": {
