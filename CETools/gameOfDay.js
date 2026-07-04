@@ -2,100 +2,92 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1472540,
-        "CEId": "115d23f3-cc07-41d9-949b-26defdc5b6f0",
-        "name": "Save me Mr Tako: Definitive Edition",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1472540/header.jpg?t=1687264251",
+        "platformId": 331190,
+        "CEId": "42633477-6588-4243-8feb-0662dff7cea9",
+        "name": "Master Spy",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/331190/header.jpg?t=1632849122",
         "genre": [
             "Platformer"
         ],
-        "tier": 1,
-        "points": 15,
+        "tier": 2,
+        "points": 30,
         "secondaryPoints": 0,
-        "medianPlaytime": 3370,
-        "createdAt": "2023-07-03T23:33:03.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2023-07-04T00:36:02.000Z",
         "updatedAt": "2026-06-21T05:21:53.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 2,
-        "playersStarted": 0,
-        "playersTotal": 18,
+        "playersCompleted": 1,
+        "playersStarted": 2,
+        "playersTotal": 121,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 299,
-                "discountPercent": 80
+                "initial": 999,
+                "final": 99,
+                "discountPercent": 90
             },
             "EUR": {
-                "initial": 1249,
-                "final": 249,
-                "discountPercent": 80
+                "initial": 899,
+                "final": 89,
+                "discountPercent": 90
             },
             "GBP": {
-                "initial": 1139,
-                "final": 227,
-                "discountPercent": 80
+                "initial": 699,
+                "final": 69,
+                "discountPercent": 90
             },
             "JPY": {
-                "initial": 152000,
-                "final": 30400,
-                "discountPercent": 80
+                "initial": 98000,
+                "final": 9800,
+                "discountPercent": 90
             },
             "AUD": {
-                "initial": 2150,
-                "final": 430,
-                "discountPercent": 80
+                "initial": 1450,
+                "final": 145,
+                "discountPercent": 90
             },
             "CAD": {
-                "initial": 1749,
-                "final": 349,
-                "discountPercent": 80
+                "initial": 1099,
+                "final": 109,
+                "discountPercent": 90
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Hattako [15\u2605]\nBeat all the bosses consecutively in Boss Mode. / Beat the game without seeing the Game Over screen.",
+            "primary": 3,
+            "primaryText": "Stealth Master [15\u2605]\nComplete each mission with a Master rank on Operative difficulty.\n\nUndercover Virtuoso [10\u2605]\nComplete the game on Master difficulty or above.\n\nEntry-Level Espionage [5\u2605]\nComplete the game and all VR levels on Operative difficulty or above (level select is allowed).",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 55
+            "community": 1,
+            "communityText": "Mission: Impossible\nStart a new game and complete every mission with a Master rank on Operative difficulty or above.",
+            "achievements": 0
         },
         "CETags": {
             "genre": [
-                "2D Platformer",
-                "Boss Rush"
+                "2D Platformer"
             ],
-            "info": [
-                "Animal Protagonist"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Action",
-            "Adventure",
             "Platformer",
-            "RPG",
-            "Action RPG",
-            "2D Platformer",
-            "Puzzle Platformer",
-            "Metroidvania",
-            "2D",
-            "Pixel Graphics",
-            "Cute",
-            "1990's",
-            "Fantasy",
-            "Retro",
-            "Dark",
-            "Story Rich",
-            "Singleplayer",
             "Indie",
-            "Action-Adventure",
-            "JRPG"
+            "Action",
+            "Stealth",
+            "Pixel Graphics",
+            "Difficult",
+            "Retro",
+            "Great Soundtrack",
+            "2D",
+            "Singleplayer",
+            "Noir",
+            "Ninja",
+            "Story Rich",
+            "Cinematic",
+            "Precision Platformer",
+            "Side Scroller"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IAS",
-            "japanese": "IAS"
-        }
+            "english": "IS"
+        },
+        "information": "The game only shows Master ranks upon completing a chapter in the campaign, which is highly inconvenient. So, you're allowed to simulate them through level select. For Master ranks, you are not allowed to get caught or use resets. For Mission 1, the sum of level times must be 1:30 or less. For Missions 2 through 5 individually, 8:00 or less."
     }
 }
-var gameOfDayDate = '2026-07-03'
+var gameOfDayDate = '2026-07-04'
