@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 268,
         "completions": 196,
-        "playtime": 250.9705782312925,
+        "playtime": 250.97882653061222,
         "newestCompletion": "2026-05-03T13:17:17.000Z",
         "badges": {
             "count": 2,
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 238,
         "completions": 65,
-        "playtime": 61.34205128205129,
+        "playtime": 61.44025641025641,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
     },
     "317710": {
@@ -1365,7 +1365,7 @@ var masoData =
         "tier": "2",
         "owners": 213,
         "completions": 152,
-        "playtime": 21.032785087719287,
+        "playtime": 21.03585526315788,
         "newestCompletion": "2025-11-06T16:02:02.000Z"
     },
     "211260": {
@@ -1460,9 +1460,9 @@ var masoData =
         "description": "TBA",
         "tier": "1",
         "owners": 91,
-        "completions": 55,
-        "playtime": 4.526363636363637,
-        "newestCompletion": "2026-03-24T21:08:22.000Z"
+        "completions": 56,
+        "playtime": 4.625000000000001,
+        "newestCompletion": "2026-07-04T22:18:25.000Z"
     },
     "718590": {
         "description": "Dank Satisfaction",
@@ -1989,7 +1989,7 @@ var masoData =
         "tier": "3",
         "owners": 113,
         "completions": 34,
-        "playtime": 89.27598039215687,
+        "playtime": 89.3450980392157,
         "newestCompletion": "2025-12-29T07:01:08.000Z",
         "badges": {
             "count": 2,
@@ -2347,10 +2347,10 @@ var masoData =
     "219150": {
         "description": "I will beat you to death",
         "tier": "1",
-        "owners": 193,
-        "completions": 101,
-        "playtime": 15.900495049504952,
-        "newestCompletion": "2026-04-27T23:17:54.000Z"
+        "owners": 195,
+        "completions": 102,
+        "playtime": 15.858986928104578,
+        "newestCompletion": "2026-07-01T23:22:17.000Z"
     },
     "757320": {
         "description": "\u2606 Nuclear Valley",
@@ -2805,7 +2805,7 @@ var masoData =
         "tier": "4",
         "owners": 42,
         "completions": 9,
-        "playtime": 80.95555555555556,
+        "playtime": 81.37222222222222,
         "newestCompletion": "2023-08-07T12:53:15.000Z",
         "badges": {
             "count": 1,
@@ -2879,7 +2879,7 @@ var masoData =
     "774171": {
         "description": "Waifu Smash",
         "tier": "1",
-        "owners": 135,
+        "owners": 136,
         "completions": 39,
         "playtime": 32.94871794871795,
         "newestCompletion": "2026-04-01T08:13:06.000Z",
@@ -3259,10 +3259,10 @@ var masoData =
     "553420": {
         "description": "\u280f\u2807\u2801\u283d TUNIC \u280b\u2815\u2817\u2801\u281b\u2815\u2815\u2819\u281e\u280a\u280d\u2811",
         "tier": "1",
-        "owners": 75,
-        "completions": 40,
-        "playtime": 24.860833333333332,
-        "newestCompletion": "2025-07-30T20:41:32.000Z"
+        "owners": 76,
+        "completions": 42,
+        "playtime": 24.348412698412698,
+        "newestCompletion": "2026-07-04T17:59:41.000Z"
     },
     "1598210": {
         "description": "Purrfection!",
@@ -3837,7 +3837,7 @@ var masoData =
         "tier": "2",
         "owners": 35,
         "completions": 5,
-        "playtime": 142.73333333333335,
+        "playtime": 142.80333333333334,
         "newestCompletion": "2023-11-05T07:53:12.000Z",
         "badges": {
             "count": 1,
@@ -4583,7 +4583,7 @@ var masoData =
     "2680010": {
         "description": "Nioh but Nioher",
         "tier": "1",
-        "owners": 3,
+        "owners": 4,
         "completions": 1,
         "playtime": 125.13333333333334,
         "newestCompletion": "2025-04-26T18:47:33.000Z"
