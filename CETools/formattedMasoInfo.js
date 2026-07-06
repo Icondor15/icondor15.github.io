@@ -237,7 +237,7 @@ var masoData =
         "tier": "2",
         "owners": 164,
         "completions": 66,
-        "playtime": 38.240404040404044,
+        "playtime": 38.39873737373738,
         "newestCompletion": "2026-04-27T18:00:31.000Z",
         "badges": {
             "count": 1,
@@ -257,7 +257,7 @@ var masoData =
         "tier": "4",
         "owners": 157,
         "completions": 20,
-        "playtime": 199.02666666666664,
+        "playtime": 199.6925,
         "newestCompletion": "2025-10-09T13:53:53.000Z"
     },
     "795570": {
@@ -527,9 +527,9 @@ var masoData =
     "527150": {
         "description": "\ud83c\udf1f Rekt",
         "tier": "5",
-        "owners": 113,
+        "owners": 114,
         "completions": 21,
-        "playtime": 36.98809523809524,
+        "playtime": 36.99126984126984,
         "newestCompletion": "2026-06-27T07:00:59.000Z"
     },
     "785880": {
@@ -657,7 +657,7 @@ var masoData =
         "tier": "2",
         "owners": 123,
         "completions": 30,
-        "playtime": 43.403333333333336,
+        "playtime": 43.41444444444445,
         "newestCompletion": "2025-08-06T04:36:39.000Z"
     },
     "356400": {
@@ -1075,7 +1075,7 @@ var masoData =
     "394970": {
         "description": "\u272a Gunpoint meets hotline miami",
         "tier": "4",
-        "owners": 107,
+        "owners": 108,
         "completions": 31,
         "playtime": 38.483870967741936,
         "newestCompletion": "2026-04-30T03:21:12.000Z"
@@ -1149,7 +1149,7 @@ var masoData =
         "tier": "4",
         "owners": 99,
         "completions": 13,
-        "playtime": 290.4320512820513,
+        "playtime": 290.6102564102564,
         "newestCompletion": "2024-01-01T22:31:43.000Z"
     },
     "547210": {
@@ -1187,7 +1187,7 @@ var masoData =
     "230270": {
         "description": "\ud83c\udf1f\ud83d\udc80 Time is money \ud83d\udc80",
         "tier": "5",
-        "owners": 181,
+        "owners": 182,
         "completions": 20,
         "playtime": 1368.8291666666669,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
@@ -1345,7 +1345,7 @@ var masoData =
         "tier": "2",
         "owners": 96,
         "completions": 22,
-        "playtime": 98.38560606060605,
+        "playtime": 98.38636363636364,
         "newestCompletion": "2024-02-28T08:42:53.000Z",
         "badges": {
             "count": 1,
@@ -1435,7 +1435,7 @@ var masoData =
     "961660": {
         "description": "\u2733 Bosses Everywhere",
         "tier": "2",
-        "owners": 34,
+        "owners": 35,
         "completions": 16,
         "playtime": 10.883333333333335,
         "newestCompletion": "2025-03-21T10:06:18.000Z"
@@ -1467,7 +1467,7 @@ var masoData =
     "718590": {
         "description": "Dank Satisfaction",
         "tier": "1",
-        "owners": 37,
+        "owners": 38,
         "completions": 7,
         "playtime": 22.440476190476186,
         "newestCompletion": "2024-04-20T16:13:28.000Z"
@@ -2081,7 +2081,7 @@ var masoData =
         "tier": "1",
         "owners": 184,
         "completions": 87,
-        "playtime": 98.31628352490421,
+        "playtime": 98.37068965517241,
         "newestCompletion": "2026-05-01T07:34:01.000Z",
         "badges": {
             "count": 1,
@@ -2263,10 +2263,10 @@ var masoData =
     "1229580": {
         "description": "\u2733 Absolutely Discusting",
         "tier": "2",
-        "owners": 130,
-        "completions": 89,
-        "playtime": 19.95393258426967,
-        "newestCompletion": "2026-06-05T18:52:07.000Z",
+        "owners": 131,
+        "completions": 90,
+        "playtime": 20.03907407407408,
+        "newestCompletion": "2026-07-04T22:03:31.000Z",
         "badges": {
             "count": 1,
             "points": 6
@@ -2357,7 +2357,7 @@ var masoData =
         "tier": "3",
         "owners": 74,
         "completions": 13,
-        "playtime": 74.05,
+        "playtime": 80.62435897435898,
         "newestCompletion": "2025-02-03T03:26:18.000Z"
     },
     "1186270": {
@@ -2640,9 +2640,9 @@ var masoData =
         "description": "death in all caps",
         "tier": "1",
         "owners": 98,
-        "completions": 51,
-        "playtime": 16.21764705882353,
-        "newestCompletion": "2026-02-01T04:28:12.000Z"
+        "completions": 52,
+        "playtime": 16.290384615384617,
+        "newestCompletion": "2026-07-05T08:20:55.000Z"
     },
     "1170060": {
         "description": "\u272a Okay Boomerang ",
@@ -3053,7 +3053,7 @@ var masoData =
         "tier": "2",
         "owners": 119,
         "completions": 70,
-        "playtime": 190.76952380952378,
+        "playtime": 196.10928571428568,
         "newestCompletion": "2025-10-16T00:57:36.000Z"
     },
     "1190170": {
@@ -4243,7 +4243,7 @@ var masoData =
     "2076580": {
         "description": "Anything but a grind",
         "tier": "1",
-        "owners": 20,
+        "owners": 21,
         "completions": 8,
         "playtime": 7.845833333333333,
         "newestCompletion": "2025-12-26T12:02:11.000Z"
@@ -4427,7 +4427,7 @@ var masoData =
     "3445580": {
         "description": "\u2606 Where are the waifus????",
         "tier": "3",
-        "owners": 19,
+        "owners": 20,
         "completions": 4,
         "playtime": 11.512500000000001,
         "newestCompletion": "2026-04-12T18:14:39.000Z"
@@ -4599,9 +4599,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 67,
+        "owners": 68,
         "completions": 21,
-        "playtime": 76.03888888888889,
+        "playtime": 78.76825396825397,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
@@ -4637,7 +4637,7 @@ var masoData =
         "tier": "0",
         "owners": 14,
         "completions": 3,
-        "playtime": 294.6222222222222,
+        "playtime": 294.89444444444445,
         "newestCompletion": "2026-03-16T17:15:06.000Z",
         "badges": {
             "count": 3,
@@ -4687,15 +4687,15 @@ var masoData =
     "2944340": {
         "description": "Tastes like berries",
         "tier": "1",
-        "owners": 3,
-        "completions": 3,
-        "playtime": 9.866666666666667,
-        "newestCompletion": "2026-05-22T14:57:05.000Z"
+        "owners": 4,
+        "completions": 4,
+        "playtime": 9.279166666666667,
+        "newestCompletion": "2026-07-05T04:03:15.000Z"
     },
     "4450800": {
         "description": "You'll fall for it hook, line and sinker!",
         "tier": "1",
-        "owners": 3,
+        "owners": 4,
         "completions": 2,
         "playtime": 7.4,
         "newestCompletion": "2026-05-21T20:29:37.000Z"
