@@ -184,9 +184,9 @@ var masoData =
         "description": "The Dark Souls of Platform Games",
         "tier": "1",
         "owners": 196,
-        "completions": 97,
-        "playtime": 42.95549828178696,
-        "newestCompletion": "2026-04-09T23:11:09.000Z",
+        "completions": 98,
+        "playtime": 42.78231292517009,
+        "newestCompletion": "2026-07-06T20:21:54.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -1163,7 +1163,7 @@ var masoData =
     "392020": {
         "description": "\u2606 If Super Hexagon and Velocibox had a baby, it would be sacrified to summon this demon lord.",
         "tier": "3",
-        "owners": 119,
+        "owners": 120,
         "completions": 42,
         "playtime": 15.369841269841267,
         "newestCompletion": "2026-03-09T09:38:09.000Z"
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 238,
         "completions": 65,
-        "playtime": 61.44025641025641,
+        "playtime": 61.44307692307692,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
     },
     "317710": {
@@ -1752,9 +1752,9 @@ var masoData =
         "description": "Depends who you ask",
         "tier": "1",
         "owners": 102,
-        "completions": 34,
-        "playtime": 27.161764705882355,
-        "newestCompletion": "2025-08-12T02:14:26.000Z",
+        "completions": 35,
+        "playtime": 26.940476190476193,
+        "newestCompletion": "2026-07-04T03:04:12.000Z",
         "badges": {
             "count": 1,
             "points": 7
@@ -2197,7 +2197,7 @@ var masoData =
         "tier": "3",
         "owners": 42,
         "completions": 13,
-        "playtime": 56.00256410256411,
+        "playtime": 56.57692307692309,
         "newestCompletion": "2026-02-08T23:24:49.000Z"
     },
     "382560": {
@@ -2540,9 +2540,9 @@ var masoData =
         "description": "\u2606 Blink and you'll miss it",
         "tier": "3",
         "owners": 105,
-        "completions": 21,
-        "playtime": 74.334126984127,
-        "newestCompletion": "2025-09-17T16:56:58.000Z"
+        "completions": 22,
+        "playtime": 73.14924242424244,
+        "newestCompletion": "2026-07-06T16:11:47.000Z"
     },
     "1647160": {
         "description": "\u2733 Is it in yet?",
@@ -2717,7 +2717,7 @@ var masoData =
         "tier": "4",
         "owners": 40,
         "completions": 14,
-        "playtime": 44.50714285714285,
+        "playtime": 46.45357142857142,
         "newestCompletion": "2025-11-28T22:41:36.000Z"
     },
     "1108590": {
@@ -2817,7 +2817,7 @@ var masoData =
         "tier": "3",
         "owners": 60,
         "completions": 22,
-        "playtime": 25.96742424242424,
+        "playtime": 26.106060606060602,
         "newestCompletion": "2026-01-21T21:39:10.000Z"
     },
     "1663410": {
