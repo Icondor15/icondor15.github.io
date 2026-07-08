@@ -2,93 +2,110 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 640290,
-        "CEId": "8342ba10-667e-4776-a343-840e3c659cdb",
-        "name": "Super Duper Multitasking",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640290/header.jpg?t=1739480400",
+        "platformId": 597760,
+        "CEId": "aa8cdb6a-2bdd-4a49-b1eb-3ba80312666f",
+        "name": "Yuppie Psycho: Executive Edition",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/597760/header.jpg?t=1684727165",
         "genre": [
             "Arcade"
         ],
-        "tier": 3,
-        "points": 40,
+        "tier": 1,
+        "points": 5,
         "secondaryPoints": 0,
-        "medianPlaytime": 1432,
-        "createdAt": "2022-07-07T11:20:09.000Z",
+        "medianPlaytime": 1025,
+        "createdAt": "2023-07-08T22:22:25.000Z",
         "updatedAt": "2026-07-04T19:03:39.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 6,
-        "playersStarted": 8,
-        "playersTotal": 60,
+        "playersCompleted": 11,
+        "playersStarted": 0,
+        "playersTotal": 187,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 749,
-                "discountPercent": 25
+                "initial": 1699,
+                "final": 594,
+                "discountPercent": 65
             },
             "EUR": {
-                "initial": 975,
-                "final": 731,
-                "discountPercent": 25
+                "initial": 1619,
+                "final": 566,
+                "discountPercent": 65
             },
             "GBP": {
-                "initial": 850,
-                "final": 637,
-                "discountPercent": 25
+                "initial": 1359,
+                "final": 475,
+                "discountPercent": 65
             },
             "JPY": {
-                "initial": 120000,
-                "final": 90000,
-                "discountPercent": 25
+                "initial": 200000,
+                "final": 70000,
+                "discountPercent": 65
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1087,
-                "discountPercent": 25
+                "initial": 2510,
+                "final": 878,
+                "discountPercent": 65
             },
             "CAD": {
-                "initial": 1299,
-                "final": 974,
-                "discountPercent": 25
+                "initial": 2199,
+                "final": 769,
+                "discountPercent": 65
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "The HunTask[20\u2605 (Partial: 5\u2605)]\nClear all \"The Hundred\" and \"Super Multitasking GO!\" missions on 100% difficulty.\n\nFeet Required [15\u2605]\nProve yourself.\n\nLocal Legend [5\u2605]\nBeat all local #1 leaderboards on every difficulty in Quickplay (Any slot and minigame types). / Get to play 5 simultaneous games in Quickplay (no Maximum difficulty).",
+            "primary": 1,
+            "primaryText": "They Keep Jamming Anyways [5\u2605]\nBeat the game without using any photocopiers.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 62
+            "achievements": 48
         },
         "CETags": {
             "genre": [
-                "Mini-Games",
-                "Multitasking"
+                "Stealth",
+                "Horror"
             ],
             "info": []
         },
         "gameTags": [
-            "Arcade",
-            "Short",
-            "Score Attack",
             "Puzzle",
-            "Replay Value",
-            "Difficult",
-            "Fast-Paced",
-            "Indie",
-            "Action",
-            "Casual",
-            "Family Friendly",
             "Pixel Graphics",
+            "Psychological Horror",
+            "Horror",
             "2D",
+            "Exploration",
+            "Story Rich",
+            "Multiple Endings",
+            "Anime",
+            "Top-Down",
+            "Cute",
+            "Dark Humor",
+            "Choices Matter",
+            "Gore",
+            "Cyberpunk",
             "Controller",
-            "Local Multiplayer",
-            "Multiplayer",
-            "Singleplayer"
+            "Stealth",
+            "Adventure",
+            "Singleplayer",
+            "Survival Horror"
         ],
         "languages": {
-            "english": "I"
+            "english": "IS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "galician": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS",
+            "turkish": "IS",
+            "ukrainian": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-07-07'
+var gameOfDayDate = '2026-07-08'
