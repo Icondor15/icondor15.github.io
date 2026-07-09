@@ -2,110 +2,88 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 597760,
-        "CEId": "aa8cdb6a-2bdd-4a49-b1eb-3ba80312666f",
-        "name": "Yuppie Psycho: Executive Edition",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/597760/header.jpg?t=1684727165",
+        "platformId": 1757440,
+        "CEId": "789bb8a6-88ae-4524-b856-3c6339faa406",
+        "name": "Blazend",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1757440/header.jpg?t=1691659333",
         "genre": [
-            "Arcade"
+            "Bullet Hell"
         ],
         "tier": 1,
-        "points": 5,
+        "points": 15,
         "secondaryPoints": 0,
-        "medianPlaytime": 1025,
-        "createdAt": "2023-07-08T22:22:25.000Z",
+        "medianPlaytime": 462,
+        "createdAt": "2022-07-09T11:13:36.000Z",
         "updatedAt": "2026-07-04T19:03:39.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 11,
+        "playersCompleted": 4,
         "playersStarted": 0,
-        "playersTotal": 187,
+        "playersTotal": 16,
         "priceData": {
             "USD": {
-                "initial": 1699,
-                "final": 594,
-                "discountPercent": 65
+                "initial": 799,
+                "final": 199,
+                "discountPercent": 75
             },
             "EUR": {
-                "initial": 1619,
-                "final": 566,
-                "discountPercent": 65
+                "initial": 659,
+                "final": 164,
+                "discountPercent": 75
             },
             "GBP": {
-                "initial": 1359,
-                "final": 475,
-                "discountPercent": 65
+                "initial": 579,
+                "final": 144,
+                "discountPercent": 75
             },
             "JPY": {
-                "initial": 200000,
-                "final": 70000,
-                "discountPercent": 65
+                "initial": 82000,
+                "final": 20500,
+                "discountPercent": 75
             },
             "AUD": {
-                "initial": 2510,
-                "final": 878,
-                "discountPercent": 65
+                "initial": 1150,
+                "final": 287,
+                "discountPercent": 75
             },
             "CAD": {
-                "initial": 2199,
-                "final": 769,
-                "discountPercent": 65
+                "initial": 899,
+                "final": 224,
+                "discountPercent": 75
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "They Keep Jamming Anyways [5\u2605]\nBeat the game without using any photocopiers.",
+            "primaryText": "Blaze It [15\u2605]\nComplete the game on one credit. / Complete the game on Hard difficulty. / Complete the final level and boss without dying or using powerups.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 48
+            "achievements": 28
         },
         "CETags": {
             "genre": [
-                "Stealth",
-                "Horror"
+                "Vertical Shoot'em'Up"
             ],
             "info": []
         },
         "gameTags": [
-            "Puzzle",
-            "Pixel Graphics",
-            "Psychological Horror",
-            "Horror",
+            "Action",
+            "Arcade",
+            "Bullet Hell",
+            "Shoot 'Em Up",
             "2D",
-            "Exploration",
-            "Story Rich",
-            "Multiple Endings",
             "Anime",
-            "Top-Down",
-            "Cute",
-            "Dark Humor",
-            "Choices Matter",
-            "Gore",
-            "Cyberpunk",
-            "Controller",
-            "Stealth",
-            "Adventure",
-            "Singleplayer",
-            "Survival Horror"
+            "Colorful",
+            "Pixel Graphics",
+            "1990's",
+            "Futuristic",
+            "Sci-fi",
+            "Linear",
+            "Singleplayer"
         ],
         "languages": {
-            "english": "IS",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IS",
-            "galician": "IS",
-            "koreana": "IS",
-            "polish": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "tchinese": "IS",
-            "turkish": "IS",
-            "ukrainian": "IS"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-07-08'
+var gameOfDayDate = '2026-07-09'
