@@ -2,63 +2,63 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1757440,
-        "CEId": "789bb8a6-88ae-4524-b856-3c6339faa406",
-        "name": "Blazend",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1757440/header.jpg?t=1691659333",
+        "platformId": 2067470,
+        "CEId": "3b38175b-2f78-4a85-aaae-2c52b3f6884d",
+        "name": "Idol Hell",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2067470/header.jpg?t=1678138068",
         "genre": [
             "Bullet Hell"
         ],
         "tier": 1,
-        "points": 15,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 462,
-        "createdAt": "2022-07-09T11:13:36.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2023-07-10T04:47:03.000Z",
         "updatedAt": "2026-07-04T19:03:39.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 4,
+        "playersCompleted": 1,
         "playersStarted": 0,
-        "playersTotal": 16,
+        "playersTotal": 3,
         "priceData": {
             "USD": {
-                "initial": 799,
-                "final": 199,
-                "discountPercent": 75
+                "initial": 499,
+                "final": 499,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 659,
-                "final": 164,
-                "discountPercent": 75
+                "initial": 519,
+                "final": 519,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 579,
-                "final": 144,
-                "discountPercent": 75
+                "initial": 459,
+                "final": 459,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 82000,
-                "final": 20500,
-                "discountPercent": 75
+                "initial": 65500,
+                "final": 65500,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 1150,
-                "final": 287,
-                "discountPercent": 75
+                "initial": 695,
+                "final": 695,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 899,
-                "final": 224,
-                "discountPercent": 75
+                "initial": 599,
+                "final": 599,
+                "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Blaze It [15\u2605]\nComplete the game on one credit. / Complete the game on Hard difficulty. / Complete the final level and boss without dying or using powerups.",
+            "primaryText": "Mecha Hell [10\u2605]\nClear the game on Crumble without using continues.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 28
+            "community": 1,
+            "communityText": "Whaling\nBeat the game on Rumble or higher using BIG Medli and without using continues.",
+            "achievements": 0
         },
         "CETags": {
             "genre": [
@@ -68,22 +68,31 @@ var gameOfDay =
         },
         "gameTags": [
             "Action",
-            "Arcade",
             "Bullet Hell",
-            "Shoot 'Em Up",
-            "2D",
             "Anime",
+            "Shoot 'Em Up",
+            "Arcade",
+            "Female Protagonist",
+            "Cute",
             "Colorful",
-            "Pixel Graphics",
-            "1990's",
+            "Shooter",
+            "Adventure",
+            "2D",
+            "Strategy",
             "Futuristic",
+            "Robots",
             "Sci-fi",
-            "Linear",
-            "Singleplayer"
+            "Combat",
+            "Singleplayer",
+            "Exploration",
+            "Funny",
+            "Visual Novel"
         ],
         "languages": {
-            "english": "I"
+            "english": "IAS",
+            "french": "IAS",
+            "italian": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-07-09'
+var gameOfDayDate = '2026-07-10'
