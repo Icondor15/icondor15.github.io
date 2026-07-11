@@ -4088,7 +4088,14 @@
 
             //Top of page info
             //Filtered game count
-            document.getElementById("gameCount").innerHTML = filteredData.length;
+            if((filteredData.length/data.length*100).toFixed(2) > Math.floor(filteredData.length/data.length*100))
+            {
+                document.getElementById("gameCount").innerHTML = filteredData.length + "/" + data.length + "&thinsp;<span style='font-size: 0.5em'>[" + (filteredData.length/data.length*100).toFixed(2) + "%]</span>";
+            }
+            else
+            {
+                document.getElementById("gameCount").innerHTML = filteredData.length + "/" + data.length + "&thinsp;<span style='font-size: 0.5em'>[" + Math.floor(filteredData.length/data.length*100) + "%]</span>";
+        }
             //Page count
             Array.from(document.getElementsByClassName("pageMax")).forEach(element => {element.innerHTML = pageCount;})
 
