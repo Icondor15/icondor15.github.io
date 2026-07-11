@@ -2,97 +2,92 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 2067470,
-        "CEId": "3b38175b-2f78-4a85-aaae-2c52b3f6884d",
-        "name": "Idol Hell",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2067470/header.jpg?t=1678138068",
+        "platformId": 235820,
+        "CEId": "f8c43c9c-b102-4271-85a2-39870f43ddfa",
+        "name": "Element4l",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/235820/header.jpg?t=1570477788",
         "genre": [
-            "Bullet Hell"
+            "Platformer"
         ],
         "tier": 1,
-        "points": 10,
+        "points": 15,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2023-07-10T04:47:03.000Z",
+        "medianPlaytime": 747,
+        "createdAt": "2022-07-11T14:33:00.000Z",
         "updatedAt": "2026-07-04T19:03:39.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 1,
-        "playersStarted": 0,
-        "playersTotal": 3,
+        "playersCompleted": 5,
+        "playersStarted": 6,
+        "playersTotal": 84,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 499,
+                "initial": 899,
+                "final": 899,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 519,
-                "final": 519,
+                "initial": 799,
+                "final": 799,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 459,
-                "final": 459,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 65500,
-                "final": 65500,
+                "initial": 98000,
+                "final": 98000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 695,
-                "final": 695,
+                "initial": 1295,
+                "final": 1295,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 599,
-                "final": 599,
+                "initial": 1099,
+                "final": 1099,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Mecha Hell [10\u2605]\nClear the game on Crumble without using continues.",
+            "primary": 2,
+            "primaryText": "Superfluid [10\u2605]\nAchieve a gold star in all story and race levels.\n\nAlchemical Master [5\u2605]\nCollect all the lost sparks and complete the secret level.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 1,
-            "communityText": "Whaling\nBeat the game on Rumble or higher using BIG Medli and without using continues.",
-            "achievements": 0
+            "community": 0,
+            "communityText": "",
+            "achievements": 20
         },
         "CETags": {
             "genre": [
-                "Vertical Shoot'em'Up"
+                "2D Platformer"
             ],
             "info": []
         },
         "gameTags": [
+            "Indie",
+            "Platformer",
             "Action",
-            "Bullet Hell",
-            "Anime",
-            "Shoot 'Em Up",
-            "Arcade",
-            "Female Protagonist",
-            "Cute",
-            "Colorful",
-            "Shooter",
-            "Adventure",
-            "2D",
-            "Strategy",
-            "Futuristic",
-            "Robots",
-            "Sci-fi",
-            "Combat",
+            "Great Soundtrack",
+            "Atmospheric",
+            "Puzzle",
+            "Difficult",
+            "Casual",
             "Singleplayer",
-            "Exploration",
-            "Funny",
-            "Visual Novel"
+            "2D"
         ],
         "languages": {
             "english": "IAS",
-            "french": "IAS",
-            "italian": "IAS"
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "dutch": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-07-10'
+var gameOfDayDate = '2026-07-11'
