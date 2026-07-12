@@ -2,32 +2,32 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 235820,
-        "CEId": "f8c43c9c-b102-4271-85a2-39870f43ddfa",
-        "name": "Element4l",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/235820/header.jpg?t=1570477788",
+        "platformId": 250580,
+        "CEId": "057827ec-de03-4d6c-9791-509255e1970d",
+        "name": "Paranautical Activity: Deluxe Atonement Edition",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/250580/header.jpg?t=1593028220",
         "genre": [
-            "Platformer"
+            "First-Person"
         ],
-        "tier": 1,
-        "points": 15,
+        "tier": 2,
+        "points": 25,
         "secondaryPoints": 0,
-        "medianPlaytime": 747,
-        "createdAt": "2022-07-11T14:33:00.000Z",
+        "medianPlaytime": 2303,
+        "createdAt": "2024-07-12T04:07:18.000Z",
         "updatedAt": "2026-07-04T19:03:39.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 5,
-        "playersStarted": 6,
-        "playersTotal": 84,
+        "playersCompleted": 3,
+        "playersStarted": 0,
+        "playersTotal": 176,
         "priceData": {
             "USD": {
-                "initial": 899,
-                "final": 899,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 799,
-                "final": 799,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "GBP": {
@@ -41,8 +41,8 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1295,
-                "final": 1295,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
@@ -53,41 +53,43 @@ var gameOfDay =
         },
         "milestones": {
             "primary": 2,
-            "primaryText": "Superfluid [10\u2605]\nAchieve a gold star in all story and race levels.\n\nAlchemical Master [5\u2605]\nCollect all the lost sparks and complete the secret level.",
+            "primaryText": "Picky Eater [15\u2605]\nBeat the game without taking any items.\n\nAtonement [10\u2605]\nProve yourself.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 20
+            "achievements": 45
         },
         "CETags": {
             "genre": [
-                "2D Platformer"
+                "Rogue-like",
+                "First Person Shooter"
             ],
             "info": []
         },
         "gameTags": [
+            "Action Roguelike",
             "Indie",
-            "Platformer",
+            "FPS",
+            "Roguelike",
             "Action",
-            "Great Soundtrack",
-            "Atmospheric",
-            "Puzzle",
-            "Difficult",
-            "Casual",
+            "Voxel",
+            "Roguelite",
             "Singleplayer",
-            "2D"
+            "Great Soundtrack",
+            "Shooter",
+            "Difficult",
+            "RPG",
+            "First-Person",
+            "Fast-Paced",
+            "Procedural Generation",
+            "Pixel Graphics",
+            "Horror",
+            "Perma Death"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IS",
-            "dutch": "IS"
+            "english": "IA"
         }
     }
 }
-var gameOfDayDate = '2026-07-11'
+var gameOfDayDate = '2026-07-12'
