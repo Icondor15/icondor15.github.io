@@ -235,7 +235,7 @@ var masoData =
     "274170": {
         "description": "\u2733 There it\"s curated now",
         "tier": "2",
-        "owners": 164,
+        "owners": 165,
         "completions": 66,
         "playtime": 38.39873737373738,
         "newestCompletion": "2026-04-27T18:00:31.000Z",
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 257,
         "completions": 141,
-        "playtime": 202.37104018912524,
+        "playtime": 202.38404255319142,
         "newestCompletion": "2026-04-06T20:31:43.000Z",
         "badges": {
             "count": 2,
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 268,
         "completions": 196,
-        "playtime": 250.97882653061222,
+        "playtime": 250.97899659863944,
         "newestCompletion": "2026-05-03T13:17:17.000Z",
         "badges": {
             "count": 2,
@@ -1363,7 +1363,7 @@ var masoData =
     "221640": {
         "description": "\u2733 Just one more try\u2122",
         "tier": "2",
-        "owners": 213,
+        "owners": 214,
         "completions": 152,
         "playtime": 21.03585526315788,
         "newestCompletion": "2025-11-06T16:02:02.000Z"
@@ -1735,7 +1735,7 @@ var masoData =
     "774361": {
         "description": "God will punish you if you don\"t play it",
         "tier": "1",
-        "owners": 162,
+        "owners": 163,
         "completions": 52,
         "playtime": 38.71570512820512,
         "newestCompletion": "2026-01-03T18:23:23.000Z"
@@ -2347,7 +2347,7 @@ var masoData =
     "219150": {
         "description": "I will beat you to death",
         "tier": "1",
-        "owners": 195,
+        "owners": 196,
         "completions": 102,
         "playtime": 15.858986928104578,
         "newestCompletion": "2026-07-01T23:22:17.000Z"
@@ -2743,7 +2743,7 @@ var masoData =
     "437920": {
         "description": "\u2733 that's not how physics works",
         "tier": "2",
-        "owners": 64,
+        "owners": 65,
         "completions": 24,
         "playtime": 31.022222222222222,
         "newestCompletion": "2024-11-05T00:03:31.000Z"
@@ -3027,7 +3027,7 @@ var masoData =
     "1057090": {
         "description": "\u2733 now with actual combat",
         "tier": "2",
-        "owners": 140,
+        "owners": 141,
         "completions": 38,
         "playtime": 38.37719298245614,
         "newestCompletion": "2025-09-15T20:27:37.000Z"
@@ -3767,7 +3767,7 @@ var masoData =
     "1123050": {
         "description": "Destroy... Absorb... Grow...",
         "tier": "1",
-        "owners": 52,
+        "owners": 53,
         "completions": 12,
         "playtime": 31.609722222222228,
         "newestCompletion": "2026-06-19T12:56:28.000Z"
@@ -4511,7 +4511,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 92,
+        "owners": 93,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
