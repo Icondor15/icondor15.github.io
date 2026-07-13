@@ -943,7 +943,7 @@ var masoData =
     "240720": {
         "description": "\u2733 Can you?",
         "tier": "2",
-        "owners": 195,
+        "owners": 196,
         "completions": 103,
         "playtime": 32.84789644012947,
         "newestCompletion": "2026-03-16T13:18:39.000Z"
@@ -1187,7 +1187,7 @@ var masoData =
     "230270": {
         "description": "\ud83c\udf1f\ud83d\udc80 Time is money \ud83d\udc80",
         "tier": "5",
-        "owners": 182,
+        "owners": 183,
         "completions": 20,
         "playtime": 1368.8291666666669,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
@@ -1364,9 +1364,9 @@ var masoData =
         "description": "\u2733 Just one more try\u2122",
         "tier": "2",
         "owners": 214,
-        "completions": 152,
-        "playtime": 21.03585526315788,
-        "newestCompletion": "2025-11-06T16:02:02.000Z"
+        "completions": 153,
+        "playtime": 20.93725490196077,
+        "newestCompletion": "2026-07-13T00:08:54.000Z"
     },
     "211260": {
         "description": "\u2606 Master jumping \"n slashin\" while juggling foes, all while avoiding deadly hazards. An action plaformer that will make other things bleed among pixels.",
@@ -2880,9 +2880,9 @@ var masoData =
         "description": "Waifu Smash",
         "tier": "1",
         "owners": 136,
-        "completions": 39,
-        "playtime": 32.94871794871795,
-        "newestCompletion": "2026-04-01T08:13:06.000Z",
+        "completions": 40,
+        "playtime": 32.33333333333333,
+        "newestCompletion": "2026-07-13T06:49:27.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -3067,7 +3067,7 @@ var masoData =
     "1115050": {
         "description": "\u2606 make sure to turn off the voice volume",
         "tier": "3",
-        "owners": 46,
+        "owners": 47,
         "completions": 15,
         "playtime": 21.554444444444446,
         "newestCompletion": "2026-06-07T16:44:48.000Z"
@@ -3533,7 +3533,7 @@ var masoData =
         "tier": "2",
         "owners": 104,
         "completions": 39,
-        "playtime": 57.26153846153846,
+        "playtime": 57.49786324786324,
         "newestCompletion": "2025-11-08T05:03:32.000Z"
     },
     "1442170": {
@@ -4329,7 +4329,7 @@ var masoData =
         "tier": "1",
         "owners": 71,
         "completions": 45,
-        "playtime": 3.262222222222222,
+        "playtime": 3.3451851851851844,
         "newestCompletion": "2026-04-30T20:29:32.000Z"
     },
     "412670": {
