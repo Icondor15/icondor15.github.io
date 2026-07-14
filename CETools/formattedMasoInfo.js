@@ -63,10 +63,10 @@ var masoData =
     "942060": {
         "description": "\u2733 Master the Ultra Gridstinct",
         "tier": "2",
-        "owners": 45,
-        "completions": 18,
-        "playtime": 8.937962962962963,
-        "newestCompletion": "2025-07-11T16:00:09.000Z"
+        "owners": 46,
+        "completions": 19,
+        "playtime": 9.086842105263159,
+        "newestCompletion": "2026-07-13T19:07:57.000Z"
     },
     "325150": {
         "description": "I guess you never die huh?",
@@ -175,7 +175,7 @@ var masoData =
     "485510": {
         "description": "\u2733 \u30c0\u30fc\u30af\u30bd\u30a6\u30eb\u3088\u308a\u3082\u826f\u3044",
         "tier": "2",
-        "owners": 57,
+        "owners": 58,
         "completions": 12,
         "playtime": 174.96666666666667,
         "newestCompletion": "2025-07-31T01:32:10.000Z"
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 268,
         "completions": 196,
-        "playtime": 250.97899659863944,
+        "playtime": 250.9818027210884,
         "newestCompletion": "2026-05-03T13:17:17.000Z",
         "badges": {
             "count": 2,
@@ -1164,9 +1164,9 @@ var masoData =
         "description": "\u2606 If Super Hexagon and Velocibox had a baby, it would be sacrified to summon this demon lord.",
         "tier": "3",
         "owners": 120,
-        "completions": 42,
-        "playtime": 15.369841269841267,
-        "newestCompletion": "2026-03-09T09:38:09.000Z"
+        "completions": 43,
+        "playtime": 15.552325581395346,
+        "newestCompletion": "2026-07-14T03:56:28.000Z"
     },
     "440550": {
         "description": "\u2733 A forgettable story",
@@ -1595,7 +1595,7 @@ var masoData =
     "473530": {
         "description": "\u2733 Physics",
         "tier": "2",
-        "owners": 65,
+        "owners": 66,
         "completions": 7,
         "playtime": 58.666666666666664,
         "newestCompletion": "2025-10-13T18:30:38.000Z"
@@ -2629,7 +2629,7 @@ var masoData =
         "tier": "5",
         "owners": 112,
         "completions": 22,
-        "playtime": 589.4522727272728,
+        "playtime": 589.4909090909091,
         "newestCompletion": "2024-06-17T15:47:58.000Z",
         "badges": {
             "count": 1,
@@ -3053,7 +3053,7 @@ var masoData =
         "tier": "2",
         "owners": 119,
         "completions": 70,
-        "playtime": 196.10928571428568,
+        "playtime": 196.38785714285711,
         "newestCompletion": "2025-10-16T00:57:36.000Z"
     },
     "1190170": {
@@ -3880,8 +3880,8 @@ var masoData =
         "description": "Heartbeat... Heartbeat... Heartbeat... Heart.",
         "tier": "1",
         "owners": 62,
-        "completions": 8,
-        "playtime": 21.966666666666665,
+        "completions": 9,
+        "playtime": 23.635185185185183,
         "newestCompletion": "2026-04-26T02:00:16.000Z",
         "badges": {
             "count": 1,
@@ -3931,7 +3931,7 @@ var masoData =
     "1627720": {
         "description": "\u2733 The P is a lie",
         "tier": "2",
-        "owners": 35,
+        "owners": 36,
         "completions": 7,
         "playtime": 68.59523809523809,
         "newestCompletion": "2026-02-16T07:35:26.000Z"
@@ -4511,7 +4511,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 93,
+        "owners": 94,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4559,7 +4559,7 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 29,
+        "owners": 30,
         "completions": 3,
         "playtime": 30.572222222222223,
         "newestCompletion": "2026-03-26T10:42:27.000Z"
@@ -4591,7 +4591,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together (Co-op)",
         "tier": "5",
-        "owners": 23,
+        "owners": 24,
         "completions": 3,
         "playtime": 449.18888888888887,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
@@ -4599,7 +4599,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 68,
+        "owners": 69,
         "completions": 21,
         "playtime": 78.76825396825397,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
