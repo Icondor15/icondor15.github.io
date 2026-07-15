@@ -2,104 +2,95 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1304420,
-        "CEId": "ef102261-6ec4-4325-819a-620f7b70c793",
-        "name": "Super Cable Boy",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1304420/header.jpg?t=1635417304",
+        "platformId": 1779180,
+        "CEId": "ebae404f-0ea1-4b51-b624-949bc0c90aef",
+        "name": "Knight's Try",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1779180/header.jpg?t=1643317706",
         "genre": [
             "Platformer"
         ],
         "tier": 1,
-        "points": 15,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 829,
-        "createdAt": "2022-07-14T11:55:22.000Z",
+        "medianPlaytime": 610,
+        "createdAt": "2022-07-15T23:02:50.000Z",
         "updatedAt": "2026-07-04T19:03:39.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 14,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 79,
+        "playersTotal": 20,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 1499,
+                "initial": 999,
+                "final": 999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1399,
-                "final": 1399,
+                "initial": 819,
+                "final": 819,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1239,
-                "final": 1239,
+                "initial": 719,
+                "final": 719,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 164000,
-                "final": 164000,
+                "initial": 101000,
+                "final": 101000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2295,
-                "final": 2295,
+                "initial": 1450,
+                "final": 1450,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1849,
-                "final": 1849,
+                "initial": 1149,
+                "final": 1149,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Omusubi Connoisseur [15\u2605]\nCollect all Onigiris.",
+            "primaryText": "First Try [10\u2605]\nComplete the game in a single try.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 41
+            "achievements": 13
         },
         "CETags": {
             "genre": [
-                "Grappler",
-                "2D Platformer"
+                "3D Platformer"
             ],
             "info": []
         },
         "gameTags": [
-            "Precision Platformer",
-            "2D Platformer",
-            "Platformer",
-            "Indie",
-            "Retro",
-            "Pixel Graphics",
-            "Experimental",
-            "Cute",
-            "Local Co-Op",
             "Action",
+            "Adventure",
+            "Platformer",
+            "3D Platformer",
+            "Precision Platformer",
+            "3D",
+            "Stylized",
+            "Third Person",
+            "1990's",
             "Atmospheric",
+            "Emotional",
+            "Fantasy",
+            "Medieval",
+            "Old School",
+            "Retro",
+            "Controller",
+            "Linear",
             "Singleplayer",
-            "Local Multiplayer",
-            "Multiplayer",
-            "Co-op",
-            "2D",
-            "Split Screen",
-            "Colorful",
-            "Choices Matter",
-            "Multiple Endings"
+            "Indie",
+            "Difficult"
         ],
         "languages": {
-            "english": "IAS",
-            "german": "IAS",
-            "japanese": "IAS",
-            "spanish": "IAS",
-            "koreana": "IAS",
-            "portuguese": "IAS",
-            "schinese": "IAS",
-            "tchinese": "IAS",
-            "thai": "IAS"
+            "english": "I"
         }
     }
 }
-var gameOfDayDate = '2026-07-14'
+var gameOfDayDate = '2026-07-15'
