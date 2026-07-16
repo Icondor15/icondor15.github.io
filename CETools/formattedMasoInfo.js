@@ -183,9 +183,9 @@ var masoData =
     "268910": {
         "description": "The Dark Souls of Platform Games",
         "tier": "1",
-        "owners": 196,
-        "completions": 98,
-        "playtime": 42.78231292517009,
+        "owners": 197,
+        "completions": 99,
+        "playtime": 42.8210437710438,
         "newestCompletion": "2026-07-06T20:21:54.000Z",
         "badges": {
             "count": 1,
@@ -359,9 +359,9 @@ var masoData =
     "241600": {
         "description": "\u2733 It\"s about time we added it",
         "tier": "2",
-        "owners": 136,
-        "completions": 55,
-        "playtime": 50.09151515151517,
+        "owners": 137,
+        "completions": 56,
+        "playtime": 50.75654761904764,
         "newestCompletion": "2026-03-24T23:49:22.000Z"
     },
     "356650": {
@@ -427,9 +427,9 @@ var masoData =
     "367520": {
         "description": "\u2733 No longer casual \u02c3\u0323\u0323\u0325\u2313\u02c2\u0323\u0323\u0325",
         "tier": "2",
-        "owners": 257,
-        "completions": 141,
-        "playtime": 202.38404255319142,
+        "owners": 258,
+        "completions": 142,
+        "playtime": 201.64694835680746,
         "newestCompletion": "2026-04-06T20:31:43.000Z",
         "badges": {
             "count": 2,
@@ -463,7 +463,7 @@ var masoData =
     "435790": {
         "description": "\u2733 Pathfinding Ninja X",
         "tier": "2",
-        "owners": 140,
+        "owners": 141,
         "completions": 52,
         "playtime": 10.956410256410255,
         "newestCompletion": "2026-06-21T22:57:16.000Z"
@@ -479,7 +479,7 @@ var masoData =
     "239350": {
         "description": "\u2606  Dawn of the Tumblr noses",
         "tier": "3",
-        "owners": 173,
+        "owners": 174,
         "completions": 57,
         "playtime": 99.2,
         "newestCompletion": "2026-03-28T00:55:39.000Z"
@@ -759,9 +759,9 @@ var masoData =
     "504230": {
         "description": "\u2733 It has Assist mode for a reason",
         "tier": "2",
-        "owners": 268,
-        "completions": 197,
-        "playtime": 249.8044839255499,
+        "owners": 269,
+        "completions": 198,
+        "playtime": 248.69444444444446,
         "newestCompletion": "2026-07-07T18:46:27.000Z",
         "badges": {
             "count": 2,
@@ -1247,7 +1247,7 @@ var masoData =
     "247080": {
         "description": "\ud83c\udf1f You better make this game your second life and consume your soul; otherwise forget completing it.",
         "tier": "5",
-        "owners": 225,
+        "owners": 226,
         "completions": 11,
         "playtime": 632.9924242424242,
         "newestCompletion": "2026-05-28T13:04:36.000Z",
@@ -1259,7 +1259,7 @@ var masoData =
     "297130": {
         "description": "\u2606 Boss rush extravaganza",
         "tier": "3",
-        "owners": 198,
+        "owners": 199,
         "completions": 40,
         "playtime": 25.665,
         "newestCompletion": "2025-08-26T22:13:29.000Z"
@@ -1387,7 +1387,7 @@ var masoData =
     "40800": {
         "description": "\ud83c\udf1f 101 Hardcore gaming - if you never played it, now is the time to learn the ropes.",
         "tier": "5",
-        "owners": 266,
+        "owners": 267,
         "completions": 85,
         "playtime": 125.33803921568624,
         "newestCompletion": "2026-04-11T03:44:04.000Z"
@@ -1735,10 +1735,10 @@ var masoData =
     "774361": {
         "description": "God will punish you if you don\"t play it",
         "tier": "1",
-        "owners": 163,
-        "completions": 52,
-        "playtime": 38.71570512820512,
-        "newestCompletion": "2026-01-03T18:23:23.000Z"
+        "owners": 164,
+        "completions": 53,
+        "playtime": 38.60503144654087,
+        "newestCompletion": "2026-06-21T23:52:28.000Z"
     },
     "1012970": {
         "description": "\ud83c\udf1f 101 ways to get Chewwed out",
@@ -2079,9 +2079,9 @@ var masoData =
     "1145360": {
         "description": "What, you\"ve got daddy issues boyo??",
         "tier": "1",
-        "owners": 184,
-        "completions": 87,
-        "playtime": 98.37068965517241,
+        "owners": 185,
+        "completions": 88,
+        "playtime": 98.6939393939394,
         "newestCompletion": "2026-05-01T07:34:01.000Z",
         "badges": {
             "count": 1,
@@ -2235,7 +2235,7 @@ var masoData =
     "418530": {
         "description": "\u272a 2 Stands for twice the \u2665\u2665\u2665\u2665\u2665\u2665\u2665\u2665",
         "tier": "4",
-        "owners": 119,
+        "owners": 120,
         "completions": 49,
         "playtime": 249.19489795918372,
         "newestCompletion": "2026-03-21T08:01:35.000Z",
@@ -2347,7 +2347,7 @@ var masoData =
     "219150": {
         "description": "I will beat you to death",
         "tier": "1",
-        "owners": 196,
+        "owners": 197,
         "completions": 102,
         "playtime": 15.858986928104578,
         "newestCompletion": "2026-07-01T23:22:17.000Z"
@@ -2387,7 +2387,7 @@ var masoData =
     "544330": {
         "description": "Keep a firm grip",
         "tier": "1",
-        "owners": 107,
+        "owners": 108,
         "completions": 24,
         "playtime": 14.339583333333332,
         "newestCompletion": "2024-07-19T18:41:08.000Z"
@@ -2539,7 +2539,7 @@ var masoData =
     "205100": {
         "description": "\u2606 Blink and you'll miss it",
         "tier": "3",
-        "owners": 105,
+        "owners": 106,
         "completions": 22,
         "playtime": 73.14924242424244,
         "newestCompletion": "2026-07-06T16:11:47.000Z"
@@ -2836,6 +2836,14 @@ var masoData =
         "playtime": 10.976767676767679,
         "newestCompletion": "2026-03-29T05:18:31.000Z"
     },
+    "297410": {
+        "description": "\u2733 Space Trace",
+        "tier": "2",
+        "owners": 18,
+        "completions": 3,
+        "playtime": 17.17222222222222,
+        "newestCompletion": "2023-05-07T09:48:24.000Z"
+    },
     "253750": {
         "description": "\ud83c\udf1f it's a great game, yea. a classic, if you will",
         "tier": "5",
@@ -2903,6 +2911,14 @@ var masoData =
         "completions": 1,
         "playtime": 43.63333333333333,
         "newestCompletion": "2021-04-12T10:56:56.000Z"
+    },
+    "893180": {
+        "description": "\u2606 new record",
+        "tier": "3",
+        "owners": 58,
+        "completions": 10,
+        "playtime": 81.89166666666667,
+        "newestCompletion": "2024-12-10T23:30:53.000Z"
     },
     "1072750": {
         "description": "\u272a Flip to the end, just make sure you don't flop on the way",
@@ -3543,10 +3559,10 @@ var masoData =
     "1058830": {
         "description": "\u2606 xD",
         "tier": "3",
-        "owners": 56,
-        "completions": 11,
-        "playtime": 166.91363636363636,
-        "newestCompletion": "2025-10-19T22:43:57.000Z",
+        "owners": 57,
+        "completions": 12,
+        "playtime": 159.46805555555554,
+        "newestCompletion": "2026-04-18T11:36:29.000Z",
         "badges": {
             "count": 1,
             "points": 4
@@ -3964,6 +3980,14 @@ var masoData =
         "playtime": 6.700000000000001,
         "newestCompletion": "2025-10-19T13:50:40.000Z"
     },
+    "1114940": {
+        "description": "\u2606 Difficulty rating: somewhere between t2 and t6",
+        "tier": "3",
+        "owners": 120,
+        "completions": 11,
+        "playtime": 443.60606060606074,
+        "newestCompletion": "2025-02-09T16:05:47.000Z"
+    },
     "718010": {
         "description": "Greed kills",
         "tier": "1",
@@ -4099,7 +4123,7 @@ var masoData =
     "1059990": {
         "description": "\ud83c\udf96\ufe0f Doot Hero",
         "tier": "0",
-        "owners": 49,
+        "owners": 50,
         "completions": 19,
         "playtime": 10.24561403508772,
         "newestCompletion": "2026-03-21T09:20:02.000Z",
@@ -4264,6 +4288,14 @@ var masoData =
         "playtime": 36.85,
         "newestCompletion": "2026-06-06T21:32:46.000Z"
     },
+    "2087610": {
+        "description": "\u2733 Purple Skies",
+        "tier": "2",
+        "owners": 16,
+        "completions": 6,
+        "playtime": 9.908333333333333,
+        "newestCompletion": "2025-11-22T22:59:18.000Z"
+    },
     "363440": {
         "description": "\u2733 That's Mega, Man",
         "tier": "2",
@@ -4343,10 +4375,10 @@ var masoData =
     "2073250": {
         "description": "\ud83c\udf1f You better make this game your second Crypt and rift apart your soul; otherwise forget completing it.",
         "tier": "5",
-        "owners": 57,
-        "completions": 1,
-        "playtime": 310.73333333333335,
-        "newestCompletion": "2025-03-25T21:48:48.000Z",
+        "owners": 58,
+        "completions": 2,
+        "playtime": 404.85,
+        "newestCompletion": "2025-10-23T19:41:44.000Z",
         "badges": {
             "count": 3,
             "points": 15
@@ -4391,6 +4423,14 @@ var masoData =
         "completions": 8,
         "playtime": 4.479166666666667,
         "newestCompletion": "2026-01-11T14:49:17.000Z"
+    },
+    "1809540": {
+        "description": "Steel your reflexes and parry skills - you'll need it",
+        "tier": "1",
+        "owners": 81,
+        "completions": 23,
+        "playtime": 49.5427536231884,
+        "newestCompletion": "2026-06-06T15:11:18.000Z"
     },
     "3445580": {
         "description": "\u2606 Where are the waifus????",
@@ -4459,7 +4499,7 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 158,
+        "owners": 159,
         "completions": 39,
         "playtime": 105.90256410256407,
         "newestCompletion": "2026-04-17T19:30:46.000Z"
