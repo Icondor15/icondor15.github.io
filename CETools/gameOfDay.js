@@ -2,112 +2,91 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1797680,
-        "CEId": "67572fba-5a2b-45fe-ad40-2a8ff2dd7f26",
-        "name": "Wee Tanks!",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1797680/header.jpg?t=1688732888",
+        "platformId": 522240,
+        "CEId": "46067c7f-8757-421f-be39-85e70d8ecf18",
+        "name": "Pool Panic",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/522240/header.jpg?t=1584658980",
         "genre": [
-            "Action"
+            "Arcade"
         ],
-        "tier": 4,
-        "points": 185,
+        "tier": 1,
+        "points": 15,
         "secondaryPoints": 0,
         "medianPlaytime": 0,
-        "createdAt": "2023-07-16T20:24:38.000Z",
+        "createdAt": "2022-07-17T22:32:42.000Z",
         "updatedAt": "2026-07-04T19:03:39.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 4,
-        "playersStarted": 11,
-        "playersTotal": 96,
+        "playersCompleted": 0,
+        "playersStarted": 4,
+        "playersTotal": 191,
         "priceData": {
             "USD": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1499,
+                "final": 1499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 999,
-                "final": 999,
+                "initial": 1249,
+                "final": 1249,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 899,
-                "final": 899,
+                "initial": 1139,
+                "final": 1139,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 120000,
-                "final": 120000,
+                "initial": 152000,
+                "final": 152000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1450,
-                "final": 1450,
+                "initial": 2150,
+                "final": 2150,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1149,
-                "final": 1149,
+                "initial": 1749,
+                "final": 1749,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 3,
-            "primaryText": "One Last Weep [125\u2605]\nFinish the full campaign on any difficulty without getting killed once. / Complete the True Run challenge solo on Grandpa difficulty.\n\nLucky Cadet [45\u2605]\nFinish the full campaign on Kid difficulty (or higher) in one session. / Defeat the King Tank on Adult difficulty without any armor.\n\nCrisis Core [15\u2605]\nObtain all achievements in Survival Mode.",
-            "secondary": 1,
-            "secondaryText": "Wee Are SO Screwed [0\u2605]\nFinish the full campaign on Ancient difficulty.",
+            "primary": 2,
+            "primaryText": "Clean the Table (UNCLEARED) [0\u2605]\nGet all Gold medals on hard mode.\n\n8-Ball [15\u2605]\nProve yourself.",
+            "secondary": 0,
+            "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 51
+            "achievements": 32
         },
         "CETags": {
             "genre": [
-                "Arena Shooter",
-                "Twin Stick"
+                "Sports"
             ],
             "info": [
-                "Has Secondary Objectives"
+                "Uncleared"
             ]
         },
         "gameTags": [
+            "Sports",
             "Action",
-            "Action-Adventure",
-            "Shoot 'Em Up",
-            "Hero Shooter",
-            "Vehicular Combat",
-            "Family Friendly",
-            "Level Editor",
             "Adventure",
-            "PvE",
-            "Combat",
+            "Funny",
+            "Puzzle",
+            "Billiards",
             "4 Player Local",
-            "Co-op",
-            "Local Co-Op",
-            "Tanks",
-            "Shooter",
-            "Cartoony",
-            "Bullet Hell",
-            "Colorful",
-            "Cute",
-            "Building"
+            "Surreal",
+            "Local Multiplayer"
         ],
         "languages": {
-            "english": "IAS",
+            "english": "IS",
             "french": "IS",
             "german": "IS",
             "italian": "IS",
-            "japanese": "IS",
             "spanish": "IS",
-            "brazilian": "IS",
-            "galician": "IS",
-            "koreana": "IS",
-            "latam": "IS",
-            "luxembourgish": "IS",
-            "polish": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "turkish": "IS"
+            "brazilian": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-07-16'
+var gameOfDayDate = '2026-07-17'
