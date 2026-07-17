@@ -1075,7 +1075,7 @@ var masoData =
     "394970": {
         "description": "\u272a Gunpoint meets hotline miami",
         "tier": "4",
-        "owners": 108,
+        "owners": 109,
         "completions": 31,
         "playtime": 38.483870967741936,
         "newestCompletion": "2026-04-30T03:21:12.000Z"
@@ -2291,7 +2291,7 @@ var masoData =
     "1037020": {
         "description": "\u2606 Redefines the FAST in Fast-Paced",
         "tier": "3",
-        "owners": 111,
+        "owners": 112,
         "completions": 17,
         "playtime": 25.96764705882353,
         "newestCompletion": "2026-07-15T04:33:27.000Z"
@@ -2640,9 +2640,9 @@ var masoData =
         "description": "death in all caps",
         "tier": "1",
         "owners": 98,
-        "completions": 52,
-        "playtime": 16.290384615384617,
-        "newestCompletion": "2026-07-05T08:20:55.000Z"
+        "completions": 53,
+        "playtime": 16.535220125786164,
+        "newestCompletion": "2026-07-17T03:15:03.000Z"
     },
     "1170060": {
         "description": "\u272a Okay Boomerang ",
@@ -3541,7 +3541,7 @@ var masoData =
         "tier": "2",
         "owners": 104,
         "completions": 39,
-        "playtime": 57.49786324786324,
+        "playtime": 57.50042735042736,
         "newestCompletion": "2025-11-08T05:03:32.000Z"
     },
     "1442170": {
@@ -4519,7 +4519,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 94,
+        "owners": 95,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4607,9 +4607,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 69,
-        "completions": 21,
-        "playtime": 79.0952380952381,
+        "owners": 70,
+        "completions": 22,
+        "playtime": 83.54848484848486,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
