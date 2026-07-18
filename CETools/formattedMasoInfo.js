@@ -1249,7 +1249,7 @@ var masoData =
         "tier": "5",
         "owners": 226,
         "completions": 11,
-        "playtime": 632.9924242424242,
+        "playtime": 633.0136363636365,
         "newestCompletion": "2026-05-28T13:04:36.000Z",
         "badges": {
             "count": 3,
@@ -4695,9 +4695,9 @@ var masoData =
     "2944340": {
         "description": "Tastes like berries",
         "tier": "1",
-        "owners": 4,
-        "completions": 4,
-        "playtime": 9.279166666666667,
+        "owners": 5,
+        "completions": 5,
+        "playtime": 9.246666666666666,
         "newestCompletion": "2026-07-05T04:03:15.000Z"
     },
     "4450800": {
