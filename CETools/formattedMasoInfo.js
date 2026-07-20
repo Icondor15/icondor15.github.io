@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 258,
         "completions": 142,
-        "playtime": 201.64694835680746,
+        "playtime": 201.6573943661971,
         "newestCompletion": "2026-04-06T20:31:43.000Z",
         "badges": {
             "count": 2,
@@ -527,7 +527,7 @@ var masoData =
     "527150": {
         "description": "\ud83c\udf1f Rekt",
         "tier": "5",
-        "owners": 114,
+        "owners": 115,
         "completions": 21,
         "playtime": 36.99126984126984,
         "newestCompletion": "2026-06-27T07:00:59.000Z"
@@ -752,9 +752,9 @@ var masoData =
         "description": "\u2733 50 shades of precision platforming",
         "tier": "2",
         "owners": 77,
-        "completions": 24,
-        "playtime": 27.889583333333334,
-        "newestCompletion": "2025-07-09T00:43:17.000Z"
+        "completions": 25,
+        "playtime": 27.409333333333333,
+        "newestCompletion": "2026-07-19T19:01:55.000Z"
     },
     "504230": {
         "description": "\u2733 It has Assist mode for a reason",
@@ -959,7 +959,7 @@ var masoData =
     "239800": {
         "description": "\u2606 Through your fingers",
         "tier": "3",
-        "owners": 77,
+        "owners": 78,
         "completions": 15,
         "playtime": 13.783333333333333,
         "newestCompletion": "2026-04-22T22:37:22.000Z"
@@ -1075,7 +1075,7 @@ var masoData =
     "394970": {
         "description": "\u272a Gunpoint meets hotline miami",
         "tier": "4",
-        "owners": 109,
+        "owners": 110,
         "completions": 31,
         "playtime": 38.483870967741936,
         "newestCompletion": "2026-04-30T03:21:12.000Z"
@@ -1307,7 +1307,7 @@ var masoData =
     "65300": {
         "description": "\u2733 High precision platformer with a very high learning curve. Completing it is just the first step...",
         "tier": "2",
-        "owners": 164,
+        "owners": 165,
         "completions": 72,
         "playtime": 238.1175925925926,
         "newestCompletion": "2025-08-29T21:26:24.000Z",
@@ -1343,7 +1343,7 @@ var masoData =
     "318530": {
         "description": "\u2733 Its demon mode will shatter your soul into tiny fragments, and if you brave its hardships - you will be reborn.",
         "tier": "2",
-        "owners": 96,
+        "owners": 97,
         "completions": 22,
         "playtime": 98.38636363636364,
         "newestCompletion": "2024-02-28T08:42:53.000Z",
@@ -1417,7 +1417,7 @@ var masoData =
         "tier": "2",
         "owners": 153,
         "completions": 68,
-        "playtime": 36.037009803921585,
+        "playtime": 36.87377450980394,
         "newestCompletion": "2026-05-07T23:57:24.000Z",
         "badges": {
             "count": 2,
@@ -1667,7 +1667,7 @@ var masoData =
     "609420": {
         "description": "\ud83c\udf1f Give Up",
         "tier": "5",
-        "owners": 81,
+        "owners": 82,
         "completions": 6,
         "playtime": 110.26666666666667,
         "newestCompletion": "2025-11-29T02:29:08.000Z",
@@ -1835,7 +1835,7 @@ var masoData =
     "628320": {
         "description": "\u272a Breast Game Ever",
         "tier": "4",
-        "owners": 6,
+        "owners": 7,
         "completions": 1,
         "playtime": 89.55,
         "newestCompletion": "2019-12-16T03:46:41.000Z"
@@ -2235,10 +2235,10 @@ var masoData =
     "418530": {
         "description": "\u272a 2 Stands for twice the \u2665\u2665\u2665\u2665\u2665\u2665\u2665\u2665",
         "tier": "4",
-        "owners": 120,
-        "completions": 49,
-        "playtime": 250.85476190476194,
-        "newestCompletion": "2026-03-21T08:01:35.000Z",
+        "owners": 121,
+        "completions": 50,
+        "playtime": 246.51600000000002,
+        "newestCompletion": "2026-07-20T07:27:16.000Z",
         "badges": {
             "count": 1,
             "points": 10
@@ -3085,7 +3085,7 @@ var masoData =
         "tier": "3",
         "owners": 181,
         "completions": 50,
-        "playtime": 197.10966666666667,
+        "playtime": 197.16066666666666,
         "newestCompletion": "2026-04-19T09:33:00.000Z"
     },
     "456390": {
@@ -3191,7 +3191,7 @@ var masoData =
     "396350": {
         "description": "\u2733 Through your fingers again",
         "tier": "2",
-        "owners": 55,
+        "owners": 56,
         "completions": 3,
         "playtime": 34.644444444444446,
         "newestCompletion": "2022-10-18T20:20:01.000Z",
@@ -4575,7 +4575,7 @@ var masoData =
     "2400640": {
         "description": "\u2733 2 points for Destruction",
         "tier": "2",
-        "owners": 2,
+        "owners": 3,
         "completions": 1,
         "playtime": 37.766666666666666,
         "newestCompletion": "2025-06-01T04:37:26.000Z"
@@ -4655,7 +4655,7 @@ var masoData =
     "3288210": {
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
-        "owners": 18,
+        "owners": 19,
         "completions": 7,
         "playtime": 31.704761904761906,
         "newestCompletion": "2026-04-24T23:28:21.000Z"
@@ -4663,7 +4663,7 @@ var masoData =
     "2178380": {
         "description": "\ud83c\udf96\ufe0f \u272a Don't blink",
         "tier": "0",
-        "owners": 2,
+        "owners": 3,
         "completions": 1,
         "playtime": 11.616666666666667,
         "newestCompletion": "2026-03-23T21:30:31.000Z",
@@ -4683,7 +4683,7 @@ var masoData =
     "1711520": {
         "description": "\u272a TIME TRAVEL \ud83d\udde3\ufe0f\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f",
         "tier": "4",
-        "owners": 4,
+        "owners": 5,
         "completions": 2,
         "playtime": 120.59166666666667,
         "newestCompletion": "2026-06-02T01:24:18.000Z",
@@ -4703,7 +4703,7 @@ var masoData =
     "4450800": {
         "description": "You'll fall for it hook, line and sinker!",
         "tier": "1",
-        "owners": 5,
+        "owners": 6,
         "completions": 3,
         "playtime": 6.672222222222222,
         "newestCompletion": "2026-07-18T23:16:03.000Z"
@@ -4711,7 +4711,7 @@ var masoData =
     "2105620": {
         "description": "\ud83c\udf1f Rektori",
         "tier": "5",
-        "owners": 1,
+        "owners": 2,
         "completions": 1,
         "playtime": 508.25,
         "newestCompletion": "2026-05-10T05:10:36.000Z"
