@@ -271,7 +271,7 @@ var masoData =
     "398030": {
         "description": "Very popular in South Korea",
         "tier": "1",
-        "owners": 66,
+        "owners": 67,
         "completions": 22,
         "playtime": 33.084848484848486,
         "newestCompletion": "2025-08-01T03:39:47.000Z",
@@ -1744,9 +1744,9 @@ var masoData =
         "description": "\ud83c\udf1f 101 ways to get Chewwed out",
         "tier": "5",
         "owners": 94,
-        "completions": 33,
-        "playtime": 50.55252525252525,
-        "newestCompletion": "2025-02-17T16:52:52.000Z"
+        "completions": 34,
+        "playtime": 50.7142156862745,
+        "newestCompletion": "2026-07-20T23:36:24.000Z"
     },
     "846870": {
         "description": "Depends who you ask",
@@ -4377,7 +4377,7 @@ var masoData =
         "tier": "5",
         "owners": 58,
         "completions": 2,
-        "playtime": 404.85,
+        "playtime": 405.93333333333334,
         "newestCompletion": "2025-10-23T19:41:44.000Z",
         "badges": {
             "count": 3,
@@ -4536,9 +4536,9 @@ var masoData =
         "description": "Tricky Towers",
         "tier": "1",
         "owners": 34,
-        "completions": 8,
-        "playtime": 11.414583333333333,
-        "newestCompletion": "2026-05-20T07:22:46.000Z"
+        "completions": 9,
+        "playtime": 11.294444444444444,
+        "newestCompletion": "2026-07-20T19:41:11.000Z"
     },
     "1282210": {
         "description": "6-key EDM concert",
@@ -4620,9 +4620,9 @@ var masoData =
         "description": "There is a Smoking Hot Ape at the Top!",
         "tier": "1",
         "owners": 7,
-        "completions": 4,
-        "playtime": 10.375,
-        "newestCompletion": "2025-11-14T18:03:55.000Z"
+        "completions": 5,
+        "playtime": 9.556666666666667,
+        "newestCompletion": "2026-07-19T21:50:43.000Z"
     },
     "692890": {
         "description": "\u2733 Aimbotting",
@@ -4645,7 +4645,7 @@ var masoData =
         "tier": "0",
         "owners": 14,
         "completions": 3,
-        "playtime": 294.89444444444445,
+        "playtime": 295.1722222222222,
         "newestCompletion": "2026-03-16T17:15:06.000Z",
         "badges": {
             "count": 3,
