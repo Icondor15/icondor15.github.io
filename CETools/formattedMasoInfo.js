@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 258,
         "completions": 142,
-        "playtime": 201.6573943661971,
+        "playtime": 204.0597417840375,
         "newestCompletion": "2026-04-06T20:31:43.000Z",
         "badges": {
             "count": 2,
@@ -943,7 +943,7 @@ var masoData =
     "240720": {
         "description": "\u2733 Can you?",
         "tier": "2",
-        "owners": 196,
+        "owners": 197,
         "completions": 103,
         "playtime": 32.84789644012947,
         "newestCompletion": "2026-03-16T13:18:39.000Z"
@@ -1395,7 +1395,7 @@ var masoData =
     "557340": {
         "description": "ABSOLUTELY BANANAS",
         "tier": "1",
-        "owners": 94,
+        "owners": 95,
         "completions": 27,
         "playtime": 23.269135802469144,
         "newestCompletion": "2026-04-24T08:59:33.000Z",
@@ -1735,7 +1735,7 @@ var masoData =
     "774361": {
         "description": "God will punish you if you don\"t play it",
         "tier": "1",
-        "owners": 164,
+        "owners": 165,
         "completions": 53,
         "playtime": 38.60503144654087,
         "newestCompletion": "2026-06-21T23:52:28.000Z"
@@ -2235,7 +2235,7 @@ var masoData =
     "418530": {
         "description": "\u272a 2 Stands for twice the \u2665\u2665\u2665\u2665\u2665\u2665\u2665\u2665",
         "tier": "4",
-        "owners": 121,
+        "owners": 122,
         "completions": 50,
         "playtime": 246.51600000000002,
         "newestCompletion": "2026-07-20T07:27:16.000Z",
@@ -2707,7 +2707,7 @@ var masoData =
     "1375400": {
         "description": "Get the knife!!",
         "tier": "1",
-        "owners": 23,
+        "owners": 24,
         "completions": 4,
         "playtime": 31.337500000000002,
         "newestCompletion": "2026-06-13T21:20:49.000Z"
@@ -2915,7 +2915,7 @@ var masoData =
     "893180": {
         "description": "\u2606 new record",
         "tier": "3",
-        "owners": 58,
+        "owners": 59,
         "completions": 10,
         "playtime": 81.89166666666667,
         "newestCompletion": "2024-12-10T23:30:53.000Z"
@@ -3003,7 +3003,7 @@ var masoData =
     "581660": {
         "description": "\ud83c\udf1f Super Seed Boy",
         "tier": "5",
-        "owners": 139,
+        "owners": 140,
         "completions": 15,
         "playtime": 77.20444444444443,
         "newestCompletion": "2026-01-26T00:56:39.000Z"
@@ -3227,10 +3227,10 @@ var masoData =
     "1533420": {
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
-        "owners": 131,
-        "completions": 68,
-        "playtime": 74.96102941176473,
-        "newestCompletion": "2026-05-06T16:50:20.000Z",
+        "owners": 132,
+        "completions": 69,
+        "playtime": 74.64565217391306,
+        "newestCompletion": "2026-07-21T22:06:31.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -3603,7 +3603,7 @@ var masoData =
     "1316910": {
         "description": "\u2606 Ready? Go!",
         "tier": "3",
-        "owners": 28,
+        "owners": 29,
         "completions": 5,
         "playtime": 47.86,
         "newestCompletion": "2025-04-23T16:00:07.000Z"
@@ -4080,9 +4080,9 @@ var masoData =
         "description": "I put my right leg in, I put my right leg out, In out, in out, shake it all about. (Co-op)",
         "tier": "1",
         "owners": 61,
-        "completions": 21,
-        "playtime": 11.80079365079365,
-        "newestCompletion": "2026-01-14T16:30:15.000Z",
+        "completions": 22,
+        "playtime": 11.862878787878786,
+        "newestCompletion": "2026-07-22T01:08:48.000Z",
         "badges": {
             "count": 1,
             "points": 1
@@ -4499,7 +4499,7 @@ var masoData =
     "1030300": {
         "description": "\u2733 Silksong",
         "tier": "2",
-        "owners": 159,
+        "owners": 160,
         "completions": 40,
         "playtime": 106.00999999999996,
         "newestCompletion": "2026-07-18T16:09:38.000Z"
@@ -4519,7 +4519,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 95,
+        "owners": 96,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4567,7 +4567,7 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 30,
+        "owners": 31,
         "completions": 3,
         "playtime": 30.572222222222223,
         "newestCompletion": "2026-03-26T10:42:27.000Z"
@@ -4607,7 +4607,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 71,
+        "owners": 72,
         "completions": 22,
         "playtime": 83.54848484848486,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
