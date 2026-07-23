@@ -1,126 +1,36 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 1519710,
-        "CEId": "8429d649-882c-4760-9f00-d9f229a5c401",
-        "name": "SCHiM",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1519710/header.jpg?t=1721289638",
+        "gameType": 5,
+        "CEId": "09f100aa-caa7-4154-a224-1c3e9277eea4",
+        "name": "Clown Town",
+        "header": "https://i.postimg.cc/0jBvBztT/clowntown.png",
         "genre": [
-            "Platformer"
+            "Unknown"
         ],
-        "tier": 2,
-        "points": 20,
+        "tier": 0,
+        "points": 0,
         "secondaryPoints": 0,
-        "medianPlaytime": 1142,
-        "createdAt": "2024-07-22T14:49:02.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2022-07-23T23:19:08.000Z",
         "updatedAt": "2026-07-19T14:09:49.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 1,
+        "playersCompleted": 0,
         "playersStarted": 0,
-        "playersTotal": 11,
-        "priceData": {
-            "USD": {
-                "initial": 1645,
-                "final": 822,
-                "discountPercent": 50
-            },
-            "EUR": {
-                "initial": 1645,
-                "final": 822,
-                "discountPercent": 50
-            },
-            "GBP": {
-                "initial": 1499,
-                "final": 749,
-                "discountPercent": 50
-            },
-            "JPY": {
-                "initial": 198000,
-                "final": 99000,
-                "discountPercent": 50
-            },
-            "AUD": {
-                "initial": 2895,
-                "final": 1447,
-                "discountPercent": 50
-            },
-            "CAD": {
-                "initial": 2279,
-                "final": 1139,
-                "discountPercent": 50
-            }
-        },
+        "playersTotal": 82,
         "milestones": {
-            "primary": 2,
-            "primaryText": "Bask in Darkness [10\u2605]\nBeat the game with Risky mode on.\n\nLiving in the Shadows [10\u2605]\nFinish each level without respawning.",
+            "primary": 30,
+            "primaryText": "Apollo (UNCLEARED) [0\u2605]\nAdd a game to CE that single handedly doubles the total amount of UNCLEARED objectives on the entire site, then apologize profusely.\n\nCE Japan [0\u2605]\n\u3042\u306a\u305f\u306e\u52aa\u529b\u3068\u732e\u8eab\u306b\u6df1\u304f\u611f\u8b1d\u3057\u307e\u3059\u3002\n\nCE Voice Chat [0\u2605]\nSit in a voice call for over 1,000 consecutive hours.\n\nCraziiPanduh [0\u2605]\nSuccessfully scare people out of the voice chat with your rage pistol.\n\negg [0\u2605]\nBeat the high score of 1,000 direct messages to an Admin in a single hour.\n\nFlash [0\u2605]\nHave your discord message ratio be 10:1 stickers to non-stickers.\n\nFolkius [0\u2605]\nBe the only admin in CE history that hasn't rage quit from the responsibilities. (Now he's stuck here forever or else this objective will be a meme).\n\nGooey [0\u2605]\nPlay games in the worst and least efficient way possible, then claim nothing on the site is properly valued.\n\nHazelnut Hex, Possibly the Best Game Ever [0\u2605]\nHave the steam curator recommend you to the group over a dozen times in a row.\n\nJarvis [0\u2605]\nFail every difficult challenge you ever try on the last possible frame.\n\nKing Bing Bong [0\u2605]\nBe born after CE was founded (in October of 2019).\n\nLaura [0\u2605]\nBe the most wonderful, beautiful, kind, intelligent person in the whole world \ud83e\udd70\n\nLegit \"Leg it\" Legion the Legend [0\u2605]\nObtain the prestigious hidden role of Hentai Weeb Furry Grandmaster\n\nMega [0\u2605]\nBecome the owner of CE without actually knowing anything about how the group or system work.\n\nMini, PO Terrorist [0\u2605]\nConvince a dev to add an objective so hard that no one in the world has done it, then go on to complete it.\n\nMiyu [0\u2605]\nRecommend a legitimately T6 game unironically at 80 points, and then fight to the death to keep it there.\n\nNashi [0\u2605]\nComplete every game on CE without anyone noticing, then crash the proof-submissions channel.\n\nPig [0\u2605]\nRuin your sleep schedule so badly that you have to take micro naps in between speaking.\n\nqetc [0\u2605]\nhttps://www.youtube.com/watch?v=8-OtzZA9jCY\n\nRamia [0\u2605]\nInsist that you are burnt out on challenging games, and then go on to earn 500 points a month for 18 consecutive months.\n\nScarlet [0\u2605]\nObtain the impossible rank of SSSSS (by obtaining, losing, and re-obtaining S rank 5 separate times).\n\nSchmole [0\u2605]\nEarn each of the following roles: Legendary Spreadsheet Challenger, Black Spreadsheet Grandmaster, and T5 Spreadsheet Enthusiast.\n\nSoundodger 2, Defender of CE [0\u2605]\nAs CE assistant rampaged through the site, devouring everything in its wake, one game rose up to defend all that remains.\n\nsp1nz [0\u2605]\nOwn every game on the site, then buy a physical copy of each in every language, then proceed to play the same two games for the rest of your life.\n\nTeddy [0\u2605]\nSeparately; Know a billionaire personally, be a professional Esports coach, and take over a year to finish writing the script for a single video because it was so emotionally powerful, the world wasn't ready for it.\n\nThe Entirety of the Celeste, Pogostuck, and Geometry Dash Discords [0\u2605]\nWhere do I post proof?\n\nTomato Final Boss [0\u2605]\nCreate a thread that's such a bruh moment, someone leaves the group.\n\nVantier [0\u2605]\nSuccessfully argue against your own points for 8 hours straight, then fall asleep.\n\nVitas [0\u2605]\nBorn your own children and teach him how to become nice gamer for farm points.\n\nZelda [0\u2605]\nThis is potentially an objective.",
             "secondary": 0,
             "secondaryText": "",
             "community": 1,
-            "communityText": "The Closer to Light, the Greater the Shadow\nBeat the game with Extra Jump off, Risky mode on, and respawns off.",
-            "achievements": 24
+            "communityText": "Achrotone\nAdd in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO  for adding in a CO  for adding in a CO for adding in a CO for adding in a CO for adding in a CO for adding in a CO.",
+            "achievements": 0
         },
         "CETags": {
-            "genre": [
-                "3D Platformer"
-            ],
+            "genre": [],
             "info": []
-        },
-        "gameTags": [
-            "Exploration",
-            "3D Platformer",
-            "Relaxing",
-            "Puzzle Platformer",
-            "Wholesome",
-            "Collectathon",
-            "Puzzle",
-            "Colorful",
-            "Family Friendly",
-            "Stylized",
-            "Isometric",
-            "Casual",
-            "3D",
-            "Adventure",
-            "Cute",
-            "Third Person",
-            "Top-Down",
-            "Singleplayer",
-            "Abstract",
-            "Minimalist"
-        ],
-        "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "arabic": "I",
-            "brazilian": "I",
-            "bulgarian": "I",
-            "croatian": "I",
-            "czech": "I",
-            "danish": "I",
-            "dutch": "I",
-            "finnish": "I",
-            "greek": "I",
-            "hungarian": "I",
-            "indonesian": "I",
-            "koreana": "I",
-            "latam": "I",
-            "norwegian": "I",
-            "polish": "I",
-            "portuguese": "I",
-            "romanian": "I",
-            "russian": "I",
-            "schinese": "I",
-            "swedish": "I",
-            "tchinese": "I",
-            "thai": "I",
-            "turkish": "I",
-            "ukrainian": "I",
-            "vietnamese": "I"
         }
     }
 }
-var gameOfDayDate = '2026-07-22'
+var gameOfDayDate = '2026-07-23'
