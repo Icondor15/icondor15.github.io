@@ -151,7 +151,7 @@ var masoData =
     "835430": {
         "description": "\u2733 Was it worth using a guide?",
         "tier": "2",
-        "owners": 30,
+        "owners": 31,
         "completions": 4,
         "playtime": 185.84583333333333,
         "newestCompletion": "2024-08-20T20:35:28.000Z"
@@ -3457,7 +3457,7 @@ var masoData =
         "tier": "4",
         "owners": 28,
         "completions": 10,
-        "playtime": 55.113333333333344,
+        "playtime": 55.128333333333345,
         "newestCompletion": "2026-01-28T16:30:08.000Z"
     },
     "811970": {
@@ -4519,7 +4519,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 96,
+        "owners": 97,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4559,7 +4559,7 @@ var masoData =
     "2011780": {
         "description": "Definitely a real one",
         "tier": "1",
-        "owners": 33,
+        "owners": 34,
         "completions": 17,
         "playtime": 11.19313725490196,
         "newestCompletion": "2026-04-18T16:38:47.000Z"
@@ -4583,7 +4583,7 @@ var masoData =
     "1365750": {
         "description": "\ud83c\udf1f  It's Touhou",
         "tier": "5",
-        "owners": 7,
+        "owners": 8,
         "completions": 1,
         "playtime": 38.35,
         "newestCompletion": "2026-02-06T23:59:59.000Z"
@@ -4607,7 +4607,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 72,
+        "owners": 73,
         "completions": 22,
         "playtime": 83.54848484848486,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
@@ -4655,7 +4655,7 @@ var masoData =
     "3288210": {
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
-        "owners": 19,
+        "owners": 20,
         "completions": 7,
         "playtime": 31.704761904761906,
         "newestCompletion": "2026-04-24T23:28:21.000Z"
