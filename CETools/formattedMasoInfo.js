@@ -3,7 +3,7 @@ var masoData =
     "384700": {
         "description": "\u272a really fishing for mans",
         "tier": "4",
-        "owners": 58,
+        "owners": 59,
         "completions": 12,
         "playtime": 41.97222222222223,
         "newestCompletion": "2024-08-01T12:23:24.000Z"
@@ -219,7 +219,7 @@ var masoData =
     "811870": {
         "description": "\ud83c\udf1f Flying pizzas and a goat anus",
         "tier": "5",
-        "owners": 135,
+        "owners": 136,
         "completions": 35,
         "playtime": 61.85619047619049,
         "newestCompletion": "2026-02-25T15:40:34.000Z"
@@ -235,7 +235,7 @@ var masoData =
     "274170": {
         "description": "\u2733 There it\"s curated now",
         "tier": "2",
-        "owners": 165,
+        "owners": 166,
         "completions": 66,
         "playtime": 38.404545454545456,
         "newestCompletion": "2026-04-27T18:00:31.000Z",
@@ -1763,7 +1763,7 @@ var masoData =
     "940680": {
         "description": "\u2733 Tes-- Test your mu-- Test your multitasking skil--",
         "tier": "2",
-        "owners": 121,
+        "owners": 122,
         "completions": 34,
         "playtime": 17.998529411764704,
         "newestCompletion": "2026-05-03T17:13:44.000Z"
@@ -1979,7 +1979,7 @@ var masoData =
     "1159450": {
         "description": "\u2733 Coronavirus : Origins",
         "tier": "2",
-        "owners": 42,
+        "owners": 43,
         "completions": 17,
         "playtime": 10.326470588235296,
         "newestCompletion": "2025-09-21T20:24:18.000Z"
@@ -2015,7 +2015,7 @@ var masoData =
     "1004770": {
         "description": "\u2606 I never knew I wanted a PVP SHMUP so badly until Maiden &amp; Spell released. Single-player offers plenty of content with unique bosses and a cute story. Online is practically lag-free. Highly addictive",
         "tier": "3",
-        "owners": 58,
+        "owners": 59,
         "completions": 21,
         "playtime": 28.573809523809523,
         "newestCompletion": "2025-10-23T09:54:16.000Z"
@@ -2263,7 +2263,7 @@ var masoData =
     "1229580": {
         "description": "\u2733 Absolutely Discusting",
         "tier": "2",
-        "owners": 131,
+        "owners": 132,
         "completions": 90,
         "playtime": 20.058148148148153,
         "newestCompletion": "2026-07-04T22:03:31.000Z",
@@ -2291,7 +2291,7 @@ var masoData =
     "1037020": {
         "description": "\u2606 Redefines the FAST in Fast-Paced",
         "tier": "3",
-        "owners": 112,
+        "owners": 113,
         "completions": 17,
         "playtime": 25.96764705882353,
         "newestCompletion": "2026-07-15T04:33:27.000Z"
@@ -2339,7 +2339,7 @@ var masoData =
     "1067720": {
         "description": "\u272a Keep your dignity",
         "tier": "4",
-        "owners": 29,
+        "owners": 30,
         "completions": 6,
         "playtime": 63.930555555555564,
         "newestCompletion": "2022-05-18T21:20:03.000Z"
@@ -2691,7 +2691,7 @@ var masoData =
     "1486630": {
         "description": "\u2733 Splinter Cell Miami",
         "tier": "2",
-        "owners": 121,
+        "owners": 122,
         "completions": 9,
         "playtime": 20.196296296296296,
         "newestCompletion": "2025-12-19T20:32:40.000Z"
@@ -2715,7 +2715,7 @@ var masoData =
     "719930": {
         "description": "\u272a Super Meat Ball",
         "tier": "4",
-        "owners": 40,
+        "owners": 41,
         "completions": 14,
         "playtime": 46.45357142857142,
         "newestCompletion": "2025-11-28T22:41:36.000Z"
@@ -2975,7 +2975,7 @@ var masoData =
     "465200": {
         "description": "\u2606 Unleash your inner furry - er, fury",
         "tier": "3",
-        "owners": 75,
+        "owners": 76,
         "completions": 10,
         "playtime": 31.669999999999998,
         "newestCompletion": "2025-06-27T21:45:27.000Z"
@@ -3175,7 +3175,7 @@ var masoData =
     "1142080": {
         "description": "\u272a Chess 2",
         "tier": "4",
-        "owners": 64,
+        "owners": 65,
         "completions": 17,
         "playtime": 44.11764705882352,
         "newestCompletion": "2025-04-06T02:49:33.000Z"
@@ -3767,7 +3767,7 @@ var masoData =
     "2211730": {
         "description": "Australia",
         "tier": "1",
-        "owners": 39,
+        "owners": 40,
         "completions": 21,
         "playtime": 3.2484126984126984,
         "newestCompletion": "2026-05-17T16:13:53.000Z"
@@ -3833,7 +3833,7 @@ var masoData =
         "tier": "2",
         "owners": 125,
         "completions": 16,
-        "playtime": 241.35833333333332,
+        "playtime": 241.36458333333334,
         "newestCompletion": "2026-04-06T19:16:36.000Z",
         "badges": {
             "count": 1,
@@ -4167,10 +4167,10 @@ var masoData =
     "453300": {
         "description": "heal pls",
         "tier": "1",
-        "owners": 20,
-        "completions": 9,
-        "playtime": 5.859259259259259,
-        "newestCompletion": "2025-07-06T20:29:19.000Z"
+        "owners": 21,
+        "completions": 10,
+        "playtime": 6.121666666666667,
+        "newestCompletion": "2026-03-21T14:44:20.000Z"
     },
     "2310700": {
         "description": "\u272a Now with a gun",
@@ -4507,7 +4507,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 180,
+        "owners": 181,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null,
@@ -4519,7 +4519,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 97,
+        "owners": 98,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4599,7 +4599,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together (Co-op)",
         "tier": "5",
-        "owners": 24,
+        "owners": 25,
         "completions": 3,
         "playtime": 449.18888888888887,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
