@@ -2,96 +2,107 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1483610,
-        "CEId": "c98b50f6-30ec-453c-ac29-1658f2d3a4c8",
-        "name": "GravitreX Arcade",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1483610/header.jpg?t=1739356035",
+        "platformId": 1135230,
+        "CEId": "bdd1b48b-2199-4d23-aaa7-fea72ec00c6f",
+        "name": "Ember Knights",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1135230/header_alt_assets_6.jpg?t=1689683633",
         "genre": [
-            "Arcade"
+            "Action"
         ],
-        "tier": 3,
-        "points": 70,
+        "tier": 1,
+        "points": 15,
         "secondaryPoints": 0,
-        "medianPlaytime": 2190,
-        "createdAt": "2025-07-24T23:00:06.000Z",
+        "medianPlaytime": 1722,
+        "createdAt": "2023-07-25T22:21:02.000Z",
         "updatedAt": "2026-07-19T14:09:49.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 2,
+        "playersCompleted": 16,
         "playersStarted": 0,
-        "playersTotal": 11,
+        "playersTotal": 55,
         "priceData": {
             "USD": {
-                "initial": 799,
-                "final": 799,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 750,
-                "final": 750,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 650,
-                "final": 650,
+                "initial": 1675,
+                "final": 1675,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 100000,
-                "final": 100000,
+                "initial": 230000,
+                "final": 230000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1150,
-                "final": 1150,
+                "initial": 2950,
+                "final": 2950,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1050,
-                "final": 1050,
+                "initial": 2599,
+                "final": 2599,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 4,
-            "primaryText": "Cabinet Fever [40\u2605]\nComplete the Arcade Mode without losing a single ship.\n\nGravi-TriX [15\u2605]\nComplete each level in The New Challenge.\n\nLost in Space [5\u2605]\nComplete each level in The Lost Levels.\n\nI Am the Champions! [10\u2605]\nComplete the Arcade Mode.",
+            "primary": 1,
+            "primaryText": "Blazing Cinders [15\u2605]\nDefeat Praxis in the Architect's Realm.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 3,
-            "communityText": "Curiosity\nClear arcade mode with the Henke Claw mod turned on.\n\nOpportunity\nClear arcade mode with the No Assists mod turned on.\n\nPerseverance\nClear arcade mode with the Survival mod turned on.",
-            "achievements": 69
+            "community": 0,
+            "communityText": "",
+            "achievements": 44
         },
         "CETags": {
             "genre": [
-                "Awkward Movement"
+                "Rogue-like",
+                "Hack & Slash"
             ],
-            "info": [
-                "Has Community Objectives"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Local Co-Op",
-            "Physics",
-            "2D",
+            "Action Roguelike",
+            "Roguelite",
             "Co-op",
-            "1980s",
-            "Old School",
-            "Retro",
-            "Flight",
-            "Local Multiplayer",
-            "Co-op Campaign",
             "Pixel Graphics",
-            "Sci-fi",
-            "Minimalist",
+            "Multiplayer",
+            "Online Co-Op",
+            "Dungeon Crawler",
+            "Hack and Slash",
+            "Local Co-Op",
+            "RPG",
+            "Procedural Generation",
+            "Adventure",
+            "Action",
+            "Roguelike",
             "Singleplayer",
-            "Casual",
-            "Transportation",
-            "Arcade",
-            "Indie",
-            "Puzzle Platformer"
+            "2D",
+            "Local Multiplayer",
+            "Top-Down",
+            "Combat",
+            "Choices Matter"
         ],
         "languages": {
-            "english": "IA"
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "polish": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "tchinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-07-24'
+var gameOfDayDate = '2026-07-25'
