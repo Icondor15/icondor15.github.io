@@ -1056,13 +1056,16 @@
                     <hr style="opacity: 0.5; width:100%; margin: 0px;">
                     <input autocomplete="off" type="checkbox" id="genreExclusive" onchange="order('last')"><label for="genreExclusive">Exclusive</label> <sup title="This will make it so it will show games only if they have ALL selected Categories simultaneously." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup>
                 </fieldset>
-                <!--Tier + Points-->
-                <div style="display: flex; flex-direction: row; align-items: start;">
+                <!--Difficulty-->
+                <fieldset style="display:flex; flex-direction: row; flex-wrap: wrap; align-items: center; gap:10px;" id="difficultyField">
+                    <legend>Difficulty</legend>
                     <!--Tier-->
-                    <fieldset style="margin-right: 0px;" id="tierField">
+                    <fieldset style="margin-right: 0px; border: 1px dashed;" id="tierField">
                         <legend><input autocomplete="off" type="radio" name="tier-points" id="tierSelection" onchange="changeTierPointsSettings()" checked>&hairsp;<label for="tierSelection">Tier</label></legend>
 
-                        <input autocomplete="off" type="checkbox" id="tierAll" checked onchange="changeTier(-1)"><label for="tierAll">All</label>
+                        <span>
+                            <input autocomplete="off" type="checkbox" id="tierAll" checked onchange="changeTier(-1)"><label for="tierAll">All</label>
+                        </span>
                         <hr style="opacity: 0.5; width:100%; margin: 0px;">
                         <div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; text-align: left;">
                             <span>
@@ -1091,69 +1094,34 @@
                             </span>
                         </div>
                         <hr style="opacity: 0.5; width:100%; margin: 0px;">
-                        <input autocomplete="off" type="checkbox" id="tierOvercompletion" onchange="order('last')"><label for="tierOvercompletion">Overcompletion Tier</label> <sup title="This will make it so that instead of filtering by the regular Tier (That takes only Primary Objectives into account), each game will be filtered according to what Tier they'd get from the total amount of points they have. (From both Primary and Secondary Objectives.)" style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup>
+                        <span>
+                            <input autocomplete="off" type="checkbox" id="tierOvercompletion" onchange="order('last')"><label for="tierOvercompletion">Overcompletion Tier</label> <sup title="This will make it so that instead of filtering by the regular Tier (That takes only Primary Objectives into account), each game will be filtered according to what Tier they'd get from the total amount of points they have. (From both Primary and Secondary Objectives.)" style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup>
+                        </span>
                     </fieldset>
-                    <hr style="height: 0px; width:20px; margin-top: 25px;">
                     <!--Points-->
-                    <fieldset style="margin-left: 0px;" id="pointsField" disabled>
+                    <fieldset style="margin-left: 0px; border: 1px dashed; flex-wrap: wrap;  align-items: stretch; gap:10px;" id="pointsField" disabled>
                         <legend><input autocomplete="off" type="radio" name="tier-points" id="pointSelection" onchange="changeTierPointsSettings()">&hairsp;<label for="pointSelection">Points</label></legend>
-                        <input autocomplete="off" type="number" id="pointsLower" oninput="order('last')" style="width:50px; text-align: right;">
-                        ≤&nbsp;<b>x</b>&nbsp;≤ 
-                        <input autocomplete="off" type="number" id="pointsHigher" oninput="order('last')" style="width:50px">
-                    </fieldset>
-                </div>
-                <!--Price-->
-                <fieldset style="display:flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap:10px;" id="priceField">
-                    <legend>Price</legend>
-                    <!--Pricing-->
-                    <div>
-                        Pricing:
-                        <select autocomplete="off" id="priceSelect" onchange="changePrice()">
-                            <optgroup label="--Applicable--">
-                                <option>All</option>
-                                <option>Paid</option>
-                                <option>Free to Play</option>
-                            </optgroup>
-                            <optgroup label="--Not Applicable--">
-                                <option>Unavailable</option>
-                                <option>RetroAchievements</option>
-                                <option>Removed</option>
-                            </optgroup>
-                        </select>
-                        <hr style="opacity: 0.5; width:100%; margin: 5px 0px;">
-                        <input autocomplete="off" id="priceSale" type="checkbox" onchange="changePriceSettings()"><label for="priceSale">Paid games only On Sale</label> <sup title="This applies to all the paid games shown in the current 'Pricing'.&#10;If it's set to 'All', changing this will leave the 'Free to Play' and 'Not Applicable' games untouched." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup>
-                    </div>
-                    <!--Individual filters-->
-                    <fieldset id="individualPriceField" style="display: flex;  flex-direction: row; flex-wrap: wrap; align-items: center; border: 1px dashed; gap: 15px; justify-content: space-evenly; padding-top:0px;">
-                        <legend>Individual Values <sup title="These apply to all the paid games shown in the current 'Pricing'.&#10;If it's set to 'All', changing these will leave the 'Free to Play' and 'Not Applicable' games untouched." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup></legend>
                         <div>
-                            <b>Base Price</b><br>
-                            <input autocomplete="off" type="number" id="basePriceLower" oninput="order('last')" style="width:50px; text-align: right;">
+                            <b>Total Points</b><br>
+                            <input autocomplete="off" type="number" id="pointsLower" oninput="order('last')" style="width:50px; text-align: right;">
                             ≤&nbsp;<b>x</b>&nbsp;≤ 
-                            <input autocomplete="off" type="number" id="basePriceHigher" oninput="order('last')" style="width:50px">
+                            <input autocomplete="off" type="number" id="pointsHigher" oninput="order('last')" style="width:50px">
                         </div>
+                        <hr style="opacity: 0.5; width:100%; margin: 0px; margin-top: 5px">
                         <div>
-                            <b>Sale Percentage</b><br>
-                            <input autocomplete="off" type="number" id="salePercentageLower" oninput="order('last')" style="width:50px; text-align: right;">
-                            ≤&nbsp;<b>x%</b>&nbsp;≤ 
-                            <input autocomplete="off" type="number" id="salePercentageHigher" oninput="order('last')" style="width:50px">
-                        </div>
-                        <div>
-                            <b>Final Price</b><br>
-                            <input autocomplete="off" type="number" id="finalPriceLower" oninput="order('last')" style="width:50px; text-align: right;">
+                            <b>Primary Points</b><br>
+                            <input autocomplete="off" type="number" id="pointsPrimaryLower" oninput="order('last')" style="width:50px; text-align: right;">
                             ≤&nbsp;<b>x</b>&nbsp;≤ 
-                            <input autocomplete="off" type="number" id="finalPriceHigher" oninput="order('last')" style="width:50px">
+                            <input autocomplete="off" type="number" id="pointsPrimaryHigher" oninput="order('last')" style="width:50px">
+                        </div>
+                        <hr style="opacity: 0.5; width:100%; margin: 0px; margin-top: 5px">
+                        <div>
+                            <b>Secondary Points</b><br>
+                            <input autocomplete="off" type="number" id="pointsSecondaryLower" oninput="order('last')" style="width:50px; text-align: right;">
+                            ≤&nbsp;<b>x</b>&nbsp;≤ 
+                            <input autocomplete="off" type="number" id="pointsSecondaryHigher" oninput="order('last')" style="width:50px">
                         </div>
                     </fieldset>
-                </fieldset>
-                <!--Achievement count-->
-                <fieldset id="achievementsField">
-                    <legend>Achievements</legend>
-                    <div>
-                        <input autocomplete="off" type="number" id="achievementsLower" oninput="order('last')" style="width:50px; text-align: right;">
-                        ≤&nbsp;<b>x</b>&nbsp;≤ 
-                        <input autocomplete="off" type="number" id="achievementsHigher" oninput="order('last')" style="width:50px">
-                    </div>
                 </fieldset>
                 <!--User Filter-->
                 <fieldset id="userField" style="padding-bottom: 0px;">
@@ -1195,8 +1163,55 @@
                         </div>
                     </div>
                 </fieldset>
+                <!--Price-->
+                <fieldset style="display:flex; flex-direction: row; flex-wrap: wrap; align-items: center; gap:10px;" id="priceField">
+                    <legend>Price</legend>
+                    <!--Pricing-->
+                    <div>
+                        Pricing:
+                        <select autocomplete="off" id="priceSelect" onchange="changePrice()">
+                            <optgroup label="--Applicable--">
+                                <option>All</option>
+                                <option>Paid</option>
+                                <option>Free to Play</option>
+                            </optgroup>
+                            <hr>
+                            <optgroup label="--Not Applicable--">
+                                <option>Unavailable</option>
+                                <option>RetroAchievements</option>
+                                <option>Removed</option>
+                            </optgroup>
+                        </select>
+                        <hr style="opacity: 0.5; width:100%; margin: 5px 0px;">
+                        <input autocomplete="off" id="priceSale" type="checkbox" onchange="changePriceSettings()"><label for="priceSale">Paid games only On Sale</label> <sup title="This applies to all the paid games shown in the current 'Pricing'.&#10;If it's set to 'All', changing this will leave the 'Free to Play' and 'Not Applicable' games untouched." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup>
+                    </div>
+                    <!--Individual filters-->
+                    <fieldset id="individualPriceField" style="display: flex;  flex-direction: column; flex-wrap: wrap; align-items: center; border: 1px dashed; justify-content: space-evenly; padding-top:0px;">
+                        <legend>Individual Values <sup title="These apply to all the paid games shown in the current 'Pricing'.&#10;If it's set to 'All', changing these will leave the 'Free to Play' and 'Not Applicable' games untouched." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup></legend>
+                        <div>
+                            <b>Base Price</b><br>
+                            <input autocomplete="off" type="number" id="basePriceLower" oninput="order('last')" style="width:50px; text-align: right;">
+                            ≤&nbsp;<b>x</b>&nbsp;≤ 
+                            <input autocomplete="off" type="number" id="basePriceHigher" oninput="order('last')" style="width:50px">
+                        </div>
+                        <hr style="opacity: 0.5; width:100%; margin: 0px; margin-top: 5px">
+                        <div>
+                            <b>Sale Percentage</b><br>
+                            <input autocomplete="off" type="number" id="salePercentageLower" oninput="order('last')" style="width:50px; text-align: right;">
+                            ≤&nbsp;<b>x%</b>&nbsp;≤ 
+                            <input autocomplete="off" type="number" id="salePercentageHigher" oninput="order('last')" style="width:50px">
+                        </div>
+                        <hr style="opacity: 0.5; width:100%; margin: 0px; margin-top: 5px">
+                        <div>
+                            <b>Final Price</b><br>
+                            <input autocomplete="off" type="number" id="finalPriceLower" oninput="order('last')" style="width:50px; text-align: right;">
+                            ≤&nbsp;<b>x</b>&nbsp;≤ 
+                            <input autocomplete="off" type="number" id="finalPriceHigher" oninput="order('last')" style="width:50px">
+                        </div>
+                    </fieldset>
+                </fieldset>
                 <!--Ownership Filters-->
-                <fieldset id="ownerField" style="display: flex;  flex-direction: row; flex-wrap: wrap; align-items: center; gap: 20px; justify-content: space-evenly;">
+                <fieldset id="ownerField" style="display: flex;  flex-direction: column; flex-wrap: wrap; align-items: center; justify-content: space-evenly;">
                     <legend>Owners & Completions</legend>
                     <div>
                         <b>Owners</b><br>
@@ -1204,6 +1219,7 @@
                         ≤&nbsp;<b>x</b>&nbsp;≤ 
                         <input autocomplete="off" type="number" id="ownersHigher" oninput="order('last')" style="width:50px">
                     </div>
+                    <hr style="opacity: 0.5; width:100%; margin: 0px; margin-top: 5px">
                     <div>
                         <b>Overcompletions</b><br>
                         <input autocomplete="off" type="radio" name="overcompletionsSelection" id="overcompletionsNumberSelection" value="number" onchange="changeCompletions('overcompletions')" checked><label for="overcompletionsNumberSelection">Number</label>
@@ -1213,6 +1229,7 @@
                         ≤&nbsp;<b id="overcompletionsFlavorText">x</b>&nbsp;≤ 
                         <input autocomplete="off" type="number" id="overcompletionsHigher" oninput="order('last')" style="width:50px">
                     </div>
+                    <hr style="opacity: 0.5; width:100%; margin: 0px; margin-top: 5px">
                     <div>
                         <b>Completions</b><br>
                         <input autocomplete="off" type="radio" name="completionsSelection" id="completionsNumberSelection" value="number" onchange="changeCompletions('completions')" checked><label for="completionsNumberSelection">Number</label>
@@ -1222,6 +1239,7 @@
                         ≤&nbsp;<b id="completionsFlavorText">x</b>&nbsp;≤ 
                         <input autocomplete="off" type="number" id="completionsHigher" oninput="order('last')" style="width:50px">
                     </div>
+                    <hr style="opacity: 0.5; width:100%; margin: 0px; margin-top: 5px">
                     <div>
                         <b>Started</b><br>
                         <input autocomplete="off" type="radio" name="startedSelection" id="startedNumberSelection" value="number" onchange="changeCompletions('started')" checked><label for="startedNumberSelection">Number</label>
@@ -1232,8 +1250,39 @@
                         <input autocomplete="off" type="number" id="startedHigher" oninput="order('last')" style="width:50px">
                     </div>
                 </fieldset>
+                <!--Milestone Count-->
+                <fieldset style="display:flex; flex-direction: column; flex-wrap: wrap; justify-content: space-evenly;" id="milestonesField">
+                    <legend>Milestone Count</legend>
+                    <div>
+                        <b>Primary Objectives</b><br>
+                        <input autocomplete="off" type="number" id="primaryCountLower" oninput="order('last')" style="width:50px; text-align: right;">
+                        ≤&nbsp;<b>x</b>&nbsp;≤ 
+                        <input autocomplete="off" type="number" id="primaryCountHigher" oninput="order('last')" style="width:50px">
+                    </div>
+                    <hr style="opacity: 0.5; width:100%; margin: 0px; margin-top: 5px">
+                    <div>
+                        <b>Secondary Objectives</b><br>
+                        <input autocomplete="off" type="number" id="secondaryCountLower" oninput="order('last')" style="width:50px; text-align: right;">
+                        ≤&nbsp;<b>x</b>&nbsp;≤ 
+                        <input autocomplete="off" type="number" id="secondaryCountHigher" oninput="order('last')" style="width:50px">
+                    </div>
+                    <hr style="opacity: 0.5; width:100%; margin: 0px; margin-top: 5px">
+                    <div>
+                        <b>Community Objectives</b><br>
+                        <input autocomplete="off" type="number" id="communityCountLower" oninput="order('last')" style="width:50px; text-align: right;">
+                        ≤&nbsp;<b>x</b>&nbsp;≤ 
+                        <input autocomplete="off" type="number" id="communityCountHigher" oninput="order('last')" style="width:50px">
+                    </div>
+                    <hr style="opacity: 0.5; width:100%; margin: 0px; margin-top: 5px">
+                    <div>
+                        <b>Achievements</b><br>
+                        <input autocomplete="off" type="number" id="achievementsLower" oninput="order('last')" style="width:50px; text-align: right;">
+                        ≤&nbsp;<b>x</b>&nbsp;≤ 
+                        <input autocomplete="off" type="number" id="achievementsHigher" oninput="order('last')" style="width:50px">
+                    </div>
+                </fieldset>
                 <!--Review Filters-->
-                <fieldset id="reviewField" style="display: flex;  flex-direction: row; flex-wrap: wrap; align-items: center; gap: 20px; justify-content: space-evenly;">
+                <fieldset id="reviewField" style="display: flex;  flex-direction: column; flex-wrap: wrap; align-items: center; justify-content: space-evenly;">
                     <legend>Reviews <sup title="These apply to all the Steam games shown in the current Platform Filter.&#10;If it's set to 'All', changing these will leave the RetroAchievements games untouched." style="text-decoration: underline dotted; cursor:help;" onclick="alert(this.title);">𝓲</sup></legend>
                     <div>
                         <b>Rating Percentage</b><br>
@@ -1241,18 +1290,21 @@
                         ≤&nbsp;<b>x%</b>&nbsp;≤ 
                         <input autocomplete="off" type="number" id="reviewPercentageHigher" oninput="order('last')" style="width:50px">
                     </div>
+                    <hr style="opacity: 0.5; width:100%; margin: 0px; margin-top: 5px">
                     <div>
                         <b>Total</b><br>
                         <input autocomplete="off" type="number" id="reviewTotalLower" oninput="order('last')" style="width:50px; text-align: right;">
                         ≤&nbsp;<b>x</b>&nbsp;≤ 
                         <input autocomplete="off" type="number" id="reviewTotalHigher" oninput="order('last')" style="width:50px">
                     </div>
+                    <hr style="opacity: 0.5; width:100%; margin: 0px; margin-top: 5px">
                     <div>
                         <b>Positive</b><br>
                         <input autocomplete="off" type="number" id="reviewPositiveLower" oninput="order('last')" style="width:50px; text-align: right;">
                         ≤&nbsp;<b>x</b>&nbsp;≤ 
                         <input autocomplete="off" type="number" id="reviewPositiveHigher" oninput="order('last')" style="width:50px">
                     </div>
+                    <hr style="opacity: 0.5; width:100%; margin: 0px; margin-top: 5px">
                     <div>
                         <b>Negative</b><br>
                         <input autocomplete="off" type="number" id="reviewNegativeLower" oninput="order('last')" style="width:50px; text-align: right;">
@@ -1732,26 +1784,31 @@
                     <option value="medianPlaytime">Median Completion Time</option>
                     <option value="pointsPerHour">Points Per Hour (PPH)</option>
                 </optgroup>
+                <hr>
                 <optgroup label="--Name--">
                     <option value="name">Alphabetical Order</option>
                     <option value="nameLength">Name Length</option>
                 </optgroup>
+                <hr>
                 <optgroup label="--Category--">
                     <option value="genre">Category Name</option>
                     <option value="genreCount">Category Count</option>
                 </optgroup>
+                <hr>
                 <optgroup label="--Points--">
                     <option id="userFilterOrder" style="display:none" value="userPoints">Earned Points (User Filter)</option>
                     <option selected value="totalPoints">Total Points</option>
-                    <option value="points">PO Points</option>
-                    <option value="secondaryPoints">SO Points</option>
+                    <option value="points">Primary Points</option>
+                    <option value="secondaryPoints">Secondary Points</option>
                 </optgroup>
+                <hr>
                 <optgroup label="--Milestone Count--">
                     <option value="primary">Primary Objectives</option>
                     <option value="secondary">Secondary Objectives</option>
                     <option value="community">Community Objectives</option>
                     <option value="achievements">Achievements</option>
                 </optgroup>
+                <hr>
                 <optgroup label="--Owners & Completions--">
                     <option value="playersTotal">Owners</option>
                     <option value="playersOvercompleted">Overcompletions</option>
@@ -1761,22 +1818,26 @@
                     <option value="playersStarted">Started</option>
                     <option value="startedPercentage">Started (%)</option>
                 </optgroup>
+                <hr>
                 <optgroup label="--Reviews (Steam)--">
                     <option value="reviewRating">Rating (%)</option>
                     <option value="reviewTotal">Total Reviews</option>
                     <option value="reviewPositive">Positive Reviews</option>
                     <option value="reviewNegative">Negative Reviews</option>
                 </optgroup>
+                <hr>
                 <optgroup label="--Price (Steam)--">
                     <option value="initial">Base Price</option>
                     <option value="discountPercent">Sale (%)</option>
                     <option value="final">Final Price</option>
                     <option value="totalPrice">Total Price (Final+DLCs)</option>
                 </optgroup>
+                <hr>
                 <optgroup label="--DLCs (Steam)--">
                     <option value="dlcCount">DLC Count</option>
                     <option value="dlcPrice">DLC Price</option>
                 </optgroup>
+                <hr>
                 <optgroup label="--Dates--">
                     <option value="createdAt">Added On</option>
                     <option value="updatedAt">Last Updated On</option>
@@ -1801,6 +1862,7 @@
                     <option>32</option>
                     <option selected>50</option>
                 </optgroup>
+                <hr>
                 <optgroup label="--Laggy!!! >:C--">
                     <option>100</option>
                     <option>200</option>
@@ -1833,6 +1895,7 @@
                     <option>32</option>
                     <option selected>50</option>
                 </optgroup>
+                <hr>
                 <optgroup label="--Laggy!!! >:C--">
                     <option>100</option>
                     <option>200</option>
@@ -3022,6 +3085,7 @@
             if(document.getElementById("tierSelection").checked)
             {
                 //Alter fieldset
+                document.getElementById("difficultyField").classList.remove("activeFilter");
                 document.getElementById("tierField").classList.remove("activeFilter");
                 document.getElementById("pointsField").classList.remove("activeFilter");
 
@@ -3055,6 +3119,7 @@
                     else
                     {
                         filterActive = true;
+                        document.getElementById("difficultyField").classList.add("activeFilter");
                         document.getElementById("tierField").classList.add("activeFilter");
                     }
                 }
@@ -3063,7 +3128,9 @@
             //Filter by points
             else if(document.getElementById("pointSelection").checked)
             {
+                //Total Points
                 //Alter fieldset
+                document.getElementById("difficultyField").classList.remove("activeFilter");
                 document.getElementById("tierField").classList.remove("activeFilter");
                 document.getElementById("pointsField").classList.remove("activeFilter");
                 
@@ -3079,6 +3146,7 @@
                     {
                         //Alter fieldset
                         filterActive = true;
+                        document.getElementById("difficultyField").classList.add("activeFilter");
                         document.getElementById("pointsField").classList.add("activeFilter");
 
                         lowBound = min;
@@ -3093,6 +3161,7 @@
                     {
                         //Alter fieldset
                         filterActive = true;
+                        document.getElementById("difficultyField").classList.add("activeFilter");
                         document.getElementById("pointsField").classList.add("activeFilter");
 
                         highBound = max;
@@ -3109,6 +3178,98 @@
                     filteredData = filteredData.filter(obj => {return obj.points + obj.secondaryPoints <= highBound})
                 }
                 else {document.getElementById("pointsHigher").style.textDecoration = "line-through";}
+                
+                //Primary Points
+                lowBound = 0;
+                highBound = 10000;
+                
+                min = document.getElementById("pointsPrimaryLower").valueAsNumber;
+                max = document.getElementById("pointsPrimaryHigher").valueAsNumber;
+
+                if(document.getElementById("pointsPrimaryLower").value != "")
+                {
+                    if(min >= 0)
+                    {
+                        //Alter fieldset
+                        filterActive = true;
+                        document.getElementById("difficultyField").classList.add("activeFilter");
+                        document.getElementById("pointsField").classList.add("activeFilter");
+
+                        lowBound = min;
+                        if(lowBound > 10000) {min == 9999}
+                    }
+                    else {document.getElementById("pointsPrimaryLower").value = lowBound.toString();}
+                }
+
+                if(document.getElementById("pointsPrimaryHigher").value != "")
+                {
+                    if(max <= 10000)
+                    {
+                        //Alter fieldset
+                        filterActive = true;
+                        document.getElementById("difficultyField").classList.add("activeFilter");
+                        document.getElementById("pointsField").classList.add("activeFilter");
+
+                        highBound = max;
+                        if(highBound < 0) {max == 1}
+                    }
+                    else {document.getElementById("pointsPrimaryHigher").value = highBound.toString();}
+                }
+
+                filteredData = filteredData.filter(obj => {return obj.points >= lowBound})
+
+                if(lowBound <= highBound)
+                {
+                    document.getElementById("pointsPrimaryHigher").style.textDecoration = "none";
+                    filteredData = filteredData.filter(obj => {return obj.points <= highBound})
+                }
+                else {document.getElementById("pointsPrimaryHigher").style.textDecoration = "line-through";}
+
+                //Secondary Points
+                lowBound = 0;
+                highBound = 10000;
+                
+                min = document.getElementById("pointsSecondaryLower").valueAsNumber;
+                max = document.getElementById("pointsSecondaryHigher").valueAsNumber;
+
+                if(document.getElementById("pointsSecondaryLower").value != "")
+                {
+                    if(min >= 0)
+                    {
+                        //Alter fieldset
+                        filterActive = true;
+                        document.getElementById("difficultyField").classList.add("activeFilter");
+                        document.getElementById("pointsField").classList.add("activeFilter");
+
+                        lowBound = min;
+                        if(lowBound > 10000) {min == 9999}
+                    }
+                    else {document.getElementById("pointsSecondaryLower").value = lowBound.toString();}
+                }
+
+                if(document.getElementById("pointsSecondaryHigher").value != "")
+                {
+                    if(max <= 10000)
+                    {
+                        //Alter fieldset
+                        filterActive = true;
+                        document.getElementById("difficultyField").classList.add("activeFilter");
+                        document.getElementById("pointsField").classList.add("activeFilter");
+
+                        highBound = max;
+                        if(highBound < 0) {max == 1}
+                    }
+                    else {document.getElementById("pointsSecondaryHigher").value = highBound.toString();}
+                }
+
+                filteredData = filteredData.filter(obj => {return obj.secondaryPoints >= lowBound})
+
+                if(lowBound <= highBound)
+                {
+                    document.getElementById("pointsSecondaryHigher").style.textDecoration = "none";
+                    filteredData = filteredData.filter(obj => {return obj.secondaryPoints <= highBound})
+                }
+                else {document.getElementById("pointsSecondaryHigher").style.textDecoration = "line-through";}
             }
 
             //Price Filter
@@ -3352,15 +3513,148 @@
                 }
             }
             
-            //Filter by Achievements
+            //Filter by Milestone Count
+            //Alter fieldset
+            document.getElementById("milestonesField").classList.remove("activeFilter");
+
+            //Filter by Primary Objectives
             let lowBound = 0;
             let highBound = 10000;
             
-            let min = document.getElementById("achievementsLower").valueAsNumber;
-            let max = document.getElementById("achievementsHigher").valueAsNumber;
+            let min = document.getElementById("primaryCountLower").valueAsNumber;
+            let max = document.getElementById("primaryCountHigher").valueAsNumber;
 
-            //Alter fieldset
-            document.getElementById("achievementsField").classList.remove("activeFilter");
+            if(document.getElementById("primaryCountLower").value != "")
+            {
+                if(min >= 0)
+                {
+                    //Alter fieldset
+                    filterActive = true;
+                    document.getElementById("milestonesField").classList.add("activeFilter");
+
+                    lowBound = min;
+                    if(lowBound > 10000) {min == 9999}
+                }
+                else {document.getElementById("primaryCountLower").value = lowBound.toString();}
+            }
+
+            if(document.getElementById("primaryCountHigher").value != "")
+            {
+                if(max <= 10000)
+                {
+                    //Alter fieldset
+                    filterActive = true;
+                    document.getElementById("milestonesField").classList.add("activeFilter");
+
+                    highBound = max;
+                    if(highBound < 0) {max == 1}
+                }
+                else {document.getElementById("primaryCountHigher").value = highBound.toString();}
+            }
+
+            filteredData = filteredData.filter(obj => {return obj["milestones"]["primary"] >= lowBound})
+
+            if(lowBound <= highBound)
+            {
+                document.getElementById("primaryCountHigher").style.textDecoration = "none";
+                filteredData = filteredData.filter(obj => {return obj["milestones"]["primary"] <= highBound})
+            }
+            else {document.getElementById("primaryCountHigher").style.textDecoration = "line-through";}
+
+            //Filter by Secondary Objectives
+            lowBound = 0;
+            highBound = 10000;
+            
+            min = document.getElementById("secondaryCountLower").valueAsNumber;
+            max = document.getElementById("secondaryCountHigher").valueAsNumber;
+
+            if(document.getElementById("secondaryCountLower").value != "")
+            {
+                if(min >= 0)
+                {
+                    //Alter fieldset
+                    filterActive = true;
+                    document.getElementById("milestonesField").classList.add("activeFilter");
+
+                    lowBound = min;
+                    if(lowBound > 10000) {min == 9999}
+                }
+                else {document.getElementById("secondaryCountLower").value = lowBound.toString();}
+            }
+
+            if(document.getElementById("secondaryCountHigher").value != "")
+            {
+                if(max <= 10000)
+                {
+                    //Alter fieldset
+                    filterActive = true;
+                    document.getElementById("milestonesField").classList.add("activeFilter");
+
+                    highBound = max;
+                    if(highBound < 0) {max == 1}
+                }
+                else {document.getElementById("secondaryCountHigher").value = highBound.toString();}
+            }
+
+            filteredData = filteredData.filter(obj => {return obj["milestones"]["secondary"] >= lowBound})
+
+            if(lowBound <= highBound)
+            {
+                document.getElementById("secondaryCountHigher").style.textDecoration = "none";
+                filteredData = filteredData.filter(obj => {return obj["milestones"]["secondary"] <= highBound})
+            }
+            else {document.getElementById("secondaryCountHigher").style.textDecoration = "line-through";}
+
+            //Filter by Secondary Objectives
+            lowBound = 0;
+            highBound = 10000;
+            
+            min = document.getElementById("communityCountLower").valueAsNumber;
+            max = document.getElementById("communityCountHigher").valueAsNumber;
+
+            if(document.getElementById("communityCountLower").value != "")
+            {
+                if(min >= 0)
+                {
+                    //Alter fieldset
+                    filterActive = true;
+                    document.getElementById("milestonesField").classList.add("activeFilter");
+
+                    lowBound = min;
+                    if(lowBound > 10000) {min == 9999}
+                }
+                else {document.getElementById("communityCountLower").value = lowBound.toString();}
+            }
+
+            if(document.getElementById("communityCountHigher").value != "")
+            {
+                if(max <= 10000)
+                {
+                    //Alter fieldset
+                    filterActive = true;
+                    document.getElementById("milestonesField").classList.add("activeFilter");
+
+                    highBound = max;
+                    if(highBound < 0) {max == 1}
+                }
+                else {document.getElementById("communityCountHigher").value = highBound.toString();}
+            }
+
+            filteredData = filteredData.filter(obj => {return obj["milestones"]["community"] >= lowBound})
+
+            if(lowBound <= highBound)
+            {
+                document.getElementById("communityCountHigher").style.textDecoration = "none";
+                filteredData = filteredData.filter(obj => {return obj["milestones"]["community"] <= highBound})
+            }
+            else {document.getElementById("communityCountHigher").style.textDecoration = "line-through";}
+
+            //Filter by Achievements
+            lowBound = 0;
+            highBound = 10000;
+            
+            min = document.getElementById("achievementsLower").valueAsNumber;
+            max = document.getElementById("achievementsHigher").valueAsNumber;
 
             if(document.getElementById("achievementsLower").value != "")
             {
@@ -3368,7 +3662,7 @@
                 {
                     //Alter fieldset
                     filterActive = true;
-                    document.getElementById("achievementsField").classList.add("activeFilter");
+                    document.getElementById("milestonesField").classList.add("activeFilter");
 
                     lowBound = min;
                     if(lowBound > 10000) {min == 9999}
@@ -3382,7 +3676,7 @@
                 {
                     //Alter fieldset
                     filterActive = true;
-                    document.getElementById("achievementsField").classList.add("activeFilter");
+                    document.getElementById("milestonesField").classList.add("activeFilter");
 
                     highBound = max;
                     if(highBound < 0) {max == 1}
