@@ -2,91 +2,93 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1135230,
-        "CEId": "bdd1b48b-2199-4d23-aaa7-fea72ec00c6f",
-        "name": "Ember Knights",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1135230/header_alt_assets_6.jpg?t=1689683633",
+        "platformId": 1701520,
+        "CEId": "a8783c0a-ac89-4d33-ae1d-1b387c10bd42",
+        "name": "Afterimage",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1701520/header.jpg?t=1669795839",
         "genre": [
             "Action"
         ],
-        "tier": 1,
-        "points": 15,
+        "tier": 3,
+        "points": 55,
         "secondaryPoints": 0,
-        "medianPlaytime": 1722,
-        "createdAt": "2023-07-25T22:21:02.000Z",
+        "medianPlaytime": 3550,
+        "createdAt": "2023-07-26T23:57:01.000Z",
         "updatedAt": "2026-07-19T14:09:49.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 16,
-        "playersStarted": 0,
-        "playersTotal": 55,
+        "playersCompleted": 3,
+        "playersStarted": 1,
+        "playersTotal": 299,
         "priceData": {
             "USD": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 2499,
+                "final": 2499,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1999,
-                "final": 1999,
+                "initial": 2499,
+                "final": 2499,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1675,
-                "final": 1675,
+                "initial": 2099,
+                "final": 2099,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 230000,
-                "final": 230000,
+                "initial": 280000,
+                "final": 280000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2950,
-                "final": 2950,
+                "initial": 3595,
+                "final": 3595,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 2599,
-                "final": 2599,
+                "initial": 2999,
+                "final": 2999,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Blazing Cinders [15\u2605]\nDefeat Praxis in the Architect's Realm.",
+            "primary": 3,
+            "primaryText": "Pantheon of Engardin [30\u2605]\nDefeat the All Bosses Tag Match in Trial of Soul with a \"Perfect\" hit score.\n\nTitan Vanquisher [15\u2605]\nDefeat all bosses individually in Trial of Soul with \"Perfect\" hit scores.\n\nTrials of the Ancient [10\u2605]\nDefeat all boss Combinations in Trial of Soul with \"Perfect\" hit scores.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 44
+            "achievements": 46
         },
         "CETags": {
             "genre": [
-                "Rogue-like",
-                "Hack & Slash"
+                "Metroidvania",
+                "Boss Rush"
             ],
-            "info": []
+            "info": [
+                "Female Protagonist"
+            ]
         },
         "gameTags": [
-            "Action Roguelike",
-            "Roguelite",
-            "Co-op",
-            "Pixel Graphics",
-            "Multiplayer",
-            "Online Co-Op",
-            "Dungeon Crawler",
+            "Metroidvania",
+            "Female Protagonist",
+            "2D Platformer",
+            "Side Scroller",
+            "Anime",
+            "Exploration",
+            "Souls-like",
             "Hack and Slash",
-            "Local Co-Op",
+            "Action RPG",
+            "Difficult",
+            "Platformer",
+            "Action-Adventure",
             "RPG",
-            "Procedural Generation",
-            "Adventure",
-            "Action",
-            "Roguelike",
-            "Singleplayer",
             "2D",
-            "Local Multiplayer",
-            "Top-Down",
-            "Combat",
+            "Cute",
+            "Open World",
+            "Lore-Rich",
+            "Story Rich",
+            "Multiple Endings",
             "Choices Matter"
         ],
         "languages": {
@@ -94,15 +96,14 @@ var gameOfDay =
             "french": "IS",
             "german": "IS",
             "italian": "IS",
-            "japanese": "IS",
+            "japanese": "IAS",
             "spanish": "IS",
             "brazilian": "IS",
             "koreana": "IS",
-            "polish": "IS",
             "russian": "IS",
-            "schinese": "IS",
-            "tchinese": "IS"
+            "schinese": "IAS",
+            "tchinese": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-07-25'
+var gameOfDayDate = '2026-07-26'
