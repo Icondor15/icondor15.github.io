@@ -471,7 +471,7 @@ var masoData =
     "588540": {
         "description": "\u2733 3D Precision Platforming",
         "tier": "2",
-        "owners": 46,
+        "owners": 47,
         "completions": 25,
         "playtime": 10.018666666666665,
         "newestCompletion": "2024-06-18T17:46:26.000Z"
@@ -1179,7 +1179,7 @@ var masoData =
     "285820": {
         "description": "\u2606 Taste the rainbow :beatmeat:",
         "tier": "3",
-        "owners": 59,
+        "owners": 60,
         "completions": 19,
         "playtime": 41.020175438596496,
         "newestCompletion": "2025-06-30T13:53:20.000Z"
@@ -1335,7 +1335,7 @@ var masoData =
     "200900": {
         "description": "\u272a A hardcore classic.",
         "tier": "4",
-        "owners": 126,
+        "owners": 127,
         "completions": 23,
         "playtime": 68.036231884058,
         "newestCompletion": "2025-04-28T15:10:06.000Z"
@@ -1365,7 +1365,7 @@ var masoData =
         "tier": "2",
         "owners": 215,
         "completions": 154,
-        "playtime": 20.83311688311687,
+        "playtime": 20.834523809523795,
         "newestCompletion": "2026-07-13T00:08:54.000Z"
     },
     "211260": {
@@ -2131,7 +2131,7 @@ var masoData =
     "404540": {
         "description": "\u2733 Next Machine Please",
         "tier": "2",
-        "owners": 63,
+        "owners": 64,
         "completions": 11,
         "playtime": 20.974242424242426,
         "newestCompletion": "2024-04-06T20:02:12.000Z"
@@ -2203,7 +2203,7 @@ var masoData =
     "382560": {
         "description": "The floor is actually lava",
         "tier": "1",
-        "owners": 55,
+        "owners": 56,
         "completions": 29,
         "playtime": 12.194252873563219,
         "newestCompletion": "2025-07-01T20:08:32.000Z"
@@ -2817,7 +2817,7 @@ var masoData =
         "tier": "3",
         "owners": 60,
         "completions": 22,
-        "playtime": 26.106060606060602,
+        "playtime": 26.16515151515151,
         "newestCompletion": "2026-01-21T21:39:10.000Z"
     },
     "1663410": {
@@ -3059,7 +3059,7 @@ var masoData =
     "1245620": {
         "description": "\u2733 why is it always fort, night",
         "tier": "2",
-        "owners": 119,
+        "owners": 120,
         "completions": 70,
         "playtime": 197.78714285714284,
         "newestCompletion": "2025-10-16T00:57:36.000Z"
@@ -3175,7 +3175,7 @@ var masoData =
     "1142080": {
         "description": "\u272a Chess 2",
         "tier": "4",
-        "owners": 65,
+        "owners": 66,
         "completions": 17,
         "playtime": 44.11764705882352,
         "newestCompletion": "2025-04-06T02:49:33.000Z"
@@ -4427,7 +4427,7 @@ var masoData =
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
-        "owners": 82,
+        "owners": 83,
         "completions": 24,
         "playtime": 48.97638888888889,
         "newestCompletion": "2026-07-21T04:31:50.000Z"
@@ -4583,7 +4583,7 @@ var masoData =
     "1365750": {
         "description": "\ud83c\udf1f  It's Touhou",
         "tier": "5",
-        "owners": 8,
+        "owners": 9,
         "completions": 1,
         "playtime": 38.35,
         "newestCompletion": "2026-02-06T23:59:59.000Z"
@@ -4601,7 +4601,7 @@ var masoData =
         "tier": "5",
         "owners": 25,
         "completions": 3,
-        "playtime": 449.18888888888887,
+        "playtime": 459.6944444444445,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
     },
     "238460": {
@@ -4711,7 +4711,7 @@ var masoData =
     "2105620": {
         "description": "\ud83c\udf1f Rektori",
         "tier": "5",
-        "owners": 2,
+        "owners": 3,
         "completions": 1,
         "playtime": 508.25,
         "newestCompletion": "2026-05-10T05:10:36.000Z"
