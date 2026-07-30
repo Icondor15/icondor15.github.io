@@ -185,7 +185,7 @@ var masoData =
         "tier": "1",
         "owners": 199,
         "completions": 100,
-        "playtime": 44.147666666666694,
+        "playtime": 44.25816666666668,
         "newestCompletion": "2026-07-06T20:21:54.000Z",
         "badges": {
             "count": 1,
@@ -803,10 +803,10 @@ var masoData =
     "244870": {
         "description": "\u2733 You probably heard these songs somewhere",
         "tier": "2",
-        "owners": 93,
-        "completions": 30,
-        "playtime": 26.388888888888882,
-        "newestCompletion": "2024-08-02T12:34:38.000Z"
+        "owners": 94,
+        "completions": 31,
+        "playtime": 26.37096774193548,
+        "newestCompletion": "2026-07-12T05:37:28.000Z"
     },
     "235460": {
         "description": "\u272a How did a AAA make it here???",
@@ -991,7 +991,7 @@ var masoData =
     "583470": {
         "description": "\ud83c\udf1f Your End Is Nigh",
         "tier": "5",
-        "owners": 220,
+        "owners": 221,
         "completions": 22,
         "playtime": 247.24393939393943,
         "newestCompletion": "2026-05-07T11:49:03.000Z",
@@ -1743,7 +1743,7 @@ var masoData =
     "1012970": {
         "description": "\ud83c\udf1f 101 ways to get Chewwed out",
         "tier": "5",
-        "owners": 94,
+        "owners": 95,
         "completions": 34,
         "playtime": 50.7142156862745,
         "newestCompletion": "2026-07-20T23:36:24.000Z"
@@ -1988,9 +1988,9 @@ var masoData =
         "description": "\u2606 Visually challenging rhythm gameplay",
         "tier": "3",
         "owners": 114,
-        "completions": 35,
-        "playtime": 87.56761904761905,
-        "newestCompletion": "2025-12-29T07:01:08.000Z",
+        "completions": 36,
+        "playtime": 87.34907407407407,
+        "newestCompletion": "2026-07-26T06:26:05.000Z",
         "badges": {
             "count": 2,
             "points": 12
@@ -2315,9 +2315,9 @@ var masoData =
     "1285670": {
         "description": "PTSV",
         "tier": "1",
-        "owners": 100,
-        "completions": 67,
-        "playtime": 2.05547263681592,
+        "owners": 101,
+        "completions": 68,
+        "playtime": 2.041911764705882,
         "newestCompletion": "2026-07-14T01:15:31.000Z"
     },
     "384690": {
@@ -2691,10 +2691,10 @@ var masoData =
     "1486630": {
         "description": "\u2733 Splinter Cell Miami",
         "tier": "2",
-        "owners": 123,
-        "completions": 9,
-        "playtime": 20.196296296296296,
-        "newestCompletion": "2025-12-19T20:32:40.000Z"
+        "owners": 124,
+        "completions": 10,
+        "playtime": 18.73333333333333,
+        "newestCompletion": "2026-06-27T06:56:19.000Z"
     },
     "598550": {
         "description": "\u272a Before &amp; After Plastic Surgeries",
@@ -3051,7 +3051,7 @@ var masoData =
     "390520": {
         "description": "\u2733 Bruh",
         "tier": "2",
-        "owners": 30,
+        "owners": 31,
         "completions": 5,
         "playtime": 23.023333333333333,
         "newestCompletion": "2026-01-13T12:12:28.000Z"
@@ -3227,7 +3227,7 @@ var masoData =
     "1533420": {
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
-        "owners": 132,
+        "owners": 133,
         "completions": 69,
         "playtime": 74.64565217391306,
         "newestCompletion": "2026-07-21T22:06:31.000Z",
@@ -3291,7 +3291,7 @@ var masoData =
     "1424630": {
         "description": "\ud83c\udf1f Your best nightmare",
         "tier": "5",
-        "owners": 24,
+        "owners": 25,
         "completions": 4,
         "playtime": 25.808333333333334,
         "newestCompletion": "2024-11-29T21:17:50.000Z"
@@ -3420,9 +3420,9 @@ var masoData =
         "description": "\u2606 It's about time we curated this",
         "tier": "3",
         "owners": 43,
-        "completions": 12,
-        "playtime": 83.29305555555557,
-        "newestCompletion": "2026-05-29T16:58:59.000Z",
+        "completions": 13,
+        "playtime": 82.2948717948718,
+        "newestCompletion": "2026-07-29T16:14:40.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -3625,7 +3625,7 @@ var masoData =
         "tier": "4",
         "owners": 48,
         "completions": 9,
-        "playtime": 49.22222222222222,
+        "playtime": 49.26111111111111,
         "newestCompletion": "2026-03-14T01:37:44.000Z"
     },
     "1621320": {
@@ -4663,7 +4663,7 @@ var masoData =
     "2178380": {
         "description": "\ud83c\udf96\ufe0f \u272a Don't blink",
         "tier": "0",
-        "owners": 3,
+        "owners": 4,
         "completions": 1,
         "playtime": 11.616666666666667,
         "newestCompletion": "2026-03-23T21:30:31.000Z",
