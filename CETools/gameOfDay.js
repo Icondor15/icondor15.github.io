@@ -2,102 +2,85 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 1731120,
-        "CEId": "b17bd0ef-95cd-4b17-a868-29eb4bdf7922",
-        "name": "Cloud Escape",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1731120/header_alt_assets_0.jpg?t=1662321295",
+        "platformId": 1100170,
+        "CEId": "c22b0045-6a26-4e0c-9937-e5f5a3aee0d9",
+        "name": "Touhou Bunkachou \uff5e Double Spoiler",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1100170/header.jpg?t=1597739913",
         "genre": [
-            "Platformer"
+            "Bullet Hell"
         ],
-        "tier": 1,
-        "points": 15,
+        "tier": 2,
+        "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 568,
-        "createdAt": "2022-07-29T19:06:18.000Z",
+        "medianPlaytime": 2579,
+        "createdAt": "2022-07-30T00:56:02.000Z",
         "updatedAt": "2026-07-27T15:20:57.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 2,
-        "playersStarted": 2,
-        "playersTotal": 11,
+        "playersCompleted": 23,
+        "playersStarted": 0,
+        "playersTotal": 76,
         "priceData": {
             "USD": {
-                "initial": 499,
-                "final": 374,
-                "discountPercent": 25
+                "initial": 1099,
+                "final": 1099,
+                "discountPercent": 0
             },
             "EUR": {
-                "initial": 399,
-                "final": 299,
-                "discountPercent": 25
+                "initial": 899,
+                "final": 899,
+                "discountPercent": 0
             },
             "GBP": {
-                "initial": 399,
-                "final": 299,
-                "discountPercent": 25
+                "initial": 829,
+                "final": 829,
+                "discountPercent": 0
             },
             "JPY": {
-                "initial": 52000,
-                "final": 39000,
-                "discountPercent": 25
+                "initial": 110000,
+                "final": 110000,
+                "discountPercent": 0
             },
             "AUD": {
-                "initial": 750,
-                "final": 562,
-                "discountPercent": 25
+                "initial": 1550,
+                "final": 1550,
+                "discountPercent": 0
             },
             "CAD": {
-                "initial": 569,
-                "final": 426,
-                "discountPercent": 25
+                "initial": 1249,
+                "final": 1249,
+                "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Cloud Nine [10\u2605]\nReach the goal within 6 minutes on Hard Mode without dying.\n\nTower Escape [5\u2605]\nSeparately; Reach the top of the tower within 6 minutes, and without accumulating more than 850 meters of altitude.",
+            "primary": 1,
+            "primaryText": "Mysterious Journalist [20\u2605]\nClear all scenes. (Both characters allowed)",
             "secondary": 0,
             "secondaryText": "",
-            "community": 0,
-            "communityText": "",
-            "achievements": 28
+            "community": 1,
+            "communityText": "Double Enthusiast\nClear all scenes with Hatate.",
+            "achievements": 0
         },
         "CETags": {
             "genre": [
-                "3D Platformer"
+                "Vertical Shoot'em'Up"
             ],
-            "info": []
+            "info": [
+                "Has Community Objectives",
+                "Female Protagonist"
+            ]
         },
         "gameTags": [
-            "Precision Platformer",
-            "3D Platformer",
-            "Runner",
-            "Parkour",
-            "Platformer",
-            "Female Protagonist",
-            "3D",
-            "Third Person",
-            "Physics",
-            "Funny",
+            "Indie",
             "Action",
-            "Controller",
-            "Casual",
-            "Linear",
-            "Stylized",
-            "Pirates",
-            "Comedy",
-            "Cartoon",
-            "Memes",
-            "Singleplayer"
+            "Bullet Hell",
+            "Shoot 'Em Up",
+            "Faith",
+            "Great Soundtrack",
+            "Female Protagonist"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "spanish": "I",
-            "brazilian": "I",
-            "dutch": "I",
-            "russian": "I"
+            "japanese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-07-29'
+var gameOfDayDate = '2026-07-30'
