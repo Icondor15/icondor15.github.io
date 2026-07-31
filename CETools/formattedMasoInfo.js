@@ -211,7 +211,7 @@ var masoData =
     "524050": {
         "description": "Ziplining platforming about A. fish",
         "tier": "1",
-        "owners": 29,
+        "owners": 30,
         "completions": 14,
         "playtime": 5.936904761904761,
         "newestCompletion": "2024-12-15T01:26:49.000Z"
@@ -219,7 +219,7 @@ var masoData =
     "811870": {
         "description": "\ud83c\udf1f Flying pizzas and a goat anus",
         "tier": "5",
-        "owners": 136,
+        "owners": 137,
         "completions": 35,
         "playtime": 61.85619047619049,
         "newestCompletion": "2026-02-25T15:40:34.000Z"
@@ -479,7 +479,7 @@ var masoData =
     "239350": {
         "description": "\u2606  Dawn of the Tumblr noses",
         "tier": "3",
-        "owners": 174,
+        "owners": 175,
         "completions": 57,
         "playtime": 99.2,
         "newestCompletion": "2026-03-28T00:55:39.000Z"
@@ -821,7 +821,7 @@ var masoData =
         "tier": "5",
         "owners": 158,
         "completions": 43,
-        "playtime": 42.150775193798445,
+        "playtime": 42.15620155038759,
         "newestCompletion": "2026-07-18T16:27:23.000Z"
     },
     "489140": {
@@ -1247,7 +1247,7 @@ var masoData =
     "247080": {
         "description": "\ud83c\udf1f You better make this game your second life and consume your soul; otherwise forget completing it.",
         "tier": "5",
-        "owners": 226,
+        "owners": 227,
         "completions": 11,
         "playtime": 633.0136363636365,
         "newestCompletion": "2026-05-28T13:04:36.000Z",
@@ -1736,9 +1736,9 @@ var masoData =
         "description": "God will punish you if you don\"t play it",
         "tier": "1",
         "owners": 165,
-        "completions": 53,
-        "playtime": 38.96572327044024,
-        "newestCompletion": "2026-06-21T23:52:28.000Z"
+        "completions": 54,
+        "playtime": 38.566666666666656,
+        "newestCompletion": "2026-07-31T05:21:33.000Z"
     },
     "1012970": {
         "description": "\ud83c\udf1f 101 ways to get Chewwed out",
@@ -1764,9 +1764,9 @@ var masoData =
         "description": "\u2733 Tes-- Test your mu-- Test your multitasking skil--",
         "tier": "2",
         "owners": 122,
-        "completions": 34,
-        "playtime": 17.998529411764704,
-        "newestCompletion": "2026-05-03T17:13:44.000Z"
+        "completions": 35,
+        "playtime": 19.129523809523807,
+        "newestCompletion": "2026-07-30T15:43:06.000Z"
     },
     "460810": {
         "description": "\u2733 PlatinumGames",
@@ -2235,7 +2235,7 @@ var masoData =
     "418530": {
         "description": "\u272a 2 Stands for twice the \u2665\u2665\u2665\u2665\u2665\u2665\u2665\u2665",
         "tier": "4",
-        "owners": 123,
+        "owners": 124,
         "completions": 50,
         "playtime": 246.51600000000002,
         "newestCompletion": "2026-07-20T07:27:16.000Z",
@@ -2247,7 +2247,7 @@ var masoData =
     "1154810": {
         "description": "\u2733 F",
         "tier": "2",
-        "owners": 113,
+        "owners": 114,
         "completions": 28,
         "playtime": 34.03630952380953,
         "newestCompletion": "2026-01-20T07:15:15.000Z"
@@ -2655,7 +2655,7 @@ var masoData =
     "1333890": {
         "description": "\u2733 Brings a new meaning to \"kusoge\"",
         "tier": "2",
-        "owners": 17,
+        "owners": 18,
         "completions": 9,
         "playtime": 12.970370370370368,
         "newestCompletion": "2023-06-05T04:34:11.000Z"
@@ -3541,7 +3541,7 @@ var masoData =
         "tier": "2",
         "owners": 105,
         "completions": 39,
-        "playtime": 57.52051282051283,
+        "playtime": 57.65854700854701,
         "newestCompletion": "2025-11-08T05:03:32.000Z"
     },
     "1442170": {
@@ -3767,7 +3767,7 @@ var masoData =
     "2211730": {
         "description": "Australia",
         "tier": "1",
-        "owners": 40,
+        "owners": 41,
         "completions": 21,
         "playtime": 3.2484126984126984,
         "newestCompletion": "2026-05-17T16:13:53.000Z"
@@ -3831,7 +3831,7 @@ var masoData =
     "212680": {
         "description": "\u2733 Noone can hear you raging in space",
         "tier": "2",
-        "owners": 125,
+        "owners": 126,
         "completions": 16,
         "playtime": 241.36458333333334,
         "newestCompletion": "2026-04-06T19:16:36.000Z",
@@ -4599,7 +4599,7 @@ var masoData =
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together (Co-op)",
         "tier": "5",
-        "owners": 25,
+        "owners": 26,
         "completions": 3,
         "playtime": 459.6944444444445,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
