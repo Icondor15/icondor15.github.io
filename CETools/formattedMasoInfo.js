@@ -343,7 +343,7 @@ var masoData =
     "884260": {
         "description": "\u2733 Best $4 you spent today",
         "tier": "2",
-        "owners": 66,
+        "owners": 67,
         "completions": 39,
         "playtime": 8.284188034188034,
         "newestCompletion": "2026-03-21T17:24:49.000Z"
@@ -527,7 +527,7 @@ var masoData =
     "527150": {
         "description": "\ud83c\udf1f Rekt",
         "tier": "5",
-        "owners": 115,
+        "owners": 116,
         "completions": 21,
         "playtime": 36.99126984126984,
         "newestCompletion": "2026-06-27T07:00:59.000Z"
@@ -691,7 +691,7 @@ var masoData =
     "360740": {
         "description": "\u2733 Well diving simulator",
         "tier": "2",
-        "owners": 194,
+        "owners": 195,
         "completions": 100,
         "playtime": 12.782166666666669,
         "newestCompletion": "2026-04-23T09:22:46.000Z"
@@ -852,9 +852,9 @@ var masoData =
         "description": "Literally",
         "tier": "1",
         "owners": 141,
-        "completions": 105,
-        "playtime": 7.197777777777778,
-        "newestCompletion": "2026-03-29T22:07:58.000Z"
+        "completions": 106,
+        "playtime": 7.158962264150944,
+        "newestCompletion": "2026-07-20T03:46:04.000Z"
     },
     "607400": {
         "description": "\ud83c\udf1f 2 Buttons 1 Yolo",
@@ -975,7 +975,7 @@ var masoData =
     "207350": {
         "description": "\u272a They told me RPG\"s are for casuls",
         "tier": "4",
-        "owners": 48,
+        "owners": 49,
         "completions": 10,
         "playtime": 180.36333333333332,
         "newestCompletion": "2025-12-17T14:24:06.000Z"
@@ -1075,10 +1075,10 @@ var masoData =
     "394970": {
         "description": "\u272a Gunpoint meets hotline miami",
         "tier": "4",
-        "owners": 110,
-        "completions": 31,
-        "playtime": 38.483870967741936,
-        "newestCompletion": "2026-04-30T03:21:12.000Z"
+        "owners": 111,
+        "completions": 32,
+        "playtime": 39.09322916666667,
+        "newestCompletion": "2026-07-31T23:59:19.000Z"
     },
     "616000": {
         "description": "\u272a The name of your experience in a nutshell",
@@ -1259,7 +1259,7 @@ var masoData =
     "297130": {
         "description": "\u2606 Boss rush extravaganza",
         "tier": "3",
-        "owners": 200,
+        "owners": 201,
         "completions": 40,
         "playtime": 25.665,
         "newestCompletion": "2025-08-26T22:13:29.000Z"
@@ -1335,7 +1335,7 @@ var masoData =
     "200900": {
         "description": "\u272a A hardcore classic.",
         "tier": "4",
-        "owners": 127,
+        "owners": 128,
         "completions": 23,
         "playtime": 68.036231884058,
         "newestCompletion": "2025-04-28T15:10:06.000Z"
@@ -1537,7 +1537,7 @@ var masoData =
         "tier": "4",
         "owners": 103,
         "completions": 25,
-        "playtime": 64.86533333333333,
+        "playtime": 64.94533333333332,
         "newestCompletion": "2026-04-15T22:39:05.000Z",
         "badges": {
             "count": 1,
@@ -2249,7 +2249,7 @@ var masoData =
         "tier": "2",
         "owners": 114,
         "completions": 28,
-        "playtime": 34.03630952380953,
+        "playtime": 34.43988095238095,
         "newestCompletion": "2026-01-20T07:15:15.000Z"
     },
     "1378330": {
@@ -2293,7 +2293,7 @@ var masoData =
         "tier": "3",
         "owners": 113,
         "completions": 17,
-        "playtime": 25.96764705882353,
+        "playtime": 26.41176470588235,
         "newestCompletion": "2026-07-15T04:33:27.000Z"
     },
     "457890": {
@@ -2744,9 +2744,9 @@ var masoData =
         "description": "\u2733 that's not how physics works",
         "tier": "2",
         "owners": 65,
-        "completions": 24,
-        "playtime": 31.022222222222222,
-        "newestCompletion": "2024-11-05T00:03:31.000Z"
+        "completions": 25,
+        "playtime": 31.144000000000002,
+        "newestCompletion": "2026-07-31T22:48:09.000Z"
     },
     "1003590": {
         "description": "\u2606 aaaaaaaaaa i'm trippin balls",
@@ -2805,7 +2805,7 @@ var masoData =
         "tier": "4",
         "owners": 42,
         "completions": 9,
-        "playtime": 81.37222222222222,
+        "playtime": 83.3425925925926,
         "newestCompletion": "2023-08-07T12:53:15.000Z",
         "badges": {
             "count": 1,
@@ -2859,7 +2859,7 @@ var masoData =
     "1123770": {
         "description": "\u272a A great game cursed only by its final achievement",
         "tier": "4",
-        "owners": 75,
+        "owners": 76,
         "completions": 15,
         "playtime": 90.72999999999999,
         "newestCompletion": "2025-07-12T01:37:17.000Z"
@@ -3191,7 +3191,7 @@ var masoData =
     "396350": {
         "description": "\u2733 Through your fingers again",
         "tier": "2",
-        "owners": 56,
+        "owners": 57,
         "completions": 3,
         "playtime": 34.644444444444446,
         "newestCompletion": "2022-10-18T20:20:01.000Z",
@@ -3735,7 +3735,7 @@ var masoData =
     "2138710": {
         "description": "\u2733 Nothing good ever comes from revenge",
         "tier": "2",
-        "owners": 73,
+        "owners": 74,
         "completions": 7,
         "playtime": 86.32380952380952,
         "newestCompletion": "2025-07-22T01:59:55.000Z"
@@ -3863,7 +3863,7 @@ var masoData =
     "233150": {
         "description": "\u2733 Thrust your way to victory",
         "tier": "2",
-        "owners": 62,
+        "owners": 63,
         "completions": 17,
         "playtime": 27.587254901960787,
         "newestCompletion": "2025-04-05T06:00:53.000Z"
@@ -4307,7 +4307,7 @@ var masoData =
     "1548940": {
         "description": "\ud83c\udf1f DASH: The gap in between these f***ing spikes",
         "tier": "5",
-        "owners": 55,
+        "owners": 56,
         "completions": 3,
         "playtime": 107.83333333333333,
         "newestCompletion": "2025-04-15T21:46:21.000Z",
@@ -4319,7 +4319,7 @@ var masoData =
     "2694420": {
         "description": "\u2606 Hellishly Wicked",
         "tier": "3",
-        "owners": 23,
+        "owners": 24,
         "completions": 7,
         "playtime": 41.18095238095238,
         "newestCompletion": "2026-01-23T14:23:24.000Z"
@@ -4567,7 +4567,7 @@ var masoData =
     "434660": {
         "description": "\u2733 Real Neon Genesis",
         "tier": "2",
-        "owners": 31,
+        "owners": 32,
         "completions": 3,
         "playtime": 30.572222222222223,
         "newestCompletion": "2026-03-26T10:42:27.000Z"
@@ -4715,5 +4715,37 @@ var masoData =
         "completions": 1,
         "playtime": 508.25,
         "newestCompletion": "2026-05-10T05:10:36.000Z"
+    },
+    "1144200": {
+        "description": "\u2606 I AM THE LAW",
+        "tier": "3",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
+    },
+    "3534850": {
+        "description": "It's lonely at the top.",
+        "tier": "1",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
+    },
+    "2230650": {
+        "description": "\u2733 Infernal Bunny BBQ",
+        "tier": "2",
+        "owners": 1,
+        "completions": 1,
+        "playtime": 109.2,
+        "newestCompletion": "2026-07-20T12:19:40.000Z"
+    },
+    "1288930": {
+        "description": "\u2733 Workin' the hargraveyard shift",
+        "tier": "2",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
     }
 }
