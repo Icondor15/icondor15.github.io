@@ -1,68 +1,101 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 3358220,
-        "CEId": "9609f3e1-71b2-45f9-a42d-91c0a65cd608",
-        "name": "OAsys - Speedbots Tournament",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3358220/5917fb0e8cf45731b43cf4486c20852bc2f74629/header.jpg?t=1750445243",
+        "gameType": 0,
+        "platformId": 621930,
+        "CEId": "8ee114fb-b5d7-4897-ab15-334d00f283a4",
+        "name": "Attack of the Earthlings",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/621930/header.jpg?t=1568795123",
         "genre": [
-            "First-Person"
+            "Strategy"
         ],
         "tier": 1,
         "points": 5,
         "secondaryPoints": 0,
-        "medianPlaytime": 214,
-        "createdAt": "2025-08-01T03:17:22.000Z",
-        "updatedAt": "2026-07-31T01:56:26.000Z",
+        "medianPlaytime": 986,
+        "createdAt": "2022-08-02T05:16:30.000Z",
+        "updatedAt": "2026-07-27T15:20:57.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 4,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 32,
+        "playersTotal": 62,
+        "priceData": {
+            "USD": {
+                "initial": 1499,
+                "final": 1499,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1259,
+                "final": 1259,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1150,
+                "final": 1150,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 155000,
+                "final": 155000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 2195,
+                "final": 2195,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1699,
+                "final": 1699,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
             "primary": 1,
-            "primaryText": "200 OK [5\u2605]\nObtain every dev medal.",
+            "primaryText": "Certified Misanthrope [5\u2605]\nProve yourself.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 12
+            "achievements": 37
         },
         "CETags": {
             "genre": [
-                "First Person Shooter",
-                "First Person Movement"
+                "Turn-Based"
             ],
-            "info": [
-                "Free"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Action",
-            "Runner",
-            "Competitive",
-            "First-Person",
-            "Parkour",
-            "Racing",
-            "Arcade",
-            "3D Platformer",
-            "Platformer",
-            "Shooter",
-            "3D",
-            "Stylized",
-            "Futuristic",
-            "Robots",
-            "Singleplayer",
-            "Sports",
-            "Casual",
-            "Free to Play",
+            "Strategy",
             "Indie",
-            "Fast-Paced"
+            "Turn-Based Strategy",
+            "Dark Humor",
+            "Comedy",
+            "Sci-fi",
+            "Dark Comedy",
+            "Singleplayer",
+            "Aliens",
+            "Gore",
+            "Turn-Based Tactics",
+            "Villain Protagonist",
+            "Story Rich",
+            "Tactical",
+            "Great Soundtrack",
+            "Turn-Based",
+            "Stealth"
         ],
         "languages": {
-            "english": "I",
-            "french": "IA"
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-08-01'
+var gameOfDayDate = '2026-08-02'
