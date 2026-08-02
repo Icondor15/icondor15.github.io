@@ -131,7 +131,7 @@ var masoData =
     "809020": {
         "description": "Shmup meets Undertale",
         "tier": "1",
-        "owners": 54,
+        "owners": 55,
         "completions": 29,
         "playtime": 16.595402298850573,
         "newestCompletion": "2025-11-21T04:10:01.000Z"
@@ -395,7 +395,7 @@ var masoData =
     "439490": {
         "description": "\ud83c\udf1f Reach the Summit",
         "tier": "5",
-        "owners": 78,
+        "owners": 79,
         "completions": 3,
         "playtime": 76.9888888888889,
         "newestCompletion": "2026-02-01T21:42:44.000Z"
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 270,
         "completions": 199,
-        "playtime": 249.54112227805695,
+        "playtime": 250.68877721943048,
         "newestCompletion": "2026-07-07T18:46:27.000Z",
         "badges": {
             "count": 2,
@@ -960,9 +960,9 @@ var masoData =
         "description": "\u2606 Through your fingers",
         "tier": "3",
         "owners": 78,
-        "completions": 15,
-        "playtime": 13.783333333333333,
-        "newestCompletion": "2026-04-22T22:37:22.000Z"
+        "completions": 16,
+        "playtime": 14.1125,
+        "newestCompletion": "2026-08-02T07:06:52.000Z"
     },
     "292500": {
         "description": "\u2733 Go Zangyourself",
@@ -1019,7 +1019,7 @@ var masoData =
     "603960": {
         "description": "\u2606 Eternal Nightmare",
         "tier": "3",
-        "owners": 89,
+        "owners": 90,
         "completions": 6,
         "playtime": 446.5222222222221,
         "newestCompletion": "2025-05-16T00:36:22.000Z"
@@ -3541,7 +3541,7 @@ var masoData =
         "tier": "2",
         "owners": 105,
         "completions": 39,
-        "playtime": 57.65854700854701,
+        "playtime": 57.66452991452992,
         "newestCompletion": "2025-11-08T05:03:32.000Z"
     },
     "1442170": {
@@ -4187,7 +4187,7 @@ var masoData =
     "1814170": {
         "description": "\u2733 Your brain will turn into mush afterword",
         "tier": "2",
-        "owners": 40,
+        "owners": 41,
         "completions": 12,
         "playtime": 66.6625,
         "newestCompletion": "2025-11-13T03:32:44.000Z"
@@ -4635,7 +4635,7 @@ var masoData =
     "1354260": {
         "description": "\u2733 The only good argument that AI &gt; humans. (Co-op)",
         "tier": "2",
-        "owners": 5,
+        "owners": 6,
         "completions": 1,
         "playtime": 31.816666666666666,
         "newestCompletion": "2026-01-22T22:17:23.000Z"
@@ -4655,7 +4655,7 @@ var masoData =
     "3288210": {
         "description": "\u272a Maso 101... now in 3D!",
         "tier": "4",
-        "owners": 20,
+        "owners": 21,
         "completions": 7,
         "playtime": 31.704761904761906,
         "newestCompletion": "2026-04-24T23:28:21.000Z"
