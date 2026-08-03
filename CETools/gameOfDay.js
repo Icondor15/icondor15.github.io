@@ -2,100 +2,96 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 621930,
-        "CEId": "8ee114fb-b5d7-4897-ab15-334d00f283a4",
-        "name": "Attack of the Earthlings",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/621930/header.jpg?t=1568795123",
+        "platformId": 490950,
+        "CEId": "abdc4f98-18f1-4d1d-9f9b-4ad681cd0205",
+        "name": "Frost",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/490950/header.jpg?t=1561566112",
         "genre": [
             "Strategy"
         ],
-        "tier": 1,
-        "points": 5,
+        "tier": 2,
+        "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 986,
-        "createdAt": "2022-08-02T05:16:30.000Z",
-        "updatedAt": "2026-07-27T15:20:57.000Z",
+        "medianPlaytime": 802,
+        "createdAt": "2022-08-03T18:11:31.000Z",
+        "updatedAt": "2026-08-01T09:19:13.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 3,
+        "playersCompleted": 7,
         "playersStarted": 0,
-        "playersTotal": 62,
+        "playersTotal": 36,
         "priceData": {
             "USD": {
-                "initial": 1499,
-                "final": 1499,
+                "initial": 699,
+                "final": 699,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1259,
-                "final": 1259,
+                "initial": 689,
+                "final": 689,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1150,
-                "final": 1150,
+                "initial": 589,
+                "final": 589,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 155000,
-                "final": 155000,
+                "initial": 80000,
+                "final": 80000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2195,
-                "final": 2195,
+                "initial": 1025,
+                "final": 1025,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1699,
-                "final": 1699,
+                "initial": 899,
+                "final": 899,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Certified Misanthrope [5\u2605]\nProve yourself.",
+            "primaryText": "Cold Sweat [20\u2605]\nBeat the game on Impossible difficulty. / Complete the Skeptic scenario.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 37
+            "achievements": 21
         },
         "CETags": {
             "genre": [
+                "Resource Management",
+                "Deck-Builder",
                 "Turn-Based"
             ],
             "info": []
         },
         "gameTags": [
+            "Deckbuilding",
+            "Card Game",
+            "Survival",
             "Strategy",
-            "Indie",
-            "Turn-Based Strategy",
-            "Dark Humor",
-            "Comedy",
-            "Sci-fi",
-            "Dark Comedy",
             "Singleplayer",
-            "Aliens",
-            "Gore",
-            "Turn-Based Tactics",
-            "Villain Protagonist",
-            "Story Rich",
-            "Tactical",
-            "Great Soundtrack",
+            "Roguelike Deckbuilder",
+            "Roguelike",
             "Turn-Based",
-            "Stealth"
+            "RPG",
+            "Card Battler",
+            "Snow",
+            "Relaxing",
+            "Indie",
+            "Solitaire",
+            "Tactical RPG",
+            "Great Soundtrack",
+            "Atmospheric",
+            "Casual"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "koreana": "IS",
-            "russian": "IS",
-            "schinese": "IS"
+            "english": "I",
+            "french": "I"
         }
     }
 }
-var gameOfDayDate = '2026-08-02'
+var gameOfDayDate = '2026-08-03'
