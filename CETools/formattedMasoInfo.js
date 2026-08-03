@@ -4735,17 +4735,17 @@ var masoData =
     "2230650": {
         "description": "\u2733 Infernal Bunny BBQ",
         "tier": "2",
-        "owners": 1,
-        "completions": 1,
-        "playtime": 109.2,
-        "newestCompletion": "2026-07-20T12:19:40.000Z"
+        "owners": 2,
+        "completions": 2,
+        "playtime": 226.375,
+        "newestCompletion": "2026-08-02T12:21:24.000Z"
     },
     "1288930": {
         "description": "\u2733 Workin' the hargraveyard shift",
         "tier": "2",
-        "owners": 0,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 1,
+        "completions": 1,
+        "playtime": 11.05,
+        "newestCompletion": "2022-01-15T19:50:44.000Z"
     }
 }
