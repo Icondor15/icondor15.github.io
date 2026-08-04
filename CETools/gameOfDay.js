@@ -2,23 +2,23 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 490950,
-        "CEId": "abdc4f98-18f1-4d1d-9f9b-4ad681cd0205",
-        "name": "Frost",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/490950/header.jpg?t=1561566112",
+        "platformId": 2383520,
+        "CEId": "ffd9ea1f-0323-4056-aee5-f1cb0c48a96c",
+        "name": "Ziggy's Labyrinth",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2383520/header.jpg?t=1719641404",
         "genre": [
-            "Strategy"
+            "Arcade"
         ],
         "tier": 2,
         "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 802,
-        "createdAt": "2022-08-03T18:11:31.000Z",
-        "updatedAt": "2026-08-01T09:19:13.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2024-08-04T21:34:44.000Z",
+        "updatedAt": "2026-07-27T15:20:57.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 7,
+        "playersCompleted": 3,
         "playersStarted": 0,
-        "playersTotal": 36,
+        "playersTotal": 3,
         "priceData": {
             "USD": {
                 "initial": 699,
@@ -52,46 +52,50 @@ var gameOfDay =
             }
         },
         "milestones": {
-            "primary": 1,
-            "primaryText": "Cold Sweat [20\u2605]\nBeat the game on Impossible difficulty. / Complete the Skeptic scenario.",
-            "secondary": 0,
-            "secondaryText": "",
+            "primary": 2,
+            "primaryText": "Apple of the Snake's Eye [15\u2605]\nComplete the Master course in Normal Mode with limited lives enabled.\n\nEnter the Snake Pit [5\u2605]\nComplete the Expert course in Normal Mode with limited lives enabled.",
+            "secondary": 1,
+            "secondaryText": "Ouroboros [0\u2605]\nFill out all 10 maps in Classic Mode.",
             "community": 0,
             "communityText": "",
-            "achievements": 21
+            "achievements": 0
         },
         "CETags": {
             "genre": [
-                "Resource Management",
-                "Deck-Builder",
-                "Turn-Based"
+                "Reflex/Reaction",
+                "Miscellaneous"
             ],
-            "info": []
+            "info": [
+                "Mouse Focused",
+                "Has Secondary Objectives",
+                "Animal Protagonist"
+            ]
         },
         "gameTags": [
-            "Deckbuilding",
-            "Card Game",
-            "Survival",
-            "Strategy",
+            "Action",
+            "Puzzle",
+            "Difficult",
+            "Level Editor",
+            "Arcade",
+            "Grid-Based Movement",
+            "Multiplayer",
+            "Sandbox",
+            "PvP",
+            "Retro",
+            "Pixel Graphics",
+            "Colorful",
+            "Moddable",
+            "Top-Down",
             "Singleplayer",
-            "Roguelike Deckbuilder",
-            "Roguelike",
-            "Turn-Based",
-            "RPG",
-            "Card Battler",
-            "Snow",
-            "Relaxing",
-            "Indie",
-            "Solitaire",
-            "Tactical RPG",
-            "Great Soundtrack",
-            "Atmospheric",
-            "Casual"
+            "Dark",
+            "Old School",
+            "Linear",
+            "Perma Death",
+            "2D"
         ],
         "languages": {
-            "english": "I",
-            "french": "I"
+            "english": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-08-03'
+var gameOfDayDate = '2026-08-04'
