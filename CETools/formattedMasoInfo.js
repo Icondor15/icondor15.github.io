@@ -3,7 +3,7 @@ var masoData =
     "384700": {
         "description": "\u272a really fishing for mans",
         "tier": "4",
-        "owners": 59,
+        "owners": 60,
         "completions": 12,
         "playtime": 41.97222222222223,
         "newestCompletion": "2024-08-01T12:23:24.000Z"
@@ -185,7 +185,7 @@ var masoData =
         "tier": "1",
         "owners": 199,
         "completions": 100,
-        "playtime": 44.25816666666668,
+        "playtime": 44.260166666666684,
         "newestCompletion": "2026-07-06T20:21:54.000Z",
         "badges": {
             "count": 1,
@@ -844,9 +844,9 @@ var masoData =
         "description": "Wtf is happening",
         "tier": "1",
         "owners": 80,
-        "completions": 60,
-        "playtime": 3.627500000000001,
-        "newestCompletion": "2024-10-29T06:49:32.000Z"
+        "completions": 61,
+        "playtime": 3.5953551912568313,
+        "newestCompletion": "2026-08-04T04:10:35.000Z"
     },
     "397950": {
         "description": "Literally",
@@ -1335,7 +1335,7 @@ var masoData =
     "200900": {
         "description": "\u272a A hardcore classic.",
         "tier": "4",
-        "owners": 128,
+        "owners": 129,
         "completions": 23,
         "playtime": 68.036231884058,
         "newestCompletion": "2025-04-28T15:10:06.000Z"
@@ -1436,9 +1436,9 @@ var masoData =
         "description": "\u2733 Bosses Everywhere",
         "tier": "2",
         "owners": 35,
-        "completions": 16,
-        "playtime": 10.883333333333335,
-        "newestCompletion": "2025-03-21T10:06:18.000Z"
+        "completions": 17,
+        "playtime": 10.577450980392157,
+        "newestCompletion": "2026-08-03T18:41:09.000Z"
     },
     "706510": {
         "description": "LEFT RIGHT LEFT RIGHT LEFT R...ESTART LEFT RIGHT LEFT RIGHT",
@@ -1712,9 +1712,9 @@ var masoData =
         "description": "The Deluxe Ultimate Definitive Complete Classic Edition",
         "tier": "1",
         "owners": 60,
-        "completions": 41,
-        "playtime": 6.79959349593496,
-        "newestCompletion": "2025-05-26T03:45:26.000Z"
+        "completions": 42,
+        "playtime": 6.764285714285715,
+        "newestCompletion": "2026-08-02T05:15:24.000Z"
     },
     "1035850": {
         "description": "\u2733 I Wanna Be the Chad",
@@ -1815,10 +1815,10 @@ var masoData =
     "1054710": {
         "description": "Sponsored by Katy Parry",
         "tier": "1",
-        "owners": 23,
-        "completions": 10,
-        "playtime": 7.695,
-        "newestCompletion": "2024-12-14T13:22:58.000Z"
+        "owners": 24,
+        "completions": 11,
+        "playtime": 7.421212121212122,
+        "newestCompletion": "2026-03-31T17:56:15.000Z"
     },
     "731490": {
         "description": "\u2733 W O A H",
@@ -2099,7 +2099,7 @@ var masoData =
     "913060": {
         "description": "\u2606 Evangelion X Luftrausers",
         "tier": "3",
-        "owners": 27,
+        "owners": 28,
         "completions": 5,
         "playtime": 24.436666666666667,
         "newestCompletion": "2021-01-11T15:44:00.000Z"
@@ -2139,7 +2139,7 @@ var masoData =
     "775580": {
         "description": "I Think That\"s Alright",
         "tier": "1",
-        "owners": 34,
+        "owners": 35,
         "completions": 12,
         "playtime": 5.405555555555555,
         "newestCompletion": "2024-08-26T03:20:53.000Z"
@@ -2307,7 +2307,7 @@ var masoData =
     "378750": {
         "description": "\u2733 really fishing for babies",
         "tier": "2",
-        "owners": 51,
+        "owners": 52,
         "completions": 13,
         "playtime": 14.274358974358973,
         "newestCompletion": "2023-12-20T01:09:43.000Z"
@@ -2323,7 +2323,7 @@ var masoData =
     "384690": {
         "description": "\u2733 really fishing for children",
         "tier": "2",
-        "owners": 58,
+        "owners": 59,
         "completions": 14,
         "playtime": 20.74880952380952,
         "newestCompletion": "2025-02-28T23:19:03.000Z"
@@ -2555,7 +2555,7 @@ var masoData =
     "1525660": {
         "description": "\ud83c\udf1f just like the simulations",
         "tier": "5",
-        "owners": 123,
+        "owners": 124,
         "completions": 29,
         "playtime": 46.3235632183908,
         "newestCompletion": "2026-02-03T20:17:46.000Z"
@@ -3076,9 +3076,9 @@ var masoData =
         "description": "\u2606 make sure to turn off the voice volume",
         "tier": "3",
         "owners": 47,
-        "completions": 15,
-        "playtime": 21.554444444444446,
-        "newestCompletion": "2026-06-07T16:44:48.000Z"
+        "completions": 16,
+        "playtime": 21.551041666666666,
+        "newestCompletion": "2026-08-04T00:12:18.000Z"
     },
     "646570": {
         "description": "\u2606 Slay your cards right",
@@ -3539,7 +3539,7 @@ var masoData =
     "2231450": {
         "description": "\u2733 Pizza, Pasta, Put it in a box",
         "tier": "2",
-        "owners": 105,
+        "owners": 106,
         "completions": 39,
         "playtime": 57.66452991452992,
         "newestCompletion": "2025-11-08T05:03:32.000Z"
@@ -3976,9 +3976,9 @@ var masoData =
         "description": "404: Tagline not found",
         "tier": "1",
         "owners": 44,
-        "completions": 14,
-        "playtime": 6.700000000000001,
-        "newestCompletion": "2025-10-19T13:50:40.000Z"
+        "completions": 15,
+        "playtime": 6.565555555555557,
+        "newestCompletion": "2026-08-01T21:44:29.000Z"
     },
     "1114940": {
         "description": "\u2606 Difficulty rating: somewhere between t2 and t6",
@@ -4123,7 +4123,7 @@ var masoData =
     "1059990": {
         "description": "\ud83c\udf96\ufe0f Doot Hero",
         "tier": "0",
-        "owners": 50,
+        "owners": 51,
         "completions": 19,
         "playtime": 10.24561403508772,
         "newestCompletion": "2026-03-21T09:20:02.000Z",
@@ -4213,7 +4213,7 @@ var masoData =
         "tier": "4",
         "owners": 59,
         "completions": 9,
-        "playtime": 277.88518518518526,
+        "playtime": 279.25000000000006,
         "newestCompletion": "2026-03-02T21:42:12.000Z",
         "badges": {
             "count": 1,
@@ -4359,7 +4359,7 @@ var masoData =
     "2702490": {
         "description": "\u2733 An old classic in a fresh light",
         "tier": "2",
-        "owners": 21,
+        "owners": 22,
         "completions": 10,
         "playtime": 77.42666666666669,
         "newestCompletion": "2026-04-08T17:19:22.000Z"
@@ -4420,9 +4420,9 @@ var masoData =
         "description": "Wreckfast",
         "tier": "1",
         "owners": 36,
-        "completions": 8,
-        "playtime": 4.479166666666667,
-        "newestCompletion": "2026-01-11T14:49:17.000Z"
+        "completions": 9,
+        "playtime": 4.214814814814814,
+        "newestCompletion": "2026-07-20T07:27:01.000Z"
     },
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
@@ -4592,9 +4592,9 @@ var masoData =
         "description": "Nioh but Nioher",
         "tier": "1",
         "owners": 4,
-        "completions": 1,
-        "playtime": 125.13333333333334,
-        "newestCompletion": "2025-04-26T18:47:33.000Z"
+        "completions": 2,
+        "playtime": 97.03333333333333,
+        "newestCompletion": "2026-08-03T10:29:18.000Z"
     },
     "493520": {
         "description": "\ud83c\udf1f Work together or get \u2665\u2665\u2665\u2665\u2665\u2665 together (Co-op)",
@@ -4607,9 +4607,9 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 74,
-        "completions": 23,
-        "playtime": 83.34420289855073,
+        "owners": 75,
+        "completions": 24,
+        "playtime": 81.46875,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
@@ -4735,7 +4735,7 @@ var masoData =
     "2230650": {
         "description": "\u2733 Infernal Bunny BBQ",
         "tier": "2",
-        "owners": 2,
+        "owners": 3,
         "completions": 2,
         "playtime": 226.375,
         "newestCompletion": "2026-08-02T12:21:24.000Z"
