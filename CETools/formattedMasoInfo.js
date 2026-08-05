@@ -185,7 +185,7 @@ var masoData =
         "tier": "1",
         "owners": 199,
         "completions": 100,
-        "playtime": 44.260166666666684,
+        "playtime": 44.26033333333336,
         "newestCompletion": "2026-07-06T20:21:54.000Z",
         "badges": {
             "count": 1,
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 260,
         "completions": 143,
-        "playtime": 203.8863636363636,
+        "playtime": 203.89020979020972,
         "newestCompletion": "2026-04-06T20:31:43.000Z",
         "badges": {
             "count": 2,
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 270,
         "completions": 199,
-        "playtime": 250.68877721943048,
+        "playtime": 250.68894472361808,
         "newestCompletion": "2026-07-07T18:46:27.000Z",
         "badges": {
             "count": 2,
@@ -1388,9 +1388,9 @@ var masoData =
         "description": "\ud83c\udf1f 101 Hardcore gaming - if you never played it, now is the time to learn the ropes.",
         "tier": "5",
         "owners": 268,
-        "completions": 85,
-        "playtime": 125.33803921568624,
-        "newestCompletion": "2026-04-11T03:44:04.000Z"
+        "completions": 86,
+        "playtime": 124.59651162790695,
+        "newestCompletion": "2026-08-05T06:31:14.000Z"
     },
     "557340": {
         "description": "ABSOLUTELY BANANAS",
@@ -4507,7 +4507,7 @@ var masoData =
     "322170": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The impossibler game",
         "tier": "0",
-        "owners": 181,
+        "owners": 182,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null,
