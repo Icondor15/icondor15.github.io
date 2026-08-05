@@ -1,101 +1,90 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 0,
-        "platformId": 2383520,
-        "CEId": "ffd9ea1f-0323-4056-aee5-f1cb0c48a96c",
-        "name": "Ziggy's Labyrinth",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2383520/header.jpg?t=1719641404",
+        "gameType": 1,
+        "platformId": 2684930,
+        "CEId": "2bdc089e-1eec-4825-95c1-52a6ef6e9860",
+        "name": "TRUFFLE",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2684930/header.jpg?t=1706257171",
         "genre": [
             "Arcade"
         ],
-        "tier": 2,
-        "points": 20,
+        "tier": 1,
+        "points": 5,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2024-08-04T21:34:44.000Z",
+        "medianPlaytime": 161,
+        "createdAt": "2024-08-05T02:50:19.000Z",
         "updatedAt": "2026-07-27T15:20:57.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 3,
+        "playersCompleted": 17,
         "playersStarted": 0,
-        "playersTotal": 3,
-        "priceData": {
-            "USD": {
-                "initial": 699,
-                "final": 699,
-                "discountPercent": 0
-            },
-            "EUR": {
-                "initial": 689,
-                "final": 689,
-                "discountPercent": 0
-            },
-            "GBP": {
-                "initial": 589,
-                "final": 589,
-                "discountPercent": 0
-            },
-            "JPY": {
-                "initial": 80000,
-                "final": 80000,
-                "discountPercent": 0
-            },
-            "AUD": {
-                "initial": 1025,
-                "final": 1025,
-                "discountPercent": 0
-            },
-            "CAD": {
-                "initial": 899,
-                "final": 899,
-                "discountPercent": 0
-            }
-        },
+        "playersTotal": 101,
         "milestones": {
-            "primary": 2,
-            "primaryText": "Apple of the Snake's Eye [15\u2605]\nComplete the Master course in Normal Mode with limited lives enabled.\n\nEnter the Snake Pit [5\u2605]\nComplete the Expert course in Normal Mode with limited lives enabled.",
-            "secondary": 1,
-            "secondaryText": "Ouroboros [0\u2605]\nFill out all 10 maps in Classic Mode.",
+            "primary": 1,
+            "primaryText": "Watchful Forager [5\u2605]\nComplete all normal and bonus levels.",
+            "secondary": 0,
+            "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 0
+            "achievements": 47
         },
         "CETags": {
             "genre": [
-                "Reflex/Reaction",
                 "Miscellaneous"
             ],
             "info": [
-                "Mouse Focused",
-                "Has Secondary Objectives",
-                "Animal Protagonist"
+                "Free",
+                "Mouse Focused"
             ]
         },
         "gameTags": [
-            "Action",
+            "2D Platformer",
+            "Puzzle Platformer",
             "Puzzle",
             "Difficult",
-            "Level Editor",
-            "Arcade",
-            "Grid-Based Movement",
-            "Multiplayer",
-            "Sandbox",
-            "PvP",
-            "Retro",
-            "Pixel Graphics",
-            "Colorful",
-            "Moddable",
-            "Top-Down",
-            "Singleplayer",
-            "Dark",
-            "Old School",
+            "Strategy",
+            "2D",
+            "Relaxing",
             "Linear",
-            "Perma Death",
-            "2D"
+            "Casual",
+            "Abstract",
+            "Minimalist",
+            "Pixel Graphics",
+            "Stylized",
+            "Atmospheric",
+            "Mystery",
+            "Nature",
+            "Psychological",
+            "Dark",
+            "Retro",
+            "Indie"
         ],
         "languages": {
-            "english": "IAS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "italian": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "bulgarian": "I",
+            "czech": "I",
+            "danish": "I",
+            "dutch": "I",
+            "finnish": "I",
+            "greek": "I",
+            "hungarian": "I",
+            "koreana": "I",
+            "norwegian": "I",
+            "polish": "I",
+            "portuguese": "I",
+            "romanian": "I",
+            "russian": "I",
+            "schinese": "I",
+            "swedish": "I",
+            "thai": "I",
+            "turkish": "I",
+            "ukrainian": "I"
         }
     }
 }
-var gameOfDayDate = '2026-08-04'
+var gameOfDayDate = '2026-08-05'
