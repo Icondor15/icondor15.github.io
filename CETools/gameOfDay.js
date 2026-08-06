@@ -2,89 +2,60 @@ var gameOfDay =
 {
     "game": {
         "gameType": 1,
-        "platformId": 2684930,
-        "CEId": "2bdc089e-1eec-4825-95c1-52a6ef6e9860",
-        "name": "TRUFFLE",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2684930/header.jpg?t=1706257171",
+        "platformId": 2088520,
+        "CEId": "44dfdb5f-82e3-4f7c-9241-c4b8013a6d94",
+        "name": "Shooting Game KARI",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2088520/header.jpg?t=1664197661",
         "genre": [
-            "Arcade"
+            "Bullet Hell"
         ],
-        "tier": 1,
-        "points": 5,
+        "tier": 3,
+        "points": 55,
         "secondaryPoints": 0,
-        "medianPlaytime": 161,
-        "createdAt": "2024-08-05T02:50:19.000Z",
-        "updatedAt": "2026-07-27T15:20:57.000Z",
+        "medianPlaytime": 731,
+        "createdAt": "2022-08-06T16:08:40.000Z",
+        "updatedAt": "2026-08-02T16:04:36.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 17,
-        "playersStarted": 0,
-        "playersTotal": 101,
+        "playersCompleted": 10,
+        "playersStarted": 4,
+        "playersTotal": 139,
         "milestones": {
-            "primary": 1,
-            "primaryText": "Watchful Forager [5\u2605]\nComplete all normal and bonus levels.",
+            "primary": 2,
+            "primaryText": "This is Shooting Game [35\u2605]\nBeat the extra boss on Hard.\n\nPrimary Objective KIBISH\u012a [20\u2605]\nClear the game on hard. / Clear the game without taking damage.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 47
+            "achievements": 8
         },
         "CETags": {
             "genre": [
-                "Miscellaneous"
+                "Vertical Shoot'em'Up"
             ],
             "info": [
-                "Free",
-                "Mouse Focused"
+                "Free"
             ]
         },
         "gameTags": [
-            "2D Platformer",
-            "Puzzle Platformer",
-            "Puzzle",
-            "Difficult",
-            "Strategy",
+            "Action",
+            "Arcade",
+            "Shooter",
+            "Bullet Hell",
+            "Top-Down Shooter",
             "2D",
-            "Relaxing",
-            "Linear",
-            "Casual",
-            "Abstract",
-            "Minimalist",
-            "Pixel Graphics",
-            "Stylized",
-            "Atmospheric",
-            "Mystery",
-            "Nature",
-            "Psychological",
-            "Dark",
-            "Retro",
-            "Indie"
+            "Top-Down",
+            "1990's",
+            "Free to Play",
+            "Old School",
+            "Controller",
+            "Singleplayer",
+            "Score Attack",
+            "Shoot 'Em Up"
         ],
         "languages": {
-            "english": "I",
-            "french": "I",
-            "german": "I",
-            "italian": "I",
-            "japanese": "I",
-            "spanish": "I",
-            "bulgarian": "I",
-            "czech": "I",
-            "danish": "I",
-            "dutch": "I",
-            "finnish": "I",
-            "greek": "I",
-            "hungarian": "I",
-            "koreana": "I",
-            "norwegian": "I",
-            "polish": "I",
-            "portuguese": "I",
-            "romanian": "I",
-            "russian": "I",
-            "schinese": "I",
-            "swedish": "I",
-            "thai": "I",
-            "turkish": "I",
-            "ukrainian": "I"
+            "english": "IS",
+            "japanese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-08-05'
+var gameOfDayDate = '2026-08-06'
