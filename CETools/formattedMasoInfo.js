@@ -3192,9 +3192,9 @@ var masoData =
         "description": "\u2733 Through your fingers again",
         "tier": "2",
         "owners": 57,
-        "completions": 3,
-        "playtime": 34.644444444444446,
-        "newestCompletion": "2022-10-18T20:20:01.000Z",
+        "completions": 4,
+        "playtime": 36.06666666666667,
+        "newestCompletion": "2026-08-05T21:11:49.000Z",
         "badges": {
             "count": 1,
             "points": 10
@@ -4609,7 +4609,7 @@ var masoData =
         "tier": "0",
         "owners": 75,
         "completions": 24,
-        "playtime": 81.46875,
+        "playtime": 81.5798611111111,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
         "badges": {
             "count": 1,
