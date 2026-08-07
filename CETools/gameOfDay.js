@@ -1,61 +1,102 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 1,
-        "platformId": 2088520,
-        "CEId": "44dfdb5f-82e3-4f7c-9241-c4b8013a6d94",
-        "name": "Shooting Game KARI",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/2088520/header.jpg?t=1664197661",
+        "gameType": 0,
+        "platformId": 1856910,
+        "CEId": "182bb6dc-9808-4efc-92a9-03688dcb3977",
+        "name": "Ganryu 2",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1856910/header.jpg?t=1656056966",
         "genre": [
-            "Bullet Hell"
+            "Action"
         ],
-        "tier": 3,
-        "points": 55,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 731,
-        "createdAt": "2022-08-06T16:08:40.000Z",
-        "updatedAt": "2026-08-02T16:04:36.000Z",
+        "medianPlaytime": 576,
+        "createdAt": "2023-08-07T01:26:17.000Z",
+        "updatedAt": "2026-08-02T19:13:49.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 10,
-        "playersStarted": 4,
-        "playersTotal": 139,
+        "playersCompleted": 2,
+        "playersStarted": 0,
+        "playersTotal": 33,
+        "priceData": {
+            "USD": {
+                "initial": 1799,
+                "final": 1799,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1499,
+                "final": 1499,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1399,
+                "final": 1399,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 184000,
+                "final": 184000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 2595,
+                "final": 2595,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 2049,
+                "final": 2049,
+                "discountPercent": 0
+            }
+        },
         "milestones": {
-            "primary": 2,
-            "primaryText": "This is Shooting Game [35\u2605]\nBeat the extra boss on Hard.\n\nPrimary Objective KIBISH\u012a [20\u2605]\nClear the game on hard. / Clear the game without taking damage.",
+            "primary": 1,
+            "primaryText": "The Stone And The Sword [10\u2605]\nComplete the game without dying and under 75 minutes.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 8
+            "achievements": 25
         },
         "CETags": {
             "genre": [
-                "Vertical Shoot'em'Up"
+                "Action-Platformer"
             ],
-            "info": [
-                "Free"
-            ]
+            "info": []
         },
         "gameTags": [
-            "Action",
+            "Hack and Slash",
+            "2D Platformer",
+            "Martial Arts",
+            "Platformer",
             "Arcade",
-            "Shooter",
-            "Bullet Hell",
-            "Top-Down Shooter",
+            "JRPG",
             "2D",
-            "Top-Down",
-            "1990's",
-            "Free to Play",
-            "Old School",
+            "Action",
             "Controller",
+            "Swordplay",
+            "Ninja",
+            "Pixel Graphics",
             "Singleplayer",
-            "Score Attack",
-            "Shoot 'Em Up"
+            "Assassins",
+            "Indie",
+            "Retro",
+            "Soundtrack"
         ],
         "languages": {
             "english": "IS",
-            "japanese": "IS"
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-08-06'
+var gameOfDayDate = '2026-08-07'
