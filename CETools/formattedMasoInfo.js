@@ -183,7 +183,7 @@ var masoData =
     "268910": {
         "description": "The Dark Souls of Platform Games",
         "tier": "1",
-        "owners": 199,
+        "owners": 200,
         "completions": 100,
         "playtime": 44.26033333333336,
         "newestCompletion": "2026-07-06T20:21:54.000Z",
@@ -237,7 +237,7 @@ var masoData =
         "tier": "2",
         "owners": 167,
         "completions": 66,
-        "playtime": 38.404545454545456,
+        "playtime": 38.4290404040404,
         "newestCompletion": "2026-04-27T18:00:31.000Z",
         "badges": {
             "count": 1,
@@ -304,9 +304,9 @@ var masoData =
         "description": "Thank god for mods and EZ mode",
         "tier": "1",
         "owners": 153,
-        "completions": 45,
-        "playtime": 126.31148148148148,
-        "newestCompletion": "2026-04-03T04:29:59.000Z",
+        "completions": 46,
+        "playtime": 124.1945652173913,
+        "newestCompletion": "2026-07-30T08:21:52.000Z",
         "badges": {
             "count": 1,
             "points": 5
@@ -607,7 +607,7 @@ var masoData =
     "673000": {
         "description": "Neon soaked madness",
         "tier": "1",
-        "owners": 81,
+        "owners": 82,
         "completions": 60,
         "playtime": 3.7055555555555566,
         "newestCompletion": "2026-03-22T18:49:16.000Z"
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 270,
         "completions": 199,
-        "playtime": 250.68894472361808,
+        "playtime": 250.87512562814072,
         "newestCompletion": "2026-07-07T18:46:27.000Z",
         "badges": {
             "count": 2,
@@ -920,9 +920,9 @@ var masoData =
         "description": "True 100% will reveal this game\"s real nature",
         "tier": "1",
         "owners": 86,
-        "completions": 34,
-        "playtime": 31.669117647058822,
-        "newestCompletion": "2024-12-20T13:36:37.000Z",
+        "completions": 35,
+        "playtime": 31.451904761904768,
+        "newestCompletion": "2026-07-26T19:35:45.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -1051,7 +1051,7 @@ var masoData =
     "207320": {
         "description": "\u272a I don\"t remember JRPGs being this tough...",
         "tier": "4",
-        "owners": 40,
+        "owners": 41,
         "completions": 10,
         "playtime": 91.88333333333334,
         "newestCompletion": "2025-04-13T16:36:36.000Z"
@@ -1164,8 +1164,8 @@ var masoData =
         "description": "\u2606 If Super Hexagon and Velocibox had a baby, it would be sacrified to summon this demon lord.",
         "tier": "3",
         "owners": 120,
-        "completions": 43,
-        "playtime": 15.552325581395346,
+        "completions": 44,
+        "playtime": 15.217424242424242,
         "newestCompletion": "2026-07-14T03:56:28.000Z"
     },
     "440550": {
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 239,
         "completions": 65,
-        "playtime": 61.445897435897436,
+        "playtime": 61.527692307692305,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
     },
     "317710": {
@@ -1815,10 +1815,10 @@ var masoData =
     "1054710": {
         "description": "Sponsored by Katy Parry",
         "tier": "1",
-        "owners": 24,
-        "completions": 11,
-        "playtime": 7.421212121212122,
-        "newestCompletion": "2026-03-31T17:56:15.000Z"
+        "owners": 25,
+        "completions": 12,
+        "playtime": 7.3388888888888895,
+        "newestCompletion": "2026-07-06T05:28:55.000Z"
     },
     "731490": {
         "description": "\u2733 W O A H",
@@ -2015,7 +2015,7 @@ var masoData =
     "1004770": {
         "description": "\u2606 I never knew I wanted a PVP SHMUP so badly until Maiden &amp; Spell released. Single-player offers plenty of content with unique bosses and a cute story. Online is practically lag-free. Highly addictive",
         "tier": "3",
-        "owners": 59,
+        "owners": 60,
         "completions": 21,
         "playtime": 28.573809523809523,
         "newestCompletion": "2025-10-23T09:54:16.000Z"
@@ -2081,7 +2081,7 @@ var masoData =
         "tier": "1",
         "owners": 186,
         "completions": 88,
-        "playtime": 98.6939393939394,
+        "playtime": 98.74299242424244,
         "newestCompletion": "2026-05-01T07:34:01.000Z",
         "badges": {
             "count": 1,
@@ -2435,7 +2435,7 @@ var masoData =
     "667760": {
         "description": "\u2733 Blazin\" Blue Blob",
         "tier": "2",
-        "owners": 27,
+        "owners": 28,
         "completions": 4,
         "playtime": 49.391666666666666,
         "newestCompletion": "2024-09-05T04:32:23.000Z"
@@ -2444,9 +2444,9 @@ var masoData =
         "description": "Red is your new favorite color",
         "tier": "1",
         "owners": 20,
-        "completions": 5,
-        "playtime": 17.633333333333333,
-        "newestCompletion": "2023-06-10T06:10:07.000Z",
+        "completions": 6,
+        "playtime": 17.59166666666667,
+        "newestCompletion": "2026-08-07T03:02:16.000Z",
         "badges": {
             "count": 1,
             "points": 2
@@ -2675,7 +2675,7 @@ var masoData =
     "1139900": {
         "description": "Hey, is your ghost running?",
         "tier": "1",
-        "owners": 87,
+        "owners": 88,
         "completions": 26,
         "playtime": 19.45769230769231,
         "newestCompletion": "2026-02-03T13:43:21.000Z"
@@ -2867,7 +2867,7 @@ var masoData =
     "681530": {
         "description": "\ud83c\udf1f Your neighbors will hate you even more",
         "tier": "5",
-        "owners": 35,
+        "owners": 36,
         "completions": 2,
         "playtime": 239.78333333333336,
         "newestCompletion": "2023-10-12T23:46:10.000Z",
@@ -3227,7 +3227,7 @@ var masoData =
     "1533420": {
         "description": "\u2606 I just keep getting better and better",
         "tier": "3",
-        "owners": 133,
+        "owners": 134,
         "completions": 69,
         "playtime": 74.64565217391306,
         "newestCompletion": "2026-07-21T22:06:31.000Z",
@@ -3411,7 +3411,7 @@ var masoData =
     "1867530": {
         "description": "Skating on the Colossus",
         "tier": "1",
-        "owners": 15,
+        "owners": 16,
         "completions": 6,
         "playtime": 11.563888888888888,
         "newestCompletion": "2024-11-21T04:49:06.000Z"
@@ -3561,7 +3561,7 @@ var masoData =
         "tier": "3",
         "owners": 58,
         "completions": 12,
-        "playtime": 159.46805555555554,
+        "playtime": 162.88888888888889,
         "newestCompletion": "2026-04-18T11:36:29.000Z",
         "badges": {
             "count": 1,
@@ -3581,7 +3581,7 @@ var masoData =
         "tier": "5",
         "owners": 92,
         "completions": 15,
-        "playtime": 54.48666666666667,
+        "playtime": 54.49666666666667,
         "newestCompletion": "2026-05-18T05:36:58.000Z",
         "badges": {
             "count": 2,
@@ -3775,7 +3775,7 @@ var masoData =
     "1123050": {
         "description": "Destroy... Absorb... Grow...",
         "tier": "1",
-        "owners": 53,
+        "owners": 54,
         "completions": 12,
         "playtime": 31.609722222222228,
         "newestCompletion": "2026-06-19T12:56:28.000Z"
@@ -3985,7 +3985,7 @@ var masoData =
         "tier": "3",
         "owners": 121,
         "completions": 11,
-        "playtime": 443.60606060606074,
+        "playtime": 443.6469696969698,
         "newestCompletion": "2025-02-09T16:05:47.000Z"
     },
     "718010": {
@@ -4123,7 +4123,7 @@ var masoData =
     "1059990": {
         "description": "\ud83c\udf96\ufe0f Doot Hero",
         "tier": "0",
-        "owners": 51,
+        "owners": 52,
         "completions": 19,
         "playtime": 10.24561403508772,
         "newestCompletion": "2026-03-21T09:20:02.000Z",
@@ -4307,7 +4307,7 @@ var masoData =
     "1548940": {
         "description": "\ud83c\udf1f DASH: The gap in between these f***ing spikes",
         "tier": "5",
-        "owners": 56,
+        "owners": 57,
         "completions": 3,
         "playtime": 107.83333333333333,
         "newestCompletion": "2025-04-15T21:46:21.000Z",
@@ -4443,7 +4443,7 @@ var masoData =
     "1388770": {
         "description": "Finland Pain Simulator",
         "tier": "1",
-        "owners": 53,
+        "owners": 54,
         "completions": 12,
         "playtime": 25.241666666666664,
         "newestCompletion": "2026-03-03T18:25:03.000Z",
@@ -4643,9 +4643,9 @@ var masoData =
     "1761390": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The Disappearance of your free time",
         "tier": "0",
-        "owners": 14,
-        "completions": 3,
-        "playtime": 295.1722222222222,
+        "owners": 15,
+        "completions": 4,
+        "playtime": 260.575,
         "newestCompletion": "2026-03-16T17:15:06.000Z",
         "badges": {
             "count": 3,
@@ -4719,7 +4719,7 @@ var masoData =
     "1144200": {
         "description": "\u2606 I AM THE LAW",
         "tier": "3",
-        "owners": 0,
+        "owners": 1,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
@@ -4743,9 +4743,9 @@ var masoData =
     "1288930": {
         "description": "\u2733 Workin' the hargraveyard shift",
         "tier": "2",
-        "owners": 1,
-        "completions": 1,
-        "playtime": 11.05,
-        "newestCompletion": "2022-01-15T19:50:44.000Z"
+        "owners": 2,
+        "completions": 2,
+        "playtime": 9.575,
+        "newestCompletion": "2024-11-10T07:11:27.000Z"
     }
 }
