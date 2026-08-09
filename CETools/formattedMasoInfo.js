@@ -2081,7 +2081,7 @@ var masoData =
         "tier": "1",
         "owners": 186,
         "completions": 88,
-        "playtime": 98.74299242424244,
+        "playtime": 98.97916666666669,
         "newestCompletion": "2026-05-01T07:34:01.000Z",
         "badges": {
             "count": 1,
@@ -3061,7 +3061,7 @@ var masoData =
         "tier": "2",
         "owners": 120,
         "completions": 70,
-        "playtime": 197.78714285714284,
+        "playtime": 197.8288095238095,
         "newestCompletion": "2025-10-16T00:57:36.000Z"
     },
     "1190170": {
@@ -3229,7 +3229,7 @@ var masoData =
         "tier": "3",
         "owners": 134,
         "completions": 69,
-        "playtime": 74.64565217391306,
+        "playtime": 74.87657004830919,
         "newestCompletion": "2026-07-21T22:06:31.000Z",
         "badges": {
             "count": 1,
@@ -4493,7 +4493,7 @@ var masoData =
         "tier": "1",
         "owners": 40,
         "completions": 28,
-        "playtime": 8.557738095238095,
+        "playtime": 8.56904761904762,
         "newestCompletion": "2026-03-13T02:19:31.000Z"
     },
     "1030300": {
@@ -4519,7 +4519,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 100,
+        "owners": 101,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4627,10 +4627,10 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 25,
-        "completions": 6,
-        "playtime": 39.888888888888886,
-        "newestCompletion": "2025-06-19T00:20:43.000Z"
+        "owners": 26,
+        "completions": 7,
+        "playtime": 39.607142857142854,
+        "newestCompletion": "2026-06-09T02:54:38.000Z"
     },
     "1354260": {
         "description": "\u2733 The only good argument that AI &gt; humans. (Co-op)",
@@ -4719,7 +4719,7 @@ var masoData =
     "1144200": {
         "description": "\u2606 I AM THE LAW",
         "tier": "3",
-        "owners": 1,
+        "owners": 2,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
