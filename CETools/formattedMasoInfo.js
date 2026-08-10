@@ -403,7 +403,7 @@ var masoData =
     "437570": {
         "description": "Don\"t lose your head",
         "tier": "1",
-        "owners": 99,
+        "owners": 100,
         "completions": 36,
         "playtime": 7.78796296296296,
         "newestCompletion": "2025-12-03T19:38:51.000Z"
@@ -551,7 +551,7 @@ var masoData =
     "578930": {
         "description": "My favorite word",
         "tier": "1",
-        "owners": 89,
+        "owners": 90,
         "completions": 43,
         "playtime": 11.910465116279063,
         "newestCompletion": "2025-01-16T21:54:31.000Z",
@@ -761,7 +761,7 @@ var masoData =
         "tier": "2",
         "owners": 270,
         "completions": 199,
-        "playtime": 250.87512562814072,
+        "playtime": 250.87721943048578,
         "newestCompletion": "2026-07-07T18:46:27.000Z",
         "badges": {
             "count": 2,
@@ -1173,7 +1173,7 @@ var masoData =
         "tier": "2",
         "owners": 91,
         "completions": 31,
-        "playtime": 14.924731182795698,
+        "playtime": 14.94838709677419,
         "newestCompletion": "2025-11-09T23:16:00.000Z"
     },
     "285820": {
@@ -1389,7 +1389,7 @@ var masoData =
         "tier": "5",
         "owners": 268,
         "completions": 86,
-        "playtime": 124.59651162790695,
+        "playtime": 124.5976744186046,
         "newestCompletion": "2026-08-05T06:31:14.000Z"
     },
     "557340": {
@@ -2139,7 +2139,7 @@ var masoData =
     "775580": {
         "description": "I Think That\"s Alright",
         "tier": "1",
-        "owners": 35,
+        "owners": 36,
         "completions": 12,
         "playtime": 5.405555555555555,
         "newestCompletion": "2024-08-26T03:20:53.000Z"
@@ -2264,9 +2264,9 @@ var masoData =
         "description": "\u2733 Absolutely Discusting",
         "tier": "2",
         "owners": 133,
-        "completions": 91,
-        "playtime": 19.999633699633705,
-        "newestCompletion": "2026-07-04T22:03:31.000Z",
+        "completions": 92,
+        "playtime": 19.915398550724642,
+        "newestCompletion": "2026-08-07T15:06:50.000Z",
         "badges": {
             "count": 1,
             "points": 6
@@ -2315,10 +2315,10 @@ var masoData =
     "1285670": {
         "description": "PTSV",
         "tier": "1",
-        "owners": 101,
-        "completions": 68,
-        "playtime": 2.041911764705882,
-        "newestCompletion": "2026-07-14T01:15:31.000Z"
+        "owners": 102,
+        "completions": 69,
+        "playtime": 2.1074879227053134,
+        "newestCompletion": "2026-07-23T15:54:45.000Z"
     },
     "384690": {
         "description": "\u2733 really fishing for children",
@@ -2815,7 +2815,7 @@ var masoData =
     "1689190": {
         "description": "\u2606 Now this is podRAYZEing",
         "tier": "3",
-        "owners": 60,
+        "owners": 61,
         "completions": 22,
         "playtime": 26.16515151515151,
         "newestCompletion": "2026-01-21T21:39:10.000Z"
@@ -4043,7 +4043,7 @@ var masoData =
     "1337520": {
         "description": "\u2733 Rorrhundisto",
         "tier": "2",
-        "owners": 61,
+        "owners": 62,
         "completions": 9,
         "playtime": 95.30740740740741,
         "newestCompletion": "2026-02-06T13:58:42.000Z",
@@ -4307,7 +4307,7 @@ var masoData =
     "1548940": {
         "description": "\ud83c\udf1f DASH: The gap in between these f***ing spikes",
         "tier": "5",
-        "owners": 57,
+        "owners": 58,
         "completions": 3,
         "playtime": 107.83333333333333,
         "newestCompletion": "2025-04-15T21:46:21.000Z",
@@ -4519,7 +4519,7 @@ var masoData =
     "312520": {
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
-        "owners": 101,
+        "owners": 102,
         "completions": 2,
         "playtime": 222.01666666666665,
         "newestCompletion": "2025-12-27T16:33:09.000Z"
@@ -4695,15 +4695,15 @@ var masoData =
     "2944340": {
         "description": "Tastes like berries",
         "tier": "1",
-        "owners": 6,
-        "completions": 5,
-        "playtime": 9.246666666666666,
-        "newestCompletion": "2026-07-05T04:03:15.000Z"
+        "owners": 7,
+        "completions": 6,
+        "playtime": 9.519444444444444,
+        "newestCompletion": "2026-08-09T15:40:54.000Z"
     },
     "4450800": {
         "description": "You'll fall for it hook, line and sinker!",
         "tier": "1",
-        "owners": 6,
+        "owners": 7,
         "completions": 3,
         "playtime": 6.672222222222222,
         "newestCompletion": "2026-07-18T23:16:03.000Z"
@@ -4719,7 +4719,7 @@ var masoData =
     "1144200": {
         "description": "\u2606 I AM THE LAW",
         "tier": "3",
-        "owners": 2,
+        "owners": 3,
         "completions": 0,
         "playtime": 0,
         "newestCompletion": null
@@ -4735,7 +4735,7 @@ var masoData =
     "2230650": {
         "description": "\u2733 Infernal Bunny BBQ",
         "tier": "2",
-        "owners": 3,
+        "owners": 4,
         "completions": 2,
         "playtime": 226.375,
         "newestCompletion": "2026-08-02T12:21:24.000Z"
