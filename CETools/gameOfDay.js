@@ -2,84 +2,101 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 468310,
-        "CEId": "c5077033-dce5-40cf-87a8-419952b744d4",
-        "name": "She Wants Me Dead",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/468310/header.jpg?t=1670597930",
+        "platformId": 598550,
+        "CEId": "450cd83d-5f5e-42b7-b5d7-4c31c681e574",
+        "name": "HUNTDOWN",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/598550/header.jpg?t=1621502400",
         "genre": [
-            "Platformer"
+            "Action"
         ],
-        "tier": 1,
-        "points": 10,
+        "tier": 3,
+        "points": 50,
         "secondaryPoints": 0,
-        "medianPlaytime": 280,
-        "createdAt": "2024-08-09T19:43:53.000Z",
+        "medianPlaytime": 1670,
+        "createdAt": "2021-08-10T22:20:51.000Z",
         "updatedAt": "2026-07-27T15:20:57.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 1,
+        "playersCompleted": 11,
         "playersStarted": 0,
-        "playersTotal": 22,
+        "playersTotal": 128,
         "priceData": {
             "USD": {
-                "initial": 799,
-                "final": 799,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 779,
-                "final": 779,
+                "initial": 1999,
+                "final": 1999,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 669,
-                "final": 669,
+                "initial": 1699,
+                "final": 1699,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 92000,
-                "final": 92000,
+                "initial": 259000,
+                "final": 259000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 1179,
-                "final": 1179,
+                "initial": 3040,
+                "final": 3040,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1049,
-                "final": 1049,
+                "initial": 2699,
+                "final": 2699,
                 "discountPercent": 0
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "She Can't Always Have Her Way [10\u2605]\nSeparately; complete the \"One Life Run\" challenge, and complete the \"Time Attack\" challenge in less than 9 minutes.",
+            "primaryText": "Badass Assassin [50\u2605]\nGet 100% completion in Badass Mode.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 10
+            "achievements": 19
         },
         "CETags": {
             "genre": [
-                "2D Platformer"
+                "Run & Gun"
             ],
             "info": []
         },
         "gameTags": [
+            "Pixel Graphics",
+            "Side Scroller",
+            "Shooter",
             "Action",
-            "Gore",
-            "Violent",
-            "Platformer",
+            "Local Co-Op",
+            "Shoot 'Em Up",
             "2D",
-            "Indie",
-            "Great Soundtrack",
-            "Difficult",
-            "Cats"
+            "Cyberpunk",
+            "Retro",
+            "Arcade",
+            "Platformer",
+            "Precision Platformer",
+            "Violent",
+            "Co-op",
+            "1980s",
+            "Sci-fi",
+            "2D Platformer",
+            "Dystopian ",
+            "Futuristic",
+            "Online Co-Op"
         ],
         "languages": {
-            "english": "IAS"
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "italian": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "schinese": "IS"
         }
     }
 }
-var gameOfDayDate = '2026-08-09'
+var gameOfDayDate = '2026-08-10'
