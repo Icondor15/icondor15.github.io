@@ -230787,8 +230787,8 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/c2a0973b75a63b03a5fc38c4d35db1930a1bb30a_full.jpg",
         "points": 370,
         "skill": {
-            "rank": 931,
-            "rating": 291.179
+            "rank": 932,
+            "rating": 290.443
         },
         "completions": {
             "rank": 553,
@@ -239163,7 +239163,7 @@ var userData =
         "avatar": "https://avatars.steamstatic.com/8015411fab26f6d71974b1b942b9f39b262bc3d2_full.jpg",
         "points": 340,
         "skill": {
-            "rank": 932,
+            "rank": 931,
             "rating": 290.607
         },
         "completions": {
@@ -485261,8 +485261,8 @@ var userDate =
     "day": 10,
     "month": 8,
     "year": 2026,
-    "hour": 10,
-    "minute": 10,
-    "second": 55,
-    "searchTime": 622.7875349521637
+    "hour": 11,
+    "minute": 21,
+    "second": 54,
+    "searchTime": 617.0684669017792
 }
