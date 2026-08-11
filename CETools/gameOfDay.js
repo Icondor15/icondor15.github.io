@@ -2,101 +2,105 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 598550,
-        "CEId": "450cd83d-5f5e-42b7-b5d7-4c31c681e574",
-        "name": "HUNTDOWN",
-        "header": "https://cdn.akamai.steamstatic.com/steam/apps/598550/header.jpg?t=1621502400",
+        "platformId": 1480560,
+        "CEId": "b834061d-34b8-4c73-8017-d65780e2ead3",
+        "name": "Lawn Mowing Simulator",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1480560/header.jpg?t=1683890027",
         "genre": [
-            "Action"
+            "Arcade"
         ],
-        "tier": 3,
-        "points": 50,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 1670,
-        "createdAt": "2021-08-10T22:20:51.000Z",
+        "medianPlaytime": 7437,
+        "createdAt": "2023-08-11T00:12:25.000Z",
         "updatedAt": "2026-07-27T15:20:57.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 11,
+        "playersCompleted": 5,
         "playersStarted": 0,
-        "playersTotal": 128,
+        "playersTotal": 216,
         "priceData": {
             "USD": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 75
             },
             "EUR": {
                 "initial": 1999,
-                "final": 1999,
-                "discountPercent": 0
+                "final": 499,
+                "discountPercent": 75
             },
             "GBP": {
-                "initial": 1699,
-                "final": 1699,
-                "discountPercent": 0
+                "initial": 1599,
+                "final": 399,
+                "discountPercent": 75
             },
             "JPY": {
-                "initial": 259000,
-                "final": 259000,
-                "discountPercent": 0
+                "initial": 255000,
+                "final": 63700,
+                "discountPercent": 75
             },
             "AUD": {
-                "initial": 3040,
-                "final": 3040,
-                "discountPercent": 0
+                "initial": 2899,
+                "final": 724,
+                "discountPercent": 75
             },
             "CAD": {
-                "initial": 2699,
-                "final": 2699,
-                "discountPercent": 0
+                "initial": 2599,
+                "final": 649,
+                "discountPercent": 75
             }
         },
         "milestones": {
             "primary": 1,
-            "primaryText": "Badass Assassin [50\u2605]\nGet 100% completion in Badass Mode.",
+            "primaryText": "Touch Grass [10\u2605]\nComplete all challenges.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 19
+            "achievements": 54
         },
         "CETags": {
             "genre": [
-                "Run & Gun"
+                "Miscellaneous"
             ],
             "info": []
         },
         "gameTags": [
-            "Pixel Graphics",
-            "Side Scroller",
-            "Shooter",
-            "Action",
-            "Local Co-Op",
-            "Shoot 'Em Up",
-            "2D",
-            "Cyberpunk",
-            "Retro",
-            "Arcade",
-            "Platformer",
-            "Precision Platformer",
-            "Violent",
-            "Co-op",
-            "1980s",
-            "Sci-fi",
-            "2D Platformer",
-            "Dystopian ",
-            "Futuristic",
-            "Online Co-Op"
+            "Simulation",
+            "Relaxing",
+            "Realistic",
+            "Farming Sim",
+            "Immersive Sim",
+            "Management",
+            "Physics",
+            "Driving",
+            "Agriculture",
+            "Time Management",
+            "Automobile Sim",
+            "Economy",
+            "Nature",
+            "Character Customization",
+            "3D",
+            "First-Person",
+            "Third Person",
+            "Controller",
+            "Multiplayer",
+            "Family Friendly"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "italian": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "schinese": "IS"
+            "english": "I",
+            "french": "I",
+            "german": "I",
+            "japanese": "I",
+            "spanish": "I",
+            "brazilian": "I",
+            "koreana": "I",
+            "polish": "I",
+            "russian": "I",
+            "schinese": "I",
+            "tchinese": "I"
         }
     }
 }
-var gameOfDayDate = '2026-08-10'
+var gameOfDayDate = '2026-08-11'
