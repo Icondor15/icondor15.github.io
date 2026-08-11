@@ -255,7 +255,7 @@ var masoData =
     "588650": {
         "description": "\u272a I hope you like content updates",
         "tier": "4",
-        "owners": 158,
+        "owners": 159,
         "completions": 20,
         "playtime": 199.6925,
         "newestCompletion": "2025-10-09T13:53:53.000Z"
@@ -1335,7 +1335,7 @@ var masoData =
     "200900": {
         "description": "\u272a A hardcore classic.",
         "tier": "4",
-        "owners": 129,
+        "owners": 130,
         "completions": 23,
         "playtime": 68.036231884058,
         "newestCompletion": "2025-04-28T15:10:06.000Z"
@@ -2107,7 +2107,7 @@ var masoData =
     "960690": {
         "description": "\u2606 One Spam From Eden",
         "tier": "3",
-        "owners": 98,
+        "owners": 99,
         "completions": 15,
         "playtime": 46.62,
         "newestCompletion": "2025-08-21T02:09:30.000Z"
@@ -2155,7 +2155,7 @@ var masoData =
     "940710": {
         "description": "\u272a Yippee-ki-yay, Motherf****",
         "tier": "4",
-        "owners": 56,
+        "owners": 57,
         "completions": 7,
         "playtime": 46.147619047619045,
         "newestCompletion": "2026-03-01T17:04:20.000Z"
@@ -2317,7 +2317,7 @@ var masoData =
         "tier": "1",
         "owners": 102,
         "completions": 69,
-        "playtime": 2.1074879227053134,
+        "playtime": 2.109661835748792,
         "newestCompletion": "2026-07-23T15:54:45.000Z"
     },
     "384690": {
@@ -2707,7 +2707,7 @@ var masoData =
     "1375400": {
         "description": "Get the knife!!",
         "tier": "1",
-        "owners": 25,
+        "owners": 26,
         "completions": 4,
         "playtime": 31.337500000000002,
         "newestCompletion": "2026-06-13T21:20:49.000Z"
@@ -2764,9 +2764,9 @@ var masoData =
         "description": "Tetris Attack Lite",
         "tier": "1",
         "owners": 38,
-        "completions": 28,
-        "playtime": 5.95,
-        "newestCompletion": "2025-06-30T08:28:11.000Z"
+        "completions": 29,
+        "playtime": 6.520689655172413,
+        "newestCompletion": "2026-07-29T02:54:45.000Z"
     },
     "1062110": {
         "description": "\u2733 Intro to Sequence Breaking",
@@ -2817,7 +2817,7 @@ var masoData =
         "tier": "3",
         "owners": 61,
         "completions": 22,
-        "playtime": 26.16515151515151,
+        "playtime": 26.546212121212115,
         "newestCompletion": "2026-01-21T21:39:10.000Z"
     },
     "1663410": {
@@ -4443,7 +4443,7 @@ var masoData =
     "1388770": {
         "description": "Finland Pain Simulator",
         "tier": "1",
-        "owners": 54,
+        "owners": 55,
         "completions": 12,
         "playtime": 25.241666666666664,
         "newestCompletion": "2026-03-03T18:25:03.000Z",
@@ -4607,7 +4607,7 @@ var masoData =
     "238460": {
         "description": "\ud83c\udf96\ufe0f \u2733 society if cats ruled the world (Co-op)",
         "tier": "0",
-        "owners": 75,
+        "owners": 76,
         "completions": 24,
         "playtime": 81.5798611111111,
         "newestCompletion": "2026-03-15T17:22:26.000Z",
@@ -4627,7 +4627,7 @@ var masoData =
     "692890": {
         "description": "\u2733 Aimbotting",
         "tier": "2",
-        "owners": 26,
+        "owners": 27,
         "completions": 7,
         "playtime": 39.607142857142854,
         "newestCompletion": "2026-06-09T02:54:38.000Z"
