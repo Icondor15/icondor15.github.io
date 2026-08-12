@@ -273,7 +273,7 @@ var masoData =
         "tier": "1",
         "owners": 67,
         "completions": 22,
-        "playtime": 33.127272727272725,
+        "playtime": 33.23863636363636,
         "newestCompletion": "2025-08-01T03:39:47.000Z",
         "badges": {
             "count": 1,
@@ -429,7 +429,7 @@ var masoData =
         "tier": "2",
         "owners": 260,
         "completions": 143,
-        "playtime": 203.89020979020972,
+        "playtime": 203.96305361305355,
         "newestCompletion": "2026-04-06T20:31:43.000Z",
         "badges": {
             "count": 2,
@@ -821,7 +821,7 @@ var masoData =
         "tier": "5",
         "owners": 158,
         "completions": 43,
-        "playtime": 42.15620155038759,
+        "playtime": 42.17015503875968,
         "newestCompletion": "2026-07-18T16:27:23.000Z"
     },
     "489140": {
@@ -1293,7 +1293,7 @@ var masoData =
         "tier": "5",
         "owners": 239,
         "completions": 65,
-        "playtime": 61.527692307692305,
+        "playtime": 61.56384615384615,
         "newestCompletion": "2026-01-27T06:57:53.000Z"
     },
     "317710": {
@@ -1337,7 +1337,7 @@ var masoData =
         "tier": "4",
         "owners": 130,
         "completions": 23,
-        "playtime": 68.036231884058,
+        "playtime": 68.06521739130437,
         "newestCompletion": "2025-04-28T15:10:06.000Z"
     },
     "318530": {
@@ -1476,9 +1476,9 @@ var masoData =
         "description": "\ud83c\udf1f The Virgin Shovel knight VS the Chad Jump King",
         "tier": "5",
         "owners": 150,
-        "completions": 40,
-        "playtime": 270.7433333333333,
-        "newestCompletion": "2026-04-17T18:21:52.000Z",
+        "completions": 41,
+        "playtime": 266.95528455284546,
+        "newestCompletion": "2026-08-12T04:19:17.000Z",
         "badges": {
             "count": 1,
             "points": 5
@@ -1735,7 +1735,7 @@ var masoData =
     "774361": {
         "description": "God will punish you if you don\"t play it",
         "tier": "1",
-        "owners": 165,
+        "owners": 166,
         "completions": 54,
         "playtime": 38.566666666666656,
         "newestCompletion": "2026-07-31T05:21:33.000Z"
@@ -2347,7 +2347,7 @@ var masoData =
     "219150": {
         "description": "I will beat you to death",
         "tier": "1",
-        "owners": 198,
+        "owners": 199,
         "completions": 103,
         "playtime": 15.87750809061489,
         "newestCompletion": "2026-07-01T23:22:17.000Z"
@@ -2743,7 +2743,7 @@ var masoData =
     "437920": {
         "description": "\u2733 that's not how physics works",
         "tier": "2",
-        "owners": 65,
+        "owners": 66,
         "completions": 25,
         "playtime": 31.144000000000002,
         "newestCompletion": "2026-07-31T22:48:09.000Z"
@@ -3176,9 +3176,9 @@ var masoData =
         "description": "\u272a Chess 2",
         "tier": "4",
         "owners": 66,
-        "completions": 17,
-        "playtime": 44.11764705882352,
-        "newestCompletion": "2025-04-06T02:49:33.000Z"
+        "completions": 18,
+        "playtime": 44.18148148148148,
+        "newestCompletion": "2026-08-12T00:24:07.000Z"
     },
     "1550450": {
         "description": "Finally a game where the mouse catches the cat!",
@@ -3955,7 +3955,7 @@ var masoData =
     "2121980": {
         "description": "\ud83c\udf96\ufe0f \u2606 Don't ask me how I know...",
         "tier": "0",
-        "owners": 42,
+        "owners": 43,
         "completions": 26,
         "playtime": 22.455769230769235,
         "newestCompletion": "2026-04-06T17:10:54.000Z",
@@ -4351,7 +4351,7 @@ var masoData =
     "3044100": {
         "description": "\u272a Tier 4",
         "tier": "4",
-        "owners": 17,
+        "owners": 18,
         "completions": 2,
         "playtime": 76.15,
         "newestCompletion": "2026-01-01T05:17:47.000Z"
@@ -4427,7 +4427,7 @@ var masoData =
     "1809540": {
         "description": "Steel your reflexes and parry skills - you'll need it",
         "tier": "1",
-        "owners": 83,
+        "owners": 84,
         "completions": 24,
         "playtime": 48.97638888888889,
         "newestCompletion": "2026-07-21T04:31:50.000Z"
@@ -4443,7 +4443,7 @@ var masoData =
     "1388770": {
         "description": "Finland Pain Simulator",
         "tier": "1",
-        "owners": 55,
+        "owners": 56,
         "completions": 12,
         "playtime": 25.241666666666664,
         "newestCompletion": "2026-03-03T18:25:03.000Z",
@@ -4492,9 +4492,9 @@ var masoData =
         "description": "\uff35\u25cf`\u03c9\u00b4\u25cf\uff35",
         "tier": "1",
         "owners": 40,
-        "completions": 28,
-        "playtime": 8.56904761904762,
-        "newestCompletion": "2026-03-13T02:19:31.000Z"
+        "completions": 29,
+        "playtime": 8.521264367816093,
+        "newestCompletion": "2026-08-11T17:50:49.000Z"
     },
     "1030300": {
         "description": "\u2733 Silksong",
@@ -4520,9 +4520,9 @@ var masoData =
         "description": "\u2606 It's a rain-y rain world",
         "tier": "3",
         "owners": 102,
-        "completions": 2,
-        "playtime": 222.01666666666665,
-        "newestCompletion": "2025-12-27T16:33:09.000Z"
+        "completions": 3,
+        "playtime": 218.23333333333332,
+        "newestCompletion": "2026-08-05T23:09:22.000Z"
     },
     "1924180": {
         "description": "Featuring the world's most rude NPCs!",
@@ -4727,10 +4727,10 @@ var masoData =
     "3534850": {
         "description": "It's lonely at the top.",
         "tier": "1",
-        "owners": 0,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 1,
+        "completions": 1,
+        "playtime": 2.05,
+        "newestCompletion": "2025-10-03T21:47:09.000Z"
     },
     "2230650": {
         "description": "\u2733 Infernal Bunny BBQ",
@@ -4747,5 +4747,37 @@ var masoData =
         "completions": 2,
         "playtime": 9.575,
         "newestCompletion": "2024-11-10T07:11:27.000Z"
+    },
+    "3912370": {
+        "description": "I miss my wife",
+        "tier": "1",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
+    },
+    "1242980": {
+        "description": "Incoming Transmission... &quot;We need a tagline&quot; (Co-op)",
+        "tier": "1",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
+    },
+    "612880": {
+        "description": "\u272a \u2665\u2665\u2665\u2665 mein chungus leben",
+        "tier": "4",
+        "owners": 0,
+        "completions": 0,
+        "playtime": 0,
+        "newestCompletion": null
+    },
+    "782330": {
+        "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
+        "tier": "0",
+        "owners": 1,
+        "completions": 1,
+        "playtime": 80.18333333333334,
+        "newestCompletion": "2022-08-21T05:10:45.000Z"
     }
 }
