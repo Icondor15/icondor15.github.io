@@ -1,48 +1,107 @@
 var gameOfDay =
 {
     "game": {
-        "gameType": 3,
-        "platformId": 14853,
-        "CEId": "efc10f10-df8e-46b6-932a-d83d46019cfb",
-        "name": "Pokemon Mystery Dungeon: Explorers of Sky",
-        "header": "https://upload.cedb.me/efc10f10-df8e-46b6-932a-d83d46019cfb.png",
+        "gameType": 0,
+        "platformId": 3167280,
+        "CEId": "e6b1065c-8f0f-4bdc-828d-ac99651a8c53",
+        "name": "Ikarus Parkour",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167280/header.jpg?t=1754071202",
         "genre": [
-            "Strategy"
+            "First-Person"
         ],
         "tier": 2,
-        "points": 25,
+        "points": 20,
         "secondaryPoints": 0,
-        "medianPlaytime": 0,
-        "createdAt": "2024-08-12T16:29:35.000Z",
-        "updatedAt": "2026-07-27T15:20:57.000Z",
+        "medianPlaytime": 393,
+        "createdAt": "2025-09-03T14:06:34.000Z",
+        "updatedAt": "2026-08-12T01:31:49.000Z",
         "playersOvercompleted": 0,
-        "playersCompleted": 2,
+        "playersCompleted": 3,
         "playersStarted": 2,
-        "playersTotal": 21,
-        "gameTags": [
-            "Roguelike"
-        ],
-        "consoleData": {
-            "name": "Nintendo DS",
-            "family": "Nintendo",
-            "icon": "https://static.retroachievements.org/assets/images/system/ds.png"
+        "playersTotal": 9,
+        "priceData": {
+            "USD": {
+                "initial": 1299,
+                "final": 1299,
+                "discountPercent": 0
+            },
+            "EUR": {
+                "initial": 1279,
+                "final": 1279,
+                "discountPercent": 0
+            },
+            "GBP": {
+                "initial": 1099,
+                "final": 1099,
+                "discountPercent": 0
+            },
+            "JPY": {
+                "initial": 175000,
+                "final": 175000,
+                "discountPercent": 0
+            },
+            "AUD": {
+                "initial": 2099,
+                "final": 2099,
+                "discountPercent": 0
+            },
+            "CAD": {
+                "initial": 1879,
+                "final": 1879,
+                "discountPercent": 0
+            }
         },
         "milestones": {
-            "primary": 4,
-            "primaryText": "Destiny's Ascent [10\u2605]\nClear Destiny Tower.\n\nPerfect Purist [5\u2605]\nClear Zero Isle South.\n\nAdept Purist [5\u2605]\nClear Zero Isle East and Zero Isle West.\n\nCenter of the Earth [5\u2605]\nClear Zero Isle North and Zero Isle Center.",
+            "primary": 2,
+            "primaryText": "Faith on Steroids [15\u2605]\nBeat hard mode in under 15 minutes.\n\nEdge of Foddian [5\u2605]\nBeat the game on hard mode.",
             "secondary": 0,
             "secondaryText": "",
-            "community": 1,
-            "communityText": "No Stone Left Unturned\nReach Guildmaster Rank and recruit all Pokemon.",
-            "achievements": 130
+            "community": 0,
+            "communityText": "",
+            "achievements": 11
         },
         "CETags": {
             "genre": [
-                "Traditional Rogue-like"
+                "First Person Movement",
+                "Foddian"
             ],
             "info": []
         },
-        "information": "For those interested in RA mastery: there are 5 missable achievements."
+        "gameTags": [
+            "3D Platformer",
+            "Parkour",
+            "Difficult",
+            "Dystopian ",
+            "Precision Platformer",
+            "First-Person",
+            "Psychological Horror",
+            "Exploration",
+            "Realistic",
+            "Conspiracy",
+            "Runner",
+            "Platformer",
+            "Atmospheric",
+            "Colorful",
+            "3D",
+            "Action",
+            "Singleplayer",
+            "Immersive",
+            "Nonlinear",
+            "Underground"
+        ],
+        "languages": {
+            "english": "IAS",
+            "french": "IS",
+            "german": "IS",
+            "japanese": "IS",
+            "spanish": "IS",
+            "brazilian": "IS",
+            "koreana": "IS",
+            "russian": "IS",
+            "schinese": "IS",
+            "serbian": "IS",
+            "ukrainian": "IS"
+        }
     }
 }
-var gameOfDayDate = '2026-08-12'
+var gameOfDayDate = '2026-08-13'
