@@ -528,9 +528,9 @@ var masoData =
         "description": "\ud83c\udf1f Rekt",
         "tier": "5",
         "owners": 116,
-        "completions": 21,
-        "playtime": 36.99126984126984,
-        "newestCompletion": "2026-06-27T07:00:59.000Z"
+        "completions": 22,
+        "playtime": 35.97727272727273,
+        "newestCompletion": "2026-08-12T19:47:26.000Z"
     },
     "785880": {
         "description": "\u2733 New Camera+",
@@ -931,7 +931,7 @@ var masoData =
     "508530": {
         "description": "You need balls to beat this",
         "tier": "1",
-        "owners": 54,
+        "owners": 55,
         "completions": 20,
         "playtime": 9.949166666666667,
         "newestCompletion": "2025-12-30T03:23:10.000Z",
@@ -1189,7 +1189,7 @@ var masoData =
         "tier": "5",
         "owners": 184,
         "completions": 20,
-        "playtime": 1368.8291666666669,
+        "playtime": 1368.9425000000003,
         "newestCompletion": "2025-10-08T03:03:52.000Z",
         "badges": {
             "count": 3,
@@ -1428,9 +1428,9 @@ var masoData =
         "description": "Rocketo Jumpu",
         "tier": "1",
         "owners": 89,
-        "completions": 49,
-        "playtime": 4.874149659863948,
-        "newestCompletion": "2026-05-09T01:08:03.000Z"
+        "completions": 50,
+        "playtime": 4.825333333333336,
+        "newestCompletion": "2026-08-12T00:14:20.000Z"
     },
     "961660": {
         "description": "\u2733 Bosses Everywhere",
@@ -1595,7 +1595,7 @@ var masoData =
     "473530": {
         "description": "\u2733 Physics",
         "tier": "2",
-        "owners": 66,
+        "owners": 67,
         "completions": 7,
         "playtime": 58.666666666666664,
         "newestCompletion": "2025-10-13T18:30:38.000Z"
@@ -2816,9 +2816,9 @@ var masoData =
         "description": "\u2606 Now this is podRAYZEing",
         "tier": "3",
         "owners": 61,
-        "completions": 22,
-        "playtime": 26.546212121212115,
-        "newestCompletion": "2026-01-21T21:39:10.000Z"
+        "completions": 23,
+        "playtime": 26.00217391304347,
+        "newestCompletion": "2026-07-16T14:03:26.000Z"
     },
     "1663410": {
         "description": "\u2733 It's not Getting Over It with Bennett Foddy, but as far as Getting Over It with Bennett Foddy-likes go, your lance will go a \ud835\ude2d\ud835\ude30\ud835\ude2f\ud835\ude28 way in completing it.",
@@ -2888,9 +2888,9 @@ var masoData =
         "description": "Waifu Smash",
         "tier": "1",
         "owners": 136,
-        "completions": 40,
-        "playtime": 32.33333333333333,
-        "newestCompletion": "2026-07-13T06:49:27.000Z",
+        "completions": 41,
+        "playtime": 32.03048780487805,
+        "newestCompletion": "2026-08-13T06:36:52.000Z",
         "badges": {
             "count": 1,
             "points": 3
@@ -4368,9 +4368,9 @@ var masoData =
         "description": "Grapple Doggo",
         "tier": "1",
         "owners": 53,
-        "completions": 20,
-        "playtime": 18.1175,
-        "newestCompletion": "2026-05-10T13:20:52.000Z"
+        "completions": 21,
+        "playtime": 17.876984126984127,
+        "newestCompletion": "2026-08-11T18:41:53.000Z"
     },
     "2073250": {
         "description": "\ud83c\udf1f You better make this game your second Crypt and rift apart your soul; otherwise forget completing it.",
@@ -4400,9 +4400,9 @@ var masoData =
         "description": "Damn, you work there?!",
         "tier": "1",
         "owners": 18,
-        "completions": 8,
-        "playtime": 13.622916666666667,
-        "newestCompletion": "2025-06-21T11:32:42.000Z"
+        "completions": 9,
+        "playtime": 13.283333333333333,
+        "newestCompletion": "2026-08-08T23:52:51.000Z"
     },
     "2354000": {
         "description": "Never drink and drive",
@@ -4751,10 +4751,10 @@ var masoData =
     "3912370": {
         "description": "I miss my wife",
         "tier": "1",
-        "owners": 0,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 1,
+        "completions": 1,
+        "playtime": 6.383333333333334,
+        "newestCompletion": "2026-08-03T02:47:43.000Z"
     },
     "1242980": {
         "description": "Incoming Transmission... &quot;We need a tagline&quot; (Co-op)",
@@ -4765,19 +4765,19 @@ var masoData =
         "newestCompletion": null
     },
     "612880": {
-        "description": "\u272a \u2665\u2665\u2665\u2665 mein chungus leben",
+        "description": "\u272a schei\u00dfe auf mein chungus leben",
         "tier": "4",
-        "owners": 0,
-        "completions": 0,
-        "playtime": 0,
-        "newestCompletion": null
+        "owners": 2,
+        "completions": 2,
+        "playtime": 89.15833333333333,
+        "newestCompletion": "2025-10-31T20:53:52.000Z"
     },
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 1,
-        "completions": 1,
-        "playtime": 80.18333333333334,
-        "newestCompletion": "2022-08-21T05:10:45.000Z"
+        "owners": 4,
+        "completions": 3,
+        "playtime": 88.8888888888889,
+        "newestCompletion": "2024-08-26T14:11:25.000Z"
     }
 }
