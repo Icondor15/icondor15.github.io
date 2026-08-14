@@ -2,23 +2,23 @@ var gameOfDay =
 {
     "game": {
         "gameType": 0,
-        "platformId": 3167280,
-        "CEId": "e6b1065c-8f0f-4bdc-828d-ac99651a8c53",
-        "name": "Ikarus Parkour",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167280/header.jpg?t=1754071202",
+        "platformId": 1301230,
+        "CEId": "79d73929-1a91-4695-8626-e6503b384c2b",
+        "name": "Astrodogs",
+        "header": "https://cdn.akamai.steamstatic.com/steam/apps/1301230/header.jpg?t=1617894064",
         "genre": [
-            "First-Person"
+            "Arcade"
         ],
-        "tier": 2,
-        "points": 20,
+        "tier": 1,
+        "points": 10,
         "secondaryPoints": 0,
-        "medianPlaytime": 393,
-        "createdAt": "2025-09-03T14:06:34.000Z",
+        "medianPlaytime": 0,
+        "createdAt": "2022-08-14T02:49:48.000Z",
         "updatedAt": "2026-08-12T01:31:49.000Z",
         "playersOvercompleted": 0,
         "playersCompleted": 3,
-        "playersStarted": 2,
-        "playersTotal": 9,
+        "playersStarted": 0,
+        "playersTotal": 30,
         "priceData": {
             "USD": {
                 "initial": 1299,
@@ -26,82 +26,74 @@ var gameOfDay =
                 "discountPercent": 0
             },
             "EUR": {
-                "initial": 1279,
-                "final": 1279,
+                "initial": 1079,
+                "final": 1079,
                 "discountPercent": 0
             },
             "GBP": {
-                "initial": 1099,
-                "final": 1099,
+                "initial": 1029,
+                "final": 1029,
                 "discountPercent": 0
             },
             "JPY": {
-                "initial": 175000,
-                "final": 175000,
+                "initial": 132000,
+                "final": 132000,
                 "discountPercent": 0
             },
             "AUD": {
-                "initial": 2099,
-                "final": 2099,
+                "initial": 1850,
+                "final": 1850,
                 "discountPercent": 0
             },
             "CAD": {
-                "initial": 1879,
-                "final": 1879,
+                "initial": 1449,
+                "final": 1449,
                 "discountPercent": 0
             }
         },
         "milestones": {
-            "primary": 2,
-            "primaryText": "Faith on Steroids [15\u2605]\nBeat hard mode in under 15 minutes.\n\nEdge of Foddian [5\u2605]\nBeat the game on hard mode.",
+            "primary": 1,
+            "primaryText": "Star Doge [10\u2605]\nGet all S ranks.",
             "secondary": 0,
             "secondaryText": "",
             "community": 0,
             "communityText": "",
-            "achievements": 11
+            "achievements": 15
         },
         "CETags": {
             "genre": [
-                "First Person Movement",
-                "Foddian"
+                "Third Person Shooter",
+                "Horizontal Shoot'em'Up",
+                "Score Attack",
+                "Action-Adventure"
             ],
             "info": []
         },
         "gameTags": [
-            "3D Platformer",
-            "Parkour",
-            "Difficult",
-            "Dystopian ",
-            "Precision Platformer",
-            "First-Person",
-            "Psychological Horror",
-            "Exploration",
-            "Realistic",
-            "Conspiracy",
-            "Runner",
-            "Platformer",
-            "Atmospheric",
+            "Action",
             "Colorful",
             "3D",
-            "Action",
-            "Singleplayer",
-            "Immersive",
-            "Nonlinear",
-            "Underground"
+            "On-Rails Shooter",
+            "Shoot 'Em Up",
+            "Bullet Hell",
+            "Third-Person Shooter",
+            "Linear",
+            "Arcade",
+            "Shooter",
+            "Cute",
+            "Comic Book",
+            "Adventure",
+            "Funny",
+            "Bullet Time",
+            "Controller",
+            "Vehicular Combat",
+            "Tutorial",
+            "Psychedelic",
+            "Old School"
         ],
         "languages": {
-            "english": "IAS",
-            "french": "IS",
-            "german": "IS",
-            "japanese": "IS",
-            "spanish": "IS",
-            "brazilian": "IS",
-            "koreana": "IS",
-            "russian": "IS",
-            "schinese": "IS",
-            "serbian": "IS",
-            "ukrainian": "IS"
+            "english": "IAS"
         }
     }
 }
-var gameOfDayDate = '2026-08-13'
+var gameOfDayDate = '2026-08-14'
