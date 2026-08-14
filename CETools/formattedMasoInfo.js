@@ -3931,7 +3931,7 @@ var masoData =
     "1888160": {
         "description": "\u2733 t5 without tank wheels",
         "tier": "2",
-        "owners": 25,
+        "owners": 26,
         "completions": 11,
         "playtime": 49.309090909090905,
         "newestCompletion": "2025-03-15T23:40:19.000Z"
@@ -3948,9 +3948,9 @@ var masoData =
         "description": " \ud83d\ude2e",
         "tier": "1",
         "owners": 22,
-        "completions": 7,
-        "playtime": 11.854761904761904,
-        "newestCompletion": "2025-07-22T11:14:09.000Z"
+        "completions": 8,
+        "playtime": 11.383333333333333,
+        "newestCompletion": "2026-08-13T22:37:26.000Z"
     },
     "2121980": {
         "description": "\ud83c\udf96\ufe0f \u2606 Don't ask me how I know...",
@@ -4601,7 +4601,7 @@ var masoData =
         "tier": "5",
         "owners": 26,
         "completions": 3,
-        "playtime": 459.6944444444445,
+        "playtime": 462.2055555555556,
         "newestCompletion": "2026-01-26T20:53:39.000Z"
     },
     "238460": {
@@ -4775,9 +4775,13 @@ var masoData =
     "782330": {
         "description": "\ud83c\udf96\ufe0f \ud83c\udf1f The only thing they fear is you.",
         "tier": "0",
-        "owners": 4,
-        "completions": 3,
-        "playtime": 88.8888888888889,
-        "newestCompletion": "2024-08-26T14:11:25.000Z"
+        "owners": 5,
+        "completions": 4,
+        "playtime": 122.88333333333334,
+        "newestCompletion": "2024-08-26T14:11:25.000Z",
+        "badges": {
+            "count": 4,
+            "points": 15
+        }
     }
 }
